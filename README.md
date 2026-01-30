@@ -2,10 +2,13 @@
 
 AI-generated hourly cat images. A new cat every hour!
 
-## Usage
+Every hour, a GitHub Actions workflow generates a unique cat image using [nanobanana-py](https://pypi.org/project/nanobanana-py/) (Gemini API), uploads it as a GitHub Release asset, and posts it to a monthly issue.
+
+## Install & Usage
 
 ```bash
 uvx catime              # Show total cat count
+uvx catime latest       # View the latest cat
 uvx catime 42           # View cat #42
 uvx catime today        # List today's cats
 uvx catime yesterday    # List yesterday's cats
@@ -13,3 +16,17 @@ uvx catime 2026-01-30   # List all cats from a date
 uvx catime 2026-01-30T05  # View the cat from a specific hour
 uvx catime --list       # List all cats
 ```
+
+## How It Works
+
+- **Image generation:** [nanobanana-py](https://pypi.org/project/nanobanana-py/) with `gemini-3-pro-image-preview` (fallback: `gemini-2.5-flash-image`)
+- **Image hosting:** GitHub Release assets
+- **Cat gallery:** Monthly GitHub issues (auto-created)
+- **Metadata:** `catlist.json` in the repo (records timestamp, model used, success/failure)
+- **Schedule:** GitHub Actions cron, every hour at :00
+
+## Setup (for your own repo)
+
+1. Fork or clone this repo
+2. Add `GEMINI_API_KEY` to repo Settings → Secrets
+3. The workflow will auto-create monthly issues and a `cats` release
