@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ccat"
+name = "catcat"
 version = "0.1.0"
 description = "AI-generated hourly cat images - a new cat every hour!"
 readme = "README.md"
