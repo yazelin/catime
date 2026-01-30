@@ -103,7 +103,13 @@ def main():
         print("  catime yesterday       List yesterday's cats")
         print("  catime 2026-01-30      List all cats from a date")
         print("  catime 2026-01-30T05   View the cat from a specific hour")
+        print("  catime latest          View the latest cat")
         print("  catime --list          List all cats")
+        return
+
+    # latest
+    if args.query == "latest":
+        print_cat(cats[-1], len(cats))
         return
 
     # Try as number first
