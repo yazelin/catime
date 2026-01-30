@@ -8,7 +8,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/ccat")
+REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
 ISSUE_NUMBER = os.environ.get("CAT_ISSUE_NUMBER", "1")
 RELEASE_TAG = "cats"
 

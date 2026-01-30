@@ -1,4 +1,4 @@
-"""CLI entry point for ccat - view AI-generated hourly cats."""
+"""CLI entry point for catime - view AI-generated hourly cats."""
 
 import argparse
 import json
@@ -10,7 +10,7 @@ from pathlib import Path
 import httpx
 
 CATLIST_URL = "https://raw.githubusercontent.com/{repo}/main/catlist.json"
-DEFAULT_REPO = "yazelin/ccat"
+DEFAULT_REPO = "yazelin/catime"
 
 
 def fetch_catlist(repo: str) -> list[dict]:
@@ -66,7 +66,7 @@ def filter_by_query(cats: list[dict], query: str) -> list[dict]:
 
 def main():
     parser = argparse.ArgumentParser(
-        prog="ccat",
+        prog="catime",
         description="View AI-generated hourly cat images",
     )
     parser.add_argument(
@@ -98,12 +98,12 @@ def main():
         print(f"Latest: #{len(cats):04d}  {cats[-1]['timestamp']}")
         print()
         print("Usage:")
-        print("  ccat 42              View cat #42")
-        print("  ccat today           List today's cats")
-        print("  ccat yesterday       List yesterday's cats")
-        print("  ccat 2026-01-30      List all cats from a date")
-        print("  ccat 2026-01-30T05   View the cat from a specific hour")
-        print("  ccat --list          List all cats")
+        print("  catime 42              View cat #42")
+        print("  catime today           List today's cats")
+        print("  catime yesterday       List yesterday's cats")
+        print("  catime 2026-01-30      List all cats from a date")
+        print("  catime 2026-01-30T05   View the cat from a specific hour")
+        print("  catime --list          List all cats")
         return
 
     # Try as number first
