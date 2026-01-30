@@ -9,7 +9,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
-ISSUE_NUMBER = os.environ.get("CAT_ISSUE_NUMBER", "1")
 RELEASE_TAG = "cats"
 
 
@@ -87,8 +86,34 @@ def upload_image_as_release_asset(image_path: str) -> str:
     return f"https://github.com/{REPO}/releases/download/{RELEASE_TAG}/{filename}"
 
 
-def post_issue_comment(image_url: str, number: int, timestamp: str, model_used: str):
-    """Post a comment on the issue with the cat image."""
+def get_or_create_monthly_issue(now: datetime) -> str:
+    """Get or create a monthly issue for cat images. Returns issue number as string."""
+    month_label = now.strftime("%Y-%m")
+    title = f"Cat Gallery - {month_label}"
+
+    # Search for existing issue with this title
+    result = subprocess.run(
+        ["gh", "issue", "list", "--repo", REPO, "--search", f'"{title}" in:title', "--json", "number,title", "--limit", "10"],
+        capture_output=True, text=True,
+    )
+    if result.returncode == 0:
+        issues = json.loads(result.stdout)
+        for issue in issues:
+            if issue["title"] == title:
+                return str(issue["number"])
+
+    # Create new monthly issue
+    result = subprocess.run(
+        ["gh", "issue", "create", "--repo", REPO, "--title", title, "--body", f"Auto-generated cat images for {month_label}."],
+        capture_output=True, text=True, check=True,
+    )
+    # Extract issue number from URL output
+    url = result.stdout.strip()
+    return url.split("/")[-1]
+
+
+def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp: str, model_used: str):
+    """Post a comment on the monthly issue with the cat image."""
     body = (
         f"## Cat #{number}\n"
         f"**Time:** {timestamp}\n"
@@ -96,7 +121,7 @@ def post_issue_comment(image_url: str, number: int, timestamp: str, model_used: 
         f"![cat-{number}]({image_url})"
     )
     subprocess.run(
-        ["gh", "issue", "comment", ISSUE_NUMBER, "--repo", REPO, "--body", body],
+        ["gh", "issue", "comment", issue_number, "--repo", REPO, "--body", body],
         check=True,
     )
 
@@ -180,7 +205,9 @@ def main():
     update_catlist_and_push(entry)
 
     print("Posting issue comment...")
-    post_issue_comment(image_url, next_number, timestamp, model_used)
+    issue_number = get_or_create_monthly_issue(now)
+    print(f"Using monthly issue #{issue_number}")
+    post_issue_comment(issue_number, image_url, next_number, timestamp, model_used)
 
     print(f"Done! Cat #{next_number}")
 
