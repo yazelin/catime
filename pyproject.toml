@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ccat"
+version = "0.1.0"
+description = "AI-generated hourly cat images - a new cat every hour!"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = ["httpx"]
+
+[project.scripts]
+ccat = "ccat.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ccat"]
