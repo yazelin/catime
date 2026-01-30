@@ -2,7 +2,9 @@
 
 import argparse
 import json
+import re
 import sys
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import httpx
@@ -25,14 +27,51 @@ def load_local_catlist() -> list[dict]:
     return []
 
 
+def print_cat(cat: dict, index: int | None = None):
+    """Print a single cat entry."""
+    num = cat.get("number") or index
+    status = cat.get("status", "success")
+    if status == "failed":
+        print(f"Cat #{num or '?':>4}  [FAILED]  {cat['timestamp']}  error: {cat.get('error', '?')}")
+    else:
+        print(f"Cat #{num:>4}  {cat['timestamp']}  model: {cat.get('model', '?')}")
+        print(f"  URL: {cat['url']}")
+
+
+def filter_by_query(cats: list[dict], query: str) -> list[dict]:
+    """Filter cats by time query: date, date+hour, today, yesterday."""
+    now = datetime.now(timezone.utc)
+
+    if query == "today":
+        target_date = now.strftime("%Y-%m-%d")
+        return [c for c in cats if c["timestamp"].startswith(target_date)]
+
+    if query == "yesterday":
+        target_date = (now - timedelta(days=1)).strftime("%Y-%m-%d")
+        return [c for c in cats if c["timestamp"].startswith(target_date)]
+
+    # date+hour: 2026-01-30T05 or 2026-01-30 05
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})[T ](\d{1,2})$", query)
+    if m:
+        date_str, hour_str = m.group(1), m.group(2).zfill(2)
+        prefix = f"{date_str} {hour_str}:"
+        return [c for c in cats if c["timestamp"].startswith(prefix)]
+
+    # date only: 2026-01-30
+    if re.match(r"^\d{4}-\d{2}-\d{2}$", query):
+        return [c for c in cats if c["timestamp"].startswith(query)]
+
+    return []
+
+
 def main():
     parser = argparse.ArgumentParser(
         prog="ccat",
         description="View AI-generated hourly cat images",
     )
     parser.add_argument(
-        "number", nargs="?", type=int,
-        help="Cat number to view (1-based). Omit to see total count.",
+        "query", nargs="?",
+        help="Cat number (e.g. 42), date (2026-01-30), date+hour (2026-01-30T05), 'today', or 'yesterday'.",
     )
     parser.add_argument("--repo", default=DEFAULT_REPO, help="GitHub repo owner/name")
     parser.add_argument("--local", action="store_true", help="Use local catlist.json")
@@ -51,21 +90,38 @@ def main():
 
     if args.list:
         for i, cat in enumerate(cats, 1):
-            print(f"#{i:04d}  {cat['timestamp']}  {cat['url']}")
+            print_cat(cat, i)
         return
 
-    if args.number is None:
+    if args.query is None:
         print(f"Total cats: {len(cats)}")
         print(f"Latest: #{len(cats):04d}  {cats[-1]['timestamp']}")
-        print("Use 'ccat <number>' to view, or 'ccat --list' to list all.")
+        print()
+        print("Usage:")
+        print("  ccat 42              View cat #42")
+        print("  ccat today           List today's cats")
+        print("  ccat yesterday       List yesterday's cats")
+        print("  ccat 2026-01-30      List all cats from a date")
+        print("  ccat 2026-01-30T05   View the cat from a specific hour")
+        print("  ccat --list          List all cats")
         return
 
-    idx = args.number - 1
-    if idx < 0 or idx >= len(cats):
-        print(f"Cat #{args.number} not found. Available: 1-{len(cats)}", file=sys.stderr)
+    # Try as number first
+    if args.query.isdigit():
+        idx = int(args.query) - 1
+        if idx < 0 or idx >= len(cats):
+            print(f"Cat #{args.query} not found. Available: 1-{len(cats)}", file=sys.stderr)
+            sys.exit(1)
+        print_cat(cats[idx], int(args.query))
+        return
+
+    # Try as time query
+    matched = filter_by_query(cats, args.query)
+    if not matched:
+        print(f"No cats found for '{args.query}'.", file=sys.stderr)
         sys.exit(1)
 
-    cat = cats[idx]
-    print(f"Cat #{args.number:04d}")
-    print(f"Generated: {cat['timestamp']}")
-    print(f"URL: {cat['url']}")
+    print(f"Found {len(matched)} cat(s) for '{args.query}':\n")
+    for cat in matched:
+        print_cat(cat)
+        print()
