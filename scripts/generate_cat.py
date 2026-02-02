@@ -158,9 +158,27 @@ def update_catlist_and_push(entry: dict) -> int:
     return number or 0
 
 
+def already_has_cat_this_hour(now: datetime) -> bool:
+    """Check if a successful cat already exists for the current hour."""
+    catlist_path = Path("catlist.json")
+    if not catlist_path.exists():
+        return False
+    cats = json.loads(catlist_path.read_text())
+    hour_prefix = now.strftime("%Y-%m-%d %H:")
+    return any(
+        c.get("status", "success") == "success" and c["timestamp"].startswith(hour_prefix)
+        for c in cats
+    )
+
+
 def main():
     now = datetime.now(timezone.utc)
     timestamp = now.strftime("%Y-%m-%d %H:%M UTC")
+
+    # Skip if this hour already has a successful cat
+    if already_has_cat_this_hour(now):
+        print(f"Cat already exists for hour {now.strftime('%Y-%m-%d %H')} UTC, skipping.")
+        return
 
     print(f"Generating cat for {timestamp}...")
     result = asyncio.run(generate_cat_image("/tmp", timestamp))

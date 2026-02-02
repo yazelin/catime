@@ -2,7 +2,7 @@ name: Hourly Cat Generator
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour at :00
+    - cron: '0,30 * * * *'  # Every hour at :00 and :30 (retry)
   workflow_dispatch: # Allow manual trigger
 
 permissions:
