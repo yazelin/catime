@@ -1,4 +1,4 @@
-# catime
+# <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime
 
 AI-generated hourly cat images. A new cat every hour!
 

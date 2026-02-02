@@ -44,13 +44,16 @@ body {
   box-shadow: 0 2px 16px var(--shadow);
   flex-wrap: wrap;
 }
+.logo-icon {
+  width: 34px; height: 34px; border-radius: 50%;
+  flex-shrink: 0;
+}
 #topbar h1 {
   font-size: 1.3rem; font-weight: 800; white-space: nowrap;
-  background: linear-gradient(135deg, var(--pink), var(--orange), var(--purple));
+  background: linear-gradient(135deg, #9b7ec8, var(--pink), #ffb347);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   background-clip: text;
 }
-#topbar h1::before { content: "🐱 "; -webkit-text-fill-color: initial; }
 .filters {
   display: flex; gap: .5rem; flex: 1; justify-content: flex-end;
   align-items: center; flex-wrap: wrap; min-width: 0;
@@ -282,6 +285,7 @@ body {
   .masonry { column-count: 1; padding: .8rem; margin-top: 100px; }
   #topbar { gap: .4rem; padding: .5rem .6rem; }
   #topbar h1 { font-size: 1.1rem; }
+  .logo-icon { width: 28px; height: 28px; }
   .filters { flex: 1 1 100%; order: 1; justify-content: flex-start; gap: .4rem; }
   .filters select { font-size: .78rem; padding: .35rem .5rem; }
   .date-picker-btn { font-size: .78rem; padding: .35rem .5rem; }
