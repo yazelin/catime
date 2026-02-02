@@ -36,6 +36,8 @@ def print_cat(cat: dict, index: int | None = None):
     else:
         print(f"Cat #{num:>4}  {cat['timestamp']}  model: {cat.get('model', '?')}")
         print(f"  URL: {cat['url']}")
+        if cat.get("prompt"):
+            print(f"  Prompt: {cat['prompt']}")
 
 
 def filter_by_query(cats: list[dict], query: str) -> list[dict]:
