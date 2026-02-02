@@ -15,7 +15,8 @@ PROMPT_META = (
     "(2) The date and time '{timestamp}' must be visually displayed in the image. "
     "Beyond these two requirements, you have complete creative freedom — surprise me with "
     "varied styles (photography, painting, illustration, etc.), unique scenes, interesting "
-    "compositions, lighting, and moods. Output ONLY the prompt text, nothing else."
+    "compositions, lighting, and moods. Do NOT include any resolution keywords "
+    "(like 4K, 8K, 16K, etc.) in the prompt. Output ONLY the prompt text, nothing else."
 )
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
@@ -141,12 +142,14 @@ def get_or_create_monthly_issue(now: datetime) -> str:
     return url.split("/")[-1]
 
 
-def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp: str, model_used: str):
+def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp: str, model_used: str, prompt: str = ""):
     """Post a comment on the monthly issue with the cat image."""
+    prompt_line = f"**Prompt:** {prompt}\n" if prompt else ""
     body = (
         f"## Cat #{number}\n"
         f"**Time:** {timestamp}\n"
-        f"**Model:** `{model_used}`\n\n"
+        f"**Model:** `{model_used}`\n"
+        f"{prompt_line}\n"
         f"![cat-{number}]({image_url})"
     )
     subprocess.run(
@@ -256,7 +259,7 @@ def main():
     print("Posting issue comment...")
     issue_number = get_or_create_monthly_issue(now)
     print(f"Using monthly issue #{issue_number}")
-    post_issue_comment(issue_number, image_url, next_number, timestamp, model_used)
+    post_issue_comment(issue_number, image_url, next_number, timestamp, model_used, prompt)
 
     print(f"Done! Cat #{next_number}")
 
