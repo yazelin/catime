@@ -16,22 +16,44 @@ PROMPT_META = (
     "Beyond these two requirements, you have complete creative freedom — surprise me with "
     "varied styles (photography, painting, illustration, etc.), unique scenes, interesting "
     "compositions, lighting, and moods. Do NOT include any resolution keywords "
-    "(like 4K, 8K, 16K, etc.) in the prompt. Output ONLY the prompt text, nothing else."
+    "(like 4K, 8K, 16K, etc.) in the prompt.\n\n"
+    "{recent_section}"
+    "Output ONLY the prompt text, nothing else."
 )
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
 RELEASE_TAG = "cats"
 
 
+def get_recent_prompts(n: int = 5) -> list[str]:
+    """Return the last n prompts from catlist.json."""
+    catlist_path = Path("catlist.json")
+    if not catlist_path.exists():
+        return []
+    cats = json.loads(catlist_path.read_text())
+    return [c["prompt"] for c in cats if c.get("prompt")][-n:]
+
+
 def generate_prompt(timestamp: str) -> str:
     """Use Gemini text model to generate a creative image prompt."""
+    recent = get_recent_prompts(5)
+    if recent:
+        bullets = "\n".join(f"- {p}" for p in recent)
+        recent_section = (
+            "IMPORTANT: Here are the most recent prompts used. "
+            "Avoid similar themes, styles, settings, and compositions:\n"
+            f"{bullets}\n\n"
+        )
+    else:
+        recent_section = ""
+
     try:
         from google import genai
 
         client = genai.Client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
-            contents=PROMPT_META.format(timestamp=timestamp),
+            contents=PROMPT_META.format(timestamp=timestamp, recent_section=recent_section),
         )
         prompt = response.text.strip()
         if prompt:
