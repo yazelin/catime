@@ -18,7 +18,6 @@
   const lbImg = document.getElementById("lb-img");
   const lbInfo = document.getElementById("lb-info");
   const lbClose = document.getElementById("lb-close");
-  const lbPrompt = document.getElementById("lb-prompt");
   const lbPromptText = document.getElementById("lb-prompt-text");
   const lbCopyBtn = document.getElementById("lb-copy-btn");
   const lbDownloadBtn = document.getElementById("lb-download-btn");
@@ -236,14 +235,8 @@
     lbImg.src = cat.url;
     lbInfo.textContent = `#${cat.number} \u00b7 ${cat.timestamp} \u00b7 ${cat.model || ""}`;
     lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Download";
-    if (cat.prompt) {
-      lbPromptText.textContent = cat.prompt;
-      lbPrompt.classList.remove("hidden");
-      lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
-    } else {
-      lbPrompt.classList.add("hidden");
-      lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
-    }
+    lbPromptText.textContent = cat.prompt || "";
+    lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
     // Handle story (backwards compatible)
     if (cat.story) {
       lbStoryText.textContent = cat.story;

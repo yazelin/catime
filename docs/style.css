@@ -286,33 +286,11 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   display: block; max-width: 90vw; max-height: 75vh;
 }
 
-/* Story below image */
-#lb-story {
-  max-width: 600px; width: 90vw;
-  margin-top: .5rem;
-  background: linear-gradient(135deg, rgba(201, 177, 255, .4), rgba(255, 107, 157, .3));
-  border-radius: 12px;
-  padding: .5rem .8rem;
-  border: 1px solid rgba(255, 255, 255, .2);
-}
-#lb-story-text {
-  color: #fff; font-size: .85rem; line-height: 1.5;
-  text-align: center; margin: 0;
-}
-
 /* Action buttons on image bottom-right */
 #lb-img-actions {
   position: absolute;
   bottom: .5rem; right: .5rem;
   display: flex; gap: .35rem;
-}
-@media (max-width: 600px) {
-  #lb-img-actions {
-    position: static;
-    justify-content: center;
-    margin-top: .4rem;
-  }
-  #lb-img-wrap { overflow: visible; }
 }
 #lb-download-btn, #lb-copy-btn {
   background: rgba(0,0,0,.6);
@@ -334,15 +312,26 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   max-height: 20vh;
   overflow-y: auto;
   margin-top: .5rem;
-  padding: .2rem .4rem;
   scrollbar-width: thin;
   scrollbar-color: rgba(255,255,255,.3) transparent;
 }
 #lb-details::-webkit-scrollbar { width: 4px; }
 #lb-details::-webkit-scrollbar-thumb { background: rgba(255,255,255,.3); border-radius: 4px; }
 
-/* Prompt always hidden (copy button reads from it) */
-#lb-prompt { display: none !important; }
+/* Story */
+#lb-story {
+  background: linear-gradient(135deg, rgba(201, 177, 255, .4), rgba(255, 107, 157, .3));
+  border-radius: 12px;
+  padding: .5rem .8rem;
+  border: 1px solid rgba(255, 255, 255, .2);
+}
+#lb-story-text {
+  color: #fff; font-size: .85rem; line-height: 1.5;
+  text-align: center; margin: 0;
+}
+
+/* Prompt text always hidden (copy button reads from it) */
+#lb-prompt-text { display: none !important; }
 
 /* Idea */
 #lb-idea {
@@ -424,7 +413,9 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   .date-dropdown { width: calc(100vw - 1.2rem); max-width: 280px; right: auto; left: 0; }
   .github-link { margin-left: auto; }
   /* Lightbox mobile */
-  #lightbox { justify-content: flex-start; padding-top: 2.5rem; overflow-y: auto; }
-  #lb-img { max-height: 45vh; }
+  #lightbox { justify-content: safe center; padding: 2.5rem 0 1rem; overflow-y: auto; }
+  #lb-img-wrap { border-radius: 0; overflow: visible; box-shadow: none; }
+  #lb-img { max-height: 45vh; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,.3); }
+  #lb-img-actions { position: static; justify-content: center; margin-top: .5rem; }
   #lb-details { max-height: none; }
 }
