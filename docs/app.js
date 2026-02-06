@@ -1,5 +1,6 @@
 (function () {
   const CATLIST_URL = "https://raw.githubusercontent.com/yazelin/catime/main/catlist.json";
+  const CATS_BASE_URL = "https://raw.githubusercontent.com/yazelin/catime/main/cats/";
   const PAGE_SIZE = 20;
 
   let allCats = [];
@@ -7,6 +8,7 @@
   let loaded = 0;
   let loading = false;
   let selectedDate = ""; // "YYYY-MM-DD" or ""
+  const detailCache = {}; // month -> detail array
 
   const gallery = document.getElementById("gallery");
   const endMsg = document.getElementById("end-msg");
@@ -247,30 +249,44 @@
     if (def) def.panel.classList.remove("hidden");
   }
 
-  function openLightbox(cat) {
-    currentCatUrl = cat.url;
-    lbImg.src = cat.url;
-    lbInfo.textContent = `#${cat.number} \u00b7 ${cat.timestamp} \u00b7 ${cat.model || ""}`;
-    lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Download";
-    lbPromptText.textContent = cat.prompt || "";
+  async function fetchDetail(cat) {
+    const month = cat.timestamp.slice(0, 7); // "YYYY-MM"
+    if (!detailCache[month]) {
+      try {
+        const resp = await fetch(CATS_BASE_URL + month + ".json");
+        if (resp.ok) {
+          detailCache[month] = await resp.json();
+        } else {
+          detailCache[month] = [];
+        }
+      } catch {
+        detailCache[month] = [];
+      }
+    }
+    return detailCache[month].find(d => d.number === cat.number) || {};
+  }
+
+  function populateLightboxDetail(cat, detail) {
+    lbPromptText.textContent = detail.prompt || "";
     lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
 
-    // Populate panel content
-    if (cat.story) lbStoryText.textContent = cat.story;
-    if (cat.idea) lbIdeaText.textContent = cat.idea;
-    if (cat.news_inspiration && cat.news_inspiration.length) {
-      lbNewsList.innerHTML = cat.news_inspiration.map(t => `<span class="news-tag">${t}</span>`).join("");
+    lbStoryText.textContent = detail.story || "";
+    lbIdeaText.textContent = detail.idea || "";
+    lbNewsList.innerHTML = "";
+    lbAvoidList.innerHTML = "";
+    if (detail.news_inspiration && detail.news_inspiration.length) {
+      lbNewsList.innerHTML = detail.news_inspiration.map(t => `<span class="news-tag">${t}</span>`).join("");
     }
-    if (cat.avoid_list && cat.avoid_list.length) {
-      lbAvoidList.innerHTML = cat.avoid_list.map(t => `<span class="avoid-tag">${t}</span>`).join("");
+    if (detail.avoid_list && detail.avoid_list.length) {
+      lbAvoidList.innerHTML = detail.avoid_list.map(t => `<span class="avoid-tag">${t}</span>`).join("");
     }
 
     // Build tab bar (only tabs with data)
     const available = [];
-    if (cat.story) available.push("story");
-    if (cat.idea) available.push("idea");
-    if (cat.news_inspiration && cat.news_inspiration.length) available.push("news");
-    if (cat.avoid_list && cat.avoid_list.length) available.push("avoid");
+    if (detail.story) available.push("story");
+    if (detail.idea) available.push("idea");
+    if (detail.news_inspiration && detail.news_inspiration.length) available.push("news");
+    if (detail.avoid_list && detail.avoid_list.length) available.push("avoid");
 
     lbTabBar.innerHTML = "";
     TAB_DEFS.forEach(t => t.panel.classList.add("hidden"));
@@ -282,10 +298,25 @@
       lbTabBar.appendChild(btn);
     });
 
-    // Default to story, fallback to first available
     if (available.length) switchTab(available[0]);
+  }
+
+  function openLightbox(cat) {
+    currentCatUrl = cat.url;
+    lbImg.src = cat.url;
+    lbInfo.textContent = `#${cat.number} \u00b7 ${cat.timestamp} \u00b7 ${cat.model || ""}`;
+    lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Download";
+
+    // Show loading state for detail panels
+    lbPromptText.textContent = "Loading\u2026";
+    lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
+    lbTabBar.innerHTML = "";
+    TAB_DEFS.forEach(t => t.panel.classList.add("hidden"));
 
     lightbox.classList.remove("hidden");
+
+    // Fetch detail asynchronously
+    fetchDetail(cat).then(detail => populateLightboxDetail(cat, detail));
   }
 
   lbTabBar.addEventListener("click", e => {

@@ -155,6 +155,17 @@ def load_creative_notes() -> dict:
         return {"avoid_list": [], "updated_at": None}
 
 
+def load_monthly_detail(month: str) -> list:
+    """Load a monthly detail file (cats/YYYY-MM.json). Returns [] if not found."""
+    month_path = Path("cats") / f"{month}.json"
+    if not month_path.exists():
+        return []
+    try:
+        return json.loads(month_path.read_text())
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
 def maybe_update_creative_notes(cat_number: int) -> dict:
     """Update creative_notes.json every 5 cats. Returns current notes."""
     notes = load_creative_notes()
@@ -168,7 +179,15 @@ def maybe_update_creative_notes(cat_number: int) -> dict:
         return notes
 
     cats = json.loads(catlist_path.read_text())
-    recent = [c for c in cats if c.get("prompt")][-10:]
+    # Collect recent months from index timestamps (newest last)
+    months = sorted({c["timestamp"][:7] for c in cats if c.get("status", "success") == "success"})
+    # Load details from recent months until we have enough entries
+    all_details = []
+    for month in reversed(months):
+        all_details = load_monthly_detail(month) + all_details
+        if sum(1 for c in all_details if c.get("prompt")) >= 10:
+            break
+    recent = [c for c in all_details if c.get("prompt")][-10:]
     if not recent:
         return notes
 
@@ -470,11 +489,31 @@ def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp
 
 
 def update_catlist_and_push(entry: dict) -> int:
-    """Update catlist.json, commit and push (only JSON, no images)."""
+    """Update catlist.json and monthly detail file, commit and push."""
+    index_fields = {"number", "timestamp", "url", "model", "status", "error"}
+    detail_fields = {"number", "prompt", "story", "idea", "news_inspiration", "avoid_list"}
+
+    # Write lightweight index entry to catlist.json
     catlist_path = Path("catlist.json")
     cats = json.loads(catlist_path.read_text()) if catlist_path.exists() else []
-    cats.append(entry)
+    index_entry = {k: entry[k] for k in index_fields if k in entry}
+    cats.append(index_entry)
     catlist_path.write_text(json.dumps(cats, indent=2, ensure_ascii=False) + "\n")
+
+    git_add_files = ["catlist.json"]
+
+    # Write detail entry to monthly file (only for successful cats with detail data)
+    has_detail = any(entry.get(k) for k in detail_fields if k != "number")
+    if has_detail:
+        month = entry["timestamp"][:7]  # "YYYY-MM"
+        cats_dir = Path("cats")
+        cats_dir.mkdir(exist_ok=True)
+        month_path = cats_dir / f"{month}.json"
+        monthly = json.loads(month_path.read_text()) if month_path.exists() else []
+        detail_entry = {k: entry[k] for k in detail_fields if k in entry}
+        monthly.append(detail_entry)
+        month_path.write_text(json.dumps(monthly, indent=2, ensure_ascii=False) + "\n")
+        git_add_files.append(str(month_path))
 
     subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
     subprocess.run(
@@ -482,7 +521,6 @@ def update_catlist_and_push(entry: dict) -> int:
         check=True,
     )
 
-    git_add_files = ["catlist.json"]
     if Path("creative_notes.json").exists():
         git_add_files.append("creative_notes.json")
     subprocess.run(["git", "add"] + git_add_files, check=True)
