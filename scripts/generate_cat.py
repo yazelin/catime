@@ -22,14 +22,23 @@ SUMMARY_PROMPT = (
 )
 
 IDEA_PROMPT = (
-    "You are a wildly creative storyteller inventing a unique scene for an AI cat image.\n\n"
+    "You are a wildly creative storyteller and visual director inventing a unique scene for an AI cat image.\n\n"
     "{avoid_section}"
     "Requirements:\n"
     "(1) A cat must be the subject or prominently featured\n"
     "(2) The cat MUST be DOING something specific (cooking, skateboarding, repairing a clock, reading a map, etc.)\n"
     "(3) The scene MUST be set in a specific, concrete place (a 1950s diner, a Tokyo subway car, a greenhouse, a lighthouse, etc.)\n"
     "(4) Be wildly creative - surprise me with unexpected combinations\n"
-    "(5) Vary the art style (watercolor, pixel art, oil painting, film photography, vintage poster, manga, etc.)\n\n"
+    "(5) Pick ONE visual style. IMPORTANT: alternate EQUALLY between these two broad categories:\n"
+    "    - PHOTOGRAPHY (real photo look): street photography, macro photo, DSLR portrait with bokeh, "
+    "35mm film photography, Polaroid, drone aerial shot, studio portrait, documentary photo, "
+    "smartphone snapshot, infrared photography, wet plate collodion, fashion editorial\n"
+    "    - ILLUSTRATION/ART (artistic look): watercolor, pixel art, oil painting, vintage poster, "
+    "manga, ukiyo-e, Art Deco, pencil sketch, gouache, stained glass, mosaic, claymation, papercut art\n"
+    "(6) For photography styles: describe the scene realistically - real cats in real places. "
+    "Do NOT add fantasy or magical elements. Think like a photographer, not a painter.\n"
+    "(7) Vary the scene composition - sometimes include other characters (people, other animals, crowds) "
+    "or objects the cat interacts with. A lone cat is fine occasionally, but don't default to it every time.\n\n"
     "Output a JSON object with exactly this format:\n"
     '{{"idea": "1-2 sentence English scene description with art style", "story": "繁體中文短故事，2-3句"}}\n\n'
     "The story should be in Traditional Chinese, 2-3 sentences, matching the scene."
@@ -44,7 +53,12 @@ RENDER_PROMPT = (
     "(2) Keep the prompt under 200 words\n"
     "(3) Include specific art style, composition, lighting, and color details\n"
     "(4) Do NOT include any resolution keywords (like 4K, 8K, 16K, etc.)\n"
-    "(5) The image must clearly show a cat doing the described activity\n\n"
+    "(5) The image must clearly show a cat doing the described activity\n"
+    "(6) CRITICAL - match the prompt style to the medium:\n"
+    "    - If PHOTOGRAPHY: use camera terms (e.g. '35mm lens, f/1.8, natural light, shallow depth of field, "
+    "grain, candid shot'). The output MUST look like a real photograph, NOT a painting or digital art. "
+    "Do NOT use words like 'breathtaking', 'intricate', 'ethereal', 'brushstrokes', or 'palette'.\n"
+    "    - If ILLUSTRATION/ART: describe artistic medium, technique, and visual style.\n\n"
     "Output a JSON object with exactly this format:\n"
     '{{"prompt": "English image prompt here"}}'
 )
