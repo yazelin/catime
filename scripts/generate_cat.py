@@ -365,8 +365,23 @@ async def generate_cat_image(output_dir: str, timestamp: str, prompt: str) -> di
     if response.used_fallback:
         model_info += f" (fallback from {response.primary_model}, reason: {response.fallback_reason})"
 
+    # Convert PNG to WebP for smaller file size
+    png_path = response.generated_files[0]
+    webp_path = png_path.rsplit(".", 1)[0] + ".webp"
+    try:
+        from PIL import Image
+
+        img = Image.open(png_path)
+        img.save(webp_path, "WEBP", quality=90)
+        os.remove(png_path)
+        print(f"Converted to WebP: {os.path.getsize(webp_path) / 1024:.0f}KB")
+        final_path = webp_path
+    except Exception as e:
+        print(f"WebP conversion failed ({e}), using PNG")
+        final_path = png_path
+
     return {
-        "file_path": response.generated_files[0],
+        "file_path": final_path,
         "model_used": model_info,
         "status": "success",
     }

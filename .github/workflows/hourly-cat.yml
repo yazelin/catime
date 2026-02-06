@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install nanobanana-py google-genai
+        run: pip install nanobanana-py google-genai Pillow
 
       - name: Generate cat and update repo
         env:
