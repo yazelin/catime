@@ -467,8 +467,8 @@ def get_or_create_monthly_issue(now: datetime) -> str:
     return url.split("/")[-1]
 
 
-def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp: str, model_used: str, prompt: str = "", story: str = "", idea: str = ""):
-    """Post a comment on the monthly issue with the cat image."""
+def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp: str, model_used: str, prompt: str = "", story: str = "", idea: str = "") -> int | None:
+    """Post a comment on the monthly issue with the cat image. Returns comment_id or None."""
     prompt_line = f"**Prompt:** {prompt}\n" if prompt else ""
     story_line = f"**Story:** {story}\n" if story else ""
     idea_line = f"**Idea:** {idea}\n" if idea else ""
@@ -481,16 +481,22 @@ def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp
         f"{story_line}\n"
         f"![cat-{number}]({image_url})"
     )
-    subprocess.run(
+    result = subprocess.run(
         ["gh", "issue", "comment", issue_number, "--repo", REPO, "--body", body],
-        check=True,
+        capture_output=True, text=True, check=True,
     )
+    # gh issue comment prints the comment URL, e.g. https://github.com/.../issues/3#issuecomment-123456
+    comment_url = result.stdout.strip()
+    match = re.search(r"issuecomment-(\d+)", comment_url)
+    if match:
+        return int(match.group(1))
+    return None
 
 
 def update_catlist_and_push(entry: dict) -> int:
     """Update catlist.json and monthly detail file, commit and push."""
     index_fields = {"number", "timestamp", "url", "model", "status", "error"}
-    detail_fields = {"number", "prompt", "story", "idea", "news_inspiration", "avoid_list"}
+    detail_fields = {"number", "prompt", "story", "idea", "news_inspiration", "avoid_list", "comment_id"}
 
     # Write lightweight index entry to catlist.json
     catlist_path = Path("catlist.json")
@@ -605,6 +611,17 @@ def main():
     image_url = upload_image_as_release_asset(image_path)
     print(f"Image URL: {image_url}")
 
+    print("Posting issue comment...")
+    comment_id = None
+    try:
+        issue_number = get_or_create_monthly_issue(now)
+        print(f"Using monthly issue #{issue_number}")
+        comment_id = post_issue_comment(issue_number, image_url, next_number, timestamp, model_used, prompt, story, idea)
+        if comment_id:
+            print(f"Comment ID: {comment_id}")
+    except Exception as e:
+        print(f"Issue comment failed ({e}), continuing without comment_id.")
+
     entry = {
         "number": next_number,
         "timestamp": timestamp,
@@ -617,13 +634,11 @@ def main():
         "model": model_used,
         "status": "success",
     }
+    if comment_id:
+        entry["comment_id"] = comment_id
+
     print("Updating catlist.json...")
     update_catlist_and_push(entry)
-
-    print("Posting issue comment...")
-    issue_number = get_or_create_monthly_issue(now)
-    print(f"Using monthly issue #{issue_number}")
-    post_issue_comment(issue_number, image_url, next_number, timestamp, model_used, prompt, story, idea)
 
     print(f"Done! Cat #{next_number}")
 

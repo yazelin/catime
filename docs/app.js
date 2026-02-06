@@ -1,6 +1,8 @@
 (function () {
   const CATLIST_URL = "https://raw.githubusercontent.com/yazelin/catime/main/catlist.json";
   const CATS_BASE_URL = "https://raw.githubusercontent.com/yazelin/catime/main/cats/";
+  const LIKES_URL = "likes.json";
+  const COMMENT_MAP_URL = "comment_map.json";
   const PAGE_SIZE = 20;
 
   let allCats = [];
@@ -9,6 +11,8 @@
   let loading = false;
   let selectedDate = ""; // "YYYY-MM-DD" or ""
   const detailCache = {}; // month -> detail array
+  let likesData = {};    // "catNumber" -> count
+  let commentMap = {};   // "catNumber" -> comment URL
 
   const gallery = document.getElementById("gallery");
   const endMsg = document.getElementById("end-msg");
@@ -22,6 +26,7 @@
   const lbClose = document.getElementById("lb-close");
   const lbPromptText = document.getElementById("lb-prompt-text");
   const lbCopyBtn = document.getElementById("lb-copy-btn");
+  const lbLikeBtn = document.getElementById("lb-like-btn");
   const lbDownloadBtn = document.getElementById("lb-download-btn");
   const lbStory = document.getElementById("lb-story");
   const lbStoryText = document.getElementById("lb-story-text");
@@ -46,6 +51,7 @@
   const SVG_CLIPBOARD = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
   const SVG_CHECK = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
   const SVG_DOWNLOAD = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>';
+  const SVG_HEART = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>';
   let currentCatUrl = "";
 
   let calYear = new Date().getFullYear();
@@ -53,9 +59,14 @@
   let catDates = new Set();
 
   // Fetch data
-  fetch(CATLIST_URL)
-    .then(r => r.json())
-    .then(data => {
+  Promise.all([
+    fetch(CATLIST_URL).then(r => r.json()),
+    fetch(LIKES_URL).then(r => r.ok ? r.json() : {}).catch(() => ({})),
+    fetch(COMMENT_MAP_URL).then(r => r.ok ? r.json() : {}).catch(() => ({})),
+  ])
+    .then(([data, likes, comments]) => {
+      likesData = likes;
+      commentMap = comments;
       allCats = data.filter(c => c.status !== "failed").reverse();
       allCats.forEach(c => catDates.add(c.timestamp.split(" ")[0]));
       populateModels();
@@ -192,8 +203,13 @@
       }
       const card = document.createElement("div");
       card.className = "card";
+      const likeCount = likesData[String(cat.number)] || 0;
+      const likeBadge = likeCount > 0 ? `<span class="like-badge">${SVG_HEART} ${likeCount}</span>` : "";
       card.innerHTML = `
-        <img src="${cat.url}" alt="Cat #${cat.number}" loading="lazy">
+        <div class="card-img-wrap">
+          <img src="${cat.url}" alt="Cat #${cat.number}" loading="lazy">
+          ${likeBadge}
+        </div>
         <div class="card-info">
           <div class="time">#${cat.number} &middot; ${cat.timestamp}</div>
           ${cat.model ? `<span class="model">${cat.model}</span>` : ""}
@@ -306,6 +322,14 @@
     lbImg.src = cat.url;
     lbInfo.textContent = `#${cat.number} \u00b7 ${cat.timestamp} \u00b7 ${cat.model || ""}`;
     lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Download";
+
+    // Like button
+    const catKey = String(cat.number);
+    const likeCount = likesData[catKey] || 0;
+    const commentUrl = commentMap[catKey];
+    lbLikeBtn.innerHTML = SVG_HEART + (likeCount > 0 ? " " + likeCount : "");
+    lbLikeBtn.style.display = commentUrl ? "" : "none";
+    lbLikeBtn.onclick = () => { if (commentUrl) window.open(commentUrl, "_blank"); };
 
     // Show loading state for detail panels
     lbPromptText.textContent = "Loading\u2026";

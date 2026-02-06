@@ -215,7 +215,18 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   transform: translateY(-4px) scale(1.01);
   box-shadow: 0 8px 25px var(--shadow);
 }
-.card img { width: 100%; display: block; border-radius: 14px 14px 0 0; }
+/* Card image wrapper for badge overlay */
+.card-img-wrap { position: relative; }
+.card-img-wrap img { width: 100%; display: block; border-radius: 14px 14px 0 0; }
+.like-badge {
+  position: absolute; top: .5rem; right: .5rem;
+  display: inline-flex; align-items: center; gap: .2rem;
+  background: rgba(0,0,0,.55); backdrop-filter: blur(4px);
+  color: var(--pink-light); padding: .2rem .55rem;
+  border-radius: 20px; font-size: .7rem; font-weight: 700;
+  pointer-events: none;
+}
+.like-badge svg { width: 12px; height: 12px; fill: var(--pink-light); stroke: var(--pink-light); }
 .card-info { padding: .6rem .8rem; font-size: .78rem; }
 .card-info .time { color: var(--text-muted); font-weight: 600; }
 .card-info .model {
@@ -292,19 +303,23 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   bottom: .5rem; right: .5rem;
   display: flex; gap: .35rem;
 }
-#lb-download-btn, #lb-copy-btn {
+#lb-like-btn, #lb-download-btn, #lb-copy-btn {
   background: rgba(0,0,0,.6);
   backdrop-filter: blur(4px);
   border: 1px solid rgba(255,255,255,.3);
   color: #fff; padding: .3rem .7rem;
   border-radius: 20px; font-family: inherit;
   font-size: .72rem; font-weight: 600;
-  cursor: pointer; transition: background .2s;
+  cursor: pointer; transition: background .2s, color .2s;
   white-space: nowrap;
 }
-#lb-download-btn:hover, #lb-copy-btn:hover {
+#lb-like-btn:hover, #lb-download-btn:hover, #lb-copy-btn:hover {
   background: rgba(0,0,0,.85);
 }
+#lb-like-btn { color: var(--pink-light); }
+#lb-like-btn svg { fill: var(--pink-light); stroke: var(--pink-light); }
+#lb-like-btn:hover { color: var(--pink); }
+#lb-like-btn:hover svg { fill: var(--pink); stroke: var(--pink); }
 
 /* Details area below image - scrollable */
 #lb-details {
