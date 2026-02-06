@@ -284,18 +284,10 @@
   });
   lbDownloadBtn.addEventListener("click", () => {
     if (!currentCatUrl) return;
-    fetch(currentCatUrl)
-      .then(r => r.blob())
-      .then(blob => {
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement("a");
-        a.href = url;
-        a.download = currentCatUrl.split("/").pop();
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-      });
+    const a = document.createElement("a");
+    a.href = currentCatUrl;
+    a.target = "_blank";
+    a.click();
   });
   lbNewsToggle.addEventListener("click", () => lbNewsList.classList.toggle("collapsed"));
   lbAvoidToggle.addEventListener("click", () => lbAvoidList.classList.toggle("collapsed"));
