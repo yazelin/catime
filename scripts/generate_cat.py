@@ -14,9 +14,9 @@ SUMMARY_PROMPT = (
     "Here are the most recent prompts and stories:\n{entries}\n\n"
     "Identify overused themes, settings, styles, poses, lighting, and vocabulary.\n"
     "Output a JSON object with exactly this format:\n"
-    '{{"avoid_list": ["short phrase 1", "short phrase 2", ...]}}\n\n'
+    '{{"avoid_list": ["繁體中文短語 1", "繁體中文短語 2", ...]}}\n\n'
     "Rules:\n"
-    "- Each item should be 2-5 words (e.g. 'bioluminescent forest', 'cat gazing at moon', 'cosmic ethereal glow')\n"
+    "- Each item should be a short phrase in 繁體中文 (e.g. '生物發光森林', '貓凝望月亮', '宇宙空靈光芒')\n"
     "- List 8-15 items that appear too frequently\n"
     "- Focus on specific repeated combos, not generic concepts"
 )
@@ -27,9 +27,9 @@ NEWS_PROMPT = (
     "- Fun, heartwarming, quirky, cultural, scientific, sports, weather, travel, tourism, or lifestyle related\n"
     "- From DIFFERENT regions of the world\n"
     "- AVOID: war, terrorism, political controversy, violent crime, natural disasters with casualties\n\n"
-    "For each item, write a 1-sentence summary in English. MUST include the city/country where it happened.\n\n"
+    "For each item, write a 1-sentence summary in 繁體中文. MUST include the city/country where it happened.\n\n"
     "Output a JSON object with exactly this format:\n"
-    '{{"news": ["summary 1", "summary 2", ...]}}'
+    '{{"news": ["繁體中文摘要 1", "繁體中文摘要 2", ...]}}'
 )
 
 IDEA_PROMPT = (
@@ -52,8 +52,8 @@ IDEA_PROMPT = (
     "(7) Vary the scene composition - sometimes include other characters (people, other animals, crowds) "
     "or objects the cat interacts with. A lone cat is fine occasionally, but don't default to it every time.\n\n"
     "Output a JSON object with exactly this format:\n"
-    '{{"idea": "1-2 sentence English scene description with art style", "story": "繁體中文短故事，2-3句"}}\n\n'
-    "The story should be in Traditional Chinese, 2-3 sentences, matching the scene."
+    '{{"idea": "繁體中文場景描述，1-2句，包含藝術風格", "story": "繁體中文短故事，2-3句"}}\n\n'
+    "Both idea and story should be in Traditional Chinese."
 )
 
 RENDER_PROMPT = (
