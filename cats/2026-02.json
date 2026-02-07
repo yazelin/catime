@@ -1181,5 +1181,34 @@
     "comment_id": 3865503305,
     "story": "在位於摩天大樓頂層的「巴圖工作室」中，首席設計師——一隻名叫巴圖的暹羅貓，正身穿一件繡有幾何圖案的絲綢圍巾，用筆輕巧地在設計稿上描繪。牠的周圍環繞著懸掛的奢華羊絨面料和高聳的製圖桌，靈感源自古代戰士的服裝輪廓，如今在牠筆下重新詮釋為前衛且實用的冬裝，準備在米蘭冬季時裝週上掀起一場革命性的時尚風暴。",
     "idea": "一隻優雅的暹羅貓在一間充滿幾何線條與鏡面光澤的裝飾藝術風格（Art Deco）時裝工作室裡，正專注地勾勒著融合古代騎兵元素與現代羊絨材質的服裝設計圖。畫面以鮮明的色彩對比與圖案呈現，營造出時尚且充滿活力的氛圍。"
+  },
+  {
+    "number": 180,
+    "idea": "一隻戴著微型礦工頭盔的黏土動畫貓咪，在中國內蒙古古老的新石器時代地下隧道深處，正專注地用小刷子細緻清潔著一件剛挖掘出來、散發著微光的神秘陶片。整體風格為生動立體的黏土動畫。",
+    "story": "在中國內蒙古那廣闊又幽暗的史前地下隧道中，考古隊伍未曾抵達的深處，有一位名叫「喵爾摩斯」的獨特探險家。牠憑藉著微弱頭燈的光芒，耐心地挖掘著，終於從泥土中小心翼翼地取出了一塊散發著奇異光芒的神秘陶片，試圖解開這古老文明的謎團。",
+    "prompt": "Vibrant claymation in a stop-motion animation style: A meticulously sculpted claymation cat, adorned with a tiny miner's helmet equipped with a working headlamp, is intently focused deep within a vast, ancient Neolithic underground tunnel in Inner Mongolia, China. With a delicate small brush, the cat meticulously cleans a newly excavated, mysterious pottery shard that emanates a faint, ethereal glow. The composition is a close-up, eye-level shot, emphasizing the handcrafted texture and intricate details of the sculpted clay figures and environment. Dramatic, low-key lighting from the headlamp creates sharp contrasts and long shadows, illuminating the cat's focused expression, the small brush, and the glowing artifact. The pottery shard itself is a secondary light source for its immediate surroundings, casting a soft, otherworldly hue. The color palette features rich, ancient earthen tones for the tunnel walls, complemented by the warm, focused beam of the headlamp and the mysterious luminescence of the shard. The image captures a moment of intense discovery and quiet wonder. Visually displayed prominently within the scene: 2026-02-07 22:18 UTC",
+    "avoid_list": [
+      "貓咪輕柔觸碰/操作物品",
+      "貓咪舉起前爪",
+      "貓咪棲息在高處",
+      "浮世繪木版畫風格",
+      "濕版火棉膠攝影",
+      "實驗室場景",
+      "節慶活動背景",
+      "太陽能裝置場景",
+      "溫室環境",
+      "淺景深攝影效果",
+      "柔和自然光線",
+      "懷舊復古氛圍",
+      "棕褐色調"
+    ],
+    "comment_id": 3865638391,
+    "news_inspiration": [
+      "德國在水上建造了世界上第一個垂直太陽能電廠，此創新裝置能節省空間並直接供電給所需的砂石廠。",
+      "日本科學家成功研發出一種新型塑料，能在海水中一小時內分解。",
+      "澳洲悉尼機場在2025年創下國際客運量新紀錄，並指定財團進行T2-T3航廈的再開發計畫。",
+      "考古學家在中國內蒙古發現了一座古老新石器時代城市下方的巨大地下隧道網絡。",
+      "美國阿什維爾的一位女士將在兩天內參加四場賽跑，為當地的動物收容所籌集資金。"
+    ]
   }
 ]
