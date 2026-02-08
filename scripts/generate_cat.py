@@ -3,6 +3,7 @@
 import asyncio
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -41,12 +42,8 @@ IDEA_PROMPT = (
     "(2) The cat MUST be DOING something specific (cooking, skateboarding, repairing a clock, reading a map, etc.)\n"
     "(3) The scene MUST be set in a specific, concrete place (a 1950s diner, a Tokyo subway car, a greenhouse, a lighthouse, etc.)\n"
     "(4) Be wildly creative - surprise me with unexpected combinations\n"
-    "(5) Pick ONE visual style. IMPORTANT: alternate EQUALLY between these two broad categories:\n"
-    "    - PHOTOGRAPHY (real photo look): street photography, macro photo, DSLR portrait with bokeh, "
-    "35mm film photography, Polaroid, drone aerial shot, studio portrait, documentary photo, "
-    "smartphone snapshot, infrared photography, wet plate collodion, fashion editorial\n"
-    "    - ILLUSTRATION/ART (artistic look): watercolor, pixel art, oil painting, vintage poster, "
-    "manga, ukiyo-e, Art Deco, pencil sketch, gouache, stained glass, mosaic, claymation, papercut art\n"
+    "{style_section}"
+    "(5) Use the visual style specified in TODAY'S STYLE PALETTE above. If none provided, pick any creative style.\n"
     "(6) For photography styles: describe the scene realistically - real cats in real places. "
     "Do NOT add fantasy or magical elements. Think like a photographer, not a painter.\n"
     "(7) Vary the scene composition - sometimes include other characters (people, other animals, crowds) "
@@ -59,7 +56,8 @@ IDEA_PROMPT = (
 RENDER_PROMPT = (
     "You are a prompt engineer converting a creative idea into a concise image generation prompt.\n\n"
     "Idea: {idea}\n"
-    "Story: {story}\n\n"
+    "Story: {story}\n"
+    "{style_snippets_section}\n"
     "Requirements:\n"
     "(1) The date and time '{timestamp}' MUST be visually displayed in the image\n"
     "(2) Include specific art style, composition, lighting, and color details\n"
@@ -69,10 +67,58 @@ RENDER_PROMPT = (
     "    - If PHOTOGRAPHY: use camera terms (e.g. '35mm lens, f/1.8, natural light, shallow depth of field, "
     "grain, candid shot'). The output MUST look like a real photograph, NOT a painting or digital art. "
     "Do NOT use words like 'breathtaking', 'intricate', 'ethereal', 'brushstrokes', or 'palette'.\n"
-    "    - If ILLUSTRATION/ART: describe artistic medium, technique, and visual style.\n\n"
+    "    - If ILLUSTRATION/ART: describe artistic medium, technique, and visual style.\n"
+    "(6) If style reference snippets are provided below, incorporate them into the prompt.\n\n"
     "Output a JSON object with exactly this format:\n"
     '{{"prompt": "English image prompt here"}}'
 )
+
+def load_style_reference() -> dict:
+    """Load style_reference.json, return empty dict if not found."""
+    style_path = Path(__file__).parent / "style_reference.json"
+    if not style_path.exists():
+        return {}
+    try:
+        return json.loads(style_path.read_text())
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def pick_random_styles() -> dict:
+    """Pick one random style from each category. Returns {category: {zh, en, prompt}}."""
+    styles = load_style_reference()
+    if not styles:
+        return {}
+    picks = {}
+    for category, entries in styles.items():
+        if entries:
+            picks[category] = random.choice(entries)
+    return picks
+
+
+def format_style_suggestion(picks: dict) -> str:
+    """Format picked styles into a prompt section for IDEA_PROMPT."""
+    if not picks:
+        return ""
+    lines = []
+    for category, style in picks.items():
+        lines.append(f"- {category}: {style['zh']} ({style['en']})")
+    style_list = "\n".join(lines)
+    return (
+        "TODAY'S STYLE PALETTE (use these as your visual direction):\n"
+        f"{style_list}\n"
+        "You MUST use the art_style pick as your visual style. "
+        "Incorporate the other picks (composition, lighting, texture, color_palette) naturally.\n\n"
+    )
+
+
+def format_style_prompt_snippet(picks: dict) -> str:
+    """Get the combined prompt snippets from picked styles for RENDER_PROMPT."""
+    if not picks:
+        return ""
+    snippets = [style["prompt"] for style in picks.values()]
+    return ", ".join(snippets)
+
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
 RELEASE_TAG = "cats"
@@ -281,12 +327,22 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict) -> dict:
             f"{bullets}\n\n"
         )
 
+    # Pick random styles from style_reference.json
+    style_picks = pick_random_styles()
+    style_section = format_style_suggestion(style_picks)
+    style_snippets = format_style_prompt_snippet(style_picks)
+    style_snippets_section = f"Style reference snippets: {style_snippets}\n" if style_snippets else ""
+
+    if style_picks:
+        print(f"Style picks: {', '.join(s['en'] for s in style_picks.values())}")
+
     fallback = {
         'prompt': f"A cute cat with the date and time '{timestamp}' displayed in the image, high quality, detailed",
         'story': "一隻可愛的貓咪正在享受美好的一天。",
         'idea': '',
         'avoid_list': avoid_list,
         'news_inspiration': news,
+        'style_picks': {k: v['en'] for k, v in style_picks.items()},
     }
 
     # Stage 1: Generate idea and story
@@ -299,7 +355,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict) -> dict:
         client = genai.Client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
-            contents=IDEA_PROMPT.format(news_section=news_section, avoid_section=avoid_section),
+            contents=IDEA_PROMPT.format(news_section=news_section, avoid_section=avoid_section, style_section=style_section),
         )
         result = parse_ai_response_generic(response.text, ["idea", "story"])
         if result:
@@ -319,7 +375,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict) -> dict:
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
-            contents=RENDER_PROMPT.format(idea=idea, story=story, timestamp=timestamp),
+            contents=RENDER_PROMPT.format(idea=idea, story=story, timestamp=timestamp, style_snippets_section=style_snippets_section),
         )
         result = parse_ai_response_generic(response.text, ["prompt"])
         if result:
@@ -331,24 +387,27 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict) -> dict:
                 'idea': idea,
                 'avoid_list': avoid_list,
                 'news_inspiration': news,
+                'style_picks': {k: v['en'] for k, v in style_picks.items()},
             }
         else:
             print("Stage 2 parse failed, using idea as prompt fallback.")
             return {
-                'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image.",
+                'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}",
                 'story': story,
                 'idea': idea,
                 'avoid_list': avoid_list,
                 'news_inspiration': news,
+                'style_picks': {k: v['en'] for k, v in style_picks.items()},
             }
     except Exception as e:
         print(f"Stage 2 failed ({e}), using idea as prompt fallback.")
         return {
-            'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image.",
+            'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}",
             'story': story,
             'idea': idea,
             'avoid_list': avoid_list,
             'news_inspiration': news,
+            'style_picks': {k: v['en'] for k, v in style_picks.items()},
         }
 
 
@@ -496,7 +555,7 @@ def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp
 def update_catlist_and_push(entry: dict) -> int:
     """Update catlist.json and monthly detail file, commit and push."""
     index_fields = {"number", "timestamp", "url", "model", "status", "error"}
-    detail_fields = {"number", "prompt", "story", "idea", "news_inspiration", "avoid_list", "comment_id"}
+    detail_fields = {"number", "prompt", "story", "idea", "news_inspiration", "avoid_list", "style_picks", "comment_id"}
 
     # Write lightweight index entry to catlist.json
     catlist_path = Path("catlist.json")
@@ -585,6 +644,7 @@ def main():
     idea = prompt_data.get('idea', '')
     avoid_list = prompt_data.get('avoid_list', [])
     news_inspiration = prompt_data.get('news_inspiration', [])
+    style_picks = prompt_data.get('style_picks', {})
     result = asyncio.run(generate_cat_image("/tmp", timestamp, prompt))
 
     if result["status"] == "failed":
@@ -630,6 +690,7 @@ def main():
         "idea": idea,
         "avoid_list": avoid_list,
         "news_inspiration": news_inspiration,
+        "style_picks": style_picks,
         "url": image_url,
         "model": model_used,
         "status": "success",
