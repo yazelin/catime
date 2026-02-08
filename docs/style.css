@@ -78,7 +78,7 @@ body {
   padding: .45rem .8rem; border-radius: 20px;
   border: 2px solid var(--pink-light);
   background: #fff; color: var(--text); font-size: .85rem;
-  font-family: inherit; min-width: 0; max-width: 140px;
+  font-family: inherit; min-width: 0; max-width: 180px;
   transition: border-color .2s, box-shadow .2s;
 }
 .search-input:focus {
@@ -88,10 +88,10 @@ body {
 .search-input::placeholder { color: var(--text-muted); }
 
 .filters select {
-  padding: .35rem .6rem; border-radius: 20px;
+  padding: .45rem .8rem; border-radius: 20px;
   border: 2px solid var(--pink-light);
-  background: #fff; color: var(--text); font-size: .78rem;
-  font-family: inherit; cursor: pointer; max-width: 130px;
+  background: #fff; color: var(--text); font-size: .85rem;
+  font-family: inherit; cursor: pointer;
   transition: border-color .2s, box-shadow .2s;
   min-width: 0;
 }
