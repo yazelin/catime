@@ -4,6 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catime - AI Cat Gallery</title>
+  <meta name="description" content="Catime - 每小時 AI 自動生成的貓咪藝術 Gallery。使用 Gemini AI 創作獨特風格的貓咪圖片。">
+  <meta property="og:title" content="Catime - AI Cat Gallery">
+  <meta property="og:description" content="每小時 AI 自動生成的貓咪藝術 Gallery。使用 Gemini AI 創作獨特風格的貓咪圖片。">
+  <meta property="og:image" content="https://yazelin.github.io/catime/icon-192.png">
+  <meta property="og:url" content="https://yazelin.github.io/catime/">
+  <meta property="og:type" content="website">
+  <link rel="canonical" href="https://yazelin.github.io/catime/">
+  <meta name="theme-color" content="#ff6b9d">
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="icon" href="favicon.ico" sizes="any">
   <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32">
   <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
@@ -13,8 +25,9 @@
 <body>
   <header id="topbar">
     <img src="icon-192.png" alt="Catime" class="logo-icon">
-    <h1>Catime</h1>
+    <h1>Catime <span id="cat-count" class="cat-count"></span></h1>
     <div class="filters">
+      <input type="search" id="search-input" class="search-input" placeholder="Search #number or title...">
       <select id="model-filter">
         <option value="">All Models</option>
       </select>
@@ -44,10 +57,12 @@
     <div id="timeline-list"></div>
   </nav>
 
+  <button id="back-to-top" class="back-to-top" aria-label="Back to top">↑</button>
+
   <main id="gallery" class="masonry"></main>
   <div id="end-msg" class="hidden">No more cats! 🐱</div>
 
-  <div id="lightbox" class="hidden" role="dialog">
+  <div id="lightbox" class="hidden" role="dialog" aria-modal="true">
     <button id="lb-close" aria-label="Close">&times;</button>
     <div id="lb-info"></div>
     <div id="lb-img-wrap">
