@@ -70,7 +70,7 @@ body {
 
 .filters {
   display: flex; gap: .5rem; flex: 1; justify-content: flex-end;
-  align-items: center; flex-wrap: wrap; min-width: 0;
+  align-items: center; flex-wrap: nowrap; min-width: 0; overflow-x: auto;
 }
 
 /* Search input */
@@ -569,7 +569,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   #topbar { gap: .4rem; padding: .5rem .6rem; }
   #topbar h1 { font-size: 1.1rem; }
   .logo-icon { width: 28px; height: 28px; }
-  .filters { flex: 1 1 100%; order: 1; justify-content: flex-start; gap: .4rem; }
+  .filters { flex: 1 1 100%; order: 1; justify-content: flex-start; gap: .4rem; flex-wrap: wrap; overflow-x: visible; }
   .filters select { font-size: .78rem; padding: .35rem .5rem; }
   .search-input { font-size: .78rem; padding: .35rem .5rem; max-width: 140px; }
   .date-picker-btn { font-size: .78rem; padding: .35rem .5rem; }
