@@ -1789,5 +1789,45 @@
     "number": 196,
     "comment_id": 3867667691,
     "character_name": "麻糬"
+  },
+  {
+    "inspiration": "中國預計將啟動其新型海洋鑽探船「夢想號」的首次探險，目標是深入海洋地殼達11公里，以研究地球地幔。",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "可見的反射",
+      "亮面充氣PVC材質",
+      "電影感打光與光線體積",
+      "復古褪色色調與懷舊氛圍",
+      "亮面塑膠玩具/乙烯基公仔質感",
+      "日光燈/平板照明",
+      "織品紋理與可見紗線",
+      "親密特寫視角",
+      "黑白單色與高對比",
+      "消費相機美學",
+      "等距/正交投影",
+      "高動態範圍與電影質感",
+      "木紋與自然節點",
+      "冷藍青色調與冰冷底色"
+    ],
+    "number": 197,
+    "title": "鑄金海圖",
+    "story": "在一艘裝飾藝術風格的深海鑽探船指揮中心，一隻毛髮光滑的貓正以敏銳的目光，凝視著前方金屬操作台上躍動的立體海床地質圖。船艙內，黃金時刻般的人造光輕柔地灑落在拋光的金屬表面，營造出黑白單色的深沉質感與戲劇性光影。牠輕巧地伸出一隻爪子，觸碰圖上標示的深潛路徑，彷彿在規劃「夢想號」深入地球地殼的航線，身旁隱約可見數名船員忙碌的身影。",
+    "prompt": "An Art Deco style illustration, executed in high-contrast black and white monochrome with a rich tonal range. A dramatic bird's-eye view, looking straight down into the command center of a luxurious deep-sea drilling rig. A sleek, smooth-furred cat, centrally positioned, extends a paw to delicately touch a shimmering 3D holographic seabed map displayed on a polished metallic control console. The console and surrounding Art Deco architecture feature intricate geometric patterns, brushed and polished metal surfaces with sharp reflections, conveying a 1920s elegance and industrial premium feel. Artificial golden hour lighting casts long, soft shadows and a strong golden rim light on the cat and key metallic elements, creating dramatic light and shadow. The date and time '2026-02-08 18:27 UTC' are visually integrated into the scene. Subtle figures of crew members are visible in the background, adding to the top-down, miniature world effect.",
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Bird's-Eye View",
+      "lighting": "Golden Hour",
+      "texture": "Metallic Surface",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "藝術風格為裝飾藝術，俯瞰視角捕捉一隻貓在深海鑽探船控制室，其金屬質感表面在黃金時刻的人造光下，呈現黑白單色調的戲劇性光影。",
+    "comment_id": 3867829068,
+    "news_inspiration": [
+      "中國廣東省陽江市正熱烈舉辦2026年中國文化旅遊盛典暨春節慶祝活動，展現豐富的文化遺產和旅遊景點。",
+      "2026年冬季奧運會正在義大利利維尼奧、安泰塞爾瓦和科爾蒂納丹佩佐如火如荼地進行，多項賽事如單板滑雪和高山滑雪精彩登場。",
+      "法國巴黎聖厄斯塔什教堂正舉行沉浸式聲光表演「光輝：天體奧德賽」，同時La Bellevilloise也舉辦免費的越南節慶「Cảm ơn Day」。",
+      "尚比亞和迦納達成簽證豁免協議，此舉激發了關於非洲文化、時尚與旅遊融合的熱烈討論。",
+      "中國預計將啟動其新型海洋鑽探船「夢想號」的首次探險，目標是深入海洋地殼達11公里，以研究地球地幔。"
+    ]
   }
 ]

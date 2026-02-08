@@ -1398,5 +1398,14 @@
     "number": 196,
     "model": "gemini-3-pro-image-preview",
     "character_name": "麻糬"
+  },
+  {
+    "inspiration": "中國預計將啟動其新型海洋鑽探船「夢想號」的首次探險，目標是深入海洋地殼達11公里，以研究地球地幔。",
+    "model": "gemini-3-pro-image-preview",
+    "number": 197,
+    "title": "鑄金海圖",
+    "status": "success",
+    "timestamp": "2026-02-08 18:27 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-08_1827_UTC.webp"
   }
 ]
