@@ -49,8 +49,8 @@ IDEA_PROMPT = (
     "(7) Vary the scene composition - sometimes include other characters (people, other animals, crowds) "
     "or objects the cat interacts with. A lone cat is fine occasionally, but don't default to it every time.\n\n"
     "Output a JSON object with exactly this format:\n"
-    '{{"idea": "繁體中文場景描述，1-2句，包含藝術風格", "story": "繁體中文短故事，2-3句", "title": "作品名稱，3-6個字的繁體中文", "inspiration": "original 或引用的新聞摘要"}}\n\n'
-    "The title should be poetic, evocative, and concise (3-6 Chinese characters). Like a painting title.\n"
+    '{{"idea": "繁體中文場景描述，1-2句，包含藝術風格", "story": "繁體中文短故事，2-3句", "title": "作品名稱，3-10個字的繁體中文", "inspiration": "original 或引用的新聞摘要"}}\n\n'
+    "The title should be poetic, evocative, and concise (3-10 Chinese characters). Like a painting title.\n"
     "Examples: 晨光裡的守望、雨巷漫步、星空下的琴音、午後的秘密\n\n"
     "For the 'inspiration' field:\n"
     "- If your idea was inspired by one of the news items, copy that exact news summary as the value.\n"
