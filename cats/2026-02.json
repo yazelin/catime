@@ -1597,5 +1597,43 @@
       "texture": "Wood Grain",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "title": "鼓魂繫彩",
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Extreme Low Angle",
+      "lighting": "Cinematic Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "巴西里約熱內盧正在舉辦嘉年華前的街頭派對，其中包含慶祝成立30週年的Cordão do Boitatá樂團，帶來純粹的狂歡節體驗。",
+    "idea": "以木刻版畫風格呈現，一隻橘色虎斑貓正從極低角度被仰視，牠專注地為一面巨大的嘉年華低音鼓繫上柔和莫蘭迪色系的彩帶，場景設定在里約熱內盧一條靜謐的鵝卵石小巷。電影感打光突顯了貓咪皮毛與鼓面的木紋質感，整體畫面呈現寧靜而深沉的氛圍。",
+    "comment_id": 3867191792,
+    "avoid_list": [
+      "貓咪專注凝視或細緻操作",
+      "鏡子自拍構圖",
+      "亮面塑膠或玩具質感",
+      "發光科技或神秘物體",
+      "電影感戲劇化光影",
+      "均勻日光燈照明",
+      "明顯底片顆粒",
+      "黑白單色高對比",
+      "復古褪色調",
+      "特寫近景構圖",
+      "畫面內顯示日期時間",
+      "科學或考古探索主題",
+      "微型工具或物件"
+    ],
+    "news_inspiration": [
+      "巴西里約熱內盧正在舉辦嘉年華前的街頭派對，其中包含慶祝成立30週年的Cordão do Boitatá樂團，帶來純粹的狂歡節體驗。",
+      "丹麥研究人員發現腸道內「友好」細菌產生的一種關鍵分子，可能解釋了部分兒童為何能避免過敏，這是一項重要的醫學突破。",
+      "第60屆超級盃（Super Bowl LX）於2026年2月8日在美國加州聖克拉拉舉行。",
+      "日本科學家發現了一種名為Mic-628的新化合物，能夠將時差恢復時間縮短近一半，為全球旅行者帶來福音。",
+      "法國巴黎舉辦「Cảm ơn Day」越南文化節，提供全天的活動、越南美食、工作坊和現場表演。"
+    ],
+    "number": 192,
+    "prompt": "An orange tabby cat, depicted in a woodcut print style, is seen from an extreme low angle shot looking up. The cat is meticulously tying soft ribbons onto a colossal carnival bass drum. The setting is a quiet cobblestone alley in Rio de Janeiro during a pre-carnival evening. The art style features bold carved lines and a rough wood grain texture, revealing natural wood grain, visible knots, and organic tactile details on both the cat's fur and the drum's surface. While maintaining the strong contrast inherent to woodcuts, the overall color scheme utilizes a Morandi muted color palette with desaturated soft pastels and dusty grey undertones, exuding a quiet elegance. Cinematic lighting with volumetric light rays casts dramatic shadows, creating a high dynamic range and highlighting the textures. The composition creates a dramatic towering perspective, conveying a powerful feel and a serene, profound atmosphere. The cat's focused and calm expression offers a peaceful contrast to the impending revelry. Visually display '2026-02-08 13:39 UTC' within the image.",
+    "story": "夜幕低垂，嘉年華前夕的氣氛在空氣中低語，巷弄間飄散著準備工作的輕聲細語。這隻負責的貓咪，牠的每一個動作都充滿了對傳統的敬意，確保鼓組上的彩帶能完美繫好，在明日的狂歡中隨風飄揚。牠那專注而平靜的神情，與即將到來的熱鬧狂歡形成一種獨特的寧靜對比。"
   }
 ]
