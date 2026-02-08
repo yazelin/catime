@@ -19,20 +19,38 @@
     "size": "大型，壯碩結實"
   },
   "personality": {
-    "traits": ["勇敢", "粗獷", "講義氣", "沉穩", "偶爾霸氣外露"],
-    "quirks": ["喜歡站在最高處吹風", "看到魚會瞬間失去所有威嚴", "下雨天會默默幫小貓遮雨"],
+    "traits": [
+      "勇敢",
+      "粗獷",
+      "講義氣",
+      "沉穩",
+      "偶爾霸氣外露"
+    ],
+    "quirks": [
+      "喜歡站在最高處吹風",
+      "看到魚會瞬間失去所有威嚴",
+      "下雨天會默默幫小貓遮雨"
+    ],
     "voice": "低沉、粗獷、但有時意外溫柔"
   },
   "visual_prompt_snippet": "a large stocky classic brown tabby cat with bold black stripes, distinctive M-mark on forehead, dark eye patch over left eye, one piercing emerald green right eye, long prominent white whiskers, white chest bib and white mitten paws, slightly scruffy rough fur, small notch on left ear, thick sturdy tail, rugged and weathered appearance with quiet authority",
   "story_context": "船長是港口碼頭的老大，沒有貓知道牠的眼睛是怎麼受傷的，但每隻貓都尊敬牠。牠年輕時據說搭過漁船出海，現在退休在碼頭巡邏，守護這片水域的貓群。叫牠「船長」是因為牠走路的樣子真的像在甲板上踱步。",
-  "preferred_settings": ["漁港碼頭", "燈塔", "船艙", "海邊防波堤", "魚市場", "雨中的巷弄", "老酒吧"],
+  "preferred_settings": [
+    "漁港碼頭",
+    "燈塔",
+    "船艙",
+    "海邊防波堤",
+    "魚市場",
+    "雨中的巷弄",
+    "老酒吧"
+  ],
   "seasonal_variants": {
     "spring": "在碼頭邊看漁船出海，海風吹動微亂的毛",
     "summer": "戴著草帽在防波堤上釣魚",
     "autumn": "在燈塔旁看夕陽，楓葉飄過海面",
     "winter": "穿著迷你航海外套，在風雪中守護碼頭"
   },
-  "appearances": 0,
-  "last_appeared": null,
+  "appearances": 1,
+  "last_appeared": "2026-02-08 19:01 UTC",
   "created_at": "2026-02-09"
 }
