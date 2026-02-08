@@ -1,0 +1,532 @@
+{
+  "art_style": [
+    {
+      "zh": "街頭攝影",
+      "en": "Street Photography",
+      "prompt": "street photography, candid shot, natural light, urban setting, shallow depth of field"
+    },
+    {
+      "zh": "微距攝影",
+      "en": "Macro Photography",
+      "prompt": "macro photography, extreme close-up, sharp detail, shallow depth of field, fine textures visible"
+    },
+    {
+      "zh": "單眼人像（散景）",
+      "en": "DSLR Portrait with Bokeh",
+      "prompt": "DSLR portrait, 85mm f/1.4 lens, creamy bokeh background, sharp focus on subject"
+    },
+    {
+      "zh": "35mm 底片攝影",
+      "en": "35mm Film Photography",
+      "prompt": "35mm film photography, visible grain, warm tones, nostalgic feel, slight vignette"
+    },
+    {
+      "zh": "拍立得",
+      "en": "Polaroid",
+      "prompt": "Polaroid instant photo, white border frame, slightly faded colors, soft warm tones"
+    },
+    {
+      "zh": "空拍",
+      "en": "Drone Aerial Shot",
+      "prompt": "drone aerial shot, bird's-eye view, expansive landscape, geometric patterns from above"
+    },
+    {
+      "zh": "棚拍人像",
+      "en": "Studio Portrait",
+      "prompt": "studio portrait, three-point lighting, clean background, professional headshot quality"
+    },
+    {
+      "zh": "紀實攝影",
+      "en": "Documentary Photography",
+      "prompt": "documentary photography, candid moment, natural environment, storytelling composition"
+    },
+    {
+      "zh": "手機隨拍",
+      "en": "Smartphone Snapshot",
+      "prompt": "smartphone snapshot, casual composition, natural lighting, authentic everyday moment"
+    },
+    {
+      "zh": "紅外線攝影",
+      "en": "Infrared Photography",
+      "prompt": "infrared photography, white foliage, dark skies, surreal otherworldly tones"
+    },
+    {
+      "zh": "濕版攝影",
+      "en": "Wet Plate Collodion",
+      "prompt": "wet plate collodion, vintage tintype look, dark edges, silver-toned monochrome, imperfections"
+    },
+    {
+      "zh": "時尚編輯攝影",
+      "en": "Fashion Editorial",
+      "prompt": "fashion editorial photography, dramatic pose, high-end styling, magazine-quality lighting"
+    },
+    {
+      "zh": "水彩畫",
+      "en": "Watercolor",
+      "prompt": "watercolor painting, soft transparent pigments, bleeding edges, wet-on-wet technique, paper texture"
+    },
+    {
+      "zh": "像素藝術",
+      "en": "Pixel Art",
+      "prompt": "pixel art, retro 8-bit style, limited color palette, crisp blocky pixels"
+    },
+    {
+      "zh": "油畫",
+      "en": "Oil Painting",
+      "prompt": "oil painting, thick impasto brushstrokes, rich color palette, visible canvas texture"
+    },
+    {
+      "zh": "復古海報",
+      "en": "Vintage Poster",
+      "prompt": "vintage poster art, retro color palette, bold typography, mid-century modern design"
+    },
+    {
+      "zh": "漫畫",
+      "en": "Manga",
+      "prompt": "manga style, clean ink lines, screentone shading, expressive eyes, dynamic action lines"
+    },
+    {
+      "zh": "浮世繪",
+      "en": "Ukiyo-e",
+      "prompt": "ukiyo-e Japanese woodblock print, flat color areas, bold outlines, wave patterns"
+    },
+    {
+      "zh": "裝飾藝術",
+      "en": "Art Deco",
+      "prompt": "Art Deco style, geometric patterns, gold and black palette, luxurious symmetry, 1920s elegance"
+    },
+    {
+      "zh": "鉛筆素描",
+      "en": "Pencil Sketch",
+      "prompt": "pencil sketch, graphite on paper, hatching and cross-hatching, visible pencil strokes"
+    },
+    {
+      "zh": "不透明水彩",
+      "en": "Gouache",
+      "prompt": "gouache painting, opaque matte finish, bold flat colors, illustrative quality"
+    },
+    {
+      "zh": "彩色玻璃",
+      "en": "Stained Glass",
+      "prompt": "stained glass window style, bold black outlines, translucent jewel-toned segments, backlit glow"
+    },
+    {
+      "zh": "馬賽克",
+      "en": "Mosaic",
+      "prompt": "mosaic art, small colored tiles, ancient Roman or Byzantine aesthetic, grouted texture"
+    },
+    {
+      "zh": "黏土動畫",
+      "en": "Claymation",
+      "prompt": "claymation style, sculpted clay characters, visible fingerprint textures, stop-motion aesthetic"
+    },
+    {
+      "zh": "剪紙藝術",
+      "en": "Papercut Art",
+      "prompt": "papercut art, layered paper silhouettes, shadow depth, intricate cutout details"
+    },
+    {
+      "zh": "賽博龐克",
+      "en": "Cyberpunk",
+      "prompt": "cyberpunk aesthetic, neon-lit dystopian cityscape, holographic elements, rain-soaked streets"
+    },
+    {
+      "zh": "新藝術風格",
+      "en": "Art Nouveau",
+      "prompt": "Art Nouveau style, flowing organic curves, ornamental borders, floral motifs, Mucha-inspired"
+    },
+    {
+      "zh": "蒸氣波",
+      "en": "Vaporwave",
+      "prompt": "vaporwave aesthetic, pastel pink and cyan gradients, Greek statues, retro 80s digital elements"
+    },
+    {
+      "zh": "吉卜力風格",
+      "en": "Studio Ghibli Style",
+      "prompt": "Studio Ghibli anime style, soft watercolor backgrounds, warm pastoral scenery, gentle character design"
+    },
+    {
+      "zh": "超寫實動漫",
+      "en": "Hyperrealistic Anime",
+      "prompt": "hyperrealistic anime portrait, detailed skin texture, dramatic spotlight, realistic-anime hybrid"
+    },
+    {
+      "zh": "Y2K 風格",
+      "en": "Y2K Aesthetic",
+      "prompt": "Y2K aesthetic, holographic textures, pastel gradients, glitter accents, early-2000s playful design"
+    },
+    {
+      "zh": "90 年代底片風格",
+      "en": "1990s Film Aesthetic",
+      "prompt": "1990s camera style, direct flash, nostalgic glow, 35mm lens, slightly muted warm tones"
+    },
+    {
+      "zh": "刺繡",
+      "en": "Embroidery",
+      "prompt": "embroidered illustration, visible needlework on linen fabric, satin stitch and French knots, handcrafted textile art"
+    },
+    {
+      "zh": "青花瓷",
+      "en": "Blue and White Porcelain",
+      "prompt": "traditional blue and white porcelain style, cobalt blue floral motifs, white glazed base, delicate crackle texture"
+    },
+    {
+      "zh": "蠟筆兒童畫",
+      "en": "Crayon Children's Drawing",
+      "prompt": "crayon drawing style, childlike hand-drawn look, bright cheerful colors, warm paper background"
+    },
+    {
+      "zh": "白板記號筆畫",
+      "en": "Whiteboard Marker Art",
+      "prompt": "whiteboard marker drawing on glass, slightly faded ink, hand-drawn line art, casual sketch feel"
+    },
+    {
+      "zh": "手繪信息圖",
+      "en": "Hand-drawn Infographic",
+      "prompt": "hand-drawn infographic style, paper texture background, calligraphy brush strokes, warm rustic aesthetic"
+    },
+    {
+      "zh": "3D Q版/盲盒",
+      "en": "3D Chibi / Blind Box",
+      "prompt": "3D chibi blind box character, C4D rendering, cute Q-version, smooth plastic toy texture, soft studio lighting"
+    },
+    {
+      "zh": "體素/我的世界",
+      "en": "Voxel / Minecraft Style",
+      "prompt": "Minecraft-style voxel art, pixelated cubes, blocky textures, clean lighting, playful 3D render"
+    },
+    {
+      "zh": "四格漫畫",
+      "en": "Four-panel Comic",
+      "prompt": "colorful manga page, four-panel comic strip layout, expressive characters, humor"
+    },
+    {
+      "zh": "扁平向量插圖",
+      "en": "Flat Vector Illustration",
+      "prompt": "flat vector illustration, clean lines, geometric forms, bright pastel colors, minimal shading, white background"
+    },
+    {
+      "zh": "極簡塗鴉線條畫",
+      "en": "Minimalist Doodle Line Art",
+      "prompt": "minimalist line drawing, doodle style, black ink on white, playful loose strokes, hand-drawn feel"
+    },
+    {
+      "zh": "粉筆畫",
+      "en": "Chalk Art",
+      "prompt": "chalk art on blackboard, dusty matte texture, colored chalk, visible hatching strokes on dark green slate"
+    },
+    {
+      "zh": "柯達 Portra 底片",
+      "en": "Kodak Portra Film",
+      "prompt": "shot on Kodak Portra 400, warm film tones, subtle grain, soft focus, dreamy nostalgic atmosphere"
+    },
+    {
+      "zh": "撕紙拼貼效果",
+      "en": "Torn Paper Collage",
+      "prompt": "torn paper collage effect, layered textures, mixed media, visible paper edges and notebook lines"
+    },
+    {
+      "zh": "IXUS 消費相機風格",
+      "en": "Point-and-Shoot Camera Aesthetic",
+      "prompt": "point-and-shoot camera aesthetic, direct flash, slightly overexposed highlights, casual candid feel"
+    },
+    {
+      "zh": "即棄相機風格",
+      "en": "Disposable Camera",
+      "prompt": "disposable camera photo, low-quality charm, flash artifacts, casual snapshot, light leaks"
+    },
+    {
+      "zh": "普普藝術",
+      "en": "Pop Art",
+      "prompt": "pop art style, bold primary colors, Ben-Day dots, thick outlines, Warhol-inspired repetition"
+    },
+    {
+      "zh": "超現實主義",
+      "en": "Surrealism",
+      "prompt": "surrealist composition, dreamlike impossible scene, Dalí-inspired melting forms, uncanny juxtapositions"
+    },
+    {
+      "zh": "水墨畫",
+      "en": "Chinese Ink Wash",
+      "prompt": "Chinese ink wash painting, sumi-e style, black ink on rice paper, minimalist brushwork, flowing gradients"
+    },
+    {
+      "zh": "色鉛筆畫",
+      "en": "Colored Pencil Drawing",
+      "prompt": "colored pencil illustration, visible pencil grain, layered hues, rough sketchbook paper texture"
+    },
+    {
+      "zh": "木刻版畫",
+      "en": "Woodcut Print",
+      "prompt": "woodcut print style, bold carved lines, high contrast black and white, rough wood grain texture"
+    },
+    {
+      "zh": "迷幻風格",
+      "en": "Psychedelic Art",
+      "prompt": "psychedelic art, swirling patterns, vibrant clashing neon colors, melting distorted forms"
+    },
+    {
+      "zh": "GTA 風格",
+      "en": "GTA Style",
+      "prompt": "Grand Theft Auto art style, bold cel-shaded illustration, saturated colors, urban attitude"
+    },
+    {
+      "zh": "霧面紙玻璃風格",
+      "en": "Frosted Paper-Glass",
+      "prompt": "translucent frosted glass-paper style, minimalist, soft cinematic lighting, clean white background"
+    },
+    {
+      "zh": "聖誕裝飾球微縮模型",
+      "en": "Christmas Ornament Diorama",
+      "prompt": "transparent glass Christmas bauble diorama, tiny detailed scene inside, warm magical glow, cinematic reflections"
+    },
+    {
+      "zh": "電影分鏡",
+      "en": "Cinematic Storyboard",
+      "prompt": "cinematic storyboard grid, film keyframes, sequential shots, dramatic camera angles, movie-quality composition"
+    }
+  ],
+  "composition": [
+    {
+      "zh": "等距3D插圖",
+      "en": "Isometric 3D Illustration",
+      "prompt": "3D isometric illustration, clean geometric forms, soft pastel colors, polished playful rendering"
+    },
+    {
+      "zh": "俯瞰/鳥瞰",
+      "en": "Bird's-Eye View",
+      "prompt": "bird's-eye view, top-down perspective, looking straight down, miniature world effect"
+    },
+    {
+      "zh": "魚眼鏡頭",
+      "en": "Fisheye Lens",
+      "prompt": "fisheye wide-angle lens, strong barrel distortion, exaggerated foreground, 360-degree feel"
+    },
+    {
+      "zh": "超廣角",
+      "en": "Ultra Wide Angle",
+      "prompt": "ultra wide angle 12-18mm lens, dramatic perspective distortion, expansive field of view"
+    },
+    {
+      "zh": "極低角度",
+      "en": "Extreme Low Angle",
+      "prompt": "extreme low angle shot, looking up at subject, dramatic towering perspective, powerful feel"
+    },
+    {
+      "zh": "對稱構圖",
+      "en": "Symmetrical Composition",
+      "prompt": "perfectly symmetrical composition, centered subject, mirror-like balance, architectural framing"
+    },
+    {
+      "zh": "微縮立體模型",
+      "en": "Miniature Diorama",
+      "prompt": "miniature diorama, tilt-shift effect, tiny detailed world, toy-like scale model"
+    },
+    {
+      "zh": "正交投影",
+      "en": "Orthographic Projection",
+      "prompt": "orthographic projection, no perspective distortion, straight-on flat rendering, technical illustration style"
+    },
+    {
+      "zh": "等距攝影",
+      "en": "Isometric Photography",
+      "prompt": "perfectly isometric photography, real captured photo with isometric angle, no miniature effect"
+    },
+    {
+      "zh": "遞迴/德羅斯特效應",
+      "en": "Recursive / Droste Effect",
+      "prompt": "recursive image, Droste effect, picture within a picture repeating infinitely, self-referential loop"
+    },
+    {
+      "zh": "分割畫面",
+      "en": "Split View",
+      "prompt": "split view composition, left half photorealistic, right half wireframe diagram, sharp vertical cut line"
+    },
+    {
+      "zh": "鏡子自拍構圖",
+      "en": "Mirror Selfie Composition",
+      "prompt": "mirror selfie composition, casual framing, visible reflection, intimate close-up perspective"
+    },
+    {
+      "zh": "浮島/漂浮場景",
+      "en": "Floating Island Scene",
+      "prompt": "floating island in the sky, miniature landscape on a levitating platform, white clouds, aerial perspective"
+    }
+  ],
+  "lighting": [
+    {
+      "zh": "黃金時刻",
+      "en": "Golden Hour",
+      "prompt": "golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject"
+    },
+    {
+      "zh": "霓虹燈光",
+      "en": "Neon Lighting",
+      "prompt": "neon lighting, colorful glowing signs, reflections on wet surfaces, moody urban night atmosphere"
+    },
+    {
+      "zh": "閃光燈直打",
+      "en": "Direct Flash",
+      "prompt": "harsh direct on-camera flash, blown-out highlights, hard shadows, raw candid snapshot look"
+    },
+    {
+      "zh": "三點打光",
+      "en": "Three-Point Lighting",
+      "prompt": "classic three-point lighting setup, key light with soft shadows, fill light, subtle rim light separation"
+    },
+    {
+      "zh": "聚光燈",
+      "en": "Spotlight",
+      "prompt": "narrow beam spotlight, dramatic high-contrast, sharp light edges, deep darkness falloff"
+    },
+    {
+      "zh": "背光/輪廓光",
+      "en": "Backlighting / Rim Light",
+      "prompt": "backlighting with rim light, glowing silhouette edges, subject outlined by light, dramatic mood"
+    },
+    {
+      "zh": "自然漫射光",
+      "en": "Soft Diffused Natural Light",
+      "prompt": "soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones"
+    },
+    {
+      "zh": "電影感打光",
+      "en": "Cinematic Lighting",
+      "prompt": "cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, film-quality mood"
+    },
+    {
+      "zh": "環形燈",
+      "en": "Ring Light",
+      "prompt": "ring light illumination, circular catchlight in eyes, even frontal lighting, beauty portrait quality"
+    },
+    {
+      "zh": "月光",
+      "en": "Moonlight",
+      "prompt": "moonlight illumination, cool blue tones, gentle silvery glow, quiet nighttime atmosphere"
+    },
+    {
+      "zh": "燭光",
+      "en": "Candlelight",
+      "prompt": "candlelight, warm orange flickering glow, intimate atmosphere, soft dancing shadows"
+    },
+    {
+      "zh": "日光燈/螢光燈",
+      "en": "Fluorescent Lighting",
+      "prompt": "overhead fluorescent lighting, neutral white 5000K, institutional flat illumination, no shadows"
+    }
+  ],
+  "texture": [
+    {
+      "zh": "紙質肌理",
+      "en": "Paper Texture",
+      "prompt": "textured paper surface, visible fiber grain, kraft or watercolor paper feel, tactile warmth"
+    },
+    {
+      "zh": "3D 渲染",
+      "en": "3D Render",
+      "prompt": "polished 3D render, smooth materials, clean geometry, soft global illumination, Cinema 4D aesthetic"
+    },
+    {
+      "zh": "黏土/陶瓷質感",
+      "en": "Clay / Ceramic",
+      "prompt": "sculpted clay texture, handmade ceramic feel, matte surface with subtle imperfections, warm earthy tones"
+    },
+    {
+      "zh": "亮面塑膠/玩具質感",
+      "en": "Glossy Plastic / Toy",
+      "prompt": "glossy plastic toy texture, smooth high-shine surface, slight reflections, vinyl figure aesthetic"
+    },
+    {
+      "zh": "底片顆粒",
+      "en": "Film Grain",
+      "prompt": "visible film grain, analog texture, subtle noise, organic photographic imperfections"
+    },
+    {
+      "zh": "織品/布料質感",
+      "en": "Fabric / Textile",
+      "prompt": "woven fabric texture, visible threads, linen or cotton weave pattern, tactile soft appearance"
+    },
+    {
+      "zh": "透明樹脂",
+      "en": "Translucent Resin",
+      "prompt": "translucent resin material, embedded elements visible inside, glossy smooth surface, amber-like clarity"
+    },
+    {
+      "zh": "金屬質感",
+      "en": "Metallic Surface",
+      "prompt": "metallic surface, brushed or polished metal, sharp reflections, industrial premium feel"
+    },
+    {
+      "zh": "木紋",
+      "en": "Wood Grain",
+      "prompt": "natural wood grain texture, rich warm tones, visible knots and lines, organic tactile surface"
+    },
+    {
+      "zh": "充氣 PVC 材質",
+      "en": "Inflatable PVC",
+      "prompt": "inflatable PVC material, high-gloss balloon-like surface, puffy rounded forms, air-filled tension"
+    },
+    {
+      "zh": "玻璃/水晶",
+      "en": "Glass / Crystal",
+      "prompt": "transparent glass material, light refraction, prismatic reflections, crystalline clarity"
+    }
+  ],
+  "color_palette": [
+    {
+      "zh": "莫蘭迪色調",
+      "en": "Morandi Color Palette",
+      "prompt": "Morandi muted color palette, desaturated soft pastels, dusty grey undertones, quiet elegance"
+    },
+    {
+      "zh": "高飽和鮮豔色",
+      "en": "High Saturation Vivid",
+      "prompt": "high saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette"
+    },
+    {
+      "zh": "粉彩色系",
+      "en": "Pastel Colors",
+      "prompt": "soft pastel color palette, gentle pink, lavender, mint, baby blue, dreamy light tones"
+    },
+    {
+      "zh": "黑白/單色",
+      "en": "Monochrome / Black and White",
+      "prompt": "black and white monochrome, high contrast, rich tonal range, dramatic shadows and highlights"
+    },
+    {
+      "zh": "暖色調（琥珀/秋日）",
+      "en": "Warm Tones (Amber / Autumn)",
+      "prompt": "warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth"
+    },
+    {
+      "zh": "冷色調（藍青）",
+      "en": "Cool Tones (Blue / Teal)",
+      "prompt": "cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm mood"
+    },
+    {
+      "zh": "霓虹螢光色",
+      "en": "Neon Fluorescent",
+      "prompt": "neon fluorescent colors, electric pink, lime green, hot cyan, glowing against dark background"
+    },
+    {
+      "zh": "復古褪色色調",
+      "en": "Retro Faded Tones",
+      "prompt": "retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth"
+    },
+    {
+      "zh": "大地色系",
+      "en": "Earth Tones",
+      "prompt": "earth tone palette, terracotta, olive green, warm brown, natural organic harmony"
+    },
+    {
+      "zh": "金色與黑色奢華",
+      "en": "Gold and Black Luxury",
+      "prompt": "gold and black color scheme, luxurious metallic gold accents, deep black background, opulent mood"
+    },
+    {
+      "zh": "雙色調",
+      "en": "Duotone",
+      "prompt": "duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel"
+    }
+  ]
+}
