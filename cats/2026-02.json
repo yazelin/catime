@@ -1981,5 +1981,47 @@
     "idea": "一隻姿態優雅的深色貓咪在復古海報風格的陶藝工作室裡，專心致志地用黏土雕塑著一個完美的陶瓷器皿。",
     "news_inspiration": [],
     "inspiration": "original"
+  },
+  {
+    "prompt": "A sleek elegant solid black shorthair cat with luminous golden-amber eyes like amber gemstones, satin-sheen black fur with subtle warm brown undertones in light, long prominent white whiskers, slender athletic build, long tail with a slight upward curl at the tip, poised and graceful posture. The cat is gracefully crouching on a futuristic city rooftop, nestled under a dilapidated neon sign. One delicate paw rests on a retro audio device playing bird songs. The device has a textured paper surface, visible fiber grain, kraft or watercolor paper feel, and tactile warmth. The scene is depicted with a cyberpunk aesthetic and extreme low angle shot, looking up at the cat, creating a dramatic towering perspective and a powerful feel. Overhead fluorescent lighting, neutral white 5000K, provides institutional flat illumination on the cat and its immediate surroundings, with no prominent shadows, highlighting its pure black elegance. In the distant background, a vibrant, neon-lit dystopian cityscape glows with warm amber color grading, autumn palette, golden yellows, and burnt orange, featuring holographic elements and creating a cozy nostalgic warmth that contrasts sharply with the cat's form. The date and time '2026-02-08 23:23 UTC' are visually displayed within the image.",
+    "avoid_list": [
+      "橘貓 / 薑黃色虎斑貓",
+      "消費相機風格 / 快照感",
+      "俯瞰視角 / 微縮模型美學",
+      "黃金時刻光線 / 夕陽餘暉",
+      "充氣PVC材質販賣機",
+      "貓咪專注凝視 / 觸碰介面",
+      "柔和粉彩調色盤 / 夢幻光色",
+      "木紋質感 / 顯露木結",
+      "戲劇性光影 / 強烈對比",
+      "等距攝影 / 正交投影",
+      "霓虹螢光裝飾 / 賽博龐克場景",
+      "極低角度仰視構圖",
+      "復古褪色調色盤 / 懷舊膠卷感",
+      "控制台 / 全息介面",
+      "邊緣光 / 輪廓光"
+    ],
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Extreme Low Angle",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character": "momo",
+    "comment_id": 3868551825,
+    "story": "在這片喧囂的機械叢林中，墨墨找到了牠的專屬靜謐角落。牠純黑的身影與都市的琥珀色光影交織，金琥珀色的眼睛在螢光燈下閃爍，享受著這份來自遠古的聲音，裝置外殼帶有紙質般的老舊觸感。牠聽著，彷彿回到了大自然，眼神中流露出罕見的溫柔。",
+    "title": "屋簷下的鳥鳴",
+    "character_name": "墨墨",
+    "number": 202,
+    "idea": "在賽博龐克風格的未來都市屋頂，墨墨優雅地蹲伏在殘破的霓虹招牌下，一隻爪子輕搭在一個播放著鳥鳴聲的復古音訊裝置上，極低角度的構圖將牠純黑的身影與遠方喧囂的暖色霓虹形成對比，螢光燈下牠的金琥珀色眼睛微微發亮。",
+    "inspiration": "德國科學家發現聆聽鳥鳴有助於提升幸福感並減輕壓力。",
+    "news_inspiration": [
+      "一頭在奧地利維也納的母牛展現了使用工具的罕見能力，令科學家們對牛的認知能力有了新的認識。",
+      "一位印度教師因創立數百個學習中心而榮獲百萬美元全球教師獎，並在阿拉伯聯合大公國杜拜領獎。",
+      "尚比亞的農民透過養蜂來賺取收入，同時也協助保護該國日益減少的森林。",
+      "在香港大嶼山的望東村，一群鳥類壁畫在被遺忘的牆壁上栩栩如生，講述著鳥類非凡的旅程。",
+      "德國科學家發現聆聽鳥鳴有助於提升幸福感並減輕壓力。"
+    ]
   }
 ]
