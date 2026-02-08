@@ -10,16 +10,24 @@
   let loaded = 0;
   let loading = false;
   let selectedDate = ""; // "YYYY-MM-DD" or ""
+  let searchQuery = "";
   const detailCache = {}; // month -> detail array
   let likesData = {};    // "catNumber" -> count
   let commentMap = {};   // "catNumber" -> comment URL
 
+  // Lightbox navigation state
+  let currentLbIndex = -1;
+  let triggerCard = null; // card element that opened lightbox
+
   const gallery = document.getElementById("gallery");
   const endMsg = document.getElementById("end-msg");
   const modelSelect = document.getElementById("model-filter");
+  const searchInput = document.getElementById("search-input");
+  const catCount = document.getElementById("cat-count");
   const timelineList = document.getElementById("timeline-list");
   const timelineNav = document.getElementById("timeline");
   const timelineToggle = document.getElementById("timeline-toggle");
+  const backToTop = document.getElementById("back-to-top");
   const lightbox = document.getElementById("lightbox");
   const lbImg = document.getElementById("lb-img");
   const lbInfo = document.getElementById("lb-info");
@@ -37,6 +45,7 @@
   const lbAvoid = document.getElementById("lb-avoid");
   const lbAvoidList = document.getElementById("lb-avoid-list");
   const lbTabBar = document.getElementById("lb-tab-bar");
+  const lbImgWrap = document.getElementById("lb-img-wrap");
 
   // Date picker elements
   const datePickerBtn = document.getElementById("date-picker-btn");
@@ -110,6 +119,20 @@
     timelineList.innerHTML = html;
   }
 
+  function updateCatCount() {
+    catCount.textContent = filtered.length + " cats";
+  }
+
+  // ── Search with debounce ──
+  let searchTimer = null;
+  searchInput.addEventListener("input", () => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      searchQuery = searchInput.value.trim().toLowerCase();
+      applyFilter();
+    }, 300);
+  });
+
   // ── Date picker ──
   datePickerBtn.addEventListener("click", e => {
     e.stopPropagation();
@@ -140,7 +163,6 @@
     const todayStr = new Date().toISOString().slice(0, 10);
 
     let html = "";
-    // Empty cells before first day
     for (let i = 0; i < startDay; i++) html += `<button class="other-month" disabled></button>`;
     for (let d = 1; d <= daysInMonth; d++) {
       const ds = `${calYear}-${String(calMonth + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
@@ -169,16 +191,37 @@
     filtered = allCats.filter(c => {
       if (model && c.model !== model) return false;
       if (selectedDate && !c.timestamp.startsWith(selectedDate)) return false;
+      if (searchQuery) {
+        const numStr = String(c.number);
+        const title = (c.title || "").toLowerCase();
+        if (!numStr.includes(searchQuery) && !title.includes(searchQuery)) return false;
+      }
       return true;
     });
     loaded = 0;
     gallery.innerHTML = "";
     endMsg.classList.add("loading");
     endMsg.classList.remove("hidden");
+    updateCatCount();
     loadMore();
   }
 
   modelSelect.addEventListener("change", applyFilter);
+
+  // ── Image error handler ──
+  function handleImgError(img, isLightbox) {
+    if (isLightbox) {
+      const placeholder = document.createElement("div");
+      placeholder.className = "lb-img-error";
+      placeholder.textContent = "🐱";
+      img.replaceWith(placeholder);
+    } else {
+      const placeholder = document.createElement("div");
+      placeholder.className = "img-error";
+      placeholder.textContent = "🐱";
+      img.replaceWith(placeholder);
+    }
+  }
 
   // ── Render cards ──
   function loadMore() {
@@ -191,7 +234,7 @@
       lastMonth = prev.timestamp.slice(0, 7);
     }
     const frag = document.createDocumentFragment();
-    slice.forEach(cat => {
+    slice.forEach((cat, i) => {
       const month = cat.timestamp.slice(0, 7);
       if (month !== lastMonth) {
         const sep = document.createElement("div");
@@ -203,6 +246,7 @@
       }
       const card = document.createElement("div");
       card.className = "card";
+      card.dataset.catIndex = loaded + i;
       const likeCount = likesData[String(cat.number)] || 0;
       const likeBadge = likeCount > 0 ? `<span class="like-badge">${SVG_HEART} ${likeCount}</span>` : "";
       card.innerHTML = `
@@ -215,7 +259,13 @@
           ${cat.inspiration ? `<span class="inspiration-tag ${cat.inspiration !== 'original' ? 'news' : 'original'}">${cat.inspiration !== 'original' ? '新聞靈感' : '原創'}</span>` : ''}
           ${cat.model ? `<span class="model">${cat.model}</span>` : ""}
         </div>`;
-      card.addEventListener("click", () => openLightbox(cat));
+      // Image error handling
+      const img = card.querySelector("img");
+      img.addEventListener("error", () => handleImgError(img, false));
+      card.addEventListener("click", () => {
+        triggerCard = card;
+        openLightbox(cat, loaded - slice.length + i + (frag.contains(card) ? 0 : 0));
+      });
       frag.appendChild(card);
     });
     gallery.appendChild(frag);
@@ -247,6 +297,14 @@
 
   timelineToggle.addEventListener("click", () => timelineNav.classList.toggle("open"));
 
+  // ── Back to top ──
+  window.addEventListener("scroll", () => {
+    backToTop.classList.toggle("visible", window.scrollY > 600);
+  }, { passive: true });
+  backToTop.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+
   // ── Lightbox ──
   const TAB_DEFS = [
     { key: "story", label: "Story", panel: lbStory },
@@ -267,7 +325,7 @@
   }
 
   async function fetchDetail(cat) {
-    const month = cat.timestamp.slice(0, 7); // "YYYY-MM"
+    const month = cat.timestamp.slice(0, 7);
     if (!detailCache[month]) {
       try {
         const resp = await fetch(CATS_BASE_URL + month + ".json");
@@ -301,7 +359,6 @@
       lbAvoidList.innerHTML = detail.avoid_list.map(t => `<span class="avoid-tag">${t}</span>`).join("");
     }
 
-    // Build tab bar (only tabs with data)
     const available = [];
     if (detail.story) available.push("story");
     if (detail.idea) available.push("idea");
@@ -321,9 +378,32 @@
     if (available.length) switchTab(available[0]);
   }
 
-  function openLightbox(cat) {
+  function openLightbox(cat, index) {
+    // Find index in filtered array
+    if (typeof index === "number" && index >= 0) {
+      currentLbIndex = filtered.indexOf(cat);
+    } else {
+      currentLbIndex = filtered.indexOf(cat);
+    }
+    if (currentLbIndex === -1) currentLbIndex = filtered.findIndex(c => c.number === cat.number);
+
     currentCatUrl = cat.url;
-    lbImg.src = cat.url;
+
+    // Restore img element if it was replaced by error placeholder
+    const existingError = lbImgWrap.querySelector(".lb-img-error");
+    if (existingError) {
+      const newImg = document.createElement("img");
+      newImg.id = "lb-img";
+      newImg.alt = "Cat";
+      existingError.replaceWith(newImg);
+    }
+    const imgEl = document.getElementById("lb-img") || lbImg;
+    imgEl.src = cat.url;
+    imgEl.addEventListener("error", function onErr() {
+      handleImgError(imgEl, true);
+      imgEl.removeEventListener("error", onErr);
+    });
+
     const titleText = cat.title ? ` ${cat.title}` : "";
     const isNews = cat.inspiration && cat.inspiration !== "original";
     const inspirationTag = cat.inspiration
@@ -333,7 +413,6 @@
     lbInfo.innerHTML = `<span class="lb-title">#${cat.number}${titleText} &middot; ${cat.timestamp}</span>${inspirationTag} ${modelTag}`;
     lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Download";
 
-    // Like button
     const catKey = String(cat.number);
     const likeCount = likesData[catKey] || 0;
     const commentUrl = commentMap[catKey];
@@ -341,16 +420,37 @@
     lbLikeBtn.style.display = commentUrl ? "" : "none";
     lbLikeBtn.onclick = () => { if (commentUrl) window.open(commentUrl, "_blank"); };
 
-    // Show loading state for detail panels
     lbPromptText.textContent = "Loading\u2026";
     lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
     lbTabBar.innerHTML = "";
     TAB_DEFS.forEach(t => t.panel.classList.add("hidden"));
 
     lightbox.classList.remove("hidden");
+    document.body.style.overflow = "hidden";
 
-    // Fetch detail asynchronously
+    // Focus trap: focus close button
+    lbClose.focus();
+
     fetchDetail(cat).then(detail => populateLightboxDetail(cat, detail));
+  }
+
+  function closeLightbox() {
+    lightbox.classList.add("hidden");
+    document.body.style.overflow = "";
+    // Return focus to trigger card
+    if (triggerCard) {
+      triggerCard.focus();
+      triggerCard = null;
+    }
+  }
+
+  function navigateLightbox(dir) {
+    if (currentLbIndex === -1) return;
+    const newIdx = currentLbIndex + dir;
+    if (newIdx < 0 || newIdx >= filtered.length) return;
+    // Ensure cards are loaded up to this point
+    while (loaded <= newIdx && loaded < filtered.length) loadMore();
+    openLightbox(filtered[newIdx], newIdx);
   }
 
   lbTabBar.addEventListener("click", e => {
@@ -369,8 +469,47 @@
     a.target = "_blank";
     a.click();
   });
-  lbClose.addEventListener("click", () => lightbox.classList.add("hidden"));
-  lightbox.addEventListener("click", e => { if (e.target === lightbox) lightbox.classList.add("hidden"); });
-  document.addEventListener("keydown", e => { if (e.key === "Escape") lightbox.classList.add("hidden"); });
+  lbClose.addEventListener("click", closeLightbox);
+  lightbox.addEventListener("click", e => { if (e.target === lightbox) closeLightbox(); });
+
+  // ── Keyboard: Escape, Arrow keys, Focus trap ──
+  document.addEventListener("keydown", e => {
+    if (lightbox.classList.contains("hidden")) return;
+
+    if (e.key === "Escape") { closeLightbox(); return; }
+    if (e.key === "ArrowLeft") { navigateLightbox(-1); return; }
+    if (e.key === "ArrowRight") { navigateLightbox(1); return; }
+
+    // Focus trap
+    if (e.key === "Tab") {
+      const focusable = lightbox.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
+      const items = Array.from(focusable).filter(el => !el.closest('.hidden') && el.offsetParent !== null);
+      if (!items.length) return;
+      const first = items[0];
+      const last = items[items.length - 1];
+      if (e.shiftKey) {
+        if (document.activeElement === first) { e.preventDefault(); last.focus(); }
+      } else {
+        if (document.activeElement === last) { e.preventDefault(); first.focus(); }
+      }
+    }
+  });
+
+  // ── Lightbox touch swipe ──
+  let touchStartX = 0;
+  let touchStartY = 0;
+  lightbox.addEventListener("touchstart", e => {
+    touchStartX = e.changedTouches[0].clientX;
+    touchStartY = e.changedTouches[0].clientY;
+  }, { passive: true });
+  lightbox.addEventListener("touchend", e => {
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    const dy = e.changedTouches[0].clientY - touchStartY;
+    // Only trigger if horizontal swipe is dominant
+    if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) {
+      if (dx < 0) navigateLightbox(1);  // swipe left = next
+      else navigateLightbox(-1);          // swipe right = prev
+    }
+  }, { passive: true });
 
 })();

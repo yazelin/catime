@@ -1,0 +1,13 @@
+{
+  "name": "Catime - AI Cat Gallery",
+  "short_name": "Catime",
+  "description": "每小時 AI 自動生成的貓咪藝術 Gallery",
+  "start_url": "/catime/",
+  "display": "standalone",
+  "background_color": "#fff5f9",
+  "theme_color": "#ff6b9d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
