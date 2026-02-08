@@ -1748,5 +1748,46 @@
     "title": "文化脈絡的織者",
     "story": "牠小心翼翼地用前爪輕觸發光的介面，讓來自不同文明的資料流重新對齊，以確保歷史的敘事得以延續。這個秘密的文化節點，在對稱的合成木紋裝潢和溫暖的蠟燭燈光下，成為了維繫「世界之線」的寧靜中心。",
     "prompt": "A house cat is the centered subject in a perfectly symmetrical composition, meticulously calibrating a vintage-futuristic control console. The cat's front paws gently touch the glowing holographic interfaces, re-aligning fragmented cultural data streams that weave through the air. This secret cultural node is situated deep within a neon-lit cyberpunk cityscape, with architectural framing revealing rain-soaked streets and a dystopian glow in the distance. The console and surrounding decor feature synthetic wood with a natural wood grain texture, rich warm tones, visible knots and lines, creating an organic tactile surface. The scene is illuminated by the soft, flickering glow of warm orange candlelight, fostering an intimate atmosphere with soft dancing shadows. The holographic elements and console interface emit a soft, dreamy pastel light, featuring gentle pink, lavender, mint, and baby blue tones. The date and time '2026-02-08 16:11 UTC' are clearly displayed on a small digital readout within the console setup. The overall artistic style is detailed digital painting and concept art, emphasizing atmospheric contrast."
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "可見的反射",
+      "亮面充氣PVC材質",
+      "電影感打光與光線體積",
+      "復古褪色色調與懷舊氛圍",
+      "亮面塑膠玩具/乙烯基公仔質感",
+      "日光燈/平板照明",
+      "織品紋理與可見紗線",
+      "親密特寫視角",
+      "黑白單色與高對比",
+      "消費相機美學",
+      "等距/正交投影",
+      "高動態範圍與電影質感",
+      "木紋與自然節點",
+      "冷藍青色調與冰冷底色"
+    ],
+    "character": "mochi",
+    "prompt": "A chubby, round orange-and-white shorthair cat, named Mochi, resembling a peanut mochi, is joyfully stuffing its body into a wicker basket overflowing with freshly baked bread on a traditional bakery stall. Its large amber eyes, magnified and gleaming with greed, are fixed on a golden, sugar-dusted Danish pastry. Its white belly gently jiggles with each breath. Its distinctive orange right front paw, like a glove, rests languidly and curiously. It has a pink nose with a tiny orange spot, an orange-and-white ringed tail, and a flat, round face with a slightly dopey, lovable expression. The entire scene is rendered in a vibrant stained glass window art style, characterized by bold black outlines and translucent jewel-toned segments, creating a captivating backlit glow. The composition features an extreme low angle shot, looking dramatically up at the cat and basket, giving a powerful, towering perspective. Golden hour lighting permeates the scene, bathing it in a warm sunset glow with long, soft shadows and a golden rim light illuminating the subject. A soft pastel color palette dominates, incorporating gentle pinks, lavenders, mints, and baby blues for dreamy light tones. Stylized with subtle analog textures, including gentle film grain and organic imperfections, adding depth to the stained glass panels. The date and time '2026-02-08 17:20 UTC' are visually displayed within the image.",
+    "title": "金黃誘惑",
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Extreme Low Angle",
+      "lighting": "Golden Hour",
+      "texture": "Film Grain",
+      "color_palette": "Pastel Colors"
+    },
+    "news_inspiration": [
+      "位於挪威斯瓦爾巴群島的北極熊，透過適應捕食陸地獵物，體型變得更胖，數量也似乎有所增加，展現了令人驚訝的氣候適應能力。",
+      "在厄瓜多加拉巴哥群島的弗洛雷亞納島，重新引入巨型陸龜後，整個生態系統呈現復甦的景象。",
+      "2026年米蘭科爾蒂納冬季奧運會於義大利米蘭科爾蒂納如火如荼地進行中，今日有滑雪和冰壺等多項賽事。",
+      "位於美國普吉特海灣的全球最大工廠，擁有三萬名員工，並能同時建造八架飛機。"
+    ],
+    "story": "麻糬那琥珀色的大圓眼，此刻放大兩倍，貪婪地凝視著一顆灑滿糖粉、金黃酥脆的丹麥麵包，肚皮隨著呼吸微微晃動。牠的右前腳整隻橘色，像戴著手套，慵懶而又充滿好奇地享受著這甜美的偷閒時光。",
+    "idea": "在彩色玻璃藝術風格下，畫面以極低角度呈現。金黃時刻的光線溫暖地灑落，麻糬圓滾滾的身軀像一顆花生麻糬，正將自己塞進傳統麵包攤上一個滿載新鮮出爐麵包的藤籃裡。",
+    "number": 196,
+    "comment_id": 3867667691,
+    "character_name": "麻糬"
   }
 ]
