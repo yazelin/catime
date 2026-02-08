@@ -319,6 +319,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 .month-sep {
   break-inside: avoid; padding: .5rem 0; font-size: .95rem;
   font-weight: 800; letter-spacing: .02em;
+  color: var(--pink);
   background: linear-gradient(135deg, var(--pink), var(--purple));
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   background-clip: text;
