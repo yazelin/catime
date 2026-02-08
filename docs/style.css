@@ -565,7 +565,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   .back-to-top { bottom: 4.5rem; }
 }
 @media (max-width: 600px) {
-  .masonry { column-count: 1; padding: .8rem; margin-top: 100px; }
+  .masonry { column-count: 1; padding: .8rem; margin-top: 130px; }
   #topbar { gap: .4rem; padding: .5rem .6rem; }
   #topbar h1 { font-size: 1.1rem; }
   .logo-icon { width: 28px; height: 28px; }
