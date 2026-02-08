@@ -42,6 +42,7 @@
   const endMsg = document.getElementById("end-msg");
   const modelSelect = document.getElementById("model-filter");
   const characterSelect = document.getElementById("character-filter");
+  const inspirationSelect = document.getElementById("inspiration-filter");
   const searchInput = document.getElementById("search-input");
   const catCount = document.getElementById("cat-count");
   const timelineList = document.getElementById("timeline-list");
@@ -225,6 +226,9 @@
     filtered = allCats.filter(c => {
       if (model && c.model !== model) return false;
       if (charFilter && c.character_name !== charFilter) return false;
+      const inspFilter = inspirationSelect.value;
+      if (inspFilter === "original" && c.inspiration !== "original") return false;
+      if (inspFilter === "news" && (!c.inspiration || c.inspiration === "original")) return false;
       if (selectedDate && !c.timestamp.startsWith(selectedDate)) return false;
       if (searchQuery) {
         const numStr = String(c.number);
@@ -243,6 +247,7 @@
 
   modelSelect.addEventListener("change", applyFilter);
   characterSelect.addEventListener("change", applyFilter);
+  inspirationSelect.addEventListener("change", applyFilter);
 
   // ── Image error handler ──
   function handleImgError(img, isLightbox) {
