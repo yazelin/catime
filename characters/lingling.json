@@ -19,20 +19,39 @@
     "size": "中等，但毛量讓她看起來很大一團"
   },
   "personality": {
-    "traits": ["天真", "好奇", "愛撒嬌", "有點笨但很努力", "容易被嚇到"],
-    "quirks": ["追蝴蝶會追到撞牆", "被摸頭會瞬間趴下翻肚", "喜歡收集亮晶晶的小東西", "打噴嚏的時候會往後彈"],
+    "traits": [
+      "天真",
+      "好奇",
+      "愛撒嬌",
+      "有點笨但很努力",
+      "容易被嚇到"
+    ],
+    "quirks": [
+      "追蝴蝶會追到撞牆",
+      "被摸頭會瞬間趴下翻肚",
+      "喜歡收集亮晶晶的小東西",
+      "打噴嚏的時候會往後彈"
+    ],
     "voice": "軟萌、天真、偶爾發出驚訝的小叫聲"
   },
   "visual_prompt_snippet": "a fluffy white longhair cat with voluminous cloud-like fur, large round sapphire-blue gemstone eyes taking up a third of the small round face, pink inner ears and pink nose, wearing a pink ribbon bow collar with a small golden bell, fur so fluffy the cat looks twice its actual size, feathery plume tail like a white feather duster, visible pink toe beans when paws are shown, cute tufted ear tips",
   "story_context": "鈴鈴是花店老闆的愛貓，名字來自她脖子上那個永遠叮叮作響的粉紅鈴鐺。她是四隻裡最年輕的，對什麼都好奇，常常在花店裡把自己弄得滿身花瓣。走到哪裡都能聽到清脆的鈴聲，街坊都說：『聽到鈴聲就知道鈴鈴來了。』",
-  "preferred_settings": ["花店", "花園", "甜點店", "遊樂場", "陽台", "蝴蝶園", "粉色系的任何地方"],
+  "preferred_settings": [
+    "花店",
+    "花園",
+    "甜點店",
+    "遊樂場",
+    "陽台",
+    "蝴蝶園",
+    "粉色系的任何地方"
+  ],
   "seasonal_variants": {
     "spring": "在櫻花樹下追蝴蝶，白毛上沾滿粉色花瓣",
     "summer": "戴著迷你草帽和太陽花，在向日葵田裡探險",
     "autumn": "穿著小毛衣，在落葉堆裡打滾（毛上沾滿紅葉）",
     "winter": "戴著聖誕紅蝴蝶結，在雪地裡留下蓬鬆的腳印"
   },
-  "appearances": 0,
-  "last_appeared": null,
+  "appearances": 1,
+  "last_appeared": "2026-02-08 21:20 UTC",
   "created_at": "2026-02-09"
 }

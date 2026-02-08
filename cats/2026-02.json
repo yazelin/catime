@@ -1904,5 +1904,48 @@
     "prompt": "A candid street photography shot of a ginger tabby cat, intensely focused, using a miniature screwdriver to repair a faulty pastel pink vending machine made of inflatable PVC material with a high-gloss, balloon-like surface and puffy, rounded forms, showing air-filled tension. The scene is set on a deserted futuristic train station platform in the early morning. The composition features a miniature diorama aesthetic, a toy-like scale model perspective, and a tilt-shift effect with a shallow depth of field, captured with a 35mm lens at f/1.8. Lighting includes natural early morning ambient light augmented by ring light illumination providing even frontal lighting, creating a beauty portrait quality on the cat's face with a distinct circular catchlight in its eyes. The overall color palette is soft pastel: gentle pink, lavender, mint, and baby blue with dreamy light tones. Visual display: 2026-02-08 20:18 UTC.",
     "number": 199,
     "inspiration": "original"
+  },
+  {
+    "number": 200,
+    "character_name": "鈴鈴",
+    "title": "霜緣拾趣",
+    "avoid_list": [
+      "橘貓 / 薑黃色虎斑貓",
+      "消費相機風格 / 快照感",
+      "俯瞰視角 / 微縮模型美學",
+      "黃金時刻光線 / 夕陽餘暉",
+      "充氣PVC材質販賣機",
+      "貓咪專注凝視 / 觸碰介面",
+      "柔和粉彩調色盤 / 夢幻光色",
+      "木紋質感 / 顯露木結",
+      "戲劇性光影 / 強烈對比",
+      "等距攝影 / 正交投影",
+      "霓虹螢光裝飾 / 賽博龐克場景",
+      "極低角度仰視構圖",
+      "復古褪色調色盤 / 懷舊膠卷感",
+      "控制台 / 全息介面",
+      "邊緣光 / 輪廓光"
+    ],
+    "season": "winter",
+    "idea": "微距攝影風格，畫面分割成兩部分。左側是鈴鈴戴著聖誕紅蝴蝶結的臉部特寫，寶石藍眼睛圓睜，在聚光燈下閃爍著好奇的光芒。右側是她一隻毛茸茸的爪子，輕輕按在雪地上，留下蓬鬆的腳印，同時伸向一個結霜的古銅色金屬鳥浴盆邊緣，那裡黏著一顆閃爍著微光的冰晶。",
+    "character": "lingling",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "2026年尼科西亞開放日首次將國際建築節帶到塞浦路斯尼科西亞，提供精選建築的免費導覽。",
+      "坎培拉國家多元文化節在澳洲坎培拉舉辦為期三天的音樂、舞蹈、美食與文化活動，歡迎家庭一同體驗多元傳統。",
+      "紐約大學的科學家們在美國紐約發現了一種新的「懸浮時間晶體」，其粒子能夠在聲波中漂浮並相互作用。",
+      "哈薩克斯坦的阿穆爾虎再引入計劃在2026年上半年將有少量老虎從俄羅斯遷入哈薩克斯坦，以恢復中亞地區的阿穆爾虎數量，標誌著一個重要的里程碑。"
+    ],
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Split View",
+      "lighting": "Spotlight",
+      "texture": "Metallic Surface",
+      "color_palette": "Earth Tones"
+    },
+    "inspiration": "original",
+    "story": "在白雪皚皚的冬日花園裡，脖子上繫著聖誕紅蝴蝶結的鈴鈴，好奇地發現了古銅色鳥浴盆邊緣閃爍的冰晶。她的寶石藍大眼瞪得圓圓的，充滿了對這個亮晶晶小東西的渴望。她小心翼翼地伸出粉紅肉球被毛覆蓋的爪子，試圖觸摸並「收藏」這份冬日禮物，全然不知冰冷的觸感可能讓她瞬間往後一彈。",
+    "prompt": "Macro photography, split view composition, sharp vertical cut line. Photorealistic, candid shot captured with a 35mm lens at f/1.8, natural light augmented by a narrow beam spotlight, subtle film grain. \n\nLeft half: Extreme close-up of a fluffy white longhair cat's face (Ling Ling). The cat has voluminous cloud-like fur, large round sapphire-blue gemstone eyes taking up a third of its small round face, pink inner ears and a pink nose, and cute tufted ear tips. She wears a Christmas red ribbon bow collar with a small golden bell. Her gemstone eyes are wide open, sparkling with intense curiosity, caught in the dramatic high-contrast light of a sharp-edged spotlight, with deep darkness falloff surrounding her.\n\nRight half: Extreme close-up of the cat's fluffy paw, gently pressed into fresh powder snow, leaving a soft, fluffy imprint and revealing visible pink toe beans from underneath. The paw is reaching towards the frost-rimmed edge of a vintage, verdigris bronze bird bath. The bird bath has a distinct metallic surface with brushed texture and sharp reflections, conveying an industrial premium feel. Delicately adhered to its edge is a single, shimmering, iridescent ice crystal, glowing with a faint blue-white micro-light.\n\nThe overall scene embodies natural organic harmony within a winter garden. Earth tone palette with terracotta, olive green, and warm brown tones in the background and on the bird bath, contrasted by the vibrant Christmas red bow and the cat's sapphire-blue eyes. Fine textures visible throughout, from fur to snow to metallic surface. The date and time '2026-02-08 21:20 UTC' must be visually displayed as a crisp, unobtrusive overlay in the corner of the image.",
+    "comment_id": 3868308819
   }
 ]
