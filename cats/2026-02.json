@@ -2430,5 +2430,38 @@
       "時間戳記視覺化顯示",
       "貓咪操作音頻裝置"
     ]
+  },
+  {
+    "title": "時光微調師",
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Film Grain",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "Watercolor painting, soft transparent pigments, bleeding edges, wet-on-wet technique, visible paper texture. A ginger cat intently calibrating a complex pocket watch movement using tiny tools, in a cluttered old clock repair shop. Fisheye wide-angle lens view with strong barrel distortion, exaggerated foreground, creating a 360-degree feel. Ring light illumination precisely highlighting the cat's focused action, with circular catchlight in its eyes and even frontal lighting. Warm amber color grading, an autumn palette of golden yellows and burnt orange, exuding cozy nostalgic warmth. Visible film grain texture, analog texture, subtle noise, and organic artistic imperfections. The date and time '2026-02-09 16:32 UTC' are clearly displayed within the image.",
+    "news_inspiration": [],
+    "story": "陽光透過魚眼鏡頭般的窗戶，將琥珀色的光暈灑滿木質工作檯，一隻毛茸茸的爪子輕柔地撥動著懷錶內精密的齒輪。底片顆粒般的質感為這份溫暖的專注時刻增添了懷舊的深度，環形燈的光芒則精準地勾勒出貓咪與古老機芯之間那份細膩而靜謐的互動。",
+    "idea": "以溫暖的琥珀秋日色調、底片顆粒質感及水彩畫風格，描繪一隻橘貓在魚眼鏡頭下的凌亂老鐘錶店中，專注地使用微小工具校準一枚複雜的懷錶機芯，環形燈光精準地照亮其專注的動作。",
+    "inspiration": "original",
+    "number": 214,
+    "avoid_list": [
+      "極低角度高聳視角",
+      "霓虹燈光夜景氛圍",
+      "鏡像反射構圖",
+      "螢光燈均勻照明",
+      "電影感體積光影",
+      "復古海報藝術風格",
+      "暖琥珀秋日調色",
+      "透明 / 半透明材質",
+      "工業風金屬質感",
+      "紙質纖維紋理",
+      "高飽和鮮豔復古色彩",
+      "Q版 / 體素化貓咪造型",
+      "貓咪凝視寶石般的眼睛",
+      "時間戳記視覺化顯示",
+      "貓咪操作音頻裝置"
+    ]
   }
 ]
