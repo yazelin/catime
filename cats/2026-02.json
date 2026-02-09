@@ -2142,5 +2142,39 @@
     ],
     "story": "農曆新年將近，這間僻靜的「寰宇旅行製圖所」裡，毛茸茸的製圖師正為湧動的亞洲內部旅遊潮忙碌。牠仔細檢視著地圖上東京、曼谷、台北等熱門目的地，確保每一條航線都精準無誤，為旅人繪製完美路徑。",
     "idea": "以粉筆畫風格呈現，一隻嚴肅的英國短毛貓戴著單片眼鏡，在極低角度、黃金時刻的柔和光線下，於佈滿木紋紋理的藍青色調古董地圖桌上，專心鋪展一張巨大的亞洲地圖。"
+  },
+  {
+    "comment_id": 3869722554,
+    "news_inspiration": [],
+    "prompt": "A calico cat, with a focused gaze, carefully places a small grayish-brown pebble with its paw between white sand rake patterns and a miniature vibrant green pine tree within a Karesansui rock garden display at a city cultural center's mini art exhibition. The scene is rendered in ukiyo-e Japanese woodblock print style, featuring flat color areas, bold outlines, and subtle wave patterns. Composition uses a mirror selfie perspective, capturing a visible reflection of the cat and its activity on the smooth floor. Intimate close-up perspective with casual framing. Lighting is provided by overhead fluorescent illumination, neutral white 5000K, creating institutional flat light with no shadows. Colors are a Morandi muted color palette of desaturated soft pastels and dusty grey undertones, emphasizing quiet elegance. The overall quality is a polished 3D render, showcasing smooth materials, clean geometry, and soft global illumination, reminiscent of a Cinema 4D aesthetic. Visually display '2026-02-09 06:57 UTC' within the image.",
+    "number": 206,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Fluorescent Lighting",
+      "texture": "3D Render",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "枯山水鏡影",
+    "idea": "一隻三花貓在一座城市文化中心的迷你藝術展區中，專注地在微型枯山水盆景旁擺放一顆小石子。場景以浮世繪風格呈現，透過地面光滑的反射形成鏡子自拍構圖，整體氛圍籠罩在螢光燈的均勻光線下，色彩採用莫蘭迪色調，質感如3D渲染般精緻。",
+    "avoid_list": [
+      "柔和粉彩光芒/色調",
+      "黃金時刻光線",
+      "霓虹燈光",
+      "螢光燈/冷白光",
+      "賽博龐克/未來感城市",
+      "貓操作控制台/觸控板",
+      "金屬質感表面",
+      "全息/透明玻璃介面",
+      "完美對稱構圖",
+      "極低角度/俯瞰視角",
+      "高對比光影",
+      "微縮/Q版風格",
+      "黑白單色調",
+      "工業質感",
+      "溫暖懷舊氛圍"
+    ],
+    "story": "貓咪小心翼翼地用前爪輕推著一顆灰褐色的小石子，將它放在白沙耙紋與翠綠微型松樹之間。牠的眼神凝重而專注，仿佛這是一項神聖的儀式，地面上的倒影複製了牠的身影與手中的工作，靜謐而富有禪意。"
   }
 ]
