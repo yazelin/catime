@@ -2655,5 +2655,43 @@
       "大地色系與溫暖色調"
     ],
     "number": 219
+  },
+  {
+    "title": "黑金戰利品",
+    "idea": "一張以IXUS消費相機風格拍攝的俯瞰照片，在閃光燈直打下，一隻黑貓正慵懶地玩耍著一個金色的迷你獎盃，咖啡桌由奢華的烏木木紋製成，整體呈現金色與黑色奢華的視覺感受。",
+    "news_inspiration": [
+      "西雅圖海鷹隊在超級碗LX中擊敗新英格蘭愛國者隊，再次奪得冠軍。",
+      "在南非開普敦，一支城市道路清潔隊在清理道路時發現並營救了一隻被遺棄的小狗，展現了溫暖人心的一幕。",
+      "隨著司美格魯肽專利即將到期，印度準備向全球市場供應更便宜的減肥藥，預計價格可能下降多達90%。",
+      "英國里茲大學的研究人員發現，當森林土壤含有足夠的氮時，熱帶森林在砍伐後的再生速度可以增加一倍。"
+    ],
+    "story": "在一間裝潢講究的黑金色奢華客廳裡，一隻烏黑的貓咪慵懶地趴在光潔如鏡的烏木咖啡桌上。牠伸出前爪，輕輕撥弄著桌上閃耀的金色迷你獎盃，似乎將其視為尋常的玩具。背景的巨型電視螢幕上模糊地映照出體育賽事的慶祝畫面，這隨手一拍捕捉了賽後寧靜而獨特的勝利時刻。",
+    "prompt": "A bird's-eye view, looking straight down, of a black cat lazily playing with a miniature golden trophy. The cat is sprawled on a luxurious ebony wood coffee table, featuring natural wood grain texture, visible knots and lines, and an organic tactile surface. The image has an IXUS-style point-and-shoot camera aesthetic, with harsh direct on-camera flash, resulting in slightly overexposed highlights, blown-out highlights, and hard shadows, giving a raw, casual candid snapshot look. The overall visual presents an opulent gold and black color scheme, with luxurious metallic gold accents against a deep black background, conveying a rich, warm, and luxurious mood. A blurred, out-of-focus sports celebration is faintly visible on a giant TV screen in the background. The timestamp '2026-02-09 22:29 UTC' is visually displayed in the corner.",
+    "avoid_list": [
+      "刺繡藝術風格與可見針線",
+      "底片顆粒質感與類比紋理",
+      "微縮立體模型與移軸效果",
+      "超廣角或魚眼鏡頭與劇烈透視變形",
+      "經典三點打光",
+      "環形燈光與圓形眼神光",
+      "復古褪色色調與懷舊底片感",
+      "貓咪專注進行精細操作",
+      "纖細貓爪與微小工具",
+      "俯瞰視角與空拍效果",
+      "水彩畫風格與濕中濕技法",
+      "高飽和鮮豔色與大膽色調",
+      "戲劇性陰影與勾勒輪廓光",
+      "古老或凌亂的工作/實驗空間"
+    ],
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Wood Grain",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 3874214176,
+    "number": 220,
+    "inspiration": "西雅圖海鷹隊在超級碗LX中擊敗新英格蘭愛國者隊，再次奪得冠軍。"
   }
 ]

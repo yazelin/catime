@@ -1619,5 +1619,14 @@
     "title": "露珠尋寶",
     "model": "gemini-3-pro-image-preview",
     "number": 219
+  },
+  {
+    "status": "success",
+    "title": "黑金戰利品",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-09_2229_UTC.webp",
+    "number": 220,
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-02-09 22:29 UTC",
+    "inspiration": "西雅圖海鷹隊在超級碗LX中擊敗新英格蘭愛國者隊，再次奪得冠軍。"
   }
 ]
