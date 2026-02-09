@@ -2322,5 +2322,39 @@
       "color_palette": "High Saturation Vivid"
     },
     "story": "在昏暗螢光燈的照射下，這隻名叫「繡繡」的貓咪園藝師，熟練地用絲線將一株嬌小的螢光蘭花嫁接到覆滿青苔的岩石上。鏡中反映出牠認真的神情，以及周遭高飽和鮮豔色的刺繡植物與器材，整個畫面籠罩著底片顆粒般的細膩質感。"
+  },
+  {
+    "inspiration": "original",
+    "prompt": "An elegant black cat as an embroidered illustration, rendered with visible needlework on linen fabric using satin stitch and French knots, embodying a handcrafted textile art aesthetic. The cat is intensely focused, gently strategizing by moving a glossy golden chess piece on a magnificent golden embroidered chessboard within an opulent living room. The date and time '2026-02-09 12:53 UTC' are visually displayed. The composition utilizes an ultra wide angle 12-18mm lens perspective with dramatic perspective distortion, creating an expansive field of view that captures the grand surroundings. Soft diffused natural light, akin to an overcast sky, provides even illumination, ensuring no harsh shadows and presenting gentle tones. The chess pieces feature a glossy plastic toy texture with a smooth high-shine surface, slight reflections, and a vinyl figure aesthetic. The dominant gold and black color scheme is enhanced by luxurious metallic gold accents against a deep black background, establishing an opulent mood.",
+    "comment_id": 3871540781,
+    "title": "金棋玄思",
+    "idea": "一隻優雅的黑貓，以刺繡藝術風格呈現，在華麗客廳的黃金刺繡棋盤前專注策劃，超廣角構圖捕捉其周圍環境。柔和的自然漫射光勾勒出棋子亮面塑膠般的質感，一切盡顯奢華的金色與黑色調。",
+    "story": "老宅深處，唯有微小棋子輕觸棋盤的細聲打破寧靜。那隻貓咪輕巧地撥動一顆亮面金色棋子，沉著地佈局，一步步邁向無聲的勝利。這場智慧的對弈，在溫柔的晨光下展開一場靜默的策略芭蕾。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "極低角度高聳視角",
+      "霓虹燈光夜景氛圍",
+      "鏡像反射構圖",
+      "螢光燈均勻照明",
+      "電影感體積光影",
+      "復古海報藝術風格",
+      "暖琥珀秋日調色",
+      "透明 / 半透明材質",
+      "工業風金屬質感",
+      "紙質纖維紋理",
+      "高飽和鮮豔復古色彩",
+      "Q版 / 體素化貓咪造型",
+      "貓咪凝視寶石般的眼睛",
+      "時間戳記視覺化顯示",
+      "貓咪操作音頻裝置"
+    ],
+    "number": 211,
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
