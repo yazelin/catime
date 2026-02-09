@@ -2463,5 +2463,39 @@
       "時間戳記視覺化顯示",
       "貓咪操作音頻裝置"
     ]
+  },
+  {
+    "idea": "空拍視角下，一隻橘貓在古老沙漠考古挖掘場的網格狀探坑中，好奇地探查一塊部分出土的陶器碎片，整體畫面呈現電影感打光與復古褪色色調。",
+    "story": "廣袤的沙地上，網格與繩索勾勒出人類探尋歷史的痕跡。在午後斜陽的電影感打光下，橘貓彷彿成了最小的探險家，它專注於眼前那塊歷經千年風沙的古老碎片，周圍帆布與織物的痕跡在鏡頭下呈現出細膩的質感。",
+    "number": 215,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Bird's-Eye View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "Retro Faded Tones"
+    },
+    "avoid_list": [
+      "刺繡藝術風格",
+      "極低角度拍攝",
+      "鏡子自拍構圖",
+      "超廣角透視",
+      "電影感打光與體積光",
+      "底片顆粒與類比紋理",
+      "三點打光設置",
+      "柔和粉彩顏色",
+      "螢光燈與無陰影",
+      "專注於細緻操作的貓咪",
+      "微縮世界或立體模型",
+      "半透明樹脂材質",
+      "高飽和鮮豔色彩",
+      "視覺顯示日期時間",
+      "大地色系與溫暖色調"
+    ],
+    "title": "沙丘遺跡的守望者",
+    "comment_id": 3873055080,
+    "news_inspiration": [],
+    "prompt": "Drone aerial shot, bird's-eye view, looking straight down at an expansive desert archaeological site with geometric grid patterns of excavation pits outlined by ropes and canvases, creating a miniature world effect. A curious orange cat, central to the frame, inspects a partially unearthed ancient pottery fragment. The dig site foreground features tactile woven fabric textures of linen and cotton, with visible threads on the sandy ground. Cinematic lighting, volumetric light rays, and dramatic shadows from the afternoon slanting sun, high dynamic range. Retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth, creating a film-quality mood. Captured with a professional drone camera, wide-angle lens, natural light, shallow depth of field focusing on the cat and fragment, subtle film grain. The date and time '2026-02-09 17:44 UTC' are visually displayed in the image."
   }
 ]
