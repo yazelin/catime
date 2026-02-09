@@ -2693,5 +2693,44 @@
     "comment_id": 3874214176,
     "number": 220,
     "inspiration": "西雅圖海鷹隊在超級碗LX中擊敗新英格蘭愛國者隊，再次奪得冠軍。"
+  },
+  {
+    "number": 221,
+    "idea": "在GTA風格的魚眼鏡頭廣角下，一隻酷炫的橘貓正駕駛著倫敦雙層巴士，背光勾勒出其亮面塑膠般的輪廓，牠一邊開車一邊從窗戶噴射泡泡，為街頭帶來大地色系的歡樂騷動。",
+    "story": "在夕陽的背光中，這隻橘貓巴士司機以其標誌性的墨鏡和淡定表情，靈活操控著紅色的雙層巴士。牠熟練地從駕駛座窗戶噴灑出晶瑩的泡泡，這些泡泡在晚霞的大地色系餘暉中閃耀，為倫敦擁擠的街道注入一股意想不到的歡樂氣氛，讓行人與車內乘客們驚喜不已。",
+    "title": "紅巴泡泡趣",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Fisheye Lens",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Earth Tones"
+    },
+    "inspiration": "英國倫敦一位雙層巴士司機Ricky Reed在行駛路線上用泡泡槍製造歡樂，為通勤者帶來了意想不到的愉悅。",
+    "news_inspiration": [
+      "日本選手村瀨心瑚在義大利米蘭-科爾蒂納舉行的2026年冬季奧運會女子大跳台滑雪項目中，於最後一跳成功奪得金牌。",
+      "澳洲坎培拉正在舉辦為期三天的國家多元文化節，透過音樂、舞蹈、美食和文化慶典，將世界各地的社區聚集在一起。",
+      "第49屆加爾各答國際書展於印度加爾各答舉行，吸引數百萬遊客，並以阿根廷作為2026年的主題國。",
+      "美國國家航空暨太空總署（NASA）的研究指出，火星上蓋爾撞擊坑的有機化合物豐度無法完全以非生物來源解釋，暗示可能存在生命。",
+      "英國倫敦一位雙層巴士司機Ricky Reed在行駛路線上用泡泡槍製造歡樂，為通勤者帶來了意想不到的愉悅。"
+    ],
+    "comment_id": 3874348488,
+    "avoid_list": [
+      "刺繡藝術風格與可見針線",
+      "底片顆粒質感與類比紋理",
+      "微縮立體模型與移軸效果",
+      "超廣角或魚眼鏡頭與劇烈透視變形",
+      "經典三點打光",
+      "環形燈光與圓形眼神光",
+      "復古褪色色調與懷舊底片感",
+      "貓咪專注進行精細操作",
+      "纖細貓爪與微小工具",
+      "俯瞰視角與空拍效果",
+      "水彩畫風格與濕中濕技法",
+      "高飽和鮮豔色與大膽色調",
+      "戲劇性陰影與勾勒輪廓光",
+      "古老或凌亂的工作/實驗空間"
+    ],
+    "prompt": "A cool orange cat, sporting iconic sunglasses and a calm expression, is skillfully driving a vibrant red London double-decker bus through an urban street. The cat is blowing an eruption of glossy, shimmering bubbles from the driver's window, creating an unexpected, joyful commotion. The composition is captured with a dramatic fisheye wide-angle lens, showcasing strong barrel distortion and an exaggerated foreground for an immersive 360-degree feel. The scene is bathed in the dramatic backlighting of a sunset, creating powerful rim light that outlines the cat and bus with glowing silhouette edges against the warm, saturated sky. The art style is Grand Theft Auto-inspired, a bold cel-shaded illustration with an urban attitude, featuring a glossy plastic toy texture, smooth high-shine surfaces, and slight reflections, evoking a vinyl figure aesthetic. The color palette incorporates a natural organic harmony of earth tones, including terracotta, olive green, and warm browns. Visually displayed in the image: '2026-02-09 23:06 UTC'."
   }
 ]
