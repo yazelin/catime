@@ -2533,5 +2533,47 @@
     "number": 216,
     "comment_id": 3873364644,
     "idea": "一幅浮世繪風格的微縮立體模型畫面，描繪了胖胖的麻糬在一家傳統麵包店裡，以青綠與暖橘雙色調呈現，偷偷伸手偷取香甜菠蘿麵包的場景。"
+  },
+  {
+    "title": "浮樁獵影",
+    "character": "captain",
+    "character_name": "船長",
+    "news_inspiration": [
+      "2026年冬季奧運會正在義大利米蘭、科爾蒂納丹佩佐和利維尼奧等地如火如荼地進行，各國運動員在多項賽事中爭奪獎牌。",
+      "世界上最大望遠鏡「極大望遠鏡（ELT）」正在智利塞羅阿馬索內斯山頂建造，預計將開啟天文學的新紀元。",
+      "肯亞奈洛比舉辦了2026年中國新年慶典晚會，透過文化表演促進了文化交流。",
+      "美國史密森尼國家動物園慶祝近四分之一個世紀以來第一頭亞洲象寶寶的誕生，為瀕危物種帶來了希望。",
+      "沙烏地阿拉伯埃爾奧拉宣布成立埃爾奧拉當代藝術博物館，旨在推廣沙特和中東藝術家並豐富當地文化景觀。"
+    ],
+    "avoid_list": [
+      "刺繡藝術風格",
+      "極低角度拍攝",
+      "鏡子自拍構圖",
+      "超廣角透視",
+      "電影感打光與體積光",
+      "底片顆粒與類比紋理",
+      "三點打光設置",
+      "柔和粉彩顏色",
+      "螢光燈與無陰影",
+      "專注於細緻操作的貓咪",
+      "微縮世界或立體模型",
+      "半透明樹脂材質",
+      "高飽和鮮豔色彩",
+      "視覺顯示日期時間",
+      "大地色系與溫暖色調"
+    ],
+    "prompt": "A striking black and white photograph captured with a 100mm macro lens at f/2.8, showcasing a large stocky classic brown tabby cat. The cat, exhibiting bold black stripes, a distinctive M-mark on its forehead, a dark eye patch over its left eye, and one piercing emerald green right eye, is poised in a squat on the weathered top of a huge, barnacle-covered wooden mooring post. Its long prominent white whiskers, white chest bib, and white mitten paws are clearly visible, contrasting with its slightly scruffy rough fur. A small notch on its left ear and a thick sturdy tail add to its rugged and weathered appearance, which carries a quiet authority. The cat's single emerald green eye is sharply focused downwards, fixated on shimmering fish just below the water's surface, its whiskers trembling slightly in anticipation. The composition creates a 'floating island' effect, presenting the mooring post as a miniature landscape on a levitating platform from an aerial perspective, with the cat as its sole inhabitant. Golden hour lighting conditions are translated into intense, low-angle directional natural light, casting long soft shadows and creating dramatic rim light and highlights, resulting in high contrast and a rich tonal range characteristic of black and white monochrome photography. Extreme close-up with sharp detail is paramount, revealing fine textures of the natural wood grain, visible knots and lines, organic tactile surface, and the cat's disheveled fur details. Shallow depth of field isolates the subject against a subtly blurred background. Text overlay: '2026-02-09 19:58 UTC' prominently displayed.",
+    "comment_id": 3873535970,
+    "idea": "微距攝影捕捉到船長在黃金時刻，穩穩地蹲伏在一個飽經風霜的木樁頂端，以浮島般的構圖，銳利地凝視著下方水中游動的魚群，粗獷的木紋與牠蓬亂的毛髮細節在黑白單色調中形成鮮明對比。",
+    "number": 217,
+    "inspiration": "original",
+    "story": "當夕陽將港口染成金黃，船長如往常般站上牠最愛的瞭望點——一根佈滿藤壺的巨大繫船木樁。牠寬厚的胸膛在低角度光線下顯得格外堅實，左眼罩和左耳的缺口在光影中更添傳奇色彩。然而，當牠銳利的翠綠獨眼捕捉到水面下銀光閃爍的魚影時，牠那傳說中堅毅的表情瞬間瓦解，長長的白鬍鬚微微顫動，所有的威嚴都隨著那份對魚的原始渴望而變得柔軟，準備隨時撲向牠畢生最難以抗拒的誘惑。",
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Floating Island Scene",
+      "lighting": "Golden Hour",
+      "texture": "Wood Grain",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
