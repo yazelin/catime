@@ -722,6 +722,21 @@
     }
   });
 
+  // ── Random cat button ──
+  const randomCatBtn = document.getElementById("random-cat-btn");
+  function openRandomCat() {
+    const pool = filtered.length ? filtered : allCats;
+    if (!pool.length) return;
+    const idx = Math.floor(Math.random() * pool.length);
+    while (loaded <= idx && loaded < filtered.length) loadMore();
+    openLightbox(pool[idx], idx);
+  }
+  randomCatBtn.addEventListener("click", () => {
+    randomCatBtn.classList.add("bounce");
+    randomCatBtn.addEventListener("animationend", () => randomCatBtn.classList.remove("bounce"), { once: true });
+    openRandomCat();
+  });
+
   // ── Lightbox touch swipe ──
   let touchStartX = 0;
   let touchStartY = 0;
