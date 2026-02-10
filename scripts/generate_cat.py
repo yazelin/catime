@@ -78,6 +78,40 @@ RENDER_PROMPT = (
     '{{"prompt": "English image prompt here"}}'
 )
 
+def safe_load_json(path: Path, default):
+    if not path.exists():
+        return default
+    try:
+        with path.open("r", encoding="utf-8") as handle:
+            return json.load(handle)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"Failed to read {path}: {e}")
+        return default
+
+
+def load_json_list(path: Path) -> list:
+    data = safe_load_json(path, [])
+    if isinstance(data, list):
+        return data
+    print(f"Invalid JSON structure in {path}, expected list.")
+    return []
+
+
+def load_json_dict(path: Path, default: dict | None = None) -> dict:
+    fallback = default or {}
+    data = safe_load_json(path, fallback)
+    if isinstance(data, dict):
+        return data
+    print(f"Invalid JSON structure in {path}, expected object.")
+    return fallback
+
+
+def atomic_write_json(path: Path, data) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = path.with_suffix(path.suffix + ".tmp")
+    tmp_path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+    tmp_path.replace(path)
+
 def load_style_reference() -> dict:
     """Load style_reference.json, return empty dict if not found."""
     style_path = Path(__file__).parent / "style_reference.json"
@@ -344,8 +378,8 @@ def get_recent_context(n: int = 10) -> dict:
     catlist_path = Path("catlist.json")
     if not catlist_path.exists():
         return {'prompts': [], 'stories': []}
-    cats = json.loads(catlist_path.read_text())
-    valid_cats = [c for c in cats if c.get("prompt")][-n:]
+    cats = load_json_list(catlist_path)
+    valid_cats = [c for c in cats if isinstance(c, dict) and c.get("prompt")][-n:]
     return {
         'prompts': [c["prompt"] for c in valid_cats],
         'stories': [c.get("story", "") for c in valid_cats if c.get("story")]
@@ -401,23 +435,16 @@ def parse_ai_response_generic(text: str, required_keys: list) -> dict | None:
 def load_creative_notes() -> dict:
     """Load creative_notes.json, return empty structure if not found."""
     notes_path = Path("creative_notes.json")
-    if not notes_path.exists():
-        return {"avoid_list": [], "updated_at": None}
-    try:
-        return json.loads(notes_path.read_text())
-    except (json.JSONDecodeError, OSError):
-        return {"avoid_list": [], "updated_at": None}
+    notes = load_json_dict(notes_path, {"avoid_list": [], "updated_at": None})
+    if not isinstance(notes.get("avoid_list"), list):
+        notes["avoid_list"] = []
+    return notes
 
 
 def load_monthly_detail(month: str) -> list:
     """Load a monthly detail file (cats/YYYY-MM.json). Returns [] if not found."""
     month_path = Path("cats") / f"{month}.json"
-    if not month_path.exists():
-        return []
-    try:
-        return json.loads(month_path.read_text())
-    except (json.JSONDecodeError, OSError):
-        return []
+    return load_json_list(month_path)
 
 
 def maybe_update_creative_notes(cat_number: int) -> dict:
@@ -432,9 +459,15 @@ def maybe_update_creative_notes(cat_number: int) -> dict:
     if not catlist_path.exists():
         return notes
 
-    cats = json.loads(catlist_path.read_text())
+    cats = load_json_list(catlist_path)
     # Collect recent months from index timestamps (newest last)
-    months = sorted({c["timestamp"][:7] for c in cats if c.get("status", "success") == "success"})
+    months = sorted({
+        c["timestamp"][:7]
+        for c in cats
+        if isinstance(c, dict)
+        and c.get("status", "success") == "success"
+        and isinstance(c.get("timestamp"), str)
+    })
     # Load details from recent months until we have enough entries
     all_details = []
     for month in reversed(months):
@@ -825,10 +858,10 @@ def update_catlist_and_push(entry: dict) -> int:
 
     # Write lightweight index entry to catlist.json
     catlist_path = Path("catlist.json")
-    cats = json.loads(catlist_path.read_text()) if catlist_path.exists() else []
+    cats = load_json_list(catlist_path)
     index_entry = {k: entry[k] for k in index_fields if k in entry}
     cats.append(index_entry)
-    catlist_path.write_text(json.dumps(cats, indent=2, ensure_ascii=False) + "\n")
+    atomic_write_json(catlist_path, cats)
 
     git_add_files = ["catlist.json"]
 
@@ -839,10 +872,10 @@ def update_catlist_and_push(entry: dict) -> int:
         cats_dir = Path("cats")
         cats_dir.mkdir(exist_ok=True)
         month_path = cats_dir / f"{month}.json"
-        monthly = json.loads(month_path.read_text()) if month_path.exists() else []
+        monthly = load_json_list(month_path)
         detail_entry = {k: entry[k] for k in detail_fields if k in entry}
         monthly.append(detail_entry)
-        month_path.write_text(json.dumps(monthly, indent=2, ensure_ascii=False) + "\n")
+        atomic_write_json(month_path, monthly)
         git_add_files.append(str(month_path))
 
     subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
@@ -883,10 +916,13 @@ def already_has_cat_this_hour(now: datetime) -> bool:
     catlist_path = Path("catlist.json")
     if not catlist_path.exists():
         return False
-    cats = json.loads(catlist_path.read_text())
+    cats = load_json_list(catlist_path)
     hour_prefix = now.strftime("%Y-%m-%d %H:")
     return any(
-        c.get("status", "success") == "success" and c["timestamp"].startswith(hour_prefix)
+        isinstance(c, dict)
+        and c.get("status", "success") == "success"
+        and isinstance(c.get("timestamp"), str)
+        and c["timestamp"].startswith(hour_prefix)
         for c in cats
     )
 
@@ -902,7 +938,7 @@ def main():
 
     # Read current count for numbering (needed before creative notes update)
     catlist_path = Path("catlist.json")
-    cats = json.loads(catlist_path.read_text()) if catlist_path.exists() else []
+    cats = load_json_list(catlist_path)
     next_number = len(cats) + 1
 
     # Update creative notes if needed (every 5 cats)
