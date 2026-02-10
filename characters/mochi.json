@@ -8,7 +8,7 @@
     "breed": "橘白色短毛家貓",
     "body": "圓滾滾的身型，明顯偏胖，四肢短而粗，像一顆花生麻糬",
     "face": "扁圓臉，大圓眼，琥珀色瞳孔，表情永遠帶著一點呆萌",
-    "fur_pattern": "白底為主，背部和頭頂有大塊橘色斑，像撒了花生粉。肚子全白，尾巴橘白相間環狀紋路",
+    "fur_pattern": "白底為主，右半邊臉到右耳是橘色斑，背部有心型/花生型橘色斑塊。肚子全白，尾巴橘白相間環狀紋路",
     "distinctive_features": [
       "鼻頭是粉紅色的，中間有一小點橘色",
       "右前腳整隻是橘色（像戴了一隻手套）",
@@ -31,7 +31,7 @@
     ],
     "voice": "溫暖、呆萌、有點傻"
   },
-  "visual_prompt_snippet": "a chubby round orange-and-white shorthair cat with amber eyes, pink nose with a tiny orange spot, distinctive orange right front paw like wearing one glove, white belly, orange-and-white ringed tail, flat round face with a slightly dopey lovable expression",
+  "visual_prompt_snippet": "MUST-HAVE CHECKLIST for this cat: (1) chubby round shorthair cat, (2) white base fur with orange patches, (3) ALWAYS orange patch covering right half of face extending to right ear, (4) ALWAYS a heart-shaped or peanut-shaped orange patch on the back, (5) ALWAYS right front paw entirely orange like wearing ONE glove - left front paw is WHITE, (6) round amber eyes with pink nose that has a tiny orange dot in center, (7) orange-and-white ringed tail, (8) white belly. NEVER: no stripes, no tabby markings, no fully orange cat - this is a PATCHED orange-and-white cat with specific patch placement.",
   "story_context": "麻糬是一隻住在老街市場裡的橘白貓，名字來自牠圓滾滾像麻糬的身型和橘白配色像撒了花生粉。最愛在各個攤位間巡邏「試吃」，老闆們又愛又恨，但誰也捨不得趕走這顆會走路的麻糬。",
   "preferred_settings": [
     "傳統市場",

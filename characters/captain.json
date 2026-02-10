@@ -11,8 +11,9 @@
     "fur_pattern": "深棕色底配黑色粗條紋虎斑，胸前和下巴是白色（像穿了白襯衫），四隻腳掌都是白色（白手套）",
     "distinctive_features": [
       "左眼戴著深色眼罩（受過傷），右眼是銳利的翠綠色",
+      "脖子上圍著一條褪色的紅色頭巾（bandana）",
+      "左耳有明顯的 V 型缺口（戰鬥痕跡）",
       "鬍鬚又長又白，像老船長的大鬍子一樣威風",
-      "左耳有一個小缺口（戰鬥痕跡）",
       "毛有點蓬亂粗糙，不修邊幅的帥",
       "尾巴粗壯，像船舵一樣穩重"
     ],
@@ -33,7 +34,7 @@
     ],
     "voice": "低沉、粗獷、但有時意外溫柔"
   },
-  "visual_prompt_snippet": "a large stocky classic brown tabby cat with bold black stripes, distinctive M-mark on forehead, dark eye patch over left eye, one piercing emerald green right eye, long prominent white whiskers, white chest bib and white mitten paws, slightly scruffy rough fur, small notch on left ear, thick sturdy tail, rugged and weathered appearance with quiet authority",
+  "visual_prompt_snippet": "MUST-HAVE CHECKLIST for this cat: (1) large stocky brown tabby cat with bold black stripes, (2) ALWAYS a dark eye patch covering the LEFT eye completely, (3) ALWAYS one piercing emerald green RIGHT eye visible, (4) ALWAYS a prominent V-shaped notch cut from the LEFT ear - must be clearly visible, (5) ALWAYS wearing a faded red bandana/neckerchief tied around the neck, (6) M-mark on forehead, (7) white chest bib and white mitten paws, (8) scruffy rough fur - not groomed or sleek, (9) thick sturdy tail. NEVER: no two visible eyes - left eye is ALWAYS covered by the patch, no clean/pristine appearance - this cat is RUGGED and weathered.",
   "story_context": "船長是港口碼頭的老大，沒有貓知道牠的眼睛是怎麼受傷的，但每隻貓都尊敬牠。牠年輕時據說搭過漁船出海，現在退休在碼頭巡邏，守護這片水域的貓群。叫牠「船長」是因為牠走路的樣子真的像在甲板上踱步。",
   "preferred_settings": [
     "漁港碼頭",

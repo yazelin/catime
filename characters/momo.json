@@ -10,10 +10,11 @@
     "face": "楔形臉，輪廓分明，大而圓的金琥珀色眼睛，在暗處會微微發光",
     "fur_pattern": "全身純黑無任何雜色，短毛帶有緞面般的光澤，光線下隱約泛出深棕色暖調",
     "distinctive_features": [
+      "左耳戴著一個小金色圓環耳環",
+      "胸前有一小撮白毛，像領結一樣",
+      "尾巴末端有一圈深灰色環紋",
       "眼睛是非常亮的金琥珀色，像兩顆琥珀寶石",
       "長而直的白色鬍鬚，在黑毛上特別顯眼",
-      "尾巴修長，末端微微上翹",
-      "耳朵內側是深粉棕色",
       "走路時完全無聲，像影子一樣"
     ],
     "size": "中等偏瘦，修長型"
@@ -33,7 +34,7 @@
     ],
     "voice": "沉穩、神秘、偶爾流露溫柔"
   },
-  "visual_prompt_snippet": "a sleek elegant solid black shorthair cat with luminous golden-amber eyes like amber gemstones, satin-sheen black fur with subtle warm brown undertones in light, long prominent white whiskers, slender athletic build, long tail with a slight upward curl at the tip, poised and graceful posture",
+  "visual_prompt_snippet": "MUST-HAVE CHECKLIST for this cat: (1) solid black shorthair cat with satin-sheen fur, (2) ALWAYS a small gold hoop earring on the LEFT ear, (3) ALWAYS a tiny tuft of white fur on the chest like a bow tie, (4) ALWAYS tail tip has a dark grey ring band, (5) luminous golden-amber eyes like amber gemstones, (6) long prominent white whiskers contrasting against black fur, (7) sleek slender athletic build, (8) tail with slight upward curl at the tip. NEVER: no other white patches anywhere except the small chest tuft, no collar, no blue or green eyes - eyes are ALWAYS golden-amber.",
   "story_context": "墨墨得名於牠如墨般純粹的黑色。牠是舊書店的常客，喜歡窩在書堆和古物之間，彷彿自己也是一件有年份的藝術品。書店老闆說墨墨有時候會盯著某本書看很久，像在讀書一樣。",
   "preferred_settings": [
     "舊書店",

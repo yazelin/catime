@@ -305,9 +305,10 @@ def format_character_for_render(char: dict) -> str:
             seasonal_addition = f" Seasonal theme: {season} - the cat should be dressed/styled appropriately for {season}."
 
     return (
-        f"\nCHARACTER CONSISTENCY (CRITICAL):\n"
-        f"The cat in this image MUST match this exact description: {snippet}\n"
-        f"Maintain ALL of these visual features precisely. This is a recurring character.{seasonal_addition}\n"
+        f"\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n"
+        f"{snippet}\n"
+        f"Every item in the MUST-HAVE CHECKLIST above is MANDATORY. Do NOT skip any.\n"
+        f"If the art style makes any feature hard to show, simplify the style — NEVER drop the feature.{seasonal_addition}\n"
     )
 
 
