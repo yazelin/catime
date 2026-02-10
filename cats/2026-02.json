@@ -3000,5 +3000,38 @@
     },
     "inspiration": "美國國家航空暨太空總署麥哲倫號太空船的雷達數據，科學家們確認金星表面下方存在巨大的地下熔岩管。",
     "idea": "一個巨大、復古褪色色調的透明聖誕裝飾球微縮模型，內部呈現一塊浮島般的金星地貌切面。一隻短毛薑貓正專注地探索著其裸露的地下熔岩管，整個場景沐浴在溫暖的黃金時刻光芒中，質感如同透明樹脂。"
+  },
+  {
+    "avoid_list": [
+      "微縮世界效果/立體模型",
+      "俯瞰視角/垂直俯視",
+      "閃光燈直打與硬光陰影",
+      "強烈背光與邊緣光",
+      "可見底片顆粒/類比質感",
+      "亮面塑膠玩具質感/公仔美學",
+      "淺景深",
+      "貓咪專注凝視/探查",
+      "柔和粉彩色調/夢幻光感",
+      "豐富織物質感/可見織線",
+      "雙色調色彩處理",
+      "原始隨性快照感",
+      "蓬鬆毛髮",
+      "自然有機觸感表面"
+    ],
+    "prompt": "A weathered, striped cat intently drawing a nautical map with a quill pen, surrounded by a compass, dividers, and unrolled parchment. The cat is situated on a massive, suspended wooden platform, depicted as a floating island in the sky with white clouds in the vast background, viewed from an aerial perspective. The entire image is rendered in a chalk art style, featuring a dusty matte texture and visible hatching strokes against a subtly dark background, reminiscent of dark green slate. Lighting is a classic three-point setup, illuminated by a warm sunset glow: a key light with soft shadows, a fill light, and a subtle rim light providing separation. The wooden platform exhibits natural wood grain texture with visible knots and lines, presenting an organic tactile surface. The overall color scheme emphasizes warm earth tones, including terracotta, olive green, and warm brown, creating a natural organic harmony. The date and time '2026-02-10 11:44 UTC' are visually displayed within the image.",
+    "title": "木紋經緯",
+    "inspiration": "original",
+    "number": 229,
+    "news_inspiration": [],
+    "story": "夕陽的餘暉透過高窗灑進，照亮了這座孤懸於廣闊空間中的木製平台。一隻斑紋貓咪，身披著歲月的風霜，正用鵝毛筆在古老的航海圖上仔細勾勒著新的航線。周圍散落著羅盤、分規與未捲起的羊皮卷，每一筆都承載著對未知海域的嚮往。",
+    "idea": "一隻貓咪在一個巨大的、懸空的木製平台上，以粉筆畫的藝術風格，用三點打光照亮，專注地描繪著航海圖。場景中可見細膩的木紋質感，整體呈現大地色系。",
+    "comment_id": 3877099469,
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Three-Point Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
