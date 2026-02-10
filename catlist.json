@@ -1650,5 +1650,14 @@
     "model": "gemini-3-pro-image-preview",
     "status": "success",
     "number": 222
+  },
+  {
+    "timestamp": "2026-02-10 04:59 UTC",
+    "title": "紙上旅圖",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_0459_UTC.webp",
+    "inspiration": "海灣合作委員會 (GCC) 旅遊部長們已同意於2026年分階段推出申根式統一旅遊簽證，旨在簡化旅客入境阿聯酋、沙特阿拉伯等六個成員國的程序。",
+    "status": "success",
+    "number": 223,
+    "model": "gemini-3-pro-image-preview"
   }
 ]
