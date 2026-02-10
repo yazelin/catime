@@ -1771,5 +1771,16 @@
     "season": "winter",
     "character_name": "麻糬",
     "character": "mochi"
+  },
+  {
+    "status": "success",
+    "character": "captain",
+    "number": 236,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_2007_UTC.webp",
+    "character_name": "船長",
+    "inspiration": "original",
+    "timestamp": "2026-02-10 20:07 UTC",
+    "title": "暮色酒香",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

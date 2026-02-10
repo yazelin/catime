@@ -3258,5 +3258,41 @@
       "color_palette": "Morandi Color Palette"
     },
     "character": "mochi"
+  },
+  {
+    "prompt": "2026-02-10 20:07 UTC displayed. A polished 3D render, stylized to perfectly emulate a detailed pencil sketch on paper, featuring visible graphite strokes, hatching, and cross-hatching textures. The subject is a large, stocky brown tabby cat with bold black stripes, depicted as a grizzled captain. It has a dark eye patch completely covering its LEFT eye, and one piercing emerald green RIGHT eye visible. A prominent V-shaped notch is clearly visible on its LEFT ear. An M-mark adorns its forehead. It wears a faded red bandana/neckerchief tied around its neck, and has a white chest bib and white mitten paws. Its fur is scruffy, rough, and weathered. The captain cat sits regally on an old wooden bar counter in a vintage dockside tavern, its white whiskers casually splayed, surveying card-playing sailors with its keen right eye. Its thick, sturdy tail steadily sways like a ship's rudder. Perfectly symmetrical composition with the cat captain centered, showcasing a mirror-like balance within architectural framing. Cinematic lighting with volumetric light rays, dramatic shadows, high dynamic range, and soft global illumination. Retro faded color palette, washed-out vintage tones, low contrast, and nostalgic film-era warmth. Smooth materials, clean geometry, Cinema 4D aesthetic.",
+    "news_inspiration": [],
+    "character": "captain",
+    "idea": "一幅鉛筆素描風格的3D渲染圖，以復古褪色色調呈現，透過對稱構圖，捕捉船長在碼頭老酒吧裡的電影感瞬間。",
+    "number": 236,
+    "avoid_list": [
+      "畫面內顯示日期時間",
+      "經典三點式打光",
+      "強烈背光與輪廓光效",
+      "溫暖大地色系",
+      "霓虹螢光色彩",
+      "透明樹脂琥珀質感",
+      "黏土陶瓷藝術質感",
+      "等距視角構圖",
+      "極低角度仰視",
+      "貓咪操作精密機械",
+      "淺景深攝影",
+      "微縮模型效果",
+      "豐富高飽和色彩",
+      "自然木紋與有機觸感",
+      "紀實或街頭攝影風格"
+    ],
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Symmetrical Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "3D Render",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "船長",
+    "inspiration": "original",
+    "story": "船長威嚴地踞坐在陳舊的木製吧檯上，左眼罩和V型缺耳訴說著過去的戰役。銳利的翠綠右眼掃視著酒吧裡玩牌的水手們，彷彿仍在巡邏牠的領地，厚實的尾巴像船舵般穩穩地擺動著。微醺的空氣中，牠的白鬍鬚隨意散開，不修邊幅的帥氣中帶著一絲歲月沉澱的滄桑。",
+    "comment_id": 3880432338,
+    "title": "暮色酒香"
   }
 ]
