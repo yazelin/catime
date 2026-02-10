@@ -112,9 +112,11 @@
         calYear = parseInt(parts[0], 10);
         calMonth = parseInt(parts[1], 10) - 1;
       }
+      gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
       applyFilter();
     })
     .catch(err => {
+      gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
       gallery.innerHTML = `<p style="padding:2rem;color:var(--pink)">Failed to load cat list: ${err.message}</p>`;
     });
 
@@ -239,6 +241,7 @@
       return true;
     });
     loaded = 0;
+    gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
     gallery.innerHTML = "";
     endMsg.classList.add("loading");
     endMsg.classList.remove("hidden");

@@ -606,6 +606,39 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   #lb-details { max-height: none; }
 }
 
+/* Skeleton loader */
+.skeleton-card {
+  break-inside: avoid; margin-bottom: 1.2rem;
+  border-radius: 16px; overflow: hidden;
+  background: var(--surface);
+  border: 2px solid rgba(255,107,157,.1);
+}
+.skeleton-img {
+  width: 100%; aspect-ratio: 1;
+  background: linear-gradient(90deg, var(--pink-pale) 25%, #ffe0ec 50%, var(--pink-pale) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s ease-in-out infinite;
+}
+.skeleton-line {
+  height: .75rem; margin: .6rem .8rem;
+  border-radius: 8px;
+  background: linear-gradient(90deg, var(--pink-pale) 25%, #ffe0ec 50%, var(--pink-pale) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s ease-in-out infinite;
+}
+.skeleton-line.w80 { width: 80%; }
+.skeleton-line.w50 { width: 50%; }
+@keyframes skeleton-shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+[data-theme="dark"] .skeleton-img,
+[data-theme="dark"] .skeleton-line {
+  background: linear-gradient(90deg, #2a2030 25%, #3a2a40 50%, #2a2030 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s ease-in-out infinite;
+}
+
 /* Dark mode - class-based for manual toggle */
 [data-theme="dark"] {
   --bg: #1a1520;
