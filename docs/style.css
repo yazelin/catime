@@ -680,3 +680,16 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
     radial-gradient(circle at 90% 80%, rgba(116,185,255,.03) 0%, transparent 50%),
     radial-gradient(circle at 50% 50%, rgba(201,177,255,.02) 0%, transparent 50%);
 }
+
+/* Giscus comments section */
+#giscus-section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+#giscus-section h2 {
+  text-align: center;
+  color: var(--text);
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
