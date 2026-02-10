@@ -1637,5 +1637,18 @@
     "status": "success",
     "inspiration": "英國倫敦一位雙層巴士司機Ricky Reed在行駛路線上用泡泡槍製造歡樂，為通勤者帶來了意想不到的愉悅。",
     "timestamp": "2026-02-09 23:06 UTC"
+  },
+  {
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_0241_UTC.webp",
+    "is_seasonal": true,
+    "inspiration": "墨西哥發現了一座雕刻精美的薩波特克（Zapotec）古墓，被譽為近十年來最重要的考古發現。",
+    "title": "爐邊墨影半瞇眼",
+    "timestamp": "2026-02-10 02:41 UTC",
+    "character_name": "墨墨",
+    "season": "winter",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "number": 222
   }
 ]
