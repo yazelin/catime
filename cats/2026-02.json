@@ -3066,5 +3066,43 @@
     "prompt": "A black and white sculpted clay artwork of a cat, wearing a measuring tape, intently scrutinizing a pile of fabric scraps in an old tailor shop. The scene is presented with an IXUS point-and-shoot camera aesthetic, conveying a casual, candid feel. Extreme low angle shot, looking up at the cat, creating a dramatic, towering perspective and a powerful presence. Strong backlighting from a window creates a glowing rim light, outlining the cat's silhouette with bright edges against deep shadows, enhancing the dramatic mood. Some areas exhibit slightly overexposed highlights, characteristic of a direct flash. The clay texture is matte with subtle imperfections, giving it a handmade ceramic feel. The overall image features high contrast and a rich tonal range, with dramatic shadows and highlights in monochrome. The date and time '2026-02-10 12:57 UTC' are visually displayed in the image.",
     "news_inspiration": [],
     "inspiration": "original"
+  },
+  {
+    "number": 231,
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "以街頭攝影風格呈現，一個分割畫面捕捉了玻利維亞奧魯羅狂歡節的生動瞬間：左側畫面特寫一隻毛髮亮澤的貓咪，在背光形成的輪廓光中躍起，試圖拍打空中高飽和鮮豔、帶有亮面塑膠質感的彩帶；右側畫面則呈現狂歡人群的熱鬧背景，服飾與裝飾同樣閃爍著高飽和的玩具質感。",
+    "news_inspiration": [
+      "泰國考柯歐開放動物園的網紅侏儒河馬Moo Deng因其在白色浴缸裡玩水而爆紅，為遊客帶來歡樂。",
+      "儘管全球局勢緊張，義大利米蘭-科爾蒂納冬季奧運會的運動員們仍將運動會視為擺脫地緣政治衝突的機會，強調團結與文化交流。",
+      "美國華盛頓特區的史密森尼國家動物園慶祝近25年來首隻亞洲象寶寶的誕生，為瀕危物種保育帶來新希望。",
+      "玻利維亞奧魯羅的狂歡節（Carnaval de Oruro）融合了西班牙和原住民的宗教傳統，被聯合國教科文組織列為人類口頭和非物質遺產代表作，吸引眾多狂歡者。"
+    ],
+    "inspiration": "玻利維亞奧魯羅的狂歡節（Carnaval de Oruro）融合了西班牙和原住民的宗教傳統，被聯合國教科文組織列為人類口頭和非物質遺產代表作，吸引眾多狂歡者。",
+    "avoid_list": [
+      "直打閃光燈、曝光過度與硬陰影",
+      "等距視角描繪",
+      "貓咪專注於細緻操作或研究",
+      "背光造成的輪廓光與剪影效果",
+      "隨手快照般的底片顆粒質感",
+      "天然木紋與可見木節",
+      "Y2K 美學與亮面塑膠質感",
+      "溫暖琥珀色調或夕陽餘暉",
+      "淺景深效果",
+      "極低角度拍攝",
+      "未來感控制中心與全息介面",
+      "透明樹脂材質與其清晰度",
+      "大地色系和諧配色",
+      "視覺化顯示時間戳記"
+    ],
+    "comment_id": 3877944405,
+    "prompt": "A street photography candid shot, split view composition with a sharp vertical cut line. Left half: Close-up of a sleek, shiny-furred cat, captured mid-leap against strong natural backlighting, prominent rim light outlining its form with glowing silhouette edges. The cat is attempting to swat highly saturated, vibrant streamers with a glossy plastic toy texture, showing smooth high-shine surfaces and slight reflections. Shallow depth of field, focusing sharply on the cat and streamers. Right half: A lively, blurry background of the Oruro Carnival crowd in Bolivia, their outfits and decorations shimmering with high-saturation, bold vibrant hues, and a glossy plastic toy texture, evoking a vinyl figure aesthetic. The overall scene features an energetic palette with eye-catching contrast. Visually displayed in the image: '2026-02-10 14:20 UTC'. Captured with a 35mm lens, f/1.8 aperture, subtle film grain.",
+    "story": "在玻利維亞奧魯羅狂歡節的喧囂中，一隻毛色光滑的貓咪被空中飛舞的亮面塑膠彩帶所吸引。牠矯捷地躍起，試圖用爪子捕捉那片閃耀的歡樂。分割畫面一邊凝視著貓咪專注的身影，另一邊則展現著背後色彩飽和、狂熱舞動的人群，每個細節都充滿了節日的活力與亮面玩具般的質感。",
+    "title": "狂歡躍影"
   }
 ]

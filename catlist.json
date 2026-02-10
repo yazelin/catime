@@ -1722,5 +1722,14 @@
     "number": 230,
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_1257_UTC.webp",
     "inspiration": "original"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_1420_UTC.webp",
+    "number": 231,
+    "status": "success",
+    "timestamp": "2026-02-10 14:20 UTC",
+    "inspiration": "玻利維亞奧魯羅的狂歡節（Carnaval de Oruro）融合了西班牙和原住民的宗教傳統，被聯合國教科文組織列為人類口頭和非物質遺產代表作，吸引眾多狂歡者。",
+    "model": "gemini-3-pro-image-preview",
+    "title": "狂歡躍影"
   }
 ]
