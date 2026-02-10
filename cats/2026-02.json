@@ -3294,5 +3294,45 @@
     "story": "船長威嚴地踞坐在陳舊的木製吧檯上，左眼罩和V型缺耳訴說著過去的戰役。銳利的翠綠右眼掃視著酒吧裡玩牌的水手們，彷彿仍在巡邏牠的領地，厚實的尾巴像船舵般穩穩地擺動著。微醺的空氣中，牠的白鬍鬚隨意散開，不修邊幅的帥氣中帶著一絲歲月沉澱的滄桑。",
     "comment_id": 3880432338,
     "title": "暮色酒香"
+  },
+  {
+    "avoid_list": [
+      "畫面內顯示日期時間",
+      "經典三點式打光",
+      "強烈背光與輪廓光效",
+      "溫暖大地色系",
+      "霓虹螢光色彩",
+      "透明樹脂琥珀質感",
+      "黏土陶瓷藝術質感",
+      "等距視角構圖",
+      "極低角度仰視",
+      "貓咪操作精密機械",
+      "淺景深攝影",
+      "微縮模型效果",
+      "豐富高飽和色彩",
+      "自然木紋與有機觸感",
+      "紀實或街頭攝影風格"
+    ],
+    "inspiration": "根據全球太陽能理事會的數據，非洲在2025年太陽能裝置量增長了54%，創下迄今最快的增長速度，展現其在潔淨能源發展上的顯著進步。",
+    "number": 237,
+    "style_picks": {
+      "art_style": "Surrealism",
+      "composition": "Extreme Low Angle",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "在一個只有螢光燈作為光源的世界邊緣，一隻被遺忘的貓咪，被極低角度的鏡頭捕捉到，牠正用一片破布仔細擦拭著一根高聳入天的巨型燈管。燈管發出微弱而病態的綠白色光芒，在褪色的沙塵與底片顆粒中，顯得更加淒涼，暗示著對逝去能源時代的守護與堅持。",
+    "comment_id": 3880722620,
+    "idea": "這是一幅超現實主義的視覺景象，一隻貓咪在廣闊而荒蕪的未來沙漠中，專注地清潔著一根巨大、半埋於地面的老舊日光燈管。",
+    "news_inspiration": [
+      "泰國考柯開放動物園的小河馬Moo Deng因其在白色浴缸中戲水的可愛模樣而在網路上爆紅。",
+      "美國華盛頓特區的史密森尼國家動物園慶祝近25年來首次亞洲象幼崽的誕生，為這瀕危物種帶來新希望。",
+      "根據全球太陽能理事會的數據，非洲在2025年太陽能裝置量增長了54%，創下迄今最快的增長速度，展現其在潔淨能源發展上的顯著進步。",
+      "一位來自印度的教師因創立數百個學習中心而榮獲一百萬美元的全球教師獎，表彰其在教育領域的卓越貢獻。",
+      "在西澳昆德勒普外海，一名13歲的澳洲青少年在母親和兩名年幼的弟妹被海浪捲走後，奮力游了4公里求救，成為一位英雄。"
+    ],
+    "prompt": "A surrealist composition, a dreamlike impossible scene captured with a 35mm lens. An uncanny juxtaposition featuring a small cat diligently cleaning a colossal, half-buried, old fluorescent tube in a vast, desolate future desert. The tube emits a weak, sickly green-white light against the faded sand dust, creating an extreme low angle shot looking up at the subject, emphasizing a dramatic towering perspective with a powerful feel. The scene is bathed in an institutional flat illumination, neutral white 5000K, with no discernible shadows, complemented by subtle Dalí-inspired melting forms in the background. Visible film grain, analog texture, subtle noise, and organic photographic imperfections contribute to a retro faded color palette and washed-out vintage tones with low contrast and a nostalgic film-era warmth. Visually displayed on the image: '2026-02-10 21:06 UTC'.",
+    "title": "光管守護者"
   }
 ]
