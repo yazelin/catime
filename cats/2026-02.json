@@ -3334,5 +3334,45 @@
     ],
     "prompt": "A surrealist composition, a dreamlike impossible scene captured with a 35mm lens. An uncanny juxtaposition featuring a small cat diligently cleaning a colossal, half-buried, old fluorescent tube in a vast, desolate future desert. The tube emits a weak, sickly green-white light against the faded sand dust, creating an extreme low angle shot looking up at the subject, emphasizing a dramatic towering perspective with a powerful feel. The scene is bathed in an institutional flat illumination, neutral white 5000K, with no discernible shadows, complemented by subtle Dalí-inspired melting forms in the background. Visible film grain, analog texture, subtle noise, and organic photographic imperfections contribute to a retro faded color palette and washed-out vintage tones with low contrast and a nostalgic film-era warmth. Visually displayed on the image: '2026-02-10 21:06 UTC'.",
     "title": "光管守護者"
+  },
+  {
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Miniature Diorama",
+      "lighting": "Neon Lighting",
+      "texture": "Clay / Ceramic",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "地核探秘圖",
+    "inspiration": "瑞士科學家發現地球核心可能蘊藏數十個海洋的氫，這將對地球表面的過程產生影響。",
+    "avoid_list": [
+      "畫面內顯示日期時間",
+      "經典三點式打光",
+      "強烈背光與輪廓光效",
+      "溫暖大地色系",
+      "霓虹螢光色彩",
+      "透明樹脂琥珀質感",
+      "黏土陶瓷藝術質感",
+      "等距視角構圖",
+      "極低角度仰視",
+      "貓咪操作精密機械",
+      "淺景深攝影",
+      "微縮模型效果",
+      "豐富高飽和色彩",
+      "自然木紋與有機觸感",
+      "紀實或街頭攝影風格"
+    ],
+    "number": 238,
+    "idea": "想像一個以剪紙藝術風格呈現的微縮立體模型場景：一隻深灰色貓咪身穿鮮豔橙色探險背心，專注地在一張發光的、多層次的地球地質圖上，用小巧的探測筆描繪著線條，周圍是霓虹燈光點綴的地下研究室，整體視覺呈現高飽和鮮豔色與黏土/陶瓷質感。",
+    "story": "在這座深埋地底的未來實驗室裡，貓咪探測員「墨菲」正執行一項攸關地球命運的關鍵任務。牠仔細比對著來自地核深處的數據，用探測筆在立體地圖上精準標記出潛藏氫氣的區域，每一筆都可能揭示地球深層的新秘密。霓虹光影下，牠的專注身影是這高飽和地下世界最引人注目的焦點。",
+    "news_inspiration": [
+      "瑞士科學家發現地球核心可能蘊藏數十個海洋的氫，這將對地球表面的過程產生影響。",
+      "加拿大和卡達於多倫多和渥太華啟動「卡達-加拿大2026文化年」，旨在深化兩國在藝術、體育和教育等領域的關係。",
+      "中國的春節已成功列入聯合國教科文組織非物質文化遺產名錄，彰顯其作為全人類共享文化寶藏的地位。",
+      "英國斯旺西大學研究人員發現，新生男嬰的食指和無名指相對長度與產前雌激素水平有關，這可能為人類大腦演化提供線索。",
+      "在沙烏地阿拉伯，經過一百年的缺席後，鴕鳥已成功返回沙漠，標誌著當地生態復育的一個里程碑。"
+    ],
+    "prompt": "A miniature diorama, crafted in a papercut art style with layered paper silhouettes and intricate cutout details, depicting a tiny detailed world. A deep gray cat, wearing a vibrant orange explorer vest, is the central focus. It intently uses a small probe pen to draw lines on a glowing, multi-layered geological map of Earth. The setting is a high-tech underground research lab, illuminated by vibrant neon lighting and colorful glowing signs that cast reflections across textured surfaces. The overall aesthetic features high saturation vivid colors, bold vibrant hues, and eye-catching contrast, creating an energetic palette. Textures have a sculpted clay feel and a handmade ceramic look with matte surfaces and subtle imperfections, akin to a toy-like scale model. The scene exhibits strong shadow depth, and the entire composition has a slight tilt-shift effect, enhancing its miniature scale. The date and time '2026-02-10 22:05 UTC' are clearly displayed within the image.",
+    "comment_id": 3880988187
   }
 ]
