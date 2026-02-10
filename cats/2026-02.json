@@ -3374,5 +3374,44 @@
     ],
     "prompt": "A miniature diorama, crafted in a papercut art style with layered paper silhouettes and intricate cutout details, depicting a tiny detailed world. A deep gray cat, wearing a vibrant orange explorer vest, is the central focus. It intently uses a small probe pen to draw lines on a glowing, multi-layered geological map of Earth. The setting is a high-tech underground research lab, illuminated by vibrant neon lighting and colorful glowing signs that cast reflections across textured surfaces. The overall aesthetic features high saturation vivid colors, bold vibrant hues, and eye-catching contrast, creating an energetic palette. Textures have a sculpted clay feel and a handmade ceramic look with matte surfaces and subtle imperfections, akin to a toy-like scale model. The scene exhibits strong shadow depth, and the entire composition has a slight tilt-shift effect, enhancing its miniature scale. The date and time '2026-02-10 22:05 UTC' are clearly displayed within the image.",
     "comment_id": 3880988187
+  },
+  {
+    "prompt": "A tabby cat with a sculpted clay texture, resembling muddy, lime-crusted earth, its matte surface showing subtle imperfections and warm earthy tones. The old cat is focused and bowed, its front paws delicately touching a mystical starry scroll. Soft, glowing firefly-like points of light emanate from the scroll, slowly illuminating a winding path, while hovering luminous orbs gently encircle the cat, guiding the way. The scene unfolds on a moss-covered floating island, a miniature landscape suspended against a vast, dark night sky with soft white clouds, serving as a serene harbor. The entire composition is bathed in cool blue-teal moonlight, casting a gentle silvery glow and creating a quiet, crisp nighttime atmosphere with icy undertones. Captured with a 35mm lens, evoking 1990s film photography with natural grain and a subtle nostalgic glow. Visually displayed in the image is '2026-02-10 23:05 UTC'.",
+    "inspiration": "在南非開普敦，一匹曾受傷且無助的小馬「雪花」獲救後成功康復，並在新家庭找到了歸屬，是個溫馨感人的故事。",
+    "idea": "一隻毛髮帶有泥土與石灰般的黏土質感的斑紋貓，在一個苔蘚覆蓋的浮島上，透過90年代底片風格的鏡頭捕捉。整個場景沐浴在冷調的藍青色月光中，呈現出靜謐而略帶顆粒的質感。",
+    "comment_id": 3881205548,
+    "avoid_list": [
+      "畫面內顯示日期時間",
+      "經典三點式打光",
+      "強烈背光與輪廓光效",
+      "溫暖大地色系",
+      "霓虹螢光色彩",
+      "透明樹脂琥珀質感",
+      "黏土陶瓷藝術質感",
+      "等距視角構圖",
+      "極低角度仰視",
+      "貓咪操作精密機械",
+      "淺景深攝影",
+      "微縮模型效果",
+      "豐富高飽和色彩",
+      "自然木紋與有機觸感",
+      "紀實或街頭攝影風格"
+    ],
+    "number": 239,
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Floating Island Scene",
+      "lighting": "Moonlight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "這隻老貓專注地弓身，前掌輕觸著一張奇特的星空卷軸，卷軸上光點緩緩亮起，勾勒出回家的路線。微光蟲般的發光點環繞在牠身旁，彷彿守護著這場靜謐而充滿希望的導航。在浩瀚的夜空中，這浮島便是迷失者的港灣，而貓咪則是引路者。",
+    "title": "浮島星引",
+    "news_inspiration": [
+      "義大利羅馬的研究人員在寨卡病毒藥物開發方面取得了重大科學突破，發現了一種有效的新型抑制劑，為治療帶來希望。",
+      "聯合國教科文組織駐莫桑比克代表在馬普托強調了中國春節的文化價值，認為它能促進社會凝聚力、包容與和平。",
+      "在義大利米蘭舉行的2026年冬季奧運會上，美國運動員在第四天賽事中勇奪五枚獎牌，表現出色。",
+      "在南非開普敦，一匹曾受傷且無助的小馬「雪花」獲救後成功康復，並在新家庭找到了歸屬，是個溫馨感人的故事。"
+    ]
   }
 ]
