@@ -1758,5 +1758,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_1759_UTC.webp",
     "status": "success",
     "number": 234
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-10_1917_UTC.webp",
+    "timestamp": "2026-02-10 19:17 UTC",
+    "inspiration": "original",
+    "number": 235,
+    "model": "gemini-3-pro-image-preview",
+    "is_seasonal": true,
+    "title": "暖桌年糕夢",
+    "status": "success",
+    "season": "winter",
+    "character_name": "麻糬",
+    "character": "mochi"
   }
 ]

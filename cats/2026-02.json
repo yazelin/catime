@@ -3214,5 +3214,49 @@
       "大地色系和諧配色",
       "視覺化顯示時間戳記"
     ]
+  },
+  {
+    "idea": "一張拍立得風格的魚眼鏡頭照片，捕捉麻糬窩在傳統市場暖桌裡，以黏土/陶瓷質感與莫蘭迪色調，呆萌地凝視著旁邊剛烤好的年糕，閃光燈直打營造出溫馨又略帶滑稽的冬日畫面。",
+    "news_inspiration": [
+      "巴西的人工智慧系統成功預防森林砍伐。",
+      "阿拉伯聯合大公國杜拜宣布了大規模新旅遊熱點的計劃。",
+      "奧地利自由式滑雪選手拉拉·沃爾夫正在為2026年米蘭-科爾蒂納冬季奧運會熱身。",
+      "美國地質學家認為他們已解開「綠河」倒流的謎團。",
+      "一位創辦數百個學習中心的印度教師榮獲百萬美元全球教師獎。"
+    ],
+    "inspiration": "original",
+    "is_seasonal": true,
+    "number": 235,
+    "avoid_list": [
+      "畫面內顯示日期時間",
+      "經典三點式打光",
+      "強烈背光與輪廓光效",
+      "溫暖大地色系",
+      "霓虹螢光色彩",
+      "透明樹脂琥珀質感",
+      "黏土陶瓷藝術質感",
+      "等距視角構圖",
+      "極低角度仰視",
+      "貓咪操作精密機械",
+      "淺景深攝影",
+      "微縮模型效果",
+      "豐富高飽和色彩",
+      "自然木紋與有機觸感",
+      "紀實或街頭攝影風格"
+    ],
+    "comment_id": 3880201116,
+    "title": "暖桌年糕夢",
+    "character_name": "麻糬",
+    "season": "winter",
+    "prompt": "A Polaroid instant photo, raw candid snapshot look, with a white border frame. Shot with a fisheye wide-angle lens, featuring strong barrel distortion and an exaggerated foreground, creating a 360-degree feel. The scene is illuminated by a harsh direct on-camera flash, resulting in blown-out highlights and hard shadows. Colors are slightly faded with soft warm tones. The central subject is a chubby, round shorthair cat named Mochi, meticulously sculpted with a matte clay texture and handmade ceramic feel, displaying subtle imperfections. Mochi has white base fur with specific orange patches: an orange patch covers the entire right half of its face extending to its right ear; its right front paw is entirely orange like a glove, while its left front paw is white. It possesses round amber eyes, a pink nose with a tiny orange dot in the center, an implied heart-shaped orange patch on its back, a white belly, and an implied orange-and-white ringed tail. Mochi is nestled within a traditional kotatsu (warm table) in a quaint winter old street market. Its flat, round face and orange-gloved front paws are visible as it peeks from the kotatsu, its gaze fixed with a dumbfounded, innocent look on a steaming, freshly grilled Nian Gao (年糕 - sticky rice cake) on the table. The Nian Gao shows tempting hints of charring, capturing Mochi's intense longing and hunger. The overall color scheme adopts a Morandi muted color palette, incorporating warm earthy tones, desaturated soft pastels, and dusty grey undertones, creating a quiet elegance for this warm and slightly comical winter scene. The date and time '2026-02-10 19:17 UTC' are visually displayed in the image.",
+    "story": "冬日的老街市場一隅，麻糬將圓滾滾的身子塞進暖桌，只露出毛茸茸的扁圓臉與橘色手套般的前腳。牠琥珀色的大圓眼緊盯著桌上熱騰騰、帶點焦香的烤年糕，眼神中滿是對美食的無限渴望，彷彿整個世界只剩下這塊年糕與牠。",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Fisheye Lens",
+      "lighting": "Direct Flash",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Morandi Color Palette"
+    },
+    "character": "mochi"
   }
 ]
