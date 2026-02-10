@@ -289,6 +289,9 @@
       const card = document.createElement("div");
       card.className = "card";
       card.dataset.catIndex = loaded + i;
+      card.setAttribute("role", "button");
+      card.setAttribute("tabindex", "0");
+      card.setAttribute("aria-label", "Cat #" + cat.number + (cat.title ? " " + cat.title : "") + " — click to view details");
       const likeCount = likesData[String(cat.number)] || 0;
       const likeBadge = likeCount > 0 ? `<span class="like-badge">${SVG_HEART} ${likeCount}</span>` : "";
       const charTag = cat.character_name
@@ -311,6 +314,13 @@
       card.addEventListener("click", () => {
         triggerCard = card;
         openLightbox(cat, loaded - slice.length + i + (frag.contains(card) ? 0 : 0));
+      });
+      card.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          triggerCard = card;
+          openLightbox(cat, loaded - slice.length + i + (frag.contains(card) ? 0 : 0));
+        }
       });
       frag.appendChild(card);
     });
