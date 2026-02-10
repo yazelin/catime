@@ -86,6 +86,7 @@
   const SVG_DOWNLOAD = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>';
   const SVG_HEART = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>';
   let currentCatUrl = "";
+  let currentCatNumber = 0;
 
   let calYear = new Date().getFullYear();
   let calMonth = new Date().getMonth();
@@ -433,6 +434,7 @@
     if (currentLbIndex === -1) currentLbIndex = filtered.findIndex(c => c.number === cat.number);
 
     currentCatUrl = cat.url;
+    currentCatNumber = cat.number;
 
     // Restore img element if it was replaced by error placeholder
     const existingError = lbImgWrap.querySelector(".lb-img-error");
@@ -526,12 +528,30 @@
       setTimeout(() => { lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt"; }, 1500);
     });
   });
-  lbDownloadBtn.addEventListener("click", () => {
+  lbDownloadBtn.addEventListener("click", async () => {
     if (!currentCatUrl) return;
-    const a = document.createElement("a");
-    a.href = currentCatUrl;
-    a.target = "_blank";
-    a.click();
+    const origLabel = lbDownloadBtn.innerHTML;
+    lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Downloading\u2026";
+    lbDownloadBtn.disabled = true;
+    try {
+      const resp = await fetch(currentCatUrl);
+      if (!resp.ok) throw new Error("HTTP " + resp.status);
+      const blob = await resp.blob();
+      const blobUrl = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = blobUrl;
+      a.download = "catime-cat-" + currentCatNumber + ".png";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
+    } catch {
+      // Fallback: open in new tab
+      window.open(currentCatUrl, "_blank");
+    } finally {
+      lbDownloadBtn.innerHTML = origLabel;
+      lbDownloadBtn.disabled = false;
+    }
   });
   lbClose.addEventListener("click", closeLightbox);
   lightbox.addEventListener("click", e => { if (e.target === lightbox) closeLightbox(); });
