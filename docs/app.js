@@ -71,6 +71,9 @@
   const lbNext = document.getElementById("lb-next");
   const lbNavHint = document.getElementById("lb-nav-hint");
 
+  const { clearElement, createSvgElement, setIconLabel } = window.domUtils;
+  const SEASON_ICONS = { spring: "🌸", summer: "☀️", autumn: "🍁", winter: "❄️" };
+
   // Date picker elements
   const datePickerBtn = document.getElementById("date-picker-btn");
   const dateDropdown = document.getElementById("date-dropdown");
@@ -92,15 +95,52 @@
   let calMonth = new Date().getMonth();
   let catDates = new Set();
 
+  function showGalleryError(message) {
+    gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
+    clearElement(gallery);
+    const p = document.createElement("p");
+    p.style.padding = "2rem";
+    p.style.color = "var(--pink)";
+    p.textContent = message;
+    gallery.appendChild(p);
+  }
+
+  function appendWithSpace(parent, el) {
+    parent.appendChild(document.createTextNode(" "));
+    parent.appendChild(el);
+  }
+
+  function normalizeCatlist(data) {
+    if (!Array.isArray(data)) throw new Error("Invalid cat list");
+    return data.filter(c => (
+      c && typeof c === "object" &&
+      typeof c.timestamp === "string" &&
+      typeof c.number !== "undefined" &&
+      typeof c.url === "string"
+    ));
+  }
+
+  async function fetchCatlist() {
+    const resp = await fetch(CATLIST_URL);
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
+    let data;
+    try {
+      data = await resp.json();
+    } catch {
+      throw new Error("Invalid JSON");
+    }
+    return normalizeCatlist(data);
+  }
+
   // Fetch data
   Promise.all([
-    fetch(CATLIST_URL).then(r => r.json()),
+    fetchCatlist(),
     fetch(LIKES_URL).then(r => r.ok ? r.json() : {}).catch(() => ({})),
     fetch(COMMENT_MAP_URL).then(r => r.ok ? r.json() : {}).catch(() => ({})),
   ])
     .then(([data, likes, comments]) => {
-      likesData = likes;
-      commentMap = comments;
+      likesData = (likes && typeof likes === "object" && !Array.isArray(likes)) ? likes : {};
+      commentMap = (comments && typeof comments === "object" && !Array.isArray(comments)) ? comments : {};
       allCats = data.filter(c => c.status !== "failed").reverse();
       allCats.forEach(c => catDates.add(c.timestamp.split(" ")[0]));
       populateModels();
@@ -116,8 +156,7 @@
       applyFilter();
     })
     .catch(err => {
-      gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
-      gallery.innerHTML = `<p style="padding:2rem;color:var(--pink)">Failed to load cat list: ${err.message}</p>`;
+      showGalleryError("載入貓咪列表失敗，請稍後重試");
     });
 
   function populateModels() {
@@ -141,19 +180,30 @@
   function buildTimeline() {
     const map = {};
     allCats.forEach(c => {
+      if (typeof c.timestamp !== "string") return;
       const [date] = c.timestamp.split(" ");
+      if (!date) return;
       const [y, m] = date.split("-");
+      if (!y || !m) return;
       if (!map[y]) map[y] = new Set();
       map[y].add(m);
     });
-    let html = "";
+    clearElement(timelineList);
+    const frag = document.createDocumentFragment();
     Object.keys(map).sort().reverse().forEach(y => {
-      html += `<div class="year">${y}</div>`;
+      const year = document.createElement("div");
+      year.className = "year";
+      year.textContent = y;
+      frag.appendChild(year);
       [...map[y]].sort().reverse().forEach(m => {
-        html += `<a href="#" data-ym="${y}-${m}">${y}-${m}</a>`;
+        const link = document.createElement("a");
+        link.href = "#";
+        link.dataset.ym = `${y}-${m}`;
+        link.textContent = `${y}-${m}`;
+        frag.appendChild(link);
       });
     });
-    timelineList.innerHTML = html;
+    timelineList.appendChild(frag);
   }
 
   function updateCatCount() {
@@ -185,7 +235,7 @@
   ddNext.addEventListener("click", () => { calMonth++; if (calMonth > 11) { calMonth = 0; calYear++; } renderCalendar(); });
   ddClear.addEventListener("click", () => {
     selectedDate = "";
-    datePickerBtn.innerHTML = SVG_CALENDAR + " All Dates";
+    setIconLabel(datePickerBtn, SVG_CALENDAR, "All Dates");
     datePickerBtn.classList.remove("active");
     dateDropdown.classList.add("hidden");
     applyFilter();
@@ -199,24 +249,32 @@
     const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
     const todayStr = new Date().toISOString().slice(0, 10);
 
-    let html = "";
-    for (let i = 0; i < startDay; i++) html += `<button class="other-month" disabled></button>`;
+    clearElement(ddDays);
+    for (let i = 0; i < startDay; i++) {
+      const placeholder = document.createElement("button");
+      placeholder.className = "other-month";
+      placeholder.disabled = true;
+      ddDays.appendChild(placeholder);
+    }
     for (let d = 1; d <= daysInMonth; d++) {
       const ds = `${calYear}-${String(calMonth + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
       const cls = [];
       if (ds === todayStr) cls.push("today");
       if (ds === selectedDate) cls.push("selected");
       if (catDates.has(ds)) cls.push("has-cat");
-      html += `<button data-date="${ds}" class="${cls.join(" ")}">${d}</button>`;
+      const btn = document.createElement("button");
+      btn.dataset.date = ds;
+      if (cls.length) btn.className = cls.join(" ");
+      btn.textContent = d;
+      ddDays.appendChild(btn);
     }
-    ddDays.innerHTML = html;
   }
 
   ddDays.addEventListener("click", e => {
     const date = e.target.dataset.date;
     if (!date) return;
     selectedDate = date;
-    datePickerBtn.innerHTML = SVG_CALENDAR + " " + date;
+    setIconLabel(datePickerBtn, SVG_CALENDAR, date);
     datePickerBtn.classList.add("active");
     dateDropdown.classList.add("hidden");
     applyFilter();
@@ -242,7 +300,7 @@
     });
     loaded = 0;
     gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
-    gallery.innerHTML = "";
+    clearElement(gallery);
     endMsg.classList.add("loading");
     endMsg.classList.remove("hidden");
     updateCatCount();
@@ -296,23 +354,60 @@
       card.setAttribute("tabindex", "0");
       card.setAttribute("aria-label", "Cat #" + cat.number + (cat.title ? " " + cat.title : "") + " — click to view details");
       const likeCount = likesData[String(cat.number)] || 0;
-      const likeBadge = likeCount > 0 ? `<span class="like-badge">${SVG_HEART} ${likeCount}</span>` : "";
-      const charTag = cat.character_name
-        ? `<span class="character-tag${cat.is_seasonal ? ' seasonal' : ''}">${cat.character_name}${cat.season ? ' · ' + {spring:'🌸',summer:'☀️',autumn:'🍁',winter:'❄️'}[cat.season] : ''}</span>`
-        : '';
-      card.innerHTML = `
-        <div class="card-img-wrap">
-          <img src="${cat.url}" alt="Cat #${cat.number}" loading="lazy">
-          ${likeBadge}
-        </div>
-        <div class="card-info">
-          <div class="time">#${cat.number} ${cat.title ? cat.title + ' &middot; ' : ''}${cat.timestamp}</div>
-          ${charTag}
-          ${cat.inspiration ? `<span class="inspiration-tag ${cat.inspiration !== 'original' ? 'news' : 'original'}">${cat.inspiration !== 'original' ? '新聞靈感' : '原創'}</span>` : ''}
-          ${cat.model ? `<span class="model">${cat.model}</span>` : ""}
-        </div>`;
+      const timestamp = typeof cat.timestamp === "string" ? cat.timestamp : "";
+      const title = typeof cat.title === "string" ? cat.title : "";
+      const characterName = typeof cat.character_name === "string" ? cat.character_name : "";
+      const modelName = typeof cat.model === "string" ? cat.model : "";
+      const inspiration = typeof cat.inspiration === "string" ? cat.inspiration : "";
+
+      const cardImgWrap = document.createElement("div");
+      cardImgWrap.className = "card-img-wrap";
+      const img = document.createElement("img");
+      img.src = cat.url;
+      img.alt = `Cat #${cat.number}`;
+      img.loading = "lazy";
+      cardImgWrap.appendChild(img);
+      if (likeCount > 0) {
+        const likeBadge = document.createElement("span");
+        likeBadge.className = "like-badge";
+        const icon = createSvgElement(SVG_HEART);
+        if (icon) likeBadge.appendChild(icon);
+        likeBadge.appendChild(document.createTextNode(" " + likeCount));
+        cardImgWrap.appendChild(likeBadge);
+      }
+
+      const cardInfo = document.createElement("div");
+      cardInfo.className = "card-info";
+      const time = document.createElement("div");
+      time.className = "time";
+      time.textContent = `#${cat.number} ${title ? title + " · " : ""}${timestamp}`;
+      cardInfo.appendChild(time);
+      if (characterName) {
+        const charTag = document.createElement("span");
+        charTag.className = "character-tag" + (cat.is_seasonal ? " seasonal" : "");
+        let tagText = characterName;
+        if (cat.season && SEASON_ICONS[cat.season]) {
+          tagText += " · " + SEASON_ICONS[cat.season];
+        }
+        charTag.textContent = tagText;
+        cardInfo.appendChild(charTag);
+      }
+      if (inspiration) {
+        const isNews = inspiration !== "original";
+        const inspirationTag = document.createElement("span");
+        inspirationTag.className = `inspiration-tag ${isNews ? "news" : "original"}`;
+        inspirationTag.textContent = isNews ? "新聞靈感" : "原創";
+        cardInfo.appendChild(inspirationTag);
+      }
+      if (modelName) {
+        const modelTag = document.createElement("span");
+        modelTag.className = "model";
+        modelTag.textContent = modelName;
+        cardInfo.appendChild(modelTag);
+      }
+      card.appendChild(cardImgWrap);
+      card.appendChild(cardInfo);
       // Image error handling
-      const img = card.querySelector("img");
       img.addEventListener("error", () => handleImgError(img, false));
       card.addEventListener("click", () => {
         triggerCard = card;
@@ -402,20 +497,30 @@
 
   function populateLightboxDetail(cat, detail) {
     lbPromptText.textContent = detail.prompt || "";
-    lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
+    setIconLabel(lbCopyBtn, SVG_CLIPBOARD, "Copy Prompt");
 
     lbStoryText.textContent = detail.story || "";
     const inspirationText = detail.inspiration && detail.inspiration !== "original"
       ? `\n\n靈感來源：${detail.inspiration}`
       : "";
     lbIdeaText.textContent = (detail.idea || "") + inspirationText;
-    lbNewsList.innerHTML = "";
-    lbAvoidList.innerHTML = "";
-    if (detail.news_inspiration && detail.news_inspiration.length) {
-      lbNewsList.innerHTML = detail.news_inspiration.map(t => `<span class="news-tag">${t}</span>`).join("");
+    clearElement(lbNewsList);
+    clearElement(lbAvoidList);
+    if (Array.isArray(detail.news_inspiration) && detail.news_inspiration.length) {
+      detail.news_inspiration.forEach(t => {
+        const tag = document.createElement("span");
+        tag.className = "news-tag";
+        tag.textContent = t;
+        lbNewsList.appendChild(tag);
+      });
     }
-    if (detail.avoid_list && detail.avoid_list.length) {
-      lbAvoidList.innerHTML = detail.avoid_list.map(t => `<span class="avoid-tag">${t}</span>`).join("");
+    if (Array.isArray(detail.avoid_list) && detail.avoid_list.length) {
+      detail.avoid_list.forEach(t => {
+        const tag = document.createElement("span");
+        tag.className = "avoid-tag";
+        tag.textContent = t;
+        lbAvoidList.appendChild(tag);
+      });
     }
 
     const available = [];
@@ -424,7 +529,7 @@
     if (detail.news_inspiration && detail.news_inspiration.length) available.push("news");
     if (detail.avoid_list && detail.avoid_list.length) available.push("avoid");
 
-    lbTabBar.innerHTML = "";
+    clearElement(lbTabBar);
     TAB_DEFS.forEach(t => t.panel.classList.add("hidden"));
     available.forEach(key => {
       const def = TAB_DEFS.find(t => t.key === key);
@@ -464,28 +569,52 @@
       imgEl.removeEventListener("error", onErr);
     });
 
-    const titleText = cat.title ? ` ${cat.title}` : "";
-    const isNews = cat.inspiration && cat.inspiration !== "original";
-    const inspirationTag = cat.inspiration
-      ? `<span class="inspiration-tag ${isNews ? 'news' : 'original'}">${isNews ? '新聞靈感' : '原創'}</span>`
-      : "";
-    const modelTag = cat.model ? `<span class="lb-model-tag">${cat.model}</span>` : "";
-    const lbCharTag = cat.character_name
-      ? `<span class="character-tag${cat.is_seasonal ? ' seasonal' : ''}">${cat.character_name}${cat.season ? ' · ' + {spring:'🌸',summer:'☀️',autumn:'🍁',winter:'❄️'}[cat.season] : ''}</span>`
-      : '';
-    lbInfo.innerHTML = `<span class="lb-title">#${cat.number}${titleText} &middot; ${cat.timestamp}</span>${lbCharTag} ${inspirationTag} ${modelTag}`;
-    lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Download";
+    const titleText = typeof cat.title === "string" ? ` ${cat.title}` : "";
+    const timestamp = typeof cat.timestamp === "string" ? cat.timestamp : "";
+    const characterName = typeof cat.character_name === "string" ? cat.character_name : "";
+    const modelName = typeof cat.model === "string" ? cat.model : "";
+    const inspiration = typeof cat.inspiration === "string" ? cat.inspiration : "";
+    clearElement(lbInfo);
+    const title = document.createElement("span");
+    title.className = "lb-title";
+    title.textContent = `#${cat.number}${titleText} · ${timestamp}`;
+    lbInfo.appendChild(title);
+    if (characterName) {
+      const charTag = document.createElement("span");
+      charTag.className = "character-tag" + (cat.is_seasonal ? " seasonal" : "");
+      let tagText = characterName;
+      if (cat.season && SEASON_ICONS[cat.season]) {
+        tagText += " · " + SEASON_ICONS[cat.season];
+      }
+      charTag.textContent = tagText;
+      appendWithSpace(lbInfo, charTag);
+    }
+    if (inspiration) {
+      const isNews = inspiration !== "original";
+      const inspirationTag = document.createElement("span");
+      inspirationTag.className = `inspiration-tag ${isNews ? "news" : "original"}`;
+      inspirationTag.textContent = isNews ? "新聞靈感" : "原創";
+      appendWithSpace(lbInfo, inspirationTag);
+    }
+    if (modelName) {
+      const modelTag = document.createElement("span");
+      modelTag.className = "lb-model-tag";
+      modelTag.textContent = modelName;
+      appendWithSpace(lbInfo, modelTag);
+    }
+    setIconLabel(lbDownloadBtn, SVG_DOWNLOAD, "Download");
+    lbDownloadBtn.dataset.label = "Download";
 
     const catKey = String(cat.number);
     const likeCount = likesData[catKey] || 0;
     const commentUrl = commentMap[catKey];
-    lbLikeBtn.innerHTML = SVG_HEART + (likeCount > 0 ? " " + likeCount : "");
+    setIconLabel(lbLikeBtn, SVG_HEART, likeCount > 0 ? String(likeCount) : "");
     lbLikeBtn.style.display = commentUrl ? "" : "none";
     lbLikeBtn.onclick = () => { if (commentUrl) window.open(commentUrl, "_blank"); };
 
     lbPromptText.textContent = "Loading\u2026";
-    lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt";
-    lbTabBar.innerHTML = "";
+    setIconLabel(lbCopyBtn, SVG_CLIPBOARD, "Copy Prompt");
+    clearElement(lbTabBar);
     TAB_DEFS.forEach(t => t.panel.classList.add("hidden"));
 
     lightbox.classList.remove("hidden");
@@ -537,14 +666,14 @@
   });
   lbCopyBtn.addEventListener("click", () => {
     navigator.clipboard.writeText(lbPromptText.textContent).then(() => {
-      lbCopyBtn.innerHTML = SVG_CHECK + " Copied!";
-      setTimeout(() => { lbCopyBtn.innerHTML = SVG_CLIPBOARD + " Copy Prompt"; }, 1500);
+      setIconLabel(lbCopyBtn, SVG_CHECK, "Copied!");
+      setTimeout(() => { setIconLabel(lbCopyBtn, SVG_CLIPBOARD, "Copy Prompt"); }, 1500);
     });
   });
   lbDownloadBtn.addEventListener("click", async () => {
     if (!currentCatUrl) return;
-    const origLabel = lbDownloadBtn.innerHTML;
-    lbDownloadBtn.innerHTML = SVG_DOWNLOAD + " Downloading\u2026";
+    const origLabel = lbDownloadBtn.dataset.label || "Download";
+    setIconLabel(lbDownloadBtn, SVG_DOWNLOAD, "Downloading\u2026");
     lbDownloadBtn.disabled = true;
     try {
       const resp = await fetch(currentCatUrl);
@@ -562,7 +691,8 @@
       // Fallback: open in new tab
       window.open(currentCatUrl, "_blank");
     } finally {
-      lbDownloadBtn.innerHTML = origLabel;
+      setIconLabel(lbDownloadBtn, SVG_DOWNLOAD, origLabel);
+      lbDownloadBtn.dataset.label = origLabel;
       lbDownloadBtn.disabled = false;
     }
   });
