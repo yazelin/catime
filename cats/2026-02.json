@@ -4089,5 +4089,45 @@
       "color_palette": "Retro Faded Tones"
     },
     "title": "生物光之舞"
+  },
+  {
+    "avoid_list": [
+      "貓咪專注操作機械/儀器",
+      "戲劇性逆光/輪廓光",
+      "復古/懷舊膠片質感",
+      "金屬光澤/反光表面",
+      "戲劇性陰影",
+      "虎斑貓",
+      "研究/科學設施",
+      "貓咪棲息於高處",
+      "南極研究站",
+      "德羅斯特效應/遞迴反射",
+      "大地色系",
+      "奢華黑金配色",
+      "廣角/魚眼/超廣角鏡頭",
+      "3D等距/正交投影",
+      "體積光/丁達爾效應"
+    ],
+    "prompt": "An isometric 3D illustration in a contemporary digital art style, infused with elements of Gond painting. The scene depicts a sleek, jet-black cat, with a gentle and watchful gaze, meticulously arranging a delicate, mini flower garland crafted from blue and green plants onto the edge of a cradle where a peacefully sleeping Asian elephant calf rests. The setting is a serene, futuristic 'Hope Hall' for endangered species. The environment features cool blue-teal color grading with icy undertones, creating a crisp and calm atmosphere. Walls are constructed from frosted glass texture, allowing for diffused light transmission and revealing soft, blurred shapes visible behind. The immediate area around the cat and elephant calf is dramatically illuminated by a harsh, direct on-camera flash, resulting in blown-out highlights and stark, hard shadows, giving that specific moment a raw, candid snapshot look. The overall rendering is polished and playful, characterized by clean geometric forms. Intricate dot and line patterns and nature-inspired motifs, reminiscent of Indian tribal folklore, are subtly incorporated into the scene's textures and details. Visually displaying the text '2026-02-11 22:31 UTC' within the image.",
+    "comment_id": 3887592049,
+    "inspiration": "華盛頓特區的史密森尼國家動物園慶祝近四分之一個世紀以來首隻亞洲象寶寶的誕生，為該瀕危物種帶來了新的希望。",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Direct Flash",
+      "texture": "Frosted Glass",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "在一個專為瀕危物種打造的未來感希望館裡，光線透過磨砂玻璃窗灑落，營造出柔和的藍青色氛圍。一隻優雅的黑貓，在均勻的閃光燈直打照明下，正用纖細的爪子細心地將由藍色與綠色植物編織而成的迷你花環，輕巧地掛在亞洲象寶寶的搖籃邊緣。牠的眼神中充滿了守護與溫柔，彷彿在默默為這個象徵新希望的小生命，獻上最真摯的祝福。",
+    "number": 258,
+    "title": "藍光下的祝福",
+    "idea": "這是一個以貢德畫風格呈現的等距3D插圖場景，畫面中，一隻毛色烏黑的貓咪在充滿磨砂玻璃質感的藍青色調希望館內，正以閃光燈直打的明亮光線，專注地為熟睡的亞洲象寶寶佈置花環。",
+    "news_inspiration": [
+      "華盛頓特區的史密森尼國家動物園慶祝近四分之一個世紀以來首隻亞洲象寶寶的誕生，為該瀕危物種帶來了新的希望。",
+      "巴黎市民在等待百年之後，終於能再次躍入塞納河游泳，共同慶祝這項歷史性的解禁。",
+      "一位來自印度的教師因創立了數百個學習中心，榮獲一百萬美元的全球教師獎。",
+      "智利政府簽署了一項協議，旨在創建新的國家公園，保護巴塔哥尼亞地區約30萬英畝的偏遠景觀。",
+      "英國首次成功繁殖稀有的蒙塔古鷂雛鳥，這是自2019年以來首次在該國實現的繁殖成功。"
+    ]
   }
 ]
