@@ -23,7 +23,9 @@
   const themeToggle = document.getElementById("theme-toggle");
   function applyTheme(theme) {
     document.documentElement.setAttribute("data-theme", theme);
-    themeToggle.textContent = theme === "dark" ? "☀️" : "🌙";
+    themeToggle.innerHTML = theme === "dark"
+      ? '<svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4" stroke="none"/><path fill="none" d="M12 2v3m0 14v3M4.22 4.22l2.12 2.12m11.32 11.32l2.12 2.12M2 12h3m14 0h3M4.22 19.78l2.12-2.12m11.32-11.32l2.12-2.12"/></svg>'
+      : '<svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
     localStorage.setItem("catime-theme", theme);
   }
   // Init: check localStorage, then system preference
