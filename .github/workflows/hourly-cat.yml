@@ -34,3 +34,10 @@ jobs:
           NANOBANANA_TIMEOUT: '180'
           NANOBANANA_FALLBACK_MODELS: gemini-3-pro-image-preview,gemini-2.5-flash-image
         run: python scripts/generate_cat.py
+
+      - name: Post to Telegram channel
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: '@catime_mori'
+        run: python scripts/post_telegram.py
