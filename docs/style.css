@@ -89,6 +89,40 @@ body {
   outline: 2px solid var(--pink);
   outline-offset: 2px;
 }
+/* Random cat button */
+.random-cat-button {
+  padding: .45rem .8rem; border-radius: 20px;
+  border: 2px solid var(--pink-light);
+  background: var(--pink-pale); color: var(--pink);
+  font-size: .85rem; font-family: inherit; font-weight: 700;
+  cursor: pointer; white-space: nowrap;
+  transition: border-color .2s, background .2s, transform .2s;
+}
+.random-cat-button:hover {
+  border-color: var(--pink); background: var(--pink-light); color: #fff;
+  transform: scale(1.05);
+}
+.random-cat-button:focus-visible {
+  outline: 2px solid var(--pink);
+  outline-offset: 2px;
+}
+.random-cat-button.bounce {
+  animation: random-bounce .4s ease;
+}
+@keyframes random-bounce {
+  0%, 100% { transform: scale(1); }
+  30% { transform: scale(.9); }
+  60% { transform: scale(1.15); }
+}
+[data-theme="dark"] .random-cat-button {
+  background: rgba(255, 107, 157, .15);
+  border-color: rgba(255, 107, 157, .3);
+  color: var(--pink-light);
+}
+[data-theme="dark"] .random-cat-button:hover {
+  background: rgba(255, 107, 157, .35); color: #fff;
+}
+
 .search-input::placeholder { color: var(--text-muted); }
 
 .filters select {
