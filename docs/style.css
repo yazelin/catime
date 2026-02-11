@@ -803,10 +803,13 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 .character-bar a:hover { background: var(--pink-pale); transform: scale(1.08); }
 .character-bar .char-avatar {
   width: 40px; height: 40px; border-radius: 50%;
-  background: linear-gradient(135deg, var(--pink-pale), var(--purple));
   display: flex; align-items: center; justify-content: center;
-  font-size: 1.2rem; margin-bottom: .2rem;
+  margin-bottom: .2rem;
   border: 2px solid var(--pink-light);
+  overflow: hidden;
+}
+.character-bar .char-avatar img {
+  width: 100%; height: 100%; object-fit: cover; border-radius: 50%;
 }
 [data-theme="dark"] .character-bar { background: var(--surface); border-color: rgba(255,107,157,.2); }
 [data-theme="dark"] .character-bar a:hover { background: rgba(255,107,157,.12); }
