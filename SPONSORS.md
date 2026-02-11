@@ -33,4 +33,4 @@ catime 的運作成本主要來自：
 
 > 所有贊助收入將用於 API 費用、運算資源與專案維護。沒有花俏的回饋承諾，就是單純支持一個有趣的開源專案 🐱
 
-前往贊助：[GitHub Sponsors](https://github.com/sponsors/yazelin)
+前往贊助：[Buy Me a Coffee](https://buymeacoffee.com/yazelin)
