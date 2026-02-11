@@ -814,6 +814,8 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   transition: background .2s, transform .2s;
 }
 .character-bar a:hover { background: var(--pink-pale); transform: scale(1.08); }
+.character-bar a.active { background: var(--pink-pale); border: 2px solid var(--pink); }
+[data-theme="dark"] .character-bar a.active { background: rgba(255,107,157,.2); border-color: var(--pink); }
 .character-bar .char-avatar {
   width: 40px; height: 40px; border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
@@ -840,7 +842,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 
 /* === Character profile page === */
 .character-page {
-  max-width: 900px; margin: 70px auto 2rem; padding: 0 1rem;
+  max-width: 900px; margin: 1rem auto 2rem; padding: 0 1rem;
 }
 .character-card {
   background: var(--surface); border-radius: 20px; padding: 1.5rem;
@@ -891,7 +893,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 [data-theme="dark"] .gallery-item { background: var(--surface); border-color: rgba(255,107,157,.15); }
 
 @media (max-width: 600px) {
-  .character-page { margin-top: 60px; }
+  .character-page { margin-top: .5rem; }
   .character-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; }
   .character-bar { gap: .5rem; padding: .4rem .6rem; }
   .character-bar a { font-size: .65rem; padding: .2rem .4rem; }
