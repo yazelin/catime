@@ -95,6 +95,8 @@
     </a>
   </header>
 
+  <div id="character-bar" class="character-bar"></div>
+
   <nav id="timeline" aria-label="Timeline navigation">
     <button id="timeline-toggle" aria-label="Toggle timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
     <div id="timeline-list"></div>
@@ -221,5 +223,25 @@
 
   <script src="dom-utils.js"></script>
   <script src="app.js"></script>
+  <script>
+    // Populate character bar from characters/index.json
+    (function(){
+      var bar = document.getElementById('character-bar');
+      if (!bar) return;
+      var emojis = { mochi: '🍡', momo: '🖤', captain: '⚓', lingling: '🔔' };
+      fetch('../characters/index.json').then(function(r){ return r.json(); }).then(function(idx){
+        var chars = (idx.characters || []).filter(function(c){ return c.enabled; });
+        chars.forEach(function(c){
+          fetch('../characters/' + c.file).then(function(r){ return r.json(); }).then(function(data){
+            var a = document.createElement('a');
+            a.href = 'character.html?id=' + encodeURIComponent(data.id);
+            a.innerHTML = '<span class="char-avatar">' + (emojis[data.id] || '🐱') + '</span>' +
+              '<span>' + (data.name ? data.name.zh : data.id) + '</span>';
+            bar.appendChild(a);
+          });
+        });
+      }).catch(function(){});
+    })();
+  </script>
 </body>
 </html>

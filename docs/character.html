@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Character Profile - Catime</title>
+  <meta name="theme-color" content="#ff6b9d">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header id="topbar">
+    <a href="index.html" style="display:flex;align-items:center;text-decoration:none;gap:.6rem">
+      <img src="icon-192.png" alt="Catime" class="logo-icon">
+      <h1>Catime</h1>
+    </a>
+    <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式">🌙</button>
+  </header>
+
+  <main class="character-page">
+    <div id="character-profile" class="character-card">
+      <h2 id="char-name"></h2>
+      <section id="char-personality" class="char-section"></section>
+      <section id="char-appearance" class="char-section"></section>
+      <section id="char-story" class="char-section"></section>
+      <section id="char-settings" class="char-section"></section>
+      <section id="char-seasons" class="char-section"></section>
+    </div>
+    <h3 class="gallery-heading">📸 Gallery</h3>
+    <div id="char-gallery" class="character-grid"></div>
+    <p id="gallery-empty" class="hidden" style="text-align:center;color:var(--text-muted);padding:2rem;">No images found for this character yet.</p>
+  </main>
+
+  <script>
+    // Theme toggle (mirrors main site logic)
+    (function(){
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark') document.documentElement.setAttribute('data-theme','dark');
+      var btn = document.getElementById('theme-toggle');
+      btn.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☀️' : '🌙';
+      btn.addEventListener('click', function(){
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        localStorage.setItem('theme', isDark ? 'light' : 'dark');
+        btn.textContent = isDark ? '🌙' : '☀️';
+      });
+    })();
+  </script>
+  <script src="character.js"></script>
+</body>
+</html>
