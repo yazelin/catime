@@ -727,3 +727,86 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   font-size: 1.3rem;
   margin-bottom: 1rem;
 }
+
+/* === Character bar (index page) === */
+.character-bar {
+  display: flex; gap: .8rem; justify-content: center; align-items: center;
+  padding: .5rem 1rem; margin-top: 56px;
+  background: var(--surface); border-bottom: 2px solid var(--pink-light);
+  overflow-x: auto; flex-wrap: wrap;
+}
+.character-bar a {
+  display: flex; flex-direction: column; align-items: center;
+  text-decoration: none; color: var(--text); font-size: .72rem; font-weight: 700;
+  padding: .3rem .5rem; border-radius: 12px;
+  transition: background .2s, transform .2s;
+}
+.character-bar a:hover { background: var(--pink-pale); transform: scale(1.08); }
+.character-bar .char-avatar {
+  width: 40px; height: 40px; border-radius: 50%;
+  background: linear-gradient(135deg, var(--pink-pale), var(--purple));
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.2rem; margin-bottom: .2rem;
+  border: 2px solid var(--pink-light);
+}
+[data-theme="dark"] .character-bar { background: var(--surface); border-color: rgba(255,107,157,.2); }
+[data-theme="dark"] .character-bar a:hover { background: rgba(255,107,157,.12); }
+[data-theme="dark"] .char-avatar { background: linear-gradient(135deg, #2a1f2a, #1f2530); border-color: rgba(255,107,157,.3); }
+
+/* === Character profile page === */
+.character-page {
+  max-width: 900px; margin: 70px auto 2rem; padding: 0 1rem;
+}
+.character-card {
+  background: var(--surface); border-radius: 20px; padding: 1.5rem;
+  border: 2px solid var(--pink-light); box-shadow: 0 4px 20px var(--shadow);
+}
+.character-card h2 {
+  text-align: center; font-size: 1.5rem; font-weight: 800; margin-bottom: 1rem;
+  background: linear-gradient(135deg, var(--pink), var(--purple));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.char-section { margin-bottom: 1rem; }
+.char-section h4 { font-size: .95rem; font-weight: 800; color: var(--pink); margin-bottom: .4rem; }
+.char-section p, .char-section ul { font-size: .88rem; line-height: 1.6; }
+.char-section ul { padding-left: 1.2rem; }
+.char-quirks { color: var(--text-muted); font-style: italic; }
+.tag-list { display: flex; flex-wrap: wrap; gap: .4rem; }
+.char-tag {
+  display: inline-block; padding: .2rem .6rem; border-radius: 20px;
+  font-size: .78rem; font-weight: 700; color: #fff;
+  background: linear-gradient(135deg, var(--pink), var(--purple));
+}
+.season-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: .5rem; }
+.season-item {
+  padding: .5rem .7rem; border-radius: 12px; font-size: .82rem;
+  background: var(--pink-pale); border: 1px solid var(--pink-light);
+}
+.season-item strong { display: block; margin-bottom: .2rem; }
+[data-theme="dark"] .character-card { background: var(--surface); border-color: rgba(255,107,157,.2); }
+[data-theme="dark"] .season-item { background: rgba(255,107,157,.08); border-color: rgba(255,107,157,.15); }
+
+/* Gallery heading */
+.gallery-heading { text-align: center; margin: 1.5rem 0 1rem; font-size: 1.2rem; color: var(--text); }
+
+/* === Character grid (gallery) === */
+.character-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem; padding-bottom: 2rem;
+}
+.gallery-item {
+  border-radius: 14px; overflow: hidden; background: var(--surface);
+  border: 2px solid var(--pink-light); transition: transform .2s, box-shadow .2s;
+}
+.gallery-item:hover { transform: translateY(-3px); box-shadow: 0 6px 20px var(--shadow); }
+.gallery-item img { width: 100%; display: block; aspect-ratio: 1; object-fit: cover; }
+.gallery-item-info { padding: .4rem .6rem; font-size: .76rem; }
+.gallery-number { font-weight: 800; color: var(--pink); }
+.gallery-title { color: var(--text-muted); }
+[data-theme="dark"] .gallery-item { background: var(--surface); border-color: rgba(255,107,157,.15); }
+
+@media (max-width: 600px) {
+  .character-page { margin-top: 60px; }
+  .character-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; }
+  .character-bar { margin-top: 120px; }
+}
