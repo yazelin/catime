@@ -478,6 +478,12 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 .character-tag.seasonal {
   background: linear-gradient(135deg, rgba(168, 230, 207, .9), rgba(116, 185, 255, .8));
 }
+/* Character avatar in tags */
+.char-tag-avatar {
+  width: 16px; height: 16px; border-radius: 50%;
+  vertical-align: -3px; margin-right: 3px;
+  object-fit: cover;
+}
 .card-info .character-tag { margin-top: .3rem; margin-right: .3rem; }
 .card-info .inspiration-tag { margin-top: .3rem; }
 
