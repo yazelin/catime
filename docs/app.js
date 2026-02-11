@@ -359,6 +359,7 @@
       const timestamp = typeof cat.timestamp === "string" ? cat.timestamp : "";
       const title = typeof cat.title === "string" ? cat.title : "";
       const characterName = typeof cat.character_name === "string" ? cat.character_name : "";
+      const characterId = typeof cat.character === "string" ? cat.character : "";
       const modelName = typeof cat.model === "string" ? cat.model : "";
       const inspiration = typeof cat.inspiration === "string" ? cat.inspiration : "";
 
@@ -387,11 +388,21 @@
       if (characterName) {
         const charTag = document.createElement("span");
         charTag.className = "character-tag" + (cat.is_seasonal ? " seasonal" : "");
+        if (characterId) {
+          const charAvatar = document.createElement("img");
+          charAvatar.src = "avatars/" + characterId + ".webp";
+          charAvatar.alt = characterName;
+          charAvatar.width = 16;
+          charAvatar.height = 16;
+          charAvatar.className = "char-tag-avatar";
+          charAvatar.loading = "lazy";
+          charTag.appendChild(charAvatar);
+        }
         let tagText = characterName;
         if (cat.season && SEASON_ICONS[cat.season]) {
           tagText += " · " + SEASON_ICONS[cat.season];
         }
-        charTag.textContent = tagText;
+        charTag.appendChild(document.createTextNode(tagText));
         cardInfo.appendChild(charTag);
       }
       if (inspiration) {
@@ -574,6 +585,7 @@
     const titleText = typeof cat.title === "string" ? ` ${cat.title}` : "";
     const timestamp = typeof cat.timestamp === "string" ? cat.timestamp : "";
     const characterName = typeof cat.character_name === "string" ? cat.character_name : "";
+    const characterId = typeof cat.character === "string" ? cat.character : "";
     const modelName = typeof cat.model === "string" ? cat.model : "";
     const inspiration = typeof cat.inspiration === "string" ? cat.inspiration : "";
     clearElement(lbInfo);
@@ -584,11 +596,21 @@
     if (characterName) {
       const charTag = document.createElement("span");
       charTag.className = "character-tag" + (cat.is_seasonal ? " seasonal" : "");
+      if (characterId) {
+        const charAvatar = document.createElement("img");
+        charAvatar.src = "avatars/" + characterId + ".webp";
+        charAvatar.alt = characterName;
+        charAvatar.width = 16;
+        charAvatar.height = 16;
+        charAvatar.className = "char-tag-avatar";
+        charAvatar.loading = "lazy";
+        charTag.appendChild(charAvatar);
+      }
       let tagText = characterName;
       if (cat.season && SEASON_ICONS[cat.season]) {
         tagText += " · " + SEASON_ICONS[cat.season];
       }
-      charTag.textContent = tagText;
+      charTag.appendChild(document.createTextNode(tagText));
       appendWithSpace(lbInfo, charTag);
     }
     if (inspiration) {
