@@ -3968,5 +3968,49 @@
     "comment_id": 3886313301,
     "title": "貓農的琥珀夢境",
     "inspiration": "在肯亞奈羅比舉行的國際農業發展基金會理事會上，重點討論了透過策略性公私合作夥伴關係投資年輕農業企業家，以促進農村地區的經濟發展和創造就業機會。"
+  },
+  {
+    "prompt": "A vibrant colored pencil illustration capturing Mochi, a chubby rounded shorthair cat, comfortably nestled inside a traditional market kotatsu during winter. Mochi's spherical torso and short stubby legs are hidden, only its round head visible. The cat has a white #FFFFFF base coat with bright orange #FF8C00 patches: its RIGHT half-face has an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while its LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and its LEFT front paw is pure white #FFFFFF. Its belly is white #FFFFFF. Mochi's large round amber #FFBF00 eyes are dramatically magnified twice, fixated on a nearby skewer of golden-brown roasted rice cakes. Its nose is pink #FFB6C1 with a tiny orange center dot. The scene is rendered with a fisheye wide-angle lens effect, featuring strong barrel distortion, an exaggerated foreground, and a 360-degree feel. Backlighting with rim light creates glowing silhouette edges, outlining Mochi's soft, short-haired form with light and adding a dramatic mood. The kotatsu surface displays a polished marble texture with natural vein patterns, a luxurious stone surface, cool smooth finish, and classical elegance. The entire illustration uses high saturation vivid colors, bold vibrant hues, eye-catching contrast, and an energetic palette, showing visible pencil grain and layered hues on a rough sketchbook paper texture. The date and time '2026-02-11 19:53 UTC' are visually displayed in the image.",
+    "number": 255,
+    "comment_id": 3886728195,
+    "inspiration": "original",
+    "news_inspiration": [
+      "一位印度教師因創立數百個學習中心而榮獲一百萬美元的全球教師獎，展現其在教育領域的傑出貢獻。",
+      "在義大利米蘭和科爾蒂納丹佩佐舉行的2026年冬季奧運會團體賽中，美國選手伊利亞·馬利寧榮獲金牌。",
+      "美國的格林河出現「逆流而上」的現象，地質學家們認為他們已找到原因。",
+      "南非開普敦將舉辦一場重要的國際象棋錦標賽。",
+      "一位跑者將在英國倫敦馬拉松賽中為世界猶太救援組織而跑，以紀念其曾祖母在兒童救援行動中獲救的經歷。"
+    ],
+    "is_seasonal": true,
+    "idea": "一幅以色鉛筆繪製的魚眼鏡頭畫作，捕捉了橘白色的麻糬舒適地窩在傳統市場角落的暖桌裡，只露出圓滾滾的頭，牠琥珀色的大圓眼正因盯著旁邊一串烤年糕而放大兩倍。畫面以高飽和鮮豔的色彩呈現，並利用背光/輪廓光勾勒出麻糬毛茸茸的身形，暖桌表面則帶有淡淡的大理石紋理。",
+    "character": "mochi",
+    "season": "winter",
+    "story": "在熱鬧喧囂的老街市場一隅，屬於麻糬的冬日小確幸正在上演。牠將自己圓滾滾的身子塞進溫暖的暖桌，只露出那張呆萌的扁圓臉，慵懶地享受著冬日午後。突然，一串烤得金黃微焦的年糕散發出誘人香氣，麻糬的琥珀色大眼瞬間放大兩倍，即使肚子的晃動也無法阻擋牠對美食的無限嚮往。",
+    "character_name": "麻糬",
+    "title": "暖桌年糕夢",
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Fisheye Lens",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Marble",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "貓咪專注操作機械/儀器",
+      "戲劇性逆光/輪廓光",
+      "復古/懷舊膠片質感",
+      "金屬光澤/反光表面",
+      "戲劇性陰影",
+      "虎斑貓",
+      "研究/科學設施",
+      "貓咪棲息於高處",
+      "南極研究站",
+      "德羅斯特效應/遞迴反射",
+      "大地色系",
+      "奢華黑金配色",
+      "廣角/魚眼/超廣角鏡頭",
+      "3D等距/正交投影",
+      "體積光/丁達爾效應"
+    ]
   }
 ]
