@@ -789,7 +789,8 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   display: flex; gap: .8rem; justify-content: center; align-items: center;
   padding: .5rem 1rem; margin-top: 56px;
   background: var(--surface); border-bottom: 2px solid var(--pink-light);
-  overflow-x: auto; flex-wrap: wrap;
+  overflow-x: auto; -webkit-overflow-scrolling: touch;
+  flex-wrap: nowrap; white-space: nowrap;
 }
 .character-bar a {
   display: flex; flex-direction: column; align-items: center;
@@ -808,6 +809,16 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 [data-theme="dark"] .character-bar { background: var(--surface); border-color: rgba(255,107,157,.2); }
 [data-theme="dark"] .character-bar a:hover { background: rgba(255,107,157,.12); }
 [data-theme="dark"] .char-avatar { background: linear-gradient(135deg, #2a1f2a, #1f2530); border-color: rgba(255,107,157,.3); }
+
+/* === Back link (character page) === */
+.back-link {
+  display: flex; align-items: center; gap: .3rem;
+  text-decoration: none; color: var(--text); font-size: .85rem; font-weight: 600;
+  padding: .3rem .6rem; border-radius: 10px;
+  transition: background .2s;
+}
+.back-link:hover { background: var(--pink-pale); }
+[data-theme="dark"] .back-link:hover { background: rgba(255,107,157,.12); }
 
 /* === Character profile page === */
 .character-page {
@@ -864,5 +875,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 @media (max-width: 600px) {
   .character-page { margin-top: 60px; }
   .character-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; }
-  .character-bar { margin-top: 120px; }
+  .character-bar { margin-top: 120px; gap: .5rem; padding: .4rem .6rem; }
+  .character-bar a { font-size: .65rem; padding: .2rem .4rem; }
+  .character-bar .char-avatar { width: 32px; height: 32px; font-size: 1rem; }
 }

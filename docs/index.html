@@ -261,14 +261,14 @@
     (function(){
       var bar = document.getElementById('character-bar');
       if (!bar) return;
-      var emojis = { mochi: '🍡', momo: '🖤', captain: '⚓', lingling: '🔔' };
+      var colors = { mochi: '#FF8C00', momo: '#1A1A1A', captain: '#5C4033', lingling: '#FFFFFF' };
       fetch('https://raw.githubusercontent.com/yazelin/catime/main/characters/index.json').then(function(r){ return r.json(); }).then(function(idx){
         var chars = (idx.characters || []).filter(function(c){ return c.enabled; });
         chars.forEach(function(c){
           fetch('https://raw.githubusercontent.com/yazelin/catime/main/characters/' + c.file).then(function(r){ return r.json(); }).then(function(data){
             var a = document.createElement('a');
             a.href = 'character.html?id=' + encodeURIComponent(data.id);
-            a.innerHTML = '<span class="char-avatar">' + (emojis[data.id] || '🐱') + '</span>' +
+            a.innerHTML = '<span class="char-avatar" style="background:' + (colors[data.id] || '#888') + '; color:' + (data.id === 'lingling' ? '#000' : '#fff') + '">' + (data.name ? (data.name.zh || data.name.en || data.id)[0] : data.id[0]).toUpperCase() + '</span>' +
               '<span>' + (data.name ? data.name.zh : data.id) + '</span>';
             bar.appendChild(a);
           });
