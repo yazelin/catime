@@ -341,7 +341,7 @@ def format_character_for_render(char: dict) -> str:
     return (
         f"\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n"
         f"{snippet}\n"
-        f"Every item in the MUST-HAVE CHECKLIST above is MANDATORY. Do NOT skip any.\n"
+        f"Every HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\n"
         f"If the art style makes any feature hard to show, simplify the style — NEVER drop the feature.{seasonal_addition}\n"
     )
 
