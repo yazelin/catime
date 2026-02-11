@@ -159,7 +159,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   border-color: var(--pink); background: var(--pink-pale);
 }
 .date-dropdown {
-  position: absolute; top: calc(100% + 6px); right: 0; z-index: 150;
+  position: absolute; top: calc(100% + 6px); right: 0; z-index: 190;
   background: #fff; border-radius: 16px; padding: .8rem;
   border: 2px solid var(--pink-light);
   box-shadow: 0 8px 30px var(--shadow);
