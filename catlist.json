@@ -1963,5 +1963,18 @@
     "title": "暖桌年糕夢",
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-11_1953_UTC.webp"
+  },
+  {
+    "timestamp": "2026-02-11 20:32 UTC",
+    "number": 256,
+    "character": "captain",
+    "status": "success",
+    "title": "凜冬守望者",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "season": "winter",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-11_2032_UTC.webp",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

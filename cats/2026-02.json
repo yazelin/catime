@@ -4012,5 +4012,43 @@
       "3D等距/正交投影",
       "體積光/丁達爾效應"
     ]
+  },
+  {
+    "prompt": "A large, stocky Captain cat, a brown #5C4033 classic tabby with bold black #1A1A1A stripes, stands on a cold, brutalist raw concrete breakwater with rough aggregate surface, facing a stormy, snow-filled sea. This character, rendered in a detailed claymation style with sculpted clay and visible fingerprint textures, embodies a stop-motion aesthetic. The cat's fur is scruffy, untidy, slightly coarse, and has uneven lengths. Its left eye is permanently concealed by a natural dark-pigmented fur patch #2B1B0E (not fabric or straps), while its right eye is a piercing emerald green #50C878 with a circular catchlight. A prominent V-shaped notch marks its left ear, and a faded red #CD5C5C bandana is tied loosely around its neck. It features a white #FFFFFF chest bib, white mitten paws on all four feet, and a distinctive M-mark on its forehead, with a thick, sturdy tail. The Captain wears a mini naval coat, and its long white beard is heavily frosted, showcasing a broad, muscular build. The composition is perfectly symmetrical and centered, with a mirror-like balance and architectural framing. Ring light illumination creates even frontal lighting, emphasizing the frosted beard, broad chest, and sharp right eye, achieving a beauty portrait quality. The entire scene is bathed in cool blue-teal color grading with icy undertones, creating a crisp, serene, and calm atmosphere despite the blizzard, portraying a steadfast harbor guardian. The date and time '2026-02-11 20:32 UTC' are visually displayed in the image.",
+    "number": 256,
+    "news_inspiration": [],
+    "idea": "在黏土動畫風格的場景中，船長身穿迷你航海外套，戴著左眼罩，結實地站在冰冷混凝土防波堤的頂端，以對稱構圖堅毅地面向風雪中的大海。環形燈光集中照亮牠，突顯其寬厚胸膛、結霜的長白鬍鬚和銳利的翠綠右眼，冰冷的藍青色調瀰漫整個畫面，呈現牠作為港口守護者的凜然風範。",
+    "avoid_list": [
+      "貓咪專注操作機械/儀器",
+      "戲劇性逆光/輪廓光",
+      "復古/懷舊膠片質感",
+      "金屬光澤/反光表面",
+      "戲劇性陰影",
+      "虎斑貓",
+      "研究/科學設施",
+      "貓咪棲息於高處",
+      "南極研究站",
+      "德羅斯特效應/遞迴反射",
+      "大地色系",
+      "奢華黑金配色",
+      "廣角/魚眼/超廣角鏡頭",
+      "3D等距/正交投影",
+      "體積光/丁達爾效應"
+    ],
+    "character": "captain",
+    "title": "凜冬守望者",
+    "story": "凜冬侵襲漁港，船長身披迷你航海外套，如磐石般屹立於混凝土防波堤之上。牠的翠綠右眼穿透紛飛的雪花，仔細巡視著波濤洶湧的冰冷海面，確保碼頭及其所有貓群在惡劣天氣下的安全。風雪中，牠蓬亂粗糙的毛髮上結滿細霜，彰顯著歷經風霜的堅毅與不修邊幅的帥氣。",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "season": "winter",
+    "inspiration": "original",
+    "comment_id": 3887015555,
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Symmetrical Composition",
+      "lighting": "Ring Light",
+      "texture": "Concrete",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
