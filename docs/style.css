@@ -243,7 +243,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 
 /* Timeline sidebar */
 #timeline {
-  position: fixed; top: 56px; right: 0; bottom: 0; width: 130px; z-index: 90;
+  position: fixed; top: 56px; right: 0; bottom: 0; width: 130px; z-index: 90; /* top overridden by JS */
   background: linear-gradient(180deg, #fff 0%, var(--pink-pale) 100%);
   border-left: 2px solid var(--pink-light);
   overflow-y: auto; padding: .8rem 0;
@@ -788,10 +788,11 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 .character-bar {
   display: flex; gap: .8rem; justify-content: center; align-items: center;
   padding: .4rem 1rem;
-  flex-basis: 100%; order: 2;
-  border-top: 1px solid var(--pink-light);
+  position: fixed; left: 0; right: 0; z-index: 99;
+  background: var(--surface); border-bottom: 2px solid var(--pink-light);
   overflow-x: auto; -webkit-overflow-scrolling: touch;
   flex-wrap: nowrap; white-space: nowrap;
+  box-shadow: 0 2px 8px var(--shadow);
 }
 .character-bar a {
   display: flex; flex-direction: column; align-items: center;
