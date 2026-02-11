@@ -715,17 +715,73 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
     radial-gradient(circle at 50% 50%, rgba(201,177,255,.02) 0%, transparent 50%);
 }
 
-/* Giscus comments section */
-#giscus-section {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+/* RSS link */
+.rss-link {
+  color: #FF6600; flex-shrink: 0;
+  transition: color .2s, transform .2s;
+  display: flex; align-items: center;
 }
-#giscus-section h2 {
-  text-align: center;
-  color: var(--text);
-  font-size: 1.3rem;
-  margin-bottom: 1rem;
+.rss-link svg { fill: currentColor; }
+.rss-link:hover { color: #FF6600; transform: scale(1.15) rotate(8deg); }
+
+/* Floating Giscus button */
+.giscus-toggle {
+  bottom: 1.2rem; right: 1.2rem; z-index: 96;
+  opacity: 1; transform: translateY(0);
+  pointer-events: auto;
+}
+
+/* Giscus slide-in panel */
+.giscus-panel {
+  position: fixed; top: 0; right: 0; bottom: 0; z-index: 180;
+  width: 420px; max-width: 100vw;
+  background: var(--surface); color: var(--text);
+  box-shadow: -4px 0 24px rgba(0,0,0,.15);
+  display: flex; flex-direction: column;
+  transform: translateX(100%);
+  transition: transform .3s ease;
+}
+.giscus-panel.open { transform: translateX(0); }
+
+.giscus-panel-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: .8rem 1rem;
+  border-bottom: 2px solid var(--pink-light);
+  font-weight: 800; font-size: 1.1rem; color: var(--text);
+}
+.giscus-panel-header h2 { margin: 0; font-size: 1.1rem; }
+.giscus-panel-header button {
+  background: none; border: none; font-size: 1.5rem;
+  color: var(--text-muted); cursor: pointer;
+  transition: color .2s, transform .2s;
+  line-height: 1;
+}
+.giscus-panel-header button:hover { color: var(--pink); transform: scale(1.2); }
+
+.giscus-panel-body {
+  flex: 1; overflow-y: auto;
+}
+#giscus-section {
+  padding: 1rem;
+}
+
+/* Dark mode for panel */
+[data-theme="dark"] .giscus-panel {
+  background: var(--surface);
+  box-shadow: -4px 0 24px rgba(0,0,0,.4);
+}
+[data-theme="dark"] .giscus-panel-header {
+  border-bottom-color: rgba(255,107,157,.3);
+}
+@media (max-width: 600px) {
+  .giscus-panel {
+    top: auto; left: 0; right: 0; bottom: 0;
+    width: 100vw; height: 70vh;
+    border-radius: 16px 16px 0 0;
+    transform: translateY(100%);
+  }
+  .giscus-panel.open { transform: translateY(0); }
+  .giscus-toggle { bottom: 1rem; right: 1rem; }
 }
 
 /* === Character bar (index page) === */
