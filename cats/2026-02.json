@@ -3752,5 +3752,43 @@
     "comment_id": 3884255869,
     "inspiration": "科學家在南極洲冰層下發現了一個被冰封了3400萬年的失落世界，揭示了古代的植物生命。",
     "number": 248
+  },
+  {
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Symmetrical Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Earth Tones"
+    },
+    "number": 249,
+    "title": "嘉年華之夜的舞羽",
+    "idea": "在里約嘉年華的狂歡之夜，一隻虎斑貓坐落於一棟殖民建築的窗台上，以手持慢門的藝術風格捕捉其凝視著下方街頭，並嘗試輕撥一片緩緩飄落的嘉年華羽毛的瞬間。電影感打光搭配大地色系與底片顆粒，營造出熱烈而內斂的氛圍。",
+    "news_inspiration": [
+      "南非的犀牛盜獵數量在2025年較前一年下降了16%，顯示該國持續的反盜獵行動取得了積極成效。",
+      "中國哈爾濱的國際冰雪節將城市變成了冬季仙境，以其巨大的冰雕和燈光吸引著來自世界各地的遊客。",
+      "巴西里約熱內盧的嘉年華會是全球規模最大的狂歡節慶典之一，每年吸引數百萬人上街載歌載舞。",
+      "馬來西亞正在積極推動海草復育計畫，對當地海洋生態系統產生了正向的影響。"
+    ],
+    "avoid_list": [
+      "黏土/陶瓷質感",
+      "微縮立體模型",
+      "等距3D構圖",
+      "底片顆粒與復古色調",
+      "莫蘭迪色調",
+      "透明樹脂材質",
+      "閃光燈直打",
+      "中性白色平面照明",
+      "大地色系",
+      "貓咪專注姿態",
+      "極低角度攝影",
+      "貓咪擬人化角色",
+      "柔和全局照明",
+      "移軸效果"
+    ],
+    "story": "喧囂的音樂與人群的歡呼聲在夜晚的里約街頭迴盪，形成一道道模糊的光影洪流。在這片絢爛的流光中，一隻橘色虎斑貓優雅地伸出前爪，試圖輕輕撥弄一片從狂歡者頭飾上飄落的亮橘色羽毛，牠的動作在慢門下顯得既動態又帶有詩意。街上的人群被慢門拉成色彩斑斕的動態模糊，而貓咪與羽毛則在戲劇性的電影感光影下，顯得格外清晰而富有故事性。",
+    "inspiration": "巴西里約熱內盧的嘉年華會是全球規模最大的狂歡節慶典之一，每年吸引數百萬人上街載歌載舞。",
+    "prompt": "A photograph captured on 35mm film at f/2.8: An orange tabby cat sits on the terracotta windowsill of a colonial building, architecturally framed. The cat is looking down, gently extending a paw to lightly bat a brightly colored carnival feather slowly descending. Below, the Rio Carnival street pulses with crowds rendered as colorful, intentional motion blur and light streaks, creating a dreamy time-passing effect and flowing movement. Handheld slow shutter photography. Cinematic lighting with volumetric light rays casts dramatic shadows, showcasing high dynamic range. The cat and feather are in sharp, cinematic focus against the vibrant, blurred background. An overall earth tone palette of warm browns and olive green anchors the scene, contrasted by the vivid carnival colors. Visible film grain, analog texture, subtle noise, and organic photographic imperfections evoke a film-quality mood. The date and time '2026-02-11 13:29 UTC' is visually displayed on the image.",
+    "comment_id": 3884458850
   }
 ]
