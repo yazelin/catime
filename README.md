@@ -6,7 +6,7 @@ Every hour, a GitHub Actions workflow generates a unique cat image using [nanoba
 
 ## 贊助 Sponsors
 
-如果你喜歡 catime，歡迎透過 [GitHub Sponsors](https://github.com/sponsors/yazelin) 贊助本專案！詳細方案請參閱 [SPONSORS.md](SPONSORS.md)。
+如果你喜歡 catime，歡迎透過 [Buy Me a Coffee](https://buymeacoffee.com/yazelin) 贊助本專案！詳細方案請參閱 [SPONSORS.md](SPONSORS.md)。
 
 ## Install & Usage
 
