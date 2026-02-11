@@ -57,6 +57,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div id="sticky-header">
   <header id="topbar">
     <img src="icon-192.png" alt="Catime" class="logo-icon">
     <h1>Catime <span id="cat-count" class="cat-count"></span></h1>
@@ -99,6 +100,7 @@
     </a>
   </header>
   <div id="character-bar" class="character-bar"></div>
+  </div>
 
   <nav id="timeline" aria-label="Timeline navigation">
     <button id="timeline-toggle" aria-label="Toggle timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
@@ -274,25 +276,21 @@
       }).catch(function(){});
     })();
 
-    // Position character-bar and timeline below topbar dynamically
+    // Sync header height to CSS variable for timeline positioning
     (function(){
-      function adjustLayout(){
-        var topbar = document.getElementById('topbar');
-        var charBar = document.getElementById('character-bar');
-        var timeline = document.getElementById('timeline');
-        if(!topbar) return;
-        var h = topbar.offsetHeight;
-        if(charBar && charBar.children.length > 0){
-          charBar.style.top = h + 'px';
-          var h2 = h + charBar.offsetHeight;
-          if(timeline) timeline.style.top = h2 + 'px';
-        } else {
-          if(timeline) timeline.style.top = h + 'px';
-        }
+      var sh = document.getElementById('sticky-header');
+      if (!sh) return;
+      function sync() {
+        document.documentElement.style.setProperty('--header-offset', sh.offsetHeight + 'px');
       }
-      window.addEventListener('load', adjustLayout);
-      window.addEventListener('resize', adjustLayout);
-      new MutationObserver(adjustLayout).observe(document.getElementById('character-bar') || document.body, {childList:true});
+      sync();
+      if ('ResizeObserver' in window) {
+        new ResizeObserver(sync).observe(sh);
+      } else {
+        window.addEventListener('load', sync);
+        window.addEventListener('resize', sync);
+      }
+      new MutationObserver(sync).observe(document.getElementById('character-bar') || document.body, {childList:true});
     })();
   </script>
 </body>
