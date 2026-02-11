@@ -3790,5 +3790,43 @@
     "inspiration": "巴西里約熱內盧的嘉年華會是全球規模最大的狂歡節慶典之一，每年吸引數百萬人上街載歌載舞。",
     "prompt": "A photograph captured on 35mm film at f/2.8: An orange tabby cat sits on the terracotta windowsill of a colonial building, architecturally framed. The cat is looking down, gently extending a paw to lightly bat a brightly colored carnival feather slowly descending. Below, the Rio Carnival street pulses with crowds rendered as colorful, intentional motion blur and light streaks, creating a dreamy time-passing effect and flowing movement. Handheld slow shutter photography. Cinematic lighting with volumetric light rays casts dramatic shadows, showcasing high dynamic range. The cat and feather are in sharp, cinematic focus against the vibrant, blurred background. An overall earth tone palette of warm browns and olive green anchors the scene, contrasted by the vivid carnival colors. Visible film grain, analog texture, subtle noise, and organic photographic imperfections evoke a film-quality mood. The date and time '2026-02-11 13:29 UTC' is visually displayed on the image.",
     "comment_id": 3884458850
+  },
+  {
+    "news_inspiration": [
+      "在墨西哥城，一隻戴著頭盔和太陽眼鏡的狗狗Benji，與主人一起在改革大道上騎自行車，成為每週一道有趣的風景線。",
+      "在米蘭科爾蒂納冬奧會的男子冰球錦標賽中，「帽子戲法」的傳統引發了人們的期待，球迷會將帽子扔到冰面上以示慶祝。",
+      "世界中央廚房在加沙達成了每日分發一百萬份熱餐的里程碑，展現了當地社區在艱難條件下互相幫助的堅韌精神。"
+    ],
+    "title": "共享餐盒的鋼鐵意志",
+    "story": "在巨大的金屬質感食物銀行倉庫裡，這隻英國短毛貓是運營的核心。牠的每一次搬運都精確無比，確保成千上萬份餐食能井然有序地分發到需要的社區手中。倉庫牆面隱約浮現的城市剪影，是對牠辛勤付出的無聲肯定。",
+    "inspiration": "世界中央廚房在加沙達成了每日分發一百萬份熱餐的里程碑，展現了當地社區在艱難條件下互相幫助的堅韌精神。",
+    "idea": "一隻身穿實用背心的英國短毛貓，在雙重曝光風格的黑白金屬質感倉庫中，以等距3D插圖形式，於黃金時刻的明暗對比下，正專注地將金屬餐盒疊放至高聳的貨架上。",
+    "prompt": "3D isometric illustration, black and white monochrome, high contrast. A focused British Shorthair cat wearing a practical utility vest is precisely stacking metallic lunchboxes onto towering warehouse shelves. The scene is rendered with a double exposure effect, where two overlapping images are blended with ethereal transparency. Clean geometric forms define the industrial, premium metallic warehouse interior, with subtle city silhouettes filled with landscape appearing on the walls. Golden hour lighting casts long soft shadows, creating dramatic shadows and highlights and a rich tonal range. A golden rim light accentuates the cat and the brushed or polished metallic surfaces, which display sharp reflections. Polished playful rendering. Visually displayed text: '2026-02-11 14:12 UTC'.",
+    "avoid_list": [
+      "可視化日期時間文字",
+      "專注神情/目光",
+      "大地色系（赤陶、橄欖綠、暖棕）",
+      "光滑亮面/反射效果",
+      "黑貓",
+      "等距視角",
+      "微縮模型場景",
+      "柔和自然漫射光/無刺眼陰影",
+      "透明樹脂材質",
+      "織品紋理/柔軟觸感",
+      "35mm底片風格/顆粒感",
+      "南極研究站",
+      "戲劇性逆光/輪廓光",
+      "奢華黑金配色",
+      "手繪線稿/粉筆畫風格"
+    ],
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Golden Hour",
+      "texture": "Metallic Surface",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 3884700790,
+    "number": 250
   }
 ]
