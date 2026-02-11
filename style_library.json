@@ -632,6 +632,426 @@
       "name_en": "Duotone",
       "prompt_snippet": "duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel",
       "category": "color"
+    },
+    {
+      "name_zh": "故障藝術",
+      "name_en": "Glitch Art",
+      "prompt_snippet": "glitch art, digital distortion, RGB channel shift, corrupted data aesthetic, scan line artifacts, fragmented visuals",
+      "category": "style"
+    },
+    {
+      "name_zh": "蒸汽朋克",
+      "name_en": "Steampunk",
+      "prompt_snippet": "steampunk aesthetic, Victorian-era machinery, brass gears and cogs, steam-powered mechanisms, industrial retrofuturism",
+      "category": "style"
+    },
+    {
+      "name_zh": "生物朋克",
+      "name_en": "Biopunk",
+      "prompt_snippet": "biopunk aesthetic, organic-mechanical hybrid, bioluminescent elements, mutated flora, genetic modification themes",
+      "category": "style"
+    },
+    {
+      "name_zh": "合成波",
+      "name_en": "Synthwave",
+      "prompt_snippet": "synthwave aesthetic, neon grid landscape, retro-futuristic sunset, chrome typography, 1980s sci-fi nostalgia",
+      "category": "style"
+    },
+    {
+      "name_zh": "半色調網點",
+      "name_en": "Halftone",
+      "prompt_snippet": "halftone dot pattern, CMYK print aesthetic, visible dot matrix, retro newspaper print effect, graphic texture",
+      "category": "style"
+    },
+    {
+      "name_zh": "雙重曝光",
+      "name_en": "Double Exposure",
+      "prompt_snippet": "double exposure effect, two overlapping images blended, silhouette filled with landscape, ethereal transparency",
+      "category": "style"
+    },
+    {
+      "name_zh": "長曝光攝影",
+      "name_en": "Long Exposure Photography",
+      "prompt_snippet": "long exposure photography, light trails, silky smooth water, motion blur, streaked clouds, time-lapse feel",
+      "category": "style"
+    },
+    {
+      "name_zh": "熱成像風格",
+      "name_en": "Thermal Imaging",
+      "prompt_snippet": "thermal imaging style, heat map color gradient, infrared vision, temperature visualization, red-yellow-blue spectrum",
+      "category": "style"
+    },
+    {
+      "name_zh": "X光透視",
+      "name_en": "X-Ray Style",
+      "prompt_snippet": "X-ray radiograph style, translucent skeletal view, high contrast negative, medical imaging aesthetic, monochrome blue-white",
+      "category": "style"
+    },
+    {
+      "name_zh": "建築藍圖",
+      "name_en": "Architectural Blueprint",
+      "prompt_snippet": "architectural blueprint style, white lines on blue background, technical drawing, precise measurements and annotations",
+      "category": "style"
+    },
+    {
+      "name_zh": "全像投影",
+      "name_en": "Holographic Projection",
+      "prompt_snippet": "holographic projection effect, translucent glowing figure, sci-fi hologram, blue-cyan light emission, digital scan lines",
+      "category": "style"
+    },
+    {
+      "name_zh": "CRT掃描線",
+      "name_en": "CRT Scanline",
+      "prompt_snippet": "CRT monitor aesthetic, visible scan lines, phosphor glow, retro screen curvature, vintage display artifacts",
+      "category": "style"
+    },
+    {
+      "name_zh": "分形幾何",
+      "name_en": "Fractal Geometry",
+      "prompt_snippet": "fractal geometry art, Mandelbrot patterns, infinite recursive detail, mathematical beauty, psychedelic precision",
+      "category": "style"
+    },
+    {
+      "name_zh": "中片幅攝影",
+      "name_en": "Medium Format Photography",
+      "prompt_snippet": "medium format photography, Hasselblad aesthetic, extraordinary tonal range, creamy shallow depth of field, smooth skin rendering",
+      "category": "style"
+    },
+    {
+      "name_zh": "運動追焦",
+      "name_en": "Sports Panning Shot",
+      "prompt_snippet": "sports panning photography, frozen subject with motion-blurred background, high shutter speed, dynamic energy, action captured",
+      "category": "style"
+    },
+    {
+      "name_zh": "手持慢門",
+      "name_en": "Handheld Slow Shutter",
+      "prompt_snippet": "handheld slow shutter, intentional motion blur, light streaks, flowing movement, dreamy time-passing effect",
+      "category": "style"
+    },
+    {
+      "name_zh": "體積光",
+      "name_en": "Volumetric Light",
+      "prompt_snippet": "volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, dramatic depth",
+      "category": "lighting"
+    },
+    {
+      "name_zh": "倫勃朗光",
+      "name_en": "Rembrandt Lighting",
+      "prompt_snippet": "Rembrandt lighting, single light source at 45 degrees, signature triangle of light on shadowed cheek, dramatic chiaroscuro",
+      "category": "lighting"
+    },
+    {
+      "name_zh": "蝴蝶光",
+      "name_en": "Butterfly Lighting",
+      "prompt_snippet": "butterfly lighting, overhead key light, symmetrical shadow under nose, glamour portrait lighting, soft even illumination",
+      "category": "lighting"
+    },
+    {
+      "name_zh": "生物發光",
+      "name_en": "Bioluminescence",
+      "prompt_snippet": "bioluminescent lighting, organic glow from living organisms, deep blue-green radiance, underwater phosphorescence, ethereal natural light",
+      "category": "lighting"
+    },
+    {
+      "name_zh": "液態金屬",
+      "name_en": "Liquid Metal",
+      "prompt_snippet": "liquid metal surface, mercury-like reflective flow, chrome dripping texture, molten mirror finish, futuristic material",
+      "category": "texture"
+    },
+    {
+      "name_zh": "磨砂玻璃",
+      "name_en": "Frosted Glass",
+      "prompt_snippet": "frosted glass texture, translucent matte surface, diffused light transmission, soft blurred shapes visible behind",
+      "category": "texture"
+    },
+    {
+      "name_zh": "大理石",
+      "name_en": "Marble",
+      "prompt_snippet": "polished marble texture, natural vein patterns, luxurious stone surface, cool smooth finish, classical elegance",
+      "category": "texture"
+    },
+    {
+      "name_zh": "皮革",
+      "name_en": "Leather",
+      "prompt_snippet": "genuine leather texture, rich grain pattern, warm aged patina, supple creased surface, artisanal craftsmanship",
+      "category": "texture"
+    },
+    {
+      "name_zh": "絲綢",
+      "name_en": "Silk",
+      "prompt_snippet": "silk fabric texture, luminous smooth surface, delicate light reflections, flowing drape, luxurious sheen",
+      "category": "texture"
+    },
+    {
+      "name_zh": "天鵝絨",
+      "name_en": "Velvet",
+      "prompt_snippet": "velvet texture, deep pile softness, rich color saturation, light-absorbing matte surface, tactile luxury",
+      "category": "texture"
+    },
+    {
+      "name_zh": "碳纖維",
+      "name_en": "Carbon Fiber",
+      "prompt_snippet": "carbon fiber weave pattern, high-tech lightweight material, glossy clear coat finish, modern industrial aesthetic",
+      "category": "texture"
+    },
+    {
+      "name_zh": "混凝土",
+      "name_en": "Concrete",
+      "prompt_snippet": "raw concrete texture, brutalist aesthetic, rough aggregate surface, industrial minimalism, urban material",
+      "category": "texture"
+    },
+    {
+      "name_zh": "鐵鏽舊化",
+      "name_en": "Rust / Weathered",
+      "prompt_snippet": "rusted weathered metal, oxidized patina, peeling paint layers, aged industrial decay, warm orange-brown corrosion",
+      "category": "texture"
+    },
+    {
+      "name_zh": "苔蘚覆蓋",
+      "name_en": "Moss Overgrowth",
+      "prompt_snippet": "moss-covered surface, lush green organic overgrowth, nature reclaiming texture, damp forest aesthetic, soft living patina",
+      "category": "texture"
+    },
+    {
+      "name_zh": "冰霜結晶",
+      "name_en": "Frost Crystal",
+      "prompt_snippet": "ice crystal formation, delicate frost patterns, frozen surface texture, translucent ice shards, winter crystalline beauty",
+      "category": "texture"
+    },
+    {
+      "name_zh": "沙質紋理",
+      "name_en": "Sand Texture",
+      "prompt_snippet": "fine sand texture, desert dune ripples, warm golden granules, wind-sculpted patterns, natural grain detail",
+      "category": "texture"
+    },
+    {
+      "name_zh": "巴洛克",
+      "name_en": "Baroque",
+      "prompt_snippet": "Baroque art style, dramatic chiaroscuro, exuberant grandeur, rich ornate detail, deep shadows and golden highlights",
+      "category": "style"
+    },
+    {
+      "name_zh": "印象派",
+      "name_en": "Impressionism",
+      "prompt_snippet": "Impressionism, painterly visible brushstrokes, emphasis on light and color, plein air atmosphere, soft luminous palette",
+      "category": "style"
+    },
+    {
+      "name_zh": "表現主義",
+      "name_en": "Expressionism",
+      "prompt_snippet": "Expressionism art style, emotional intensity, bold distorted forms, vivid contrasting colors, exaggerated gestural brushwork",
+      "category": "style"
+    },
+    {
+      "name_zh": "野獸派",
+      "name_en": "Fauvism",
+      "prompt_snippet": "Fauvism art, bold non-naturalistic colors, textured impasto brushwork, simplified forms, wildly vibrant palette",
+      "category": "style"
+    },
+    {
+      "name_zh": "立體主義",
+      "name_en": "Cubism",
+      "prompt_snippet": "Cubism art, geometric fragmented forms, multiple simultaneous perspectives, abstract angular planes, analytical decomposition",
+      "category": "style"
+    },
+    {
+      "name_zh": "未來主義",
+      "name_en": "Futurism",
+      "prompt_snippet": "Futurism art style, dynamic motion lines, fragmented overlapping forms, sense of velocity and energy, angular kinetic composition",
+      "category": "style"
+    },
+    {
+      "name_zh": "洛可可",
+      "name_en": "Rococo",
+      "prompt_snippet": "Rococo style, flamboyant pastel colors, flowing ornamental curves, elaborate decorative detail, light playful elegance",
+      "category": "style"
+    },
+    {
+      "name_zh": "文藝復興",
+      "name_en": "Renaissance",
+      "prompt_snippet": "Renaissance painting style, realistic perspective, masterful light and shadow, rich warm palette, classical composition, sfumato technique",
+      "category": "style"
+    },
+    {
+      "name_zh": "新印象派（點描法）",
+      "name_en": "Neo-Impressionism / Pointillism",
+      "prompt_snippet": "Neo-Impressionism, Pointillism, tiny dabs of pure color, optical color mixing, luminous surface, systematic dot technique",
+      "category": "style"
+    },
+    {
+      "name_zh": "風格派",
+      "name_en": "De Stijl",
+      "prompt_snippet": "De Stijl art, neoplasticism, primary colors with black and white, geometric abstraction, horizontal and vertical lines, Mondrian-inspired",
+      "category": "style"
+    },
+    {
+      "name_zh": "抽象表現主義",
+      "name_en": "Abstract Expressionism",
+      "prompt_snippet": "Abstract Expressionism, high contrast gestural brushwork, large bold color fields, spontaneous raw emotional intensity",
+      "category": "style"
+    },
+    {
+      "name_zh": "歐普藝術",
+      "name_en": "Op Art",
+      "prompt_snippet": "Op Art, optical illusion patterns, abstract geometric design, impression of movement and vibration, high contrast repetition",
+      "category": "style"
+    },
+    {
+      "name_zh": "貢德畫",
+      "name_en": "Gond Painting",
+      "prompt_snippet": "Gond painting, intricate dot and line patterns, vibrant colors, nature-inspired motifs, Indian tribal folklore, mystical compositions",
+      "category": "style"
+    },
+    {
+      "name_zh": "米提拉畫",
+      "name_en": "Madhubani Painting",
+      "prompt_snippet": "Madhubani painting, intricate geometric and floral patterns, vibrant colors, symmetrical composition, Indian folk art aesthetic",
+      "category": "style"
+    },
+    {
+      "name_zh": "特林吉特圖騰藝術",
+      "name_en": "Tlingit Formline Art",
+      "prompt_snippet": "Tlingit art, formline design, bold ovoid and U-shapes, animal motifs, red and black on cedar, Pacific Northwest indigenous totem style",
+      "category": "style"
+    },
+    {
+      "name_zh": "非洲未來主義",
+      "name_en": "Afrofuturism",
+      "prompt_snippet": "Afrofuturism illustration, vibrant colors, futuristic elements, African cultural symbolism, cosmic imagery, dynamic empowering aesthetic",
+      "category": "style"
+    },
+    {
+      "name_zh": "彩飾手抄本",
+      "name_en": "Illuminated Manuscript",
+      "prompt_snippet": "Illuminated manuscript style, intricate calligraphy borders, rich jewel-tone colors, gold leaf accents, ornate borders, medieval book art",
+      "category": "style"
+    },
+    {
+      "name_zh": "帕列赫細密畫",
+      "name_en": "Palekh Miniature",
+      "prompt_snippet": "Palekh art, intricate miniature painting, vivid colors on black lacquer background, Russian folkloric themes, gold leaf storytelling",
+      "category": "style"
+    },
+    {
+      "name_zh": "彩色石版印刷",
+      "name_en": "Chromolithography",
+      "prompt_snippet": "Chromolithograph style, vibrant saturated colors, multi-layered printing, decorative elements, ornate Victorian-era poster composition",
+      "category": "style"
+    },
+    {
+      "name_zh": "藍曬法",
+      "name_en": "Cyanotype Print",
+      "prompt_snippet": "Cyanotype print, Prussian blue monochrome tones, sun-exposed paper, high contrast silhouette, blueprint aesthetic, photogram style",
+      "category": "style"
+    },
+    {
+      "name_zh": "酒精墨水藝術",
+      "name_en": "Alcohol Ink Art",
+      "prompt_snippet": "Alcohol ink art, fluid vibrant colors, unpredictable organic patterns, translucent layers, ethereal abstract effects, free-flowing movement",
+      "category": "style"
+    },
+    {
+      "name_zh": "墨流",
+      "name_en": "Suminagashi",
+      "prompt_snippet": "Suminagashi, Japanese paper marbling, floating concentric ink patterns, delicate ethereal swirls, meditative marble effect",
+      "category": "style"
+    },
+    {
+      "name_zh": "魚拓",
+      "name_en": "Gyotaku Print",
+      "prompt_snippet": "Gyotaku style, direct ink impression print, textured relief surface, traditional Japanese art form, monochrome contact print aesthetic",
+      "category": "style"
+    },
+    {
+      "name_zh": "賽璐璐著色",
+      "name_en": "Cel Shading",
+      "prompt_snippet": "Cel shaded art, flat color areas with bold outlines, toon shading, sharp shadow edges, cartoon rendering, anime game look",
+      "category": "style"
+    },
+    {
+      "name_zh": "誇張漫畫",
+      "name_en": "Caricature",
+      "prompt_snippet": "Caricature style, exaggerated proportions, comical distortion, humorous expressive features, editorial cartoon aesthetic",
+      "category": "style"
+    },
+    {
+      "name_zh": "黑色電影",
+      "name_en": "Film Noir",
+      "prompt_snippet": "Film noir style, high contrast monochrome, dramatic deep shadows, 1940s cinematic mood, venetian blind light patterns, mysterious atmosphere",
+      "category": "style"
+    },
+    {
+      "name_zh": "交叉沖洗",
+      "name_en": "Cross Processing",
+      "prompt_snippet": "Cross processing print, experimental color shifts, surreal unconventional hues, heightened contrasts, retro vintage feel, unpredictable color cast",
+      "category": "style"
+    },
+    {
+      "name_zh": "畫意攝影",
+      "name_en": "Pictorialism Photography",
+      "prompt_snippet": "Pictorialism photography, deliberate soft focus, atmospheric painterly effects, muted dreamy tones, evocative mood, early fine art photography",
+      "category": "style"
+    },
+    {
+      "name_zh": "剪影藝術",
+      "name_en": "Silhouette Art",
+      "prompt_snippet": "Silhouette art, solid black shapes on light background, clean defined edges, dramatic profile outline, stark graphic composition",
+      "category": "style"
+    },
+    {
+      "name_zh": "曼陀羅藝術",
+      "name_en": "Mandala Art",
+      "prompt_snippet": "Mandala art style, complex circular design, radial symmetry, intricate concentric geometric patterns, meditative sacred geometry",
+      "category": "style"
+    },
+    {
+      "name_zh": "原子龐克",
+      "name_en": "Atompunk",
+      "prompt_snippet": "Atompunk illustration, retro-futuristic atomic age aesthetics, sleek chrome lines, 1950s futuristic technology, optimistic space-age energy",
+      "category": "style"
+    },
+    {
+      "name_zh": "Knolling 排列攝影",
+      "name_en": "Knolling Photography",
+      "prompt_snippet": "Knolling photography, flat lay overhead view, objects neatly arranged at 90-degree angles, organized grid layout, clean background",
+      "category": "composition"
+    },
+    {
+      "name_zh": "移軸微縮效果",
+      "name_en": "Tilt-Shift Miniature",
+      "prompt_snippet": "Tilt-shift photography, selective focus band, miniature toy-like effect, blurred foreground and background, vibrant saturated colors",
+      "category": "composition"
+    },
+    {
+      "name_zh": "黑光螢光",
+      "name_en": "Blacklight / UV Glow",
+      "prompt_snippet": "Blacklight UV illumination, fluorescent pigments glowing, vibrant neon colors on dark background, ethereal ultraviolet luminescence",
+      "category": "lighting"
+    },
+    {
+      "name_zh": "絞染",
+      "name_en": "Shibori Textile",
+      "prompt_snippet": "Shibori style, resist-dyed textile patterns, indigo blue palette, organic flowing designs, Japanese artisan dye technique",
+      "category": "texture"
+    },
+    {
+      "name_zh": "低多邊形",
+      "name_en": "Low Poly",
+      "prompt_snippet": "Low-poly style, polygon mesh facets, geometric crystalline surface, flat shaded triangular faces, digital origami aesthetic",
+      "category": "texture"
+    },
+    {
+      "name_zh": "衍紙藝術",
+      "name_en": "Paper Quilling",
+      "prompt_snippet": "Paper quilling art, intricate coiled paper strips, delicate curling loops, 3D dimensional ornament, colorful rolled paper texture",
+      "category": "texture"
+    },
+    {
+      "name_zh": "摺紙",
+      "name_en": "Origami",
+      "prompt_snippet": "Origami style, folded paper art, clean geometric creases, sharp angular folds, paper sculpture aesthetic, precise and minimal",
+      "category": "texture"
     }
   ]
 }
