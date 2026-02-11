@@ -37,6 +37,7 @@ jobs:
 
       - name: Post to Telegram channel
         if: success()
+        continue-on-error: true
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: '@catime_mori'
