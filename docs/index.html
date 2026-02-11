@@ -260,19 +260,13 @@
     (function(){
       var bar = document.getElementById('character-bar');
       if (!bar) return;
-      var icons = {
-        mochi: '<svg viewBox="0 0 24 24" width="22" height="22"><circle cx="12" cy="5" r="3.8" fill="#F8BBD0"/><circle cx="12" cy="12" r="3.8" fill="#FFF9C4"/><circle cx="12" cy="19" r="3.8" fill="#C8E6C9"/><rect x="11" y="1" width="2" height="22" rx="1" fill="#8D6E63"/></svg>',
-        momo: '<svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" fill="#1A1A1A"/></svg>',
-        captain: '<svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 2L9.5 9H2l6 4.5L5.5 21 12 16.5 18.5 21 16 13.5l6-4.5h-7.5z" fill="none" stroke="#5C4033" stroke-width="2" stroke-linejoin="round"/><path d="M2 20c2-4 5-6 10-6s8 2 10 6" fill="none" stroke="#5C4033" stroke-width="2"/></svg>',
-        lingling: '<svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 3a3 3 0 0 0-3 3v1h6V6a3 3 0 0 0-3-3z" fill="#FF69B4"/><path d="M6 7h12a1 1 0 0 1 1 1v5a7 7 0 0 1-14 0V8a1 1 0 0 1 1-1z" fill="#FFD700"/><circle cx="12" cy="17" r="2" fill="#FFD700" stroke="#DAA520" stroke-width=".5"/><line x1="12" y1="19" x2="12" y2="22" stroke="#FF69B4" stroke-width="1.5"/><circle cx="12" cy="22" r="1" fill="#FF69B4"/></svg>'
-      };
       fetch('https://raw.githubusercontent.com/yazelin/catime/main/characters/index.json').then(function(r){ return r.json(); }).then(function(idx){
         var chars = (idx.characters || []).filter(function(c){ return c.enabled; });
         chars.forEach(function(c){
           fetch('https://raw.githubusercontent.com/yazelin/catime/main/characters/' + c.file).then(function(r){ return r.json(); }).then(function(data){
             var a = document.createElement('a');
             a.href = 'character.html?id=' + encodeURIComponent(data.id);
-            a.innerHTML = '<span class="char-avatar">' + (icons[data.id] || '<svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>') + '</span>' +
+            a.innerHTML = '<span class="char-avatar"><img src="avatars/' + data.id + '.webp" alt="' + (data.name ? data.name.zh : data.id) + '" width="40" height="40" loading="lazy"></span>' +
               '<span>' + (data.name ? data.name.zh : data.id) + '</span>';
             bar.appendChild(a);
           });
