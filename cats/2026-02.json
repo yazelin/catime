@@ -3603,5 +3603,44 @@
       "color_palette": "Duotone"
     },
     "inspiration": "英國諾森伯蘭郡提供沉浸式觀星之旅，遊客可在基爾德天文台探索宇宙奧秘，感受大自然與科學的結合。"
+  },
+  {
+    "prompt": "An Art Deco style illustration, rendered in striking black and white monochrome with high contrast and a rich tonal range. The central figure is a short-haired cat, depicted with a serious, focused expression, sitting atop a sturdy wooden crate. The crate exhibits rich, natural wood grain texture, visible knots and lines, and an organic tactile surface. The cat is intently examining the complex mechanical structure of a 'Snow Leopard 6x6' wheeled vehicle. The scene is set inside an Antarctic research station, dramatically lit by strong Antarctic backlighting that creates glowing silhouettes with elegant rim light around both the cat and the vehicle, emphasizing their forms against deep shadows. The vehicle's diagnostic screen displays intricate mechanical diagrams, and subtly, a recursive reflection of the cat's scrutinizing image appears in one corner, forming a Droste effect – a picture within a picture repeating infinitely. The composition features geometric patterns and luxurious symmetry, evoking the distinct elegance of the 1920s. Visually display the text '2026-02-11 09:45 UTC' prominently within the image.",
+    "idea": "一隻短毛貓在南極考察站內，以裝飾藝術風格被描繪，正嚴肅地審視「雪豹6×6」輪式車輛的機械結構。",
+    "news_inspiration": [
+      "尼泊爾卡斯基科特新開設了喜馬拉雅秘境度假村，為遊客提供豪華住宿和壯麗山景。",
+      "在義大利泰塞羅舉行的2026年米蘭-科爾蒂納冬季奧運會上，挪威選手約翰內斯·霍斯弗洛·克萊博在越野滑雪男子短距離經典賽中奪得金牌。",
+      "中國上海科技館正舉辦「奔騰奇蹟：馬年科學與文化展」，讓參觀者有機會與設得蘭矮馬互動。",
+      "菲律賓薄荷島的旅遊業因外國遊客數量顯著增加而蓬勃發展，2025年遊客人數突破140萬。",
+      "中國的第42次南極考察隊宣布，他們自主研發的「雪豹6×6」輪式車輛在南極腹地成功完成了逾萬公里的極端環境測試，實現零故障。"
+    ],
+    "inspiration": "中國的第42次南極考察隊宣布，他們自主研發的「雪豹6×6」輪式車輛在南極腹地成功完成了逾萬公里的極端環境測試，實現零故障。",
+    "comment_id": 3883339904,
+    "number": 245,
+    "title": "冰海機械鑑賞",
+    "avoid_list": [
+      "黏土/陶瓷質感",
+      "微縮立體模型",
+      "等距3D構圖",
+      "底片顆粒與復古色調",
+      "莫蘭迪色調",
+      "透明樹脂材質",
+      "閃光燈直打",
+      "中性白色平面照明",
+      "大地色系",
+      "貓咪專注姿態",
+      "極低角度攝影",
+      "貓咪擬人化角色",
+      "柔和全局照明",
+      "移軸效果"
+    ],
+    "story": "這隻貓坐在一個帶有明顯木紋的堅固木箱上，背景是強烈的南極背光，勾勒出牠和車輛優雅的輪廓。車輛的診斷螢幕上顯示著複雜的機械圖，其中一角微妙地反射出貓咪審視的影像，形成遞迴的效果。整個場景以黑白單色呈現，凸顯出Art Deco線條的幾何美感和木材質的豐富細節。",
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wood Grain",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
