@@ -55,6 +55,10 @@ def send_photo(bot_token: str, chat_id: str, photo_url: str, caption: str) -> bo
                 print(f"Telegram API error: {result}", file=sys.stderr)
                 return False
             return True
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print(f"Telegram API HTTP {e.code}: {body}", file=sys.stderr)
+        return False
     except Exception as e:
         print(f"Failed to send Telegram photo: {e}", file=sys.stderr)
         return False
@@ -118,7 +122,8 @@ def main():
     cat = get_cat_detail(cat)
 
     caption = build_caption(cat)
-    print(f"Posting cat #{cat.get('number')} to Telegram channel...")
+    print(f"Posting cat #{cat.get('number')} to Telegram channel {chat_id}...")
+    print(f"Image URL: {image_url}")
 
     if send_photo(bot_token, chat_id, image_url, caption):
         print("Posted successfully!")
