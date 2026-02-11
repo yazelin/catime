@@ -8,8 +8,8 @@
     return;
   }
 
-  var charUrl = '../characters/' + encodeURIComponent(charId) + '.json';
-  var catlistUrl = '../catlist.json';
+  var charUrl = 'https://raw.githubusercontent.com/yazelin/catime/main/characters/' + encodeURIComponent(charId) + '.json';
+  var catlistUrl = 'https://raw.githubusercontent.com/yazelin/catime/main/catlist.json';
 
   Promise.all([
     fetch(charUrl).then(function (r) { if (!r.ok) throw new Error('Character not found'); return r.json(); }),
