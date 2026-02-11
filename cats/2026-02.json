@@ -3680,5 +3680,38 @@
       "移軸效果"
     ],
     "title": "鏡像之謎"
+  },
+  {
+    "number": 247,
+    "story": "深夜無人的洗衣店，只有老舊洗衣機的低鳴。遠處角落裡，一位身形模糊的顧客在等待著。黑貓的剪影被霓虹燈映照出斑駁光影，牠似乎對那不斷變換的數字著迷，企圖用肉墊選出屬於自己的旋律。空氣中瀰漫著舊電路板和潮濕肥皂的氣味。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Bird's-Eye View",
+      "lighting": "Neon Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Retro Faded Tones"
+    },
+    "title": "霓虹貓聲",
+    "comment_id": 3883894650,
+    "idea": "俯瞰視角下，一隻在黏土動畫藝術風格中呈現的黑貓，正專注地用前爪輕撥著一台金屬質感復古點唱機上的選曲按鈕，周遭霓虹燈光閃爍，整個場景籠罩在復古褪色色調的深夜洗衣店中。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "黏土/陶瓷質感",
+      "微縮立體模型",
+      "等距3D構圖",
+      "底片顆粒與復古色調",
+      "莫蘭迪色調",
+      "透明樹脂材質",
+      "閃光燈直打",
+      "中性白色平面照明",
+      "大地色系",
+      "貓咪專注姿態",
+      "極低角度攝影",
+      "貓咪擬人化角色",
+      "柔和全局照明",
+      "移軸效果"
+    ],
+    "prompt": "Claymation style, sculpted clay characters with visible fingerprint textures. A lonely black cat, seen from a bird's-eye view (top-down perspective, looking straight down, miniature world effect), is intently using its front paw to press a selection button on a retro jukebox. The jukebox has a metallic surface, brushed metal with sharp reflections, exuding an industrial premium feel. The scene is a deserted late-night laundromat, illuminated by flickering neon lighting and colorful glowing signs, creating a moody urban night atmosphere. The overall color palette is retro faded, with washed-out vintage tones, low contrast, and a nostalgic film-era warmth. The date and time '2026-02-11 11:39 UTC' is clearly displayed on the jukebox's digital screen.",
+    "inspiration": "original"
   }
 ]
