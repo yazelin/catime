@@ -78,6 +78,87 @@
   </main>
   <div id="end-msg" class="hidden">No more cats! 🐱</div>
 
+  <section id="giscus-section">
+    <h2>💬 留言討論</h2>
+    <script src="https://giscus.app/client.js"
+      data-repo="yazelin/catime"
+      data-repo-id="R_kgDOREojMg"
+      data-category="General"
+      data-category-id="DIC_kwDOREojMs4C2KHU"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="light"
+      data-lang="zh-TW"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </section>
+
+  <script>
+    // Giscus theme sync
+    (function() {
+      // Set initial giscus theme based on current site theme
+      function getGiscusTheme() {
+        return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+      }
+
+      // Update giscus script data-theme before it loads
+      var giscusScript = document.querySelector('script[src*="giscus.app"]');
+      if (giscusScript) {
+        giscusScript.setAttribute('data-theme', getGiscusTheme());
+      }
+
+      // Update giscus iframe theme via postMessage
+      function setGiscusTheme(theme) {
+        var iframe = document.querySelector('iframe.giscus-frame');
+        if (iframe) {
+          iframe.contentWindow.postMessage(
+            { giscus: { setConfig: { theme: theme } } },
+            'https://giscus.app'
+          );
+        }
+      }
+
+      // Listen for theme toggle clicks
+      var toggle = document.getElementById('theme-toggle');
+      if (toggle) {
+        toggle.addEventListener('click', function() {
+          setTimeout(function() { setGiscusTheme(getGiscusTheme()); }, 50);
+        });
+      }
+
+      /*
+       * Optional: Inject Giscus comments inside lightbox
+       * Uncomment the following block to enable per-image comments in lightbox.
+       * Requires a container <div id="lb-giscus"></div> inside #lightbox.
+       *
+       * function injectLightboxGiscus(term) {
+       *   var container = document.getElementById('lb-giscus');
+       *   if (!container) return;
+       *   container.innerHTML = '';
+       *   var s = document.createElement('script');
+       *   s.src = 'https://giscus.app/client.js';
+       *   s.setAttribute('data-repo', 'yazelin/catime');
+       *   s.setAttribute('data-repo-id', 'R_kgDOREojMg');
+       *   s.setAttribute('data-category', 'General');
+       *   s.setAttribute('data-category-id', 'DIC_kwDOREojMs4C2KHU');
+       *   s.setAttribute('data-mapping', 'specific');
+       *   s.setAttribute('data-term', term);
+       *   s.setAttribute('data-theme', getGiscusTheme());
+       *   s.setAttribute('data-lang', 'zh-TW');
+       *   s.setAttribute('data-loading', 'lazy');
+       *   s.crossOrigin = 'anonymous';
+       *   s.async = true;
+       *   container.appendChild(s);
+       * }
+       */
+    })();
+  </script>
+
   <div id="lightbox" class="hidden" role="dialog" aria-modal="true">
     <button id="lb-close" aria-label="Close">&times;</button>
     <button id="lb-prev" class="lb-nav lb-prev" aria-label="上一張">‹</button>
