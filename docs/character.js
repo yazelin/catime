@@ -33,31 +33,31 @@
     var perEl = document.getElementById('char-personality');
     var traits = (c.personality && c.personality.traits) || [];
     var quirks = (c.personality && c.personality.quirks) || [];
-    perEl.innerHTML = '<h4>🐾 Personality</h4>' +
+    perEl.innerHTML = '<h4><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" style="vertical-align:middle;margin-right:.3rem"><circle cx="6" cy="7" r="1.8"/><circle cx="10" cy="5" r="1.6"/><circle cx="14" cy="7" r="1.8"/><path d="M12 9c-3 0-5 2-5 4.5S9 19 12 19s5-3.5 5-5.5S15 9 12 9z"/></svg> Personality</h4>' +
       (traits.length ? '<p class="tag-list">' + traits.map(tag).join('') + '</p>' : '') +
       (quirks.length ? '<p class="char-quirks">' + quirks.join(' · ') + '</p>' : '');
 
     // Appearance distinctive_features
     var features = (c.appearance && c.appearance.distinctive_features) || [];
     var appEl = document.getElementById('char-appearance');
-    appEl.innerHTML = '<h4>✨ Distinctive Features</h4>' +
+    appEl.innerHTML = '<h4><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" style="vertical-align:middle;margin-right:.3rem"><path d="M12 17.3l6.18 3.73-1.64-7.03L21.9 9.2l-7.19-.62L12 2 9.29 8.58 2.1 9.2l5.36 4.8L5.82 21z"/></svg> Distinctive Features</h4>' +
       (features.length ? '<ul>' + features.map(function (f) { return '<li>' + esc(f) + '</li>'; }).join('') + '</ul>' : '<p>—</p>');
 
     // Story context
     var storyEl = document.getElementById('char-story');
-    storyEl.innerHTML = '<h4>📖 Story</h4><p>' + esc(c.story_context || '—') + '</p>';
+    storyEl.innerHTML = '<h4><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" style="vertical-align:middle;margin-right:.3rem"><path d="M3 5h14v14H3zM21 5h-2v14h2z"/></svg> Story</h4><p>' + esc(c.story_context || '—') + '</p>';
 
     // Preferred settings
     var settings = c.preferred_settings || [];
     var setEl = document.getElementById('char-settings');
-    setEl.innerHTML = '<h4>📍 Preferred Settings</h4>' +
+    setEl.innerHTML = '<h4><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" style="vertical-align:middle;margin-right:.3rem"><path d="M12 2C8 2 5 5 5 9c0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7zM12 11.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg> Preferred Settings</h4>' +
       (settings.length ? '<p class="tag-list">' + settings.map(tag).join('') + '</p>' : '<p>—</p>');
 
     // Seasonal variants
     var seasons = c.seasonal_variants || {};
     var seasonLabels = { spring: '🌸 Spring', summer: '☀️ Summer', autumn: '🍂 Autumn', winter: '❄️ Winter' };
     var seasEl = document.getElementById('char-seasons');
-    var html = '<h4>🗓️ Seasonal Variants</h4><div class="season-list">';
+    var html = '<h4><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" style="vertical-align:middle;margin-right:.3rem"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M16 3v4M8 3v4"/></svg> Seasonal Variants</h4><div class="season-list">';
     Object.keys(seasonLabels).forEach(function (k) {
       if (seasons[k]) html += '<div class="season-item"><strong>' + seasonLabels[k] + '</strong><span>' + esc(seasons[k]) + '</span></div>';
     });
@@ -96,7 +96,7 @@
       img.src = entry.url || '';
       img.alt = entry.title || ('Cat #' + (entry.number || ''));
       img.loading = 'lazy';
-      img.onerror = function () { this.parentNode.innerHTML = '<div class="img-error">🐱</div>'; };
+      img.onerror = function () { this.parentNode.innerHTML = '<div class="img-error"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" style="vertical-align:middle"><path d="M12 2l3 4 4 1-2 3 1 4-4-2-4 2 1-4-2-3 4-1z"/></svg></div>'; };
 
       var info = document.createElement('div');
       info.className = 'gallery-item-info';
