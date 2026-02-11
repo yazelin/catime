@@ -787,8 +787,9 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 /* === Character bar (index page) === */
 .character-bar {
   display: flex; gap: .8rem; justify-content: center; align-items: center;
-  padding: .5rem 1rem; margin-top: 56px;
-  background: var(--surface); border-bottom: 2px solid var(--pink-light);
+  padding: .4rem 1rem;
+  flex-basis: 100%; order: 2;
+  border-top: 1px solid var(--pink-light);
   overflow-x: auto; -webkit-overflow-scrolling: touch;
   flex-wrap: nowrap; white-space: nowrap;
 }
@@ -875,7 +876,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 @media (max-width: 600px) {
   .character-page { margin-top: 60px; }
   .character-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; }
-  .character-bar { margin-top: 120px; gap: .5rem; padding: .4rem .6rem; }
+  .character-bar { gap: .5rem; padding: .4rem .6rem; }
   .character-bar a { font-size: .65rem; padding: .2rem .4rem; }
   .character-bar .char-avatar { width: 32px; height: 32px; font-size: 1rem; }
 }
