@@ -4397,5 +4397,39 @@
     "title": "月夜凝珠",
     "idea": "一幅以手繪信息圖風格呈現的超廣角畫面，在被溫暖琥珀色月光輕柔照亮的、鋪滿苔蘚的秘密花園裡，鈴鈴（一隻純白蓬鬆的布偶貓）正伸出她毛茸茸的爪子，專注地試圖「收集」一片秋葉上晶瑩剔透、閃爍著金黃光芒的巨大露珠。",
     "news_inspiration": []
+  },
+  {
+    "comment_id": 3889802612,
+    "idea": "一張特寫照片，呈現一個聖誕裝飾球微縮模型，其中一隻低多邊形風格的貓咪在金黃色的秋日餘暉下，專注地雕刻著一個迷你南瓜。整體場景以暖色調的琥珀與秋日色彩呈現。",
+    "inspiration": "original",
+    "story": "在這個被巧妙封存在玻璃球內的微縮世界裡，一隻毛色琥珀的貓咪正用牠精巧的爪子，細緻地雕琢著一顆袖珍南瓜。球體靜置於拋光木桌上，其表面映照出自身，創造出一個無限遞迴的德羅斯特影像，彷彿時間與空間在此迴盪不休。",
+    "number": 266,
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Golden Hour",
+      "texture": "Low Poly",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "影像顯示日期時間",
+      "烏黑/純黑貓咪",
+      "魚眼鏡頭桶狀變形",
+      "背光/輪廓光勾勒貓咪身形",
+      "生物發光/黑光螢光照明",
+      "復古底片/CRT視覺風格",
+      "遞迴德羅斯特效應圖紋",
+      "冰冷藍青色調",
+      "高飽和鮮豔色彩",
+      "等距攝影視角",
+      "微縮世界效果",
+      "貓咪輕觸/撥弄物品",
+      "織品/布料質感",
+      "紙質肌理/紙張紋理",
+      "貓咪凝視/專注"
+    ],
+    "prompt": "A macro photograph of a transparent glass Christmas bauble diorama. Inside, a low-poly style cat with amber fur, exhibiting polygon mesh facets and flat shaded triangular faces, in a digital origami aesthetic, meticulously carves a miniature pumpkin. The tiny detailed scene within is bathed in warm golden hour lighting, creating long soft shadows and a golden rim light on the low-poly subject. The overall color grading is warm amber, with an autumn palette of golden yellows and burnt orange, exuding cozy nostalgic warmth. The bauble rests on a polished wooden table, its reflective surface creating a recursive image and Droste effect, a self-referential loop with cinematic reflections. This picture within a picture repeats infinitely. Shallow depth of field, natural light, sharp focus on the bauble, subtle bokeh. The date and time '2026-02-12 09:40 UTC' are visually displayed in the image.",
+    "news_inspiration": [],
+    "title": "琥珀雕秋"
   }
 ]
