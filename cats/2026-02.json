@@ -4581,5 +4581,35 @@
     "story": "一隻精明的貓咪，在巨大的碳纖維核心反應器前，牠的貓爪輕巧而精準地觸碰著新藝術風格設計的控制面板，校準著低溫能源核心的輸出。強烈的聚光燈將其身影與複雜的儀器映照得層次分明，確保這項突破性的極地能源技術運作無誤。",
     "inspiration": "中國研究人員在黑龍江漠河成功研發出可在零下34°C極端低溫下可靠運作的突破性鋰電池，這項技術有望改變寒冷地區的能源儲存方式。",
     "comment_id": 3891171282
+  },
+  {
+    "news_inspiration": [],
+    "inspiration": "original",
+    "comment_id": 3891536503,
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Bird's-Eye View",
+      "lighting": "Butterfly Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "A majestic Maine Coon cat, \"The Navigator,\" is the central focus, captured from a precise top-down, bird's-eye view, creating a miniature world effect. The cat is meticulously calibrating a celestial navigator on an opulent main control panel. This panel is crafted from inflatable PVC material, exhibiting a high-gloss, balloon-like surface, puffy rounded forms, and air-filled tension, intricately detailed with baroque-style ornate carvings. The entire scene is drenched in a dramatic chiaroscuro, emphasizing deep shadows and rich golden highlights, characteristic of Baroque art. Butterfly lighting, originating from an overhead key light, illuminates the cat's face with soft even illumination, casting a symmetrical shadow just under its nose, conveying intense focus and grandeur, creating a glamour portrait lighting effect. The luxurious gold and black color scheme dominates, with metallic gold accents shimmering against a deep black background, exuding an opulent mood. Rich, exuberant grandeur and ornate detail define the surrounding baroque orbital station. The text '2026-02-12 15:13 UTC' is visibly displayed within the image.",
+    "avoid_list": [
+      "貓咪專注操作/觸碰小物",
+      "暖琥珀秋季色調",
+      "復古懷舊底片風格",
+      "等距/超廣角透視",
+      "德羅斯特效應/遞迴圖像",
+      "黑光紫外線螢光",
+      "微縮場景/物件",
+      "透明/磨砂玻璃材質",
+      "織物/絲綢質感",
+      "柔和逆光勾勒輪廓",
+      "古董/廢棄場所"
+    ],
+    "idea": "在巴洛克風格的豪華軌道站內，以俯瞰視角呈現一隻緬因貓，在充氣PVC材質的金色與黑色奢華主控制台上，利用蝴蝶光專注地校準星體導航儀。",
+    "story": "雄偉的緬因貓「領航員」靜默地坐鎮於其黃金與黑色的指揮中心。牠的肉墊輕觸鑲嵌著華麗雕花的充氣PVC控制面板，蝴蝶光在牠眉宇間投下戲劇性的陰影，精準地捕捉了牠校準複雜星圖時的嚴謹與專注。每一次精密的調整，都確保了這座漂浮宮殿在星海中的航向無誤。",
+    "number": 271,
+    "title": "星圖領航"
   }
 ]
