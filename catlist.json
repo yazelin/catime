@@ -2171,5 +2171,16 @@
     "inspiration": "original",
     "character": "mochi",
     "status": "success"
+  },
+  {
+    "status": "success",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-12_2225_UTC.webp",
+    "number": 278,
+    "character": "captain",
+    "model": "gemini-3-pro-image-preview",
+    "title": "霓雨護稚",
+    "inspiration": "美國華盛頓特區的史密森尼國家動物園慶祝近25年來首隻亞洲象寶寶的誕生，為瀕危物種保育帶來希望。",
+    "timestamp": "2026-02-12 22:25 UTC"
   }
 ]
