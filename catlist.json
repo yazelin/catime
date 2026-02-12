@@ -2115,5 +2115,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-12_1513_UTC.webp",
     "number": 271,
     "title": "星圖領航"
+  },
+  {
+    "number": 272,
+    "title": "燈下花影貓",
+    "inspiration": "越南胡志明市的平東春節花市盛大開幕，匯集了五百多個攤位，為市民和遊客帶來豐富多彩的春節文化體驗。",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "timestamp": "2026-02-12 16:15 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-12_1615_UTC.webp"
   }
 ]
