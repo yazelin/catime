@@ -4717,5 +4717,36 @@
       "柔和逆光勾勒輪廓",
       "古董/廢棄場所"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Isometric Photography",
+      "lighting": "Ring Light",
+      "texture": "Origami",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "一個Synthwave風格的等距攝影場景，在深夜無人的復古輪滑舞廳裡，一隻專注的短毛貓正戴著耳機，於DJ台上熟練地操作混音器和唱盤，周圍被環形燈的藍青色冷光籠罩，舞廳牆面與DJ台表面呈現摺紙般的幾何紋理。",
+    "prompt": "A perfectly isometric, real captured photo taken with a professional digital camera and a medium focal length lens at f/8, showcasing a deserted retro roller disco at late night. On the DJ booth, a focused short-haired cat wearing headphones is precisely operating a mixer and turntables, presented with beauty portrait quality, circular catchlights in its eyes. The scene embodies a synthwave aesthetic with 1980s sci-fi nostalgia and subtle retro-futuristic elements, including a faint neon grid in the background. Dominant cool blue-teal color grading with icy undertones pervades the crisp atmosphere, illuminated by even frontal ring light illumination. The roller disco walls and DJ booth surface feature an Origami style with clean geometric creases, sharp angular folds, and a paper sculpture aesthetic, creating a precise and minimal environment. The overall mood is serene and calm. The date '2026-02-12 19:45 UTC' is visually displayed in chrome typography within the image.",
+    "news_inspiration": [],
+    "comment_id": 3893040099,
+    "title": "午夜電音貓爵",
+    "number": 275,
+    "story": "城市入眠，但這間塵封的輪滑舞廳卻因一隻貓而再次活了起來。牠專注地旋動著按鈕，指尖輕觸唱盤，將冷冽的合成器音符編織成節奏，藍青色的光影在摺紙般的裝飾上跳躍，為這個遺世獨立的空間注入了神秘的脈動。",
+    "inspiration": "original",
+    "avoid_list": [
+      "溫暖琥珀色調",
+      "秋日金黃與焦橙色系",
+      "溫馨懷舊暖意",
+      "貓咪專注調整科技裝置",
+      "微縮世界效果",
+      "正交投影無透視失真",
+      "俯瞰/鳥瞰視角",
+      "復古褪色色調",
+      "霓虹燈光與紫外線發光",
+      "充氣PVC材質",
+      "科幻控制台/實驗室場景",
+      "華麗緬因貓"
+    ]
   }
 ]
