@@ -4646,5 +4646,40 @@
       "英國康瓦爾郡的一處自然保護區迎來了首批小海狸，標誌著當地保育工作的成功。",
       "隨著減肥藥物semaglutide的專利即將到期，印度正準備生產更便宜的學名藥，預計將對全球市場產生重大影響。"
     ]
+  },
+  {
+    "prompt": "A focused tabby cat, rendered in the distinctive style of Fauvism art, with bold non-naturalistic colors and visible, thick paint texture, is carefully transplanting a wildly vibrant rare plant seedling. The scene is set in a Victorian greenhouse, illuminated by the warm orange flickering glow of candlelight, casting soft dancing shadows and creating an intimate atmosphere. The composition features an intimate close-up perspective, with a visible reflection of the cat and seedling captured in a liquid metal pot, creating a mirror selfie effect with casual framing. The liquid metal surface, a futuristic material, exhibits a mercury-like reflective flow, chrome dripping texture, and a molten mirror finish. The date and time '2026-02-12 17:32 UTC' are prominently displayed as a visual element, perhaps on a futuristic digital clock face integrated into the greenhouse structure or reflected within the liquid metal. The image features wildly vibrant colors, utilizing simplified forms, with underlying hints of earth tones like terracotta, olive green, and warm brown rendered in a Fauvist manner.",
+    "inspiration": "科學家發現了一種可以使衰老腦細胞恢復活力的蛋白質。",
+    "story": "夜幕低垂，斑紋貓在點點燭光的溫室裡進行牠的秘密研究。牠小心翼翼地將一株色彩斑斕的幼苗植入土壤，彷彿在尋找植物界的青春泉源，期待著這份活力能讓整個花園煥發新生。",
+    "comment_id": 3892347737,
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Liquid Metal",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "一隻神情專注的斑紋貓在維多利亞時代的溫室中，透過液態金屬盆的反射，以野獸派風格的濃烈色彩與大膽筆觸，在燭光下細心移植稀有植物幼苗。",
+    "number": 273,
+    "title": "燭光育新苗",
+    "news_inspiration": [
+      "科學家發現了一種可以使衰老腦細胞恢復活力的蛋白質。",
+      "在印度德里舉行的板球T20世界盃中，義大利隊以10個三柱門的優勢擊敗尼泊爾隊，贏得了他們歷史上的首場勝利。",
+      "在英國布拉德福德，一位垂死男子的最後願望實現了，一隻狐狸探訪了他的床邊。",
+      "探險旅遊在全球範圍內受到年輕旅行者的歡迎，人氣正在飆升。"
+    ],
+    "avoid_list": [
+      "貓咪專注操作/觸碰小物",
+      "暖琥珀秋季色調",
+      "復古懷舊底片風格",
+      "等距/超廣角透視",
+      "德羅斯特效應/遞迴圖像",
+      "黑光紫外線螢光",
+      "微縮場景/物件",
+      "透明/磨砂玻璃材質",
+      "織物/絲綢質感",
+      "柔和逆光勾勒輪廓",
+      "古董/廢棄場所"
+    ]
   }
 ]
