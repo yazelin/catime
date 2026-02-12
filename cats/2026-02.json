@@ -4863,5 +4863,41 @@
     "inspiration": "美國華盛頓特區的史密森尼國家動物園慶祝近25年來首隻亞洲象寶寶的誕生，為瀕危物種保育帶來希望。",
     "character": "captain",
     "prompt": "An Ukiyo-e Japanese woodblock print, perfectly symmetrical composition, centered subject, mirror-like balance, and architectural framing, rendered in a Low-poly style with polygon mesh facets, a geometric crystalline surface, and flat shaded triangular faces, creating a digital origami aesthetic. The image features a large, stocky Captain cat with a broad muscular build, a brown classic tabby coat (color: #5C4033) with bold black stripes (color: #1A1A1A), and scruffy, untidy, slightly coarse fur of uneven lengths (not sleek). The Captain's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch (color: #2B1B0E) – explicitly a fur marking, not a fabric eye patch or strap. Its right eye is a single piercing emerald green (color: #50C878). A prominent V-shaped notch is on its left ear. A faded red bandana (color: #CD5C5C) is tied loosely and visibly around its neck. It has a white chest bib (color: #FFFFFF) and white mitten paws on all four feet, with a distinctive M-mark on its forehead and a thick, sturdy tail. The Captain is depicted in a narrow, wet fishing port alley, resolutely sheltering a small, huddling kitten from rain. The scene is dramatically backlit with strong rim light, creating glowing silhouette edges where the subjects are outlined by light against a dark background. Neon fluorescent colors – electric pink, lime green, hot cyan – illuminate the falling rain and background lights, casting vibrant reflections on the wet surfaces. The overall mood is dramatic and protective, with bold outlines and flat color areas characteristic of ukiyo-e, and subtle wave patterns in the background. The text '2026-02-12 22:25 UTC' is visually displayed within the image."
+  },
+  {
+    "comment_id": 3893942954,
+    "title": "洛琛塔爾之夜面具匠",
+    "news_inspiration": [
+      "新加坡的科學家發現了一種可以使衰老腦細胞恢復活力的蛋白質，為減緩大腦老化帶來希望。",
+      "在瑞士的洛琛塔爾山谷，一年一度的Tschäggättä節以戴著面具的人物和古老的習俗慶祝著當地文化。",
+      "哥倫比亞的TUI關懷基金會啟動了「TUI哥倫比亞森林」專案，計劃種植123,000棵原生樹木，以恢復安第斯山脈的生物多樣性走廊並支持當地社區。",
+      "史密森尼國家動物園在美國華盛頓特區慶祝了近25年來的首次亞洲象寶寶誕生，為瀕危物種帶來了新的希望。"
+    ],
+    "story": "在瀰漫著古老氣息的洛琛塔爾山谷深處，夜幕低垂時分，一盞金色的霓虹燈靜謐地照亮了工作台，將貓咪與面具籠罩在一片奢華的金黑光影中。這隻貓咪的眼神銳利而專注，牠的爪子輕巧地持著一支細長的畫筆，將金箔精細地貼附在面具粗獷的表面，為傳統注入一絲現代的璀璨。整個場景以魚眼鏡頭捕捉，呈現出既扭曲又迷幻的3D渲染效果，營造出神秘而奢華的氛圍。",
+    "number": 279,
+    "prompt": "A sleek black cat in an ancient wooden workshop in Switzerland's Lötschental Valley, meticulously applying gold leaf to a traditional Tschäggättä wooden mask on a worn workbench. The cat has focused, sharp eyes, delicately holding a thin brush. The scene is illuminated by a prominent golden neon light, creating a luxurious gold and deep black color scheme with metallic gold accents and a deep black background, evoking an opulent mood. Rendered in a cel shaded art style with flat color areas, bold outlines, toon shading, and sharp shadow edges, giving an anime game look. The image is a polished 3D render with smooth materials and clean geometry, showcasing a Cinema 4D aesthetic. Captured through a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground, creating a 360-degree feel. The date and time '2026-02-12 23:23 UTC' are visually displayed within the image.",
+    "idea": "一隻烏黑的貓咪在瑞士洛琛塔爾山谷一間古老木工坊的斑駁工作台上，專注地用金箔點綴著一個傳統的Tschäggättä木製面具，以賽璐璐著色風格呈現，並透過魚眼鏡頭捕捉其充滿神秘感的3D渲染畫面。",
+    "inspiration": "在瑞士的洛琛塔爾山谷，一年一度的Tschäggättä節以戴著面具的人物和古老的習俗慶祝著當地文化。",
+    "avoid_list": [
+      "溫暖琥珀色調",
+      "秋日金黃與焦橙色系",
+      "溫馨懷舊暖意",
+      "貓咪專注調整科技裝置",
+      "微縮世界效果",
+      "正交投影無透視失真",
+      "俯瞰/鳥瞰視角",
+      "復古褪色色調",
+      "霓虹燈光與紫外線發光",
+      "充氣PVC材質",
+      "科幻控制台/實驗室場景",
+      "華麗緬因貓"
+    ],
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Fisheye Lens",
+      "lighting": "Neon Lighting",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
