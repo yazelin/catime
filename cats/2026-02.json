@@ -4748,5 +4748,42 @@
       "科幻控制台/實驗室場景",
       "華麗緬因貓"
     ]
+  },
+  {
+    "number": 276,
+    "comment_id": 3893226766,
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Miniature Diorama",
+      "lighting": "Spotlight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "在拍立得風格的微縮立體模型中，一隻銀灰色的短毛貓正專注地檢視著一個「內外顛倒」的奇特星體模型，該模型放置在一個帶有碳纖維紋理的基座上，整體畫面由一束聚光燈照亮，瀰漫著冷冽的藍青色調。",
+    "story": "這張如同拍立得照片般的微縮場景，捕捉了貓咪好奇而嚴肅的神情。牠的一隻前爪輕輕搭在顛倒星體模型的裸露核心上，彷彿在試圖解讀宇宙的奧秘。聚光燈強化了模型與貓咪的互動細節，在周遭深邃的藍綠光影中，創造出一種既神秘又充滿求知慾的氛圍。",
+    "prompt": "A candid polaroid instant photo of a miniature diorama, featuring a silver-grey short-haired cat with a focused, serious, and curious expression. The cat gently rests one front paw on the exposed core of an 'inside-out' celestial model, appearing to decipher cosmic mysteries. The unique model is placed on a high-tech carbon fiber textured base, showcasing a distinct weave pattern, glossy clear coat finish, and a modern industrial aesthetic. The entire tiny detailed world is dramatically lit by a narrow beam spotlight, casting sharp light edges and deep darkness falloff, emphasizing the interaction details. The scene is graded with cool blue-teal colors and icy undertones, creating a crisp, serene, and mysterious atmosphere, surrounded by deep blue-green shadows. The image has a classic white border frame and slightly faded colors, reminiscent of an old instant photograph. Visually displayed text '2026-02-12 20:27 UTC' is integrated into the image. Shot with a 50mm prime lens at f/2.8 for shallow depth of field, natural film grain.",
+    "news_inspiration": [
+      "德國柏林第76屆柏林國際影展盛大開幕，國際巨星楊紫瓊獲頒榮譽金熊獎。",
+      "在印度孟買舉行的T20世界盃板球賽中，義大利隊歷史性地首次擊敗尼泊爾隊，贏得世界盃勝利。",
+      "英國伯明罕大學的科學家們發現了一個「內外顛倒」的行星系統，挑戰了行星形成的傳統觀念。",
+      "新加坡國立大學的科學家們發現了一種可能幫助老齡腦細胞再生的蛋白質。",
+      "荷蘭國家足球隊選擇美國堪薩斯城作為其2026年世界盃的基地營。"
+    ],
+    "inspiration": "英國伯明罕大學的科學家們發現了一個「內外顛倒」的行星系統，挑戰了行星形成的傳統觀念。",
+    "avoid_list": [
+      "溫暖琥珀色調",
+      "秋日金黃與焦橙色系",
+      "溫馨懷舊暖意",
+      "貓咪專注調整科技裝置",
+      "微縮世界效果",
+      "正交投影無透視失真",
+      "俯瞰/鳥瞰視角",
+      "復古褪色色調",
+      "霓虹燈光與紫外線發光",
+      "充氣PVC材質",
+      "科幻控制台/實驗室場景",
+      "華麗緬因貓"
+    ],
+    "title": "星核逆轉、貓影凝思"
   }
 ]
