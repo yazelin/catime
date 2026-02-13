@@ -5320,5 +5320,44 @@
     ],
     "number": 291,
     "idea": "一隻短毛黑貓在結霜的桃花心木桌上輕觸古老地圖，整個場景以新印象派（點描法）的黑白風格，透過佈滿冰霜結晶的鏡子倒影呈現。貓咪的輪廓在逆光中若隱若現，營造出神秘而寧靜的氛圍。"
+  },
+  {
+    "prompt": "An illuminated manuscript illustration, medieval book art style. A sleek, obsidian black cat, depicted with exquisite gold leaf accents and rich jewel-tone colors in the style of an ancient decorated codex, carefully sniffs an antique woven basket with intricate golden patterns. The basket rests on a polished marble pedestal, exhibiting natural vein patterns and a luxurious, cool smooth finish, conveying classical elegance. The entire scene is rendered with a perfectly isometric perspective, ensuring no miniature effect. Soft, even frontal illumination from a ring light creates a beauty portrait quality, with a subtle circular catchlight in the cat's eyes. The opulent mood is established by a deep black background and a luxurious gold and black color scheme with metallic gold accents. Ornate calligraphy borders frame the image. Visually displayed within the image: '2026-02-13 15:35 UTC'.",
+    "avoid_list": [
+      "時間戳記顯示於畫面",
+      "貓咪執行擬人化任務",
+      "微縮立體模型搭配移軸效果",
+      "戲劇性倫勃朗光線",
+      "碳纖維材質與光澤",
+      "鏡子自拍/反射構圖",
+      "霓虹螢光照明/電光粉、檸檬綠、熱青色",
+      "蒸氣波/復古80年代數位元素",
+      "體積光與耶穌光",
+      "等距視角攝影",
+      "毛茸茸/長毛貓",
+      "淺景深",
+      "高科技實驗室/數據站氛圍",
+      "專注的貓咪姿態"
+    ],
+    "idea": "在Māoriland電影節的奢華展廳中，一隻烏黑亮麗的貓咪，以彩飾手抄本的精緻風格被描繪，正以等距攝影的視角，在環形燈的柔和光線下，仔細嗅聞擺放在大理石基座上，飾有金色圖案的古老編織籃。",
+    "comment_id": 3897866425,
+    "inspiration": "紐西蘭奧塔基的Māoriland電影節正慶祝第13屆，展示來自全球130個原住民民族的影片，倡導原住民願景。",
+    "number": 292,
+    "story": "在金與黑交織的典雅空間裡，空氣中瀰漫著古老故事的低語。這隻神秘的黑貓，彷彿是守護著原住民文化傳承的使者，牠對籃中蘊含的智慧與歷史展現出深切的興趣。在環形燈的襯托下，牠的每一次觀察都顯得既莊重又充滿了對未來的探求。",
+    "news_inspiration": [
+      "英國劍橋的科學家發現了一種能自我複製的微小RNA分子，為地球生命的起源提供了新線索。",
+      "在義大利米蘭科爾蒂納舉行的2026年冬季奧運會上，澳洲選手喬西·巴夫在利維尼奧的單板滑雪越野賽中贏得銅牌。",
+      "紐西蘭奧塔基的Māoriland電影節正慶祝第13屆，展示來自全球130個原住民民族的影片，倡導原住民願景。",
+      "菲律賓數千對情侶在情人節當天參與由政府組織的大型集體婚禮，將浪漫變成社區慶典。",
+      "德國斯圖加特大學的研究人員透過扭曲超薄碘化鉻層，創造出一種能實現超密集數據儲存的全新磁性狀態。"
+    ],
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Isometric Photography",
+      "lighting": "Ring Light",
+      "texture": "Marble",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "title": "墨金古鑑"
   }
 ]
