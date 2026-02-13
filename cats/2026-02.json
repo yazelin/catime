@@ -5083,5 +5083,42 @@
     ],
     "prompt": "A polished 3D render in a Cinema 4D aesthetic. A majestic long-haired cat, wearing retro headphones, serves as the chief audio engineer in a future-retro cosmic data processing station. Illuminated by a ring light, the cat's face is lit with even frontal lighting, creating a beauty portrait quality with a circular catchlight in its eyes. Furry paws gracefully manipulate holographic interfaces on a control console, modulating James Webb Telescope organic molecule information into an interstellar soundscape. The composition features a sharp vertical split view: the left half presents a photorealistic display of the data, while the right half showcases a corresponding black and white wireframe diagram of the processed information. The entire image is rendered in black and white monochrome with high contrast, rich tonal range, and dramatic shadows and highlights, incorporating subtle vaporwave-inspired retro 80s digital elements and smooth materials with clean geometry. Soft global illumination enhances the scene. Visually displayed within the station: '2026-02-13 07:45 UTC'.",
     "idea": "「蒸氣波」風格下，一隻長毛貓咪在一間未來復古風的宇宙數據處理站內，利用環形燈照亮的控制台，將詹姆斯·韋伯望遠鏡發現的有機分子信息，透過3D渲染的黑白分割畫面，調製成一首星際音景。"
+  },
+  {
+    "avoid_list": [
+      "貓咪專注操作科技裝置或工具",
+      "高科技碳纖維紋理與光澤塗層",
+      "等距視角或流暢3D渲染風格",
+      "冷冽藍青或霓虹螢光色調",
+      "微縮場景或立體模型",
+      "環形燈打造的特寫美顏肖像",
+      "復古未來主義與蒸氣波元素",
+      "摺紙或低多邊形幾何紋理",
+      "對稱構圖與鏡像平衡",
+      "畫面中顯示日期時間字樣",
+      "靜謐氛圍"
+    ],
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Split View",
+      "lighting": "Volumetric Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "墨墨優雅地蹲伏在巨大圖書館高處的書架頂端，如墨般的短毛在穿透而來的體積光中泛著緞面光澤，左耳的金環在陰影中閃爍。牠金琥珀色的眼睛專注地凝視著下方，一張鋪展在暗色、帶有碳纖維般光澤的現代化展示台上的古老星圖，星圖上繪有奇特「裡外顛倒」的行星系統，彷彿在解讀宇宙深奧的謎語。圖書館的建築細節與星圖圖案則以高飽和鮮豔的曼陀羅藝術風格呈現。",
+    "title": "穹頂觀星",
+    "idea": "在曼陀羅藝術風格的大圖書館中，畫面以分割畫面構圖呈現，一隻純黑的墨墨在體積光中，凝視著一張高飽和鮮豔的古老星圖。",
+    "prompt": "2026-02-13 08:35 UTC. A majestic illustration rendered in a meditative sacred geometry and Mandala art style. A split view composition features a sharp vertical cut line. On one side, Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat, is depicted with exceptionally fine detail. Momo's satin-sheen fur reveals warm brown undertones in the light, showcasing athletic proportions and visible muscle definition. The tail has a slight upward curl at the tip, which has a single dark-grey #696969 ring. Momo's LEFT ear (viewer perspective) has a single small gold hoop earring #FFD700 (3mm) at its mid-edge. A tiny natural white locket tuft #FFFFFF marks the ventral chest. Momo's large luminous golden-amber #D4A017 eyes, like polished amber gems, are calm and attentive, gazing downwards with long prominent white whiskers. This side captures the cat elegantly crouched atop a high bookshelf in a gigantic library. On the other side of the sharp vertical cut line, the grand library architecture and an intricate ancient star map are dynamically expressed in a complex circular design, radial symmetry, and intricate concentric geometric patterns, characteristic of the Mandala art style. The star map, depicting a peculiar 'inside-out' planetary system, is unfurled on a dark, modern display stand with a carbon fiber weave pattern, glossy clear coat finish, and a modern industrial aesthetic. Volumetric lighting fills the entire scene, with visible god rays piercing through the atmosphere, illuminating dust particles and creating dramatic depth. This light catches Momo's fur with a satin luster and makes the gold earring shimmer in the shadows. The library's architectural details and the star map's patterns are presented with high saturation vivid colors, bold vibrant hues, and an energetic palette, creating eye-catching contrast.",
+    "comment_id": 3895611056,
+    "news_inspiration": [
+      "美國愛荷華市的愛荷華大學舉辦了農曆新年慶祝活動，探討了象徵性菜餚、祖傳傳統和慶祝習俗。",
+      "泰國正在象特拉省的野外象群中使用節育疫苗，以解決人類與動物之間因農場擴張而日益嚴重的衝突問題。",
+      "在米蘭-科爾蒂納冬奧會上，日本單板滑雪選手小野光希和滑雪選手堀島行真各贏得一枚銅牌。",
+      "天文學家發現了一個名為LHS 1903的奇特「裡外顛倒」行星系統，其行星排列順序出乎意料，挑戰了行星形成的既有理論。"
+    ],
+    "inspiration": "天文學家發現了一個名為LHS 1903的奇特「裡外顛倒」行星系統，其行星排列順序出乎意料，挑戰了行星形成的既有理論。",
+    "number": 285,
+    "character_name": "墨墨",
+    "character": "momo"
   }
 ]
