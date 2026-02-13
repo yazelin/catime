@@ -5504,5 +5504,42 @@
     "story": "這隻聰明的緬因貓是牠專屬未來生物實驗室的首席研究員。牠正小心翼翼地將一滴充滿活力的粉色細胞培養液，轉移到一個由特殊織物製成的培養皿中。牠的目標是透過前瞻性的幹細胞研究，為瀕危物種的保育工作帶來突破性進展。",
     "comment_id": 3899057432,
     "inspiration": "中國科學家在北京成功利用大熊貓皮膚細胞培育出多能幹細胞，有望為瀕危物種的保育工作帶來突破性進展。"
+  },
+  {
+    "avoid_list": [
+      "黑貓或短毛貓主題",
+      "貓咪專注凝視或輕觸物體",
+      "體積光與可見光線（如耶穌光）",
+      "等距視角或微縮立體模型",
+      "魚眼鏡頭與桶狀畸變效果",
+      "冰晶、霜凍或大理石等特定紋理",
+      "曼陀羅藝術或神聖幾何風格",
+      "霓虹鮮豔色彩與黑暗背景",
+      "關於行星、星圖或宇宙裝置的主題",
+      "具反射性質的表面（鏡子、金屬）",
+      "古老、復古或頹敗的宏偉場景",
+      "溫暖或懷舊的黃金時刻光線"
+    ],
+    "prompt": "A fluffy Persian cat, wearing a custom-fitted mini blue-teal volunteer vest, meticulously inspects a running watch with a serious, focused expression, standing beside a temporary aid station for the 'Cupid's Undie Run' in San Francisco. Behind the cat, runners in underwear are dynamically distorted by a fisheye wide-angle lens with strong barrel distortion, creating an exaggerated foreground and a 360-degree feel. The entire image is rendered in a striking woodcut print style with bold carved lines and rough wood grain texture. Dramatic volumetric lighting casts visible light rays (god rays) through the atmosphere, catching dust particles and creating strong contrast and dramatic depth. The color palette is dominated by a cool blue-teal grading with icy undertones, lending a crisp atmosphere. A fine sand texture, reminiscent of desert dune ripples and wind-sculpted patterns, adds natural grain detail throughout. Despite the busy background, the cat's intense concentration establishes a serene and calm mood in the foreground. The date and time '2026-02-13 20:30 UTC' are prominently displayed within the image.",
+    "news_inspiration": [
+      "日本東京的代代木公園將於2月下旬舉辦「SAKANA & JAPAN FESTIVAL 2026」，匯集日本各地的海鮮美食，讓遊客體驗豐富的飲食文化。",
+      "德國慕尼黑的海拉布倫動物園欣喜宣布一隻稀有的喜馬拉雅羚牛幼崽誕生，對該瀕危物種的保育工作意義重大。",
+      "美國舊金山將於2月14日舉行「丘比特內衣慈善跑」，鼓勵民眾穿著內衣跑步為神經纖維瘤病研究募款。",
+      "巴西正積極推動生態旅遊，將於2026年加強其作為可持續旅遊目的地的國際形象，特別是在亞馬遜和伊瓜蘇瀑布等地區。",
+      "南非時裝週將於2026年4月回歸，重點推動可持續時尚發展，旨在創造就業機會並建立負責任的設計師時尚經濟。"
+    ],
+    "comment_id": 3899307739,
+    "story": "在舊金山街頭一個陽光明媚的早晨，為「丘比特內衣慈善跑」設立的臨時水站熱鬧非凡。一隻毛色淺淡的波斯貓，穿著一件量身訂製的迷你藍綠色志工背心，正以一絲不苟的態度專注於手中的跑錶。牠似乎在計時，又或是確保賽事的順利進行，而後方人潮在魚眼鏡頭下顯得既熱鬧又超現實。",
+    "inspiration": "美國舊金山將於2月14日舉行「丘比特內衣慈善跑」，鼓勵民眾穿著內衣跑步為神經纖維瘤病研究募款。",
+    "idea": "一隻毛茸茸的波斯貓，戴著迷你志工背心，在舊金山「丘比特內衣慈善跑」的臨時補給站旁，正以嚴肅的表情精確地檢視跑錶，週遭身著內衣的跑者在魚眼鏡頭下呈現扭曲動態，一切以木刻版畫風格呈現，充滿藍青冷色調與沙質紋理，並有體積光穿透。",
+    "title": "丘比特貓的計時",
+    "number": 297,
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Fisheye Lens",
+      "lighting": "Volumetric Light",
+      "texture": "Sand Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
