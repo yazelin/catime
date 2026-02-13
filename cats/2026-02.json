@@ -5120,5 +5120,41 @@
     "number": 285,
     "character_name": "墨墨",
     "character": "momo"
+  },
+  {
+    "title": "秘境沙語",
+    "avoid_list": [
+      "貓咪專注操作科技裝置或工具",
+      "高科技碳纖維紋理與光澤塗層",
+      "等距視角或流暢3D渲染風格",
+      "冷冽藍青或霓虹螢光色調",
+      "微縮場景或立體模型",
+      "環形燈打造的特寫美顏肖像",
+      "復古未來主義與蒸氣波元素",
+      "摺紙或低多邊形幾何紋理",
+      "對稱構圖與鏡像平衡",
+      "畫面中顯示日期時間字樣",
+      "靜謐氛圍"
+    ],
+    "news_inspiration": [
+      "在英國劍橋，醫學研究理事會分子生物學實驗室的研究人員發現了一種微小的RNA分子，可能解釋地球生命的起源。",
+      "在日本青森，隨著全球旅遊趨向健康體驗，ReLabo將科學與社區結合，推動當地養生旅遊。",
+      "在斯里蘭卡可倫坡舉行的T20世界盃板球賽中，辛巴威以23分之差爆冷擊敗澳洲。",
+      "在法國巴黎的聯合國教科文組織總部，舉行了「遇見中國：中國新年」活動，展現了南京的非物質文化遺產。",
+      "越南各地工會首次同時舉辦「工會年終晚宴」，為全國工人提供溫馨的節慶聚會。"
+    ],
+    "number": 286,
+    "inspiration": "在日本青森，隨著全球旅遊趨向健康體驗，ReLabo將科學與社區結合，推動當地養生旅遊。",
+    "prompt": "A perfectly isometric, high-end fashion editorial photograph: a fluffy AI cat, Saori, in a dramatic, focused pose, meticulously sieving and layering fine, Blacklight UV illuminated, fluorescent pastel 'healing sands' into a custom UV glass bowl. The sands exhibit a soft pastel color palette of gentle pink, lavender, mint, and baby blue, glowing with ethereal ultraviolet luminescence and displaying detailed fine sand texture, natural grain detail, and subtle wind-sculpted patterns. The setting suggests a futuristic fusion science and nature sand therapy retreat. Magazine-quality lighting casts vibrant neon colors against a dark background, creating a mysterious atmosphere. This is a real captured photo with an isometric angle, no miniature effect. Shot with a prime lens and studio lighting for crisp detail and shallow depth of field. The date and time '2026-02-13 09:36 UTC' are clearly visually displayed within the image.",
+    "comment_id": 3896038353,
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Isometric Photography",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Sand Texture",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "在融合科學與自然的未來感沙療靜修所中，一隻毛髮蓬鬆的AI貓咪身穿米色亞麻背心，正以時尚編輯攝影的等距視角，專注地將數種散發黑光螢光、擁有細緻沙質紋理的粉彩色系「療癒沙」精心地層層篩入特製的UV玻璃缽中。整個場景瀰漫著一種專注而神秘的氛圍。",
+    "story": "這隻名叫「砂織 (Saori)」的貓咪，是這處秘境的核心引導者，牠以古老而精確的手法，為前來尋求內心平衡的旅客調配獨特的沙質能量配方。每一粒經過篩選的粉彩沙子，在UV燈下都閃爍著柔和微光，據說蘊含著特定地區的自然能量，旨在引導身體與心靈回歸和諧，提供深層的療癒與放鬆體驗。"
   }
 ]
