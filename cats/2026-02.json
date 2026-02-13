@@ -5222,5 +5222,35 @@
       "在斯里蘭卡可倫坡舉行的ICC男子T20世界盃中，辛巴威隊出人意料地擊敗了前冠軍澳洲隊，成為一大體育新聞。",
       "巴西各地今日迎來嘉年華活動的高潮，預計將吸引數千萬狂歡者參與，大力推動旅遊業。"
     ]
+  },
+  {
+    "prompt": "A photograph of a miniature diorama: A fluffy cat, intensely focused, operates a vintage film projector in a grand, decaying ballroom. The scene is shot with a macro lens and tilt-shift effect, rendering a toy-like scale model aesthetic with shallow depth of field. Dramatic Rembrandt lighting is employed, with a single softbox light source at 45 degrees creating a signature triangle of light on the cat's shadowed cheek and strong chiaroscuro. The color palette is a Morandi muted blend of desaturated soft pastels and dusty grey undertones, subtly infused with a vaporwave aesthetic via faint pastel pink and cyan gradients in the background and very subtle retro 80s digital elements within the projector's light beam. Textures are velvet-like, evoking deep pile softness and light-absorbing matte surfaces, conveying tactile luxury. Crumbling Greek statues are hinted at in the shadowed background. The date and time '2026-02-13 12:41 UTC' are visually displayed within the image.",
+    "avoid_list": [
+      "貓咪專注操作科技裝置或工具",
+      "高科技碳纖維紋理與光澤塗層",
+      "等距視角或流暢3D渲染風格",
+      "冷冽藍青或霓虹螢光色調",
+      "微縮場景或立體模型",
+      "環形燈打造的特寫美顏肖像",
+      "復古未來主義與蒸氣波元素",
+      "摺紙或低多邊形幾何紋理",
+      "對稱構圖與鏡像平衡",
+      "畫面中顯示日期時間字樣",
+      "靜謐氛圍"
+    ],
+    "comment_id": 3897018929,
+    "title": "舞廳拾光貓",
+    "story": "當晚，舞廳的塵埃與過去一同沉睡。毛髮柔軟的貓咪，指尖輕觸著生鏽的捲軸，笨拙卻認真地將舊膠卷送入放映機。一道微弱的光束穿透黑暗，投射出褪色的景象，為這遺忘的空間注入一絲溫暖的蒸氣波懷舊情懷。",
+    "idea": "一隻貓咪在宏偉卻頹敗的舞廳中，專注地操作著一台老舊的電影放映機，整體畫面呈現蒸氣波風格的微縮立體模型，以倫勃朗光影描繪，質地如天鵝絨般柔和，並浸潤在莫蘭迪色調的靜謐氛圍中。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Miniature Diorama",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Velvet",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 289,
+    "inspiration": "original"
   }
 ]
