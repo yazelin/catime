@@ -5431,5 +5431,42 @@
     "prompt": "Studio portrait of a silver-gray short-haired cat, intensely curious, peering into the intricate brass gears of an open antique pocket watch. The cat is positioned on a cluttered old wooden workbench in a vintage clockmaker's studio, surrounded by tools and clock parts. Captured with a fisheye wide-angle lens, exhibiting strong barrel distortion and an exaggerated foreground, creating a 360-degree immersive feel. The scene is bathed in golden hour lighting with a warm sunset glow, casting long soft shadows and a prominent golden rim light on the cat and watch. Three-point lighting enhances the professional quality. Metal surfaces on the watch and tools show a liquid metal surface, mercury-like reflective flow, and a molten mirror finish. The color palette is retro faded with washed-out vintage tones, low contrast, and a nostalgic film-era warmth. Visually displayed within the image: '2026-02-13 17:36 UTC'.",
     "number": 294,
     "story": "陽光透過斑駁的窗戶，為塵封的工作室灑上橘金色的光暈。一隻銀灰色的短毛貓輕巧地躍上滿是零件的木桌，牠的目光被一枚敞開的懷錶吸引，好奇的探頭觀察著裡頭精密的黃銅齒輪，彷彿在解讀時間的奧秘。周遭的工具和鐘擺被魚眼鏡頭扭曲成有趣的弧線，時間在此刻凝結，只有貓咪的專注與懷錶的靜默相映成趣。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Miniature Diorama",
+      "lighting": "Direct Flash",
+      "texture": "Low Poly",
+      "color_palette": "Earth Tones"
+    },
+    "inspiration": "在羅馬尼亞的阿爾梅尼什附近喀爾巴阡山脈，歐洲野牛在一個世紀後被成功重新引入並再次野外漫遊。",
+    "news_inspiration": [
+      "美國洛杉磯的西達斯-西奈醫療中心科學家發現了有助於脊髓損傷癒合的隱藏腦細胞。",
+      "愛爾蘭的藝術家基本收入計畫已轉為永久性，為超過2,000名藝術家提供每週津貼。",
+      "在羅馬尼亞的阿爾梅尼什附近喀爾巴阡山脈，歐洲野牛在一個世紀後被成功重新引入並再次野外漫遊。",
+      "一位專業廚師在南極洲分享了他的生活經歷，包括烹飪家常菜和感受荒野的獨特視角。",
+      "哥倫比亞的森林砍伐率再次下降，這是政府與社區合作實施生態恢復行動的成果。"
+    ],
+    "story": "冬日微光透過小窗灑落，木屋內一隻盡責的野外助手，雙耳輕顫，精準地調整著頻率，搜尋著荒野中野牛群的信號。散落在粗木桌上的地圖與筆記，記錄著牠與人類夥伴共同守護這片土地，確保生命重返自然的進程。這幅場景捕捉了牠在嚴峻環境中，扮演著無聲守護者的堅韌。",
+    "number": 295,
+    "avoid_list": [
+      "黑貓或短毛貓主題",
+      "貓咪專注凝視或輕觸物體",
+      "體積光與可見光線（如耶穌光）",
+      "等距視角或微縮立體模型",
+      "魚眼鏡頭與桶狀畸變效果",
+      "冰晶、霜凍或大理石等特定紋理",
+      "曼陀羅藝術或神聖幾何風格",
+      "霓虹鮮豔色彩與黑暗背景",
+      "關於行星、星圖或宇宙裝置的主題",
+      "具反射性質的表面（鏡子、金屬）",
+      "古老、復古或頹敗的宏偉場景",
+      "溫暖或懷舊的黃金時刻光線"
+    ],
+    "idea": "一隻毛茸茸的長毛虎斑貓，在喀爾巴阡山脈的簡樸野外研究站內，專注地操作著老式無線電發射器，追蹤被重新引入的歐洲野牛，呈現出拍立得風格、低多邊形紋理、直射閃光燈照明的微縮立體模型。",
+    "prompt": "A highly detailed photograph of a fluffy, long-haired tabby cat, seen from an eye-level perspective, intently operating a vintage radio transmitter inside a rustic, low-poly style field research station in the Carpathian Mountains. The cat, rendered with clear polygon mesh facets and flat shaded triangular faces, is focused on adjusting the frequency knob, its ears slightly twitching, tracking reintroduced European bison. Maps and field notes are scattered across a rough wooden table. The scene is presented as a miniature diorama with a strong tilt-shift effect, creating a toy-like scale model of a tiny detailed world. Lighting is provided by a harsh direct on-camera flash, resulting in blown-out highlights and distinct, hard shadows. The photograph has the aesthetic of a Polaroid instant photo, featuring a white border frame, slightly faded colors, and soft warm tones, conveying a raw candid snapshot look with visible film grain. An earth tone palette dominates, featuring terracotta, olive green, and warm brown, creating a natural organic harmony. In the background, clearly visible on a wooden beam or piece of equipment, the date and time '2026-02-13 18:37 UTC' are displayed. Shot with a macro lens, f/2.8, shallow depth of field, ISO 400.",
+    "title": "電波守林者",
+    "comment_id": 3898741787
   }
 ]
