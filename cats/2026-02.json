@@ -5612,5 +5612,41 @@
       "texture": "Inflatable PVC",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "inspiration": "英國MRC分子生物學實驗室的研究人員發現了一種微小的RNA分子，能夠自我複製，為生命起源提供新線索。",
+    "story": "這隻名叫「伽馬」的貓，全身由大地色系的撕紙碎片層疊而成，在巨大的撕紙拼貼工作台上，小心翼翼地用鑷子將一片片在黑光下閃爍著螢光的透明樹脂元素，精確地放置到一個複雜的模板上，彷彿在複製著生命的最初密碼。整個場景以正交投影呈現，背景是深沉的大地色系撕紙牆面，只有關鍵的實驗部件在紫外線下熠熠生輝。",
+    "news_inspiration": [
+      "英國MRC分子生物學實驗室的研究人員發現了一種微小的RNA分子，能夠自我複製，為生命起源提供新線索。",
+      "紐西蘭的遊客入境人數自COVID-19疫情以來首次突破350萬人次，顯示旅遊業復甦。",
+      "挪威選手Johannes Hoesflot Klaebo在義大利泰塞羅舉行的2026年冬季奧運越野滑雪男子10公里自由式比賽中奪得金牌。",
+      "巴西里約熱內盧的嘉年華慶典如火如荼地進行中，帶來熱情洋溢的文化盛宴。"
+    ],
+    "avoid_list": [
+      "「2026-02-13」日期時間戳",
+      "魚眼鏡頭或超廣角鏡頭",
+      "強烈桶狀畸變效果",
+      "360度沉浸式構圖",
+      "黃金時刻、溫暖夕陽餘暉、長柔和陰影與金色輪廓光",
+      "直打閃光燈、曝光過度高光與堅硬陰影",
+      "冰霜結晶及精緻霜花圖案",
+      "拋光大理石表面及自然紋理",
+      "等距視角或等距3D插圖",
+      "親密特寫視角及隨性構圖",
+      "原始隨性快照感",
+      "光滑黑貓形象"
+    ],
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Orthographic Projection",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Translucent Resin",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 3900070286,
+    "number": 300,
+    "idea": "在一幅獨特的撕紙拼貼畫中，一隻短毛貓戴著迷你護目鏡，以正交投影的視角，在一個昏暗卻充滿黑光螢光的地下實驗室中，專注地使用工具組裝發光的透明樹脂「分子」。",
+    "title": "創生微光拼圖",
+    "prompt": "An orthographic projection of a short-haired cat, named 'Gamma', intricately crafted from layered earth-tone torn paper fragments, wearing mini goggles. The cat is diligently using tweezers to assemble glowing translucent resin 'molecules' onto a complex template, mimicking the replication of life's initial code. The entire scene is presented in a straight-on flat rendering with no perspective distortion, evoking a technical illustration style. The background is a dim underground laboratory depicted with a deep earth-tone torn paper collage wall, showcasing visible paper edges and layered textures, rendered with a mixed media approach. Blacklight UV illumination highlights only the critical experimental components and the resin molecules, which glow intensely with vibrant neon fluorescent pigments, creating an ethereal ultraviolet luminescence on the dark background. The translucent resin material possesses an amber-like clarity and a glossy smooth surface, with embedded elements visibly inside. The overall color palette for the cat and background is an earth tone harmony of terracotta, olive green, and warm brown, achieving a natural organic feel. The date and time '2026-02-13 23:24 UTC' is visibly displayed within the image."
   }
 ]
