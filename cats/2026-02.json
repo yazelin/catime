@@ -5468,5 +5468,41 @@
     "prompt": "A highly detailed photograph of a fluffy, long-haired tabby cat, seen from an eye-level perspective, intently operating a vintage radio transmitter inside a rustic, low-poly style field research station in the Carpathian Mountains. The cat, rendered with clear polygon mesh facets and flat shaded triangular faces, is focused on adjusting the frequency knob, its ears slightly twitching, tracking reintroduced European bison. Maps and field notes are scattered across a rough wooden table. The scene is presented as a miniature diorama with a strong tilt-shift effect, creating a toy-like scale model of a tiny detailed world. Lighting is provided by a harsh direct on-camera flash, resulting in blown-out highlights and distinct, hard shadows. The photograph has the aesthetic of a Polaroid instant photo, featuring a white border frame, slightly faded colors, and soft warm tones, conveying a raw candid snapshot look with visible film grain. An earth tone palette dominates, featuring terracotta, olive green, and warm brown, creating a natural organic harmony. In the background, clearly visible on a wooden beam or piece of equipment, the date and time '2026-02-13 18:37 UTC' are displayed. Shot with a macro lens, f/2.8, shallow depth of field, ISO 400.",
     "title": "電波守林者",
     "comment_id": 3898741787
+  },
+  {
+    "news_inspiration": [
+      "泰國華富里市近日為當地猴子舉辦了一場盛大的自助餐節，提供水果和點心，吸引了數千隻猴子共享盛宴，場面活潑有趣。",
+      "中國科學家在北京成功利用大熊貓皮膚細胞培育出多能幹細胞，有望為瀕危物種的保育工作帶來突破性進展。",
+      "在美國夏威夷舉行的一場衝浪比賽中，一位年僅13歲的衝浪手展現了非凡的技巧，贏得了青年組冠軍，成為當地傳奇。",
+      "在英國倫敦，一個鄰里社區發起了「互助花園」計劃，居民們共同維護公共綠地，增進了鄰里情誼並美化了環境。"
+    ],
+    "number": 296,
+    "idea": "以電影分鏡與等距3D插圖的藝術風格呈現，一隻毛茸茸的緬因貓身著織品質感的亮藍色實驗袍，在閃光燈直打的霓虹螢光實驗室中，精準地操作著發光的霓虹綠滴管，將粉色液體轉移至織物紋理的培養皿。",
+    "title": "細胞霓光",
+    "prompt": "A fluffy Maine Coon cat, portrayed as a chief researcher, meticulously pipetting vibrant electric pink cell culture liquid with a glowing neon lime green pipette into a special petri dish. The cat is clad in a bright blue lab coat. This scene is rendered as a 3D isometric illustration featuring clean geometric forms, presented within a cinematic storyboard grid with dramatic camera angles and a movie-quality composition, capturing a sequential shot. The futuristic biological laboratory setting is lit by a harsh direct on-camera flash, producing blown-out highlights and hard shadows, imparting a raw candid snapshot look. Neon fluorescent colors, including electric pink, lime green, and hot cyan, glow intensely against a dark background. All fabric elements, such as the lab coat and petri dish, exhibit a distinct woven fabric texture with visible threads, a linen or cotton weave pattern, and a tactile soft appearance. The overall artistic rendering is polished and playful, blending soft pastel colors with the vibrant neon palette. Visually displayed within the illustration: '2026-02-13 19:37 UTC'.",
+    "avoid_list": [
+      "黑貓或短毛貓主題",
+      "貓咪專注凝視或輕觸物體",
+      "體積光與可見光線（如耶穌光）",
+      "等距視角或微縮立體模型",
+      "魚眼鏡頭與桶狀畸變效果",
+      "冰晶、霜凍或大理石等特定紋理",
+      "曼陀羅藝術或神聖幾何風格",
+      "霓虹鮮豔色彩與黑暗背景",
+      "關於行星、星圖或宇宙裝置的主題",
+      "具反射性質的表面（鏡子、金屬）",
+      "古老、復古或頹敗的宏偉場景",
+      "溫暖或懷舊的黃金時刻光線"
+    ],
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Direct Flash",
+      "texture": "Fabric / Textile",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "這隻聰明的緬因貓是牠專屬未來生物實驗室的首席研究員。牠正小心翼翼地將一滴充滿活力的粉色細胞培養液，轉移到一個由特殊織物製成的培養皿中。牠的目標是透過前瞻性的幹細胞研究，為瀕危物種的保育工作帶來突破性進展。",
+    "comment_id": 3899057432,
+    "inspiration": "中國科學家在北京成功利用大熊貓皮膚細胞培育出多能幹細胞，有望為瀕危物種的保育工作帶來突破性進展。"
   }
 ]
