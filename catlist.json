@@ -2191,5 +2191,14 @@
     "model": "gemini-3-pro-image-preview",
     "inspiration": "在瑞士的洛琛塔爾山谷，一年一度的Tschäggättä節以戴著面具的人物和古老的習俗慶祝著當地文化。",
     "timestamp": "2026-02-12 23:23 UTC"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-13_0129_UTC.webp",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "inspiration": "original",
+    "timestamp": "2026-02-13 01:29 UTC",
+    "title": "溫室園丁的靜謐",
+    "number": 280
   }
 ]
