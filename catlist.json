@@ -2366,5 +2366,18 @@
     "inspiration": "original",
     "title": "幾何光影貓策展",
     "status": "success"
+  },
+  {
+    "character": "mochi",
+    "title": "金盞年糕貓生觀",
+    "number": 299,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-13_2232_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "麻糬",
+    "status": "success",
+    "inspiration": "英國劍橋的MRC分子生物學實驗室科學家們，於今日（2月13日）發現了一種微小的RNA分子，有助於解釋地球生命起源。",
+    "timestamp": "2026-02-13 22:32 UTC",
+    "is_seasonal": true,
+    "season": "winter"
   }
 ]

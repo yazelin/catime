@@ -5572,5 +5572,45 @@
       "古老、復古或頹敗的宏偉場景",
       "溫暖或懷舊的黃金時刻光線"
     ]
+  },
+  {
+    "idea": "一隻圓滾滾的橘白貓「麻糬」，慵懶地窩在一個奢華的黑色暖桌裡，只露出呆萌的頭部和牠那雙琥珀色大圓眼，緊盯著旁邊一塊泛著金光的Q彈年糕，其身影與反射在拋光黑木桌面上的鏡像自拍般構圖，被以雙重曝光藝術風格呈現。畫面主體是麻糬的形象，疊加上抽象的金色RNA分子結構圖案，整體籠罩在黃金時刻的低角度光線和金色與黑色奢華的調色板中，且所有物體表面都帶有充氣PVC般的滑順質感。",
+    "character": "mochi",
+    "title": "金盞年糕貓生觀",
+    "number": 299,
+    "story": "在老街市場深處，一間古樸卻不失雅緻的糕餅店角落，貪吃的麻糬在冬日的暖桌中醒來。牠圓滾滾的身子陷在柔軟的桌被裡，眼睛直勾勾地鎖定桌旁那塊閃爍著誘人光澤的年糕，彷彿那是牠生命起源的美味奧秘。牠的鼻頭微動，醞釀著一場即將展開的「年糕爭奪戰」。",
+    "avoid_list": [
+      "黑貓或短毛貓主題",
+      "貓咪專注凝視或輕觸物體",
+      "體積光與可見光線（如耶穌光）",
+      "等距視角或微縮立體模型",
+      "魚眼鏡頭與桶狀畸變效果",
+      "冰晶、霜凍或大理石等特定紋理",
+      "曼陀羅藝術或神聖幾何風格",
+      "霓虹鮮豔色彩與黑暗背景",
+      "關於行星、星圖或宇宙裝置的主題",
+      "具反射性質的表面（鏡子、金屬）",
+      "古老、復古或頹敗的宏偉場景",
+      "溫暖或懷舊的黃金時刻光線"
+    ],
+    "comment_id": 3899923639,
+    "character_name": "麻糬",
+    "prompt": "An intimate close-up illustration of Mochi, a chubby, rounded shorthair cat with a spherical torso and short stubby legs, lazily nestled deep inside a luxurious black kotatsu, perfectly styled for a cozy winter scene. Only Mochi's head is visible, showcasing its white #FFFFFF base coat adorned with solid bright orange #FF8C00 patches. Its RIGHT half-face bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while its LEFT face remains entirely white. Mochi's large, round amber #FFBF00 eyes are wide, fixed intently on a nearby glistening, Q-彈 (Q-elastic) rice cake that glows with golden light. A tiny pink #FFB6C1 nose with an orange center dot. Though largely obscured by the kotatsu, Mochi's characteristically heart-shaped orange #FF8C00 saddle is present on its upper back, and its belly is pure white #FFFFFF. Its visible front paws adhere to the pattern: the RIGHT front paw is a solid orange #FF8C00 mitten, and the LEFT front paw is pure white #FFFFFF. All orange patches are solid, without any tabby stripes. The scene is presented in a double exposure art style, featuring two overlapping images delicately blended. The main subject, Mochi, is subtly superimposed with an abstract pattern of glowing golden RNA molecules, creating an ethereal transparency effect. The composition mimics a mirror selfie, with Mochi's form and the rice cake clearly reflected as a visible mirror image on the highly polished black wood surface of the kotatsu, offering a casual framing and intimate close-up perspective. Illuminated by dramatic golden hour lighting, a warm sunset glow emanates from a low angle, casting long soft shadows and creating a beautiful golden rim light on both Mochi and the rice cake. The overall color scheme is opulent, dominated by luxurious metallic gold accents and a deep black background, evoking a rich, lavish mood. All depicted objects, including Mochi, the kotatsu, and the rice cake, exhibit an inflatable PVC material texture, appearing high-gloss and balloon-like with puffy, rounded forms and an air-filled tension. The date and time '2026-02-13 22:32 UTC' are visually displayed in the image as a subtle, integrated digital overlay.",
+    "news_inspiration": [
+      "英國劍橋的MRC分子生物學實驗室科學家們，於今日（2月13日）發現了一種微小的RNA分子，有助於解釋地球生命起源。",
+      "阿聯酋阿布達比正在舉行的2026年公開大師運動會進入第八天，22個體育項目持續展現強勁的參與度與競爭力。",
+      "今日（2月13日），南非發現了一種新的昆蟲物種，並以南非國家公園（SANParks）和里希特斯維爾德（Richtersveld）命名。",
+      "墨西哥莫雷洛斯州的Bahidorá音樂節於2月13日至15日舉行，帶來一場為期三天的音樂與文化盛會。"
+    ],
+    "inspiration": "英國劍橋的MRC分子生物學實驗室科學家們，於今日（2月13日）發現了一種微小的RNA分子，有助於解釋地球生命起源。",
+    "is_seasonal": true,
+    "season": "winter",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Golden Hour",
+      "texture": "Inflatable PVC",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
