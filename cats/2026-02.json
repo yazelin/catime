@@ -5541,5 +5541,36 @@
       "texture": "Sand Texture",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "story": "這隻橙白相間的貓咪，如同藝廊的秘密策展人，在一個由刷面金屬製成的低矮展示台上，小心翼翼地推動著紅、藍、黃三原色方塊，重新構成一幅抽象畫。超廣角視角拉伸了空間感，使得藝廊的黑白牆面和鮮豔色塊構成的幾何形體，在午後金色的陽光下顯得格外分明而富有張力。",
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Golden Hour",
+      "texture": "Metallic Surface",
+      "color_palette": "High Saturation Vivid"
+    },
+    "number": 298,
+    "idea": "在一座以風格派藝術風格設計的現代藝廊中，一隻貓咪正專注地用爪子重新排列一系列高飽和度的幾何色塊，超廣角鏡頭捕捉著黃金時刻下，光線在金屬質感表面與鮮豔色塊上形成的銳利光影。",
+    "inspiration": "original",
+    "comment_id": 3899459551,
+    "prompt": "An ultra wide angle 12-18mm lens photograph captures an orange and white cat, acting as a secret curator, intently arranging high-saturation red, blue, and yellow primary color geometric blocks on a low, brushed metal display stand. The scene unfolds within a modern art gallery designed in a De Stijl, neoplasticism-inspired style, featuring stark black and white geometric walls with strong horizontal and vertical lines. Golden hour lighting floods the expansive space, creating a warm sunset glow with long soft shadows and dramatic perspective distortion. A golden rim light highlights the cat and the metallic surfaces, producing sharp reflections and an industrial premium feel. The vivid colors of the blocks contrast sharply with the monochromatic gallery, creating an eye-catching and energetic palette. Shot with a sharp focus, f/2.8, natural light, candid. Visually displayed in the image: 2026-02-13 21:04 UTC.",
+    "title": "幾何光影貓策展",
+    "news_inspiration": [],
+    "avoid_list": [
+      "黑貓或短毛貓主題",
+      "貓咪專注凝視或輕觸物體",
+      "體積光與可見光線（如耶穌光）",
+      "等距視角或微縮立體模型",
+      "魚眼鏡頭與桶狀畸變效果",
+      "冰晶、霜凍或大理石等特定紋理",
+      "曼陀羅藝術或神聖幾何風格",
+      "霓虹鮮豔色彩與黑暗背景",
+      "關於行星、星圖或宇宙裝置的主題",
+      "具反射性質的表面（鏡子、金屬）",
+      "古老、復古或頹敗的宏偉場景",
+      "溫暖或懷舊的黃金時刻光線"
+    ]
   }
 ]
