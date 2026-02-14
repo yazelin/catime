@@ -6189,5 +6189,44 @@
     "character": "lingling",
     "title": "浮光蝶影追",
     "prompt": "3D isometric illustration of Lingling, an extremely fluffy pure white #FFFFFF longhair cat, Ragdoll-like with voluminous cloud-like fur, rapidly running through a fantastical origami butterfly garden. Lingling has a small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of face) with a gentle sparkle, pale pink #FFB6C1 nose and inner ears. Her neck is adorned with a pink #FF69B4 ribbon bow collar, featuring a clearly visible and centered small golden #FFD700 bell beneath the bow knot. Her enormous feathery white plume tail and pink paw pads are subtly visible. Her pure white fur forms a flowing, soft white light trail due to rapid motion blur, reminiscent of long exposure photography light trails, as she intently chases a single light blue origami butterfly. The butterfly is rendered with clean geometric creases and sharp angular folds, lightly dancing through the air. The entire scene is crafted in an Origami style, using folded paper art and a paper sculpture aesthetic, with clean geometric forms and precise, minimal detailing. The garden's flora, also origami, is rendered in cool blue-teal color grading with icy undertones, creating a crisp and serene atmosphere. Cinematic lighting provides volumetric light rays and dramatic shadows, contributing to a film-quality mood with high dynamic range. This is a polished playful rendering with a time-lapse feel. The date and time '2026-02-14 16:31 UTC' are visually displayed as a clean digital overlay in the corner."
+  },
+  {
+    "comment_id": 3902209665,
+    "title": "星圖守望",
+    "avoid_list": [
+      "貓咪執行精細動作",
+      "黑貓為主角",
+      "特殊攝影視角 (俯瞰或仰視)",
+      "黑白單色調與高對比",
+      "電影感光線與體積光",
+      "嘉年華節慶場景",
+      "燈塔場景",
+      "遞迴圖像效果",
+      "大地色系調色板",
+      "高光澤或塑膠玩具質感",
+      "貓咪專注凝視",
+      "正交投影藝術風格",
+      "高飽和鮮豔色彩背景",
+      "復古科技或像素藝術風格"
+    ],
+    "prompt": "An orange tabby cat in an abandoned observatory, rendered in a Fauvism art style with bold non-naturalistic colors, textured impasto brushwork, and simplified forms, showcasing a wildly vibrant palette. The cat is gently pressing its paw on a large, ancient fabric star map, preventing it from rolling up. The star map displays a distinct woven fabric texture, with visible threads and a linen or cotton weave pattern, giving it a tactile soft appearance. The composition is an extreme low angle shot, looking up at the subject, creating a dramatic towering perspective and a powerful feel. The scene utilizes a classic three-point lighting setup, featuring a key light with soft shadows, a fill light, and a subtle rim light for separation. The color grading is a warm amber, incorporating an autumn palette of golden yellows and burnt orange, evoking a cozy nostalgic warmth. The background is a deep, abstract Fauvism starry sky, hinting at a silent cosmic transformation. The date and time '2026-02-14 17:26 UTC' are prominently displayed within the image.",
+    "inspiration": "今日，天文學家宣布首次直接觀測到仙女座星系中的一顆巨星未經超新星爆炸便塌縮成黑洞，此發現由位於美國的西蒙斯基金會發布，顛覆了恆星終結方式的傳統認知。",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Extreme Low Angle",
+      "lighting": "Three-Point Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "一隻橘色虎斑貓在被遺忘的天文台裡，以野獸派風格的鮮豔筆觸呈現，牠正用爪子輕輕壓住一張龐大而古老的織品星圖，防止它捲起。透過極低角度的構圖，暖色調的琥珀與秋日色彩勾勒出牠的輪廓與星圖的織品質感，背景是深邃、抽象的 Fauvism 星空，暗示著一場寂靜的宇宙變革。",
+    "story": "這隻橘貓意外闖入塵封已久的天文台，發現了這張織滿星辰的古老地圖。牠的爪子小心翼翼地按在圖上，彷彿在探尋宇宙的奧秘，或是無意中保護著一則未被發現的星際秘聞。在溫暖而富有表現力的三點打光下，這份寂靜的探索成為了一幅富有詩意的瞬間。",
+    "news_inspiration": [
+      "今日，天文學家宣布首次直接觀測到仙女座星系中的一顆巨星未經超新星爆炸便塌縮成黑洞，此發現由位於美國的西蒙斯基金會發布，顛覆了恆星終結方式的傳統認知。",
+      "在巴西里約熱內盧，數十隻打扮成各種角色的狗狗參與了一場嘉年華街頭派對，牠們的主人同時也藉此機會抗議對寵物的虐待行為。",
+      "非洲領先的運營商MTN與華為在迦納阿克拉成功完成了全球首次大規模Alpha天線部署，這項技術突破顯著提升了網絡性能，並為非洲乃至全球的智能網絡發展樹立了新基準。",
+      "蒙古首都烏蘭巴托舉辦了「你好！中國」熊貓廟會，慶祝2026年馬年春節，並推廣江西非物質文化遺產，加深了兩國的文化連結。",
+      "美國維吉尼亞州琴科提格島舉辦了第20屆「巧克力之死」活動以慶祝情人節，邀請遊客品嚐各式巧克力美食並探索當地商店，促進了淡季旅遊。"
+    ],
+    "number": 315
   }
 ]
