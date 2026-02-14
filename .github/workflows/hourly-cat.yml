@@ -2,7 +2,7 @@ name: Hourly Cat Generator
 
 on:
   schedule:
-    - cron: '0,30 * * * *'  # Every hour at :00 and :30 (retry)
+    - cron: '0 * * * *'  # Every hour at :00 (avoid duplicate sends)
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
 
 concurrency:
   group: hourly-cat
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   generate-cat:
