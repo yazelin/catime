@@ -5835,5 +5835,44 @@
       "剪影或黑白單色調表現",
       "復古底片顆粒感與快照風格"
     ]
+  },
+  {
+    "prompt": "A bird's-eye view photograph looking straight down into a Y2K aesthetic future control lab. A sleek, short-haired black cat is positioned centrally, one paw gently resting on a massive control console. The console is made of genuine black leather with a rich grain pattern and supple creased surfaces, inlaid with detailed, luxurious metallic gold circuitry lines, showcasing artisanal craftsmanship. The scene is illuminated by neutral white 5000K overhead fluorescent lighting, creating institutional flat illumination with no harsh shadows, highlighting every high-tech detail. The overall color scheme is gold and black, conveying an opulent and sterile mood. Visually displayed in the image is '2026-02-14 08:23 UTC'. Photographed with a 35mm lens, f/2.8, sharp focus, high contrast, raw photography.",
+    "avoid_list": [
+      "明確顯示 UTC 日期時間",
+      "貓咪專注操作科技或科學儀器",
+      "微縮立體模型與移軸效果",
+      "強烈直射閃光燈與高光硬影",
+      "黃金時刻光線與金色輪廓光",
+      "燭光照明與柔和舞動陰影",
+      "大地色系和諧調色板",
+      "藍青冷色調與冰冷底色",
+      "超廣角鏡頭透視變形",
+      "強調特定織物或皮革紋理",
+      "貓咪擔任研究員或策展人角色",
+      "低多邊形或幾何抽象藝術風格",
+      "剪影或黑白單色調表現",
+      "復古底片顆粒感與快照風格"
+    ],
+    "comment_id": 3901392835,
+    "idea": "在Y2K風格的未來實驗室中，一隻黑貓從俯瞰視角好奇地巡視著鑲有金色線路的皮革控制台，日光燈光線照亮了複雜的高科技細節，呈現出奢華與冷冽的結合。",
+    "style_picks": {
+      "art_style": "Y2K Aesthetic",
+      "composition": "Bird's-Eye View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Leather",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "inspiration": "俄羅斯杜布納聯合核研究所的物理學家於2026年2月12日首次成功實現NICA對撞機中反向離子束的同步循環，為研究夸克-膠子電漿體邁出重要一步。",
+    "number": 306,
+    "story": "在俄羅斯杜布納聯合核研究所的深處，一間充滿2000年代初期工業科技感的控制室內，日光燈管散發著清冷的光芒。一隻毛色烏黑、身形流線的短毛貓，正以牠天生的優雅，從高處俯瞰並輕柔地用一隻爪子「監督」著下方由黑色皮革與奢華金色線路構成的巨大控制台，彷彿在審閱著NICA對撞機中反向離子束同步循環的精密數據。",
+    "news_inspiration": [
+      "加拿大魁北克市正舉辦其盛大的冬季嘉年華，透過冰宮、夜間遊行和冰上獨木舟比賽，慶祝冬季文化與社區精神。",
+      "2026年冬季奧運會正在義大利米蘭和科爾蒂納丹佩佐舉行，將冬季運動與全球慶典融合，展現義大利的創新與傳統。",
+      "俄羅斯杜布納聯合核研究所的物理學家於2026年2月12日首次成功實現NICA對撞機中反向離子束的同步循環，為研究夸克-膠子電漿體邁出重要一步。",
+      "馬來西亞吉隆坡的黑風洞正舉行2026年大寶森節，這是一個莊嚴的印度教節日，吸引全球信徒和遊客體驗其文化活力和虔誠。",
+      "美國猶他州艾文斯市的卡延塔藝術基金會於2026年2月14日至15日舉辦藝術節，匯集多元藝術家、現場音樂和美食，展現沙漠美景中的文化盛事。"
+    ],
+    "title": "核芯巡禮貓"
   }
 ]
