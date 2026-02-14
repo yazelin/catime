@@ -5723,5 +5723,41 @@
       "二月是攀登坦尚尼亞吉力馬札羅山的理想月份，提供登山愛好者絕佳的冒險體驗。",
       "2026年冬季奧運會在義大利的米蘭和科爾蒂納舉行，全球頂尖運動員齊聚一堂競逐獎牌。"
     ]
+  },
+  {
+    "inspiration": "在南非斯威倫丹，公民科學家重新發現了一種失蹤近150年的翡翠綠蛾，為該地區的生物多樣性帶來好消息。",
+    "style_picks": {
+      "art_style": "Gouache",
+      "composition": "Floating Island Scene",
+      "lighting": "Candlelight",
+      "texture": "Paper Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "翡翠尋蹤浮島間",
+    "prompt": "Gouache painting, opaque matte finish, bold flat colors, illustrative quality. A ginger tabby cat, intensely focused, meticulously examining a newly discovered emerald green moth specimen through an old brass microscope. The scene unfolds on a fragment of a floating Victorian greenhouse, a miniature landscape on a levitating platform, set against a deep blue-teal void. The cat and its workspace are illuminated by a warm orange flickering glow from candlelight, creating an intimate atmosphere with soft dancing shadows. The overall color grading is cool blue-teal with icy undertones, conveying a crisp and serene, calm mood. The image features a textured paper surface, visible fiber grain, giving a kraft or watercolor paper feel with tactile warmth. The date and time \"2026-02-14 05:06 UTC\" MUST be visibly displayed within the image.",
+    "news_inspiration": [
+      "香港將於2月18日在維多利亞港舉行農曆新年煙花匯演，慶祝馬年。",
+      "在南非斯威倫丹，公民科學家重新發現了一種失蹤近150年的翡翠綠蛾，為該地區的生物多樣性帶來好消息。",
+      "2月5日，歐洲六國橄欖球錦標賽拉開帷幕，英格蘭、愛爾蘭、蘇格蘭、威爾斯、法國和義大利等國的頂尖球隊將展開激烈對決。",
+      "美國賓夕法尼亞州的研究揭示，從小行星Bennu採集的樣本顯示，生命關鍵成分胺基酸可能在極冷的冰中經輻射形成，而非傳統認為的溫暖液態水環境。"
+    ],
+    "avoid_list": [
+      "「2026-02-13」日期時間戳",
+      "魚眼鏡頭或超廣角鏡頭",
+      "強烈桶狀畸變效果",
+      "360度沉浸式構圖",
+      "黃金時刻、溫暖夕陽餘暉、長柔和陰影與金色輪廓光",
+      "直打閃光燈、曝光過度高光與堅硬陰影",
+      "冰霜結晶及精緻霜花圖案",
+      "拋光大理石表面及自然紋理",
+      "等距視角或等距3D插圖",
+      "親密特寫視角及隨性構圖",
+      "原始隨性快照感",
+      "光滑黑貓形象"
+    ],
+    "story": "在這片被遺忘的空中孤島實驗室裡，探險家虎斑貓正仔細地透過古老黃銅顯微鏡，觀察著翼片上獨特的鱗粉。在深藍青色的虛空背景中，幾盞搖曳的燭光照亮了牠專注的身影，牠小心翼翼地記錄著這項近乎失落的生物多樣性發現。",
+    "idea": "以不透明水彩風格描繪，一隻薑黃虎斑貓專注地在一座漂浮的維多利亞時代溫室碎片上，藉由燭光檢視新發現的翡翠綠蛾標本，整體色彩呈現冷調藍青，並帶有紙質肌理。",
+    "comment_id": 3901007442,
+    "number": 303
   }
 ]

@@ -2408,5 +2408,14 @@
     "number": 302,
     "status": "success",
     "character_name": "船長"
+  },
+  {
+    "timestamp": "2026-02-14 05:06 UTC",
+    "title": "翡翠尋蹤浮島間",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-14_0506_UTC.webp",
+    "inspiration": "在南非斯威倫丹，公民科學家重新發現了一種失蹤近150年的翡翠綠蛾，為該地區的生物多樣性帶來好消息。",
+    "status": "success",
+    "number": 303
   }
 ]
