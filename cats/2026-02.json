@@ -6327,5 +6327,38 @@
       "高飽和鮮豔色彩背景",
       "復古科技或像素藝術風格"
     ]
+  },
+  {
+    "title": "金絲裁縫師",
+    "avoid_list": [
+      "貓咪執行精細動作",
+      "黑貓為主角",
+      "特殊攝影視角 (俯瞰或仰視)",
+      "黑白單色調與高對比",
+      "電影感光線與體積光",
+      "嘉年華節慶場景",
+      "燈塔場景",
+      "遞迴圖像效果",
+      "大地色系調色板",
+      "高光澤或塑膠玩具質感",
+      "貓咪專注凝視",
+      "正交投影藝術風格",
+      "高飽和鮮豔色彩背景",
+      "復古科技或像素藝術風格"
+    ],
+    "comment_id": 3902551226,
+    "prompt": "A double exposure illustration, with two overlapping images blended using transparent layering. The primary image is a bird's-eye view, looking straight down, of a turmeric-colored cat wearing a miniature black velvet bow tie. The cat meticulously unrolls a bolt of black silk with intricate gold embroidery on a golden-edged workbench in a high-end bespoke tailor shop. The composition evokes a miniature world effect. The cat features a sculpted clay texture, with a handmade ceramic feel and a matte surface showing subtle imperfections, rendered with beauty portrait quality. Illumination is provided by a ring light, creating circular catchlights in the cat's eyes and even frontal lighting. The color scheme features warm earthy tones for the cat, with a gold and black palette for the fabric and background, including luxurious metallic gold accents against a deep black, creating an opulent mood. The secondary image, subtly overlaid, reveals the complex golden motifs from the fabric. The date and time '2026-02-14 21:26 UTC' is visibly displayed within the image.",
+    "inspiration": "original",
+    "idea": "一張雙重曝光的俯瞰影像，畫面中一隻薑黃色的貓咪，在一家高端訂製裁縫店的金邊工作台上，正專注地展開一匹黑色金絲刺繡絲綢。",
+    "story": "這隻優雅的貓咪，戴著一條迷你黑絲絨領結，像是店裡最挑剔的布料品鑑師，輕柔地用前爪撥動著絲綢卷，使其平順地延展。環形燈的柔和光暈下，其黏土般質感的毛髮與奢華黑金布料形成鮮明對比，宛如一幅靜謐的藝術品。第二層曝光的影像，則微妙地疊加了布料上繁複的金色圖騰，為整體視覺增添了深邃的層次感。",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Bird's-Eye View",
+      "lighting": "Ring Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 319,
+    "news_inspiration": []
   }
 ]
