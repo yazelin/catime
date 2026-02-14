@@ -117,6 +117,26 @@ def build_caption(cat: dict) -> str:
     return "\n".join(lines)
 
 
+def get_last_posted_number() -> int | None:
+    """Get the last posted cat number from state file."""
+    state_file = Path(".telegram_last_posted.json")
+    if not state_file.exists():
+        return None
+    try:
+        with state_file.open("r", encoding="utf-8") as f:
+            state = json.load(f)
+        return state.get("last_posted_number")
+    except Exception:
+        return None
+
+
+def save_last_posted_number(number: int) -> None:
+    """Save the last posted cat number to state file."""
+    state_file = Path(".telegram_last_posted.json")
+    with state_file.open("w", encoding="utf-8") as f:
+        json.dump({"last_posted_number": number}, f)
+
+
 def main():
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHANNEL_ID")
@@ -130,6 +150,17 @@ def main():
         print("No successful cat found, skipping.")
         return
 
+    cat_number = cat.get("number")
+    if not cat_number:
+        print("Cat has no number, skipping.")
+        return
+
+    # Check if already posted
+    last_posted = get_last_posted_number()
+    if last_posted == cat_number:
+        print(f"Cat #{cat_number} already posted to Telegram, skipping.")
+        return
+
     image_url = cat.get("url")
     if not image_url:
         print("No image URL, skipping.")
@@ -138,7 +169,7 @@ def main():
     cat = get_cat_detail(cat)
     caption = build_caption(cat)
 
-    print(f"Posting cat #{cat.get('number')} to Telegram channel {chat_id}...")
+    print(f"Posting cat #{cat_number} to Telegram channel {chat_id}...")
     print(f"Image URL: {image_url}")
 
     # Download image first (GitHub release URLs redirect, Telegram can't follow them)
@@ -154,6 +185,7 @@ def main():
 
     if send_photo_multipart(bot_token, chat_id, image_data, filename, caption):
         print("Posted successfully!")
+        save_last_posted_number(cat_number)
     else:
         print("Failed to post to Telegram.", file=sys.stderr)
         sys.exit(1)

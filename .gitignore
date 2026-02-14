@@ -3,3 +3,4 @@ dist/
 __pycache__/
 *.egg-info/
 uv.lock
+.telegram_last_posted.json
