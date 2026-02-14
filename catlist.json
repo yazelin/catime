@@ -2509,5 +2509,16 @@
     "title": "燈塔風暴茶會",
     "inspiration": "英國人以其獨特的堅忍不拔精神，即使在惡劣天氣下也能透過幽默和儀式來「慶祝」，展現其文化特色。",
     "timestamp": "2026-02-14 15:27 UTC"
+  },
+  {
+    "number": 314,
+    "status": "success",
+    "timestamp": "2026-02-14 16:31 UTC",
+    "character_name": "鈴鈴",
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "character": "lingling",
+    "title": "浮光蝶影追",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-14_1631_UTC.webp"
   }
 ]

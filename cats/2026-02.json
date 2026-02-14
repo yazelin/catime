@@ -6147,5 +6147,47 @@
     },
     "title": "燈塔風暴茶會",
     "inspiration": "英國人以其獨特的堅忍不拔精神，即使在惡劣天氣下也能透過幽默和儀式來「慶祝」，展現其文化特色。"
+  },
+  {
+    "number": 314,
+    "idea": "以長曝光攝影手法呈現，等距3D插圖風格勾勒出一個充滿藍青色調的摺紙蝴蝶園。鈴鈴全身毛髮因奔跑而化作一道柔軟的白色光帶，其身影在夢幻般的電影感光線中，正專注地追逐著一隻輕盈舞動的摺紙蝴蝶。",
+    "story": "天真好奇的鈴鈴被花園中一隻藍色摺紙蝴蝶的閃光吸引，牠脖子上粉色鈴鐺的清脆聲響與牠蓬鬆身體形成的動態模糊融為一體，笨拙卻充滿力量地在摺紙花叢間穿梭。牠那雙寶石藍的眼睛閃爍著追逐的渴望，巨大的白色尾巴輕輕掃過空氣，留下柔和的幻影。",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Cinematic Lighting",
+      "texture": "Origami",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "專注檢視/操作",
+      "搖曳的燭光",
+      "日光燈照明",
+      "黃金時段光線",
+      "戲劇性光影",
+      "正交投影",
+      "俯瞰視角",
+      "GTA 藝術風格",
+      "黑白單色調",
+      "皮革質感",
+      "紙質肌理",
+      "未來實驗室",
+      "狂歡節慶氛圍",
+      "視覺化日期時間顯示",
+      "大地色系和諧配色"
+    ],
+    "character_name": "鈴鈴",
+    "comment_id": 3902139272,
+    "inspiration": "original",
+    "news_inspiration": [
+      "加拿大安大略省北部的科學家們發現了困在14億年前鹽晶中的空氣氣泡，為地球的古老大氣層提供了新見解。",
+      "美國舊金山正以熱鬧的文化活動慶祝「火馬年」農曆新年。",
+      "在義大利米蘭舉行的冬季奧運會男子大迴轉項目中，巴西贏得了該國史上第一枚冬季奧運獎牌。",
+      "MTN與華為在迦納阿克拉成功完成了全球首次大規模Alpha天線部署，顯著提升了網絡性能。",
+      "以色列和土耳其的研究人員發現，受壓植物會發出昆蟲可以探測到的超聲波「尖叫」。"
+    ],
+    "character": "lingling",
+    "title": "浮光蝶影追",
+    "prompt": "3D isometric illustration of Lingling, an extremely fluffy pure white #FFFFFF longhair cat, Ragdoll-like with voluminous cloud-like fur, rapidly running through a fantastical origami butterfly garden. Lingling has a small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of face) with a gentle sparkle, pale pink #FFB6C1 nose and inner ears. Her neck is adorned with a pink #FF69B4 ribbon bow collar, featuring a clearly visible and centered small golden #FFD700 bell beneath the bow knot. Her enormous feathery white plume tail and pink paw pads are subtly visible. Her pure white fur forms a flowing, soft white light trail due to rapid motion blur, reminiscent of long exposure photography light trails, as she intently chases a single light blue origami butterfly. The butterfly is rendered with clean geometric creases and sharp angular folds, lightly dancing through the air. The entire scene is crafted in an Origami style, using folded paper art and a paper sculpture aesthetic, with clean geometric forms and precise, minimal detailing. The garden's flora, also origami, is rendered in cool blue-teal color grading with icy undertones, creating a crisp and serene atmosphere. Cinematic lighting provides volumetric light rays and dramatic shadows, contributing to a film-quality mood with high dynamic range. This is a polished playful rendering with a time-lapse feel. The date and time '2026-02-14 16:31 UTC' are visually displayed as a clean digital overlay in the corner."
   }
 ]
