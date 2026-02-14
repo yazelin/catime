@@ -6294,5 +6294,38 @@
     "title": "鏽蝕之隙",
     "news_inspiration": [],
     "story": "昏暗的地下室裡，唯一的日光燈管發出嗡嗡聲響，映照著牆壁上斑駁的鏽跡與滲水的痕跡。這隻好奇的虎斑貓，似乎被通風口內的未知吸引，小心翼翼地將頭伸向那冰冷、潮濕的鐵網。牠的側影在藍綠色的光線中顯得既渺小又堅定。"
+  },
+  {
+    "title": "螢光水泥之舞",
+    "story": "夜深人靜，殘存的黑光燈為這座被遺忘的混凝土滑板公園注入奇異的生命。一隻名為「花生」的薑黃色虎斑貓被地上一個散發著柔和螢光的粉紅色小球吸引。牠好奇而又輕巧地跳躍著，在粗糙的混凝土坡道與牆壁間，追逐著那團在粉彩色澤中閃爍的光芒，一切都透過即棄相機的鏡頭，顯得既真實又夢幻。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Split View",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Concrete",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "A disposable camera photo, '2026-02-14 20:28 UTC' visibly displayed. A candid snapshot, split view composition, capturing a focused ginger tabby cat in mid-pounce on a small, soft pastel fluorescent toy. The toy's fluorescent pigments glow with vibrant neon colors, specifically gentle pink, lavender, mint, and baby blue, under blacklight UV illumination. The abandoned indoor concrete skate park features a raw concrete texture, brutalist aesthetic, rough aggregate surface, and industrial minimalism, with subtle, dreamy light toned pastel graffiti on the urban material walls. The entire scene is bathed in ethereal ultraviolet luminescence, creating glowing elements on a dark background. The image exhibits a low-quality charm with subtle flash artifacts and light leaks, characteristic of a casual disposable camera snapshot.",
+    "number": 318,
+    "comment_id": 3902469204,
+    "idea": "在一座廢棄的室內混凝土滑板公園中，一隻薑黃色虎斑貓正專注地撲向一個在黑光下發出螢光的粉彩色系玩具。此場景以即棄相機風格的分割畫面呈現，捕捉了貓咪的玩耍姿態與周圍混凝土牆上幽微的粉彩塗鴉。",
+    "inspiration": "original",
+    "avoid_list": [
+      "貓咪執行精細動作",
+      "黑貓為主角",
+      "特殊攝影視角 (俯瞰或仰視)",
+      "黑白單色調與高對比",
+      "電影感光線與體積光",
+      "嘉年華節慶場景",
+      "燈塔場景",
+      "遞迴圖像效果",
+      "大地色系調色板",
+      "高光澤或塑膠玩具質感",
+      "貓咪專注凝視",
+      "正交投影藝術風格",
+      "高飽和鮮豔色彩背景",
+      "復古科技或像素藝術風格"
+    ]
   }
 ]
