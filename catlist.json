@@ -2455,5 +2455,14 @@
     "number": 307,
     "character_name": "墨墨",
     "timestamp": "2026-02-14 09:24 UTC"
+  },
+  {
+    "number": 308,
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-14_1019_UTC.webp",
+    "title": "塑膠嘉年華之貓影",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-02-14 10:19 UTC",
+    "inspiration": "玻利維亞奧魯羅正舉行著名的狂歡節，以其豐富的文化表演、傳統舞蹈和獨特的民間傳說吸引著來自世界各地的遊客。"
   }
 ]
