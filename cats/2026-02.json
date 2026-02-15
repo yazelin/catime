@@ -6560,5 +6560,48 @@
     ],
     "number": 324,
     "idea": "在一個充滿活力且風格化的GTA低多邊形城市廣場上，一隻貓咪在單束聚光燈的聚焦下，以超廣角構圖向一群低多邊形動物和市民發表熱情洋溢的競選演說，整體色調呈現清晰的粉彩色系。"
+  },
+  {
+    "prompt": "A photo-realistic rendering of a cubism art scene, characterized by precise geometric fragmented forms, multiple simultaneous perspectives, abstract angular planes, and analytical decomposition. The scene depicts Captain, a large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes, broad muscular build, and scruffy, untidy, slightly coarse fur of uneven lengths. His LEFT eye is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E covering the eye socket, explicitly a fur marking with no fabric or straps. His RIGHT eye is a single piercing emerald green #50C878. His LEFT ear has a prominent V-shaped notch. He wears a faded red #CD5C5C bandana tied loosely around his neck, a white #FFFFFF chest bib, and white mitten paws on all four feet. A distinctive M-mark is on his forehead, and his tail is thick and sturdy. Captain is wearing a miniature nautical winter jacket. He stands atop a stack of sturdy fish crates on a snowy winter fishing port dock, gazing intently at a small frozen fish on the icy dock. The entire scene is presented with a perfectly isometric composition and a real captured photo aesthetic, free of miniature effects. All objects, including Captain and the environment, are intricately rendered as if crafted from translucent resin material, exhibiting amber-like clarity and a glossy smooth surface, with embedded elements visible inside. The scene is bathed in soft diffused natural light under an overcast sky, ensuring even illumination and gentle tones without harsh shadows. The objects glow with neon fluorescent colors, including electric pink, lime green, and hot cyan, vividly radiant against a dark background. The date and time '2026-02-15 06:58 UTC' are visually displayed within the image.",
+    "number": 325,
+    "character_name": "船長",
+    "title": "碼頭風雪中的凝望",
+    "story": "在風雪交加的冬季漁港，船長如往常般在碼頭巡邏。他選擇了最高處的魚貨箱堆，俯瞰被冰雪覆蓋的水域，身披冬季外套的身影堅毅而孤傲。然而，當他銳利的右眼瞥見碼頭邊一條凍結的魚時，那份老大的威嚴卻難得地閃過一絲動搖，內心正掙扎著對魚的渴望與作為碼頭守護者的沉穩形象。",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Isometric Photography",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "original",
+    "comment_id": 3903450352,
+    "news_inspiration": [
+      "加拿大新斯科細亞省迪格比的居民齊心協力，成功拯救了一群擱淺的大西洋白邊海豚。",
+      "阿拉伯聯合大公國杜拜開設了全球最大的室內垂直農場，其蔬菜種植用水量比傳統農場少95%。",
+      "台灣近期發現的化石證據顯示，巨型蟒蛇曾在大約一千萬年前漫遊於台灣。",
+      "愛爾蘭板球隊在斯里蘭卡可倫坡舉行的2026年男子T20世界盃中以最高得分擊敗阿曼隊，保持晉級希望。",
+      "在巴西里約熱內盧的嘉年華遊行中，數十隻打扮成鱷魚、仙女和超級英雄的狗狗在主人抗議虐待動物的同時參與其中。"
+    ],
+    "season": "winter",
+    "is_seasonal": true,
+    "character": "captain",
+    "idea": "使用立體主義風格，描繪船長在一個下雪的冬季漁港碼頭，以等距攝影構圖呈現。他穿著迷你航海外套，站在結實的魚貨箱堆頂端，凝視著碼頭上一個被凍住的小魚。場景中的物體呈現透明樹脂般的質感，散發著霓虹螢光色的光芒。",
+    "avoid_list": [
+      "柔和粉彩色調",
+      "夢幻淺色調",
+      "廢棄工業/公共空間",
+      "工業舊化紋理",
+      "織品/編織紋理",
+      "微縮模型效果",
+      "3D等距插畫",
+      "環形燈光",
+      "極低角度構圖",
+      "頂部螢光燈/均勻平板光",
+      "霓虹/螢光色調",
+      "薑黃/橘色虎斑貓",
+      "貓咪專注凝視",
+      "簡潔幾何造型與精緻渲染"
+    ]
   }
 ]

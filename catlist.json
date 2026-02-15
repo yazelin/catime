@@ -2612,5 +2612,18 @@
     "timestamp": "2026-02-15 05:57 UTC",
     "number": 324,
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-15_0557_UTC.webp"
+  },
+  {
+    "number": 325,
+    "character_name": "船長",
+    "title": "碼頭風雪中的凝望",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-15_0658_UTC.webp",
+    "timestamp": "2026-02-15 06:58 UTC",
+    "inspiration": "original",
+    "season": "winter",
+    "is_seasonal": true,
+    "character": "captain",
+    "status": "success"
   }
 ]
