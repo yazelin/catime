@@ -6817,5 +6817,39 @@
       "texture": "Film Grain",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "inspiration": "加拿大多倫多：經過大規模的生態復育努力，魚類正大量重返加拿大多倫多的唐河（Don River），該河流曾被嚴重污染。",
+    "number": 332,
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Ring Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Morandi Color Palette"
+    },
+    "news_inspiration": [
+      "日本川崎市：明治與富士通公司合作，在川崎市啟動全球首個rRAFU™試點計畫，利用人工智慧應用程式評估和預防老年人營養不良及衰弱的風險。",
+      "玻利維亞奧魯羅：奧魯羅嘉年華（Oruro Carnival）正在玻利維亞奧魯羅舉行，這個被聯合國教科文組織列為人類口頭和非物質遺產傑作的活動，以其精緻的服裝和傳統舞蹈而聞名。",
+      "加拿大多倫多：經過大規模的生態復育努力，魚類正大量重返加拿大多倫多的唐河（Don River），該河流曾被嚴重污染。",
+      "仙女座星系/美國：美國哥倫比亞大學的科學家們觀測到仙女座星系中一顆恆星塌縮成黑洞，這是首次清晰捕捉到此類天文事件的過程。"
+    ],
+    "avoid_list": [
+      "移軸微縮效果",
+      "等距構圖",
+      "低多邊形風格",
+      "漂浮平台",
+      "霓虹光/霓虹螢光色",
+      "黃金時刻",
+      "柔和粉彩色系",
+      "大地色系",
+      "透明樹脂質感",
+      "柔和漫射自然光"
+    ],
+    "prompt": "A serene, dark-furred black cat is captured in a long exposure photography shot, gazing intently at the water from the edge of a modern viewing platform by the Don River in Toronto. The date and time '2026-02-15 13:47 UTC' is visibly displayed within the image. The scene has a time-lapse feel, with silky smooth water showing motion blur and light trails from ring light illumination creating blurred light bands and subtle fish movement tracks. The cat's silhouette is rendered with beauty portrait quality, appearing through a translucent matte surface of frosted glass texture railing, creating a recursive image that superimposes onto the water's ripples, a picture within a picture repeating infinitely. Even frontal lighting gently illuminates the cat, and diffused light transmission creates soft blurred shapes visible behind the frosted glass. The overall color scheme is a Morandi muted color palette with desaturated soft pastels and dusty grey undertones, evoking quiet elegance. Shot with a prime lens (e.g., 85mm), a very slow shutter speed (e.g., 45 seconds), and low ISO, ensuring an authentic photograph.",
+    "comment_id": 3904492784,
+    "idea": "一隻毛色沉穩的黑貓，在多倫多唐河畔一處現代化觀景平台邊緣，專注凝視著水面。整個畫面以長曝光攝影捕捉，配合磨砂玻璃般的柔和質感，呈現出莫蘭迪色調的沉靜氛圍。",
+    "story": "環形燈的柔和光暈輕撫過河面，在長曝光下形成模糊的光帶與魚群游動的軌跡。貓的剪影透過半透明的磨砂玻璃護欄，疊映在水中倒影的漣漪之上，彷彿層層疊疊的畫中畫，靜謐而深遠。牠的每一次微小顫動都消融在時間的流光中。",
+    "title": "唐河疊影"
   }
 ]
