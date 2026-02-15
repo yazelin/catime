@@ -7067,5 +7067,45 @@
       "texture": "Velvet",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "title": "燈火匠心",
+    "prompt": "Claymation style, bird's-eye view, looking straight down: A turmeric-colored sculpted clay cat, with visible fingerprint textures from its creation, diligently uses intricate tools to weld delicate metal lantern frames on an ancient metal workbench. The scene is a bustling workshop at a Cairo lantern festival, surrounded by scattered amber-colored lantern paper pieces. Miniature world effect. Dramatic backlighting creating a strong rim light and glowing silhouette edges around the cat and the metallic lantern components. Warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth fills the scene. Metallic surfaces of the lanterns and tools exhibit sharp reflections and an industrial premium feel. Stop-motion aesthetic. The text '2026-02-15 20:28 UTC' is visually displayed as part of the scene.",
+    "idea": "以黏土動畫風格呈現，從俯瞰視角，一隻薑黃色的貓咪在開羅燈籠節的熱鬧工坊中，專心致志地使用精巧工具焊接精緻的金屬燈籠骨架，周圍散落著琥珀色的燈籠紙片。",
+    "inspiration": "2026年2月14日，埃及開羅的家庭公園舉辦燈籠節，吸引民眾參觀，共同慶祝即將到來的農曆新年。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Bird's-Eye View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 3905136148,
+    "story": "開羅家庭公園的燈籠節之夜，空氣中彌漫著節慶的暖意。一隻技藝高超的貓咪匠人，正忙碌於它的古老金屬工作台上，巧手將黃銅片熔接成一盞盞寄託著新年祝福的燈籠。那些即將點亮的燈籠，將為夜空增添更多溫暖的光輝。",
+    "avoid_list": [
+      "透明樹脂質感與琥珀色澤",
+      "黃金時刻光線與金色輪廓光",
+      "大地色系與自然和諧",
+      "霓虹螢光色系與發光效果",
+      "移軸攝影微縮效果",
+      "魚眼鏡頭廣角畸變",
+      "復古褪色色調與懷舊感",
+      "鏡子自拍構圖",
+      "柔和漫射自然光無陰影",
+      "貓咪專注凝視或專注動作",
+      "迷你或微縮物件",
+      "黑貓主題",
+      "陰鬱都市夜景",
+      "視覺顯示日期時間戳記",
+      "戲劇性背光與剪影輪廓"
+    ],
+    "number": 339,
+    "news_inspiration": [
+      "2026年2月14日，埃及開羅的家庭公園舉辦燈籠節，吸引民眾參觀，共同慶祝即將到來的農曆新年。",
+      "加拿大安大略省多倫多的唐河魚群數量顯著回升，顯示當地環境復育的成功。",
+      "一位在印度創立數百個學習中心的教師榮獲一百萬美元的全球教師獎，表彰其對教育的傑出貢獻。",
+      "美國高山滑雪運動員米凱拉·席弗琳在義大利科爾蒂納丹佩佐舉行的2026年冬季奧運會上未能獲得獎牌。",
+      "南非開普敦的兒童醫院信託基金慶祝成立32週年，為住院兒童帶來歡樂與希望。"
+    ]
   }
 ]
