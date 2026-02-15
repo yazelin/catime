@@ -8,6 +8,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import httpx
+from catime.utils.http import safe_get_json
 
 CATLIST_URL = "https://raw.githubusercontent.com/{repo}/main/catlist.json"
 DETAIL_URL = "https://raw.githubusercontent.com/{repo}/main/cats/{month}.json"
@@ -18,9 +19,10 @@ _detail_cache: dict[str, list[dict]] = {}
 
 def fetch_catlist(repo: str) -> list[dict]:
     url = CATLIST_URL.format(repo=repo)
-    resp = httpx.get(url, follow_redirects=True)
-    resp.raise_for_status()
-    return resp.json()
+    try:
+        return safe_get_json(url, timeout=10.0, max_retries=3, follow_redirects=True)
+    except Exception:
+        raise
 
 
 def fetch_detail(month: str, *, repo: str = DEFAULT_REPO, local: bool = False) -> list[dict]:
@@ -34,9 +36,12 @@ def fetch_detail(month: str, *, repo: str = DEFAULT_REPO, local: bool = False) -
             details = json.loads(p.read_text())
     else:
         try:
-            resp = httpx.get(DETAIL_URL.format(repo=repo, month=month), follow_redirects=True)
-            if resp.status_code == 200:
-                details = resp.json()
+            try:
+                result = safe_get_json(DETAIL_URL.format(repo=repo, month=month), timeout=10.0, max_retries=3, follow_redirects=True)
+                if result is not None:
+                    details = result
+            except Exception:
+                pass
         except Exception:
             pass
     _detail_cache[month] = details
