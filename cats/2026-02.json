@@ -6442,5 +6442,44 @@
     },
     "idea": "在時尚編輯攝影風格的等距3D插圖中，麻糬圓滾滾的身影成為焦點，牠在霓虹螢光色調的舊金山農曆新年花市中，試圖偷嚐一串由霓虹色織品製成的吉慶橘子。整個場景透過螢光燈照明，並以細緻的織品質感呈現。",
     "inspiration": "美國舊金山正在舉辦2026年農曆新年花市，為慶祝活動增添了濃厚的節日文化氛圍。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Direct Flash",
+      "texture": "Liquid Metal",
+      "color_palette": "Pastel Colors"
+    },
+    "number": 322,
+    "story": "在被數位亂碼扭曲的炙熱沙漠中，一塊巨大的粉紅色大理石浮在半空中，表面閃爍著液態金屬光澤，卻奇異地保持著涼爽。一隻聰明的貓咪發現了這片錯誤數據中難得的清涼綠洲，小心翼翼地爬上大理石邊緣，享受著這片奇異風景中，甘甜而珍貴的凝露。",
+    "comment_id": 3903059014,
+    "avoid_list": [
+      "專注於精細任務的貓咪",
+      "廢棄/古老/荒廢的工業或公共建築場景",
+      "剪紙/摺紙藝術風格",
+      "極低角度/俯瞰/微縮視角構圖",
+      "電影感光線/戲劇性陰影",
+      "發光/螢光/生物螢光元素",
+      "遞迴/無限循環效果",
+      "黑白單色調與高對比",
+      "藍青色調/冰冷色調",
+      "暖琥珀/秋日大地色調",
+      "鏽蝕舊化金屬/剝落油漆紋理",
+      "淺景深攝影效果",
+      "柔和粉彩色調",
+      "強調材質紋理細節",
+      "特定命名打光效果 (如蝴蝶光/環形燈)"
+    ],
+    "title": "幻境凝露",
+    "prompt": "A surreal, raw candid snapshot: a cream-colored shorthair cat, frozen mid-lick, intently focused on glistening water droplets condensed on a cool, floating pastel-colored marble slab. The marble surface gleams with a liquid metal, mercury-like sheen, reflecting the harsh direct on-camera flash. This flash creates stark, blown-out highlights on the cat and marble, with crisp, hard shadows emphasizing the hyper-real and surreal visual conflict. The surrounding environment is a digitally distorted desert oasis, appearing as a miniature landscape on a levitating platform, heavily influenced by glitch art: visible RGB channel shifts, corrupted data aesthetic, and fragmented scan line artifacts distort the background. The overall color palette features soft pastels—gentle pink, lavender, mint, and baby blue—with dreamy light tones dominating the scene. Shot with a 28mm lens at f/4, capturing a precise, high-detail moment with a subtle film grain for an authentic raw photograph feel. The date and time '2026-02-15 02:25 UTC' is clearly displayed as a visual element within the image, integrated as if a camera timestamp or on-screen overlay.",
+    "idea": "一隻奶油色短毛貓在一個由故障藝術風格渲染的漂浮沙漠綠洲中，專注地舔食著一片表面閃爍液態金屬光澤的冰涼粉彩色大理石上凝結的水珠，由閃光燈直打，創造出超現實的視覺衝突與清爽感。",
+    "news_inspiration": [
+      "在義大利米蘭舉行的2026年冬季奧運會上，巴西運動員Lucas Pinheiro Braathen為該國贏得了史上第一枚冬季奧運會獎牌，獲得男子高山滑雪大迴轉金牌。",
+      "蒙古在2026年前兩個月迎來了超過6萬名國際遊客，比2025年同期增長了33%，顯示其旅遊業正蓬勃發展。",
+      "沙烏地阿拉伯麥加的大清真寺，即使在盛夏時節，其大理石地板也能保持涼爽，這歸因於其獨特的太陽反射率和熱傳導特性。",
+      "菲律賓記錄了一名婦女的特殊案例，她的腋下存在額外的乳腺組織，在哺乳期間會分泌乳汁。"
+    ],
+    "inspiration": "沙烏地阿拉伯麥加的大清真寺，即使在盛夏時節，其大理石地板也能保持涼爽，這歸因於其獨特的太陽反射率和熱傳導特性。"
   }
 ]
