@@ -6636,5 +6636,43 @@
       "簡潔幾何造型與精緻渲染"
     ],
     "inspiration": "original"
+  },
+  {
+    "avoid_list": [
+      "柔和粉彩色調",
+      "夢幻淺色調",
+      "廢棄工業/公共空間",
+      "工業舊化紋理",
+      "織品/編織紋理",
+      "微縮模型效果",
+      "3D等距插畫",
+      "環形燈光",
+      "極低角度構圖",
+      "頂部螢光燈/均勻平板光",
+      "霓虹/螢光色調",
+      "薑黃/橘色虎斑貓",
+      "貓咪專注凝視",
+      "簡潔幾何造型與精緻渲染"
+    ],
+    "inspiration": "在阿根廷海域發現了一種體型如校車般巨大的水母「Stygiomedusa gigantea」，其四條手臂可長達10公尺。",
+    "news_inspiration": [
+      "美國南加州的棕櫚泉正在舉辦一年一度的現代主義週，展示中世紀現代建築、藝術和復古文化。",
+      "加拿大士嘉堡的當河在經過大規模復育後，曾被宣布死亡的河流如今魚類和其他水生物種正在大量回歸。",
+      "澳洲坎培拉舉辦第28屆國家多元文化節，匯集來自世界各地的社區，共同慶祝文化、連結和創意。",
+      "在阿根廷海域發現了一種體型如校車般巨大的水母「Stygiomedusa gigantea」，其四條手臂可長達10公尺。"
+    ],
+    "comment_id": 3903754171,
+    "story": "這隻好奇的貓咪被玻璃展示櫃中水母那校車般的巨大體型所吸引。牠伸出爪子，輕輕探觸玻璃內水母那纖長的觸手，仿佛在進行一場跨越物種的無聲探索。室內陳舊的氛圍與戲劇化的光線，將這平凡的一刻轉化為一幅充滿懷舊感的動人畫面。",
+    "title": "巨影探秘",
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Leather",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "一隻優雅的黑貓在古老自然歷史博物館的皮革桌面上，專注地用前爪輕觸一個巨大的深海水母「Stygiomedusa gigantea」模型。場景以微距攝影捕捉，並透過移軸微縮效果呈現，利用背光/輪廓光勾勒貓咪與水母的輪廓，整體呈現復古褪色色調。",
+    "number": 327,
+    "prompt": "An elegant black cat's front paw gently touching a gigantic 'Stygiomedusa gigantea' deep-sea jellyfish model. The scene is captured with extreme close-up macro photography, using a 35mm lens at f/1.8 aperture, set within an ancient natural history museum. The cat and the jellyfish model are resting on a genuine leather tabletop, which displays a rich grain pattern, warm aged patina, and supple creased surface, indicative of artisanal craftsmanship. Tilt-shift photography is applied to create a miniature toy-like effect, featuring a distinct selective focus band that renders the cat's paw and the jellyfish model in sharp detail, while the foreground and background are softly blurred. Dramatic backlighting provides a strong rim light, outlining the cat and the jellyfish model with glowing silhouette edges, emphasizing fine textures. The overall aesthetic is a retro faded color palette, characterized by washed-out vintage tones and low contrast, evoking a nostalgic film-era warmth. Visually displayed in the image as an on-screen timestamp: 2026-02-15 08:34 UTC."
   }
 ]
