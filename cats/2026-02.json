@@ -6753,5 +6753,34 @@
     ],
     "prompt": "An orthographic projection, technical illustration style image depicting a resolute Maine Coon cat in a vibrant, saturated chromolithograph style with multi-layered printing texture. The cat is intently constructing a small stream ecological purification system using earth-toned branches and pebbles. The setting is a low-poly Canadian forest, characterized by polygon mesh facets, geometric crystalline surfaces, and a digital origami aesthetic, rendered with flat shaded triangular faces. Golden hour lighting permeates the scene, casting a warm sunset glow, long soft shadows, and a distinct golden rim light on the cat, with golden sunlight streaming through low-poly treetops. A few low-poly birds are curiously observing the activity. The color palette emphasizes rich earth tones, including terracotta, olive green, and warm brown, creating natural organic harmony. The composition is a straight-on flat rendering with no perspective distortion. The text '2026-02-15 10:28 UTC' is visually displayed within the image.",
     "number": 329
+  },
+  {
+    "number": 330,
+    "avoid_list": [
+      "移軸微縮效果",
+      "等距構圖",
+      "低多邊形風格",
+      "漂浮平台",
+      "霓虹光/霓虹螢光色",
+      "黃金時刻",
+      "柔和粉彩色系",
+      "大地色系",
+      "透明樹脂質感",
+      "柔和漫射自然光"
+    ],
+    "news_inspiration": [],
+    "title": "塗鴉貓的黃金自拍",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Golden Hour",
+      "texture": "Origami",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "金黃餘暉灑落在城市深處的隱蔽巷弄，一隻黑白相間的街頭貓，尾巴輕搖，嘴裡叼著一罐螢光綠噴漆，正對著一面斑駁的牆壁揮灑。牠機靈地將一面破鏡子靠在牆邊，調整好角度，用沾染著螢光粉紅顏料的爪子按下手機快門，將自己與充滿霓虹活力的半色調塗鴉一同定格在黃金時刻的光影中。",
+    "comment_id": 3904255606,
+    "idea": "一隻塗鴉貓藝術家在廢棄巷弄的磚牆上創作半色調網點風格的霓虹螢光壁畫，透過碎裂的鏡子捕捉黃金時刻下的「鏡子自拍」瞬間，周遭雜物呈現摺紙般的銳利質感。",
+    "prompt": "An illustration of a stylized black and white street cat, a graffiti artist, taking a mirror selfie in an abandoned alleyway. The cat, holding a neon green spray can, uses a paw stained with fluorescent pink paint to press a phone shutter. Behind the cat, a vibrant neon fluorescent mural glows on a brick wall, rendered in a striking halftone dot pattern, showcasing a CMYK print aesthetic with visible dot matrix and retro newspaper print effects. Electric pink, lime green, and hot cyan colors dominate the glowing artwork against the dark background. The mirror selfie is composed through a casually framed, shattered mirror, revealing a clear reflection with an intimate close-up perspective. The scene is illuminated by dramatic golden hour lighting, with a warm sunset glow creating long soft shadows and a strong golden rim light on the cat and mural. Surrounding alleyway debris and objects are depicted in a sharp Origami style, featuring clean geometric creases, angular folds, and a precise paper sculpture aesthetic. The date and time '2026-02-15 11:26 UTC' are visually displayed within the image.",
+    "inspiration": "original"
   }
 ]
