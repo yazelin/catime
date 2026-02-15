@@ -6851,5 +6851,34 @@
     "idea": "一隻毛色沉穩的黑貓，在多倫多唐河畔一處現代化觀景平台邊緣，專注凝視著水面。整個畫面以長曝光攝影捕捉，配合磨砂玻璃般的柔和質感，呈現出莫蘭迪色調的沉靜氛圍。",
     "story": "環形燈的柔和光暈輕撫過河面，在長曝光下形成模糊的光帶與魚群游動的軌跡。貓的剪影透過半透明的磨砂玻璃護欄，疊映在水中倒影的漣漪之上，彷彿層層疊疊的畫中畫，靜謐而深遠。牠的每一次微小顫動都消融在時間的流光中。",
     "title": "唐河疊影"
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Fisheye Lens",
+      "lighting": "Neon Lighting",
+      "texture": "Silk",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "移軸微縮效果",
+      "等距構圖",
+      "低多邊形風格",
+      "漂浮平台",
+      "霓虹光/霓虹螢光色",
+      "黃金時刻",
+      "柔和粉彩色系",
+      "大地色系",
+      "透明樹脂質感",
+      "柔和漫射自然光"
+    ],
+    "prompt": "Psychedelic art illustration of a highly skilled cat, wearing a miniature magnifying glass, intensely focused on repairing the internal wiring of a vintage modular synthesizer. The cat's fur shimmers with electric blue and deep teal tones under the pervasive neon blue-teal lighting that bathes the retro repair shop. The composition features a strong fisheye wide-angle lens perspective, creating exaggerated foreground elements and significant barrel distortion, giving a 360-degree immersive feel. Swirling patterns and melting, distorted forms define the background, where numerous electronic instruments with blinking indicator lights and artfully tangled, soft silk cables are scattered. Vibrant, clashing neon colors dominate the scene, featuring colorful glowing signs and delicate light reflections off luminous, smooth surfaces, evoking a moody urban night atmosphere. The overall color grading is cool blue-teal with icy undertones, establishing a crisp yet serene and calm mood. Visually displayed within the image: '2026-02-15 14:29 UTC'.",
+    "story": "這隻戴著迷你放大鏡的貓咪，牠的毛髮在冷色調的霓虹光下閃爍著電光藍與深青色，正全神貫注地檢查一台古老模組合成器的內部線路。彎曲的視角讓滿屋子閃爍著指示燈的電子儀器與纏繞的絲綢光纜顯得既神秘又充滿活力，彷彿整個空間都在隨著未完成的音波律動。",
+    "comment_id": 3904550765,
+    "idea": "一隻技藝高超的貓咪，在瀰漫著迷幻風格霓虹藍青色燈光的復古模組合成器修理坊中，透過魚眼鏡頭被捕捉到專注維修的場景，柔軟的絲綢線纜與工具錯綜複雜地散落著。",
+    "number": 333,
+    "title": "霓光修音師"
   }
 ]
