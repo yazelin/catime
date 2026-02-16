@@ -7689,5 +7689,41 @@
     "story": "在舞台深處，一束聚光燈精準地捕捉到貓咪優雅的身影。牠揮舞著細長的指揮棒，帶領著由日常廢棄物組成的奇特樂團，演奏著一曲無聲的樂章。那富有表情的動作，彷彿能讓寂靜的空氣也隨之起伏，為空曠的殿堂帶來一絲生機與懷舊。",
     "idea": "一隻身披燕尾服的貓，戴著迷你指揮帽，站在空蕩蕩的古老音樂廳舞台中央，透過極低角度的電影分鏡視角，在聚光燈下指揮一隊由廢棄鐵罐和木勺組成的「交響樂團」，其身後及腳下皆可見清晰的木紋肌理，以黑白單色調呈現戲劇性的氛圍。",
     "comment_id": 3909627984
+  },
+  {
+    "news_inspiration": [],
+    "idea": "在一個以衍紙藝術構建的未來主義黑白單色雪地花園中，鈴鈴戴著由衍紙聖誕紅組成的蝴蝶結，在均勻的螢光燈光下，以等距攝影的視角追逐一道幾何形狀的雪花光影，身後留下蓬鬆的衍紙腳印。",
+    "story": "天真好奇的鈴鈴，誤將未來雪地花園中科技投射出的幾何雪花光影當成蝴蝶。她那以無數白色衍紙條捲成的棉花糖般身軀，笨拙卻充滿活力地朝光影撲去，頸上用衍紙精心製作的聖誕紅蝴蝶結在黑白世界中顯得格外精緻。她身後留下層層堆疊、黑白分明且質感豐厚的衍紙蓬鬆腳印，映襯著充滿未來感的幾何園景與均勻的螢光燈光。",
+    "character": "lingling",
+    "style_picks": {
+      "art_style": "Futurism",
+      "composition": "Isometric Photography",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character_name": "鈴鈴",
+    "prompt": "A perfectly isometric photograph, captured with a 35mm lens at f/2.8, showcasing a candid moment of dynamic motion. The scene depicts Lingling, an extremely fluffy pure white #FFFFFF longhair Ragdoll-like cat, whose voluminous cloud-like fur and enormous feathery white plume tail are meticulously constructed from intricate coiled paper strips and delicate curling loops, giving her a soft, marshmallow-like appearance in the style of 3D dimensional paper quilling art. She has a small round face nearly hidden in her fur, huge round sapphire-blue #0F52BA eyes with a gentle sparkle, and pale pink #FFB6C1 nose and inner ears. Around her neck is a pink #FF69B4 ribbon bow collar, designed with paper quilling poinsettia shapes, featuring a clearly visible and centered small golden #FFD700 bell. Lingling is depicted playfully chasing a bright, geometrically shaped snowflake light projection across a futuristic snow garden, also entirely constructed from finely detailed paper quilling elements with fragmented overlapping forms and an angular kinetic composition, reflecting a Futurism art style. Behind her, layers of textured, black and white paper quilling paw prints trail across the snowy ground. The entire image is rendered in strict black and white monochrome with high contrast and a rich tonal range. The scene is illuminated by overhead neutral white 5000K fluorescent lighting, providing institutional flat illumination with absolutely no shadows. The date and time '2026-02-16 18:03 UTC' are visually displayed as a clean, digital text overlay in the corner of the image. The photograph captures a sense of velocity and energy, presenting a real captured photo with an isometric angle, ensuring no miniature effect.",
+    "inspiration": "original",
+    "number": 356,
+    "comment_id": 3909844491,
+    "is_seasonal": true,
+    "title": "衍紙雪花追逐",
+    "avoid_list": [
+      "貓咪專注於精細任務",
+      "莫蘭迪色調",
+      "沙質紋理或沙漠元素",
+      "奢華金黑配色",
+      "背光與輪廓光",
+      "閃光燈直打",
+      "等距視角",
+      "黑白單色調與高對比",
+      "微縮物件或場景",
+      "木紋肌理",
+      "鏡面反射或遞迴視覺",
+      "科技朋克風格",
+      "廢棄或舊化場景"
+    ],
+    "season": "winter"
   }
 ]
