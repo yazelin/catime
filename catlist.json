@@ -2920,5 +2920,14 @@
     "status": "success",
     "title": "衍紙雪花追逐",
     "season": "winter"
+  },
+  {
+    "number": 357,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-16_1910_UTC.webp",
+    "timestamp": "2026-02-16 19:10 UTC",
+    "status": "success",
+    "inspiration": "2026年2月17日，全球將迎來日環食，屆時月亮將在太陽周圍形成一個薄薄的光環，被稱為「火環」。",
+    "title": "蝕月凝思",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

@@ -7725,5 +7725,43 @@
       "廢棄或舊化場景"
     ],
     "season": "winter"
+  },
+  {
+    "number": 357,
+    "inspiration": "2026年2月17日，全球將迎來日環食，屆時月亮將在太陽周圍形成一個薄薄的光環，被稱為「火環」。",
+    "prompt": "A perfectly isometric oil painting depicting an academic cat within a frost-covered mountain top observatory. The cat, a dramatic glowing silhouette, intently gazes through an antique brass telescope at a spectacular annular solar eclipse, which forms a brilliant golden-orange fiery ring in the deep blue night sky. The scene is rendered with thick impasto brushstrokes, a rich duotone color palette primarily of deep blue and golden-orange, and visible canvas texture. Delicate frost patterns, translucent ice shards, and winter crystalline beauty adorn the observatory's interior surfaces and windows. The cat's figure is sharply outlined by intense backlighting and a strong rim light from the eclipse, creating glowing silhouette edges. The date '2026-02-16 19:10 UTC' is clearly displayed on a digital screen inside the observatory. This artwork possesses a bold graphic impact and a modern design feel, reminiscent of a real captured photo with an isometric angle, avoiding any miniature effect.",
+    "story": "在寒冷而深邃的夜空中，日環食形成一圈耀眼的火環。觀測站內的學術貓，其沉靜的輪廓在布滿冰霜結晶的窗邊，被日環食的金橘色光芒精準勾勒而出。牠專注地調整著望遠鏡，在深藍與金橘的雙色調光線中，彷彿計算著宇宙的奧秘。",
+    "comment_id": 3910157018,
+    "title": "蝕月凝思",
+    "idea": "一幅油畫風格的等距攝影，呈現一隻學術貓在冰霜覆蓋的山頂觀測站內，透過古董黃銅望遠鏡凝視日環食的壯麗景象。",
+    "avoid_list": [
+      "貓咪專注於精細任務",
+      "莫蘭迪色調",
+      "沙質紋理或沙漠元素",
+      "奢華金黑配色",
+      "背光與輪廓光",
+      "閃光燈直打",
+      "等距視角",
+      "黑白單色調與高對比",
+      "微縮物件或場景",
+      "木紋肌理",
+      "鏡面反射或遞迴視覺",
+      "科技朋克風格",
+      "廢棄或舊化場景"
+    ],
+    "news_inspiration": [
+      "2026年2月17日起，法國巴黎將舉辦農曆新年慶祝活動，以色彩繽紛的遊行、舞獅舞龍和傳統市集迎接馬年。",
+      "日本東京將於二月舉辦多場梅花祭，遊客可在歷史悠久的園區中漫步賞花，感受城市逐漸迎來的春意。",
+      "盧安達將於2026年2月22日至3月1日舉辦環盧安達自行車賽，自行車手將在該國鬱鬱蔥蔥的森林和山脈中挑戰耐力。",
+      "2026年2月17日，全球將迎來日環食，屆時月亮將在太陽周圍形成一個薄薄的光環，被稱為「火環」。",
+      "美國田納西州納什維爾新增了兩個公民權利步道景點，展示音樂、文化與社會運動的交織，包括傑斐遜街之聲博物館和基督教福音音樂博物館。"
+    ],
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Isometric Photography",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    }
   }
 ]
