@@ -7497,5 +7497,41 @@
       "全球科學家正在探索如何測量動物的快樂情緒，這項研究旨在超越對負面情緒的量化，深入了解動物的正面感受。",
       "蘇丹古老的紅海港口蘇阿金正進行修復工作，旨在恢復其珊瑚石奧斯曼時代建築的獨特遺產，並重振其作為貿易與旅遊中心的潛力。"
     ]
+  },
+  {
+    "idea": "一隻虎斑貓在加拿大唐河畔一座廢棄的水泵房內，利用生物朋克風格的裝置校準生物聲納，並透過裝置的鏡面螢幕「自拍」，畫面以木紋為主要材質，採用莫蘭迪色調與閃光燈直打的光線效果。",
+    "news_inspiration": [
+      "科學家於2026年2月14日觀測到一個破紀錄的重力波信號，再次驗證了愛因斯坦的廣義相對論，此為一項全球性的科學突破。",
+      "在加拿大安大略省多倫多，曾經嚴重污染的唐河在經過大規模復育後，魚類和其他水生物種正重新繁榮。",
+      "英國薩默塞特首次將河狸重新引入野外，牠們作為「生態系統工程師」有助於減緩水流並改善棲息地。",
+      "在印度加爾各答舉行的2026年T20板球世界盃上，阿富汗隊擊敗阿聯酋隊，保持了晉級超級8強的希望。"
+    ],
+    "prompt": "A tabby cat in an abandoned pump house by Toronto's Don River, caught in a raw candid snapshot. The cat is precisely calibrating a biopunk aesthetic sonar device, with one paw delicately adjusting a wooden knob and the other pressed against its central polished metal reflective screen, taking a mirror selfie. The device is an organic-mechanical hybrid, featuring natural wood grain texture, copper pipes, and subtle bioluminescent elements from mutated flora. Photographed with a harsh direct on-camera flash, creating blown-out highlights and hard shadows that emphasize the visible knots and lines of the wood. The intimate close-up perspective is rendered in a Morandi muted color palette, with desaturated soft pastels and dusty grey undertones. The date and time '2026-02-16 11:41 UTC' are visually displayed in the image.",
+    "story": "在多倫多唐河畔，一隻帶有實用氣質的虎斑貓，正專注地校準著一台由回收木材、銅管與奇特共生植物打造而成的生物聲納裝置。牠一隻爪子輕巧地調整著設備上的木質旋鈕，另一隻則穩穩地按在裝置中央的拋光金屬反射螢幕上，彷彿在為自己的「生物監測任務」拍攝一張鏡子自拍照。閃光燈的直射將粗糙的木紋肌理與裝置的機械細節清晰地刻畫出來，而整體畫面沉浸在柔和而復古的莫蘭迪色調中，營造出一種另類生態科技的寧靜氛圍。",
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Direct Flash",
+      "texture": "Wood Grain",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "河畔生物脈動",
+    "number": 350,
+    "avoid_list": [
+      "移軸微縮效果",
+      "黃金時刻光線",
+      "戲劇性背光與輪廓光",
+      "莫蘭迪色調",
+      "閃光燈直打與硬陰影",
+      "沙質紋理與沙丘波紋",
+      "高對比黑白單色調",
+      "等距3D視角",
+      "四格漫畫排版",
+      "貓咪專注凝視",
+      "幾何造型與線條",
+      "奢華高雅風格"
+    ],
+    "inspiration": "在加拿大安大略省多倫多，曾經嚴重污染的唐河在經過大規模復育後，魚類和其他水生物種正重新繁榮。",
+    "comment_id": 3908019700
   }
 ]
