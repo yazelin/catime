@@ -7763,5 +7763,43 @@
       "texture": "Frost Crystal",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Bird's-Eye View",
+      "lighting": "Bioluminescence",
+      "texture": "3D Render",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "在貢德畫風格的3D渲染中，一隻胖乎乎的貓從鳥瞰視角慵懶地坐在生物發光花朵纏繞的達卡花車頂部，以復古褪色色調將微光的金盞花瓣灑向下方慶祝Pahela Falgun春節的人群。",
+    "title": "春光貓舞花車上",
+    "prompt": "A plump, lazy cat, viewed from a top-down, bird's-eye perspective, sits serenely on an intricately designed Dhaka floral float. The float is completely adorned with bioluminescent flowers, emitting an organic, deep blue-green radiance and an ethereal natural light, reminiscent of underwater phosphorescence. The cat is actively sprinkling shimmering marigold petals downwards onto a vibrant crowd celebrating the Pahela Falgun spring festival below. This entire scene is a polished 3D render in the style of Gond painting, characterized by intricate dot and line patterns and nature-inspired motifs, drawing from Indian tribal folklore. The rendering features smooth materials, clean geometry, and a distinct Cinema 4D aesthetic. The color palette is retro faded, with washed-out vintage tones and low contrast, creating a nostalgic film-era warmth, while still allowing the inherent vibrant colors of Gond art to shine through. The date and time '2026-02-16 20:34 UTC' are visually displayed within the image.",
+    "inspiration": "孟加拉國達卡民眾於2026年2月14日慶祝「Pahela Falgun」春季節日，標誌著孟加拉曆的第十一個月和春天的開始。",
+    "news_inspiration": [
+      "在美國紐奧良，一些狂歡節團體正在用玻璃珠替代塑膠珠作為遊行拋擲物，以促進環保。",
+      "孟加拉國達卡民眾於2026年2月14日慶祝「Pahela Falgun」春季節日，標誌著孟加拉曆的第十一個月和春天的開始。",
+      "在哥倫比亞巴蘭幾亞，狂歡者們正沉浸在嘉年華的古老傳統中。",
+      "一位印度教師因創建數百個學習中心而榮獲一百萬美元的全球教師獎。",
+      "加拿大殘奧運動員吉米·佩爾蒂埃在泰國曼谷展開他全球自行車之旅的第五階段，推廣共融與理解。"
+    ],
+    "story": "春日初臨，萬物復甦，達卡的Pahela Falgun節慶氛圍瀰漫。這隻毛茸茸的貓咪被節日的歡愉感染，揮灑著花瓣，彷彿在分享春天的祝福與光芒，為熱鬧的市場增添了一抹獨特的寧靜與魅力。",
+    "avoid_list": [
+      "貓咪專注於精細任務",
+      "莫蘭迪色調",
+      "沙質紋理或沙漠元素",
+      "奢華金黑配色",
+      "背光與輪廓光",
+      "閃光燈直打",
+      "等距視角",
+      "黑白單色調與高對比",
+      "微縮物件或場景",
+      "木紋肌理",
+      "鏡面反射或遞迴視覺",
+      "科技朋克風格",
+      "廢棄或舊化場景"
+    ],
+    "comment_id": 3910415781,
+    "number": 358
   }
 ]
