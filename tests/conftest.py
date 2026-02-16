@@ -9,7 +9,8 @@ import pytest
 @pytest.fixture
 def mock_openai(monkeypatch):
     mock = MockOpenAI()
-    monkeypatch.setattr("openai", mock)
+    import sys
+    monkeypatch.setitem(sys.modules, "openai", mock)
     return mock
 
 @pytest.fixture
