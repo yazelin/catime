@@ -2842,5 +2842,16 @@
     "number": 348,
     "status": "success",
     "title": "分形凝視"
+  },
+  {
+    "number": 349,
+    "status": "success",
+    "character": "captain",
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "船長",
+    "timestamp": "2026-02-16 10:53 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-16_1053_UTC.webp",
+    "inspiration": "在西澳大利亞，一名13歲的澳洲少年在家人被海浪捲走後，奮力游了4公里報警求援，最終成功挽救了家人生命，展現了非凡的勇氣。",
+    "title": "浪尖孤勇"
   }
 ]

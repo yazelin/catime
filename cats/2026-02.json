@@ -7455,5 +7455,47 @@
     "number": 348,
     "title": "分形凝視",
     "prompt": "Professional isometric photography capturing Momo, a sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat with satin-sheen fur, displaying warm brown undertones as tonal variations in black and white. She exhibits athletic proportions, visible muscle definition, and a slight upward curl at the tail tip. A single small gold hoop earring (#FFD700, 3mm) is present on her LEFT ear (viewer perspective) at the mid-ear edge. A tiny natural white locket tuft (#FFFFFF) of fur adorns her ventral chest. Her tail tip features a single dark-grey (#696969) ring. Her large, luminous eyes, inherently golden-amber (#D4A017), appear as striking bright amber-like tones within the monochrome. Long, prominent white whiskers frame her calm and attentive expression. She wears no collar, bandana, or necklace. Momo is elegantly perched on a rusted steel fractal sculpture base, positioned within a contemporary art museum. The museum's architecture is constructed in a fractal geometry style, showcasing infinite recursive detail and mathematical beauty, reminiscent of intricate Mandelbrot patterns. Momo gazes intently at a complex fractal art piece displayed on the opposite wall. The museum's walls and floors exhibit deeply rusted and weathered metal textures, with oxidized patina, peeling paint layers, and clear signs of aged industrial decay, all rendered with a rich tonal range in the monochrome. The image is a real captured photograph from a perfectly isometric angle, with no miniature effect, ensuring sharp focus throughout. A classic three-point studio lighting setup illuminates the scene: a key light creating soft shadows, a fill light balancing tones, and a subtle rim light providing clear subject separation. The entire photograph is presented in high contrast black and white monochrome, featuring dramatic shadows and highlights, imparting a classic, aged photographic quality. Visually displayed in the image: '2026-02-16 09:56 UTC'."
+  },
+  {
+    "number": 349,
+    "character": "captain",
+    "character_name": "船長",
+    "inspiration": "在西澳大利亞，一名13歲的澳洲少年在家人被海浪捲走後，奮力游了4公里報警求援，最終成功挽救了家人生命，展現了非凡的勇氣。",
+    "story": "狂風驟雨之夜，船長巡邏至港口防波堤，銳利的翠綠右眼（在黑白畫面中藉由眼神表現）穿透雨幕，發現一隻被海浪捲入的幼貓在掙扎。牠一反平時的沉穩，迅速而果斷地跳入濕滑的岩石間，用牠寬厚的身體擋住洶湧的波浪，最終將顫抖的小貓引導至安全處，默默地為其遮風擋雨，再次展現了碼頭老大的風範。",
+    "idea": "一幅四格漫畫，以充氣PVC材質和黑白單色呈現，描繪船長在狂風暴雨的防波堤上，背光襯托出其威武輪廓，從波濤中英勇拯救一隻受困小貓的動人瞬間。",
+    "comment_id": 3907787726,
+    "avoid_list": [
+      "微縮模型效果",
+      "移軸鏡頭/選擇性對焦",
+      "黃金時刻光線/長影",
+      "戲劇性背光/輪廓光",
+      "冷藍綠色調/冰冷底色",
+      "體素/低多邊形藝術風格",
+      "魚眼廣角鏡頭/桶狀畸變",
+      "黏土/陶瓷質感",
+      "視覺化時間戳記",
+      "貓咪操作複雜機械",
+      "探索發光/半透明物體",
+      "廢棄/工業風場景",
+      "莫蘭迪色調/柔和低飽和",
+      "織品/布料紋理",
+      "等距視角/3D渲染"
+    ],
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Symmetrical Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "A dramatic four-panel comic strip layout, rendered in black and white monochrome with high contrast and a rich tonal range. The art style features inflatable PVC material, giving all elements a high-gloss, balloon-like surface with puffy, rounded forms and an air-filled tension. The mood is dramatic, depicting a heroic rescue on a storm-battered breakwater. Strong backlighting with rim light creates glowing silhouette edges, outlining subjects with light and casting dramatic shadows and highlights. The characters are expressive.\n\nPanel 1: The Captain (a large stocky brown classic tabby cat) patrols the stormy breakwater, his imposing silhouette strikingly backlit against the tempest. Wind and torrential rain lash down, creating dynamic motion.\nPanel 2: His single piercing emerald green #50C878 right eye, strikingly rendered within the monochrome to convey its piercing quality, cuts through the rain and gloom, spotting a tiny, struggling kitten caught by surging waves amidst treacherous, slippery rocks below.\nPanel 3: Abandoning his usual composure, the Captain makes a decisive, powerful leap onto the wet rocks. He uses his broad, muscular body to shield the terrified kitten from the relentless, high-contrast waves, showing his resolve.\nPanel 4: The Captain gently guides the trembling kitten to safety on a higher, sheltered ledge, silently providing protection from the harsh elements. His actions exemplify the unwavering demeanor of a true dock boss.\n\nThe Captain is a large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes and a broad, muscular build. His fur texture is scruffy, untidy, slightly coarse with uneven lengths, even as conveyed through the PVC material style. His LEFT eye (from the viewer's perspective) is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket (this is a fur marking, NOT a fabric or leather eye patch, NO straps). His RIGHT eye is a single piercing emerald green #50C878. He has a prominent V-shaped notch on his LEFT ear. A faded red #CD5C5C bandana is tied loosely around his neck and is visible. He has a white #FFFFFF chest bib and white mitten paws on all four feet. A distinctive M-mark is on his forehead. His tail is thick and sturdy. The kitten is small and distressed.\n\nVisually displayed within the image: '2026-02-16 10:53 UTC'.",
+    "title": "浪尖孤勇",
+    "news_inspiration": [
+      "2026年冬季奧運會正在義大利米蘭-科爾蒂納舉行，全球頂尖運動員齊聚一堂，爭奪各項冬季運動的殊榮。",
+      "在馬來西亞，Batik Air航空公司為農曆新年旅遊高峰推出了固定票價和額外航班，以確保旅客在全國最繁忙的旅行時期能有價格穩定性和更多選擇。",
+      "在西澳大利亞，一名13歲的澳洲少年在家人被海浪捲走後，奮力游了4公里報警求援，最終成功挽救了家人生命，展現了非凡的勇氣。",
+      "全球科學家正在探索如何測量動物的快樂情緒，這項研究旨在超越對負面情緒的量化，深入了解動物的正面感受。",
+      "蘇丹古老的紅海港口蘇阿金正進行修復工作，旨在恢復其珊瑚石奧斯曼時代建築的獨特遺產，並重振其作為貿易與旅遊中心的潛力。"
+    ]
   }
 ]
