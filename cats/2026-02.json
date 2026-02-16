@@ -7533,5 +7533,36 @@
     ],
     "inspiration": "在加拿大安大略省多倫多，曾經嚴重污染的唐河在經過大規模復育後，魚類和其他水生物種正重新繁榮。",
     "comment_id": 3908019700
+  },
+  {
+    "idea": "在一家燭光搖曳的隱密地下酒吧中，一隻毛茸茸的黑貓正在光滑的透明樹脂吧檯後，以運動追焦的超廣角視角，極速地搖晃著調酒器，周遭是奢華的金色與黑色流動光影。",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Candlelight",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "移軸微縮效果",
+      "黃金時刻光線",
+      "戲劇性背光與輪廓光",
+      "莫蘭迪色調",
+      "閃光燈直打與硬陰影",
+      "沙質紋理與沙丘波紋",
+      "高對比黑白單色調",
+      "等距3D視角",
+      "四格漫畫排版",
+      "貓咪專注凝視",
+      "幾何造型與線條",
+      "奢華高雅風格"
+    ],
+    "prompt": "A dynamic sports panning photograph, captured with an ultra wide angle 12-18mm lens, showcasing dramatic perspective distortion and an expansive field of view. The composition features a furry black cat, frozen in sharp focus by a high shutter speed, rapidly shaking a metallic cocktail shaker behind a translucent resin bar counter. The counter possesses a glossy smooth surface, amber-like clarity, with subtle embedded elements visible inside. The background, representing a hidden underground bar with customers, is rendered with strong motion blur, emphasizing the cat's intense speed and dynamic energy. The scene is illuminated by intimate candlelight, casting a warm orange flickering glow and soft dancing shadows. The luxurious gold and black color scheme is prominent, with opulent metallic gold accents contrasting against a deep black background. Visually displayed in the image: 2026-02-16 13:06 UTC. This is a realistic photograph.",
+    "story": "夜色深沉，這間隱密的地下酒吧裡只有冰塊與調酒器碰撞的清脆聲。貓咪酒保在燭光下，以驚人的速度將金色的烈酒與深邃的香料調和，牠專注的眼神與模糊的肢體動作形成對比，背景是透過超廣角鏡頭捕捉到的、融於奢華金黑光影中的顧客群像。",
+    "title": "燭光調酒師",
+    "inspiration": "original",
+    "number": 351,
+    "news_inspiration": [],
+    "comment_id": 3908409052
   }
 ]
