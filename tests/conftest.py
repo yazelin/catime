@@ -16,5 +16,6 @@ def mock_openai(monkeypatch):
 @pytest.fixture
 def mock_gemini(monkeypatch):
     mock = MockGemini()
-    monkeypatch.setattr("gemini", mock)
+    import sys
+    monkeypatch.setitem(sys.modules, "gemini", mock)
     return mock
