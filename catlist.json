@@ -2804,5 +2804,14 @@
     "character": "mochi",
     "inspiration": "義大利美食文化被聯合國教科文組織列入文化遺產名錄，以表彰其作為家庭和社區社會儀式的意義。",
     "status": "success"
+  },
+  {
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "日本東京正舉辦2026年惠比壽國際藝術與另類影像展，透過多元的展覽和放映，慶祝視覺文化的豐富性。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-16_0606_UTC.webp",
+    "timestamp": "2026-02-16 06:06 UTC",
+    "number": 345,
+    "title": "歐普幻境"
   }
 ]
