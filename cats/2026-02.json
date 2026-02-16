@@ -7413,5 +7413,47 @@
     "number": 347,
     "story": "在一家傳承多年的日式便當店裡，午餐時段的廚房總是熱氣騰騰。從鳥瞰的角度看去，一隻米白色虎斑貓戴著一頂小巧的廚師帽，專注地將切成花朵狀的醃蘿蔔放入一個微型便當格中。周圍的料理台上擺滿了以莫蘭迪色調呈現的各式食材：淡雅的烤鮭魚塊、柔和的玉子燒片和點綴著細緻海苔的白飯，一切都在直射閃光燈下投射出清晰的短影，帶著粉筆畫般的顆粒質感和沙質紋理。",
     "title": "便當貓的午餐協奏"
+  },
+  {
+    "avoid_list": [
+      "微縮模型效果",
+      "移軸鏡頭/選擇性對焦",
+      "黃金時刻光線/長影",
+      "戲劇性背光/輪廓光",
+      "冷藍綠色調/冰冷底色",
+      "體素/低多邊形藝術風格",
+      "魚眼廣角鏡頭/桶狀畸變",
+      "黏土/陶瓷質感",
+      "視覺化時間戳記",
+      "貓咪操作複雜機械",
+      "探索發光/半透明物體",
+      "廢棄/工業風場景",
+      "莫蘭迪色調/柔和低飽和",
+      "織品/布料紋理",
+      "等距視角/3D渲染"
+    ],
+    "news_inspiration": [
+      "由法國及英國科學家組成的國際團隊，透過分析卡西尼號數據發現，土星衛星「土衛二」對其周圍空間具有超過50萬公里範圍的強大電磁影響力，此研究有助於理解木星冰衛星周圍的相似系統。",
+      "2026年NBA全明星賽在美國洛杉磯舉行，新的賽制廣受好評，年輕的美國明星隊擊敗了經驗豐富的美國條紋隊，而安東尼·愛德華茲榮獲最有價值球員。",
+      "在中國山西的春運路線上，「溫馨驛站」為歸鄉旅客提供熱騰騰的當地美食和非遺剪紙等傳統年俗活動，讓旅途充滿溫暖和年味。",
+      "全球矚目的巴西里約熱內盧嘉年華慶典在二月中旬達到高潮，以其無拘無束的歡樂、華麗的服裝和社區盛宴迎接大齋期前的到來。",
+      "沙烏地阿拉伯的阿爾烏拉藝術節於2026年2月1日開幕，展示了來自該地區和國際藝術家的80件作品，旨在體現未來阿爾烏拉當代藝術博物館的策展理念。"
+    ],
+    "character": "momo",
+    "inspiration": "沙烏地阿拉伯的阿爾烏拉藝術節於2026年2月1日開幕，展示了來自該地區和國際藝術家的80件作品，旨在體現未來阿爾烏拉當代藝術博物館的策展理念。",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Fractal Geometry",
+      "composition": "Isometric Photography",
+      "lighting": "Three-Point Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "在一座以分形幾何風格構建的當代美術館中，墨墨優雅地棲息於一個鏽蝕鋼製的分形雕塑基座上，以等距攝影的視角捕捉，畫面在三點打光下呈現黑白單色調與舊化質感。",
+    "story": "墨墨修長的身影在美術館的幾何空間中顯得格外突出。牠金琥珀色的眼睛專注地凝視著對面牆上一幅由複雜分形圖案構成的藝術品，彷彿在解讀其無盡的奧秘。周圍的一切，從牆壁到地板，都呈現出經過風霜洗禮的鐵鏽舊化質感，而墨墨胸前那撮雪白的「領結」則成為畫面中唯一的溫暖焦點。",
+    "comment_id": 3907516529,
+    "number": 348,
+    "title": "分形凝視",
+    "prompt": "Professional isometric photography capturing Momo, a sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat with satin-sheen fur, displaying warm brown undertones as tonal variations in black and white. She exhibits athletic proportions, visible muscle definition, and a slight upward curl at the tail tip. A single small gold hoop earring (#FFD700, 3mm) is present on her LEFT ear (viewer perspective) at the mid-ear edge. A tiny natural white locket tuft (#FFFFFF) of fur adorns her ventral chest. Her tail tip features a single dark-grey (#696969) ring. Her large, luminous eyes, inherently golden-amber (#D4A017), appear as striking bright amber-like tones within the monochrome. Long, prominent white whiskers frame her calm and attentive expression. She wears no collar, bandana, or necklace. Momo is elegantly perched on a rusted steel fractal sculpture base, positioned within a contemporary art museum. The museum's architecture is constructed in a fractal geometry style, showcasing infinite recursive detail and mathematical beauty, reminiscent of intricate Mandelbrot patterns. Momo gazes intently at a complex fractal art piece displayed on the opposite wall. The museum's walls and floors exhibit deeply rusted and weathered metal textures, with oxidized patina, peeling paint layers, and clear signs of aged industrial decay, all rendered with a rich tonal range in the monochrome. The image is a real captured photograph from a perfectly isometric angle, with no miniature effect, ensuring sharp focus throughout. A classic three-point studio lighting setup illuminates the scene: a key light creating soft shadows, a fill light balancing tones, and a subtle rim light providing clear subject separation. The entire photograph is presented in high contrast black and white monochrome, featuring dramatic shadows and highlights, imparting a classic, aged photographic quality. Visually displayed in the image: '2026-02-16 09:56 UTC'."
   }
 ]
