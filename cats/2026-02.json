@@ -7258,5 +7258,47 @@
       "視覺化時間戳記",
       "貓咪專注細節工作"
     ]
+  },
+  {
+    "idea": "一幅四格漫畫，以移軸微縮效果呈現，在黃金時刻的柔和光線下，色彩為粉彩色系，並帶有織品/布料質感。麻糬在一個熱鬧的戶外義大利美食文化節中，鬼鬼祟祟地試圖「參與」美食製作。",
+    "character": "mochi",
+    "prompt": "A four-panel comic strip layout, designed as a colorful manga page with expressive characters and humor. The artwork features an artistic rendering simulating a Tilt-shift miniature effect, characterized by a selective focus band that makes the bustling outdoor Italian food culture festival in a vibrant market square appear like charming miniature toys. The entire scene is bathed in enchanting golden hour lighting, providing a warm sunset glow, long soft shadows, and a gentle golden rim light on subjects. The color palette is composed of soft pastels, including gentle pinks, lavenders, mints, and baby blues, creating a dreamy light tone, yet with vibrant saturated accents for key elements like food and the main character. A discernible woven fabric texture is integrated throughout the illustration, showcasing visible threads and a linen or cotton weave pattern, imparting a tactile, soft appearance to all depicted elements.\n\nThe protagonist is Mochi, a chubby, rounded shorthair cat. Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches. Its RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, while its LEFT front paw is pure white #FFFFFF. Mochi has a white belly, large round amber #FFBF00 eyes, and a pink #FFB6C1 nose with a tiny orange center dot. Its tail features orange-and-white ringed bands, and it has short stubby legs and a spherical torso. All orange patches are solid, with no tabby stripes.\n\n**Panel 1 (Top-Left):** Mochi's curious, large round amber #FFBF00 eyes are wide open, observing a busy pasta stall. Its spherical body and white #FFFFFF base coat are prominent, with the orange #FF8C00 mask on its RIGHT half-face clearly visible. The rich aroma of tomato and basil fills the miniature-like market square.\n**Panel 2 (Top-Right):** Mochi, with its short stubby legs, cleverly uses wooden boxes filled with ingredients as cover. It extends its solid orange #FF8C00 mitten (RIGHT front paw) stealthily towards a small, freshly baked piece of cheese from a counter. Its LEFT front paw is pure white #FFFFFF.\n**Panel 3 (Bottom-Left):** Having successfully snatched the cheese, Mochi quickly scurries away, its heart-shaped orange #FF8C00 saddle visible on its dorsal back. A glimpse of its white belly is shown as it makes its escape.\n**Panel 4 (Bottom-Right):** Mochi is contentedly curled up inside a perfectly sized wicker basket, its large round amber #FFBF00 eyes squinted in bliss, a tiny smudge of orange-red sauce adorably clinging to its pink #FFB6C1 nose with its tiny orange center dot. Its orange-and-white ringed tail is tucked around its spherical body for a nap.\n\nThe text '2026-02-16 04:37 UTC' is visually displayed as a subtle graphic element within one of the comic strip panels.",
+    "story": "在熙熙攘攘的市集廣場上，麻糬圓滾滾的身影被濃郁的番茄與羅勒香氣吸引。牠先是睜大圓眼觀察忙碌的義大利麵攤，接著巧妙地利用裝滿食材的木箱作掩護，伸出橘色的「手套」前腳，試圖偷走一小塊剛出爐的起司。最後，成功得逞的麻糬滿足地鑽進一個剛好塞滿牠胖身軀的藤編籃中，瞇著眼打起幸福的小呼，鼻頭還沾著一小點橘紅的醬汁。",
+    "title": "義式竊香客",
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Golden Hour",
+      "texture": "Fabric / Textile",
+      "color_palette": "Pastel Colors"
+    },
+    "news_inspiration": [
+      "由於地層下陷的風險，瑞典基律納一座有113年歷史的教堂成功搬遷至新址。",
+      "印度孟買的桑賈伊·甘地國家公園最近誕生了三隻小獅子，為公園增添了新成員。",
+      "埃及西奈半島的考古學家發現了一處擁有萬年歷史的岩石藝術遺址。",
+      "在美國，一名婦女在Waymo自動駕駛計程車上產下嬰兒，成為一則奇聞。",
+      "義大利美食文化被聯合國教科文組織列入文化遺產名錄，以表彰其作為家庭和社區社會儀式的意義。"
+    ],
+    "character_name": "麻糬",
+    "number": 344,
+    "comment_id": 3906389667,
+    "inspiration": "義大利美食文化被聯合國教科文組織列入文化遺產名錄，以表彰其作為家庭和社區社會儀式的意義。",
+    "avoid_list": [
+      "魚眼鏡頭廣角畸變",
+      "冰冷藍青色調靜謐氛圍",
+      "霓虹燈光城市夜景",
+      "復古褪色懷舊暖調",
+      "莫蘭迪色調靜謐優雅",
+      "黏土質感手工痕跡",
+      "遞迴構圖畫中畫",
+      "廢棄老舊場景",
+      "底片顆粒攝影質感",
+      "強烈輪廓光",
+      "摺紙幾何低多邊形",
+      "精緻3D渲染",
+      "動態模糊光影軌跡",
+      "視覺化時間戳記",
+      "貓咪專注細節工作"
+    ]
   }
 ]
