@@ -7839,5 +7839,43 @@
     "title": "冰刻漁蹤頌",
     "comment_id": 3910596758,
     "inspiration": "據報導，加拿大多倫多的唐河（Don River）正迎來魚群大量回歸，顯示當地水域生態環境改善。"
+  },
+  {
+    "inspiration": "巴西里約熱內盧的嘉年華慶典持續熱鬧進行，充滿桑巴遊行和華麗服飾。",
+    "number": 360,
+    "idea": "在里約熱內盧嘉年華的絢麗花車上，一隻穿著霓虹螢光色天鵝絨服飾的貓咪，正以交叉沖洗風格的等距攝影捕捉其面部蝴蝶光，專注地敲擊著迷你手鼓，周圍是狂歡的人群。",
+    "title": "狂歡桑巴貓",
+    "avoid_list": [
+      "2026-02-16 UTC 的日期時間顯示",
+      "莫蘭迪色調與去飽和柔和粉彩",
+      "清晰可見的天然木紋肌理",
+      "極低角度仰視視角",
+      "單束聚光燈與深邃暗部",
+      "生物發光元素",
+      "冰霜結晶與冰晶結構",
+      "鳥瞰或俯瞰視角",
+      "黑白單色調與高對比",
+      "貓咪修理或校準精密裝置",
+      "廢棄或隱密場所",
+      "等距攝影或油畫風格",
+      "燭光搖曳與柔和光影",
+      "微縮世界效果"
+    ],
+    "news_inspiration": [
+      "國際天文學家團隊在一個遙遠的行星系統中，發現一顆顛覆傳統行星形成理論的「由內而外」運行岩石行星。",
+      "在斯里蘭卡帕勒克勒國際板球體育場舉行的T20板球世界盃中，斯里蘭卡選手帕圖姆·尼桑卡打出百年得分，帶領球隊擊敗澳洲隊。",
+      "在德國不萊梅，一隻受傷的鸕鷀鳥啄急診室的門求助，隨後獲得醫護人員和消防員的成功救治。",
+      "巴西里約熱內盧的嘉年華慶典持續熱鬧進行，充滿桑巴遊行和華麗服飾。"
+    ],
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Isometric Photography",
+      "lighting": "Butterfly Lighting",
+      "texture": "Velvet",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A real captured photograph, perfectly isometric composition, taken at the Rio de Janeiro Carnival Sambadrome. The image showcases a vibrant float with a cat as the focal point. The cat is wearing a luxurious neon fluorescent velvet outfit in electric pink, lime green, and hot cyan, exhibiting deep pile softness, rich color saturation, and a light-absorbing matte surface, glowing against the dark night background. The cat is intently focused, rhythmically tapping a shiny mini hand drum. Glamour portrait lighting illuminates the cat's face with exquisite butterfly lighting, an overhead key light creating soft, even illumination and a symmetrical shadow under its nose. The entire photo is processed in a cross-processing print style, featuring experimental color shifts, surreal unconventional hues, heightened contrasts, and an unpredictable retro vintage color cast. No miniature effect. The text '2026-02-16 22:30 UTC' is visibly displayed as a digital overlay within the image. Captured with a 35mm prime lens, f/2.8 aperture, sharp focus on the cat, natural light augmented by stage lighting, low ISO for minimal grain.",
+    "comment_id": 3910780048,
+    "story": "桑巴大道上，電力十足的霓虹燈光照亮了夜空，將貓咪華麗的絲絨服飾映襯得格外奪目。牠的爪子輕快地敲擊著閃亮的迷你手鼓，為遊行隊伍增添了獨特的節奏，吸引著所有目光。等距攝影的視角讓整個花車顯得既氣派又帶有精緻的舞台感，捕捉了這隻貓咪成為狂歡焦點的瞬間。"
   }
 ]
