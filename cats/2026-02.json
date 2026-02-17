@@ -8063,5 +8063,43 @@
       "鳥瞰視角",
       "迷你表演樂器"
     ]
+  },
+  {
+    "avoid_list": [
+      "等距攝影/插圖",
+      "黑白單色調",
+      "燭光照明",
+      "冰霜結晶紋理",
+      "鏽蝕工業質感",
+      "背光勾勒輪廓",
+      "貓咪操作控制台/搖桿",
+      "嘉年華貓咪主題",
+      "觀測站/控制室場景",
+      "日環食景象",
+      "復古褪色色調",
+      "霓虹螢光色元素",
+      "鳥瞰視角",
+      "迷你表演樂器"
+    ],
+    "number": 366,
+    "inspiration": "湯加群島的霍姆礁火山持續增長其陸地面積，衛星監測顯示其自2025年12月以來火山活動加劇。",
+    "prompt": "A focused orange cat inside a minimalist science tent, situated on the rugged terrain of the Tonga Hunga Ha'apai volcanic island. The cat is intently viewing a translucent screen displaying real-time volcanic thermal data. Crucially, the cat's own heat signature is visibly reflected on the screen, creating a mirror selfie composition within the display. The date and time '2026-02-17 08:05 UTC' are clearly displayed on the screen interface. The image is rendered in a vivid thermal imaging style, utilizing a heat map color gradient and infrared vision, showcasing temperature visualization across a red-yellow-blue spectrum. This is a highly polished 3D render, featuring smooth materials, clean geometry, and soft global illumination, embodying a distinct Cinema 4D aesthetic. Lighting employs a classic three-point setup: a key light casting soft shadows, a fill light gently softening the scene, and a subtle rim light providing separation, highlighting the cat's intense expression and the surrounding scientific instruments. The composition is an intimate close-up perspective with casual framing and visible reflection. The overall color grading is warm amber, featuring an autumn palette of golden yellows and burnt orange, evoking a cozy nostalgic warmth.",
+    "comment_id": 3912949772,
+    "story": "這隻名叫「熔岩」的橘貓，是個天生的地質學家，總被地球深處的能量吸引。牠在火山前線的帳篷裡，利用最先進的熱成像技術，監測著新生陸地的每一寸變化。帳篷內外微弱的熱源與作業燈光，以三點打光的方式映照出牠專注的神情與周圍的3D渲染科學儀器，一切都沉浸在琥珀與秋日的暖色調中，宛如一幅熱能畫卷。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "3D Render",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "礁嶼暖映",
+    "idea": "一隻橘貓身處湯加霍姆礁火山島上簡易的科學帳篷內，透過熱成像風格，正專注於一個顯示火山實時熱數據的半透明螢幕，其熱能反射在螢幕上形成鏡子自拍構圖。",
+    "news_inspiration": [
+      "日本選手在義大利米蘭冬奧會的花樣滑冰雙人項目中奪得金牌，創下日本在該項目上的首枚奧運獎牌，並追平日本冬奧獎牌總數紀錄。",
+      "菲律賓馬尼拉的華人社區正熱烈慶祝農曆新年，整個彬倫洛區都佈滿了紅色和金色的裝飾。",
+      "肯亞蒙巴薩的海岸酒店正大力發展康體旅遊，增設水療設施以吸引尋求身心健康的旅客。",
+      "湯加群島的霍姆礁火山持續增長其陸地面積，衛星監測顯示其自2025年12月以來火山活動加劇。"
+    ]
   }
 ]
