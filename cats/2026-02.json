@@ -8548,5 +8548,43 @@
     "number": 378,
     "story": "夜幕低垂，船長在結束港口的巡邏後，習慣性地走進這間老酒吧。他靜靜地跳上吧檯前的高凳，看著鏡中映出的自己。那獨眼的堅毅與歲月刻下的痕跡，在螢光燈下顯得格外滄桑，一如這片牠守護的海域，充滿著不為人知的故事。",
     "news_inspiration": []
+  },
+  {
+    "number": 379,
+    "idea": "一隻橘色虎斑貓在羅安達嘉年華的中心舞台上，以墨流藝術風格呈現，正專注地敲擊著非洲手鼓。畫面採用對稱構圖，高飽和的鮮豔色彩在空中交織成體積光束，照亮了帶有木紋質感的鼓身與貓咪，營造出節慶的迷幻氛圍。",
+    "comment_id": 3917212217,
+    "story": "在羅安達的狂歡盛會中，這隻貓咪以其熱情的鼓點點燃了群眾的情緒。牠的每一次擊打都讓空氣中的彩色墨流波動，將節奏與色彩融為一體，吸引著四面八方的遊客駐足欣賞，沉醉在這場視覺與聽覺的饗宴中。",
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Symmetrical Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "貓咪專注修復古老物件",
+      "透過反射形成的鏡子自拍構圖",
+      "電影感打光與戲劇性陰影",
+      "復古褪色調與懷舊溫暖氛圍",
+      "大地色系與赤陶綠棕配色",
+      "等距視角或3D插畫風格",
+      "淺景深與奶油散景效果",
+      "閃光燈直打造成強烈陰影",
+      "漂浮島嶼場景",
+      "街頭攝影風格",
+      "低多邊形或黏土動畫風格",
+      "霓虹燈光與螢光色彩",
+      "可見膠片顆粒",
+      "暖琥珀色調與秋日金黃配色"
+    ],
+    "title": "彩墨鼓韻",
+    "prompt": "An orange tabby cat, depicted in a Suminagashi art style, intensely playing an African hand drum at the heart of the Luanda Carnival center stage. The artistic style features Japanese paper marbling with floating concentric ink patterns and delicate ethereal swirls throughout the scene, where every drum beat seems to cause the air to ripple with vibrant color. The composition is perfectly symmetrical, with the cat and drum centered, creating a mirror-like balance. Dynamic volumetric lighting fills the atmosphere, casting visible god rays and light beams that appear as high saturation vivid colors and bold vibrant hues interweaving in the air, catching dust particles and creating dramatic depth. These luminous beams highlight the natural wood grain texture of the drum, rendered with rich warm tones, and illuminate the cat. The overall image exudes an energetic palette and eye-catching contrast, capturing a mesmerizing festival atmosphere. The date and time '2026-02-17 21:37 UTC' are visually integrated as a glowing element within the stage design.",
+    "inspiration": "安哥拉首都羅安達舉辦了盛大的嘉年華會，展示了該國豐富的文化特色，吸引了當地民眾和外國遊客。",
+    "news_inspiration": [
+      "中國外交部宣布自2026年2月17日起，加拿大和英國公民可免簽證入境中國30天，以促進跨境旅遊。",
+      "安哥拉首都羅安達舉辦了盛大的嘉年華會，展示了該國豐富的文化特色，吸引了當地民眾和外國遊客。",
+      "美國佛羅里達州奧蘭多附近的迪士尼世界體育中心將於2026年2月舉辦青少年旗式橄欖球世界錦標賽，預計將有近千支隊伍參與。",
+      "德國呂根島因嚴寒和降雪變成冬季仙境，其壯麗的塞林碼頭在燈光映照下吸引了眾多遊客。"
+    ]
   }
 ]
