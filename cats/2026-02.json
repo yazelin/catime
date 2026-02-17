@@ -8322,5 +8322,47 @@
       "科技控制室/研究基地",
       "玩偶般亮面塑膠質感"
     ]
+  },
+  {
+    "idea": "一幅以白板記號筆畫風格呈現的等距視角畫面，墨墨優雅地坐在一座大理石古董展示櫃頂端，一隻前掌輕輕旋轉著古老的渾天儀，透過窗戶靜靜觀察窗外朦朧的日偏食。環形燈光柔和地勾勒出其黑色的輪廓，並輕柔地照亮了略帶紋理的大理石表面，整體呈現黑白單色調。",
+    "news_inspiration": [
+      "斯里蘭卡成為2026年最經濟實惠的退休目的地，吸引了尋求高品質低成本生活的人們。",
+      "菲律賓的醫生記錄了一名婦女腋下能分泌乳汁的罕見病例，因為她出生時腋下有額外的乳腺組織。",
+      "南非大部分地區今天將能觀測到一次局部日食，月球將部分遮蔽太陽，創造出有趣的景象。",
+      "由於旅遊、零售和家庭支出增加，預計印尼的農曆新年假期將產生超過5億美元的經濟活動。",
+      "美國饒舌歌手Pitbull計劃在英國倫敦海德公園的音樂節上，嘗試創造一項聚集最多戴假光頭帽人數的奇特世界紀錄。"
+    ],
+    "character_name": "墨墨",
+    "avoid_list": [
+      "等距構圖",
+      "貓咪專注凝視",
+      "鏡子自拍構圖",
+      "霓虹螢光色",
+      "復古褪色調",
+      "電影感打光",
+      "燭光氛圍",
+      "鏽蝕舊化質感",
+      "閃光燈直打",
+      "微縮模型",
+      "顯示日期時間",
+      "35mm 鏡頭",
+      "細微膠片顆粒",
+      "科技控制室/研究基地",
+      "玩偶般亮面塑膠質感"
+    ],
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Isometric Photography",
+      "lighting": "Ring Light",
+      "texture": "Marble",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "墨月凝思",
+    "number": 373,
+    "story": "在古董店的靜謐午後，墨墨總是尋找最高的角落俯瞰世界。今天，一道不尋常的光線吸引了牠的目光，牠坐上冰冷的大理石櫃，輕觸渾天儀，彷彿在與時間對話，同時凝視著天空中那抹被月牙遮蔽的太陽，眼神中充滿了沉思。",
+    "character": "momo",
+    "prompt": "A perfectly isometric view, rendered as a whiteboard marker drawing on glass with a casual sketch feel and slightly faded ink, showcasing hand-drawn line art. Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat with satin-sheen fur, athletic proportions and visible muscle definition, sits gracefully on a luxurious polished marble antique display cabinet. Its LEFT ear (viewer perspective) features a single small gold hoop earring #FFD700 (3mm) positioned at the mid-ear edge. A tiny natural white locket tuft #FFFFFF is visible on its ventral chest. One paw gently rotates an ancient armillary sphere. Momo's head is turned, its large luminous golden-amber #D4A017 eyes, with circular catchlights from the ring light, are calm and attentive, observing a hazy partial solar eclipse outside a window. Long prominent white whiskers are visible. The tail has a slight upward curl at the tip, showing a single dark-grey #696969 ring. Ring light illumination softly outlines Momo's black silhouette and gently illuminates the slightly textured marble surface, showcasing its natural vein patterns and cool smooth finish with classical elegance. Even frontal lighting creates a beauty portrait quality. The entire scene is in black and white monochrome, with high contrast, rich tonal range, dramatic shadows and highlights. The date and time '2026-02-17 15:27 UTC' are visually displayed in the image.",
+    "comment_id": 3915399672,
+    "inspiration": "南非大部分地區今天將能觀測到一次局部日食，月球將部分遮蔽太陽，創造出有趣的景象。"
   }
 ]

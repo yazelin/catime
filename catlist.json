@@ -3066,5 +3066,16 @@
     "status": "success",
     "title": "浮島修繕師",
     "number": 372
+  },
+  {
+    "character_name": "墨墨",
+    "title": "墨月凝思",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-17_1527_UTC.webp",
+    "number": 373,
+    "character": "momo",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 180.0s)",
+    "status": "success",
+    "inspiration": "南非大部分地區今天將能觀測到一次局部日食，月球將部分遮蔽太陽，創造出有趣的景象。",
+    "timestamp": "2026-02-17 15:27 UTC"
   }
 ]
