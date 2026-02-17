@@ -7991,5 +7991,38 @@
       "英國伯明罕大學的科學家們利用歐洲太空總署的CHEOPS望遠鏡，發現了一個距離地球116光年的「由內而外」的行星系統LHS 1903，其行星排列方式顛覆了傳統的行星形成理論。",
       "巴西里約熱內盧的嘉年華會正在熱烈舉行，並將在2月13日至21日達到高峰，屆時將有森巴遊行、華麗服裝和熱情音樂點燃城市。"
     ]
+  },
+  {
+    "news_inspiration": [],
+    "idea": "一張等距3D插圖，透過X光透視風格，描繪一隻虎斑貓在鏽跡斑斑的地下動力站控制室裡，專注地操作著巨大的控制面板，面板內部線路與管道以霓虹螢光色澤閃爍，周遭蠟燭散發出柔和光芒。",
+    "story": "在地下深處，僅有燭光照亮了這座被遺忘但仍運作的動力核心。貓咪工程師「灰燼」日復一日地守護著，牠的X光視角能洞悉面板下錯綜複雜的機械機制。每一次輕輕的撥動與按下，都維持著古老機器的生命脈動，內部閃耀的霓虹光芒是其孤獨使命的唯一見證。",
+    "number": 364,
+    "inspiration": "original",
+    "prompt": "An isometric 3D illustration in an X-ray radiograph style, showcasing a translucent skeletal view. A focused tabby cat operates a massive control panel within a rusty, underground power station control room. The panel's internal mechanisms, wires, and pipes glow vibrantly with neon fluorescent colors: electric pink, lime green, and hot cyan. The surrounding environment depicts rusted weathered metal, oxidized patina, peeling paint layers, and aged industrial decay, all rendered with warm orange-brown corrosion. Soft candlelight casts a warm orange flickering glow, creating an intimate atmosphere with soft dancing shadows. The overall aesthetic combines a monochrome blue-white X-ray view with clean geometric forms and soft pastel colors, achieving a polished, playful rendering. The date and time '2026-02-17 05:57 UTC' are visually displayed in the image.",
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Candlelight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "avoid_list": [
+      "2026-02-16 UTC 的日期時間顯示",
+      "莫蘭迪色調與去飽和柔和粉彩",
+      "清晰可見的天然木紋肌理",
+      "極低角度仰視視角",
+      "單束聚光燈與深邃暗部",
+      "生物發光元素",
+      "冰霜結晶與冰晶結構",
+      "鳥瞰或俯瞰視角",
+      "黑白單色調與高對比",
+      "貓咪修理或校準精密裝置",
+      "廢棄或隱密場所",
+      "等距攝影或油畫風格",
+      "燭光搖曳與柔和光影",
+      "微縮世界效果"
+    ],
+    "comment_id": 3912431705,
+    "title": "幽暗核心，霓虹脈動"
   }
 ]
