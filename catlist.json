@@ -3146,5 +3146,14 @@
     "number": 380,
     "character": "lingling",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-17_2330_UTC.webp",
+    "status": "success",
+    "number": 381,
+    "title": "星環下的守望者",
+    "timestamp": "2026-02-17 23:30 UTC",
+    "inspiration": "南極洲觀測到罕見的日環食，形成壯觀的「火環」景象。",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
