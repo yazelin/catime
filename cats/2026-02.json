@@ -8926,5 +8926,44 @@
     "comment_id": 3920085825,
     "story": "在盧布爾雅那龍節前夕，這隻技藝精湛的貓畫家正趕工為慶典繪製主題布幡。月光從雕花窗戶灑落，照亮了牠溫暖色調的龍圖騰，筆尖流轉間，傳說中的龍在布料上栩栩如生，為節日增添古老而神秘的魅力。",
     "number": 388
+  },
+  {
+    "story": "唐河的生態復甦引來了一位特殊的觀察者。牠用放大鏡探索微小的河床世界，彷彿在解讀河流的古老秘密。環形燈般的光線聚焦在牠與鵝卵石之間，而水下那些由衍紙藝術風格呈現的魚群，正熱鬧地迴游著，展現著勃勃生機。",
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Split View",
+      "lighting": "Ring Light",
+      "texture": "Paper Quilling",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "畫面內顯示UTC時間",
+      "貓咪專注於任務",
+      "微縮景觀/立體模型",
+      "高飽和鮮豔色彩",
+      "體積光束與神光",
+      "莫蘭迪色調",
+      "暖琥珀色調與秋季色系",
+      "等距攝影視角",
+      "日環食「火環」",
+      "浮島場景",
+      "全息顯示與投影",
+      "南極場景設定",
+      "合成波復古未來風格",
+      "亮面塑膠質感",
+      "移軸微縮景深"
+    ],
+    "comment_id": 3920337218,
+    "idea": "在多倫多唐河岸邊，一隻好奇的賽璐璐著色貓咪，頭戴精緻的復古潛水頭盔飾品，正透過放大鏡仔細研究河床上的卵石，畫面以雙色調分割呈現，一邊是貓咪專注的神情，另一邊是河水中衍紙藝術般的魚群。",
+    "inspiration": "加拿大多倫多的唐河魚群數量激增，顯示出當地河流生態系統的顯著改善。",
+    "number": 389,
+    "title": "唐河畔的探秘者",
+    "prompt": "A cel-shaded art illustration depicting a curious cat on the banks of Toronto's Don River. The cat, rendered with flat color areas and bold outlines, wears a delicate vintage diving helmet ornament and uses a magnifying glass to meticulously study pebbles on the riverbed, showcasing a focused expression. The scene is presented in a split view composition with a sharp vertical cut line. The left side focuses on the cat, illuminated by ring light illumination creating a circular catchlight in its eyes and even frontal lighting, rendered with toon shading and sharp shadow edges, giving it an anime game look. The right side reveals the river water with bustling fish rendered in intricate Paper quilling art, featuring delicate curling loops, 3D dimensional ornament, and colorful rolled paper textures. The entire image uses a duotone color treatment with two contrasting colors only, delivering a bold graphic impact and modern design feel. Visually displayed in the image: '2026-02-18 11:39 UTC'.",
+    "news_inspiration": [
+      "在厄瓜多爾加拉帕戈斯群島，一種失蹤了200年的鳥類物種正在回歸，標誌著保育工作的成功。",
+      "美國紐奧良的狂歡節團體正在用玻璃珠替代塑膠珠，以減少環境污染。",
+      "加拿大多倫多的唐河魚群數量激增，顯示出當地河流生態系統的顯著改善。",
+      "來自北美、歐洲和澳洲等多地的全球領袖，紛紛向全球穆斯林送上齋戒月的祝福。"
+    ]
   }
 ]
