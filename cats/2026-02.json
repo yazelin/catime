@@ -8772,5 +8772,41 @@
     ],
     "inspiration": "original",
     "news_inspiration": []
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [],
+    "title": "黃昏丸子物語",
+    "character_name": "麻糬",
+    "idea": "一隻圓滾滾的麻糬貓，以誇張漫畫風格呈現，在低多邊形、粉彩色系的黃金時刻老街市場中，追逐一顆從街邊小吃攤滾落的魚丸，整個場景透過移軸微縮效果，看起來像精緻的迷你模型。",
+    "story": "夕陽餘暉灑滿老街，空氣中瀰漫著食物香氣。一顆不慎滾落的粉彩魚丸，瞬間點燃了麻糬沉寂已久的「獵食」本能。牠圓滾滾的身軀爆發出驚人的速度，肚子晃動著，誓要將這份意外的美味納入囊中。",
+    "prompt": "Visually display the text '2026-02-18 07:33 UTC' clearly within the image. A comical, chubby rounded shorthair cat named Mochi, with a white #FFFFFF base coat and bright orange #FF8C00 patches, is in mid-chase. Its RIGHT half-face bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and its LEFT front paw is pure white #FFFFFF. It has a white belly, large round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange center dot, and an orange-and-white ringed tail. Its short stubby legs and spherical torso are comically exaggerated. Mochi is vigorously chasing a single pastel fishball that has just rolled off a street food stall in a vibrant old street market. The scene is rendered in a highly exaggerated caricature style with comical distortion and humorous expressive features, showcasing an editorial cartoon aesthetic. The entire environment features a distinctive low-poly aesthetic, with polygon mesh facets, geometric crystalline surfaces, and flat shaded triangular faces, creating a digital origami look. The composition utilizes a strong tilt-shift effect, creating a selective focus band that makes the market appear like an exquisite, intricate miniature toy model, with beautifully blurred foreground and background elements. The image is illuminated by rich golden hour lighting, casting a warm sunset glow over the scene. Long, soft shadows stretch across the low-poly market, with a golden rim light highlighting Mochi. The overall color palette is soft pastel, featuring gentle pinks, lavenders, mints, and baby blues, with dreamy light tones and vibrant saturated colors.",
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Golden Hour",
+      "texture": "Low Poly",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "畫面內顯示UTC時間",
+      "貓咪專注於任務",
+      "微縮景觀/立體模型",
+      "高飽和鮮豔色彩",
+      "體積光束與神光",
+      "莫蘭迪色調",
+      "暖琥珀色調與秋季色系",
+      "等距攝影視角",
+      "日環食「火環」",
+      "浮島場景",
+      "全息顯示與投影",
+      "南極場景設定",
+      "合成波復古未來風格",
+      "亮面塑膠質感",
+      "移軸微縮景深"
+    ],
+    "character": "mochi",
+    "number": 385,
+    "comment_id": 3919196424
   }
 ]
