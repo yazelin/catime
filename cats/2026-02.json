@@ -8888,5 +8888,43 @@
       "亮面塑膠質感",
       "移軸微縮景深"
     ]
+  },
+  {
+    "avoid_list": [
+      "畫面內顯示UTC時間",
+      "貓咪專注於任務",
+      "微縮景觀/立體模型",
+      "高飽和鮮豔色彩",
+      "體積光束與神光",
+      "莫蘭迪色調",
+      "暖琥珀色調與秋季色系",
+      "等距攝影視角",
+      "日環食「火環」",
+      "浮島場景",
+      "全息顯示與投影",
+      "南極場景設定",
+      "合成波復古未來風格",
+      "亮面塑膠質感",
+      "移軸微縮景深"
+    ],
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Fisheye Lens",
+      "lighting": "Moonlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "斯洛維尼亞首都盧布爾雅那（Ljubljana）的龍節因其慶祝城市傳奇龍的活動，包括主題藝術和遊行，在近期的一篇文章中受到關注。",
+    "title": "月影龍舞繪",
+    "prompt": "An Art Nouveau illustration of a tortoiseshell tabby cat, deeply focused, meticulously painting a winding, coiling dragon totem onto a vast fabric banner. The scene is set within a stylized Art Nouveau artist's studio, permeated with the faint scent of paint. A heavily rusted and weathered easel, showcasing oxidized patina and layers of peeling paint, conveys a sense of aged industrial decay. The composition employs a fisheye wide-angle perspective with strong barrel distortion, creating an exaggerated foreground and an immersive 360-degree feel of the environment. Soft moonlight streams through ornate, carved windows, casting a gentle, silvery, yet warm glow that illuminates the quiet nighttime atmosphere. The overall color grading is a rich, warm amber and autumn palette, featuring prominent golden yellows, burnt oranges, and deep warm orange-brown corrosion tones, evoking a cozy, nostalgic warmth. The dragon motif itself is rendered with flowing organic curves, reminiscent of Alphonse Mucha's style, with ornamental borders and subtle floral motifs integrated into the studio's decor. Visually displayed within the image are the characters: '2026-02-18 10:46 UTC'.",
+    "news_inspiration": [
+      "科學家最近發現金星表面下方可能隱藏著巨大的熔岩管，揭示了該行星火山歷史的新篇章。",
+      "印度梅加拉亞邦的西隆市（Shillong）啟動了一項名為「探索梅加拉亞360°」的無人機旅遊計畫，旨在推廣該邦的風景名勝。",
+      "斯洛維尼亞首都盧布爾雅那（Ljubljana）的龍節因其慶祝城市傳奇龍的活動，包括主題藝術和遊行，在近期的一篇文章中受到關注。"
+    ],
+    "idea": "一隻毛色斑駁的虎斑貓，在瀰漫著顏料氣息的新藝術風格畫室中，透過魚眼鏡頭的視角，藉由柔和月光，專注地在鏽蝕畫架上方的巨大布幡上，用畫筆勾勒出蜿蜒盤繞的龍形圖騰，畫面充滿暖琥珀與鐵鏽舊化的秋日色調。",
+    "comment_id": 3920085825,
+    "story": "在盧布爾雅那龍節前夕，這隻技藝精湛的貓畫家正趕工為慶典繪製主題布幡。月光從雕花窗戶灑落，照亮了牠溫暖色調的龍圖騰，筆尖流轉間，傳說中的龍在布料上栩栩如生，為節日增添古老而神秘的魅力。",
+    "number": 388
   }
 ]
