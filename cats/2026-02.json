@@ -8738,5 +8738,39 @@
       "texture": "Film Grain",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "prompt": "A polished 3D render in a Cinema 4D aesthetic: An ultra wide angle shot (12-18mm lens) with dramatic perspective distortion and an expansive field of view captures a cat intensely carving a monumental salmon ice sculpture with an ice chisel. The ice sculpture and the surrounding modern ice hotel lobby are designed in the Tlingit totem art style, showcasing bold formline design, ovoid and U-shapes, and Pacific Northwest indigenous animal motifs. The scene is illuminated by a harsh direct on-camera flash, creating blown-out highlights and hard shadows, giving a raw candid snapshot look, yet softened by a subtle global illumination. The translucent ice surfaces glow with a peculiar warm amber light effect. The overall lighting and environment are steeped in a warm amber color grading, featuring an autumn palette of golden yellows and burnt orange, evoking a cozy nostalgic warmth. The date and time '2026-02-18 06:02 UTC' are clearly visible within the image.",
+    "story": "凜冬的藝術季裡，貓咪冰雕大師「奧爾登」正在其最新作品前揮舞著冰鑿。周圍的冰牆透出柔和的琥珀光芒，映照出圖騰鮭魚冰雕上細膩而充滿力量的線條。閃光燈的瞬間捕捉，將這一刻凝結成一幅現代與原始、冰冷與溫暖交織的獨特景象。",
+    "number": 384,
+    "idea": "在一座以特林吉特圖騰藝術風格打造的現代冰旅館大廳中，一隻貓正全神貫注地用冰鑿雕刻一尊巨大的鮭魚冰雕，透過超廣角、閃光燈直打的3D渲染畫面，呈現暖琥珀色的奇特光影。",
+    "comment_id": 3918913796,
+    "title": "冰殿鮭魂刻",
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Direct Flash",
+      "texture": "3D Render",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "視覺化顯示日期時間",
+      "貓咪專注於細緻活動",
+      "浮島場景",
+      "大地色系與指定色彩組合",
+      "雷姆布蘭特光照與三角光影",
+      "高飽和鮮豔色彩與強烈對比",
+      "霓虹燈光點綴城市夜景",
+      "體積光與可見光線粒子",
+      "鏡中倒影或自拍視角",
+      "完美等距攝影視角",
+      "絞染紋理元素",
+      "修復或清潔古董/老舊物件",
+      "膠片顆粒質感",
+      "暖琥珀色調與懷舊氛圍",
+      "自然侵蝕或半廢棄環境"
+    ],
+    "inspiration": "original",
+    "news_inspiration": []
   }
 ]
