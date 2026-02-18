@@ -8664,5 +8664,39 @@
       "texture": "Paper Quilling",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "avoid_list": [
+      "視覺化顯示日期時間",
+      "貓咪專注於細緻活動",
+      "浮島場景",
+      "大地色系與指定色彩組合",
+      "雷姆布蘭特光照與三角光影",
+      "高飽和鮮豔色彩與強烈對比",
+      "霓虹燈光點綴城市夜景",
+      "體積光與可見光線粒子",
+      "鏡中倒影或自拍視角",
+      "完美等距攝影視角",
+      "絞染紋理元素",
+      "修復或清潔古董/老舊物件",
+      "膠片顆粒質感",
+      "暖琥珀色調與懷舊氛圍",
+      "自然侵蝕或半廢棄環境"
+    ],
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Orthographic Projection",
+      "lighting": "Golden Hour",
+      "texture": "Fabric / Textile",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "天剛破曉，陽光以莫蘭迪色調輕柔地灑進老舊的售票亭。戴著迷你站長帽的灰貓，前爪緊握著木製印章，小心翼翼地在遞來的車票上蓋下日期。牠的眼神嚴肅而專注，仿佛每一張車票都承載著重要的旅程，而背景的舊木與布料質感牆面，烘托出溫和的懷舊氛圍。",
+    "comment_id": 3918130299,
+    "idea": "在「四格漫畫」風格下，以「正交投影」構圖呈現一隻戴著站長帽的貓咪，在黃金時刻柔和光線中，於一間30年代歐洲火車站售票亭內，專注地為乘客的車票蓋章。整體畫面瀰漫著「織品/布料質感」與「莫蘭迪色調」。",
+    "number": 382,
+    "prompt": "A dignified cat wearing a miniature stationmaster's cap is meticulously stamping a train ticket at a worn wooden counter within a 1930s European train station ticket booth. Rendered in a clean comic strip art style with orthographic projection, showcasing straight-on flat rendering and no perspective distortion, akin to a detailed technical illustration. The scene is illuminated by soft, warm early morning golden hour light, casting gentle shadows and a subtle golden rim light on the cat's focused expression. The color palette is Morandi muted, featuring desaturated soft pastels and dusty grey undertones, conveying quiet elegance. Background elements and the cat's uniform incorporate a pronounced woven fabric texture with visible threads, depicting a linen or cotton weave pattern, contributing to a tactile soft appearance. A visible clock face or a detail on the stamped ticket clearly displays '2026-02-18 02:22 UTC'.",
+    "title": "晨曦票務員",
+    "news_inspiration": [],
+    "inspiration": "original"
   }
 ]
