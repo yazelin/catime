@@ -8996,5 +8996,36 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "news_inspiration": [],
+    "story": "在這座奇特的收藏閣裡，每一個發光的稀有物件都訴說著秘密。貓咪工匠戴著碳纖維目鏡，輕柔地調校著齒輪，生物光暈映照出牠嚴謹而細膩的動作。牠的每一次擺弄都將古老與未來、奢華與簡約完美融合。",
+    "prompt": "A highly detailed 3D isometric illustration, presented in a polished playful rendering. The scene features a Siamese cat artisan, wearing carbon fiber goggles, intently focused on gently assembling an intricate clockwork device within a Rococo style curio cabinet. The cabinet showcases flowing ornamental curves and elaborate decorative detail, imbued with a light playful elegance. Adjacent display cases, framed with high-tech carbon fiber weave patterns and a glossy clear coat finish, hold bioluminescent specimens. These specimens emit an organic glow from living organisms, casting deep blue-green radiance and underwater phosphorescence, contributing an ethereal natural light to the scene. The overall color palette blends flamboyant pastel colors with a Morandi muted color palette, featuring desaturated soft pastels and dusty grey undertones, creating a quiet elegance. The modern industrial aesthetic of the clean geometric forms of carbon fiber contrasts beautifully with the historical Rococo elements. Bioluminescent lighting illuminates the cat's meticulous actions. The date and time '2026-02-18 14:27 UTC' is visually displayed within the image.",
+    "number": 391,
+    "avoid_list": [
+      "專注的貓咪",
+      "莫蘭迪色調",
+      "移軸微縮效果",
+      "衍紙藝術般的紋理",
+      "黃金時刻柔和光線",
+      "溫暖琥珀色調",
+      "古老場景或懷舊氛圍",
+      "閃爍的燭光",
+      "宇宙/星空主題",
+      "漫畫或誇張風格",
+      "貓咪輕拍或觸摸",
+      "超廣角或魚眼鏡頭"
+    ],
+    "idea": "一隻暹羅貓在一個等距3D插圖風格的洛可可收藏閣裡，專注地組裝著一個精巧的發條裝置。室內碳纖維框架的展示櫃中，生物發光標本在莫蘭迪色調下散發出柔和的光芒。",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Bioluminescence",
+      "texture": "Carbon Fiber",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 3921167106,
+    "title": "幽閣織光",
+    "inspiration": "original"
   }
 ]
