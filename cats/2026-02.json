@@ -9027,5 +9027,36 @@
     "comment_id": 3921167106,
     "title": "幽閣織光",
     "inspiration": "original"
+  },
+  {
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Ring Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Duotone"
+    },
+    "number": 392,
+    "title": "霓虹軌跡",
+    "story": "午夜的展覽廳，只有霓虹光帶與控制面板的環形燈，映照出貓咪敏銳的雙眼。牠的爪子輕巧地撥動開關，列車在合成波城市的微縮軌道上呼嘯而過，編織著一場只有牠能指揮的機械夢境。",
+    "idea": "在一座合成波風格的微縮列車展覽廳中，一隻毛髮烏黑的貓咪穿著靛藍絞染花紋的背心，正以超廣角構圖被環形燈照亮，專注地操作著一套複雜的列車控制面板，整個場景以電光藍與迷幻紫的雙色調呈現。",
+    "avoid_list": [
+      "專注的貓咪",
+      "莫蘭迪色調",
+      "移軸微縮效果",
+      "衍紙藝術般的紋理",
+      "黃金時刻柔和光線",
+      "溫暖琥珀色調",
+      "古老場景或懷舊氛圍",
+      "閃爍的燭光",
+      "宇宙/星空主題",
+      "漫畫或誇張風格",
+      "貓咪輕拍或觸摸",
+      "超廣角或魚眼鏡頭"
+    ],
+    "comment_id": 3921484245,
+    "news_inspiration": [],
+    "inspiration": "original",
+    "prompt": "A black-furred cat, depicted in a synthwave aesthetic, focused intently on operating a complex train control panel. The cat wears a vest with an indigo blue Shibori style, resist-dyed pattern, featuring organic flowing designs, reminiscent of Japanese artisan dye techniques. The scene is set in a miniature train exhibition hall designed with a retro-futuristic, neon grid landscape. The composition utilizes an extreme ultra wide angle perspective with dramatic perspective distortion and an expansive field of view, emphasizing the scale of the exhibition hall. The cat is illuminated by a prominent ring light, casting even frontal lighting and creating a distinct circular catchlight in its eyes, giving a high-quality rendered appearance. The entire artwork is presented with a duotone color treatment, using only electric blue and psychedelic purple, creating a bold graphic impact and a modern design feel, evocative of 1980s sci-fi nostalgia. Visually displayed in the image is '2026-02-18 15:27 UTC' with chrome typography."
   }
 ]
