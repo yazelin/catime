@@ -3428,5 +3428,14 @@
     "inspiration": "original",
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-19_1348_UTC.webp"
+  },
+  {
+    "number": 411,
+    "inspiration": "中國在2026年農曆新年期間，預計將有高達95億人次出行，創下史上最大規模的人口遷徙紀錄。",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "title": "金色遷徙之眼",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-19_1449_UTC.webp",
+    "timestamp": "2026-02-19 14:49 UTC"
   }
 ]
