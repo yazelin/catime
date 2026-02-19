@@ -9501,5 +9501,45 @@
       "古籍或圖書館場景"
     ],
     "story": "在一個以木刻版畫風格呈現的夢幻浮島上，新上任的貓市長正投入牠的日常職責。牠專心致志地修剪著一盆小巧的盆景，這盆景不僅象徵著牠所管轄的社區，也代表著生命的脆弱與平衡。黃金時刻的陽光灑在浮島邊緣和貓咪柔軟的毛髮上，帶來冰霜結晶般的細膩質感，為這片寧靜的空中景觀增添了一絲奇幻色彩。"
+  },
+  {
+    "story": "在里約嘉年華的熱情氛圍中，麻糬悄悄巡邏到一個瀰漫著異國香料氣味的攤位。牠肥胖的身軀勉強擠到鍋邊，琥珀色大眼緊盯著鍋內色彩繽紛的燉菜，那副呆萌又貪吃的模樣，正好被鍋子的弧形表面映照出來，形成一幅獨特的「鏡子自拍」。一束聚光燈恰好打在麻糬身上，襯托出牠圓滾滾的憨態。",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Spotlight",
+      "texture": "Low Poly",
+      "color_palette": "Duotone"
+    },
+    "idea": "一隻圓滾滾的橘白貓麻糬，在巴西嘉年華主題的傳統市場小吃攤前，好奇地探頭望向一個巨大的、閃亮的低多邊形（Low Poly）金屬燉鍋。整個場景以新藝術風格（Art Nouveau）的流線型裝飾與低多邊形幾何塊面巧妙融合。",
+    "character": "mochi",
+    "avoid_list": [
+      "魚眼鏡頭廣角畸變",
+      "溫暖琥珀秋日色調",
+      "厚塗筆觸與畫布紋理",
+      "專注細緻的動作",
+      "畫面中顯示日期時間",
+      "體積光與丁達爾效應",
+      "黃金時刻與金色輪廓光",
+      "金屬質感與工業奢華感",
+      "雙色調與現代平面感",
+      "柔和粉彩色調與夢幻光影",
+      "空中視角與浮空島嶼",
+      "直接閃光燈與過曝高光",
+      "懷舊復古場景",
+      "奢華與精緻質感"
+    ],
+    "title": "嘉年華食探",
+    "comment_id": 3925336699,
+    "news_inspiration": [
+      "美國加州大學聖地牙哥分校的科學家們開發出一種突破性的CRISPR基因編輯工具，有望逆轉全球抗生素抗藥性危機。",
+      "2026年米蘭-科爾蒂納丹佩佐冬季奧運會將引入滑雪登山（skimo）作為一項新的官方奧林匹克運動，在義大利舉行。",
+      "巴西里約熱內盧的嘉年華活動於今日展開，充滿了熱情洋溢的色彩與歡慶氛圍。",
+      "克里斯蒂安·波拉斯在哥斯大黎加舉行的青少年鈍劍世界盃上奪得銀牌。"
+    ],
+    "character_name": "麻糬",
+    "number": 405,
+    "prompt": "A playful, chubby, rounded shorthair cat named Mochi, with a pristine white base coat and bright orange #FF8C00 patches. Mochi's RIGHT half-face features an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on Mochi's upper back. The RIGHT front paw is a solid orange #FF8C00 mitten, and the LEFT front paw is pure white #FFFFFF. Mochi has a white belly, short stubby legs, a spherical torso, and an orange-and-white ringed tail. Its large round amber #FFBF00 eyes are wide with curiosity, and its nose is pink #FFB6C1 with a tiny orange center dot. Mochi, a pure shorthair with solid orange patches (no tabby stripes), is peeking curiously over the edge of a massive, gleaming low-poly metal stew pot. The pot's curved, faceted surface clearly shows Mochi's 'mirror selfie' reflection – a whimsical, slightly distorted image of its own eager face. This scene unfolds at a vibrant Brazil Carnival-themed traditional market stall, adorned with Art Nouveau style flowing organic curves, ornamental borders, and subtle floral motifs, reminiscent of Mucha's work. The stall itself features low-poly style geometric crystalline surfaces and flat shaded triangular faces, creating a digital origami aesthetic. The composition is an intimate close-up perspective with casual framing, emphasizing the interaction. A narrow beam spotlight dramatically illuminates Mochi and the pot, creating sharp light edges, high contrast, and deep darkness falloff, making Mochi's round form glow against the shadowy background. The overall visual treatment uses a duotone color scheme, featuring two contrasting, bold graphic colors that evoke a modern design feel while hinting at Carnival vibrancy. The date and time '2026-02-19 08:04 UTC' are visually displayed within the scene.",
+    "inspiration": "巴西里約熱內盧的嘉年華活動於今日展開，充滿了熱情洋溢的色彩與歡慶氛圍。"
   }
 ]
