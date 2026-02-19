@@ -9842,5 +9842,49 @@
       "深色背景與金色細節",
       "貓咪輕觸或輕撥物體"
     ]
+  },
+  {
+    "avoid_list": [
+      "時間戳記視覺化顯示",
+      "黃金時刻與金輪廓光",
+      "體積光與光線穿透薄霧",
+      "低多邊形與數位摺紙美學",
+      "冰霜結晶或冰凍表面紋理",
+      "奢華金屬質感與工業風格",
+      "貓咪擔任特定職業角色",
+      "遞迴式影像或多重嵌套效果",
+      "厚塗筆觸與畫布紋理",
+      "黑光或螢光霓虹色彩",
+      "暖琥珀色調與懷舊氛圍",
+      "高對比度聚光燈效果",
+      "等距攝影風格",
+      "深色背景與金色細節",
+      "貓咪輕觸或輕撥物體"
+    ],
+    "is_seasonal": true,
+    "title": "爐火微光羽筆吟",
+    "story": "冬夜的舊書房，壁爐中只剩下微弱的炭火餘燼。墨墨，這隻宛如墨玉雕成的貓，在聚光燈投下的戲劇性光影中顯得格外沉靜。牠溫柔地審視並輕拂著一支古老的羽毛筆，那份對細緻工藝的專注與愛護，彷彿是牠對時光流逝中匠心獨運的無聲致敬。",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Miniature Diorama",
+      "lighting": "Spotlight",
+      "texture": "Shibori Textile",
+      "color_palette": "Pastel Colors"
+    },
+    "number": 414,
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "法國巴黎：經過百年等待，歡欣鼓舞的巴黎市民們終於在塞納河中進行了一次歷史性的跳水。",
+      "科威特：聯合國教科文組織在科威特舉辦的第二屆世界工藝論壇上，強調了工藝的創新和創意未來。",
+      "印度喀拉拉邦：印度的一個村莊成功拯救了喀拉拉邦最大的湖泊，展現了社區力量。",
+      "智利：智利正在美洲最南端創建一個巨大的新國家公園，以保護其獨特的荒野。",
+      "美國紐奧良：美國紐奧良的狂歡節團體正在將遊行中的塑膠珠子換成玻璃製品，以減少環境影響。"
+    ],
+    "inspiration": "科威特：聯合國教科文組織在科威特舉辦的第二屆世界工藝論壇上，強調了工藝的創新和創意未來。",
+    "season": "winter",
+    "idea": "在一個充滿粉彩色調的黑色電影風格微縮立體模型中，純黑的墨墨優雅地窩在壁爐前一張帶有絞染紋理的玫瑰色天鵝絨靠墊上。一束聚光燈戲劇性地照亮牠修長的身影，金琥珀色的眼睛映著壁爐的微弱火光，牠正專注地用一隻前爪輕柔地整理著一支古老的羽毛筆，其長而直的白色鬍鬚在深邃的黑毛上尤為顯眼。",
+    "character": "momo",
+    "prompt": "An artistic miniature diorama, tilt-shift effect, depicting a cozy winter night in an old study. The scene is rendered in a unique film noir style with a soft pastel color palette, featuring dramatic high contrast and deep shadows. A sleek, slender solid-black #0A0A0A Bombay-style shorthair cat named Momo, with satin-sheen fur revealing warm brown undertones and athletic proportions, elegantly curls on a rose-pink velvet cushion. The cushion features Shibori-style patterns with deep indigo and rose hues and organic flowing designs, reminiscent of Japanese artisan dye techniques. A narrow beam spotlight dramatically illuminates Momo's form, casting sharp light edges and deep darkness falloff. Momo's large luminous golden-amber #D4A017 eyes reflect the faint glow from the fireplace, which holds only weak charcoal embers. Momo is calmly and attentively using one paw to gently organize an ancient white feather quill. Its long prominent white whiskers are strikingly visible against its deep black fur. A single small gold hoop earring #FFD700 (3mm) adorns Momo's LEFT ear at the mid-ear edge. A tiny natural white locket tuft #FFFFFF is visible on its ventral chest, and a single dark-grey #696969 ring marks its tail tip, which has a slight upward curl. The overall mood is mysterious and cinematic, with a toy-like scale model aesthetic. Visually display '2026-02-19 17:51 UTC' within the scene.",
+    "comment_id": 3928892580
   }
 ]

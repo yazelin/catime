@@ -3455,5 +3455,18 @@
     "status": "success",
     "timestamp": "2026-02-19 16:55 UTC",
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)"
+  },
+  {
+    "is_seasonal": true,
+    "title": "爐火微光羽筆吟",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-19_1751_UTC.webp",
+    "number": 414,
+    "character_name": "墨墨",
+    "timestamp": "2026-02-19 17:51 UTC",
+    "inspiration": "科威特：聯合國教科文組織在科威特舉辦的第二屆世界工藝論壇上，強調了工藝的創新和創意未來。",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 180.0s)",
+    "season": "winter",
+    "character": "momo",
+    "status": "success"
   }
 ]
