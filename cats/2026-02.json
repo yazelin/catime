@@ -9886,5 +9886,37 @@
     "character": "momo",
     "prompt": "An artistic miniature diorama, tilt-shift effect, depicting a cozy winter night in an old study. The scene is rendered in a unique film noir style with a soft pastel color palette, featuring dramatic high contrast and deep shadows. A sleek, slender solid-black #0A0A0A Bombay-style shorthair cat named Momo, with satin-sheen fur revealing warm brown undertones and athletic proportions, elegantly curls on a rose-pink velvet cushion. The cushion features Shibori-style patterns with deep indigo and rose hues and organic flowing designs, reminiscent of Japanese artisan dye techniques. A narrow beam spotlight dramatically illuminates Momo's form, casting sharp light edges and deep darkness falloff. Momo's large luminous golden-amber #D4A017 eyes reflect the faint glow from the fireplace, which holds only weak charcoal embers. Momo is calmly and attentively using one paw to gently organize an ancient white feather quill. Its long prominent white whiskers are strikingly visible against its deep black fur. A single small gold hoop earring #FFD700 (3mm) adorns Momo's LEFT ear at the mid-ear edge. A tiny natural white locket tuft #FFFFFF is visible on its ventral chest, and a single dark-grey #696969 ring marks its tail tip, which has a slight upward curl. The overall mood is mysterious and cinematic, with a toy-like scale model aesthetic. Visually display '2026-02-19 17:51 UTC' within the scene.",
     "comment_id": 3928892580
+  },
+  {
+    "number": 415,
+    "story": "在城市喧囂的夜晚，這隻橘貓悄悄溜進一間充滿懷舊氣息的街機店。牠躍上機台，爪子熟練地操控著搖桿，琥珀色的螢幕光線映照在牠亮澤的毛髮上。周圍模糊的人影與遊戲聲響，都化作了牠沈浸在像素世界裡的背景。",
+    "comment_id": 3929270058,
+    "news_inspiration": [],
+    "idea": "街頭攝影風格下，一隻橘貓在一間霓虹閃爍的街機店裡，以前所未有的專注力玩著一台老式街機。超廣角鏡頭捕捉到牠靈活的爪子與搖桿的亮面塑膠質感，倫勃朗光影描繪出牠被琥珀色螢幕暖光照亮的側面。",
+    "avoid_list": [
+      "黃金時刻搭配金色邊緣光",
+      "低多邊形與裝飾藝術風格融合",
+      "莫蘭迪色調貓咪與環境",
+      "等距視角微縮世界",
+      "純黑貓主題",
+      "黑光或UV光照明",
+      "遞迴或Droste效應構圖",
+      "聚光燈戲劇性光影",
+      "復古精密機械裝置",
+      "貓咪扮演專業職務",
+      "真皮質感的舊地圖或物件",
+      "半透明水晶或冰晶結構",
+      "貓咪專注凝視某物"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "A candid street photography shot of a ginger cat intensely playing an old vintage arcade game inside a neon-lit urban arcade store. Captured with an ultra wide angle 12-18mm lens, displaying dramatic perspective distortion and an expansive field of view. The cat's nimble paws are focused on the glossy plastic joystick, which has a smooth, high-shine surface with slight reflections. Rembrandt lighting from the warm amber glow of the screen illuminates the cat's side profile, casting a signature triangle of light on its shadowed cheek, creating dramatic chiaroscuro. The overall scene has a warm amber color grading with golden yellows and burnt orange, evoking a cozy, nostalgic warmth. In the background, blurred human figures and the faint sounds of other games contribute to the atmosphere. Visually displayed as a digital overlay or on an in-game screen: '2026-02-19 18:56 UTC'.",
+    "title": "電玩夜貓"
   }
 ]
