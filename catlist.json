@@ -3446,5 +3446,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-19_1550_UTC.webp",
     "inspiration": "紐西蘭納皮爾市舉辦獨特的裝飾藝術週末，經典汽車和復古風格的參與者讓這座在地震後以裝飾藝術風格重建的城市充滿生機。",
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)"
+  },
+  {
+    "number": 413,
+    "inspiration": "美國有一隻名叫「雷雷」的貓咪，意外地在車頂上緊抓不放，跟著主人從賓夕法尼亞州的基塔寧旅行了100英里到新罕布夏州的基恩，展開了一場驚奇的跨州之旅。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-19_1655_UTC.webp",
+    "title": "旅途貓影：莫蘭迪之圖",
+    "status": "success",
+    "timestamp": "2026-02-19 16:55 UTC",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)"
   }
 ]
