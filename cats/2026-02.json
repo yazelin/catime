@@ -10060,5 +10060,42 @@
     "story": "在拂曉前寂靜的碼頭，船長那銳利的翠綠色右眼審視著眼前的工作台。牠用寬厚的前掌輕輕撥弄著，將特製的魚形通訊器、刻有古老圖騰的港口地圖以及一只太陽能信號燈，以完美的直角一一擺放。這些是他守護碼頭和貓群的日常準備，彷彿在進行一場神聖的儀式，堅毅而沉穩。",
     "idea": "以非洲未來主義的視覺風格，描繪船長在一個未來感十足的碼頭工作台上，將其日常巡邏工具進行整齊的 Knolling 排列。這些工具融合了傳統與科技元素，營造出磨砂玻璃般的質感，並在閃光燈直射下呈現大地色系的深邃。",
     "title": "碼頭哲思：航道羅盤"
+  },
+  {
+    "number": 420,
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Spotlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Retro Faded Tones"
+    },
+    "news_inspiration": [
+      "2026年冬季奧運會在義大利米蘭舉行，美國隊在女子冰球金牌賽中以2-1擊敗加拿大隊奪冠。",
+      "在哥斯大黎加國家公園獲救的一隻流浪狗「Bosque」找到了充滿愛的家。",
+      "數億人次在中國各地返鄉慶祝農曆新年，交通運輸部門採取多項措施確保旅客安全順暢出行。",
+      "英國倫敦大學學院的研究人員發現了人體對抗炎症的「關閉開關」，有望為治療慢性疾病鋪平道路。"
+    ],
+    "comment_id": 3930727825,
+    "inspiration": "數億人次在中國各地返鄉慶祝農曆新年，交通運輸部門採取多項措施確保旅客安全順暢出行。",
+    "story": "億萬旅客踏上歸途，將舊年的塵埃甩在身後，非洲大地上宏偉的交通網絡承載著他們的思念。這隻薩凡納貓是列車的「歸途協調師」，牠熟練地調整著全息路線圖，確保每一段漫長旅程的順暢與安全。在懷舊的非洲未來主義車廂中，牠的專注是這場宏大遷徙中一道寧靜而堅實的風景。",
+    "prompt": "Afrofuturism illustration of a focused Savannah cat meticulously calibrating a holographic projection device, displaying a dynamic route map with the specific date and time '2026-02-19 23:31 UTC' clearly visible. The scene is set inside a high-speed maglev train carriage. The control console is crafted from rusted weathered brass, exhibiting oxidized patina, mottled surfaces, peeling paint layers, and signs of aged industrial decay with warm orange-brown corrosion. The composition utilizes a tilt-shift miniature toy-like effect, creating a selective focus band that sharply highlights the cat and the control panel, blurring the bustling travelers in the foreground and background. A dramatic narrow beam spotlight illuminates the cat and its work, creating high-contrast with sharp light edges and deep darkness falloff into the surrounding shadows. The overall color palette is retro faded, with washed-out vintage tones and low contrast, evoking a nostalgic film-era warmth. Within this faded aesthetic, subtle vibrant colors emerge from the futuristic holographic elements and African cultural symbolism, contributing to a dynamic empowering Afrofuturism aesthetic.",
+    "idea": "在非洲未來主義風格的高速磁浮列車車廂內，一隻薩凡納貓正專注校準著鏽蝕斑駁的黃銅控制台上顯示動態路線圖的全息投影裝置。整個畫面以移軸微縮效果呈現，光線為聚光燈，質感充滿鐵鏽舊化，色調為復古褪色調，捕捉列車內熙攘旅人與貓咪專注工作的對比。",
+    "avoid_list": [
+      "莫蘭迪色調",
+      "高光澤塑膠/亮面質感",
+      "黑光螢光/紫外發光",
+      "等距攝影構圖",
+      "微縮模型/移軸效果",
+      "直打閃光燈/硬陰影",
+      "體積光線/戲劇性陰影",
+      "復古8位元/像素藝術",
+      "織品紋理/柔軟觸感",
+      "貓咪專注凝視/操作古物",
+      "寧靜夜晚/月光氛圍",
+      "古舊地圖",
+      "貓掌細膩操作"
+    ],
+    "title": "歸途校準"
   }
 ]
