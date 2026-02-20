@@ -10239,5 +10239,45 @@
       "印度尼西亞正全國範圍內停止大象騎乘活動，此舉將亞洲旅遊業的重點從娛樂轉向動物福利。",
       "歐盟和國際移民組織向巴巴多斯運送了關鍵救援物資，以加強加勒比地區對未來颶風和其他緊急情況的防災準備。"
     ]
+  },
+  {
+    "inspiration": "在尼日的撒哈拉沙漠中發現了一種名為Spinosaurus mirabilis的劍冠棘龍新物種化石，其頭部有著獨特的彎曲劍狀冠飾。",
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Floating Island Scene",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Wood Grain",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "An editorial cartoon style illustration featuring a caricature cat archaeologist with exaggerated proportions, humorous expressive features, and comical distortion. The cat is intensely focused, meticulously assembling a Spinosaurus skeleton crafted from natural wood, showcasing rich warm tones, visible knots and lines, and an organic tactile surface. The skeleton pieces, particularly the prominent sword-like crest, emit a soft, ethereal ultraviolet luminescence in a distinct Morandi muted color palette of desaturated soft pastels and dusty grey undertones. This unique glow is cast by Blacklight UV illumination, setting the scene on a floating island in the sky, a miniature landscape on a levitating platform, against a dark, atmospheric background with subtle fluorescent accents. The cat uses intricately detailed wood-grain tools. The date and time '2026-02-20 07:52 UTC' are visually displayed within the image.",
+    "story": "夜幕低垂，在星光般點綴的黑光下，貓咪科學家仔細比對著每一塊帶有木紋的化石碎片。尤其那塊形狀獨特的劍狀冠飾，在UV光的照射下散發出莫蘭迪色調的柔和光芒，彷彿跨越億萬年的時空訴說著古老生命的秘密。牠輕輕地雕琢，將歷史的拼圖逐步還原。",
+    "comment_id": 3932253434,
+    "idea": "在一個莫蘭迪色調的黑光螢光浮島場景中，一隻誇張漫畫風格的貓咪考古學家，正專注地用木紋工具組裝一具散發著幽微螢光的劍冠棘龍木製骨骼。",
+    "news_inspiration": [
+      "日本東京的科學家發現了一種新的巨型病毒，可能會改寫複雜生命的起源理論。",
+      "巴西里約熱內盧的嘉年華會正在如火如荼地進行，吸引全球數百萬遊客參與其壯觀的桑巴遊行。",
+      "在尼日的撒哈拉沙漠中發現了一種名為Spinosaurus mirabilis的劍冠棘龍新物種化石，其頭部有著獨特的彎曲劍狀冠飾。",
+      "在義大利米蘭和科爾蒂納丹佩佐舉行的2026年冬季奧運會，其廣播和數位平台的全球參與度打破了紀錄。",
+      "孟加拉國的人權運動者努力見效，在當地妓院和街頭出生的兒童現在終於可以獲得出生證明。"
+    ],
+    "number": 425,
+    "avoid_list": [
+      "專注的貓咪",
+      "戲劇性光影與高動態範圍",
+      "體積光與光線穿透",
+      "鏽蝕舊化工業衰敗質感",
+      "移軸微縮模型攝影效果",
+      "霓虹生物發光",
+      "高飽和鮮豔色彩",
+      "等距3D插圖或攝影",
+      "復古褪色調與低對比",
+      "未來感場景與復古元素融合",
+      "光滑亮面或充氣PVC質感",
+      "畫面中顯示日期時間",
+      "大地色系調色板",
+      "非洲未來主義風格",
+      "淺景深"
+    ],
+    "title": "微光尋龍"
   }
 ]

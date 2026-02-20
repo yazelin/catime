@@ -3562,5 +3562,14 @@
     "model": "gemini-3-pro-image-preview",
     "title": "數位穹頂之筆",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-20_0658_UTC.webp"
+  },
+  {
+    "inspiration": "在尼日的撒哈拉沙漠中發現了一種名為Spinosaurus mirabilis的劍冠棘龍新物種化石，其頭部有著獨特的彎曲劍狀冠飾。",
+    "status": "success",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 180.0s)",
+    "timestamp": "2026-02-20 07:52 UTC",
+    "number": 425,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-20_0752_UTC.webp",
+    "title": "微光尋龍"
   }
 ]
