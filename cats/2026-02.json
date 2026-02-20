@@ -10129,5 +10129,39 @@
     "number": 421,
     "story": "夕陽餘暉透過高大的棚架，將溫暖的光線灑落在佈滿鐵鏽與油漬的軌道上，形塑出電影感打光。貓咪的身體略微弓起，使出全力旋緊螺栓，周遭工具與零件散落，共同構成一幅充滿故事感的鐵鏽舊化風景，大地色系賦予畫面沉靜的力量。",
     "idea": "在一個廢棄的火車維修廠中，一隻斑紋貓咪正專注地用扳手鎖緊巨大列車車輪上的鏽蝕螺栓，畫面呈現畫意攝影的柔和美感與微縮立體模型的精心構圖。"
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Split View",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Inflatable PVC",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "莫蘭迪色調",
+      "高光澤塑膠/亮面質感",
+      "黑光螢光/紫外發光",
+      "等距攝影構圖",
+      "微縮模型/移軸效果",
+      "直打閃光燈/硬陰影",
+      "體積光線/戲劇性陰影",
+      "復古8位元/像素藝術",
+      "織品紋理/柔軟觸感",
+      "貓咪專注凝視/操作古物",
+      "寧靜夜晚/月光氛圍",
+      "古舊地圖",
+      "貓掌細膩操作"
+    ],
+    "prompt": "A casual smartphone snapshot, split view composition with a sharp vertical cut line. The left half is photorealistic, capturing Lingling, an extremely fluffy pure white #FFFFFF longhair cat, Ragdoll-like with voluminous cloud-like fur. Her small round face is nearly hidden in her fur, with huge round sapphire-blue #0F52BA eyes, occupying about 1/3 of her face, gazing with a gentle sparkle at a shimmering, glowing butterfly decoration on a cake. She reaches out with a clumsy pink paw pad, attempting to 'collect' the fluorescent butterfly. Around her neck, a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell is clearly visible and centered beneath the bow knot, the bell tinkling softly with her movement. Her nose and inner ears are pale pink #FFB6C1, and her tail is an enormous feathery white plume. The scene is set in a 'Neon Dreamland Dessert Cafe,' adorned with inflatable PVC material decorations, showcasing high-gloss balloon-like surfaces and puffy rounded forms with air-filled tension. The cafe features a soft pastel color palette, including gentle pink, lavender, mint, and baby blue in dreamy light tones. The entire environment is illuminated by Blacklight UV illumination, making fluorescent pigments glow with vibrant neon colors against a dark background, creating ethereal ultraviolet luminescence. The right half of the image displays a wireframe diagram of the identical scene, highlighting structural outlines and the glowing elements. The date and time '2026-02-20 04:26 UTC' are visually displayed in the image. Shot with a 35mm lens, f/1.8, with simulated blacklight, shallow depth of field, and a subtle grain, capturing an authentic everyday moment.",
+    "news_inspiration": [],
+    "idea": "這是一個在「霓虹夢境甜點咖啡廳」拍攝的手機隨拍風格畫面，透過分割畫面構圖，捕捉鈴鈴對螢光甜點的好奇瞬間。",
+    "number": 422,
+    "title": "浮光甜心",
+    "character": "lingling",
+    "story": "鈴鈴來到這間充滿粉彩色系、由充氣PVC材質裝潢的夢幻甜點店。在黑光螢光下，一片閃耀著微光的蝴蝶裝飾蛋糕吸引了她的注意，她笨拙地伸出肉掌，試圖將那隻發光的蝴蝶「收藏」起來，脖子上的鈴鐺隨著輕微的動作發出叮鈴聲。",
+    "comment_id": 3931567984,
+    "character_name": "鈴鈴"
   }
 ]
