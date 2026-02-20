@@ -10163,5 +10163,43 @@
     "story": "鈴鈴來到這間充滿粉彩色系、由充氣PVC材質裝潢的夢幻甜點店。在黑光螢光下，一片閃耀著微光的蝴蝶裝飾蛋糕吸引了她的注意，她笨拙地伸出肉掌，試圖將那隻發光的蝴蝶「收藏」起來，脖子上的鈴鐺隨著輕微的動作發出叮鈴聲。",
     "comment_id": 3931567984,
     "character_name": "鈴鈴"
+  },
+  {
+    "avoid_list": [
+      "莫蘭迪色調",
+      "高光澤塑膠/亮面質感",
+      "黑光螢光/紫外發光",
+      "等距攝影構圖",
+      "微縮模型/移軸效果",
+      "直打閃光燈/硬陰影",
+      "體積光線/戲劇性陰影",
+      "復古8位元/像素藝術",
+      "織品紋理/柔軟觸感",
+      "貓咪專注凝視/操作古物",
+      "寧靜夜晚/月光氛圍",
+      "古舊地圖",
+      "貓掌細膩操作"
+    ],
+    "prompt": "A 3D isometric illustration from a drone aerial bird's-eye view of a bustling Dhaka city center at golden hour. A clever tabby cat, wearing a small scarf, skillfully drives a weathered but brightly colored electric rickshaw, deftly navigating the busy streets filled with crowds and street vendors. Smiling local children are passengers in the rickshaw. The surrounding buildings and vehicles display rich textures of rusted weathered metal, oxidized patina, peeling paint layers, and aged industrial decay with warm orange-brown corrosion. The scene is illuminated by a warm sunset glow, casting long soft shadows and a golden rim light on the subject. The overall image features high saturation vivid colors, bold vibrant hues, an eye-catching contrast, and an energetic palette, rendered with a polished playful style and clean geometric forms for the structures. The date and time '2026-02-20 05:37 UTC' are visually displayed within the image.",
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Golden Hour",
+      "texture": "Rust / Weathered",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [
+      "美國密西根州大急流城舉辦的世界冬季嘉年華，透過色彩繽紛的戶外藝術裝置和冰火表演，將城市變成冬季仙境，為人們帶來歡樂。",
+      "英國西薩塞克斯郡的海濱小鎮沃辛被評選為英國最適合退休的地方之一，因其迷人的海岸風光和繁榮的獨立商店而備受讚譽。",
+      "印尼正全國推動終止大象騎乘活動，這項政策將東南亞的旅遊業從娛樂收入轉向動物福利，令人感到溫馨。",
+      "日本丸龜製麵（Marugame Udon）在加拿大卡加利開設了第一家分店，為當地帶來手工製作的讚岐烏龍麵，豐富了城市的美食文化。",
+      "孟加拉國達卡正在試行一項由孟加拉工程技術大學開發的電池動力電動人力車計畫，旨在提供更清潔、更安全的傳統交通替代方案。"
+    ],
+    "comment_id": 3931783931,
+    "inspiration": "孟加拉國達卡正在試行一項由孟加拉工程技術大學開發的電池動力電動人力車計畫，旨在提供更清潔、更安全的傳統交通替代方案。",
+    "idea": "在黃金時刻的達卡市區，一隻虎斑貓駕駛著一輛飽經風霜但色彩鮮豔的電動人力車，靈巧地穿梭於繁忙街道。空拍視角以等距3D插圖的風格呈現，展現出周遭建築與車輛上斑駁的鐵鏽舊化紋理，整體畫面充滿高飽和的鮮豔色彩。",
+    "story": "達卡推行的電動人力車計畫旨在提供更清潔的交通。一隻聰明的虎斑貓，繫著小巧的圍巾，已熟練地掌握了方向盤。牠專注地操控著車輛，搭載著笑容滿面的當地孩童，穿梭在人群與攤販之間，成為這城市獨特的風景。",
+    "number": 423,
+    "title": "達卡貓力車"
   }
 ]
