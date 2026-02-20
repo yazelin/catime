@@ -3580,5 +3580,18 @@
     "title": "溫室夜摺",
     "status": "success",
     "number": 426
+  },
+  {
+    "inspiration": "original",
+    "is_seasonal": true,
+    "model": "gemini-3-pro-image-preview",
+    "character": "mochi",
+    "timestamp": "2026-02-20 09:42 UTC",
+    "character_name": "麻糬",
+    "season": "winter",
+    "status": "success",
+    "title": "年糕誘惑",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-20_0942_UTC.webp",
+    "number": 427
   }
 ]

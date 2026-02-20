@@ -10313,5 +10313,48 @@
       "color_palette": "High Saturation Vivid"
     },
     "idea": "在一個宏偉而充滿新藝術風格的溫室角落，一隻貓正聚精會神地用摺紙藝術創作一幅高雅的植物雕塑，整個場景透過極低角度捕捉，沐浴在溫暖的燭光中，呈現出高飽和的鮮豔色彩與豐富的摺紙紋理。"
+  },
+  {
+    "inspiration": "original",
+    "comment_id": 3932718527,
+    "is_seasonal": true,
+    "avoid_list": [
+      "專注的貓咪",
+      "戲劇性光影與高動態範圍",
+      "體積光與光線穿透",
+      "鏽蝕舊化工業衰敗質感",
+      "移軸微縮模型攝影效果",
+      "霓虹生物發光",
+      "高飽和鮮豔色彩",
+      "等距3D插圖或攝影",
+      "復古褪色調與低對比",
+      "未來感場景與復古元素融合",
+      "光滑亮面或充氣PVC質感",
+      "畫面中顯示日期時間",
+      "大地色系調色板",
+      "非洲未來主義風格",
+      "淺景深"
+    ],
+    "character": "mochi",
+    "character_name": "麻糬",
+    "season": "winter",
+    "number": 427,
+    "title": "年糕誘惑",
+    "prompt": "An oil painting rendered with thick impasto brushstrokes and visible canvas texture. The scene captures a chubby, rounded shorthair cat named Mochi, with a white #FFFFFF base coat and bright orange #FF8C00 patches, curled snugly inside a traditional Japanese kotatsu in a bustling market corner on a cold winter morning. Mochi's RIGHT half-face (from the viewer's perspective) bears a distinct orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while the LEFT face remains entirely white. Its large, round amber #FFBF00 eyes are intensely fixed on a steaming plate of grilled mochi (rice cakes) sitting on the tabletop. A small pink #FFB6C1 nose with a tiny orange center dot subtly twitches. Mochi's RIGHT front paw, a solid orange #FF8C00 mitten extending to the wrist, subtly reaches out towards the food, while the LEFT front paw is pure white #FFFFFF. Mochi has a heart-shaped orange #FF8C00 saddle centered on its dorsal back, an orange-and-white ringed tail, and a white #FFFFFF belly. Its body is spherical with short, stubby legs. Mochi's coat is shorthair only, with solid orange patches and no tabby stripes. The composition is captured with a fisheye wide-angle lens perspective, exhibiting strong barrel distortion and an exaggerated foreground, creating an immersive 360-degree feel. The kotatsu tabletop prominently features a carbon fiber weave pattern, showcasing a high-tech lightweight material with a glossy clear coat finish, embodying a modern industrial aesthetic. The scene is illuminated by a classic three-point lighting setup: a key light casting soft shadows, a subtle fill light, and a clear rim light for distinct subject separation, highlighting Mochi. The color palette is characterized by high saturation vivid colors, bold vibrant hues, a rich visual palette, eye-catching contrast, and an energetic feel. The text '2026-02-20 09:42 UTC' is visually displayed within the image.",
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Fisheye Lens",
+      "lighting": "Three-Point Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [
+      "高通和塔塔電子公司在印度合作生產高通汽車模組，以支持該國的「印度製造」倡議。",
+      "三星電子與韓國電信在韓國首爾成功驗證了7 GHz頻段的X-MIMO技術，這是6G發展的一個重要里程碑。",
+      "英國諾森伯蘭地區正在推廣迷你觀星探險之旅，讓遊客能更深入地體驗自然與天文學的樂趣。",
+      "全球體育旅遊呈現增長趨勢，例如「馬拉松度假」和「賽事度假」等健身旅遊方式正蓬勃發展。"
+    ],
+    "idea": "一幅採用油畫風格的高飽和鮮豔色彩畫作，透過魚眼鏡頭捕捉到麻糬窩在傳統市場角落暖桌中，目光鎖定年糕的呆萌模樣，暖桌桌面呈現碳纖維質感，並以三點打光突出主角。",
+    "story": "在一個寒冷的冬日清晨，麻糬將圓滾滾的身子塞進市場角落的特製暖桌，只露出毛茸茸的頭。牠琥珀色的大眼睛緊盯著桌上那盤冒著熱氣的烤年糕，小巧的粉紅鼻頭微微顫動，盤算著如何將這些美味納入囊中。一隻橘色手套般的前腳已悄悄探出，準備隨時進行「試吃」。"
   }
 ]
