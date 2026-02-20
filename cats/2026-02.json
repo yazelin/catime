@@ -10395,5 +10395,44 @@
       "texture": "Low Poly",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Frosted Glass",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "A mixed media torn paper collage illustration, showcasing layered textures, visible paper edges, and subtle notebook lines. An elegant cat is captured in a 'mirror selfie' composition, inside a tranquil plant archive room. One of the cat's paws gently holds a strange fruit that emits a soft, organic bioluminescent glow with a deep blue-green radiance, beautifully integrated into the collage art style. The mirror itself is constructed from torn paper elements with a frosted glass texture, giving it a translucent matte surface and clearly reflecting the cat. The plant archive room's background features more frosted glass textures, allowing for diffused light transmission and revealing soft, blurred shapes of botanical specimens behind. The entire scene is rendered in a Morandi muted color palette, characterized by desaturated soft pastels and dusty grey undertones, exuding quiet elegance. The lighting is a harmonious blend of ethereal natural light and the fruit's internal bioluminescence. The composition is an intimate close-up mirror selfie with casual framing and a clear reflection. Visually displayed within the collage, perhaps on a torn paper label or as an integrated text element: '2026-02-20 11:33 UTC'.",
+    "story": "這位負責館藏的貓咪策展員，正凝神欣賞著這顆來自遙遠國度、因豐收而散發獨特光芒的果實。牠將這份關於自然富饒與微光生命力的發現，以鏡中自拍的方式永久定格，記錄下莫蘭迪色調下每一個手工撕裂的質感與靜謐瞬間。",
+    "number": 429,
+    "avoid_list": [
+      "專注的貓咪",
+      "戲劇性光影與高動態範圍",
+      "體積光與光線穿透",
+      "鏽蝕舊化工業衰敗質感",
+      "移軸微縮模型攝影效果",
+      "霓虹生物發光",
+      "高飽和鮮豔色彩",
+      "等距3D插圖或攝影",
+      "復古褪色調與低對比",
+      "未來感場景與復古元素融合",
+      "光滑亮面或充氣PVC質感",
+      "畫面中顯示日期時間",
+      "大地色系調色板",
+      "非洲未來主義風格",
+      "淺景深"
+    ],
+    "comment_id": 3933388708,
+    "inspiration": "由於果實豐收，紐西蘭的「世界最肥胖鸚鵡」卡卡波迎來了繁殖旺季，保育專家們對此感到非常振奮。",
+    "title": "微光果實鑑賞",
+    "news_inspiration": [
+      "2026年冬季奧運會於2月6日至22日在義大利的米蘭與科爾蒂納丹佩佐舉行，歐洲頂尖運動員齊聚一堂，爭奪冬季運動的最高榮譽。",
+      "日本科學家發現了一種名為ushikuvirus的巨型病毒，這項突破性發現為病毒可能在複雜生命起源中扮演的角色提供了新線索。",
+      "由於果實豐收，紐西蘭的「世界最肥胖鸚鵡」卡卡波迎來了繁殖旺季，保育專家們對此感到非常振奮。",
+      "第二屆世界工藝論壇於2026年2月1日至3日在科威特舉行，匯集了各國政策制定者和工藝師，共同探討工藝品的未來及其在社會經濟發展中的作用。"
+    ],
+    "idea": "想像一個以莫蘭迪色調為主、充滿磨砂玻璃質感的植物檔案室，整體呈現撕紙拼貼效果。一隻優雅的貓咪正透過一面同樣由撕紙拼貼構成、帶有磨砂霧面效果的鏡子進行「自拍」，牠的一隻爪子輕輕托舉著一顆發出柔和生物微光的奇異果實，其光芒與拼貼藝術風格相得益彰。"
   }
 ]
