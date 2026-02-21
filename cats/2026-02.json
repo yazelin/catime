@@ -11140,5 +11140,45 @@
     ],
     "title": "絨貓石陣",
     "story": "這隻名叫「灰塵」(Dusty) 的貓咪，總是被被遺忘的角落吸引。今天，牠發現了一箱被時間遺棄的奇特礦石，每個都帶著柔和的色澤與獨特的形狀。牠小心翼翼地推動這些小寶石，將牠們排列成一幅只屬於牠自己的抽象畫作，在環形燈的溫暖光暈下，牠的世界充滿了靜謐的專注與柔和的色彩。"
+  },
+  {
+    "news_inspiration": [
+      "中國考古學家近日在中國發現了近180萬年前的直立人頭骨，成為東亞地區最古老的人類近親證據。",
+      "泰國曼谷的文華東方酒店以「傳承展開」項目啟動其150週年慶典，紀念其悠久的歷史和先驅精神。",
+      "印度一名老師因在貧民窟創建了800間藝術教室而榮獲100萬美元獎金，為當地兒童帶來藝術教育。",
+      "在義大利米蘭科爾蒂納舉行的2026年冬季奧運會上，美國花樣滑冰選手Alysa Liu擺脫壓力，重拾快樂，並贏得了奧運金牌。",
+      "加勒比海島嶼阿魯巴推出「月光之謎」新旅遊體驗，積極推廣月球主題旅遊，吸引尋求獨特夜間探險的遊客。"
+    ],
+    "avoid_list": [
+      "視覺顯示時間戳記",
+      "倫勃朗光影",
+      "移軸微縮效果",
+      "貓咪與水晶/玻璃物件互動",
+      "遞迴圖案/德羅斯特效應",
+      "奢華金黑配色",
+      "無影日光燈照明",
+      "莫蘭迪柔和色調",
+      "真皮質感",
+      "畫意攝影風格",
+      "淺景深 (f/2.8)",
+      "貓咪從事匠人/專業活動",
+      "復古褪色調",
+      "可見底片顆粒",
+      "戲劇性明暗對比"
+    ],
+    "number": 449,
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Orthographic Projection",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Paper Texture",
+      "color_palette": "Earth Tones"
+    },
+    "title": "暖陽紙巷",
+    "inspiration": "印度一名老師因在貧民窟創建了800間藝術教室而榮獲100萬美元獎金，為當地兒童帶來藝術教育。",
+    "story": "在充滿生活氣息的窄巷一隅，陽光從高處灑落，為簡陋的藝術工作坊鍍上一層金邊。這隻貓咪是孩子們的無聲幫手，牠謹慎地將五顏六色的紙片分門別類，準備為下一堂美術課提供最純粹的創作材料。牠的每一個動作，都彷彿在為這片充滿希望的空間注入一份寧靜與秩序。",
+    "idea": "一隻毛色溫暖的貓咪，在熙攘的城市巷弄裡，專注地將各式撕紙碎片分類整理。整個場景以撕紙拼貼效果呈現，利用正交投影視角，營造出豐富的紙質肌理和大地色系氛圍，並透過背光/輪廓光強調貓咪與紙張的邊緣。",
+    "prompt": "A highly detailed torn paper collage illustration, meticulously crafted with layered textures and mixed media. The scene features a warm-furred cat, intently classifying and organizing diverse torn paper fragments in a corner of a bustling city alley. The composition utilizes orthographic projection with straight-on flat rendering and no perspective distortion, in a technical illustration style. Dramatic backlighting creates a strong rim light, casting glowing silhouette edges around the cat and the paper fragments, emphasizing their visible paper edges and rich fiber grain, giving a tactile kraft or watercolor paper feel. An earth tone color scheme prevails, incorporating terracotta, olive green, and warm browns, evoking natural organic harmony and tactile warmth. The date and time '2026-02-21 11:23 UTC' are visually displayed within the illustration, subtly integrated into a background element.",
+    "comment_id": 3938635607
   }
 ]
