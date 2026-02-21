@@ -11286,5 +11286,42 @@
       "廢棄/自然重新佔領的場景"
     ],
     "idea": "一個溫暖的色鉛筆畫場景，一隻毛色柔和的貓咪坐在一座木紋明顯的漂浮工坊裡，周圍環繞著蠟燭的微光。牠的爪子輕巧地撥弄著熔化的玻璃，將其塑造成一顆顆晶瑩的粉彩色環保珠子，背景是柔和的粉彩天空。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "在充滿普普藝術風格的里約嘉年華街頭，一隻身披藍綠羽毛頭飾的貓咪，正以液態金屬般的鼓面敲打著熱情節奏。牠在正交投影的構圖中，被背後耀眼的輪廓光勾勒出動感的身影，彷彿整個藍青色調的慶典都隨著牠的鼓點而流動。牠的舞姿充滿了冷冽而迷人的活力，吸引著周圍同樣身著藍色系服裝的狂歡者，形成一幅獨特的冷調狂想曲。",
+    "avoid_list": [
+      "遞迴圖像 (Droste 效應)",
+      "撕紙拼貼效果",
+      "貓咪專注操作或排列物品",
+      "莫蘭迪色調",
+      "紙質紋理 (可見邊緣)",
+      "未來主義場景",
+      "倫勃朗光影",
+      "超廣角視角",
+      "正交投影構圖",
+      "技術插畫風格",
+      "冰霜/結晶紋理",
+      "靜謐優雅的氛圍",
+      "廢棄/自然重新佔領的場景"
+    ],
+    "comment_id": 3938959141,
+    "news_inspiration": [
+      "在2026年米蘭科爾蒂納冬季奧運會上，美國隊在自由式滑雪混合團體空中技巧項目中再次奪金，並創造了美國隊在單屆冬奧會上獲得最多金牌的新紀錄。",
+      "位於美國的弗雷德哈奇癌症研究中心科學家在針對感染全球95%人口的愛潑斯坦-巴爾病毒方面取得了重大突破。",
+      "巴西里約熱內盧著名的嘉年華慶祝活動於二月中旬達到高潮，帶來無與倫比的歡樂與色彩。",
+      "澳洲昆士蘭州的一位圖書館員透過將州立圖書館裡奇特的珍藏品製作成病毒式傳播的社交媒體影片而廣受歡迎。"
+    ],
+    "number": 453,
+    "idea": "一隻身披藍綠羽毛、頭戴華麗頭飾的普普藝術風格貓咪，正以正交投影的構圖在里約嘉年華的街道上忘情地擊鼓起舞。背後強烈的輪廓光將牠曼妙的身姿與流動的金屬鼓面勾勒出來，整幅畫面籠罩在清新的藍青冷色調中。",
+    "prompt": "A vibrant pop art illustration. A dynamic cat with iridescent blue-green feathers and an elaborate headdress enthusiastically drums and dances on a Rio Carnival street. The scene is rendered with an orthographic projection, showing no perspective distortion, a straight-on flat rendering, and a technical illustration style. Thick outlines define the forms, similar to Ben-Day dots and Warhol-inspired repetition. Strong backlighting creates a dramatic rim light, with glowing silhouette edges outlining the cat's lithe figure and the flowing, liquid metal surfaces of the drums, which possess a mercury-like reflective flow and chrome dripping texture. The entire artwork is steeped in a cool blue-teal color grading with icy undertones, creating a crisp and serene atmosphere. Visually displayed in the image: '2026-02-21 15:26 UTC'.",
+    "title": "嘉年華之影",
+    "inspiration": "巴西里約熱內盧著名的嘉年華慶祝活動於二月中旬達到高潮，帶來無與倫比的歡樂與色彩。"
   }
 ]
