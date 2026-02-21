@@ -11360,5 +11360,38 @@
     ],
     "title": "雪祭貓影探奇",
     "idea": "一隻好奇的貓咪在札幌雪祭中，用爪子輕輕觸碰一座精緻的迷你雪雕，此場景以雙重曝光風格呈現，運用魚眼鏡頭捕捉黃金時刻下的冷色調光影，並巧妙融入木紋質感。"
+  },
+  {
+    "title": "鏽斑之心：機械脈動",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Bioluminescence",
+      "texture": "Leather",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 3939129236,
+    "idea": "一隻粗獷的虎斑貓，身著磨損的皮革背心，正以《俠盜獵車手》風格的超廣角鏡頭下，在一個充斥著生物發光機械的地下黑市車庫中，專注地校準一台由異種真菌提供動力的數據擾頻器。整體視覺呈大地色系，強調皮革質感。",
+    "avoid_list": [
+      "專注地用爪子操作",
+      "正交投影構圖",
+      "俯瞰視角",
+      "柔和粉彩色系",
+      "霓虹螢光色光芒",
+      "背光或輪廓光",
+      "燭光氛圍",
+      "液態金屬質感",
+      "織物或紙質肌理",
+      "廢棄或舊物場景",
+      "木紋質感",
+      "冷藍青色調",
+      "廣角鏡頭效果",
+      "技術插畫風格"
+    ],
+    "news_inspiration": [],
+    "prompt": "A grizzled tabby cat, named \"Rust Spot,\" wearing a worn genuine leather vest, intently calibrating an alien-fungus-powered data scrambler. The cat skillfully turns miniature screws on the device, which emits a warm yellow and deep blue-green radiance. The scene is set in a bioluminescent mechanical underground black market garage, with other masked underground traders moving in the blurred background. Grand Theft Auto art style, bold cel-shaded illustration, saturated colors, urban attitude. Ultra wide angle 12-18mm lens, dramatic perspective distortion, expansive field of view. Bioluminescent lighting, organic glow from living organisms, deep blue-green radiance, ethereal natural light. Earth tone palette with terracotta, olive green, and warm brown, reflecting natural organic harmony. Emphasize genuine leather texture, rich grain pattern, warm aged patina, and a supple, creased surface, conveying artisanal craftsmanship. Visually display '2026-02-21 17:27 UTC'.",
+    "inspiration": "original",
+    "story": "這隻名叫「鏽斑」的貓以其精湛的非法電子技術而聞名。在昏暗卻被有機光芒點亮的空間裡，它靈巧地轉動著微型螺絲，確保那裝置發出正確的暖黃與青綠色光暈。一旁，其他戴著防毒面具的地下交易者在模糊的背景中穿梭，沒有人敢打擾牠的重要工作。",
+    "number": 455
   }
 ]
