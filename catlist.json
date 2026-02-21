@@ -3743,5 +3743,14 @@
     "character_name": "鈴鈴",
     "title": "尋光之鈴",
     "number": 443
+  },
+  {
+    "number": 444,
+    "status": "success",
+    "title": "月光航跡",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-02-21 06:03 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-21_0603_UTC.webp",
+    "inspiration": "阿魯巴島推出創新的「月光之謎」旅遊項目，以促進當地月球旅遊。"
   }
 ]
