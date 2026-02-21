@@ -11432,5 +11432,42 @@
     "story": "這隻被稱作「文心」的貓，是古語傳承的秘密守護者。牠在圖書館深處，用閃耀的霓虹墨水為瀕危語言的古籍繪製符號與圖騰，確保這些沉寂的智慧能在光影交錯中重獲新生，被後世記取。牠的工作是對時光與遺忘的溫柔抵抗。",
     "prompt": "A close-up candid photograph, captured with a 50mm prime lens at f/2.8 aperture, showing a scholar cat intently focused on an ancient manuscript. The scene is perfectly isometric, a real captured photo with no miniature effect, set in a hidden, moss-covered corner of an old library. The cat, named 'Wenxin', is meticulously drawing symbols and totems on the manuscript pages using vibrant neon fluorescent inks – electric pink, lime green, hot cyan – which glow strikingly against the dark background. The manuscript itself exhibits an illuminated manuscript aesthetic, resembling medieval book art, with rich jewel-tone colors, gold leaf accents, and ornate, intricate calligraphy borders. The environment features a moss-covered surface, lush green organic overgrowth, a damp forest aesthetic, and a soft living patina. The lighting is a classic three-point setup: a soft key light casts gentle shadows, a fill light softens contrasts, and a subtle rim light provides separation, highlighting the academic atmosphere. The date and time '2026-02-21 18:36 UTC' are visually displayed within the image.",
     "inspiration": "孟加拉國達卡的天主教會數十年來一直致力於保護瀕危的當地語言。"
+  },
+  {
+    "avoid_list": [
+      "專注地用爪子操作",
+      "正交投影構圖",
+      "俯瞰視角",
+      "柔和粉彩色系",
+      "霓虹螢光色光芒",
+      "背光或輪廓光",
+      "燭光氛圍",
+      "液態金屬質感",
+      "織物或紙質肌理",
+      "廢棄或舊物場景",
+      "木紋質感",
+      "冷藍青色調",
+      "廣角鏡頭效果",
+      "技術插畫風格"
+    ],
+    "number": 457,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "character": "momo",
+    "character_name": "墨墨",
+    "idea": "在蒸汽朋克風格的舊書店深處，一隻純黑的優雅貓咪墨墨，正從高處俯瞰，慵懶地窩在一張皮革與黃銅交織的華麗扶手椅上，凝視著機械壁爐前精巧的發條機械鳥，火光映照在牠金琥珀色的眼眸裡。",
+    "is_seasonal": true,
+    "comment_id": 3939289571,
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Bird's-Eye View",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Leather",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "冬日漫長的午後，舊書店內的機械壁爐發出溫暖的轟鳴，墨墨舒服地陷在一張深色天鵝絨靠墊的皮革扶手椅中，高高在上地俯瞰著一切。牠那如墨的皮毛在暖光下泛著幽光，左耳金環閃爍。此刻，牠的注意力全被壁爐架上一隻隨著蒸汽輕微擺動的黃銅發條鳥所吸引，金琥珀色的眼睛在火光映襯下，閃爍著彷彿正在解讀機械奧秘的光芒。",
+    "title": "齒輪靜影，琥珀窺時",
+    "prompt": "A highly detailed steampunk illustration, rendered with artisanal craftsmanship, presented from a bird's-eye, top-down perspective, creating a miniature world effect. The scene captures the cozy depths of an old, Victorian-era steampunk bookstore. Dominating the foreground is Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat, with satin-sheen fur revealing warm brown undertones in direct light. Her athletic proportions and visible muscle definition are clear, and her tail tip has a slight upward curl and a single dark-grey #696969 ring. Momo is luxuriously nested high in a grand armchair, crafted from genuine leather with rich grain, warm aged patina, and supple creased surface, accented with brass gears and other Victorian-era machinery. The armchair boasts a deep, dark velvet cushion. On Momo's LEFT ear (viewer perspective), a single small gold hoop earring #FFD700 (3mm) is perfectly positioned at the mid-ear edge. A tiny natural white locket tuft #FFFFFF marks her ventral chest. Her large, luminous golden-amber #D4A017 eyes, like polished amber gems, are fixed calmly and attentively on an intricate brass clockwork mechanical bird. This steam-powered mechanism, adorned with brass gears and cogs, sits elegantly on the mantelpiece of a roaring mechanical fireplace, which emits a warm, ambient glow. The firelight vividly reflects in Momo's golden amber eyes. Long, prominent white whiskers extend from her face. The lighting is soft and diffused, providing even illumination with gentle tones and no harsh shadows, complementing the overall warm amber color grading. The atmosphere evokes a cozy, nostalgic warmth with an autumn palette of golden yellows and burnt orange, ideal for a winter's afternoon. Visually displayed in the image is '2026-02-21 19:24 UTC' on a small, integrated digital display unit with brass housing, showcasing industrial retrofuturism. Hard constraints: No collar, bandana, or necklace on the cat. Solid black fur ONLY, no other body patches or stripes. LEFT ear gold hoop ONLY; NEVER on right ear. White chest locket tuft is the sole white marking. Golden-amber #D4A017 eyes ONLY. Shorthair satin-sheen texture, NEVER long or fluffy.",
+    "season": "winter"
   }
 ]
