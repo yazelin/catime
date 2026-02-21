@@ -3810,5 +3810,14 @@
     "is_seasonal": true,
     "timestamp": "2026-02-21 12:50 UTC",
     "inspiration": "original"
+  },
+  {
+    "inspiration": "original",
+    "title": "橋墩下的霓虹脈動",
+    "timestamp": "2026-02-21 13:42 UTC",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "number": 451,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-21_1342_UTC.webp"
   }
 ]

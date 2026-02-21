@@ -11216,5 +11216,37 @@
     "is_seasonal": true,
     "character_name": "麻糬",
     "inspiration": "original"
+  },
+  {
+    "idea": "一隻貓咪在城市混凝土高架橋下方的臨時DJ台前，以刺繡風格呈現俯瞰視角。場景被閃光燈直打，塗鴉牆和DJ燈光閃爍著霓虹螢光色，營造出一個充滿活力的街頭派對氛圍。",
+    "inspiration": "original",
+    "title": "橋墩下的霓虹脈動",
+    "news_inspiration": [],
+    "avoid_list": [
+      "遞迴圖像 (Droste 效應)",
+      "撕紙拼貼效果",
+      "貓咪專注操作或排列物品",
+      "莫蘭迪色調",
+      "紙質紋理 (可見邊緣)",
+      "未來主義場景",
+      "倫勃朗光影",
+      "超廣角視角",
+      "正交投影構圖",
+      "技術插畫風格",
+      "冰霜/結晶紋理",
+      "靜謐優雅的氛圍",
+      "廢棄/自然重新佔領的場景"
+    ],
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Concrete",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "午夜時分，街頭藝人貓「聲波」在陰暗的橋墩下展開它的音樂之夜。它靈活地撥動著唱盤，讓電子節奏穿透厚重的混凝土空氣。幾隻好奇的浣熊和鴿子在霓虹燈光下圍繞，享受這場意外的街頭盛宴。",
+    "number": 451,
+    "comment_id": 3938799630,
+    "prompt": "An embroidered illustration, presented in a bird's-eye view, looking straight down, creating a miniature world effect. A cat DJ stands before a temporary DJ booth beneath a city concrete overpass. The scene is illuminated by a harsh direct on-camera flash, resulting in blown-out highlights and hard shadows, giving a raw candid snapshot look. Graffiti walls and DJ lights flash with neon fluorescent colors, including electric pink, lime green, and hot cyan, glowing vibrantly against the dark brutalist raw concrete texture of the rough aggregate surface. Visible needlework on linen fabric, featuring satin stitch and French knots, defines this handcrafted textile art piece. Curious raccoons and pigeons are visible around the DJ booth, enjoying the lively street party atmosphere. Text visually displayed in the image: '2026-02-21 13:42 UTC'."
   }
 ]
