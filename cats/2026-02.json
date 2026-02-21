@@ -11180,5 +11180,41 @@
     "idea": "一隻毛色溫暖的貓咪，在熙攘的城市巷弄裡，專注地將各式撕紙碎片分類整理。整個場景以撕紙拼貼效果呈現，利用正交投影視角，營造出豐富的紙質肌理和大地色系氛圍，並透過背光/輪廓光強調貓咪與紙張的邊緣。",
     "prompt": "A highly detailed torn paper collage illustration, meticulously crafted with layered textures and mixed media. The scene features a warm-furred cat, intently classifying and organizing diverse torn paper fragments in a corner of a bustling city alley. The composition utilizes orthographic projection with straight-on flat rendering and no perspective distortion, in a technical illustration style. Dramatic backlighting creates a strong rim light, casting glowing silhouette edges around the cat and the paper fragments, emphasizing their visible paper edges and rich fiber grain, giving a tactile kraft or watercolor paper feel. An earth tone color scheme prevails, incorporating terracotta, olive green, and warm browns, evoking natural organic harmony and tactile warmth. The date and time '2026-02-21 11:23 UTC' are visually displayed within the illustration, subtly integrated into a background element.",
     "comment_id": 3938635607
+  },
+  {
+    "avoid_list": [
+      "遞迴圖像 (Droste 效應)",
+      "撕紙拼貼效果",
+      "貓咪專注操作或排列物品",
+      "莫蘭迪色調",
+      "紙質紋理 (可見邊緣)",
+      "未來主義場景",
+      "倫勃朗光影",
+      "超廣角視角",
+      "正交投影構圖",
+      "技術插畫風格",
+      "冰霜/結晶紋理",
+      "靜謐優雅的氛圍",
+      "廢棄/自然重新佔領的場景"
+    ],
+    "style_picks": {
+      "art_style": "Gouache",
+      "composition": "Bird's-Eye View",
+      "lighting": "Bioluminescence",
+      "texture": "Liquid Metal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [],
+    "story": "冬日的老街市場，空氣中瀰漫著食物的香氣，麻糬卻選擇將牠圓潤的身軀完全埋進溫暖的暖桌裡，只露出那顆花生麻糬般的臉蛋。暖桌旁，一塊剛出爐、散發著奇異霓虹光澤與液態金屬般柔潤反光的年糕，讓牠平時呆萌的琥珀色大眼瞬間放大兩倍，裡頭寫滿了對美食的渴望。牠的右前腳，那隻標誌性的橘色「手套」，正蠢蠢欲動，盤算著如何在不驚動任何人的情況下，成功偷襲這份冬日限定的美味。",
+    "character": "mochi",
+    "comment_id": 3938735217,
+    "season": "winter",
+    "number": 450,
+    "title": "暖桌年糕夢",
+    "prompt": "A vibrant gouache painting with an opaque matte finish, showcasing bold flat colors and an illustrative quality. The composition is a bird's-eye view, a top-down perspective looking straight down, creating a miniature world effect of a cozy corner in a bustling winter old street market. Cocooned deep inside a warm kotatsu is Mochi, a chubby rounded shorthair cat with a white #FFFFFF base coat and bright orange #FF8C00 patches. Its RIGHT half-face bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Its heart-shaped orange #FF8C00 saddle is present on its upper back (partially obscured by the kotatsu). Only Mochi's adorable, peanut-mochi-like head is peeking out from the warmth. Its large round amber #FFBF00 eyes are wide with intense craving, fixed greedily on a nearby piece of glowing mochi. Its pink #FFB6C1 nose has a tiny orange center dot. Its RIGHT front paw, the iconic solid orange #FF8C00 mitten, is subtly extended and poised for a stealthy snatch, while its LEFT front paw is pure white #FFFFFF. Its tail, with orange-and-white ringed bands, is mostly hidden within the kotatsu. The kotatsu itself is diffusing a bioluminescent lighting, an organic glow from living organisms, with a deep blue-green radiance, like underwater phosphorescence, creating an ethereal natural light. The target, a soft piece of freshly made mochi (rice cake), radiates strange neon fluorescent colors including electric pink, lime green, and hot cyan, glowing against the slightly darker market background. This food-mochi has a smooth liquid metal surface, showing mercury-like reflective flow and a molten mirror finish, like chrome dripping texture, making it appear futuristic and enticing. A digital overlay displaying '2026-02-21 12:50 UTC' is prominently visible within the image.",
+    "idea": "在不透明水彩風格的畫作中，以俯瞰視角呈現冬日老街市場的一隅。主角麻糬，一隻圓滾滾的橘白貓，僅露出呆萌的頭部，窩在散發著生物發光般霓虹螢光色光芒的暖桌深處，琥珀色大眼正貪婪地凝視著旁邊一塊略帶液態金屬反光的軟糯年糕。",
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "inspiration": "original"
   }
 ]

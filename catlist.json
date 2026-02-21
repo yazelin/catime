@@ -3797,5 +3797,18 @@
     "inspiration": "印度一名老師因在貧民窟創建了800間藝術教室而榮獲100萬美元獎金，為當地兒童帶來藝術教育。",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-21_1123_UTC.webp",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-21_1250_UTC.webp",
+    "character_name": "麻糬",
+    "character": "mochi",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "season": "winter",
+    "number": 450,
+    "title": "暖桌年糕夢",
+    "is_seasonal": true,
+    "timestamp": "2026-02-21 12:50 UTC",
+    "inspiration": "original"
   }
 ]
