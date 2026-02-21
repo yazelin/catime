@@ -3837,5 +3837,14 @@
     "title": "嘉年華之影",
     "inspiration": "巴西里約熱內盧著名的嘉年華慶祝活動於二月中旬達到高潮，帶來無與倫比的歡樂與色彩。",
     "status": "success"
+  },
+  {
+    "timestamp": "2026-02-21 16:30 UTC",
+    "number": 454,
+    "status": "success",
+    "inspiration": "日本札幌正舉辦札幌雪祭，展示巨大的雪雕和精緻的冰雕，吸引遊客體驗冬季藝術的魅力。",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-21_1630_UTC.webp",
+    "title": "雪祭貓影探奇"
   }
 ]

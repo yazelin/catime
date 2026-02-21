@@ -11323,5 +11323,42 @@
     "prompt": "A vibrant pop art illustration. A dynamic cat with iridescent blue-green feathers and an elaborate headdress enthusiastically drums and dances on a Rio Carnival street. The scene is rendered with an orthographic projection, showing no perspective distortion, a straight-on flat rendering, and a technical illustration style. Thick outlines define the forms, similar to Ben-Day dots and Warhol-inspired repetition. Strong backlighting creates a dramatic rim light, with glowing silhouette edges outlining the cat's lithe figure and the flowing, liquid metal surfaces of the drums, which possess a mercury-like reflective flow and chrome dripping texture. The entire artwork is steeped in a cool blue-teal color grading with icy undertones, creating a crisp and serene atmosphere. Visually displayed in the image: '2026-02-21 15:26 UTC'.",
     "title": "嘉年華之影",
     "inspiration": "巴西里約熱內盧著名的嘉年華慶祝活動於二月中旬達到高潮，帶來無與倫比的歡樂與色彩。"
+  },
+  {
+    "number": 454,
+    "inspiration": "日本札幌正舉辦札幌雪祭，展示巨大的雪雕和精緻的冰雕，吸引遊客體驗冬季藝術的魅力。",
+    "avoid_list": [
+      "遞迴圖像 (Droste 效應)",
+      "撕紙拼貼效果",
+      "貓咪專注操作或排列物品",
+      "莫蘭迪色調",
+      "紙質紋理 (可見邊緣)",
+      "未來主義場景",
+      "倫勃朗光影",
+      "超廣角視角",
+      "正交投影構圖",
+      "技術插畫風格",
+      "冰霜/結晶紋理",
+      "靜謐優雅的氛圍",
+      "廢棄/自然重新佔領的場景"
+    ],
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Fisheye Lens",
+      "lighting": "Golden Hour",
+      "texture": "Wood Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 3939056918,
+    "story": "在札幌雪祭黃金時刻的餘暉中，一隻毛色介於藍灰與茶褐色之間的貓，被一座微型雪雕吸引。牠前爪輕柔地探向那座仿若傳統屋瓦的冰雪藝術品，眼神中充滿探索欲，周圍的冷藍色調與遠處木製攤位的暖黃燈光，透過雙重曝光與魚眼鏡頭，交織出一個既親密又廣闊的夢幻冬日片刻。",
+    "prompt": "A candid double exposure photograph at Sapporo Snow Festival. The primary exposure captures a curious blue-grey and brownish cat gently touching a miniature snow sculpture, styled like traditional roof tiles. Its front paw delicately explores the icy surface, eyes wide with discovery. The secondary exposure subtly blends in, featuring natural wood grain texture with visible knots and lines, suggesting organic surfaces and rich warm tones from nearby wooden stalls. The scene is captured with a fisheye wide-angle lens, strong barrel distortion creating an exaggerated foreground and a sense of a 360-degree view. Golden hour lighting casts a warm sunset glow and long soft shadows, with a subtle golden rim light highlighting the cat. The overall color grading is a cool blue-teal with icy undertones, conveying a crisp, serene, and calm winter atmosphere. Visually displayed on the image: '2026-02-21 16:30 UTC'.",
+    "news_inspiration": [
+      "日本札幌正舉辦札幌雪祭，展示巨大的雪雕和精緻的冰雕，吸引遊客體驗冬季藝術的魅力。",
+      "玻利維亞奧魯羅的狂歡節結合了西班牙與原住民宗教傳統，48個民俗團體將跳著惡魔舞等典型舞蹈進行朝聖。",
+      "美國史丹佛大學的科學家繪製了第一張全球地圖，顯示罕見的深層地震發生在地幔而非地殼中，集中在喜馬拉雅山脈和白令海峽等區域。",
+      "歐盟為推動時尚產業永續發展，已禁止銷毀未售出的服裝和鞋類，旨在減少浪費。"
+    ],
+    "title": "雪祭貓影探奇",
+    "idea": "一隻好奇的貓咪在札幌雪祭中，用爪子輕輕觸碰一座精緻的迷你雪雕，此場景以雙重曝光風格呈現，運用魚眼鏡頭捕捉黃金時刻下的冷色調光影，並巧妙融入木紋質感。"
   }
 ]
