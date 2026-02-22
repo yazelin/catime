@@ -11624,5 +11624,45 @@
       "texture": "Leather",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "number": 462,
+    "idea": "在以酒精墨水藝術風格呈現的正交投影畫面中，船長佇立於漁市場堆疊的木箱上，一盞聚光燈將牠與面前一條剛捕獲、色彩飽和且閃爍著幽藍光澤的大魚籠罩。牠堅毅的臉龐此刻流露出一絲難以置信的興奮與掙扎，毛茸茸的爪子微抬，既想保持威嚴又克制不住地想觸碰那條魚。整個場景覆蓋著一層細緻的底片顆粒質感。",
+    "comment_id": 3939945970,
+    "news_inspiration": [
+      "丹麥哥本哈根的研究人員開發出一種即時監測系統，能以快100倍的速度追蹤量子位元效能的快速波動，為穩定和擴展未來的量子處理器開闢新途徑。",
+      "2026年米蘭-科爾蒂納冬奧會正在義大利如火如荼地進行，挪威越野滑雪選手Johannes Hoesflot Klaebo已奪得第六枚金牌，創造歷史。",
+      "隨著農曆新年（2月17日）到來，全球各地的華人遊客正在慶祝，其中俄羅斯莫斯科的馬涅日廣場也舉辦了第三屆「歡樂春節」活動。",
+      "紐西蘭北帕莫斯頓正在舉辦文化節，透過美食、藝術、音樂和舞蹈等活動，熱烈慶祝社區的多元文化。"
+    ],
+    "story": "港口的老大「船長」，平日裡總是威風凜凜地巡邏碼頭，守護著牠的貓群。然而，當牠的銳利翠綠右眼瞥見魚販攤位上那條高飽和、近乎完美的藍色新鮮大魚時，牠瞬間僵住了。所有的威嚴都被拋諸腦後，牠的身體微微前傾，長而白的鬍鬚輕顫，心中掙扎著是否該放下身段，享受這突如其來的誘惑。",
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Spotlight",
+      "texture": "Film Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "漁市誘惑",
+    "inspiration": "紐西蘭北帕莫斯頓正在舉辦文化節，透過美食、藝術、音樂和舞蹈等活動，熱烈慶祝社區的多元文化。",
+    "character_name": "船長",
+    "prompt": "An Alcohol ink art illustration rendered with orthographic projection, showcasing no perspective distortion and a straight-on flat rendering. The scene is a bustling fish market, dramatically lit. Centrally, a large, stocky, broad-shouldered, muscular cat, Captain, stands regally upon a stack of wooden crates. Captain is a brown #5C4033 classic tabby with bold black #1A1A1A stripes, featuring a scruffy, untidy, slightly coarse fur texture of uneven lengths, never sleek. The left eye (viewer's perspective) is entirely concealed by a natural dark-pigmented fur patch #2B1B0E; there must be no fabric eye patch or strap whatsoever. The right eye is a single piercing emerald green #50C878. Its left ear has a prominent V-shaped notch. Around its neck, a faded red #CD5C5C bandana is tied loosely and visibly. It has a white #FFFFFF chest bib and white #FFFFFF mitten paws on all four feet, with a distinctive M-mark on its forehead and a thick, sturdy tail. Captain's sturdy, scruffy face conveys a complex blend of disbelief, intense excitement, and a struggle for composure. One white mitten paw is slightly raised, hovering over a freshly caught, exceptionally high saturation, vivid fish that lies on a lower crate directly in front of Captain. The fish shimmers with an ethereal, luminous blue glow, appearing almost otherworldly. The lighting is a narrow beam spotlight, creating dramatic high-contrast, sharp light edges, and deep darkness falloff around Captain and the fish. The artwork features fluid vibrant colors, unpredictable organic patterns, translucent layers, ethereal abstract effects, and free-flowing movement, presented in a technical illustration style. The color palette is energetic, with bold vibrant hues and eye-catching contrast. The entire scene is covered with visible film grain, analog texture, subtle noise, and organic photographic imperfections. The date and time '2026-02-22 02:21 UTC' are visibly displayed within the image.",
+    "avoid_list": [
+      "可視化日期時間戳",
+      "俯瞰迷你世界視角",
+      "液態金屬鏡面質感",
+      "霓虹螢光色彩",
+      "生物發光藍綠光芒",
+      "貓咪專注凝視",
+      "粗獷混凝土工業風",
+      "天然木紋暖色調",
+      "閃光燈直打強烈陰影",
+      "學者貓與古籍星盤",
+      "冰藍青色調寧靜氛圍",
+      "皮革質感復古細節",
+      "廣角鏡頭戲劇畸變",
+      "彩飾手抄本藝術"
+    ],
+    "character": "captain"
   }
 ]
