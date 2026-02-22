@@ -12080,5 +12080,41 @@
     "inspiration": "一款創新的高科技襯衫問世，讓世界各地的聽障人士能在音樂會上透過身體感受音樂的律動。",
     "number": 473,
     "title": "鳴動迴聲"
+  },
+  {
+    "title": "窗外麻糬夢",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Neon Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "日期/時間顯示於畫面中",
+      "貓咪精細操作 (例如：細心排列、校準、揉捏、擦拭)",
+      "歐普藝術圖案/光學錯覺",
+      "金與黑配色方案/奢華金色點綴",
+      "底片顆粒/類比質感",
+      "塑膠玩具/乙烯塑像質感",
+      "特定打光佈局 (例如：蝴蝶光、三點打光、環形燈、倫勃朗光、黑光UV)",
+      "反射表面/鏡子自拍構圖",
+      "極低角度/仰視構圖",
+      "正交投影/平面渲染",
+      "鬱鬱蔥蔥/苔蘚覆蓋環境",
+      "動態/震動印象",
+      "古老/未來專業主題場景 (例如：工坊、實驗室、機械室、廚房)",
+      "暖琥珀/秋季調色盤",
+      "分割視角構圖"
+    ],
+    "number": 474,
+    "story": "夜幕低垂，老街烘焙坊的霓虹招牌暈染出迷濛的光影。麻糬圓滾滾的身軀緊貼著玻璃，琥珀色的瞳孔倒映著誘人的麵包，彷彿牠自己也縮小成麵包包裝上那幅新藝術風格插畫中的一角，陷入一場香甜的夢境。肚子的微微晃動，出賣了牠對美食無盡的渴望。",
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "prompt": "An Art Nouveau style illustration capturing a chubby, rounded shorthair cat named Mochi, with a white #FFFFFF base coat and solid bright orange #FF8C00 patches (no tabby stripes). Her RIGHT half-face (viewer perspective) features an orange #FF8C00 mask extending from her nose bridge across the RIGHT cheek to the RIGHT ear, while her LEFT face is entirely white #FFFFFF. A heart-shaped orange #FF8C00 saddle is centered on her upper back. Her RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and her LEFT front paw is pure white #FFFFFF. Her belly is white #FFFFFF. She has large, round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange center dot, and an orange-and-white ringed tail. Mochi's short stubby legs and spherical torso are visible as her wide amber eyes fixate on the alluring bread displayed within the bakery window of an old street at night. The artwork embodies a Mucha-inspired Art Nouveau style, characterized by flowing organic curves, ornamental borders, and delicate floral motifs that subtly integrate into the bakery's decor and window reflections. A recursive image, a Droste effect composition, is prominently featured, with the tempting bread display or its reflection endlessly repeating within itself, creating a self-referential loop and drawing the viewer deeper into the scene's sweet dream. The moody urban night atmosphere is defined by the soft glow of vibrant neon lighting and colorful glowing signs from the old street, casting mesmerizing reflections on the window and wet surfaces. The color grading is dominated by cool blue-teal tones with icy undertones, creating a crisp, serene, and calm ambiance. The entire illustration is imbued with a visible film grain, analog texture, and subtle noise, lending an organic photographic imperfection to the digital artwork. The date and time '2026-02-22 15:26 UTC' are clearly displayed visually within the image.",
+    "comment_id": 3941204839,
+    "idea": "以新藝術風格描繪，胖胖的麻糬在夜晚老街的一間傳統烘焙坊窗外，雙眼圓睜緊盯著櫥窗內誘人的麵包。畫面運用霓虹燈光和遞迴構圖，整體沉浸在冷調藍青的底片顆粒質感中。",
+    "news_inspiration": [],
+    "character": "mochi"
   }
 ]

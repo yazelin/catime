@@ -4025,5 +4025,16 @@
     "number": 473,
     "title": "鳴動迴聲",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-22_1427_UTC.webp"
+  },
+  {
+    "title": "窗外麻糬夢",
+    "number": 474,
+    "timestamp": "2026-02-22 15:26 UTC",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-22_1526_UTC.webp",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "character": "mochi"
   }
 ]
