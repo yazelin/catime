@@ -11697,5 +11697,43 @@
       "廣角鏡頭戲劇畸變",
       "彩飾手抄本藝術"
     ]
+  },
+  {
+    "avoid_list": [
+      "可視化日期時間戳",
+      "俯瞰迷你世界視角",
+      "液態金屬鏡面質感",
+      "霓虹螢光色彩",
+      "生物發光藍綠光芒",
+      "貓咪專注凝視",
+      "粗獷混凝土工業風",
+      "天然木紋暖色調",
+      "閃光燈直打強烈陰影",
+      "學者貓與古籍星盤",
+      "冰藍青色調寧靜氛圍",
+      "皮革質感復古細節",
+      "廣角鏡頭戲劇畸變",
+      "彩飾手抄本藝術"
+    ],
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Orthographic Projection",
+      "lighting": "Ring Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "中國成功發射了全球首個「兆瓦級風力發電飛艇」，利用高空風速產生能源。",
+    "title": "苔原風艇師",
+    "news_inspiration": [
+      "巴西里約熱內盧近日舉行一年一度的嘉年華會，街道上充滿音樂、舞蹈、服裝和歡樂的氣氛。",
+      "中國成功發射了全球首個「兆瓦級風力發電飛艇」，利用高空風速產生能源。",
+      "泰國儂武里府警方喬裝成舞獅表演者，成功逮捕了一名竊盜嫌犯。",
+      "在厄瓜多爾的加拉巴哥群島，有158隻幼年巨龜被重新引入島嶼，以恢復當地生態系統。"
+    ],
+    "comment_id": 3940223159,
+    "idea": "一隻3D Q版/盲盒風格的貓咪，在一個被莫蘭迪色苔蘚覆蓋的微型機庫裡，專注地維護一艘迷你高空風力發電飛艇。場景以正交投影呈現，環形燈提供均勻柔和的光線。",
+    "prompt": "A cute Q-version 3D chibi blind box character cat, rendered with a smooth plastic toy texture, meticulously maintaining a miniature high-altitude wind power airship. The composition is an orthographic projection, presented as a straight-on flat rendering in a technical illustration style with no perspective distortion. The environment is a miniature hangar, lushly covered in moss featuring soft living patina, organic overgrowth, and a nature-reclaiming, damp forest aesthetic. Soft studio lighting from a ring light provides even frontal illumination, casting a distinct circular catchlight in the cat's eyes. The entire scene employs a Morandi muted color palette of desaturated soft pastels with dusty grey undertones, exuding quiet elegance. The date and time '2026-02-22 05:37 UTC' is visually displayed within the image.",
+    "story": "這隻名為「風絨」的貓咪，是高空能源工程師。它每天都在這個充滿苔蘚香氣的機庫中，為它的迷你風力飛艇進行細緻的檢查與維修。這些小飛艇升空後，將在雲層之上捕捉微風，為遠方靜謐的城鎮輸送源源不絕的乾淨能源。",
+    "number": 464
   }
 ]
