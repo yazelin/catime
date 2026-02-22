@@ -11963,5 +11963,44 @@
       "分割視角構圖"
     ],
     "number": 470
+  },
+  {
+    "comment_id": 3940891341,
+    "avoid_list": [
+      "日期/時間顯示於畫面中",
+      "貓咪精細操作 (例如：細心排列、校準、揉捏、擦拭)",
+      "歐普藝術圖案/光學錯覺",
+      "金與黑配色方案/奢華金色點綴",
+      "底片顆粒/類比質感",
+      "塑膠玩具/乙烯塑像質感",
+      "特定打光佈局 (例如：蝴蝶光、三點打光、環形燈、倫勃朗光、黑光UV)",
+      "反射表面/鏡子自拍構圖",
+      "極低角度/仰視構圖",
+      "正交投影/平面渲染",
+      "鬱鬱蔥蔥/苔蘚覆蓋環境",
+      "動態/震動印象",
+      "古老/未來專業主題場景 (例如：工坊、實驗室、機械室、廚房)",
+      "暖琥珀/秋季調色盤",
+      "分割視角構圖"
+    ],
+    "number": 471,
+    "news_inspiration": [
+      "美國鳳凰城於2月21日至22日舉行日本文化祭典亞利桑那祭，提供太鼓、武術及傳統日本舞等多元娛樂活動。",
+      "中國北京的科學家開發出一款名為ASTERIS的人工智慧模型，顯著提升了天文成像能力，有助於探索深空並識別遙遠星系。",
+      "紐西蘭基督城的南島華人新年慶典吸引了近十萬名遊客，透過煙火、傳統表演和美食攤位，展現了豐富的中國文化。",
+      "巴西里約熱內盧的里約公開賽於2月16日至22日舉行，作為南美洲頂級紅土網球賽事，吸引了ATP巡迴賽的頂尖選手參與。"
+    ],
+    "story": "在這座漂浮於深空中的極簡柱狀觀測站內，一隻充滿好奇心的貓咪正運用其敏銳的感官，探索著宇宙的奧秘。牠的爪子輕觸著控制面板上巨大且富有圖騰感的按鈕，沉浸在由AI模型解析並以特林吉特形線藝術風格重構的星辰大海中，試圖辨識出遙遠星系間隱藏的訊息。",
+    "title": "深空形線",
+    "prompt": "A Tlingit totem art style cat, rendered with bold ovoid and U-shapes, animal motifs, and a dominant red and black on cedar color scheme. The cat's entire body has the appearance of inflatable PVC material, with a high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. It gazes intently through a large circular window, illuminated by a ring light, creating a circular catchlight in its eyes and even frontal lighting reminiscent of a beauty portrait. Through the window, a distant galaxy, also depicted in Tlingit formline art style, is visible. The cat's paw rests on control panel buttons. The scene is set within a minimalist cylindrical observation station floating in deep space. The entire image is presented with orthographic projection, no perspective distortion, and a straight-on flat rendering in a technical illustration style. Colors are high saturation, vivid, bold, and vibrant, creating eye-catching contrast and an energetic palette. Text '2026-02-22 12:52 UTC' is visually displayed.",
+    "inspiration": "中國北京的科學家開發出一款名為ASTERIS的人工智慧模型，顯著提升了天文成像能力，有助於探索深空並識別遙遠星系。",
+    "idea": "一隻以特林吉特圖騰藝術風格繪製的貓，全身覆蓋著充氣PVC材質的光滑質感，正透過環形燈照亮的圓形視窗凝視著以相同風格呈現的遙遠星系，畫面以正交投影呈現出高飽和鮮豔的色彩。",
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Ring Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
