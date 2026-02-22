@@ -12041,5 +12041,44 @@
       "texture": "Carbon Fiber",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "avoid_list": [
+      "日期/時間顯示於畫面中",
+      "貓咪精細操作 (例如：細心排列、校準、揉捏、擦拭)",
+      "歐普藝術圖案/光學錯覺",
+      "金與黑配色方案/奢華金色點綴",
+      "底片顆粒/類比質感",
+      "塑膠玩具/乙烯塑像質感",
+      "特定打光佈局 (例如：蝴蝶光、三點打光、環形燈、倫勃朗光、黑光UV)",
+      "反射表面/鏡子自拍構圖",
+      "極低角度/仰視構圖",
+      "正交投影/平面渲染",
+      "鬱鬱蔥蔥/苔蘚覆蓋環境",
+      "動態/震動印象",
+      "古老/未來專業主題場景 (例如：工坊、實驗室、機械室、廚房)",
+      "暖琥珀/秋季調色盤",
+      "分割視角構圖"
+    ],
+    "comment_id": 3941052041,
+    "story": "在一間燈光昏暗、充滿現代藝術氛圍的展覽廳內，一隻姿態高貴的暹羅貓靜靜地端坐於拋光石座上。牠頸間的透明樹脂項圈，隨著空氣中細微的聲波，閃爍著高飽和度的鮮豔光芒，引領牠進入一場獨特的感官體驗。牆上排列的反射性畫框映照出無數個重複的貓咪身影，營造出深邃的遞迴視效，為這場私人「聽」覺盛宴增添了神秘與戲劇性。",
+    "news_inspiration": [
+      "在厄瓜多爾的加拉巴哥群島，曾一度消失的鳥類物種正逐漸重現生機，帶來令人振奮的保育成果。",
+      "在美國紐奧良，為了推廣環境友善，一些狂歡節團體已開始用玻璃珠代替傳統的塑膠珠用於遊行拋灑。",
+      "在加拿大多倫多，唐河（Don River）的水質顯著改善，大量魚類已重新回到河中。",
+      "一款創新的高科技襯衫問世，讓世界各地的聽障人士能在音樂會上透過身體感受音樂的律動。"
+    ],
+    "prompt": "A fashion editorial photograph of an elegant Siamese cat, posed dramatically on a polished stone pedestal within a dimly lit modern art exhibition space. Around its neck, a translucent resin collar glows with high saturation vivid colors, subtly pulsating as if reacting to ambient sound waves. The collar's glossy, smooth surface shows embedded elements within its amber-like clarity. The background features a striking Droste effect created by reflective picture frames, forming a recursive image that repeats infinitely, creating a self-referential loop. The scene is lit by warm, flickering candlelight, casting soft dancing shadows and creating an intimate atmosphere, all captured with magazine-quality lighting. Photographed with a 50mm prime lens at f/1.8, focusing sharply on the cat and its glowing device, creating a shallow depth of field. The image's color palette emphasizes bold vibrant hues and eye-catching contrast against the darker surroundings, delivering an energetic feel. Visually displayed text overlay '2026-02-22 14:27 UTC'.",
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Candlelight",
+      "texture": "Translucent Resin",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "這是一幅時尚編輯攝影風格的影像，一隻優雅的貓咪佩戴著發光的透明樹脂裝置，在燭光營造的遞迴/德羅斯特效應空間中，感受音樂的律動。",
+    "inspiration": "一款創新的高科技襯衫問世，讓世界各地的聽障人士能在音樂會上透過身體感受音樂的律動。",
+    "number": 473,
+    "title": "鳴動迴聲"
   }
 ]
