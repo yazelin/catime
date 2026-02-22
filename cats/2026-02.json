@@ -12299,5 +12299,43 @@
     "idea": "在一個富麗堂皇的裝飾藝術風格書房中，墨墨優雅地棲息在雕花壁爐架上，深邃的金琥珀色眼睛凝視著一面巨大的、幾何線條分明的藝術裝飾鏡中自己的倒影。暖色調的體積光透過菱格玻璃窗灑落，照亮空氣中的微塵與天鵝絨織品的光澤，營造出如同鏡子自拍般的構圖。",
     "story": "墨墨輕輕抬頭，看著鏡中那個熟悉而又帶著一絲神秘的自己。牠的純黑毛髮在光影間閃爍著深棕暖調，胸前的白毛如領結般精緻。牠享受著高處的寂靜與俯瞰的視野，偶爾會在鏡中對自己的優雅姿態給予無聲的肯定。",
     "title": "鏡中墨影"
+  },
+  {
+    "story": "這隻貓學者被近期關於仙女座星系巨星塌縮的發現深深吸引。在幽暗的觀測室中，黑光螢光下，牠孜孜不倦地更新著古老的星圖，試圖將新的宇宙奧秘融入牠對恆星生命的理解。桌面上的磨砂玻璃杯與反射，讓其專注的表情被捕捉，彷彿在與更廣闊的宇宙進行無聲對話。",
+    "number": 480,
+    "style_picks": {
+      "art_style": "Gouache",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Frosted Glass",
+      "color_palette": "Earth Tones"
+    },
+    "title": "星圖新章",
+    "inspiration": "科學家近日發現仙女座星系一顆巨星未爆炸即直接塌縮成黑洞，此天文新發現改寫了恆星死亡模式。",
+    "news_inspiration": [
+      "義大利米蘭冬奧在維洛納圓形競技場舉行閉幕式，為兩週精彩賽事劃下句點，2030年冬奧將由法國阿爾卑斯山地區接棒。",
+      "科學家近日發現仙女座星系一顆巨星未爆炸即直接塌縮成黑洞，此天文新發現改寫了恆星死亡模式。",
+      "世界各地城市如美國紐約、俄羅斯聖彼得堡、英國倫敦等，點亮地標「中國紅」並舉辦多元文化活動，共慶馬年春節。",
+      "在美國新墨西哥州的白沙國家公園，持續有研究證實人類足跡已有兩萬年歷史，顛覆了北美人類早期居住的傳統認知。",
+      "根據Booking.com的「2026年十大旅遊趨勢」報告，台灣旅人對於科技感旅宿和懷舊旅行表現出高度興趣。"
+    ],
+    "avoid_list": [
+      "日期時間戳記顯示",
+      "貓咪專注凝視",
+      "貓咪細緻操作",
+      "半透明樹脂與嵌入物",
+      "Knolling式排列",
+      "遞迴/德羅斯特效應",
+      "體積光與塵埃光束",
+      "復古褪色與底片顆粒",
+      "Cinema 4D風格與柔和全域照明",
+      "霓虹螢光色調",
+      "頂部螢光燈均勻照明",
+      "淺景深",
+      "高飽和鮮豔對比"
+    ],
+    "comment_id": 3941741919,
+    "idea": "在一個被遺忘的山頂天文台圓形觀測室內，一隻短毛貓正以不透明水彩畫風，專注地用一支微光碳筆在泛黃羊皮紙上繪製星圖和恆星塌縮軌跡，其身影與工作桌面透過磨砂玻璃窗戶反射出獨特的黑光螢光，形成鏡子自拍般的構圖。",
+    "prompt": "An intimate close-up, mirror selfie-like composition: The primary view is a unique blacklight fluorescent reflection, seen through a frosted glass window, of a scholarly short-haired cat. The cat is deeply engrossed, meticulously updating ancient star maps and stellar collapse trajectories on aged parchment using a glowing carbon pen. Inside a forgotten mountaintop observatory's circular observation room, the cat's figure, its work surface, and a frosted glass cup are bathed in Blacklight UV illumination. Fluorescent pigments glow with vibrant neon colors against the dark background, exhibiting an ethereal ultraviolet luminescence. The underlying scene elements, such as the observatory interior, utilize an earth tone palette of terracotta, olive green, and warm brown, creating a natural organic harmony. The artistic style is opaque watercolor painting with a gouache painting finish, characterized by an opaque matte finish, bold flat colors, and illustrative quality. The date and time '2026-02-22 21:26 UTC' is clearly displayed on a small illuminated digital screen integrated into the cat's workspace."
   }
 ]
