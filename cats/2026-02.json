@@ -11923,5 +11923,45 @@
     "idea": "描繪一隻貓在越南廣闊的花田中，以野獸派風格呈現其飽和而奔放的暖色調。畫面採分割視角，透過環形燈光和3D渲染質感，捕捉貓咪專注修剪花朵的瞬間。",
     "inspiration": "越南各地的花季旅遊正蓬勃發展，從蕎麥花到櫻花，吸引大量遊客前來觀賞美景，為當地生態旅遊開闢新徑。",
     "comment_id": 3940666331
+  },
+  {
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Knolling Photography",
+      "lighting": "Moonlight",
+      "texture": "Translucent Resin",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 3940737303,
+    "inspiration": "日本茨城縣牛久沼發現了一種巨型病毒「Ushikuvirus」，可能為複雜生命的起源提供線索。",
+    "news_inspiration": [
+      "日本茨城縣牛久沼發現了一種巨型病毒「Ushikuvirus」，可能為複雜生命的起源提供線索。",
+      "2026年米蘭-科爾蒂納冬奧會男子冰球決賽於今日（2月22日）在義大利舉行，加拿大隊將對陣美國隊。",
+      "歐盟實施新規定，禁止銷毀未售出的衣物和鞋子，以促進時尚產業的永續發展。",
+      "科學家在非洲尼日共和國的撒哈拉沙漠中發現了劍冠棘龍（Spinosaurus mirabilis）的新物種化石。",
+      "巴西里約熱內盧在二月舉行盛大的嘉年華會，以其熱情森巴舞遊行和華麗服飾聞名全球。"
+    ],
+    "prompt": "Overhead flat lay photograph: A focused cat meticulously arranges multiple translucent resin miniature structures on black sand within an abandoned Japanese dry garden. The structures, glossy smooth with amber-like clarity and visible embedded elements, are precisely arranged in a Knolling style, forming a complex circular design with radial symmetry. This arrangement evokes meditative sacred geometry and finely detailed concentric geometric patterns, appearing as a 'life origin' model. The scene is bathed in moonlight illumination, casting cool blue tones and a gentle silvery glow, creating a quiet nighttime atmosphere. The overall image has a retro faded color palette, washed-out vintage tones, low contrast, and a nostalgic film-era warmth. Shot with a prime lens, f/2.8, low ISO, subtle film grain, natural light. Visually display '2026-02-22 11:22 UTC' within the frame.",
+    "idea": "在月光籠罩的廢棄日式枯山水庭園中，一隻貓正以曼陀羅藝術風格，將多個半透明樹脂製成的、帶有精細圖案的微型結構體，進行Knolling式排列。",
+    "story": "貓咪的目光專注而深邃，牠小心翼翼地將這些在月光下散發著復古褪色光芒的晶體置於黑沙之上，彷彿在探索或重構著生命的最初藍圖。這些透明樹脂結構體彼此之間構成和諧的幾何圖案，形成一個複雜而迷人的生命起源模型。",
+    "title": "月下生命曼陀羅",
+    "avoid_list": [
+      "日期/時間顯示於畫面中",
+      "貓咪精細操作 (例如：細心排列、校準、揉捏、擦拭)",
+      "歐普藝術圖案/光學錯覺",
+      "金與黑配色方案/奢華金色點綴",
+      "底片顆粒/類比質感",
+      "塑膠玩具/乙烯塑像質感",
+      "特定打光佈局 (例如：蝴蝶光、三點打光、環形燈、倫勃朗光、黑光UV)",
+      "反射表面/鏡子自拍構圖",
+      "極低角度/仰視構圖",
+      "正交投影/平面渲染",
+      "鬱鬱蔥蔥/苔蘚覆蓋環境",
+      "動態/震動印象",
+      "古老/未來專業主題場景 (例如：工坊、實驗室、機械室、廚房)",
+      "暖琥珀/秋季調色盤",
+      "分割視角構圖"
+    ],
+    "number": 470
   }
 ]
