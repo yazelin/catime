@@ -12153,5 +12153,42 @@
       "高飽和鮮豔色彩"
     ],
     "idea": "在撒哈拉沙漠深處的野外研究帳篷內，一隻專注的姜黃貓正在墨流風格的背景下，透過晶瑩的放大鏡，用精巧的工具小心翼翼地清潔著一塊帶有劍狀脊椎紋理的化石碎片，桌上科研工具以排列攝影方式整齊佈置，周圍塵埃中充滿復古褪色色調的體積光。"
+  },
+  {
+    "avoid_list": [
+      "貓咪擦拭機械/管道",
+      "環形燈光與圓形眼神光",
+      "奢華金黑配色",
+      "冷調藍青色系",
+      "垂直分割視角構圖",
+      "遞迴/德羅斯特效應",
+      "半透明樹脂材質",
+      "塑膠/充氣材質質感",
+      "底片顆粒質感",
+      "貓咪與微縮模型",
+      "古老機械/鐘樓場景",
+      "夢幻/寧靜氛圍",
+      "高飽和鮮豔色彩"
+    ],
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Floating Island Scene",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 476,
+    "inspiration": "為了推廣環保，美國紐奧良的一些狂歡節團體在遊行中選擇以玻璃製品取代傳統的塑膠珠串。",
+    "news_inspiration": [
+      "在馬達加斯加安齊拉貝，一些嘟嘟車司機穿著二手運動鞋，挑戰全球最艱難的超級馬拉松賽事，展現出驚人的毅力與運動精神。",
+      "在厄瓜多加拉巴哥群島，158隻曾滅絕180年的巨型瀕危陸龜被成功野放，重返牠們的自然棲息地，象徵著保育工作的重大勝利。",
+      "為了推廣環保，美國紐奧良的一些狂歡節團體在遊行中選擇以玻璃製品取代傳統的塑膠珠串。",
+      "在加拿大多倫多，唐河的生態復育工作取得顯著成效，大量魚群重新湧入河中，展現了環境保護的積極成果。"
+    ],
+    "title": "碎光地圖師",
+    "story": "在懸浮於廣袤虛空中的一個古老建築碎片上，一隻專注的黑貓正用細膩的爪子，將曾是狂歡節珠串的碎裂玻璃片，鑲嵌於一張黑曜石般的底板。每片玻璃在背光的映襯下閃爍著金色與暗紅色的光芒，牠彷彿在繪製一條通往未知彼岸的琉璃航線，映射著遺失的慶典與重生的希望。",
+    "idea": "一隻毛髮深邃的貓，在一個以交叉沖洗藝術風格呈現的浮島工坊裡，背光下，精心地以絞染質感的暗金與黑色碎玻璃，拼接出一幅璀璨的星辰地圖。",
+    "prompt": "A deep-furred black cat meticulously pieces together a cosmic star map on a floating island workshop. The map is crafted from shattered glass, glittering with dark gold and black, imbued with Shibori-like organic patterns. The miniature landscape of the workshop is suspended in a surreal, cloud-filled void, captured from an aerial perspective. Dramatic backlighting with glowing rim light outlines the cat and the island, creating strong silhouettes and heightened contrasts. The art style features cross-processing aesthetics, experimental color shifts, unpredictable color casts, and surreal, unconventional hues, evoking a retro-vintage, opulent feel. Visually displayed in the image: '2026-02-22 17:26 UTC'.",
+    "comment_id": 3941408853
   }
 ]
