@@ -12605,5 +12605,44 @@
       "texture": "Low Poly",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "idea": "一隻黑貓在加拉巴哥群島一座古老黑大理石觀測站內，透過反射光亮的黑曜石窗戶凝視著遠方，手機隨拍風格捕捉貓咪在窗面反射中與戶外微弱生物發光歸巢鳥影交織的瞬間，呈現金色與黑色奢華的視覺感受。",
+    "title": "黑曜窺歸",
+    "prompt": "A candid smartphone snapshot, captured with a wide aperture lens for subtle shallow depth of field and natural grain. '2026-02-23 10:39 UTC' is visibly displayed in the image. The scene features a mysterious black cat in an intimate close-up perspective, casually framed inside an ancient black marble observatory in the Galapagos Islands, boasting luxurious metallic gold accents and a deep black background. The cat gazes intently into the distance through a highly reflective obsidian window, creating a compelling mirror selfie composition. A clear visible reflection of the black cat dominates the window surface. Outside and faintly intermingling with the reflection, silhouettes of homing birds, emitting an organic glow from living organisms with deep blue-green radiance, streak across the night sky, illuminated by subtle bioluminescent lighting. The interior is lit by natural lighting. The observatory's polished marble texture, showcasing natural vein patterns and a cool smooth finish, contributes to a luxurious stone surface aesthetic. The overall image presents a classical elegance with an opulent mood, defined by a rich gold and black color scheme.",
+    "news_inspiration": [
+      "在義大利米蘭-科爾蒂納舉行的2026年冬季奧運會，首次使用不含PFAS的環保滑雪蠟，展現體育賽事對永續發展的承諾。",
+      "香港維多利亞港於農曆新年期間舉辦了一場由資深設計師精心策劃的壯觀煙花匯演，吸引了眾多居民和遊客。",
+      "在加拿大，「Heated Rivalry」節目的粉絲為慶祝哈德遜·威廉斯生日，為一家兒童醫院籌集了超過6.3萬加元善款，展現溫馨善舉。",
+      "厄瓜多加拉帕戈斯群島上，一些曾被認為消失的鳥類正逐漸回歸，為野生動物保育帶來好消息。"
+    ],
+    "avoid_list": [
+      "時間戳記視覺化顯示",
+      "貓咪專業角色扮演",
+      "鏡子自拍或玻璃反射構圖",
+      "溫暖體積光與塵埃中光線",
+      "不透明水彩或水粉畫質感",
+      "C4D美學與平滑潔淨幾何",
+      "霓虹螢光色調與暗背景",
+      "專注精細動作的貓咪",
+      "藍青色調與冰冷底色",
+      "經典三點打光",
+      "懷舊溫暖或復古褪色色調",
+      "晶瑩玻璃折射與稜鏡反射",
+      "俯瞰或鳥瞰視角",
+      "中性白螢光燈無影照明",
+      "織物紋理與柔軟觸感"
+    ],
+    "number": 488,
+    "story": "在偏遠的加拉巴哥群島深處，一座由黑大理石與黃金鑲嵌的隱秘觀測站內，一隻神秘的黑貓正好奇地探頭。牠的凝視被反射在窗戶上，宛如一幅鏡子自拍，而窗外，曾被認為消失的生物發光鳥類正劃過夜空，為牠帶來一場奢華而靜謐的自然奇觀。這張隨手拍下的照片，捕捉了生命迴歸的莊嚴與貓咪獨特的優雅。",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Marble",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 3943964854,
+    "inspiration": "厄瓜多加拉巴哥群島上，一些曾被認為消失的鳥類正逐漸回歸，為野生動物保育帶來好消息。"
   }
 ]
