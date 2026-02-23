@@ -4197,5 +4197,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-23_1401_UTC.webp",
     "number": 491,
     "title": "河畔螢光語"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-23_1537_UTC.webp",
+    "title": "舞獅疑雲下的貓眼",
+    "number": 492,
+    "timestamp": "2026-02-23 15:37 UTC",
+    "inspiration": "泰國暖武里府（Nonthaburi, Thailand）警方喬裝成舞獅表演者，成功逮捕一名連環竊賊。",
+    "status": "success",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)"
   }
 ]
