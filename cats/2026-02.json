@@ -12565,5 +12565,45 @@
     "news_inspiration": [],
     "inspiration": "original",
     "comment_id": 3943367182
+  },
+  {
+    "title": "熱能迴廊下的巨影",
+    "idea": "熱成像風格、低多邊形、單色調：一隻矯捷的黑貓，在亞馬遜深處的低多邊形研究碉堡中，專注地用爪子繪製著一個巨大未知生物的熱感圖譜，畫面透過遞迴的熱感螢幕循環顯示，整體籠罩著黃金時刻般的柔和熱能光暈。",
+    "avoid_list": [
+      "時間戳記視覺化顯示",
+      "貓咪專業角色扮演",
+      "鏡子自拍或玻璃反射構圖",
+      "溫暖體積光與塵埃中光線",
+      "不透明水彩或水粉畫質感",
+      "C4D美學與平滑潔淨幾何",
+      "霓虹螢光色調與暗背景",
+      "專注精細動作的貓咪",
+      "藍青色調與冰冷底色",
+      "經典三點打光",
+      "懷舊溫暖或復古褪色色調",
+      "晶瑩玻璃折射與稜鏡反射",
+      "俯瞰或鳥瞰視角",
+      "中性白螢光燈無影照明",
+      "織物紋理與柔軟觸感"
+    ],
+    "number": 487,
+    "prompt": "A highly stylized digital illustration in a unique fusion of `Low-poly style` and `thermal imaging style`. The scene depicts a `nimble black cat` deep within a hidden, `polygon mesh facets` research bunker in the Amazon. The bunker walls and internal structures exhibit a `geometric crystalline surface` and `flat shaded triangular faces`, giving a `digital origami aesthetic` with `high contrast` and `rich tonal range` in its geometric forms. The entire environment is saturated with a `warm heat map color gradient`, ranging through soft yellows, oranges, and reds. \n\nThe cat is intensely focused, its `paws carefully touching` a large primary `thermal analysis screen`. On this screen, a colossal, unknown creature's form is `precisely outlined` and `temperature visualized` using `infrared vision` within this warm thermal palette. This primary screen, in turn, displays smaller, `recursive image` screens within itself, creating a dramatic `Droste effect`, a `picture within a picture repeating infinitely`, forming a `self-referential loop` of thermal data. \n\nThe overall lighting is `golden hour lighting`, casting a `warm sunset glow` that permeates the scene, creating `long soft shadows` and a `golden rim light on the subject` (the cat and main screen). The date and time '`2026-02-23 09:42 UTC`' are digitally displayed as a subtle data overlay on the main thermal screen.",
+    "inspiration": "在亞馬遜雨林，威爾·史密斯拍攝紀錄片時發現了一條長達7.5米的巨型水蟒，其體型遠超以往紀錄。",
+    "story": "在亞馬遜雨林深處一座隱秘的低多邊形研究碉堡內，一隻黑貓正以其獨特的方式「測量」著地球上最巨大的熱源之一。牠的爪子小心翼翼地觸碰著主熱感螢幕，螢幕上以黑白低多邊形風格，精確地勾勒出某種巨大生物的輪廓，而螢幕中又重複顯示著更小的螢幕，形成德羅斯特效應。整個場景的熱感圖像流動著黃金時刻特有的溫暖與深度，宛如一個關於發現與探索的無盡循環。",
+    "comment_id": 3943673116,
+    "news_inspiration": [
+      "科學家在尼日爾的撒哈拉沙漠中發現了一種新的巨型鐮冠棘龍化石，為棘龍的演化提供了重要新證據。",
+      "在加納阿克拉，因總統穿著傳統服飾Fugu遭嘲笑，反而引發當地民眾更自豪地穿著這種服飾的熱潮，旅遊部長更宣布「Fugu日」。",
+      "在亞馬遜雨林，威爾·史密斯拍攝紀錄片時發現了一條長達7.5米的巨型水蟒，其體型遠超以往紀錄。",
+      "美國華盛頓特區的學生們透過充滿活力的傳統服飾和表演，慶祝農曆新年，展現了東南亞和東亞的多元文化傳統。",
+      "沙特阿拉伯的薩卡卡文化之家舉辦了開國日慶祝活動，展示了沙特傳統手工藝品、社會遺產和豐富的文化身份。"
+    ],
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Golden Hour",
+      "texture": "Low Poly",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
