@@ -12452,5 +12452,42 @@
     "title": "風雪中的舵手",
     "is_seasonal": true,
     "comment_id": 3942193630
+  },
+  {
+    "number": 484,
+    "avoid_list": [
+      "日期時間戳記顯示",
+      "貓咪專注凝視",
+      "貓咪細緻操作",
+      "半透明樹脂與嵌入物",
+      "Knolling式排列",
+      "遞迴/德羅斯特效應",
+      "體積光與塵埃光束",
+      "復古褪色與底片顆粒",
+      "Cinema 4D風格與柔和全域照明",
+      "霓虹螢光色調",
+      "頂部螢光燈均勻照明",
+      "淺景深",
+      "高飽和鮮豔對比"
+    ],
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Miniature Diorama",
+      "lighting": "Bioluminescence",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "在一座宏偉而廢棄的紡織品倉庫內，一隻優雅的布偶貓正身處堆積如山的洛可可風格織物之間，以微縮立體模型的視角呈現，牠正用爪子仔細地在其中一塊華麗錦緞上「繪製」路徑。這場景以其織品紋理和生物發光冷色調光線，呈現出獨特的洛可可藝術風格。",
+    "news_inspiration": [
+      "在義大利米蘭和科爾蒂納丹佩佐舉行的2026年冬季奧運會上，哈薩克花式溜冰選手米哈伊爾·沙伊多羅夫為國家贏得了32年來的首枚冬奧金牌，這也是該國史上第一枚花式溜冰金牌。",
+      "科學家在尼日爾中部的撒哈拉沙漠發現了一種新的劍形冠棘龍物種，名為Spinosaurus mirabilis，為棘龍科的演化提供了重要的新化石證據。",
+      "歐盟頒布新規定，禁止企業銷毀未售出的紡織品和鞋類，以應對過度生產問題並促進時尚產業的永續發展。",
+      "兩名法國探險家從法國安錫出發，歷時一年半，徒步穿越16個國家，最終抵達中國上海，完成了史詩般的長途跋涉。"
+    ],
+    "story": "隨著歐盟頒布新的永續發展法規，昔日被銷毀的紡織品如今堆滿了這座古老的倉庫。夜幕降臨，在幽微的藍綠色生物發光絲線和玻璃罐光芒中，這隻布偶貓化身為無聲的探險家，將這一片柔軟的、由被遺棄的絲綢和天鵝絨組成的「世界」盡收眼底，似乎在規劃著這些織物新生的旅程。",
+    "inspiration": "歐盟頒布新規定，禁止企業銷毀未售出的紡織品和鞋類，以應對過度生產問題並促進時尚產業的永續發展。",
+    "title": "錦緞山海圖",
+    "comment_id": 3942855249,
+    "prompt": "A Rococo style illustration of an elegant Ragdoll cat in a grand, abandoned textile warehouse, rendered as a miniature diorama with a tilt-shift effect. Mountains of flamboyant pastel Rococo textiles, adorned with flowing ornamental curves and elaborate decorative detail, engulf the scene. The cat gently 'paints' paths with its paw on a magnificent brocade fabric, its focused activity highlighted by deep blue-green bioluminescent lighting and an organic glow from living organisms, reminiscent of underwater phosphorescence, casting an ethereal cool blue-teal radiance over the entire tiny detailed world. The textiles exhibit strong woven fabric texture, visible threads, and a tactile soft appearance, creating a crisp, serene, and calm mood with icy undertones. A subtle, bioluminescent digital display within the diorama clearly shows '2026-02-23 05:58 UTC'."
   }
 ]
