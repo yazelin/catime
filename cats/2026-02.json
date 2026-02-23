@@ -12411,5 +12411,46 @@
     "story": "寒冷的空氣中，強烈的聚光燈營造出三點打光，凸顯貓咪在藍青色調混凝土柱上的身影，其動作與背後那座雕刻精美的巴洛克式冰雕形成動態對比。冰晶在冷色調下閃爍，而貓咪則在無人注意的角落，享受著屬於自己的鋒利時刻。",
     "title": "冰祭磨爪",
     "inspiration": "日本札幌冰雪節展出巨型雪雕和精美冰雕，吸引眾多遊客。"
+  },
+  {
+    "idea": "在一個以未來主義風格重新詮釋的冬季漁港碼頭，船長穿著迷你航海外套，堅毅地站在結冰的防波堤頂端。畫面以對稱構圖展現其雄偉身影，倫勃朗光束穿透磨砂玻璃般的風雪，雕塑出牠寬厚的胸膛，牠正默默地用身體為一隻依偎在牠身後的小貓遮擋風雪，色彩飽和鮮豔而充滿力量。",
+    "number": 483,
+    "avoid_list": [
+      "日期時間戳記顯示",
+      "貓咪專注凝視",
+      "貓咪細緻操作",
+      "半透明樹脂與嵌入物",
+      "Knolling式排列",
+      "遞迴/德羅斯特效應",
+      "體積光與塵埃光束",
+      "復古褪色與底片顆粒",
+      "Cinema 4D風格與柔和全域照明",
+      "霓虹螢光色調",
+      "頂部螢光燈均勻照明",
+      "淺景深",
+      "高飽和鮮豔對比"
+    ],
+    "news_inspiration": [
+      "義大利米蘭和科爾蒂納丹佩佐的2026年冬季奧運會於2月22日閉幕，期間創造了多項紀錄並引入了新的比賽項目，為全球冬季運動愛好者帶來難忘時刻。",
+      "韓國科學家在成均館大學開發了一項突破性的水過濾技術，能有效去除水中難以察覺的超細納米塑料，有望改善全球飲用水質量。",
+      "在澳洲布里斯班的Suncorp體育場，一名澳洲海軍樂手在2026年愛丁堡皇家軍樂節上表演，為全球觀眾帶來一場精彩的文化盛事。",
+      "巴西里約熱內盧的嘉年華於2月13日至21日盛大舉行，以其標誌性的遊行和充滿活力的慶祝活動吸引了世界各地的人們。"
+    ],
+    "season": "winter",
+    "story": "凜冽的寒風夾帶雪花呼嘯而過，船長獨自矗立在防波堤的最高點，翠綠的右眼銳利地掃視著風雪中的海面，左眼罩在強光下更顯深邃。牠厚實的皮毛和迷你航海外套抵禦著嚴寒，其褪色的紅色頭巾在衣領處若隱若現，身後一隻瑟瑟發抖的小貓正安心地躲在牠粗壯的尾巴和身體形成的庇護所中，這是牠對這片水域無言而堅定的守護。",
+    "prompt": "A powerful, dramatically illuminated illustration in Futurism art style, featuring a large, stocky brown #5C4033 classic tabby cat, the 'Captain', with bold black #1A1A1A stripes and a broad, muscular build. Its fur is scruffy, untidy, and slightly coarse with uneven lengths. The Captain stands resolutely on the icy peak of a futuristic winter fishing port breakwater, enduring a fierce blizzard. Its left eye (viewer's perspective) is permanently concealed by a natural dark-pigmented fur patch #2B1B0E that covers the eye socket, not a fabric or leather patch, with no straps. Its right eye is a single piercing emerald green #50C878, keenly scanning the stormy sea. A prominent V-shaped notch is on its left ear. A faded red #CD5C5C bandana is tied loosely around its neck, visible beneath a mini sailor jacket, appropriate for the harsh winter conditions. White #FFFFFF chest bib and white mitten paws are visible on all four feet, with a distinctive M-mark on its forehead. Its thick, sturdy tail and powerful body form a protective shelter for a small, shivering kitten nestled securely behind it, shielding the kitten from the relentless wind and snow. The scene employs a perfectly symmetrical composition with the Captain centered, achieving mirror-like balance and architectural framing. Dynamic motion lines and fragmented overlapping forms convey a strong sense of velocity and energy, creating an angular kinetic composition. Rembrandt lighting, with a single light source at 45 degrees, sculpts the Captain's broad chest and majestic silhouette, casting a signature triangle of light on its shadowed cheek and creating dramatic chiaroscuro. This intense light beam pierces through the frosted glass-like wind and snow, which appears as a translucent matte surface with diffused light transmission, revealing soft blurred shapes in the background. The overall color palette features high saturation vivid colors, bold vibrant hues, and eye-catching contrast, contributing to an energetic palette. The date and time '2026-02-23 02:22 UTC' is visually displayed as glowing digital text within the futuristic setting.",
+    "style_picks": {
+      "art_style": "Futurism",
+      "composition": "Symmetrical Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "original",
+    "character": "captain",
+    "character_name": "船長",
+    "title": "風雪中的舵手",
+    "is_seasonal": true,
+    "comment_id": 3942193630
   }
 ]

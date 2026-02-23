@@ -4110,5 +4110,18 @@
     "title": "冰祭磨爪",
     "model": "gemini-3-pro-image-preview",
     "inspiration": "日本札幌冰雪節展出巨型雪雕和精美冰雕，吸引眾多遊客。"
+  },
+  {
+    "number": 483,
+    "season": "winter",
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "船長",
+    "character": "captain",
+    "inspiration": "original",
+    "status": "success",
+    "timestamp": "2026-02-23 02:22 UTC",
+    "title": "風雪中的舵手",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-23_0222_UTC.webp",
+    "is_seasonal": true
   }
 ]
