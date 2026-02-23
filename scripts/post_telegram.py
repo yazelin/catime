@@ -2,10 +2,13 @@
 
 import json
 import os
+import subprocess
 import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
+
+STATE_FILE = Path(".telegram_last_posted.json")
 
 
 def get_latest_cat() -> dict | None:
@@ -19,6 +22,24 @@ def get_latest_cat() -> dict | None:
         if isinstance(cat, dict) and cat.get("status") == "success":
             return cat
     return None
+
+
+def get_last_posted_number() -> int | None:
+    """Get the last posted cat number from state file."""
+    if not STATE_FILE.exists():
+        return None
+    try:
+        with STATE_FILE.open("r", encoding="utf-8") as f:
+            return json.load(f).get("last_posted_number")
+    except Exception:
+        return None
+
+
+def save_last_posted_number(number: int) -> None:
+    """Save the last posted cat number and commit."""
+    with STATE_FILE.open("w", encoding="utf-8") as f:
+        json.dump({"last_posted_number": number}, f)
+        f.write("\n")
 
 
 def get_cat_detail(cat: dict) -> dict:
@@ -117,24 +138,22 @@ def build_caption(cat: dict) -> str:
     return "\n".join(lines)
 
 
-def get_last_posted_number() -> int | None:
-    """Get the last posted cat number from state file."""
-    state_file = Path(".telegram_last_posted.json")
-    if not state_file.exists():
-        return None
-    try:
-        with state_file.open("r", encoding="utf-8") as f:
-            state = json.load(f)
-        return state.get("last_posted_number")
-    except Exception:
-        return None
-
-
-def save_last_posted_number(number: int) -> None:
-    """Save the last posted cat number to state file."""
-    state_file = Path(".telegram_last_posted.json")
-    with state_file.open("w", encoding="utf-8") as f:
-        json.dump({"last_posted_number": number}, f)
+def commit_and_push() -> None:
+    """Commit the state file and push."""
+    subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
+    subprocess.run(
+        ["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"],
+        check=True,
+    )
+    subprocess.run(["git", "add", str(STATE_FILE)], check=True)
+    subprocess.run(["git", "commit", "-m", "Update telegram posted state"], check=True)
+    for attempt in range(3):
+        result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        if result.returncode == 0:
+            return
+        print(f"Push failed (attempt {attempt + 1}), rebasing...")
+        subprocess.run(["git", "pull", "--rebase"], check=True)
+    raise RuntimeError("Failed to push after 3 attempts")
 
 
 def main():
@@ -186,6 +205,7 @@ def main():
     if send_photo_multipart(bot_token, chat_id, image_data, filename, caption):
         print("Posted successfully!")
         save_last_posted_number(cat_number)
+        commit_and_push()
     else:
         print("Failed to post to Telegram.", file=sys.stderr)
         sys.exit(1)
