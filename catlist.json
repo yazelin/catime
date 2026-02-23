@@ -4224,5 +4224,16 @@
     "status": "success",
     "number": 494,
     "timestamp": "2026-02-23 17:53 UTC"
+  },
+  {
+    "title": "咖啡攤巡邏",
+    "inspiration": "南非開普敦的Espressolab咖啡店被評為「2026年全球100家最佳咖啡店」之一，展現了其在精品咖啡領域的卓越成就。",
+    "character_name": "麻糬",
+    "timestamp": "2026-02-23 18:47 UTC",
+    "status": "success",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 180.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-23_1847_UTC.webp",
+    "character": "mochi",
+    "number": 495
   }
 ]
