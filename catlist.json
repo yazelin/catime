@@ -4367,5 +4367,13 @@
     "title": "黃昏繕寫者",
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 180.0s)",
     "timestamp": "2026-02-24 11:32 UTC"
+  },
+  {
+    "number": null,
+    "timestamp": "2026-02-24 12:38 UTC",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "model": "all failed",
+    "url": null,
+    "status": "failed"
   }
 ]
