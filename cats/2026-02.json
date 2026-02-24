@@ -13201,5 +13201,38 @@
     "character_name": "船長",
     "news_inspiration": [],
     "inspiration": "original"
+  },
+  {
+    "news_inspiration": [],
+    "avoid_list": [
+      "專注的貓咪神情",
+      "蝴蝶光與魅力肖像",
+      "移軸微縮攝影效果",
+      "超廣角透視廣闊視野",
+      "分割畫面構圖設計",
+      "莫蘭迪柔和色系",
+      "清冷藍青色調氛圍",
+      "等距/正交投影視角",
+      "透明/半透明材質",
+      "復古懷舊風格",
+      "光滑高光澤表面",
+      "貓咪從事精細人為活動",
+      "古老/懷舊場景背景",
+      "奢華精緻細節裝飾"
+    ],
+    "idea": "藝術風格為「單眼人像（散景）」，透過「魚眼鏡頭」捕捉，一隻結實的薑貓在廢棄瞭望塔內，背光下以爪子按壓一張鐵鏽舊化的地圖，周遭物件呈「雙色調」。",
+    "prompt": "DSLR portrait photography of a sturdy ginger cat in a derelict, forgotten lookout tower. The cat's paw is pressed firmly on a crumpled, rusted, old map. The scene is captured with a fisheye wide-angle lens, exhibiting strong barrel distortion, an exaggerated foreground, and a sense of a 360-degree feel. Sharp focus is on the cat and map, with a shallow depth of field creating creamy bokeh in the background elements. Dramatic backlighting from afternoon sunbeams penetrating dusty windows creates glowing rim light, outlining the cat and map, and casting light spots on the aged industrial decay, rusted weathered metal, oxidized patina, and peeling paint layers of the tower. The surrounding environment features a duotone color treatment with two contrasting colors, emphasizing warm orange-brown corrosion for bold graphic impact. The date and time '2026-02-24 06:45 UTC' are visually displayed within the image.",
+    "number": 504,
+    "comment_id": 3949587536,
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Fisheye Lens",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "original",
+    "story": "高聳入雲的瞭望塔早已被遺忘，只剩風聲與鐵鏽為伴。午後的陽光穿透蒙塵的窗戶，在斑駁的地板上灑下光斑。薑貓不知從何而來，卻像是這座塔的主人，試圖從一張皺巴巴的地圖上找出未知的路線。",
+    "title": "鏽塔尋路者"
   }
 ]
