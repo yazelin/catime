@@ -13276,5 +13276,39 @@
       "中國科學技術大學的科學家研發出能賦予人類超視力的夜視隱形眼鏡，有望徹底改變未來視覺輔助科技。",
       "網路世界正瘋傳Eystreem與Huggy Wuggy的跨界合作熱潮，這股奇特又有趣的現象在全球各地吸引了無數粉絲。"
     ]
+  },
+  {
+    "idea": "在一個廣闊的復古未來數據中心裡，一隻黑色貓咪正在向一個小型的立方體機器人示範如何精準連接複雜的光纖電纜，整個場景以極簡塗鴉線條畫風格呈現，運用正交投影和倫勃朗光，並以莫蘭迪色調的3D渲染材質構築。",
+    "avoid_list": [
+      "視覺化顯示時間戳",
+      "薑黃貓/橘貓",
+      "專注凝視/好奇神態",
+      "爪子輕觸/按壓物件",
+      "復古褪色調/懷舊氛圍",
+      "微縮效果/移軸效果",
+      "鳥瞰視角",
+      "超廣角鏡頭透視",
+      "鏽蝕舊化/工業衰敗質感",
+      "環形燈光照明",
+      "溫暖琥珀色調",
+      "莫蘭迪色調",
+      "柔和舞動陰影",
+      "咖啡主題場景",
+      "古老廢棄場所"
+    ],
+    "inspiration": "original",
+    "title": "伺服器深處的教誨",
+    "story": "夜幕低垂，數據中心的指示燈發出柔和的光芒。專業的貓工程師「連結者」正耐心指導初級機器人助理，牠的爪子輕巧地拿起一條纜線，示意機器人模仿其動作，確保每個連接都完美無瑕。這是一場無聲的師徒傳承，關於精準與秩序，在數位脈動中延續。",
+    "prompt": "A sleek black cat, portrayed as a professional engineer, delicately demonstrates how to precisely connect complex fiber optic cables to a small, cube-shaped robot assistant. The scene unfolds within a vast, retro-futuristic data center. Rendered as a polished 3D illustration with smooth materials and clean geometry, stylized as a minimalist doodle line drawing with playful loose strokes and a hand-drawn feel. Lines are reminiscent of black ink, defining forms within a quiet Morandi muted color palette of desaturated soft pastels and dusty grey undertones, evoking a sense of quiet elegance. Utilizing orthographic projection for a straight-on flat rendering with no perspective distortion, akin to a technical illustration. Illuminated by dramatic Rembrandt lighting with a single 45-degree light source, creating strong chiaroscuro and a signature triangle of light on shadowed forms, enhanced by soft global illumination. The overall aesthetic has a Cinema 4D feel. The date and time '2026-02-24 08:33 UTC' are clearly displayed within the image.",
+    "comment_id": 3950046547,
+    "number": 506,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Rembrandt Lighting",
+      "texture": "3D Render",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
