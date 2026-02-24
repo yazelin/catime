@@ -13750,5 +13750,43 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "prompt": "A 3D isometric illustration. A cat, its entire body patterned with delicate ethereal Suminagashi ink patterns, resembling Japanese paper marbling with floating concentric ink swirls, meticulously polishes ancient river stones. The luminous, smooth stone surfaces reflect light with a luxurious silken sheen and delicate light reflections. The serene cave environment is filled with cool blue-teal crystals, each rendered with a meditative marble effect, creating a crisp, icy atmosphere and cool blue-teal color grading. Soft backlighting casts a dramatic rim light, gently outlining the cat's silhouette with glowing edges, the subject outlined by light. The illustration features clean geometric forms and a polished, playful rendering, maintaining a calm mood. Visually displayed in the image: '2026-02-24 22:22 UTC'."
+  },
+  {
+    "avoid_list": [
+      "對稱構圖與建築框架",
+      "黃金時刻與金邊逆光",
+      "柔和背光與輪廓光",
+      "蝴蝶光與魅力肖像打光",
+      "溫暖琥珀色調與秋季色彩",
+      "柔和粉彩色系與夢幻光影",
+      "高飽和鮮豔色與活力調色板",
+      "鏡子自拍構圖",
+      "微縮模型世界效果",
+      "平面俯視或鳥瞰視角",
+      "麵粉主題場景",
+      "暹羅貓"
+    ],
+    "prompt": "An exquisite illustration in traditional blue and white porcelain style. Centered subject: Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat with satin-sheen fur revealing warm brown undertones under soft afternoon light. Her athletic proportions are visible, with a slight upward curl at her tail tip which features a single dark-grey #696969 ring. She is perched elegantly atop a tall stack of ancient books in a grand classical study, whose walls and decor are adorned with intricate cobalt blue floral motifs on a white glazed base, showcasing delicate crackle textures and architectural framing. Momo's LEFT ear (viewer perspective) displays a single small gold hoop earring #FFD700 (3mm) at its mid-edge. A tiny natural white locket tuft #FFFFFF is on her ventral chest. Her large luminous golden-amber #D4A017 eyes, like polished amber gems, are fixated on an ancient illustrated book, one paw gently resting on its edge, reflecting a calm and attentive expression. The book's delicate patterns are painted in a soft pastel color palette, featuring gentle pink, lavender, mint, and baby blue, creating dreamy light tones. The scene is illuminated by a classic three-point lighting setup, with a key light creating soft shadows, a fill light, and subtle rim light separation highlighting Momo's form and fur, which exhibits a luminous smooth surface with delicate light reflections, akin to flowing silk. The composition is perfectly symmetrical, maintaining a mirror-like balance. Long prominent white whiskers are clearly visible. Visually displayed in the image: '2026-02-24 23:21 UTC'.",
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Symmetrical Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Silk",
+      "color_palette": "Pastel Colors"
+    },
+    "number": 520,
+    "idea": "在一個以青花瓷器為主要裝飾、充滿古典韻味的宏偉書房裡，墨墨優雅地棲息於高高的書堆頂端，專注地「閱讀」一本古老的插畫書，畫面呈現青花瓷的藝術風格。",
+    "comment_id": 3955289593,
+    "character_name": "墨墨",
+    "story": "午後，透過窗格灑落的柔和光線，將墨墨如絲綢般光澤的純黑短毛映襯得格外動人，其上隱約泛出深棕暖調。在精準的三點打光下，牠左耳的小金環耳環和胸前的白毛領結清晰可見。墨墨金琥珀色的眼睛，像兩顆璀璨的寶石，凝視著書頁上以粉彩色系繪製的精緻圖案，一隻爪子輕輕搭在書緣，充滿智慧與靜謐。",
+    "character": "momo",
+    "news_inspiration": [
+      "德國薩爾大學與日本東北大學的科學家們，經過近50年的努力，成功合成了一種長期以來被認為不可能的矽基芳香分子，為化學研究開闢了新領域。",
+      "厄瓜多爾加拉帕戈斯國家公園於佛羅里亞納島釋放了158隻幼年雜交陸龜，此舉旨在恢復島嶼因歷史因素而枯竭的生態系統。",
+      "英國拉夫堡閃電隊在2月23日於英國舉行的無板籃球超級盃決賽中，以18-17的微弱優勢擊敗倫敦脈衝隊，勇奪2026年賽季冠軍。",
+      "在義大利米蘭-科爾蒂納舉辦的2026年冬季奧運會上，美國男子冰球隊在2月22日的決賽中，以2比1的加時賽成績擊敗了強敵加拿大隊，贏得奧運金牌。"
+    ],
+    "title": "瓷韻墨影",
+    "inspiration": "original"
   }
 ]
