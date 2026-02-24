@@ -13166,5 +13166,40 @@
       "texture": "Marble",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Symmetrical Composition",
+      "lighting": "Ring Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character": "captain",
+    "comment_id": 3949301800,
+    "idea": "在GTA風格的夕陽餘暉中，船長穩居古老燈塔的最高觀測甲板中央，牠的背影與遠方海平面形成對稱構圖，環形燈般的光線將其銳利的翠綠色右眼與M字額紋襯托得格外鮮明，而佈滿海鹽鏽蝕的燈塔金屬表面則閃爍著冰霜結晶般的複雜紋理，整體色調沉浸在琥珀與秋日的暖色系裡。",
+    "title": "風起錨定",
+    "number": 503,
+    "story": "夕陽將古老的燈塔染成一片金紅，船長穩健地站在風中，任由海風吹拂牠蓬亂的毛髮。牠那銳利的右眼掃視著下方繁忙的漁港，彷彿在默默計算潮汐的變動與船隻的歸航。這片海域的安寧，都繫於牠這位不修邊幅的貓老大肩上。",
+    "avoid_list": [
+      "專注的貓咪神情",
+      "蝴蝶光與魅力肖像",
+      "移軸微縮攝影效果",
+      "超廣角透視廣闊視野",
+      "分割畫面構圖設計",
+      "莫蘭迪柔和色系",
+      "清冷藍青色調氛圍",
+      "等距/正交投影視角",
+      "透明/半透明材質",
+      "復古懷舊風格",
+      "光滑高光澤表面",
+      "貓咪從事精細人為活動",
+      "古老/懷舊場景背景",
+      "奢華精緻細節裝飾"
+    ],
+    "prompt": "A bold cel-shaded illustration in Grand Theft Auto art style, featuring Captain, a large stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes and scruffy, untidy, slightly coarse fur with uneven lengths. Captain stands steadily in the exact center of an ancient lighthouse's highest observation deck, back to the viewer, gazing out at the distant ocean horizon. The composition is perfectly symmetrical with Captain centered, creating a mirror-like balance and architectural framing. Captain's left eye (viewer's perspective) is permanently concealed by a natural dark-pigmented fur patch #2B1B0E covering the eye socket (no fabric, no straps). Captain's right eye is a single piercing emerald green #50C878 with a clear circular catchlight, brightly illuminated by ring light illumination which also highlights the distinctive M-mark on the forehead. Captain has a prominent V-shaped notch on the left ear, a faded red #CD5C5C bandana tied loosely around the neck, a white #FFFFFF chest bib, and white mitten paws on all four feet. The tail is thick and sturdy. The sea-salt corroded metal surface of the lighthouse sparkles with intricate ice crystal formation, delicate frost patterns, and translucent ice shards, reflecting a winter crystalline beauty. The overall color grading is a warm amber, an autumn palette of rich golden yellows and burnt orange, imbuing the scene with cozy nostalgic warmth from the sunset. The date and time '2026-02-24 05:52 UTC' are clearly displayed visually within the image, integrated into the scene.",
+    "character_name": "船長",
+    "news_inspiration": [],
+    "inspiration": "original"
   }
 ]
