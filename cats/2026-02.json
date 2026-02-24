@@ -13457,5 +13457,43 @@
       "texture": "Silk",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "title": "餃子匠的自拍",
+    "prompt": "A playful, low-poly style illustration with a torn paper collage effect. The image depicts a charming cat, wearing a tiny chef's hat, taking an intimate close-up mirror selfie backstage at a Winter Olympics cultural event. The cat proudly holds up freshly sculpted, miniature dumpling mascots. The art style features layered textures, visible paper edges, and subtle notebook lines, creating a mixed-media aesthetic with geometric crystalline surfaces and flat shaded triangular faces reminiscent of digital origami. The composition is a casual mirror selfie, clearly showing the visible reflection of the cat. A prominent ring light provides even frontal illumination, creating a beauty portrait quality with a circular catchlight in the cat's eyes. The entire scene is bathed in a warm amber color grading, utilizing an autumn palette of golden yellows and burnt orange for a cozy, nostalgic warmth. Visually displayed in the image: '2026-02-24 15:45 UTC'.",
+    "news_inspiration": [
+      "澳洲珀斯市將舉辦一場熱鬧的越南農曆新年慶典，包括傳統美食、音樂、舞蹈和文化表演。",
+      "考古學家在非洲尼日爾的撒哈拉沙漠中發現了一種新的劍冠棘龍物種，其頭部有著獨特的劍狀冠。",
+      "在義大利舉行的冬季奧運會上，波蘭花樣滑冰隊以可愛的「小餃子吉祥物」贏得了觀眾的喜愛，成為賽事中的一個亮點。",
+      "一款高科技襯衫能讓聽障人士透過身體感受音樂，為全球各地的聽障音樂愛好者帶來了溫馨的體驗。"
+    ],
+    "avoid_list": [
+      "超廣角鏡頭與透視變形",
+      "莫蘭迪色調與寧靜優雅",
+      "生物發光線條",
+      "完美對稱構圖",
+      "暖琥珀秋日色調",
+      "倫勃朗光影",
+      "淺景深奶油散景",
+      "雙色調強烈視覺衝擊",
+      "電影感體積光線",
+      "大理石紋理表面",
+      "貓咪專注凝視全息投影",
+      "貓咪身處高樓或塔樓",
+      "舊化織品太空探測服",
+      "復古未來數據中心"
+    ],
+    "number": 512,
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Ring Light",
+      "texture": "Low Poly",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 3953051548,
+    "idea": "一張以撕紙拼貼效果呈現的圖像，一隻穿著迷你廚師帽的貓咪，在冬季奧運主題文化活動的後台，用環形燈照亮自己，對著鏡子為剛捏好的迷你小餃子吉祥物自拍。整個畫面充滿低多邊形紋理與溫暖的琥珀色調。",
+    "inspiration": "在義大利舉行的冬季奧運會上，波蘭花樣滑冰隊以可愛的「小餃子吉祥物」贏得了觀眾的喜愛，成為賽事中的一個亮點。",
+    "story": "波蘭花樣滑冰隊的「小餃子吉祥物」風靡全場，而幕後功臣之一，竟是這隻熱愛烘焙的貓咪。牠正全神貫注地捏製著新一批的迷你餃子，每一個都力求完美，甚至不忘在製作完成後，用鏡子與環形燈為它們拍下可愛的「定裝照」。牠期待這些溫暖的餃子能為選手們帶來更多好運。"
   }
 ]
