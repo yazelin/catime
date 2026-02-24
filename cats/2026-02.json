@@ -13310,5 +13310,39 @@
       "texture": "3D Render",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "視覺化顯示時間戳",
+      "薑黃貓/橘貓",
+      "專注凝視/好奇神態",
+      "爪子輕觸/按壓物件",
+      "復古褪色調/懷舊氛圍",
+      "微縮效果/移軸效果",
+      "鳥瞰視角",
+      "超廣角鏡頭透視",
+      "鏽蝕舊化/工業衰敗質感",
+      "環形燈光照明",
+      "溫暖琥珀色調",
+      "莫蘭迪色調",
+      "柔和舞動陰影",
+      "咖啡主題場景",
+      "古老廢棄場所"
+    ],
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Isometric Photography",
+      "lighting": "Butterfly Lighting",
+      "texture": "Concrete",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 3950381759,
+    "idea": "",
+    "news_inspiration": [],
+    "number": 507,
+    "title": "貓咪日常",
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "prompt": "A cute cat with the date and time '2026-02-24 09:40 UTC' displayed in the image, high quality, detailed"
   }
 ]
