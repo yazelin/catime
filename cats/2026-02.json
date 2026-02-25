@@ -13886,5 +13886,41 @@
       "color_palette": "High Saturation Vivid"
     },
     "number": 523
+  },
+  {
+    "avoid_list": [
+      "對稱構圖與建築框架",
+      "黃金時刻與金邊逆光",
+      "柔和背光與輪廓光",
+      "蝴蝶光與魅力肖像打光",
+      "溫暖琥珀色調與秋季色彩",
+      "柔和粉彩色系與夢幻光影",
+      "高飽和鮮豔色與活力調色板",
+      "鏡子自拍構圖",
+      "微縮模型世界效果",
+      "平面俯視或鳥瞰視角",
+      "麵粉主題場景",
+      "暹羅貓"
+    ],
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Spotlight",
+      "texture": "Low Poly",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "An illustration in black and white monochrome, featuring a sleek black cat in miniature expedition gear, intently focused on an intricately detailed, recursive map. The scene is set inside a low-poly style mountain camp hut, crafted with polygon mesh facets, a geometric crystalline surface, and flat shaded triangular faces, evoking a digital origami aesthetic. A dramatic narrow beam spotlight illuminates the cat's face and the map, creating sharp light edges against deep darkness falloff, emphasizing meticulous preparation. The map itself is rendered in the Palekh art style, an intricate miniature painting, depicting intricate mountain routes with a recursive image, a Droste effect, showing a picture within a picture repeating infinitely of the hut itself, a self-referential loop. The cat meticulously marks a predetermined climbing path, conveying rigorous planning for an Everest ascent under new regulations. The entire image features high contrast, rich tonal range, and dramatic shadows and highlights. Visually displayed within the scene, integrated as part of the visual storytelling, the text '2026-02-25 06:50 UTC' is clearly legible.",
+    "news_inspiration": [
+      "美國費城兒童醫院慶祝全球首例為患有罕見遺傳疾病的兒童進行個人化CRISPR基因療法一週年，該兒童已取得顯著進步。",
+      "韓國三星電子在德國舉辦的2026年iF設計獎中榮獲77項殊榮，其中包括兩項金獎，表彰其卓越的產品設計和用戶體驗。",
+      "尼泊爾加德滿都的上議院通過了更嚴格的珠穆朗瑪峰旅遊規定，旨在更好地管理該地區的登山活動。",
+      "阿拉伯聯合大公國杜拜宣布，流行歌手傑森·德魯羅將在2026年杜拜世界盃賽馬後於邁丹賽馬場舉行壓軸表演。"
+    ],
+    "idea": "在一座以低多邊形幾何結構構成的黑白山間營地小屋中，一隻毛色烏亮的貓咪正專注於一幅精細繪製的遞迴地圖，整個場景以帕列赫細密畫風格的聚光燈效果呈現，強調其精準的準備工作。",
+    "comment_id": 3957227861,
+    "title": "峰前謀略圖",
+    "number": 524,
+    "story": "雪山腳下的簡樸小屋內，一道銳利的聚光燈束打在貓咪毛茸茸的臉龐上。牠身著一套微型探險裝備，正仔細研究著一張攤開的登山地圖，地圖上以錯綜複雜的帕列赫風格描繪著山脈路線，其中一處微縮的插畫正以遞迴效應展示著小屋本身的景色。牠小心翼翼地標記著預設的登山路徑，每一個動作都透露出對新規定下珠穆朗瑪峰攀登的嚴謹態度與周詳計畫。",
+    "inspiration": "尼泊爾加德滿都的上議院通過了更嚴格的珠穆朗瑪峰旅遊規定，旨在更好地管理該地區的登山活動。"
   }
 ]
