@@ -14342,5 +14342,41 @@
     ],
     "number": 535,
     "idea": "在一個經過巴黎城市綠化改造後，充滿綠意的鄉村廣場角落，一隻毛色豐富、姿態優雅的貓咪，正以彩色石版印刷的藝術風格、等距攝影的構圖、環形燈的柔和照明及3D渲染的細膩質感，搭配高飽和鮮豔的色彩，專注地用前爪輕輕撥弄一盆新種植的香草植物。"
+  },
+  {
+    "idea": "一幅以畫意攝影風格呈現的夜景，麻糬在傳統糕點店的廚房檯面上，透過正交投影構圖，於月光下將圓滾滾的身軀探入一箱半開的糕點中，畫面充滿亮面塑膠般的玩具質感與復古褪色調。",
+    "number": 536,
+    "character_name": "麻糬",
+    "character": "mochi",
+    "prompt": "A pictorialism photograph capturing a nighttime scene in a traditional pastry shop kitchen. The composition features an orthographic projection, rendering a straight-on, flat view with no perspective distortion, akin to a technical illustration. On a smooth kitchen countertop, Mochi, a chubby, rounded shorthair cat, is the subject. Mochi has a white #FFFFFF base coat with solid bright orange #FF8C00 patches. Its RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask from nose bridge across the RIGHT cheek to the RIGHT ear, while the LEFT face is entirely white. A heart-shaped orange #FF8C00 saddle is centered on Mochi's upper back. The RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and the LEFT front paw is pure white #FFFFFF. Mochi's eyes are large, round amber #FFBF00, and the nose is pink #FFB6C1 with a tiny orange center dot. Its tail features orange-and-white ringed bands. Mochi's body consists of short, stubby legs, a spherical torso, and a pure white belly. Mochi's shorthair coat has a glossy plastic toy texture, with a smooth high-shine surface and subtle reflections, evoking a vinyl figure aesthetic. Mochi intently stretches its spherical torso into a half-open cardboard box of pineapple cakes on the countertop. The scene is illuminated by moonlight, casting cool blue tones and a gentle silvery glow, creating a quiet nighttime atmosphere. The photograph displays a retro faded color palette, washed-out vintage tones, and low contrast, imbued with nostalgic film-era warmth, with deliberate soft focus and atmospheric painterly effects, characteristic of early fine art photography. Visually displayed within the image is '2026-02-25 19:44 UTC'. Shot with a 35mm lens, f/2.8, natural moonlight, shallow depth of field, subtle film grain.",
+    "avoid_list": [
+      "窄束聚光燈與深邃暗部",
+      "熱成像風格",
+      "移軸微縮效果",
+      "電影感與底片顆粒",
+      "極低角度仰視視角",
+      "透明樹脂鑲嵌物",
+      "漂浮平台迷你景觀",
+      "貓咪神情專注",
+      "抓拍快照感",
+      "淺景深",
+      "高對比戲劇性陰影",
+      "溫暖琥珀色調",
+      "亮面塑膠玩具質感",
+      "復古褪色懷舊色調",
+      "體積光與塵埃粒子"
+    ],
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 3961623805,
+    "news_inspiration": [],
+    "title": "月夜糕點賊",
+    "story": "夜深人靜，傳統糕點店的烘焙香氣仍隱約飄散，麻糬那對琥珀色的大圓眼在月色中閃爍，緊盯著眼前紙箱裡誘人的鳳梨酥。牠那肥胖的身軀努力地伸展，笨拙地扒著檯面邊緣，只為嘗一口這深夜的甜蜜誘惑，肚子的橘白斑紋在微光中呈現出光滑的玩具般質感。這隻總是帶著呆萌表情的市場貓，此刻的專注只為滿足牠的貪吃本性。",
+    "inspiration": "original"
   }
 ]
