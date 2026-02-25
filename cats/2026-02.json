@@ -13922,5 +13922,44 @@
     "number": 524,
     "story": "雪山腳下的簡樸小屋內，一道銳利的聚光燈束打在貓咪毛茸茸的臉龐上。牠身著一套微型探險裝備，正仔細研究著一張攤開的登山地圖，地圖上以錯綜複雜的帕列赫風格描繪著山脈路線，其中一處微縮的插畫正以遞迴效應展示著小屋本身的景色。牠小心翼翼地標記著預設的登山路徑，每一個動作都透露出對新規定下珠穆朗瑪峰攀登的嚴謹態度與周詳計畫。",
     "inspiration": "尼泊爾加德滿都的上議院通過了更嚴格的珠穆朗瑪峰旅遊規定，旨在更好地管理該地區的登山活動。"
+  },
+  {
+    "title": "浮礁熱探",
+    "character": "captain",
+    "inspiration": "original",
+    "story": "老船長在碼頭的斷塊上巡視，利用他出海累積的經驗與敏銳的直覺，即使在熱成像的抽象世界裡，也能感受到海水的脈動。牠知道哪裡的水溫最適合魚群棲息，哪裡是捕獵的最佳時機。一陣帶著鹹味的海風吹過，船長的白鬍鬚輕輕擺動，牠沉穩地守護著這片水域的平衡，等待著豐收的時機。",
+    "prompt": "A digital painting in a dramatic, high-contrast thermal imaging style, capturing the essence of an old sea captain. The central figure is a large stocky brown #5C4033 classic tabby cat with a broad, muscular build and bold black #1A1A1A stripes. Its fur texture is scruffy, untidy, slightly coarse with uneven lengths. Its LEFT eye (viewer perspective) is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E, explicitly a fur marking, with no fabric or leather and no straps. Its RIGHT eye is a single piercing emerald green #50C878. A prominent V-shaped notch is visible on its LEFT ear. Around its neck, a faded red #CD5C5C bandana is tied loosely and is clearly visible. It has a white #FFFFFF chest bib and white mitten paws on all four feet, with a distinctive M-mark on its forehead. Its tail is thick and sturdy. The cat stands resolutely on a massive, levitating breakwater fragment, which forms a miniature landscape on a levitating platform. This fragment showcases a polished marble texture with natural vein patterns, presenting a luxurious stone surface in an earth tone palette of terracotta, olive green, and warm brown, exuding classical elegance and natural organic harmony. A narrow beam spotlight precisely illuminates the cat's robust body from above, creating sharp light edges and deep darkness falloff, emphasizing its steadfast silhouette. Below the floating fragment, the ocean is rendered with an infrared vision effect, displaying a vibrant heat map color gradient in a red-yellow-blue spectrum, resembling liquid thermal currents. The cat's sharp emerald right eye appears to intuitively discern these subtle water temperature and ocean current variations, predicting fish movements. A salty sea breeze lightly sways its white whiskers. An aerial perspective emphasizes the floating nature of the breakwater. In the upper left corner of the image, the text '2026-02-25 07:44 UTC' is visually displayed.",
+    "news_inspiration": [
+      "今年最長的日食即將發生，其路徑將穿越太平洋、南美洲和南極洲，部分地區如北美、歐洲和非洲也能觀測到偏食景象。",
+      "2月25日，在歐洲舉行的歐冠聯賽中，博德閃耀隊淘汰了國際米蘭，而紐卡索和馬德里競技則晉級16強。",
+      "在美國，一個門鈴攝影機捕捉到一名送貨司機每天下午都會停下來問候一隻在窗邊等待的孤獨黃金獵犬，場面溫馨。",
+      "阿聯酋杜拜將在2026年杜拜世界盃賽馬會後派對上，邀請傑森·德魯羅擔任壓軸表演嘉賓。"
+    ],
+    "idea": "以熱成像風格呈現，船長堅毅地站在一塊巨大、表面佈滿大地色系大理石紋的漂浮防波堤斷塊上，上方一束聚光燈精準地打亮牠結實的身軀。牠銳利的右眼彷彿能洞悉下方如液態大地色系熱流變化的海洋，透過水溫與洋流的微妙差異預測著魚群的動向。",
+    "comment_id": 3957435517,
+    "avoid_list": [
+      "時間日期文字顯示",
+      "貓咪爪子專注於精確細緻的操作",
+      "背光勾勒輪廓光",
+      "透明玻璃或水晶結構",
+      "光線折射與稜鏡反射",
+      "柔和粉彩或莫蘭迪色調",
+      "戲劇性光影與高對比",
+      "Suminagashi墨流藝術風格",
+      "魚眼或廣角鏡頭視角",
+      "古典三點打光",
+      "高飽和鮮豔色彩",
+      "貓咪閱讀/研究/地圖探索主題",
+      "麵粉相關情境"
+    ],
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Floating Island Scene",
+      "lighting": "Spotlight",
+      "texture": "Marble",
+      "color_palette": "Earth Tones"
+    },
+    "number": 525
   }
 ]
