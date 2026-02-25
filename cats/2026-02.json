@@ -14263,5 +14263,44 @@
       "空中俯瞰視角",
       "電影分鏡式構圖或電影級質感"
     ]
+  },
+  {
+    "inspiration": "南非一所學校的學生將「上廁所」變成一場趣味橫生的校園冒險，這項搞怪趨勢在社交媒體上引起轟動。",
+    "title": "校園探險家",
+    "idea": "一隻身披馬賽克紋理的貓，在以等距攝影呈現的南非學校走廊中，頭頂蝴蝶光，正專注嗅探並輕觸一個掉落在洗手間門邊的透明樹脂「藏寶圖」線索，整個場景以高飽和鮮豔色調繪製。",
+    "news_inspiration": [
+      "中國年輕旅客對非洲獨特的自然風光和文化興趣漸濃，使非洲成為新的熱門旅遊目的地。",
+      "泰國旅遊局在曼谷推出全新「Amazing Thailand」應用程式，利用AI技術提升旅客體驗並支持當地企業。",
+      "南非一所學校的學生將「上廁所」變成一場趣味橫生的校園冒險，這項搞怪趨勢在社交媒體上引起轟動。",
+      "佛羅里達州的動物園團隊利用開創性的獸醫技術，成功幫助一隻患病犀牛康復，為當地居民帶來驚喜與感動。",
+      "在義大利米蘭舉行的冬季奧運會上，一位花樣滑冰選手展現了將連結和體育精神置於勝利之上的溫馨舉動，重新定義了成功。"
+    ],
+    "story": "這隻好奇的流浪貓無意中闖入校園，被學生們自創的「廁所大冒險」遊戲吸引。牠以探險家的姿態，仔細研讀這張由透明樹脂製成的鮮豔馬賽克地圖，試圖解開這場校園趣味遊戲的謎團，彷彿每一個拼貼都藏著新的線索。",
+    "avoid_list": [
+      "畫面中清楚顯示時間戳記",
+      "戲劇性窄束聚光燈與深暗陰影",
+      "玻璃或水晶材質的光線折射與晶體清晰度",
+      "黃金時刻溫暖夕陽光暈與邊緣光",
+      "柔和粉彩色調 (包含粉紅、薰衣草、薄荷、淺藍)",
+      "熱成像風格與紅黃藍熱圖漸變",
+      "漂浮平台上的微型景觀或島嶼",
+      "遞迴影像或杜斯塔效應",
+      "高科技碳纖維材料 (高光澤透明塗層與現代工業美學)",
+      "貓咪專注於精準操作或排列",
+      "微妙的底片顆粒感",
+      "高對比與戲劇性光影",
+      "空中俯瞰視角",
+      "電影分鏡式構圖或電影級質感"
+    ],
+    "style_picks": {
+      "art_style": "Mosaic",
+      "composition": "Isometric Photography",
+      "lighting": "Butterfly Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 3961002252,
+    "prompt": "A perfectly isometric photograph, captured with a 50mm prime lens at f/2.8, showcasing a candid moment in a vibrant South African school corridor. A curious stray cat, whose fur features an intricate mosaic art texture with small colored tiles and grouted lines reminiscent of an ancient Roman or Byzantine aesthetic, is presented in an explorer-like posture. The cat's head is illuminated by soft butterfly lighting from an overhead key light, casting a subtle, symmetrical shadow under its nose, characteristic of glamour portrait lighting, ensuring soft even illumination. Its gaze is intently fixed as it gently sniffs and lightly touches a translucent resin 'treasure map' clue dropped on the floor near a brightly colored restroom door. The resin material of the map has embedded elements visibly inside, a glossy smooth surface, and amber-like clarity, displaying vivid mosaic patterns. The entire scene is rendered with high saturation vivid colors, bold vibrant hues, and eye-catching contrast, creating an energetic palette. The date and time '2026-02-25 17:54 UTC' are visually displayed on a digital clock mounted on the corridor wall. This real captured photo utilizes a perfectly isometric angle with no miniature effect, capturing natural daylight and a subtle film grain for authenticity.",
+    "number": 534
   }
 ]
