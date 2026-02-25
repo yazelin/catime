@@ -13961,5 +13961,47 @@
       "color_palette": "Earth Tones"
     },
     "number": 525
+  },
+  {
+    "comment_id": 3957664569,
+    "idea": "在熱成像風格的魚眼鏡頭下，冬日花店後方被白雪覆蓋的庭園，呈現出柔和的紙質肌理。鈴鈴戴著點綴聖誕紅的粉色鈴鐺項圈，全身散發著濃郁的琥珀與暖橘色熱能光暈，宛如一團會移動的棉花糖。牠剛因撲向一隻在冰晶中閃爍的冬日飛蛾而稍顯笨拙地在雪地裡輕微後彈，留下一連串溫暖且蓬鬆的足跡，大而圓的寶石藍色眼睛在暖色光暈中顯得格外清澈。牠好奇地轉頭盯著一根懸掛在結霜枝頭，因黃金時刻而微微發亮的冰晶。",
+    "character_name": "鈴鈴",
+    "avoid_list": [
+      "時間日期文字顯示",
+      "貓咪爪子專注於精確細緻的操作",
+      "背光勾勒輪廓光",
+      "透明玻璃或水晶結構",
+      "光線折射與稜鏡反射",
+      "柔和粉彩或莫蘭迪色調",
+      "戲劇性光影與高對比",
+      "Suminagashi墨流藝術風格",
+      "魚眼或廣角鏡頭視角",
+      "古典三點打光",
+      "高飽和鮮豔色彩",
+      "貓咪閱讀/研究/地圖探索主題",
+      "麵粉相關情境"
+    ],
+    "story": "天真好奇的鈴鈴，在金黃時刻的暖意下，笨拙地在花園雪地中追逐著被牠誤認為蝴蝶的冬日飛蛾。牠一個不慎撞上覆蓋著白雪的矮樹，胖乎乎的身體輕微後彈，留下蓬鬆溫暖的腳印。隨後，牠轉而將所有注意力放在枝頭那顆在熱成像下熠熠生輝、閃爍著微光的冰晶上，清脆的鈴鐺聲在冬日寧靜中迴盪，為花園帶來一絲生機。",
+    "prompt": "A captivating fisheye wide-angle illustration of a snow-covered winter flower shop garden, rendered in a striking thermal imaging style with a red-yellow-blue heat map color gradient, providing an infrared vision effect. The entire scene has a soft textured paper surface, with visible fiber grain suggesting a watercolor paper feel and tactile warmth. In the exaggerated foreground, the incredibly fluffy pure white #FFFFFF longhair cat Lingling is depicted, her voluminous cloud-like fur making her appear like a moving marshmallow. Her small round face is almost hidden in fur, revealing huge round sapphire-blue #0F52BA eyes (occupying approximately one-third of her face) with a gentle sparkle, appearing exceptionally clear within her strong amber and rich orange heat energy halo. Her nose and inner ears are pale pink #FFB6C1. Around her neck is a vibrant pink #FF69B4 ribbon bow collar adorned with a small poinsettia flower, with a small golden #FFD700 bell clearly visible and centered beneath the bow knot. Her enormous feathery white plume tail is visible. Lingling has just slightly clumsily bounced back in the fresh snow after pouncing on a winter moth, which sparkles faintly within tiny ice crystals on the ground. She leaves a distinct trail of warm, fluffy paw prints, with occasional pink paw pads visible through her fur. Her movement is momentarily paused as she curiously turns her head, focusing her sapphire-blue eyes on a single shimmering ice crystal suspended from a frosted branch, subtly glowing with micro-light in the golden hour lighting. The scene is bathed in a warm sunset glow with long soft shadows and a golden rim light outlining Lingling, creating a cozy nostalgic warmth with an overall warm amber color grading and an autumn-like palette of golden yellows and burnt orange for the thermal effects. Visually displayed in the bottom right corner: '2026-02-25 08:35 UTC'.",
+    "number": 526,
+    "is_seasonal": true,
+    "inspiration": "厄瓜多爾加拉帕戈斯國家公園在佛洛雷安納島釋放了158隻幼年雜交陸龜，旨在恢復該地的生態系統。",
+    "title": "暖雪逐光",
+    "news_inspiration": [
+      "美國費城兒童醫院慶祝全球首例接受個人化CRISPR基因療法治療罕見遺傳疾病的嬰兒「KJ」一週年，該嬰兒現已展現顯著的臨床進步，能夠走路和說話。",
+      "德國薩爾大學的化學家們在近50年的努力後，成功合成了一種曾被認為不可能的矽基芳香分子，這項突破性成果已發表於《科學》期刊。",
+      "日本豐田汽車公司於豐田市推出了新款bZ4X Touring BEV，這款純電動車型主打駕駛性能和寬敞的內部空間，以滿足戶外活動等多種需求。",
+      "厄瓜多爾加拉帕戈斯國家公園在佛洛雷安納島釋放了158隻幼年雜交陸龜，旨在恢復該地的生態系統。",
+      "在斯里蘭卡坎迪的帕勒克勒國際板球體育場舉行的T20世界盃超級八強賽中，英格蘭隊以兩局之差擊敗了巴基斯坦隊。"
+    ],
+    "season": "winter",
+    "character": "lingling",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Fisheye Lens",
+      "lighting": "Golden Hour",
+      "texture": "Paper Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
