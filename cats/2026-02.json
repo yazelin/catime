@@ -14109,5 +14109,43 @@
       "texture": "Carbon Fiber",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "story": "在杜拜一場盛大賽馬會後的派對上，這隻氣場強大的黑貓正輕觸鑲嵌於透明樹脂控制台上的巨大金色光盤，彷彿在調控著音樂脈搏。聚光燈下，牠的每一次動作都充滿魅力，將派對氣氛推向高潮，展現另類的奢華主宰姿態。",
+    "news_inspiration": [
+      "英國將實施電子旅行授權計畫，要求來自85個國家的旅客在前往英國前預先申請電子許可證。",
+      "韓國KOSPI指數首次突破6,000點大關，創下新的里程碑。",
+      "印尼正考慮在全國範圍內終止大象騎乘活動，這將是東南亞旅遊業在動物福利方面的一項重大轉變。",
+      "流行歌手傑森·德魯羅將在阿拉伯聯合大公國杜拜舉行的2026年杜拜世界盃賽馬會後派對上擔任主唱。"
+    ],
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Extreme Low Angle",
+      "lighting": "Spotlight",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "inspiration": "流行歌手傑森·德魯羅將在阿拉伯聯合大公國杜拜舉行的2026年杜拜世界盃賽馬會後派對上擔任主唱。",
+    "idea": "一隻優雅的黑貓在杜拜奢華的屋頂酒廊DJ台後方，以極低角度捕捉，畫面呈現半色調網點風格，以金色與黑色奢華的調色板，聚焦在透明樹脂的DJ設備上。",
+    "avoid_list": [
+      "畫面中清楚顯示時間戳記",
+      "戲劇性窄束聚光燈與深暗陰影",
+      "玻璃或水晶材質的光線折射與晶體清晰度",
+      "黃金時刻溫暖夕陽光暈與邊緣光",
+      "柔和粉彩色調 (包含粉紅、薰衣草、薄荷、淺藍)",
+      "熱成像風格與紅黃藍熱圖漸變",
+      "漂浮平台上的微型景觀或島嶼",
+      "遞迴影像或杜斯塔效應",
+      "高科技碳纖維材料 (高光澤透明塗層與現代工業美學)",
+      "貓咪專注於精準操作或排列",
+      "微妙的底片顆粒感",
+      "高對比與戲劇性光影",
+      "空中俯瞰視角",
+      "電影分鏡式構圖或電影級質感"
+    ],
+    "number": 530,
+    "comment_id": 3959008280,
+    "prompt": "An elegant black cat, exuding a powerful feel, positioned behind a luxurious DJ booth in an opulent Dubai rooftop lounge. The cat is subtly touching large golden discs embedded within a translucent resin console, which exhibits amber-like clarity, a glossy smooth surface, and visible embedded elements. The composition features an extreme low angle shot, looking up at the subject, creating a dramatic towering perspective. The art style is a halftone dot pattern, with a strong CMYK print aesthetic and visible dot matrix, giving a retro newspaper print effect and graphic texture. Lighting is provided by a narrow beam spotlight, producing dramatic high-contrast with sharp light edges and deep darkness falloff, against a deep black background. The color scheme is predominantly gold and black, featuring luxurious metallic gold accents. Visually displayed in the image: '2026-02-25 12:37 UTC'.",
+    "title": "杜拜夜貓潮音"
   }
 ]
