@@ -15185,5 +15185,40 @@
       "2026年米蘭-科爾蒂納冬季奧運會於2月6日至22日在義大利米蘭和科爾蒂納丹佩佐舉行，展示了頂尖的冬季體育賽事。",
       "巴西里約熱內盧的嘉年華在2月中旬達到高潮，為期多日的慶祝活動充滿了華麗的遊行和熱情的森巴舞。"
     ]
+  },
+  {
+    "title": "瓶蓋藝匠的熱視界",
+    "story": "這隻天賦異稟的「瓶蓋建築師」，以牠對溫度差異的敏銳感知，將回收瓶蓋視為調色盤上的熱點，為壁畫填入生命的色彩。魚眼鏡頭誇張地呈現了壁畫彎曲的宏偉，而閃光燈則將貓咪專注的表情與瓶蓋的陶瓷質感瞬間凝固，形成一幅充滿粗獷美學與環保精神的藝術現場。",
+    "idea": "在熱成像風格與魚眼鏡頭的捕捉下，一隻擁有黏土般質感的斑紋貓，在直射閃光燈的強烈對比中，正專注地用前爪將一個回收塑膠瓶蓋精確地嵌入一面巨大的、呈大地色系熱感應漸變的城市壁畫中。",
+    "prompt": "A candid photograph taken with a fisheye wide-angle lens. A striped cat, with a sculpted clay texture, handmade ceramic feel, and matte surface with subtle imperfections, is intensely focused. It uses a front paw to precisely embed a recycled plastic bottle cap, which also has a handmade ceramic feel and matte surface, into a massive city mural. The entire image is rendered in a thermal imaging style, exhibiting an infrared vision aesthetic with a strong red-yellow-blue spectrum overlay. The underlying mural design features a heat map color gradient within an earthy tone palette, comprising warm earthy tones, terracotta, olive green, and warm brown, creating a natural organic harmony. Strong barrel distortion from the fisheye lens dramatically curves the mural and exaggerates the cat in the foreground, giving a 360-degree visual feel. Harsh direct on-camera flash provides the lighting, resulting in high contrast, blown-out highlights on the cat and bottle cap, and deep hard shadows, contributing to a raw, unpolished snapshot look. The date and time '2026-02-26 22:25 UTC' is visibly displayed in the image.",
+    "inspiration": "薩爾瓦多完成了一幅由十萬個回收塑膠瓶蓋製成的42英尺高「拉丁美洲蒙娜麗莎」壁畫，展現了環保藝術的魅力。",
+    "avoid_list": [
+      "自然漫射光",
+      "三點打光",
+      "粉彩色系",
+      "柔和寧靜氛圍",
+      "超廣角構圖",
+      "貓咪校準裝置",
+      "現代工業美學",
+      "復古褪色色調",
+      "莫蘭迪色調",
+      "雙色調處理",
+      "微縮場景"
+    ],
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Fisheye Lens",
+      "lighting": "Direct Flash",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 3969594896,
+    "number": 559,
+    "news_inspiration": [
+      "在土耳其伊斯坦堡的一場足球比賽中，一名球員為被球擊中的海鷗進行心肺復甦術，導致比賽暫停，展現了溫馨一面。",
+      "法國巴黎的居民在塞納河中進行了百年來的首次歷史性暢泳，歡慶這項重新開放的活動。",
+      "厄瓜多加拉巴哥群島成功將158隻巨型陸龜重新引進到其自然棲息地，有助於生態保育。",
+      "薩爾瓦多完成了一幅由十萬個回收塑膠瓶蓋製成的42英尺高「拉丁美洲蒙娜麗莎」壁畫，展現了環保藝術的魅力。"
+    ]
   }
 ]
