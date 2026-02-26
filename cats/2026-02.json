@@ -14778,5 +14778,44 @@
       "實驗室/工坊設定",
       "技術性構圖方式"
     ]
+  },
+  {
+    "title": "船長冬港情",
+    "avoid_list": [
+      "貓咪專注於精細活動",
+      "移軸效果/微縮模型感",
+      "黃金時刻柔光",
+      "月光下的寧靜夜晚",
+      "色鉛筆畫風格",
+      "液態金屬質感",
+      "莫蘭迪色調",
+      "復古褪色調",
+      "霓虹螢光色澤",
+      "光滑平整的渲染質感",
+      "實驗室/工坊設定",
+      "技術性構圖方式"
+    ],
+    "prompt": "在GTA風格的等距攝影視角下，寒風中，船長穿著迷你的深色航海外套，堅毅地站在佈滿積雪的木製漁獲箱頂，右眼翠綠而銳利地掃視著雙色調的冰冷海面。牠厚實的毛髮和木紋的箱子在自然漫射光下呈現出冷峻的質感。. The date and time '2026-02-26 10:35 UTC' is visually displayed in the image. Grand Theft Auto art style, bold cel-shaded illustration, saturated colors, urban attitude, perfectly isometric photography, real captured photo with isometric angle, no miniature effect, soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones, natural wood grain texture, rich warm tones, visible knots and lines, organic tactile surface, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel",
+    "comment_id": 3965718868,
+    "news_inspiration": [
+      "在印度巴爾薩納，當地居民正熱鬧慶祝色彩繽紛的Lathmar Holi節。",
+      "在越南河內，有民眾打扮成「財神」在珠寶店外現身，為城市增添了獨特的文化氣氛。",
+      "阿聯酋阿布達比的阿提哈德航空公司宣布，目標是每年招聘多達3,000名員工直至2030年。"
+    ],
+    "number": 548,
+    "story": "冬日的港口碼頭，鵝毛大雪覆蓋了一切。船長像往常一樣，高傲地站立在港邊最高的木箱堆上，那裡是牠最喜歡的制高點。寒風中，牠的白鬍鬚輕輕顫動，左眼雖然被眼罩遮蓋，但右眼銳利的翠綠色光芒卻絲毫不減。牠寬厚的胸膛下，一隻瑟縮的小貓正依偎著取暖，而船長則默默地將身軀擋住寒風，守護著這片水域和牠的子民。",
+    "idea": "在GTA風格的等距攝影視角下，寒風中，船長穿著迷你的深色航海外套，堅毅地站在佈滿積雪的木製漁獲箱頂，右眼翠綠而銳利地掃視著雙色調的冰冷海面。牠厚實的毛髮和木紋的箱子在自然漫射光下呈現出冷峻的質感。",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Isometric Photography",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Wood Grain",
+      "color_palette": "Duotone"
+    },
+    "character_name": "船長",
+    "season": "winter",
+    "character": "captain"
   }
 ]

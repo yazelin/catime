@@ -4722,5 +4722,18 @@
     "number": 547,
     "timestamp": "2026-02-26 09:38 UTC",
     "status": "success"
+  },
+  {
+    "title": "船長冬港情",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-26_1035_UTC.webp",
+    "season": "winter",
+    "number": 548,
+    "inspiration": "original",
+    "is_seasonal": true,
+    "timestamp": "2026-02-26 10:35 UTC",
+    "character_name": "船長",
+    "model": "gemini-3-pro-image-preview",
+    "character": "captain"
   }
 ]
