@@ -14854,5 +14854,44 @@
       "美國麻薩諸塞大學陳醫學院的研究人員正在探索使用人工智慧風險預測工具，以期改善乳腺癌的早期檢測。"
     ],
     "inspiration": "英國萊斯特市議會推出「萊斯特街頭藝人」計畫，在市中心設置四個表演點，以振興街頭表演文化。"
+  },
+  {
+    "avoid_list": [
+      "專注神情",
+      "柔和漫射自然光",
+      "生物發光藍綠光芒",
+      "霓虹螢光光暈/色彩",
+      "莫蘭迪柔和色調",
+      "柔和粉彩色系",
+      "雙色調處理",
+      "強調材質紋理",
+      "微縮模型感",
+      "Knolling或等距俯視構圖",
+      "絞染紋理布料",
+      "冷色調藍青光澤",
+      "古老木製碼頭/箱",
+      "復古未來主義",
+      "貓咪職業角色扮演"
+    ],
+    "news_inspiration": [
+      "一項新研究指出，古老的板塊構造運動抹去了中國北部地區地球歷史上長達十億年的空白地帶。",
+      "倫敦時裝週在英國倫敦熱鬧展開，展示了許多大膽、古怪且奇特的服裝。",
+      "美國俄亥俄州發生了一起離奇的家庭糾紛，一名女子據稱用一盤熱騰騰的千層麵襲擊了她的丈夫。",
+      "2026年紐西蘭公開賽在紐西蘭皇后鎮盛大開幕。"
+    ],
+    "comment_id": 3966365073,
+    "story": "時裝週的狂亂後台，設計師們的奇思妙想化作一堆堆造型大膽的服飾，閃爍著冰霜結晶般的紋理。一隻橘貓卻不為所動，牠在堆滿羽毛與金屬光澤布料的山丘上，專心致志地舔舐著前爪，環形燈的光芒在故障藝術的扭曲中，為牠鍍上一層溫暖的琥珀光暈。",
+    "prompt": "Digital artwork, ultra wide angle 12-18mm lens perspective with dramatic perspective distortion and expansive field of view, capturing a ginger cat elegantly grooming its paws. The scene is set in a chaotic London Fashion Week backstage, where the cat is perched atop a towering pile of bizarre, avant-garde garments made of feathers and metallic-sheen fabrics. The entire composition is infused with a glitch art style, featuring digital distortion, RGB channel shift, a corrupted data aesthetic, scan line artifacts, and fragmented visuals. Ring light illumination casts a prominent circular catchlight in the cat's eyes, providing even frontal lighting that bathes the scene in a warm amber color grading. Textures within the image incorporate ice crystal formations, delicate frost patterns, frozen surface texture, and translucent ice shards, creating a winter crystalline beauty. The overall palette showcases golden yellows, burnt orange, and a cozy, nostalgic warmth. Visually displayed in the image: '2026-02-26 12:37 UTC'.",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Ring Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 550,
+    "title": "琥珀秀場貓",
+    "idea": "一個故障藝術風格、超廣角構圖的場景，一隻貓咪在倫敦時裝週後台，於一堆奇異前衛的服裝上優雅地梳理著毛髮，由環形燈照亮，整體呈現琥珀色調與冰霜結晶質感。",
+    "inspiration": "倫敦時裝週在英國倫敦熱鬧展開，展示了許多大膽、古怪且奇特的服裝。"
   }
 ]
