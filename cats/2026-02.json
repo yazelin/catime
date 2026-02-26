@@ -14641,5 +14641,37 @@
       "科幻奇幻實驗室設定",
       "特殊肖像照明技法"
     ]
+  },
+  {
+    "idea": "一隻黑貓在古老木製碼頭上巡視貨物，攝像機以運動追焦手法捕捉其敏捷身形，整個場景透過移軸效果呈現微縮模型感，海水中微弱的生物發光為木紋碼頭投下莫蘭迪色調的柔和光暈。",
+    "comment_id": 3964492954,
+    "title": "碼頭巡夜影",
+    "story": "夜幕低垂，漁港碼頭一片寂靜，唯有海浪輕拍木樁。名為「影子」的黑貓，一身毛皮融入夜色，牠正專注地檢查一堆堆老舊木箱。隨著牠輕快地巡邏，腳下的木板縫隙間，海水中的浮游生物泛起點點幽微的藍綠光芒，為這片沉靜的場景增添一絲生機。",
+    "avoid_list": [
+      "時間戳記直接顯示",
+      "極低角度仰視構圖",
+      "聚光燈與高對比光影",
+      "透明樹脂或水晶質感",
+      "亮面塑膠或乙烯玩具感",
+      "移軸微縮景深效果",
+      "等距攝影視角",
+      "淺景深與膠片顆粒",
+      "高飽和鮮豔色彩",
+      "貓咪專注輕觸或凝視",
+      "懷舊復古膠片美學",
+      "科幻奇幻實驗室設定",
+      "特殊肖像照明技法"
+    ],
+    "news_inspiration": [],
+    "prompt": "A candid photograph of an agile black cat, sharply in focus and frozen mid-patrol on an ancient wooden pier, captured with sports panning photography at a high shutter speed. The background elements of the sea and dock are horizontally motion-blurred, emphasizing the cat's swift movement. A strong tilt-shift effect is applied, creating a miniature toy-like scene with a narrow band of selective focus, blurring both the foreground and background significantly. Below the pier, faint bioluminescent lighting from the seawater casts an organic, deep blue-green radiance onto the natural wood grain texture of the pier, illuminating visible knots and lines with a Morandi muted color palette of desaturated soft pastels and dusty grey undertones. Visually display '2026-02-26 06:45 UTC' within the image.",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Bioluminescence",
+      "texture": "Wood Grain",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "original",
+    "number": 544
   }
 ]
