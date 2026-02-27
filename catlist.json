@@ -4999,5 +4999,18 @@
     "inspiration": "聖路易斯藝術博物館一年一度的「花藝盛開」活動於2月27日至3月1日回歸，慶祝花卉與美術的結合。",
     "number": 576,
     "timestamp": "2026-02-27 18:27 UTC"
+  },
+  {
+    "season": "winter",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-02-27 19:26 UTC",
+    "title": "雪夜尋光",
+    "character": "lingling",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-27_1926_UTC.webp",
+    "is_seasonal": true,
+    "status": "success",
+    "character_name": "鈴鈴",
+    "inspiration": "original",
+    "number": 577
   }
 ]
