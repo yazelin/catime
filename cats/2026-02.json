@@ -15573,5 +15573,45 @@
     "character_name": "船長",
     "character": "captain",
     "number": 569
+  },
+  {
+    "prompt": "A serious-faced ginger cat, depicted in a polished 3D render with a Cinema 4D aesthetic, showing bold, stylized forms and an emotionally intense demeanor in the spirit of Expressionism. The cat is meticulously organizing various survey tools and biological samples, including leaves, on a simple wooden table within a spartan Galapagos research station. The composition is executed in a Knolling photography style: a flat lay overhead view with all objects neatly arranged at precise 90-degree angles in an organized grid layout against a clean background. Dramatic Rembrandt lighting illuminates the scene from a single 45-degree light source, creating pronounced chiaroscuro and a signature triangle of light on the cat's shadowed cheek. The visual aesthetic features smooth materials, clean geometry, and soft global illumination. The overall color palette is a retro faded, washed-out vintage tone with low contrast and nostalgic film-era warmth. Visually displayed in the image: '2026-02-27 12:33 UTC'.",
+    "title": "島嶼監護者",
+    "news_inspiration": [
+      "厄瓜多爾加拉帕戈斯群島在近200年後，重新引入了158隻巨型陸龜，這是一個雄心勃勃的生態恢復計畫的里程碑。",
+      "加拿大蒙特利爾市正舉辦盛大的「蒙特利爾燈光節」，透過美食、音樂和藝術裝置點亮寒冷的冬季。",
+      "中國長江流域的生物多樣性在禁漁政策實施後，顯示出初步的恢復跡象，令人鼓舞。",
+      "在湯加海岸捕捉到稀有白色座頭鯨及其幼崽的非凡水下照片，贏得了世界自然攝影獎。",
+      "英國科學家發現了人類之所以在白天活動而非夜行的基因機制，解開了長期以來的謎團。"
+    ],
+    "inspiration": "厄瓜多爾加拉帕戈斯群島在近200年後，重新引入了158隻巨型陸龜，這是一個雄心勃勃的生態恢復計畫的里程碑。",
+    "avoid_list": [
+      "高飽和鮮豔色彩",
+      "底片顆粒質感",
+      "等距攝影視角",
+      "正交投影",
+      "移軸微縮效果",
+      "霓虹燈光",
+      "黑光螢光",
+      "大地色系",
+      "復古褪色調",
+      "超廣角鏡頭",
+      "技術插畫風格",
+      "戲劇性光影",
+      "光滑光澤表面",
+      "細膩材質紋理",
+      "畫面內時間戳記顯示"
+    ],
+    "idea": "一隻表情嚴肅的薑貓，在表現主義風格下，於簡陋的加拉帕戈斯研究站木桌上，以Knolling排列攝影方式，用倫勃朗光影描繪，精確整理著勘測工具和樣本，呈現復古褪色調的3D渲染質感。",
+    "comment_id": 3972731332,
+    "story": "這隻學術氣質的貓，正專注地檢查著那些關於巨型陸龜重新引入後的生態數據。每一個工具、每一片葉子都承載著島嶼恢復的希望，牠以近乎儀式感的方式審視著，仿佛是這項宏偉計畫的無聲守護者，用牠那份獨特的細膩，為生態復甦的藍圖添上最後一筆。",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Knolling Photography",
+      "lighting": "Rembrandt Lighting",
+      "texture": "3D Render",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 570
   }
 ]
