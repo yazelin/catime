@@ -15977,5 +15977,44 @@
       "織品/紙藝/布料紋理",
       "日式寺廟/浮世繪風格"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Duotone"
+    },
+    "idea": "一隻身著精緻領結的緬因貓，正坐在一座宏偉的裝飾藝術風格圖書館中，利用等距3D插畫的視角呈現，全身籠罩在柔和的自然漫射光下。牠專注地用金屬製工具修補一本珍貴的古籍，場景以雙色調呈現，充滿金屬質感。",
+    "number": 581,
+    "avoid_list": [
+      "倫勃朗光影與標誌性陰影三角",
+      "貓咪專注於細緻整理/收集工作",
+      "高飽和鮮豔色彩與強烈對比",
+      "Knolling 排列攝影",
+      "魚眼鏡頭/超廣角與畸變效果",
+      "遞迴/德羅斯特效應或分形幾何",
+      "復古褪色調與懷舊氛圍",
+      "冰霜結晶或冰凍質感",
+      "奢華黑金配色場景",
+      "廢棄/斑駁工業場景",
+      "加拉帕戈斯主題/巨龜",
+      "生物朋克溫室與異變植物",
+      "織品/紙藝/布料紋理",
+      "日式寺廟/浮世繪風格"
+    ],
+    "news_inspiration": [
+      "利比亞已成為最新一個成功消除傳染性失明主因沙眼病的國家。",
+      "在厄瓜多加拉巴哥群島的弗洛雷亞納島，睽違近200年後，巨型陸龜再次被重新引入。",
+      "義大利西西里島的消防員在一場山體滑坡後，成功從危險邊緣搶救出400本珍貴圖書。",
+      "在美國佛羅里達州，一隻受傷的儒艮媽媽和牠的幼崽獲救並被送往海洋世界進行康復治療。",
+      "日本東京一名出生時體重僅268克的男嬰，成為有紀錄以來成功存活並出院的最小男嬰。"
+    ],
+    "story": "在一次隱約可見的災難邊緣後，這座曾受損的知識殿堂如今重獲寧靜。書架上，成排閃爍著金屬光澤的書脊無聲地講述著歷史。貓咪學者輕柔地翻開書頁，巧手將時間的裂痕一一彌合，守護著這份傳承。",
+    "inspiration": "義大利西西里島的消防員在一場山體滑坡後，成功從危險邊緣搶救出400本珍貴圖書。",
+    "comment_id": 3975672640,
+    "title": "古卷修復師",
+    "prompt": "An isometric 3D illustration of a refined Maine Coon cat, wearing a bow tie, meticulously repairing a precious antique book with metallic tools. The cat is seated within a grand Art Deco library. Rendered in a duotone color treatment, primarily a bold gold and black palette, the scene emphasizes metallic surfaces, brushed and polished metal textures, and sharp reflections throughout the environment and the cat's tools, creating an industrial premium feel. The illustration features clean geometric forms, luxurious symmetry, and a polished playful aesthetic, evoking 1920s elegance and a modern design. Lighting consists of soft, diffused natural light, providing even illumination with gentle tones and no harsh shadows, as if under an overcast sky. Visually displayed in the image: '2026-02-27 23:15 UTC'."
   }
 ]
