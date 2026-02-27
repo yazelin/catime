@@ -4892,5 +4892,18 @@
     "number": 565,
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-27_0738_UTC.webp",
     "timestamp": "2026-02-27 07:38 UTC"
+  },
+  {
+    "title": "爐火墨影書香",
+    "season": "winter",
+    "status": "success",
+    "character_name": "墨墨",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-27_0829_UTC.webp",
+    "character": "momo",
+    "timestamp": "2026-02-27 08:29 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "number": 566
   }
 ]
