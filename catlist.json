@@ -4923,5 +4923,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-27_1027_UTC.webp",
     "timestamp": "2026-02-27 10:27 UTC",
     "title": "膠卷貓影師"
+  },
+  {
+    "title": "浮島之舵",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-02-27_1124_UTC.webp",
+    "timestamp": "2026-02-27 11:24 UTC",
+    "status": "success",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "season": "winter",
+    "character_name": "船長",
+    "character": "captain",
+    "number": 569
   }
 ]
