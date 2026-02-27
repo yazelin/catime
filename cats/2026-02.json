@@ -15318,5 +15318,36 @@
     "story": "在一個設計成現代雕塑的貓咪競技場中，一隻烏黑的短毛貓以驚人的速度衝刺。牠在一個關鍵的瞬間騰空而起，優雅地穿過一個以赭色與橄欖綠絲綢纏繞的圓環，身後是因運動追焦而模糊的背景，頭頂一束聚光燈精準地照亮牠矯健的身影。",
     "title": "絲綢越野瞬",
     "number": 562
+  },
+  {
+    "prompt": "A fluffy Persian cat, captured in infrared photography style, delicately sniffs a rare exotic orchid inside a grand Victorian glass greenhouse. The scene is shot with a fisheye wide-angle lens, creating strong barrel distortion, an exaggerated foreground, and a 360-degree feel that emphasizes the curved glass structure and the abundant white foliage. Golden hour lighting streams through the transparent glass material, casting long soft shadows and a warm sunset glow with a golden rim light on the cat. Crystalline clarity, light refraction, and prismatic reflections shimmer on the glass and plant surfaces. The overall aesthetic features a retro faded color palette, washed-out vintage tones, low contrast, and nostalgic film-era warmth, giving it surreal otherworldly tones with dark skies visible through the glass. The date and time '2026-02-27 05:43 UTC' are visually displayed in the image. Shot on 35mm film, natural light, shallow depth of field, candid shot, slight grain.",
+    "avoid_list": [
+      "超廣角魚眼鏡頭與桶狀變形",
+      "經典三點打光佈局",
+      "冷調藍青色調與冰冷底色",
+      "貓咪操作精密科學儀器",
+      "Knolling 平面攝影構圖",
+      "具備遞迴結構的影像或數據",
+      "強烈直射閃光燈與硬影",
+      "環形燈照明與圓形眼神光",
+      "大地色系與暖棕色調",
+      "工業風金屬質感",
+      "微縮模型或微觀世界效果",
+      "復古懷舊與膠片顆粒感"
+    ],
+    "news_inspiration": [],
+    "title": "幽白蘭園的貓語",
+    "idea": "在一座宏偉的維多利亞式玻璃溫室中，一隻蓬鬆的波斯貓正仔細檢查一株珍稀的異國蘭花，以紅外線攝影風格捕捉此超現實畫面，魚眼鏡頭強調溫室的弧形結構與植被。",
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Golden Hour",
+      "texture": "Glass / Crystal",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 563,
+    "inspiration": "original",
+    "comment_id": 3970933708,
+    "story": "黃金時刻的餘暉透過弧形玻璃窗，將溫室內繁茂的熱帶植物映照成一片幽白的奇景，同時在玻璃與植物表面折射出晶瑩剔透的光澤。貓咪輕柔地嗅聞著蘭花，似乎在探究花朵深處的秘密，其身影在復古褪色調的紅外光譜中顯得格外神秘而優雅。"
   }
 ]
