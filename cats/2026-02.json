@@ -16683,5 +16683,44 @@
       "color_palette": "High Saturation Vivid"
     },
     "idea": "一隻薑黃色虎斑貓，以墨流藝術風格描繪，正透過一面古董雕花鏡子的反射，在印度熱鬧城市屋頂上的一張高飽和多彩編織墊上，聚精會神地組裝一套微型、虹彩色的太陽能板陣列。"
+  },
+  {
+    "title": "織坊微光繡春意",
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Extreme Low Angle",
+      "lighting": "Bioluminescence",
+      "texture": "Fabric / Textile",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "在充滿織品與布料質感的河內老舊紡織工坊中，一隻貓咪以極低角度的畫意攝影風格被捕捉，牠正專注地將一條帶有生物發光的絲線穿入精緻的繡框中，整個場景籠罩在莫蘭迪色調的柔和光暈下。",
+    "number": 600,
+    "avoid_list": [
+      "日期時間標記 '2026-02-28 UTC'",
+      "魚眼鏡頭與桶狀畸變",
+      "3D等距插圖與精緻俏皮渲染",
+      "貓咪專注凝視/監控/解讀",
+      "可見底片顆粒與自然抓拍",
+      "金黑配色與奢華金屬點綴",
+      "溫暖琥珀色調與懷舊氛圍",
+      "冷藍綠色調與冰冷底蘊",
+      "體積光與戲劇性陰影",
+      "生物發光與空靈光芒",
+      "高對比與勾勒輪廓光",
+      "未來科技感儀器與場景",
+      "完美對稱構圖",
+      "簡潔幾何造型"
+    ],
+    "prompt": "An extreme low-angle photograph, looking up at a short-haired cat intently threading a bioluminescent silk string into a delicate embroidery hoop. The scene is set inside an old Hanoi textile workshop, rich with woven fabric texture, visible threads, and stacks of soft linen and cotton fabrics, creating a tactile soft appearance. The cat's activity is captured with a dramatic, towering perspective. The workshop is enveloped in Morandi muted color schemes, featuring desaturated soft pastels and dusty grey undertones, creating a quiet elegance and evocative mood. Illumination comes from the organic glow of the bioluminescent silk, radiating a deep blue-green radiance, providing a soft, otherworldly natural light. This photograph is in the style of Pictorialism photography, with deliberate soft focus and atmospheric effects, resembling early fine art photography. Shot with a 50mm lens at f/1.8, using available window light, exhibiting fine grain and shallow depth of field for a candid photographic feel. The date and time '2026-02-28 20:14 UTC' must be clearly displayed within the image.",
+    "comment_id": 3977704113,
+    "news_inspiration": [
+      "厄瓜多爾的加拉帕戈斯群島中，巨型陸龜在180多年後首次被重新引入弗洛雷亞納島，標誌著重要的生態恢復里程碑。",
+      "哥倫比亞波哥大透過推動清潔交通和增加綠地，在2018年至2024年間將空氣污染減少了24%，顯著改善了800萬居民的公共健康。",
+      "越南河內舉辦了「全國春日色彩」活動，吸引了來自15個省市的33個民族社區的300多名工匠參與，共同慶祝和傳承文化傳統。",
+      "中國核工業集團在貴州省六盤水市成功將全球首個超臨界二氧化碳發電機連接至電網，利用鋼鐵製造的工業餘熱發電。",
+      "西班牙埃斯特雷馬杜拉的赫爾特山谷迎來了櫻花季節，數百萬棵櫻桃樹綻放，每年吸引大量遊客前來觀賞這一自然美景。"
+    ],
+    "story": "早春時節，河內一間古老的紡織工坊準備著年度的「春日色彩」活動。一隻短毛貓輕巧地蹲伏在一疊待繡的莫蘭迪色亞麻布上，前爪小心翼翼地推動著一條微微發光的絲線，將其穿過繡框上一個細密的針孔。工坊內散發著淡淡的植物染料香氣，空氣中充滿了即將煥發的傳統文化生機。",
+    "inspiration": "越南河內舉辦了「全國春日色彩」活動，吸引了來自15個省市的33個民族社區的300多名工匠參與，共同慶祝和傳承文化傳統。"
   }
 ]
