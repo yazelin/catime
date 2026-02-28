@@ -16313,5 +16313,45 @@
     "comment_id": 3976724606,
     "inspiration": "original",
     "number": 589
+  },
+  {
+    "character_name": "墨墨",
+    "story": "墨墨在充滿時光印記的古董店裡，以牠特有的優雅姿態，攀爬至一疊高聳的珍稀古籍與天文儀器頂端，修長的白色鬍鬚在純黑的臉龐上格外顯眼。牠那雙金琥珀色的眼睛，在微弱的生物發光襯托下，專注地凝視著下方一張古老捲軸。捲軸上透過雙重曝光效果，除了斑駁的古文字，還疊映著閃爍幽微光芒的抽象生物圖譜，彷彿牠正解讀著宇宙與生命最深層的編碼，牠胸前的小撮白毛在光影中如領結般服貼。",
+    "comment_id": 3976806390,
+    "idea": "在一間裝潢華麗、物品堆疊的古董店中，以等距3D插圖和雙重曝光藝術風格呈現，純黑的墨墨以黏土/陶瓷質感身軀，優雅地棲息於高處，凝視著一張揭示生命奧秘的古老捲軸。",
+    "avoid_list": [
+      "裝飾藝術風格幾何對稱",
+      "貓咪專注精細動作",
+      "低多邊形數位摺紙風格",
+      "環形燈與眼部眼神光",
+      "莫蘭迪柔和粉彩色調",
+      "淺景深效果",
+      "Knolling俯視平面構圖",
+      "復古褪色懷舊暖色調",
+      "超現實怪誕夢幻場景",
+      "貓咪操作微型物件",
+      "戲劇性背光輪廓光",
+      "等距3D插畫視角",
+      "超廣角魚眼鏡頭扭曲",
+      "星體行星主題元素"
+    ],
+    "number": 590,
+    "prompt": "An opulent 3D isometric illustration of a cluttered, luxurious antique shop. The scene is rendered with clean geometric forms and a polished, playful style. Perched elegantly atop a high, precarious stack of rare ancient books and intricate astronomical instruments is Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat. Momo has a sculpted clay texture and matte surface with subtle imperfections, yet her fur maintains a satin-sheen quality with subtle warm brown undertones. Her athletic proportions and visible muscle definition are evident, and her tail features a slight upward curl at the tip with a single dark-grey #696969 ring. A single small gold hoop earring #FFD700 (3mm) is perfectly positioned at the mid-edge of her LEFT ear (viewer's perspective). Long, prominent white whiskers frame her face. Her large, luminous golden-amber #D4A017 eyes, reflecting a calm and attentive expression, are intensely focused downwards onto an ancient, unfurled scroll. A tiny natural white locket tuft #FFFFFF rests on her ventral chest, resembling a small bow tie in the light. The ancient scroll exhibits a mesmerizing double exposure effect: mottled ancient glyphs are blended with an ethereal, transparent overlay of an abstract biogram shimmering with subtle, organic bioluminescent light. This biogram features soft pastel colors within its ethereal transparency, contrasting with the deep blue-green radiance of its glow, reminiscent of underwater phosphorescence, suggesting the decoding of cosmic and life's deepest encodings. The antique shop environment features a rich gold and black color scheme with luxurious metallic gold accents, creating an opulent mood. Subtle, ethereal natural light filters into the scene, further highlighted by pockets of bioluminescent lighting emanating from various antique objects and the glowing scroll. The date and time '2026-02-28 10:13 UTC' is prominently displayed as a holographic projection emanating from a mysterious antique device, adding to the ethereal atmosphere.",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Bioluminescence",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "character": "momo",
+    "title": "墨之秘卷",
+    "news_inspiration": [
+      "美國加州大學柏克萊分校的科學家發現了一種微生物，它能打破生物學上將特定三字母DNA代碼視為「停止」訊號的定律，揭示了新的生物學機制。",
+      "HBX集團的年度報告指出，「極繁主義」正成為2026年全球旅遊業的突出趨勢，預示著旅客將尋求大手筆消費和多站式冒險的極致體驗。",
+      "全球各地熱烈慶祝農曆新年，從荷蘭到紐約和新加坡都舉辦了豐富多彩的文化活動，包括生動的表演和傳統舞蹈，共同迎接春節。",
+      "在板球T20世界盃中，英格蘭隊於一場關鍵賽事中擊敗了紐西蘭隊，使得巴基斯坦隊的晉級希望得以延續。"
+    ],
+    "inspiration": "美國加州大學柏克萊分校的科學家發現了一種微生物，它能打破生物學上將特定三字母DNA代碼視為「停止」訊號的定律，揭示了新的生物學機制。"
   }
 ]
