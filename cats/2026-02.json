@@ -16722,5 +16722,45 @@
     ],
     "story": "早春時節，河內一間古老的紡織工坊準備著年度的「春日色彩」活動。一隻短毛貓輕巧地蹲伏在一疊待繡的莫蘭迪色亞麻布上，前爪小心翼翼地推動著一條微微發光的絲線，將其穿過繡框上一個細密的針孔。工坊內散發著淡淡的植物染料香氣，空氣中充滿了即將煥發的傳統文化生機。",
     "inspiration": "越南河內舉辦了「全國春日色彩」活動，吸引了來自15個省市的33個民族社區的300多名工匠參與，共同慶祝和傳承文化傳統。"
+  },
+  {
+    "idea": "一個以青花瓷風格呈現的微縮立體模型，描繪鈴鈴在一個充滿光澤塑膠質感花朵的夢幻蝴蝶溫室中，天真地追逐著一隻以莫蘭迪色調繪製的精緻瓷蝴蝶。",
+    "comment_id": 3977857592,
+    "prompt": "A tilt-shift macro photograph of a miniature diorama. Lingling, an extremely fluffy pure white Ragdoll cat with voluminous, cloud-like fur, rendered with a glossy plastic toy texture and vinyl figure aesthetic. Her huge round sapphire-blue eyes sparkle as she playfully extends a front paw, revealing pale pink paw pads, towards a delicate porcelain butterfly. The butterfly is painted in Morandi muted color tones of desaturated soft pastels and dusty grey undertones, resting on a traditional blue and white porcelain style leaf with cobalt blue floral motifs, a white glazed base, and delicate crackle texture. The scene unfolds within a dreamy butterfly conservatory, constructed like a toy-like scale model in the traditional blue and white porcelain style. Surrounding Lingling are glossy plastic textured flowers, with smooth high-shine surfaces and slight reflections, some petals gently pressed down by her immense fluff. Soft neon lighting traces the conservatory's curved edges, creating a moody, urban night atmosphere within this tiny detailed world. Lingling's small round face, almost hidden in fur, showcases her pale pink nose and inner ears. A pink ribbon bow collar with a clearly visible, centered small golden bell adorns her neck. The date and time '2026-02-28 21:12 UTC' are prominently displayed as a glowing digital overlay in the image. Photographed with a 50mm macro lens, f/2.8, shallow depth of field, subtle chromatic aberration, and a dramatic studio lighting setup.",
+    "number": 601,
+    "avoid_list": [
+      "日期時間標記 '2026-02-28 UTC'",
+      "魚眼鏡頭與桶狀畸變",
+      "3D等距插圖與精緻俏皮渲染",
+      "貓咪專注凝視/監控/解讀",
+      "可見底片顆粒與自然抓拍",
+      "金黑配色與奢華金屬點綴",
+      "溫暖琥珀色調與懷舊氛圍",
+      "冷藍綠色調與冰冷底蘊",
+      "體積光與戲劇性陰影",
+      "生物發光與空靈光芒",
+      "高對比與勾勒輪廓光",
+      "未來科技感儀器與場景",
+      "完美對稱構圖",
+      "簡潔幾何造型"
+    ],
+    "character": "lingling",
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Miniature Diorama",
+      "lighting": "Neon Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "瓷蝶夢追",
+    "story": "在這座由溫柔莫蘭迪藍與潔白瓷器構築的微型世界裡，鈴鈴那團蓬鬆的白色身體，帶著亮面塑膠般的質感，正好奇地伸出前爪，試圖輕觸一隻停在青花瓷葉片上的淡粉色瓷蝴蝶。柔和的霓虹燈光沿著溫室的弧形結構邊緣發出微弱光芒，照亮她那雙像藍寶石般的大眼睛，而她脖子上的粉色鈴鐺在每一次輕微的動作中都發出細微的叮鈴聲。她全神貫注，全然不知自己龐大的毛量已將周圍幾朵花瓣壓得微微傾斜。",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "美國加州理工學院的科學家們發現了一種細菌「殺滅開關」，這項突破性研究有望改變對抗超級細菌的方式，為新型抗生素的開發帶來希望。",
+      "一個來自中國安徽的藝術團在迦納首都阿克拉的迦納大學孔子學院，為當地學生們帶來了精彩的中國文化表演，包括舞蹈、變臉和黃梅戲，促進了兩國之間的文化交流。",
+      "在英國威爾士的埃蘭谷，一項名為「星空浴」的旅遊趨勢正受到推廣，鼓勵遊客在夜晚沉浸於星空之下，體驗大自然的靜謐與壯麗。",
+      "印度於2月28日慶祝全國科學日，以紀念C.V.拉曼爵士在1928年發現「拉曼效應」，今年的主題特別強調女性在推動科學發展中的關鍵作用。"
+    ],
+    "inspiration": "original"
   }
 ]
