@@ -16570,5 +16570,44 @@
       "texture": "Frosted Glass",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "idea": "以藍曬法風格呈現，從鳥瞰視角俯視一隻玳瑁貓，牠在一張鋪滿古老海圖的粗糙金屬工作台上，利用迷你航海儀器精心標記弗洛雷亞納島上巨型陸龜的遷徙路線，被溫和的背光勾勒出輪廓。",
+    "title": "藍圖龜蹤",
+    "avoid_list": [
+      "日期時間標示",
+      "3D等距插圖",
+      "簡潔幾何形式與精緻玩味風格",
+      "貓咪專注神態",
+      "莫蘭迪色調或柔和粉彩色系",
+      "電影感打光與體積光",
+      "環形燈光與圓形高光",
+      "輪廓光與發光邊緣",
+      "復古褪色調與低對比",
+      "底片顆粒與類比噪點",
+      "實驗室環境",
+      "巷弄酒吧或陰暗巷道",
+      "摺紙藝術風格與紙雕感",
+      "金黑配色與金色點綴",
+      "超現實夢幻場景"
+    ],
+    "news_inspiration": [
+      "巨型陸龜在闊別180多年後首次重返厄瓜多爾的弗洛雷亞納島，這是生態復育的一個重要里程碑，令人振奮。",
+      "韓國正式終止了備受爭議的養熊取膽汁做法，展現了動物福利的進步。",
+      "德國科隆舉辦了熱鬧的狂歡節，數百萬人身著色彩繽紛的服裝，在街頭享受現場音樂和遊行。",
+      "美國康涅狄格州索辛頓鎮為參加2026年米蘭科爾蒂納冬季奧運會的雪橇選手奧斯汀·弗洛里安舉行了溫馨的返鄉歡迎儀式。"
+    ],
+    "prompt": "A tortoiseshell cat rendered in a cyanotype print style, featuring Prussian blue monochrome tones, a photogram technique, and a blueprint aesthetic on sun-exposed paper. From a bird's-eye, top-down perspective, creating a miniature world effect, we see the cat on a rough, brushed metallic workbench with sharp reflections, which is covered with ancient, yellowed sea charts. The cat meticulously adjusts a miniature brass sextant, casting light onto the maps, and uses other tiny navigation instruments to carefully mark the migration routes of giant tortoises on Floreana Island. Strong backlighting creates a high contrast silhouette, with glowing rim light outlining the cat and its tools, contributing to a dramatic mood. The overall color grading is cool blue-teal with icy undertones, creating a crisp, serene atmosphere. The date and time '2026-02-28 17:11 UTC' is visually displayed as an integrated timestamp.",
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Bird's-Eye View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 3977442591,
+    "story": "在這片蒼茫的藍色海島上，一隻毛色斑斕的玳瑁貓，被島嶼生態復育的使命所吸引。牠全神貫注地調整著一枚袖珍黃銅六分儀，將光線投射在泛黃的航海圖上，用小巧的爪子仔細地為遠方緩慢移動的巨龜群繪製路徑，彷彿牠才是這片海域最精準的嚮導。",
+    "inspiration": "巨型陸龜在闊別180多年後首次重返厄瓜多爾的弗洛雷亞納島，這是生態復育的一個重要里程碑，令人振奮。",
+    "number": 597
   }
 ]
