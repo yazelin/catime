@@ -16126,5 +16126,43 @@
       "織品/紙藝/布料紋理",
       "日式寺廟/浮世繪風格"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Knolling Photography",
+      "lighting": "Cinematic Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "貓咪輕柔地用爪尖撥動著一個個圓滑的塑膠旋鈕，試圖從宇宙深處捕捉那 elusive 的「閃電哨聲」。實驗室的牆面流動著柔和的迷幻圖案，與桌面物件的亮面光澤相映成趣，讓整個空間既功能化又充滿超現實的寧靜。",
+    "title": "星訊校準中",
+    "news_inspiration": [
+      "科學家首次在火星上探測到「閃電哨聲」，這是一項來自外太空的有趣科學發現。",
+      "梵蒂岡在經過十年的清潔修復後，展示了拉斐爾展廳的最後一部分。",
+      "韓國正與日本、馬來西亞和泰國合作，積極採取措施以促進2026年的旅遊業。",
+      "在消失400年後，海狸再次回到蘇格蘭的格倫阿弗里克自然保護區。"
+    ],
+    "number": 585,
+    "prompt": "A detailed studio photograph, captured with a prime lens and a wide aperture, showcasing sharp focus on a unique scene. A focused domestic cat, wearing small, glossy plastic headphones, meticulously adjusts smooth plastic knobs and calibrates various receivers and tools. The background is a retro experimental lab with walls displaying soft, flowing psychedelic swirling patterns, subtly accented with vibrant neon colors, yet the overall lab environment maintains a subdued Morandi muted color palette of desaturated soft pastels and dusty grey undertones, projecting quiet elegance and and surreal tranquility. On the lab table, all receivers and tools are arranged in a precise Knolling photography style, neatly aligned at 90-degree angles in an organized grid layout, presented as a flat lay overhead view. The scene is illuminated by dramatic cinematic lighting, featuring distinct volumetric light rays, deep dramatic shadows, and a high dynamic range, achieving a film-quality mood. Every element, from the cat to the headphones, receivers, and tools, possesses a glossy plastic toy texture, with smooth high-shine surfaces and slight reflections, evoking a vinyl figure aesthetic. The date and time '2026-02-28 05:25 UTC' is clearly visible and integrated into the display of a lab instrument. Shot with a fast lens, emphasizing clean lines and pristine surfaces.",
+    "idea": "在一個瀰漫著莫蘭迪色調的迷幻風格復古實驗室中，一隻貓咪戴著亮面塑膠製的小巧耳機，專注地校準著桌上各式以Knolling排列攝影方式整齊擺放的接收器與工具，在電影感打光下，整體畫面呈現出細緻的玩具質感。",
+    "avoid_list": [
+      "倫勃朗光影",
+      "淺景深",
+      "底片顆粒與類比質感",
+      "魚眼鏡頭與桶狀畸變",
+      "裝飾藝術風格",
+      "黑金配色",
+      "貓咪專注動作或凝視",
+      "遞迴/德羅斯特效應",
+      "冰晶/霜凍表面質感",
+      "溫暖秋日琥珀色調",
+      "戲劇性明暗對比",
+      "華麗奢華氛圍",
+      "微妙幾何圖案",
+      "金屬質感與光澤"
+    ],
+    "inspiration": "科學家首次在火星上探測到「閃電哨聲」，這是一項來自外太空的有趣科學發現。",
+    "comment_id": 3976428061
   }
 ]
