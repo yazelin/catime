@@ -16530,5 +16530,45 @@
     "news_inspiration": [],
     "story": "在黃金時刻的餘暉中，橘貓的毛髮被鍍上一層溫暖的琥珀色光芒。透過魚眼鏡頭，燈塔內部大理石般的牆壁與曲面玻璃被誇張地扭曲，凸顯了貓咪在廣闊空間中的微小與盡責。牠輕柔地擦拭，確保遠航的船隻能看見指引的光芒。",
     "title": "燈塔守夜貓"
+  },
+  {
+    "news_inspiration": [
+      "美國德州農工大學的科學家們開發了一種咖啡因啟動的CRISPR基因編輯系統，有望用於對抗癌症和糖尿病。",
+      "印度於2月28日慶祝國家科學日，紀念拉曼效應的發現，並鼓勵青年在科學和創新領域的全球領導力。",
+      "美國高爾夫球手Angel Yin在新加坡舉行的滙豐女子世界錦標賽上表現出色，她將好成績歸功於一副價值10美元的太陽眼鏡，助她在炎熱天氣中保持冷靜。",
+      "日本千葉市動物園裡一隻名叫Punch的日本獼猴，因被遺棄後由絨毛玩具安撫的影片在網路上爆紅，成為全球話題。",
+      "曾是米克·傑格和格蕾絲·瓊斯等名人光顧的傳奇巴黎迪斯科舞廳Le Palace即將重新開放。"
+    ],
+    "avoid_list": [
+      "日期時間標示",
+      "3D等距插圖",
+      "簡潔幾何形式與精緻玩味風格",
+      "貓咪專注神態",
+      "莫蘭迪色調或柔和粉彩色系",
+      "電影感打光與體積光",
+      "環形燈光與圓形高光",
+      "輪廓光與發光邊緣",
+      "復古褪色調與低對比",
+      "底片顆粒與類比噪點",
+      "實驗室環境",
+      "巷弄酒吧或陰暗巷道",
+      "摺紙藝術風格與紙雕感",
+      "金黑配色與金色點綴",
+      "超現實夢幻場景"
+    ],
+    "idea": "在一片被暖和陽光普照的紅瓦露台上，透過磨砂玻璃窗篩下的自然漫射光，一隻戴著迷你墨鏡的姜黃色貓咪，以35mm底片攝影的魚眼鏡頭視角，平靜地「監督」著一盤慢節奏的鈕扣棋局。",
+    "prompt": "A candid 35mm film photograph, shot with a fisheye wide-angle lens, featuring strong barrel distortion and an exaggerated foreground. A ginger turmeric cat, wearing miniature sunglasses, calmly \"supervises\" a game of buttons spread on a warm red-tiled terrace. Soft, diffused natural light filters through a frosted glass window, creating even illumination and gentle tones without harsh shadows. The image has a visible film grain and a slight vignette, conveying a nostalgic feel. Warm amber color grading, showcasing an autumn palette of golden yellows and burnt orange, permeates the scene, evoking cozy nostalgic warmth. Soft blurred shapes are visible behind the translucent matte frosted glass, indicating diffused light transmission. The timestamp '2026-02-28 16:14 UTC' is clearly visible within the image.",
+    "inspiration": "美國高爾夫球手Angel Yin在新加坡舉行的滙豐女子世界錦標賽上表現出色，她將好成績歸功於一副價值10美元的太陽眼鏡，助她在炎熱天氣中保持冷靜。",
+    "comment_id": 3977367644,
+    "number": 596,
+    "title": "黃金的午後棋局",
+    "story": "這隻名叫「黃金」的貓咪，總是在午後慵懶的暖陽下進行牠的日常儀式。牠深信這副十元墨鏡能讓牠在任何「高壓」局面下保持冷靜，即使只是觀察一場由掉落的鈕扣組成的棋局。透過魚眼鏡頭，世界變得廣闊而帶有弧度，而黃金則穩如泰山。",
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
