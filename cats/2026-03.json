@@ -743,5 +743,37 @@
       "在倫敦舉行的英超聯賽中，兵工廠隊擊敗切爾西隊，將榜首領先優勢擴大至五分。",
       "以色列Tinshemet洞穴的考古發現表明，尼安德塔人與智人早在11萬年前就在該地區共同生活並共享文化元素。"
     ]
+  },
+  {
+    "avoid_list": [
+      "天文觀測相關場景",
+      "Knolling 俯視構圖",
+      "蒸汽朋克風格機械",
+      "柔和粉彩色調與夢幻光影",
+      "液態金屬或水銀質感",
+      "戲劇性體積光線與上帝光束",
+      "紙質紋理與牛皮紙觸感",
+      "黑白高對比單色調",
+      "低多邊形幾何或數位摺紙風格",
+      "強烈逆光或輪廓光",
+      "大地色系自然和諧",
+      "聚光燈下高對比與銳利光影",
+      "'2026-03-01 XX:XX UTC' 時間戳顯示"
+    ],
+    "idea": "在一個廢棄的復古未來太空電玩中心裡，一隻短毛貓正全神貫注地操作一台充氣PVC材質的夾娃娃機，整個場景以紅外線攝影風格呈現。",
+    "prompt": "A photograph. A sleek, short-haired cat, captured with a shallow depth of field, intensely operates the joystick of an abandoned retro-futuristic space arcade claw machine. The machine is constructed from inflatable PVC material, exhibiting a high-gloss, balloon-like surface, puffy rounded forms, and palpable air-filled tension, glowing with an eerie infrared light. Inside the machine, various prizes are arranged with Knolling photography composition: objects neatly placed at 90-degree angles, forming an organized grid layout, viewed as a flat lay. The scene is illuminated by a classic three-point lighting setup, featuring a key light casting soft shadows on the cat, a fill light, and subtle rim light separation highlighting the cat's silhouette and the machine's edges. The entire image is rendered in an infrared photography style, creating surreal, otherworldly tones with a distinct duotone color treatment, utilizing two contrasting colors: deep, dark purples and blacks for the forgotten environment, sharply contrasted with vibrant, glowing infrared reds and whites emanating from the machine's light and the prizes. The overall impression is a bold graphic impact in a time-stagnant, silent atmosphere. Textually displayed in the image: '2026-03-01 23:14 UTC'. The background maintains a clean, dark aesthetic, reminiscent of dark skies, emphasizing the cat and the glowing machine. Shot to appear as a real photograph, with subtle film grain, not digital art or a painting.",
+    "story": "被遺忘的太空站深處，空氣中瀰漫著舊電路的靜默。一隻優雅的短毛貓，在三點打光的聚焦下，精準地控制著搖桿，試圖從一台發著詭異紅外線光芒的紫色充氣PVC夾娃娃機中夾取獎品。機台內，排列整齊的獎品在紅外線下呈現出超現實的質感，整個雙色調的場景充滿了時間凝滯的寂靜。",
+    "number": 624,
+    "title": "星塵戲語",
+    "comment_id": 3981266933,
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Three-Point Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [],
+    "inspiration": "original"
   }
 ]
