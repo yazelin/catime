@@ -77,5 +77,39 @@
       "淺景深"
     ],
     "title": "霓虹策展者"
+  },
+  {
+    "idea": "在一個廢棄天文台的控制室內，一隻三花貓正透過手機隨拍的構圖，專注研究一張覆蓋著苔蘚、呈現復古褪色調的古老星圖，其被從破裂圓頂透下的背光自然勾勒出輪廓，星圖上的插畫，巧妙地將貓咪與星圖本身融合成遞迴構圖的一部分。",
+    "inspiration": "original",
+    "prompt": "A candid smartphone snapshot capturing an authentic everyday moment: a calico cat intently studying an ancient, moss-covered star chart through a phone screen in the control room of an abandoned observatory. Sunlight streams through the broken dome, casting natural backlighting with strong rim light that beautifully outlines the cat and the edges of the star chart, illuminating floating dust. The composition on the phone screen features a recursive image, a Droste effect, where the cat and star chart are integrated into a self-referential loop, a picture within a picture repeating. The star chart itself has a retro faded color palette and washed-out vintage tones, covered with lush green organic moss overgrowth, giving a damp forest aesthetic and soft living patina. The surrounding rusted instruments and walls are also moss-covered. The overall scene has a low contrast and nostalgic film-era warmth. Visually displayed text on the image: '2026-03-01 05:43 UTC'. Shot with a 35mm lens, f/1.8, shallow depth of field, subtle film grain.",
+    "avoid_list": [
+      "影像中顯示日期時間",
+      "微縮世界/模型",
+      "完美對稱構圖/置中主體",
+      "魚眼鏡頭廣角畸變",
+      "暖琥珀色調/秋季色彩",
+      "莫蘭迪柔和色調",
+      "亮面塑膠/搪膠玩具質感",
+      "非洲未來主義",
+      "底片顆粒感/攝影瑕疵",
+      "勾勒輪廓的邊緣光",
+      "強烈戲劇性光影",
+      "貓咪專注進行精細活動",
+      "金黑配色與金屬金色點綴",
+      "黏土/陶瓷質感",
+      "淺景深"
+    ],
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 606,
+    "news_inspiration": [],
+    "title": "星圖苔痕",
+    "comment_id": 3979195790,
+    "story": "陽光從破裂的圓頂天窗灑落，點亮了房間內漂浮的塵埃，為三花貓的毛髮鍍上一層微光。牠的目光緊鎖在褪色的星圖上，彷彿在解讀宇宙的奧秘，周圍鏽蝕的儀器和斑駁的牆壁上，綠色的苔蘚悄然蔓延，見證著時間的流逝。"
   }
 ]
