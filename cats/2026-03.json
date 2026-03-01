@@ -150,5 +150,44 @@
       "一項從法國巴黎到德國柏林的新臥鋪列車服務將於三月開始營運，提供歐洲旅行新選擇。",
       "薩摩亞鐵人三項運動員泰瑞斯·柯林斯在澳洲新南威爾斯州的金斯克利夫鐵人三項賽中奪得18-19歲組別銅牌。"
     ]
+  },
+  {
+    "idea": "在一個90年代底片風格的移動式天文觀測站控制室裡，一隻黑貓正以等距攝影的視角，輕巧地撥弄著懸浮在空氣中、散發著霓虹螢光生物發光的星軌全息投影，控制台覆蓋著磨損的天鵝絨。整體呈現出略帶粗礪但色彩鮮明的復古科技感。",
+    "number": 608,
+    "inspiration": "智利魯賓天文台啟動即時天空監測系統，每天發布數千個警報，供科學家追蹤小行星、超新星等宇宙變化。",
+    "news_inspiration": [
+      "全球各地慶祝聖大衛日，Google推出特別塗鴉，而威爾斯卡迪夫的千禧中心則舉辦了「Cynefin」展覽，展現威爾斯文化與藝術。",
+      "智利魯賓天文台啟動即時天空監測系統，每天發布數千個警報，供科學家追蹤小行星、超新星等宇宙變化。",
+      "越南胡志明市隆重舉辦2026年文化旅遊節，融合當地歷史遺產與水上運動，開啟城市旅遊新篇章。",
+      "2026年東京馬拉松在日本東京舉行，吸引眾多跑者參與這項國際體育盛事。"
+    ],
+    "story": "在高山沙漠深處，這間老舊卻充滿科技感的移動觀測站，是夜空中秘密的守護者。這隻黑貓並非尋常的訪客，牠似乎對眼前閃爍著霓虹光芒的小行星軌跡數據充滿好奇，用爪子輕觸光影，像是在導航著宇宙的節奏。牠的存在為這片冰冷而科學的空間，增添了一絲不可預測的生機與溫暖。",
+    "avoid_list": [
+      "影像中顯示日期時間",
+      "微縮世界/模型",
+      "完美對稱構圖/置中主體",
+      "魚眼鏡頭廣角畸變",
+      "暖琥珀色調/秋季色彩",
+      "莫蘭迪柔和色調",
+      "亮面塑膠/搪膠玩具質感",
+      "非洲未來主義",
+      "底片顆粒感/攝影瑕疵",
+      "勾勒輪廓的邊緣光",
+      "強烈戲劇性光影",
+      "貓咪專注進行精細活動",
+      "金黑配色與金屬金色點綴",
+      "黏土/陶瓷質感",
+      "淺景深"
+    ],
+    "comment_id": 3979401904,
+    "prompt": "A real captured photo taken with a 35mm lens, 1990s camera style, utilizing direct flash for a nostalgic glow. The composition features perfectly isometric photography, ensuring no miniature effect. The setting is inside a late 1990s retro-futuristic mobile astronomical observatory control room. A sleek black cat is positioned, lightly pawing with its front paw at a vibrant, floating holographic projection of star trails and asteroid orbits. The hologram emits a bioluminescent, organic glow, showcasing deep blue-green radiance, underwater phosphorescence, electric pink, lime green, and hot cyan neon fluorescent colors, sharply contrasting and glowing against the dark background of the control room. The main control console is covered in worn, deep pile velvet texture, displaying a light-absorbing matte surface with tactile luxury. The overall image features slightly muted warm tones, with rich color saturation concentrated on the glowing holographic elements. Visually displayed on a digital screen or readout within the image is '2026-03-01 07:25 UTC'.",
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Velvet",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "午夜軌跡"
   }
 ]
