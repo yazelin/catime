@@ -559,5 +559,39 @@
     "idea": "在一個「棚拍人像」風格的場景中，一隻戴著微型眼鏡的黑白貓，正專注地在由充氣PVC材質製成的對稱式工作台上，用精密的工具焊接迷你復古收音機的內部線路，聚光燈溫柔地灑落在大地色系的環境中。",
     "prompt": "Professional studio portrait photograph of a black and white cat, wearing miniature spectacles, intently focused on meticulously soldering the internal wiring of a tiny vintage radio. The cat is the centered subject on a perfectly symmetrical workbench crafted from inflatable PVC material, exhibiting a high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. Surrounding the cat are groups of softly colored inflatable PVC toolboxes, maintaining mirror-like balance and architectural framing within the clean background. The scene is illuminated by three-point lighting, with a narrow beam spotlight gently falling upon the cat and workstation, creating dramatic high-contrast, sharp light edges, and deep darkness falloff. The environment features an earth tone palette of terracotta, olive green, and warm brown, fostering a natural organic harmony. Shot with a 50mm prime lens at f/2.8, ensuring sharp focus and professional headshot quality. Visually displaying '2026-03-01 17:13 UTC'.",
     "title": "修復師的靜默時光"
+  },
+  {
+    "idea": "一隻黑貓在蒸汽朋克飛艇的導航台上，將黃銅齒輪、指南針和捲軸地圖以Knolling攝影構圖精確排列在藍綠色金屬桌面。體積光束穿透舷窗，照亮了內部儀表和窗外城市景觀上帶有幾何切面感的結構。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "avoid_list": [
+      "天文觀測站與星圖/天體",
+      "強烈逆光與貓咪輪廓光",
+      "霓虹螢光色",
+      "柔和粉彩色調",
+      "等距攝影視角",
+      "全息投影裝置",
+      "生物發光深藍綠色光芒",
+      "鏽蝕舊化工業廢墟感",
+      "天鵝絨質感與啞光表面",
+      "Knolling 排列構圖",
+      "德羅斯特效應與遞迴影像",
+      "鏡子自拍構圖與反射",
+      "液態金屬水銀般流動質感",
+      "廢棄老舊場景",
+      "貓咪專注凝視"
+    ],
+    "prompt": "A meticulously arranged flat lay photograph from a strict overhead view. The central subject is a sleek black cat, calmly observing, with one paw gently resting amidst a precise Knolling composition on a cool blue-teal metallic navigation desk. The Knolling arrangement features vintage brass gears and cogs, a polished brass compass, and neatly rolled scroll maps, all impeccably aligned at 90-degree angles in an organized grid layout, embodying a steampunk aesthetic and industrial retrofuturism. In the upper part of the desk, '2026-03-01 18:18 UTC' is clearly displayed on a retro-futuristic integrated steampunk digital readout. Dramatic volumetric lighting streams from an unseen porthole, creating visible god rays and illuminating dust particles in the crisp atmosphere, adding dramatic depth. Through the porthole, a low-poly style cityscape is visible, characterized by polygon mesh facets and a geometric crystalline surface with flat shaded triangular faces, evoking a digital origami aesthetic, bathed in the same cool blue-teal color grading with icy undertones. The scene conveys a serene and calm mood. Photographed with a 50mm lens at f/8, using controlled studio lighting with atmospheric haze for prominent volumetric effects, minimal film grain, and sharp focus across all foreground elements.",
+    "number": 619,
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Low Poly",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 3980687235,
+    "title": "浮空航海圖",
+    "story": "這隻名為「航海家」的貓，在宏偉的飛艇指揮室裡，是個不可或缺的成員。牠正專注地核對著精密的航海圖，確保每一顆齒輪和指南針都完美就位，為飛艇穿越低多邊形風格城市天際線的旅程做準備。冷色調的體積光束在空氣中舞動，為這場精準的準備工作增添了一絲神秘而莊嚴的氣氛。"
   }
 ]
