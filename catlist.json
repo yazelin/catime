@@ -5328,5 +5328,18 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-01_1015_UTC.webp",
     "inspiration": "智利：魯賓天文台啟動了即時天空監測系統，向全球天文學家發送數十萬條新發現天體的警報。"
+  },
+  {
+    "character": "momo",
+    "is_seasonal": true,
+    "character_name": "墨墨",
+    "season": "spring",
+    "timestamp": "2026-03-01 11:11 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-01_1111_UTC.webp",
+    "number": 612,
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "title": "櫻雨映墨瞳",
+    "status": "success"
   }
 ]

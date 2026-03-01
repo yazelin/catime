@@ -292,5 +292,47 @@
       "全球：科學家們研發出一種由牛奶製成的塑膠，它可在13週內分解，為環保帶來新希望。"
     ],
     "inspiration": "智利：魯賓天文台啟動了即時天空監測系統，向全球天文學家發送數十萬條新發現天體的警報。"
+  },
+  {
+    "character": "momo",
+    "is_seasonal": true,
+    "character_name": "墨墨",
+    "season": "spring",
+    "story": "春雨綿綿，舊書店的窗台上，墨墨優雅地蹲伏於一疊皮革古書之上，左耳的金環在柔和漫射光下微光閃爍。牠那琥珀色的雙眼微微發光，專注地盯著窗玻璃上的一片櫻花瓣，牠的純黑身影與雨水、櫻花在窗上形成一幅獨特的鏡像，彷彿在與自己和外界進行一場無聲的對話。低多邊形的雨滴與遠方霓虹般的櫻花色彩，為這份寧靜增添了一絲奇異的活力。",
+    "idea": "在舊書店的雨天窗台上，墨墨以白板記號筆畫的風格，靜靜凝視著玻璃上沾黏的櫻花花瓣，其修長的身影與窗外霓虹螢光色的低多邊形櫻花雨一同映照在雨水模糊的玻璃上，呈現鏡子自拍構圖。",
+    "prompt": "A sleek, slender solid-black #0A0A0A Bombay-style shorthair cat named Momo, with satin-sheen fur showing warm brown undertones in soft light. Momo has athletic proportions and a slight upward curl at the tail tip. A single small gold hoop earring #FFD700 (3mm) is on Momo's LEFT ear at the mid-ear edge. A tiny natural white locket tuft #FFFFFF is on Momo's ventral chest. The tail tip has a single dark-grey #696969 ring. Momo's eyes are large, luminous golden-amber #D4A017 gems. Long prominent white whiskers frame a calm and attentive expression. Momo is elegantly crouched on a stack of leather bound antique books on a rainy old bookstore window sill, gazing intently at a single delicate cherry blossom petal stuck to the wet window glass. The scene is rendered as a whiteboard marker drawing on glass, with a casual sketch feel and hand-drawn line art. The ink appears slightly faded, giving gentle tones. The composition is an intimate close-up perspective, resembling a mirror selfie composition with casual framing, clearly showing Momo's visible reflection on the rain-blurred glass. The reflection on the glass includes Momo's elongated silhouette and the surreal low-poly style cherry blossom rain outside. Outside the window, a spring rain falls, depicted in a low-poly style with polygon mesh facets and geometric crystalline surfaces for the raindrops. Distant cherry blossoms are rendered with flat shaded triangular faces, creating a digital origami aesthetic, glowing with neon fluorescent colors like electric pink, lime green, and hot cyan against a dark background, reflecting in the wet glass. Soft diffused natural light from an overcast sky provides even illumination, casting no harsh shadows. Visually displayed text '2026-03-01 11:11 UTC' is integrated into the image.",
+    "comment_id": 3979767390,
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Low Poly",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 612,
+    "inspiration": "original",
+    "avoid_list": [
+      "專注的貓咪",
+      "微縮立體模型",
+      "生物發光霓虹光芒",
+      "莫蘭迪柔和粉彩色調",
+      "背光輪廓與強烈邊緣光",
+      "淺景深底片顆粒質感",
+      "鐵鏽舊化工業風",
+      "等距攝影構圖",
+      "天鵝絨塑膠黏土材質",
+      "對稱構圖與置中主題",
+      "全息投影與螢幕互動",
+      "玩具模型美學",
+      "圖像中顯示日期時間"
+    ],
+    "title": "櫻雨映墨瞳",
+    "news_inspiration": [
+      "厄瓜多爾加拉巴哥群島的佛羅里亞納島迎回了158隻圈養繁殖的巨型陸龜，這是該物種消失180多年後的首次回歸。",
+      "哥倫比亞波哥大市透過推廣清潔交通和增加綠地，成功將空氣污染減少了24%，大幅改善了800萬居民的公共健康。",
+      "2026年米蘭-科爾蒂納帕拉林匹克運動會聖火在英國斯托克曼德維爾點燃，並將傳遞至義大利米蘭，象徵著帕運精神的開啟。",
+      "一位印度教師因在貧民窟設立數百個露天教室，幫助未曾入學的兒童學習，榮獲了百萬美元獎金。",
+      "南韓正式終止了備受爭議的養熊取膽汁行為，這項措施旨在改善動物福利。"
+    ]
   }
 ]
