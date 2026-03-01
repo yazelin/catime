@@ -631,5 +631,43 @@
     ],
     "number": 620,
     "prompt": "A focused cat scientist, wearing a miniature lab coat, meticulously uses delicate tweezers to pick up and examine a shimmering tektite fragment. Its expressive eyes are filled with profound curiosity, peering closely at the ancient secrets held within. The cat stands on a floating island in the sky, a miniature landscape on a levitating platform, crafted from raw concrete with a rough aggregate surface, embodying a brutalist aesthetic, industrial minimalism, and urban material texture. White clouds drift below, viewed from an aerial perspective. The scene is illuminated by warm butterfly lighting from an overhead key light, casting soft, even illumination and a symmetrical shadow under the cat's nose, with a touch of glamour portrait lighting. The tektite fragment glows under the focused butterfly light. The entire composition is bathed in a warm amber color grading, featuring an autumn palette of golden yellows and burnt orange, creating a cozy, nostalgic warmth. Rendered in a vibrant manga style with clean ink lines, screentone shading, and expressive character design. Visually displayed within the image is the text: '2026-03-01 19:15 UTC'."
+  },
+  {
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Volumetric Light",
+      "texture": "Leather",
+      "color_palette": "Earth Tones"
+    },
+    "story": "這位巧手貓咪鍊金術士正全神貫注地將可可廢料精煉成富含抗氧化劑的巧克力風味蜂蜜。牠的爪子靈巧地調整著銅製蒸餾器的閥門，身後的小學徒貓們則好奇地盯著冒泡的濃縮物。隨著機器輕微的振動，工作坊裡瀰漫著濃郁的可可與甜蜜的香氣。",
+    "number": 621,
+    "inspiration": "巴西科學家成功將可可廢料轉化為富含抗氧化劑的巧克力風味蜂蜜。",
+    "idea": "一隻身穿皮革圍裙的虎斑貓，在等距3D插圖風格的精緻實驗室中，快速而精準地操作著複雜的可可轉化設備，展現運動追焦的動態感，微弱的體積光束穿透窗戶，照亮皮革質感與大地色系的空間。",
+    "prompt": "A tabby cat, wearing a genuine leather apron with a warm aged patina and supple creased surface, is depicted in a 3D isometric illustration. The cat stands in a sophisticated laboratory, quickly and precisely operating complex cocoa transformation equipment, specifically adjusting valves on a copper still refining cocoa waste into chocolate-flavored honey. The scene captures dynamic energy, with the cat as a frozen subject amidst a motion-blurred background, evoking the aesthetic of high shutter speed sports panning photography to convey action captured. Small apprentice cats are subtly observing the bubbling concentrate behind the main subject. The illustration features clean geometric forms and a polished, playful rendering. Volumetric lighting streams through windows, creating visible god rays and illuminating dust particles, adding dramatic depth to the space. The overall color scheme is an earth tone palette, with terracotta, olive green, and warm browns, creating a natural organic harmony and soft pastel colors. The rich grain pattern of the leather and the artisanal craftsmanship of the equipment are clearly rendered. The date and time '2026-03-01 20:14 UTC' are visually displayed within the image.",
+    "comment_id": 3980944321,
+    "title": "甜心鍊金術",
+    "news_inspiration": [
+      "澳洲雪梨於3月1日展開第44屆希臘文化節，以美食、音樂和文化慶祝活動拉開序幕。",
+      "巴西科學家成功將可可廢料轉化為富含抗氧化劑的巧克力風味蜂蜜。",
+      "美國北卡羅來納州艾隆大學的非洲僑民團體於2月28日舉辦了首屆「非洲之夜」，透過音樂、時尚和喜劇慶祝全球黑人身份與卓越。",
+      "台灣南投縣政府文化局於3月1日啟動一系列豐富的藝文活動，包括表演藝術和展覽，邀請民眾體驗文化。",
+      "加拿大蒙特婁大學科學家成功讓光子模仿量子霍爾效應，為超精準測量和量子光子技術開創新標準。"
+    ],
+    "avoid_list": [
+      "天文觀測相關場景",
+      "Knolling 俯視構圖",
+      "蒸汽朋克風格機械",
+      "柔和粉彩色調與夢幻光影",
+      "液態金屬或水銀質感",
+      "戲劇性體積光線與上帝光束",
+      "紙質紋理與牛皮紙觸感",
+      "黑白高對比單色調",
+      "低多邊形幾何或數位摺紙風格",
+      "強烈逆光或輪廓光",
+      "大地色系自然和諧",
+      "聚光燈下高對比與銳利光影",
+      "'2026-03-01 XX:XX UTC' 時間戳顯示"
+    ]
   }
 ]
