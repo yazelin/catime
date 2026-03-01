@@ -37,5 +37,45 @@
       "color_palette": "Gold and Black Luxury"
     },
     "story": "這隻聰明的貓咪設計師，在它金黑相間的智慧工廠工作室裡，全神貫注地投入新玩具的創作。每一筆金色蠟筆的勾勒，都將賦予亮面塑膠玩具模型獨特的奢華與童趣，預示著未來AI玩具製造的無限可能。"
+  },
+  {
+    "inspiration": "紐約市新美術館將於3月21日揭幕由OMA紐約設計的擴建部分，成為年度最受期待的文化盛事之一。",
+    "news_inspiration": [
+      "印度各地將於3月3日慶祝色彩繽紛的胡里節，象徵著善戰勝惡。",
+      "2026年冬季帕拉林匹克運動會將於3月6日至15日在義大利米蘭科爾蒂納舉行。",
+      "芬蘭赫爾辛基將於3月3日舉辦世界野生動物日活動，透過《生命世界宣言》強調生物多樣性。",
+      "紐約市新美術館將於3月21日揭幕由OMA紐約設計的擴建部分，成為年度最受期待的文化盛事之一。",
+      "英國正在進行一項開創性試驗，旨在透過單次血液檢測在症狀出現前診斷約50種癌症。"
+    ],
+    "number": 605,
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Isometric Photography",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Velvet",
+      "color_palette": "Neon Fluorescent"
+    },
+    "idea": "一隻優雅的短毛貓，在紐約新美術館擴建區的宏偉展廳中，以合成波風格的霓虹螢光背光，專注地調整著巨型全息藝術裝置的光譜與動態，畫面呈現等距攝影視角與天鵝絨質感。",
+    "comment_id": 3979057261,
+    "story": "在新美術館揭幕的夜晚，空氣中瀰漫著科技與藝術交織的氣息。牠輕巧地撥動全息面板，牆上抽象的結構便隨之變幻出萬千霓虹色彩，將整個展廳變成一場視覺盛宴，證明了美學的未來掌握在最意想不到的藝術家手中。",
+    "prompt": "A real captured photograph showcasing an elegant short-haired cat, intensely focused as it adjusts the spectrum and dynamics of a giant holographic art installation within the grand exhibition hall of the New Museum expansion area in New York. The image features a perfectly isometric photography composition, ensuring a real captured photo with an isometric angle and no miniature effect. The aesthetic is synthwave and retro-futuristic, evoking 1980s sci-fi nostalgia. Dramatic neon fluorescent backlighting casts a strong rim light, creating glowing silhouette edges that outline the cat and holographic structures against a dark background. The holographic elements radiate with electric pink, lime green, and hot cyan neon fluorescent colors, glowing intensely. The surrounding environment integrates velvet texture, deep pile softness, and light-absorbing matte surfaces, providing tactile luxury and rich color saturation. Visually display '2026-03-01 04:12 UTC' within the image.",
+    "avoid_list": [
+      "影像中顯示日期時間",
+      "微縮世界/模型",
+      "完美對稱構圖/置中主體",
+      "魚眼鏡頭廣角畸變",
+      "暖琥珀色調/秋季色彩",
+      "莫蘭迪柔和色調",
+      "亮面塑膠/搪膠玩具質感",
+      "非洲未來主義",
+      "底片顆粒感/攝影瑕疵",
+      "勾勒輪廓的邊緣光",
+      "強烈戲劇性光影",
+      "貓咪專注進行精細活動",
+      "金黑配色與金屬金色點綴",
+      "黏土/陶瓷質感",
+      "淺景深"
+    ],
+    "title": "霓虹策展者"
   }
 ]
