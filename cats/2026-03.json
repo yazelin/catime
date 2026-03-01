@@ -111,5 +111,44 @@
     "title": "星圖苔痕",
     "comment_id": 3979195790,
     "story": "陽光從破裂的圓頂天窗灑落，點亮了房間內漂浮的塵埃，為三花貓的毛髮鍍上一層微光。牠的目光緊鎖在褪色的星圖上，彷彿在解讀宇宙的奧秘，周圍鏽蝕的儀器和斑駁的牆壁上，綠色的苔蘚悄然蔓延，見證著時間的流逝。"
+  },
+  {
+    "number": 607,
+    "prompt": "A candid, handheld slow shutter photograph of a domestic cat, viewed from behind, intently focused on a large, high saturation map spread on a well-worn, dark wooden table inside a vintage Paris-Berlin sleeper train car. The interior features rusted weathered metal, oxidized patina on old brass fixtures, and peeling paint layers, exuding aged industrial decay and warm orange-brown corrosion. Dramatic backlighting from the train window at night casts the cat into a glowing silhouette with distinct rim light along its fur edges. Intentional motion blur creates light streaks and a flowing movement effect for the blurred out-of-focus background, suggesting a dreamy time-passing effect and a split view composition. High saturation vivid colors, bold vibrant hues, and eye-catching contrast define an energetic palette. The date and time '2026-03-01 06:33 UTC' are visibly displayed within the image. Shot with a 50mm f/1.4 lens, natural ambient light, shallow depth of field, fine photographic grain.",
+    "idea": "一隻貓咪在即將於三月開通的巴黎-柏林臥鋪列車老式車廂內，專注地查看著一張攤開在斑駁木桌上的高飽和地圖。畫面以手持慢門捕捉，將窗外模糊的景緻與車廂內貓咪的背光輪廓分割呈現，車廂內外皆瀰漫著鐵鏽舊化的歷史感，整體色彩鮮豔飽和。",
+    "story": "夜幕降臨，列車搖晃著駛過歐洲的田野，光線從窗外灑入，在貓咪毛茸茸的邊緣勾勒出一道光環。牠那雙好奇的眼睛，時而掃視地圖上高飽和的複雜路線，時而望向窗外飛馳而過的模糊燈火，彷彿在規劃一場屬於自己的神秘旅程，周圍陳舊的黃銅與木材紋理訴說著時光的流逝。",
+    "avoid_list": [
+      "影像中顯示日期時間",
+      "微縮世界/模型",
+      "完美對稱構圖/置中主體",
+      "魚眼鏡頭廣角畸變",
+      "暖琥珀色調/秋季色彩",
+      "莫蘭迪柔和色調",
+      "亮面塑膠/搪膠玩具質感",
+      "非洲未來主義",
+      "底片顆粒感/攝影瑕疵",
+      "勾勒輪廓的邊緣光",
+      "強烈戲劇性光影",
+      "貓咪專注進行精細活動",
+      "金黑配色與金屬金色點綴",
+      "黏土/陶瓷質感",
+      "淺景深"
+    ],
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "一項從法國巴黎到德國柏林的新臥鋪列車服務將於三月開始營運，提供歐洲旅行新選擇。",
+    "comment_id": 3979274731,
+    "title": "臥鋪列車旅圖",
+    "news_inspiration": [
+      "聯合公園鼓手在印度孟買街頭打板球，贏得當地人的心。",
+      "在墨西哥圖盧姆附近的一個水下洞穴中發現了一具史前人類骨骸，推測是儀式性放置。",
+      "一項從法國巴黎到德國柏林的新臥鋪列車服務將於三月開始營運，提供歐洲旅行新選擇。",
+      "薩摩亞鐵人三項運動員泰瑞斯·柯林斯在澳洲新南威爾斯州的金斯克利夫鐵人三項賽中奪得18-19歲組別銅牌。"
+    ]
   }
 ]
