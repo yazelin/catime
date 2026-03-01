@@ -442,5 +442,48 @@
     "title": "亂碼燭光",
     "inspiration": "original",
     "idea": "一隻黑貓在超廣角視角下，專注地調整著一台龐大、充滿碳纖維質感的黑白機械計算機，畫面以故障藝術風格呈現，僅由微弱的燭光照亮，營造出時空錯亂的氛圍。"
+  },
+  {
+    "inspiration": "original",
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Knolling Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Paper Texture",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "在春日清晨的碼頭，船長一如既往地進行牠的巡視。牠左眼上的深色眼罩在微光中更顯堅毅，右眼則追隨著一艘艘蒸汽動力漁船的蹤跡，確保牠們在這新一季的航程中平安啟航。儘管牠的個性粗獷，但那份對這片水域和牠所守護的貓群的深沉情誼，此刻盡數凝聚在牠沉穩而警惕的凝視之中。",
+    "character_name": "船長",
+    "comment_id": 3980252431,
+    "is_seasonal": true,
+    "prompt": "A charming illustration in a steampunk aesthetic, featuring a spring daybreak at a bustling fishing harbor pier. The entire scene is rendered with a unique textured paper surface, showcasing visible fiber grain and a kraft or watercolor paper feel, imbued with tactile warmth. A soft pastel color palette dominates, utilizing gentle pink, lavender, mint, baby blue, and dreamy light tones. In the midground, the Captain, a large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes and a broad, muscular build, sits atop a distressed wooden crate adorned with brass rivets. Its fur is scruffy, untidy, and slightly coarse with uneven lengths. The LEFT eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch #2B1B0E covering the eye socket; there is NO fabric eye patch or strap. Its single piercing RIGHT eye is emerald green #50C878, keenly gazing into the distance at the slow departure of several steam-powered fishing vessels. The LEFT ear has a prominent V-shaped notch. Around its neck, a faded red #CD5C5C bandana is tied loosely and visibly. The Captain also has a white #FFFFFF chest bib and white mitten paws on all four feet, along with a distinctive M-mark on its forehead and a thick, sturdy tail. A gentle sea breeze subtly ruffles its fur. In the background, the scene depicts industrial retrofuturism, with more Victorian-era machinery and steam-powered mechanisms visible on the departing boats. The rising sun casts an ethereal natural light across the harbor as the first light of dawn breaks. In the foreground, presented with Knolling photography principles, is a flat lay overhead view of a clean background showcasing a collection of steampunk-modified nautical tools and fishing gear. These objects are neatly arranged at 90-degree angles in an organized grid layout. Elements include a compass with intricate brass gears, a precise sextant, and detailed mechanical fish lures, all crafted with brass gears and cogs. These foreground items emit a captivating bioluminescent lighting, characterized by an organic glow from living organisms, projecting a deep blue-green radiance and underwater phosphorescence. Visually displayed within the image, subtly integrated into the pier's structure or a nearby crate, is the text: '2026-03-01 15:13 UTC'.",
+    "idea": "一幅蒸汽朋克風格的春日漁港碼頭景致，船長坐在鑲有黃銅鉚釘的斑駁木箱上，銳利的翠綠右眼凝視著遠方破曉時分正緩緩駛離的蒸汽漁船群，海風輕拂其微亂的毛。前景處，一組經過蒸汽朋克改造的航海工具與捕魚器械，如帶有齒輪的羅盤、精密的六分儀及機械魚餌，以排列攝影（Knolling）方式整齊擺放，並散發出柔和的生物發光，所有元素皆呈現出獨特的紙質肌理與粉彩色調。",
+    "title": "春港啟航 • 船長之望",
+    "number": 616,
+    "avoid_list": [
+      "天文觀測站與星圖/天體",
+      "強烈逆光與貓咪輪廓光",
+      "霓虹螢光色",
+      "柔和粉彩色調",
+      "等距攝影視角",
+      "全息投影裝置",
+      "生物發光深藍綠色光芒",
+      "鏽蝕舊化工業廢墟感",
+      "天鵝絨質感與啞光表面",
+      "Knolling 排列構圖",
+      "德羅斯特效應與遞迴影像",
+      "鏡子自拍構圖與反射",
+      "液態金屬水銀般流動質感",
+      "廢棄老舊場景",
+      "貓咪專注凝視"
+    ],
+    "news_inspiration": [
+      "日本京都從3月1日起實施新的豪華住宿稅，旨在管理過度旅遊並資助文化保育與基礎設施升級。",
+      "威爾斯與全球的威爾斯社群，包括澳洲，在聖大衛日慶祝傳統與藝術，卡迪夫灣舉辦了特別的藝術展覽。",
+      "韓國推出「半價旅遊」計畫，補助旅客前往面臨人口減少的指定鄉村地區，以振興當地觀光。",
+      "加拿大蒙特利爾大學的科學家們成功讓光線模擬量子霍爾效應，這項突破性發現可能為超精密測量和量子光子技術建立新標準。"
+    ],
+    "character": "captain"
   }
 ]

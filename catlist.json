@@ -5368,5 +5368,18 @@
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 180.0s)",
     "title": "亂碼燭光",
     "inspiration": "original"
+  },
+  {
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-01_1513_UTC.webp",
+    "season": "spring",
+    "timestamp": "2026-03-01 15:13 UTC",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "title": "春港啟航 • 船長之望",
+    "number": 616,
+    "status": "success",
+    "character": "captain"
   }
 ]
