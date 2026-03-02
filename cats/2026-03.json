@@ -992,5 +992,43 @@
     "comment_id": 3982915011,
     "story": "一束體積光穿透灰塵瀰漫的舊窗，照亮了這鏽蝕空間，使空氣中的微粒清晰可見。在雙色調的視覺中，貓咪的肉掌輕巧地按壓麵團，麵粉與鐵鏽舊化的紋理細膩交織，營造出一個充滿復古情懷的寧靜時刻。",
     "idea": "一個精心打造的聖誕裝飾球微縮模型中，一隻逼真的虎斑貓正專注地在廢棄工廠食堂佈滿鐵鏽的工作台上揉捏麵糰。畫面將以分割畫面呈現，左側特寫貓咪的動作與麵粉顆粒，右側則展現其所處的斑駁環境。"
+  },
+  {
+    "news_inspiration": [
+      "西班牙正與義大利、希臘等國合作，旨在2026年徹底改革歐洲旅遊業，成為文化、遺產與永續發展兼具的必訪之地。",
+      "在澳洲大堡礁，一對母女潛水員在一次礁石調查中發現了一種可能對全球珊瑚礁健康至關重要的「超級珊瑚」。",
+      "中國已悄然擴大其單方面免簽國家名單，將巴西、沙烏地阿拉伯和紐西蘭等國家納入其中，以促進旅遊業發展。",
+      "在美國維吉尼亞州阿什蘭市，一隻浣熊闖入一家酒類商店，打破酒瓶並飲用了多種酒類。"
+    ],
+    "comment_id": 3983232693,
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Duotone"
+    },
+    "story": "在清晨的微光中，烘豆師的貓咪趁主人不備，悄悄跳上佈滿拉絲不鏽鋼的寬闊工作台。一小堆剛烘好的咖啡豆散發誘人香氣，貓咪好奇地伸出前爪，輕輕觸碰著這些黑亮的小寶石，似乎在評鑑這份意外的「禮物」。",
+    "idea": "在瀰漫咖啡香的古老烘豆工作室中，一隻貓咪將爪子伸向灑落在金屬工作台上的咖啡豆，微距攝影透過分割畫面與背光/輪廓光，營造出具有雙色調金屬質感的場景。",
+    "title": "鋼台餘韻",
+    "avoid_list": [
+      "浮島或漂浮平台",
+      "粗獷主義混凝土",
+      "蒸汽朋克機械/工業復古",
+      "等距視角",
+      "微縮世界/移軸效果",
+      "蝴蝶光/鼻下陰影",
+      "復古褪色色調",
+      "雙色調設計",
+      "輪廓光/戲劇背光",
+      "液態金屬/鏡面材質",
+      "霓虹燈光",
+      "貓咪科學家/研究員角色",
+      "古老遺跡/神秘碎片",
+      "實驗室或研究中心"
+    ],
+    "prompt": "An extreme close-up macro photograph, candid shot. A cat's delicate front paw, with fine fur textures visible, gently touches a small mound of dark, shiny roasted coffee beans. The scene is set on a wide, brushed stainless steel workbench in an ancient, aromatic coffee roasting studio. The composition features a dramatic split view with a sharp vertical cut line: the left half is rendered in exquisite photorealistic detail, showcasing sharp focus and fine textures, captured with a macro lens and very shallow depth of field, focusing acutely on the point of contact. The right half presents the identical scene as a precise, geometric wireframe diagram, maintaining the same perspective and elements. Intense backlighting casts a strong rim light, creating glowing silhouette edges that sharply outline the cat's paw and the coffee beans against a dramatic, moody background. The entire image utilizes a striking duotone metallic color treatment, using only two distinct, contrasting colors for a bold graphic impact, achieving an industrial premium feel with sharp reflections. The text '2026-03-02 09:37 UTC' is clearly and prominently displayed within the photographic scene.",
+    "inspiration": "在美國維吉尼亞州阿什蘭市，一隻浣熊闖入一家酒類商店，打破酒瓶並飲用了多種酒類。",
+    "number": 631
   }
 ]
