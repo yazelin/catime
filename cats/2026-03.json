@@ -1365,5 +1365,44 @@
       "texture": "Liquid Metal",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "number": 641,
+    "title": "星河漁夫的捕夢夜",
+    "inspiration": "2026年3月預計將是近十年來觀賞北極光的最佳月份之一，帶來壯觀的天文現象。",
+    "style_picks": {
+      "art_style": "Surrealism",
+      "composition": "Split View",
+      "lighting": "Butterfly Lighting",
+      "texture": "Silk",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 3986432773,
+    "idea": "在超現實主義的構圖中，一隻黑貓在懸浮於彩色宇宙深處的巨大絲綢捲軸上，用金絲釣竿捕捉閃爍的北極光「魚」，其臉龐被柔和的蝴蝶光照亮。畫面透過分割視角，左半部分展現貓咪垂釣的宏觀全景，右半部分則聚焦於魚線末端，極光粒子如高飽和度的絲綢流蘇般被捲入，呈現出鮮豔奪目的色彩。",
+    "prompt": "A surrealist composition, a dreamlike impossible scene, with Dalí-inspired melting forms and uncanny juxtapositions. A sleek black cat, poised gracefully, holds a golden fishing rod. The tip of the rod subtly glows with the dreamlike light of the moon. The cat's gaze is deep and focused as it attempts to capture shimmering aurora borealis \"fish\". It is perched on the edge of a colossal silk scroll, woven from stardust and richly textured silk fabric, exhibiting a luxurious sheen and flowing drape, floating within the vast, colorful depths of a cosmic universe.\n\nThe scene is presented in a striking split view composition, separated by a sharp vertical cut line. The left half offers a sweeping macro panorama capturing the full scene of the black cat fishing, rendered with meticulously rendered detail and soft, even illumination. The right half focuses sharply on the end of the fishing line, depicted with a wireframe diagram aesthetic blended with vivid color. Aurora particles, like high-saturation silk tassels, are being reeled in, displaying bold, vibrant hues, eye-catching contrast, and an array of energetic, vibrant colors. Cosmic ripples emanate from each cast, intensifying the aurora's brilliance.\n\nThe cat's face is illuminated by exquisite butterfly lighting, featuring an overhead key light that casts a delicate, symmetrical shadow under its nose, creating a glamour portrait lighting effect with soft even illumination. The silk scroll has a luminous smooth surface with delicate light reflections. The entire scene is awash in high saturation vivid colors and bold vibrant hues, creating eye-catching contrast.\n\nVisually displayed text: '2026-03-02 19:30 UTC'.",
+    "story": "月亮的光芒化為牠魚竿的尖端，北極光的絢麗在牠眼前如同跳動的魚群。牠輕巧地坐在由星塵與絲綢編織而成的巨大捲軸邊緣，眼神專注而深邃，彷彿在試圖將宇宙中最 elusive 的色彩捕獲。每一次甩動，都激起宇宙漣漪，讓繽紛的極光更為奪目。",
+    "news_inspiration": [
+      "2026年3月預計將是近十年來觀賞北極光的最佳月份之一，帶來壯觀的天文現象。",
+      "法國巴黎正在慶祝農曆新年，並將於3月4日舉辦灑紅節慶祝活動，為城市帶來豐富的文化體驗。",
+      "泰國一位37歲的女性在同一場婚禮中同時嫁給了兩位奧地利男子，引發了當地熱議。",
+      "厄瓜多爾加拉帕戈斯群島的弗洛雷亞納島釋放了158隻幼年雜交陸龜，以幫助恢復當地生態系統。",
+      "美國國家航空暨太空總署（NASA）的科學家們首次發現火星上存在閃電的明確證據。"
+    ],
+    "avoid_list": [
+      "分割畫面與垂直分割線",
+      "線框圖",
+      "雙色調處理",
+      "體積光與光線穿透灰塵",
+      "貓咪輕柔觸碰/操作物件",
+      "微縮世界或立體透視模型效果",
+      "正交投影或平面渲染風格",
+      "霓虹螢光色或紫外線光效果",
+      "高科技實驗室或控制台場景",
+      "光滑表面與奢華光澤",
+      "復古懷舊色調或褪色風格",
+      "燭光或搖曳的照明氛圍",
+      "高對比與戲劇性深影",
+      "3D 等距或Q版插畫風格"
+    ]
   }
 ]
