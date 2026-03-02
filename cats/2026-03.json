@@ -1290,5 +1290,47 @@
       "台灣嘉義縣正準備迎接元宵節，屆時數千盞天燈將升空，寄託著人們的手寫願望，場面壯觀。"
     ],
     "number": 638
+  },
+  {
+    "news_inspiration": [
+      "科學家利用美國太空總署MAVEN任務的數據，首次在火星上探測到閃電產生的無線電波。",
+      "澳洲坎培拉的「啟蒙節」將於2月27日至3月9日舉行，透過建築投影和藝術裝置點亮首都，展現文化與創意。",
+      "厄瓜多爾加拉帕戈斯公園在弗洛雷亞納島釋放了158隻幼年雜交陸龜，以幫助恢復當地生態系統。",
+      "2026年LIV高爾夫香港站將在香港舉行，結合精英體育賽事與香港獨特的文化活力。",
+      "西班牙巴塞羅那的生物醫學研究中心（IRB Barcelona）於2026年初推出了西班牙首個全整合的空間組學平台。"
+    ],
+    "title": "潮間守護者",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Orthographic Projection",
+      "lighting": "Candlelight",
+      "texture": "Shibori Textile",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "夜幕低垂，船長那堅毅的右眼在微弱燭光下閃爍著銳利的翠綠光芒。牠結實壯碩的身軀，披著蓬亂粗糙的虎斑毛髮，蹲伏在冰冷的礁石上，粗壯的尾巴像船舵般穩重。牠輕柔地用鼻子輕推著幾隻迷途的小魚，確保牠們能安全地回到大海深處，默默守護著這片水域的脆弱生態。",
+    "prompt": "A large, stocky, muscular brown classic tabby cat, with bold black stripes and scruffy, untidy, coarse fur of uneven lengths. The cat's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch (#2B1B0E), not a fabric patch. Its right eye is a single piercing emerald green (#50C878). A prominent V-shaped notch is on its left ear. Around its neck is a loosely tied, faded red (#CD5C5C) bandana. It has a white (#FFFFFF) chest bib and white mitten paws on all four feet. A distinctive M-mark is on its forehead, and its tail is thick and sturdy, like a steady rudder. The cat is carefully squatting on cold rocks in a hidden intertidal zone of a fishing harbor pier at night, gently nudging a group of small, young fish with its nose, guiding them towards deeper waters. The scene is rendered in manga style, featuring clean ink lines and screentone shading. The composition utilizes an orthographic projection with no perspective distortion, appearing as a straight-on flat rendering, similar to a technical illustration. The sole light source is the flickering candlelight from an old lantern held by the cat, creating an intimate atmosphere with dramatic shadows and highlights. The rocks and water surface display organic, flowing Shibori-style resist-dyed patterns, reminiscent of Japanese artisan dye techniques. The entire image is presented in high-contrast black and white monochrome with a rich tonal range. Visually displayed within the image: \"2026-03-02 17:41 UTC\".",
+    "avoid_list": [
+      "'2026-03-02 [HH:MM] UTC' 日期時間顯示",
+      "微縮世界/移軸效果",
+      "分割畫面與線框圖",
+      "雙色調色彩處理",
+      "背光/輪廓光與發光剪影",
+      "貓爪輕觸/伸出",
+      "蒸汽朋克/工業復古未來主義",
+      "櫻花樹/櫻花瓣",
+      "金屬質感",
+      "俯瞰視角",
+      "蝴蝶光",
+      "黑貓",
+      "液態金屬",
+      "奢華絲綢質感",
+      "溫暖的橘/琥珀色調"
+    ],
+    "comment_id": 3985915384,
+    "character_name": "船長",
+    "idea": "以漫畫風格，採正交投影構圖，描繪船長在漁港碼頭的隱密潮間帶，藉著一盞老舊提燈的燭光，小心翼翼地引導一群幼魚游向深水區，畫面透過黑白單色呈現，岩石與水面帶有絞染般的紋理。",
+    "inspiration": "厄瓜多爾加拉帕戈斯公園在弗洛雷亞納島釋放了158隻幼年雜交陸龜，以幫助恢復當地生態系統。",
+    "number": 639,
+    "character": "captain"
   }
 ]
