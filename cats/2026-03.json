@@ -1514,5 +1514,45 @@
       "高對比與戲劇性深影",
       "3D 等距或Q版插畫風格"
     ]
+  },
+  {
+    "inspiration": "印度各地於三月舉辦色彩繽紛的荷麗節，慶祝春天、愛與重生。",
+    "prompt": "A fluffy cat rendered in a captivating torn paper collage style, featuring layered textures and mixed media elements. Visible paper edges and subtle notebook lines are incorporated into the artwork. The cat is the centered subject in a perfectly symmetrical composition, reflecting a mirror-like balance within an ancient Indian temple courtyard, architecturally framed. The entire scene is bathed in ethereal Blacklight UV illumination, where vibrant neon colors from fluorescent pigments glow with ultraviolet luminescence against a dark background. The cat, with shimmering powder on its fur, is actively using its paws to spread UV-reactive Holi powder onto the stone walls. These powder applications create perfectly symmetrical, glowing patterns that evoke Shibori-style, resist-dyed textile designs, featuring organic flowing patterns in a soft pastel color palette of gentle pink, lavender, mint, and baby blue, creating dreamy light tones. The date and time '2026-03-02 23:15 UTC' is visually displayed within the image.",
+    "news_inspiration": [
+      "印度各地於三月舉辦色彩繽紛的荷麗節，慶祝春天、愛與重生。",
+      "亞美尼亞宣布對113個國家的公民實施免簽證旅行，旨在促進當地旅遊業發展。",
+      "科學家在巴西米納斯吉拉斯州發現了巴西首個已知的隕石玻璃場，揭示了630萬年前小行星撞擊地球的證據。",
+      "愛爾蘭奧運金牌得主Rhys McClenaghan在亞塞拜然巴庫舉行的2026年體操世界盃上準備復出參賽。",
+      "加拿大蒙特利爾大學的科學家成功讓光模仿量子霍爾效應，這是一項長期以來被認為難以實現的科學突破。"
+    ],
+    "idea": "一隻毛絨絨的貓咪在充滿黑光螢光的印度古老寺廟庭院中，以撕紙拼貼風格呈現，用其爪子將粉彩色的UV反應荷麗節粉末塗抹在石牆上，創造出對稱的發光圖案。",
+    "avoid_list": [
+      "貓咪專注精密操作",
+      "高科技實驗室場景",
+      "全息投影介面",
+      "體積光與塵埃粒子",
+      "黃金時刻與金色輪廓光",
+      "魚眼鏡頭扭曲視角",
+      "貓咪鏡子自拍構圖",
+      "底片顆粒與類比紋理",
+      "復古褪色色調",
+      "正交投影平面渲染",
+      "高對比黑白單色",
+      "莫蘭迪/柔和粉彩色系",
+      "柔和均勻漫射光",
+      "戲劇性陰影與強烈高光",
+      "光滑高反光表面"
+    ],
+    "comment_id": 3987564182,
+    "title": "螢光春繪祭",
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Symmetrical Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Shibori Textile",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "在一個只有黑光點亮的荷麗節之夜，這隻貓咪正全神貫注地「作畫」。牠的毛髮上沾染著閃爍的粉末，每一筆輕柔的觸碰都在古老的牆壁上留下如絞染般漸變、螢光四射的粉彩痕跡，慶祝著春天的到來。",
+    "number": 645
   }
 ]
