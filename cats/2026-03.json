@@ -775,5 +775,43 @@
     },
     "news_inspiration": [],
     "inspiration": "original"
+  },
+  {
+    "title": "運河之心脈",
+    "story": "在深埋運河畔的秘密控制室裡，一隻皮毛烏黑發亮的貓，輕柔地將爪子放在冰冷的液態金屬控制台上。它專注地感受著管道中傳來的微弱震動，彷彿成為了運河之心，為水下生物的遷徙引路。",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Miniature Diorama",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Duotone"
+    },
+    "idea": "一隻黑貓在蒸汽朋克風格的微縮立體模型運河控制站中，以爪觸碰液態金屬控制台，透過背光/輪廓光營造雙色調氛圍，專注感應水中魚群的遷徙脈動。",
+    "prompt": "A photographic wide shot of a sleek black cat with glossy fur, its paw gently touching a liquid metal control console. The cat's intense focus, as if sensing subtle vibrations of fish migration, is central. The scene is a steampunk aesthetic miniature diorama of a canal control station, featuring Victorian-era machinery, brass gears and cogs, steam-powered mechanisms, and an industrial retrofuturism design. The console surface is liquid metal, with a mercury-like reflective flow, molten mirror finish, and futuristic material texture. Dramatic backlighting with rim light creates glowing silhouette edges, outlining the subject against a deep background. Duotone color treatment, using only two contrasting colors, for a bold graphic impact and modern design feel. Shot with a wide-angle lens, utilizing a tilt-shift effect to emphasize the tiny detailed world and toy-like scale model of the diorama. Shallow depth of field focuses on the cat and console. The date '2026-03-02 01:07 UTC' is clearly and visibly displayed on an integrated steampunk-style gauge or screen within the control station.",
+    "number": 625,
+    "comment_id": 3981486725,
+    "news_inspiration": [
+      "印度將於3月3日和4日慶祝色彩繽紛的胡里節，象徵春天、歡樂及正義戰勝邪惡。",
+      "荷蘭烏特勒支的「魚類門鈴」於3月2日重新啟用，幫助魚類在運河中遷徙。",
+      "香港國際文學節於3月2日開幕，慶祝其25週年，旨在培養下一代讀者。",
+      "歐洲科學家透過丹麥南部大學領導的SUPREME計畫，開發更清潔、更便宜且不含「永久化學品」的綠色氫能製程。"
+    ],
+    "avoid_list": [
+      "貓咪專注操作精密設備",
+      "蒸汽朋克/工業復古未來風格",
+      "黃銅齒輪與零件",
+      "Knolling攝影構圖",
+      "紙質肌理與溫暖觸感",
+      "充氣PVC材質",
+      "大地色系",
+      "體積光束與丁達爾效應",
+      "粗獷混凝土浮島",
+      "等距視角",
+      "微弱搖曳燭光",
+      "經典三點打光",
+      "復古膠片質感",
+      "貓咪戴眼鏡/實驗袍"
+    ],
+    "inspiration": "荷蘭烏特勒支的「魚類門鈴」於3月2日重新啟用，幫助魚類在運河中遷徙。"
   }
 ]
