@@ -1404,5 +1404,38 @@
       "高對比與戲劇性深影",
       "3D 等距或Q版插畫風格"
     ]
+  },
+  {
+    "idea": "在一間以大理石吧台為主的極簡咖啡館裡，一隻貓正專注地操作義式咖啡機，透過身後的大型鏡子自拍。整體畫面以極簡塗鴉線條畫呈現，並沐浴在藍青冷色調的體積光中。",
+    "title": "鏡中咖啡詩",
+    "story": "清晨，咖啡館還未營業，只有咖啡師貓咪忙碌的身影。牠熟練地準備著第一杯濃縮咖啡，而手機則架在旁，精準捕捉著牠專注的表情與完美的咖啡製作過程。鏡中反射出簡潔的線條與幽靜的藍綠色調，彷彿一幅現代藝術品。",
+    "number": 642,
+    "avoid_list": [
+      "分割畫面與垂直分割線",
+      "線框圖",
+      "雙色調處理",
+      "體積光與光線穿透灰塵",
+      "貓咪輕柔觸碰/操作物件",
+      "微縮世界或立體透視模型效果",
+      "正交投影或平面渲染風格",
+      "霓虹螢光色或紫外線光效果",
+      "高科技實驗室或控制台場景",
+      "光滑表面與奢華光澤",
+      "復古懷舊色調或褪色風格",
+      "燭光或搖曳的照明氛圍",
+      "高對比與戲劇性深影",
+      "3D 等距或Q版插畫風格"
+    ],
+    "prompt": "A minimalist line drawing in doodle style, hand-drawn feel, with playful loose strokes, depicting a focused cat barista operating an espresso machine behind a polished marble bar. The cat is taking a mirror selfie, with its phone visible, capturing its reflection and the clean lines of the minimalist coffee shop. The scene is bathed in cool blue-teal volumetric lighting with visible god rays and dust particles catching the light, creating dramatic depth and a crisp, serene atmosphere. The polished marble bar features natural vein patterns and a luxurious stone surface with a cool smooth finish, evoking classical elegance. Visually displayed in the image: '2026-03-02 20:23 UTC'.",
+    "comment_id": 3986728884,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Marble",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "inspiration": "original"
   }
 ]
