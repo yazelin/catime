@@ -1437,5 +1437,43 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "inspiration": "original"
+  },
+  {
+    "inspiration": "阿拉伯聯合大公國杜拜再次舉辦「大野狼書展」，展出超過一百萬本書籍，吸引眾多讀者。",
+    "avoid_list": [
+      "分割畫面與垂直分割線",
+      "線框圖",
+      "雙色調處理",
+      "體積光與光線穿透灰塵",
+      "貓咪輕柔觸碰/操作物件",
+      "微縮世界或立體透視模型效果",
+      "正交投影或平面渲染風格",
+      "霓虹螢光色或紫外線光效果",
+      "高科技實驗室或控制台場景",
+      "光滑表面與奢華光澤",
+      "復古懷舊色調或褪色風格",
+      "燭光或搖曳的照明氛圍",
+      "高對比與戲劇性深影",
+      "3D 等距或Q版插畫風格"
+    ],
+    "news_inspiration": [
+      "在印度，一位老師因將貧民窟改造為數百個露天教室而贏得百萬美元獎金，為當地兒童帶來教育機會。",
+      "厄瓜多爾加拉帕戈斯國家公園在弗洛雷亞納島釋放了158隻幼年雜交陸龜，以幫助恢復當地生態系統。",
+      "在英國曼徹斯特，曼聯足球隊在一場比賽中擊敗水晶宮隊，費爾南德斯和塞斯科表現出色。",
+      "阿拉伯聯合大公國杜拜再次舉辦「大野狼書展」，展出超過一百萬本書籍，吸引眾多讀者。"
+    ],
+    "idea": "一張以即棄相機風格拍攝的照片，採用魚眼鏡頭構圖，捕捉一隻橘色虎斑貓在黃金時刻下，坐在一處露天舊書攤的書堆上，像是在「監督」一位小女孩挑選書籍。",
+    "title": "書香黃昏時",
+    "number": 643,
+    "comment_id": 3986995987,
+    "prompt": "A casual snapshot captured with a disposable camera. The composition features a fisheye wide-angle lens, showcasing strong barrel distortion and an exaggerated foreground, giving a 360-degree feel. An orange tabby cat is prominently depicted, sitting on a stack of books at an outdoor used bookstall, intently 'supervising' a small girl who is crouching and picking out books. The scene is illuminated by golden hour lighting, casting a warm sunset glow with long soft shadows, and a distinct golden rim light on the cat and the girl. The photo has a low-quality charm, visible film grain, analog texture, and subtle noise, alongside organic photographic imperfections like light leaks and faint flash artifacts. The color palette is retro faded with washed-out vintage tones and low contrast, evoking a nostalgic film-era warmth. The date and time '2026-03-02 21:23 UTC' are visually displayed in the image.",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Fisheye Lens",
+      "lighting": "Golden Hour",
+      "texture": "Film Grain",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "陽光斜斜灑在充滿底片顆粒感的畫面中，為褪色的書本和古老的石牆披上一層暖意。虎斑貓的尾巴輕輕擺動，眼神專注地望著蹲在書堆前的小女孩，彷彿是這片知識海洋的無聲守護者，確保每一本書都能找到它新的讀者。"
   }
 ]
