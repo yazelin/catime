@@ -1475,5 +1475,44 @@
       "color_palette": "Retro Faded Tones"
     },
     "story": "陽光斜斜灑在充滿底片顆粒感的畫面中，為褪色的書本和古老的石牆披上一層暖意。虎斑貓的尾巴輕輕擺動，眼神專注地望著蹲在書堆前的小女孩，彷彿是這片知識海洋的無聲守護者，確保每一本書都能找到它新的讀者。"
+  },
+  {
+    "idea": "在吉卜力風格下，一隻毛色斑駁的貓咪，透過魚眼鏡頭構圖，正專注地校準一套由低多邊形古老岩石與發光苔蘚組成的生物發光水晶陣列。在單色調的幽暗中，這些水晶投射出一個幾乎不可見的暗物質星系，光影交錯於一個高聳入雲的宇宙觀測塔內部。",
+    "comment_id": 3987253407,
+    "news_inspiration": [
+      "厄瓜多爾加拉巴哥公園釋放了158隻幼年雜交陸龜，以恢復弗洛雷安納島的生態系統。",
+      "在印度，一位老師因將貧民窟改造成數百間露天教室而贏得百萬美元大獎，此舉備受讚揚。",
+      "在澳洲大堡礁，一對母女二人組在研究中取得了突破性發現。",
+      "全球各地於2026年國際北極熊日舉辦活動，提高人們對北極熊保育的意識。",
+      "哈伯望遠鏡在太空中發現一個幾乎隱形的星系，其可能由99%的暗物質組成。"
+    ],
+    "prompt": "In Studio Ghibli anime style with soft watercolor backgrounds and gentle character design, an elderly, mottled cat is captured through a fisheye wide-angle lens, exhibiting strong barrel distortion and an exaggerated foreground element, creating an immersive 360-degree feel. The cat is meticulously calibrating an array of low-poly ancient rock crystals, each embedded with glowing moss. These crystals are rendered in a distinct Low-poly style, showcasing polygon mesh facets, geometric crystalline surfaces, flat shaded triangular faces, and a digital origami aesthetic. The overall scene is set within the towering interior of a cosmic observation tower, predominantly depicted in black and white monochrome with high contrast, rich tonal range, and dramatic shadows and highlights. The bioluminescent crystals emit an organic, deep blue-green radiance, reminiscent of underwater phosphorescence, casting ethereal natural light. This emitted light from the crystals subtly projects a nearly invisible dark matter galaxy, where light and shadow intertwine within the monochrome gloom. Visibly displayed in the image: '2026-03-02 22:18 UTC'.",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Fisheye Lens",
+      "lighting": "Bioluminescence",
+      "texture": "Low Poly",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "number": 644,
+    "inspiration": "哈伯望遠鏡在太空中發現一個幾乎隱形的星系，其可能由99%的暗物質組成。",
+    "title": "暗星測繪師",
+    "story": "在一個被遺忘已久的宇宙觀測塔頂，老貓「幽夜」以牠敏銳的感應力，將生物發光的能量注入古老的水晶陣列中。牠小心翼翼地調整著每個低多邊形水晶的角度，試圖在單色的光譜中，捕捉並視覺化那個由哈伯望遠鏡發現的、幾乎完全由暗物質構成的隱形星系，點亮無形宇宙的邊緣。",
+    "avoid_list": [
+      "分割畫面與垂直分割線",
+      "線框圖",
+      "雙色調處理",
+      "體積光與光線穿透灰塵",
+      "貓咪輕柔觸碰/操作物件",
+      "微縮世界或立體透視模型效果",
+      "正交投影或平面渲染風格",
+      "霓虹螢光色或紫外線光效果",
+      "高科技實驗室或控制台場景",
+      "光滑表面與奢華光澤",
+      "復古懷舊色調或褪色風格",
+      "燭光或搖曳的照明氛圍",
+      "高對比與戲劇性深影",
+      "3D 等距或Q版插畫風格"
+    ]
   }
 ]
