@@ -1102,5 +1102,42 @@
       "實驗室或研究中心"
     ],
     "inspiration": "日本傳統和服正以創新和永續的方式被重新利用。"
+  },
+  {
+    "number": 634,
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Floating Island Scene",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Leather",
+      "color_palette": "Morandi Color Palette"
+    },
+    "character_name": "墨墨",
+    "season": "spring",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "avoid_list": [
+      "浮島或漂浮平台",
+      "粗獷主義混凝土",
+      "蒸汽朋克機械/工業復古",
+      "等距視角",
+      "微縮世界/移軸效果",
+      "蝴蝶光/鼻下陰影",
+      "復古褪色色調",
+      "雙色調設計",
+      "輪廓光/戲劇背光",
+      "液態金屬/鏡面材質",
+      "霓虹燈光",
+      "貓咪科學家/研究員角色",
+      "古老遺跡/神秘碎片",
+      "實驗室或研究中心"
+    ],
+    "prompt": "Highly detailed cinematic illustration in a film noir style, featuring a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat named Momo. Momo is elegantly poised on a rain-streaked windowsill of an old bookstore, calmly gazing out at falling cherry blossoms. Her satin-sheen fur reveals athletic proportions with visible muscle definition and a slight upward curl at her tail tip. A single small #FFD700 gold hoop earring (3mm) adorns her LEFT ear (viewer perspective) at the mid-ear edge. She has a tiny natural white locket tuft #FFFFFF on her ventral chest and a single dark-grey #696969 ring at her tail tip. Her large luminous golden-amber #D4A017 eyes, like polished amber gems, and long prominent white whiskers, along with the gold earring, are subtly glowing with ethereal ultraviolet luminescence under blacklight UV illumination. One front paw gently rests on a stack of old books beside her. These books display genuine leather texture, rich grain pattern, warm aged patina, and supple creased surfaces, reflecting artisanal craftsmanship. The bookstore interior background is rendered in a Morandi muted color palette, with desaturated soft pastels and dusty grey undertones, conveying quiet elegance. The scene is bathed in high contrast and dramatic deep shadows, evoking a mysterious 1940s cinematic mood with subtle venetian blind light patterns. Visually displayed within the image, on a vintage clock face: '2026-03-02 12:32 UTC'.",
+    "character": "momo",
+    "idea": "在一個黑色電影風格的舊書店場景中，墨墨優雅地伏在灑滿雨絲的窗台上，其金琥珀色的眼眸和纖長白鬚在黑光螢光下幽微閃爍，靜靜凝視窗外飄落的櫻花雨。窗台邊堆疊著幾本帶有皮革質感的舊書，整體背景以莫蘭迪色調呈現。",
+    "story": "春雨綿綿，將舊書店的窗玻璃化作一片模糊的畫布。墨墨純黑的剪影在窗台邊緣顯得格外修長，牠左耳的金環在隱約的螢光中閃爍。牠將前爪輕輕搭在一本封面斑駁的皮革書上，高傲而安靜地俯瞰著窗外。那雙琥珀寶石般的眼睛，在黑光下透出神秘而深邃的光芒，捕捉著每一片隨風起舞的粉色花瓣，彷彿在閱讀一首無聲的春日詩篇。",
+    "news_inspiration": [],
+    "title": "櫻雨窗台墨光",
+    "comment_id": 3984128885
   }
 ]

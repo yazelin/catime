@@ -5542,5 +5542,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-02_1125_UTC.webp",
     "number": 633,
     "inspiration": "日本傳統和服正以創新和永續的方式被重新利用。"
+  },
+  {
+    "number": 634,
+    "status": "success",
+    "character_name": "墨墨",
+    "season": "spring",
+    "timestamp": "2026-03-02 12:32 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-02_1232_UTC.webp",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "character": "momo",
+    "title": "櫻雨窗台墨光",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
