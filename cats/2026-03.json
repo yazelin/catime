@@ -1700,5 +1700,40 @@
     ],
     "inspiration": "在新加坡聖淘沙的HyperDrive，樂高正在舉辦一個充滿活力的「打造你的夢想座駕：樂高汽車商店體驗」活動，結合了動手搭建與真實賽車的刺激。",
     "idea": "以GTA風格呈現，一隻姜黃色虎斑貓在地下車庫的燭光下，親手改造一輛客製化小型摩托車，場景以沙質紋理和莫蘭迪色調構築，構圖對稱，展現街頭機械師的獨特氛圍。"
+  },
+  {
+    "prompt": "Long exposure photograph, captured with a 15mm fisheye lens at f/11, slow shutter speed, ISO 100. A playful cat, sharply in focus, on a frosted glass railing of an urban pedestrian overpass. The cat is batting at vibrant, streaked light trails from vehicles below, creating dynamic motion blur. The composition features strong barrel distortion and an exaggerated foreground, giving a broad, slightly curved 360-degree feel of the city night. Neon lighting and colorful glowing signs from the city reflect and and diffuse through the translucent matte surface of the frosted glass railing. In the distant background, a serene, hazy blood moon is visible, all rendered in a Morandi-inspired muted color scheme, featuring desaturated soft pastels and dusty grey undertones. The overall atmosphere is a moody urban night with a quiet elegance and time-lapse feel. Visually display '2026-03-03 07:35 UTC' in the image.",
+    "news_inspiration": [
+      "中國廣州正在舉辦廣府廟會，展示粵劇、舞獅等非物質文化遺產及嶺南特色產品。",
+      "北美洲、澳洲和紐西蘭將於今日迎來罕見的「血月」月全食天象。",
+      "希臘在四旬齋開始之際，以一場色彩繽紛的「麵粉大戰」慶祝。",
+      "美國波士頓的東北大學生物工程博士生正進行細菌細胞培養研究。"
+    ],
+    "idea": "在長曝光攝影的藝術風格下，一隻貓咪在城市天橋的磨砂玻璃護欄上，玩弄著下方車輛拖曳出的霓虹光軌，其身影在魚眼鏡頭中呈現出廣闊而略帶弧度的視野，背景遠處是莫蘭迪色調下，沉靜而朦朧的血月。",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Neon Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 3989275118,
+    "number": 650,
+    "title": "霓虹血月夜",
+    "inspiration": "北美洲、澳洲和紐西蘭將於今日迎來罕見的「血月」月全食天象。",
+    "avoid_list": [
+      "畫面顯示日期時間",
+      "貓咪專注於精細操作",
+      "古老或廢棄場景",
+      "魚眼鏡頭與桶狀畸變",
+      "完美對稱構圖",
+      "高對比度",
+      "發光或螢光效果",
+      "體積光與可見塵埃",
+      "液態金屬或熔融鏡面光澤",
+      "莫蘭迪色調與柔和粉彩",
+      "柔和粉彩色系 (粉、紫、薄荷綠、嬰兒藍)"
+    ],
+    "story": "夜幕低垂，城市被霓虹燈光編織成一片光影海洋。一隻好奇的貓咪在行人天橋的磨砂玻璃邊緣，輕巧地揮動前爪，追逐著遠方車燈拉長的幻影光束。上方魚眼鏡頭捕捉了這一切，將血月溫柔的紅暈與城市迷離的光帶，一同凝固成一幅寂靜而動感的莫蘭迪色調畫卷。"
   }
 ]

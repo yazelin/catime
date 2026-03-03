@@ -5692,5 +5692,14 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-03_0636_UTC.webp",
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-03_0735_UTC.webp",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "timestamp": "2026-03-03 07:35 UTC",
+    "number": 650,
+    "title": "霓虹血月夜",
+    "inspiration": "北美洲、澳洲和紐西蘭將於今日迎來罕見的「血月」月全食天象。",
+    "status": "success"
   }
 ]
