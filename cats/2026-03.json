@@ -1839,5 +1839,45 @@
     },
     "news_inspiration": [],
     "number": 653
+  },
+  {
+    "number": 654,
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "Duotone"
+    },
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "idea": "一幅色鉛筆畫風格的場景，以鏡子自拍構圖呈現。橘白色的麻糬戴著手工編織的櫻花花環，在老街市場一隅的櫻花樹下享受春日野餐。牠正好奇地凝視著野餐墊上一只閃亮且微彎曲的銅製茶壺表面，茶壺上映射出牠圓滾滾、戴著花冠的呆萌臉龐，鼻頭上還停著一片粉嫩的櫻花花瓣，整體呈現雙色調，並以蝴蝶光強調其臉部輪廓，茶壺表面則帶有碳纖維般的結構性光澤。",
+    "season": "spring",
+    "avoid_list": [
+      "畫面顯示日期時間",
+      "貓咪專注於精細操作",
+      "古老或廢棄場景",
+      "魚眼鏡頭與桶狀畸變",
+      "完美對稱構圖",
+      "高對比度",
+      "發光或螢光效果",
+      "體積光與可見塵埃",
+      "液態金屬或熔融鏡面光澤",
+      "莫蘭迪色調與柔和粉彩",
+      "柔和粉彩色系 (粉、紫、薄荷綠、嬰兒藍)"
+    ],
+    "inspiration": "original",
+    "news_inspiration": [
+      "在加拿大發現了一種罕見的幼年圓頂恐龍化石，為古生物學界帶來了新發現。",
+      "德國柏林國際旅遊展（ITB Berlin）慶祝其60週年，匯集全球旅遊業的創新與市場機遇。",
+      "卡塔爾沙漠中開設了一個遊牧藝術避風港，為遊客提供體驗創意的新方式。",
+      "在加拉巴哥群島，158隻巨型陸龜被重新引入其棲息地，有助於生態復育。",
+      "希臘以一場色彩繽紛的「麵粉大戰」慶祝大齋期的開始，展現了獨特的文化習俗。"
+    ],
+    "title": "櫻瓣映萌心",
+    "prompt": "A colored pencil illustration in a mirror selfie composition. An intimate close-up perspective of Mochi, a chubby, rounded shorthair cat, curiously gazing at its reflection in a shiny, slightly curved copper teapot. The teapot surface exhibits a glossy, structural, carbon fiber-like sheen, reflecting Mochi's round, flower-crowned face. Mochi has a white base coat with bright orange #FF8C00 patches: a RIGHT half-face orange mask (extending from the nose bridge across the RIGHT cheek to the RIGHT ear, the LEFT face remains entirely white), a heart-shaped orange #FF8C00 saddle centered on its upper back, a solid orange #FF8C00 mitten on its RIGHT front paw (the LEFT front paw is pure white #FFFFFF), and an orange-and-white ringed tail. Its eyes are large, round amber #FFBF00, and its nose is pink #FFB6C1 with a tiny orange center dot. Mochi wears a handmade cherry blossom flower wreath, and a delicate pink cherry blossom petal rests gently on its pink nose. The scene is set at a spring picnic under a cherry blossom tree in an old street market corner, with a picnic mat visible. Butterfly lighting illuminates Mochi's face with an overhead key light, creating a symmetrical shadow under its nose, providing glamour portrait lighting and soft, even illumination. The overall image features a strict duotone color treatment, utilizing only vibrant orange (#FF8C00) and soft pink (#FFB6C1) as the contrasting colors for a bold graphic impact and modern design feel, with white (#FFFFFF) for Mochi's base fur where specified. Visible pencil grain, layered hues, and a rough sketchbook paper texture define the style. The date and time '2026-03-03 11:23 UTC' are visually displayed in the image.",
+    "character": "mochi",
+    "story": "麻糬這隻老街市場的招牌貓，難得拋開貪吃的天性，戴上春日花環，在櫻花樹下享受牠的首次「日式」野餐。牠圓滾滾的身影被一個光潔的銅壺吸引，忍不住湊上前去，仔細端詳自己在壺面上的可愛倒影。就在這個「自拍」瞬間，一片櫻花花瓣輕輕落在牠的粉紅鼻頭，為牠琥珀色的大眼添上了一絲呆萌的驚喜。",
+    "comment_id": 3990374186
   }
 ]
