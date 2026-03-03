@@ -5701,5 +5701,14 @@
     "title": "霓虹血月夜",
     "inspiration": "北美洲、澳洲和紐西蘭將於今日迎來罕見的「血月」月全食天象。",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-03_0828_UTC.webp",
+    "timestamp": "2026-03-03 08:28 UTC",
+    "status": "success",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "inspiration": "2026年3月3日，全球多地，包括亞洲、澳洲和美洲，將能觀測到一場罕見的「血月」月全食。",
+    "title": "血月浮島引航",
+    "number": 651
   }
 ]
