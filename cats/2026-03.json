@@ -1807,5 +1807,37 @@
     ],
     "prompt": "A black and white cat with a light playful elegance, holding a smartphone and taking a mirror selfie. The cat is posing in front of an elaborate Rococo style mirror within an inflatable PVC art installation exhibition hall. The entire hall, including the ornate mirror frame and furniture, is meticulously crafted from glossy, air-filled black and white inflatable PVC, showcasing flowing ornamental curves and elaborate decorative detail, creating a luxurious and surreal space. **Photography details:** Shot on a 50mm prime lens, f/2.8, with a shallow depth of field focusing on the cat and its reflection. The composition features casual framing, an intimate close-up perspective, and a clear visible reflection. **Lighting:** Overhead fluorescent lighting, neutral white 5000K, providing institutional flat illumination with minimal visible cast shadows, yet creating dramatic highlights on the glossy surfaces. **Color/Material:** Black and white monochrome, high contrast, rich tonal range, emphasizing the high-gloss balloon-like surface, puffy rounded forms, and air-filled tension of the inflatable PVC material. **Visual Display:** The date and time '2026-03-03 09:31 UTC' are visibly displayed within the image.",
     "inspiration": "斯里蘭卡可倫坡的港口城舉辦了「江南之春 • 2026歡樂春節」廟會，展示了中國傳統工藝和文化表演。"
+  },
+  {
+    "story": "天真好奇的鈴鈴發現一隻金光閃閃的蝴蝶在眼前飛舞。她那蓬鬆如雲的身軀，脖子上粉紅鈴鐺發出清脆的叮鈴聲，毫不猶豫地朝著蝴蝶猛衝，卻沒注意到前方厚重的金流蘇絲綢窗簾。蝴蝶輕盈地閃爍著UV光芒，而鈴鈴的寶石藍眼睛則閃耀著天真的光澤，準備進行一場註定會撞上的追逐。",
+    "avoid_list": [
+      "畫面顯示日期時間",
+      "貓咪專注於精細操作",
+      "古老或廢棄場景",
+      "魚眼鏡頭與桶狀畸變",
+      "完美對稱構圖",
+      "高對比度",
+      "發光或螢光效果",
+      "體積光與可見塵埃",
+      "液態金屬或熔融鏡面光澤",
+      "莫蘭迪色調與柔和粉彩",
+      "柔和粉彩色系 (粉、紫、薄荷綠、嬰兒藍)"
+    ],
+    "prompt": "A magnificent Baroque art style illustration, rendered with precise orthographic projection, no perspective distortion, and a straight-on flat view, embodying a technical illustration style. The opulent scene depicts a luxurious hallway with deep black walls, textured with a rich woven fabric showing visible threads and a tactile linen/cotton weave pattern, intricately embroidered with ornate metallic gold thread. Heavy velvet curtains with sumptuous gold tassels hang, seamlessly blending into the deep black background. In this setting, a pure white, extremely fluffy, Ragdoll-like longhair cat named Lingling, with voluminous cloud-like fur, rushes forward. Her small round face is almost hidden in her fur, dominated by huge round sapphire-blue #0F52BA eyes that sparkle with innocent curiosity. Her nose and inner ears are pale pink #FFB6C1, and occasionally, her pink paw pads are visible through her abundant fur. Around her neck is a vibrant pink #FF69B4 ribbon bow collar, with a small, clearly visible, and perfectly centered golden #FFD700 bell. Her enormous feathery white plume tail trails behind her. Lingling is chasing a golden butterfly that emits a faint blacklight UV illumination, glowing with ethereal ultraviolet luminescence and fluorescent pigments, casting vibrant neon colors against the dark background. The entire scene is bathed in dramatic chiaroscuro, featuring deep shadows and striking golden highlights that emphasize the exuberant grandeur and rich ornate detail of the Baroque elements, creating an opulent mood. Visually displayed within the image is the text: \"2026-03-03 10:28 UTC\".",
+    "comment_id": 3990092815,
+    "inspiration": "original",
+    "character": "lingling",
+    "idea": "一幅巴洛克風格的華麗場景，透過正交投影呈現。鈴鈴在鑲滿金絲刺繡的黑色織品牆面與天鵝絨窗簾的奢華走廊中追逐一隻帶有微弱黑光螢光效果的金色蝴蝶。",
+    "title": "金蝶戲絨幕",
+    "character_name": "鈴鈴",
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Orthographic Projection",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Fabric / Textile",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [],
+    "number": 653
   }
 ]

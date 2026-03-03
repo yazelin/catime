@@ -5719,5 +5719,16 @@
     "title": "浮光洛可映貓影",
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
     "inspiration": "斯里蘭卡可倫坡的港口城舉辦了「江南之春 • 2026歡樂春節」廟會，展示了中國傳統工藝和文化表演。"
+  },
+  {
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "inspiration": "original",
+    "character": "lingling",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-03_1028_UTC.webp",
+    "title": "金蝶戲絨幕",
+    "character_name": "鈴鈴",
+    "timestamp": "2026-03-03 10:28 UTC",
+    "status": "success",
+    "number": 653
   }
 ]
