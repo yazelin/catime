@@ -2244,5 +2244,36 @@
       "texture": "Paper Texture",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "霓虹螢光色光線",
+      "黏土或陶瓷質感",
+      "極低角度與高聳視角",
+      "貓咪專注於細緻作業",
+      "背光或輪廓光",
+      "雙色調色彩處理",
+      "大地色系",
+      "潮濕森林苔蘚美學",
+      "黑白單色調",
+      "柔軟漫射自然光",
+      "貓咪凝視遠方",
+      "視覺化顯示時間戳記"
+    ],
+    "news_inspiration": [],
+    "comment_id": 3994163901,
+    "story": "午夜時分，DJ貓「電音尾巴」正熟練地在混音器上刮碟，它戴著螢光耳機，眼神專注。透過魚眼鏡頭，後方弧形的溜冰場上，舞動的人群和溜冰者被霓虹光暈籠罩，一切都呈現出光滑且色彩飽和的黏土般質感。整個空間在黑光照耀下，所有螢光飾物和服裝都散發著迷幻的光芒，營造出超現實卻又充滿活力的派對氛圍。",
+    "title": "螢光碟音師",
+    "idea": "在「電影分鏡」藝術風格下，透過「魚眼鏡頭」捕捉，一隻虎斑貓在黑光螢光照明的室內溜冰場DJ台上，場景中的物件呈現「黏土/陶瓷質感」，整體色彩是鮮豔的「霓虹螢光色」。",
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Fisheye Lens",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A cinematic storyboard illustration, captured with a fisheye wide-angle lens, featuring strong barrel distortion and an exaggerated foreground. A tabby cat, DJ 'Electric Tail', is intensely focused, skillfully scratching records on a mixer in a DJ booth at an indoor roller rink. The cat wears glowing fluorescent headphones. In the curved roller rink background, dancers and skaters are enveloped in vibrant neon halos, creating a 360-degree feel. The entire scene is rendered with a sculpted clay texture and a handmade ceramic feel, showing a matte surface with subtle imperfections. Blacklight UV illumination bathes the indoor roller rink, causing all fluorescent decorations and attire to glow with vibrant neon colors: electric pink, lime green, hot cyan, glowing intensely against a dark background. Ethereal ultraviolet luminescence creates a surreal, high-energy party atmosphere. Visually displayed in the image: '2026-03-03 23:16 UTC'.",
+    "number": 666
   }
 ]
