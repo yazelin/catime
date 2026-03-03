@@ -1661,5 +1661,44 @@
       "color_palette": "Pastel Colors"
     },
     "news_inspiration": []
+  },
+  {
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Symmetrical Composition",
+      "lighting": "Candlelight",
+      "texture": "Sand Texture",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "街貓夢想機",
+    "number": 649,
+    "avoid_list": [
+      "貓咪專注精密操作",
+      "高科技實驗室場景",
+      "全息投影介面",
+      "體積光與塵埃粒子",
+      "黃金時刻與金色輪廓光",
+      "魚眼鏡頭扭曲視角",
+      "貓咪鏡子自拍構圖",
+      "底片顆粒與類比紋理",
+      "復古褪色色調",
+      "正交投影平面渲染",
+      "高對比黑白單色",
+      "莫蘭迪/柔和粉彩色系",
+      "柔和均勻漫射光",
+      "戲劇性陰影與強烈高光",
+      "光滑高反光表面"
+    ],
+    "prompt": "Grand Theft Auto art style, bold cel-shaded illustration of a ginger tabby cat, wearing an oil-stained bandana, intensely focused on hand-modifying a custom small motorcycle with a wrench. The scene is set in a dimly lit underground parking garage, illuminated by candlelight casting a warm orange flickering glow and soft dancing shadows, creating an intimate atmosphere. The custom motorcycle features components built with a Morandi muted color palette, desaturated soft pastels, and dusty grey undertones, exhibiting a fine sand texture, reminiscent of desert dune ripples, warm golden granules, and wind-sculpted patterns, with natural grain detail. The composition is perfectly symmetrical, with the cat and motorcycle centered, achieving mirror-like balance and architectural framing, showcasing an urban attitude. Visually display '2026-03-03 06:36 UTC' within the image.",
+    "comment_id": 3988982354,
+    "story": "昏暗的地下車庫裡，幾盞燭光搖曳，映照著一隻姜黃虎斑貓專注的身影。牠戴著油污斑斑的頭巾，正用扳手鎖緊一輛客製化小型摩托車的底盤螺栓，車身由各種莫蘭迪色調的粗獷部件拼裝而成，充滿沙質紋理。這輛自製的「夢想座駕」將是牠馳騁城市街頭的最佳夥伴。",
+    "news_inspiration": [
+      "在瑞士日內瓦，當地居民和遊客每年都會參加在日內瓦湖進行的冬季游泳活動，這是一種充滿活力的體驗。",
+      "美國加州聖地亞哥正上演一齣溫馨的戲劇《跨越邊界》，講述一個年輕女孩追尋夢想的感人故事。",
+      "在新加坡聖淘沙的HyperDrive，樂高正在舉辦一個充滿活力的「打造你的夢想座駕：樂高汽車商店體驗」活動，結合了動手搭建與真實賽車的刺激。",
+      "克羅地亞薩格勒布提供結合日本盆景藝術與品嚐頂級克羅地亞葡萄酒的獨特體驗，旨在舒緩、啟發並連結人心。"
+    ],
+    "inspiration": "在新加坡聖淘沙的HyperDrive，樂高正在舉辦一個充滿活力的「打造你的夢想座駕：樂高汽車商店體驗」活動，結合了動手搭建與真實賽車的刺激。",
+    "idea": "以GTA風格呈現，一隻姜黃色虎斑貓在地下車庫的燭光下，親手改造一輛客製化小型摩托車，場景以沙質紋理和莫蘭迪色調構築，構圖對稱，展現街頭機械師的獨特氛圍。"
   }
 ]
