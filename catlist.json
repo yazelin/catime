@@ -5743,5 +5743,13 @@
     "character": "mochi",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-03_1123_UTC.webp",
     "timestamp": "2026-03-03 11:23 UTC"
+  },
+  {
+    "number": null,
+    "url": null,
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "model": "all failed",
+    "timestamp": "2026-03-03 12:32 UTC"
   }
 ]
