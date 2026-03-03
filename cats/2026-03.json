@@ -2129,5 +2129,44 @@
       "奢華巴洛克/洛可可風格",
       "高光澤/鏡面反射材質"
     ]
+  },
+  {
+    "idea": "一張以柯達 Portra 底片風格呈現的攝影作品，畫面中一隻貓咪在粗獷的混凝土實驗台上，以 Knolling 排列攝影的方式專注清掃幼年恐龍化石碎片。冷冽的霓虹燈光映照出雙色調的靜謐空間，彰顯時間的痕跡。",
+    "avoid_list": [
+      "莫蘭迪色調",
+      "血月",
+      "黏土/陶瓷質感",
+      "正交投影構圖",
+      "魚眼鏡頭與桶狀變形",
+      "霓虹螢光色調",
+      "鏡中自拍或凝視倒影",
+      "貓咪專注操作控制台/機械",
+      "完美對稱構圖",
+      "戲劇性體積光",
+      "黃金時刻或暖色燭光",
+      "城市夜景/地下空間設定",
+      "生物發光效果",
+      "奢華巴洛克/洛可可風格",
+      "高光澤/鏡面反射材質"
+    ],
+    "title": "時光碎片",
+    "number": 663,
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Knolling Photography",
+      "lighting": "Neon Lighting",
+      "texture": "Concrete",
+      "color_palette": "Duotone"
+    },
+    "prompt": "Overhead flat lay Knolling photography: A tabby cat meticulously cleaning juvenile Pachycephalosaurus fossil fragments on a raw concrete laboratory workbench. The cat's small brush, tweezers, and magnifying glass are precisely arranged at 90-degree angles in an organized grid layout. Shot on Kodak Portra 400 film, with warm film tones, subtle grain, and soft focus, creating a dreamy nostalgic atmosphere. The scene is illuminated by cold neon lighting, casting a duotone color treatment with two contrasting colors only, evoking a moody urban night atmosphere and industrial minimalism. The brutalist aesthetic of the rough aggregate concrete surface is prominent. Visually displayed within the image: 2026-03-03 20:22 UTC.",
+    "news_inspiration": [
+      "在美國黃石國家公園的一項研究發現，狼群正在竊取美洲獅的獵物，揭示了野外生態系統中一種奇特的互動模式。",
+      "美國國家航空暨太空總署（NASA）成功在太平洋上空的低地球軌道測試了3D列印的鈦天線原型，展示了太空技術的新進展。",
+      "新加坡宣布計畫在2029年前培訓十萬名具備人工智慧技能的勞工，以應對未來的技術需求並提升國家競爭力。",
+      "加拿大出土了一具罕見的幼年圓頂頭龍化石，為科學家了解這種獨特恐龍提供了重要線索。"
+    ],
+    "story": "實驗室深處，只有一盞霓虹燈默默發光。一隻灰褐色虎斑貓正小心翼翼地用小刷子，清理著一塊來自遠古的圓頂頭龍化石。牠的工具——小刷子、鑷子和放大鏡——整齊地擺放在身旁，每一個動作都充滿了對過去的敬意與探索的好奇。",
+    "inspiration": "加拿大出土了一具罕見的幼年圓頂頭龍化石，為科學家了解這種獨特恐龍提供了重要線索。",
+    "comment_id": 3993331536
   }
 ]
