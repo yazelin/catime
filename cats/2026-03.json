@@ -2007,5 +2007,44 @@
       "color_palette": "Gold and Black Luxury"
     },
     "idea": "這是一個以魚拓藝術風格呈現的奢華場景：一隻黑貓在一個佈滿金色與黑色調的古董藝廊中，專注地擦拭著一尊造型獨特的金色馬頭雕像。整個畫面採用對稱構圖，並透過體積光與透明樹脂的質感，營造出豐富的視覺層次。"
+  },
+  {
+    "idea": "一張拍立得風格的分割畫面照片，捕捉了一隻貓在佈滿苔蘚的廢棄屋頂溫室裡，利用霓虹燈光輔助觀察星圖的瞬間。",
+    "avoid_list": [
+      "莫蘭迪色調",
+      "血月",
+      "黏土/陶瓷質感",
+      "正交投影構圖",
+      "魚眼鏡頭與桶狀變形",
+      "霓虹螢光色調",
+      "鏡中自拍或凝視倒影",
+      "貓咪專注操作控制台/機械",
+      "完美對稱構圖",
+      "戲劇性體積光",
+      "黃金時刻或暖色燭光",
+      "城市夜景/地下空間設定",
+      "生物發光效果",
+      "奢華巴洛克/洛可可風格",
+      "高光澤/鏡面反射材質"
+    ],
+    "title": "星圖上的貓",
+    "number": 660,
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Split View",
+      "lighting": "Neon Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "在印度，色彩繽紛的胡里節（Holi）慶祝活動於3月3日展開，以燃燒篝火象徵良善戰勝邪惡，迎接春天到來。",
+      "臺灣嘉義縣於3月3日舉行壯觀的元宵節慶祝活動，數千盞燈籠升空，為農曆新年畫上句點。",
+      "魯賓天文台（Rubin Observatory）於3月3日啟動了實時預警系統，旨在全球範圍內監測夜空，追蹤超新星和新發現的小行星等天文事件。",
+      "在紐約公布的2026年世界野生動物日國際青年藝術比賽中，來自韓國的15歲學生Jia Yoo以其描繪亞洲象與藥用植物薑黃的畫作榮獲大獎。"
+    ],
+    "inspiration": "魯賓天文台（Rubin Observatory）於3月3日啟動了實時預警系統，旨在全球範圍內監測夜空，追蹤超新星和新發現的小行星等天文事件。",
+    "prompt": "A candid split view instant photo in the style of a vintage Polaroid, with a distinct white border frame. A sharp vertical cut line divides the composition. The entire image has slightly faded colors and soft warm tones, evoking a moody urban night atmosphere. On the left side: An orange tabby cat in an abandoned, moss-covered rooftop conservatory, its paw gently resting on an ancient parchment star map, softly illuminated by an old battery lamp. Lush green organic overgrowth covers the surrounding walls and objects, showing nature reclaiming the space with a damp forest aesthetic and soft living patina. On the right side: The same orange tabby cat, its eyes focused and determined, gazing intently through a broken brass telescope towards the distant night sky. A faint, custom neon light tube in the shape of a cat's head glows subtly in the corner, casting colorful reflections on the wet, moss-covered surfaces. Captured with a 35mm lens at f/1.8, featuring a shallow depth of field, subtle film grain, and ambient night light, complemented by the artificial lamp and neon glow. The overall color palette is earth-toned, with terracotta, olive green, and warm brown hues creating a natural organic harmony. Visibly displayed in the image: '2026-03-03 17:35 UTC'.",
+    "comment_id": 3992570334,
+    "story": "夕陽西下後，一隻橘色虎斑貓在被遺棄的溫室裡專注地工作。牠前爪輕柔地撥弄著一張古老的羊皮紙星圖，星圖被一盞老式電池燈照亮，周圍的牆壁和物品都爬滿了翠綠的苔蘚。另一個畫面則聚焦在牠凝視著一架破舊黃銅望遠鏡的堅定眼神，望遠鏡的視線穿過窗格，指向遙遠的夜空，角落裡一條微弱的訂製霓虹燈管勾勒出貓咪的頭像，發出淡淡的光芒。"
   }
 ]
