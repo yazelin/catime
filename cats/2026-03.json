@@ -2602,5 +2602,42 @@
     "news_inspiration": [],
     "number": 675,
     "inspiration": "original"
+  },
+  {
+    "number": 676,
+    "avoid_list": [
+      "貓咪專注執行精細動作",
+      "黑光霓虹螢光照明",
+      "極低角度仰視",
+      "微縮模型景深",
+      "雙色調",
+      "莫蘭迪色系",
+      "未來感前衛氛圍",
+      "柔和自然漫射光",
+      "複雜幾何圖案與線條",
+      "水晶玻璃材質",
+      "等距3D插圖",
+      "電影感光影",
+      "貓咪用爪輕觸/調整"
+    ],
+    "story": "夜幕低垂，空氣中瀰漫著染料與蜂蠟的氣息。隨著燭光輕柔跳動，牆上的新藝術風格花卉圖案彷彿活了過來。黑貓「卡利」端坐在白色布料堆上，居高臨下地審視著為胡里節準備的、如萬花筒般絢爛的絞染布匹，彷彿每一塊布的色彩都由牠親自監督而成。",
+    "news_inspiration": [
+      "印度各地正在慶祝色彩繽紛的胡里節，象徵著春天、歡樂以及善惡的勝利。",
+      "中國深圳的研究團隊開發了一種非侵入式、高解析度的小鼠腦部成像新系統，能夠長期穿透完整頭皮和顱骨進行觀察。",
+      "英國政府宣布將成立一個新的AI研究實驗室，以推動醫療保健、交通和科學等領域的突破。",
+      "在美國洛杉磯，UCLA男子籃球隊以72比52擊敗排名第九的內布拉斯加大學，結束了主場賽季。"
+    ],
+    "title": "絞染春訊燭光夜",
+    "idea": "以新藝術風格呈現，透過俯瞰視角，一隻優雅的黑貓坐落在印度傳統絞染工作坊中，在燭光搖曳下，驕傲地巡視著地上和晾架上高飽和鮮豔的絞染布料。",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Bird's-Eye View",
+      "lighting": "Candlelight",
+      "texture": "Shibori Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 3997268587,
+    "prompt": "Art Nouveau illustration, Mucha-inspired, with flowing organic curves, ornamental borders, and lush floral motifs adorning the walls. A captivating bird's-eye view, top-down perspective, looking straight down into a traditional Indian tie-dye workshop, creating a miniature world effect. Centrally, an elegant black cat, Kali, is perched proudly on a stack of white fabric, gazing with a supervisory expression at a vibrant display of high-saturation, vivid resist-dyed textile patterns. The workshop floor and racks are abundant with Shibori-style tie-dye fabrics, showcasing a kaleidoscope of bold vibrant hues, eye-catching contrast, and an energetic palette. The entire scene is bathed in warm candlelight, with a soft flickering glow casting intimate, dancing shadows. The date and time '2026-03-04 12:31 UTC' are visually displayed within the image.",
+    "inspiration": "印度各地正在慶祝色彩繽紛的胡里節，象徵著春天、歡樂以及善惡的勝利。"
   }
 ]
