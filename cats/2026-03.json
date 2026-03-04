@@ -2824,5 +2824,45 @@
     "prompt": "以手持慢門的藝術風格捕捉，這是一個等距攝影的場景：在一間木紋為主調的特製溫室裡，環形燈光下，一隻貓正專注地操作平板電腦，記錄著一盆珍稀植物的生長數據，整體色調為冷調（藍青）系。. The date and time '2026-03-04 17:31 UTC' is visually displayed in the image. handheld slow shutter, intentional motion blur, light streaks, flowing movement, dreamy time-passing effect, perfectly isometric photography, real captured photo with isometric angle, no miniature effect, ring light illumination, circular catchlight in eyes, even frontal lighting, beauty portrait quality, natural wood grain texture, rich warm tones, visible knots and lines, organic tactile surface, cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm mood",
     "comment_id": 3999072474,
     "title": "復育者的凝視"
+  },
+  {
+    "title": "霜月港魂",
+    "comment_id": 3999396478,
+    "idea": "船長在結冰的漁港防波堤上，月光與遠方霓虹燈塔的螢光色光束交織，用魚眼鏡頭捕捉其堅毅的單眼人像，背景呈現散景效果，海面閃爍著霓虹微光。",
+    "prompt": "A candid DSLR portrait of Captain, a large stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes, broad muscular build, and scruffy, untidy, coarse fur with uneven lengths. Its LEFT eye is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E (not fabric, no straps). Its RIGHT eye is a single piercing emerald green #50C878. A prominent V-shaped notch is in its LEFT ear. A faded red #CD5C5C bandana is tied loosely around its neck. It has a white #FFFFFF chest bib and white mitten paws on all four feet, and a distinctive M-mark on its forehead. Its thick, sturdy tail gently taps an ice-encrusted discarded buoy. The Captain stands on an icy fishing harbor breakwater, covered in delicate frost patterns, translucent ice shards, and frozen surface texture, embodying winter crystalline beauty, patrolling with a watchful presence. Captured with a fisheye wide-angle lens, strong barrel distortion, and an exaggerated foreground, giving a 360-degree feel. Sharp focus on the Captain, with a creamy bokeh background and shallow depth of field due to a wide aperture. Illuminated by cold, clear moonlight, casting cool blue tones and a gentle silvery glow, interweaving with fluorescent neon light beams from a distant lighthouse, displaying electric pink, lime green, and hot cyan glowing against the dark quiet nighttime atmosphere. The sea surface shimmers with neon micro-glows. Visually displayed as a timestamp overlay: '2026-03-04 18:33 UTC'. Photographic grain.",
+    "avoid_list": [
+      "移軸微縮模型效果",
+      "冷冽藍色調",
+      "霓虹螢光照明",
+      "AI貓",
+      "絞染圖案",
+      "鐘樓機械裝置",
+      "貓咪精確調整/放置物件",
+      "毛茸茸的貓",
+      "微型/迷你物件",
+      "實驗室/工作坊場景",
+      "月光場景",
+      "巨大物件",
+      "柔和漫射自然光"
+    ],
+    "number": 682,
+    "character": "captain",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Fisheye Lens",
+      "lighting": "Moonlight",
+      "texture": "Frost Crystal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "character_name": "船長",
+    "news_inspiration": [
+      "印度庫諾國家公園證實獵豹Gamini誕下第四隻幼崽，標誌著獵豹計畫的又一里程碑。",
+      "厄瓜多爾加拉帕戈斯國家公園在弗洛雷亞納島釋放了158隻幼年雜交陸龜，以恢復當地生態系統。",
+      "肯亞的再生農業取得成功，為當地帶來了積極的環境效益。",
+      "在2026年全英羽毛球公開賽首日，馬來西亞選手君豪成功挽回頹勢。",
+      "捷克布拉格的兩家電影院被評選為全球最佳100家電影院之一。"
+    ],
+    "story": "在寒冷而清澈的月光下，船長以其特有的沉穩步伐，巡視著冰霜覆蓋的防波堤頂端。牠銳利的翠綠色右眼掃視著遠方波光粼粼的海面，確認著港口的安全，左耳的V型缺口訴說著過往的戰役。牠粗壯的尾巴輕輕拍打著一塊結滿冰晶的廢棄浮標，像是在與舊日回憶低語，守護著這片牠終身奉獻的水域。"
   }
 ]
