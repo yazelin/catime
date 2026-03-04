@@ -2933,5 +2933,46 @@
       "texture": "Moss Overgrowth",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "number": 685,
+    "comment_id": 4000392100,
+    "idea": "在漫畫風格的構圖中，墨墨優雅地佇立在一座由古老書卷和殘破建築組成的浮島上，周圍是液態金屬般閃爍的星空，月光為雙色調的畫面籠罩上一層神秘光暈。",
+    "title": "浮島書卷月影",
+    "news_inspiration": [
+      "紐西蘭板球隊在印度加爾各答舉行的T20板球世界盃半決賽中，憑藉芬恩·艾倫破紀錄的世紀得分，擊敗南非隊晉級決賽。",
+      "中國科學家在深圳開發出一種新型非侵入性高分辨率腦成像系統，能夠長期觀察小鼠大腦。",
+      "摩洛哥阿特拉斯山脈的卡斯巴塔馬多特被譽為2026年獨特旅行目的地之一，提供豪華探險和沉浸式文化體驗。",
+      "美國南卡羅來納州查爾斯頓正舉辦一場葡萄酒美食節，慶祝當地美食、美酒和傳統。"
+    ],
+    "story": "牠那雙金琥珀色的眼睛，凝視著身前一張微微泛著金屬光澤的古老卷軸，爪尖輕輕觸碰其邊緣，彷彿在無聲地閱讀被遺忘的歷史。整幅畫面以墨黑與深邃的青銅色為主調，營造出既沉靜又充滿智慧探險感的氛圍，完美呈現了墨墨的優雅與對知識的渴求。",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Floating Island Scene",
+      "lighting": "Moonlight",
+      "texture": "Liquid Metal",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "摩洛哥阿特拉斯山脈的卡斯巴塔馬多特被譽為2026年獨特旅行目的地之一，提供豪華探險和沉浸式文化體驗。",
+    "prompt": "A sleek, slender solid-black #0A0A0A Bombay-style shorthair cat named Momo, with satin-sheen fur revealing warm brown undertones in direct light, athletic proportions, visible muscle definition, and a slight upward curl at the tail tip. A single 3mm gold hoop earring #FFD700 adorns Momo's LEFT ear at the mid-ear edge. A tiny natural white locket tuft #FFFFFF is on its ventral chest, and a single dark-grey #696969 ring marks the tail tip. Momo's large luminous golden-amber #D4A017 eyes, framed by long prominent white whiskers, are calm and attentive. Momo elegantly stands, paw gently touching the edge of a subtly metallic-glowing ancient scroll, gazing intently at its surface. This scene takes place on a miniature floating island composed of ancient scrolls and fragmented architecture, suspended high in a vast, liquid metal-like shimmering starry sky with a molten mirror finish. An aerial perspective captures the levitating platform. The illustration is rendered in a manga style with clean ink lines and screentone shading for a bold graphic impact and modern design feel. Expressive eyes are key. The composition is bathed in a duotone color treatment of ink black and deep bronze, with cool blue tones from moonlight illumination providing a gentle silvery glow and a quiet nighttime atmosphere. The only additional colors are Momo's golden-amber eyes and the specific gold and white character accents. The date and time '2026-03-04 21:24 UTC' must be visually displayed within the image.",
+    "avoid_list": [
+      "視覺化日期時間戳記",
+      "冷調藍青色、冰冷底色",
+      "暖大地色系、赤陶、橄欖綠、暖棕",
+      "環形燈照明、圓形眼神光、均勻正面光",
+      "經典三點打光、細微邊緣光",
+      "鳥瞰視角、微縮世界效果",
+      "魚眼鏡頭廣角、桶狀畸變、誇張前景、360度視角",
+      "天然木紋質感、豐富暖色調、有機觸感",
+      "對稱構圖",
+      "絞染圖案風格",
+      "冰霜覆蓋、冰晶質地",
+      "金黃色/暖金色光線、黃金時刻",
+      "電光藍與粉色霓虹光",
+      "淺景深、散景背景",
+      "等距構圖"
+    ],
+    "character": "momo",
+    "character_name": "墨墨"
   }
 ]
