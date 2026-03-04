@@ -5883,5 +5883,14 @@
     "title": "審計異想",
     "number": 669,
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": 670,
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "title": "赤月映時光",
+    "inspiration": "2026年3月3日，中國北京的天空出現了血紅色月亮和月全食的壯麗景象。",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-04_0634_UTC.webp",
+    "timestamp": "2026-03-04 06:34 UTC"
   }
 ]
