@@ -2639,5 +2639,39 @@
     "comment_id": 3997268587,
     "prompt": "Art Nouveau illustration, Mucha-inspired, with flowing organic curves, ornamental borders, and lush floral motifs adorning the walls. A captivating bird's-eye view, top-down perspective, looking straight down into a traditional Indian tie-dye workshop, creating a miniature world effect. Centrally, an elegant black cat, Kali, is perched proudly on a stack of white fabric, gazing with a supervisory expression at a vibrant display of high-saturation, vivid resist-dyed textile patterns. The workshop floor and racks are abundant with Shibori-style tie-dye fabrics, showcasing a kaleidoscope of bold vibrant hues, eye-catching contrast, and an energetic palette. The entire scene is bathed in warm candlelight, with a soft flickering glow casting intimate, dancing shadows. The date and time '2026-03-04 12:31 UTC' are visually displayed within the image.",
     "inspiration": "印度各地正在慶祝色彩繽紛的胡里節，象徵著春天、歡樂以及善惡的勝利。"
+  },
+  {
+    "inspiration": "original",
+    "prompt": "An adorable, chubby, spherical shorthair cat named Mochi is the central focus of a Fauvism art style illustration. She is depicted clumsily climbing a towering stack of traditional market bamboo steam baskets, each filled with hot, steaming baozi. Her expression is a charming blend of determined focus, a slightly embarrassed eagerness, and hungry anticipation, her fat belly jiggling with each clumsy movement.\n\nMochi has a pure white #FFFFFF base coat with bright orange #FF8C00 patches. Her RIGHT half-face (viewer perspective) has an orange #FF8C00 mask extending from her nose bridge across her RIGHT cheek to her RIGHT ear, while her LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on her upper dorsal back. Her RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and her LEFT front paw is pure white #FFFFFF. Her belly is white. She has large, round amber #FFBF00 eyes and a pink #FFB6C1 nose with a tiny orange center dot. Her tail has orange-and-white ringed bands. Her short, stubby legs and spherical torso emphasize her chubbiness. Her orange patches are solid, without tabby stripes.\n\nThe artwork utilizes bold, non-naturalistic colors, textured impasto brushwork, and simplified forms to create a wildly vibrant palette. The scene is captured with a fisheye wide-angle lens perspective, exhibiting strong barrel distortion, with an exaggerated foreground that gives a 360-degree feel, looking up at the 'baozi mountain'.\n\nThe background depicts a bustling old street market baozi stall, rendered in a cool blue-teal color grading with icy undertones, suggesting a crisp, serene, and calm atmosphere despite the market activity. Steam billows around the cool-toned market environment, contrasting with Mochi's vibrant orange and white body, which has an inflatable PVC material quality, with a high-gloss, balloon-like surface and puffy, rounded forms, showing air-filled tension. This is emphasized by a classic three-point lighting setup: a key light creating soft shadows, a fill light illuminating details, and a subtle rim light providing separation from the background. Visually display '2026-03-04 13:49 UTC' prominently in the image.",
+    "number": 677,
+    "character": "mochi",
+    "title": "包子山巔",
+    "idea": "野獸派畫風，魚眼鏡頭捕捉圓滾滾的麻糬，牠正努力攀爬傳統市場中堆疊如山的蒸籠。冷色調（藍青）的市場背景與蒸氣瀰漫，映襯著麻糬充氣PVC材質般光澤飽滿的橘白身軀，三點打光強調其立體感。",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Fisheye Lens",
+      "lighting": "Three-Point Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "貓咪專注執行精細動作",
+      "黑光霓虹螢光照明",
+      "極低角度仰視",
+      "微縮模型景深",
+      "雙色調",
+      "莫蘭迪色系",
+      "未來感前衛氛圍",
+      "柔和自然漫射光",
+      "複雜幾何圖案與線條",
+      "水晶玻璃材質",
+      "等距3D插圖",
+      "電影感光影",
+      "貓咪用爪輕觸/調整"
+    ],
+    "news_inspiration": [],
+    "character_name": "麻糬",
+    "comment_id": 3997687919,
+    "story": "老街市場的包子攤前，香氣引誘著麻糬。牠好奇又貪吃地盯著蒸籠頂端熱騰騰的包子，圓短的四肢笨拙地試圖攀上這座「包子山」。每走一步，肥胖的肚子便晃動一下，呆萌的表情透露出對美食的執著與一絲困窘。"
   }
 ]
