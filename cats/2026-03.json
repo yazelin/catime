@@ -2500,5 +2500,42 @@
     "inspiration": "韓國「吃播女王」Tzuyang的3萬卡路里飲食與其45公斤的體重形成鮮明對比，引發了關注。",
     "comment_id": 3996025668,
     "idea": "一隻短毛家貓在破舊的維多利亞式溫室中，在月光下仔細排列由冰霜結晶與幾何結構組成的巨大「餐點」，整個畫面呈現藍曬法風格，並透過遞迴構圖與霓虹螢光色的光澤強調其超現實感。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Extreme Low Angle",
+      "lighting": "Cinematic Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "數據之海探秘",
+    "idea": "一隻好奇的AI貓咪在一間墨流低多邊形風格的未來伺服器機房裡，專注地檢查一條脫落的光纜原型，周遭是冷色調的電影感打光。",
+    "comment_id": 3996322854,
+    "number": 673,
+    "inspiration": "中興通訊在西班牙巴塞羅那舉行的MWC 2026上，發布了全球首個多ONU突發200G-PON原型，展示了科技新進展。",
+    "prompt": "An AI cat with glowing blue-green eyes, rendered with a digital origami aesthetic, curiously inspects a detached prototype 200G-PON fiber optic cable connector with its paw. The futuristic server room features towering low-poly server racks with geometric crystalline surfaces and flat shaded triangular faces, patterned with delicate Suminagashi, Japanese paper marbling, showcasing floating concentric ink patterns and ethereal swirls in cool blue-teal. The composition is an extreme low angle shot, looking up, creating a powerful, dramatic perspective. Cinematic lighting casts volumetric light rays and dramatic shadows, yielding high dynamic range and a film-quality mood, enveloped in a crisp, serene cool blue-teal color grading with icy undertones. Visually display '2026-03-04 09:30 UTC'.",
+    "avoid_list": [
+      "極低角度仰視構圖",
+      "霓虹燈或黑光照明",
+      "貓咪專注執行某項活動",
+      "雙色調色彩處理",
+      "柔和漫射自然光",
+      "都市夜晚氛圍",
+      "等距3D插畫風格",
+      "粗獷主義混凝土質感",
+      "弗洛雷亞納島陸龜主題",
+      "大地色系與溫暖色調",
+      "底片顆粒或紙質紋理",
+      "莫蘭迪柔和色調",
+      "液態金屬或未來感材質",
+      "古老捲軸或星象圖"
+    ],
+    "story": "這隻擁有藍綠色眼睛的AI貓，輕柔地用爪子觸碰著那閃爍著微光的200G-PON原型光纜接頭，探究其奧秘。機房的極低角度構圖，將貓咪與周圍流動著藍青墨流圖案的低多邊形伺服器架，置於一片深邃且具戲劇性的電影光影之中，營造出技術探索的神秘氛圍。",
+    "news_inspiration": [
+      "英國足球傳奇人物肯尼·達格利什爵士在蘇格蘭慶祝其75歲生日，為體育界帶來溫馨時刻。",
+      "中興通訊在西班牙巴塞羅那舉行的MWC 2026上，發布了全球首個多ONU突發200G-PON原型，展示了科技新進展。",
+      "印度庫諾國家公園證實獵豹Gamini誕下第四隻幼崽，這是印度「獵豹計畫」的又一個里程碑，對保育工作意義重大。"
+    ]
   }
 ]
