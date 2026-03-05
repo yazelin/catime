@@ -3516,5 +3516,43 @@
     "title": "摺紙齒輪迴響",
     "comment_id": 4005537692,
     "news_inspiration": []
+  },
+  {
+    "idea": "以白板記號筆畫風格呈現，從極低角度仰望，一隻好奇的貓在印度胡里節市場的木製攤位上，專注地探索高聳的顏料粉末袋，臉部被蝴蝶光柔和照亮，並以雙色調呈現。",
+    "comment_id": 4005978753,
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Extreme Low Angle",
+      "lighting": "Butterfly Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Duotone"
+    },
+    "title": "胡里粉貓探秘",
+    "story": "在一個充滿木紋、空氣中瀰漫著細微古拉爾粉末的胡里節用品攤位，一隻調皮的貓正小心翼翼地踩在堆疊如山的顏料麻袋上。牠弓著背，前爪輕柔地觸碰著木製地板上不小心灑落的亮色粉末，雙眼圓睜，似乎在好奇地嗅聞或準備用爪子撥弄一番，整個畫面呈現出活潑卻又聚焦的景象。",
+    "inspiration": "印度各地正在慶祝色彩繽紛的胡里節（Holi），這是一個充滿春天、歡樂和善惡勝利的節日。",
+    "prompt": "Whiteboard marker drawing on glass, with hand-drawn line art and a casual sketch feel, rendered with slightly faded ink. Extreme low angle shot, looking up at a curious cat exploring towering pigment powder bags on a wooden Holi market stall. The cat, with an arched back and wide eyes, gently touches spilled bright powder with its front paws on the natural wood grain texture of the stall, which features visible knots and lines, creating an organic tactile surface. Butterfly lighting, with an overhead key light, softly illuminates the cat's face, creating a symmetrical shadow under its nose, akin to glamour portrait lighting with soft even illumination. Duotone color treatment, using two contrasting colors only for a bold graphic impact and modern design feel. Visually display '2026-03-05 15:39 UTC' as a subtly integrated textual element.",
+    "number": 700,
+    "news_inspiration": [
+      "瑞士巴塞爾大學和蘇黎世聯邦理工學院的研究人員成功利用雷射光束翻轉磁鐵，這是一項控制光線的重大突破，未來有望用於可適應的電子電路。",
+      "印度各地正在慶祝色彩繽紛的胡里節（Holi），這是一個充滿春天、歡樂和善惡勝利的節日。",
+      "美國艾默理大學的物理學家們為人工智慧開發出一個「元素週期表」，建立了一個統一的數學框架來設計更優質的演算法並減少數據使用。",
+      "日本市川市動物園裡一隻名叫「Punch」的孤兒獼猴逐漸擺脫對絨毛玩具的依賴，並開始融入其他猴群。"
+    ],
+    "avoid_list": [
+      "衍紙藝術",
+      "藍曬法風格與普魯士藍單色調",
+      "等距視角構圖",
+      "微縮世界效果",
+      "黏土或陶瓷質感",
+      "生物發光或水下磷光效果",
+      "極低角度拍攝",
+      "閃光燈直打或強烈光影",
+      "柔和粉彩色系與夢幻淺色調",
+      "鳥瞰視角",
+      "古老卷軸",
+      "發光幾何形狀或展品",
+      "大地色系",
+      "不經意的抓拍"
+    ]
   }
 ]
