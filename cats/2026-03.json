@@ -3367,5 +3367,39 @@
       "環形均勻照明",
       "雙色調視覺處理"
     ]
+  },
+  {
+    "idea": "一隻深色虎斑貓在一個由黏土與陶瓷構成的、充滿奇特生物發光植物的巨大溫室圖書館中，專注地整理著散發微光的古老卷軸，整體以中片幅攝影的細緻質感呈現等距3D插圖的幾何構圖，浸潤在冷冽的藍青色調中。",
+    "comment_id": 4004373500,
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Bioluminescence",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "貓咪專注於精密操作",
+      "漂浮的島嶼或平台",
+      "閃爍發光的科技物件",
+      "朦朧體積光束",
+      "俯瞰視角構圖",
+      "等距或正交投影",
+      "柔和粉彩色調",
+      "畫面內顯示日期時間",
+      "微縮世界氛圍",
+      "衍紙藝術風格",
+      "靜謐月光夜景",
+      "碳纖維材質",
+      "復古未來科技設定",
+      "環形均勻照明",
+      "雙色調視覺處理"
+    ],
+    "news_inspiration": [],
+    "story": "深夜，溫室圖書館內，空氣中彌漫著植物與古籍特有的芬芳。夜班圖書管理員——那隻深色虎斑貓——正用靈巧的爪子輕輕撥動一枚枚發光的卷軸，將它們歸類到正確的陶瓷格架上。微光在牠的鬍鬚上跳躍，映出牠專注而寧靜的身影，牠是這片知識與生命的秘境忠實守護者。",
+    "prompt": "An isometric 3D illustration featuring a dark tabby cat diligently organizing faintly glowing ancient scrolls. The cat is situated within a colossal greenhouse library, constructed with a sculpted clay texture and handmade ceramic feel, adorned with strange bioluminescent flora. The composition is clean, geometric, and precise, rendered with an extraordinary tonal range and fine detail, echoing the clarity and aesthetic quality of a Hasselblad medium format photograph. Lighting is exclusively from organic bioluminescence, emanating from the plants and the ancient scrolls, creating a profound deep blue-green radiance and an effect reminiscent of underwater phosphorescence. The overall color palette is dominated by cool blue-teal hues with icy undertones, contributing to a crisp, serene, and calm atmosphere. The artwork exhibits a polished yet playful rendering, with matte surfaces and subtle imperfections. The date and time '2026-03-05 11:25 UTC' must be visually displayed in the image.",
+    "inspiration": "original",
+    "title": "秘境微光藏書貓",
+    "number": 696
   }
 ]
