@@ -3594,5 +3594,40 @@
     "idea": "在一個以剪紙藝術風格呈現的浮島場景中，鈴鈴正好奇地在一座由溫暖琥珀色調和玻璃般晶瑩剔透的花朵構成的「展覽」浮島上，伸出粉嫩的肉球，試圖撥弄一顆閃耀著微光的琥珀色水晶「露珠」。倫勃朗光將她的雪白毛髮與周遭環境形成鮮明對比。",
     "character_name": "鈴鈴",
     "comment_id": 4006703212
+  },
+  {
+    "character_name": "船長",
+    "number": 702,
+    "character": "captain",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "prompt": "An isometric 3D illustration depicting a large, stocky brown #5C4033 classic tabby cat, Captain, with bold black #1A1A1A stripes and a broad, muscular build. Its fur is scruffy, untidy, slightly coarse with uneven lengths. The Captain stands firmly on an outer platform at the top of a lighthouse, diligently mending a wooden railing eroded by sea wind. It holds a small wooden hammer with visible natural wood grain texture, rich warm tones, and an organic tactile surface. A small, huddled kitten is nestled by its paws, sheltered by the Captain's broad body from the fierce sea wind. The Captain's LEFT eye (viewer perspective) is hidden by a natural dark-pigmented fur patch #2B1B0E, while its RIGHT eye is a single piercing emerald green #50C878. Its LEFT ear has a prominent V-shaped notch. A faded red #CD5C5C bandana is tied loosely around its neck. It has a white #FFFFFF chest bib and white mitten paws on all four feet, and a distinctive M-mark on its forehead. Its tail is thick and sturdy. The scene is rendered with clean geometric forms and a polished, playful aesthetic, incorporating intricate geometric and floral patterns reminiscent of Madhubani painting into the lighthouse structure and subtle background elements for an Indian folk art aesthetic. Neon lighting and neon fluorescent colors—electric pink, lime green, hot cyan—glow vibrantly against the moody, stormy pre-dawn atmosphere, casting reflections on wet surfaces. The lighthouse beam cuts through the dark, turbulent sky and stormy sea below. Visually displayed in the image is '2026-03-05 19:06 UTC'.",
+    "story": "狂風暴雨前夕，燈塔頂端的海風呼嘯。船長用銳利的翠綠色右眼掃視著遠方，左耳的V型缺口在風中更顯滄桑。牠雖然忙著修補損壞的木紋欄杆，卻始終留意著一旁受驚的小貓，那蓬亂粗糙的毛髮下是堅定的溫柔。海面波濤洶湧，而牠是這片水域中貓群最穩固的燈塔。",
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Neon Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Neon Fluorescent"
+    },
+    "idea": "一幅以米提拉畫風格呈現的等距3D插圖，船長站在燈塔頂部的外圍平台上，在霓虹燈光和霓虹螢光色的渲染下，使用木紋質感的小錘子，堅毅地修補著被海風侵蝕的木製欄杆，同時用寬厚的身體默默為腳邊一隻瑟縮的小貓遮擋風雨。",
+    "title": "燈塔風雨護幼",
+    "comment_id": 4007092786,
+    "avoid_list": [
+      "衍紙藝術",
+      "藍曬法風格與普魯士藍單色調",
+      "等距視角構圖",
+      "微縮世界效果",
+      "黏土或陶瓷質感",
+      "生物發光或水下磷光效果",
+      "極低角度拍攝",
+      "閃光燈直打或強烈光影",
+      "柔和粉彩色系與夢幻淺色調",
+      "鳥瞰視角",
+      "古老卷軸",
+      "發光幾何形狀或展品",
+      "大地色系",
+      "不經意的抓拍"
+    ]
   }
 ]
