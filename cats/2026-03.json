@@ -3441,5 +3441,46 @@
     ],
     "idea": "在彩色石版印刷風格的超廣角構圖中，一隻毛髮如亮面塑膠般的大型虎斑貓，在台灣嘉義縣元宵節期間的熱鬧屋頂工坊裡，暖色調燈火的蝴蝶光照明下，專注地調整著一個巨大的願望天燈。",
     "story": "這隻技藝精湛的貓咪是此地天燈匠師的領袖，牠那琥珀色調的爪子熟練地檢查著天燈結構，確保每一個願望都能順利升空。周圍，一群亮面質感的玩具鼠們正將迷你天燈搬運至屋頂邊緣，準備隨著主貓咪的指令一同釋放，共同慶祝農曆新年的結束，整個畫面充滿了溫暖與期待。"
+  },
+  {
+    "prompt": "A bird's-eye view, top-down perspective, looking straight down, illustrating a corner of an old street market bakery with a miniature world effect. The focal point is Mochi, a chubby, rounded shorthair cat with a white #FFFFFF base coat and bright orange #FF8C00 patches. Mochi's RIGHT half-face (viewer perspective) features an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while its LEFT face is entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its spherical torso and short stubby legs are diligently attempting to squeeze into a wooden crate overflowing with golden pineapple buns. Mochi's short, stubby RIGHT front paw, a solid orange #FF8C00 mitten to the wrist, is planted on the crate edge, and its LEFT front paw is pure white #FFFFFF. Its white #FFFFFF belly jiggles slightly with each struggle. Mochi's large, round amber #FFBF00 eyes are wide with an adorably dumbfounded and greedy expression, fixated on the delicious pineapple buns, which fill the air with an irresistible aroma. Its nose is pink #FFB6C1 with a tiny orange center dot, and its tail has orange-and-white ringed bands. The scene is rendered as a vibrant colored pencil illustration, showcasing visible pencil grain, layered hues, and a rough sketchbook paper texture. Uniform overhead fluorescent lighting, neutral white 5000K, provides institutional flat illumination with no shadows. The glass display counter covering the buns gleams slightly, reflecting the environment with transparent glass material, light refraction, and subtle prismatic reflections, maintaining crystalline clarity. The overall color palette is a warm earth tone, featuring terracotta, olive green, and warm brown, contributing to a natural organic harmony. The date and time '2026-03-05 13:54 UTC' are visually displayed.",
+    "title": "菠蘿箱裡的圓舞曲",
+    "idea": "以色鉛筆畫風格呈現，從鳥瞰視角俯視老街市場麵包店的一角。麻糬圓滾滾的橘白身軀是畫面焦點，牠正努力地將自己塞進一個裝滿金黃菠蘿麵包的木箱裡，琥珀色大眼瞪得圓圓的，帶著呆萌又貪吃的表情。均勻的日光燈光線照亮著覆蓋玻璃的展示櫃，略顯光澤的玻璃反射出周圍環境，整體色彩以溫暖的大地色系為主。",
+    "number": 698,
+    "comment_id": 4005250865,
+    "character": "mochi",
+    "inspiration": "original",
+    "news_inspiration": [
+      "印度多地（如瓦拉納西）於3月4日慶祝色彩節，人們互相潑灑彩色粉末，象徵春天、歡樂與善的勝利。",
+      "在挪威海域600米深處，科學家們開發了一種利用深海壓力發電並將海水淡化的「深海泵」，為全球水資源短缺提供創新解決方案。",
+      "英國原子能管理局和歐洲核子研究組織合作開發了微型機器人「PipeINEER」，用於在瑞士的大型強子對撞機中檢查管道。",
+      "美國加州大學洛杉磯分校和舊金山分校的科學家發現了腦細胞抵抗阿茲海默症損傷的隱藏防禦機制，有望為新療法鋪路。"
+    ],
+    "character_name": "麻糬",
+    "story": "在老街市場的麵包店裡，剛出爐的菠蘿麵包散發著誘人香氣，這對麻糬來說是無法抗拒的誘惑。牠那短粗的右前腳像戴著手套般，奮力地搭上木箱邊緣，圓滾滾的身子努力想鑽進滿滿的麵包堆中，只為了一口傳說中的美味。牠的肚子隨著每次掙扎微微晃動，眼神充滿了對美食的渴望。",
+    "avoid_list": [
+      "貓咪專注於精密操作",
+      "漂浮的島嶼或平台",
+      "閃爍發光的科技物件",
+      "朦朧體積光束",
+      "俯瞰視角構圖",
+      "等距或正交投影",
+      "柔和粉彩色調",
+      "畫面內顯示日期時間",
+      "微縮世界氛圍",
+      "衍紙藝術風格",
+      "靜謐月光夜景",
+      "碳纖維材質",
+      "復古未來科技設定",
+      "環形均勻照明",
+      "雙色調視覺處理"
+    ],
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Bird's-Eye View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
