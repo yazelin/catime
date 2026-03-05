@@ -3701,5 +3701,44 @@
     "comment_id": 4007892148,
     "news_inspiration": [],
     "idea": "在手機隨拍的超廣角鏡頭下，一隻穿戴靜電手環的黑白貓，身處於佈滿碳纖維機械臂的科技實驗室中，一道體積光穿透灰塵，照亮了牠專注調整精密零件的身影，畫面呈現強烈的雙色調美學。"
+  },
+  {
+    "story": "胡里節的歡慶氣氛還未到來，但這隻經驗老到的染坊貓已悄悄展開了準備工作。牠用爪子輕巧地攪拌著碗中色彩暗示著春天的粉末，周圍堆疊著各色、特別是藍綠色系的厚重織品，吸飽了聚光燈下朦朧的光線。整個空間彌漫著冷調的沉靜，彷彿等待著鮮豔色彩的綻放，而貓咪深知每一份細緻的混合都將為即將到來的節日帶來喜悅。",
+    "news_inspiration": [
+      "在印度各地，人們正熱烈慶祝色彩繽紛的胡里節，互相潑灑顏料，象徵著春天、歡樂以及善惡的勝利。",
+      "科學家們在南極洲啟用了一個全球首個山地冰芯儲存庫，旨在保存地球大氣層的歷史供未來世代研究。",
+      "美國維吉尼亞州阿什蘭市一家酒品店日前發生奇特事件，一隻浣熊闖入店內暢飲多種酒類後醉倒在地。",
+      "奧地利維也納的「維也納冰之夢」活動持續進行中，為遊客提供了一個迷人的冬季冰上溜冰體驗。"
+    ],
+    "title": "染坊春色序曲",
+    "idea": "在水彩畫風格與等距攝影構圖下，一隻貓咪於充滿藍綠色調織品質感的印度老舊染坊中，聚光燈照耀著牠正專注地篩選與混合胡里節的染料粉末。",
+    "comment_id": 4008191579,
+    "inspiration": "在印度各地，人們正熱烈慶祝色彩繽紛的胡里節，互相潑灑顏料，象徵著春天、歡樂以及善惡的勝利。",
+    "avoid_list": [
+      "黏土陶瓷質感物件",
+      "發光幾何形展品",
+      "超廣角鏡頭透視",
+      "蝴蝶光人像照明",
+      "溫暖琥珀秋季色調",
+      "晶透玻璃光線折射",
+      "極低角度仰視構圖",
+      "閃光燈直打硬陰影",
+      "雙色調視覺效果",
+      "天然木紋有機表面",
+      "貓咪好奇輕觸物件",
+      "貓咪專注操作機械",
+      "等距3D插畫風格",
+      "冷冽藍青色調",
+      "體積光束穿透灰塵"
+    ],
+    "prompt": "A watercolor painting in perfectly isometric composition, depicting an experienced cat intently sifting and mixing vibrant Holi dye powders with its paw. The scene is set within an old Indian dye workshop, filled with towering stacks of thick woven textiles, displaying visible linen and cotton weave patterns and a tactile soft appearance. A narrow beam spotlight dramatically illuminates the cat and its immediate workspace, creating high contrast with sharp light edges and deep darkness falloff into the background. The overall color grading is cool blue-teal with icy undertones, creating a crisp, serene, and calm atmosphere, while the dye powders introduce subtle, spring-like splashes of color. The watercolor style utilizes soft transparent pigments, bleeding edges, and wet-on-wet technique on a visible paper texture, rendered with a realistic, grounded appearance that avoids any miniature effect. The date '2026-03-05 22:20 UTC' is visibly displayed on a small label or sign within the workshop scene.",
+    "number": 705,
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Isometric Photography",
+      "lighting": "Spotlight",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
