@@ -6172,5 +6172,16 @@
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
     "inspiration": "印度各地正在慶祝色彩繽紛的胡里節（Holi），這是一個充滿春天、歡樂和善惡勝利的節日。",
     "number": 700
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "title": "琥珀之島的尋寶者",
+    "timestamp": "2026-03-05 17:53 UTC",
+    "number": 701,
+    "status": "success",
+    "character": "lingling",
+    "inspiration": "澳洲瓦加瓦加的Riverina博物館舉辦「STUFF」展覽，展示100件奇特有趣的物品，深入探索當地歷史與生活。",
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-05_1753_UTC.webp"
   }
 ]
