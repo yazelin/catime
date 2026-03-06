@@ -4206,5 +4206,45 @@
     ],
     "inspiration": "original",
     "story": "一隻可愛的貓咪正在享受美好的一天。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Miniature Diorama",
+      "lighting": "Three-Point Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Retro Faded Tones"
+    },
+    "inspiration": "中國貴陽孔學堂舉辦了一場盛大的春節文化盛宴，融合了傳統禮儀、古典優雅與現代娛樂。",
+    "title": "年節偷香",
+    "character_name": "麻糬",
+    "number": 719,
+    "idea": "以新印象派（點描法）風格呈現的微縮立體模型視角下，圓滾滾的橘白貓麻糬在一個充滿鐵鏽舊化痕跡的傳統老街市場攤位前，用牠標誌性的呆萌表情，將胖胖的身體費力地擠進一個堆滿春節年貨、色調復古褪色的竹編大籃子裡，企圖偷吃年糕。",
+    "character": "mochi",
+    "story": "正值春節文化盛宴，麻糬在瀰漫著傳統糕點香氣的老街市場中巡邏。牠的呆萌琥珀色大圓眼被一籃擺滿年糕和紅包的竹編籃子深深吸引，那雙眼睛瞬間放大。在三點打光的柔和勾勒下，牠戴著橘色『手套』的右前腳悄悄伸入，渾圓的肚子則在努力鑽進籃中時微微晃動，將親人又貪吃的個性表現得淋漓盡致。",
+    "news_inspiration": [
+      "西班牙巴塞隆納的科學家發現數百種能量酶直接存在於人類DNA上，揭示細胞核內隱藏的「迷你代謝」功能。",
+      "中國貴陽孔學堂舉辦了一場盛大的春節文化盛宴，融合了傳統禮儀、古典優雅與現代娛樂。",
+      "2026年米蘭-科爾蒂納帕拉林匹克冬季運動會在義大利開幕，展現了身障運動員鼓舞人心的成就。",
+      "智利成為美洲第一個經世界衛生組織驗證，成功消除麻瘋病的國家。",
+      "美國羅文大學的研究人員發表了Robossis Alpha，這是一種用於微創對齊長骨骨折的機器人手術系統。"
+    ],
+    "comment_id": 4012405911,
+    "avoid_list": [
+      "貓咪專注於精細操作",
+      "窄束聚光燈搭配高對比光影",
+      "超廣角鏡頭視角帶有戲劇性變形",
+      "復古褪色調與低對比暖色",
+      "經典三點打光",
+      "柔和蝴蝶光營造臉部對稱陰影",
+      "分割畫面與銳利垂直分界線",
+      "未來感/科技實驗室場景",
+      "新藝術或裝飾藝術風格",
+      "漂浮或懸浮的物體/場景",
+      "螢光或霓虹發光效果",
+      "具可見紋理的材質表面",
+      "可見底片顆粒與類比雜訊"
+    ],
+    "prompt": "An illustration in the style of Neo-Impressionism and Pointillism, utilizing tiny dabs of pure color and a systematic dot technique to create an optical color mixing effect and a luminous surface. The composition depicts a miniature diorama from a tilt-shift perspective, presenting a tiny detailed world at a toy-like scale. The scene features a chubby, rounded, shorthair cat named Mochi, with a #FFFFFF white base coat and bright #FF8C00 orange patches. Mochi's RIGHT half-face (viewer perspective) has an #FF8C00 orange mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while the LEFT face is entirely #FFFFFF white. A distinct heart-shaped #FF8C00 orange saddle is centered on Mochi's upper back. Its RIGHT front paw is a solid #FF8C00 orange mitten to the wrist, and its LEFT front paw is pure #FFFFFF white. Mochi has a #FFFFFF white belly, large round #FFBF00 amber eyes, and a pink #FFB6C1 nose with a tiny orange center dot. Its short stubby legs and spherical torso are clearly visible, and its tail has orange-and-white ringed bands. The orange patches are solid, without any tabby stripes. Mochi, with its signature goofy expression, is depicted in front of a traditional old street market stall, characterized by rusted weathered metal, oxidized patina, peeling paint layers, and aged industrial decay with warm orange-brown corrosion. Mochi is playfully attempting to steal nian gao by laboriously squeezing its plump body into a large bamboo basket. The basket is overflowing with retro faded Lunar New Year goods, including nian gao and red envelopes. The right front paw with the orange mitten is gently reaching into the basket, and its spherical belly wiggles as it struggles to enter. The scene is illuminated with a classic three-point lighting setup, featuring a key light casting soft shadows, a fill light, and a subtle rim light for separation. The overall color palette is retro faded, with washed-out vintage tones and low contrast, evoking a nostalgic film-era warmth. The date and time '2026-03-06 15:26 UTC' are prominently displayed within the image."
   }
 ]
