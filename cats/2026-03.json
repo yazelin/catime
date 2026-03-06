@@ -3779,5 +3779,39 @@
     ],
     "idea": "在一間以未來主義風格打造的、充滿冰霜結晶質感的觸覺研究室中，一隻貓咪正在超廣角鏡頭下，利用燭光般的柔和光線，專注地測試一套莫蘭迪色調的全息感應陣列。",
     "title": "感官邊緣的探測"
+  },
+  {
+    "idea": "一張捕捉了雙重曝光藝術風格的影像。畫面主體是隻黑貓，牠在復古戲院的放映室中，專注地凝視著老舊放映機上轉動的膠卷，其身形與機器的部分細節在柔和的黑光螢光下若隱若現；疊加其上的是以分割畫面呈現的、由摺紙紋理構成的抽象幾何圖形，整體呈現復古褪色的色調。",
+    "avoid_list": [
+      "黏土陶瓷質感物件",
+      "發光幾何形展品",
+      "超廣角鏡頭透視",
+      "蝴蝶光人像照明",
+      "溫暖琥珀秋季色調",
+      "晶透玻璃光線折射",
+      "極低角度仰視構圖",
+      "閃光燈直打硬陰影",
+      "雙色調視覺效果",
+      "天然木紋有機表面",
+      "貓咪好奇輕觸物件",
+      "貓咪專注操作機械",
+      "等距3D插畫風格",
+      "冷冽藍青色調",
+      "體積光束穿透灰塵"
+    ],
+    "story": "在老戲院塵封的放映室裡，唯一的光線來自那架嘎吱作響的老式放映機。一隻黑貓靜靜地臥在堆疊的片盒旁，琥珀色的眼睛在微弱的黑光下閃爍，彷彿牠正解讀著膠卷上那些不為人知的摺紙符號，守護著光影間的秘密，與半空中浮現的摺紙幻象一同凝視著時間的流逝。",
+    "title": "映畫之眼",
+    "comment_id": 4008842068,
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Split View",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Origami",
+      "color_palette": "Retro Faded Tones"
+    },
+    "news_inspiration": [],
+    "number": 707,
+    "inspiration": "original",
+    "prompt": "An artistic rendering featuring a striking double exposure effect. The primary image depicts a sleek black cat in a dusty, vintage cinema projection room, intently gazing at the rotating film reel of an old, creaking projector. Soft Blacklight UV illumination casts an ethereal ultraviolet luminescence, making the black cat's form and specific details of the projector subtly glow with fluorescent pigments. The cat's amber eyes gleam faintly in the dim light. Superimposed on this scene is a split view composition with a sharp vertical cut line. This overlay consists of abstract geometric shapes rendered in a precise and minimal Origami style, featuring clean geometric creases, sharp angular folds, and a distinct paper sculpture aesthetic. The entire composition is unified by a retro faded color palette, conveying washed-out vintage tones, low contrast, and a nostalgic film-era warmth. Visually display the date and time '2026-03-06 01:11 UTC' within the image."
   }
 ]
