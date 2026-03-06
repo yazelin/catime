@@ -4104,5 +4104,43 @@
       "texture": "Frost Crystal",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "story": "這隻白貓以其沾滿亮麗彩粉的爪子，熟練地攪拌著大黃銅碗中的洋紅色古拉爾粉，周圍擺放著其他高飽和度的顏料碗，反射著傍晚金色的電影感光線。庭院的拋光大理石地面與背景模糊的歡慶人群，共同營造出一幅充滿活力與專注的對稱畫面。",
+    "number": 716,
+    "news_inspiration": [
+      "印度各地於3月3日至4日慶祝色彩節（Holi），人們互相潑灑彩粉，載歌載舞，洋溢著歡樂與團結的氣氛。",
+      "2026年冬季帕運會於3月6日在義大利米蘭和科爾蒂納丹佩佐開幕，匯集全球身障運動員同場競技。",
+      "智利成為美洲第一個經世界衛生組織驗證已消除麻風病的國家，展現公共衛生領域的重大成就。",
+      "肯亞的農民正透過再生農業計畫，改善土壤健康並提高收成，為當地帶來積極的農業發展。",
+      "美國國家航空暨太空總署（NASA）的羅曼太空望遠鏡已組裝完成，預計於2026年秋季發射，旨在探索超過10萬個新世界並研究暗能量。"
+    ],
+    "idea": "「四格漫畫」藝術風格下，一隻沾滿彩粉的波斯貓，在陽光普照的印度庭院中，以對稱構圖專注地攪拌著胡里節的顏料，呈現高飽和鮮豔色的電影感大理石質感場景。",
+    "title": "彩粉匠心",
+    "inspiration": "印度各地於3月3日至4日慶祝色彩節（Holi），人們互相潑灑彩粉，載歌載舞，洋溢著歡樂與團結的氣氛。",
+    "avoid_list": [
+      "貓咪專注於精細操作",
+      "窄束聚光燈搭配高對比光影",
+      "超廣角鏡頭視角帶有戲劇性變形",
+      "復古褪色調與低對比暖色",
+      "經典三點打光",
+      "柔和蝴蝶光營造臉部對稱陰影",
+      "分割畫面與銳利垂直分界線",
+      "未來感/科技實驗室場景",
+      "新藝術或裝飾藝術風格",
+      "漂浮或懸浮的物體/場景",
+      "螢光或霓虹發光效果",
+      "具可見紋理的材質表面",
+      "可見底片顆粒與類比雜訊"
+    ],
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Symmetrical Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Marble",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 4011484460,
+    "prompt": "Colorful manga page illustration style, reminiscent of a four-panel comic strip aesthetic, with expressive characters and a touch of classical elegance. A fluffy white Persian cat, its fur and paws wonderfully splattered with bright paint powders, is depicted with intense focus, meticulously stirring vibrant magenta gulal powder in a large, ornate brass bowl. The scene unfolds in a radiant, sun-drenched Indian courtyard with a highly polished marble floor, surrounded by an energetic palette of other high-saturation, vivid color pigment bowls. The composition is perfectly symmetrical, featuring a centered subject with mirror-like balance, framed architecturally. The background subtly blurs into a joyful, celebrating crowd. Cinematic lighting bathes the scene in golden evening light, casting dramatic shadows and volumetric light rays, creating a high dynamic range and film-quality mood. The polished marble surface exhibits natural vein patterns, conveying a luxurious stone texture with a cool, smooth finish. The overall image bursts with high saturation vivid colors and bold vibrant hues, creating eye-catching contrast. Visually display the text '2026-03-06 12:30 UTC' within the image."
   }
 ]
