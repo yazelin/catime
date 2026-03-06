@@ -3849,5 +3849,45 @@
       "冷冽藍青色調",
       "體積光束穿透灰塵"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Ring Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 709,
+    "idea": "「裝飾藝術」風格的深海生物感知實驗室內，一隻擁有亮麗毛色的橘貓，正透過其佩戴的、帶有環形燈照明的特製目鏡，精確校準一套以充氣PVC材質打造、並散發霓虹螢光光芒的仿生海膽棘刺感測器陣列。",
+    "inspiration": "香港理工大學的團隊揭示了海膽棘刺的機械電感知能力，並利用3D列印技術開發出仿生感測器。",
+    "title": "深海棘刺調律師",
+    "news_inspiration": [
+      "在南極洲，科學家們發現了數百個隱藏的海底峽谷，這改寫了我們對南方海洋的理解。",
+      "研究人員在巴布亞印尼的佛格爾科普半島偏遠雨林中，發現了兩種原以為已滅絕六千多年的有袋動物活體。",
+      "香港理工大學的團隊揭示了海膽棘刺的機械電感知能力，並利用3D列印技術開發出仿生感測器。",
+      "在智利阿塔卡馬沙漠，一支由科隆大學帶領的團隊發現了多種能適應世界最乾燥非極地沙漠環境的線蟲。",
+      "2026年米蘭科爾蒂納帕運冬季運動會於義大利米蘭和科爾蒂納舉行，為殘疾人體育運動的參與和發展提供了重要機會。"
+    ],
+    "prompt": "An ultra wide angle 12-18mm lens photograph captures a bright-furred orange cat in an Art Deco deep-sea biological perception laboratory. The cat wears a special eyepiece with integrated ring light illumination, casting a prominent circular catchlight in its focused eyes, as it precisely calibrates an array of bio-mimetic sea urchin spine sensors. These sensors are crafted from inflatable PVC material, exhibiting a high-gloss, balloon-like surface with puffy rounded forms and air-filled tension, glowing with neon fluorescent colors including electric pink, lime green, and hot cyan against the dark background. The laboratory's expansive field of view showcases walls adorned with simple yet opulent geometric patterns, featuring a gold and black palette, reflecting luxurious symmetry and 1920s elegance. The entire scene is captured with even frontal lighting, achieving a beauty portrait quality for the cat. Visually displayed date and time '2026-03-06 05:10 UTC' is embedded within the image.",
+    "comment_id": 4009612390,
+    "story": "在超廣角鏡頭捕捉的畫面中，實驗室的空間感被無限延伸，牆面上裝飾著簡潔而華麗的幾何圖案。橘貓專注的神情，映照著感測器表面霓虹綠、電光藍及螢光粉的微光，這些光芒模擬著深海中傳輸的微妙電磁信號，等待被精準捕捉與解析。",
+    "avoid_list": [
+      "黏土陶瓷質感物件",
+      "發光幾何形展品",
+      "超廣角鏡頭透視",
+      "蝴蝶光人像照明",
+      "溫暖琥珀秋季色調",
+      "晶透玻璃光線折射",
+      "極低角度仰視構圖",
+      "閃光燈直打硬陰影",
+      "雙色調視覺效果",
+      "天然木紋有機表面",
+      "貓咪好奇輕觸物件",
+      "貓咪專注操作機械",
+      "等距3D插畫風格",
+      "冷冽藍青色調",
+      "體積光束穿透灰塵"
+    ]
   }
 ]
