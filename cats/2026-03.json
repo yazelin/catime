@@ -4033,5 +4033,44 @@
       "color_palette": "Retro Faded Tones"
     },
     "comment_id": 4010609627
+  },
+  {
+    "idea": "一隻黏土動畫貓咪在亞馬遜叢林深處的簡陋崗哨裡，專注地雕塑一幅巨大的黏土河流地形模型，整個場景以黑白單色的移軸微縮效果呈現。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Butterfly Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 4010886580,
+    "inspiration": "巴西亞馬遜地區的原住民河流守護者，成功阻止了政府及企業將塔帕若斯河工業化的計畫。",
+    "story": "在亞馬遜深處，一個由粗糙黏土木板搭建的簡陋崗哨裡，一隻薑黃色黏土貓咪正用牠精巧的黏土爪子，將一小片黏土仔細壓入桌面上的河流地形模型。這隻貓咪是塔帕若斯河的微型工匠，象徵著對河流的守護。牠身旁一位原住民長者（亦是黏土造型）正以慈愛的目光靜靜觀看，整個畫面以移軸微縮效果呈現，籠罩在黑白單色的底片顆粒感中，一束柔和的蝴蝶光溫暖地灑落在牠們專注的臉龐上。",
+    "title": "塔帕若斯河的微型守護",
+    "prompt": "A captivating black and white monochrome photograph, captured with a tilt-shift lens, creating a miniature, toy-like effect. The scene depicts a rudimentary outpost deep within the Amazon jungle, constructed from rough, sculpted clay planks. In the foreground, a light-toned sculpted clay cat, rendered in intricate claymation style with visible fingerprint textures, intensely focuses on pressing a small piece of clay into a large, detailed clay river terrain model on a makeshift table. An elder, also a sculpted clay character, watches with a gentle gaze from the background. The composition features a selective focus band, creating a shallow depth of field with artfully blurred foreground and background, reminiscent of stop-motion aesthetic. Illumination is provided by soft, even butterfly lighting, with an overhead key light casting a subtle, symmetrical shadow under the cat's nose, highlighting their focused expression. The entire image is bathed in high contrast and rich tonal range, exhibiting dramatic shadows and highlights, and infused with visible film grain, analog texture, subtle noise, and organic photographic imperfections, giving it a timeless, candid quality. Visually displayed within the image: '2026-03-06 10:23 UTC'.",
+    "news_inspiration": [
+      "美國加州大學戴維斯分校主導的一項開創性試驗顯示，一種新的胎兒脊柱裂治療方法極具潛力，能改善兒童的活動能力和生活品質。",
+      "荷蘭的研究團隊發現，銀河系被一個巨大的扁平物質片包圍，這解釋了附近星系為何遠離銀河系的奧秘。",
+      "立陶宛維爾紐斯正在舉辦卡其烏卡斯市集，這是一個從3月6日至8日為期三天的文化慶典。",
+      "在日本東京舉行的世界棒球經典賽中，澳洲隊以5比1擊敗捷克隊，保持不敗紀錄。",
+      "巴西亞馬遜地區的原住民河流守護者，成功阻止了政府及企業將塔帕若斯河工業化的計畫。"
+    ],
+    "number": 714,
+    "avoid_list": [
+      "視覺顯示日期時間",
+      "貓咪專注操作/探索",
+      "超廣角鏡頭視角",
+      "未來科技實驗室",
+      "貓咪伸爪輕觸",
+      "印度胡里節相關場景",
+      "充氣PVC材質物件",
+      "霓虹螢光色彩",
+      "雙色調畫面呈現",
+      "蝴蝶光照明",
+      "天然木紋質感",
+      "戲劇性透視變形",
+      "塵土飛揚的環境",
+      "晶瑩剔透/冰晶質感"
+    ]
   }
 ]
