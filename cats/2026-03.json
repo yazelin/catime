@@ -4142,5 +4142,37 @@
     },
     "comment_id": 4011484460,
     "prompt": "Colorful manga page illustration style, reminiscent of a four-panel comic strip aesthetic, with expressive characters and a touch of classical elegance. A fluffy white Persian cat, its fur and paws wonderfully splattered with bright paint powders, is depicted with intense focus, meticulously stirring vibrant magenta gulal powder in a large, ornate brass bowl. The scene unfolds in a radiant, sun-drenched Indian courtyard with a highly polished marble floor, surrounded by an energetic palette of other high-saturation, vivid color pigment bowls. The composition is perfectly symmetrical, featuring a centered subject with mirror-like balance, framed architecturally. The background subtly blurs into a joyful, celebrating crowd. Cinematic lighting bathes the scene in golden evening light, casting dramatic shadows and volumetric light rays, creating a high dynamic range and film-quality mood. The polished marble surface exhibits natural vein patterns, conveying a luxurious stone texture with a cool, smooth finish. The overall image bursts with high saturation vivid colors and bold vibrant hues, creating eye-catching contrast. Visually display the text '2026-03-06 12:30 UTC' within the image."
+  },
+  {
+    "idea": "在一個荒廢的粗獷主義混凝土街機廳中，一隻貓咪專注地撥弄著故障的搖桿，背景是無限延伸、重複衰敗的街機走廊，在合成波的褪色光影中，形成遞迴構圖。",
+    "prompt": "A candid shot of a black cat, its paws gently nudging a broken joystick on an old, non-functional arcade machine, set in an abandoned brutalist concrete arcade hall. The scene is lit with dramatic Rembrandt lighting, a single light source from a high window casting a signature triangle of light on the cat's shadowed cheek, creating dramatic chiaroscuro. In the background, decaying arcade corridors extend infinitely, forming a recursive Droste effect, a self-referential loop of repeating machines under a faded synthwave glow of purple-pink and blue. This retro-futuristic scene, reminiscent of 1980s sci-fi nostalgia, showcases raw concrete textures, a rough aggregate surface, and industrial minimalism. The color palette is retro faded, with washed-out vintage tones and low contrast, imbued with nostalgic film-era warmth. The text '2026-03-06 13:45 UTC' is visually displayed on a nearby faded screen or as a subtle holographic overlay. Photographed with a 35mm lens, f/1.8, using natural light combined with a subtle synthwave glow, shallow depth of field, and visible film grain.",
+    "story": "夕陽的餘暉透過高窗，為老舊的街機廳鍍上一層褪色的紫粉與藍色。一隻黑貓在其中一台停擺的機器前，爪子輕柔地試圖喚醒那沉睡的遊戲。倫勃朗式的光線在牠臉頰投下微弱的光斑，而後方無盡重複的機器幻影，如同一個被遺忘的夢境。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Concrete",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 717,
+    "title": "殘光遊戲夢",
+    "comment_id": 4011848505,
+    "avoid_list": [
+      "貓咪專注於精細操作",
+      "窄束聚光燈搭配高對比光影",
+      "超廣角鏡頭視角帶有戲劇性變形",
+      "復古褪色調與低對比暖色",
+      "經典三點打光",
+      "柔和蝴蝶光營造臉部對稱陰影",
+      "分割畫面與銳利垂直分界線",
+      "未來感/科技實驗室場景",
+      "新藝術或裝飾藝術風格",
+      "漂浮或懸浮的物體/場景",
+      "螢光或霓虹發光效果",
+      "具可見紋理的材質表面",
+      "可見底片顆粒與類比雜訊"
+    ],
+    "inspiration": "original"
   }
 ]
