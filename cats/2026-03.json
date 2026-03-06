@@ -4072,5 +4072,37 @@
       "塵土飛揚的環境",
       "晶瑩剔透/冰晶質感"
     ]
+  },
+  {
+    "news_inspiration": [],
+    "story": "冬日清晨，溫室裡的植物皆被體素冰霜覆蓋，貓咪毛茸茸的身影映襯著窗外初升的暖陽。牠熟練地攪拌著鍋中的特製暖茶，準備在寒冷的日子裡為自己和園丁帶來一絲溫暖與慰藉。空氣中彌漫著溫和的香氣。",
+    "idea": "在一個充滿冰霜結晶紋理的體素/我的世界風格溫室中，一隻毛茸茸的薑黃色虎斑貓正從俯瞰視角看去，專注地攪拌著一鍋冒著琥珀色蒸氣的暖色調藥草茶。三點打光輕柔地勾勒出溫暖的光影。",
+    "title": "暖室燉茶",
+    "comment_id": 4011154470,
+    "avoid_list": [
+      "貓咪專注於精細操作",
+      "窄束聚光燈搭配高對比光影",
+      "超廣角鏡頭視角帶有戲劇性變形",
+      "復古褪色調與低對比暖色",
+      "經典三點打光",
+      "柔和蝴蝶光營造臉部對稱陰影",
+      "分割畫面與銳利垂直分界線",
+      "未來感/科技實驗室場景",
+      "新藝術或裝飾藝術風格",
+      "漂浮或懸浮的物體/場景",
+      "螢光或霓虹發光效果",
+      "具可見紋理的材質表面",
+      "可見底片顆粒與類比雜訊"
+    ],
+    "prompt": "A playful 3D render in Minecraft-style voxel art, featuring pixelated cubes and blocky textures. From a bird's-eye view, a top-down perspective looking straight down, a fluffy turmeric tabby cat with blocky fur is diligently stirring a pot of warm-toned herbal tea, emitting amber-colored steam. The scene is set inside a greenhouse, where the voxel plants and structures are covered in intricate ice crystal formations, delicate frost patterns, frozen surface textures, and translucent ice shards, showcasing winter crystalline beauty. Clean lighting with a classic three-point lighting setup illuminates the scene, utilizing a key light with soft shadows, a fill light, and a subtle rim light for separation, gently outlining warm light and shadow. The overall aesthetic features a warm amber color grading, an autumn palette of golden yellows and burnt orange, evoking a cozy nostalgic warmth. The date and time '2026-03-06 11:20 UTC' are clearly and visually displayed within the image.",
+    "number": 715,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Bird's-Eye View",
+      "lighting": "Three-Point Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
