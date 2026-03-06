@@ -6380,5 +6380,18 @@
     "number": 722,
     "character": "lingling",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-06_1830_UTC.webp"
+  },
+  {
+    "number": 723,
+    "inspiration": "original",
+    "timestamp": "2026-03-06 19:27 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "is_seasonal": true,
+    "character_name": "船長",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-06_1927_UTC.webp",
+    "season": "spring",
+    "title": "啟航風語"
   }
 ]

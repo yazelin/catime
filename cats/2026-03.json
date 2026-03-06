@@ -4355,5 +4355,41 @@
       "color_palette": "Earth Tones"
     },
     "idea": "鈴鈴在一間以歐普藝術風格裝飾的摺紙甜點店裡，笨拙地重新堆疊著大地色系的摺紙甜點，一道體積光穿透而過，營造出視覺遞迴的奇幻效果。"
+  },
+  {
+    "number": 723,
+    "inspiration": "original",
+    "is_seasonal": true,
+    "story": "春日清晨，漁港在橘紅與深藍的強烈對比中甦醒，漁船引擎的聲響劃破寧靜。船長穩穩地立於高處，牠的 V 型缺口左耳隨著海風微動，蓬亂的毛髮和長白鬍鬚在聚光燈下更顯威風。牠沉穩地望著遠方，彷彿在無聲地為出海的漁民們送行，守護著這片碼頭的貓群與牠的領地，展現其身為老大、卻又講義氣的霸氣。",
+    "avoid_list": [
+      "UTC日期時間顯示",
+      "貓咪專注神情",
+      "懷舊溫暖氛圍",
+      "經典三點打光",
+      "復古褪色色調",
+      "柔和陰影",
+      "溫暖琥珀色調",
+      "高對比與豐富色調",
+      "底片顆粒感",
+      "新印象派點描法風格",
+      "微縮立體模型/移軸效果",
+      "溫室場景",
+      "豐富木紋質感"
+    ],
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Spotlight",
+      "texture": "Paper Texture",
+      "color_palette": "Duotone"
+    },
+    "character": "captain",
+    "idea": "船長以野獸派風格呈現，在一幅等距3D插圖中，牠雄偉地站在春日漁港碼頭最高的繫纜柱上，海風吹拂著牠粗獷的毛髮和飄逸的白鬍鬚，翠綠的右眼銳利地凝視著駛向遠洋的漁船。畫面採用紙質肌理和橘紅與深藍的雙色調，聚光燈戲劇性地打亮牠堅毅的身影。",
+    "comment_id": 4013648988,
+    "character_name": "船長",
+    "season": "spring",
+    "prompt": "3D isometric illustration, Fauvism art style. A majestic, large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes and a broad, muscular build, standing proudly on the highest mooring post of a spring fishing port dock. The cat's scruffy, untidy, slightly coarse fur with uneven lengths, and long white whiskers are swept by the sea breeze. Its LEFT eye (viewer perspective) is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E, with absolutely NO fabric or leather eye patch or straps. Its single piercing RIGHT eye is emerald green #50C878, gazing sharply towards distant fishing boats. A prominent V-shaped notch is on its LEFT ear. A faded red #CD5C5C bandana is tied loosely around its neck. It has a white #FFFFFF chest bib and white mitten paws on all four feet, a distinctive M-mark on its forehead, and a thick, sturdy tail. The spring dock environment features clean geometric forms. The lighting is a dramatic narrow beam spotlight, creating sharp light edges and deep darkness falloff, highlighting the cat's resolute figure against the dark background. The entire image uses a duotone color treatment, with only contrasting orange-red and deep blue for bold graphic impact and a modern design feel. The artwork displays a textured paper surface with visible fiber grain, imparting a tactile warmth and a kraft or watercolor paper feel. The overall rendering combines simplified forms with a polished, playful style. Visually displayed on a dock sign: '2026-03-06 19:27 UTC'.",
+    "news_inspiration": [],
+    "title": "啟航風語"
   }
 ]
