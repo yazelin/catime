@@ -4604,5 +4604,45 @@
       "全球各地於3月3日迎來一場月全食，為世界各地觀星者帶來迷人的天文奇觀。",
       "世界各地於3月6日至7日響應「全球斷網日」，鼓勵人們暫時放下電子設備，享受真實生活中的連結。"
     ]
+  },
+  {
+    "title": "活體書卷",
+    "comment_id": 4015574520,
+    "avoid_list": [
+      "貓咪專心致志",
+      "粗獷混凝土工業風",
+      "等距或正交投影",
+      "背光勾勒輪廓",
+      "直射閃光燈硬影",
+      "復古褪色色調",
+      "遞迴影像德羅斯特效應",
+      "雙色調處理",
+      "微型物件",
+      "冷冽冰冷色調",
+      "摺紙藝術",
+      "戲劇性光影",
+      "光滑表面反射",
+      "技術插畫風格"
+    ],
+    "inspiration": "original",
+    "prompt": "An illustration in a biopunk aesthetic, organic-mechanical hybrid style. The scene depicts an ancient living archive, dominated by towering organic bookshelves crafted from natural wood with a deep grain texture, rich warm tones, visible knots and lines, and an organic tactile surface. Winding bioluminescent elements and mutated flora intertwine throughout the architecture. Overhead fluorescent lighting provides a neutral white 5000K, institutional flat illumination with no shadows, creating a crisp, serene, and calm atmosphere. The overall color grading is cool blue-teal with icy undertones. Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat with satin-sheen fur showing warm brown undertones in direct light, athletic proportions, visible muscle definition, and a slight upward curl at the tail tip, elegantly perches atop the organic bookshelves. Her LEFT ear features a single small gold hoop earring #FFD700 (3mm) at the mid-ear edge. A tiny natural white locket tuft #FFFFFF marks her ventral chest. Her tail tip has a single dark-grey #696969 ring. Her large luminous golden-amber #D4A017 eyes, like polished amber gems, are set beneath long prominent white whiskers. Her expression is calm and attentive. The image uses a split view composition with a sharp vertical cut line: the left half is a photorealistic rendering, showing Momo silently integrating into the shadows, a proud and serene pose as she surveys the scene. The right half is a precise wireframe diagram, focusing on her intensely 'reading' a central pulsating living data node that glows with cool blue-teal cold light. The date and time '2026-03-07 04:54 UTC' are visually displayed in the image.",
+    "news_inspiration": [
+      "在印度各地，人們慶祝色彩繽紛的胡里節（Holi），互相潑灑彩色粉末，歡慶春天、喜悅及善戰勝惡。",
+      "科學家在巴布亞印尼的佛格爾科普半島偏遠雨林中，發現了兩種被認為已滅絕六千多年的有袋動物。",
+      "在紐西蘭附近的豪勳爵海嶺，發現了古老的深海珊瑚，為對抗工業捕魚的破壞提供了新的海洋保護希望。",
+      "義大利米蘭-科爾蒂納的2026年冬季奧運會，女性運動員佔總數的47%，成為奧運史上性別最平衡的一屆冬奧會。"
+    ],
+    "idea": "在一個充滿生物朋克（Biopunk）風格的古老活體檔案館中，墨墨優雅地棲息於高聳的有機書架頂端，牠的身影透過分割畫面構圖呈現，凝視著一個閃爍著藍青色冷光的脈動活體資料節點。",
+    "number": 730,
+    "character_name": "墨墨",
+    "story": "在日光燈般柔和且帶有冷色調（藍青）的螢光照明下，這個檔案館的牆壁與書架顯現出深邃的木紋質感，與其間蜿蜒的生物發光管道交織。墨墨左耳的金色耳環在光線下若隱若現，牠的身體像融入黑暗的影子般無聲無息。一個畫面展現牠高傲而沉靜地俯瞰一切的姿態，另一個畫面則聚焦於牠那雙琥珀色眼眸，如何專注地『閱讀』著那脈動著古老知識的有機生物屏幕。",
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Split View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "character": "momo"
   }
 ]
