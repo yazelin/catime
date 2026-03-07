@@ -6608,5 +6608,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-07_2013_UTC.webp",
     "timestamp": "2026-03-07 20:13 UTC",
     "season": "spring"
+  },
+  {
+    "inspiration": "original",
+    "timestamp": "2026-03-07 21:11 UTC",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-07_2111_UTC.webp",
+    "title": "霓虹港灣啟航",
+    "is_seasonal": true,
+    "season": "spring",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "character": "captain",
+    "number": 747
   }
 ]
