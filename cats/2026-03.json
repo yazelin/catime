@@ -5084,5 +5084,47 @@
     "title": "港畔電音貓神",
     "story": "震耳欲聾的低音震動著空氣，舞台邊緣的薑黃色虎斑貓不為所動，牠優雅地蹲伏在閃爍著金屬光澤的黑色飛行箱頂，前爪隨著音樂節奏在空氣中輕輕揮舞，彷彿自己才是掌控全場的電音之神。螢光燈的冷光與遠處舞台金色的燈光交織，映照出牠眼中對節拍的深刻理解，構成一幅都市叢林中意外的節奏肖像。",
     "idea": "在維多利亞港DJ Snake露天音樂會的喧囂後台邊緣，一隻薑黃色虎斑貓在一堆專業音響器材上，模仿DJ的動作，神情專注地「混音」，以街頭攝影的分割畫面捕捉這金色與黑色奢華、帶有紙質肌理的螢光燈下奇景。"
+  },
+  {
+    "idea": "以3D Q版/盲盒藝術風格呈現，主角麻糬在一場充滿異國風情的國際美食節攤位上，好奇地探頭凝視著一個高亮度的不鏽鋼熱食保溫蓋，圓潤的蓋面如鏡子般反射出牠圓滾滾的呆萌臉龐與繽紛多樣的異國小吃，形成一幅獨特的鏡子自拍構圖。",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "prompt": "A 3D chibi blind box character, C4D rendering, cute Q-version illustration of Mochi, a chubby, rounded shorthair cat. Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches. Its RIGHT half-face (viewer perspective) has an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; its LEFT face is entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, while its LEFT front paw is pure white #FFFFFF. Mochi has a white belly, large round amber #FFBF00 eyes, and a pink #FFB6C1 nose with a tiny orange center dot. Its tail features orange-and-white ringed bands, and it has short stubby legs and a spherical torso. Mochi's orange patches are solid, with no tabby stripes. The cat is at an international food festival booth, peeking curiously over the edge of a stall. Its large amber eyes are fixed on a highly reflective, high-brightness stainless steel hot food warmer lid. The smooth, rounded lid acts as a mirror, reflecting Mochi's round, innocent face and wide, eager eyes in a unique mirror selfie composition. Surrounding the reflection are vibrant, diverse exotic snacks. The composition uses an intimate close-up perspective with casual framing, ensuring the visible reflection is prominent. The scene is lit with soft studio lighting, employing a classic three-point lighting setup: a key light creating soft shadows, a fill light, and a subtle rim light for separation, highlighting the orange mitten on the right paw. The booth's surface or backdrop features a woven fabric texture with visible threads, a linen or cotton weave pattern, and a tactile soft appearance. The overall color scheme is an energetic palette with high saturation vivid colors, bold vibrant hues, and eye-catching contrast. Visually display the text '2026-03-07 17:12 UTC' clearly within the image.",
+    "inspiration": "美國威斯康辛州麥迪遜市的奧弗徹中心舉辦國際文化節，透過30多場免費表演和多國美食慶祝社區的多元文化遺產。",
+    "title": "鏡中萌影",
+    "story": "在熱鬧非凡的國際文化節上，貪吃的麻糬被各國美食的濃郁香氣所吸引，牠憑著圓胖的身軀靈活地鑽進一個販售多國風味小吃的攤位。牠的琥珀色大圓眼緊盯著一個閃閃發光的熱食保溫蓋，蓋上倒映出牠因渴望而放大的呆萌雙眼，右前腳橘色手套般的花紋在光線下顯得格外醒目，彷彿牠正專心為自己與眼前的美食「合影留念」。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "清冷藍青色調與沉靜氛圍",
+      "黑貓為主要角色",
+      "復古海報藝術風格",
+      "鏡子自拍構圖",
+      "戲劇性倫勃朗光照",
+      "魚眼鏡頭與桶狀畸變",
+      "有機觸感木紋理",
+      "磨砂玻璃質感",
+      "貓咪爪子精細互動",
+      "粗獷主義混凝土牆",
+      "金色邊緣光與背光",
+      "世紀中期現代設計元素",
+      "淺景深效果",
+      "溫暖大地色系",
+      "電影感光照與戲劇性陰影"
+    ],
+    "news_inspiration": [
+      "英國倫敦大學學院的研究人員發現了一種可能預防糖尿病性失明的蛋白質，為未來的治療帶來希望。",
+      "美國威斯康辛州麥迪遜市的奧弗徹中心舉辦國際文化節，透過30多場免費表演和多國美食慶祝社區的多元文化遺產。",
+      "印度庫諾國家公園證實獵豹Gamini生下了第四隻幼崽，標誌著該國「獵豹計畫」在野生動物保育方面的又一個里程碑。",
+      "2026年米蘭-科爾蒂納帕運會冬季運動會在義大利舉行，成為有史以來轉播最廣泛的帕運會冬季運動會，覆蓋全球126個國家。",
+      "科學家們研究發現，南極洲下方一個奇特的「重力洞」是由地球深處岩石歷經數千萬年的緩慢移動所形成。"
+    ],
+    "comment_id": 4016952034,
+    "number": 743
   }
 ]
