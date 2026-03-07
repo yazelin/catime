@@ -6458,5 +6458,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-07_0454_UTC.webp",
     "character_name": "墨墨",
     "character": "momo"
+  },
+  {
+    "number": 731,
+    "timestamp": "2026-03-07 05:31 UTC",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-07_0531_UTC.webp",
+    "title": "胡里舞鏡映",
+    "inspiration": "印度各地正在歡慶色彩繽紛的胡里節（Holi），這項充滿活力的節日象徵著春天、歡樂以及正義戰勝邪惡。",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

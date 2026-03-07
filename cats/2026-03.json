@@ -4644,5 +4644,44 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "character": "momo"
+  },
+  {
+    "number": 731,
+    "avoid_list": [
+      "貓咪專心致志",
+      "粗獷混凝土工業風",
+      "等距或正交投影",
+      "背光勾勒輪廓",
+      "直射閃光燈硬影",
+      "復古褪色色調",
+      "遞迴影像德羅斯特效應",
+      "雙色調處理",
+      "微型物件",
+      "冷冽冰冷色調",
+      "摺紙藝術",
+      "戲劇性光影",
+      "光滑表面反射",
+      "技術插畫風格"
+    ],
+    "story": "胡里節的狂歡剛過，小貓「橘子」跑回庭院，牠的淺色毛髮上點綴著粉色與綠色的蠟筆狀彩粉。牠湊近一面古老的木框鏡子，好奇地審視著自己，並伸出爪子彷彿要按下快門，準備記錄下這充滿喜悅的瞬間。鏡子邊緣的結晶紋路在陽光下閃爍，為這童趣的畫面增添一絲奇幻。",
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "在一幅蠟筆兒童畫風格的場景中，一隻毛色被胡里節彩粉輕輕染色的貓咪，正以鏡子自拍構圖的方式，在灑滿午後暖陽的土屋庭院裡，對著一面帶有冰霜結晶紋路裝飾的古樸鏡子擺拍，整體籠罩在柔和的大地色系電影感打光中。",
+    "comment_id": 4015638960,
+    "prompt": "A vibrant illustration in crayon drawing style, featuring a childlike hand-drawn look with bright cheerful colors on a warm paper background. An intimate close-up perspective of a cute cat, its light-colored fur delicately stained with pink and green crayon-like Holi powder, engaged in a mirror selfie composition. The cat extends a paw as if to press a shutter, its reflection clearly visible in an ancient, rustic mirror. The mirror's wooden frame is adorned with delicate frost patterns, intricate ice crystal formation, translucent ice shards, and hints of winter crystalline beauty. The scene unfolds in a rustic earthen house courtyard, bathed in soft afternoon sun with cinematic lighting, volumetric light rays, dramatic shadows, and a high dynamic range, evoking a film-quality mood. The overall color scheme adheres to an earth tone palette: terracotta, olive green, warm brown, creating a natural organic harmony. Visually display '2026-03-07 05:31 UTC' prominently in the image.",
+    "title": "胡里舞鏡映",
+    "news_inspiration": [
+      "國際研究團隊發現腦組織的物理特性如何透過感測蛋白質影響腦部連結，此研究成果由德國馬克斯普朗克光科學研究所發表。",
+      "印度各地正在歡慶色彩繽紛的胡里節（Holi），這項充滿活力的節日象徵著春天、歡樂以及正義戰勝邪惡。",
+      "澳洲帕運單板滑雪隊伍大幅擴編，隊員們正準備在義大利米蘭-科爾蒂納冬奧會上展現最佳表現。",
+      "科學家在紐西蘭附近的豪勳爵海隆發現了古老的深海珊瑚，為其免受破壞性捕魚的威脅帶來了保護希望。",
+      "智利成為美洲第一個經世界衛生組織驗證已消除麻風病的國家。"
+    ],
+    "inspiration": "印度各地正在歡慶色彩繽紛的胡里節（Holi），這項充滿活力的節日象徵著春天、歡樂以及正義戰勝邪惡。"
   }
 ]
