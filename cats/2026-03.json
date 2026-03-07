@@ -5326,5 +5326,44 @@
       "街頭攝影風格",
       "貓咪專注操作/觀察"
     ]
+  },
+  {
+    "avoid_list": [
+      "倫勃朗光影",
+      "強烈輪廓光",
+      "金與黑奢華氛圍",
+      "魚眼鏡頭與桶狀畸變",
+      "淺景深效果",
+      "冷調藍青色系氛圍",
+      "高飽和鮮豔色彩",
+      "紙質/織品質感紋理",
+      "木紋細節",
+      "黑貓角色",
+      "貓咪凝視/觀察倒影",
+      "復古/舊時代場景",
+      "街頭攝影風格",
+      "貓咪專注操作/觀察"
+    ],
+    "story": "在烈日炙烤的未來塞維利亞，僅存的古代智慧被精心維護。這隻聰明的貓咪，牠的任務是確保流水系統的精準運作，以3000年前的方法為城市帶來清涼。牠輕巧地撥動齒輪，讓一絲清澈的幾何狀水流穿梭於錯綜的粉彩水道間，為這座古老的低多邊形宮殿帶來一絲生機。",
+    "title": "流光古水閘",
+    "number": 749,
+    "idea": "一隻毛絨絨的波斯貓在一座低多邊形、粉彩色系的等距3D巴洛克式庭院中，利用日光燈照明，細心地調節著一套古老的冷卻水閘。",
+    "news_inspiration": [
+      "智利成為美洲第一個經世界衛生組織驗證已消除麻風病的國家。",
+      "印度庫諾國家公園在密切監測後證實獵豹Gamini的第四隻幼崽出生，為「獵豹計畫」再添里程碑。",
+      "西班牙塞維利亞市正重新啟用3000年前的古老方法來對抗極端高溫。",
+      "加拿大撥款5000萬美元，用於建立該國第一所由因紐特人主導的大學。",
+      "2026年世界拳擊未來盃的賽程已公布，比賽將於3月8日在泰國曼谷展開。"
+    ],
+    "prompt": "An isometric 3D illustration in a low-poly style, featuring a fluffy Persian cat meticulously adjusting an ornate, ancient cooling water gate mechanism. The scene is set within an exuberant, grand Baroque-style courtyard, rendered with polygon mesh facets and flat shaded triangular faces, giving a distinct digital origami aesthetic. The geometric crystalline surface of the architecture showcases clean geometric forms and rich, intricate pastel waterways, where a stream of clear, geometric water flows. The color palette is soft pastel, incorporating gentle pink, lavender, mint, and baby blue tones, creating a dreamy light ambiance. Illumination is provided by overhead fluorescent lighting, neutral white 5000K, offering institutional flat illumination with no shadows, emphasizing the polished playful rendering. The date and time '2026-03-07 23:12 UTC' are clearly displayed within the image.",
+    "inspiration": "西班牙塞維利亞市正重新啟用3000年前的古老方法來對抗極端高溫。",
+    "comment_id": 4017611353,
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Pastel Colors"
+    }
   }
 ]
