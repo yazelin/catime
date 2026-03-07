@@ -4825,5 +4825,37 @@
     "prompt": "A tabby cat, wearing slightly tilted spectacles, meticulously repairs a broken film reel inside an old film projection room. The scene is rendered in a vintage poster art style, incorporating mid-century modern design elements. A dramatic Rembrandt lighting setup illuminates the cat, with a single light source casting a signature triangle of light on its shadowed cheek, creating strong chiaroscuro. The old editing machine emits a cool blue-teal glow, reflecting icy undertones across the scene. The entire composition utilizes a Tilt-shift photography effect, creating a selective focus band that emphasizes the miniature, toy-like appearance, with blurred foreground and background. The visual texture features a fine sand texture, reminiscent of desert dune ripples and warm golden granules, adding natural grain detail and a wind-sculpted pattern, enhancing the nostalgic quality. The color grading is predominantly cool blue-teal with vibrant saturated colors from a retro palette, evoking a crisp, serene, and calm mood. The date and time '2026-03-07 09:19 UTC' are visually displayed within the image.",
     "comment_id": 4016072635,
     "idea": "在「復古海報」藝術風格的畫面中，一隻戴著微傾眼鏡的虎斑貓，正透過移軸微縮效果呈現的舊電影放映室裡，專心致志地修復一捲破損的電影膠片。"
+  },
+  {
+    "number": 736,
+    "avoid_list": [
+      "正交投影技術插畫",
+      "貓咪精準操作微型物件",
+      "蝴蝶光人像打光",
+      "冷調藍青色系",
+      "磨砂玻璃質感",
+      "鏡子自拍構圖",
+      "超廣角鏡頭透視變形",
+      "無影螢光燈照明",
+      "粗獷主義混凝土美學",
+      "柔和粉彩色系",
+      "大地色系",
+      "亮面塑膠/液態金屬/樹脂質感",
+      "深海主題場景"
+    ],
+    "title": "螢光貓戲珠",
+    "news_inspiration": [],
+    "idea": "以賽璐璐著色風格呈現，一隻優雅的黑貓正在霓虹螢光色調的未來復古街機廳裡，聚精會神地玩著彈珠台。整個場景透過魚眼鏡頭捕捉，周圍的玻璃/水晶質感反射出劇烈的霓虹光影，並以倫勃朗光法加強了貓咪臉部的戲劇性。",
+    "comment_id": 4016171518,
+    "inspiration": "original",
+    "story": "夜幕低垂，「極光遊戲間」裡閃爍著迷幻的霓虹。黑貓「午夜」的目光緊盯著彈珠台上的銀球，牠靈敏的肉墊輕觸著按鈕，每一擊都精準而充滿力量。周圍玻璃牆折射的光線與牠眼中堅定的光芒交織，創造出一個充滿動感的螢光時刻。",
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Fisheye Lens",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "Cel shaded art, anime game look: An elegant black cat, named 'Midnight', intently playing a pinball machine in a future-retro arcade, 'Aurora Games'. The cat's agile paw lightly touches the buttons, making precise and powerful strikes. The entire scene is captured with a fisheye wide-angle lens, creating strong barrel distortion and an exaggerated foreground that conveys a 360-degree feel. Dramatic Rembrandt lighting on the cat's face, with a single light source positioned at 45 degrees, casts a signature triangle of light on its shadowed cheek, enhancing the chiaroscuro effect. The arcade is bathed in vibrant neon fluorescent colors, including electric pink, lime green, and hot cyan, glowing intensely against a dark background. Surrounding transparent glass and crystalline surfaces reflect and refract these strong neon lights, creating dynamic prismatic reflections and sharp shadow edges. The date and time '2026-03-07 10:13 UTC' are visually displayed within the image, subtly integrated into the glowing environment."
   }
 ]
