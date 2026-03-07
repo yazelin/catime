@@ -5005,5 +5005,44 @@
     "comment_id": 4016592969,
     "story": "小橘貓「墨丸」是印刷作坊裡最靈巧的助手，牠的每一次壓印都帶著職人的嚴謹。陽光透過紙窗，為專注的牠與古老的機械鍍上一層柔和光暈，背景裡其他工匠的忙碌剪影更添幾分生活氣息。",
     "prompt": "An orange tabby cat intently operates a miniature woodblock printing press inside an Edo period ukiyo-e print shop. The image is designed in an ukiyo-e Japanese woodblock print style mixed with a technical illustration style. It features orthographic projection, no perspective distortion, and straight-on flat rendering. Bold outlines define flat color areas. Cinematic lighting with dramatic shadows and volumetric light rays creates a high dynamic range and film-quality mood; soft sunlight filters through paper windows, illuminating the scene and the cat's focused expression. The entire visual presents a woven fabric texture with visible threads, evoking a linen or cotton weave pattern and a tactile soft appearance. A duotone color treatment uses only deep indigo and off-white for a bold graphic impact and modern design feel. Busy silhouettes of other artisans are visible in the background. Visually displayed in the image: '2026-03-07 14:15 UTC'."
+  },
+  {
+    "avoid_list": [
+      "清冷藍青色調與沉靜氛圍",
+      "黑貓為主要角色",
+      "復古海報藝術風格",
+      "鏡子自拍構圖",
+      "戲劇性倫勃朗光照",
+      "魚眼鏡頭與桶狀畸變",
+      "有機觸感木紋理",
+      "磨砂玻璃質感",
+      "貓咪爪子精細互動",
+      "粗獷主義混凝土牆",
+      "金色邊緣光與背光",
+      "世紀中期現代設計元素",
+      "淺景深效果",
+      "溫暖大地色系",
+      "電影感光照與戲劇性陰影"
+    ],
+    "comment_id": 4016680947,
+    "idea": "一隻優雅的暹羅貓置身於一間奢華的裝飾藝術風格書房中，黃金時刻的陽光灑落，牠正「監督」著一組以排攝風格精心擺放的地質探險工具和岩石樣本。",
+    "inspiration": "科學家們今日揭示了南極洲下方存在「重力洞」的奧秘，原來是由地球深處緩慢移動的岩石所造成。",
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Knolling Photography",
+      "lighting": "Golden Hour",
+      "texture": "Wood Grain",
+      "color_palette": "Earth Tones"
+    },
+    "number": 741,
+    "story": "在一個充滿裝飾藝術風格的宏偉書房裡，夕陽的金色光芒透過幾何圖案的窗戶，照亮了深色木鑲板。一隻奶油色的暹羅貓端莊地坐在拋光的書桌中央，周圍是按照排攝風格整齊陳列的古董科學儀器和南極地質樣本，牠凝視著一枚黃銅羅盤，彷彿在沉思地球深處的奧秘。",
+    "prompt": "A meticulously composed flat lay photograph, captured from an overhead perspective, showcasing a luxurious Art Deco study during golden hour. A warm sunset glow permeates the scene through geometric patterned windows, illuminating the deep, natural wood grain desk with its visible knots and lines, creating rich warm tones and an organic tactile surface. Long, soft shadows stretch across the clean background of the desk. Centered elegantly, a cream-colored Siamese cat, its fur touched by a golden rim light from the low sun, sits composedly, its gaze fixed upon a gleaming brass compass. Surrounding the cat, a perfect knolling arrangement of vintage geological exploration tools and diverse earth tone rock samples—terracotta, olive green, warm brown—are meticulously placed at precise 90-degree angles, forming an organized grid, reflecting natural organic harmony. This tableau exudes 1920s elegance and luxurious symmetry, with a prominent gold and black palette in the room's Art Deco furnishings. The date and time '2026-03-07 15:12 UTC' is visibly displayed on a small, vintage-style digital desk clock positioned within the arrangement. Shot with a 35mm lens, aperture f/2.8, using only natural light, with a sharp focus on the foreground elements, creating a true-to-life photographic rendering.",
+    "news_inspiration": [
+      "立陶宛維爾紐斯正在舉辦年度的卡濟米拉斯市集，展示當地工藝品和傳統文化。",
+      "2026年米蘭-科爾蒂納冬季帕拉林匹克運動會於3月6日在義大利維羅納盛大開幕，來自55個國家和地區的600多名運動員將爭奪獎牌。",
+      "科學家們今日揭示了南極洲下方存在「重力洞」的奧秘，原來是由地球深處緩慢移動的岩石所造成。",
+      "德州奧斯汀的物理學家們實驗證實了1970年代預測的奇特磁渦流現象，這有助於二維磁性行為的理解。"
+    ],
+    "title": "南極探勘．黃金時刻"
   }
 ]
