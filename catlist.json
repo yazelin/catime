@@ -6740,5 +6740,14 @@
     "model": "gemini-3-pro-image-preview",
     "number": 760,
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-08_1415_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "韓國基礎科學研究所的物理學家們於三月初發現了鉬-84原子核中一個意想不到的「反轉島」，挑戰了核物理學的長期假設。",
+    "timestamp": "2026-03-08 14:15 UTC",
+    "title": "懸浮之核，反轉奧秘",
+    "status": "success",
+    "number": 761
   }
 ]
