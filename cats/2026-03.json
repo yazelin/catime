@@ -5697,5 +5697,43 @@
       "視覺化顯示日期時間",
       "宇宙觀測站/星象圖背景"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Split View",
+      "lighting": "Neon Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 759,
+    "avoid_list": [
+      "等距3D插圖",
+      "低多邊形/數位摺紙美學",
+      "貓咪專注操作機械/面板",
+      "柔和粉彩色系",
+      "大理石紋理/奢華石材表面",
+      "半透明樹脂材質",
+      "溫暖琥珀色調",
+      "蝴蝶光/魅力肖像光",
+      "移軸微縮效果",
+      "聚光燈/高對比照明",
+      "簡潔幾何形狀",
+      "貓咪纖細/靈巧的爪子",
+      "視覺化顯示日期時間",
+      "宇宙觀測站/星象圖背景"
+    ],
+    "prompt": "A fluffy Maine Coon cat, rendered in a captivating alcohol ink art style, carefully observes newly hatched biological forms within a clear breeding box. The cat gently touches the crystalline glass of the incubator with its nose, its fur showing fluid vibrant colors and unpredictable organic patterns typical of alcohol ink. The scene is set inside a futuristic glass greenhouse, where the environment is presented with a bold split view composition: the left half features richly detailed, grounded forms of crystalline plants and glowing glass structures, while the right half depicts the same environment as an ethereal, abstract wireframe diagram, all unified by the vibrant, translucent layers and free-flowing movement of the alcohol ink medium. A sharp vertical cut line separates these two distinct artistic interpretations. Neon fluorescent colors – electric pink, lime green, hot cyan – emanate from the glowing signs and glass, casting brilliant reflections on wet-looking surfaces, showcasing light refraction and prismatic reflections with crystalline clarity against a dark, moody background. The entire image exudes a sense of restoration and hope, with colors subtly bleeding and merging, creating an unpredictable, organic flow. Visually displayed in the image: '2026-03-08 12:24 UTC'.",
+    "news_inspiration": [
+      "印度庫諾國家公園證實伽彌尼生下了第四隻幼崽，這是獵豹復育計畫的又一個里程碑。",
+      "西班牙塞維利亞市正重新採用3000年前的古老方法，利用地下水道來對抗極端高溫。",
+      "厄瓜多加拉巴哥公園野放了158隻幼年雜交陸龜，以幫助恢復當地生態系統。",
+      "美國紐約一家古董店的貨架上發現了一隻正在休息的睡眼惺忪的貓頭鷹。"
+    ],
+    "story": "這隻溫柔的緬因貓，是溫室的生態守護者。牠輕輕地用鼻尖觸碰培育箱的玻璃，彷彿在檢查裡面的小生命是否安好。玻璃和水晶般的植物在霓虹燈光下發出微光，整個空間瀰漫著復育希望的氣息，流動的色彩暈染開來。",
+    "title": "晶園新生護衛",
+    "comment_id": 4018958555,
+    "inspiration": "厄瓜多加拉巴哥公園野放了158隻幼年雜交陸龜，以幫助恢復當地生態系統。",
+    "idea": "在一個充滿霓虹螢光色的未來主義玻璃溫室中，一隻絨毛緬因貓正透過晶瑩的玻璃，仔細觀察一個培育箱裡新孵化的生物。此場景以酒精墨水藝術風格呈現，透過分割畫面構圖，展現霓虹燈光的流動與玻璃質感。"
   }
 ]
