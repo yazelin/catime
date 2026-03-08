@@ -5520,5 +5520,44 @@
       "閃光燈效果與底片顆粒",
       "Art Deco風格書房"
     ]
+  },
+  {
+    "idea": "以微距攝影捕捉，一隻貓在月光下，正透過正交投影的視角，細緻地用爪子描繪一張古老的地圖，地圖呈現出紙質肌理與高飽和鮮豔色。",
+    "inspiration": "玻利維亞的亞馬遜雨林中，原住民社區成功創建了220萬英畝的新保護區，以保護當地豐富的生態系統。",
+    "title": "月下繪境",
+    "number": 754,
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Paper Texture",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "在玻利維亞亞馬遜雨林深處的一座開放式木屋內，皎潔的月光穿透稀疏的屋頂，灑落在斑駁的木桌上。一隻擁有鮮明條紋的短毛貓，目光專注地用尖細的爪子，沿著一張手工繪製、充滿原始森林與河流的地圖邊界緩緩劃過，彷彿在標記一條珍貴的保護區界線。地圖的紙質肌理在月光下纖毫畢現，圖上的翠綠、深藍與棕土色飽和而生動，與貓咪豐富的毛色形成鮮明對比。",
+    "news_inspiration": [
+      "印度各地於3月3日至4日慶祝色彩繽紛的灑紅節，迎接春天並象徵善惡的勝利。",
+      "義大利米蘭和科爾蒂納舉辦的2026年帕運冬季運動會於3月7日迎來獎牌賽事，奧地利選手韋羅妮卡和約翰內斯·艾格納在滑雪項目中奪得金牌。",
+      "衣索比亞首都阿迪斯阿貝巴正經歷旅遊業的蓬勃發展，國際遊客數量顯著增加。",
+      "玻利維亞的亞馬遜雨林中，原住民社區成功創建了220萬英畝的新保護區，以保護當地豐富的生態系統。",
+      "英國的研究人員在亨廷頓舞蹈症的治療上取得了突破性進展，一種新的基因療法在臨床試驗中顯示能顯著減緩疾病進程。"
+    ],
+    "comment_id": 4018557202,
+    "avoid_list": [
+      "等距3D插畫與低多邊形",
+      "織品紋理與觸感柔軟",
+      "電影感光線與體積光",
+      "奢華金黑配色與金屬點綴",
+      "柔和粉彩色調與夢幻氛圍",
+      "貓咪操作精密設備",
+      "鏡面反射與貓咪凝視倒影",
+      "未來科技實驗室或觀測站",
+      "無影平面照明與中性白螢光燈",
+      "Q版或盲盒角色風格",
+      "古老或歷史時期設定",
+      "親密特寫與隨性構圖",
+      "閃光燈效果與底片顆粒",
+      "Art Deco風格書房"
+    ],
+    "prompt": "Macro photograph, extreme close-up, a short-haired cat with distinct stripes, its sharp claw delicately tracing a boundary on an antique, hand-drawn map. The map is rendered with orthographic projection, no perspective distortion, and a straight-on flat view, exhibiting a technical illustration style. Fine textures and visible fiber grain are evident on its textured paper surface, resembling kraft or watercolor paper, conveying tactile warmth. The map features high saturation vivid colors, bold vibrant hues of emerald green, deep blue, and earthy brown, creating eye-catching contrast. Moonlight illumination casts cool blue tones and a gentle silvery glow, fostering a quiet nighttime atmosphere. Sharp detail on the cat's fur and the map, with shallow depth of field. The date and time '2026-03-08 07:24 UTC' is visibly displayed within the image."
   }
 ]
