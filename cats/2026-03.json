@@ -5960,5 +5960,43 @@
       "color_palette": "Retro Faded Tones"
     },
     "comment_id": 4019719309
+  },
+  {
+    "avoid_list": [
+      "未來感工作場景",
+      "貓咪專注修補/創作",
+      "酒精墨水藝術風格",
+      "彩飾手抄本藝術風格",
+      "黑光紫外光照明",
+      "冷調藍青色系",
+      "三點打光與輪廓光",
+      "黏土雕塑質感",
+      "對稱式構圖",
+      "金屬光澤/工業質感",
+      "魚眼或移軸視角",
+      "大地色系物件",
+      "剪影藝術風格",
+      "寧靜平穩的氛圍"
+    ],
+    "number": 766,
+    "inspiration": "國際研究團隊發現鉬-84中存在一個令人驚訝的「反轉島」，這挑戰了原子核結構的長期假設。",
+    "prompt": "A candid 35mm film photograph, shot with a macro lens at f/1.8 for a shallow depth of field, displaying a black cat delicately exploring a mysterious, oddly-shaped mineral with its paw. The mineral emits vibrant neon fluorescent colors – electric pink, lime green, and hot cyan – glowing with a luminous smooth surface against a dark, dusty old study background. The scene is set on an antique curiosity cabinet draped with a deep indigo silk fabric, featuring a luxurious sheen and flowing drape, catching delicate light reflections. Dramatic backlighting casts a strong rim light, outlining the cat's glowing silhouette edges. The overall composition employs a tilt-shift effect, creating a miniature diorama, a tiny detailed world with a toy-like scale model feel. Visible film grain, warm tones, and a nostalgic feel are present, accentuated by a slight vignette. The date and time '2026-03-08 19:15 UTC' are visually displayed in the image.",
+    "comment_id": 4019817076,
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Miniature Diorama",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Silk",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "霓虹奧秘",
+    "story": "在佈滿灰塵的舊書房角落，夜色沉降，鋪著深靛藍絲綢的桌面上，一塊塊形狀奇特的礦石發出幽微而強烈的霓虹光芒。黑貓輕巧地用前爪撥弄其中一顆，眼神專注而好奇，彷彿在解讀宇宙深處的祕密，挑戰著它對世界固有色彩的理解。",
+    "idea": "一隻黑貓在古老的奇珍櫃上，細緻地探查著散發霓虹螢光的神祕礦石，整體以35mm底片攝影風格呈現，如微縮立體模型般精巧。",
+    "news_inspiration": [
+      "義大利米蘭科爾蒂納2026年冬季奧運會將創下性別平等的全球新標準，女性運動員和賽事數量達到歷史新高。",
+      "國際研究團隊發現鉬-84中存在一個令人驚訝的「反轉島」，這挑戰了原子核結構的長期假設。",
+      "印度板球隊在艾哈邁達巴德舉行的決賽中以96分的優勢擊敗紐西蘭，贏得了創紀錄的第三個T20世界盃冠軍。",
+      "由於快速的種群增長，澳洲維多利亞州的無尾熊正在克服基因瓶頸，促進了有助於物種適應的新突變。"
+    ]
   }
 ]
