@@ -5482,5 +5482,43 @@
       "color_palette": "Retro Faded Tones"
     },
     "title": "星塵私語"
+  },
+  {
+    "news_inspiration": [
+      "智利成為美洲第一個經世界衛生組織驗證消除痲瘋病的國家，展現了公共衛生領域的重大成就。",
+      "印度庫諾國家公園證實又有一隻小獵豹誕生，是「獵豹計畫」的最新里程碑。",
+      "肯亞的農民在再生農業計畫下，取得了更健康的土壤和豐收，改善了農村生計。",
+      "全世界，包括加拿大卡瓦薩湖市，都在3月8日慶祝國際婦女節，以表彰女性的成就並推動性別平等。"
+    ],
+    "inspiration": "肯亞的農民在再生農業計畫下，取得了更健康的土壤和豐收，改善了農村生計。",
+    "story": "肯亞農村的一隅，再生農業計畫為這片土地帶來了前所未有的豐饒與希望。這隻被當地農民戲稱為「作物監察官」的橘貓，每天黎明時分便會開始牠的例行巡邏。牠的每一次輕嗅、每一次仔細凝視，都彷彿在確認著收成的品質，為這片充滿生機的綠意增添了一份獨特而溫馨的守護。",
+    "number": 753,
+    "prompt": "An orange tabby cat, serious and focused, meticulously inspects a row of vibrant, neatly arranged tomato plants in a sun-drenched community garden. The cat gently touches a healthy leaf with its nose. The image visually displays '2026-03-08 06:29 UTC'. The artwork is rendered with a sculpted clay texture and a handmade ceramic feel, featuring a matte surface with subtle imperfections. The composition utilizes orthographic projection, showcasing no perspective distortion and a straight-on flat rendering, consistent with a technical illustration style. Lighting features a warm, narrow beam spotlight dramatically illuminating the cat and plants, combined with a direct flash aesthetic, creating dramatic high-contrast with sharp light edges and deep darkness falloff. The overall visual style evokes a 1990s camera aesthetic with a nostalgic glow and slightly muted warm tones, as if captured with a 35mm lens. Colors adhere to a warm earthy tone palette, including terracotta, olive green, and warm brown, embodying natural organic harmony.",
+    "title": "豐收巡禮者",
+    "idea": "一隻橘色虎斑貓，神情嚴肅而專注，在一片陽光普照的社區菜園中，細緻地巡視一排生機盎然、架設整齊的番茄植株，用鼻子輕輕觸碰一片健康的葉子。整體畫面以 90 年代底片風格呈現，採用正交投影構圖，聚光燈溫暖地落在貓咪與植物上，影像帶有細膩的黏土/陶瓷質感，並沉浸在豐富的大地色系中。",
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Orthographic Projection",
+      "lighting": "Spotlight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 4018482158,
+    "avoid_list": [
+      "等距3D插畫與低多邊形",
+      "織品紋理與觸感柔軟",
+      "電影感光線與體積光",
+      "奢華金黑配色與金屬點綴",
+      "柔和粉彩色調與夢幻氛圍",
+      "貓咪操作精密設備",
+      "鏡面反射與貓咪凝視倒影",
+      "未來科技實驗室或觀測站",
+      "無影平面照明與中性白螢光燈",
+      "Q版或盲盒角色風格",
+      "古老或歷史時期設定",
+      "親密特寫與隨性構圖",
+      "閃光燈效果與底片顆粒",
+      "Art Deco風格書房"
+    ]
   }
 ]
