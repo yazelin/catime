@@ -5850,5 +5850,44 @@
     "idea": "在中國高科技室內滑雪場的深處，一隻穿著大地色系工裝的貓咪，在黑光螢光下，專注地檢查著人工造雪機的超寫實動漫風景象。畫面呈現對稱構圖與精緻的3D渲染質感。",
     "story": "夜幕低垂，巨大的室內滑雪穹頂內，只有紫外光線照亮著。一隻敏捷的暹羅貓，身著縫有螢光大地色線條的迷你制服，正用一對微型光譜儀細緻地掃描著剛剛噴灑出的人工雪花。牠專注地確保每一片雪花的結晶都完美無瑕，以維持滑雪道的最佳狀態。",
     "inspiration": "中國正大力發展高科技冬季旅遊產業，在浙江和廣東等地區投資人工造雪技術和室內滑雪場以促進旅遊和體育發展。"
+  },
+  {
+    "comment_id": 4019383984,
+    "inspiration": "科學家在太平洋的豪勳爵海嶺發現古老的深海珊瑚，為保護脆弱的海洋生態系統免受工業捕撈威脅帶來新希望。",
+    "news_inspiration": [
+      "印度各地於三月慶祝色彩繽紛的胡里節，象徵著春天、歡樂和良善戰勝邪惡。",
+      "科學家在太平洋的豪勳爵海嶺發現古老的深海珊瑚，為保護脆弱的海洋生態系統免受工業捕撈威脅帶來新希望。",
+      "來自德國馬克斯普朗克光科學研究所的國際研究團隊發現，大腦組織的硬度可以控制重要信號分子的產生，揭示了腦部布線的隱藏力量。",
+      "中國正在浙江和廣東等地區大力投資高科技冬季旅遊產業，發展人工造雪和室內滑雪度假村以推動旅遊業。",
+      "澳洲南雪梨兔隊橄欖球聯盟教練韋恩·班尼特呼籲球迷，在球員亞歷克斯·約翰斯頓打破達陣得分紀錄時，不要衝入場地。"
+    ],
+    "title": "深洋筆記",
+    "number": 763,
+    "idea": "一隻莊嚴的貓咪身著絲綢長袍，坐在一間古老而華麗的懸崖邊圖書館中，專心致志地用羽毛筆在打開的彩飾手抄本捲軸上繪製深海珊瑚礁的細節。整個場景以移軸微縮效果呈現，彷彿一個精心製作的黑白模型，在三點打光下顯得層次分明。",
+    "story": "在這座宏偉的海洋檔案館裡，『深海守護者』貓咪正將新發現的深海珊瑚細節謄寫於珍貴的彩飾手抄本上。牠的動作輕柔而精準，筆尖細膩地勾勒著脆弱的海洋生態，彷彿在為未來的探險者記錄一篇視覺史詩。窗外，單色的海景在微縮視角下顯得廣闊而神秘，暗示著無盡的探索與保護之路。",
+    "avoid_list": [
+      "貓咪專注修補/創作",
+      "溫暖琥珀色調",
+      "琥珀色背光/輪廓光",
+      "黏土/陶瓷質感",
+      "正交投影/技術插圖",
+      "移軸微縮效果",
+      "酒精墨水藝術風格",
+      "冷冽藍青色調",
+      "UV螢光/霓虹光芒",
+      "織物/布料細節",
+      "玻璃/晶體質感",
+      "復古/懷舊氛圍",
+      "液態金屬/流光表面",
+      "精準的光線描繪"
+    ],
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Three-Point Lighting",
+      "texture": "Silk",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "A realistic photograph of a dignified cat, garbed in luxurious silk robes (silk fabric texture, luminous smooth surface, delicate light reflections, flowing drape, luxurious sheen). The cat is seated in an ancient, opulent cliffside library, intently sketching deep-sea coral reef details with a delicate quill pen onto an open, intricately adorned illuminated manuscript scroll (Illuminated manuscript style, intricate calligraphy borders, rich jewel-tone colors, gold leaf accents, ornate borders, medieval book art). The entire scene is captured with a tilt-shift lens (Tilt-shift photography, selective focus band, miniature toy-like effect, blurred foreground and background), presenting it as a meticulously crafted black and white model (black and white monochrome, high contrast, rich tonal range, dramatic shadows and highlights). The scene is dramatically lit by a classic three-point lighting setup (key light with soft shadows, fill light, subtle rim light separation), enhancing its layered dimensionality. Through a grand window, a vast and mysterious monochromatic seascape unfolds, also rendered with a miniature perspective. Visually displayed in the image: '2026-03-08 16:16 UTC'. Shot with an 85mm prime lens, shallow depth of field, studio lighting."
   }
 ]
