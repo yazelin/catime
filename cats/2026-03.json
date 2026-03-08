@@ -5404,5 +5404,43 @@
     "idea": "在尼泊爾加德滿都一個陽光普照的米提拉藝術工作坊中，一隻毛色溫暖的貓咪正專心致志地用精細的畫筆描繪傳統圖案，整體場景以超寫實動漫風格呈現等距3D插圖，琥珀色的背光勾勒出貓咪的身影，大理石地板反射著柔和的秋日暖光。",
     "number": 750,
     "inspiration": "尼泊爾加德滿都正在舉辦一場米提拉藝術工作坊，慶祝傳統藝術和文化表現。"
+  },
+  {
+    "avoid_list": [
+      "等距3D插畫與低多邊形",
+      "織品紋理與觸感柔軟",
+      "電影感光線與體積光",
+      "奢華金黑配色與金屬點綴",
+      "柔和粉彩色調與夢幻氛圍",
+      "貓咪操作精密設備",
+      "鏡面反射與貓咪凝視倒影",
+      "未來科技實驗室或觀測站",
+      "無影平面照明與中性白螢光燈",
+      "Q版或盲盒角色風格",
+      "古老或歷史時期設定",
+      "親密特寫與隨性構圖",
+      "閃光燈效果與底片顆粒",
+      "Art Deco風格書房"
+    ],
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Ring Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 751,
+    "inspiration": "國際冰球聯合會的2026年全球女子冰球比賽於3月6日展開，瑞典、捷克和菲律賓等國的隊伍率先參與，旨在推廣全球女子冰球運動。",
+    "news_inspiration": [
+      "印度全國各地於2026年3月3日至4日慶祝色彩繽紛的胡里節，象徵春天、歡樂與良善戰勝邪惡。",
+      "2026年3月7日，德國研究人員開發出一種機器學習方法，可望大幅加速固態電池超離子材料的發現，提升未來能源儲存安全性與密度。",
+      "國際冰球聯合會的2026年全球女子冰球比賽於3月6日展開，瑞典、捷克和菲律賓等國的隊伍率先參與，旨在推廣全球女子冰球運動。",
+      "日本各地在2026年3月至4月期間迎來櫻花季，東京、京都和廣島等城市被粉色花瓣點綴，人們紛紛在櫻花樹下野餐慶祝。"
+    ],
+    "idea": "在一個空蕩的冰球場邊緣，一隻專注的虎斑貓以水墨畫風格，用琥珀色調的透明樹脂線修補著破損的球門網。場景運用移軸微縮效果，由環形燈提供溫暖照明。",
+    "prompt": "A focused tabby cat, rendered in Chinese ink wash painting and sumi-e style with minimalist brushwork and flowing gradients on rice paper. The cat delicately mends a torn ice hockey goal net with translucent, amber-toned resin thread, which has a glossy smooth surface and amber-like clarity, hinting at embedded elements. The scene is at the edge of an empty hockey rink, viewed with a tilt-shift miniature effect, creating a toy-like scene with a selective focus band and blurred foreground and background. Warm ring light illumination casts an even frontal glow, creating a circular catchlight in the cat's eyes, and bathes the ice in a subtle, warm amber glow. The overall color grading features a cozy, nostalgic warm amber, with an autumn palette of golden yellows and burnt orange. Visually displayed in the image: 2026-03-08 04:01 UTC.",
+    "comment_id": 4018232774,
+    "story": "在國際賽事休止的寂靜夜晚，這隻身懷絕技的貓咪，用牠纖細而靈巧的爪子，將看似樹脂般堅韌的線條，一針一線地穿過冰球門網的破洞。冰面在周圍環形燈的暖色調光暈下，散發著微琥珀色的光澤，與貓咪的專注神情形成一幅寧靜而動人的畫面。",
+    "title": "冰鋒織夢"
   }
 ]
