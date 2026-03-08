@@ -5442,5 +5442,45 @@
     "comment_id": 4018232774,
     "story": "在國際賽事休止的寂靜夜晚，這隻身懷絕技的貓咪，用牠纖細而靈巧的爪子，將看似樹脂般堅韌的線條，一針一線地穿過冰球門網的破洞。冰面在周圍環形燈的暖色調光暈下，散發著微琥珀色的光澤，與貓咪的專注神情形成一幅寧靜而動人的畫面。",
     "title": "冰鋒織夢"
+  },
+  {
+    "inspiration": "美國國家航空暨太空總署（NASA）領導的DART任務傳回影像顯示，小行星Dimorphos表面有微弱條紋，證實帶有小衛星的小行星會透過「宇宙雪球」交換物質。",
+    "comment_id": 4018400255,
+    "prompt": "An Expressionism art style illustration, capturing emotional intensity with bold, distorted forms and exaggerated gestural brushwork. A bird's-eye view, top-down perspective, creates a miniature world effect, looking straight down into a dimly lit, old-time antique shop. Elegantly crouched on a towering wooden chest overflowing with antique books is Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair. Her satin-sheen fur, revealing warm brown undertones in direct light, shimmers with a liquid metal surface, a mercury-like reflective flow with chrome dripping texture and a molten mirror finish, showcasing futuristic material properties. Her large, luminous golden-amber #D4A017 eyes, like polished amber gems, are fixed with profound wisdom and intense focus on an open, ancient star chart. This star chart, rendered in a retro faded color palette and washed-out vintage tones, features abstract lines and mottled colors depicting comets with strange stripes and asteroids, their cosmic 'snowball' trajectories. Momo's face is bathed in precise butterfly lighting, an overhead key light creating a soft, even illumination and a symmetrical shadow under her nose, a glamour portrait lighting effect. Her long, prominent white whiskers gently touch the book's pages. A single small gold hoop earring #FFD700 (3mm) adorns her LEFT ear, and a tiny natural white locket tuft #FFFFFF rests on her ventral chest. Her athletic proportions are visible, and her tail, with a slight upward curl at the tip, has a single dark-grey #696969 ring. The overall scene conveys a nostalgic film-era warmth with low contrast. Visually displayed in the image: '2026-03-08 05:36 UTC'.",
+    "story": "墨墨的金色眼眸在微弱的光線下透出深邃的智慧，牠胸前的小撮白毛像領結般醒目，左耳的金色耳環閃爍著微光。長而直的白色鬍鬚輕觸著書頁，牠彷彿正試圖從星圖上抽象的線條與斑駁色彩中解讀宇宙的奧秘，特別是那些宇宙『雪球』的軌跡。牠的姿態沉靜而專注，宛若一位在時光中沉思的星象學者。",
+    "number": 752,
+    "character_name": "墨墨",
+    "character": "momo",
+    "idea": "在一家瀰漫著舊時光氣息的古董店中，以表現主義風格呈現。從高處鳥瞰，墨墨優雅地蹲伏在一個堆滿古籍的巨大木箱頂部，牠修長的身形帶著液態金屬般的流光，目光如同兩顆金琥珀寶石般，專注地凝視著一本打開的古老星象圖冊，圖冊中以復古褪色色調繪製著帶有奇異條紋的彗星與小行星，面部則沐浴在精準的蝴蝶光中。",
+    "avoid_list": [
+      "等距3D插畫與低多邊形",
+      "織品紋理與觸感柔軟",
+      "電影感光線與體積光",
+      "奢華金黑配色與金屬點綴",
+      "柔和粉彩色調與夢幻氛圍",
+      "貓咪操作精密設備",
+      "鏡面反射與貓咪凝視倒影",
+      "未來科技實驗室或觀測站",
+      "無影平面照明與中性白螢光燈",
+      "Q版或盲盒角色風格",
+      "古老或歷史時期設定",
+      "親密特寫與隨性構圖",
+      "閃光燈效果與底片顆粒",
+      "Art Deco風格書房"
+    ],
+    "news_inspiration": [
+      "智利成為美洲第一個經世界衛生組織驗證已消除麻風病的國家，衛生部長於聖地牙哥宣布此一公共衛生里程碑。",
+      "2026年米蘭科爾蒂納帕拉林匹克冬季運動會於義大利科爾蒂納丹佩佐舉行，奧地利兄妹韋羅妮卡和約翰內斯·艾格納在高山滑雪項目中奪得金牌。",
+      "美國國家航空暨太空總署（NASA）領導的DART任務傳回影像顯示，小行星Dimorphos表面有微弱條紋，證實帶有小衛星的小行星會透過「宇宙雪球」交換物質。",
+      "印度「賈爾吉萬任務」取得重大進展，全國超過81%的農村家庭已接通自來水，惠及印度各地的數百萬居民。"
+    ],
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Bird's-Eye View",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Retro Faded Tones"
+    },
+    "title": "星塵私語"
   }
 ]
