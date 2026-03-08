@@ -5365,5 +5365,44 @@
       "texture": "Low Poly",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "story": "這隻名叫「班達里」的貓咪，每天清晨都會來到位於加德滿都老城區的米提拉藝術工作坊。牠巧妙地用前爪握住畫筆，一筆一畫地將天然顏料點綴在畫布上，學著旁邊人類藝術家的手法，創造出屬於自己的幾何圖騰與自然意象。一位好奇的尼泊爾小女孩，蹲在旁邊，眼神中充滿了對這隻藝術貓咪的敬佩與好奇。",
+    "news_inspiration": [
+      "在美國科羅拉多州，科學家們發現了微小的化石牙齒，揭示了包括人類在內的最早靈長類動物親屬的新線索。",
+      "加拿大帕運代表隊在義大利科爾蒂納舉行的2026年米蘭科爾蒂納帕運冬季運動會開幕日表現出色，共獲得三枚獎牌。",
+      "尼泊爾加德滿都正在舉辦一場米提拉藝術工作坊，慶祝傳統藝術和文化表現。",
+      "一位印度婦女分享了一段溫馨的影片，內容是新加坡一名公車司機幫助坐輪椅的年長乘客。",
+      "科學家們終於發現了南極洲存在「重力洞」的原因，這與地球深層的岩石運動有關。"
+    ],
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Marble",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4017835296,
+    "title": "米提拉畫語",
+    "prompt": "An isometric 3D illustration presented in a hyperrealistic anime style, a realistic-anime hybrid. The scene captures a warm-furred cat, named 'Bhandari', in a sun-drenched Mithila art workshop in Kathmandu, Nepal. The cat is intensely focused, delicately holding a fine brush with its paw, meticulously painting traditional patterns, including geometric totems and natural imagery, onto a canvas using natural pigments. A curious Nepali little girl crouches nearby, observing the artistic feline with admiration and wonder. The workshop features clean geometric forms, with light filtering through, creating a dramatic mood. Strong amber backlighting with a distinct rim light creates a glowing silhouette, outlining the cat and highlighting its detailed fur texture. The polished marble floor, showcasing natural vein patterns and a luxurious stone surface, reflects the soft autumn warm light. The overall color grading is a warm amber, embracing an autumn palette of golden yellows and burnt orange, evoking a cozy, nostalgic warmth. The rendering is polished and playful. The date and time '2026-03-08 01:08 UTC' are subtly displayed within the scene, perhaps on a small, hand-painted sign or a calendar on the wall.",
+    "avoid_list": [
+      "等距3D插畫與低多邊形",
+      "織品紋理與觸感柔軟",
+      "電影感光線與體積光",
+      "奢華金黑配色與金屬點綴",
+      "柔和粉彩色調與夢幻氛圍",
+      "貓咪操作精密設備",
+      "鏡面反射與貓咪凝視倒影",
+      "未來科技實驗室或觀測站",
+      "無影平面照明與中性白螢光燈",
+      "Q版或盲盒角色風格",
+      "古老或歷史時期設定",
+      "親密特寫與隨性構圖",
+      "閃光燈效果與底片顆粒",
+      "Art Deco風格書房"
+    ],
+    "idea": "在尼泊爾加德滿都一個陽光普照的米提拉藝術工作坊中，一隻毛色溫暖的貓咪正專心致志地用精細的畫筆描繪傳統圖案，整體場景以超寫實動漫風格呈現等距3D插圖，琥珀色的背光勾勒出貓咪的身影，大理石地板反射著柔和的秋日暖光。",
+    "number": 750,
+    "inspiration": "尼泊爾加德滿都正在舉辦一場米提拉藝術工作坊，慶祝傳統藝術和文化表現。"
   }
 ]
