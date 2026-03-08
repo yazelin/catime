@@ -6108,5 +6108,43 @@
     "comment_id": 4020129497,
     "prompt": "A real, turmeric-colored cat, with its paw gently resting on a miniature control lever, focused intensely as it pretends to operate a low-poly toy steam train inside a transparent glass Christmas bauble diorama. Through the train's window, several low-poly passenger animals are visible, all rendered in a Low-poly style with polygon mesh facets, geometric crystalline surfaces, and flat shaded triangular faces, evoking a digital origami aesthetic. This tiny detailed scene within the bauble is captured with Tilt-shift photography, creating a distinct miniature toy-like effect with a strong selective focus band on the cat and the train, and intentionally blurred foreground and background. The scene is illuminated by soft, even butterfly lighting from an overhead key light, casting a subtle symmetrical shadow under the cat's nose, creating a glamour portrait quality with a warm magical glow and cinematic reflections on the glass. The color palette features vibrant saturated earth tones, including terracotta, olive green, and warm brown, creating natural organic harmony. Shot with a 35mm lens at an f/1.8 aperture, using natural light. The text '2026-03-08 22:13 UTC' is visibly displayed.",
     "news_inspiration": []
+  },
+  {
+    "story": "深夜的室內滑雪場空無一人，只有模擬月光的冷調光線。一隻毛色烏黑的貓咪，在光滑如玩具般質感的黑色人工雪坡上，輕巧地撥弄著一顆反射著微光的金色塑膠雪球。牠在巨型黑色鏡子前停下，凝視著鏡中自己與雪球的倒影，彷彿正拍攝著一幅獨特的金色與黑色奢華風格自拍照。",
+    "idea": "一張中片幅攝影作品，捕捉一隻黑貓在豪華室內滑雪場的巨型鏡面中，以鏡子自拍構圖呈現其在清冷月光下，玩弄一顆亮面金色塑膠雪球的景象。",
+    "title": "靜夜滑雪場之舞",
+    "inspiration": "中國的冬季旅遊業正蓬勃發展，浙江和廣東等地區大力投資人工造雪技術和室內滑雪場，以推動旅遊和體育發展。",
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Moonlight",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "A medium format photograph, Hasselblad aesthetic, of a sleek black cat captured in a mirror selfie composition. The cat is intimately close-up and casually framed, looking into a giant black mirror within a luxurious indoor ski resort. It gently plays with a glossy golden plastic snow globe, which exhibits a smooth high-shine surface and slight reflections, reminiscent of a vinyl figure aesthetic. The lighting is cool blue moonlight illumination, casting a gentle silvery glow and creating a quiet nighttime atmosphere. The scene features an opulent gold and black color scheme with luxurious metallic gold accents against a deep black background. The photograph showcases an extraordinary tonal range, creamy shallow depth of field, and smooth fur rendering. '2026-03-08 23:13 UTC' is visually displayed somewhere in the frame.",
+    "number": 770,
+    "comment_id": 4020229691,
+    "news_inspiration": [
+      "澳洲維多利亞州的無尾熊在1890年代幾乎滅絕後，正透過快速的族群增長克服基因瓶頸，展現生命力。",
+      "2026年米蘭-科爾蒂納冬季殘疾人奧運會在義大利科爾蒂納丹佩佐舉行，選手們在各項賽事中展現卓越風采。",
+      "科學家在摩洛哥發現深海沉積物中存在不尋常的皺紋狀紋理，這表明古代海洋深處可能存在化學合成微生物。",
+      "中國的冬季旅遊業正蓬勃發展，浙江和廣東等地區大力投資人工造雪技術和室內滑雪場，以推動旅遊和體育發展。"
+    ],
+    "avoid_list": [
+      "移軸微縮模型感",
+      "古老研究室／圖書館",
+      "大地色系調色板",
+      "底片顆粒／類比質感",
+      "貓咪肉掌輕觸物體",
+      "環形燈光／柔和正面打光",
+      "金屬光澤與機械質感",
+      "彩飾手抄本藝術風格",
+      "奢華絲綢／天鵝絨布料",
+      "幾何結構與圖案",
+      "描繪地圖／測量星體",
+      "強烈光影與對比",
+      "貓咪專注於精確操作",
+      "科幻／未來主義元素"
+    ]
   }
 ]
