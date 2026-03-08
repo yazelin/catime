@@ -5927,5 +5927,38 @@
       "精準的光線描繪"
     ],
     "idea": "一隻由大地色系摺紙構成的貓咪，在一個蒸氣波風格的虛擬體育場中，以對稱構圖優雅地跨越一道道障礙。柔和的背光勾勒出貓咪矯健的輪廓，整個場景彌漫著一種既復古又未來感的沉靜氛圍。"
+  },
+  {
+    "number": 765,
+    "idea": "一隻家貓在一座非洲未來主義風格的開放式集會所中，專注地攤開一張充滿幾何圖案的古老地圖。環形燈的柔和光暈將牠與地圖映照得清晰，混凝土的地面則與背景復古褪色的色調形成對比，畫面呈現分割構圖。",
+    "avoid_list": [
+      "未來感工作場景",
+      "貓咪專注修補/創作",
+      "酒精墨水藝術風格",
+      "彩飾手抄本藝術風格",
+      "黑光紫外光照明",
+      "冷調藍青色系",
+      "三點打光與輪廓光",
+      "黏土雕塑質感",
+      "對稱式構圖",
+      "金屬光澤/工業質感",
+      "魚眼或移軸視角",
+      "大地色系物件",
+      "剪影藝術風格",
+      "寧靜平穩的氛圍"
+    ],
+    "news_inspiration": [],
+    "inspiration": "original",
+    "prompt": "An Afrofuturism illustration featuring a domestic cat, Jabari, the village cartographer, intensely focused on an ancient, geometrically patterned woven map, spread out within an open Afrofuturism-style assembly hall. The scene utilizes a split view composition with a sharp vertical cut line: the left half is rendered in a highly detailed, vibrant Afrofuturism illustration style, incorporating African cultural symbolism, futuristic elements, and subtle cosmic imagery, evoking a dynamic and empowering aesthetic with illustrative realism. The right half displays a contrasting wireframe diagram. The cat is illuminated by ring light illumination, casting a soft glow with a prominent circular catchlight in its eyes, providing even frontal lighting akin to a beauty portrait quality. The ground beneath is raw concrete with a brutalist aesthetic, a rough aggregate surface, and industrial minimalism. The background, hinting at busy companions, is presented in a retro faded color palette with washed-out vintage tones, low contrast, and nostalgic film-era warmth. Visually displayed in the image: '2026-03-08 18:19 UTC'.",
+    "title": "部落地圖師",
+    "story": "賈巴里貓，村落裡的地圖師，正聚精會神地研究著一張指引著遷徙路線的古老織布地圖。牠的同伴們在背景中忙碌穿梭，而牠的每個細微動作，都在環形光暈下顯得格外重要，關係著部族的未來走向。",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Split View",
+      "lighting": "Ring Light",
+      "texture": "Concrete",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 4019719309
   }
 ]
