@@ -6222,5 +6222,44 @@
       "texture": "Film Grain",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "idea": "一隻毛茸茸的貓咪在室內人工雪場，藉由鏡像自拍的構圖，專注地製作迷你雪雕，整個場景以刺繡藝術風格呈現，由粉彩色系的線材與木紋質感交織而成，背光勾勒出柔和的輪廓。",
+    "comment_id": 4021326756,
+    "avoid_list": [
+      "移軸微縮模型感",
+      "古老研究室／圖書館",
+      "大地色系調色板",
+      "底片顆粒／類比質感",
+      "貓咪肉掌輕觸物體",
+      "環形燈光／柔和正面打光",
+      "金屬光澤與機械質感",
+      "彩飾手抄本藝術風格",
+      "奢華絲綢／天鵝絨布料",
+      "幾何結構與圖案",
+      "描繪地圖／測量星體",
+      "強烈光影與對比",
+      "貓咪專注於精確操作",
+      "科幻／未來主義元素"
+    ],
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wood Grain",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "中國正大力發展高科技冬季旅遊產業，在浙江和廣東等地區投資人工造雪技術和室內滑雪場，以促進旅遊和體育發展。",
+    "number": 773,
+    "news_inspiration": [
+      "摩洛哥科學家在古老海底發現了化學合成微生物的痕跡，這些微生物在1.8億年前的深海黑暗中形成了皺紋狀結構，揭示了意想不到的古代生命形式。",
+      "美國國家航空暨太空總署（NASA）的DART任務影像顯示，帶有小型衛星的行星可能正在以「宇宙雪球」互相碰撞，揭示了小行星比原先想像的更活躍。",
+      "中國正大力發展高科技冬季旅遊產業，在浙江和廣東等地區投資人工造雪技術和室內滑雪場，以促進旅遊和體育發展。",
+      "在密西根州安娜堡的克里斯勒中心，排名第三的密西根大學男子籃球隊在資深日擊敗了排名第八的密西根州立大學隊。",
+      "韓國龍平國際滑雪節於3月8日至13日舉行，這是一場全球性的冬季慶典，吸引來自世界各地的滑雪愛好者。"
+    ],
+    "title": "絨雪匠心",
+    "prompt": "An embroidered illustration, presented as a handcrafted textile art piece, featuring a fluffy, creamy-colored cat intently crafting a miniature snow sculpture within a high-tech indoor snow garden. The composition is an intimate close-up mirror selfie, showing a casual framing with a visible reflection where the cat's absorbed gaze merges with the tiny snow cat sculpture. The artwork showcases visible needlework on linen fabric, utilizing satin stitch and French knots to create an organic, tactile surface. Natural wood grain texture, with visible knots and lines, forms part of the scene. Backlighting with a rim light outlines the subject, creating glowing silhouette edges and a dramatic mood. A soft pastel color palette, including gentle pink, lavender, mint, and baby blue, blends with rich, warm wood tones and dreamy light tones. Visually displayed in the image: '2026-03-09 05:50 UTC'.",
+    "story": "在這座高科技的室內雪之庭園深處，陽光透過大型窗戶，在拋光的木質反射面上投下背光輪廓。一隻奶油色的貓咪，正小心翼翼地堆疊起輕柔的雪花，在它反射的鏡像中，專注的目光與微小的雪貓雕塑融為一體，充滿了冬日童趣。"
   }
 ]
