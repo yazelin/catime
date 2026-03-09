@@ -6496,5 +6496,41 @@
     "comment_id": 4023088209,
     "inspiration": "西班牙塞維利亞市正在重啟三千年前的地下水渠系統，以對抗極端高溫。",
     "title": "活水之脈"
+  },
+  {
+    "avoid_list": [
+      "微縮/迷你/玩具般效果",
+      "漂浮島嶼/懸浮平台",
+      "室內雪場/博物館場景",
+      "鏡像/自拍構圖",
+      "衍紙藝術",
+      "3D渲染/C4D風格/等距視角",
+      "極低角度/仰視/高聳透視",
+      "冷藍青色調/冰冷氛圍",
+      "柔和粉彩色調/夢幻光影",
+      "明顯膠片顆粒/類比質感",
+      "閃光燈直打/過曝/硬陰影",
+      "淺景深/選擇性對焦",
+      "貓咪凝視/專注眼神",
+      "發光體/生物發光元素",
+      "高飽和/鮮豔色彩/強烈對比"
+    ],
+    "inspiration": "original",
+    "story": "在風聲呼嘯的燈塔頂端，老船長堅毅的身影被午後透光的塵埃包圍。牠獨自佇立於歲月斑駁的圓桌上，沉浸於手中羅盤的指引，彷彿在追溯年輕時駕船出海的航線。那些戰鬥與守護的痕跡，在黑白的光影下更顯得堅毅與深邃。",
+    "character_name": "船長",
+    "character": "captain",
+    "news_inspiration": [],
+    "comment_id": 4023453156,
+    "title": "寂光羅盤語",
+    "number": 780,
+    "idea": "一幅黑白單色調的洛可可風格排列攝影作品，船長佇立在廢棄燈塔頂部房間中央的圓形舊木桌上，正以牠的爪子輕觸並仔細檢視一個精緻的古董黃銅羅盤。周圍的桌面上及地上，以嚴謹的90度角排列著風化繩索、斷裂的瓶中船與數顆海邊鵝卵石等航海相關的物品。柔和的磨砂玻璃質感與穿透窗戶的戲劇性體積光束，共同營造出沉靜而富有戲劇張力的氛圍。",
+    "prompt": "Black and white monochrome knolling photography of a Rococo-style arrangement. A large stocky brown classic tabby cat (Captain), with bold black stripes, scruffy coarse fur texture of uneven lengths, a distinctive M-mark on its forehead, a thick sturdy tail, white chest bib and white mitten paws, and a LEFT ear with a prominent V-shaped notch, stands on an old circular wooden table in the center of a ruined lighthouse top room. Its LEFT eye is permanently concealed by a natural dark-pigmented fur patch (NO fabric eye patch, NO straps), and its RIGHT eye is a single piercing emerald green. A faded red bandana is tied loosely around its neck. The Captain gently touches and examines an elaborate antique brass compass with its paw. Surrounding the cat on the weathered table and extending onto the ground, nautical objects including weathered ropes, broken ships-in-a-bottle, and smooth sea pebbles are meticulously arranged in a precise knolling composition with strict 90-degree angles, creating an organized grid layout. The scene is illuminated by dramatic volumetric lighting: powerful god rays stream through frosted glass windows, revealing floating dust particles and creating deep shadows and bright highlights with a rich tonal range. The frosted glass texture of the windows exhibits a translucent matte surface with diffused light transmission, softening background elements. Shot with a wide-angle lens, exhibiting fine grain and a shallow depth of field. A visual display of '2026-03-09 12:35 UTC' is clearly visible within the image.",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
