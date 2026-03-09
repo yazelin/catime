@@ -6839,5 +6839,18 @@
     "timestamp": "2026-03-09 01:08 UTC",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-09_0108_UTC.webp",
     "number": 771
+  },
+  {
+    "inspiration": "日本京都：由於白天遊客過多和天氣炎熱，越來越多的遊客選擇在夜間探索京都的藝妓區等熱門景點，享受獨特的「夜間旅遊」。",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-09_0406_UTC.webp",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "season": "spring",
+    "title": "霓虹夜櫻宴",
+    "timestamp": "2026-03-09 04:06 UTC",
+    "status": "success",
+    "number": 772,
+    "model": "gemini-3-pro-image-preview"
   }
 ]

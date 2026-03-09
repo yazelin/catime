@@ -6179,5 +6179,48 @@
     ],
     "story": "在漂浮於柔和粉彩雲海中的微型浮島上，一隻憨態可掬的Q版貓咪正細心校準著它的磨砂玻璃氣象站。陽光透過磨砂質感，灑在氣象儀的每一個部件上，同時，一隻同樣Q版風格的小鳥好奇地停在風向儀的尖端，彷彿在等待貓咪宣佈今日的天氣預報，整個畫面充滿了溫馨與奇趣。",
     "number": 771
+  },
+  {
+    "inspiration": "日本京都：由於白天遊客過多和天氣炎熱，越來越多的遊客選擇在夜間探索京都的藝妓區等熱門景點，享受獨特的「夜間旅遊」。",
+    "avoid_list": [
+      "移軸微縮模型感",
+      "古老研究室／圖書館",
+      "大地色系調色板",
+      "底片顆粒／類比質感",
+      "貓咪肉掌輕觸物體",
+      "環形燈光／柔和正面打光",
+      "金屬光澤與機械質感",
+      "彩飾手抄本藝術風格",
+      "奢華絲綢／天鵝絨布料",
+      "幾何結構與圖案",
+      "描繪地圖／測量星體",
+      "強烈光影與對比",
+      "貓咪專注於精確操作",
+      "科幻／未來主義元素"
+    ],
+    "is_seasonal": true,
+    "character": "mochi",
+    "season": "spring",
+    "idea": "在傳統市場的櫻花樹下，戴著春日花環的麻糬正享受著一場霓虹燈光下的「夜間野餐」。極低角度的漫畫風格鏡頭，捕捉牠圓滾滾的身影，雙眼緊盯著眼前的美食，整體畫面洋溢著藍青色調的冷冽之美。",
+    "comment_id": 4020966959,
+    "character_name": "麻糬",
+    "prompt": "Manga style illustration, clean ink lines, screentone shading, expressive large round amber #FFBF00 eyes, subtle dynamic action lines, visible film grain, analog texture, subtle noise, organic photographic imperfections. An extreme low angle shot, looking up at Mochi, a chubby rounded shorthair cat, creating a dramatic towering perspective with a powerful feel. Mochi, wearing a delicate spring flower wreath, is sitting under a cherry blossom tree in a traditional night market, enjoying a neon-lit \"night picnic.\" Its spherical torso and short stubby legs are prominent. Mochi is carefully guarding a sampled cherry blossom mochi with its solid orange #FF8C00 right front paw, its eyes fixed on the treat, squinting contentedly, white belly gently jiggling. The background is a moody urban night atmosphere with neon lighting from colorful glowing market signs, casting reflections on wet surfaces. The scene features cool blue-teal color grading with icy undertones, creating a crisp, serene, and calm mood. Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches. Its RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist; its LEFT front paw is pure white #FFFFFF. White belly is always present. Its nose is pink #FFB6C1 with a tiny orange center dot. Its tail has orange-and-white ringed bands. Orange patches are solid, with no tabby stripes. Shorthair only. Text overlay: '2026-03-09 04:06 UTC'.",
+    "title": "霓虹夜櫻宴",
+    "story": "夜色漸濃，麻糬那圓滾滾的身軀，在附近攤位霓虹招牌投射的藍青色光影中顯得格外可愛。牠戴著一圈嬌小的春日花環，小心翼翼地用橘色的右前腳護著剛「試吃」來的櫻花麻糬，心滿意足地瞇起眼，彷彿整個市場的美味都屬於牠，肚皮也因滿足而微微晃動。",
+    "news_inspiration": [
+      "土耳其伊斯坦堡：全球婦女在國際婦女節這天聚集，慶祝女性賦權並呼籲實現薪資平等、生育權利和決策職位。",
+      "中國浙江與廣東：中國正大力發展高科技冬季旅遊產業，投資於人工造雪技術和室內滑雪勝地以促進旅遊和體育發展。",
+      "義大利米蘭與科爾蒂納丹佩佐：2026年冬季奧運會正在熱烈進行中，吸引了來自全球的運動員和體育愛好者的關注。",
+      "日本京都：由於白天遊客過多和天氣炎熱，越來越多的遊客選擇在夜間探索京都的藝妓區等熱門景點，享受獨特的「夜間旅遊」。",
+      "泰國普吉島：泰國因其熱情好客、豐富文化和古老養生習俗而成為健康旅遊的理想目的地，例如普吉島提供的深度體驗。"
+    ],
+    "number": 772,
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Extreme Low Angle",
+      "lighting": "Neon Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
