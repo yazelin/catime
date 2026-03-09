@@ -6532,5 +6532,39 @@
       "texture": "Frosted Glass",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "comment_id": 4024003755,
+    "avoid_list": [
+      "微縮/迷你/玩具般效果",
+      "漂浮島嶼/懸浮平台",
+      "室內雪場/博物館場景",
+      "鏡像/自拍構圖",
+      "衍紙藝術",
+      "3D渲染/C4D風格/等距視角",
+      "極低角度/仰視/高聳透視",
+      "冷藍青色調/冰冷氛圍",
+      "柔和粉彩色調/夢幻光影",
+      "明顯膠片顆粒/類比質感",
+      "閃光燈直打/過曝/硬陰影",
+      "淺景深/選擇性對焦",
+      "貓咪凝視/專注眼神",
+      "發光體/生物發光元素",
+      "高飽和/鮮豔色彩/強烈對比"
+    ],
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Wood Grain",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "一隻虎斑貓在古老的伐木工人小屋裡，專注於一個木製拼圖盒，整幅場景以蠟筆兒童畫的風格呈現，透過等距攝影視角，運用自然生物發光作為光源，並強調木紋的溫暖大地色系。",
+    "story": "在森林深處一座被遺忘的木屋裡，溫暖發光的菌菇點綴著佈滿木紋的牆壁與架子。一隻繫著圍裙的虎斑貓，小心翼翼地用爪子撥弄著面前精緻的木製拼圖盒，眼神中透露出深思。小屋內彌漫著歲月的芬芳，為這份寧靜的專注增添了自然的厚重感。",
+    "prompt": "A tabby cat, wearing a small apron, carefully focused on a delicate wooden puzzle box with its paw. The scene is set inside an ancient lumberjack cabin. The entire illustration is rendered in a charming crayon drawing style, featuring a childlike hand-drawn look and bright, cheerful colors on a warm paper background. The composition is a perfectly isometric view, showcasing the cabin's interior without a miniature effect. Lighting is provided by bioluminescence, an organic glow emanating from living organisms, casting an ethereal natural light with deep blue-green radiance. The cabin's walls and surfaces emphasize natural wood grain texture, rich warm tones, visible knots, and lines, creating an organic tactile surface. The overall color palette is an earth tone harmony of terracotta, olive green, and warm browns. Visually display '2026-03-09 13:58 UTC' within the image.",
+    "inspiration": "original",
+    "title": "林間小屋解謎貓",
+    "news_inspiration": [],
+    "number": 781
   }
 ]
