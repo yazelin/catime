@@ -6605,5 +6605,39 @@
     ],
     "title": "瓷韻秋燈",
     "story": "嘉義縣的夜空被數萬盞天燈點亮，溫暖的橘光灑滿大地。這隻好奇的貓咪，用牠的爪子輕拍著一盞寫滿祝福、緩慢飄落的紙質天燈，仿佛在參與這場光影與祈願的慶典。環形燈般的柔和光芒，讓紙質肌理的紋樣與貓咪的琥珀色毛髮顯得格外溫潤動人。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Split View",
+      "lighting": "Direct Flash",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "An illustration in hand-drawn infographic style depicting a black cat wearing miniature goggles, intently focused on repairing a broken neon sign. The scene is set on a moss-covered, abandoned greenhouse control panel, capturing a damp forest aesthetic with lush green organic overgrowth and nature reclaiming textures. The composition features a split view with a sharp vertical cut line; the left half dynamically illustrates the full body action of the cat, while the right half presents a detailed view of the electronic circuits being repaired, augmented with hand-drawn labels and schematic-like elements. The artwork is characterized by a paper texture background, bold calligraphy brush strokes, and a combination of warm rustic aesthetics with vibrant neon fluorescent colors like electric pink, lime green, and hot cyan, which glow against the darker background. Lighting is harsh direct flash, creating blown-out highlights and hard shadows, imparting a raw, candid illustrative look. The text '2026-03-09 15:46 UTC' is visually displayed within the image.",
+    "avoid_list": [
+      "微縮/迷你/玩具般效果",
+      "漂浮島嶼/懸浮平台",
+      "室內雪場/博物館場景",
+      "鏡像/自拍構圖",
+      "衍紙藝術",
+      "3D渲染/C4D風格/等距視角",
+      "極低角度/仰視/高聳透視",
+      "冷藍青色調/冰冷氛圍",
+      "柔和粉彩色調/夢幻光影",
+      "明顯膠片顆粒/類比質感",
+      "閃光燈直打/過曝/硬陰影",
+      "淺景深/選擇性對焦",
+      "貓咪凝視/專注眼神",
+      "發光體/生物發光元素",
+      "高飽和/鮮豔色彩/強烈對比"
+    ],
+    "inspiration": "original",
+    "comment_id": 4024754587,
+    "title": "貓匠螢光",
+    "story": "城市邊緣，一座被時間遺忘的生物圓頂溫室已成廢墟，只有稀疏的霓虹招牌偶爾閃爍。一隻技藝精湛的黑貓，肩負著修復這份昔日光彩的使命，牠靈巧的爪子精準地操作著線路。直射閃光燈穿透黑暗，照亮了牠專注的身影與周遭蔓生的苔蘚，彷彿為這份寂靜的修復工作點亮了希望。",
+    "news_inspiration": [],
+    "idea": "一隻戴著微型護目鏡的黑貓，以手繪信息圖的藝術風格，在一個佈滿苔蘚的廢棄溫室控制台上，利用直射閃光燈的強烈光線和霓虹螢光色調，專注地修理著一塊故障的霓虹燈招牌。畫面採分割構圖，一邊是貓的全身動作，另一邊則清晰呈現牠正修復的電路細節，輔以手繪標示。",
+    "number": 783
   }
 ]
