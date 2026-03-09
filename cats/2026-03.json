@@ -6333,5 +6333,49 @@
     "comment_id": 4021796606,
     "idea": "在時尚編輯攝影風格下，一隻暹羅貓坐落在復古褪色色調的未來綻放溫室中，凝視著以衍紙藝術構建的迷你生物圓頂。蝴蝶光輕柔灑在貓咪身上，營造出微縮立體模型的視覺效果。",
     "number": 775
+  },
+  {
+    "character": "lingling",
+    "number": 776,
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Candlelight",
+      "texture": "Concrete",
+      "color_palette": "High Saturation Vivid"
+    },
+    "is_seasonal": true,
+    "news_inspiration": [
+      "摩洛哥科學家在探索古代海床時，意外發現了1.8億年前深海微生物留下的皺紋狀痕跡，這表明在陽光無法穿透的深海中曾存在隱藏的生態系統。",
+      "中國正積極擴展其高科技冬季旅遊產業，浙江和廣東等地投資於人工造雪技術和室內滑雪度假村，以促進當地旅遊和體育發展。",
+      "位於也門的索科特拉群島舉辦了索科特拉語日慶祝活動，推出新的數位平台和鍵盤佈局，以推動這種獨特語言的保護與傳承。",
+      "舊金山的科學家首次清晰地展示了人體內的「冷覺感應器」TRPM8如何運作，解釋了我們感知低溫以及薄荷帶來的清涼感的分子機制。",
+      "澳洲科學家研究發現，一度在1890年代幾乎消失的維多利亞州無尾熊，正透過快速的族群擴張成功克服了基因瓶頸，擺脫演化困境。"
+    ],
+    "story": "鈴鈴在未來都市的「春日花園聖所」裡，蓬鬆的白毛上沾滿了散落的粉色櫻花瓣，牠興奮地撲向一群在空中靈動飛舞的生物發光投射蝴蝶。牠那雙大大的寶石藍眼睛閃爍著好奇的光芒，脖子上的粉紅鈴鐺隨著每一次撲騰發出清脆的叮鈴聲，就在即將撞上前方展示歷史花卉資訊的透明螢幕前，牠的笨拙顯露無遺。",
+    "character_name": "鈴鈴",
+    "comment_id": 4022051231,
+    "inspiration": "original",
+    "avoid_list": [
+      "移軸微縮效果",
+      "貓咪專注工作/研究",
+      "貓爪輕柔探查/操作",
+      "環形燈光/美妝肖像光",
+      "直打閃光燈/硬陰影",
+      "背光/輪廓光效果",
+      "柔和粉彩配色",
+      "大地色系和諧配色",
+      "冷藍綠色調/冰冷底色",
+      "底片顆粒/類比質感",
+      "漂浮島嶼/平台場景",
+      "Q版/低多邊形風格",
+      "鏡像自拍構圖",
+      "古老/舊式書房環境",
+      "微縮物件/模型"
+    ],
+    "title": "櫻粉絨球逐光蝶",
+    "season": "spring",
+    "prompt": "A pure white, extremely fluffy Ragdoll-like longhair cat, Lingling, with a small round face nearly hidden in its voluminous cloud-like fur, huge round sapphire-blue #0F52BA eyes, and pale pink #FFB6C1 nose and inner ears. A vibrant pink #FF69B4 ribbon bow collar with a clearly visible, centered golden #FFD700 bell adorns its neck, and its enormous feathery white plume tail is visible. Lingling is captured in a candid shot, excitedly pouncing towards a group of glowing blue projection butterflies. Its fluffy white fur is covered in scattered pink cherry blossom petals. The scene is a cyberpunk vertical flower market, with raw concrete texture and brutalist aesthetic walkways strewn with delicate pink cherry blossom petals. Lingling is clumsily nearing a transparent display screen showcasing holographic historical flower information in the foreground. Photographed with a Tilt-shift lens (35mm lens, f/1.8 aperture) creating a selective focus band and a distinctive miniature toy-like effect. The shallow depth of field ensures the blurred foreground and background enhance the sense of depth and focus intensely on Lingling. The lighting emanates from neon lights, providing a warm orange flickering candlelight glow, creating an intimate atmosphere within the neon-lit dystopian cityscape with holographic elements. The overall color scheme features high saturation vivid colors, bold vibrant hues, and eye-catching contrast, delivering an energetic palette against the industrial minimalism of the urban material. Subtle film grain is present. Visually displayed within the image, integrated as a holographic element or screen overlay: '2026-03-09 08:32 UTC'.",
+    "idea": "在賽博龐克風格的垂直花卉市集中，鈴鈴在佈滿粉色櫻花瓣的混凝土走道上，追逐著一群閃爍著藍光的投射蝴蝶，畫面呈現移軸微縮效果，光線來自燭光般的霓虹燈與高飽和度的鮮豔色彩交織。"
   }
 ]
