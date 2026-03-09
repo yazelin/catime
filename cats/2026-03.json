@@ -6716,5 +6716,45 @@
       "印度各地舉辦色彩斑斕的胡里節（Holi Festival），人們互相潑灑彩色粉末，慶祝春天、歡樂及善的勝利。",
       "一項全球研究將南非約翰尼斯堡評為2026年最適合家庭居住的城市之一，彰顯其優質生活方式。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Film Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "「極簡塗鴉線條畫」風格下，一隻黑白相間的貓咪在大阪地下錯綜複雜的供水系統中，以等距攝影的視角，利用扳手熟練地鎖緊一處管道接頭。周遭的積水與牆壁上附著的特定苔蘚散發出幽微的生物發光，整幅畫面覆蓋著細膩的底片顆粒，呈現黑白單色調的深邃質感。",
+    "number": 786,
+    "inspiration": "日本大阪市收到了一位匿名捐贈者捐贈的360萬美元金條，用於修復其供水系統。",
+    "title": "管道深處的微光",
+    "story": "夜幕低垂，大阪地下深處的水務貓技師們正為城市命脈忙碌著。這隻條紋貓仔細檢查著鏽蝕的管道，牠輕巧地握緊扳手，在幽微的生物發光指引下，精準地完成維修。在一聲清脆的咔嗒聲中，漏水點被成功修復，為這座城市的日常流動貢獻了一份寧靜而專業的力量。",
+    "news_inspiration": [
+      "英國一位女性發明了一款具備六種隱藏功能的「刺激連帽衫」，專為患有自閉症和過動症的人士設計。",
+      "加拿大政府為該國首間由因紐特人主導的大學提供了5000萬美元的資金。",
+      "西班牙塞維利亞市正在復興一種有3000年歷史的解決方案，以應對極端高溫。",
+      "日本大阪市收到了一位匿名捐贈者捐贈的360萬美元金條，用於修復其供水系統。",
+      "厄瓜多爾加拉帕戈斯公園在弗洛雷亞納島釋放了158隻幼年雜交陸龜，以恢復當地生態系統。"
+    ],
+    "comment_id": 4025931180,
+    "prompt": "A perfectly isometric photograph captured from a real-world perspective, depicting a black and white striped cat. The cat, exhibiting a minimalist, doodle-like aesthetic in its natural pose, is skillfully tightening a pipe joint with a wrench in the intricate underground water system of Osaka. The scene is illuminated by subtle bioluminescent lighting emanating from surrounding puddles and specific moss on the walls, casting an organic glow. The overall image is in black and white monochrome, characterized by high contrast, a rich tonal range, and dramatic shadows and highlights. Visible film grain, analog texture, subtle noise, and organic photographic imperfections add depth. No miniature effect. Text overlay: '2026-03-09 18:37 UTC'.",
+    "avoid_list": [
+      "衍紙藝術細節",
+      "移軸微縮效果",
+      "貓咪專注凝視/檢查",
+      "生物發光/霓虹光",
+      "高飽和鮮豔色彩",
+      "大地色系",
+      "柔焦/淺景深",
+      "直射閃光燈/強烈閃光",
+      "廢棄/苔蘚場景",
+      "3D渲染/等距插圖",
+      "溫室/花卉/菜園場景",
+      "黑白單色調/雙色調",
+      "復古/懷舊色調",
+      "古老/古董元素",
+      "低角度構圖"
+    ]
   }
 ]
