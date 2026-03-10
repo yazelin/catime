@@ -7077,5 +7077,13 @@
     "status": "failed",
     "timestamp": "2026-03-10 07:33 UTC",
     "error": "Failed to generate any images - All models failed. Last error: API Error 429: Resource has been exhausted (e.g. check quota)."
+  },
+  {
+    "status": "failed",
+    "url": null,
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: API Error 429: Resource has been exhausted (e.g. check quota).",
+    "timestamp": "2026-03-10 08:28 UTC",
+    "number": null
   }
 ]
