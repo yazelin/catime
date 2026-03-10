@@ -7097,5 +7097,46 @@
     "story": "這隻戴著迷你廚師帽的貓咪，巧妙地將特林吉特圖騰融入食材切割與擺盤中，每一道菜餚都成為流動的藝術品。在紫外線燈的照射下，廚房裡其他忙碌的貓咪與食材邊緣泛著柔和的螢光，共同映襯著牠們為推廣健康實惠烹飪的熱情。",
     "number": 795,
     "idea": "在馬尼拉一間熱鬧的社區廚房中，一隻身披特林吉特圖騰藝術線條的貓咪，正以低多邊形質感專注烹煮著莫蘭迪色調的家常菜，超廣角鏡頭捕捉著黑光螢光下的奇幻料理風景。"
+  },
+  {
+    "is_seasonal": true,
+    "idea": "",
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "據美國科學家稱，南極海冰覆蓋率在經歷四年極低水平後有所改善，於2月26日達到每年最低點258萬平方公里，接近夏季平均水平。",
+      "澳洲同意向五名尋求庇護的伊朗女子足球隊員提供簽證，讓她們留在澳洲。",
+      "佳能公司宣佈將擴大其全球多功能設備再製造業務，預計於2026年4月在美國維吉尼亞州的佳能維吉尼亞工廠開始再製造一款多功能設備系列。",
+      "泛太平洋酒店集團在新加坡的五家酒店推出統一的婚禮活動。"
+    ],
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Knolling Photography",
+      "lighting": "Golden Hour",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Neon Fluorescent"
+    },
+    "season": "spring",
+    "comment_id": 4030683305,
+    "number": 800,
+    "inspiration": "original",
+    "title": "貓咪日常",
+    "character": "momo",
+    "avoid_list": [
+      "移軸微縮效果",
+      "閃光燈直打效果",
+      "低多邊形質感",
+      "黑白單色調底片顆粒",
+      "高飽和鮮豔色彩",
+      "背光勾勒貓咪輪廓",
+      "冷藍青色調",
+      "微縮立體模型",
+      "貓咪操作精密儀器",
+      "等距視角構圖",
+      "未來科技研究場景",
+      "X光透視藝術風格",
+      "高對比度光影"
+    ],
+    "prompt": "A cute cat with the date and time '2026-03-10 11:24 UTC' displayed in the image, high quality, detailed",
+    "story": "一隻可愛的貓咪正在享受美好的一天。"
   }
 ]
