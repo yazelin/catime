@@ -7125,5 +7125,13 @@
     "number": 801,
     "inspiration": "original",
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-10_1234_UTC.webp"
+  },
+  {
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: API Error 429: Resource has been exhausted (e.g. check quota).",
+    "status": "failed",
+    "timestamp": "2026-03-10 13:54 UTC",
+    "number": null,
+    "url": null
   }
 ]
