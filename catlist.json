@@ -7049,5 +7049,16 @@
     "inspiration": "original",
     "title": "星軌織藍",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "character_name": "麻糬",
+    "number": 794,
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-10_0509_UTC.webp",
+    "timestamp": "2026-03-10 05:09 UTC",
+    "title": "櫻花糰子守護者",
+    "inspiration": "日本一年一度的櫻花祭預計於三月下旬至四月上旬展開，全國將沉浸在美麗的櫻花之中，慶祝春天的到來。",
+    "model": "gemini-3-pro-image-preview",
+    "character": "mochi"
   }
 ]
