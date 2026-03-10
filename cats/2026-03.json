@@ -7210,5 +7210,42 @@
       "texture": "Translucent Resin",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "news_inspiration": [
+      "在印尼西巴布亞偏遠地區，發現了兩種被認為已滅絕六千年的小型袋貂和飛鼠，為科學界帶來驚喜。",
+      "智利成為美洲第一個獲得世界衛生組織認證，已成功消除痲瘋病的國家，展現了公衛成就。",
+      "在英國多爾金舉行的年度「背老婆」比賽中，一對芬蘭選手贏得了一桶啤酒，場面既古怪又有趣。",
+      "厄瓜多爾加拉巴哥公園在弗洛雷亞納島釋放了158隻幼年雜交陸龜，致力於恢復當地生態系統。"
+    ],
+    "title": "奇點叢林之眼",
+    "idea": "在印尼西巴布亞的偏遠夜間叢林深處，一隻黑貓以等距攝影的視角，正專注地凝視著幽暗中生物發光的罕見生物，整個場景透過故障藝術風格以玻璃/水晶般的雙色調呈現。",
+    "inspiration": "在印尼西巴布亞偏遠地區，發現了兩種被認為已滅絕六千年的小型袋貂和飛鼠，為科學界帶來驚喜。",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Glass / Crystal",
+      "color_palette": "Duotone"
+    },
+    "number": 804,
+    "avoid_list": [
+      "移軸微縮效果",
+      "閃光燈直打效果",
+      "低多邊形質感",
+      "黑白單色調底片顆粒",
+      "高飽和鮮豔色彩",
+      "背光勾勒貓咪輪廓",
+      "冷藍青色調",
+      "微縮立體模型",
+      "貓咪操作精密儀器",
+      "等距視角構圖",
+      "未來科技研究場景",
+      "X光透視藝術風格",
+      "高對比度光影"
+    ],
+    "story": "叢林深處，潮濕而神秘的空氣中彌漫著奇特的磷光。這隻黑貓，牠的動作幾乎與周遭破碎的光影融為一體，眼神專注地盯著一叢水晶般的發光植物後，隱約閃爍著的微小身影。牠的每一次呼吸都輕柔得如同數碼訊號的微弱顫動，彷彿整個場景都在進行一場緩慢而迷人的視覺錯誤。",
+    "prompt": "A perfectly isometric photograph, captured with a wide-angle lens and subtle film grain, depicts a sleek black cat deep within a remote West Papua jungle at night. The cat is intensely focused, staring at rare, glowing bioluminescent organisms that manifest as crystal-like plants with tiny, subtly flickering forms, surrounded by dark, humid jungle shadows. The entire image is subjected to a severe glitch art aesthetic, featuring digital distortion, prominent RGB channel shifts, a corrupted data aesthetic, and visible scan line artifacts. Fragmented visuals and transparent glass material effects create prismatic reflections and crystalline clarity. Lighting comes from the organic glow of the deep blue-green bioluminescence, reminiscent of underwater phosphorescence. The color treatment is strictly duotone, using only two contrasting colors for a bold graphic impact and modern design feel. The date and time '2026-03-10 15:50 UTC' are clearly displayed within the image.",
+    "comment_id": 4032528992
   }
 ]
