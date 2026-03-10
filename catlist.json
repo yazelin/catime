@@ -7069,5 +7069,13 @@
     "inspiration": "在菲律賓馬尼拉，年輕的菲律賓人透過參與烹飪比賽，學習製作低價且營養豐富的家常菜，激勵更多青少年投入家庭烹飪。",
     "model": "gemini-3-pro-image-preview",
     "number": 795
+  },
+  {
+    "model": "all failed",
+    "url": null,
+    "number": null,
+    "status": "failed",
+    "timestamp": "2026-03-10 07:33 UTC",
+    "error": "Failed to generate any images - All models failed. Last error: API Error 429: Resource has been exhausted (e.g. check quota)."
   }
 ]
