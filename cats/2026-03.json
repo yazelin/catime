@@ -7751,5 +7751,42 @@
       "一對英國夫婦在印度進行了一場嘟嘟車之旅，穿越了17個邦，分享了他們獨特的旅行體驗。",
       "在西班牙巴塞羅那舉行的2026年世界移動通信大會上，中國企業展示了許多尖端創新產品，包括機器人手機和AI輔助眼鏡。"
     ]
+  },
+  {
+    "comment_id": 4037789292,
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "2026年龍平國際滑雪節正在韓國如火如荼地進行，吸引了全球各地的滑雪愛好者共襄盛舉。",
+    "number": 819,
+    "title": "琥珀躍雪暉",
+    "idea": "一幅扁平向量插圖風格的分割畫面場景，捕捉一隻薑黃色虎斑貓在被暖琥珀色調夕陽背光照亮的雪坡上，以精湛的技巧滑雪躍起。貓咪的毛髮和周遭的雪地都帶有細緻的冰霜結晶紋理。",
+    "news_inspiration": [
+      "美國密西根州立大學的研究人員開發出新型微型機器人，有望使癌症治療和腦部手術更安全、更精準，並加速病患康復。",
+      "在南非約翰尼斯堡，一對夫婦將對野生動物的熱愛轉化為貓頭鷹救援中心，現已擴展至救助並復育多種野生動物。",
+      "在美國新澤西州大西洋城，錫耶納聖徒隊贏得了2026年空軍預備役MAAC男子籃球錦標賽冠軍，這也是他們隊史上的第七座聯賽冠軍。",
+      "科學家們確認北海下方的Silverpit隕石坑，約在4300萬至4600萬年前由一顆小行星撞擊形成。",
+      "2026年龍平國際滑雪節正在韓國如火如荼地進行，吸引了全球各地的滑雪愛好者共襄盛舉。"
+    ],
+    "avoid_list": [
+      "魚眼鏡頭廣角構圖及桶狀畸變",
+      "黑光紫外線照明與螢光霓虹色彩",
+      "暖琥珀色調與秋季暖色系",
+      "雕塑黏土或陶瓷質感",
+      "直打閃光燈與強烈陰影",
+      "底片顆粒感與類比紋理",
+      "體積光與金色上帝光束",
+      "奢華金屬金色點綴與金黑配色",
+      "貓咪專注於觀察/操作",
+      "等距3D渲染或C4D風格",
+      "光澤反射表面",
+      "懸浮島嶼或平台"
+    ],
+    "story": "在龍平國際滑雪節的琥珀餘暉中，這隻勇敢的虎斑貓挑戰了一處小型跳台，優雅地在半空中劃出弧線。它的輪廓被金色的逆光勾勒出來，而周圍的冰霜雪花則閃爍著微光，展現了這場速度與激情的瞬間。分割畫面的一側聚焦於貓咪飛躍的動態，另一側則呈現遠處同樣沐浴在暖色光線中的滑雪場全景。",
+    "prompt": "A flat vector illustration, split view composition, with a sharp vertical cut line. The text '2026-03-11 09:32 UTC' is visually displayed within the image. On the left, a ginger tabby cat executes a graceful ski jump, elegantly arcing mid-air over a pristine snowy slope. The cat is strongly backlit by a warm amber sunset, creating a glowing rim light around its silhouette. Delicate frost patterns and intricate ice crystal formations adorn the cat's fur and the surrounding snow. The right side presents a panoramic view of a vast ski resort, also illuminated by the same warm, golden light. The overall style features clean lines, geometric forms, minimal shading, and an autumn palette dominated by golden yellows and burnt orange."
   }
 ]
