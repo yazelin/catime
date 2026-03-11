@@ -7680,5 +7680,41 @@
     "number": 816,
     "story": "這隻溫柔的貓咪，擁有墨流藝術風格的柔軟毛皮，在懸浮於雲霧之上的涼亭中尋得一份寧靜。牠小心翼翼地將一隻隻粉彩摺紙鶴，融入到迷你庭園的墨流沙紋裡，每一道背光都為其身影鍍上柔美的光暈。下方廣闊的山谷被天鵝絨般輕柔的墨流霧氣覆蓋，僅留下一片粉彩色系的神秘。",
     "inspiration": "original"
+  },
+  {
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Floating Island Scene",
+      "lighting": "Golden Hour",
+      "texture": "Origami",
+      "color_palette": "Retro Faded Tones"
+    },
+    "avoid_list": [
+      "魚眼鏡頭廣角構圖及桶狀畸變",
+      "黑光紫外線照明與螢光霓虹色彩",
+      "暖琥珀色調與秋季暖色系",
+      "雕塑黏土或陶瓷質感",
+      "直打閃光燈與強烈陰影",
+      "底片顆粒感與類比紋理",
+      "體積光與金色上帝光束",
+      "奢華金屬金色點綴與金黑配色",
+      "貓咪專注於觀察/操作",
+      "等距3D渲染或C4D風格",
+      "光澤反射表面",
+      "懸浮島嶼或平台"
+    ],
+    "number": 817,
+    "story": "破曉時分，熱成像鏡頭捕捉到平台周圍雨林蒸騰的微熱霧氣，渲染成朦朧的橙黃與青藍。貓咪溫暖的肉墊在工作台上輕輕移動，牠用前爪精準地調整著那些微小生物，這些看似摺紙藝術品般的生物在熱感視角下散發著微妙的生物熱能，每一摺痕都似乎承載著遠古的秘密。",
+    "idea": "在熱成像風格下，一隻虎斑貓在熱帶雨林深處一個看似漂浮的樹冠平台上的生物學研究站，小心翼翼地將微小、外形如摺紙般獨特的生物標本分門別類，置入透明玻璃容器。場景沐浴在黃金時刻的復古褪色熱感光暈中。",
+    "news_inspiration": [
+      "在印尼偏遠的西巴布亞發現了被認為已滅絕六千年的迷你負鼠和滑翔動物，這是一個令人振奮的科學發現。",
+      "智利成為美洲第一個被世界衛生組織證實消除麻風病的國家。",
+      "一位老師因將印度貧民窟改造成數百個露天教室而贏得一百萬美元獎金，鼓舞人心。",
+      "英國諾森伯蘭提供了迷你觀星之旅，讓遊客能沉浸在浩瀚星空中。"
+    ],
+    "comment_id": 4037135147,
+    "inspiration": "在印尼偏遠的西巴布亞發現了被認為已滅絕六千年的迷你負鼠和滑翔動物，這是一個令人振奮的科學發現。",
+    "title": "摺影森嶼微溫",
+    "prompt": "A candid photograph in thermal imaging style, capturing a tabby cat at a biology research station on a seemingly floating tree canopy platform deep within a tropical rainforest. The scene is bathed in a retro faded golden hour thermal glow, utilizing a heat map color gradient primarily from the red-yellow-blue spectrum, with washed-out vintage tones and low contrast. The cat carefully sorts tiny, unique origami-style biological specimens into transparent glass containers, its warm paws gently manipulating the miniatures that subtly emit bio-thermal energy. The origami specimens feature clean geometric creases and sharp angular folds. An aerial perspective reveals the platform surrounded by the rainforest's steamy micro-heat mist, blurred into atmospheric orange-yellow and blue-green hues. Long soft shadows and golden rim light highlight the subjects. Visually displayed text: '2026-03-11 07:36 UTC'. Shot with a telephoto lens, shallow depth of field, subtle film grain."
   }
 ]
