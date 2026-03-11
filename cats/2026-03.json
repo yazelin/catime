@@ -8280,5 +8280,42 @@
     "comment_id": 4042605606,
     "prompt": "Crayon drawing style illustration of a pastel striped cat, with a childlike hand-drawn look. The cat is intensely focused, its eyes filled with a little engineer's concentration, operating a small crane on a workbench. Its soft pastel paws gently touch a hand-drawn control lever as it carefully lifts a miniature railway signal light. The workbench is covered with various model train components, including mini trees, tracks, and tools, all arranged in a precise Knolling composition. The objects are neatly aligned at 90-degree angles in an organized grid layout, presented as a flat lay overhead view. The scene is bathed in warm golden hour lighting, creating a warm sunset glow with long soft shadows and a golden rim light on the cat. The color scheme features a soft pastel palette with bright, cheerful colors, incorporating gentle pink, lavender, mint, and baby blue, with dreamy light tones. The image has a visible film grain texture, conveying an analog feel, subtle noise, and organic photographic imperfections, appearing as if drawn on a warm paper background. Visually displayed in the image: '2026-03-11 22:18 UTC'.",
     "story": "這隻蠟筆貓咪正小心翼翼地將一個微型鐵路號誌燈從一堆零件中吊起，牠的粉彩爪子輕觸著手繪的控制桿，眼神充滿了小小的工程師般專注。工作檯上，各式各樣的火車模型組件，從迷你樹木到軌道、工具，都以嚴謹的橫向或縱向排列，構成一幅趣味盎然的平面圖。"
+  },
+  {
+    "number": 833,
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Miniature Diorama",
+      "lighting": "Butterfly Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "一隻青花瓷風格的貓咪陶藝師，在一個微縮立體模型的實驗室中，專注地為一個釉彩能隨濕度變化的瓶子施釉。整個場景呈現亮面塑膠的玩具質感，並以柔和的粉彩色系在蝴蝶光下閃爍。",
+    "story": "這隻擁有青花瓷花紋的貓咪，牠的毛髮與肌膚質感宛如亮面塑膠玩具般精緻。牠身處一個擺滿微型工具與未完工陶藝品的實驗室裡，正運用科學原理與藝術巧思，創造出獨一無二的動態瓷器。每一次細微的濕度變化，都讓瓶身的花紋如生命般輕柔流轉，美不勝收。",
+    "prompt": "A blue and white porcelain style cat artisan, featuring traditional cobalt blue floral motifs on a white glazed base with a delicate crackle texture. Its fur and skin have a glossy plastic toy texture, smooth and high-shine with slight reflections, akin to a vinyl figure aesthetic. The cat is intensely focused on applying glaze to a miniature bottle whose patterns subtly shift and flow with humidity changes, creating a unique dynamic effect. This scene is set within a miniature diorama laboratory, a tiny detailed world filled with micro-tools and unfinished ceramic pieces. The composition employs a tilt-shift effect to emphasize the toy-like scale model perspective. Illumination comes from soft, even butterfly lighting, an overhead key light creating a symmetrical shadow under the cat's nose, achieving a glamour portrait lighting effect. The overall color palette is a soft pastel dream, comprising gentle pink, lavender, mint, and baby blue tones. The date and time '2026-03-11 23:15 UTC' are visually displayed in the image.",
+    "news_inspiration": [
+      "在美國紐約，研究人員發現新型材料能根據濕度變化可逆地重組其內部晶體結構，並顯著改變其性質。",
+      "義大利米蘭和貝加莫正透過紀錄片展覽和活動，紀念19世紀文化與政治重要人物克拉拉·馬費伊的生平。",
+      "在孟加拉米爾布爾舉行的板球比賽中，孟加拉隊以8個三柱門的優勢擊敗巴基斯坦隊，贏得系列賽首場勝利。",
+      "科學家根據最新研究報告指出，土星衛星土衛六上液態甲烷湖中形成細胞狀結構的可能性已微乎其微。"
+    ],
+    "title": "釉彩流轉",
+    "comment_id": 4042833640,
+    "avoid_list": [
+      "微縮景觀與移軸效果",
+      "貓咪專注凝視物件",
+      "體積光線與懸浮塵埃",
+      "冷藍青色調與冰冷底色",
+      "天鵝絨質感表面",
+      "貓爪輕觸物件",
+      "高飽和鮮豔色彩",
+      "極淺景深",
+      "寧靜祥和的氛圍",
+      "蓬鬆/絨毛貓咪",
+      "雙色調藝術風格",
+      "古董或老舊物件/場景",
+      "體素或我的世界藝術風格"
+    ],
+    "inspiration": "在美國紐約，研究人員發現新型材料能根據濕度變化可逆地重組其內部晶體結構，並顯著改變其性質。"
   }
 ]
