@@ -8025,5 +8025,44 @@
     "comment_id": 4040113482,
     "character_name": "墨墨",
     "character": "momo"
+  },
+  {
+    "avoid_list": [
+      "摺紙物件",
+      "漂浮島嶼",
+      "天鵝絨質感",
+      "霓虹螢光",
+      "貓咪專注操作微型物件",
+      "冷藍青色調",
+      "輪廓光/背光",
+      "寧靜祥和氛圍",
+      "極地冰雪環境",
+      "視覺化顯示時間戳",
+      "鳥瞰視角",
+      "底片顆粒感",
+      "貓咪專注凝視",
+      "實驗室或研究站場景",
+      "極端風格化照明"
+    ],
+    "number": 826,
+    "comment_id": 4040554519,
+    "news_inspiration": [
+      "英國牛津大學的新研究繪製出首個成年果蠅大腦的高解析度分子圖譜，揭示神經元如何保留其發育起源的記錄。",
+      "加拿大愛德華王子島的誇德縣白帽隊在克拉波德舉行的第18屆甜心女子冰球錦標賽中，以2比1擊敗對手，贏得18歲以下甲級聯賽冠軍。",
+      "日本東京科學技術研究所的最新研究挑戰了關於地球極端冰河時代的長期假設，表明冰下風化可能減緩了「雪球地球」的脫離。",
+      "玻利維亞的聖週節，一項重要的文化和宗教活動，將於2026年3月29日開始。"
+    ],
+    "story": "在一個明亮的工作室裡，這隻薑黃色虎斑貓的身影在一個由高飽和鮮豔色充氣PVC材質搭建的微型冰球場景前躍動。牠的前爪高高揚起，彷彿在對場景中靜止的微型PVC冰球運動員下達指令，臉部被一束倫勃朗光戲劇性地打亮，目光銳利而專注。背景因運動追焦而模糊流動，凸顯了這場微型冠軍賽的激烈與貓咪的動感。",
+    "idea": "將一隻優雅的薑黃色虎斑貓，以運動追焦的動感姿態捕捉，牠正專注地在一個高飽和鮮豔色、充氣PVC材質製成的微縮冰球立體模型前，做出激烈的指揮動作，整個場景透過倫勃朗光戲劇性地照明。",
+    "inspiration": "加拿大愛德華王子島的誇德縣白帽隊在克拉波德舉行的第18屆甜心女子冰球錦標賽中，以2比1擊敗對手，贏得18歲以下甲級聯賽冠軍。",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Miniature Diorama",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "冰球貓教頭",
+    "prompt": "A sleek turmeric tabby cat, captured in a dynamic, energetic pose, front paws raised high in a commanding gesture, intently focused. The scene utilizes **sports panning photography**, where the cat is a **frozen subject** in **sharp focus** against a **motion-blurred background**, conveying **action captured** with **high shutter speed**. The cat is interacting with a **miniature diorama** of an ice hockey rink, rendered with a **tilt-shift effect** to emphasize its **toy-like scale model** appearance, creating a **tiny detailed world**. The diorama elements are constructed from **inflatable PVC material**, exhibiting a **high-gloss balloon-like surface** with **puffy rounded forms** and **air-filled tension**. The colors are **high saturation vivid colors**, **bold vibrant hues**, and an **energetic palette**, creating **eye-catching contrast**. The entire scene is dramatically illuminated by **Rembrandt lighting**, featuring a **single light source at 45 degrees** that casts a **signature triangle of light on the cat's shadowed cheek**, creating **dramatic chiaroscuro** and highlighting its sharp, focused gaze. Photographed with a telephoto lens, shallow depth of field. Visually displayed in the image: `2026-03-11 16:39 UTC`."
   }
 ]
