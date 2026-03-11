@@ -7788,5 +7788,45 @@
     ],
     "story": "在龍平國際滑雪節的琥珀餘暉中，這隻勇敢的虎斑貓挑戰了一處小型跳台，優雅地在半空中劃出弧線。它的輪廓被金色的逆光勾勒出來，而周圍的冰霜雪花則閃爍著微光，展現了這場速度與激情的瞬間。分割畫面的一側聚焦於貓咪飛躍的動態，另一側則呈現遠處同樣沐浴在暖色光線中的滑雪場全景。",
     "prompt": "A flat vector illustration, split view composition, with a sharp vertical cut line. The text '2026-03-11 09:32 UTC' is visually displayed within the image. On the left, a ginger tabby cat executes a graceful ski jump, elegantly arcing mid-air over a pristine snowy slope. The cat is strongly backlit by a warm amber sunset, creating a glowing rim light around its silhouette. Delicate frost patterns and intricate ice crystal formations adorn the cat's fur and the surrounding snow. The right side presents a panoramic view of a vast ski resort, also illuminated by the same warm, golden light. The overall style features clean lines, geometric forms, minimal shading, and an autumn palette dominated by golden yellows and burnt orange."
+  },
+  {
+    "avoid_list": [
+      "奢華金黑配色",
+      "底片顆粒與類比質感",
+      "Knolling排列攝影",
+      "體積光與丁達爾光",
+      "分割畫面垂直切線構圖",
+      "玻璃白板手繪風格",
+      "溫暖琥珀與秋季色調",
+      "乾淨俐落幾何線條",
+      "貓咪專注於微型操作",
+      "特殊材質紋理",
+      "柔和自然漫射光",
+      "等距3D透視",
+      "復古懷舊美學",
+      "極地冰霜晶體場景",
+      "螢光與生物熱能光效"
+    ],
+    "story": "在一個深邃、光線幽微的地下水脈中，一隻藍貓蹲伏在長滿翠綠苔蘚的浮石上。牠頭頂的環形燈光束，穿透清澈湛藍的水體，照亮了水底形狀奇特的遠古錐形微生物礁。貓咪伸出一隻爪子輕輕觸碰水面，全神貫注地觀察著這片被遺忘的生態奇觀，彷彿在探究其古老的奧秘。",
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Floating Island Scene",
+      "lighting": "Ring Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "以木刻版畫的風格呈現，一隻藍貓坐在一塊漂浮著苔蘚覆蓋的浮島上，頭戴環形燈，正仔細觀察水面下藍青色調的錐形微生物礁的幽深地下水脈場景。",
+    "prompt": "A blue cat rendered in detailed woodcut print style, with bold carved lines and a prominent rough wood grain texture. The cat is depicted sitting on a lush moss-covered floating island, which is suspended within a vast, deep underground water vein. A ring light encircles the cat's head, casting an even frontal illumination onto its face, creating a circular catchlight in its eyes, and projecting a focused beam of light through the clear, cool blue-teal water. The cat intently observes the water's surface, with one paw gently touching it, revealing ancient, conical microbial reefs in the mysterious depths below. The overall scene features cool blue-teal color grading with icy undertones, lush green organic overgrowth on the island's damp surface, and a high-contrast monochromatic feel dominated by these specific colors. The atmosphere is serene and calm. The date and time '2026-03-11 10:28 UTC' MUST be visually displayed within the image.",
+    "inspiration": "科學家研究南極洲的烏恩特湖，發現其冰封水域含有異常高濃度的溶解氧和錐形微生物礁，類似地球最古老的化石。",
+    "comment_id": 4038164308,
+    "news_inspiration": [
+      "在印尼西巴布亞，兩種曾被認為滅絕6,000年的袋貂和飛鼠被重新發現，帶來了保育好消息。",
+      "智利成為美洲第一個獲得世界衛生組織認證消除痲瘋病的國家。",
+      "澳洲雪梨公佈了2026年「生動雪梨」燈光、音樂與創意節的完整活動規劃，預計將點亮這座海港城市。",
+      "科學家研究南極洲的烏恩特湖，發現其冰封水域含有異常高濃度的溶解氧和錐形微生物礁，類似地球最古老的化石。",
+      "橄欖球聯盟明星球員卡林·蓬加已獲准轉換效力國籍，未來將代表紐西蘭隊出戰國際賽事。"
+    ],
+    "number": 820,
+    "title": "幽湖古礁探"
   }
 ]
