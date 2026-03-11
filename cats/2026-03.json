@@ -8211,5 +8211,42 @@
     "story": "這隻被當地居民暱稱為「太空探長」的貓咪，是首位抵達現場的調查員。牠在閃爍的霓虹燈下，仔細分析著這塊來自星際的訪客，試圖解開它神秘的能量來源。汽車改裝店裡的技師們則在背景中忙碌著，絲毫未受這奇特事件的影響，只有空氣中瀰漫著機油與太空塵埃的奇特氣味。",
     "number": 830,
     "idea": "在一個充滿霓虹燈光的《俠盜獵車手》風格汽車改裝店裡，一隻身穿碳纖維多功能背心的貓咪，正使用微型全息投影儀仔細掃描一顆發光的隕石碎片，整個場景呈現移軸微縮效果與高飽和鮮豔色彩，並有體積光束穿梭其中。"
+  },
+  {
+    "prompt": "A perfectly isometric pencil sketch, rendered in graphite on paper, showcasing a short-haired cat with a focused expression, calibrating a holographic projection system. The cat sits before a semi-open control console, its paws delicately turning translucent resin knobs. The artwork features visible pencil strokes, hatching, and cross-hatching. The scene is illuminated by ring light illumination, casting an even frontal light that creates circular catchlights in the cat's eyes, achieving a beauty portrait quality. The lighting emphasizes the cat's concentration and the flowing data pulses visible beneath the glossy, smooth translucent resin panels, which reveal embedded elements with amber-like clarity. The entire illustration is presented in a duotone color treatment of deep charcoal and soft amber, creating a bold graphic impact and a modern design feel. Visually displayed clearly within the scene is the text '2026-03-11 21:22 UTC'.",
+    "title": "虛實光束，貓眼調校",
+    "idea": "一幅以鉛筆素描繪製的等距攝影視角，呈現一隻短毛貓在未來運動會的半開放式控制台前，專心致志地校準由透明樹脂打造的全息投影系統。環形燈的柔和光暈照亮了整個場景，並以深炭色與柔和琥珀色雙色調呈現。",
+    "avoid_list": [
+      "微縮景觀與移軸效果",
+      "貓咪專注凝視物件",
+      "體積光線與懸浮塵埃",
+      "冷藍青色調與冰冷底色",
+      "天鵝絨質感表面",
+      "貓爪輕觸物件",
+      "高飽和鮮豔色彩",
+      "極淺景深",
+      "寧靜祥和的氛圍",
+      "蓬鬆/絨毛貓咪",
+      "雙色調藝術風格",
+      "古董或老舊物件/場景",
+      "體素或我的世界藝術風格"
+    ],
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Isometric Photography",
+      "lighting": "Ring Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Duotone"
+    },
+    "story": "在即將到來的「未來運動會」前夕，這隻聰慧的貓咪工程師正仔細檢查著連結實體與虛擬的關鍵設備。牠的爪子輕巧地旋轉著樹脂旋鈕，尾巴輕柔擺動，確保每一束光線都完美對齊，為全球觀眾呈現最流暢的融合賽事。環形燈投下的光影，凸顯了貓咪專注的神情與透明樹脂面板下流動的數據脈絡。",
+    "number": 831,
+    "inspiration": "「未來運動會2026」已確認將於哈薩克阿斯塔納舉行，結合精英運動員和玩家參與「實體與虛擬融合」的創新賽事。",
+    "comment_id": 4042302929,
+    "news_inspiration": [
+      "「未來運動會2026」已確認將於哈薩克阿斯塔納舉行，結合精英運動員和玩家參與「實體與虛擬融合」的創新賽事。",
+      "英國拉夫堡大學的一項新研究呼籲將體育活動正式納入嚴重精神疾病患者的常規心理健康護理中。",
+      "南非開普敦的Labia劇院被《Time Out Worldwide》評選為全球百大電影院之一，位列第74名。",
+      "台灣2026年世界棒球經典賽（WBC）代表隊成員從日本返抵桃園國際機場時，受到體育署長和三百多名球迷的熱烈歡迎。"
+    ]
   }
 ]
