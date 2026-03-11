@@ -8140,5 +8140,39 @@
       "texture": "Paper Quilling",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "news_inspiration": [],
+    "comment_id": 4041679699,
+    "prompt": "A split view composition photography in the style of Pictorialism and early fine art photography. The left half is a photorealistic, deliberate soft focus image: an orange tabby cat with fluffy, gentle paws, meticulously pushing vibrant dried rosehips into an antique glass jar in a sun-drenched, old-fashioned herbal shop. Volumetric lighting with visible god rays and dust particles catching the golden afternoon light, creating dramatic depth. Antique crystal vessels on shelves display delicate frost patterns, ice crystal formation, and translucent ice shard textures, shimmering with winter crystalline beauty. The right half of the image is a sharp, vertical cut wireframe diagram of the exact same scene. The overall photograph features high saturation, vivid colors, bold vibrant hues, and eye-catching contrast, creating an energetic palette. Visually displayed within the image itself: '2026-03-11 19:35 UTC'. Captured on medium format film, 50mm lens, f/2.8, using natural window light, with subtle film grain and a shallow depth of field, presented as a candid moment evoking an atmospheric and painterly mood.",
+    "avoid_list": [
+      "摺紙物件",
+      "漂浮島嶼",
+      "天鵝絨質感",
+      "霓虹螢光",
+      "貓咪專注操作微型物件",
+      "冷藍青色調",
+      "輪廓光/背光",
+      "寧靜祥和氛圍",
+      "極地冰雪環境",
+      "視覺化顯示時間戳",
+      "鳥瞰視角",
+      "底片顆粒感",
+      "貓咪專注凝視",
+      "實驗室或研究站場景",
+      "極端風格化照明"
+    ],
+    "number": 829,
+    "title": "日光草藥詩",
+    "idea": "一隻橘色虎斑貓在陽光普照的老式草藥舖裡，細緻地將鮮豔的乾燥玫瑰果推入古董玻璃罐。畫面採畫意攝影風格的分割畫面構圖，體積光穿透塵埃，照亮帶有冰霜結晶般紋理的古董水晶器皿，整體色調高飽和且鮮豔。",
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Split View",
+      "lighting": "Volumetric Light",
+      "texture": "Frost Crystal",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "original",
+    "story": "老舊的草藥舖沉睡在午後的金色陽光中。塵埃在光束中飛舞，貓咪毛茸茸的爪子輕柔而專注，將一簇簇乾燥花草歸位。架上古老的瓶罐閃爍著冰霜般的紋理，見證著時光流逝與這份寧靜的日常。"
   }
 ]
