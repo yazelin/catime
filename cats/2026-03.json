@@ -7609,5 +7609,45 @@
       "低多邊形或數位摺紙美學",
       "復古褪色底片風格"
     ]
+  },
+  {
+    "comment_id": 4036499491,
+    "season": "spring",
+    "character": "mochi",
+    "is_seasonal": true,
+    "story": "老街的櫻花季悄然來臨，貪吃的麻糬被主人帶到樹下享受春日野餐。牠頭戴主人親手編織的花環，原本還慵懶地閉目養神，但當竹編野餐籃的蓋子被掀開，食物的香氣撲鼻而來，麻糬瞬間爆發活力，那雙圓溜溜的大眼睛立刻緊盯著籃內的點心，透露著滿滿的渴望。主人見狀，忍不住拿起手機，以鏡子自拍的方式記錄下麻糬這幅經典又呆萌的「美食凝視」。",
+    "avoid_list": [
+      "魚眼鏡頭廣角構圖及桶狀畸變",
+      "黑光紫外線照明與螢光霓虹色彩",
+      "暖琥珀色調與秋季暖色系",
+      "雕塑黏土或陶瓷質感",
+      "直打閃光燈與強烈陰影",
+      "底片顆粒感與類比紋理",
+      "體積光與金色上帝光束",
+      "奢華金屬金色點綴與金黑配色",
+      "貓咪專注於觀察/操作",
+      "等距3D渲染或C4D風格",
+      "光澤反射表面",
+      "懸浮島嶼或平台"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Paper Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character_name": "麻糬",
+    "prompt": "A whiteboard marker drawing on glass, with a casual sketch feel and hand-drawn line art, featuring Mochi the cat in a mirror selfie composition. Mochi, a chubby, rounded shorthair cat with a white #FFFFFF base coat and bright orange #FF8C00 patches, is side-lying on a patterned picnic mat under soft apricot yellow and pale orange-pink cherry blossom trees. Its RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while its LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and its LEFT front paw is pure white #FFFFFF. Its spherical torso and short stubby legs are visible. Mochi wears a spring flower crown woven from delicate pink cherry blossoms and green leaves. Its large, round amber #FFBF00 eyes are wide, fixed intently on an open bamboo picnic basket in front of it, magnified by an expression of intense greed. The nose is pink #FFB6C1 with a tiny orange center dot, and its tail displays orange-and-white ringed bands. The composition is an intimate close-up perspective with casual framing, showing a visible reflection. Soft diffused natural light, as if from an overcast sky, streams through the cherry petals, casting even illumination with no harsh shadows. The drawing exhibits slightly faded ink, and the overall image has a gentle, warm amber color grading, evoking a cozy spring picnic atmosphere with tactile warmth. The visual texture is reminiscent of visible fiber grain on kraft or watercolor paper. Visually displayed within the image: '2026-03-11 05:12 UTC'.",
+    "title": "花下饞萌：麻糬春日記",
+    "idea": "畫面定格在麻糬在櫻花樹下野餐的「鏡子自拍」瞬間，以白板記號筆畫的風格呈現，筆觸簡潔卻生動。麻糬戴著由粉色櫻花和綠葉編織成的花環，圓滾滾的身子側臥在鋪有花紋的野餐墊上，一雙琥珀色大圓眼直勾勾地盯著面前打開的竹編野餐籃，眼神因貪吃而放大兩倍，柔和的自然漫射光透過櫻花瓣灑落，營造出溫暖帶有紙質肌理感的春日氛圍，色彩以暖色調為主，即使是櫻花也呈現出柔和的杏黃或淡橘粉。",
+    "news_inspiration": [
+      "在美國北卡羅來納州夏洛特市舉行的ACC錦標賽首輪比賽中，南衛理公會大學（SMU）擊敗雪城大學。",
+      "瑞士蘇黎世聯邦理工學院和德國慕尼黑工業大學的科學家們成功改造細菌，使其能按需製造「設計師」蛋白質。",
+      "中國澳門正在舉辦國際文學節，活動內容豐富，包括作家對談和文化交流。",
+      "在南非，一位腦癌倖存的青少年以其前往南極洲的旅程，激勵了南半島的社區。"
+    ],
+    "number": 815
   }
 ]

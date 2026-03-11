@@ -7243,5 +7243,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-11_0359_UTC.webp",
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-03-11 03:59 UTC"
+  },
+  {
+    "status": "success",
+    "season": "spring",
+    "model": "gemini-3-pro-image-preview",
+    "character": "mochi",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "title": "花下饞萌：麻糬春日記",
+    "timestamp": "2026-03-11 05:12 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats/cat_2026-03-11_0512_UTC.webp",
+    "number": 815
   }
 ]
