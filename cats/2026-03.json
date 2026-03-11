@@ -8064,5 +8064,47 @@
     },
     "title": "冰球貓教頭",
     "prompt": "A sleek turmeric tabby cat, captured in a dynamic, energetic pose, front paws raised high in a commanding gesture, intently focused. The scene utilizes **sports panning photography**, where the cat is a **frozen subject** in **sharp focus** against a **motion-blurred background**, conveying **action captured** with **high shutter speed**. The cat is interacting with a **miniature diorama** of an ice hockey rink, rendered with a **tilt-shift effect** to emphasize its **toy-like scale model** appearance, creating a **tiny detailed world**. The diorama elements are constructed from **inflatable PVC material**, exhibiting a **high-gloss balloon-like surface** with **puffy rounded forms** and **air-filled tension**. The colors are **high saturation vivid colors**, **bold vibrant hues**, and an **energetic palette**, creating **eye-catching contrast**. The entire scene is dramatically illuminated by **Rembrandt lighting**, featuring a **single light source at 45 degrees** that casts a **signature triangle of light on the cat's shadowed cheek**, creating **dramatic chiaroscuro** and highlighting its sharp, focused gaze. Photographed with a telephoto lens, shallow depth of field. Visually displayed in the image: `2026-03-11 16:39 UTC`."
+  },
+  {
+    "prompt": "Manga style, 3D isometric illustration of a large, stocky Captain cat, a brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. The Captain stands firmly on the very top of a lighthouse in a stormy fishing port at dawn. His scruffy, untidy, slightly coarse fur (NOT sleek) with uneven lengths is ruffled by strong winds. He has long, white, flowing scruffy fur around his chin and whiskers, giving the appearance of a majestic beard, blowing in the sea wind. His LEFT eye (viewer perspective) is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E covering the eye socket (explicitly a fur marking, NOT a fabric or leather eye patch, NO straps). His RIGHT eye is a single piercing emerald green #50C878, sharp and resolute, as he gazes through a rusty brass telescope. His LEFT ear has a prominent V-shaped notch. A faded red #CD5C5C bandana is tied loosely around his neck and is visible. He has a white #FFFFFF chest bib and white mitten paws on all four feet, with a distinctive M-mark on his forehead, and a thick, sturdy tail. A small, sleek companion cat snuggles close against the Captain's broad chest, seeking comfort from the storm. Below, the turbulent sea churns, radiating a mysterious deep blue-green bioluminescent glow from strange creatures, evoking underwater phosphorescence and ethereal natural light. The sea surface has a velvet texture, deep pile softness, rich color saturation, and a light-absorbing matte surface, creating a tactile luxury. The overall cool blue-teal color grading with icy undertones and a crisp atmosphere blends with soft pastel colors for the stormy dawn sky. Clean ink lines, screentone shading, expressive eyes, and clean geometric forms. Polished playful rendering. The mood is serene and calm amidst the storm, capturing the Captain's steadfast guardianship. The text '2026-03-11 17:40 UTC' is clearly displayed within the scene.",
+    "avoid_list": [
+      "摺紙物件",
+      "漂浮島嶼",
+      "天鵝絨質感",
+      "霓虹螢光",
+      "貓咪專注操作微型物件",
+      "冷藍青色調",
+      "輪廓光/背光",
+      "寧靜祥和氛圍",
+      "極地冰雪環境",
+      "視覺化顯示時間戳",
+      "鳥瞰視角",
+      "底片顆粒感",
+      "貓咪專注凝視",
+      "實驗室或研究站場景",
+      "極端風格化照明"
+    ],
+    "inspiration": "original",
+    "story": "船長高大結實的身軀穩穩矗立，即便風雨交加也絲毫不動搖，身旁一隻小貓咪依偎著他寬厚的胸膛，從他身上尋求著風暴中的慰藉。他那又長又白的鬍鬚在海風中飄揚，銳利的翠綠色右眼閃爍著堅毅的光芒，守護著這片冷色調海域的黎明。",
+    "comment_id": 4040961638,
+    "character": "captain",
+    "news_inspiration": [
+      "歐洲南方天文台的甚大望遠鏡拍攝到新影像，揭示了銀河系中心超大質量黑洞周圍的恆星和氣體雲。",
+      "泰國於3月13日慶祝國家大象日，各地的大象保護區舉辦餵食儀式及宣導保育工作。",
+      "加拿大愛德華王子島的夸德縣白帽隊贏得了在克拉帕德舉行的第18屆甜心女子冰球錦標賽冠軍。",
+      "據報導，義大利西西里島的一個小城市可能擁有全國最美味的食物，鼓勵遊客少量多餐以品嚐多樣美食。",
+      "美國哥倫比亞大學的一項新研究顯示，更仔細地檢查非裔腎病患者的APOL1基因，可以提供更精確的診斷，進而改善治療。"
+    ],
+    "number": 827,
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Bioluminescence",
+      "texture": "Velvet",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "燈塔守望者",
+    "character_name": "船長",
+    "idea": "在狂風呼嘯的漁港燈塔頂端，戴著眼罩的船長以漫畫等距3D插圖的風格，透過生鏽的黃銅望遠鏡，銳利地凝視著下方發出奇異生物發光藍綠光芒、帶有天鵝絨般深邃質感的洶湧海面。"
   }
 ]
