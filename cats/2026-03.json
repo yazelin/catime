@@ -8349,5 +8349,42 @@
     },
     "prompt": "A candid photograph, film noir style, shot with an ultra wide angle 12-18mm lens, featuring dramatic perspective distortion and an expansive field of view. The image captures a trench-coat wearing cat detective, its expression serious, meticulously tracking clues on a textured paper map with visible fiber grain, evoking a kraft paper feel. The scene is set in a mysterious office under a quiet nighttime atmosphere. High contrast lighting with dramatic deep shadows predominates: cool blue tones from moonlight stream through venetian blinds, creating distinctive patterns, and intertwine with the warm amber color grading of a desk lamp, casting golden yellows and burnt orange accents on the cat and map. The date and time '2026-03-12 01:00 UTC' are visually displayed within the image.",
     "inspiration": "original"
+  },
+  {
+    "number": 835,
+    "story": "在偏遠雨林深處的臨時研究站內，柔和的燭光映照著一張鋪滿古老地圖與探險工具的厚實木桌。一隻毛色沉穩的短毛貓，正仔細地在一張羊皮紙地圖上勾勒著奇特生物的輪廓，地圖描繪的正是剛被重新發現的神秘叢林，周遭散落著皮革裝訂的筆記本和羅盤，記錄著一次驚人的生物學發現。",
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Bird's-Eye View",
+      "lighting": "Candlelight",
+      "texture": "Leather",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "以彩飾手抄本的古樸風格，透過俯瞰視角，呈現一隻短毛貓在燭光微曳的書桌上，專注地用羽毛筆為一張展開的皮革質感地圖繪製生物圖像，整體畫面籠罩在大地色系的沉靜氛圍中。",
+    "comment_id": 4043781473,
+    "avoid_list": [
+      "微縮立體模型與移軸效果",
+      "體積光與飄浮塵埃",
+      "高飽和鮮豔色彩",
+      "柔和粉彩色調",
+      "貓咪專注神情或細膩動作",
+      "貓咪扮演專業角色",
+      "高光澤或透明材質質感",
+      "分割畫面構圖",
+      "特定攝影打光技術",
+      "暖色調或黃金時刻光線",
+      "等距視角或插畫",
+      "雙色調配色方案",
+      "視覺呈現日期時間"
+    ],
+    "prompt": "A top-down, bird's-eye view illustration in the style of an illuminated manuscript. A short-haired cat, focused and intent, uses a feather quill to meticulously draw strange creatures onto an unfurled map made of genuine leather with a rich grain pattern and warm aged patina. The map depicts a mysterious jungle, spread across a sturdy wooden desk. The scene is illuminated by the warm, flickering glow of candlelight, creating soft dancing shadows and an intimate atmosphere. Scattered around the map are leather-bound notebooks and an antique compass, emphasizing an artisanal craftsmanship aesthetic. The composition features ornate borders with subtle gold leaf accents, characteristic of medieval book art. The entire palette is dominated by earthy tones: terracotta, olive green, and warm browns, conveying a natural organic harmony. The date and time '2026-03-12 04:04 UTC' are visually integrated into the artwork.",
+    "news_inspiration": [
+      "都柏林將於2026年3月14日至17日舉辦聖派翠克節，屆時將有遊行、現場活動和音樂，慶祝愛爾蘭文化。",
+      "2026年3月10日，來自美國SETI研究所的科學家們宣布，在火星的古老硫酸鹽沉積物中可能發現了一種全新的礦物。",
+      "2026年3月9日，在印尼西巴布亞的偏遠雨林中，重新發現了兩種被認為已滅絕6000年的小型負鼠和環尾滑翔動物。",
+      "2026年3月2日，肯亞的農民們透過再生農業計畫，成功改善土壤健康並提高收成。"
+    ],
+    "inspiration": "2026年3月9日，在印尼西巴布亞的偏遠雨林中，重新發現了兩種被認為已滅絕6000年的小型負鼠和環尾滑翔動物。",
+    "title": "古卷探秘"
   }
 ]
