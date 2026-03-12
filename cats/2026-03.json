@@ -8535,5 +8535,44 @@
       "texture": "Inflatable PVC",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "title": "晶穹觀彗",
+    "avoid_list": [
+      "移軸微縮效果",
+      "Knolling排列構圖",
+      "柔和粉彩色系",
+      "高對比雙色調",
+      "底片顆粒質感",
+      "貓咪專注神情",
+      "黃金時刻光線",
+      "亮面塑膠玩具質感",
+      "全息投影元素",
+      "體積光束與光線",
+      "寫實抓拍風格",
+      "未來感材質物件",
+      "貓偵探角色設定",
+      "微縮立體模型場景",
+      "大型雕塑/裝置藝術"
+    ],
+    "idea": "在洛可可風格的私人天文觀測室中，一隻奶油色波斯貓正透過極低角度被捕捉，牠優雅地將爪子放在一架古董黃銅與水晶望遠鏡的對焦輪上，準備觀測一顆彗星。體積光束從高拱窗灑入，照亮了空間中灰塵顆粒與望遠鏡的玻璃/水晶部件，整體色調為莫蘭迪色。",
+    "comment_id": 4045265194,
+    "story": "夕陽餘暉透過洛可可觀測室的高拱窗，將柔和的莫蘭迪色調灑滿室內。毛茸茸的波斯貓以牠獨有的姿態，站在繡花矮凳上，前爪輕巧地觸碰著望遠鏡的對焦輪，彷彿宇宙的奧秘正待牠揭曉。窗外，白天可見的彗星C/2026 A1已悄然現身，牠的出現為這份寧靜增添了一絲超凡的期待。",
+    "prompt": "A highly detailed Rococo style illustration, exuding light playful elegance. An extreme low angle shot captures a magnificent cream-colored Persian cat, perched elegantly on an embroidered stool. The cat's paw is delicately placed on the brass focus wheel of an ornate, antique telescope, crafted from polished brass and crystalline glass, as it prepares to observe the comet C/2026 A1. The setting is a lavish private astronomical observatory, characterized by flowing ornamental curves and elaborate decorative details. Volumetric lighting casts dramatic god rays from high arched windows, illuminating visible dust particles dancing in the air. Light refracts through the telescope's transparent glass and crystal components, creating dazzling prismatic reflections and crystalline clarity. The overall atmosphere is one of quiet elegance. The color palette consists of a Morandi muted collection of desaturated soft pastels with dusty grey undertones, harmoniously blending flamboyant pastel colors in a subdued manner. A clear digital display or an elegantly etched inscription within the scene visually shows the text '2026-03-12 09:32 UTC'.",
+    "number": 840,
+    "news_inspiration": [
+      "歐洲南方天文台（ESO）利用甚大望遠鏡拍攝的新影像，幫助天文學家在銀河系中心發現了圍繞超大質量黑洞運行的新氣體雲。",
+      "夏威夷檀香山節正迎來其第30屆盛會，該活動旨在促進夏威夷與環太平洋地區之間的文化理解與和諧。",
+      "一顆新發現的彗星C/2026 A1（MAPS）將於今年四月接近太陽，有可能在白天從地球上空以肉眼可見，為全球天文迷帶來罕見奇觀。",
+      "台灣的國旅趨勢正走向深度沉浸式體驗，結合地方文化與高質感住宿，例如台南的友愛街旅館和南投的日月潭布查德Villa。"
+    ],
+    "inspiration": "一顆新發現的彗星C/2026 A1（MAPS）將於今年四月接近太陽，有可能在白天從地球上空以肉眼可見，為全球天文迷帶來罕見奇觀。",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Extreme Low Angle",
+      "lighting": "Volumetric Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
