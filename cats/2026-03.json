@@ -8498,5 +8498,42 @@
       "texture": "Glass / Crystal",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "inspiration": "國際知名葡萄牙藝術家Artur Bordalo正在澳洲天鵝谷考察，為一條新的雕塑步道尋找地點，該步道將以回收材料製作野生動物雕塑，以慶祝當地野生動物、文化和旅遊業。",
+    "title": "回收巨像下的爪印",
+    "news_inspiration": [
+      "曼谷再次榮獲DestinAsian讀者選擇獎評選為2026年亞洲最佳城市，鞏固其作為全球旅客最愛目的地的地位。",
+      "南非剪羊毛選手博尼萊·拉貝拉在新西蘭馬斯特頓舉行的金剪刀世界錦標賽上，再次贏得冠軍，為國家贏得榮譽。",
+      "國際知名葡萄牙藝術家Artur Bordalo正在澳洲天鵝谷考察，為一條新的雕塑步道尋找地點，該步道將以回收材料製作野生動物雕塑，以慶祝當地野生動物、文化和旅遊業。",
+      "洛杉磯道奇隊球星Max Muncy的妻子Kellie分享了他們與新生女兒Macie Grace的溫馨時刻，融化了無數人的心。"
+    ],
+    "idea": "在一處澳洲天鵝谷的戶外藝術裝置施工現場，一隻虎斑貓正以運動追焦的藝術風格，專注地抓撓著一座由回收材料製成、呈現充氣PVC質感的巨型袋鼠雕塑。",
+    "avoid_list": [
+      "微縮立體模型與移軸效果",
+      "體積光與飄浮塵埃",
+      "高飽和鮮豔色彩",
+      "柔和粉彩色調",
+      "貓咪專注神情或細膩動作",
+      "貓咪扮演專業角色",
+      "高光澤或透明材質質感",
+      "分割畫面構圖",
+      "特定攝影打光技術",
+      "暖色調或黃金時刻光線",
+      "等距視角或插畫",
+      "雙色調配色方案",
+      "視覺呈現日期時間"
+    ],
+    "comment_id": 4044906683,
+    "prompt": "A candid, intimate close-up perspective of a tabby cat intensely scratching a giant kangaroo sculpture at an outdoor art installation construction site in Swan Valley, Australia. The kangaroo sculpture exhibits an inflatable PVC material, high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. The cat's side profile is dramatically lit by Rembrandt lighting, with a single light source at 45 degrees creating a signature triangle of light on its shadowed cheek, emphasizing dramatic chiaroscuro. Its resolute gaze, captured in a mirror selfie composition, looks directly into the lens, with its reflection visible, embodying dynamic energy and action captured. This is a sports panning photograph, showcasing the frozen subject against a motion-blurred background, shot with a high shutter speed. The image features a retro faded color palette, washed-out vintage tones, low contrast, and nostalgic film-era warmth. Visually displayed in the image: '2026-03-12 08:30 UTC'. Shot with a 35mm lens, f/1.8, shallow depth of field, natural light, film grain.",
+    "number": 839,
+    "story": "倫勃朗光線戲劇性地勾勒出貓咪的側臉，其堅毅的「鏡子自拍構圖」眼神直視前方，彷彿在審視自己的傑作。周圍的環境則呈現復古褪色色調，讓這場與藝術的另類「合作」更添一抹時光沉澱的幽默感。",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Retro Faded Tones"
+    }
   }
 ]
