@@ -8837,5 +8837,44 @@
     ],
     "character_name": "墨墨",
     "story": "墨墨金琥珀色的雙眼在半空中閃爍，長而直的白色鬍鬚在純黑的臉上格外顯眼，左耳的小金環耳環則為其增添一絲精緻。牠無聲地俯瞰著下方如迷宮般的書架，尾巴末端的深灰色環紋輕輕擺動。這隻獨立而聰慧的貓咪，像書海中的影子，偶爾會輕輕翻動身旁一本古籍的封面，尋找牠中意的午憩之所，或是靜靜地「閱讀」著書脊上的文字。"
+  },
+  {
+    "character_name": "船長",
+    "idea": "在35mm底片攝影的視覺風格下，船長以正交投影的構圖，被閃光燈直打的光線照亮，牠威風凜凜地站在漁港碼頭邊一疊錯落有致、邊緣銳利如摺紙藝術般的舊木箱頂部，翠綠色的右眼銳利地凝視著遠方波濤洶湧的大海，整個畫面以粗獷的雙色調呈現。",
+    "story": "老船長站在最高處巡視著牠的領地，海風吹拂著牠蓬亂的鬍鬚。那些木箱堆疊出幾何的姿態，像是牠過去航海歲月裡那些經緯分明的地圖，而牠則像一座堅毅的燈塔，守護著這片水域的寧靜與秩序。牠的堅毅表情在閃光燈下更顯突出。",
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Orthographic Projection",
+      "lighting": "Direct Flash",
+      "texture": "Origami",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A 35mm film photograph, featuring a large stocky brown classic tabby cat, the Captain, standing majestically on a stack of haphazardly arranged, old wooden crates at a fishing port pier. The wooden crates are designed with clean geometric creases and sharp angular folds, reminiscent of Origami paper sculpture, creating a precise and minimal aesthetic. The composition uses an orthographic projection, with no perspective distortion and a straight-on flat rendering, providing a bold graphic impact. The cat's piercing emerald green right eye (#50C878) intently gazes towards the turbulent distant sea, while its left eye is completely concealed by a natural dark-pigmented fur patch (#2B1B0E) (no fabric or strap). A faded red bandana (#CD5C5C) is tied loosely around its neck, and its left ear has a prominent V-shaped notch. It has a white chest bib (#FFFFFF) and white mitten paws on all four feet. Its fur is scruffy, untidy, slightly coarse with uneven lengths, a rich brown (#5C4033) with bold black stripes (#1A1A1A), and a distinctive M-mark on its forehead. Its broad, muscular build and thick, sturdy tail are evident. Harsh direct on-camera flash illuminates the Captain, creating blown-out highlights and hard shadows, enhancing its determined expression. The image has visible film grain, warm tones, and a slight vignette, evoking a nostalgic, raw candid snapshot look. The entire photograph is presented with a striking duotone color treatment, using two primary contrasting colors, yet preserving and emphasizing the Captain's specified fur, eye, and accessory colors. Visually displayed in the image is the timestamp '2026-03-12 17:41 UTC'.",
+    "comment_id": 4048712130,
+    "inspiration": "original",
+    "title": "港邊的守望者",
+    "news_inspiration": [
+      "在偏遠的西巴布亞發現了兩種被認為已滅絕六千年的迷你負鼠和滑翔動物。",
+      "智利成為美洲第一個被世界衛生組織驗證已消除痲瘋病的國家。",
+      "肯亞的再生農業取得了成功，為當地帶來了積極的發展。",
+      "在德國科隆的路德維希博物館，人們參觀了傳奇日本藝術家草間彌生新大型展覽中的「無限鏡屋」藝術作品。",
+      "美國加州諾瓦托的Ultragenyx公司公布了DTX301 AAV8基因療法治療鳥胺酸轉氨甲醯酶缺乏症的36週陽性第三期研究數據。"
+    ],
+    "number": 848,
+    "character": "captain",
+    "avoid_list": [
+      "低多邊形或摺紙美學",
+      "復古褪色暖色調",
+      "自然漫射均勻光",
+      "俯瞰鳥瞰視角",
+      "貓咪精準操作設備",
+      "蒸汽朋克實驗室",
+      "發光或霓虹物體",
+      "量子乙太科技",
+      "Morandi色調柔和粉彩",
+      "晶體玻璃光影折射",
+      "古老精緻工藝品",
+      "極低角度仰視"
+    ]
   }
 ]
