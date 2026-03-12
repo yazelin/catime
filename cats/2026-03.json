@@ -8653,5 +8653,43 @@
       "中國廣東省揭陽市舉辦了城隍廟會，其中包含獨特的英歌舞表演，展現了傳統民俗文化。",
       "新加坡聖淘沙高爾夫俱樂部舉行了2026年沙特阿美LIV高爾夫新加坡站的首輪比賽，帶來精彩的賽事亮點。"
     ]
+  },
+  {
+    "idea": "以拍立得風格呈現，從極低角度拍攝一隻貓咪，在霓虹燈光照亮的未來感北京數據中心伺服器機架上，仔細檢查著發光的數據光纜。整個空間充滿了霓虹螢光色調與摺紙般的幾何結構。",
+    "avoid_list": [
+      "移軸微縮效果",
+      "Knolling排列構圖",
+      "柔和粉彩色系",
+      "高對比雙色調",
+      "底片顆粒質感",
+      "貓咪專注神情",
+      "黃金時刻光線",
+      "亮面塑膠玩具質感",
+      "全息投影元素",
+      "體積光束與光線",
+      "寫實抓拍風格",
+      "未來感材質物件",
+      "貓偵探角色設定",
+      "微縮立體模型場景",
+      "大型雕塑/裝置藝術"
+    ],
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Extreme Low Angle",
+      "lighting": "Neon Lighting",
+      "texture": "Origami",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "數據線的霓虹舞",
+    "prompt": "A unique **Polaroid instant photo** with a white border frame and slightly faded, soft warm tones, capturing an **extreme low angle shot** looking up at a sleek black cat. The cat is perched precariously on a towering server rack within a futuristic Beijing data center, meticulously inspecting glowing data fiber cables with one soft paw. The entire scene is rendered in a distinct **Origami style**, featuring clean geometric creases, sharp angular folds, and a precise, minimal paper sculpture aesthetic for the server racks and surrounding architecture. The space is bathed in intense **neon fluorescent colors**, with electric pink, lime green, and hot cyan light emanating from the cables and reflective surfaces of the origami-like server units. Colorful glowing signs and atmospheric reflections create a moody, technological night atmosphere. '2026-03-12 12:33 UTC' is visibly printed on the image.",
+    "story": "一隻黑貓躍上冰冷的金屬機架，在不斷閃爍的螢光藍、紫、綠光中，牠的肉墊輕輕觸碰著一束光纖纜線，似乎在感知數據的流動。周圍的機器有著摺紙般的銳利切面，反射出迷幻的霓虹色彩，牠正以自己獨特的方式「偵錯」著這座巨型網路的核心。",
+    "inspiration": "中國北京的「兩會」強調創新，其文件重點提及具身人工智慧、腦機介面和6G行動通訊，預示著這些技術將推動中國的高品質發展。",
+    "news_inspiration": [
+      "美國波士頓東北大學的卡特球場，因近期天氣回暖，開始拆除其臨時保護泡泡，預示著春天的到來。",
+      "美國公司Quantinuum在新加坡設立了新的研發和營運中心，旨在推動量子電腦演算法和應用的發展。",
+      "中國北京的「兩會」強調創新，其文件重點提及具身人工智慧、腦機介面和6G行動通訊，預示著這些技術將推動中國的高品質發展。"
+    ],
+    "number": 843,
+    "comment_id": 4046419959
   }
 ]
