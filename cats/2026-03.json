@@ -8767,5 +8767,42 @@
     "story": "鈴鈴被甜點店裡那些閃爍著結晶光芒的馬卡龍深深吸引，圓圓的眼睛好奇地轉動。她那團棉花糖般的身體輕輕一晃，蓬鬆的尾巴便不經意地掃過，瞬間將層層堆疊的馬卡龍塔推倒。粉紅色的鈴鐺聲在叮鈴作響中透露出一絲窘迫，鈴鈴卻只是歪著頭，藍寶石般的眼睛裡充滿了天真的困惑，彷彿在問：「這些亮晶晶的東西怎麼都跳起來了？」",
     "number": 845,
     "title": "粉甜鈴音"
+  },
+  {
+    "story": "全島沉浸在神聖的寂靜中，這隻黑貓於古老寺院的濕潤石板上，以其特有的優雅姿態緩緩梳理著前爪。紅外線的視界將周遭鬱鬱蔥蔥的植物轉化為奇異的光譜，而牆角的真菌散發出微弱的藍綠光芒。在如此寧靜的時刻，牠的動作是唯一被允許的聲響，一種無聲的冥想。",
+    "number": 846,
+    "avoid_list": [
+      "低多邊形或摺紙美學",
+      "復古褪色暖色調",
+      "自然漫射均勻光",
+      "俯瞰鳥瞰視角",
+      "貓咪精準操作設備",
+      "蒸汽朋克實驗室",
+      "發光或霓虹物體",
+      "量子乙太科技",
+      "Morandi色調柔和粉彩",
+      "晶體玻璃光影折射",
+      "古老精緻工藝品",
+      "極低角度仰視"
+    ],
+    "idea": "在印尼峇里島寧靜日傍晚，運用紅外線攝影的超廣角視角，捕捉一隻黑貓在古老寺院角落靜心梳理毛髮，背景是散發生物發光微光的熱帶植物與亮面塑膠質感的濕潤石板地。",
+    "inspiration": "印度尼西亞峇里島，慶祝寧靜日「靜居日」(Nyepi)，全島將保持寂靜，反思與淨化。",
+    "title": "靜居魅影",
+    "comment_id": 4047837948,
+    "news_inspiration": [
+      "美國紐約州約克敦高地，IBM發布了量子中心超級運算的新藍圖，旨在整合量子與古典運算以解決科學挑戰。",
+      "印度尼西亞峇里島，慶祝寧靜日「靜居日」(Nyepi)，全島將保持寂靜，反思與淨化。",
+      "德國阿爾滕貝格，國際雪車聯合會青少年世界鋼架雪車錦標賽正如火如荼地舉行，來自各國的青少年選手競逐獎牌。",
+      "一顆新發現的巴士大小的小行星於今日飛掠地球，距離比月球更近，但對地球或其衛星均無威脅。",
+      "阿拉伯聯合大公國杜拜，GCC國家將電動車普及視為優先事項，在城市規劃中整合充電設施，推動永續生活方式。"
+    ],
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Bioluminescence",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "Infrared photograph of a black cat grooming its front paw, captured with an ultra wide angle 12-18mm lens, showcasing dramatic perspective distortion and an expansive field of view. The scene unfolds in the corner of an ancient temple in Bali during the late afternoon. The wet flagstone ground beneath the cat features a glossy plastic toy texture, smooth high-shine surface, and slight reflections, evoking a vinyl figure aesthetic. Tropical plants in the background display white foliage characteristic of infrared photography, while bioluminescent fungi near the temple walls emit an organic glow of deep blue-green radiance, reminiscent of underwater phosphorescence. Ethereal natural light shapes the scene, contributing to surreal, otherworldly tones against dark skies. The temple structures primarily feature an earth tone palette of terracotta, olive green, and warm brown, contrasted sharply by the luminous blue-green glow and white foliage. The date and time '2026-03-12 15:46 UTC' are visually displayed within the image."
   }
 ]
