@@ -8461,5 +8461,42 @@
       "texture": "Low Poly",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "comment_id": 4044658212,
+    "number": 838,
+    "news_inspiration": [
+      "中國北京與北韓平壤之間的客運列車服務將於2026年3月12日恢復，結束了自2020年以來的六年停運。",
+      "源自撒哈拉沙漠的沙塵抵達西歐，為西班牙、法國和英國部分地區帶來了朦朧的天空和泥濘的雨水。",
+      "泰國曼谷在2026年DestinAsian讀者選擇獎中榮獲「亞洲最佳城市」第一名，再次證明其作為全球旅客最愛目的地的地位。",
+      "在美國休士頓舉行的世界棒球經典賽中，義大利隊以8比6的驚人比數擊敗美國隊。"
+    ],
+    "avoid_list": [
+      "微縮立體模型與移軸效果",
+      "體積光與飄浮塵埃",
+      "高飽和鮮豔色彩",
+      "柔和粉彩色調",
+      "貓咪專注神情或細膩動作",
+      "貓咪扮演專業角色",
+      "高光澤或透明材質質感",
+      "分割畫面構圖",
+      "特定攝影打光技術",
+      "暖色調或黃金時刻光線",
+      "等距視角或插畫",
+      "雙色調配色方案",
+      "視覺呈現日期時間"
+    ],
+    "story": "夕陽的黃金時刻光線透過藝廊的玻璃帷幕，將整片空間染成深邃的藍曬調性。貓咪半臥休憩，其眼神穿越晶瑩剔透的水晶獅，望向藍調剪影下的曼谷城市天際線。爪尖不經意間觸碰晶體，那微弱的螢光藍，成為這片藍曬夢境中唯一的色彩暗示，映照出都會的靜謐與宏偉。",
+    "inspiration": "泰國曼谷在2026年DestinAsian讀者選擇獎中榮獲「亞洲最佳城市」第一名，再次證明其作為全球旅客最愛目的地的地位。",
+    "title": "藍曬曼谷晶夢",
+    "prompt": "Cyanotype print, Prussian blue monochrome tones, sun-exposed paper, high contrast silhouette, blueprint aesthetic, photogram style. A split view composition with a sharp vertical cut line. Left half: A close-up photograph captured with a 50mm lens at f/2.0, showcasing an elegant Siamese cat, half-reclining on a huge crystal pedestal. Its side profile is prominent, gaze penetrating a magnificent crystal lion sculpture. The cat's claws delicately touch the crystalline clarity, causing a faint neon fluorescent hot cyan glow to emerge, the only color visible against the deep Prussian blue monochrome. The image retains the sharp detail and texture of a candid shot under natural light before cyanotype rendering. Right half: A wireframe diagram aesthetic depicting the distant Bangkok city skyline, seen through transparent glass material. This half captures the golden hour lighting, with warm sunset glow creating light refraction and prismatic reflections from the gallery's glass curtain walls, casting long soft shadows across the blue-toned city silhouette, all rendered in Prussian blue monochrome. Visually displayed in the image: 2026-03-12 07:39 UTC.",
+    "idea": "一隻優雅的暹羅貓，半臥在曼谷摩天大樓現代藝廊的巨大水晶基座上，其視線穿透一座宏偉的水晶獅雕塑，凝視著遠方，爪尖輕觸晶體，泛出微弱的霓虹螢光。整個場景以藍曬法呈現，透過分割畫面，一側特寫貓咪的側影與水晶的交錯，另一側則映照黃金時刻下城市的玻璃光影。",
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Split View",
+      "lighting": "Golden Hour",
+      "texture": "Glass / Crystal",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
