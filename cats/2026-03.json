@@ -8614,5 +8614,44 @@
       "微縮立體模型場景",
       "大型雕塑/裝置藝術"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Symmetrical Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sand Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "avoid_list": [
+      "移軸微縮效果",
+      "Knolling排列構圖",
+      "柔和粉彩色系",
+      "高對比雙色調",
+      "底片顆粒質感",
+      "貓咪專注神情",
+      "黃金時刻光線",
+      "亮面塑膠玩具質感",
+      "全息投影元素",
+      "體積光束與光線",
+      "寫實抓拍風格",
+      "未來感材質物件",
+      "貓偵探角色設定",
+      "微縮立體模型場景",
+      "大型雕塑/裝置藝術"
+    ],
+    "idea": "在一間高聳入雲的維多利亞時代蒸汽朋克天文實驗室中，一隻毛色斑駁的貓咪，正以其靈巧的爪子，仔細調整著一組精密的黃銅製彗星物質分析儀器，整個場景以蒸汽朋克藝術風格呈現。",
+    "number": 842,
+    "title": "星際醇釀探測",
+    "inspiration": "智利科學家利用阿塔卡馬大型毫米/亞毫米陣列（ALMA）發現，星際彗星3I/ATLAS富含異常大量的甲醇，其化學結構與太陽系內大多數彗星不同。",
+    "prompt": "A candid film photograph of a spotted cat, 'Probe Pro', meticulously adjusting precise brass comet material analysis instruments with its nimble paws. The cat is centered and framed architecturally within a towering Victorian-era steampunk astronomical laboratory, surrounded by intricate brass gears and cogs, steam-powered mechanisms, and clockwork, reflecting an industrial retrofuturism. The scene is captured with a 35mm lens at f/2.8, using soft diffused natural light from an overcast sky, ensuring even illumination and no harsh shadows, resulting in gentle tones. The overall image has a fine sand texture with desert dune ripples and warm golden granules, showing natural grain detail and fine film grain. The color palette is retro faded and washed-out vintage, exhibiting low contrast and nostalgic film-era warmth. The date and time '2026-03-12 11:25 UTC' are visually displayed within the image.",
+    "story": "這隻被稱為『探測者普羅』的貓咪，肩負著解讀來自遙遠星際彗星樣本中異常甲醇結構的任務。周遭佈滿了齒輪、槓桿與發條，在自然漫射光與沙質紋理的復古褪色色調中，牠專注而好奇地凝視著儀器中閃爍的未知物質，彷彿能洞悉宇宙的秘密。",
+    "comment_id": 4045984313,
+    "news_inspiration": [
+      "美國加州大學河濱分校研究人員發現，一個被忽視的腦幹通路控制著人類的手部活動，為中風治療提供了潛在的新靶點。",
+      "智利科學家利用阿塔卡馬大型毫米/亞毫米陣列（ALMA）發現，星際彗星3I/ATLAS富含異常大量的甲醇，其化學結構與太陽系內大多數彗星不同。",
+      "中國廣東省揭陽市舉辦了城隍廟會，其中包含獨特的英歌舞表演，展現了傳統民俗文化。",
+      "新加坡聖淘沙高爾夫俱樂部舉行了2026年沙特阿美LIV高爾夫新加坡站的首輪比賽，帶來精彩的賽事亮點。"
+    ]
   }
 ]
