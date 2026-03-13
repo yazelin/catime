@@ -9100,5 +9100,34 @@
     "inspiration": "original",
     "news_inspiration": [],
     "title": "擂台戰前"
+  },
+  {
+    "story": "深海壓力沉重，但艦長貓泰格利斯依然冷靜。牠的小爪輕輕撥動旋鈕，眼睛緊盯著閃爍著藍綠色光芒的儀表板。窗外，只有無盡的深藍，而艦艙內，光滑的金屬控制台在精心佈置的光線下閃爍，機械的低鳴與光影交織，如同另一個精密且幽靜的世界。",
+    "avoid_list": [
+      "廣角鏡頭與強烈畸變視角",
+      "雙色調視覺風格",
+      "蝴蝶光照明",
+      "直射閃光燈硬光",
+      "貓咪專注凝視/執行特定動作",
+      "底片顆粒感",
+      "粗糙混凝土紋理及極簡主義",
+      "奇幻超現實氛圍",
+      "畫面內日期時間顯示",
+      "體積光與光線粒子"
+    ],
+    "idea": "一隻貓咪在深海探測潛水器的控制室內，專注地監測壓力錶並微調閥門，以長曝光攝影捕捉儀表發出的幽微光芒，潛水器內部經電影感打光後呈現液態金屬般光澤的冷色調場景，構圖採等距3D插圖的視角。",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Cinematic Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 855,
+    "inspiration": "original",
+    "title": "深潛藍影調校",
+    "comment_id": 4051494308,
+    "news_inspiration": [],
+    "prompt": "A 3D isometric illustration of Captain Cat Tigris, a feline deep-sea submersible pilot, meticulously operating controls within a futuristic, high-tech control room. The cat's paws are delicately adjusting pressure valves, its eyes intently focused on glowing gauges that emit subtle light trails, creating a long exposure effect with motion blur. Cinematic lighting casts volumetric light rays and dramatic shadows across the cool blue-teal interior, highlighting surfaces that gleam like liquid metal and polished chrome with mercury-like reflective flows. The overall atmosphere is crisp and infused with icy undertones, evoking a film-quality mood with high dynamic range. Through the main viewport, an endless, serene deep blue abyss is visible. The date and time '2026-03-13 01:06 UTC' are clearly displayed on a holographic interface within the console."
   }
 ]
