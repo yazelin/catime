@@ -9203,5 +9203,40 @@
     "character": "mochi",
     "inspiration": "original",
     "character_name": "麻糬"
+  },
+  {
+    "title": "微光森學",
+    "news_inspiration": [
+      "2026年3月3日至4日，印度全國各地歡慶繽紛的胡里節（Holi），以色彩粉末和歡樂氣氛迎接春天。",
+      "智利於2026年3月4日獲得世界衛生組織驗證，成為美洲第一個成功消除麻風病的國家，這是一項重要的公共衛生里程碑。",
+      "2026年3月5日，研究人員在巴布亞印尼的佛格科普半島偏遠雨林中，發現了兩種原以為已滅絕逾6,000年的有袋動物。",
+      "法國巴黎在過去二十年間，透過將道路改建為公園和自行車道，成功將空氣污染水平大幅降低。",
+      "2026年3月10日，科學家在火星的水手谷峽谷系統附近發現了一種可能為全新礦物的鐵羥基硫酸鹽。"
+    ],
+    "comment_id": 4061417070,
+    "idea": "在一間隱蔽於古老雨林深處的樹屋實驗室中，一隻專注的貓咪以吉卜力風格的溫暖筆觸，在燭光與透明樹脂的微光映襯下，仔細檢視著一份珍稀的植物標本。畫面以分割畫面構圖呈現，充滿大地色系的細膩質感。",
+    "avoid_list": [
+      "廣角鏡頭與強烈畸變視角",
+      "雙色調視覺風格",
+      "蝴蝶光照明",
+      "直射閃光燈硬光",
+      "貓咪專注凝視/執行特定動作",
+      "底片顆粒感",
+      "粗糙混凝土紋理及極簡主義",
+      "奇幻超現實氛圍",
+      "畫面內日期時間顯示",
+      "體積光與光線粒子"
+    ],
+    "prompt": "A Studio Ghibli anime style illustration depicting a focused, gentle scholar-like cat in a treehouse laboratory hidden deep within an ancient rainforest. The cat is meticulously examining a rare plant specimen, holding a magnifying glass crafted from translucent resin, which has a glossy, amber-like clarity with subtle embedded elements. The scene is warmly lit by flickering candlelight, casting soft dancing shadows and creating an intimate atmosphere, with a warm orange glow. The background features soft watercolor brushstrokes, capturing warm pastoral scenery and the natural organic harmony of the rainforest. The color palette is rich earth tones, including terracotta, olive green, and warm browns. The composition is a split view with a sharp vertical cut line. The left half showcases the cat engrossed in its study, rendered with gentle character design. The right half displays a detailed botanical illustration of the plant specimen or the cat's open notebook filled with intricate, Ghibli-style sketches. The date and time '2026-03-14 21:16 UTC' are subtly integrated into the visual elements of the image, perhaps etched onto a wooden beam or visible on a scientific scroll.",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Split View",
+      "lighting": "Candlelight",
+      "texture": "Translucent Resin",
+      "color_palette": "Earth Tones"
+    },
+    "story": "夜幕低垂，潮濕的空氣中瀰漫著泥土與草木的芬芳。這隻擁有學者風範的貓咪，用爪子輕輕握著一只由透明樹脂製成的放大鏡，在搖曳的燭光下專心研究著一份珍貴的發現。牠的筆記本上已記錄了無數奇特的動植物素描，等待著更多來自雨林深處的奧秘被揭開。",
+    "number": 858,
+    "inspiration": "2026年3月5日，研究人員在巴布亞印尼的佛格科普半島偏遠雨林中，發現了兩種原以為已滅絕逾6,000年的有袋動物。"
   }
 ]
