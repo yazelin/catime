@@ -160,7 +160,7 @@ def format_style_prompt_snippet(picks: dict) -> str:
 
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
-RELEASE_TAG = "cats"
+# RELEASE_TAG is now set dynamically in main() based on current month
 
 # ── Character System ──
 
@@ -928,8 +928,14 @@ def already_has_cat_this_hour(now: datetime) -> bool:
 
 
 def main():
+    global RELEASE_TAG
+    
     now = datetime.now(timezone.utc)
     timestamp = now.strftime("%Y-%m-%d %H:%M UTC")
+    
+    # Dynamically set release tag based on current month (e.g., "cats-2026-03")
+    RELEASE_TAG = f"cats-{timestamp[:7]}"
+    print(f"📦 Using release tag: {RELEASE_TAG}")
 
     # Skip if this hour already has a successful cat
     if already_has_cat_this_hour(now):
