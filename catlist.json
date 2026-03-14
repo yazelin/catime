@@ -7643,5 +7643,16 @@
     "title": "露珠輕語",
     "model": "gemini-3-pro-image-preview",
     "inspiration": "original"
+  },
+  {
+    "character_name": "麻糬",
+    "timestamp": "2026-03-14 20:15 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "title": "籃中月夜饞",
+    "status": "success",
+    "number": 857,
+    "character": "mochi",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-14_2015_UTC.webp"
   }
 ]

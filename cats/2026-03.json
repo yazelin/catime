@@ -9166,5 +9166,42 @@
     "comment_id": 4061212520,
     "prompt": "A 3D isometric illustration with an infrared photography aesthetic. Featured is Lingling, an extremely fluffy pure white #FFFFFF longhair cat, resembling a Ragdoll with voluminous cloud-like fur. Her small round face is nearly hidden, revealing huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of her face) with a gentle sparkle. Her nose and inner ears are pale pink #FFB6C1. Around her neck is a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell, clearly visible and centered beneath the bow knot. Her tail is an enormous feathery white plume, and hints of pink paw pads are visible through her fur. IMPORTANT: Fur is pure white #FFFFFF ONLY, no colored points or patches. Eyes are sapphire-blue #0F52BA ONLY. Collar with bell is ALWAYS visible and centered. Longhair extremely fluffy. Lingling is carefully balancing her plump body on clean geometric origami white foliage within a surreal otherworldly 3D butterfly garden. She gently lifts one front paw, reaching out to softly bat a sparkling dewdrop resting on a specific origami leaf, her round body slightly off-balance but determined. The garden elements are rendered in an Origami style, featuring folded paper art, clean geometric creases, and sharp angular folds, creating a precise and minimal paper sculpture aesthetic. The scene uses a Morandi muted color palette with desaturated soft pastels and dusty grey undertones, exuding a quiet elegance. The background transitions to dark skies, enhancing a dramatic high-contrast lighting scheme. A narrow beam spotlight illuminates Lingling and the dewdrop, creating sharp light edges and deep darkness falloff into the surrounding darkness. The overall rendering is polished and playful. Visually displayed in the image: '2026-03-14 19:31 UTC'.",
     "inspiration": "original"
+  },
+  {
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Extreme Low Angle",
+      "lighting": "Moonlight",
+      "texture": "Velvet",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "加納在阿克拉啟動了2026年文化週慶典，以傳統舞蹈、藝術展覽和文化表演來凸顯其豐富的文化遺產並促進旅遊業。",
+      "在印度新德里舉行的2026年世界殘疾人田徑大獎賽上，印度以208枚獎牌位居獎牌榜首位。",
+      "在美國馬里蘭州巴爾的摩，一款能於數小時內生成全面且可追溯的毒理學風險評估的代理人工智慧平台正式發布，被譽為化學安全科學的「轉型時刻」。",
+      "加拿大隊在義大利科爾蒂納丹佩佐舉行的2026年米蘭-科爾蒂納殘疾人奧運會輪椅冰壺混合團體賽中，以4-3戰勝中國隊奪得金牌。",
+      "全球於3月14日慶祝圓周率日（Pi Day），以紀念數學常數π的重要性並提升公眾對數學在解決現實世界挑戰中作用的意識，該活動最早於美國舊金山開始。"
+    ],
+    "idea": "在傳統夜市的月光下，一隻圓滾滾的橘白貓「麻糬」從一個編織藤籃中探出頭來，琥珀色大眼瞪視著地上的一小塊麻糬點心，整個畫面以豐富的大地色系彩色玻璃藝術風格呈現，並採極低角度構圖。",
+    "avoid_list": [
+      "廣角鏡頭與強烈畸變視角",
+      "雙色調視覺風格",
+      "蝴蝶光照明",
+      "直射閃光燈硬光",
+      "貓咪專注凝視/執行特定動作",
+      "底片顆粒感",
+      "粗糙混凝土紋理及極簡主義",
+      "奇幻超現實氛圍",
+      "畫面內日期時間顯示",
+      "體積光與光線粒子"
+    ],
+    "title": "籃中月夜饞",
+    "prompt": "A vivid stained glass art illustration. An extreme low angle shot, looking up at a chubby rounded shorthair cat named Mochi. Mochi's large round amber #FFBF00 eyes are wide, fixated with a longing, slightly goofy expression on a small piece of peanut mochi dessert illuminated on the ground. Mochi peeks excitedly from the top of a woven wicker delivery basket, appearing eager and subtly trembling with desire to get to the treat. The setting is a traditional night market after closing, under the moonlight.\n\nCharacter details for Mochi: Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches. The RIGHT half-face (from the viewer's perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on Mochi's upper back. The RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, while the LEFT front paw is pure white #FFFFFF. Mochi has a white belly. Mochi's large round eyes are amber #FFBF00. The nose is pink #FFB6C1 with a tiny orange center dot. The tail has orange-and-white ringed bands. Mochi has short stubby legs and a spherical torso. All orange patches are solid, without tabby stripes. Mochi is shorthair only, not fluffy.\n\nArt style: classic stained glass window style with bold black outlines, translucent jewel-toned segments, and a dramatic backlit glow. Composition creates a dramatic, towering, powerful perspective looking up at Mochi and the basket. Lighting: Moonlight illumination with cool blue tones and a gentle silvery glow, enhancing the quiet nighttime atmosphere. Color palette: A rich earth tone palette including terracotta, olive green, warm brown, combined with the cool blue moonlight, creating natural organic harmony. The date and time '2026-03-14 20:15 UTC' are visually displayed within the image.",
+    "comment_id": 4061302447,
+    "story": "夜市收攤後，麻糬鑽進一個送貨用的藤籃裡打盹。然而，一縷月光輕柔地照亮了地上遺落的花生麻糬，貪吃的牠立刻睜大了眼，呆萌的表情中藏不住對美食的渴望。這顆會走路的麻糬，即便身陷籃中，也無法抗拒美食的誘惑，蠢蠢欲動。",
+    "number": 857,
+    "character": "mochi",
+    "inspiration": "original",
+    "character_name": "麻糬"
   }
 ]
