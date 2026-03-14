@@ -7663,5 +7663,18 @@
     "timestamp": "2026-03-14 21:16 UTC",
     "number": 858,
     "inspiration": "2026年3月5日，研究人員在巴布亞印尼的佛格科普半島偏遠雨林中，發現了兩種原以為已滅絕逾6,000年的有袋動物。"
+  },
+  {
+    "character": "momo",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "character_name": "墨墨",
+    "title": "櫻雨書窗夢",
+    "number": 859,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-14_2214_UTC.webp",
+    "timestamp": "2026-03-14 22:14 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "season": "spring"
   }
 ]

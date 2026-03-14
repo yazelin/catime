@@ -9238,5 +9238,43 @@
     "story": "夜幕低垂，潮濕的空氣中瀰漫著泥土與草木的芬芳。這隻擁有學者風範的貓咪，用爪子輕輕握著一只由透明樹脂製成的放大鏡，在搖曳的燭光下專心研究著一份珍貴的發現。牠的筆記本上已記錄了無數奇特的動植物素描，等待著更多來自雨林深處的奧秘被揭開。",
     "number": 858,
     "inspiration": "2026年3月5日，研究人員在巴布亞印尼的佛格科普半島偏遠雨林中，發現了兩種原以為已滅絕逾6,000年的有袋動物。"
+  },
+  {
+    "avoid_list": [
+      "廣角鏡頭與強烈畸變視角",
+      "雙色調視覺風格",
+      "蝴蝶光照明",
+      "直射閃光燈硬光",
+      "貓咪專注凝視/執行特定動作",
+      "底片顆粒感",
+      "粗糙混凝土紋理及極簡主義",
+      "奇幻超現實氛圍",
+      "畫面內日期時間顯示",
+      "體積光與光線粒子"
+    ],
+    "story": "春雨綿綿，窗外櫻花如雪片般飄落，墨墨一如既往地選擇高處，在舊書店的窗台上靜靜俯瞰這一切。牠那如墨般的短毛在漫射光下泛著深棕暖調，胸前的小白毛像精緻的領結。墨墨將書本作為最舒適的枕頭，牠的目光溫和而深邃，彷彿在觀察每一片花瓣的軌跡，享受這份專屬於春日的寧靜與詩意。",
+    "inspiration": "original",
+    "comment_id": 4061528868,
+    "idea": "這是一個以撕紙拼貼效果呈現的畫面，透過魚眼鏡頭捕捉墨墨在舊書店窗台的景象。畫面中，純黑的墨墨優雅地臥在被雨水輕撫的木質窗台上，牠修長的身體在自然漫射光下顯得柔和，一隻前爪輕柔地搭在一本封面褪色的古書上，金琥珀色的眼睛寧靜地凝視窗外紛飛的櫻花雨，整體色彩呈現復古褪色調，帶有絲綢般的細膩質感。",
+    "is_seasonal": true,
+    "character_name": "墨墨",
+    "title": "櫻雨書窗夢",
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Fisheye Lens",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Silk",
+      "color_palette": "Retro Faded Tones"
+    },
+    "prompt": "A torn paper collage effect mixed media illustration. The composition utilizes a fisheye wide-angle lens perspective, creating strong barrel distortion and an exaggerated foreground, giving a 360-degree feel. The scene depicts Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat, whose satin-sheen fur reveals warm brown undertones in the soft, diffused natural light. Her athletic proportions and visible muscle definition are subtly rendered. Momo elegantly reclines on a wooden windowsill of an old bookstore, gently caressed by rainwater, her left ear (viewer perspective) adorned with a single small 3mm gold hoop earring #FFD700 at its mid-edge. A tiny natural white locket tuft #FFFFFF is visible on her ventral chest. Her tail tip has a single dark-grey #696969 ring and a slight upward curl. One front paw lightly rests on a faded antique book. Her large luminous golden-amber #D4A017 eyes, like polished amber gems, gaze calmly and attentively out the window at a flurry of falling cherry blossom petals, reflecting a serene and profound expression, observing each petal's trajectory. Long prominent white whiskers frame her face. The lighting is characteristic of an overcast spring sky, providing even illumination with no harsh shadows. The overall aesthetic features a retro faded color palette with washed-out vintage tones, low contrast, and a nostalgic film-era warmth. The collage elements exhibit visible paper edges and notebook lines, layered textures, and a subtle silk fabric texture feel, lending a luminous smooth surface with delicate light reflections and a luxurious sheen to the overall image. The date and time '2026-03-14 22:14 UTC' are visually integrated into the image, appearing on a torn paper fragment within the collage.",
+    "number": 859,
+    "news_inspiration": [
+      "科學家在格陵蘭冰蓋深處發現了巨大的漩渦狀羽流，這有助於更好地預測冰蓋在全球暖化下的行為。",
+      "愛爾蘭都柏林正舉行盛大的聖派翠克節慶祝活動，以遊行、音樂和社區活動展現愛爾蘭文化。",
+      "NBA球星史蒂芬·柯瑞製作的動畫電影《GOAT》在中國北京上映，廣受好評，為其37歲生日增添光彩。",
+      "倫敦的研究人員發現，人類頭髮的生長方式出乎意料，並非從根部推出，而是由毛囊內的細胞像微型馬達般向上「拉動」。"
+    ],
+    "character": "momo",
+    "season": "spring"
   }
 ]
