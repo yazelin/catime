@@ -9276,5 +9276,42 @@
     ],
     "character": "momo",
     "season": "spring"
+  },
+  {
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Symmetrical Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "等距3D插圖風格",
+      "魚眼鏡頭與超廣角構圖",
+      "復古褪色調",
+      "雙色調藝術風格",
+      "莫蘭迪色調",
+      "大地色系",
+      "蝴蝶光照明",
+      "雨林場景",
+      "貓咪專注於細節操作",
+      "材質紋理細節強調",
+      "貓咪專屬角色設定",
+      "高對比光影效果"
+    ],
+    "prompt": "Digital painting, conceptual art style. A perfectly centered, cream-colored cat symmetrically seated within a De Stijl architectural desert climate research station. The station structure exemplifies neoplasticism and geometric abstraction, featuring strong horizontal and vertical lines, inspired by Mondrian, rendered in primary colors, black, and white. The walls and structural edges are covered in lush green organic moss, creating a soft living patina and a damp forest aesthetic, symbolizing nature reclaiming texture. The cat is illuminated by soft, even butterfly lighting from an overhead key light, casting a symmetrical shadow under its nose, reminiscent of glamour portrait lighting. It observes a holographic projection of a desert greening map, rendered in a quiet elegant Morandi muted color palette with desaturated soft pastels and dusty grey undertones. The composition is perfectly symmetrical with the cat as the centered subject, creating a mirror-like balance within the architectural framing. Visually display '2026-03-14 23:17 UTC' integrated into the holographic display or a minimalist control panel.",
+    "number": 860,
+    "news_inspiration": [
+      "越南文化節將在日本大阪重現雄王紀念儀式，以促進文化交流並加強海外越南人社群的聯繫。",
+      "加州聖巴巴拉城市學院於今天舉辦年度科學探索日，提供適合所有年齡層的互動式科學活動。",
+      "印度女子曲棍球隊已成功獲得2026年國際曲棍球世界盃的參賽資格。",
+      "西班牙馬略卡島的帕爾馬市今日舉辦一場結合跑步、工作坊和早午餐的社交健身活動，旨在促進健康與社區連結。",
+      "中國塔克拉瑪干沙漠周圍的森林現在吸收的二氧化碳多於其釋放量。"
+    ],
+    "comment_id": 4061654587,
+    "inspiration": "中國塔克拉瑪干沙漠周圍的森林現在吸收的二氧化碳多於其釋放量。",
+    "story": "這隻聰慧的貓咪，是塔克拉瑪干沙漠邊緣新興綠洲的無聲守護者。牠每日在幾何形狀的控制台前，凝視著螢幕上逐步擴展的生命之色。其沉靜的存在，象徵著人類與自然和諧共存的未來，以及生態修復的成功。",
+    "title": "靜謐的綠洲守望",
+    "idea": "在一個風格派建築美學的沙漠氣候研究站內，一隻奶油色貓咪以對稱構圖靜坐，透過蝴蝶光照明，觀察莫蘭迪色調全息投影的沙漠綠化地圖，牆面與結構邊緣則覆蓋著苔蘚。"
   }
 ]
