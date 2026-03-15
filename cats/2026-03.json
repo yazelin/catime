@@ -9573,5 +9573,45 @@
       "對稱或遞迴構圖"
     ],
     "story": "夜幕低垂，瓦倫西亞的街頭瀰漫著節慶的氣息。一隻毛色柔和的貓咪，姿態優雅如同畫中走出的聖徒，正輕巧地用一塊發著微光的布，為眼前巍峨的巨型法雅雕塑仔細打磨。這座雕塑由粉彩大理石雕琢而成，在幽幽黑光下散發出令人驚嘆的瑩潤光澤，彷彿等待著黎明的第一道曙光。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 868,
+    "idea": "在雅加達一間剛被指定為文化遺產的老舊圖書館中，一隻毛茸茸的貓咪正在用柔軟的絞染布料仔細擦拭一本古老的皮革裝訂書，整體以霓虹螢光色的刺繡風格呈現，並以魚眼鏡頭捕捉。環形燈的柔和光暈照亮了牠專注的身影。",
+    "news_inspiration": [
+      "由於營養豐富的瑞木漿果豐收刺激了高繁殖熱情，紐西蘭瀕危的鴞鸚鵡在2026年初出現了罕見的產卵高峰。",
+      "日本大阪市收到了一筆匿名捐贈的價值三百五十萬美元金條，專門用於資助該市老舊水管的更換工程。",
+      "智利在2026年成為美洲第一個經世界衛生組織驗證已消除麻風病的國家。",
+      "在美國新英格蘭大西洋水域，研究人員最近發現了三頭瀕危藍鯨，標誌著地球上最大動物的復育又一個里程碑。",
+      "印尼雅加達省政府已指定16個新的文化遺產物，包括13棟建築物、2個構造物和1件文化物品。"
+    ],
+    "inspiration": "印尼雅加達省政府已指定16個新的文化遺產物，包括13棟建築物、2個構造物和1件文化物品。",
+    "story": "這隻被暱稱為「書蟲」的貓咪，似乎深知這些書籍的珍貴。牠小心翼翼地揮舞著一塊螢光黃的絞染除塵布，拂去書脊上累積的歲月塵埃。在彎曲書架的環繞下，牠的舉動為這古老的空間注入了一絲奇異的活力與守護。",
+    "comment_id": 4062717136,
+    "avoid_list": [
+      "等距3D插圖",
+      "科幻高科技場景",
+      "貓咪專注於科學儀器或顯示器",
+      "莫蘭迪色調",
+      "霓虹螢光色",
+      "超廣角或魚眼鏡頭構圖",
+      "體積光與光線穿透效果",
+      "柔和燭光與溫暖橘色光暈",
+      "液態金屬或拋光金屬光澤",
+      "高對比或戲劇性光影",
+      "大地色系與暖色調",
+      "漂浮或抽象幾何形狀",
+      "剪紙或拼貼藝術風格",
+      "大阪城市背景",
+      "對稱或遞迴構圖"
+    ],
+    "prompt": "An embroidered illustration depicting a fluffy cat, nicknamed 'Bookworm', meticulously wiping an ancient, leather-bound book. The cat is using a soft, fluorescent yellow Shibori-style dust cloth, featuring resist-dyed patterns in an indigo blue palette, glowing with neon electric pink, lime green, and hot cyan. The overall style is handcrafted textile art, with visible needlework on linen fabric, using satin stitch and French knots. The scene is set inside an old library in Jakarta, designated as cultural heritage, with curved bookshelves surrounding the cat. The composition is captured with a fisheye wide-angle lens, showcasing strong barrel distortion, an exaggerated foreground, and a 360-degree feel. Ring light illumination casts a soft glow around the cat's focused figure, creating a distinct circular catchlight in its eyes, providing even frontal lighting with a beauty portrait quality. The date and time '2026-03-15 10:18 UTC' are visually displayed in the image.",
+    "title": "螢光書守貓"
   }
 ]
