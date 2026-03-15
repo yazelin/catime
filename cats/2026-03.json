@@ -9613,5 +9613,44 @@
     ],
     "prompt": "An embroidered illustration depicting a fluffy cat, nicknamed 'Bookworm', meticulously wiping an ancient, leather-bound book. The cat is using a soft, fluorescent yellow Shibori-style dust cloth, featuring resist-dyed patterns in an indigo blue palette, glowing with neon electric pink, lime green, and hot cyan. The overall style is handcrafted textile art, with visible needlework on linen fabric, using satin stitch and French knots. The scene is set inside an old library in Jakarta, designated as cultural heritage, with curved bookshelves surrounding the cat. The composition is captured with a fisheye wide-angle lens, showcasing strong barrel distortion, an exaggerated foreground, and a 360-degree feel. Ring light illumination casts a soft glow around the cat's focused figure, creating a distinct circular catchlight in its eyes, providing even frontal lighting with a beauty portrait quality. The date and time '2026-03-15 10:18 UTC' are visually displayed in the image.",
     "title": "螢光書守貓"
+  },
+  {
+    "idea": "在一座老舊、鐵鏽斑斑的兩棲動物保育溫室中，一隻貓正用魚眼鏡頭般的熱成像視角，在閃光燈直打的莫蘭迪色調下，好奇地俯瞰著一處飼養著巴拿馬金蛙的玻璃生態缸。",
+    "number": 869,
+    "story": "這隻常駐溫室的貓，或許是好奇，或許只是在尋找溫暖的角落，牠靜靜地觀察著玻璃缸內的動靜。透過熱成像的視角，貓的溫暖身軀在畫面中顯得鮮明，與金蛙微弱卻獨特的生命熱源，在鏽蝕的金屬結構與潮濕的植物之間，形成一幅色彩沉靜卻充滿生命力的景象。牠的存在，為這處復育之地增添了一抹靜謐的守護氣息。",
+    "prompt": "A candid photograph: A domestic cat, viewed from above through a fisheye wide-angle lens with strong barrel distortion, curiously peers down into a glass terrarium. The scene is depicted with a thermal imaging style, where the cat's warm body and the Panama Golden Frogs inside the terrarium emit a heat map color gradient, primarily in a vibrant red-yellow-blue spectrum, representing their life heat sources. The surrounding environment is an old, rusty, weathered amphibious conservation greenhouse, showing oxidized patina, peeling paint layers, and aged industrial decay with warm orange-brown corrosion. Lighting is provided by a harsh direct on-camera flash, creating blown-out highlights and hard shadows, giving a raw snapshot look. The background elements maintain a Morandi muted color palette, with desaturated soft pastels and dusty grey undertones, creating a quiet elegance that contrasts with the thermal glow. Visually displayed text overlay: '2026-03-15 11:17 UTC'.",
+    "news_inspiration": [
+      "紐西蘭的珍稀無翼鸚鵡（kakapo）因成功的保育工作而數量激增，早期在2026年迎來了大量產卵潮，孵化出52隻幼鳥，有望打破2019年的紀錄。",
+      "巴拿馬已啟動金蛙（Panamanian golden frog）的野放計劃，該物種自2009年起在野外被認為滅絕，這得益於數十年的圈養繁殖項目。",
+      "印尼雅加達省政府指定了16個新的文化遺產物，包括13棟建築、兩個結構和一個文化項目。",
+      "根據團隊觀察和遊客反饋，印尼巴厘島的旅客安全指數在過去一週感覺比平時更安全。"
+    ],
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Fisheye Lens",
+      "lighting": "Direct Flash",
+      "texture": "Rust / Weathered",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "等距3D插圖",
+      "科幻高科技場景",
+      "貓咪專注於科學儀器或顯示器",
+      "莫蘭迪色調",
+      "霓虹螢光色",
+      "超廣角或魚眼鏡頭構圖",
+      "體積光與光線穿透效果",
+      "柔和燭光與溫暖橘色光暈",
+      "液態金屬或拋光金屬光澤",
+      "高對比或戲劇性光影",
+      "大地色系與暖色調",
+      "漂浮或抽象幾何形狀",
+      "剪紙或拼貼藝術風格",
+      "大阪城市背景",
+      "對稱或遞迴構圖"
+    ],
+    "comment_id": 4062794866,
+    "inspiration": "巴拿馬已啟動金蛙（Panamanian golden frog）的野放計劃，該物種自2009年起在野外被認為滅絕，這得益於數十年的圈養繁殖項目。",
+    "title": "蛙園熱望"
   }
 ]
