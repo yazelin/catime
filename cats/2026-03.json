@@ -9652,5 +9652,43 @@
     "comment_id": 4062794866,
     "inspiration": "巴拿馬已啟動金蛙（Panamanian golden frog）的野放計劃，該物種自2009年起在野外被認為滅絕，這得益於數十年的圈養繁殖項目。",
     "title": "蛙園熱望"
+  },
+  {
+    "idea": "在木刻版畫的俯瞰視角下，一隻毛茸茸的貓咪在充滿電影感打光的質樸儲藏室裡，正專注地清點並將籃中堆滿的鮮紅瑞木漿果排列整齊，漿果呈現出精緻的衍紙藝術般紋理，整個畫面以雙色調呈現。",
+    "title": "豐饒之爪",
+    "news_inspiration": [
+      "國際天文學家利用新型望遠鏡網絡，發現了有史以來最亮的快速電波爆發，並將其追溯至一個位於加拿大研究的大熊座附近星系NGC 4141。",
+      "在紐西蘭，因豐富的瑞木漿果刺激了卡卡波鸚鵡的繁殖熱情，目前已產下139枚受精卵並孵化出52隻幼鳥，預計有望打破2019年的紀錄。",
+      "日本大阪市收到一筆匿名捐贈的價值350萬美元金條，專門用於解決城市老舊管道的緊急更換問題。",
+      "在美國阿肯色州費耶特維爾舉行的NCAA室內田徑錦標賽中，喬治亞大學奪得自2018年以來首個室內冠軍，其中一年級生Adaejah Hodge更以22.22秒的場地紀錄贏得200米賽跑。",
+      "在澳洲墨爾本的MCG體育場，墨爾本隊在澳洲澳式足球聯賽中以13分的優勢擊敗聖基爾達隊，贏得了今年一場被譽為「年度最佳」的精彩比賽。"
+    ],
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Bird's-Eye View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "貓咪守護者敘事",
+      "霓虹螢光色調",
+      "超廣角或魚眼鏡頭構圖",
+      "貓咪凝視或觸碰全息投影",
+      "莫蘭迪色調",
+      "體積光穿透塵埃氛圍",
+      "未來科幻研究場景",
+      "大阪城市背景",
+      "生物發光元素",
+      "抽象幾何構成",
+      "古老文物或神秘岩石的探索",
+      "水系統或兩棲動物保育場景",
+      "黑光螢光照明"
+    ],
+    "prompt": "A fluffy cat, the diligent Harvest Overseer, is precisely arranging a bountiful basket of bright red berries in a rustic storage room. Captured from a stark bird's-eye view, looking straight down, creating a miniature world effect. Each berry is intricately rendered in a delicate Paper quilling art style, featuring coiled paper strips and delicate curling loops, giving them a 3D dimensional ornament texture. The entire scene is depicted in a bold woodcut print style, showcasing strong carved lines, high contrast, and a rough wood grain texture. Cinematic lighting with dramatic volumetric light rays casts deep shadows, contributing to a high dynamic range and a film-quality mood. The image employs a striking duotone color treatment, using vibrant red for the berries against a dark, earthy tone for the environment, ensuring a bold graphic impact. '2026-03-15 12:28 UTC' is visually displayed within the image.",
+    "comment_id": 4062901943,
+    "inspiration": "在紐西蘭，因豐富的瑞木漿果刺激了卡卡波鸚鵡的繁殖熱情，目前已產下139枚受精卵並孵化出52隻幼鳥，預計有望打破2019年的紀錄。",
+    "number": 870,
+    "story": "這隻「豐收總管」正仔細巡視牠的豐碩成果，每顆漿果都是大自然慷慨的贈禮。牠的專注反映了對這份甜美豐裕的珍視，彷彿正為漫長的季節做足準備。"
   }
 ]
