@@ -10058,5 +10058,38 @@
       "最新報導指出，全球創新者在近期發表了七項有益人類與自然的全球創新，展現永續發展潛力。"
     ],
     "is_seasonal": true
+  },
+  {
+    "story": "夜幕下的廣闊回收場，處處可見鐵鏽舊化的金屬與斑駁的混凝土。一隻虎斑貓以正交投影的視角被捕捉，牠正專心致志地用爪子將一堆鏽蝕的瓶蓋與細小鐵片分門別類，堆疊成幾座迷你山丘。清冷的月光穿透夜空，將整個大地色系的場景渲染成深淺不一的墨色層次，襯托出貓咪忙碌的身影與周圍沉靜的工業殘骸。",
+    "title": "月夜拾荒者",
+    "avoid_list": [
+      "專注的貓咪",
+      "微縮模型效果 / 移軸微縮視角",
+      "生物發光與黑光螢光",
+      "迷幻風格",
+      "雙色調呈現",
+      "等距3D插圖",
+      "衍紙藝術風格",
+      "電影感打光",
+      "超廣角畫面",
+      "柔和粉彩色系",
+      "光滑亮面質感",
+      "古老/舊化物件",
+      "科技感裝置/系統",
+      "暖色調/秋季調色"
+    ],
+    "number": 881,
+    "idea": "在一個荒廢的工業回收場，一隻貓咪於清冷月光下仔細分類廢棄物，以水墨畫風格的筆觸描繪。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "Chinese ink wash painting in sumi-e style, depicting a tabby cat meticulously sorting rusted bottle caps and small iron pieces into mini-mounds in an abandoned industrial recycling yard. The scene is rendered with an orthographic projection, straight-on flat, and no perspective distortion, akin to a technical illustration. Minimalist brushwork and flowing black ink on rice paper create deep, varied ink gradients. Cool moonlight illumination casts a gentle silvery glow, establishing a quiet nighttime atmosphere. The color palette incorporates deep ink tones, alongside an earth tone palette of warm orange-brown corrosion, oxidized patina, terracotta, olive green, and warm brown, reflecting aged industrial decay and natural organic harmony. The text '2026-03-15 23:19 UTC' is visually displayed within the image.",
+    "comment_id": 4064148774,
+    "inspiration": "original"
   }
 ]
