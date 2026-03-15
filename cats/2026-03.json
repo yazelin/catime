@@ -10016,5 +10016,47 @@
     "inspiration": "original",
     "story": "老街市場的麻糬，最喜歡在麵包攤打盹，然後在食物上桌時瞬間「活」過來。這天，牠又鑽進剛好能塞下的麵包箱裡，聞到剛出爐的奶酥香氣，琥珀色大眼立刻放大兩倍，呆萌的臉上寫滿了「想吃！」。",
     "prompt": "An artistic painting in Fauvism style depicting a chubby rounded shorthair cat named Mochi, with a white #FFFFFF base coat and solid bright orange #FF8C00 patches, peeking adorably from a wooden bread crate at a traditional market bread stall. Mochi's large round amber #FFBF00 eyes are wide and fixated on freshly baked bread, reflecting a 'want to eat!' expression. Her pink #FFB6C1 nose with a tiny orange center dot twitches with anticipation. The RIGHT half-face (viewer perspective) features an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; the LEFT face remains entirely white. Her dorsal back prominently displays a heart-shaped orange #FF8C00 saddle. Her body is spherical with short stubby legs and a white belly. Her RIGHT front paw, if visible, is a solid orange #FF8C00 mitten to the wrist; the LEFT front paw is pure white #FFFFFF. Her tail, if visible, has orange-and-white ringed bands. The artwork is rendered with bold non-naturalistic colors, textured impasto brushwork, and simplified forms, creating a wildly vibrant palette. The composition employs a recursive image, the Droste effect, where the scene repeats infinitely within itself, forming a self-referential loop. Illumination is Rembrandt lighting, with a single light source at 45 degrees casting a signature triangle of light on the shadowed cheek, creating dramatic chiaroscuro. The overall color palette is soft pastel, incorporating gentle pinks, lavenders, mints, and baby blues, creating dreamy light tones. The environment features a raw concrete texture, embracing a brutalist aesthetic with rough aggregate surfaces, evoking industrial minimalism and urban materials. Visually displayed within the image is the text '2026-03-15 21:18 UTC'."
+  },
+  {
+    "prompt": "An architectural blueprint style illustration, rendered predominantly in a luxurious metallic gold and deep black color scheme. The central subject is Momo, a sleek, slender Bombay-style shorthair cat with solid black #0A0A0A satin-sheen fur revealing warm brown undertones in direct light, showcasing her athletic proportions and visible muscle definition. Her tail has a slight upward curl at the tip, which features a single dark-grey #696969 ring. A single small gold hoop earring #FFD700 (3mm) is meticulously placed on her LEFT ear (viewer's perspective), and a tiny natural white locket tuft #FFFFFF is present on her ventral chest. Momo's large, luminous golden-amber #D4A017 eyes are calm and attentive, focused intently, with long prominent white whiskers. She is perched on a wide windowsill during a spring rain, gazing outwards through a frosted glass window. The composition utilizes a dramatic fisheye wide-angle lens perspective, creating strong barrel distortion, an exaggerated foreground, and an immersive 360-degree feel. The frosted glass pane has a translucent matte surface, with soft, blurred shapes of the exterior visible behind, while individual raindrops and delicate cherry blossom petals are depicted with precise gold line-art and annotations as they glide down the pane. Cinematic lighting casts dramatic shadows and volumetric light rays, enhancing the opulent mood and creating a high dynamic range for a film-quality aesthetic. The overall artwork evokes a precise technical drawing, with '2026-03-15 22:16 UTC' prominently displayed as an integral part of the blueprint's annotations.",
+    "inspiration": "中國科學家成功創造出比天然鑽石更堅硬的稀有「六方鑽石」，這項突破可能在材料科學領域帶來重要應用。",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Fisheye Lens",
+      "lighting": "Cinematic Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "character": "momo",
+    "idea": "以建築藍圖風格呈現。純黑的墨墨在雨天的窗台上，透過魚眼鏡頭的彎曲視角，牠金琥珀色的眼睛專注地凝視窗外飄落的櫻花雨，背景是磨砂玻璃般模糊卻又充滿線條感的雨滴與花瓣。",
+    "season": "spring",
+    "comment_id": 4064022500,
+    "title": "金瞳測雨櫻",
+    "story": "在一個細雨紛飛的春天午後，舊書店二樓的寬闊窗台上，墨墨靜靜地臥著。牠修長的身體在金黑奢華的藍圖線條中勾勒出優雅的弧度，左耳的小金環閃爍著，而牠那雙如寶石般的金琥珀色眼睛，正以一種幾乎是計算的精準，追蹤著一片濕潤的櫻花瓣，看它如何沿著佈滿雨珠的磨砂玻璃窗緩緩滑落。牠安靜的姿態與外界雨櫻紛飛的動態形成鮮明對比，宛如一幅流動的精確設計圖。",
+    "number": 880,
+    "avoid_list": [
+      "專注的貓咪",
+      "微縮模型效果 / 移軸微縮視角",
+      "生物發光與黑光螢光",
+      "迷幻風格",
+      "雙色調呈現",
+      "等距3D插圖",
+      "衍紙藝術風格",
+      "電影感打光",
+      "超廣角畫面",
+      "柔和粉彩色系",
+      "光滑亮面質感",
+      "古老/舊化物件",
+      "科技感裝置/系統",
+      "暖色調/秋季調色"
+    ],
+    "news_inspiration": [
+      "中國科學家成功創造出比天然鑽石更堅硬的稀有「六方鑽石」，這項突破可能在材料科學領域帶來重要應用。",
+      "愛爾蘭各地已開始提前慶祝傳統的聖派翠克節，街道充滿綠色裝飾與歡樂氣氛。",
+      "巴西GOL航空公司宣布開通從里約熱內盧直飛法國巴黎和葡萄牙里斯本的新航線，拓展了歐洲旅遊選項。",
+      "最新報導指出，全球創新者在近期發表了七項有益人類與自然的全球創新，展現永續發展潛力。"
+    ],
+    "is_seasonal": true
   }
 ]
