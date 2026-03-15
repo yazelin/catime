@@ -9722,5 +9722,37 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "number": 872,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Symmetrical Composition",
+      "lighting": "Ring Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [],
+    "avoid_list": [
+      "貓咪守護者敘事",
+      "霓虹螢光色調",
+      "超廣角或魚眼鏡頭構圖",
+      "貓咪凝視或觸碰全息投影",
+      "莫蘭迪色調",
+      "體積光穿透塵埃氛圍",
+      "未來科幻研究場景",
+      "大阪城市背景",
+      "生物發光元素",
+      "抽象幾何構成",
+      "古老文物或神秘岩石的探索",
+      "水系統或兩棲動物保育場景",
+      "黑光螢光照明"
+    ],
+    "prompt": "A tough-looking, serious tabby cat, wearing a jeweler's loupe, intently examining an old, worn pocket watch inside a cozy pawn shop. The cat is the centered subject in a perfectly symmetrical composition, framed by architectural elements of the shop. Ring light illumination casts even frontal lighting, creating a beauty portrait quality, with a prominent circular catchlight reflected in the cat's amber eyes. The background features frosted glass display cases with translucent matte surfaces, showing diffused light transmission and soft, blurred shapes of antique objects behind. The overall scene is rendered in a Grand Theft Auto art style, characterized by bold cel-shaded illustration, saturated colors, and an urban attitude. The color grading is a warm amber, utilizing an autumn palette of golden yellows and burnt orange, evoking a cozy nostalgic warmth. The date and time '2026-03-15 14:20 UTC' is visually displayed in the image.",
+    "title": "典當歲月",
+    "comment_id": 4063090298,
+    "idea": "在一個充滿舊物和故事、瀰漫著琥珀色暖光的當舖裡，一隻神情嚴肅的斑紋貓，以GTA風格的強烈視覺，正專注地鑑定一只老舊懷錶。",
+    "story": "區裡最精明的典當師——一隻略顯粗獷的斑紋貓——戴著珠寶放大鏡，聚精會神地研究顧客遞來的斑駁懷錶。環形檯燈的光線精準灑落，映亮它琥珀色的瞳孔與櫃檯上磨砂玻璃展示櫃中的光芒，營造出強烈的對稱構圖。"
   }
 ]
