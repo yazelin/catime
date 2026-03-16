@@ -10364,5 +10364,43 @@
       "具光澤感/光滑表面"
     ],
     "story": "這座樹木天文台內，古老的樹皮與未來科技完美融合。貓科天文學家在柔和的黃金時刻光線中，透過流動如墨水般的全息影像，探索著35光年外那顆充滿岩漿的奇異行星，牠的每個細微動作都透露出對宇宙奧秘的無限好奇。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Direct Flash",
+      "texture": "Rust / Weathered",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "鏡中柔語",
+    "prompt": "A cinematic storyboard grid, depicting film keyframes and sequential shots. The scene is composed through a worn, old mirror, offering a mirror selfie composition with casual framing and a visible reflection. An intimate close-up perspective captures a fluffy AI cat with a curious expression gently tapping an 'arrested' service robot with its paw, the robot displaying a confused expression on its LED screen. The setting is an old community hall in Macau, in the afternoon. The lighting effect mimics a harsh direct on-camera flash, creating blown-out highlights and hard shadows, giving a raw candid snapshot look. The colors are soft pastel, with gentle pink, lavender, mint, and baby blue tones dominating the dreamy light, complemented by warm orange-brown corrosion on the rusted weathered metal, oxidized patina, and peeling paint layers of the aged industrial decay walls. '2026-03-16 12:44 UTC' is visually displayed within the image.",
+    "inspiration": "在澳門，一個機器人因嚇到一名70歲的老婦人而被「逮捕」，成為一則趣聞。",
+    "number": 889,
+    "story": "在午後寂靜的澳門舊式會堂中，那台因「驚嚇事件」而被暫時擱置的服務型機器人，正靜靜地待在角落。一隻路過的毛絨貓咪，被它LED螢幕上顯示的困惑表情吸引，似乎感受到它的孤單。貓咪輕輕伸出爪子，溫柔地觸碰著機器人的機身，彷彿在無聲地詢問：「你還好嗎？」",
+    "comment_id": 4067427167,
+    "avoid_list": [
+      "日期時間顯示",
+      "貓咪專注操作/整理/擺放",
+      "黑光螢光/紫外光照",
+      "德羅斯特效應",
+      "正交投影",
+      "電影感打光/高動態範圍",
+      "莫蘭迪色調",
+      "奢華金黑配色",
+      "底片顆粒/類比質感",
+      "超廣角/魚眼鏡頭視角",
+      "暖琥珀色調/秋日配色",
+      "移軸微縮效果",
+      "古老/廢棄場景",
+      "具光澤感/光滑表面"
+    ],
+    "idea": "這是一幅如電影分鏡般的畫面，透過一面斑駁的舊鏡子構圖，一隻毛色蓬鬆的AI貓在澳門一間老舊社區會堂裡，溫柔地用爪子輕拍著一台「被逮捕」的服務型機器人。直打閃光燈捕捉了粉彩色調下，鐵鏽舊化的牆面與貓咪的好奇神情。",
+    "news_inspiration": [
+      "1926年3月16日，羅伯特·戈達德教授在美國麻薩諸塞州奧本成功發射了世界上第一枚液體燃料火箭，開啟了太空時代。",
+      "在澳門，一個機器人因嚇到一名70歲的老婦人而被「逮捕」，成為一則趣聞。",
+      "日本大阪市收到一筆價值數百萬美元的匿名黃金捐贈，將用於改善城市的水管系統。",
+      "智利已獲得世界衛生組織驗證，成為美洲第一個成功消除麻瘋病的國家。"
+    ]
   }
 ]
