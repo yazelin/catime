@@ -31,8 +31,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NANOBANANA_MODEL: gemini-3-pro-image-preview
-          NANOBANANA_TIMEOUT: '180'
-          NANOBANANA_FALLBACK_MODELS: gemini-3-pro-image-preview,gemini-2.5-flash-image
+          NANOBANANA_TIMEOUT: '240'
+          NANOBANANA_FALLBACK_MODELS: gemini-3-pro-image-preview,gemini-3.1-flash-image-preview,gemini-2.5-flash-image
         run: python scripts/generate_cat.py
 
       - name: Post to Telegram channel
