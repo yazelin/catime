@@ -10129,5 +10129,43 @@
       "texture": "Marble",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "inspiration": "日本名頃村的獨特稻草人節以真人大小的稻草人取代居民，展現了另類文化生命力，吸引了國際關注。",
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Orthographic Projection",
+      "lighting": "Three-Point Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 4064986285,
+    "news_inspiration": [
+      "日本名頃村的獨特稻草人節以真人大小的稻草人取代居民，展現了另類文化生命力，吸引了國際關注。",
+      "中國科學技術大學的科學家們開發出夜視隱形眼鏡，有望讓人們在黑暗中也能看清事物。",
+      "挪威近日宣布停止使用快速成長的肉雞，此舉是為改善動物福利的積極生活方式相關新聞。",
+      "哥斯大黎加的自然與冒險主題假期需求量不斷上升，吸引尋求獨特體驗的旅客。"
+    ],
+    "idea": "一幅黑白水彩畫，以正交投影呈現。畫面中，一隻虎斑貓正專心致志地站在一張木紋清晰的凳子上，用牠靈巧的爪子仔細整理著一個真人大小、身著傳統農夫服飾的稻草人草製髮絲，周遭的木質工作室堆滿了各式製作稻草人的工具與材料。",
+    "avoid_list": [
+      "專注的貓咪",
+      "微縮模型效果 / 移軸微縮視角",
+      "生物發光與黑光螢光",
+      "迷幻風格",
+      "雙色調呈現",
+      "等距3D插圖",
+      "衍紙藝術風格",
+      "電影感打光",
+      "超廣角畫面",
+      "柔和粉彩色系",
+      "光滑亮面質感",
+      "古老/舊化物件",
+      "科技感裝置/系統",
+      "暖色調/秋季調色"
+    ],
+    "number": 883,
+    "title": "草人匠貓",
+    "story": "在被遺忘的村落裡，每位居民都是草與布的化身。而這隻擁有藝術天賦的貓，則承擔了賦予牠們「生命」的重任。牠在光線柔和、木香瀰漫的工作室中，日復一日地創造著，彷彿每一根稻草都在牠的指尖下獲得了靈魂。",
+    "prompt": "A black and white monochrome watercolor painting, created with soft transparent pigments, showcasing bleeding edges and a wet-on-wet technique, revealing the natural paper texture. The composition utilizes an orthographic projection, displaying no perspective distortion, with a straight-on flat rendering style akin to a technical illustration. The central focus is a focused tabby cat diligently standing on a sturdy wooden stool, which exhibits natural wood grain texture with visible knots and lines, creating an organic tactile surface through its rendering. The cat is meticulously using its agile paws to carefully arrange the intricate straw hair of a life-sized scarecrow, which is dressed in traditional farmer's attire. The surrounding wooden studio is depicted full of various scarecrow-making tools and raw materials, subtly conveying the richness of wood grain through varied tonal shading in the monochromatic palette. The scene is illuminated by a classic three-point lighting setup: a key light casting soft shadows, a fill light, and a subtle rim light providing separation, resulting in high contrast, a rich tonal range, and dramatic shadows and highlights. The date and time '2026-03-16 04:30 UTC' are visually displayed as if etched onto a wooden tool handle or clearly written on a piece of parchment within the studio."
   }
 ]
