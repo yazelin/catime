@@ -10208,5 +10208,44 @@
       "texture": "Film Grain",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "idea": "以洛可可風格繪製，俯瞰視角下，一隻擁有高飽和鮮豔色彩的波斯貓，正優雅地坐在一堆摺紙紋理的迦納肯特布樣品上，牠的爪子輕柔地撥弄著一塊色彩斑斕的「摺紙布料」，彷彿在設計新的圖案，整個畫面在環形光的均勻照射下顯得精緻而生動。",
+    "news_inspiration": [
+      "迦納於阿克拉舉辦2026年迦納文化週，展示傳統舞蹈、藝術和肯特布等豐富的紡織傳統。",
+      "科學家在火星蓋爾撞擊坑下方發現隱藏的水，暗示火星可能比原先認為的更長時間內支持生命。",
+      "首爾的2026年春季皇家文化節於3月16日開放外國遊客購票，該節慶將在五座宮殿和宗廟舉行表演與沉浸式遊覽。",
+      "墨西哥城於3月15日成功創造了世界上最大的足球課程金氏世界紀錄。",
+      "巴黎的世界最古老馬戲團正在修復中，以恢復其昔日的輝煌。"
+    ],
+    "inspiration": "迦納於阿克拉舉辦2026年迦納文化週，展示傳統舞蹈、藝術和肯特布等豐富的紡織傳統。",
+    "avoid_list": [
+      "日期時間顯示",
+      "貓咪專注操作/整理/擺放",
+      "黑光螢光/紫外光照",
+      "德羅斯特效應",
+      "正交投影",
+      "電影感打光/高動態範圍",
+      "莫蘭迪色調",
+      "奢華金黑配色",
+      "底片顆粒/類比質感",
+      "超廣角/魚眼鏡頭視角",
+      "暖琥珀色調/秋日配色",
+      "移軸微縮效果",
+      "古老/廢棄場景",
+      "具光澤感/光滑表面"
+    ],
+    "story": "在富麗堂皇的洛可可工坊裡，設計師貓咪「肯特爵士」正沉浸於牠的創作世界。牠以摺紙般的巧手，將鮮豔的布料重新排列組合，創造出令人驚嘆的紋樣，將非洲的熱情與法式的浪漫巧妙融合。這不僅是牠的玩耍，更是東西方美學的一次奇妙碰撞，編織出視覺的夢境。",
+    "comment_id": 4065797040,
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Bird's-Eye View",
+      "lighting": "Ring Light",
+      "texture": "Origami",
+      "color_palette": "High Saturation Vivid"
+    },
+    "number": 885,
+    "title": "肯特爵士的洛可可織夢",
+    "prompt": "An art illustration in Rococo style, depicting a high saturation vivid colored Persian cat, rendered with bold vibrant hues. The cat sits elegantly on a pile of Ghanaian Kente fabric samples, which are designed with a distinct origami texture. Its paws delicately arrange and interact with individual pieces of colorful, folded origami fabric, as if designing new patterns. The artwork features flamboyant pastel colors, flowing ornamental curves, elaborate decorative details, and a light playful elegance. The fabrics showcase clean geometric creases and sharp angular folds, embodying a precise paper sculpture aesthetic with an energetic palette. The composition is a bird's-eye view, top-down perspective, looking straight down, creating a miniature world effect. The scene is uniformly illuminated by ring light, providing even frontal lighting and a circular catchlight in the cat's eyes, achieving a beauty portrait quality. Visually display '2026-03-16 08:01 UTC' within the image."
   }
 ]
