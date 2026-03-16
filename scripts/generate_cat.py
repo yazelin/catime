@@ -123,15 +123,74 @@ def load_style_reference() -> dict:
         return {}
 
 
-def pick_random_styles() -> dict:
-    """Pick one random style from each category. Returns {category: {zh, en, prompt}}."""
+STYLE_FILTER_PROMPT = (
+    "You are filtering style options for an AI cat image generator.\n\n"
+    "AVOID LIST (overused themes to skip):\n{avoid_list}\n\n"
+    "STYLE OPTIONS by category:\n{style_options}\n\n"
+    "For each style option, decide if it matches or overlaps with ANY avoid list item.\n"
+    "Match broadly: if the avoid item's concept covers the style, exclude it.\n"
+    "Examples: '暖色調/秋季調色' should exclude '暖色調（琥珀/秋日）', "
+    "'光滑亮面質感' should exclude '亮面塑膠/玩具質感', "
+    "'微縮模型效果' should exclude '微縮立體模型'.\n\n"
+    "Output a JSON object mapping each category to a list of indices (0-based) to EXCLUDE:\n"
+    '{{"art_style": [0, 3], "composition": [1], "lighting": [], ...}}\n'
+    "If no styles should be excluded in a category, use an empty list []."
+)
+
+
+def _filter_styles_with_ai(styles: dict, avoid_list: list[str]) -> dict[str, set[int]]:
+    """Use Gemini Flash to determine which style indices to exclude per category."""
+    # Format style options for the prompt
+    lines = []
+    for category, entries in styles.items():
+        opts = ", ".join(f"[{i}] {e['zh']} ({e['en']})" for i, e in enumerate(entries))
+        lines.append(f"{category}: {opts}")
+    style_options = "\n".join(lines)
+    avoid_text = "\n".join(f"- {item}" for item in avoid_list)
+
+    try:
+        from google import genai
+
+        client = genai.Client()
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=STYLE_FILTER_PROMPT.format(avoid_list=avoid_text, style_options=style_options),
+        )
+        # Parse with no required keys — partial results are fine
+        result = parse_ai_response_generic(response.text, [])
+        if result and isinstance(result, dict):
+            excluded = {}
+            for category in styles:
+                indices = result.get(category, [])
+                if isinstance(indices, list):
+                    excluded[category] = set(int(i) for i in indices if isinstance(i, (int, float)))
+                else:
+                    excluded[category] = set()
+            total = sum(len(v) for v in excluded.values())
+            print(f"Style filter: AI excluded {total} styles across {len(excluded)} categories.")
+            return excluded
+    except Exception as e:
+        print(f"Style filter AI call failed ({e}), skipping filter.")
+    return {}
+
+
+def pick_random_styles(avoid_list: list[str] | None = None) -> dict:
+    """Pick one random style from each category, using AI to filter avoided styles.
+
+    Returns {category: {zh, en, prompt}}.
+    """
     styles = load_style_reference()
     if not styles:
         return {}
+    excluded = _filter_styles_with_ai(styles, avoid_list) if avoid_list else {}
     picks = {}
     for category, entries in styles.items():
-        if entries:
-            picks[category] = random.choice(entries)
+        excl = excluded.get(category, set())
+        candidates = [e for i, e in enumerate(entries) if i not in excl] if excl else entries
+        if not candidates:
+            candidates = entries  # fallback if all filtered out
+        if candidates:
+            picks[category] = random.choice(candidates)
     return picks
 
 
@@ -577,8 +636,8 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
     character_idea_section = format_character_for_idea(character) if character else ""
     character_render_section = format_character_for_render(character) if character else ""
 
-    # Pick random styles from style_reference.json
-    style_picks = pick_random_styles()
+    # Pick random styles from style_reference.json, filtering out avoided styles
+    style_picks = pick_random_styles(avoid_list)
     style_section = format_style_suggestion(style_picks)
     style_snippets = format_style_prompt_snippet(style_picks)
     style_snippets_section = f"Style reference snippets: {style_snippets}\n" if style_snippets else ""
