@@ -5,6 +5,7 @@
 每小時，GitHub Actions 會透過 Google Gemini 自動生成一張獨特的貓咪圖片，上傳到 GitHub Release，並發佈到月度 issue。103+ 種藝術風格——從浮世繪到賽博龐克到刺繡微縮模型。每隻貓都有自己的故事。
 
 🌐 **圖庫：** [yazelin.github.io/catime](https://yazelin.github.io/catime/)
+📲 **Telegram：** [@catime_yaze](https://t.me/catime_yaze) — 每小時自動發圖
 📦 **PyPI：** [catime](https://pypi.org/project/catime/)
 🧩 **OpenClaw 技能：** `clawhub install catime`
 

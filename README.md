@@ -5,7 +5,7 @@
 Every hour, a GitHub Actions workflow generates a unique cat image using Google Gemini, uploads it as a GitHub Release asset, and posts it to a monthly issue. 103+ art styles — from ukiyo-e to cyberpunk to embroidery miniatures. Each cat comes with its own story.
 
 - 🌐 **Gallery:** [yazelin.github.io/catime](https://yazelin.github.io/catime/)
-- 📲 **Telegram:** [@catime_mori](https://t.me/catime_mori) — 每小時自動發圖
+- 📲 **Telegram:** [@catime_yaze](https://t.me/catime_yaze) — 每小時自動發圖
 - 📦 **PyPI:** [catime](https://pypi.org/project/catime/)
 - 🧩 **OpenClaw Skill:** `clawhub install catime`
 

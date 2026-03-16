@@ -5,6 +5,7 @@
 毎時間、GitHub ActionsワークフローがGoogle Geminiを使って独自の猫画像を生成し、GitHub Releaseアセットとしてアップロードし、月次issueに投稿します。103以上のアートスタイル——浮世絵からサイバーパンク、刺繍ミニチュアまで。各猫にはオリジナルのストーリーがあります。
 
 🌐 **ギャラリー：** [yazelin.github.io/catime](https://yazelin.github.io/catime/)
+📲 **Telegram：** [@catime_yaze](https://t.me/catime_yaze) — 毎時自動投稿
 📦 **PyPI：** [catime](https://pypi.org/project/catime/)
 🧩 **OpenClaw スキル：** `clawhub install catime`
 
