@@ -10167,5 +10167,46 @@
     "title": "草人匠貓",
     "story": "在被遺忘的村落裡，每位居民都是草與布的化身。而這隻擁有藝術天賦的貓，則承擔了賦予牠們「生命」的重任。牠在光線柔和、木香瀰漫的工作室中，日復一日地創造著，彷彿每一根稻草都在牠的指尖下獲得了靈魂。",
     "prompt": "A black and white monochrome watercolor painting, created with soft transparent pigments, showcasing bleeding edges and a wet-on-wet technique, revealing the natural paper texture. The composition utilizes an orthographic projection, displaying no perspective distortion, with a straight-on flat rendering style akin to a technical illustration. The central focus is a focused tabby cat diligently standing on a sturdy wooden stool, which exhibits natural wood grain texture with visible knots and lines, creating an organic tactile surface through its rendering. The cat is meticulously using its agile paws to carefully arrange the intricate straw hair of a life-sized scarecrow, which is dressed in traditional farmer's attire. The surrounding wooden studio is depicted full of various scarecrow-making tools and raw materials, subtly conveying the richness of wood grain through varied tonal shading in the monochromatic palette. The scene is illuminated by a classic three-point lighting setup: a key light casting soft shadows, a fill light, and a subtle rim light providing separation, resulting in high contrast, a rich tonal range, and dramatic shadows and highlights. The date and time '2026-03-16 04:30 UTC' are visually displayed as if etched onto a wooden tool handle or clearly written on a piece of parchment within the studio."
+  },
+  {
+    "idea": "一幅以新藝術風格繪製的畫面，船長威嚴地坐在港口老酒吧的華麗高腳椅上，一名身著復古制服的調酒師正恭敬地向牠展示一條鮮魚。船長原本堅毅的表情瞬間瓦解，翠綠色的右眼圓睜，渴望地凝視著魚，整個畫面籠罩在溫暖的燭光下，並透過德羅斯特效應在背景的巨大鏡面中形成遞迴的視覺效果，同時帶有底片顆粒質感和琥珀色調。",
+    "character_name": "船長",
+    "prompt": "An Art Nouveau illustration, Mucha-inspired, with flowing organic curves, ornamental borders, and delicate floral motifs. The scene is set in an old harbor bar, enveloped in warm candlelight that casts a flickering orange glow, creating an intimate atmosphere with soft dancing shadows. An overall warm amber color grading, reminiscent of an autumn palette with golden yellows and burnt orange, evokes a cozy nostalgic warmth. The image is enhanced by visible film grain, subtle analog texture, and organic photographic imperfections. The date and time '2026-03-16 06:13 UTC' are subtly integrated, perhaps etched on the mirror's frame or a small, ornate wall clock within the scene. The central figure is a majestic cat captain, a large, stocky brown classic tabby (#5C4033) with bold black stripes (#1A1A1A) and a broad, muscular build. Its fur is scruffy, untidy, slightly coarse, and of uneven lengths. The cat is seated on an ornate high stool. Its left eye (viewer's perspective) is permanently concealed by a natural dark-pigmented fur patch (#2B1B0E), explicitly a fur marking (no fabric patch or strap). Its right eye, a single piercing emerald green (#50C878), is now wide with pure desire. The left ear features a prominent V-shaped notch. Around its neck, a faded red bandana (#CD5C5C) is tied loosely and visibly. It has a white chest bib (#FFFFFF) and white mitten paws on all four feet, a distinctive M-mark on its forehead, and a thick, sturdy tail. A bartender in a vintage uniform respectfully presents a glistening fresh fish to the cat captain. The captain's previously stern expression has melted, completely fixated on the fish. In the background, a colossal mirror displays a recursive Droste effect, featuring the picture within a picture repeating infinitely in a self-referential loop.",
+    "title": "港灣魚夢",
+    "comment_id": 4065311692,
+    "news_inspiration": [
+      "日本（東京、京都、廣島）預計將在三月迎來櫻花季，屆時城市將會被盛開的櫻花染成粉紅色夢幻景觀，當地人會聚集在樹下野餐慶祝。",
+      "英國的一項臨床試驗宣佈了一項科學突破，開發出單次血液檢測即可在症狀出現前檢測出約50種癌症的方法。",
+      "2026年，全球旅客傾向選擇沉浸式體驗的獨特目的地，例如美國阿拉斯加的冰川景觀、智利阿塔卡馬沙漠的鹽灘以及摩洛哥阿特拉斯山脈的村莊。",
+      "世界棒球經典賽將於三月持續進行，其中分組賽在東京（日本）、聖胡安（波多黎各）和休士頓與邁阿密（美國）等地舉行，最終決賽將在邁阿密決出冠軍。",
+      "2026年的生活風格趨勢顯示，「健康壽命」心態成為主流，人們日益追求結合智慧追蹤裝置與AI驅動的個人化睡眠、恢復和健身指導。"
+    ],
+    "character": "captain",
+    "avoid_list": [
+      "專注的貓咪",
+      "微縮模型效果 / 移軸微縮視角",
+      "生物發光與黑光螢光",
+      "迷幻風格",
+      "雙色調呈現",
+      "等距3D插圖",
+      "衍紙藝術風格",
+      "電影感打光",
+      "超廣角畫面",
+      "柔和粉彩色系",
+      "光滑亮面質感",
+      "古老/舊化物件",
+      "科技感裝置/系統",
+      "暖色調/秋季調色"
+    ],
+    "story": "在碼頭深處那家歷史悠久的老酒吧裡，船長像往常一樣坐在牠最愛的高處，俯視著來往的貓群與人潮。然而，當調酒師將那條閃著銀光的鮮魚放到牠面前時，所有身為碼頭老大的威嚴瞬間消失。牠那隻銳利的翠綠色眼睛裡只剩下對魚的純粹渴望，尾巴輕輕擺動，顯露出一絲難得的失態。",
+    "inspiration": "original",
+    "number": 884,
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Candlelight",
+      "texture": "Film Grain",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
