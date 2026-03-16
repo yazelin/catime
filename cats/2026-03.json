@@ -10670,5 +10670,45 @@
     "inspiration": "印度果阿邦桑科阿萊的BITS Pilani校園舉辦的Quark '26節（2月20-22日）於3月16日被報導為一場結合科技、文化與娛樂的成功盛會，展示了機器人戰鬥和無人機表演。",
     "character": "lingling",
     "idea": "在米提拉畫 (Madhubani Painting) 的獨特風格中，白色蓬鬆的鈴鈴置身於一座充滿高飽和鮮豔色的夜間奇幻花園，園中到處是生物發光的植物與閃爍著微光的飛舞生物，她正好奇地躍起追逐一隻形似晶亮蝴蝶的發光體，整個畫面以遞迴 (Droste Effect) 構圖呈現，並覆蓋一層細膩的底片顆粒 (Film Grain) 質感。"
+  },
+  {
+    "avoid_list": [
+      "摺紙紋理",
+      "充氣PVC材質",
+      "全息投影/地圖",
+      "貓爪輕觸/互動",
+      "貓咪專注凝視/探索",
+      "俯瞰視角與微縮世界效果",
+      "黃金時刻與金光輪廓",
+      "藍青色霓虹燈光與冰冷色調",
+      "復古褪色色調",
+      "大地色系",
+      "霓虹螢光色",
+      "等距攝影",
+      "魚眼鏡頭視角",
+      "故障藝術效果",
+      "聚光燈照明"
+    ],
+    "prompt": "An illustration in architectural blueprint style, featuring a warm-furred orange cat intently focused, meticulously calibrating a colossal metal control console. The console is detailed with complex gears and luminous amber conduits. The scene is set in the immense, derelict central control room of a cosmic space station, viewed with an ultra wide angle perspective (12-18mm lens equivalent) to create dramatic perspective distortion and an expansive field of view. The art style emphasizes precise technical drawing with measurements and annotations, executed with crisp white lines on a deep blue background. Lighting is dramatic Rembrandt style, with a single light source at a 45-degree angle above, illuminating the cat and casting a signature triangle of light on its shadowed cheek, creating intense chiaroscuro. A warm amber color grading dominates the image, an autumn palette of golden yellows and burnt orange, contributing a cozy, nostalgic warmth to the metallic surfaces and sharp reflections, conveying an industrial premium feel. The date and time '2026-03-16 21:29 UTC' is clearly and visibly displayed within the image.",
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "一隻毛色溫暖的橘貓，正於一座龐大、荒廢的宇宙空間站中央控制室內，以建築藍圖的精確藝術風格，全神貫注地校準著一個佈滿複雜齒輪與琥珀色導管的巨型金屬控制台。",
+    "title": "琥珀星圖師",
+    "number": 897,
+    "comment_id": 4070707744,
+    "news_inspiration": [
+      "西班牙瓦倫西亞正在舉行一場充滿藝術、諷刺和煙火的傳統節日法雅節，慶祝活動將持續至3月19日。",
+      "俄羅斯國家航天集團的Progress 92號無人貨運飛船已於今日從國際太空站脫離，預計將攜帶廢物再入地球大氣層焚毀。",
+      "智利Vera C. Rubin天文台正在透過其十年調查計畫，預計將大幅增加已知古柏帶天體的數量，革新我們對太陽系遠古歷史的理解。",
+      "塞爾維亞貝爾格萊德舞蹈節於今日開幕，將帶來一系列國際性的舞蹈表演和藝術活動。",
+      "紐西蘭大師錦標賽於昨日在紐西蘭英格爾伍德圓滿落幕，多位大師級運動員創下新的全國紀錄。"
+    ],
+    "inspiration": "俄羅斯國家航天集團的Progress 92號無人貨運飛船已於今日從國際太空站脫離，預計將攜帶廢物再入地球大氣層焚毀。",
+    "story": "在超廣角鏡頭下，這座昔日輝煌的空間站顯得無比遼闊，只有倫勃朗光從上方投射，為鏽蝕的金屬表面鍍上一層暖光，映襯出貓咪專注工作的身影。牠輕巧地調整著每一個精密的部件，彷彿試圖在無盡的太空中，重新繪製一條已被遺忘的航線，希望點亮深空中那一抹微弱的琥珀色訊號。"
   }
 ]
