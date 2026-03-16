@@ -10595,5 +10595,39 @@
     ],
     "number": 894,
     "prompt": "在「鉛筆素描」風格下，一隻黑貓以「魚眼鏡頭」視角，在充滿金黑色調的古埃及墓室中，於「聚光燈」下專注地嗅聞著古老香料，呈現出「3D渲染」的細緻質感。. The date and time '2026-03-16 18:46 UTC' is visually displayed in the image. pencil sketch, graphite on paper, hatching and cross-hatching, visible pencil strokes, fisheye wide-angle lens, strong barrel distortion, exaggerated foreground, 360-degree feel, narrow beam spotlight, dramatic high-contrast, sharp light edges, deep darkness falloff, polished 3D render, smooth materials, clean geometry, soft global illumination, Cinema 4D aesthetic, gold and black color scheme, luxurious metallic gold accents, deep black background, opulent mood"
+  },
+  {
+    "inspiration": "original",
+    "idea": "一張木刻版畫風格的超廣角影像，捕捉了一隻穿著天鵝絨圍裙的緬因貓，在灑滿粉彩色光線的寬敞工業閣樓裡，以三點打光細緻地操作著一台老式活字印刷機。",
+    "title": "活字貓印",
+    "number": 895,
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Three-Point Lighting",
+      "texture": "Velvet",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "A woodcut print style illustration. An ultra wide-angle composition with dramatic perspective distortion captures an expansive view of a Maine Coon cat, adorned in a velvet apron showcasing deep pile softness and tactile luxury, skillfully operating a vintage letterpress machine. The cat precisely spreads ink across the type-bed with its paws, printing its own poetry collection. It is seated on a velvet-cushioned stool amidst scattered stacks of pastel paper and intricate carving tools within a spacious industrial loft. The entire scene is illuminated by a classic three-point lighting setup, featuring a key light casting soft shadows, a balanced fill light, and a subtle rim light providing separation. Soft pastel light, in a palette of gentle pinks, lavenders, mints, and baby blues, pervades the space, creating dreamy light tones. The artwork is characterized by bold carved lines, high contrast values, and a rough wood grain texture. The date and time '2026-03-16 19:46 UTC' is visually displayed within the image.",
+    "news_inspiration": [],
+    "comment_id": 4070179131,
+    "avoid_list": [
+      "摺紙紋理",
+      "充氣PVC材質",
+      "全息投影/地圖",
+      "貓爪輕觸/互動",
+      "貓咪專注凝視/探索",
+      "俯瞰視角與微縮世界效果",
+      "黃金時刻與金光輪廓",
+      "藍青色霓虹燈光與冰冷色調",
+      "復古褪色色調",
+      "大地色系",
+      "霓虹螢光色",
+      "等距攝影",
+      "魚眼鏡頭視角",
+      "故障藝術效果",
+      "聚光燈照明"
+    ],
+    "story": "緬因貓福吉用牠的肉墊靈巧地將油墨均勻鋪展在活字盤上，印製著牠自創的詩集。牠坐在一張鋪有天鵝絨坐墊的凳子上，身後是巨大的印刷機，周圍散落著層層疊疊的粉彩紙張與雕刻刀具，整個空間在柔和的光線下顯得既古老又充滿生機。"
   }
 ]
