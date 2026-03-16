@@ -7976,5 +7976,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
     "number": 891,
     "inspiration": "original"
+  },
+  {
+    "inspiration": "一條富有遠見的觀鳥路線現已連接非洲五個國家，沿著古老的河流遷徙地圖，為探險者提供了一次獨特的體驗。",
+    "title": "月夜叢林探險家",
+    "timestamp": "2026-03-16 16:52 UTC",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-16_1652_UTC.webp",
+    "number": 892,
+    "model": "gemini-3-pro-image-preview"
   }
 ]
