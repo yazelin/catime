@@ -11420,5 +11420,39 @@
       "texture": "3D Render",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "prompt": "Digital illustration in the style of glitch art and cyberpunk aesthetics. A fluffy pure white Ragdoll cat, Lingling, is captured with a fisheye wide-angle lens, showing strong barrel distortion and an exaggerated foreground. She extends a round, chubby paw, clumsily batting at the glass panel of a dazzling claw machine in a neon-lit arcade, attempting to reach a shiny toy inside. Her huge round sapphire-blue #0F52BA eyes, reflecting the machine's vibrant lights, are filled with innocent longing. Her small round face is nearly hidden in her voluminous cloud-like fur. A pink #FF69B4 ribbon bow collar with a prominent, centered golden #FFD700 bell is visible on her neck, suggesting a recent 'ding-a-ling'. The claw machine itself, featuring a liquid metal surface with mercury-like reflective flow and chrome dripping texture, flashes with high saturation vivid colors, casting bold, energetic light. The entire scene is drenched in cinematic lighting with volumetric light rays and dramatic shadows, creating a film-quality mood and high dynamic range. Subtle digital glitch signals, scan line artifacts, fragmented visuals, and RGB channel shift effects are integrated throughout the light and shadow, conveying a corrupted data aesthetic. Her pale pink #FFB6C1 nose and inner ears are visible. Pink paw pads are visible on her extended paw. Her enormous feathery white plume tail is partially visible. The date and time '2026-03-17 22:22 UTC' is visibly displayed as a glowing digital overlay within the arcade setting.",
+    "inspiration": "original",
+    "avoid_list": [
+      "貓咪專注凝視/檢查/研究",
+      "等距視角/等距3D插畫",
+      "背光/輪廓光/發光邊緣",
+      "復古褪色色調/懷舊氛圍",
+      "Knolling排列構圖",
+      "大阪地下水管/下水道系統",
+      "苔蘚覆蓋/自然生長/濕地美學",
+      "衍紙藝術風格",
+      "莫蘭迪色系/柔和粉彩",
+      "無微縮效果/真實等距攝影",
+      "黏土/陶瓷/磨砂質地",
+      "琥珀色貓眼",
+      "黑貓"
+    ],
+    "number": 918,
+    "character_name": "鈴鈴",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Fisheye Lens",
+      "lighting": "Cinematic Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "電玩夢，鈴鐺追光",
+    "news_inspiration": [],
+    "comment_id": 4078346043,
+    "idea": "以故障藝術風格呈現，透過魚眼鏡頭捕捉鈴鈴在電玩遊樂場中，被一台閃爍著高飽和鮮豔色彩的夾娃娃機深深吸引，機器的液態金屬表面映射出繽紛光影，鈴鈴正伸出爪子笨拙地試圖夾取一個閃亮亮的玩具，全身籠罩在電影感打光下，光影交錯間透出微小的數位故障訊號。",
+    "character": "lingling",
+    "story": "鈴鈴好奇地闖入霓虹閃爍的電玩遊樂場，被一台充滿亮晶晶獎品的夾娃娃機迷住了。她伸出圓胖的小爪子，笨拙地拍打著玻璃，卻因操作桿過高而屢屢失敗，儘管如此，她清澈的寶石藍眼睛裡仍充滿了天真的渴望。每當她用力一撲，脖子上的鈴鐺就發出清脆的「叮鈴」聲，迴盪在充滿數位雜訊的空間裡。"
   }
 ]
