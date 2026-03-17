@@ -10815,5 +10815,39 @@
       "貓咪凝視主題",
       "夜間科幻氛圍"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Orthographic Projection",
+      "lighting": "Direct Flash",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "character": "mochi",
+    "idea": "一幅浮世繪風格的市場景致，運用正交投影構圖，麻糬正奮力擠進一個擺滿金黃菠蘿麵包的木箱，雙眼因渴望而睜大，箱子與週遭牆面覆蓋著苔蘚，整體呈現金色與黑色的奢華筆觸，閃光燈直打般的光線凸顯了牠圓滾的身軀。",
+    "comment_id": 4072200364,
+    "story": "在老街市場深處，一間古樸的麵包攤傳來陣陣誘人香氣。圓滾滾的麻糬被菠蘿麵包的金黃色澤深深吸引，無視身軀的龐大，執意要鑽進那擺滿麵包的木箱裡一探究竟。牠圓胖的身影卡在箱口，肚子微微晃動，渴望的眼神緊盯著面前的美味。",
+    "character_name": "麻糬",
+    "avoid_list": [
+      "專注操作精密儀器",
+      "未來感藍青霓虹場景",
+      "充氣PVC材質",
+      "生物發光或發光體",
+      "超廣角透視變形",
+      "建築藍圖藝術風格",
+      "遞迴式構圖",
+      "畫面顯示日期時間",
+      "底片顆粒質感",
+      "像素藝術風格",
+      "高飽和鮮豔色彩",
+      "貓咪凝視主題",
+      "夜間科幻氛圍"
+    ],
+    "number": 901,
+    "news_inspiration": [],
+    "title": "麵包箱裡的黃金夢",
+    "inspiration": "original",
+    "prompt": "An ukiyo-e Japanese woodblock print in orthographic projection, with no perspective distortion and straight-on flat rendering. The scene features a chubby, spherical shorthair cat named Mochi, with short stubby legs and a white #FFFFFF base coat. Mochi has bright orange #FF8C00 solid patches, including an orange #FF8C00 mask covering the RIGHT half-face (from nose bridge across the RIGHT cheek to the RIGHT ear), while the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on Mochi's upper dorsal back. The RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and the LEFT front paw is pure white #FFFFFF. Mochi's belly is white #FFFFFF. Mochi has large round amber #FFBF00 eyes, and a pink #FFB6C1 nose with a tiny orange center dot. Mochi's tail has orange-and-white ringed bands. Mochi is depicted effortfully squeezing into a moss-covered wooden crate overflowing with golden pineapple buns (菠蘿麵包), with wide, desiring amber eyes. The surrounding walls are also moss-covered with lush green organic overgrowth, reflecting a damp forest aesthetic and soft living patina. The composition is in a technical illustration style with flat color areas and bold outlines and subtle wave patterns. Harsh direct on-camera flash creates blown-out highlights on Mochi's round body and the buns, casting hard shadows, giving a raw candid snapshot look. The overall color scheme is luxurious gold and deep black, with metallic gold accents. The date and time '2026-03-17 04:07 UTC' are visually displayed in the image."
   }
 ]
