@@ -10993,5 +10993,42 @@
       "color_palette": "Monochrome / Black and White"
     },
     "idea": "「青花瓷」風格，俯瞰視角下，一隻黑貓在大阪古老地下水道系統中，輕輕檢查一段設計如青花瓷般精美的修復中水管，環境帶有磨砂玻璃般的朦朧質感。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "濕地之息",
+    "idea": "一幅以時尚編輯攝影風格呈現的等距3D插圖，畫面中一隻深色、毛髮光澤的貓咪，身處烏克蘭卡爾塔爾湖濕地的一處恢復生機的角落。牠正用一個袖珍的黃銅澆水壺，小心翼翼地灌溉著一片依附在苔蘚覆蓋的老樹根上、初生的水生植物，背光勾勒出其專注而優雅的身影，整體色調為溫暖的琥珀與秋日翠綠。",
+    "avoid_list": [
+      "精準地操作/校準",
+      "建築藍圖風格",
+      "遞迴 (Droste Effect) 構圖",
+      "倫勃朗光",
+      "閃光燈直打",
+      "粉彩色系與夢幻光調",
+      "微縮立體模型與移軸效果",
+      "超廣角視角",
+      "生物發光",
+      "金屬質感",
+      "工業風格場景",
+      "雙色調",
+      "幾何形狀或圖案"
+    ],
+    "inspiration": "儘管面臨挑戰，烏克蘭多瑙河三角洲的卡爾塔爾湖濕地生態系統在復育多年後恢復生機，被譽為希望的燈塔。",
+    "prompt": "An isometric 3D illustration rendered in a fashion editorial photography style, featuring a dark, glossy-furred cat with focused amber eyes. The cat is dramatically posed, carefully watering nascent aquatic plants that cling to a moss-covered old tree root, using a miniature brass watering can. The scene is set in a revitalized corner of the Kartal Lake wetlands in Ukraine, rich with lush green organic overgrowth, thriving reeds, and a soft living patina, embodying nature reclaiming texture and a damp forest aesthetic. The lighting is magazine-quality with high-end styling, creating a dramatic mood through strong backlighting and a prominent rim light that forms glowing silhouette edges, elegantly outlining the cat's figure against the sun-drenched environment. The overall color grading is a warm amber, utilizing an autumn palette of golden yellows, burnt orange, and vibrant autumn emerald green, evoking a cozy nostalgic warmth. Visually displayed in the image: '2026-03-17 09:43 UTC'.",
+    "news_inspiration": [
+      "日本大阪一位匿名捐款人捐贈了數百萬美元的金條，用於修復該市老化的水管系統，這項善舉獲得了廣泛讚揚。",
+      "智利已成為美洲第一個獲得世界衛生組織驗證，成功消除麻風病的國家，這是一項重要的公共衛生里程碑。",
+      "加勒比海國家多米尼克計畫於2026年建立全球第一個抹香鯨保護區，並將提供遊客與鯨魚共泳的獨特體驗。",
+      "儘管面臨挑戰，烏克蘭多瑙河三角洲的卡爾塔爾湖濕地生態系統在復育多年後恢復生機，被譽為希望的燈塔。"
+    ],
+    "story": "在卡爾塔爾湖濕地漫長而艱辛的復育後，陽光重新灑落這片土地，帶來了新的生機。這隻被當地人稱為「泥沼裡的園丁」的貓咪，每日穿梭於重新繁盛的蘆葦與濕地草本之間，用牠那雙閃爍著琥珀光芒的眼睛，巡視著每一寸重獲生命力的土地。牠的悉心照料，如同這片濕地堅韌的生命力，預示著更美好的未來。",
+    "comment_id": 4073631482,
+    "number": 906
   }
 ]
