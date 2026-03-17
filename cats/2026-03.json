@@ -11030,5 +11030,45 @@
     "story": "在卡爾塔爾湖濕地漫長而艱辛的復育後，陽光重新灑落這片土地，帶來了新的生機。這隻被當地人稱為「泥沼裡的園丁」的貓咪，每日穿梭於重新繁盛的蘆葦與濕地草本之間，用牠那雙閃爍著琥珀光芒的眼睛，巡視著每一寸重獲生命力的土地。牠的悉心照料，如同這片濕地堅韌的生命力，預示著更美好的未來。",
     "comment_id": 4073631482,
     "number": 906
+  },
+  {
+    "character": "momo",
+    "news_inspiration": [
+      "英國劍橋大學的科學家們意外發現了一種利用光能改造複雜藥物分子的新方法，有望加速藥物研發並使其更環保。",
+      "韓國首爾的皇家文化節將於春季舉行，從3月16日起開放外國遊客預訂體驗傳統皇家文化節目。",
+      "日本大阪市收到了一筆匿名捐贈的價值三百五十萬美元金條，將專門用於更換城市老舊的供水管道。",
+      "智利成為美洲第一個經世界衛生組織驗證已消除麻風病的國家，展現了數十年公共衛生努力的成果。",
+      "道達爾能源公司宣布安哥拉Quiluma海上天然氣田已開始生產，為安哥拉液化天然氣廠提供穩定的氣源。"
+    ],
+    "prompt": "Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat with satin-sheen fur revealing warm brown undertones in direct light. Athletic proportions with visible muscle definition and a slight upward curl at the tail tip. Her LEFT ear features a single small gold hoop earring #FFD700 (3mm) at the mid-ear edge. A tiny natural white locket tuft #FFFFFF marks her ventral chest. Her tail tip has a single dark-grey #696969 ring. Her large, luminous golden-amber #D4A017 eyes, like polished amber gems, are calm and attentive. Long prominent white whiskers. Momo is perched elegantly on a modern antique shop display case, gazing intently at a celadon vase inside. The display case has a carbon fiber weave pattern with a glossy clear coat finish, embodying a high-tech lightweight material and modern industrial aesthetic. The celadon vase exhibits a Morandi muted color palette, with desaturated soft pastels and dusty grey undertones, emanating quiet elegance. Ring light illumination casts an even frontal light, creating a circular catchlight in Momo's golden-amber eyes, achieving a beauty portrait quality. This is a perfectly isometric photograph, a real captured photo with an isometric angle, ensuring no miniature effect. A double exposure photography effect is applied, where the primary image of Momo and the vase is blended with a secondary image, softly overlaid with subtle transparency, featuring traditional Korean royal patterns. Visually displayed in the image: 2026-03-17 10:39 UTC.",
+    "comment_id": 4074005221,
+    "inspiration": "韓國首爾的皇家文化節將於春季舉行，從3月16日起開放外國遊客預訂體驗傳統皇家文化節目。",
+    "character_name": "墨墨",
+    "number": 907,
+    "avoid_list": [
+      "精準地操作/校準",
+      "建築藍圖風格",
+      "遞迴 (Droste Effect) 構圖",
+      "倫勃朗光",
+      "閃光燈直打",
+      "粉彩色系與夢幻光調",
+      "微縮立體模型與移軸效果",
+      "超廣角視角",
+      "生物發光",
+      "金屬質感",
+      "工業風格場景",
+      "雙色調",
+      "幾何形狀或圖案"
+    ],
+    "title": "墨影觀古瓷",
+    "idea": "一隻純黑的墨墨貓優雅地棲息在古董店的韓式展櫃上，凝視著一個莫蘭迪色調的青瓷花瓶，整個畫面以雙重曝光手法呈現，疊加著柔和的傳統韓國皇家紋飾，透過等距攝影視角展現。",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Isometric Photography",
+      "lighting": "Ring Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "在古董店中，墨墨如幽靈般無聲地躍上一個飾有碳纖維紋理的展示櫃。牠那雙金琥珀色的眼睛，在環形燈的均勻光暈下顯得格外明亮，專注地凝視著櫃內一件古老的韓國青瓷。牠靜靜地坐著，彷彿在沉思著這件藝術品的久遠歷史，周圍彌漫著莫蘭迪色系的寧靜氛圍。"
   }
 ]

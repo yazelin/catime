@@ -8115,5 +8115,16 @@
     "timestamp": "2026-03-17 09:43 UTC",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-17_0943_UTC.webp",
     "number": 906
+  },
+  {
+    "inspiration": "韓國首爾的皇家文化節將於春季舉行，從3月16日起開放外國遊客預訂體驗傳統皇家文化節目。",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "character_name": "墨墨",
+    "number": 907,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-17_1039_UTC.webp",
+    "title": "墨影觀古瓷",
+    "timestamp": "2026-03-17 10:39 UTC",
+    "character": "momo",
+    "status": "success"
   }
 ]
