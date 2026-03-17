@@ -11174,5 +11174,42 @@
       "texture": "Velvet",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "title": "塵封星辰鑑",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Isometric Photography",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 911,
+    "idea": "一隻專注的虎斑貓在大學地質學系檔案室中，以漫畫風格呈現，透過等距攝影視角，在背光/輪廓光下，仔細研究一顆表面帶有冰霜結晶般紋理的宇宙玻璃（tektite）。",
+    "inspiration": "科學家在巴西首次發現了南美洲的第一個宇宙玻璃（tektites）場，這些稀有天然玻璃是由古代小行星撞擊地球時形成的。",
+    "story": "在老舊大學地質系檔案室的深處，陽光透過高窗灑落，為一隻好奇的虎斑貓鍍上了一層金邊。牠坐在一疊泛黃的古籍上，小心翼翼地用爪子輕觸一顆表面閃爍著細微結晶紋理的宇宙玻璃。這隻檔案室的守護者似乎正以自己的方式，對這來自天外的稀有寶石進行著無聲的「分類」。",
+    "comment_id": 4076054410,
+    "prompt": "A focused tabby cat, rendered in distinct manga style illustration, meticulously examines a tektite within a university geology department archive room. The cat sits on a stack of yellowed ancient books. The tektite exhibits intricate ice crystal formation, delicate frost patterns, a frozen surface texture, and translucent ice shards, radiating a winter crystalline beauty. The composition utilizes a perfectly isometric perspective, capturing a scene with the visual precision of a real photo's isometric angle, without any miniature effect. Dramatic backlighting casts a strong rim light, creating glowing silhouette edges that clearly outline the cat and the tektite. The artwork features clean ink lines, screentone shading, and expressive eyes for the cat. A Morandi muted color palette, characterized by desaturated soft pastels and dusty grey undertones, defines the quiet elegance of the scene. The text '2026-03-17 15:53 UTC' is visually displayed within the image.",
+    "avoid_list": [
+      "精準地操作/校準",
+      "建築藍圖風格",
+      "遞迴 (Droste Effect) 構圖",
+      "倫勃朗光",
+      "閃光燈直打",
+      "粉彩色系與夢幻光調",
+      "微縮立體模型與移軸效果",
+      "超廣角視角",
+      "生物發光",
+      "金屬質感",
+      "工業風格場景",
+      "雙色調",
+      "幾何形狀或圖案"
+    ],
+    "news_inspiration": [
+      "歐洲核子研究組織（CERN）的LHCb實驗在瑞士日內瓦發現了一種新的類質子粒子，由兩個粲夸克和一個下夸克組成，質量是質子的四倍。",
+      "紐西蘭的北地泥魚（Northland mudfish）在一場最後一刻的逆轉中，贏得了2026年度魚類稱號，凸顯了這種不常見且瀕危生物的魅力。",
+      "科學家在巴西首次發現了南美洲的第一個宇宙玻璃（tektites）場，這些稀有天然玻璃是由古代小行星撞擊地球時形成的。",
+      "在美國阿拉巴馬州莫比爾市一家歷史悠久的牡蠣酒吧，一位八十歲的兒子與他九十九歲的父親共同兌現了一項數十年未曾實現的承諾，免費享用了牡蠣。"
+    ]
   }
 ]
