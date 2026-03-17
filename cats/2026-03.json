@@ -11351,5 +11351,37 @@
     ],
     "title": "品鑑之映",
     "story": "在這座科技感十足的乳製品品鑑室中，銀灰貓咪身著簡潔圍裙，細心地執行著牠的侍酒師職責，將濃郁的鮮奶油精準地倒入醒酒器。一旁，一隻摺耳波斯貓靜靜觀摩，等待牠完成這場如儀式般的醒酒過程，空氣中瀰漫著奢華的奶油清香。"
+  },
+  {
+    "idea": "一隻虎斑貓在一家瀰漫著咖啡香氣的復古咖啡館裡，以蠟筆兒童畫的風格，專注地操作義式咖啡機蒸煮牛奶，畫面採對稱構圖，聚光燈打亮吧檯中央，蒸氣與器皿表面融入冰霜結晶般的細緻質感，整體色調呈現復古褪色色調。",
+    "avoid_list": [
+      "貓咪專注凝視/檢查/研究",
+      "等距視角/等距3D插畫",
+      "背光/輪廓光/發光邊緣",
+      "復古褪色色調/懷舊氛圍",
+      "Knolling排列構圖",
+      "大阪地下水管/下水道系統",
+      "苔蘚覆蓋/自然生長/濕地美學",
+      "衍紙藝術風格",
+      "莫蘭迪色系/柔和粉彩",
+      "無微縮效果/真實等距攝影",
+      "黏土/陶瓷/磨砂質地",
+      "琥珀色貓眼",
+      "黑貓"
+    ],
+    "inspiration": "original",
+    "news_inspiration": [],
+    "number": 916,
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Symmetrical Composition",
+      "lighting": "Spotlight",
+      "texture": "Frost Crystal",
+      "color_palette": "Retro Faded Tones"
+    },
+    "prompt": "A tabby cat wearing a small apron, depicted in a crayon drawing style with a childlike hand-drawn look. The cat is intently operating an espresso machine, steaming milk, inside a retro coffee shop filled with the aroma of coffee. The composition features a perfectly symmetrical design, with the cat and espresso machine centered on the bar, achieving a mirror-like balance and architectural framing. A narrow beam spotlight dramatically illuminates the center of the bar, creating high-contrast with sharp light edges and deep darkness falloff. The rising steam and surfaces of the vessels exhibit delicate frost patterns and ice crystal formations, showing translucent ice shards and a winter crystalline beauty. The overall color palette is retro faded, with washed-out vintage tones and low contrast, conveying a nostalgic film-era warmth. The text '2026-03-17 20:28 UTC' is visually displayed prominently within the image.",
+    "comment_id": 4077814256,
+    "title": "咖啡貓的晨光特調",
+    "story": "晨光透過斑駁的窗戶，映照在吧檯上，一隻繫著小圍裙的虎斑貓，正熟練地將牛奶杯置於蒸汽噴嘴下。牠的動作精準而優雅，在聚光燈的聚焦下，升騰的蒸氣似乎帶有一絲冰霜結晶的奇幻光澤，為這杯即將完成的咖啡注入了獨特的魔法。"
   }
 ]
