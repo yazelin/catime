@@ -11454,5 +11454,43 @@
     "idea": "以故障藝術風格呈現，透過魚眼鏡頭捕捉鈴鈴在電玩遊樂場中，被一台閃爍著高飽和鮮豔色彩的夾娃娃機深深吸引，機器的液態金屬表面映射出繽紛光影，鈴鈴正伸出爪子笨拙地試圖夾取一個閃亮亮的玩具，全身籠罩在電影感打光下，光影交錯間透出微小的數位故障訊號。",
     "character": "lingling",
     "story": "鈴鈴好奇地闖入霓虹閃爍的電玩遊樂場，被一台充滿亮晶晶獎品的夾娃娃機迷住了。她伸出圓胖的小爪子，笨拙地拍打著玻璃，卻因操作桿過高而屢屢失敗，儘管如此，她清澈的寶石藍眼睛裡仍充滿了天真的渴望。每當她用力一撲，脖子上的鈴鐺就發出清脆的「叮鈴」聲，迴盪在充滿數位雜訊的空間裡。"
+  },
+  {
+    "avoid_list": [
+      "貓咪專注凝視/檢查/研究",
+      "等距視角/等距3D插畫",
+      "背光/輪廓光/發光邊緣",
+      "復古褪色色調/懷舊氛圍",
+      "Knolling排列構圖",
+      "大阪地下水管/下水道系統",
+      "苔蘚覆蓋/自然生長/濕地美學",
+      "衍紙藝術風格",
+      "莫蘭迪色系/柔和粉彩",
+      "無微縮效果/真實等距攝影",
+      "黏土/陶瓷/磨砂質地",
+      "琥珀色貓眼",
+      "黑貓"
+    ],
+    "news_inspiration": [
+      "愛爾蘭及全球各地於3月17日慶祝聖派翠克節，以遊行、綠色主題活動和愛爾蘭音樂舞蹈來紀念這個文化盛事。",
+      "葡萄牙里斯本競技隊在歐洲冠軍聯賽中以5-0擊敗對手博德閃耀，成功晉級半準決賽。",
+      "秘魯政府在亞馬遜地區建立了Medio Putumayo-Algodón區域保護區，保護了超過70萬英畝的森林，對野生動物和當地原住民來說是一大勝利。",
+      "世界銀行副總裁在孟加拉國達卡結束訪問，承諾支持大規模創造就業機會，特別是針對青年和婦女。",
+      "根據一份新報告指出，科學家在2025年於全球各地（尤其亞洲和南美洲）發現了超過300種新的淡水魚類。"
+    ],
+    "idea": "在一個充滿生命科技感的亞馬遜「水生創世紀穹頂」實驗室中，一隻橙色虎斑貓正使用其生物增強的爪子，透過全息介面精準調校著一個巨大生物水族箱的營養液流，運用生物朋克風格的魚眼鏡頭構圖捕捉其專注姿態。",
+    "number": 919,
+    "inspiration": "根據一份新報告指出，科學家在2025年於全球各地（尤其亞洲和南美洲）發現了超過300種新的淡水魚類。",
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Fisheye Lens",
+      "lighting": "Three-Point Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A highly stylized biopunk digital art render with a strict duotone color treatment, employing two contrasting colors for bold graphic impact and a modern design feel. An orange tabby cat, its fur a vibrant part of this duotone palette, uses bio-augmented claws to meticulously adjust nutrient fluid flow through a glowing holographic interface. This takes place within a vast 'aquatic genesis dome' laboratory, filled with mutated flora and themes of genetic modification, showcasing an organic-mechanical hybrid aesthetic. The scene is captured with a fisheye wide-angle lens, featuring strong barrel distortion and an exaggerated foreground, creating an immersive 360-degree feel around the focused cat. Surrounding the cat are giant biological aquariums, housing strange freshwater fish that shimmer with bi-color luminescence, their hues integrated into the duotone palette. These aquariums are crafted from transparent vessels exhibiting ice crystal formation, delicate frost patterns, translucent ice shards, and a winter crystalline beauty. Bioluminescent jellyfish-shaped drones float above, providing a classic three-point lighting setup – a soft key light with soft shadows, a fill light, and subtle rim light separation. Visually displayed within the image: '2026-03-17 23:21 UTC'.",
+    "story": "穹頂內，奇異的淡水魚在冰霜結晶紋理的透明容器中閃爍著雙色調的光芒。周圍漂浮的生物光水母形狀的無人機，為專心工作的貓咪投下柔和的三點打光，確保這些新發現的物種獲得完美照護。牠的每一絲動作都關乎著這些珍稀生物的未來。",
+    "title": "虹鱗生物脈動",
+    "comment_id": 4078617164
   }
 ]
