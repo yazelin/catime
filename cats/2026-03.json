@@ -11102,5 +11102,43 @@
       "雙色調",
       "幾何形狀或圖案"
     ]
+  },
+  {
+    "title": "星塵鑑賞家",
+    "avoid_list": [
+      "精準地操作/校準",
+      "建築藍圖風格",
+      "遞迴 (Droste Effect) 構圖",
+      "倫勃朗光",
+      "閃光燈直打",
+      "粉彩色系與夢幻光調",
+      "微縮立體模型與移軸效果",
+      "超廣角視角",
+      "生物發光",
+      "金屬質感",
+      "工業風格場景",
+      "雙色調",
+      "幾何形狀或圖案"
+    ],
+    "idea": "在一個昏暗的老舊天文台儲藏室裡，一隻虎斑貓以印象派的柔和筆觸，專注地排列並嗅探著各式來自宇宙的隕石和礦物樣本。",
+    "story": "昏黃的螢光燈光線均勻地灑落，貓咪的皮毛彷彿衍紙藝術般層疊出細膩的紋理。牠的面前，數十個復古褪色的樣本盒，連同放大鏡與泛黃的筆記本，都以嚴謹的Knolling排列攝影風格擺放著。貓咪小心翼翼地探鼻，深邃的目光似乎在探究這些來自小行星的原始生命構成物質。",
+    "comment_id": 4074697120,
+    "news_inspiration": [
+      "科學家在瑞士日內瓦附近的歐洲核子研究組織（CERN）發現了一種更重的質子，這項發現有助於更深入理解強核力。",
+      "日本科學家從小行星「龍宮」採集的樣本中，發現了構成DNA和RNA的所有生命基本成分，支持了生命基本要素可能來自地球之外的理論。",
+      "西班牙瓦倫西亞市牽頭成立了一個城市旅遊目的地網絡，與其他六個主要西班牙城市合作，旨在推廣永續且平衡的城市旅遊。",
+      "2025年全球有超過300種淡水魚新物種被描述，其中在中國雲南省發現的一種獨特洞穴魚因其膨脹的魚鰾而引人注目。",
+      "泰國旅遊局在倫敦啟動了「泰國療癒之旅」全球宣傳活動，旨在推廣該國的養生旅遊並吸引高價值遊客。"
+    ],
+    "style_picks": {
+      "art_style": "Impressionism",
+      "composition": "Knolling Photography",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Retro Faded Tones"
+    },
+    "prompt": "An Impressionist illustration of a tabby cat focused on meticulously arranging and sniffing various cosmic meteorites and mineral samples in a dimly lit old observatory storage room. The cat's fur is rendered with the style of Paper quilling art, showing delicate coiled paper strips, delicate curling loops, and a 3D dimensional ornament texture. The scene is composed as a flat lay overhead view, utilizing Knolling photography principles: dozens of retro faded sample boxes, a magnifying glass, and a yellowed notebook are neatly arranged at 90-degree angles in an organized grid layout on a clean background. Overhead fluorescent lighting, neutral white 5000K, provides institutional flat illumination with no shadows, casting a warm, yellowish glow. The atmosphere has a plein air quality, with emphasis on light and color. The overall color scheme is soft and luminous, featuring a retro faded color scheme, washed-out vintage tones, low contrast, and nostalgic film-era warmth. The date and time '2026-03-17 12:42 UTC' are clearly displayed within the image.",
+    "inspiration": "日本科學家從小行星「龍宮」採集的樣本中，發現了構成DNA和RNA的所有生命基本成分，支持了生命基本要素可能來自地球之外的理論。",
+    "number": 909
   }
 ]
