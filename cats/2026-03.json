@@ -11945,5 +11945,41 @@
     "comment_id": 4083694828,
     "news_inspiration": [],
     "title": "烏木晶典"
+  },
+  {
+    "idea": "一幅水彩畫，描繪了在春日碼頭，船長站在高處的舊木箱上，牠的身影與表情透過前方一扇破舊漁船舷窗的玻璃，以鏡子自拍構圖的方式清晰倒映。倫勃朗光巧妙地落在牠被眼罩遮蔽的左側，凸顯右眼銳利的翠綠與堅毅的M字虎斑額頭，整體畫面呈現摺紙般的復古褪色調，海風吹動著牠粗獷蓬亂的毛髮。",
+    "inspiration": "original",
+    "character": "captain",
+    "news_inspiration": [],
+    "prompt": "A watercolor painting in Origami style featuring Captain, a large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes and a broad, muscular build, standing on old wooden boxes at a spring dock. The scene is captured as a mirror selfie composition, a close-up, intimate reflection in the glass of a broken fishing boat porthole. The Captain's untidy, slightly coarse fur, with uneven lengths, is scruffy and blows gently in the sea breeze. Its left eye is permanently concealed by a natural dark-pigmented fur patch #2B1B0E, not a fabric eye patch or strap. Its right eye is a single piercing emerald green #50C878, prominently visible along with its distinctive M-mark on the forehead and a V-shaped notch on its left ear. A faded red #CD5C5C bandana is tied loosely around its neck, and it has a white #FFFFFF chest bib and white mitten paws. Rembrandt lighting, with a single light source at 45 degrees, creates dramatic chiaroscuro, casting a signature triangle of light that accentuates its features, especially the sharp emerald green right eye and the M-mark on its forehead. The watercolor technique uses soft transparent pigments, bleeding edges, wet-on-wet application, and visible paper texture. The Origami style incorporates clean geometric creases, sharp angular folds, and a paper sculpture aesthetic for a precise and minimal, folded paper art look. The overall color palette is retro faded, with washed-out vintage tones, low contrast, and a nostalgic film-era warmth. The date and time '2026-03-18 17:02 UTC' are visually displayed within the image.",
+    "title": "春風望海影",
+    "story": "春天的漁港，海風輕拂，船長一如往常地巡邏至碼頭盡頭，跳上一疊堆高的舊木箱，享受高處的遼闊。牠凝視著出海的漁船，目光卻偶然掃過面前一扇廢棄船艙的舷窗。在玻璃斑駁的倒影中，牠看見自己滄桑而堅毅的面容，白色的鬍鬚被風吹得微微飄揚，彷彿一位老水手在鏡中回望自己輝煌的歲月。",
+    "avoid_list": [
+      "日期時間 '2026-03-18 HH:MM UTC' 顯示於圖像中",
+      "黃金時刻柔和光線",
+      "霓虹螢光色彩",
+      "碳纖維紋理",
+      "遞迴影像 / Droste 效果",
+      "移軸微縮攝影效果",
+      "冷調藍青色系",
+      "柔和粉彩色調",
+      "淺景深",
+      "底片顆粒質感",
+      "貓咪專注的神情",
+      "貓咪輕柔/小心翼翼的動作",
+      "明確的十六進位色彩碼"
+    ],
+    "comment_id": 4084138467,
+    "number": 932,
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Origami",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "船長",
+    "season": "spring"
   }
 ]
