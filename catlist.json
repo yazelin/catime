@@ -8238,5 +8238,14 @@
     "status": "success",
     "title": "虹鱗生物脈動",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "inspiration": "在墨西哥奇琴伊察的瑪雅金字塔，春分時分夕陽會在樓梯上形成蛇形陰影，紀念羽蛇神庫庫爾坎。",
+    "number": 920,
+    "title": "霓虹羽蛇追光",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-18_0112_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "timestamp": "2026-03-18 01:12 UTC"
   }
 ]
