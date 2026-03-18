@@ -12126,5 +12126,45 @@
       "texture": "Silk",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "prompt": "A raw, candid top-down photographic capture, taken with a wide-angle macro lens and a harsh direct on-camera flash, illuminating a miniature world. The scene shows Lingling, a pure white #FFFFFF extremely fluffy longhair cat with voluminous, cloud-like fur (Ragdoll-like), her body rendered with complex Tlingit formline designs and bold ovoids that define her silhouette and internal structure while maintaining her pure white fur. She has a small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of face) with a gentle sparkle, and pale pink #FFB6C1 nose and inner ears. Around her neck is a pink #FF69B4 ribbon bow collar with a clearly visible and centered golden #FFD700 bell. Her tail is an enormous feathery white plume. Pink paw pads are occasionally visible. Lingling is hunched in the central frame, her body trembling, clumsily lunging towards a tiny, oddly iridescent, glowing micro-creature. This creature is designed in the bold Tlingit totem art style, featuring red and black formline designs with prominent ovoids and U-shapes, positioned on an oversized, sharply folded Origami leaf. The surrounding environment is an Origami butterfly garden, crafted from high saturation vivid colored paper, exhibiting clean geometric creases, sharp angular folds, and a precise, minimal paper sculpture aesthetic. The harsh flash creates blown-out highlights on Lingling and the creature, casting hard, dramatic shadows across the scene, giving it a raw candid snapshot look. The overall palette is bold, vibrant, and energetic, with eye-catching contrast. Visually displayed in the image is the date and time: '2026-03-18 22:22 UTC'.",
+    "inspiration": "在印尼偏遠的西巴布亞，科學家們發現了兩種曾被認為已滅絕六千年的迷你負鼠和滑翔動物，為生態學帶來驚喜。",
+    "comment_id": 4085948825,
+    "story": "鈴鈴，這團純白的棉花糖，被葉片上一點奇異的閃光吸引，好奇心驅使她認定那是個等待被收藏的亮晶晶寶貝。她全神貫注地彎下身子，胖嘟嘟的身體因蓄勢待發而微微顫抖，渾然不知自己已站在摺紙葉片的邊緣，下一秒可能就會笨拙地往後彈。",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "在印尼偏遠的西巴布亞，科學家們發現了兩種曾被認為已滅絕六千年的迷你負鼠和滑翔動物，為生態學帶來驚喜。",
+      "在丹麥哥本哈根舉行的國際會議上，Aspen Neuroscience公司宣布其針對阿茲海默症和帕金森氏症的ASPIRO臨床試驗取得了令人鼓舞的12個月數據。",
+      "墨西哥蒙特雷市正積極為2026年世界盃足球賽進行基礎設施和公共空間的升級改造，以迎接全球遊客。",
+      "巴基斯坦透過民眾主導的太陽能發展，成功緩解了中東地區的能源危機衝擊，展現社區自給自足的正面影響。"
+    ],
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Origami",
+      "color_palette": "High Saturation Vivid"
+    },
+    "number": 937,
+    "idea": "在特林吉特圖騰藝術的風格中，以俯瞰視角呈現一幅高飽和鮮豔色的摺紙蝴蝶園景觀。畫面中央，鈴鈴那蓬鬆如雲朵般的身體（描繪成複雜的圖騰線條與卵形）正笨拙地撲向一片碩大葉片上，被直射閃光照亮，閃耀著奇異虹光的微小生物。",
+    "avoid_list": [
+      "金黃時刻柔光 / 溫暖夕陽餘暉 / 金色邊緣光",
+      "移軸微縮效果",
+      "濕版攝影 / 復古褪色調",
+      "新藝術風格",
+      "倫勃朗光影下的高對比度",
+      "柔和粉彩光芒",
+      "等距/正交投影構圖",
+      "自然漫射光",
+      "底片顆粒質感與攝影瑕疵",
+      "大地色系與溫暖秋日色調",
+      "實驗室/高科技場景",
+      "半透明樹脂/磨砂玻璃材質",
+      "貓咪於知識/研究場景中專注觀察/操作",
+      "科幻量子物理主題"
+    ],
+    "character": "lingling",
+    "title": "虹光葉尖尋寶記"
   }
 ]
