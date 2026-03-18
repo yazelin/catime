@@ -8285,5 +8285,14 @@
     "inspiration": "瑞士蘇黎世透過焚燒傳統冬季稻草人「Boogg」來象徵性地驅趕冬天，慶祝春天的到來。",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
     "status": "success"
+  },
+  {
+    "inspiration": "original",
+    "number": 925,
+    "timestamp": "2026-03-18 08:35 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-18_0835_UTC.webp",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "title": "迴影疊照",
+    "status": "success"
   }
 ]
