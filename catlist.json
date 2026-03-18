@@ -8363,5 +8363,14 @@
     "is_seasonal": true,
     "character_name": "船長",
     "season": "spring"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-18_1842_UTC.webp",
+    "status": "success",
+    "number": 933,
+    "title": "苔石古訓",
+    "inspiration": "科學家在南極洲哈德遜山脈下方發現了一塊巨大且深埋的侏羅紀花崗岩體，長約100公里、厚7公里。",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-03-18 18:42 UTC"
   }
 ]
