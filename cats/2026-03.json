@@ -11761,5 +11761,46 @@
       "亮面塑膠玩具質感",
       "曼陀羅藝術風格背景"
     ]
+  },
+  {
+    "avoid_list": [
+      "冷冽藍青色調與冰冷底色",
+      "窄光束聚光燈與高對比光影",
+      "電影感打光與立體光線",
+      "鏡子自拍構圖與可見反射",
+      "魚眼鏡頭與強烈桶狀畸變",
+      "冰霜結晶與半透明冰碎片",
+      "經典三點打光",
+      "戲劇性明暗對比",
+      "故障藝術風格",
+      "貓咪仔細整理/調整物品",
+      "高動態範圍",
+      "粗獷主義與原始混凝土",
+      "日式浮世繪風格插畫",
+      "亮面塑膠玩具質感",
+      "曼陀羅藝術風格背景"
+    ],
+    "idea": "「街頭攝影」風格下，墨墨優雅地棲息於大學圖書館高聳書架頂端，透過「移軸微縮」效果，牠專注地俯瞰著下方關於亞原子粒子的霓虹色圖解，周圍 bathed in 「自然漫射光」，角落的「絞染」織物為畫面增添了微妙的質感。",
+    "character": "momo",
+    "title": "墨色粒子探秘",
+    "news_inspiration": [
+      "歐洲核子研究組織（CERN）的科學家於歐洲發現一種由兩個粲夸克和一個下夸克組成的新型重質類質子亞原子粒子。",
+      "日本東京、京都等城市在三月至四月迎來櫻花季，吸引遊客在櫻花樹下野餐，欣賞這短暫而美麗的自然景象。",
+      "斐濟的一項最新研究揭示，牛鯊並非如普遍認為是孤獨的獵手，牠們實際上會形成社交關係並有偏好的「朋友」。",
+      "美國阿拉巴馬州莫比爾市的一家牡蠣吧信守承諾，為一位八十歲生日時與九十九歲父親一同前來的顧客提供了免費牡蠣，場面溫馨。"
+    ],
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Neon Fluorescent"
+    },
+    "character_name": "墨墨",
+    "comment_id": 4081457566,
+    "prompt": "A street photography style candid shot: A sleek, slender solid-black #0A0A0A Bombay-style shorthair cat named Momo, with satin-sheen fur revealing warm brown undertones under direct light, athletic proportions, visible muscle definition, and a slight upward curl at the tail tip. A single small gold hoop earring #FFD700 (3mm) on her LEFT ear (viewer perspective) at the mid-ear edge. A tiny natural white locket tuft #FFFFFF on her ventral chest. Her tail tip has a single dark-grey #696969 ring. Her eyes are large, luminous golden-amber #D4A017 like polished amber gems. Long, prominent white whiskers. Her expression is calm and attentive. Momo is elegantly perched on the very top edge of a tall, imposing wooden bookshelf in a vast university library. She is looking down intently at an open quantum physics textbook below, displaying vibrant, neon-fluorescent colored diagrams (electric pink, lime green, hot cyan) of subatomic particles glowing against the pages. Captured with a 35mm lens at f/1.8, utilizing a strong Tilt-shift photography effect to create a miniature toy-like world, with a narrow selective focus band centered on Momo and the book. The foreground and background are softly blurred, enhancing the sense of scale. The scene is bathed in soft, diffused natural light, characteristic of an overcast sky, ensuring even illumination with no harsh shadows and gentle tones. A Shibori-style fabric, showcasing an indigo blue palette with organic flowing designs, subtly hangs in a corner. Visually displayed in the image: '2026-03-18 10:40 UTC'.",
+    "story": "墨墨得名於牠墨色的外觀，牠是這間歷史悠久的大學圖書館的常客。今天，牠無聲地躍上科學區的最高書架，金琥珀色的眼睛好奇地凝視著一本打開的量子物理學課本，書頁上彩色的粒子圖解似乎在訴說著宇宙深處的秘密，讓牠這隻聰明的貓咪也陷入了沉思。",
+    "inspiration": "歐洲核子研究組織（CERN）的科學家於歐洲發現一種由兩個粲夸克和一個下夸克組成的新型重質類質子亞原子粒子。",
+    "number": 927
   }
 ]
