@@ -8276,5 +8276,14 @@
     "status": "success",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
     "inspiration": "紐西蘭四位毛利藝術家將於義大利威尼斯雙年展上展示當代毛利藝術，這是一個具有里程碑意義的國際文化項目。"
+  },
+  {
+    "title": "春歸鏡語",
+    "timestamp": "2026-03-18 07:44 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-18_0744_UTC.webp",
+    "number": 924,
+    "inspiration": "瑞士蘇黎世透過焚燒傳統冬季稻草人「Boogg」來象徵性地驅趕冬天，慶祝春天的到來。",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "status": "success"
   }
 ]
