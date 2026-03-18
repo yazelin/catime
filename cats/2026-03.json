@@ -11842,5 +11842,39 @@
       "texture": "Carbon Fiber",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "avoid_list": [
+      "冷冽藍青色調與冰冷底色",
+      "窄光束聚光燈與高對比光影",
+      "電影感打光與立體光線",
+      "鏡子自拍構圖與可見反射",
+      "魚眼鏡頭與強烈桶狀畸變",
+      "冰霜結晶與半透明冰碎片",
+      "經典三點打光",
+      "戲劇性明暗對比",
+      "故障藝術風格",
+      "貓咪仔細整理/調整物品",
+      "高動態範圍",
+      "粗獷主義與原始混凝土",
+      "日式浮世繪風格插畫",
+      "亮面塑膠玩具質感",
+      "曼陀羅藝術風格背景"
+    ],
+    "news_inspiration": [],
+    "idea": "一幅新藝術風格的等距3D插圖，描繪一隻貓咪在充滿黃金時刻柔光的磨砂玻璃花房中，以大地色系營造出溫暖而細緻的氛圍。",
+    "number": 929,
+    "prompt": "An Art Nouveau style 3D isometric illustration, inspired by Mucha. A graceful tuxedo cat, rendered in a polished playful style, is deeply focused, gently watering a flowing, curling-leaf plant with an elegant brass-decorated atomizer. The scene unfolds within a warm and detailed frosted glass conservatory. Golden hour lighting permeates the space, casting a warm sunset glow, long soft shadows, and a distinct golden rim light on the cat. The environment features translucent matte frosted glass textures, diffusing light transmission and revealing soft, blurred shapes of surrounding plants and vines behind, all tinted with a golden hue. The composition is rich with flowing organic curves, subtle ornamental borders, and delicate floral motifs. An earth tone palette dominates, featuring terracotta, olive green, and warm browns, creating a natural organic harmony. The date and time '2026-03-18 12:43 UTC' are visually displayed within the image.",
+    "story": "在陽光斜灑的 Art Nouveau 玻璃花房深處，一隻毛色優雅的燕尾貓正專注地，使用一把有著精緻黃銅裝飾的噴霧器，輕柔地為一株姿態曼妙的卷葉植物灑水。透過半透明的磨砂玻璃，周圍的花草與藤蔓都被染上一層金黃，營造出靜謐而富有生機的藝術畫面。",
+    "inspiration": "original",
+    "comment_id": 4082239541,
+    "title": "貓語花房",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Golden Hour",
+      "texture": "Frosted Glass",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
