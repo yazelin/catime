@@ -12166,5 +12166,43 @@
     ],
     "character": "lingling",
     "title": "虹光葉尖尋寶記"
+  },
+  {
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Ring Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "紐西蘭保育人士報告稱，極度瀕危的國寶級「鴞鸚鵡」出現嬰兒潮，為該物種的復育帶來希望。",
+      "在印尼西巴布亞的偏遠地區，科學家重新發現了兩種被認為已滅絕長達6,000年的袋貂和鼯鼠物種。",
+      "英國的學校正透過創新的「大型讀書俱樂部」模式，成功激發兒童對閱讀的熱情。",
+      "加拿大蒙特婁一位魔術師即將推出名為「搖滾明星魔術」的精彩表演，為當地文化生活增添樂趣。"
+    ],
+    "inspiration": "在印尼西巴布亞的偏遠地區，科學家重新發現了兩種被認為已滅絕長達6,000年的袋貂和鼯鼠物種。",
+    "story": "塵封已久的測繪室瀰漫著潮濕的氣息，像素化的牆面透著幽冷的藍光。短毛貓眼中閃爍著求知的光芒，牠小心翼翼地沿著地圖上模糊的線條，試圖找出傳說中已消失的物種可能棲息的區域。環形燈的藍青色光暈勾勒出貓咪認真的身影，為這趟靜默的「重現」探險增添了幾分神秘。",
+    "prompt": "Exquisite pixel art illustration, featuring crisp blocky pixels in a retro 8-bit style. A short-haired cat, wearing old round spectacles, is intensely focused, gently touching an ancient map with its front paw. The map displays a recursive Droste effect: a picture within a picture repeating infinitely, a self-referential loop. The scene is a dim, remote surveying room with pixelated walls. All elements—the cat, map, and room environment—are rendered with a sculpted clay texture, giving a handmade ceramic feel with a matte surface and subtle imperfections. The entire image is drenched in a cool blue-teal color grading with icy undertones, utilizing a limited color palette. Uniform ring light illumination provides even frontal light on the cat and map, creating circular catchlights in the cat's eyes. The atmosphere is crisp, serene, and calm. Visually displayed text: '2026-03-18 23:21 UTC'.",
+    "number": 938,
+    "comment_id": 4086249145,
+    "avoid_list": [
+      "金黃時刻柔光 / 溫暖夕陽餘暉 / 金色邊緣光",
+      "移軸微縮效果",
+      "濕版攝影 / 復古褪色調",
+      "新藝術風格",
+      "倫勃朗光影下的高對比度",
+      "柔和粉彩光芒",
+      "等距/正交投影構圖",
+      "自然漫射光",
+      "底片顆粒質感與攝影瑕疵",
+      "大地色系與溫暖秋日色調",
+      "實驗室/高科技場景",
+      "半透明樹脂/磨砂玻璃材質",
+      "貓咪於知識/研究場景中專注觀察/操作",
+      "科幻量子物理主題"
+    ],
+    "idea": "一隻戴著老舊圓框眼鏡的短毛貓，在昏暗的偏遠測繪室裡，專注地用前爪輕觸一張以遞迴德羅斯特效應呈現的古老地圖。整個畫面以精緻的像素藝術風格描繪，所有物件都呈現出冷調藍青色系的黏土/陶瓷質感，環形燈的光線均勻地照亮貓咪與地圖。",
+    "title": "藍圖尋蹤"
   }
 ]
