@@ -11802,5 +11802,45 @@
     "story": "墨墨得名於牠墨色的外觀，牠是這間歷史悠久的大學圖書館的常客。今天，牠無聲地躍上科學區的最高書架，金琥珀色的眼睛好奇地凝視著一本打開的量子物理學課本，書頁上彩色的粒子圖解似乎在訴說著宇宙深處的秘密，讓牠這隻聰明的貓咪也陷入了沉思。",
     "inspiration": "歐洲核子研究組織（CERN）的科學家於歐洲發現一種由兩個粲夸克和一個下夸克組成的新型重質類質子亞原子粒子。",
     "number": 927
+  },
+  {
+    "prompt": "A whiteboard marker drawing on glass, with a casual sketch feel and hand-drawn line art, using slightly faded ink. The illustration depicts a curious orange cat meticulously digging and examining a freshly unearthed, shimmering piece of space glass. The cat uses a delicate tool featuring a carbon fiber weave pattern, high-tech lightweight material, and a glossy clear coat finish, embodying a modern industrial aesthetic. The scene is an ultra wide angle view (visual effect of 12-18mm lens perspective distortion, expansive field of view) of the vast, endless Brazilian inland red earth plateau, with sparse scrub and distant, blurred ruins of an abandoned science station. It's golden hour, with a warm sunset glow creating long soft shadows and a distinct golden rim light on the cat. The sky is a soft pastel color palette of gentle pink, lavender, mint, and baby blue, evoking dreamy light tones. The date and time '2026-03-18 11:37 UTC' must be visually displayed within the illustration.",
+    "story": "夕陽將地平線染成柔和的粉紅與金黃，貓咪探險家「里約」的剪影在稀疏的灌木叢中顯得格外清晰。牠剛剛從乾燥的土壤中挖出了一塊來自古老小行星撞擊而形成的稀有太空玻璃。里約湊近，用牠那小巧而堅韌的碳纖維探測器輕輕撥動，仿佛在解讀宇宙留下的古老密語，背景是無邊無際的遼闊與遠處模糊的廢棄科學站遺跡。",
+    "idea": "這是一幅以白板記號筆畫風格呈現的超廣角畫面。在巴西內陸廣袤無垠的紅土高原上，一隻好奇的橘貓正於黃金時刻的粉彩色夕陽下，使用一把帶有碳纖維質感的精巧工具，專注地挖掘並檢視一片剛出土的閃爍太空玻璃。",
+    "number": 928,
+    "inspiration": "研究人員在巴西發現了南美洲首個「太空玻璃」散落場，這些由古老小行星撞擊形成的稀有天然玻璃分佈在巴西內陸超過900公里。",
+    "news_inspiration": [
+      "歐洲核子研究組織（CERN）的LHCb實驗於瑞士日內瓦發現了一種新的類質子粒子，此粒子由兩個粲夸克和一個下夸克組成，質量是質子的四倍。",
+      "研究人員在巴西發現了南美洲首個「太空玻璃」散落場，這些由古老小行星撞擊形成的稀有天然玻璃分佈在巴西內陸超過900公里。",
+      "日本全國各地正迎來櫻花季，將東京、京都和廣島等城市變成了櫻花瓣的夢幻景觀，當地人紛紛在樹下野餐慶祝。",
+      "希臘雅典表示，儘管中東局勢緊張，Booking.com數據顯示，2026年復活節假期對包括科孚鎮在內的希臘國內和國際旅遊目的地需求強勁。",
+      "三星電子與AMD於韓國平澤市簽署諒解備忘錄，擴大在下一代AI記憶體和運算技術上的戰略合作。"
+    ],
+    "comment_id": 4081817471,
+    "title": "黃昏採星砂",
+    "avoid_list": [
+      "冷冽藍青色調與冰冷底色",
+      "窄光束聚光燈與高對比光影",
+      "電影感打光與立體光線",
+      "鏡子自拍構圖與可見反射",
+      "魚眼鏡頭與強烈桶狀畸變",
+      "冰霜結晶與半透明冰碎片",
+      "經典三點打光",
+      "戲劇性明暗對比",
+      "故障藝術風格",
+      "貓咪仔細整理/調整物品",
+      "高動態範圍",
+      "粗獷主義與原始混凝土",
+      "日式浮世繪風格插畫",
+      "亮面塑膠玩具質感",
+      "曼陀羅藝術風格背景"
+    ],
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Golden Hour",
+      "texture": "Carbon Fiber",
+      "color_palette": "Pastel Colors"
+    }
   }
 ]
