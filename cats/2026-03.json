@@ -12050,5 +12050,43 @@
       "color_palette": "Gold and Black Luxury"
     },
     "idea": "一隻優雅的黑貓在未來感十足的垂直農場中，以極簡塗鴉線條畫風格呈現，透過正交投影構圖，細緻地排列著迷你盆栽，整體散發著金色與黑色奢華的黏土/陶瓷質感，並由環形燈均勻照亮。"
+  },
+  {
+    "number": 935,
+    "story": "這隻身披夜色、雙眼如金的貓咪，是「星塵鳴禽」私人展館的首席守衛。牠正仔細擦拭著魚眼鏡頭般的監視器，確保沒有任何不速之客能擾亂其所守護的，那隻以稀有黑金摺紙精心製作的「夜鶯」。空氣中瀰漫著警惕與奢華的氣息。",
+    "title": "奢華守護者",
+    "prompt": "Pixel art illustration, retro 8-bit style. A serious black cat wearing a golden insignia, patrolling a luxurious gold and black origami-style VIP lounge. The cat is alertly guarding a caged origami nightingale. Composition features a fisheye wide-angle lens perspective with strong barrel distortion and an exaggerated foreground, creating a 360-degree feel. The cat's face is illuminated by butterfly lighting from an overhead key light, casting a symmetrical shadow under its nose, achieving a glamour portrait lighting effect with soft, even illumination. The lounge and caged bird showcase an Origami style, with folded paper art, clean geometric creases, sharp angular folds, and a precise, minimal paper sculpture aesthetic. The scene uses an opulent gold and black color scheme, with luxurious metallic gold accents against a deep black background. Visually display '2026-03-18 20:25 UTC' within the image.",
+    "avoid_list": [
+      "金黃時刻柔光 / 溫暖夕陽餘暉 / 金色邊緣光",
+      "移軸微縮效果",
+      "濕版攝影 / 復古褪色調",
+      "新藝術風格",
+      "倫勃朗光影下的高對比度",
+      "柔和粉彩光芒",
+      "等距/正交投影構圖",
+      "自然漫射光",
+      "底片顆粒質感與攝影瑕疵",
+      "大地色系與溫暖秋日色調",
+      "實驗室/高科技場景",
+      "半透明樹脂/磨砂玻璃材質",
+      "貓咪於知識/研究場景中專注觀察/操作",
+      "科幻量子物理主題"
+    ],
+    "comment_id": 4085379851,
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Fisheye Lens",
+      "lighting": "Butterfly Lighting",
+      "texture": "Origami",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [
+      "澳洲科學家成功展示了世界上第一個量子電池概念驗證原型，該原型能夠完成完整的充電-儲存-放電循環，有望改變能源儲存方式。",
+      "在泰國考索國家公園動物園，一名男子因闖入社群媒體明星侏儒河馬「Moo Deng」的圍欄而被捕。",
+      "澳門一名婦女在晚間散步時被一個人形機器人嚇到，導致身體不適而短暫住院。",
+      "波蘭華沙動物園新設立的鳥類急診室為受傷野生鳥類提供了新的希望。"
+    ],
+    "idea": "一隻身穿金色徽章的黑貓，在像素藝術風格下，透過魚眼鏡頭的廣角扭曲，以蝴蝶光照亮的面容，嚴肅地巡邏著一個金黑奢華、摺紙般棱角分明的貴賓休息室，警惕地守護著籠中的摺紙名鳥。",
+    "inspiration": "在泰國考索國家公園動物園，一名男子因闖入社群媒體明星侏儒河馬「Moo Deng」的圍欄而被捕。"
   }
 ]
