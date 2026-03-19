@@ -12311,5 +12311,46 @@
     "number": 941,
     "story": "胡里節的夜晚，空氣中瀰漫著螢光粉塵，閃耀著高飽和的鮮豔光芒。小巷裡，一隻貓咪興奮地將顏料鼓一推，讓顏料如彩虹般傾瀉而出，落在歡慶的人群身上。這場突如其來的「色彩襲擊」，為節日增添了意想不到的熱情與混亂。",
     "idea": "在一幅極簡塗鴉線條畫風格的超廣角構圖中，印度馬圖拉胡里節夜晚的熱鬧小巷籠罩在黑光螢光下。一隻頑皮的貓咪，身體以高飽和鮮豔色塊填滿，正將一個裝滿發光顏料的大鼓翻倒，向周圍簡化的人物潑灑繽紛色彩，背景的建築則呈現磨砂玻璃般的柔和質感。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Floating Island Scene",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Wood Grain",
+      "color_palette": "Pastel Colors"
+    },
+    "character": "mochi",
+    "idea": "一幅以墨流藝術風格呈現的場景，麻糬在一個粉彩色系的木紋浮島攤位上，好奇地用橘色的右前腳輕輕撥弄一顆散發著黑光螢光的包子。",
+    "story": "在芹耶新興觀光市場的夢幻墨流世界中，飢腸轆轆的麻糬被空氣中誘人的香氣吸引。牠圓滾的身軀在漂浮的攤位間小心翼翼地挪動，琥珀色的雙眼因食物而放大，緊盯著面前那顆閃爍微光的美味，準備展開牠最愛的「試吃」任務。",
+    "character_name": "麻糬",
+    "title": "墨流浮市品鮮",
+    "number": 942,
+    "prompt": "An illustrative Suminagashi art style scene with Japanese paper marbling, delicate ethereal swirls, and meditative marble effects from an aerial perspective. The central subject is a chubby, rounded shorthair cat named Mochi, with a white #FFFFFF base coat and solid bright orange #FF8C00 patches. Mochi's RIGHT half-face has an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; the LEFT face is entirely white. A heart-shaped orange #FF8C00 saddle is centered on Mochi's upper dorsal back. Mochi's RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and the LEFT front paw is pure white #FFFFFF. Mochi has a white belly, large round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange center dot, and an orange-and-white ringed tail. Mochi's short stubby legs and spherical torso are evident. Mochi is curiously using its orange RIGHT front paw to gently poke a round steamed bun, which emits an intense blacklight UV glow with fluorescent pigments, showcasing vibrant neon colors and ethereal ultraviolet luminescence against a deep background. Mochi stands on a miniature floating island stall made of natural wood with visible knots and lines, displaying a rich, warm, organic tactile surface. The stall itself is designed with a soft pastel color palette including gentle pink, lavender, mint, and baby blue, creating dreamy light tones. The floating island is set against a backdrop of soft white clouds in a sky. The date and time '2026-03-19 06:43 UTC' are clearly displayed in the image.",
+    "inspiration": "越南胡志明市附近的芹耶（Can Gio）正透過大規模基礎設施投資，成為新的旅遊增長極，目標每年吸引4000萬遊客。",
+    "news_inspiration": [
+      "由於2026年2月和3月的強降雨，澳洲北領地的愛麗斯泉附近的「紅色中心」沙漠景觀變得一片翠綠。",
+      "越南胡志明市附近的芹耶（Can Gio）正透過大規模基礎設施投資，成為新的旅遊增長極，目標每年吸引4000萬遊客。",
+      "台灣科學家重建了恐龍巢穴，解開了7千萬年前的謎團，發現竊蛋龍採用了與現代鳥類不同的混合孵化方式。",
+      "2026年3月19日，NFL領袖將在紐約州立大學坎頓分校（SUNY Canton）討論「體育界的女性」，屆時將有綠灣包裝工和傑克遜維爾美洲虎的傑出女性高管參與。"
+    ],
+    "avoid_list": [
+      "倫勃朗光影",
+      "蝴蝶光打光",
+      "環形燈照明",
+      "完美對稱構圖",
+      "貓咪專注凝視",
+      "貓咪細緻作業",
+      "摺紙藝術風格",
+      "莫蘭迪色調",
+      "復古褪色調",
+      "像素藝術風格",
+      "黏土陶瓷質感",
+      "未來科技場景",
+      "奢華金黑配色",
+      "寧靜優雅氛圍",
+      "俯瞰視角構圖"
+    ],
+    "comment_id": 4088160242
   }
 ]
