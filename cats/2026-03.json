@@ -12750,5 +12750,43 @@
     "inspiration": "美國喬治亞理工學院的研究人員開發出一種新的人工智慧系統，能讓機器人執行複雜任務的速度顯著超越人類示範者，同時保持精確性。",
     "title": "舵手觀新奇",
     "number": 953
+  },
+  {
+    "inspiration": "韓國研究人員利用先進的X射線掃描技術，在韓國發現了一種新的恐龍物種，並以受歡迎的韓國卡通人物命名為「Doolysaurus」。",
+    "story": "從上方俯視，毛茸茸的貓咪此刻全神貫注，牠小巧的爪子輕柔地握著刷子，拂去化石標本上細微的塵埃。周遭高聳的木質儲物櫃、堆疊如山的檔案盒，以及工作檯上的研究工具，在溫暖的聚光燈下顯得格外立體而富有紋理，彷彿每一道輪廓都是由捲曲的紙條精心構築。整個畫面浸潤在琥珀與秋日般的暖色調中，營造出一種既嚴謹又充滿發現樂趣的學術氛圍。",
+    "title": "古生物學家的凝視",
+    "comment_id": 4092837853,
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Bird's-Eye View",
+      "lighting": "Spotlight",
+      "texture": "Paper Quilling",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 954,
+    "prompt": "Bird's-eye view, top-down perspective, looking straight down, capturing a miniature world effect. An amber tabby cat, depicted in a Paper quilling art style with intricate coiled paper strips and delicate curling loops, is meticulously focused. Its small paws gently hold a miniature brush, carefully cleaning dust from a dinosaur fossil specimen. The entire scene is rendered with a strong 3D dimensional ornament effect; every element – from the cat's fur to the fossil, towering wooden storage cabinets, stacked archive boxes, and research tools on the workbench in a deep, antique museum archive room – is composed of colorful rolled paper texture. The visual style integrates Neo-Impressionism Pointillism, with surfaces showing a systematic dot technique and tiny dabs of pure color, creating optical color mixing and a luminous surface across the quilled forms. A dramatic narrow beam spotlight illuminates the central activity, casting sharp light edges and deep darkness falloff, creating high-contrast. The overall color grading is a warm amber, featuring an autumn palette of golden yellows and burnt orange, exuding cozy nostalgic warmth. Visually display '2026-03-19 19:39 UTC' integrated subtly within the intricate quilling details of the scene.",
+    "idea": "一幅新印象派點描法風格的鳥瞰圖，呈現一隻琥珀色虎斑貓在古色古香的博物館檔案室深處，聚光燈下，正專心致志地用一把迷你刷子清理一塊恐龍化石，所有元素都以衍紙藝術般的質感呈現。",
+    "news_inspiration": [
+      "歐洲核子研究組織（CERN）的科學家在瑞士的大型強子對撞機中，發現了一種質子的重型「表親」亞原子粒子，解開了長達20年的謎團。",
+      "韓國研究人員利用先進的X射線掃描技術，在韓國發現了一種新的恐龍物種，並以受歡迎的韓國卡通人物命名為「Doolysaurus」。",
+      "哥倫比亞U20國家隊的Izzy Weiner在巴拉圭舉行的U20南美洲女子錦標賽中表現出色，幫助球隊成功晉級2026年U20世界盃。",
+      "根據最新發布的《世界幸福報告》，芬蘭連續第九年被評為全球最幸福的國家。",
+      "在美國加利福尼亞州聖安娜，Northgate González Market舉辦了「Familia Fútbol」活動，正式啟動2026年世界盃的慶祝活動，以頌揚拉丁裔家庭對足球的熱情和文化。"
+    ],
+    "avoid_list": [
+      "貓咪專注凝視/觀察",
+      "木紋質感與有機觸感表面",
+      "電影感打光與戲劇性陰影",
+      "柔和粉彩色系與夢幻光色調",
+      "黑光螢光與鮮豔霓虹色",
+      "等距3D插圖與簡潔幾何形式",
+      "冷冽藍青色調與冰冷底色",
+      "月光照亮與寧靜夜間氛圍",
+      "分割畫面構圖",
+      "貓爪輕觸/輕撥",
+      "清晰倒影/鏡面自拍",
+      "高飽和鮮豔色彩",
+      "漂浮島嶼/攤位"
+    ]
   }
 ]
