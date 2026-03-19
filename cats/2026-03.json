@@ -12604,5 +12604,42 @@
       "貓咪操作儀器",
       "寧靜冰冷氛圍"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Extreme Low Angle",
+      "lighting": "Three-Point Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "巴基斯坦正經歷一場由民眾主導的太陽能熱潮，全國範圍內屋頂太陽能部署激增，有效緩解中東能源危機的影響。",
+      "科學家們發現了現存最古老的鯨魚錄音，這項位於海洋的科學發現有望揭開鯨魚交流的奧秘。",
+      "南非內容創作者Mitch Matyana展示了南非人在日常對話中如何幽默而巧妙地運用「otherwise」一詞，其意義多變且獨特。",
+      "美國西雅圖中心正在舉辦Festál系列免費文化節，以多樣的活動慶祝太平洋西北地區居民的豐富文化遺產。"
+    ],
+    "avoid_list": [
+      "貓咪專注凝視/觀察",
+      "木紋質感與有機觸感表面",
+      "電影感打光與戲劇性陰影",
+      "柔和粉彩色系與夢幻光色調",
+      "黑光螢光與鮮豔霓虹色",
+      "等距3D插圖與簡潔幾何形式",
+      "冷冽藍青色調與冰冷底色",
+      "月光照亮與寧靜夜間氛圍",
+      "分割畫面構圖",
+      "貓爪輕觸/輕撥",
+      "清晰倒影/鏡面自拍",
+      "高飽和鮮豔色彩",
+      "漂浮島嶼/攤位"
+    ],
+    "prompt": "Chalk art on blackboard illustration. A clever cat, wearing small brass goggles, intently calibrating a massive, ancient, rusted whale sonar recording device within a dilapidated deep-sea acoustic laboratory. The artwork features a dusty matte texture, visible hatching strokes, and a dark green slate background. Composition is an extreme low angle shot, looking up at the subject, creating a dramatic towering perspective and powerful feel. Lighting is a classic three-point setup: a key light with soft shadows, a fill light, and a subtle rim light for separation. The color treatment is duotone, using two contrasting colors only for a bold graphic impact and modern design feel, emphasizing warm orange-brown corrosion on the rusted weathered metal, oxidized patina, and peeling paint layers. The image visually displays '2026-03-19 15:42 UTC'.",
+    "inspiration": "科學家們發現了現存最古老的鯨魚錄音，這項位於海洋的科學發現有望揭開鯨魚交流的奧秘。",
+    "comment_id": 4091119759,
+    "number": 950,
+    "title": "錆蝕鯨音錄",
+    "idea": "粉筆畫風格，在極低角度和三點打光下，一隻貓咪在鏽跡斑斑的舊式深海聲學實驗室中，專注地操作著一部巨大、雙色調的錄音裝置。",
+    "story": "這隻聰明的貓咪，戴著小巧的黃銅護目鏡，正用靈巧的爪子校準著一架佈滿鐵鏽的古老鯨魚聲波記錄儀。深沉的環境音中迴盪著來自海底深處的神秘低鳴，牠彷彿在努力解開海洋最古老的秘密，而整個房間因歲月流逝而顯得破舊且充滿機械殘骸。"
   }
 ]
