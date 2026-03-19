@@ -12641,5 +12641,37 @@
     "title": "錆蝕鯨音錄",
     "idea": "粉筆畫風格，在極低角度和三點打光下，一隻貓咪在鏽跡斑斑的舊式深海聲學實驗室中，專注地操作著一部巨大、雙色調的錄音裝置。",
     "story": "這隻聰明的貓咪，戴著小巧的黃銅護目鏡，正用靈巧的爪子校準著一架佈滿鐵鏽的古老鯨魚聲波記錄儀。深沉的環境音中迴盪著來自海底深處的神秘低鳴，牠彷彿在努力解開海洋最古老的秘密，而整個房間因歲月流逝而顯得破舊且充滿機械殘骸。"
+  },
+  {
+    "prompt": "A dramatic bird's-eye view, looking straight down, presenting a miniature world effect. An orange cat, intensely focused, uses a feather quill to meticulously draw details on a large, ancient map spread across a table in an old map room. The entire scene is rendered in a vibrant stained glass window art style, characterized by bold black outlines and translucent jewel-toned segments. The cat and the table are powerfully backlit by a warm amber glow streaming from an overhead mosaic glass dome, creating a strong rim light and glowing silhouette edges around the subject, enhancing the dramatic mood. Metallic instruments and compasses on the table gleam with a brushed or polished metal finish, showing sharp reflections and an industrial premium feel. The overall color palette is a cozy, nostalgic autumn blend of golden yellows and burnt orange, saturated with warm amber color grading. Visually displayed in the image: '2026-03-19 16:44 UTC'.",
+    "story": "在世界盡頭的地圖室中，古老的秘密等待被發現。貓咪製圖師精準地勾勒著每一條海岸線，彷彿在為失落的文明繪製航道。窗外秋意漸濃，室內卻因天窗的琥珀色光芒而溫暖如春。",
+    "number": 951,
+    "avoid_list": [
+      "貓咪專注凝視/觀察",
+      "木紋質感與有機觸感表面",
+      "電影感打光與戲劇性陰影",
+      "柔和粉彩色系與夢幻光色調",
+      "黑光螢光與鮮豔霓虹色",
+      "等距3D插圖與簡潔幾何形式",
+      "冷冽藍青色調與冰冷底色",
+      "月光照亮與寧靜夜間氛圍",
+      "分割畫面構圖",
+      "貓爪輕觸/輕撥",
+      "清晰倒影/鏡面自拍",
+      "高飽和鮮豔色彩",
+      "漂浮島嶼/攤位"
+    ],
+    "title": "琥珀地圖師",
+    "idea": "一幅以彩色玻璃風格呈現的俯瞰圖，描繪一隻橘貓在一間古老地圖室裡，被從上方琥珀色系鑲嵌玻璃圓頂透下的背光勾勒出輪廓，專注地用羽毛筆在地圖上繪製細節。金屬儀器與羅盤在桌面上閃爍著秋日暖光與金屬質感。",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "comment_id": 4091573550,
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Bird's-Eye View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
