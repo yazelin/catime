@@ -12788,5 +12788,42 @@
       "高飽和鮮豔色彩",
       "漂浮島嶼/攤位"
     ]
+  },
+  {
+    "inspiration": "由雷恩·葛斯林主演的科幻冒險電影《Project Hail Mary》在美國紐約上映，其導演在拍攝期間為葛斯林創造了一個「拖把朋友」作為搭檔，展現了獨特的創意。",
+    "idea": "在一間宏偉的蒸汽朋克發明工坊內，一隻戴著護目鏡的虎斑貓，正於黃金時刻柔和的光線下，專心使用迷你蒸氣扳手維修一具複雜的機械雪貂自動機，呈現蒸汽朋克風格的對稱構圖。整個場景以復古褪色色調呈現，帶有細膩的沙質紋理。",
+    "comment_id": 4093099888,
+    "news_inspiration": [
+      "Priority Pass 在新加坡發布的一份新報告顯示，全球運動和健康旅遊顯著增長，旅客越來越多地根據大型體育賽事或健康靜修來規劃行程。",
+      "西班牙馬德里在首屆《福布斯旅遊大獎》中獲評為全球最佳城市，表彰其將旅遊業作為繁榮、包容和未來發展的工具。",
+      "由雷恩·葛斯林主演的科幻冒險電影《Project Hail Mary》在美國紐約上映，其導演在拍攝期間為葛斯林創造了一個「拖把朋友」作為搭檔，展現了獨特的創意。"
+    ],
+    "number": 955,
+    "title": "金時械語",
+    "prompt": "A digital painting in a rich steampunk aesthetic: A tabby cat, wearing protective goggles, is intensely focused, using a miniature steam wrench to repair a complex mechanical ferret automaton. The scene is set inside a magnificent steampunk inventor's workshop, filled with intricate Victorian-era machinery, glowing brass gears and cogs, and subtle steam-powered mechanisms, fully embodying industrial retrofuturism. The composition is perfectly symmetrical, with the cat and automaton as the centered subject, displaying a mirror-like balance and architectural framing. The entire workshop is illuminated by soft golden hour lighting, creating a warm sunset glow, long soft shadows, and a distinct golden rim light on the subject. The artwork is rendered with a retro faded color palette, featuring washed-out vintage tones and low contrast, evoking a nostalgic film-era warmth. A prominent fine sand texture is visible throughout, reminiscent of desert dune ripples, warm golden granules, wind-sculpted patterns, and natural grain detail. The text '2026-03-19 20:25 UTC' is clearly displayed as an integrated visual element within the image.",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Symmetrical Composition",
+      "lighting": "Golden Hour",
+      "texture": "Sand Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "這隻聰慧的貓匠名叫「齒輪」，牠正在為牠的獨特創造物——一隻名為「發條」的機械雪貂——進行精密調整。發條的內部齒輪閃爍著微光，齒輪知道，每一顆螺絲的緊固都代表著牠們之間無聲而深刻的連結。在工坊瀰漫的齒輪聲與蒸汽嘶嘶聲中，這對發明家與發明品的奇特友誼顯得格外溫馨。",
+    "avoid_list": [
+      "貓咪專注表情",
+      "貓咪與古老文物互動",
+      "強烈輪廓光或背光",
+      "雙色調畫面",
+      "分割畫面構圖",
+      "鳥瞰視角微縮效果",
+      "暖色調琥珀光影",
+      "月光銀色調",
+      "C4D風格高階渲染",
+      "老舊鏽蝕質感",
+      "極低角度仰拍",
+      "貓咪時尚配件",
+      "古老地圖描繪",
+      "藝術空間背景"
+    ]
   }
 ]
