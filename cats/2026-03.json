@@ -12711,5 +12711,44 @@
       "2026年世界幸福報告顯示，一個北歐國家（芬蘭）連續第九年成為世界上最幸福的國家，而哥斯大黎加則在拉丁美洲國家中排名最高。",
       "歐洲藝術博覽會（TEFAF）在荷蘭馬斯垂克圓滿落幕，展示了跨越七千年的精美藝術、古董和設計。"
     ]
+  },
+  {
+    "story": "退役船長「船長」依然是碼頭上無可撼動的權威，牠銳利的翠綠色右眼盯著碼頭上一個新來、效率驚人的小型AI機器人。儘管機器人以超乎人類的速度精準地分類魚貨，船長卻以牠招牌的堅毅眼神，宣示著這片水域的真正老大，任何新科技都得先通過牠的「審核」。",
+    "idea": "以彩飾手抄本風格描繪，在魚眼鏡頭下，船長以3D渲染的雙色調畫面，在漁港碼頭的魚貨堆上，以蝴蝶光照明的堅毅表情，「監督」一隻執行分類魚貨任務的最新型人工智慧機器人。",
+    "prompt": "A scene depicted in the style of an ancient illuminated manuscript, featuring ornate borders and intricate calligraphy, rendered with rich jewel-tone colors and prominent gold leaf accents. The central image is a polished 3D render with clean geometry and soft global illumination, embodying a Cinema 4D aesthetic. It is captured with a dramatic fisheye wide-angle lens, creating strong barrel distortion, an exaggerated foreground, and a sense of a 360-degree view. The lighting is sophisticated butterfly lighting with an overhead key light, casting a symmetrical shadow under the subject's nose, providing glamour portrait lighting with soft, even illumination. The rendered scene employs a duotone color treatment, primarily utilizing two contrasting colors for a bold graphic impact and modern design feel. However, Captain, the central figure, is clearly rendered as a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. His fur texture is scruffy, untidy, slightly coarse with uneven lengths. His LEFT eye (from the viewer's perspective) is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket (explicitly a fur marking, NOT a fabric or leather eye patch, NO straps). His RIGHT eye is a single piercing emerald green #50C878. His LEFT ear has a prominent V-shaped notch. Around his neck, a faded red #CD5C5C bandana is tied loosely and visibly. He has a white #FFFFFF chest bib and white mitten paws on all four feet, and a distinctive M-mark on his forehead. His tail is thick and sturdy. Captain stands on abundant piles of fish and merchandise on a bustling fishing port dock, displaying a steadfast, unyielding expression of supervision. In the exaggerated foreground, a small, latest-model artificial intelligence robot efficiently executes its task of precisely sorting fish at superhuman speed. The date and time '2026-03-19 18:40 UTC' are visually displayed prominently within the scene.",
+    "news_inspiration": [
+      "在澳洲的一個機場禮品店裡，一隻活生生的負鼠被發現混在毛絨玩具中，模樣十分逗趣可愛。",
+      "香港正熱鬧舉辦「Mega 8」大型活動，其中包括慶祝50週年的香港七人欖球賽，並首次舉辦了K-Pop派對，增添節慶氣氛。",
+      "芬蘭連續第九年獲評為全球最幸福國家，展現其在合作與社會凝聚力方面的成功。",
+      "美國喬治亞理工學院的研究人員開發出一種新的人工智慧系統，能讓機器人執行複雜任務的速度顯著超越人類示範者，同時保持精確性。"
+    ],
+    "avoid_list": [
+      "貓咪專注凝視/觀察",
+      "木紋質感與有機觸感表面",
+      "電影感打光與戲劇性陰影",
+      "柔和粉彩色系與夢幻光色調",
+      "黑光螢光與鮮豔霓虹色",
+      "等距3D插圖與簡潔幾何形式",
+      "冷冽藍青色調與冰冷底色",
+      "月光照亮與寧靜夜間氛圍",
+      "分割畫面構圖",
+      "貓爪輕觸/輕撥",
+      "清晰倒影/鏡面自拍",
+      "高飽和鮮豔色彩",
+      "漂浮島嶼/攤位"
+    ],
+    "character": "captain",
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Fisheye Lens",
+      "lighting": "Butterfly Lighting",
+      "texture": "3D Render",
+      "color_palette": "Duotone"
+    },
+    "character_name": "船長",
+    "comment_id": 4092478059,
+    "inspiration": "美國喬治亞理工學院的研究人員開發出一種新的人工智慧系統，能讓機器人執行複雜任務的速度顯著超越人類示範者，同時保持精確性。",
+    "title": "舵手觀新奇",
+    "number": 953
   }
 ]
