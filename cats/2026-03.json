@@ -12825,5 +12825,44 @@
       "古老地圖描繪",
       "藝術空間背景"
     ]
+  },
+  {
+    "number": 956,
+    "inspiration": "奈及利亞將其文化遺產存放在斯瓦爾巴群島的北極世界檔案館中，以保護從文化習俗到歷史事件的一切記錄。",
+    "title": "智慧的索引",
+    "story": "這隻被暱稱為『典籍督察』的貓咪，是這座高科技文化方舟中鮮為人知的守護者。牠的任務是確保奈及利亞豐富的文化遺產，能在冰封之地的深處被精密索引與妥善保存。在寂靜的金屬庫室裡，牠每一次謹慎的動作，都代表著對人類記憶與歷史的無聲承諾。",
+    "prompt": "A perfectly isometric shot, captured with a wide-angle prime lens at f/2.8, of a calm-furred, short-haired cat, gently manipulating a geometric, metallic indexing robot. The robot is rendered in a Morandi muted color palette, showcasing desaturated soft pastels with dusty grey undertones, exuding quiet elegance as it pushes a digitized cultural heritage carrier into a square storage unit embedded in a wall. The scene is set deep within an Arctic World Archive, designed with De Stijl architectural principles: clean geometric abstraction, dominant horizontal and vertical lines, constructed from brushed and polished metallic surfaces, black, and white, with sharp, minimal primary color accents, conveying an industrial premium feel. The entire composition is dramatically illuminated by a narrow beam spotlight, creating high-contrast, sharp light edges and deep darkness falloff, with crisp reflections on the metallic surfaces. This is a real captured photo with an isometric angle, ensuring no miniature effect. A small, glowing digital display on a nearby metallic panel clearly shows '2026-03-19 21:24 UTC'.",
+    "news_inspiration": [
+      "天文學家首次觀測到一顆磁星的誕生，這是一種宇宙中最強大的磁鐵，透過探測一顆超亮超新星光曲線中奇特的「擺動」而發現。",
+      "芬蘭連續第九年被評選為全球最幸福國家，其深厚的合作精神有助於維持榜首地位。",
+      "奈及利亞將其文化遺產存放在斯瓦爾巴群島的北極世界檔案館中，以保護從文化習俗到歷史事件的一切記錄。",
+      "菲律賓女足國家隊（Filipinas）憑藉實力再次獲得國際足協世界盃的參賽資格。",
+      "在印尼西巴布亞的偏遠地區，發現了兩種被認為已滅絕六千年的小型負鼠和滑翔動物。"
+    ],
+    "avoid_list": [
+      "貓咪專注表情",
+      "貓咪與古老文物互動",
+      "強烈輪廓光或背光",
+      "雙色調畫面",
+      "分割畫面構圖",
+      "鳥瞰視角微縮效果",
+      "暖色調琥珀光影",
+      "月光銀色調",
+      "C4D風格高階渲染",
+      "老舊鏽蝕質感",
+      "極低角度仰拍",
+      "貓咪時尚配件",
+      "古老地圖描繪",
+      "藝術空間背景"
+    ],
+    "idea": "在風格派(De Stijl)建築理念構築的北極世界檔案館深處，一隻毛色沉穩的短毛貓，以等距攝影(Isometric Photography)的視角，在聚光燈(Spotlight)的精準照射下，輕柔地操控著一個莫蘭迪色調(Morandi Color Palette)的幾何形金屬質感(Metallic Surface)索引機器人，將數位化的文化遺產載體緩緩推入牆上的方形儲存單元。",
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Isometric Photography",
+      "lighting": "Spotlight",
+      "texture": "Metallic Surface",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 4093399825
   }
 ]
