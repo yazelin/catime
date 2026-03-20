@@ -13170,5 +13170,44 @@
     },
     "number": 964,
     "idea": "在一個迷幻風格的春日櫻花野餐中，麻糬戴著手工花環，從織品質感、帶有遞迴圖案的野餐籃中探出圓滾滾的身子。牠琥珀色的雙眼泛著生物微光，呆萌地凝視著前方那盤以復古褪色色調呈現、同樣擁有織品質感的櫻花麻糬甜點，周圍是如夢似幻、盤旋飛舞的櫻花瓣。"
+  },
+  {
+    "prompt": "A sleek, shiny black cat, depicted in a 3D isometric illustration, ukiyo-e Japanese woodblock print style. The cat is meticulously arranging sparkling, crystal-clear crystals on a luxurious black and gold lacquered table. The setting is a traditional Japanese tea room with tatami mats featuring subtle golden edges. The artwork features flat color areas, bold outlines, and clean geometric forms, rendered with a polished playful quality. The scene is illuminated by ring light, casting even frontal lighting and a soft glow throughout the room, with a distinct circular catchlight in the cat's eyes. The overall mood is opulent, serene, and mysterious, dominated by a gold and black color scheme with luxurious metallic gold accents. Visible film grain, analog texture, and subtle noise add to an organic feel, suggesting photographic imperfections. The date and time '2026-03-20 09:30 UTC' are visually displayed within the image.",
+    "avoid_list": [
+      "遞迴影像/德羅斯特效應",
+      "畫面中嵌入日期時間顯示",
+      "貓咪凝視/專注",
+      "復古褪色低對比/懷舊電影感溫暖",
+      "高飽和鮮豔霓虹色彩",
+      "等距攝影構圖",
+      "風格派藝術風格",
+      "金屬質感表面",
+      "超廣角/魚眼鏡頭",
+      "柔和自然光線/黃金時刻",
+      "高對比/聚光燈/戲劇性光影",
+      "貓咪精密維修物件/執行精細操作",
+      "織品質感",
+      "貓咪使用精緻微型工具"
+    ],
+    "inspiration": "西班牙研究人員觀察到，黑猩猩對水晶展現出強烈的好奇心，甚至會像人類一樣整理它們，這是一項關於動物行為的有趣發現。",
+    "number": 965,
+    "story": "這隻黑貓對閃爍的礦石有著異乎尋常的興趣，牠的每一個動作都充滿了莊重與好奇，彷彿在進行一場古老的儀式。環形燈的柔和光暈均勻地灑落在茶室的每個角落，底片顆粒的質感增添了一絲歲月的沉靜，讓整個畫面籠罩在金與黑的奢華氛圍中，寧靜而神秘。",
+    "news_inspiration": [
+      "瑞士蘇黎世聯邦理工學院的研究人員開發出一種新型催化劑，能更高效地將二氧化碳轉化為甲醇，有助於推動清潔燃料的發展。",
+      "烏干達的基代波河谷國家公園在逾40年後，首次重新引入南方白犀牛，有助於恢復當地的生態系統。",
+      "一份報告指出，包括中國北京在內的全球多個主要城市在過去15年中，空氣品質顯著改善了20%至40%。",
+      "2026年NCAA男子籃球錦標賽的首日，美國各地上演了多場精彩賽事，其中第11種子德州大學在比賽中擊敗了第6種子楊百翰大學。",
+      "西班牙研究人員觀察到，黑猩猩對水晶展現出強烈的好奇心，甚至會像人類一樣整理它們，這是一項關於動物行為的有趣發現。"
+    ],
+    "title": "墨貓點晶",
+    "comment_id": 4096854313,
+    "idea": "一隻毛色烏黑亮麗的貓咪，在鋪著金色邊緣榻榻米的傳統日式茶室中，以浮世繪風格的等距3D插圖呈現，牠正專心致志地將一顆顆晶瑩剔透的水晶仔細擺放在一張奢華的黑金漆器桌上。",
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Ring Light",
+      "texture": "Film Grain",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]

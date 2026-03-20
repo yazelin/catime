@@ -8667,5 +8667,14 @@
     "timestamp": "2026-03-20 08:29 UTC",
     "season": "spring",
     "number": 964
+  },
+  {
+    "status": "success",
+    "inspiration": "西班牙研究人員觀察到，黑猩猩對水晶展現出強烈的好奇心，甚至會像人類一樣整理它們，這是一項關於動物行為的有趣發現。",
+    "timestamp": "2026-03-20 09:30 UTC",
+    "number": 965,
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_0930_UTC.webp",
+    "title": "墨貓點晶"
   }
 ]
