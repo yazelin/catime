@@ -13429,5 +13429,38 @@
     "news_inspiration": [],
     "idea": "在一間充滿布料和木質元素的裁縫店裡，一隻虎斑貓正透過巨大的古董鏡子凝視著自己的倒影，呈現出體素/我的世界風格的鏡子自拍構圖。",
     "story": "黃金時刻的溫暖光線穿透窗戶，將整個裁縫店染上大地色系，賦予貓咪毛皮和週遭布匹摺紙般的精緻紋理。牠的眼神中流露出好奇與一絲自戀，彷彿在為即將開始的一天做著最後的自我審視。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Miniature Diorama",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "avoid_list": [
+      "貓咪用爪子操作/擺放/觸摸物件",
+      "貓咪充當學者/策展人角色",
+      "地底深處/地下隧道場景",
+      "漂浮幾何/抽象元素",
+      "等距攝影/3D插圖構圖",
+      "隨性抓拍/真實感美學",
+      "螢光燈/均勻無影照明",
+      "生物發光/幽深藍綠色光芒",
+      "遞迴影像/德羅斯特效應",
+      "底片顆粒/類比質感細節",
+      "奢華金黑配色方案",
+      "復古褪色/低對比色調",
+      "視覺呈現特定時間戳記",
+      "分割畫面/多視角構圖"
+    ],
+    "inspiration": "original",
+    "news_inspiration": [],
+    "title": "方寸城之貓",
+    "prompt": "A white cat, depicted in a high contrast silhouette, is quietly observing an unfinished miniature city diorama in a detailed workshop setting. The entire scene is rendered in the distinctive artistic medium of a **Cyanotype print**, featuring rich **Prussian blue monochrome tones** and a strong **blueprint aesthetic**, as if created with a **photogram style** on **sun-exposed paper**. The miniature city landscape showcases buildings and roads with a **liquid metal surface**, exhibiting a **mercury-like reflective flow** and a **molten mirror finish**, giving them a **futuristic material** texture. Nearby, the artisan's uncollected **hand tools** are subtly placed. The composition employs a **tilt-shift effect** to emphasize the **tiny detailed world** and **toy-like scale model**. Dramatic **Rembrandt lighting** casts profound **chiaroscuro** across the scene, originating from a **single light source at 45 degrees**, creating deep shadows and bright highlights, potentially forming a **signature triangle of light on the cat's shadowed cheek**. The date and time '2026-03-20 16:30 UTC' are visually displayed within the image, integrated into the workshop environment.",
+    "story": "在瀰漫著膠水和木屑氣味的工坊裡，貓咪彷彿是這方寸世界的守護者。牠凝視著微小的摩天大樓和道路，眼中閃爍著對這精密藝術的好奇與沉思，彷彿在等待下一個建築的落成。整個場景如同定格在藍與白之間的夢境。",
+    "comment_id": 4099425740,
+    "number": 972,
+    "idea": "一隻白貓在微縮模型工坊中，以藍曬法風格呈現，運用倫勃朗光，靜靜觀察著一個未完成的微縮城市景觀，其表面帶有液態金屬般的質感，而旁邊是工匠未及收起的手作工具。"
   }
 ]
