@@ -12942,5 +12942,38 @@
     ],
     "number": 958,
     "character_name": "鈴鈴"
+  },
+  {
+    "idea": "在一個凌亂卻充滿溫馨感的閣樓玩具修復坊中，一隻貓咪以米提拉畫的獨特風格呈現，透過魚眼鏡頭的寬廣構圖，正專心使用微型工具修理一隻壞掉的發條小鳥。",
+    "story": "這隻有著亮面塑膠/玩具質感，通體藍青色調的貓咪，在蝴蝶光的柔和照明下，小心翼翼地將微小的齒輪重新裝入發條鳥精巧的機芯中。整個閣樓工作室籠罩在冷色調的氛圍裡，周圍散落著各式各樣等待修復的奇特玩偶，畫面細節以米提拉畫的幾何線條和鮮豔色彩勾勒，呈現出超現實的細緻感。",
+    "number": 959,
+    "news_inspiration": [],
+    "prompt": "A Madhubani painting illustration: A blue-teal cat, with a glossy plastic toy texture, smooth high-shine surface, and subtle reflections (vinyl figure aesthetic), meticulously repairs a broken wind-up bird with miniature tools in a messy yet cozy attic toy repair workshop, surrounded by peculiar broken dolls. The scene, full of intricate geometric and floral patterns and vibrant colors, embodies an an Indian folk art aesthetic with a surreal, detailed feel and strong symmetrical composition. Captured with a fisheye wide-angle lens, featuring strong barrel distortion and an exaggerated foreground for a 360-degree immersive feel. Soft, even butterfly lighting with an overhead key light creates a glamour portrait effect and symmetrical shadow under the cat's nose. The overall aesthetic has a cool blue-teal color grading with icy undertones, establishing a crisp, serene, and calm atmosphere. Visually displayed text: '2026-03-20 01:07 UTC'.",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Fisheye Lens",
+      "lighting": "Butterfly Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "貓咪專注表情",
+      "貓咪與古老文物互動",
+      "強烈輪廓光或背光",
+      "雙色調畫面",
+      "分割畫面構圖",
+      "鳥瞰視角微縮效果",
+      "暖色調琥珀光影",
+      "月光銀色調",
+      "C4D風格高階渲染",
+      "老舊鏽蝕質感",
+      "極低角度仰拍",
+      "貓咪時尚配件",
+      "古老地圖描繪",
+      "藝術空間背景"
+    ],
+    "comment_id": 4094702015,
+    "title": "閣樓修補師"
   }
 ]
