@@ -8703,5 +8703,18 @@
     "timestamp": "2026-03-20 12:33 UTC",
     "title": "洞穴繪跡",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_1353_UTC.webp",
+    "title": "窗雨疊櫻琥珀光",
+    "season": "spring",
+    "is_seasonal": true,
+    "status": "success",
+    "character": "momo",
+    "timestamp": "2026-03-20 13:53 UTC",
+    "inspiration": "西班牙：研究人員發現黑猩猩像人類一樣被水晶吸引，對石英晶體表現出強烈的好奇心，顯示這種魅力可能源於演化。",
+    "character_name": "墨墨",
+    "number": 969,
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]

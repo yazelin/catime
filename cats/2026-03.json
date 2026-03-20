@@ -13320,5 +13320,48 @@
     "news_inspiration": [],
     "story": "探險貓咪「墨跡」在地底深處發現了一間遺世獨立的製圖工坊，牆面佈滿發光的苔蘚。牠將一張巨大的碳纖維桌面上的古老羊皮地圖展開，用牠的爪子輕輕描繪著未知的路線。在一次「鏡像自拍」中，牠記錄下這神秘而又嚴肅的探索時刻。",
     "title": "洞穴繪跡"
+  },
+  {
+    "story": "夜雨淅瀝，墨墨優雅地棲身高處，金琥珀色的眼睛在燭光下閃爍著對窗外世界的好奇。莫蘭迪色調的櫻花瓣被雨水打濕，輕柔地貼附在濕潤的水晶玻璃上，彷彿一幅流動的立體畫作。牠的目光在雨滴與花瓣間流轉，而牠的注意力卻被窗台邊一個閃耀著幾何光芒的石英晶體所吸引，像在探究其中隱藏的自然密碼，展現出與古老生命形態相似的原始魅力。",
+    "title": "窗雨疊櫻琥珀光",
+    "news_inspiration": [
+      "印度班加羅爾：Infosys與Formula E合作推出AI賽事中心，運用尖端人工智慧技術，為賽車日的粉絲帶來沉浸式體驗。",
+      "西班牙：研究人員發現黑猩猩像人類一樣被水晶吸引，對石英晶體表現出強烈的好奇心，顯示這種魅力可能源於演化。",
+      "南非：好萊塢大片如《復仇者聯盟：奧創紀元》和《不可能的任務：最終清算》選擇在南非各城市和風景區取景拍攝。",
+      "美國：夸帕族（Quapaw Nation）成功清理了曾受採礦污染的部落土地，使其恢復生機並重新用於農業。",
+      "紐西蘭：罕見的卡卡波鸚鵡（Kākāpō）迎來了一波「嬰兒潮」，為這種瀕危的紐西蘭特有物種帶來了新的希望。"
+    ],
+    "season": "spring",
+    "is_seasonal": true,
+    "prompt": "Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat with satin-sheen fur showing warm brown undertones in direct light. Athletic proportions with visible muscle definition and a slight upward curl at the tail tip. A single small gold hoop earring #FFD700 (3mm) on its LEFT ear at the mid-ear edge. A tiny natural white locket tuft #FFFFFF on its ventral chest. A single dark-grey #696969 ring at its tail tip. Large luminous golden-amber #D4A017 eyes like polished amber gems. Long prominent white whiskers. Calm and attentive expression.\n\nMomo sits elegantly on the window sill of an old bookstore, gazing out at a serene spring scene. Outside, night rain drizzles, and Morandi muted color palette cherry blossoms, wet and desaturated, gently cling to the transparent, crystal-like wet glass, creating a flowing, cubist-like floral pattern. Beside Momo on the sill, a shimmering geometric quartz crystal catches its attention, its facets reflecting fragmented light.\n\nThe image is rendered in a Cubist art style, featuring geometric fragmented forms and multiple simultaneous perspectives. The composition incorporates abstract angular planes and analytical decomposition. A sharp vertical cut line divides the image, with the left half showcasing photorealistic detail and the right half rendered as a precise wireframe diagram. Candlelight casts a warm orange flickering glow, creating an intimate atmosphere with soft dancing shadows, refracting through the wet transparent glass, producing prismatic reflections and crystalline clarity.\n\nVisually displayed in the image: '2026-03-20 13:53 UTC'. The overall color scheme maintains a Morandi muted color palette, characterized by desaturated soft pastels and dusty grey undertones, evoking quiet elegance.",
+    "character": "momo",
+    "comment_id": 4098144464,
+    "inspiration": "西班牙：研究人員發現黑猩猩像人類一樣被水晶吸引，對石英晶體表現出強烈的好奇心，顯示這種魅力可能源於演化。",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Split View",
+      "lighting": "Candlelight",
+      "texture": "Glass / Crystal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "在立體主義的分割畫面中，墨墨以其多視角的幾何形體，靜坐於舊書店的窗台上，凝視著窗外雨中飄落的莫蘭迪色調櫻花雨，燭光透過水晶般濕潤的玻璃折射出破碎的光影。",
+    "avoid_list": [
+      "遞迴影像/德羅斯特效應",
+      "畫面中嵌入日期時間顯示",
+      "貓咪凝視/專注",
+      "復古褪色低對比/懷舊電影感溫暖",
+      "高飽和鮮豔霓虹色彩",
+      "等距攝影構圖",
+      "風格派藝術風格",
+      "金屬質感表面",
+      "超廣角/魚眼鏡頭",
+      "柔和自然光線/黃金時刻",
+      "高對比/聚光燈/戲劇性光影",
+      "貓咪精密維修物件/執行精細操作",
+      "織品質感",
+      "貓咪使用精緻微型工具"
+    ],
+    "number": 969
   }
 ]
