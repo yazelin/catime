@@ -8627,5 +8627,14 @@
     "inspiration": "original",
     "title": "霓虹爪影",
     "number": 960
+  },
+  {
+    "inspiration": "香港故宮文化博物館於香港推出「天馬凌雲──故宮博物院藏繪畫珍品」新展覽，展出近百幅元代至20世紀以馬為主題的珍貴畫作。",
+    "number": 961,
+    "status": "success",
+    "title": "畫中馬語，貓觀古今",
+    "timestamp": "2026-03-20 05:43 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_0543_UTC.webp"
   }
 ]
