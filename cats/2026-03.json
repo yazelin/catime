@@ -13248,5 +13248,44 @@
     "idea": "一隻土色斑貓正俯瞰著巴西南部巨型地懶所挖掘的巨大地下隧道中，它在一張舊皮革地圖上，小心翼翼地用前爪追蹤著彎曲的路線，周遭環境以帕列赫細密畫風格呈現，並被螢光燈均勻照亮。",
     "comment_id": 4097099255,
     "story": "在被遺忘的地下深處，一隻名叫「探戈」的貓咪，憑著與生俱來的探險精神，潛入冰河時期的古生物洞穴。牠發現了一張被遺棄的皮革地圖，上面標示著錯綜複雜的通道，螢光燈的冷光映照出牠專注的眼神，彷彿在解讀地懶留下的古老秘密。"
+  },
+  {
+    "news_inspiration": [
+      "科學家在美國加州海岸水域下發現了冰河時代文明的遺蹟，揭示了史前人類定居點的新見解。",
+      "韓國流行音樂巨星BTS發行新專輯，並在首爾舉辦他們中斷近四年後的回歸演唱會。",
+      "儘管衝突不斷，烏克蘭多瑙河三角洲的一個濕地生態系統奇蹟般地恢復生機。",
+      "智利成為美洲第一個被世界衛生組織認證已消除麻風病的國家，這是一個歷史性的公共衛生里程碑。",
+      "亞利桑那大學的天文學家發現附近的一個星系因宇宙碰撞而破碎，為星系演化提供了新線索。"
+    ],
+    "comment_id": 4097360694,
+    "prompt": "A hand-drawn infographic style illustration of a knowledgeable Persian cat astronomer professor, wearing gold-rimmed glasses and a black vest, enthusiastically explaining galaxy collisions to a group of kitten students in mini space helmets. The scene is set in a modern astronomical briefing room featuring natural wood grain texture with visible knots and lines, creating an organic tactile surface and a warm rustic aesthetic. The composition uses a sharp vertical split view: the left side captures the professor mid-explanation, passionately gesturing with a golden pointer stick, while the right side displays a detailed, luxurious hand-drawn infographic of a galaxy collision, rendered with opulent metallic gold accents on a deep black background, highlighting a clear gold and black color scheme. The entire image is illuminated by a harsh direct on-camera flash, creating blown-out highlights and hard shadows, contributing to a raw, candid snapshot look within the illustrative style. A subtle paper texture background is visible, and calligraphy brush strokes enhance the artistic feel. The date and time '2026-03-20 11:22 UTC' are visually displayed within the image, completing the opulent mood.",
+    "inspiration": "亞利桑那大學的天文學家發現附近的一個星系因宇宙碰撞而破碎，為星系演化提供了新線索。",
+    "title": "星系碰撞學",
+    "avoid_list": [
+      "遞迴影像/德羅斯特效應",
+      "畫面中嵌入日期時間顯示",
+      "貓咪凝視/專注",
+      "復古褪色低對比/懷舊電影感溫暖",
+      "高飽和鮮豔霓虹色彩",
+      "等距攝影構圖",
+      "風格派藝術風格",
+      "金屬質感表面",
+      "超廣角/魚眼鏡頭",
+      "柔和自然光線/黃金時刻",
+      "高對比/聚光燈/戲劇性光影",
+      "貓咪精密維修物件/執行精細操作",
+      "織品質感",
+      "貓咪使用精緻微型工具"
+    ],
+    "number": 967,
+    "idea": "一隻戴著金邊眼鏡的波斯貓天文學家，身著黑色背心，在一個充滿木紋飾的簡報室裡，向一群幼貓學生解釋星系碰撞。整個場景以手繪信息圖風格呈現，運用分割畫面構圖，一側聚焦於貓咪教授的生動講解，另一側則展示精細的金色與黑色奢華調手繪星系碰撞圖，並以閃光燈直打的照明方式突顯細節。",
+    "story": "在一個黑木紋理的現代天文簡報室中，博學的波斯貓教授正用一支金色的指示棒，熱情地向座位上戴著迷你太空帽的幼貓學員們，解釋附近星系因宇宙碰撞而破碎的最新發現。畫面被精巧分割，左側捕捉到教授聚精會神、傳道授業的瞬間，右側則以手繪信息圖的風格，詳細展示了以金色線條勾勒在黑色背景上的星系碰撞示意圖，整個場景在直射閃光燈的照射下，呈現出清晰而獨特的奢華感。",
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Split View",
+      "lighting": "Direct Flash",
+      "texture": "Wood Grain",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
