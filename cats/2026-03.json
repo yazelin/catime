@@ -13577,5 +13577,39 @@
       "texture": "Paper Texture",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "news_inspiration": [],
+    "idea": "一隻薑黃色的貓咪，正以單眼人像（散景）的風格，對稱地坐在一座廢棄的混凝土通訊碉堡中，熟練地操作著一座古老而巨大的交換機。柔和的月光從高窗灑落，為整個場景染上復古褪色的色調。",
+    "inspiration": "original",
+    "avoid_list": [
+      "專注凝視/仔細檢查",
+      "環形燈光",
+      "閃光燈直打",
+      "生物發光",
+      "莫蘭迪色調",
+      "鏡子自拍",
+      "分割畫面構圖",
+      "移軸微縮效果",
+      "奢華風格",
+      "大地色系",
+      "底片顆粒質感",
+      "碳纖維物件",
+      "古老地圖",
+      "水晶礦石",
+      "優雅姿態"
+    ],
+    "story": "在冷戰時期被遺棄的混凝土通訊碉堡深處，一隻薑黃色的短毛貓正靈巧地操作著佈滿灰塵的巨型交換機，它的身影在冰冷的水泥牆前顯得格外突出。透過月光的洗禮，它專注地將一條條線纜插入拔出，彷彿在嘗試重新連接一段失落的歷史。",
+    "comment_id": 4100763460,
+    "title": "月光機房",
+    "prompt": "A DSLR portrait of a ginger short-haired cat, sharply focused, skillfully operating an ancient, massive vintage switchboard. The scene is set inside a deserted brutalist concrete communication bunker, showcasing raw concrete texture and rough aggregate surfaces with industrial minimalism. The composition is perfectly symmetrical, with the cat centered and mirror-like balance, architecturally framed by the bunker's structure. Soft moonlight illumination streams from a high window, casting a gentle silvery glow and cool blue tones, creating a quiet nighttime atmosphere. The overall image features a retro faded color palette, washed-out vintage tones, and low contrast, imbued with a nostalgic film-era warmth. Visually displayed in the image: 2026-03-20 20:20 UTC. Shot with an 85mm f/1.4 lens, resulting in a creamy bokeh background.",
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Symmetrical Composition",
+      "lighting": "Moonlight",
+      "texture": "Concrete",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 976
   }
 ]
