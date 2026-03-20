@@ -13209,5 +13209,44 @@
       "texture": "Film Grain",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "prompt": "A Palekh art miniature painting, intricate and vibrant, depicting a bird's-eye, top-down view of an earth-toned tabby cat. The cat, rendered in an earth tone palette of terracotta and warm brown, carefully traces a winding route on an old, supple genuine leather map with its front paw. The map, displaying rich grain and warm aged patina, lies within a vast network of giant underground tunnels, suggestive of those excavated by extinct giant ground sloths in Southern Brazil, rendered with olive green and brown hues. The entire scene is bathed in uniform overhead fluorescent lighting, neutral white 5000K, institutional flat illumination, casting no shadows, creating a miniature world effect with subtle Russian folkloric themes and gold leaf storytelling elements. Text '2026-03-20 10:27 UTC' is visually displayed in the image.",
+    "inspiration": "科學家在巴西南部和阿根廷北部發現了巨大的地下隧道網絡，這些被認為是冰河時期巨型地懶所挖掘的「古生物洞穴」。",
+    "avoid_list": [
+      "遞迴影像/德羅斯特效應",
+      "畫面中嵌入日期時間顯示",
+      "貓咪凝視/專注",
+      "復古褪色低對比/懷舊電影感溫暖",
+      "高飽和鮮豔霓虹色彩",
+      "等距攝影構圖",
+      "風格派藝術風格",
+      "金屬質感表面",
+      "超廣角/魚眼鏡頭",
+      "柔和自然光線/黃金時刻",
+      "高對比/聚光燈/戲劇性光影",
+      "貓咪精密維修物件/執行精細操作",
+      "織品質感",
+      "貓咪使用精緻微型工具"
+    ],
+    "news_inspiration": [
+      "香港在2026年3月舉辦多場藝術文化盛事，包括首屆亞洲咖啡音樂節和爵士歌手Stella Cole的香港首演，讓城市成為全球藝術樞紐。",
+      "瑞士蘇黎世在春分日舉行「Boogg」焚燒儀式，象徵性地驅逐冬季並慶祝春天的到來。",
+      "紐西蘭板球隊在奧克蘭舉行的第三場T20國際賽中，以8個三柱門的優勢擊敗南非隊，取得系列賽2比1的領先。",
+      "科學家在巴西南部和阿根廷北部發現了巨大的地下隧道網絡，這些被認為是冰河時期巨型地懶所挖掘的「古生物洞穴」。",
+      "研究人員在美國加州海岸水下發現了數千件冰河時期石器，揭示了一個可能改變人類對冰河時期歷史理解的「失落的海岸遷徙世界」。"
+    ],
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Bird's-Eye View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Leather",
+      "color_palette": "Earth Tones"
+    },
+    "title": "地底迴廊探秘",
+    "number": 966,
+    "idea": "一隻土色斑貓正俯瞰著巴西南部巨型地懶所挖掘的巨大地下隧道中，它在一張舊皮革地圖上，小心翼翼地用前爪追蹤著彎曲的路線，周遭環境以帕列赫細密畫風格呈現，並被螢光燈均勻照亮。",
+    "comment_id": 4097099255,
+    "story": "在被遺忘的地下深處，一隻名叫「探戈」的貓咪，憑著與生俱來的探險精神，潛入冰河時期的古生物洞穴。牠發現了一張被遺棄的皮革地圖，上面標示著錯綜複雜的通道，螢光燈的冷光映照出牠專注的眼神，彷彿在解讀地懶留下的古老秘密。"
   }
 ]

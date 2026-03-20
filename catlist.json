@@ -8676,5 +8676,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_0930_UTC.webp",
     "title": "墨貓點晶"
+  },
+  {
+    "inspiration": "科學家在巴西南部和阿根廷北部發現了巨大的地下隧道網絡，這些被認為是冰河時期巨型地懶所挖掘的「古生物洞穴」。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_1027_UTC.webp",
+    "title": "地底迴廊探秘",
+    "number": 966,
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-03-20 10:27 UTC",
+    "status": "success"
   }
 ]
