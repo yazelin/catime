@@ -13087,5 +13087,45 @@
       "texture": "Origami",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "inspiration": "智利馬普切原住民社區每年都會舉行動員，要求國家正式承認他們的祖傳語言Mapojukun。",
+    "idea": "一隻貓咪置身於一個以風格派（De Stijl）美學構建的漂浮幾何場景中，牠正仔細地排列著由半透明樹脂製成的馬普切語文字方塊，這些方塊邊緣散發著柔和的復古霓虹燈光，營造出獨特而沉靜的氛圍。",
+    "comment_id": 4096294375,
+    "number": 963,
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Floating Island Scene",
+      "lighting": "Neon Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Retro Faded Tones"
+    },
+    "prompt": "An artistic illustration in the distinct style of De Stijl art and neoplasticism. An elegant cat is meticulously depicted, with intense focus, gently arranging translucent resin Mapuche language text blocks. The cat uses a delicate paw tip to precisely place each block onto a geometric grid built into a large, levitating platform, forming a miniature floating island in the sky. The scene is characterized by strong geometric abstraction, prominent horizontal and vertical lines, and a Mondrian-inspired primary color palette (red, blue, yellow) against dominant black and white elements in the abstract architecture of the floating landscape. The Mapuche text blocks are crafted from translucent resin with an amber-like clarity and a glossy smooth surface, revealing embedded elements within. Their edges emit a soft, retro neon glow, casting subtle reflections on the platform's surface and the adjacent blocks. The overall lighting provides a low contrast, imbued with a retro faded color palette and washed-out vintage tones, creating a tranquil yet nostalgic film-era warmth, reminiscent of a moody urban night atmosphere. The composition utilizes an aerial perspective, showcasing the cat on the levitating platform set against a backdrop of white clouds. The date and time '2026-03-20 07:38 UTC' are subtly incorporated as a digital display element within one of the geometric structures of the floating scene.",
+    "story": "這隻擁有優雅身姿的貓咪，凝神地用爪尖輕推著每一個馬普切語方塊，將它們精確地置於漂浮平台上的網格中。牠的動作充滿了對語言傳承的敬意與專注，彷彿在無聲地修復一段失落的歷史，讓古老的詞語在由幾何形狀和褪色光芒組成的抽象空間中重新獲得生命與迴響。",
+    "news_inspiration": [
+      "在經歷了近一年的安全禁令後，板球運動在英國丹伯利的歷史性道森紀念球場溫馨回歸。",
+      "日本擁有許多鮮為人知、融合武道、西方影響及現代創新的獨特運動文化。",
+      "熱帶氣旋納雷爾在澳洲昆士蘭遠北部登陸，但造成的損失相對有限，被視為一個令人欣慰的好消息。",
+      "智利馬普切原住民社區每年都會舉行動員，要求國家正式承認他們的祖傳語言Mapojukun。",
+      "國際足聯在波蘭舉行的U-20女足世界盃上，推出了一項開創性的女足教練新規定，要求所有女足錦標賽隊伍必須設有女性總教練或助理教練。"
+    ],
+    "title": "浮嶼語跡",
+    "avoid_list": [
+      "視覺化顯示時間日期",
+      "專注地操作/研究",
+      "背光/輪廓光/柔和發光邊緣",
+      "金屬質感/工業高質感",
+      "俯瞰視角與微型世界效果",
+      "魚眼鏡頭/超廣角與桶狀畸變",
+      "莫蘭迪色調",
+      "聚光燈與高對比",
+      "專業修復/研究工作坊/實驗室",
+      "微型工具",
+      "雙色調",
+      "蝴蝶光照明",
+      "對稱構圖",
+      "暖琥珀色調/秋日暖色",
+      "營造戲劇性氛圍"
+    ]
   }
 ]
