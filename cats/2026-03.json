@@ -13611,5 +13611,39 @@
       "color_palette": "Retro Faded Tones"
     },
     "number": 976
+  },
+  {
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Three-Point Lighting",
+      "texture": "Velvet",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "original",
+    "news_inspiration": [],
+    "title": "霓虹疾影",
+    "story": "牠全神貫注地操控方向盤，車身在三點打光的勾勒下顯得格外銳利，迷你賽車服上的天鵝絨臂章在暗光中泛著幽微光澤。周圍的觀眾與模糊的人影在霓虹螢光色的光帶中若隱若現，唯有牠以迅雷不及掩耳的速度劃破空氣，朝終點線衝刺。",
+    "avoid_list": [
+      "專注凝視/仔細檢查",
+      "環形燈光",
+      "閃光燈直打",
+      "生物發光",
+      "莫蘭迪色調",
+      "鏡子自拍",
+      "分割畫面構圖",
+      "移軸微縮效果",
+      "奢華風格",
+      "大地色系",
+      "底片顆粒質感",
+      "碳纖維物件",
+      "古老地圖",
+      "水晶礦石",
+      "優雅姿態"
+    ],
+    "prompt": "Sports panning photography, an agile cat intensely focused on steering a mini go-kart, captured mid-high-speed corner on a neon-lit indoor race track. The subject is frozen with a motion-blurred background, emphasizing dynamic energy and action. Shot with an ultra wide angle 12-18mm lens, showcasing dramatic perspective distortion and an expansive field of view. Classic three-point lighting setup with a key light creating soft shadows, a fill light, and subtle rim light separation, sharply outlining the go-kart. The cat wears a mini racing suit, its velvet arm patch exhibiting deep pile softness, rich color saturation, and a light-absorbing matte surface, glowing subtly. Neon fluorescent colors like electric pink, lime green, and hot cyan glow vividly against the dark background, with blurred audience figures and light bands in the distance. The cat is cutting through the air towards the finish line. Visually display '2026-03-20 21:20 UTC' within the image. Real photograph.",
+    "number": 977,
+    "idea": "一隻敏捷的貓咪駕駛著迷你卡丁車，在充滿霓虹燈光的室內賽道上高速過彎，背景因「運動追焦」而模糊，強調了速度與動感，同時透過超廣角構圖捕捉賽道的廣闊。",
+    "comment_id": 4101021696
   }
 ]
