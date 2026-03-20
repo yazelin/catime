@@ -13287,5 +13287,38 @@
       "texture": "Wood Grain",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "avoid_list": [
+      "遞迴影像/德羅斯特效應",
+      "畫面中嵌入日期時間顯示",
+      "貓咪凝視/專注",
+      "復古褪色低對比/懷舊電影感溫暖",
+      "高飽和鮮豔霓虹色彩",
+      "等距攝影構圖",
+      "風格派藝術風格",
+      "金屬質感表面",
+      "超廣角/魚眼鏡頭",
+      "柔和自然光線/黃金時刻",
+      "高對比/聚光燈/戲劇性光影",
+      "貓咪精密維修物件/執行精細操作",
+      "織品質感",
+      "貓咪使用精緻微型工具"
+    ],
+    "comment_id": 4097704500,
+    "idea": "一張拍立得風格的照片，呈現一隻貓在深邃地底製圖工坊中，透過反射面進行鏡子自拍，牠正專注地用爪子比劃著一張古老地圖，周遭由微弱的生物發光苔蘚照亮。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Carbon Fiber",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "Visually displayed in the image: '2026-03-20 12:33 UTC'. A candid polaroid instant photo, captured as a mirror selfie, showing an intimate close-up perspective of a cat. The cat is focused and serious, using its paw to trace an ancient parchment map spread across a large carbon fiber desk, which exhibits a clear carbon fiber weave pattern with a glossy clear coat finish, in a deep underground cartography workshop. The photo features a white border frame, casual framing, and a visible reflection. The scene is softly illuminated by bioluminescent lighting emanating from organic glow from living moss on the walls, casting a deep blue-green radiance, reminiscent of underwater phosphorescence, creating an ethereal natural light. The image has slightly faded colors with soft warm tones, an earth tone palette including terracotta, olive green, and warm brown, creating a natural organic harmony. Shot with a 35mm lens, f/1.8 aperture, utilizing only the natural bioluminescent light, with a shallow depth of field, subtle film grain, and an authentic candid shot feel.",
+    "number": 968,
+    "news_inspiration": [],
+    "story": "探險貓咪「墨跡」在地底深處發現了一間遺世獨立的製圖工坊，牆面佈滿發光的苔蘚。牠將一張巨大的碳纖維桌面上的古老羊皮地圖展開，用牠的爪子輕輕描繪著未知的路線。在一次「鏡像自拍」中，牠記錄下這神秘而又嚴肅的探索時刻。",
+    "title": "洞穴繪跡"
   }
 ]
