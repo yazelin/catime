@@ -13127,5 +13127,48 @@
       "暖琥珀色調/秋日暖色",
       "營造戲劇性氛圍"
     ]
+  },
+  {
+    "avoid_list": [
+      "視覺化顯示時間日期",
+      "專注地操作/研究",
+      "背光/輪廓光/柔和發光邊緣",
+      "金屬質感/工業高質感",
+      "俯瞰視角與微型世界效果",
+      "魚眼鏡頭/超廣角與桶狀畸變",
+      "莫蘭迪色調",
+      "聚光燈與高對比",
+      "專業修復/研究工作坊/實驗室",
+      "微型工具",
+      "雙色調",
+      "蝴蝶光照明",
+      "對稱構圖",
+      "暖琥珀色調/秋日暖色",
+      "營造戲劇性氛圍"
+    ],
+    "character_name": "麻糬",
+    "comment_id": 4096584292,
+    "inspiration": "original",
+    "title": "櫻花幻食夢",
+    "news_inspiration": [
+      "瑞士CERN的大型強子對撞機發現了一種新的亞原子粒子Ξcc⁺。",
+      "紐西蘭一種罕見的無飛行能力鸚鵡Kākāpō出現了「嬰兒潮」，數量大增。",
+      "德國的香腸販賣機業務蓬勃發展，成為當地一種獨特的文化現象。",
+      "韓國發現了一種新的草食性恐龍物種。"
+    ],
+    "character": "mochi",
+    "is_seasonal": true,
+    "story": "老街市場的麻糬，終於迎來了牠最愛的春日野餐時刻。剛從裝滿美食的野餐籃裡鑽出來，牠圓滾滾的身軀微微晃動，頭上的花環因這場美食巡禮而歪斜。看著眼前堆疊如山的春日點心，麻糬的眼睛瞬間放大兩倍，即使肚子已經有點飽足，美食的誘惑依然讓牠發出滿足又略帶貪婪的呼嚕聲。",
+    "prompt": "A psychedelic art illustration, digital painting with mixed media influences, capturing a surreal spring cherry blossom picnic. The central figure is Mochi, a chubby, rounded shorthair cat, with a white #FFFFFF base coat and bright orange #FF8C00 patches. Mochi features a RIGHT half-face orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while the LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on Mochi's upper back. The RIGHT front paw has a solid orange #FF8C00 mitten to the wrist, and the LEFT front paw is pure white #FFFFFF. Mochi's belly is white #FFFFFF, and its short stubby legs support a spherical torso. Its large, round amber #FFBF00 eyes, glowing with a subtle bioluminescent shimmer, are fixed with a mix of awe and greed on a plate of dessert. Mochi's pink #FFB6C1 nose has a tiny orange center dot, and its tail displays orange-and-white ringed bands. Mochi wears a handmade spring flower crown, slightly askew, as it peeks with its eager, rounded body from a woven fabric picnic basket. The basket exhibits a tactile soft appearance with visible threads and a linen-like weave pattern, further enhanced by a recursive image, Droste effect, picture within a picture repeating infinitely, creating a self-referential loop pattern. The dessert is a plate of cherry blossom mochi, depicted in a retro faded color palette with washed-out vintage tones and low contrast, also possessing a woven fabric texture and tactile softness. Dreamlike, melting distorted forms of cherry blossom petals swirl and float ethereally around the scene. The overall composition skillfully blends vibrant clashing neon colors within the background's dynamic, swirling patterns, providing a surreal, energetic contrast to the nostalgic film-era warmth of the picnic foreground. Lighting incorporates an organic glow from living organisms and subtle deep blue-green radiance in the background, with ethereal natural light gently illuminating Mochi and the picnic setup. Visually display '2026-03-20 08:29 UTC' integrated naturally into the psychedelic elements of the artwork.",
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Bioluminescence",
+      "texture": "Fabric / Textile",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 964,
+    "idea": "在一個迷幻風格的春日櫻花野餐中，麻糬戴著手工花環，從織品質感、帶有遞迴圖案的野餐籃中探出圓滾滾的身子。牠琥珀色的雙眼泛著生物微光，呆萌地凝視著前方那盤以復古褪色色調呈現、同樣擁有織品質感的櫻花麻糬甜點，周圍是如夢似幻、盤旋飛舞的櫻花瓣。"
   }
 ]

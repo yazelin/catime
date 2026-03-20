@@ -8654,5 +8654,18 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_0738_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_0829_UTC.webp",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "title": "櫻花幻食夢",
+    "status": "success",
+    "is_seasonal": true,
+    "character": "mochi",
+    "timestamp": "2026-03-20 08:29 UTC",
+    "season": "spring",
+    "number": 964
   }
 ]
