@@ -8761,5 +8761,18 @@
     "inspiration": "日本大阪市收到匿名捐贈的價值三百五十萬美元金條，將用於更新該市老舊的自來水管道。",
     "timestamp": "2026-03-20 18:33 UTC",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": 975,
+    "timestamp": "2026-03-20 19:30 UTC",
+    "is_seasonal": true,
+    "character_name": "船長",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_1930_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "season": "spring",
+    "title": "破曉碼頭風",
+    "inspiration": "original",
+    "status": "success"
   }
 ]

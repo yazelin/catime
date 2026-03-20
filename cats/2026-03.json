@@ -13539,5 +13539,43 @@
       "加拿大西安大略大學的學生們提出了多項健康創新方案，旨在解決該國民眾缺乏運動的公共衛生挑戰。",
       "根據最新發布的《世界幸福報告》，芬蘭連續第九年蟬聯全球最幸福國家。"
     ]
+  },
+  {
+    "number": 975,
+    "avoid_list": [
+      "專注凝視/仔細檢查",
+      "環形燈光",
+      "閃光燈直打",
+      "生物發光",
+      "莫蘭迪色調",
+      "鏡子自拍",
+      "分割畫面構圖",
+      "移軸微縮效果",
+      "奢華風格",
+      "大地色系",
+      "底片顆粒質感",
+      "碳纖維物件",
+      "古老地圖",
+      "水晶礦石",
+      "優雅姿態"
+    ],
+    "story": "在春日的破曉時分，老船長壯碩的身軀穩立於漁港最前端的防波堤上，銳利的翠綠色右眼穿透晨霧，凝視著一艘艘緩緩駛出港口、駛向無盡大海的漁船。海風輕拂牠蓬亂而有型的毛髮，吹動褪色的紅色頭巾和長白鬍鬚，這位碼頭的守護者在金色的晨光中，默默堅守著牠對這片水域的深沉情誼。",
+    "prompt": "A 3D isometric illustration capturing the essence of Pictorialism photography style, featuring a tranquil spring fishing harbor scene at dawn. The composition is from an isometric 3D illustration perspective, with clean geometric forms and polished playful rendering. Dominating the scene, a stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes, muscular build, and scruffy, untidy, slightly coarse fur of uneven lengths, stands resolutely on a high breakwater or dock. Its LEFT eye (viewer's perspective) is permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket; this is explicitly a fur marking, NOT a fabric or leather eye patch, and has NO straps. Its RIGHT eye is a single piercing emerald green #50C878. A prominent V-shaped notch marks its LEFT ear. A faded red #CD5C5C bandana is tied loosely around its neck, visibly ruffled by the sea breeze. It has a white #FFFFFF chest bib and white mitten paws on all four feet. A distinctive M-mark is visible on its forehead, and its tail is thick and sturdy. The cat gazes intently towards the distant fishing boats gently sailing out to the boundless sea, its fur softly ruffled by the gentle ocean breeze. The scene is illuminated by a classic three-point lighting setup, with a strong key light casting soft shadows, a gentle fill light, and a subtle rim light providing separation around the protagonist, creating a warm golden morning glow. The overall atmosphere evokes a muted, dreamy tone with subtle atmospheric painterly effects and a deliberate soft focus applied to the distant background, giving an evocative mood reminiscent of early fine art photography. The image features warm amber color grading, incorporating golden yellows and burnt orange, creating a cozy and nostalgic warmth that permeates the spring dawn. The entire illustration is rendered on a textured paper surface, with visible fiber grain, similar to kraft or watercolor paper, imparting a tactile warmth. Visually displayed in the bottom right corner of the image, the text '2026-03-20 19:30 UTC' is subtly incorporated.",
+    "is_seasonal": true,
+    "character": "captain",
+    "character_name": "船長",
+    "idea": "一幅以畫意攝影風格呈現的春日漁港場景，構圖採等距3D插圖視角，捕捉船長堅毅地站在碼頭高處，海風吹拂著牠微亂的毛髮，眺望遠方出海的漁船。畫面以三點打光烘托主角，並透過溫暖的琥珀色調與細膩的紙質肌理，營造出既真實又富有藝術感的氛圍。",
+    "news_inspiration": [],
+    "season": "spring",
+    "title": "破曉碼頭風",
+    "comment_id": 4100529892,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Three-Point Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
