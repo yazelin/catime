@@ -8716,5 +8716,14 @@
     "character_name": "墨墨",
     "number": 969,
     "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
+  },
+  {
+    "timestamp": "2026-03-20 14:36 UTC",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-20_1436_UTC.webp",
+    "number": 970,
+    "title": "植語凝眸",
+    "inspiration": "original",
+    "status": "success"
   }
 ]
