@@ -8915,5 +8915,18 @@
     "timestamp": "2026-03-21 13:35 UTC",
     "number": 990,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_1335_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_1417_UTC.webp",
+    "title": "墨影櫻雨窗",
+    "number": 991,
+    "character_name": "墨墨",
+    "is_seasonal": true,
+    "character": "momo",
+    "status": "success",
+    "season": "spring",
+    "timestamp": "2026-03-21 14:17 UTC",
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
