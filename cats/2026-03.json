@@ -13895,5 +13895,38 @@
       "color_palette": "Gold and Black Luxury"
     },
     "story": "夜幕低垂，寂靜的歌劇院中，一道銳利的月光劃破黑暗，精準地落在舞台中央的指揮台上。一隻黑貓，宛如這座宏偉殿堂的隱秘主人，緩緩登上高處，用其金色眼眸巡視著空蕩蕩的觀眾席，彷彿正在為一場無聲的演出做最後的檢閱。"
+  },
+  {
+    "avoid_list": [
+      "時間戳記視覺顯示",
+      "等距3D插圖視角",
+      "貓咪專注操作裝置/機械",
+      "柔和粉彩色調",
+      "復古褪色的色調",
+      "電影感打光",
+      "紙質肌理/紙面質感",
+      "對稱構圖",
+      "遞迴構圖/Droste效應",
+      "鳥瞰/俯視視角",
+      "三點打光",
+      "月光照明",
+      "金黑奢華色調",
+      "晶體/玻璃折射/反射"
+    ],
+    "story": "名叫「修修」的貓匠，對於每一雙送到他工作台上的舊靴都懷抱著一份敬意。他用爪尖靈巧地塗抹鞋油，每一個動作都充滿了職人的細膩與耐心，期望能讓這雙飽經風霜的童靴重煥光彩。在溫暖的琥珀光暈下，小小的修鞋鋪彌漫著皮革與鞋油的獨特氣息，那是時間與手藝交織而成的溫馨氛圍。",
+    "comment_id": 4102829239,
+    "inspiration": "original",
+    "number": 985,
+    "prompt": "A diligent tabby cat, an artisan shoemaker named \"Xiu Xiu\", meticulously polishing a worn child's leather boot with a cloth, inside a cozy workshop overflowing with old shoes and various shoemaking tools. The entire scene is rendered in a distinct woodcut print style, characterized by bold carved lines and a rough wood grain texture, yet simultaneously possessing a glossy plastic toy texture with a smooth high-shine surface and slight reflections, evoking a vinyl figure aesthetic. Composition features a tilt-shift miniature effect, creating a selective focus band with both foreground and background subtly blurred, enhancing the toy-like perception. Illumination comes from an even frontal ring light, casting a subtle circular catchlight in the cat's attentive eyes. The color palette is vibrant and saturated, drenched in a warm amber color grading and an autumn spectrum of golden yellows and burnt orange, conveying a cozy, nostalgic warmth. Visually display '2026-03-21 08:19 UTC' within the image.",
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Ring Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [],
+    "title": "貓匠琥珀光",
+    "idea": "一隻勤奮的虎斑貓在堆滿舊鞋與工具的鞋匠鋪裡，專注地用布擦拭一雙磨損的小皮靴。場景以木刻版畫風格呈現，搭配移軸微縮效果，由環形燈提供均勻光照，整體視覺帶有亮面塑膠般的玩具質感，並浸潤在溫暖的琥珀與秋日色調中。"
   }
 ]
