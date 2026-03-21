@@ -13761,5 +13761,43 @@
     "number": 980,
     "character": "lingling",
     "season": "spring"
+  },
+  {
+    "idea": "在等距3D新藝術風格的水晶精品店中，燭光柔和地照亮粉彩色調的空間，一隻優雅的貓咪店主正專注地整理著精緻的玻璃飾品。",
+    "news_inspiration": [
+      "中國的保育工作取得成功，大熊貓在國際自然保護聯盟紅色名錄上的級別從「瀕危」降至「易危」。",
+      "根據一份報告，法國巴黎透過限制交通和推廣電動車，空氣污染程度顯著改善。",
+      "歐洲核子研究中心（CERN）的科學家發現了一種新的亞原子粒子「Ξcc⁺」，解決了困擾科學界20年的謎團。",
+      "50歲的羅尼·奧沙利文在中國舉行的世界公開賽上打出了斯諾克歷史上最高的153桿，創造了歷史。",
+      "澳大利亞塔斯馬尼亞州霍巴特機場的一家禮品店內，顧客們發現一隻野生負鼠躲藏在毛絨玩具中，十分逗趣。"
+    ],
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Candlelight",
+      "texture": "Glass / Crystal",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "燭光尋秘",
+    "story": "這家精品店的牆壁和陳列櫃上滿是流線型的新藝術風格裝飾，各種精緻的水晶小物件在柔和的燭光下閃爍著。貓咪店主身著淡紫色絲綢背心，正用其爪尖輕輕挪動著一尊小巧的晶雕貓頭鷹，卻意外發現一個真正的灰色田鼠，正舒適地依偎在另一件水晶擺件旁，享受著寧靜的藏匿時光。",
+    "prompt": "3D isometric illustration in Art Nouveau style, Mucha-inspired, with flowing organic curves, ornamental borders, and subtle floral motifs. A polished playful rendering of an intimate crystal boutique interior, softly illuminated by warm orange flickering candlelight that casts dancing shadows. An elegant cat shopkeeper, wearing a pale lavender silk vest, is meticulously arranging delicate transparent glass ornaments, gently moving a small crystal-carved owl. The cat is keenly focused, having just discovered a small grey field mouse nestled comfortably beside another crystal display piece. The scene features a soft pastel color palette of gentle pink, lavender, mint, and baby blue, with dreamy light tones. Crystal elements exhibit light refraction, prismatic reflections, and crystalline clarity. Visually displayed in the image: '2026-03-21 03:54 UTC'.",
+    "inspiration": "澳大利亞塔斯馬尼亞州霍巴特機場的一家禮品店內，顧客們發現一隻野生負鼠躲藏在毛絨玩具中，十分逗趣。",
+    "comment_id": 4102183047,
+    "number": 981,
+    "avoid_list": [
+      "視覺化顯示日期時間",
+      "貓咪專注精細操作",
+      "經典三點打光",
+      "完美對稱與鏡像平衡構圖",
+      "液態金屬/水銀般質感",
+      "移軸攝影/微縮效果",
+      "復古褪色低對比色調",
+      "紙質紋理表面與纖維",
+      "天鵝絨質感與深絨毛柔和",
+      "高對比",
+      "未來主義/高科技材料",
+      "柔和陰影與輪廓光",
+      "豐富或鮮豔飽和色彩"
+    ]
   }
 ]
