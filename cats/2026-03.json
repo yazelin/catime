@@ -14333,5 +14333,35 @@
       "雙色調風格呈現",
       "真皮紋理與溫暖陳舊光澤"
     ]
+  },
+  {
+    "number": 997,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Bird's-Eye View",
+      "lighting": "Moonlight",
+      "texture": "Origami",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4104268335,
+    "story": "午夜深海，潛艇緩慢航行，艦長貓咪正全神貫注地「閱讀」著一張以摺紙藝術呈現的精密海圖。牠輕柔地用爪尖壓平層層疊疊的紙質地貌，深藍色的月光透過觀察窗，照亮牠周遭閃爍的儀表盤，映出牠眼中對於未知深淵的深邃好奇。",
+    "avoid_list": [
+      "貓咪用爪子輕觸/撥弄物件",
+      "微型浮島/漂浮平台場景",
+      "賽璐璐/卡通渲染風格",
+      "窄光束聚光燈/戲劇性聚光照明",
+      "高對比黑白單色調畫面",
+      "超廣角/魚眼視角與桶狀變形",
+      "貓咪凝視倒影/鏡子自拍構圖",
+      "細緻沙質紋理與沙丘波紋",
+      "大地色調(赤陶、橄欖綠、暖棕)",
+      "雙色調風格呈現",
+      "真皮紋理與溫暖陳舊光澤"
+    ],
+    "news_inspiration": [],
+    "prompt": "A short-haired cat, intensely focused, its body poised over a vast, intricate Origami-style sea map within a submarine control room. The cat's head shows a subtle motion blur, precisely captured mid-scan, conveying dynamic energy and action as it rapidly surveys the folded paper topography with deep curiosity. The composition is an extreme high-angle, top-down perspective, looking straight down, creating a captivating miniature world effect over the map. The submarine interior features cool blue-teal color grading, icy undertones, and sleek metallic surfaces. Moonlight illumination, enhanced by subtle eerie deep blue lights, casts a gentle silvery glow across the control panels and the cat's alert eyes. The sea map itself is rendered with a precise and minimal Origami style, showcasing clean geometric creases, sharp angular folds, and a detailed paper sculpture aesthetic. This candid shot is captured with a wide-angle lens, f/2.8, utilizing a high shutter speed to freeze the cat's body while allowing the head's rapid motion to create a slight blur, yielding a crisp atmosphere. A quiet nighttime atmosphere pervades the scene, evoking a serene and calm mood amidst deep-sea exploration. Visually displayed on a submarine screen or instrument panel: '2026-03-21 20:14 UTC'.",
+    "idea": "在深海研究潛艇的控制室內，一隻專注的貓咪正俯身於一張巨幅摺紙風格的海圖上，牠的頭部因快速掃視地圖而呈現運動追焦的輕微模糊感，周圍冷峻的藍青色調金屬與月光般的幽藍照明，突顯其在深海探索中的神秘專注。",
+    "title": "潛航謎圖"
   }
 ]
