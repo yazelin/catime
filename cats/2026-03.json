@@ -14005,5 +14005,38 @@
     "idea": "一隻在日式清酒釀造廠內，浮世繪風格的貓咪，在超廣角視角下被聚光燈捕捉到正從巨大酒桶的木栓旁「監督」釀造過程，背景是絞染紋理的布簾，整體畫面浸潤在清冷的藍青色調中。",
     "title": "酒藏夜巡",
     "story": "月光微弱，只靠釀造廠深處一束聚光燈照亮，肥胖的橘貓大師悄悄潛入。牠小心翼翼地嗅聞著剛發酵的清酒香氣，彷彿在檢查品質，確保每一滴都達到完美。周遭巨大的酒桶和絞染圖案的布簾，在藍青色的夜色中，更顯得幽靜而神秘。"
+  },
+  {
+    "avoid_list": [
+      "時間戳記視覺顯示",
+      "等距3D插圖視角",
+      "貓咪專注操作裝置/機械",
+      "柔和粉彩色調",
+      "復古褪色的色調",
+      "電影感打光",
+      "紙質肌理/紙面質感",
+      "對稱構圖",
+      "遞迴構圖/Droste效應",
+      "鳥瞰/俯視視角",
+      "三點打光",
+      "月光照明",
+      "金黑奢華色調",
+      "晶體/玻璃折射/反射"
+    ],
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Butterfly Lighting",
+      "texture": "3D Render",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A focused cat, rendered in a warm turmeric-orange, meticulously stacks a small square block onto an abstract high tower made of bold whiteboard marker lines. The cat is on a miniature floating island, a depicted as a levitating platform with clean geometry. The scene is a polished 3D render with a Cinema 4D aesthetic, smooth materials, and soft global illumination. The overall visual style is a duotone whiteboard marker drawing on glass, featuring hand-drawn line art with slightly faded ink and a casual sketch feel. An aerial perspective captures the miniature landscape against a vast, empty background. Lighting on the cat showcases glamour portrait lighting, soft even illumination, and distinct butterfly lighting from an overhead key light, creating a symmetrical shadow under its nose. The entire artwork is presented in only two contrasting colors: warm turmeric-orange and cool grey-blue, for a bold graphic impact and modern design feel. Clearly display the text '2026-03-21 11:14 UTC' within the image.",
+    "number": 988,
+    "comment_id": 4103116514,
+    "inspiration": "original",
+    "idea": "一隻薑黃色的貓咪在一座漂浮的微型島嶼上，正全神貫注地將一塊方塊疊放在一座用白板記號筆線條勾勒出的抽象高塔上，整體呈現3D渲染的白板記號筆畫風格，色彩為簡潔的雙色調。",
+    "title": "浮島築夢師",
+    "story": "在廣闊而空曠的背景中，這座獨特的綠色小島是牠的建築工地。貓咪小心翼翼地平衡著每一塊積木，牠的臉龐在柔和的蝴蝶光下顯得格外專注，彷彿在為一個無盡的夢想，一筆一畫、一層一層地築起牠的心靈高塔。"
   }
 ]
