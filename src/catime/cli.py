@@ -7,7 +7,6 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-import httpx
 from catime.utils.http import safe_get_json
 
 CATLIST_URL = "https://raw.githubusercontent.com/{repo}/main/catlist.json"

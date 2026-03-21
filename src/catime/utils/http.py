@@ -21,7 +21,7 @@ def safe_get_json(
                 return response.json()
             except Exception:
                 return None
-        except (httpx.TimeoutException, httpx.HTTPError) as e:
+        except (httpx.TimeoutException, httpx.HTTPError):
             if attempt == max_retries - 1:
                 raise
             continue
