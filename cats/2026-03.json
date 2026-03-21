@@ -14299,5 +14299,39 @@
       "智利成為美洲第一個成功消除麻風病的國家，這是公共衛生的重要里程碑。",
       "希臘政府包機從阿拉伯聯合大公國和卡達撤離因空域關閉而滯留的寵物及其主人。"
     ]
+  },
+  {
+    "comment_id": 4104044409,
+    "inspiration": "中國上海崇明東平國家森林公園舉辦一場別開生面的「睡覺大賽」，吸引眾多參賽者在自然環境中挑戰深度睡眠，最高獎金達三千元。",
+    "news_inspiration": [
+      "佛光西來女童軍在美國洛杉磯參加「世界懷念日」百周年活動，展示南韓文化特色，並與其他女童軍團交流各國文化。",
+      "中國上海崇明東平國家森林公園舉辦一場別開生面的「睡覺大賽」，吸引眾多參賽者在自然環境中挑戰深度睡眠，最高獎金達三千元。",
+      "台灣花蓮舉辦「2026花蓮太平洋浪花半程馬拉松」，吸引來自15個國家的3220名跑者參與，共同體驗壯麗的山海風光。"
+    ],
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Ring Light",
+      "texture": "Silk",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "A 3D isometric illustration in the style of Fauvism art, featuring a vibrantly colored cat with bold non-naturalistic colors and textured impasto brushwork, its simplified forms rendered with a polished playful quality. The cat is meticulously arranging a luxurious sleep nest made of flowing gold and black silk fabric, showcasing a luminous smooth surface, delicate light reflections, and a luxurious sheen. This scene unfolds within a futuristic, clean geometric sleep pod. Ring light illumination provides soft focus and even frontal lighting, creating a beauty portrait quality with a prominent circular catchlight in the cat's eyes. The overall image employs a wildly vibrant palette, an opulent mood, and a rich gold and black color scheme with luxurious metallic gold accents against a deep black background. The date and time '2026-03-21 19:16 UTC' are clearly displayed.",
+    "number": 996,
+    "idea": "運用野獸派風格，此等距3D插圖呈現一隻身披豔麗色彩的貓，在未來感十足的豪華睡眠艙中，環形燈光柔和地聚焦於牠，正專注地鋪設一張由金色與黑色絲綢交織而成的奢華睡巢，為一場高額獎金的睡覺大賽做準備。",
+    "title": "酣眠競金",
+    "story": "在這場獎金誘人的「靜默之巔」睡覺大賽中，貓咪參賽者「呼嚕爵士」以其獨特的睡眠藝術聞名。牠精心地將柔軟的絲綢墊子調整至完美角度，確保每一次翻身都能達到最佳的放鬆效果。周圍的競爭者們在各自金黑相間的繭狀艙中，都感受到這位專業選手帶來的無形壓力。",
+    "avoid_list": [
+      "貓咪用爪子輕觸/撥弄物件",
+      "微型浮島/漂浮平台場景",
+      "賽璐璐/卡通渲染風格",
+      "窄光束聚光燈/戲劇性聚光照明",
+      "高對比黑白單色調畫面",
+      "超廣角/魚眼視角與桶狀變形",
+      "貓咪凝視倒影/鏡子自拍構圖",
+      "細緻沙質紋理與沙丘波紋",
+      "大地色調(赤陶、橄欖綠、暖棕)",
+      "雙色調風格呈現",
+      "真皮紋理與溫暖陳舊光澤"
+    ]
   }
 ]
