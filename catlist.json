@@ -8868,5 +8868,16 @@
     "timestamp": "2026-03-21 08:19 UTC",
     "title": "貓匠琥珀光",
     "status": "success"
+  },
+  {
+    "timestamp": "2026-03-21 09:21 UTC",
+    "character": "mochi",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "status": "success",
+    "number": 986,
+    "title": "餅盒映貓影",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_0921_UTC.webp"
   }
 ]

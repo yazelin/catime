@@ -13928,5 +13928,45 @@
     "news_inspiration": [],
     "title": "貓匠琥珀光",
     "idea": "一隻勤奮的虎斑貓在堆滿舊鞋與工具的鞋匠鋪裡，專注地用布擦拭一雙磨損的小皮靴。場景以木刻版畫風格呈現，搭配移軸微縮效果，由環形燈提供均勻光照，整體視覺帶有亮面塑膠般的玩具質感，並浸潤在溫暖的琥珀與秋日色調中。"
+  },
+  {
+    "story": "在昏黃的市場燈光下，麻糬那胖嘟嘟的身軀正努力塞進一個剛好能容納牠的金屬餅乾盒，琥珀色大眼緊盯著盒底，渴望著裡面可能殘留的餅乾碎屑。牠那戴著「橘色手套」的右前腳也伸了進去。透過倫勃朗光，牠圓滾滾的臉龐在光滑的皮革質地攤位上方的金屬盒壁上，映照出一個帶有呆萌表情的微胖倒影，讓牠一時分不清是盒裡的美味還是另一個自己。",
+    "comment_id": 4102937846,
+    "number": 986,
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Leather",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "中國科學家在小鼠體內成功將益生菌改造為能追蹤腫瘤的「藥物工廠」，為癌症治療帶來新希望。",
+      "美國舊金山聯合廣場舉辦鬱金香日活動，免費送出八萬朵鬱金香，為市民帶來繽紛春意。",
+      "在英國格洛斯特，發現了一種新識別的古老鱷魚近親，其外形像賽狗，證明史前英國曾有快速奔跑的陸生鱷魚。",
+      "在遙遠的西巴布亞，發現了兩種被認為已滅絕六千年的小型負鼠和飛鼠，為生物多樣性帶來好消息。"
+    ],
+    "idea": "一幅以刺繡風格呈現的場景，麻糬正好奇地鑽進一個老市場攤位上閃亮的圓形金屬餅乾盒，牠的圓臉在盒內壁投射出略顯呆萌的倒影，形成一幅獨特的鏡子自拍構圖，整體色調為溫暖的大地色系。",
+    "inspiration": "original",
+    "prompt": "An embroidered illustration, handcrafted textile art with visible needlework on linen fabric, featuring satin stitch and French knots. The scene captures Mochi, a chubby rounded shorthair cat with a white #FFFFFF base coat and bright orange #FF8C00 patches, curiously burrowing its spherical torso and short stubby legs into a shiny round metal cookie tin on an old market stall. Mochi's RIGHT front paw, a solid orange #FF8C00 mitten to the wrist, is extended into the tin, while its LEFT front paw is pure white #FFFFFF. Its large round amber #FFBF00 eyes are fixated on the tin's bottom, craving potential cookie crumbs. Mochi's appearance includes a distinctive orange #FF8C00 mask covering its RIGHT half-face (from nose bridge across RIGHT cheek to RIGHT ear, LEFT face entirely white), a pink #FFB6C1 nose with a tiny orange center dot, a heart-shaped orange #FF8C00 saddle centered on its dorsal back, and an orange-and-white ringed tail. An intimate close-up perspective creates a unique mirror selfie composition, with Mochi's round face projecting a slightly bewildered reflection on the tin's inner wall. The market stall surface displays genuine leather texture, a rich grain pattern, warm aged patina, and supple creased surface, indicative of artisanal craftsmanship. Rembrandt lighting, from a single light source at 45 degrees, creates dramatic chiaroscuro and a signature triangle of light on Mochi's shadowed cheek, all under dim, warm market lights. The color palette is a warm earth tone, incorporating terracotta, olive green, and warm browns, ensuring natural organic harmony. Visually displayed in the image: '2026-03-21 09:21 UTC'.",
+    "character_name": "麻糬",
+    "character": "mochi",
+    "title": "餅盒映貓影",
+    "avoid_list": [
+      "時間戳記視覺顯示",
+      "等距3D插圖視角",
+      "貓咪專注操作裝置/機械",
+      "柔和粉彩色調",
+      "復古褪色的色調",
+      "電影感打光",
+      "紙質肌理/紙面質感",
+      "對稱構圖",
+      "遞迴構圖/Droste效應",
+      "鳥瞰/俯視視角",
+      "三點打光",
+      "月光照明",
+      "金黑奢華色調",
+      "晶體/玻璃折射/反射"
+    ]
   }
 ]
