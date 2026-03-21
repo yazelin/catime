@@ -8991,5 +8991,18 @@
     "status": "success",
     "inspiration": "南非科學家在量子光中發現了一個隱藏的48維度世界，可能徹底改變量子資訊的儲存和保護方式。",
     "title": "維度邊緣的凝視"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "title": "春潮望海",
+    "is_seasonal": true,
+    "character": "captain",
+    "season": "spring",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_2213_UTC.webp",
+    "inspiration": "美國加州布拉格堡舉辦鯨魚節，慶祝灰鯨遷徙，並有葡萄酒漫步、啤酒節和手工藝品展。",
+    "timestamp": "2026-03-21 22:13 UTC",
+    "status": "success",
+    "number": 999,
+    "character_name": "船長"
   }
 ]

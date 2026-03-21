@@ -14399,5 +14399,45 @@
       "雙色調風格呈現",
       "真皮紋理與溫暖陳舊光澤"
     ]
+  },
+  {
+    "story": "春日清晨，港口彌漫著海鹽與希望的氣息。船長站在他最愛的高處，寬厚的胸膛迎著帶著鹹味的海風，牠的左眼戴著深色眼罩，右眼銳利的翠綠色，凝視著遠方。牠銳利的右眼穿透濃郁的藍青色海霧，彷彿能看到更遠方，感受到大海深處的生命脈動與季節的遷徙。",
+    "avoid_list": [
+      "貓咪用爪子輕觸/撥弄物件",
+      "微型浮島/漂浮平台場景",
+      "賽璐璐/卡通渲染風格",
+      "窄光束聚光燈/戲劇性聚光照明",
+      "高對比黑白單色調畫面",
+      "超廣角/魚眼視角與桶狀變形",
+      "貓咪凝視倒影/鏡子自拍構圖",
+      "細緻沙質紋理與沙丘波紋",
+      "大地色調(赤陶、橄欖綠、暖棕)",
+      "雙色調風格呈現",
+      "真皮紋理與溫暖陳舊光澤"
+    ],
+    "news_inspiration": [
+      "希臘愛琴海的沉船中，潛水員發現了雅典衛城的一塊大理石珍品。",
+      "中國科學家首次成功製造出比天然鑽石更堅硬的稀有「六方鑽石」。",
+      "印尼峇里島庫塔開設了一個名為「秘密花園之春」的全新豪華生活中心，提供多元零售、健康和美食體驗。",
+      "在澳洲，一名印度婦女在火車站遺失錢包後，所發生的事情讓她感到驚喜。",
+      "美國加州布拉格堡舉辦鯨魚節，慶祝灰鯨遷徙，並有葡萄酒漫步、啤酒節和手工藝品展。"
+    ],
+    "number": 999,
+    "title": "春潮望海",
+    "prompt": "Spring morning at a Fauvist fishing port. A large, stocky cat captain, brown #5C4033 classic tabby with bold black #1A1A1A stripes, muscular build, scruffy untidy coarse fur, uneven lengths, and a thick sturdy tail. Its left eye is permanently concealed by a dark #2B1B0E natural fur patch covering the eye socket (no fabric patch, no straps), and its right eye is a single piercing emerald green #50C878. It has a prominent V-shaped notch on its left ear, a distinctive M-mark on its forehead, a faded red #CD5C5C bandana loosely tied around its neck, a white #FFFFFF chest bib, and white mitten paws on all four feet. The cat stands steadfastly on a tall, weathered wooden pier piling, its broad chest facing the sea breeze which ruffles its fur. Its gaze is sharp, fixed on fishing boats departing into the cool blue-teal sea mist in the distance. Behind the cat, fishing gear is artfully arranged in a Knolling style, creating an organized grid pattern with objects neatly placed at 90-degree angles. The scene is rendered in a Fauvism art style, featuring bold non-naturalistic colors, textured impasto brushwork, simplified forms, and a wildly vibrant palette. A pervasive cool blue-teal color grading with icy undertones gives the image a crisp, serene, neon-like glow, highlighting the natural wood grain texture, rich warm tones, visible knots, and organic tactile surface of the pier. Reflections of the neon light glimmer on wet surfaces. Visually displayed in the image: '2026-03-21 22:13 UTC'.",
+    "character": "captain",
+    "is_seasonal": true,
+    "season": "spring",
+    "inspiration": "美國加州布拉格堡舉辦鯨魚節，慶祝灰鯨遷徙，並有葡萄酒漫步、啤酒節和手工藝品展。",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Knolling Photography",
+      "lighting": "Neon Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "在一幅充滿野獸派色彩的漁港碼頭畫作中，船長堅毅地矗立於高聳的木質碼頭樁上，以Knolling排列的漁具為背景，目光銳利地望向出海的漁船，海風吹拂著他略顯蓬亂的毛髮，霓虹般的冷色調藍青光芒籠罩著整個畫面，凸顯出碼頭堅實的木紋質感。",
+    "comment_id": 4104604797,
+    "character_name": "船長"
   }
 ]
