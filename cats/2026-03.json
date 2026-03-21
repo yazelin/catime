@@ -13968,5 +13968,42 @@
       "金黑奢華色調",
       "晶體/玻璃折射/反射"
     ]
+  },
+  {
+    "avoid_list": [
+      "時間戳記視覺顯示",
+      "等距3D插圖視角",
+      "貓咪專注操作裝置/機械",
+      "柔和粉彩色調",
+      "復古褪色的色調",
+      "電影感打光",
+      "紙質肌理/紙面質感",
+      "對稱構圖",
+      "遞迴構圖/Droste效應",
+      "鳥瞰/俯視視角",
+      "三點打光",
+      "月光照明",
+      "金黑奢華色調",
+      "晶體/玻璃折射/反射"
+    ],
+    "news_inspiration": [
+      "義大利的里雅斯特被譽為該國最佳美食城市之一，以其融合全球風味與傳統的歷史港口聞名。",
+      "韓國首爾的K-pop團體BTS於3月21日透過Netflix進行全球直播的復出表演，備受期待。",
+      "美國維吉尼亞州亞什蘭的一家酒類商店發生一起離奇闖入事件，一隻浣熊從天花板掉落後大飲特飲，最終醉倒在洗手間被發現。"
+    ],
+    "prompt": "A chubby ginger cat, rendered in ukiyo-e Japanese woodblock print style with flat color areas and bold outlines, is depicted in a Japanese sake brewery. The cat is 'supervising' the brewing process, peering from the bung of a gigantic sake barrel, subtly sniffing the air. The scene is captured with an ultra wide angle lens perspective (12-18mm effect), showcasing dramatic perspective distortion and an expansive field of view. A narrow beam spotlight, originating from deep within the brewery, dramatically illuminates the cat and barrel, creating sharp light edges and deep darkness falloff, emphasizing high contrast against deep shadows. In the background, Shibori style resist-dyed textile curtains with organic flowing designs are visible. The entire image is immersed in a cool blue-teal color grading, featuring icy undertones and dominant indigo blue tones, conveying a crisp, serene, and calm atmosphere. Visually display the text '2026-03-21 10:15 UTC' within the image.",
+    "inspiration": "美國維吉尼亞州亞什蘭的一家酒類商店發生一起離奇闖入事件，一隻浣熊從天花板掉落後大飲特飲，最終醉倒在洗手間被發現。",
+    "number": 987,
+    "comment_id": 4103006585,
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Spotlight",
+      "texture": "Shibori Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "一隻在日式清酒釀造廠內，浮世繪風格的貓咪，在超廣角視角下被聚光燈捕捉到正從巨大酒桶的木栓旁「監督」釀造過程，背景是絞染紋理的布簾，整體畫面浸潤在清冷的藍青色調中。",
+    "title": "酒藏夜巡",
+    "story": "月光微弱，只靠釀造廠深處一束聚光燈照亮，肥胖的橘貓大師悄悄潛入。牠小心翼翼地嗅聞著剛發酵的清酒香氣，彷彿在檢查品質，確保每一滴都達到完美。周遭巨大的酒桶和絞染圖案的布簾，在藍青色的夜色中，更顯得幽靜而神秘。"
   }
 ]

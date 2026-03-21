@@ -8879,5 +8879,14 @@
     "number": 986,
     "title": "餅盒映貓影",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_0921_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_1015_UTC.webp",
+    "inspiration": "美國維吉尼亞州亞什蘭的一家酒類商店發生一起離奇闖入事件，一隻浣熊從天花板掉落後大飲特飲，最終醉倒在洗手間被發現。",
+    "status": "success",
+    "number": 987,
+    "timestamp": "2026-03-21 10:15 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "title": "酒藏夜巡"
   }
 ]
