@@ -13831,5 +13831,37 @@
     "idea": "一隻緬因貓在孤懸海上的燈塔頂層天文室，以時尚編輯攝影的視角，利用等距3D插圖的構圖，專注地校準一座古老的黃銅天體儀。環形燈柔和地照亮了現場，天體儀上鑲嵌著玻璃與水晶的星體，整個場景沉浸在莫蘭迪色調的靜謐氛圍中。",
     "prompt": "A 3D isometric illustration with a fashion editorial aesthetic. A majestic Maine Coon cat, positioned in a dramatic pose, is the central focus within a serene lighthouse top-floor astronomy observatory. The cat gently and precisely adjusts a detailed, ancient brass armillary sphere, which features transparent glass and crystal stars exhibiting light refraction and prismatic reflections with crystalline clarity. The scene is softly illuminated by ring light illumination, casting a circular catchlight in the cat's eyes and providing even frontal, magazine-quality lighting. The overall color palette is Morandi muted, with desaturated soft pastels and dusty grey undertones, creating an atmosphere of quiet elegance. The distant sea is visible under a night sky. The text '2026-03-21 05:01 UTC' is visually displayed within the image. This illustration features clean geometric forms and a polished playful rendering, achieving a beauty portrait quality.",
     "title": "宇宙領航者"
+  },
+  {
+    "title": "苔庭祕茶師",
+    "prompt": "Ukiyo-e Japanese woodblock print, rendered from a top-down, bird's-eye view perspective, creating a miniature world effect. A turmeric cat, with bold outlines and flat color areas, is intently brewing herbal tea over a small stove fire in an ancient, moss-covered Japanese temple garden. The surrounding weathered ruins feature lush green organic overgrowth, nature reclaiming textures, and a soft living patina, evoking a damp forest aesthetic. Cinematic lighting with strong volumetric light rays and dramatic shadows creates a high dynamic range and a film-quality mood. The scene is bathed in a soft pastel color palette of gentle pink, lavender, mint, and baby blue, with dreamy light tones. Wisping steam rises from the tea, captured in the soft morning light. Visually display the date and time: 2026-03-21 06:29 UTC.",
+    "idea": "從高空俯瞰，一隻薑黃貓在日本一座長滿苔蘚的古老寺廟庭院中，以浮世繪風格的粉彩色調，在爐火上專心熬煮草本茶，電影感打光突顯了牠與周遭斑駁的遺跡。",
+    "number": 983,
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Bird's-Eye View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Pastel Colors"
+    },
+    "comment_id": 4102467235,
+    "inspiration": "original",
+    "story": "在這被時間遺忘的角落，薑黃貓是一位祕密的製茶師。牠依循古老的卷軸，採集了庭院深處的奇異植物，為的是釀製一杯能撫慰靈魂的茶飲。裊裊升起的蒸汽，在清晨的柔光中飄散，帶著一絲寧靜的魔法。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "視覺化顯示日期時間",
+      "貓咪專注精細操作",
+      "經典三點打光",
+      "完美對稱與鏡像平衡構圖",
+      "液態金屬/水銀般質感",
+      "移軸攝影/微縮效果",
+      "復古褪色低對比色調",
+      "紙質紋理表面與纖維",
+      "天鵝絨質感與深絨毛柔和",
+      "高對比",
+      "未來主義/高科技材料",
+      "柔和陰影與輪廓光",
+      "豐富或鮮豔飽和色彩"
+    ]
   }
 ]
