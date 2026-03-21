@@ -8810,5 +8810,18 @@
     "model": "gemini-3-pro-image-preview",
     "title": "水道燭影貓",
     "inspiration": "西班牙塞維利亞市正在重啟3000年前的地下水道，以應對極端高溫。"
+  },
+  {
+    "is_seasonal": true,
+    "timestamp": "2026-03-21 01:03 UTC",
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "title": "金櫻躍蝶影",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-21_0103_UTC.webp",
+    "number": 980,
+    "character": "lingling",
+    "season": "spring"
   }
 ]
