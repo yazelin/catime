@@ -14363,5 +14363,41 @@
     "prompt": "A short-haired cat, intensely focused, its body poised over a vast, intricate Origami-style sea map within a submarine control room. The cat's head shows a subtle motion blur, precisely captured mid-scan, conveying dynamic energy and action as it rapidly surveys the folded paper topography with deep curiosity. The composition is an extreme high-angle, top-down perspective, looking straight down, creating a captivating miniature world effect over the map. The submarine interior features cool blue-teal color grading, icy undertones, and sleek metallic surfaces. Moonlight illumination, enhanced by subtle eerie deep blue lights, casts a gentle silvery glow across the control panels and the cat's alert eyes. The sea map itself is rendered with a precise and minimal Origami style, showcasing clean geometric creases, sharp angular folds, and a detailed paper sculpture aesthetic. This candid shot is captured with a wide-angle lens, f/2.8, utilizing a high shutter speed to freeze the cat's body while allowing the head's rapid motion to create a slight blur, yielding a crisp atmosphere. A quiet nighttime atmosphere pervades the scene, evoking a serene and calm mood amidst deep-sea exploration. Visually displayed on a submarine screen or instrument panel: '2026-03-21 20:14 UTC'.",
     "idea": "在深海研究潛艇的控制室內，一隻專注的貓咪正俯身於一張巨幅摺紙風格的海圖上，牠的頭部因快速掃視地圖而呈現運動追焦的輕微模糊感，周圍冷峻的藍青色調金屬與月光般的幽藍照明，突顯其在深海探索中的神秘專注。",
     "title": "潛航謎圖"
+  },
+  {
+    "comment_id": 4104431139,
+    "prompt": "A perfectly isometric photograph, real captured photo with no miniature effect. A focused short-haired cat is captured in a unique pose, delicately pressing a control panel in a cold, abandoned quantum research laboratory. The control panel is covered in delicate frost patterns, ice crystal formations, and frozen surface texture, emitting a bioluminescent lighting with an organic deep blue-green radiance, like underwater phosphorescence. Soft pastel data streams, featuring gentle pink, lavender, mint, and baby blue, flow around the cat and panel, exhibiting glitch art, digital distortion, RGB channel shift, corrupted data aesthetic, scan line artifacts, and fragmented visuals. Each paw touch triggers flickering digital pulses on the circuit board. Ethereal natural light filters into the desolate lab, blending with the bioluminescent glow. The date and time '2026-03-21 21:15 UTC' is visibly displayed on a flickering screen within the scene. Shot on a digital medium format camera with a 90mm tilt-shift lens, aperture f/2.8, ISO 400, subtle film grain.",
+    "idea": "一隻短毛貓在廢棄的量子研究實驗室中，透過故障藝術風格與等距攝影視角呈現其獨特姿態。牠正專注地按壓一個佈滿冰霜結晶且散發生物發光光芒的控制面板，周圍的數據流則呈現柔和的粉彩色系。",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Frost Crystal",
+      "color_palette": "Pastel Colors"
+    },
+    "number": 998,
+    "news_inspiration": [
+      "南非科學家在量子光中發現了一個隱藏的48維度世界，可能徹底改變量子資訊的儲存和保護方式。",
+      "在中國，年輕一代正興起一種新的生活方式趨勢，他們更偏好體驗式消費，例如清晨觀賞櫻花或逛鄉村市集。",
+      "智利成為美洲第一個，也是全球第二個獲得世界衛生組織驗證成功消除麻風病的國家。",
+      "在美國舊金山的聯合廣場，作為年度鬱金香日活動的一部分，共有80,000朵鬱金香免費發放給民眾。",
+      "泰國旅遊局推出了一項名為「療癒之旅泰國」的全新豪華健康旅遊活動，旨在吸引高價值旅客。"
+    ],
+    "story": "在這座冰冷且曾被遺棄的實驗室深處，時間的鏽蝕與數位干擾交織成一幅獨特畫面。貓咪每一次精準的爪觸，都引發電路板上跳動的故障藝術脈衝，彷彿牠正試圖解開量子維度中的奧秘，而破碎的數據片段在閃爍的光芒中重組。",
+    "inspiration": "南非科學家在量子光中發現了一個隱藏的48維度世界，可能徹底改變量子資訊的儲存和保護方式。",
+    "title": "維度邊緣的凝視",
+    "avoid_list": [
+      "貓咪用爪子輕觸/撥弄物件",
+      "微型浮島/漂浮平台場景",
+      "賽璐璐/卡通渲染風格",
+      "窄光束聚光燈/戲劇性聚光照明",
+      "高對比黑白單色調畫面",
+      "超廣角/魚眼視角與桶狀變形",
+      "貓咪凝視倒影/鏡子自拍構圖",
+      "細緻沙質紋理與沙丘波紋",
+      "大地色調(赤陶、橄欖綠、暖棕)",
+      "雙色調風格呈現",
+      "真皮紋理與溫暖陳舊光澤"
+    ]
   }
 ]
