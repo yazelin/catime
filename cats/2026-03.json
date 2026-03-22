@@ -15157,5 +15157,38 @@
       "在紐西蘭，豐收的漿果使該國獨特的夜行性無飛鳥鸚鵡「卡卡波」進入難得的繁殖期。",
       "一尊巨大的聖嬰雕像正在墨西哥城特皮託社區巡迴，傳遞和平的訊息。"
     ]
+  },
+  {
+    "avoid_list": [
+      "貓咪專注輕觸/觀察",
+      "聚光燈高對比光影",
+      "粗獷混凝土工業極簡",
+      "電影感光影與HDR",
+      "液態金屬鏡面光澤",
+      "莫蘭迪柔和色調",
+      "正交投影無透視",
+      "畫面分割構圖",
+      "像素/體素藝術風格",
+      "黑貓作為主角",
+      "柔和粉彩漸變色",
+      "漂浮島嶼或平台",
+      "科學實驗室/工作室場景",
+      "消費相機/手機快照風格"
+    ],
+    "prompt": "A 3D isometric illustration, rendered in the polished, playful style of Cinema 4D. The scene depicts a serene and calm old captain's cabin. A grey tabby cat, wearing a small monocular, is meticulously applying a translucent patch onto a faded, ancient nautical map. The cat is engrossed in the delicate task. A blue parrot quietly observes from a corner. The lighting is dramatic Rembrandt lighting, cast by a single brass desk lamp positioned at 45 degrees, creating strong chiaroscuro and a signature triangle of light on the cat's shadowed cheek, illuminating the map's intricate details. The overall color grading features cool blue-teal tones with icy undertones, contributing to a crisp atmosphere, while the lamp itself emits a soft warm glow. Smooth materials and clean geometric forms define the scene, enhanced by soft global illumination. The entire image is presented as a Polaroid instant photo with a clean white border frame and slightly faded colors. Visually displayed within the image is '2026-03-22 21:16 UTC'.",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Rembrandt Lighting",
+      "texture": "3D Render",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [],
+    "number": 1019,
+    "title": "海圖補星辰",
+    "comment_id": 4107005843,
+    "story": "這隻灰斑貓戴著小小的單邊放大鏡，全神貫注地將一片半透明的補丁小心翼翼地貼在一張褪色的航海圖上。昏暗的船長艙內，一盞黃銅檯燈投下戲劇性的光芒，將貓咪與地圖的細節清晰勾勒，而角落裡一隻藍色鸚鵡則靜靜觀察著這一切。",
+    "inspiration": "original",
+    "idea": "拍立得風格的等距3D插圖，描繪一隻貓咪在老舊船長艙內，運用倫勃朗光影與藍青冷色調，專注修補古老航海圖，呈現3D渲染的細膩質感。"
   }
 ]
