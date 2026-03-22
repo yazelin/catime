@@ -14899,5 +14899,37 @@
       "color_palette": "Morandi Color Palette"
     },
     "story": "春日和煦，麻糬在一條體素化的老街市場巷弄裡，找到一棵粉嫩的櫻花樹下，鋪開牠的野餐墊。牠頭戴由櫻花方塊串成的花環，正準備大快朵頤，卻被攤位上那顆散發著莫蘭迪色調液態金屬光澤的「古老花生麻糬」深深吸引。這份失傳已久的美味讓牠原本慵懶的眼神瞬間聚焦，貪吃的本性全面爆發。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Paper Texture",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "墨舟渡書海",
+    "inspiration": "original",
+    "avoid_list": [
+      "微縮立體模型/玩具比例模型",
+      "倫勃朗光影",
+      "蝴蝶光",
+      "貓咪輕觸/輕推物件",
+      "暖琥珀色調",
+      "蓬鬆毛髮天鵝絨質感",
+      "聚光燈下高對比光影",
+      "閃光燈直打",
+      "復古照片風格",
+      "傾斜移位效果",
+      "柔和粉彩配色",
+      "秋日金黃橘色調",
+      "貓咪專注凝視"
+    ],
+    "number": 1012,
+    "prompt": "An intricate miniature painting in the style of Palekh art, depicting a sleek black cat named 'Ink' navigating a flooded grand library. The scene is rendered with an orthographic projection, showcasing no perspective distortion, a straight-on flat rendering, and a technical illustration style. The cat carefully manipulates a mini wooden boat, which is brightly lit by neon fluorescent bioluminescent algae, illuminating the water with electric pink, lime green, and hot cyan glows. Floating damaged books drift on the water's surface. The cat's mission is to transport a precious scroll to higher bookshelves. The bioluminescent water surface reflects deep blue-green radiance and an ethereal, phosphorescent light, casting vivid colors against the ancient, dark library interior. Gold leaf storytelling elements adorn the boat or the scroll, hinting at Russian folkloric themes. The entire image has a textured paper surface, with a visible fiber grain, akin to a kraft or watercolor paper feel, imparting a tactile warmth. '2026-03-22 14:18 UTC' is visually displayed within the scene.",
+    "comment_id": 4106335869,
+    "news_inspiration": [],
+    "story": "在被洪水淹沒的古老圖書館裡，黑貓「墨水」正巧妙地使用牠那發光的船槳，輕輕推開浮在水面的殘書。牠的任務是將一卷珍貴的羊皮紙安全運送到高處的書架，生物發光的水面映照出詭異而迷人的霓虹色光芒，為這古老的空間帶來了未來感。",
+    "idea": "想像一個以帕列赫細密畫風格描繪的場景，一隻黑貓正以正交投影的視角，在淹水的宏偉圖書館內小心翼翼地操控一艘由霓虹螢光生物發光藻類點亮的迷你木船，整體呈現紙質肌理。"
   }
 ]
