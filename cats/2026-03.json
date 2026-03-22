@@ -14711,5 +14711,38 @@
     },
     "title": "麵舞凝視",
     "comment_id": 4105786617
+  },
+  {
+    "prompt": "Cubism art illustration of a geometrically fragmented cat, composed of abstract angular planes with multiple simultaneous perspectives and analytical decomposition, meticulously arranging soft pastel miniature sushi (gentle pink, lavender, mint, baby blue, dreamy light tones) on a luminous, silk-fabric textured minimalist sushi conveyor belt. The composition features an orthographic projection, straight-on flat rendering, and a technical illustration style with no perspective distortion. Cinematic lighting casts dramatic, sharp shadows and volumetric light rays across the smooth surface, which exhibits delicate light reflections and a luxurious sheen like a flowing drape, creating a high dynamic range, film-quality mood. The date and time '2026-03-22 09:21 UTC' is visually displayed within the image.",
+    "news_inspiration": [],
+    "comment_id": 4105879997,
+    "idea": "一隻毛髮被解構成幾何形狀的貓，正以立體主義風格，在一個極簡主義壽司店的旋轉輸送帶上，專注地排列著粉彩色系的微型壽司。正交投影的構圖下，電影感的打光在絲綢般光滑的表面上投射出銳利的陰影。",
+    "inspiration": "original",
+    "number": 1007,
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Orthographic Projection",
+      "lighting": "Cinematic Lighting",
+      "texture": "Silk",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "時間戳記視覺顯示",
+      "貓咪專注進行人類活動",
+      "微縮模型或立體透視圖",
+      "倫勃朗或蝴蝶光影",
+      "暖琥珀色調與秋日色系",
+      "冷藍綠色調與冰冷感",
+      "野獸派藝術風格",
+      "天鵝絨質感與奢華",
+      "F/2.8光圈",
+      "等距視角或攝影",
+      "豐富鮮豔非自然色彩",
+      "舊化或廢棄場景",
+      "帶有動態模糊的貓頭",
+      "傾斜移軸效果"
+    ],
+    "story": "在空靈的壽司工坊裡，貓咪職人以其獨特的視角，將每塊壽司視為幾何拼圖。它細膩地操作著，確保每一片魚肉與米飯的角度都完美無缺，呈現出一場靜默而精準的藝術創作。",
+    "title": "幾何壽司貓"
   }
 ]
