@@ -14636,5 +14636,43 @@
       "在奧克拉荷馬市舉行的NCAA大學籃球錦標賽中，范德堡大學的泰勒·坦納在比賽結束前投出了一記幾乎絕殺的半場投籃，可惜球最終彈框而出。",
       "印尼峇里島在三月十九日慶祝寧靜日（Nyepi），全島將保持寂靜，以期惡靈經過時誤以為島上無人而離去。"
     ]
+  },
+  {
+    "idea": "一隻灰褐色短毛貓在寂靜的地質實驗室中，利用中片幅攝影風格捕捉，凝神專注地以貓掌輕觸鋪設於粗獷混凝土工作檯上、以Knolling方式排列的火星地形圖，柔和的聚光燈勾勒出大地色系的細節。",
+    "comment_id": 4105731058,
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Spotlight",
+      "texture": "Concrete",
+      "color_palette": "Earth Tones"
+    },
+    "inspiration": "美國國家航空暨太空總署（NASA）的毅力號火星探測器發現了火星上存在一條古老河流的證據，該河流可能比原先設想的更大、流速更快，這讓科學家們離發現火星上的古老生命又近了一步。",
+    "avoid_list": [
+      "時間戳記視覺顯示",
+      "貓咪專注進行人類活動",
+      "微縮模型或立體透視圖",
+      "倫勃朗或蝴蝶光影",
+      "暖琥珀色調與秋日色系",
+      "冷藍綠色調與冰冷感",
+      "野獸派藝術風格",
+      "天鵝絨質感與奢華",
+      "F/2.8光圈",
+      "等距視角或攝影",
+      "豐富鮮豔非自然色彩",
+      "舊化或廢棄場景",
+      "帶有動態模糊的貓頭",
+      "傾斜移軸效果"
+    ],
+    "title": "火星河畔的貓蹤",
+    "story": "在充滿科學氣息的實驗室裡，僅有一束聚光燈照亮了工作檯。貓咪的目光被地圖上蜿蜒的線條深深吸引，彷彿在追溯那古老火星河流的脈絡，尋找生命的蛛絲馬跡。牠的存在，為這嚴肅的探索帶來一絲意想不到的靜謐與好奇。",
+    "prompt": "medium format photography, Hasselblad aesthetic, flat lay overhead view of a fawn short-haired cat intently focused, gently touching a Knolling-arranged Mars topography map with its paw. The map and scientific instruments are neatly arranged at 90-degree angles in an organized grid layout on a rough concrete workbench in a quiet geological laboratory. The scene is illuminated by a narrow beam spotlight, creating dramatic high-contrast with sharp light edges and deep darkness falloff, softly highlighting earth tone details: terracotta, olive green, warm brown. Capturing an extraordinary tonal range with creamy shallow depth of field, smooth rendering of the cat's fur, and the raw concrete texture. Brutalist aesthetic with industrial minimalism, urban material, and natural organic harmony. Visually displayed in the image: \"2026-03-22 07:32 UTC\".",
+    "number": 1005,
+    "news_inspiration": [
+      "在美國華盛頓州西雅圖市，2026年法國文化節於3月22日舉行，透過藝術、現場音樂、舞蹈、電影、品酒和法式長棍麵包品嚐比賽等活動，慶祝法語文化。",
+      "由中國科學院和英國哈珀亞當斯大學領導的全球研究團隊，利用新穎的地球感測技術，揭示了農業實踐如何影響土壤水動力學，為再生農業提供了重要見解。",
+      "美國國家航空暨太空總署（NASA）的毅力號火星探測器發現了火星上存在一條古老河流的證據，該河流可能比原先設想的更大、流速更快，這讓科學家們離發現火星上的古老生命又近了一步。",
+      "在2026年NCAA男子籃球錦標賽中，內布拉斯加大學玉米收割者隊在美國以一場驚險的比賽擊敗了范德堡大學，成功晉級甜蜜16強。"
+    ]
   }
 ]
