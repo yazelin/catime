@@ -15004,5 +15004,43 @@
     "story": "在城市最高的建築設計工作室裡，夜深人靜，唯有建築師黑貓「墨影」的身影在丁字尺與圖紙間穿梭。窗外，月光為牠鍍上一層金邊，牠的設計是將冰冷混凝土轉化為溫暖家園的夢想。",
     "news_inspiration": [],
     "comment_id": 4106533515
+  },
+  {
+    "news_inspiration": [
+      "台灣觀光局在加拿大卡加利舉行的2026戶外探險展上，展示了台灣結合戶外活動與文化深度的旅遊魅力。",
+      "在中國三亞舉行的2026亞洲沙灘運動會距離開幕還有一個月，藤式足球項目已確認有來自16個國家的77名運動員參賽。",
+      "在古巴哈瓦那，由於能源危機，當地人重新發現了自行車作為替代交通工具，引發了一股新的自行車熱潮。",
+      "科學家分析南極冰核後發現，全球海洋降溫是地球過去三百萬年降溫的主要因素，而非單純的氣體含量變化。"
+    ],
+    "number": 1015,
+    "idea": "一幅野獸派風格的畫作，超廣角鏡頭捕捉古巴哈瓦那色彩斑斕的後巷，一隻薑黃貓咪正專注地用黏土/陶瓷質感改裝一輛老舊自行車，背光/輪廓光勾勒出其鮮明的輪廓，整體畫面充滿高飽和的鮮豔色彩。",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "貓咪專注輕觸/觀察",
+      "聚光燈高對比光影",
+      "粗獷混凝土工業極簡",
+      "電影感光影與HDR",
+      "液態金屬鏡面光澤",
+      "莫蘭迪柔和色調",
+      "正交投影無透視",
+      "畫面分割構圖",
+      "像素/體素藝術風格",
+      "黑貓作為主角",
+      "柔和粉彩漸變色",
+      "漂浮島嶼或平台",
+      "科學實驗室/工作室場景",
+      "消費相機/手機快照風格"
+    ],
+    "inspiration": "在古巴哈瓦那，由於能源危機，當地人重新發現了自行車作為替代交通工具，引發了一股新的自行車熱潮。",
+    "story": "在哈瓦那熱鬧喧囂的後巷深處，陽光透過建築物的縫隙灑落，將一切染上大膽而奇幻的色彩。這隻獨特的薑黃貓咪，戴著小巧的工具腰包，巧手將廢棄零件變成藝術品，為老舊的自行車增添奇特卻充滿活力的裝飾，準備在這場新的自行車熱潮中，騎著自己的創意馳騁。",
+    "title": "巷弄單車匠",
+    "prompt": "A Fauvism art painting depicting a wildly vibrant scene in Havana's colorful back alleys, captured with an ultra wide angle 12-18mm lens, showcasing dramatic perspective distortion and an expansive field of view. A ginger cat, rendered with a sculpted clay texture and a handmade ceramic feel, complete with a matte surface and subtle imperfections, is intensely focused on modifying an old bicycle. The cat, wearing a tiny tool belt, transforms discarded parts into unique, whimsical decorations for the bike. The scene is lit with dramatic backlighting, casting a strong rim light that creates glowing silhouette edges, vividly outlining the subject. The artwork is characterized by bold non-naturalistic colors, textured impasto brushwork, and simplified forms, presenting an energetic palette. High saturation vivid colors and bold vibrant hues create eye-catching contrast, incorporating warm earthy tones alongside fantastical brights. The date and time '2026-03-22 17:16 UTC' are visually displayed within the image.",
+    "comment_id": 4106626081
   }
 ]
