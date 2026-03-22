@@ -14931,5 +14931,46 @@
     "news_inspiration": [],
     "story": "在被洪水淹沒的古老圖書館裡，黑貓「墨水」正巧妙地使用牠那發光的船槳，輕輕推開浮在水面的殘書。牠的任務是將一卷珍貴的羊皮紙安全運送到高處的書架，生物發光的水面映照出詭異而迷人的霓虹色光芒，為這古老的空間帶來了未來感。",
     "idea": "想像一個以帕列赫細密畫風格描繪的場景，一隻黑貓正以正交投影的視角，在淹水的宏偉圖書館內小心翼翼地操控一艘由霓虹螢光生物發光藻類點亮的迷你木船，整體呈現紙質肌理。"
+  },
+  {
+    "title": "墨影春語",
+    "season": "spring",
+    "number": 1013,
+    "idea": "一張以手機隨拍風格呈現的浮島場景。墨墨優雅地棲息在舊書店的窗台上，窗外是莫蘭迪色調的雨中櫻花雨，背景隱約可見低多邊形風格的城市輪廓。",
+    "prompt": "A candid smartphone snapshot. The date and time '2026-03-22 15:16 UTC' are visually displayed. Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat, is nestled on a vintage wooden window sill. Her satin-sheen fur, revealing warm brown undertones under natural, volumetric light filtering from the window, creates dramatic shadows and a high dynamic range, film-quality mood. Her athletic proportions and visible muscle definition are evident. A single small gold hoop earring #FFD700 (3mm) adorns her LEFT ear at the mid-edge, and a tiny natural white locket tuft #FFFFFF is visible on her ventral chest. Her tail tip has a single dark-grey #696969 ring with a slight upward curl. Momo's large, luminous golden-amber #D4A017 eyes are calm, attentive, and slightly squinted, reflecting the pink hues of cherry blossoms, showcasing her quiet elegance and a touch of haughtiness. Long prominent white whiskers frame her face. One paw gently rests on an old book, its cover in a Morandi muted color palette of desaturated soft pastels and dusty grey undertones. Outside the window, a spring rain showers cherry blossoms, creating a \"sakura fubuki\" effect in a Morandi muted color palette. In the distant background, a low-poly style city silhouette is subtly visible, featuring polygon mesh facets, geometric crystalline surfaces, and flat shaded triangular faces, evoking a digital origami aesthetic. The entire scene is depicted as a miniature floating island in the sky, a levitating platform surrounded by white clouds, captured with an aerial perspective. This authentic everyday moment has a casual composition.",
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Floating Island Scene",
+      "lighting": "Cinematic Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Morandi Color Palette"
+    },
+    "news_inspiration": [
+      "印度全國在3月4日慶祝色彩繽紛的胡里節，象徵春天、歡樂以及正義戰勝邪惡。",
+      "芬蘭連續第九年被評為全球最幸福國家，再次肯定了其優質生活和社會福祉。",
+      "科學家在南極洲哈德遜山脈發現一塊埋藏於冰川之下、寬約100公里、厚達7公里的巨大花崗岩塊，解決了數十年來的謎團。",
+      "美國高中教練Nathan Martin在洛杉磯馬拉松賽中以驚人的照片衝線奪冠，上演了一場激勵人心的勝利。"
+    ],
+    "is_seasonal": true,
+    "character": "momo",
+    "story": "春雨綿綿，純黑的墨墨靜靜地窩在老舊書堆旁那高高的窗台上，牠那雙金琥珀色的眼睛倒映著窗外紛飛的櫻花雨，彷彿在閱讀季節的詩篇。牠的身旁，一本封面呈莫蘭迪色調的舊書被牠慵懶地壓著，偶爾瞇起眼睛，享受這片刻的靜謐與傲嬌。",
+    "comment_id": 4106437736,
+    "avoid_list": [
+      "微縮立體模型/玩具比例模型",
+      "倫勃朗光影",
+      "蝴蝶光",
+      "貓咪輕觸/輕推物件",
+      "暖琥珀色調",
+      "蓬鬆毛髮天鵝絨質感",
+      "聚光燈下高對比光影",
+      "閃光燈直打",
+      "復古照片風格",
+      "傾斜移位效果",
+      "柔和粉彩配色",
+      "秋日金黃橘色調",
+      "貓咪專注凝視"
+    ]
   }
 ]
