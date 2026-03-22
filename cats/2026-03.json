@@ -14858,5 +14858,46 @@
       "在美國阿拉巴馬州莫比爾市，一位八十歲的兒子與他九十九歲的父親共同兌現了一家牡蠣店數十年前的承諾，享受了免費的牡蠣，這是一個溫馨感人的故事。",
       "潛水員在希臘愛琴海的一艘英國沉船中，發現了一塊來自雅典衛城的被忽視的大理石碎片，讓失落的文物重見天日。"
     ]
+  },
+  {
+    "idea": "一隻圓滾滾的橘白貓麻糬，戴著盛開的櫻花花環，在體素/我的世界風格的傳統市場巷弄中享受春日野餐。畫面採用分割畫面構圖，透過電影感打光，其中一景是牠對著桌面上一顆散發液態金屬光澤的「古老花生麻糬」雙眼放大、呆萌欲動的特寫。",
+    "number": 1011,
+    "comment_id": 4106275296,
+    "character_name": "麻糬",
+    "season": "spring",
+    "character": "mochi",
+    "title": "櫻下尋珍味",
+    "prompt": "A playful 3D render in Minecraft-style voxel art, showcasing Mochi, a chubby rounded shorthair cat with a pure white #FFFFFF base coat. Its RIGHT half-face (from viewer's perspective) has an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear, while its LEFT face remains entirely white. A heart-shaped orange #FF8C00 saddle is centered on its upper back. Its RIGHT front paw is a solid orange #FF8C00 mitten to the wrist, and its LEFT front paw is pure white #FFFFFF. Its belly is white. Mochi has large round amber #FFBF00 eyes. Its nose is pink #FFB6C1 with a tiny orange center dot. Its tail features orange-and-white ringed bands. Its body has short stubby legs and a spherical torso. Mochi wears a cherry blossom block flower crown, appropriate for spring. The image uses a split view composition. One side shows Mochi on a picnic mat under a blocky cherry blossom tree in a traditional market alley, built with pixelated cubes and blocky textures. Mochi's head is tilted towards a single, prominent 'ancient peanut mochi' on the mat. This 'ancient peanut mochi' possesses a liquid metal surface, mercury-like reflective flow, chrome dripping texture, and a molten mirror finish, appearing as a futuristic material with a Morandi muted color palette of desaturated soft pastels and dusty grey undertones, exuding quiet elegance. The other side is a tight close-up of Mochi's face, specifically highlighting its large round amber #FFBF00 eyes, wide and focused with intense, hungry curiosity on the 'ancient peanut mochi'. The entire scene is rendered with clean, cinematic lighting, volumetric light rays, and dramatic shadows, achieving a high dynamic range and film-quality mood. The date and time '2026-03-22 13:36 UTC' are visually displayed in a discreet corner.",
+    "inspiration": "在西巴布亞的偏遠地區，科學家們發現了兩種被認為已滅絕六千年的小型負鼠和滑翔動物。",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "美國科學家利用詹姆斯·韋伯太空望遠鏡，在曾被認為無法存在大氣層的系外行星TOI-561 b上，發現了令人驚訝的濃厚大氣層。",
+      "俄羅斯斯科爾科沃科學技術學院的研究人員，透過基因編輯技術成功將小麥的產量提高了一倍，有望為全球糧食生產帶來重大突破。",
+      "澳洲選手漢娜·格林在黃金海岸聖所灣舉行的澳洲女子職業高爾夫錦標賽中，以四桿優勢奪冠，完成了近期三連勝的壯舉。",
+      "在西巴布亞的偏遠地區，科學家們發現了兩種被認為已滅絕六千年的小型負鼠和滑翔動物。"
+    ],
+    "avoid_list": [
+      "微縮立體模型/玩具比例模型",
+      "倫勃朗光影",
+      "蝴蝶光",
+      "貓咪輕觸/輕推物件",
+      "暖琥珀色調",
+      "蓬鬆毛髮天鵝絨質感",
+      "聚光燈下高對比光影",
+      "閃光燈直打",
+      "復古照片風格",
+      "傾斜移位效果",
+      "柔和粉彩配色",
+      "秋日金黃橘色調",
+      "貓咪專注凝視"
+    ],
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Split View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "春日和煦，麻糬在一條體素化的老街市場巷弄裡，找到一棵粉嫩的櫻花樹下，鋪開牠的野餐墊。牠頭戴由櫻花方塊串成的花環，正準備大快朵頤，卻被攤位上那顆散發著莫蘭迪色調液態金屬光澤的「古老花生麻糬」深深吸引。這份失傳已久的美味讓牠原本慵懶的眼神瞬間聚焦，貪吃的本性全面爆發。"
   }
 ]

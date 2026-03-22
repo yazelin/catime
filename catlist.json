@@ -9107,5 +9107,18 @@
     "number": 1010,
     "timestamp": "2026-03-22 12:26 UTC",
     "title": "磁域調律者"
+  },
+  {
+    "number": 1011,
+    "character_name": "麻糬",
+    "timestamp": "2026-03-22 13:36 UTC",
+    "season": "spring",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-22_1336_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "is_seasonal": true,
+    "title": "櫻下尋珍味",
+    "inspiration": "在西巴布亞的偏遠地區，科學家們發現了兩種被認為已滅絕六千年的小型負鼠和滑翔動物。"
   }
 ]
