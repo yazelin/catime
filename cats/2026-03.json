@@ -14972,5 +14972,37 @@
       "秋日金黃橘色調",
       "貓咪專注凝視"
     ]
+  },
+  {
+    "prompt": "A perfectly isometric image, rendered with photorealistic precision, depicting an elegant black cat in a modern architectural studio at midnight. The scene is crafted in a sophisticated papercut art style, showcasing layered paper silhouettes with intricate cutout details and deep shadow depth. The black cat, silhouetted, is intensely focused, using a luxurious golden T-square to meticulously draw architectural blueprints on a drafting table. The studio's raw concrete walls exhibit a brutalist aesthetic with a rough aggregate surface, embodying industrial minimalism and urban material. The dominant color scheme is opulent gold and deep black, with metallic gold accents. Dramatic backlighting creates a strong rim light, outlining the cat and the table with glowing edges against the deep black background, creating an opulent and dramatic mood. The image must visually display '2026-03-22 16:17 UTC'. No miniature effect.",
+    "title": "墨影築夢",
+    "idea": "一隻優雅的黑貓在深夜的現代主義建築工作室中，以剪紙藝術風格呈現，正運用金色丁字尺專注地繪製建築藍圖。場景以等距攝影構圖，混凝土牆壁在金黑奢華色調中，透過背光勾勒出貓咪與桌子的輪廓。",
+    "avoid_list": [
+      "微縮立體模型/玩具比例模型",
+      "倫勃朗光影",
+      "蝴蝶光",
+      "貓咪輕觸/輕推物件",
+      "暖琥珀色調",
+      "蓬鬆毛髮天鵝絨質感",
+      "聚光燈下高對比光影",
+      "閃光燈直打",
+      "復古照片風格",
+      "傾斜移位效果",
+      "柔和粉彩配色",
+      "秋日金黃橘色調",
+      "貓咪專注凝視"
+    ],
+    "inspiration": "original",
+    "number": 1014,
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Isometric Photography",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Concrete",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "在城市最高的建築設計工作室裡，夜深人靜，唯有建築師黑貓「墨影」的身影在丁字尺與圖紙間穿梭。窗外，月光為牠鍍上一層金邊，牠的設計是將冰冷混凝土轉化為溫暖家園的夢想。",
+    "news_inspiration": [],
+    "comment_id": 4106533515
   }
 ]
