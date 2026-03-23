@@ -9252,5 +9252,14 @@
     "number": 1025,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-23_0755_UTC.webp",
     "timestamp": "2026-03-23 07:55 UTC"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-23_0842_UTC.webp",
+    "number": 1026,
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "timestamp": "2026-03-23 08:42 UTC",
+    "inspiration": "original",
+    "status": "success",
+    "title": "深海幽光調飲師"
   }
 ]
