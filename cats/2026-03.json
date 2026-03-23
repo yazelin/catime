@@ -15558,5 +15558,38 @@
       "韓國德威航空推出春季旅遊特惠活動，提供前往首爾、大邱、釜山和濟州等多個韓國城市的特價機票。",
       "日本神奈川縣宣布啟動「令和8年度障礙者體育地域大會振興事業補助金」募集，旨在推廣障礙者運動並舉辦相關體驗會。"
     ]
+  },
+  {
+    "idea": "一隻毛色鮮豔、帶有亮面塑膠質感的貓咪，在充滿高飽和鮮豔色彩的探險家俱樂部辦公室裡，透過鏡子自拍構圖，專注地研究一張複雜的航海地圖，場景以酒精墨水藝術風格呈現，並有蝴蝶光照亮貓咪臉部。",
+    "avoid_list": [
+      "貓咪專注進行精細操作",
+      "遞迴式構圖與畫中畫效果",
+      "鳥瞰或空拍視角",
+      "黑光螢光與霓虹色彩",
+      "魚眼鏡頭的強烈畸變",
+      "柔和粉彩或馬卡龍色調",
+      "月光下的寂靜夜晚氛圍",
+      "雙色調搭配強烈視覺衝擊",
+      "碳纖維紋理與現代工業美學",
+      "底片顆粒或類比攝影質感",
+      "金黃色體積光束或夕陽餘暉",
+      "故障藝術或數位錯亂效果",
+      "高科技或未來主義場景",
+      "廣角鏡頭的戲劇性透視"
+    ],
+    "prompt": "An orange cat with vibrant fur, depicted with a glossy plastic toy texture, smooth high-shine surface, and slight reflections, similar to a vinyl figure. The cat is intently studying a complex nautical map, captured through a mirror selfie composition with casual framing, a visible reflection, and an intimate close-up perspective. Butterfly lighting illuminates the cat's face, featuring an overhead key light that creates a symmetrical shadow under its nose, providing glamour portrait lighting with soft, even illumination. The scene is set in an explorer's club office, filled with high saturation vivid colors, bold vibrant hues, and eye-catching contrast, creating an energetic palette. Surrounding objects like plastic-textured globes and plants also exhibit a high-shine finish. The entire artwork is rendered in an alcohol ink art style, showcasing fluid vibrant colors, unpredictable organic patterns, translucent layers, and free-flowing movement, creating ethereal abstract effects. Visually display '2026-03-23 12:39 UTC' within the image.",
+    "story": "橘貓船長毛皮在蝴蝶光下閃耀，爪下是色彩斑斕的航海圖。牠凝視鏡中倒影，臉上是準備遠航的嚴肅神情，周圍亮面塑膠感的地球儀與植物，在酒精墨水藝術的流動色彩中更顯鮮明。",
+    "number": 1030,
+    "news_inspiration": [],
+    "title": "航海圖的秘密",
+    "inspiration": "original",
+    "comment_id": 4110332023,
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
