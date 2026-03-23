@@ -15891,5 +15891,44 @@
     },
     "story": "閣樓深處，橘貓「時光」輕撥著老舊發條。牠將所有拆下的齒輪、螺絲與迷你彈簧，以Knolling攝影的精準美學，排列在斑駁木桌上。燭光搖曳，將牠專注的剪影投射在牆面，那是牠以心修復時間的儀式，每一個動作都充滿了表現主義的沉思與情感。",
     "idea": "在一個充滿老舊工具和零件的閣樓工作室裡，一隻貓正全神貫注地修理著一隻低多邊形機械鳥的複雜齒輪。整個場景以表現主義風格呈現，透過燭光和Knolling構圖，營造出復古褪色色調的深刻氛圍。"
+  },
+  {
+    "story": "這隻年邁的貓咪是地圖修復師，牠細心縫合地圖上的裂痕，彷彿在重現那些曾經消失的足跡。每一個針腳都凝聚著對過去的記憶與對未來保育的期盼，默默為生物的歸來鋪陳道路。",
+    "idea": "一隻身披磨損皮背心的虎斑貓，在老舊自然歷史博物館的塵封庫房中，以粉筆畫風格呈現，正聚精會神地修補一張以皮革為底、描繪非洲大陸犀牛遷徙路徑的褪色古地圖。場景採正交投影構圖，一束聚光燈聚焦在牠和地圖上，呈現復古褪色色調。",
+    "news_inspiration": [
+      "德國海德堡大學與中國山東大學的科學家們共同發現阿茲海默症腦部「死亡開關」，並已在小鼠實驗中成功關閉它。",
+      "芬蘭連續第九年被評為全球最幸福的國家，其深厚的合作精神是關鍵因素。",
+      "在美國NCAA女子籃球錦標賽中，維吉尼亞大學隊在雙加時賽中爆冷擊敗愛荷華大學隊，創造了錦標賽歷史。",
+      "烏干達在超過40年後，再次迎來犀牛回歸，這是保育工作的重大里程碑。",
+      "日本大阪市收到了一筆匿名捐贈的數百萬美元金條，將用於更換城市老化的水管。"
+    ],
+    "inspiration": "烏干達在超過40年後，再次迎來犀牛回歸，這是保育工作的重大里程碑。",
+    "avoid_list": [
+      "黑光螢光/生物發光",
+      "柔和粉彩色調 (粉、紫、薄荷綠、嬰兒藍)",
+      "蝴蝶光與對稱臉部陰影",
+      "魚眼廣角鏡頭與桶狀變形",
+      "未來科技/工業美學場景",
+      "地下/深海環境設定",
+      "專注細緻的貓咪動作",
+      "真實攝影質感 (淺景深、底片顆粒)",
+      "完美對稱構圖與鏡像平衡",
+      "奢華金黑色調與金屬光澤",
+      "冰霜/冰晶紋理細節",
+      "光滑亮面與表面反射",
+      "高飽和鮮豔色彩",
+      "碳纖維編織紋理"
+    ],
+    "prompt": "A tabby cat wearing a worn leather vest meticulously repairing a faded antique leather map depicting African continent rhino migration paths, rendered with a chalk art aesthetic. The chalk art elements feature colored chalk and visible hatching strokes, creating a dusty matte texture. The scene is set in a dusty storeroom of an old natural history museum. Orthographic projection, straight-on flat rendering, no perspective distortion, technical illustration style. A narrow beam spotlight focuses on the cat and the map, creating dramatic high-contrast with sharp light edges and deep darkness falloff. The map itself displays genuine leather texture, rich grain pattern, warm aged patina, and a supple creased surface, showcasing artisanal craftsmanship. The overall image has a retro faded color palette, washed-out vintage tones, low contrast, and nostalgic film-era warmth. Visually display '2026-03-23 22:20 UTC' within the image.",
+    "number": 1039,
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Spotlight",
+      "texture": "Leather",
+      "color_palette": "Retro Faded Tones"
+    },
+    "title": "犀蹤補遺",
+    "comment_id": 4114091844
   }
 ]
