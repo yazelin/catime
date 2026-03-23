@@ -9281,5 +9281,14 @@
     "number": 1028,
     "timestamp": "2026-03-23 10:42 UTC",
     "title": "月下花語窗影"
+  },
+  {
+    "timestamp": "2026-03-23 11:36 UTC",
+    "inspiration": "韓國德威航空推出春季旅遊特惠活動，提供前往首爾、大邱、釜山和濟州等多個韓國城市的特價機票。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-23_1136_UTC.webp",
+    "status": "success",
+    "title": "迷航金線",
+    "number": 1029,
+    "model": "gemini-3-pro-image-preview"
   }
 ]
