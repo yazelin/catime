@@ -15591,5 +15591,47 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "number": 1031,
+    "news_inspiration": [
+      "2026年3月4日，印度全國各地慶祝充滿活力的胡里節（Holi），以色彩和歡樂迎接春天。",
+      "歐洲核子研究組織（CERN）的LHCb實驗於瑞士發現一種新的類質子粒子，由兩個粲夸克和一個底夸克組成。",
+      "日本市川市動物園裡一隻名叫Punch的日本獼猴找到了伴侶，牠們的擁抱影片在網路上瘋傳，溫暖了許多人的心。",
+      "在美國NCAA錦標賽中，11號種子VCU在落後19分的情況下，於加時賽中逆轉擊敗6號種子UNC，成功晉級第二輪。"
+    ],
+    "story": "老街市集舉辦春日慶典，櫻花紛飛，掛滿七彩燈籠。麻糬頭戴著為牠精心編織的花環，嗅到點心的香氣便迫不及待地衝向野餐區。牠費力地將整張臉擠進裝滿花生麻糬和果凍的竹籃中，琥珀色的雙眼因貪吃而放大兩倍，整個場景洋溢著溫馨又逗趣的節慶氛圍。",
+    "inspiration": "2026年3月4日，印度全國各地慶祝充滿活力的胡里節（Holi），以色彩和歡樂迎接春天。",
+    "idea": "在極簡塗鴉線條畫的風格中，麻糬戴著鮮豔的花環，以極低角度的視角被捕捉，牠圓滾滾的身軀幾乎佔滿畫面，正努力將扁圓的臉蛋探進一個裝滿豐盛點心的野餐籃。籃子旁點綴著冰霜結晶般精緻細膩的線條，背景則是櫻花樹下燈火輝煌、高飽和鮮豔色彩的春季市集，燭光般的暖意流淌其中。",
+    "prompt": "A minimalist line drawing, doodle style illustration, rendered in black ink on a white background, characterized by playful loose strokes and a clear hand-drawn feel. The date and time '2026-03-23 14:07 UTC' MUST be visually displayed within the image. The central subject is Mochi, a chubby, rounded shorthair cat. Mochi's base coat is pure white (#FFFFFF) with distinct bright orange (#FF8C00) patches. Crucially, the RIGHT half of Mochi's face (from the viewer's perspective) features an orange (#FF8C00) mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; the LEFT half of its face remains entirely white. Centered on its upper back is a heart-shaped orange (#FF8C00) saddle. Its RIGHT front paw is a solid orange (#FF8C00) mitten reaching the wrist, while its LEFT front paw is pure white (#FFFFFF). Mochi has large, round amber (#FFBF00) eyes, a pink (#FFB6C1) nose with a tiny orange center dot, and an orange-and-white ringed tail. Its body has short, stubby legs and a spherical torso. Mochi is adorned with a vivid, colorful spring flower crown. The composition employs an extreme low angle shot, looking up at Mochi, creating a dramatic towering perspective. Mochi's spherical torso almost entirely fills the foreground as it eagerly pushes its flat, round face into a bamboo picnic basket overflowing with spring festival snacks like mochi and jellies. Beside the picnic basket, delicate and intricate line patterns reminiscent of ice crystal formations are subtly incorporated as decorative elements, seamlessly integrated into the minimalist line art style. The background depicts a bustling spring market under cherry blossom trees, illuminated by high saturation vivid colors, bold vibrant hues, and eye-catching contrast, forming an energetic palette. Colorful lanterns hang, enhancing the festive atmosphere. The lighting evokes candlelight, providing a warm orange flickering glow, creating an intimate atmosphere with soft dancing shadows. The overall scene exudes a warm, whimsical, and festive spring celebration.",
+    "avoid_list": [
+      "貓咪專注進行精細操作",
+      "遞迴式構圖與畫中畫效果",
+      "鳥瞰或空拍視角",
+      "黑光螢光與霓虹色彩",
+      "魚眼鏡頭的強烈畸變",
+      "柔和粉彩或馬卡龍色調",
+      "月光下的寂靜夜晚氛圍",
+      "雙色調搭配強烈視覺衝擊",
+      "碳纖維紋理與現代工業美學",
+      "底片顆粒或類比攝影質感",
+      "金黃色體積光束或夕陽餘暉",
+      "故障藝術或數位錯亂效果",
+      "高科技或未來主義場景",
+      "廣角鏡頭的戲劇性透視"
+    ],
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "season": "spring",
+    "comment_id": 4110926420,
+    "character": "mochi",
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Extreme Low Angle",
+      "lighting": "Candlelight",
+      "texture": "Frost Crystal",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "花環甜點劫"
   }
 ]

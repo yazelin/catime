@@ -9299,5 +9299,18 @@
     "title": "航海圖的秘密",
     "inspiration": "original",
     "status": "success"
+  },
+  {
+    "number": 1031,
+    "inspiration": "2026年3月4日，印度全國各地慶祝充滿活力的胡里節（Holi），以色彩和歡樂迎接春天。",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "is_seasonal": true,
+    "timestamp": "2026-03-23 14:07 UTC",
+    "character_name": "麻糬",
+    "season": "spring",
+    "status": "success",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-23_1407_UTC.webp",
+    "title": "花環甜點劫"
   }
 ]
