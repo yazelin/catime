@@ -15439,5 +15439,46 @@
     "story": "在深海研究站幽暗而對稱的實驗室吧台，冰冷的大理石表面被黑光點亮，藍青色的紋理如漩渦般蜿蜒。一隻目光銳利的黑貓，以其優雅的姿態，精確地將一滴滴冷色調液體注入面前那杯散發著幽幽藍綠螢光的特調飲品中。周圍對稱排列的實驗器材和發光瓶罐，共同構築了一幅超現實的靜態畫面。",
     "title": "深海幽光調飲師",
     "idea": "一隻優雅的黑貓在一個未來主義的深海研究站內部，全神貫注地使用滴管精準地為一杯在黑光下發出迷幻藍綠螢光的雞尾酒進行最後的裝飾，整個場景以迷幻風格和對稱構圖呈現。"
+  },
+  {
+    "title": "鬱金香花海的追逐",
+    "avoid_list": [
+      "貓咪黏土/陶瓷質感",
+      "薑黃/橘色虎斑貓",
+      "貓咪專注操作機械/裝置",
+      "強烈背光/輪廓光",
+      "生物發光效果",
+      "超廣角鏡頭透視變形",
+      "等距3D插圖風格",
+      "空拍/俯瞰視角",
+      "高飽和鮮豔色彩",
+      "溫暖大地色系調色板",
+      "雙色調處理",
+      "沙質紋理與地貌",
+      "古老/陳舊的設備或場景",
+      "鏡面/反光構圖"
+    ],
+    "character": "lingling",
+    "comment_id": 4109349904,
+    "number": 1027,
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Orthographic Projection",
+      "lighting": "Golden Hour",
+      "texture": "Carbon Fiber",
+      "color_palette": "Pastel Colors"
+    },
+    "character_name": "鈴鈴",
+    "story": "鈴鈴，這隻毛茸茸的白色棉花糖，被一隻在花叢中舞動的彩蝶吸引。牠輕盈地跳躍著，脖子上的粉紅鈴鐺發出清脆的叮鈴聲，全神貫注地撲向一朵巨大的淡粉色鬱金香，準備「捕捉」那閃耀的小生命。牠完全沒注意到自己正朝著花瓣撞去，眼底滿是天真的好奇與玩心。",
+    "inspiration": "美國舊金山聯合廣場將於3月21日舉行鬱金香日活動，屆時將有八萬朵鬱金香可供民眾免費帶回家。",
+    "news_inspiration": [
+      "在數十年保育工作的努力下，中國的大熊貓野生族群數量顯著增長，已從瀕危物種降級為易危物種。",
+      "美國舊金山聯合廣場將於3月21日舉行鬱金香日活動，屆時將有八萬朵鬱金香可供民眾免費帶回家。",
+      "希臘政府包機從阿拉伯灣地區撤離其僑民和他們的寵物，這些寵物也安全抵達希臘雅典。",
+      "納米比亞溫得和克將於2026年9月2日至4日舉辦文化、體育和旅遊博覽會，以推廣該國的各項產業。",
+      "西班牙塞維利亞市正在重新啟用有著三千年歷史的地下渡槽系統，以創新的方式應對城市熱浪問題。"
+    ],
+    "idea": "在吉卜力風格的正交投影中，鈴鈴在金黃色陽光灑落的巨大粉彩鬱金香花園裡，好奇地追逐著一隻閃爍的蝴蝶。遠處有一道點綴著碳纖維紋理的雅緻拱門。",
+    "prompt": "A captivating Studio Ghibli anime style illustration in orthographic projection, featuring a playful white cat named Lingling. Lingling is an extremely fluffy pure white #FFFFFF longhair, Ragdoll-like with voluminous cloud-like fur, her small round face nearly hidden in the fluff. Her huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of her face) sparkle with innocent curiosity as she pounces. Her nose and inner ears are pale pink #FFB6C1. A vibrant pink #FF69B4 ribbon bow collar with a clearly visible, centered small golden #FFD700 bell adorns her neck. She has an enormous feathery white plume tail, and pink paw pads are occasionally visible as she moves. Lingling is mid-leap, playfully chasing a shimmering, iridescent butterfly through a fantastical garden of colossal pastel tulips. The tulips are in dreamy light tones of gentle pink, lavender, and mint. The scene is bathed in golden hour lighting, with a warm sunset glow casting long, soft shadows and creating a golden rim light on Lingling's fur. In the distant background, an elegant archway with a distinct carbon fiber weave pattern, high-tech lightweight material, and a glossy clear coat finish, presents a modern industrial aesthetic. The overall aesthetic is a soft watercolor background with warm pastoral scenery, no perspective distortion, and straight-on flat rendering in a technical illustration style, with gentle character design. Visually displayed in the image is the text: '2026-03-23 09:52 UTC'."
   }
 ]
