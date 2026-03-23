@@ -9312,5 +9312,16 @@
     "character": "mochi",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-23_1407_UTC.webp",
     "title": "花環甜點劫"
+  },
+  {
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "character": "momo",
+    "status": "success",
+    "inspiration": "紐西蘭的稀有鸚鵡卡卡波迎來了新生幼鳥潮，數量大幅增加。",
+    "timestamp": "2026-03-23 15:51 UTC",
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-23_1551_UTC.webp",
+    "number": 1032,
+    "title": "書架上的智者"
   }
 ]
