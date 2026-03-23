@@ -15373,5 +15373,38 @@
       "優雅黑貓",
       "窗台或窗邊場景"
     ]
+  },
+  {
+    "avoid_list": [
+      "貓咪黏土/陶瓷質感",
+      "薑黃/橘色虎斑貓",
+      "貓咪專注操作機械/裝置",
+      "強烈背光/輪廓光",
+      "生物發光效果",
+      "超廣角鏡頭透視變形",
+      "等距3D插圖風格",
+      "空拍/俯瞰視角",
+      "高飽和鮮豔色彩",
+      "溫暖大地色系調色板",
+      "雙色調處理",
+      "沙質紋理與地貌",
+      "古老/陳舊的設備或場景",
+      "鏡面/反光構圖"
+    ],
+    "inspiration": "original",
+    "title": "金屬迴廊的粉彩秘語",
+    "number": 1025,
+    "comment_id": 4108683449,
+    "prompt": "Expressionism art style, bold distorted forms, vivid contrasting colors, exaggerated gestural brushwork. A short-haired cat, intensely focused, gently polishing a series of twisted, sharp-edged stainless steel sculptures with a soft pastel cloth. The cat's deep, reflective eyes are illuminated by the glow. The scene is set in an underground studio defined by dramatic, curved metallic walls, captured through a fisheye wide-angle lens with strong barrel distortion, creating an exaggerated foreground and a 360-degree immersive feel. Illuminated by Blacklight UV, casting an ethereal ultraviolet luminescence. Fluorescent pigments on the sculptures glow in a soft pastel color palette of gentle pink, lavender, mint, and baby blue. These vibrant neon colors stand out on the dark background of the industrial premium metallic surfaces, showing sharp reflections. Visually displayed in the image: '2026-03-23 07:55 UTC'.",
+    "idea": "在一間由弧形金屬牆構成的地下工作室裡，一隻短毛貓正全神貫注地用柔軟的粉彩布料，輕輕擦拭著一系列造型扭曲、邊緣銳利的不鏽鋼雕塑，整體場景以表現主義風格呈現，透過魚眼鏡頭捕捉，在黑光螢光的照射下，散發出幽微的粉彩色調。",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Fisheye Lens",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Metallic Surface",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "午夜時分，寂靜的地下深處，黑光螢光灑在冰冷的金屬表面，給工作室染上了一層奇異的柔和光暈。小貓咪『銀』的爪子輕柔地拂過每一道雕塑的稜線，彷彿在喚醒它們沉睡的光芒。每一件作品都在牠的巧手下，漸漸透出神秘的粉彩螢光，照亮了牠專注而深邃的瞳孔，這是牠與藝術品獨有的對話。",
+    "news_inspiration": []
   }
 ]
