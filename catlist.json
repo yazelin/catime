@@ -9489,5 +9489,16 @@
     "title": "浮島貓園丁",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-24_1243_UTC.webp",
     "number": 1050
+  },
+  {
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-24_1412_UTC.webp",
+    "timestamp": "2026-03-24 14:12 UTC",
+    "number": 1051,
+    "character": "mochi",
+    "status": "success",
+    "inspiration": "作為年度鬱金香日活動的一部分，美國舊金山預計將在3月21日於聯合廣場分發80,000朵免費鬱金香供民眾帶回家。",
+    "title": "花間小糰子",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)"
   }
 ]

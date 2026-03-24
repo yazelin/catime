@@ -16339,5 +16339,47 @@
     },
     "comment_id": 4117997817,
     "number": 1050
+  },
+  {
+    "character_name": "麻糬",
+    "comment_id": 4118647221,
+    "news_inspiration": [
+      "在日本千葉市動物園，曾因抱著IKEA猩猩玩偶爆紅的小獼猴Punch，如今已與一隻雌性獼猴形影不離，牠們依偎的影片在網路上引起熱烈討論，展現了溫馨的一面。",
+      "瑞士日內瓦的科學家首次將反質子裝載於卡車上進行公路運輸測試，這項精密的實驗旨在研究當反物質接觸物質時會瞬間湮滅的特性。",
+      "烏干達在努力四十多年後，成功將犀牛重新引進該國，為當地的野生動物保育帶來了重大的里程碑。",
+      "硬石酒店馬爾他分店已在聖喬治灣開放2026年夏季預訂，承諾將以其獨特的音樂主題和豪華設施重新定義當地的奢華生活風格。",
+      "作為年度鬱金香日活動的一部分，美國舊金山預計將在3月21日於聯合廣場分發80,000朵免費鬱金香供民眾帶回家。"
+    ],
+    "number": 1051,
+    "story": "麻糬這隻橘白貓被市場裡鮮豔的鬱金香吸引，牠圓胖的身體笨拙地爬上木箱，琥珀色的雙眼放大兩倍，試圖從花瓣的縫隙中找出是否有可口的零食。在暖色調的冰霜結晶質感下，牠的呆萌表情在蝴蝶光的映襯下顯得格外引人注目。",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Orthographic Projection",
+      "lighting": "Butterfly Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character": "mochi",
+    "prompt": "A chubby, spherical-bodied shorthair cat named Mochi, with a pure white (#FFFFFF) base coat. Mochi's RIGHT half-face has a vibrant orange (#FF8C00) mask extending from the nose bridge, across the RIGHT cheek, to the RIGHT ear; its LEFT face is entirely white. A distinct heart-shaped orange (#FF8C00) saddle is centered on its upper back. Its RIGHT front paw is a solid orange (#FF8C00) mitten to the wrist; its LEFT front paw is pure white (#FFFFFF). Its belly is white. Mochi has large, round amber (#FFBF00) eyes, a pink (#FFB6C1) nose with a tiny orange center dot, and a tail with orange-and-white ringed bands. All orange patches are solid, with no tabby stripes. Mochi awkwardly climbs onto a wooden crate at a traditional market stall overflowing with geometric, fragmented tulips, curiously extending its orange RIGHT front paw to 'inspect' a flower. Its magnified amber eyes intently search the petals for potential treats. The entire scene is rendered in a Cubism art style, characterized by geometric fragmented forms, multiple simultaneous perspectives, abstract angular planes, and analytical decomposition. The composition utilizes orthographic projection, showcasing a straight-on, flat rendering with no perspective distortion, akin to a technical illustration style. Soft, even butterfly lighting, from an overhead key light, creates a symmetrical shadow under Mochi's nose, highlighting its endearing, naive expression and achieving a glamour portrait effect. The image is bathed in a warm amber color grading, employing an autumn palette of golden yellows and burnt oranges. The surfaces are covered with a delicate texture reminiscent of ice crystal formations, translucent frost patterns, and frozen shards, evoking both winter crystalline beauty and a cozy, nostalgic warmth. The text '2026-03-24 14:12 UTC' is visually displayed within the image.",
+    "inspiration": "作為年度鬱金香日活動的一部分，美國舊金山預計將在3月21日於聯合廣場分發80,000朵免費鬱金香供民眾帶回家。",
+    "title": "花間小糰子",
+    "avoid_list": [
+      "環形燈光與貓眼圓形眼神光",
+      "冷調藍青色與冰冷底色",
+      "遞迴/德羅斯特效應",
+      "鏡子自拍構圖",
+      "黑白單色調與豐富色調範圍",
+      "黃金時刻與金色輪廓光",
+      "未來科技感設定",
+      "微縮模型/移軸效果",
+      "塑膠玩具質感或乙烯基美學",
+      "金屬表面與工業高級感",
+      "專注凝視的貓咪姿態",
+      "高飽和度鮮豔色彩",
+      "柔和且寧靜的氛圍",
+      "低多邊形或數位摺紙美學",
+      "古老智慧或文化傳承主題"
+    ],
+    "idea": "一隻圓滾滾的麻糬貓，以立體主義風格呈現，在傳統市場裡一處堆滿幾何形狀鬱金香的攤位上，好奇地伸出右前腳「檢查」一朵花。整個畫面透過正交投影展現，並以蝴蝶光照亮，表面覆蓋冰霜結晶般的暖琥珀色澤。"
   }
 ]
