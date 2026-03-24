@@ -15969,5 +15969,38 @@
       "圖像中顯示日期時間"
     ],
     "number": 1040
+  },
+  {
+    "inspiration": "original",
+    "title": "月光書守",
+    "comment_id": 4114709941,
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Extreme Low Angle",
+      "lighting": "Moonlight",
+      "texture": "Silk",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "在一座深藏地底、由古老樹根與礦物結晶構築而成的宏偉知識庫中，一隻莊重的貓咪以手繪信息圖的風格，專注地整理著泛著微光、記載著古代智慧的卷軸。",
+    "prompt": "An illustration in a hand-drawn infographic style, depicting a solemn, velvet-furred cat meticulously organizing glowing scrolls of ancient wisdom. The setting is a grand subterranean knowledge repository, intricately woven from ancient tree roots and luminous mineral crystals, presented against a paper texture background. An extreme low angle shot, looking up at the cat, creates a dramatic towering perspective with a powerful feel. Moonlight illumination casts a cool blue-teal color grading with icy undertones throughout the quiet nighttime atmosphere, creating a gentle silvery glow and delicate light reflections. The scrolls have a luminous smooth surface with a silk fabric texture, showing a luxurious sheen and flowing drape. A small, sleek mechanical assistant is present, maintaining the serene and calm mood. Calligraphy brush strokes define the ancient texts. Visually display '2026-03-24 01:05 UTC' within the image.",
+    "story": "從極低角度向上望去，月光般的冷冽藍青色光芒透過發光的礦脈與書卷滲透而出，輕柔地照亮了知識庫的幽深角落。貓咪毛髮呈現絲絨般質感，與卷軸表面微亮的絲滑紋理相映成趣，一旁還有個小巧、線條簡潔的機械助手，共同維持著這片知識殿堂的靜謐與秩序。",
+    "avoid_list": [
+      "貓咪專注地修理/研究",
+      "等距視角或正交投影",
+      "Knolling 俯視構圖",
+      "莫蘭迪色調",
+      "復古褪色調",
+      "聚光燈強烈光影",
+      "柔和漫射自然光",
+      "閣樓場景",
+      "紙質/皮革肌理",
+      "蝴蝶光",
+      "燭光溫暖搖曳光芒",
+      "高飽和鮮豔色彩",
+      "極簡塗鴉線條風格",
+      "圖像中顯示日期時間"
+    ],
+    "number": 1041,
+    "news_inspiration": []
   }
 ]
