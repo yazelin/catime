@@ -9433,5 +9433,14 @@
     "character_name": "船長",
     "status": "success",
     "inspiration": "original"
+  },
+  {
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: API 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.)",
+    "number": 1045,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-24_0746_UTC.webp",
+    "title": "飛行轉盤上的旅貓",
+    "status": "success",
+    "timestamp": "2026-03-24 07:46 UTC",
+    "inspiration": "泰國旅遊業持續蓬勃發展，截至3月22日，已吸引超過854萬外國遊客，為該國帶來豐厚收入。"
   }
 ]
