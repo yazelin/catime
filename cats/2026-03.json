@@ -16561,5 +16561,48 @@
     "number": 1056,
     "news_inspiration": [],
     "prompt": "A short-haired cat intently repairing a complex vintage clock inside the cockpit of an abandoned steam locomotive. The image visually displays '2026-03-24 19:45 UTC'. The scene is rendered in an architectural blueprint style with precise white technical drawing lines, measurements, and annotations against a deep blue background. Intricate recursive details, depicting a Droste effect with a picture within a picture repeating infinitely, are delineated by vibrant neon fluorescent lines in electric pink, lime green, and hot cyan. These glowing lines exhibit a delicate paper quilling art texture, formed by intricate coiled paper strips, delicate curling loops, and 3D dimensional ornaments. The neon lighting creates a moody urban night atmosphere, with colorful glowing signs reflecting on metallic surfaces within the dark cockpit, emphasizing the intricate details of the clock and its surroundings."
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "Y2K風格",
+      "粉彩色系/大理石",
+      "蝴蝶光",
+      "倫勃朗光影",
+      "金屬/工業質感",
+      "超廣角/魚眼鏡頭",
+      "高飽和/鮮豔色彩",
+      "亮面塑膠/玩具質感",
+      "透明/半透明材質",
+      "毛絨絨的貓咪",
+      "織品/布料質感",
+      "傳統市場/街頭小吃攤",
+      "金黃/暖琥珀色調",
+      "貓咪爪子互動/檢查",
+      "未來感設定"
+    ],
+    "story": "春雨綿綿，舊書店內彌漫著紙張與濕潤泥土的氣息。墨墨輕巧地躍上古老木製窗台，牠那純黑如緞的毛髮在窗外微弱的光線下，勾勒出優雅的輪廓。牠沒有發出一點聲響，只是靜靜地凝視著窗外紛揚的櫻花雨，金琥珀色的雙眼像兩顆閃爍的寶石，映照著一場無聲的春天詩篇。",
+    "character_name": "墨墨",
+    "season": "spring",
+    "character": "momo",
+    "is_seasonal": true,
+    "number": 1057,
+    "idea": "一幅扁平向量插圖，採分割畫面構圖。左側畫面為墨墨優雅地蹲坐在舊書店高處的窗台上，金琥珀色的眼睛專注地望向窗外；右側畫面則呈現從牠視角所見的窗外雨景，櫻花在雨中紛飛。墨墨的身影在背光和輪廓光下顯得格外分明，窗框或背景書架邊緣融入碳纖維的極簡紋理，整體配色以金色與黑色彰顯奢華質感。",
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "title": "窗台櫻雨",
+    "prompt": "A flat vector illustration, rendered with clean lines, geometric forms, and minimal shading. The composition utilizes a split view with a sharp vertical cut line. On the left side, Momo, a sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat with satin-sheen fur revealing warm brown undertones where light hits, visible muscle definition, and a slight upward curl at the tail tip. Momo elegantly squats on a high old wooden window sill in an antique bookstore, her large luminous golden-amber (#D4A017) eyes like polished amber gems, calmly and attentively gazing outwards. She has long prominent white whiskers. A single small gold hoop earring (#FFD700) (3mm) is precisely positioned on her LEFT ear at the mid-ear edge. A tiny natural white locket tuft (#FFFFFF) (fur only) marks her ventral chest. Her tail tip features a single dark-grey (#696969) ring. Dramatic backlighting creates a strong rim light and glowing silhouette edges around Momo, outlining her form vividly. On the right side, from Momo's perspective, a serene spring rain scene is visible through the window, with delicate cherry blossoms (#FFB7C5) gently falling. The window frame and the edges of background bookshelves integrate a carbon fiber weave pattern, high-tech lightweight material, finished with a glossy clear coat, creating a modern industrial aesthetic. The overall color scheme is dominated by gold and black, featuring luxurious metallic gold accents (#FFD700) contrasted with deep black backgrounds (#0A0A0A), evoking an opulent mood. The text '2026-03-24 20:30 UTC' is visually displayed within the image.",
+    "comment_id": 4121174404,
+    "news_inspiration": [
+      "科學家們透過超級電腦模擬，揭示了恆星自轉在紅巨星內部元素混合中的關鍵作用，解開了一個數十年來的天文學之謎。",
+      "美國阿拉巴馬州莫比爾市一家歷史悠久的牡蠣吧，兌現了其數十年來的承諾，為一位與99歲父親一同慶祝80歲生日的男士提供免費牡蠣。",
+      "澳洲科學家成功研發出全球首個量子電池概念驗證，證實量子電池體積越大充電越快，有望徹底改變能源儲存方式。",
+      "在戰火持續的烏克蘭，多瑙河三角洲的卡爾塔爾湖濕地生態系統透過重新野化項目逐漸恢復生機，展現大自然的韌性。"
+    ]
   }
 ]

@@ -9545,5 +9545,18 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-24_1945_UTC.webp",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "墨墨",
+    "season": "spring",
+    "timestamp": "2026-03-24 20:30 UTC",
+    "status": "success",
+    "character": "momo",
+    "is_seasonal": true,
+    "number": 1057,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-24_2030_UTC.webp",
+    "title": "窗台櫻雨"
   }
 ]
