@@ -17126,5 +17126,37 @@
       "color_palette": "Monochrome / Black and White"
     },
     "news_inspiration": []
+  },
+  {
+    "prompt": "A masterwork in Palekh art, an intricate miniature painting. A feline explorer, adorned in Shibori style fabric with resist-dyed indigo blue patterns and organic flowing designs, intently guides constellations across a massive, broken fisheye lens dome. The scene unfolds within a ruined, futuristic space observatory. Ring light illumination casts a serene, even frontal light on the cat, creating circular catchlights in its eyes, with additional light spilling from damaged control panels. The composition features a fisheye wide-angle perspective with strong barrel distortion and an exaggerated foreground, evoking a 360-degree feel. The color palette is dominated by cool blue-teal tones, deep indigo, and icy undertones, rendered with vivid colors reminiscent of traditional Palekh art on a darker, lacquer-like background, embodying a serene and calm mood. Russian folkloric elements and subtle gold leaf storytelling details are incorporated throughout the scene. Visually displayed within the image: '2026-03-25 15:58 UTC'.",
+    "avoid_list": [
+      "等距構圖",
+      "直打閃光燈與硬影",
+      "微縮場景",
+      "貓咪藝術家/職人主題",
+      "黃金時刻光線",
+      "冰霜/結晶紋理",
+      "雙色調藝術風格",
+      "漂浮/懸浮場景",
+      "單色調呈現",
+      "溫暖木質元素",
+      "經典三點打光",
+      "暖琥珀/秋日色調",
+      "自然抓拍感"
+    ],
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 1072,
+    "comment_id": 4127788182,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "idea": "一幅帕列赫細密畫風格的場景：在一座廢棄的未來感太空觀測站中，一隻貓咪透過巨大破損的魚眼鏡頭穹頂，專注地導覽著星宿。環形燈光從損壞的控制面板間溢出，照亮牠身上帶有絞染紋理的布料，整體色調為深邃的藍青冷色。",
+    "story": "在荒蕪的星際邊緣，被時間遺忘的觀測站穹頂已斑駁龜裂，卻仍映照著浩瀚的宇宙。一隻探險貓，身披絞染靛藍圖騰的輕甲，輕柔地觸碰著投射在穹頂上的全息星圖。牠的眼神在環形燈光的溫柔暈染下，閃爍著對未知星系的無盡好奇與引導。",
+    "title": "蒼穹之眼"
   }
 ]
