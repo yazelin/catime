@@ -17274,5 +17274,42 @@
     "number": 1075,
     "idea": "以即棄相機風格呈現，畫面分割為二：一側是柔和蝴蝶光下，一隻貓咪在北歐風格廚房的淺色木質檯面上，專注地將繽紛野花和漿果分裝進迷你手工籃中；另一側透過大窗戶展現寧靜的峽灣風光，整體畫面帶有紙質肌理和溫潤的粉彩色系。",
     "title": "幸福之花束"
+  },
+  {
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Candlelight",
+      "texture": "Marble",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [
+      "歐洲心臟病學會於2026年3月24日在法國索菲亞安提波利斯發表的一項新研究顯示，睡眠、飲食和體育活動方面的微小綜合改善可顯著降低心血管疾病發作的風險。",
+      "印度在三月慶祝色彩繽紛的荷麗節，這個「色彩節」期間，人們會互相潑灑彩粉，象徵春天的到來及正義戰勝邪惡。",
+      "在南非約翰尼斯堡舉行的LIV高爾夫錦標賽於2026年3月23日圓滿落幕，吸引超過10萬名球迷入場，創下南非職業高爾夫賽事史上最高入場人數紀錄。",
+      "美國威斯康辛州綠灣的一則溫馨故事指出，一位76歲的退休教師Terry Lowerman自2026年1月起，定期在安全港寵物收容所與貓咪們一起午睡，為牠們帶來慰藉。"
+    ],
+    "prompt": "Chalk art illustration on a dark green slate blackboard. A serene street cat, its fur dusted with vibrant neon fluorescent Holi powder in electric pink, lime green, and hot cyan, curls up peacefully at the entrance of an old Indian artisan workshop. The scene is illuminated by the warm orange flickering glow of candlelight, casting soft dancing shadows and creating an intimate atmosphere. The cat rests on polished marble steps with natural vein patterns, showing a cool smooth finish. On the workshop wall, a chalk drawing features the Droste effect, a recursive image repeating infinitely, like a self-referential loop, creating a corridor of memories. The entire image has a dusty matte texture with visible hatching strokes of colored chalk. Visually displayed within the chalk art, near the bottom corner: '2026-03-25 20:28 UTC'.",
+    "avoid_list": [
+      "等距/正交投影構圖",
+      "環形燈光",
+      "摺紙紋理/幾何摺痕",
+      "科學研究/實驗室場景",
+      "復古/懷舊色調",
+      "金與黑奢華氛圍",
+      "高對比/戲劇性光影",
+      "宇宙/太空觀測主題",
+      "聚焦/專注凝視的貓",
+      "暖琥珀/金黃秋日色調",
+      "Q版/盲盒藝術風格",
+      "曼陀羅/對稱構圖",
+      "超廣角/魚眼鏡頭視角"
+    ],
+    "comment_id": 4129574242,
+    "idea": "一隻街貓蜷縮在一間印度老城區燭光熠熠的工匠坊入口處，牠的毛髮上沾染著荷麗節後遺留的霓虹粉筆粉末，整個場景以粉筆畫風格呈現，牆上的畫作則巧妙地融入德羅斯特效應。",
+    "story": "經過一天熱鬧的色彩慶典，這隻小貓在微涼的大理石階上尋得一處寧靜。牠的夢境或許仍繽紛絢爛，外頭的世界則在搖曳的燭光中顯得溫柔而神秘，牆上重複的畫面，彷彿是它回憶的迴廊。",
+    "inspiration": "印度在三月慶祝色彩繽紛的荷麗節，這個「色彩節」期間，人們會互相潑灑彩粉，象徵春天的到來及正義戰勝邪惡。",
+    "title": "荷麗餘暉憩",
+    "number": 1076
   }
 ]
