@@ -9621,5 +9621,18 @@
     "status": "success",
     "number": 1064,
     "title": "絨凳舟夢"
+  },
+  {
+    "status": "success",
+    "inspiration": "original",
+    "character": "captain",
+    "season": "spring",
+    "title": "碼頭春望",
+    "character_name": "船長",
+    "number": 1065,
+    "timestamp": "2026-03-25 07:45 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-25_0745_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "is_seasonal": true
   }
 ]

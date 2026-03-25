@@ -16864,5 +16864,42 @@
     "number": 1064,
     "title": "絨凳舟夢",
     "news_inspiration": []
+  },
+  {
+    "comment_id": 4124462735,
+    "prompt": "A large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes, a broad muscular build, and scruffy, untidy, slightly coarse fur. Its LEFT eye is concealed by a natural dark-pigmented fur patch #2B1B0E, while its RIGHT eye is a piercing emerald green #50C878. A prominent V-shaped notch marks its LEFT ear. A faded red #CD5C5C bandana is tied loosely around its neck. It has a white #FFFFFF chest bib and white mitten paws, with a distinctive M-mark on its forehead and a thick, sturdy tail. The cat, embodying the 'Captain', stands firmly on a wooden box at a fishing harbor pier during a spring morning, gazing intently at distant fishing boats heading out to sea, with the sea breeze gently ruffling its fur. The image is rendered as a unique `whiteboard marker drawing on glass` with `slightly faded ink` and a `hand-drawn line art, casual sketch feel`, reminiscent of a `technical illustration style`. The composition uses `orthographic projection, no perspective distortion, straight-on flat rendering`. `Butterfly lighting` illuminates the cat's resolute face, created by an `overhead key light` casting a `symmetrical shadow under nose`, achieving `glamour portrait lighting` with `soft even illumination`. The sea itself has a `translucent resin material` appearance, with `embedded elements visible inside`, a `glossy smooth surface`, and `amber-like clarity`. The overall `color scheme` is `gold and black`, conveying an `opulent mood` with `luxurious metallic gold accents` against a `deep black background`. The date and time '2026-03-25 07:45 UTC' MUST be visibly displayed within the image.",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Butterfly Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "春日的清晨，港口老大船長如往常般巡視碼頭，牠那隻銳利的翠綠色右眼，望著一艘艘駛向深藍的漁船，彷彿重溫著年輕時乘風破浪的歲月。海風吹動牠褪色的紅色頭巾，帶著鹹濕的氣息，牠寬厚的背影，無聲地守護著這片水域的貓群與寧靜。",
+    "inspiration": "original",
+    "character": "captain",
+    "season": "spring",
+    "news_inspiration": [],
+    "title": "碼頭春望",
+    "character_name": "船長",
+    "number": 1065,
+    "avoid_list": [
+      "專注於精細作業的貓咪",
+      "微縮場景或模型",
+      "碳纖維材質元素",
+      "充氣PVC材質元素",
+      "霓虹螢光或冷色調光芒",
+      "德羅斯特效應或遞迴影像",
+      "閃光燈直打與高光過曝",
+      "扁平向量插圖風格",
+      "復古攝影或膠片顆粒感",
+      "背光與輪廓光效果",
+      "超廣角或魚眼鏡頭",
+      "雙色調配色方案",
+      "廢棄場所設定",
+      "衍紙藝術元素"
+    ],
+    "idea": "以白板記號筆畫的獨特風格，結合正交投影構圖，描繪船長以牠結實的身軀，站立於漁港碼頭邊的木箱上。在金色與黑色奢華的色彩映襯下，海面呈現透明樹脂般的質感，海風輕拂著牠蓬亂的毛髮，以蝴蝶光聚焦於其堅毅面容，銳利地凝視著遠方出海的漁船。",
+    "is_seasonal": true
   }
 ]
