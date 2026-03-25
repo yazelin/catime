@@ -17055,5 +17055,42 @@
       "衍紙藝術元素"
     ],
     "story": "在一個寧靜的芬蘭秋日午後，湖畔桑拿房的休息區內，一隻豐滿的橘色虎斑貓享受著來自落地窗的金色陽光。牠將身體蜷縮成一團，埋首於軟毛之間，沉浸在深沉而幸福的午憩中，溫暖的琥珀色光線勾勒出牠安詳的輪廓，為畫面增添了無盡的靜謐與滿足。"
+  },
+  {
+    "avoid_list": [
+      "等距構圖",
+      "直打閃光燈與硬影",
+      "微縮場景",
+      "貓咪藝術家/職人主題",
+      "黃金時刻光線",
+      "冰霜/結晶紋理",
+      "雙色調藝術風格",
+      "漂浮/懸浮場景",
+      "單色調呈現",
+      "溫暖木質元素",
+      "經典三點打光",
+      "暖琥珀/秋日色調",
+      "自然抓拍感"
+    ],
+    "story": "在這座古老卻充滿未來感的圓形天文台核心，光線從曼陀羅桌底散發，將貓咪的身影勾勒出神秘的輪廓。牠彷彿跨越時空的研究者，將來自宇宙深處的摺紙分子序列，排列成揭示生命起源的宇宙拼圖，每一觸碰都充滿著對未知的探索。",
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Symmetrical Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Origami",
+      "color_palette": "Retro Faded Tones"
+    },
+    "prompt": "Mandala art style illustration. A focused cat, presented as a dramatic, backlit silhouette with glowing rim light, meticulously arranging intricate origami-textured molecular models on a giant, luminous analysis table. The molecular models, representing genetic code from the Ryugu asteroid, exhibit clean geometric creases and a precise paper sculpture aesthetic. The analysis table is designed in a complex circular mandala pattern, featuring radial symmetry, intricate concentric geometric patterns, and a meditative sacred geometry feel, from which the light emanates. The overall composition is perfectly symmetrical, with the cat centered and framed by subtle architectural elements, creating a mirror-like balance. The entire scene is rendered in a retro faded color palette, with washed-out vintage tones, low contrast, and nostalgic film-era warmth. Visually displayed within the image: '2026-03-25 12:40 UTC'.",
+    "number": 1070,
+    "news_inspiration": [
+      "美國休士頓的貝勒醫學院研究人員揭示了二甲雙胍在腦部作用的隱藏途徑，為糖尿病治療開闢新方向。",
+      "科學家在太平洋的克拉里昂-克利珀頓區發現了24種新的深海兩棲類物種，其中包括一個全新的超科，此研究由波蘭羅茲大學與英國國家海洋學中心共同主導。",
+      "瑞典在3月25日慶祝全國鬆餅日，這是一個充滿風味和文化的節日。",
+      "科學家在從小行星「龍宮」的樣本中發現了生命的遺傳密碼，這項全球性的發現揭示了太陽系中富含碳的小行星含有多樣的益生元化學物質。"
+    ],
+    "comment_id": 4126299946,
+    "idea": "在「曼陀羅藝術」風格下，一隻貓在復古褪色調的對稱構圖中，背光剪影被強調，牠正專注地在一座巨大、發光的曼陀羅圖案分析桌上，用爪子細心排列著以「摺紙」紋理呈現的分子模型，這些模型代表著從小行星「龍宮」樣本中提取的生命遺傳密碼。",
+    "title": "星塵解碼者",
+    "inspiration": "科學家在從小行星「龍宮」的樣本中發現了生命的遺傳密碼，這項全球性的發現揭示了太陽系中富含碳的小行星含有多樣的益生元化學物質。"
   }
 ]
