@@ -16759,5 +16759,44 @@
     "story": "瑞典全國鬆餅日，這隻名叫「卡爾」的貓咪是小鎮「卡特蘭」（Kattland）貓咪咖啡館的「鬆餅學徒」。牠以巧手將紙藝鬆餅一一擺放整齊，準備迎接春日訪客。旁邊還有另一隻貓咪正在偷吃「紙藝果醬」，為這幅畫面增添了幾分俏皮的生動氣息。",
     "title": "紙藝鬆餅學徒",
     "comment_id": 4122469579
+  },
+  {
+    "story": "金色的夕陽透過弧形窗戶灑進寧靜的餐廳，貓咪毛髮的3D質感在柔光中顯得格外細膩。牠熟練地將莫蘭迪色的菜單推向顧客，似乎在說：「請享受這場探索味蕾與心靈的旅程。」這一切都被魚眼鏡頭捕捉，並以雙重曝光手法將用餐者之間微妙的連結疊加在其中。",
+    "number": 1062,
+    "inspiration": "中國北京、上海和廣州等主要城市興起一種名為「盲選用餐」的趨勢，讓年輕人與陌生人共進餐點，體驗新奇的社交方式。",
+    "comment_id": 4123083396,
+    "title": "盲選之邀",
+    "idea": "雙重曝光藝術風格下，在莫蘭迪色調的盲選用餐實驗餐廳內，一隻優雅的貓咪以魚眼鏡頭廣角呈現，於黃金時刻柔和光線中，輕柔地用爪子推動一張設計簡約的菜單卡，向一位戴著眼罩的顧客介紹餐點，背景模糊地疊影著陌生人互動的場景，所有元素皆以3D渲染質感呈現。",
+    "prompt": "\"2026-03-25 04:09 UTC\" visually displayed within the image. A polished 3D render in the Cinema 4D aesthetic, showcasing an elegant cat gently pushing a design-minimalist menu card with its paw towards a blindfolded customer in a Morandi muted color palette blind-tasting experimental restaurant. The scene is captured with a fisheye wide-angle lens, exhibiting strong barrel distortion, an exaggerated foreground, and a 360-degree feel. Golden hour lighting casts a warm sunset glow, creating long soft shadows and a golden rim light on the cat, highlighting its smooth 3D textured fur. The entire image employs a double exposure effect, with two overlapping images blended with ethereal transparency; the background subtly features blurred silhouettes of strangers interacting, adding to the quiet elegance. All elements are rendered with smooth materials and clean geometry, bathed in soft global illumination, adhering to a Morandi muted color palette of desaturated soft pastels and dusty grey undertones.",
+    "news_inspiration": [
+      "中國北京、上海和廣州等主要城市興起一種名為「盲選用餐」的趨勢，讓年輕人與陌生人共進餐點，體驗新奇的社交方式。",
+      "日本川崎與大阪的富士通公司與大阪大學共同開發了一項新技術，旨在加速早期容錯量子電腦在化學材料能量計算方面的工業應用。",
+      "在美國芝加哥的WNDR博物館，為迎接春天的到來，舉辦了一場適合全家參與的裝置藝術主題尋寶遊戲。",
+      "一支國際研究團隊在非洲尼日爾的撒哈拉沙漠中，發現了一種名為「奇異棘龍」的全新恐龍物種，其頭部帶有巨大的劍狀骨冠。",
+      "美國費城國際機場在全國起司牛排日成功創造了金氏世界紀錄，排出了由1,291份起司牛排組成的最長隊伍。"
+    ],
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Fisheye Lens",
+      "lighting": "Golden Hour",
+      "texture": "3D Render",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "貓咪專注校準/修復精密儀器",
+      "倫勃朗光與45度角單一光源",
+      "霓虹燈光與都市夜間氛圍",
+      "冷藍青色螢光與冰冷色調",
+      "碳纖維材質與光澤透明塗層",
+      "織品/布料質感與可見線材",
+      "德羅斯特效應與遞迴影像",
+      "復古褪色色調與膠片顆粒",
+      "金黑配色與奢華工業風",
+      "分割畫面構圖",
+      "貓咪輕觸/探測物件",
+      "廢棄場景設定",
+      "高科技微型實驗室/裝置",
+      "俯瞰視角與Knolling物件排列"
+    ]
   }
 ]
