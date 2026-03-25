@@ -9708,5 +9708,16 @@
     "status": "success",
     "inspiration": "科學家在日本（JAXA）的「隼鳥2號」小行星樣本中，發現了構成生命基因密碼的全部五種核鹼基。",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-25_1841_UTC.webp",
+    "character": "mochi",
+    "inspiration": "original",
+    "title": "貓咪日常",
+    "character_name": "麻糬",
+    "status": "success",
+    "timestamp": "2026-03-25 18:41 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1074
   }
 ]
