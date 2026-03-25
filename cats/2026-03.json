@@ -17092,5 +17092,39 @@
     "idea": "在「曼陀羅藝術」風格下，一隻貓在復古褪色調的對稱構圖中，背光剪影被強調，牠正專注地在一座巨大、發光的曼陀羅圖案分析桌上，用爪子細心排列著以「摺紙」紋理呈現的分子模型，這些模型代表著從小行星「龍宮」樣本中提取的生命遺傳密碼。",
     "title": "星塵解碼者",
     "inspiration": "科學家在從小行星「龍宮」的樣本中發現了生命的遺傳密碼，這項全球性的發現揭示了太陽系中富含碳的小行星含有多樣的益生元化學物質。"
+  },
+  {
+    "title": "鈴音逐閃",
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "character": "lingling",
+    "idea": "以3D Q版/盲盒藝術風格呈現，從鳥瞰視角俯視鈴鈴。她在一片冰冷的混凝土花店儲物區裡，正全神貫注地撥弄一顆閃閃發光的金屬鈕扣，環形燈光將她的純白毛髮與鈕扣的光澤襯托得格外鮮明，整個畫面以黑白單色調呈現。",
+    "number": 1071,
+    "prompt": "A 3D chibi blind box character, C4D rendering, smooth plastic toy texture, cute Q-version, presented with a miniature world effect. The subject is Lingling, an extremely fluffy pure white longhair cat, Ragdoll-like with voluminous cloud-like fur. She has a small round face nearly hidden in her fur, huge round sapphire-blue #0F52BA eyes occupying approximately one-third of her face with a gentle sparkle, pale pink #FFB6C1 nose and inner ears. Around her neck is a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell clearly visible and centered beneath the bow knot. She has an enormous feathery white plume tail, and pink paw pads are occasionally visible through her fur. Lingling is captured from a strict bird's-eye view, a top-down perspective looking straight down, as she crouches low, her round body pressed down, one pink paw pad gently extended towards a single, gleaming metallic button. The scene is set in a cold, industrial, raw concrete storage area of a flower shop, featuring a brutalist aesthetic, rough aggregate surface, and industrial minimalism. The lighting is dominated by strong ring light illumination, creating dramatic highlights on Lingling's pure white fur and the metallic button, producing a prominent circular catchlight in her eyes, with dramatic shadows contributing to a high contrast. The entire image is rendered in black and white monochrome with a rich tonal range. Visually displayed within the image: '2026-03-25 14:10 UTC'.",
+    "avoid_list": [
+      "等距構圖",
+      "直打閃光燈與硬影",
+      "微縮場景",
+      "貓咪藝術家/職人主題",
+      "黃金時刻光線",
+      "冰霜/結晶紋理",
+      "雙色調藝術風格",
+      "漂浮/懸浮場景",
+      "單色調呈現",
+      "溫暖木質元素",
+      "經典三點打光",
+      "暖琥珀/秋日色調",
+      "自然抓拍感"
+    ],
+    "comment_id": 4126927447,
+    "story": "好奇的鈴鈴溜進花店後方，一處舖滿冰冷混凝土的儲物區。她被地面上反射著環形燈光的金屬鈕扣吸引，圓滾滾的身子壓低，粉紅肉球輕輕探出，準備撲向那個亮晶晶的小玩意，脖子上的鈴鐺隨著微小的動作發出清脆的輕響。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Bird's-Eye View",
+      "lighting": "Ring Light",
+      "texture": "Concrete",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "news_inspiration": []
   }
 ]
