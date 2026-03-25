@@ -16720,5 +16720,44 @@
       "澳洲科學家在量子電池領域取得了突破性進展，展示了世界上首個量子電池的概念驗證，有望實現設備的超快速充電和遠距離充電。",
       "中國大連化學物理研究所的科學家開發出一種新型催化劑，能高效將二氧化碳轉化為甲醇燃料，為碳循環利用提供新途徑。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Direct Flash",
+      "texture": "Paper Quilling",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "2026-03-25 01:10 UTC visually displayed. A fluffy domestic cat named Karl, captured in a wet plate collodion photograph with a vintage tintype look, dark edges, and imperfections. The scene, arranged in a precise isometric composition, shows Karl meticulously placing intricate Paper quilling art 'waffles' onto a rustic kitchen countertop. These 'waffles' feature clean geometric forms, delicate curling loops, intricate coiled paper strips, and soft pastel colors, creating a 3D dimensional ornament effect. A second cat is visible, secretly nibbling on paper quilling 'jam' nearby. The photograph is characterized by a harsh direct on-camera flash, creating stark blown-out highlights, hard shadows, and a raw, candid snapshot feel. The overall image, though rendered with a silver-toned monochrome aesthetic, subtly incorporates an earth tone palette of terracotta, olive green, and warm brown, evoking a natural organic harmony and unique still life beauty.",
+    "avoid_list": [
+      "貓咪專注校準/修復精密儀器",
+      "倫勃朗光與45度角單一光源",
+      "霓虹燈光與都市夜間氛圍",
+      "冷藍青色螢光與冰冷色調",
+      "碳纖維材質與光澤透明塗層",
+      "織品/布料質感與可見線材",
+      "德羅斯特效應與遞迴影像",
+      "復古褪色色調與膠片顆粒",
+      "金黑配色與奢華工業風",
+      "分割畫面構圖",
+      "貓咪輕觸/探測物件",
+      "廢棄場景設定",
+      "高科技微型實驗室/裝置",
+      "俯瞰視角與Knolling物件排列"
+    ],
+    "news_inspiration": [
+      "在加拿大維多利亞大學和美國明尼蘇達大學的合作下，科學家們利用超級電腦模擬，揭示了紅巨星內部物質如何到達表面的數十年之謎，關鍵在於恆星自轉。",
+      "瑞典於3月25日慶祝全國鬆餅日，各地民眾紛紛品嚐美味的鬆餅，迎接春天的到來。",
+      "日本東京都市大學的研究人員解決了一個長期以來的科學難題，發現泡沫中的液體比理論預測更快排出是因為氣泡本身會重新排列。",
+      "美國賓夕法尼亞州匹茲堡市於3月25日舉行NCAA第二級男子籃球錦標賽的八強賽。",
+      "委內瑞拉鋼琴家愛德華·西蒙於3月24日推出新專輯《委內瑞拉：拉丁美洲歌本第二輯》，專輯內容主要聚焦於他家鄉的音樂文化。"
+    ],
+    "idea": "一隻毛茸茸的家貓，以濕版攝影的細緻風格捕捉，正精心將衍紙藝術風格的「鬆餅」擺放在一個等距構圖的鄉村廚房檯面上，閃光燈直打的光線映照出大地色系的柔和光影，整體呈現仿若靜物畫般的獨特美感。",
+    "number": 1061,
+    "inspiration": "瑞典於3月25日慶祝全國鬆餅日，各地民眾紛紛品嚐美味的鬆餅，迎接春天的到來。",
+    "story": "瑞典全國鬆餅日，這隻名叫「卡爾」的貓咪是小鎮「卡特蘭」（Kattland）貓咪咖啡館的「鬆餅學徒」。牠以巧手將紙藝鬆餅一一擺放整齊，準備迎接春日訪客。旁邊還有另一隻貓咪正在偷吃「紙藝果醬」，為這幅畫面增添了幾分俏皮的生動氣息。",
+    "title": "紙藝鬆餅學徒",
+    "comment_id": 4122469579
   }
 ]
