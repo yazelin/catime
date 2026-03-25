@@ -16978,5 +16978,44 @@
       "廢棄場所設定",
       "衍紙藝術元素"
     ]
+  },
+  {
+    "inspiration": "阿拉伯聯合大公國杜拜正運營著全球最大的室內垂直農場ECO 1，以95%的節水效率種植蔬菜。",
+    "news_inspiration": [
+      "芬蘭再次被評為世界上最幸福的國家，此為其在全球幸福報告中持續領先的趨勢。",
+      "在非洲烏干達，犀牛在消失40多年後，已成功重返家園，象徵著重要的保育里程碑。",
+      "美國一位殘奧單板滑雪選手麥克·舒爾茨（Mike Schultz）所設計的義肢，現正被25位運動員在義大利的比賽中使用。",
+      "阿拉伯聯合大公國杜拜正運營著全球最大的室內垂直農場ECO 1，以95%的節水效率種植蔬菜。",
+      "澳洲雪梨的同志狂歡節（Mardi Gras）於二月至三月上旬舉行，是全球規模最大的同類型慶典之一，充滿活力與色彩。"
+    ],
+    "prompt": "A real captured photograph, perfectly isometric in composition, rendered as a high-contrast cyanotype print. The image features an agile cat, an unofficial farm patrol, intently inspecting rows of lush green crops within a colossal indoor vertical farm in Dubai. The cat is walking along a walkway constructed from natural wood, its grain, knots, and organic tactile surface distinctly visible. The photograph showcases Prussian blue monochrome tones, a sun-exposed paper effect, and a blueprint aesthetic, with dramatic shadows and highlights. Classic three-point lighting is used: a key light with soft shadows, a fill light, and a subtle rim light for separation, accentuating both the warm wood textures and the high-tech layers of the farm. The scene has no miniature effect. The date and time '2026-03-25 10:38 UTC' are visually displayed in the image.",
+    "avoid_list": [
+      "專注於精細作業的貓咪",
+      "微縮場景或模型",
+      "碳纖維材質元素",
+      "充氣PVC材質元素",
+      "霓虹螢光或冷色調光芒",
+      "德羅斯特效應或遞迴影像",
+      "閃光燈直打與高光過曝",
+      "扁平向量插圖風格",
+      "復古攝影或膠片顆粒感",
+      "背光與輪廓光效果",
+      "超廣角或魚眼鏡頭",
+      "雙色調配色方案",
+      "廢棄場所設定",
+      "衍紙藝術元素"
+    ],
+    "idea": "一隻貓咪在杜拜巨型室內垂直農場中，沿著木紋結構搭建的走道，以藍曬法等距攝影風格，專注巡視著翠綠的作物。",
+    "comment_id": 4125472098,
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Isometric Photography",
+      "lighting": "Three-Point Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "這隻敏捷的貓咪是農場的非官方巡邏員，牠的身影在整齊排列的作物間穿梭，確保每一株植物都生長良好。透過精準的三點打光，木紋的溫潤質感與垂直農場的高科技層次感在藍白單色調中清晰呈現，捕捉了這座綠色奇蹟與其獨特居民的和諧共處。",
+    "number": 1068,
+    "title": "藍圖農緣"
   }
 ]
