@@ -17958,5 +17958,39 @@
       "texture": "Frosted Glass",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "comment_id": 4138001754,
+    "inspiration": "original",
+    "number": 1094,
+    "idea": "雙重曝光的藝術風格下，一隻虎斑貓在廢棄列車車廂內，透過鏡子自拍構圖，專注操作老式火腿無線電設備。場景以暖鏽橘與橄欖綠雙色調呈現，3D渲染的精緻紋理與三點打光營造出深邃寫實感。",
+    "story": "在無盡荒野中的一節舊式列車車廂裡，一隻薑黃色的虎斑貓，耐心而專注地調整著笨重的火腿無線電旋鈕，試圖捕捉遠方微弱的訊號。雙重曝光的效果疊加了摩斯電碼的幽靈影像，暗示著超越空間的無聲對話。牠透過磨損的鏡面映照出自己專注的臉龐，彷彿在紀錄這份獨特的孤獨與使命。",
+    "title": "荒野通訊",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "3D Render",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "Knolling 排列攝影與網格佈局",
+      "倫勃朗光與明暗對比",
+      "黑光紫外線照明與螢光光芒",
+      "復古褪色調與懷舊氛圍",
+      "黃金時刻與輪廓光",
+      "冰冷藍綠色調與冰霜質感",
+      "低多邊形與數位摺紙美學",
+      "遞迴影像與德羅斯特效應",
+      "貓咪專注精準動作",
+      "貓咪凝視窗外/舷窗",
+      "彩色石版印刷與維多利亞海報風格",
+      "等距插圖",
+      "柔和粉彩色調",
+      "高飽和鮮豔色彩",
+      "寫實底片攝影美學"
+    ],
+    "prompt": "A ginger tabby cat, deeply focused, meticulously operating vintage ham radio equipment inside an abandoned train car in a desolate wilderness. The scene is captured through a mirror selfie composition with casual framing and visible reflection, providing an intimate close-up perspective of the cat's face. The image features a dynamic double exposure effect, with two overlapping images blended; the primary image is the cat, while the overlay utilizes ethereal transparency to depict abstract ghost images of Morse code. The visual style is a polished 3D render, showcasing smooth materials, clean geometry, and soft global illumination, characteristic of a Cinema 4D aesthetic. Illumination is provided by a classic three-point lighting setup, incorporating a key light with soft shadows, a gentle fill light, and subtle rim light separation for deep realism. The entire image is presented with a striking duotone color treatment, using only warm rusty orange and olive green, creating a bold graphic impact and modern design feel. The date and time '2026-03-26 20:26 UTC' are visibly displayed as an integral part of the image."
   }
 ]
