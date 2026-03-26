@@ -17624,5 +17624,45 @@
     "is_seasonal": true,
     "character": "captain",
     "prompt": "A 3D isometric illustration with a documentary photography narrative feel, depicting a serene spring dawn at a bustling fishing port. The central figure is 'Captain,' a large, stocky brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes, a broad muscular build, and scruffy, untidy, slightly coarse fur texture. Captain is perched steadfastly on top of a giant, weathered old mooring post, embodying a storytelling composition. Its LEFT eye is permanently concealed by a natural dark-pigmented fur patch (#2B1B0E), not a fabric patch or strap. Its single piercing RIGHT eye is emerald green (#50C878), sharply gazing towards distant fishing boats heading out into the breaking dawn. The LEFT ear has a prominent V-shaped notch. A faded red (#CD5C5C) bandana is tied loosely around its neck and visible. Captain has a white (#FFFFFF) chest bib and white mitten paws on all four feet, and a distinctive M-mark on its forehead. Its thick, sturdy tail is gently stirred by the light sea breeze. The entire scene is bathed in warm amber morning light, with golden yellows and burnt orange tones creating a cozy nostalgic warmth, complemented by soft dancing shadows. The overall environment features soft pastel colors. The sea surface reflects a deep, glossy smooth luster, appearing like translucent resin with amber-like clarity. Clean geometric forms and a polished playful rendering style define the illustration. The date and time '2026-03-26 08:42 UTC' are visually displayed within the image. Spring seasonal theme."
+  },
+  {
+    "number": 1085,
+    "inspiration": "科學家在太平洋的千島海溝深達10公里處發現一個充滿生命的繁盛生態系統，改變了對地球生命的理解。",
+    "prompt": "A digital illustration in a vaporwave aesthetic, depicting an AI cat explorer named 'Neptune' in a minimalist diving suit. The scene is set inside a retro-futuristic deep-sea experimental capsule within the Thousand Islands Trench's neon abyss. The entire composition is presented in a Knolling photography style: a flat lay overhead view showcasing Neptune's data tablet and sampling tools neatly arranged at 90-degree angles in an organized grid layout on a clean surface. Neptune is operating flashing instruments, gazing intently through a large porthole at glowing low-poly deep-sea creatures. These creatures exhibit a Low-poly style with polygon mesh facets, geometric crystalline surfaces, and a digital origami aesthetic. The lighting is dramatic Rembrandt lighting, utilizing a single light source at 45 degrees to create chiaroscuro and a signature triangle of light on Neptune's shadowed cheek. The color palette features high saturation vivid colors, bold vibrant hues, eye-catching contrast, and an energetic mix of pastel pink and cyan gradients, electric blue, and fluorescent pink. The date and time '2026-03-26 09:52 UTC' are visually displayed within the image.",
+    "comment_id": 4133196744,
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Knolling Photography",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Low Poly",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "遞迴/德羅斯特效應",
+      "柔和粉彩色系",
+      "貓咪用爪子細緻擺放",
+      "等距插圖風格",
+      "紀實攝影風格",
+      "分割畫面構圖",
+      "柔和蝴蝶光",
+      "黃金時刻柔光",
+      "自然漫射光",
+      "琥珀色調光芒",
+      "冷色調氛圍",
+      "貓咪凝望窗外/遠方",
+      "貓咪棲息高處",
+      "舊漁港碼頭場景",
+      "窗外寧靜景致"
+    ],
+    "story": "在千島海溝的霓虹深淵，貓咪探險家「海王星」正專注地操作著閃爍的儀器。牠面前的數據平板與採樣工具被精準地排列成Knolling風格，背景透出高飽和的電光藍與螢光粉。牠的凝視穿越舷窗，探索著那些以低多邊形幾何構成的奇異生物，它們是這片新發現繁盛生態系統的居民。",
+    "title": "深海霓虹探秘",
+    "idea": "在「蒸氣波」風格下，一隻穿著簡約潛水服的AI貓，於復古未來主義深海實驗艙內，透過大型舷窗凝視著發光的低多邊形深海生物樣本，整個場景以「Knolling 排列攝影」構圖呈現，並運用「倫勃朗光」及「高飽和鮮豔色」的光影與色彩。",
+    "news_inspiration": [
+      "科學家在太平洋的千島海溝深達10公里處發現一個充滿生命的繁盛生態系統，改變了對地球生命的理解。",
+      "紐西蘭的科學家在懷托摩附近的一座洞穴中發現了百萬年前的化石，其中包括一種可能曾會飛行的奇異鸚鵡祖先，揭示了該國古老的生態系統。",
+      "烏干達成功將犀牛重新引入卡迪波谷國家公園，該物種自1983年以來一直在當地滅絕，這是一項重要的保育成就。",
+      "在日本大阪，一位匿名捐贈者為該市急需更新的管道工程留下了價值數百萬美元的金條，展現了無私的善舉。",
+      "智利成為美洲第一個被世界衛生組織證實已消除痲瘋病的國家，這項成就歸功於數十年來持續的公共衛生努力。"
+    ]
   }
 ]
