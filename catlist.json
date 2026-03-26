@@ -9802,5 +9802,18 @@
     "status": "success",
     "title": "幻彩街影逐緞帶",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "title": "破曉海港，船長守望",
+    "character_name": "船長",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-26_0842_UTC.webp",
+    "season": "spring",
+    "number": 1084,
+    "inspiration": "original",
+    "timestamp": "2026-03-26 08:42 UTC",
+    "is_seasonal": true,
+    "character": "captain"
   }
 ]
