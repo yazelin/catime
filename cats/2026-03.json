@@ -17424,5 +17424,47 @@
       "超廣角/魚眼鏡頭視角"
     ],
     "idea": "一隻毛茸茸的薑黃貓，在點描派風格的光影下，於一個低多邊形、高飽和度的植物園溫室中，將生物發光的幾何形狀植物以Knolling排列攝影的方式精心擺放入多面體玻璃生態箱。"
+  },
+  {
+    "character_name": "墨墨",
+    "story": "墨墨輕輕以爪按在一本插圖精美的古籍上，其金琥珀色的眼眸卻透過窗戶，凝望著黃金時分下被洗滌一新的城市天際線。牠的身姿融入了古老的書香與窗外清新的空氣，彷彿在沉思著知識與自然的和諧共鳴，以一種傲嬌的姿態俯瞰著一切。",
+    "idea": "在一個宏偉的、GTA風格的北京老式圖書館中，等距攝影捕捉墨墨優雅地棲息於高處古老閱讀桌上，以黃金時刻的柔光勾勒出其身形，搭配冷色調的書架與窗外清晰景致，空氣中瀰漫著如冰霜結晶般的潔淨感。",
+    "inspiration": "中國北京的空氣品質顯著改善，過去15年來空氣污染減少了20%到40%。",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Isometric Photography",
+      "lighting": "Golden Hour",
+      "texture": "Frost Crystal",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 1080,
+    "comment_id": 4130880701,
+    "character": "momo",
+    "prompt": "A perfectly isometric illustration in the Grand Theft Auto art style, bold cel-shaded with saturated colors and no miniature effect. Momo, a sleek, slender solid-black #0A0A0A Bombay-style shorthair cat with satin-sheen fur revealing warm brown undertones in direct light, athletic proportions, visible muscle definition, and a slight upward curl at the tail tip. A single small gold hoop earring #FFD700 (3mm) is on her LEFT ear (viewer perspective), positioned at the mid-ear edge, and a tiny natural white locket tuft #FFFFFF on her ventral chest. Her tail tip has a single dark-grey #696969 ring. Her large, luminous golden-amber #D4A017 eyes, like polished amber gems, are calm and attentive, with long prominent white whiskers, gazing through a window. She is elegantly perched on a high, ancient reading table within a grand, old Beijing library, her paw gently resting on an elaborately illustrated ancient book. The library interior features cool blue-teal colored bookshelves and an icy undertone to its crisp atmosphere, with delicate frost patterns, translucent ice shards, and a frozen surface texture conveying a winter crystalline beauty, fostering a serene and calm mood. Golden hour lighting floods the scene, casting a warm sunset glow that provides a golden rim light on Momo and long, soft shadows. Outside the window, a clear view of a freshly washed city skyline with an urban attitude. Visually display the text '2026-03-26 01:16 UTC' prominently in the image.",
+    "news_inspiration": [
+      "巴基斯坦正在經歷一場由民眾主導的太陽能熱潮，有效緩解了中東能源危機帶來的影響。",
+      "中國北京的空氣品質顯著改善，過去15年來空氣污染減少了20%至40%。",
+      "在美國阿拉巴馬州莫比爾市，一位八十歲的兒子與他九十九歲的父親一同走進一家牡蠣酒吧，並根據該店數十年來的承諾，免費享用了牡蠣。",
+      "智利成為美洲第一個經世界衛生組織驗證，已消除麻風病的國家。",
+      "烏克蘭多瑙河三角洲的卡爾塔爾湖濕地生態恢復項目在戰爭中持續進行，為當地帶來了希望。"
+    ],
+    "avoid_list": [
+      "貓咪專注操作微小物體",
+      "環形燈光",
+      "黑白單色調",
+      "高飽和鮮豔色彩",
+      "螢光/霓虹光效",
+      "天文研究場所",
+      "工業/金屬質感環境",
+      "極端視角構圖",
+      "復古舊化質感",
+      "幾何圖案或結構",
+      "摺紙藝術美學",
+      "微縮效果",
+      "高對比度",
+      "劇烈陰影或光影",
+      "視覺時間戳記"
+    ],
+    "title": "卷帙清暉"
   }
 ]
