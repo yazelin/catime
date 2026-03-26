@@ -17466,5 +17466,39 @@
       "視覺時間戳記"
     ],
     "title": "卷帙清暉"
+  },
+  {
+    "title": "琥珀地圖夢",
+    "avoid_list": [
+      "貓咪專注操作微小物體",
+      "環形燈光",
+      "黑白單色調",
+      "高飽和鮮豔色彩",
+      "螢光/霓虹光效",
+      "天文研究場所",
+      "工業/金屬質感環境",
+      "極端視角構圖",
+      "復古舊化質感",
+      "幾何圖案或結構",
+      "摺紙藝術美學",
+      "微縮效果",
+      "高對比度",
+      "劇烈陰影或光影",
+      "視覺時間戳記"
+    ],
+    "idea": "這是一幅以漫畫藝術風格繪製的場景：在一間瀰漫著琥珀色自然漫射光的「寰宇探險學會」辦公室裡，一隻薑黃色虎斑貓正專注地用爪子描繪一張攤開的巨大地圖，背景中巨大的充氣PVC地球儀與遞迴/德羅斯特效應的壁畫增添了奇趣。",
+    "news_inspiration": [],
+    "story": "陽光透過窗戶，溫柔地灑落在辦公室的木桌上，為貓咪的探險旅程增添了一絲秋日的溫暖。牠的目光緊鎖地圖上的每一個細節，彷彿正在規劃一場跨越山海的偉大冒險，而一旁人類輕放旅遊手冊的動作，則暗示著這趟旅程或許已近在眼前。",
+    "inspiration": "original",
+    "prompt": "Manga style illustration with clean ink lines and screentone shading. A focused ginger tabby cat, with expressive eyes, uses its paw to trace lines on a large, unfolded world map spread across a wooden desk. The cat is engrossed in planning a grand adventure. The scene is set in a cozy office, implied to be the 'Globetrotting Explorers' Society'. In the background, a massive inflatable PVC globe with a high-gloss, balloon-like surface, puffy rounded forms, and air-filled tension. A wall mural behind features a recursive image, a Droste effect, creating a self-referential loop with a picture within a picture repeating infinitely. Soft, diffused natural light streams gently through a window, providing even illumination with no harsh shadows and an autumn warmth. The overall image has a warm amber color grading, an autumn palette of golden yellows and burnt orange, evoking a cozy, nostalgic warmth with gentle tones. A human hand subtly places a travel guide book nearby, hinting at an imminent journey. The date and time '2026-03-26 04:23 UTC' are visually displayed within the image.",
+    "number": 1081,
+    "comment_id": 4131566747,
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
