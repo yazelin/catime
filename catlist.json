@@ -9961,5 +9961,13 @@
     "url": null,
     "status": "failed",
     "timestamp": "2026-03-27 06:06 UTC"
+  },
+  {
+    "error": "Failed to generate any images - All models failed. Last error: API Error 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 4.661148406s.",
+    "url": null,
+    "timestamp": "2026-03-27 07:52 UTC",
+    "status": "failed",
+    "number": null,
+    "model": "all failed"
   }
 ]
