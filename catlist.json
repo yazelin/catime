@@ -10457,5 +10457,18 @@
     "model": "gemini-3-pro-image-preview",
     "number": 1161,
     "title": "金鱗魅影"
+  },
+  {
+    "inspiration": "original",
+    "character": "mochi",
+    "number": 1162,
+    "timestamp": "2026-03-30 10:05 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "title": "櫻間覓食曲",
+    "is_seasonal": true,
+    "season": "spring",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-30_1005_UTC.webp"
   }
 ]
