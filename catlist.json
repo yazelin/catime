@@ -10496,5 +10496,16 @@
     "status": "failed",
     "error": "Failed to generate any images - All models failed. Last error: No image data in response",
     "url": null
+  },
+  {
+    "status": "success",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "number": 1166,
+    "title": "貓咪日常",
+    "inspiration": "original",
+    "character": "lingling",
+    "timestamp": "2026-03-30 14:20 UTC",
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-30_1420_UTC.webp"
   }
 ]
