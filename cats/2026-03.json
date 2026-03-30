@@ -18183,5 +18183,46 @@
     ],
     "is_seasonal": true,
     "character_name": "墨墨"
+  },
+  {
+    "prompt": "A dynamic, action-captured low-poly illustration with a digital origami aesthetic. The image features sharp foreground subjects against a motion-blurred background, reminiscent of sports panning photography. A large, stocky brown #5C4033 classic tabby cat with bold black #1A1A1A stripes, a muscular build, and scruffy, untidy, slightly coarse fur of uneven lengths, is depicted mid-stride, running intensely. This 'Captain' cat has its LEFT eye concealed by a natural dark-pigmented fur patch #2B1B0E, and its RIGHT eye is a single piercing emerald green #50C878. Its LEFT ear displays a prominent V-shaped notch, and a faded red #CD5C5C bandana is tied loosely around its neck. It has a white #FFFFFF chest bib, white mitten paws on all four feet, a distinctive M-mark on its forehead, and a thick, sturdy tail. The cat is chasing a shining low-poly golden fish, composed of polygon mesh facets and flat shaded triangular faces, its geometric crystalline surface reflecting light. The setting is a rainy neon fishing port alley at night, with puddles on the wet ground forming a mirror selfie composition that clearly reflects the cat's dynamic silhouette. Intimate close-up perspective, with a moody urban night atmosphere. Colorful glowing neon signs are reflected vividly on the wet surfaces. The overall aesthetic is a gold and black color scheme, with luxurious metallic gold accents on the fish and deep black background elements, evoking an opulent mood. Visually displayed in the image: '2026-03-30 08:15 UTC'.",
+    "story": "夜雨中，港口老大的沉穩瞬間被打破。船長銳利的翠綠右眼鎖定了一條從貨箱滑落的金鱗大魚，牠那平日裡威風凜凜的身影，此時正以驚人的速度衝刺。濕漉漉的地面映出斑斕霓虹，將這場追逐化為一幅動感的金色與黑色交織的低多邊形畫卷。",
+    "idea": "在一條下著雨的霓虹漁港巷弄中，以運動追焦風格捕捉船長奔跑追逐一條閃耀低多邊形金魚的瞬間。地面水窪形成鏡子自拍構圖，清晰映照出牠飛速移動的身影。",
+    "news_inspiration": [
+      "歐洲核子研究組織（CERN）的科學家們成功地將鉛原子短暫轉化為黃金原子，實現了煉金術士的夢想，儘管數量極微且壽命極短。",
+      "研究人員在中太平洋的克拉里昂-克利珀頓區（Clarion-Clipperton Zone）發現了24種新的深海兩棲類物種，包括一個全新的超科。",
+      "美國一名男子在與一條近500磅的劍魚搏鬥五小時後成功捕獲，並將其分享給整個城鎮。",
+      "在澳洲墨爾本的蒙巴節（Moomba Festival）上，參賽者穿戴自製飛行裝置跳入雅拉河，參與趣味十足的鳥人拉力賽。"
+    ],
+    "comment_id": 4153144848,
+    "inspiration": "美國一名男子在與一條近500磅的劍魚搏鬥五小時後成功捕獲，並將其分享給整個城鎮。",
+    "character": "captain",
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 1161,
+    "title": "金鱗魅影",
+    "avoid_list": [
+      "專注的貓咪",
+      "日期時間顯示",
+      "極低角度視角",
+      "超廣角魚眼扭曲",
+      "生物發光光效",
+      "體積光線",
+      "雙色調配色",
+      "大地色系",
+      "復古褪色調",
+      "故障藝術效果",
+      "廢棄工業場景",
+      "貓咪操作複雜設備",
+      "輪廓光",
+      "剪影藝術",
+      "彩色玻璃/水晶質感"
+    ]
   }
 ]

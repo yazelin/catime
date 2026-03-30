@@ -10446,5 +10446,16 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-30_0623_UTC.webp",
     "is_seasonal": true,
     "character_name": "墨墨"
+  },
+  {
+    "status": "success",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-30_0815_UTC.webp",
+    "inspiration": "美國一名男子在與一條近500磅的劍魚搏鬥五小時後成功捕獲，並將其分享給整個城鎮。",
+    "timestamp": "2026-03-30 08:15 UTC",
+    "character_name": "船長",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1161,
+    "title": "金鱗魅影"
   }
 ]
