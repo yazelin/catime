@@ -18523,5 +18523,43 @@
     "story": "這隻名叫「舵手」的緬因貓，正為全球鯊魚保育會議準備最新的海域資料。牠以專業的姿態，標示著新設立的保護措施範圍，確保海洋深處的棲息地得以安全。窗外，港口波光粼粼，彷彿在為牠的努力低語喝采，其毛髮與地圖的帆布紋理在光影下尤其鮮明。",
     "title": "海圖深思",
     "comment_id": 4157331361
+  },
+  {
+    "avoid_list": [
+      "專注於某物/活動的貓咪",
+      "金色與黑色主題配色",
+      "奢華金屬金色點綴",
+      "深黑色背景",
+      "霓虹燈光下的城市夜景",
+      "反射光影/濕地反光",
+      "微縮模型/玩具般視角",
+      "手機隨拍風格",
+      "光滑/簡潔的黑貓或短毛貓外觀",
+      "體積光/丁達爾光效",
+      "幾何形狀/碎片化藝術風格",
+      "夢幻玻璃/水晶般質感",
+      "圖像中顯示日期與時間"
+    ],
+    "number": 1171,
+    "idea": "在一個古老且佈滿皮革的蒸汽龐克風格觀測工作室裡，一隻波斯貓正透過熱成像風格的視角，以超廣角構圖精準校準一台複雜的「復生」裝置，其機械零件散發著粉彩色系的生物發光，呈現柔和的熱感漸變。",
+    "comment_id": 4157732137,
+    "story": "這隻毛髮在熱成像中呈現柔和粉彩光芒的波斯貓，專注地調整著數個皮革裝飾的黃銅槓桿，而導管內流動著粉彩色系的生物光。空氣中瀰漫著舊皮革和金屬的氣味，突然，旁邊一件原本靜止的自動機，發出了預料之外的強烈粉彩熱成像光芒，彷彿從沉睡中甦醒，貓咪的爪子在撥盤上凝固了片刻。",
+    "inspiration": "在印度比哈爾邦的Konchi村，74歲的Mohan Lal在他自己的葬禮上甦醒並開始參與儀式，震驚了所有出席者。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Bioluminescence",
+      "texture": "Leather",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "機械甦醒之儀",
+    "prompt": "Ultra wide angle 12-18mm lens thermal imaging style photograph of a fluffy Persian cat. The cat, seen through an infrared vision filter with its fur exhibiting a soft pastel heat map color gradient (gentle pink, lavender, mint, baby blue), precisely calibrates a complex 'resurrection' device in an ancient, genuine leather-clad steampunk observatory workshop. Mechanical parts of the device glow with pastel bioluminescent lighting, displaying a soft heat map color gradient across a red-yellow-blue spectrum. The cat's paw, poised on a brass dial, freezes as a nearby, previously dormant automaton suddenly emits an unexpected, strong pastel thermal imaging glow, signaling its awakening. Dramatic perspective distortion and an expansive field of view capture the steampunk environment with its warm aged patina leather texture and polished brass components. Visually displayed in the image: '2026-03-30 19:47 UTC'.",
+    "news_inspiration": [
+      "智利已成為世界上第二個消除麻風病的國家，自1993年以來沒有當地病例，透過早期發現和廣泛的醫療服務取得成功。",
+      "中國成功測試了一個60米長的充氦高空風力發電系統，在2,000米高空將電力輸送到電網，這可能使風能更高效。",
+      "挪威計劃到2027年全面淘汰快速生長的「渦輪雞」，轉而採用更符合動物福利的品種。",
+      "烏干達在其保護區重新引入犀牛，該物種自1983年以來一直在當地滅絕。",
+      "在印度比哈爾邦的Konchi村，74歲的Mohan Lal在他自己的葬禮上甦醒並開始參與儀式，震驚了所有出席者。"
+    ]
   }
 ]
