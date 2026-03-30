@@ -22,7 +22,11 @@ def _create_genai_client():
     if _GEMINI_WEB_BASE_URL:
         return genai.Client(
             api_key=os.getenv("GEMINI_API_KEY", ""),
-            http_options={"api_version": "v1beta", "base_url": _GEMINI_WEB_BASE_URL},
+            http_options={
+                "api_version": "v1beta",
+                "base_url": _GEMINI_WEB_BASE_URL,
+                "timeout": 120_000,  # 120 秒（Gemini 網頁版回應較慢）
+            },
         )
     return genai.Client()
 
