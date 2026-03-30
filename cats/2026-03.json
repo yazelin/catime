@@ -18417,5 +18417,39 @@
     "story": "一隻可愛的貓咪正在享受美好的一天。",
     "inspiration": "original",
     "comment_id": 4155840797
+  },
+  {
+    "idea": "手機隨拍風格的等距3D插圖，描繪一隻短毛貓咪在充滿霓虹燈光的藝術紡織工作室中，仔細「策劃」著一堆霓虹螢光色的織品樣本，強調織品與貓毛的柔軟質感。",
+    "avoid_list": [
+      "專注的貓咪",
+      "日期時間顯示",
+      "極低角度視角",
+      "超廣角魚眼扭曲",
+      "生物發光光效",
+      "體積光線",
+      "雙色調配色",
+      "大地色系",
+      "復古褪色調",
+      "故障藝術效果",
+      "廢棄工業場景",
+      "貓咪操作複雜設備",
+      "輪廓光",
+      "剪影藝術",
+      "彩色玻璃/水晶質感"
+    ],
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Neon Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "這隻好奇的橘貓是工作室裡非官方的「創意總監」。牠正用肉掌輕撥著不同質感的布料，將最鮮豔、觸感最佳的螢光色樣本推向一堆，似乎在為下一季的設計挑選靈感。霓虹燈光映照下，牠的動作顯得格外專注，彷彿每一個選擇都關乎時尚界未來走向，而身旁堆疊的布料則閃爍著迷人的光澤。",
+    "comment_id": 4156266671,
+    "inspiration": "original",
+    "title": "霓虹織夢師",
+    "news_inspiration": [],
+    "number": 1168,
+    "prompt": "A 3D isometric illustration in a polished playful rendering style, depicting an orange short-haired cat meticulously 'curating' a pile of neon fluorescent fabric samples within a vibrant, neon-lit art textile studio. The cat, appearing as an unofficial 'creative director,' gently paws through various textured swatches, pushing the most luminous and tactile samples towards a growing stack, as if selecting inspiration for a future design collection. The scene has a casual composition, reminiscent of a smartphone snapshot, capturing an authentic, focused everyday moment. The studio environment features clean geometric forms and is bathed in a moody urban night atmosphere, illuminated by prominent neon lighting and colorful glowing signs, creating reflections on surrounding surfaces. The fabric samples showcase a woven texture with visible threads, a tactile soft appearance, and glow brightly in electric pink, lime green, and hot cyan against a darker background, emphasizing the softness of both the fabrics and the cat's fur. The timestamp '2026-03-30 16:12 UTC' is visually displayed in the image."
   }
 ]
