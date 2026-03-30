@@ -10433,5 +10433,18 @@
     "timestamp": "2026-03-30 04:36 UTC",
     "status": "failed",
     "number": null
+  },
+  {
+    "inspiration": "日本京都Capella酒店於櫻花盛開之際開幕，融合傳統與現代設計，為遊客提供獨特體驗。",
+    "timestamp": "2026-03-30 06:23 UTC",
+    "status": "success",
+    "season": "spring",
+    "title": "金珀窗櫻雨",
+    "character": "momo",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1160,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-30_0623_UTC.webp",
+    "is_seasonal": true,
+    "character_name": "墨墨"
   }
 ]
