@@ -10488,5 +10488,13 @@
     "inspiration": "在愛爾蘭的鄉村海岸線，遊客現在有機會入住改建後的燈塔，體驗獨特的住宿風格。",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-30_1251_UTC.webp",
     "timestamp": "2026-03-30 12:51 UTC"
+  },
+  {
+    "number": null,
+    "timestamp": "2026-03-30 13:32 UTC",
+    "model": "all failed",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "url": null
   }
 ]
