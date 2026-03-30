@@ -10,6 +10,32 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+# ── gemini-web 自架 API 支援 ──
+# 設定 GEMINI_WEB_BASE_URL 環境變數即可將所有 API 呼叫導向自架的 gemini-web 服務
+# 例如：GEMINI_WEB_BASE_URL=https://ching-tech.ddns.net/gemini-web
+_GEMINI_WEB_BASE_URL = os.getenv("GEMINI_WEB_BASE_URL")
+
+
+def _create_genai_client():
+    """建立 google-genai client（支援自架 gemini-web API）"""
+    from google import genai
+    if _GEMINI_WEB_BASE_URL:
+        return genai.Client(
+            api_key=os.getenv("GEMINI_API_KEY", ""),
+            http_options={"api_version": "v1beta", "base_url": _GEMINI_WEB_BASE_URL},
+        )
+    return genai.Client()
+
+
+def _patch_nanobanana():
+    """將 nanobanana-py 的 API 端點導向自架 gemini-web 服務"""
+    if _GEMINI_WEB_BASE_URL:
+        import nanobanana_py.image_generator
+        nanobanana_py.image_generator.API_BASE_URL = _GEMINI_WEB_BASE_URL + "/v1beta/models"
+
+
+_patch_nanobanana()
+
 SUMMARY_PROMPT = (
     "You are analyzing recent AI-generated cat image prompts to identify repetitive patterns.\n\n"
     "Here are the most recent prompts and stories:\n{entries}\n\n"
@@ -151,7 +177,7 @@ def _filter_styles_with_ai(styles: dict, avoid_list: list[str]) -> dict[str, set
     try:
         from google import genai
 
-        client = genai.Client()
+        client = _create_genai_client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=STYLE_FILTER_PROMPT.format(avoid_list=avoid_text, style_options=style_options),
@@ -545,7 +571,7 @@ def maybe_update_creative_notes(cat_number: int) -> dict:
     try:
         from google import genai
 
-        client = genai.Client()
+        client = _create_genai_client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=SUMMARY_PROMPT.format(entries=entries_text),
@@ -578,7 +604,7 @@ def fetch_news_inspiration() -> list[str]:
         from google import genai
         from google.genai import types
 
-        client = genai.Client()
+        client = _create_genai_client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=NEWS_PROMPT,
@@ -674,7 +700,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
     try:
         from google import genai
 
-        client = genai.Client()
+        client = _create_genai_client()
         idea_input = IDEA_PROMPT.format(news_section=news_section, avoid_section=avoid_section, style_section=style_section)
         if character_idea_section:
             idea_input = character_idea_section + "\n" + idea_input

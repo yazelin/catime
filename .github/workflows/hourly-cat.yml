@@ -29,6 +29,7 @@ jobs:
       - name: Generate cat and update repo
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_WEB_BASE_URL: ${{ secrets.GEMINI_WEB_BASE_URL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NANOBANANA_MODEL: gemini-3-pro-image-preview
           NANOBANANA_TIMEOUT: '240'
