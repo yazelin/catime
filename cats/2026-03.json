@@ -18307,5 +18307,45 @@
       "texture": "Marble",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "news_inspiration": [
+      "在紐西蘭，一場豐收的漿果季讓當地奇特的卡卡波鸚鵡進入了罕見的求偶狀態，展現出可愛的一面。",
+      "在愛爾蘭的鄉村海岸線，遊客現在有機會入住改建後的燈塔，體驗獨特的住宿風格。",
+      "美國波士頓將一所舊學校改造成為LGBTQ+老年人的經濟適用房綜合體，提供包容性的居住環境。",
+      "在智利發現了一種新的汽船鴨物種，為科學界帶來了令人興奮的生物多樣性新發現。",
+      "印度總理納倫德拉·莫迪在北方邦的杰瓦爾為諾伊達國際機場揭幕，預計將促進該地區的旅遊和經濟發展。"
+    ],
+    "avoid_list": [
+      "專注的貓咪",
+      "日期時間顯示",
+      "極低角度視角",
+      "超廣角魚眼扭曲",
+      "生物發光光效",
+      "體積光線",
+      "雙色調配色",
+      "大地色系",
+      "復古褪色調",
+      "故障藝術效果",
+      "廢棄工業場景",
+      "貓咪操作複雜設備",
+      "輪廓光",
+      "剪影藝術",
+      "彩色玻璃/水晶質感"
+    ],
+    "number": 1164,
+    "inspiration": "在愛爾蘭的鄉村海岸線，遊客現在有機會入住改建後的燈塔，體驗獨特的住宿風格。",
+    "idea": "一張手機隨拍的畫面，捕捉到一隻黑貓在愛爾蘭海岸改建後的燈塔住宿中，透過一架古老的黃銅望遠鏡，專注凝視著窗外，望遠鏡的反射與窗景形成遞迴效果，光線以電影感打光呈現霓虹螢光色調，望遠鏡表面帶有冰霜結晶般的細膩紋理。",
+    "comment_id": 4154836966,
+    "prompt": "A candid smartphone snapshot capturing a sleek black cat, its gaze intently focused, looking through an antique brass telescope from a window inside a cozy, converted lighthouse accommodation on the rugged Irish coast at night. The view through the telescope's eyepiece displays a profound recursive image, a Droste effect where the vast coastal landscape and the lighthouse tower repeat infinitely within the reflection, a self-referential loop. The brass surface of the telescope is intricately detailed with delicate frost patterns and ice crystal formation, giving it a frozen surface texture, with translucent ice shards catching the light. The scene is bathed in dramatic cinematic lighting, featuring volumetric light rays and deep shadows. Neon fluorescent colors, including electric pink, hot cyan, rich blues, and deep purples, cast an ethereal glow against the dark interior, creating a high dynamic range and film-quality mood. The casual composition mimics an authentic everyday moment, captured with a wide-angle lens at a low aperture (e.g., f/1.8), creating a shallow depth of field with subtle grain. The focus is sharp on the cat and telescope. Visually overlaid in the upper corner: '2026-03-30 12:51 UTC'.",
+    "title": "塔燈凝視",
+    "story": "夜幕低垂，在愛爾蘭海岸燈塔改建的獨特房間裡，一隻黑貓輕巧地躍上窗邊，將目光投向那架擦拭得發亮的黃銅望遠鏡。牠的凝視彷彿穿透了鏡片，窗外遼闊的海岸線與塔樓在鏡筒內層層疊疊地重複，形成迷人的遞迴畫面。室內設計師精心佈置的霓虹燈帶投射出冷冽的藍紫光，將望遠鏡的金屬光澤與窗戶上似冰霜結晶的紋路映襯得神秘而富有電影感。",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Cinematic Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
