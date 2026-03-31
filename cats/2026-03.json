@@ -18890,5 +18890,39 @@
     "title": "書中書的墨色迴廊",
     "prompt": "Manga style illustration with clean ink lines and screentone shading on textured kraft paper, capturing Momo, a sleek solid-black shorthair cat with satin-sheen fur, golden-amber eyes, a tiny white chest tuft, a small gold hoop on her left ear, and a dark-grey ring at her curled tail tip. She is lying on an ancient book in a Morandi-toned old bookstore. The book cover features a Droste effect illustration of Momo herself reading the same book, repeating infinitely. Harsh direct on-camera flash creates blown-out highlights and hard shadows. The date '2026-03-31 08:00 UTC' is visually displayed in the corner. Desaturated soft pastels and dusty grey undertones define the palette.",
     "story": "墨墨在書店高處發現了一本奇特的舊書，書封上的貓竟然長得跟牠一模一樣，且正讀著同樣的書。牠好奇地伸出爪子撥弄書頁，彷彿陷入了一個無止盡的文字迷宮，連閃光燈直打的強光都沒能讓牠移開視線。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Bird's-Eye View",
+      "lighting": "Candlelight",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "inspiration": "original",
+    "news_inspiration": [],
+    "number": 1181,
+    "idea": "以金色與黑色奢華像素藝術風格呈現，從鳥瞰視角捕捉船長在深夜的老舊酒館圓桌上，藉著微弱燭光與一群老鼠進行魚乾賭局。",
+    "story": "即使是碼頭的老大也有放鬆的時候，船長在昏暗的酒館角落展現過人的沉穩，用一疊鮮美的魚乾與對手博弈。亮面塑膠般的像素質感，讓這場深夜的秘密聚會充滿了如玩具般的奢華與童趣。",
+    "character": "captain",
+    "avoid_list": [
+      "貓咪專注操作精密裝置",
+      "日期與時間視覺顯示",
+      "空氣取水或淨水設備",
+      "復古與科技結合的儀器調整",
+      "超廣角鏡頭與透視扭曲",
+      "液態金屬或生物發光流動",
+      "精確的幾何對稱或網格排列",
+      "黃銅羅盤與航海圖室",
+      "皮革與磨砂玻璃的質感細節",
+      "電影感打光與體積光束",
+      "工坊或實驗室的維修場景",
+      "粉彩色系熱成像或漸變",
+      "微縮世界或模型視角"
+    ],
+    "title": "金燦黑夜的甲板賭局",
+    "comment_id": 4161404106,
+    "character_name": "船長",
+    "prompt": "Luxurious pixel art, bird's-eye view looking straight down at a round wooden table in a dimly lit tavern. A large, stocky brown tabby cat with bold black stripes, scruffy coarse fur, and a distinctive M-mark on its forehead sits at the table. The cat has a natural dark-pigmented fur patch covering its left eye socket (no straps) and a single piercing emerald green right eye. A V-shaped notch is in its left ear, a faded red bandana is around its neck, and it has a white chest bib and white mitten paws. The cat is playing a gambling game with a group of rats, using dried fish as betting stakes. The scene features a glossy plastic toy texture with smooth high-shine surfaces. Lighting is provided by a single flickering candle, creating a warm orange glow and soft dancing shadows. The color scheme is opulent gold and black with metallic gold accents. The text '2026-03-31 09:53 UTC' is visually displayed in the corner of the image. Retro 8-bit style, limited color palette, crisp blocky pixels, vinyl figure aesthetic."
   }
 ]
