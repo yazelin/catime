@@ -18850,5 +18850,45 @@
     "story": "在午夜的地下室裡，這隻貓工長正熟練地調整著比牠爪子還小的活塞與連桿。透過冷調的藍青色背光，蒸汽與金屬的質感在雙重曝光的影像中交織，彷彿貓咪本身就是這座微型工業城市的動力來源。",
     "inspiration": "original",
     "title": "藍調軌跡的微縮工程"
+  },
+  {
+    "idea": "在莫蘭迪色調的舊書店中，黑貓墨墨正趴在一本封面印有「貓咪看書」插畫的古籍上，形成層層嵌套的德羅斯特效應，展現簡潔的漫畫風格與紙質肌理。",
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Direct Flash",
+      "texture": "Paper Texture",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 1180,
+    "comment_id": 4160697491,
+    "character": "momo",
+    "news_inspiration": [
+      "日本各地的櫻花紛紛綻放，民眾齊聚公園參與傳統的「花見」活動，共同慶祝春天的到來。",
+      "印度慶祝色彩節（Holi），民眾在街頭互相潑灑彩粉與水，以此歡樂儀式迎接春季並祈求好運。",
+      "瓜地馬拉安地瓜開始為聖週（Semana Santa）做準備，當地居民在殖民風格的街道上鋪設手工花毯藝術。",
+      "科學家在深海發現了24個新物種，包含一個稀有的生命分支，展現了海洋生物多樣性的奇蹟。",
+      "美國底特律老虎隊與亞利桑那響尾蛇隊進行大聯盟賽事，吸引大批棒球迷前往球場感受熱烈的開季氣氛。"
+    ],
+    "avoid_list": [
+      "貓咪專注操作精密裝置",
+      "日期與時間視覺顯示",
+      "空氣取水或淨水設備",
+      "復古與科技結合的儀器調整",
+      "超廣角鏡頭與透視扭曲",
+      "液態金屬或生物發光流動",
+      "精確的幾何對稱或網格排列",
+      "黃銅羅盤與航海圖室",
+      "皮革與磨砂玻璃的質感細節",
+      "電影感打光與體積光束",
+      "工坊或實驗室的維修場景",
+      "粉彩色系熱成像或漸變",
+      "微縮世界或模型視角"
+    ],
+    "title": "書中書的墨色迴廊",
+    "prompt": "Manga style illustration with clean ink lines and screentone shading on textured kraft paper, capturing Momo, a sleek solid-black shorthair cat with satin-sheen fur, golden-amber eyes, a tiny white chest tuft, a small gold hoop on her left ear, and a dark-grey ring at her curled tail tip. She is lying on an ancient book in a Morandi-toned old bookstore. The book cover features a Droste effect illustration of Momo herself reading the same book, repeating infinitely. Harsh direct on-camera flash creates blown-out highlights and hard shadows. The date '2026-03-31 08:00 UTC' is visually displayed in the corner. Desaturated soft pastels and dusty grey undertones define the palette.",
+    "story": "墨墨在書店高處發現了一本奇特的舊書，書封上的貓竟然長得跟牠一模一樣，且正讀著同樣的書。牠好奇地伸出爪子撥弄書頁，彷彿陷入了一個無止盡的文字迷宮，連閃光燈直打的強光都沒能讓牠移開視線。"
   }
 ]

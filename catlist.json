@@ -10624,5 +10624,16 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-31_0610_UTC.webp",
     "inspiration": "original",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-31_0800_UTC.webp",
+    "character_name": "墨墨",
+    "inspiration": "original",
+    "title": "書中書的墨色迴廊",
+    "number": 1180,
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-03-31 08:00 UTC",
+    "character": "momo"
   }
 ]
