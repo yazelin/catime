@@ -179,8 +179,6 @@ def _filter_styles_with_ai(styles: dict, avoid_list: list[str]) -> dict[str, set
     avoid_text = "\n".join(f"- {item}" for item in avoid_list)
 
     try:
-        from google import genai
-
         client = _create_genai_client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
@@ -574,8 +572,6 @@ def maybe_update_creative_notes(cat_number: int) -> dict:
     )
 
     try:
-        from google import genai
-
         client = _create_genai_client()
         response = client.models.generate_content(
             model="gemini-2.5-flash",
@@ -607,7 +603,6 @@ def fetch_news_inspiration() -> list[str]:
     """
     print("Stage 0: Fetching today's news for inspiration...")
     try:
-        from google import genai
         from google.genai import types
 
         client = _create_genai_client()
@@ -704,8 +699,6 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
     title = ""
     inspiration = "original"
     try:
-        from google import genai
-
         client = _create_genai_client()
         idea_input = IDEA_PROMPT.format(news_section=news_section, avoid_section=avoid_section, style_section=style_section)
         if character_idea_section:
