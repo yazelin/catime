@@ -18924,5 +18924,41 @@
     "comment_id": 4161404106,
     "character_name": "船長",
     "prompt": "Luxurious pixel art, bird's-eye view looking straight down at a round wooden table in a dimly lit tavern. A large, stocky brown tabby cat with bold black stripes, scruffy coarse fur, and a distinctive M-mark on its forehead sits at the table. The cat has a natural dark-pigmented fur patch covering its left eye socket (no straps) and a single piercing emerald green right eye. A V-shaped notch is in its left ear, a faded red bandana is around its neck, and it has a white chest bib and white mitten paws. The cat is playing a gambling game with a group of rats, using dried fish as betting stakes. The scene features a glossy plastic toy texture with smooth high-shine surfaces. Lighting is provided by a single flickering candle, creating a warm orange glow and soft dancing shadows. The color scheme is opulent gold and black with metallic gold accents. The text '2026-03-31 09:53 UTC' is visually displayed in the corner of the image. Retro 8-bit style, limited color palette, crisp blocky pixels, vinyl figure aesthetic."
+  },
+  {
+    "inspiration": "original",
+    "comment_id": 4161678623,
+    "idea": "",
+    "title": "貓咪日常",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Moonlight",
+      "texture": "Origami",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A cute cat with the date and time '2026-03-31 10:43 UTC' displayed in the image, high quality, detailed",
+    "character": "mochi",
+    "is_seasonal": true,
+    "season": "spring",
+    "number": 1182,
+    "character_name": "麻糬",
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "avoid_list": [
+      "貓咪專注操作精密裝置",
+      "日期與時間視覺顯示",
+      "空氣取水或淨水設備",
+      "復古與科技結合的儀器調整",
+      "超廣角鏡頭與透視扭曲",
+      "液態金屬或生物發光流動",
+      "精確的幾何對稱或網格排列",
+      "黃銅羅盤與航海圖室",
+      "皮革與磨砂玻璃的質感細節",
+      "電影感打光與體積光束",
+      "工坊或實驗室的維修場景",
+      "粉彩色系熱成像或漸變",
+      "微縮世界或模型視角"
+    ]
   }
 ]
