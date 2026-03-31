@@ -1,7 +1,7 @@
 import sys
 import pathlib
 
-p = pathlib.Path(__file__).resolve().parents[2] / 'tests'
+p = pathlib.Path(__file__).resolve().parent
 sys.path.insert(0, str(p))
 
 # ruff: noqa: E402
