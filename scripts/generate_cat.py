@@ -7,6 +7,7 @@ import random
 import re
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -503,6 +504,8 @@ def parse_ai_response_generic(text: str, required_keys: list) -> dict | None:
 
     Returns the parsed dict if all required_keys are present, or None on failure.
     """
+    if not text:
+        return None
     text = text.strip()
 
     # Try to extract JSON from markdown code block
@@ -602,26 +605,37 @@ def fetch_news_inspiration() -> list[str]:
     Returns a list of short news summaries, or empty list on failure.
     """
     print("Stage 0: Fetching today's news for inspiration...")
-    try:
-        from google.genai import types
+    from google.genai import types
 
-        client = _create_genai_client()
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=NEWS_PROMPT,
-            config=types.GenerateContentConfig(
-                tools=[types.Tool(google_search=types.GoogleSearch())]
-            ),
-        )
-        result = parse_ai_response_generic(response.text, ["news"])
-        if result and isinstance(result["news"], list):
-            news = result["news"][:5]
-            for i, item in enumerate(news, 1):
-                print(f"  News {i}: {item[:80]}...")
-            return news
-        print("  News parse failed, skipping news inspiration.")
-    except Exception as e:
-        print(f"  News fetch failed ({e}), skipping news inspiration.")
+    for attempt in range(2):
+        try:
+            client = _create_genai_client()
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=NEWS_PROMPT,
+                config=types.GenerateContentConfig(
+                    tools=[types.Tool(google_search=types.GoogleSearch())]
+                ),
+            )
+            raw = response.text
+            print(f"  [DEBUG] News raw response ({len(raw) if raw else 'None'}): {(raw or '')[:500]}")
+            result = parse_ai_response_generic(raw, ["news"])
+            if result and isinstance(result["news"], list):
+                news = result["news"][:5]
+                for i, item in enumerate(news, 1):
+                    print(f"  News {i}: {item[:80]}...")
+                return news
+            if attempt == 0:
+                print(f"  News parse failed (attempt 1), retrying in 3s...")
+                time.sleep(3)
+            else:
+                print("  News parse failed (attempt 2), skipping news inspiration.")
+        except Exception as e:
+            if attempt == 0:
+                print(f"  News fetch failed ({e}), retrying in 3s...")
+                time.sleep(3)
+            else:
+                print(f"  News fetch failed ({e}), skipping news inspiration.")
     return []
 
 
@@ -692,38 +706,56 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         'season': season,
     }
 
+    # Brief delay between API calls to avoid rate limiting
+    if news:
+        time.sleep(2)
+
     # Stage 1: Generate idea and story
     print(f"Stage 1: Generating idea (avoid_list has {len(avoid_list)} items, news has {len(news)} items)...")
     idea = ""
     story = ""
     title = ""
     inspiration = "original"
-    try:
-        client = _create_genai_client()
-        idea_input = IDEA_PROMPT.format(news_section=news_section, avoid_section=avoid_section, style_section=style_section)
-        if character_idea_section:
-            idea_input = character_idea_section + "\n" + idea_input
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=idea_input,
-            config={"response_mime_type": "application/json"},
-        )
-        result = parse_ai_response_generic(response.text, ["idea", "story"])
-        if result:
-            idea = result["idea"]
-            story = result["story"]
-            title = result.get("title", "")
-            inspiration = result.get("inspiration", "original")
-            print(f"Title: {title}")
-            print(f"Inspiration: {'🎨 原創' if inspiration == 'original' else '📰 ' + inspiration[:60]}")
-            print(f"Idea: {idea[:120]}...")
-            print(f"Story: {story[:80]}...")
-        else:
-            print("Stage 1 parse failed, using fallback.")
-            return fallback
-    except Exception as e:
-        print(f"Stage 1 failed ({e}), using fallback.")
-        return fallback
+    client = _create_genai_client()
+    idea_input = IDEA_PROMPT.format(news_section=news_section, avoid_section=avoid_section, style_section=style_section)
+    if character_idea_section:
+        idea_input = character_idea_section + "\n" + idea_input
+    for attempt in range(2):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=idea_input,
+                config={"response_mime_type": "application/json"},
+            )
+            raw1 = response.text
+            print(f"  [DEBUG] Stage 1 raw response ({len(raw1) if raw1 else 'None'}): {(raw1 or '')[:500]}")
+            result = parse_ai_response_generic(raw1, ["idea", "story"])
+            if result:
+                idea = result["idea"]
+                story = result["story"]
+                title = result.get("title", "")
+                inspiration = result.get("inspiration", "original")
+                print(f"Title: {title}")
+                print(f"Inspiration: {'🎨 原創' if inspiration == 'original' else '📰 ' + inspiration[:60]}")
+                print(f"Idea: {idea[:120]}...")
+                print(f"Story: {story[:80]}...")
+                break
+            if attempt == 0:
+                print(f"  Stage 1 parse failed (attempt 1), retrying in 3s... Raw: {(raw1 or '')[:300]}")
+                time.sleep(3)
+            else:
+                print(f"  Stage 1 parse failed (attempt 2), using fallback. Raw: {(raw1 or '')[:300]}")
+                return fallback
+        except Exception as e:
+            if attempt == 0:
+                print(f"  Stage 1 failed ({e}), retrying in 3s...")
+                time.sleep(3)
+            else:
+                print(f"  Stage 1 failed ({e}), using fallback.")
+                return fallback
+
+    # Brief delay between API calls to avoid rate limiting
+    time.sleep(2)
 
     # Stage 2: Convert idea to image prompt
     print("Stage 2: Converting idea to image prompt...")
