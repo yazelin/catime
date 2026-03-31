@@ -19214,5 +19214,43 @@
       "貓咪穿著特定制服或配飾"
     ],
     "comment_id": 4165716256
+  },
+  {
+    "idea": "這是一幅以運動追焦拍攝的鳥瞰場景，呈現一隻貓咪在繁複的衍紙藝術賽道上奮力駕駛帆船，光影呈現深邃的倫勃朗光感。",
+    "prompt": "這是一幅以運動追焦拍攝的鳥瞰場景，呈現一隻貓咪在繁複的衍紙藝術賽道上奮力駕駛帆船，光影呈現深邃的倫勃朗光感。. The date and time '2026-03-31 22:24 UTC' is visually displayed in the image. sports panning photography, frozen subject with motion-blurred background, high shutter speed, dynamic energy, action captured, bird's-eye view, top-down perspective, looking straight down, miniature world effect, Rembrandt lighting, single light source at 45 degrees, signature triangle of light on shadowed cheek, dramatic chiaroscuro, Paper quilling art, intricate coiled paper strips, delicate curling loops, 3D dimensional ornament, colorful rolled paper texture, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Bird's-Eye View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Retro Faded Tones"
+    },
+    "title": "紙浪上的破風者",
+    "news_inspiration": [
+      "澳洲海洋科學家在珊瑚海深處發現了超過 110 種前所未見的新物種，包含外型獨特的深海貓鯊與魟魚。",
+      "台灣屏東大鵬灣遊艇帆船系列活動於今日正式開幕，結合帆船賽事與一日船長體驗，打造全台最大的水上風帆盛事。",
+      "澳洲坎培拉舉辦首屆「奇妙世界節」，在市中心的格里布公園展示由小學生創作的巨型充氣光影藝術裝置。",
+      "科學家在研究中發現波諾波猿（矮黑猩猩）會進行「假裝遊戲」，這項發現挑戰了過去認為只有人類具備想像遊戲能力的認知。",
+      "美國賓州的一群園藝愛好者在寒冬中聚集，慶祝象徵韌性的雪滴花盛開，並分享這種能在冰天雪地中綻放的植物育種心得。"
+    ],
+    "comment_id": 4166012904,
+    "avoid_list": [
+      "對稱的溫室與建築框架",
+      "液態金屬或水銀流動質感",
+      "Knolling 俯拍排列攝影",
+      "精密 90 度網格佈局零件",
+      "德羅斯特效應遞迴影像",
+      "莫蘭迪色調與大地色系",
+      "金色邊緣光與黃金時刻",
+      "視覺呈現的日期與時間戳記",
+      "貓咪進行專業維修或修剪",
+      "複雜的曼陀羅或幾何圖形背景",
+      "復古火箭引擎與金屬零件",
+      "螢光纖維與霓虹色調對比",
+      "貓咪穿著特定制服或配飾"
+    ],
+    "story": "在微縮的大鵬灣風帆盛會中，貓隊長正熟練地操縱著紙捲編織而成的船帆。隨著鏡頭的疾速追蹤，背景轉化為復古褪色的流影，捕捉了牠挑戰極限的神速與專注。",
+    "number": 1193,
+    "inspiration": "台灣屏東大鵬灣遊艇帆船系列活動於今日正式開幕，結合帆船賽事與一日船長體驗，打造全台最大的水上風帆盛事。"
   }
 ]
