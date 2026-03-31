@@ -10712,5 +10712,14 @@
     "timestamp": "2026-03-31 17:47 UTC",
     "url": null,
     "status": "failed"
+  },
+  {
+    "title": "燭影下的亞述暖春",
+    "number": 1189,
+    "inspiration": "伊拉克與敘利亞等地的亞述人於今日歡慶阿基圖節（Kha b-Nisan），以傳統服飾與遊行迎接亞述新年與春天的到來。",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "timestamp": "2026-03-31 18:44 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-03/cat_2026-03-31_1844_UTC.webp"
   }
 ]
