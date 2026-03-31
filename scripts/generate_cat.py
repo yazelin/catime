@@ -185,6 +185,7 @@ def _filter_styles_with_ai(styles: dict, avoid_list: list[str]) -> dict[str, set
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=STYLE_FILTER_PROMPT.format(avoid_list=avoid_text, style_options=style_options),
+            config={"response_mime_type": "application/json"},
         )
         # Parse with no required keys — partial results are fine
         result = parse_ai_response_generic(response.text, [])
@@ -579,6 +580,7 @@ def maybe_update_creative_notes(cat_number: int) -> dict:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=SUMMARY_PROMPT.format(entries=entries_text),
+            config={"response_mime_type": "application/json"},
         )
         result = parse_ai_response_generic(response.text, ["avoid_list"])
         if result and isinstance(result["avoid_list"], list):
@@ -711,6 +713,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=idea_input,
+            config={"response_mime_type": "application/json"},
         )
         result = parse_ai_response_generic(response.text, ["idea", "story"])
         if result:
@@ -738,6 +741,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=render_input,
+            config={"response_mime_type": "application/json"},
         )
         result = parse_ai_response_generic(response.text, ["prompt"])
         if result:
