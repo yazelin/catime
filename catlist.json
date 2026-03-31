@@ -10696,5 +10696,13 @@
     "title": "綠博花叢間的叮鈴迴響",
     "timestamp": "2026-03-31 15:58 UTC",
     "status": "success"
+  },
+  {
+    "url": null,
+    "model": "all failed",
+    "number": null,
+    "timestamp": "2026-03-31 16:55 UTC",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "status": "failed"
   }
 ]
