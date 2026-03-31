@@ -25,7 +25,7 @@ def _create_genai_client():
             http_options={
                 "api_version": "v1beta",
                 "base_url": _GEMINI_WEB_BASE_URL,
-                "timeout": 120_000,  # 120 秒（Gemini 網頁版回應較慢）
+                "timeout": 240_000,  # 240 秒（與 gemini-web DEFAULT_TIMEOUT 一致）
             },
         )
     return genai.Client()
