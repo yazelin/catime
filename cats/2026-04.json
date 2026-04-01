@@ -309,5 +309,44 @@
     ],
     "news_inspiration": [],
     "story": "這隻名為「奧古斯特」的貓首領，站在漂浮的巴洛克石柱上，利用牠那閃耀著碳纖維光澤的爪子調整虛擬航線。在靜謐的藍色迷霧中，牠正試圖重構這座雲端花園的幾何美學。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Orthographic Projection",
+      "lighting": "Direct Flash",
+      "texture": "Frosted Glass",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 1208,
+    "inspiration": "澳洲科學家在珊瑚海保護區的大型探測中，宣布發現了超過 110 種深海魚類與無脊椎動物的新物種。",
+    "news_inspiration": [
+      "在紐西蘭的野生森林中，一隻邊境牧羊犬在主人不慎跌落瀑布失蹤後，靠著熱心人士募款租用直升機搜尋而奇蹟獲救。",
+      "南非一名地方政客為了抗議市政管理不善導致路面坑洞氾濫，竟然穿戴浮潛裝備在巨大的路坑積水中「浮潛」。",
+      "澳洲科學家在珊瑚海保護區的大型探測中，宣布發現了超過 110 種深海魚類與無脊椎動物的新物種。",
+      "美國加州政府宣布新規定，要求所有的玉米餅（tortilla）必須添加葉酸，以促進準媽媽與嬰兒的健康。",
+      "體育界正關注一名美國青少年田徑奇才，他被譽為徑賽場上的下一個巨星，且在近期的賽事中展現出驚人的競技水準。"
+    ],
+    "avoid_list": [
+      "笨拙地嘗試或操作",
+      "日期時間顯示在畫面中",
+      "倫勃朗光與三角形光影",
+      "聚光燈下的高對比度",
+      "粉彩色系與夢幻色調",
+      "微縮模型或等距視角",
+      "生鏽與工業廢棄感",
+      "35mm鏡頭搭配底片質感",
+      "流動的液體或金屬材質",
+      "精緻的工藝紋理",
+      "傳統市場或港口場景",
+      "具備特定標記的貓咪外型"
+    ],
+    "comment_id": 4172828675,
+    "title": "幻彩深海之鈴",
+    "character_name": "鈴鈴",
+    "prompt": "Afrofuturism illustration of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and large sapphire-blue eyes, wearing a pink ribbon bow collar with a centered golden bell. She is collecting bioluminescent deep-sea samples among frosted glass laboratory instruments. Orthographic projection, no perspective distortion, flat technical rendering. Style features vibrant neon fluorescent colors in electric pink, lime green, and hot cyan against a dark background. Harsh direct on-camera flash creates blown-out highlights and hard shadows for a raw candid snapshot aesthetic. Visual text '2026-04-01 20:33 UTC' is displayed in the corner. African cultural symbolism and futuristic motifs integrated into the lab equipment.",
+    "character": "lingling",
+    "idea": "在霓虹螢光配色的非洲未來主義風格實驗室中，鈴鈴正以後現代正交投影視角，在磨砂玻璃儀器間採集深海新物種的發光樣本。",
+    "story": "好奇心爆棚的鈴鈴穿梭於高科技深海研究站，她那如雲朵般的白毛在閃光燈直打下折射出亮麗的霓虹色彩。當她看見水族箱裡游動的新物種深海魚時，驚喜地張大寶石藍眼，清脆的鈴鐺聲在充滿科幻感的磨砂空間中迴盪。"
   }
 ]
