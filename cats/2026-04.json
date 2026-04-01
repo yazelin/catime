@@ -169,5 +169,42 @@
       "texture": "Wood Grain",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "news_inspiration": [
+      "日本與美國的社群媒體用戶透過 AI 自動翻譯功能打破語言隔閡，在網路上分享融合武士、牛仔與哥吉拉等元素的創意圖片，促進了跨國界的文化交流。",
+      "英國知名零食品牌 Jammie Dodgers 在愚人節當天宣布推出「無果醬版」餅乾，並將該品牌標誌性的愛心形狀中心獨立包裝成新款零食。",
+      "東非馬拉威湖的一項科學研究發現了被稱為「超基因」的遺傳機制，揭開了當地慈鯛科魚類能以驚人速度進化出數百個物種的生命奧秘。",
+      "澳洲政府於今日正式啟動免費的「Medicare 心理健康檢查」服務，讓民眾無需醫師轉診即可獲得心理諮詢支援，提升全國心理健康韌性。",
+      "美國佛羅里達州舉辦的 2026 NCCN 年度會議聚集了上千名醫療專業人士，共同探討如何透過整合照護來優化癌症患者的全人治療成效。"
+    ],
+    "avoid_list": [
+      "笨拙地嘗試或跳躍",
+      "新發現的無脊椎生物",
+      "繁複的衍紙藝術質感",
+      "倫勃朗光與三角形光影",
+      "魚眼鏡頭與強烈畸變",
+      "微縮立體模型與鳥瞰視角",
+      "霓虹螢光色與金屬工具",
+      "復古褪色與底片質感",
+      "滑板穿越幾何空間",
+      "細緻的絲綢紋理與蝴蝶",
+      "生鏽工業區與塗鴉牆",
+      "漂浮的珊瑚礁或島嶼"
+    ],
+    "title": "湖畔基因的倒影",
+    "idea": "這是一幅以街頭攝影風格呈現的黑白鏡子自拍，一隻擁有液態金屬般光澤的流浪貓，正坐在馬拉威湖畔生鏽的科學實驗室落地窗前，利用反射觀察自己。",
+    "prompt": "A black and white street photography candid shot of a stray cat with a liquid metal, mercury-like reflective surface sitting by a rusted science lab window on the shores of Lake Malawi. The composition is a mirror selfie style where the cat observes its molten mirror finish reflection in the glass. The scene features butterfly lighting with a high-overhead key light creating symmetrical shadows, highlighting the chrome dripping texture of the cat's fur. High contrast monochrome with a rich tonal range and dramatic shadows. The date and time '2026-04-01 14:27 UTC' is visually displayed in the corner of the frame. 35mm lens, f/2.8, shallow depth of field, natural light, grainy film aesthetic, urban setting.",
+    "inspiration": "東非馬拉威湖的一項科學研究發現了被稱為「超基因」的遺傳機制，揭開了當地慈鯛科魚類能以驚人速度進化出數百個物種的生命奧秘。",
+    "number": 1203,
+    "comment_id": 4170534574,
+    "story": "這隻貓似乎受到了湖中慈鯛科魚類「超基因」進化的啟發，牠的身影在鏡頭下呈現出奇異的蝴蝶光效果。牠不僅僅是在凝視，更像是在確認自己快速進化的生物形態，與周遭冷冽的單色環境融為一體。"
   }
 ]
