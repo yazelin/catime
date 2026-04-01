@@ -387,5 +387,43 @@
       "傳統市場或港口場景",
       "具備特定標記的貓咪外型"
     ]
+  },
+  {
+    "comment_id": 4173335606,
+    "avoid_list": [
+      "浮空島嶼或漂浮結構",
+      "粉彩與霓虹色調組合",
+      "玻璃與水晶實驗室場景",
+      "等距視角或正交投影",
+      "分割畫面與對比構圖",
+      "長曝光金色光影軌跡",
+      "Y2K 復古未來主義風格",
+      "碳纖維或科技甲冑飾物",
+      "生物發光與螢光色彩",
+      "閃光燈直打與硬陰影",
+      "貓咪進行科學實驗或手工藝",
+      "傳統織物或皮革紋理細節",
+      "嵌入日期與時間戳記文字"
+    ],
+    "inspiration": "埃及尼羅河三角洲地下最新發現一座埋藏兩千五百年的巨型迷失結構，為考古學界揭開古代建築技術的新篇章。",
+    "idea": "一隻穿著亮紅背心的貓正在粗糙的混凝土迷宮中心，利用聚光燈下的陰影對準一張古老羊皮地圖，呈現風格派的幾何切割美感與鏡子自拍視角。",
+    "news_inspiration": [
+      "美國佛羅里達州甘迺迪太空中心於今日成功發射阿提米絲2號，載著四名太空人開啟為期十天的繞月歷史性任務。",
+      "紐西蘭南島一名登山客的邊境牧羊犬在瀑布附近失蹤後，透過網友熱心籌款租用直升機，今日終於在荒野林地中平安獲救。",
+      "埃及尼羅河三角洲地下最新發現一座埋藏兩千五百年的巨型迷失結構，為考古學界揭開古代建築技術的新篇章。",
+      "芬蘭今日舉行傳統的馴鹿賽雪橇大賽，吸引各國遊客在冰天雪地中體驗獨特的極圈民俗文化體育競技。",
+      "泰國各大城市今日開始進入宋干節慶祝高峰，民眾與遊客在街頭展開大規模潑水狂歡，共同迎接泰國新年的祝福。"
+    ],
+    "prompt": "A mirror selfie from the perspective of a cat wearing a bright red utility vest in a brutalist concrete maze. The cat holds an ancient parchment map, aligning its lines with a narrow spotlight beam. Style of De Stijl and neoplasticism, featuring geometric abstraction with thick black horizontal and vertical lines, high-contrast primary colors, and rough aggregate concrete textures. A visible mirror reflection shows a casual, intimate close-up framing. Dramatic high-contrast lighting with sharp edges and deep darkness falloff. In the bottom corner, the timestamp '2026-04-01 22:26 UTC' is clearly visible as part of the digital scout record. Vibrant red, blue, and yellow blocks intersect with the industrial minimalism of the raw concrete background.",
+    "number": 1210,
+    "title": "古蹟深處的幾何視界",
+    "story": "這隻探險貓在尼羅河三角洲的地下遺址中穿梭，試圖解開兩千五百年前巨型結構的動線謎團。牠在鏽蝕的落地鏡前停下，調整頭燈角度，拍下一張充滿垂直水平線條與高飽和原色的偵查紀錄。",
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Spotlight",
+      "texture": "Concrete",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
