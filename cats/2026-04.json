@@ -138,5 +138,36 @@
     "idea": "這是一幅結合 Y2K 復古未來主義與等距攝影視角的作品，船長正威風地站在大理石材質的漁港碼頭高塔上，在強烈的閃光燈直打下，守護著櫻花盛開的春日海岸。",
     "story": "春天到了，船長在碼頭最高處俯瞰著這片充滿琥珀色暖調的海域。雖然櫻花正美，但牠銳利的綠色右眼始終專注於遠方緩緩入港的漁船，因為那裡有著能讓硬漢瞬間融化的新鮮鮮魚。",
     "number": 1199
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "笨拙地嘗試或跳躍",
+      "新發現的無脊椎生物",
+      "繁複的衍紙藝術質感",
+      "倫勃朗光與三角形光影",
+      "魚眼鏡頭與強烈畸變",
+      "微縮立體模型與鳥瞰視角",
+      "霓虹螢光色與金屬工具",
+      "復古褪色與底片質感",
+      "滑板穿越幾何空間",
+      "細緻的絲綢紋理與蝴蝶",
+      "生鏽工業區與塗鴉牆",
+      "漂浮的珊瑚礁或島嶼"
+    ],
+    "number": 1200,
+    "title": "金旋星軌的巡禮",
+    "comment_id": 4169242441,
+    "news_inspiration": [],
+    "idea": "一隻優雅的黑貓正在一間古典木造天文台內旋轉巨大的金色星盤，長曝光攝影捕捉下星盤轉動時如流金般的遞迴光影。",
+    "story": "老貓亞瑟負責校準這座百年天文台的方位，牠撥動齒輪的手勢化作一圈圈德羅斯特效應的金色圓弧。在沉重的木紋質感與黑金奢華調性中，時間彷彿隨著牠的動作在光影裡無限循環。",
+    "prompt": "A wide-angle long exposure photograph of an elegant black cat spinning a massive ornate golden astrolabe inside a classical dark wood observatory. The motion creates silky smooth golden light trails that spiral into a recursive Droste effect, suggesting an infinite self-referential loop of light. The cat's paw is caught in motion blur against the rich natural wood grain textures of the room. Shot on 35mm lens, f/8, with volumetric light rays cutting through dramatic shadows. The color scheme is a luxurious deep black and metallic gold. The date and time '2026-04-01 10:51 UTC' is clearly etched into the brass base of the astronomical instrument. Cinematic lighting, high dynamic range, film-quality mood, organic tactile surfaces.",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Cinematic Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
