@@ -425,5 +425,37 @@
       "texture": "Concrete",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "avoid_list": [
+      "浮空島嶼或漂浮結構",
+      "粉彩與霓虹色調組合",
+      "玻璃與水晶實驗室場景",
+      "等距視角或正交投影",
+      "分割畫面與對比構圖",
+      "長曝光金色光影軌跡",
+      "Y2K 復古未來主義風格",
+      "碳纖維或科技甲冑飾物",
+      "生物發光與螢光色彩",
+      "閃光燈直打與硬陰影",
+      "貓咪進行科學實驗或手工藝",
+      "傳統織物或皮革紋理細節",
+      "嵌入日期與時間戳記文字"
+    ],
+    "idea": "在宏偉的大理石迷宮中，一隻手工捏製的黏土貓正神情專注地推著一顆巨大的松露巧克力，場景採用俯瞰視角並沐浴在神聖的體積光中。",
+    "number": 1211,
+    "title": "大理石徑的朝聖者",
+    "story": "這隻名為「莫里斯」的黏土貓在古老的大理石神殿迷宮中尋找失落的寶藏。牠小心翼翼地推動著比自己還大的戰利品，泥土般的褐色軀體在溫暖的大地色調光影下，顯現出手工捏塑的粗糙指印紋理。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Bird's-Eye View",
+      "lighting": "Volumetric Light",
+      "texture": "Marble",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 4173589261,
+    "inspiration": "original",
+    "prompt": "A bird's-eye view claymation scene of a small, handcrafted clay cat with visible fingerprint textures pushing a massive truffle chocolate through a grand marble labyrinth. The miniature world features polished marble surfaces with natural vein patterns. Dramatic volumetric lighting and god rays pierce through the atmosphere, illuminating dust particles in a warm earth tone palette of terracotta and deep browns. The cat is focused on its task, showcasing a stop-motion aesthetic. The date and time '2026-04-01 23:27 UTC' is clearly displayed in the corner of the frame.",
+    "news_inspiration": []
   }
 ]
