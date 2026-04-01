@@ -66,5 +66,36 @@
     "number": 1196,
     "title": "晶瑩護盾的解密者",
     "comment_id": 4167405758
+  },
+  {
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Leather",
+      "color_palette": "Pastel Colors"
+    },
+    "number": 1197,
+    "comment_id": 4167843229,
+    "prompt": "A split-view illustration in a minimalist doodle style with loose, playful black ink lines. Left side: a silhouette of a cat wearing a detailed genuine leather vest with a rich grain pattern, professionally kneading dough in a bustling traditional market. Right side: a close-up of the finished baked bread. The composition is divided by a sharp vertical cut line. The scene is illuminated by dramatic pastel backlighting with glowing rim light and soft silhouette edges in shades of gentle pink, lavender, and mint. The text '2026-04-01 06:21 UTC' is visually integrated into the artwork. Hand-drawn feel on a clean white background, artisanal craftsmanship mood, dreamy light tones.",
+    "avoid_list": [
+      "笨拙地嘗試或跳躍",
+      "新發現的無脊椎生物",
+      "繁複的衍紙藝術質感",
+      "倫勃朗光與三角形光影",
+      "魚眼鏡頭與強烈畸變",
+      "微縮立體模型與鳥瞰視角",
+      "霓虹螢光色與金屬工具",
+      "復古褪色與底片質感",
+      "滑板穿越幾何空間",
+      "細緻的絲綢紋理與蝴蝶",
+      "生鏽工業區與塗鴉牆",
+      "漂浮的珊瑚礁或島嶼"
+    ],
+    "inspiration": "original",
+    "story": "老街裡的職人貓每天清晨準時開張，牠對麵糰的精準掌握連最挑剔的老饕都折服。雖然只是簡約的線條勾勒，卻能從那專注的剪影中感受到皮革圍裙下的職人靈魂。",
+    "idea": "這是一幅採用極簡塗鴉線條畫風格的分割畫面：左側是一隻穿著皮革背心的貓在熙攘的傳統市場中專業地揉捏麵糰，右側則是成品出爐的特寫，整體籠罩在柔和的粉彩色系背光中。",
+    "title": "麵香裡的線條詩篇",
+    "news_inspiration": []
   }
 ]
