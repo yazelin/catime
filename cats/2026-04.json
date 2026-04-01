@@ -348,5 +348,44 @@
     "character": "lingling",
     "idea": "在霓虹螢光配色的非洲未來主義風格實驗室中，鈴鈴正以後現代正交投影視角，在磨砂玻璃儀器間採集深海新物種的發光樣本。",
     "story": "好奇心爆棚的鈴鈴穿梭於高科技深海研究站，她那如雲朵般的白毛在閃光燈直打下折射出亮麗的霓虹色彩。當她看見水族箱裡游動的新物種深海魚時，驚喜地張大寶石藍眼，清脆的鈴鐺聲在充滿科幻感的磨砂空間中迴盪。"
+  },
+  {
+    "news_inspiration": [
+      "美國佛羅里達州的甘迺迪太空中心今日迎來歷史性時刻，阿提米絲2號任務計畫於今日發射，將載著四名太空人飛往月球附近，這是人類時隔半個多世紀後再次重返繞月軌道。",
+      "法國巴黎與法蘭西島大區正值鬱金香花季，各大公園與如丹皮埃爾城堡等歷史古蹟皆舉辦了盛大的花卉與園藝節，吸引大量遊客前來感受春意。",
+      "日本環境省近日傳來保育好消息，象徵長壽的丹頂鶴因數量穩定回升，正式從北海道的威脅物種名單中移除，展現了當地數十年保育工作的卓越成果。",
+      "智利政府於胡安·費爾南德斯群島周邊正式設立了全球最大的海洋保護區之一，保護面積達33.7萬平方公里，為座頭鯨與各種海鳥提供了安全的棲息地。",
+      "巴基斯坦全國掀起綠能轉型熱潮，由於一般民眾與企業自主在屋頂大規模安裝太陽能板，目前該國已有近三分之一的電力系統由太陽能驅動。"
+    ],
+    "number": 1209,
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Floating Island Scene",
+      "lighting": "Candlelight",
+      "texture": "Shibori Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "在浮空島嶼般的精緻麵包店內，麻糬正坐在鋪著藍色絞染織物的桌前，神情專注地盯著一根點燃的蠟燭，準備進行吹熄動作，背景呈現溫暖飽和的散景。",
+    "prompt": "A DSLR portrait of Mochi, a chubby shorthair cat with a spherical torso and stubby legs, sitting at a table inside a miniature floating bakery island in the sky. Mochi has a white base coat, large round amber eyes, and a specific orange mask covering the right half-face (viewer perspective) while the left face is pure white. A heart-shaped orange saddle is visible on the upper back, the right front paw is a solid orange mitten, and the left front paw is white. Mochi is leaning in with a focused expression, preparing to blow out a single flickering orange candle on the table. The table is covered in an indigo blue Shibori resist-dyed textile with organic flowing patterns. 85mm f/1.4 lens, sharp focus on Mochi, creamy warm bokeh background with saturated orange and blue tones. The date and time '2026-04-01 21:32 UTC' is clearly and neatly displayed in the corner of the frame. Candid shot, soft dancing shadows, high contrast, vivid color saturation.",
+    "title": "雲端燭光的貪食夢",
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "story": "麻糬趁著店主不在，偷偷潛入這座漂浮在雲端上的麵包工坊。牠正對著慶生用的燭火發呆，腦子裡想的卻是那層層疊疊、像花生粉一樣誘人的麵包香氣，圓滾滾的身躯隨著島嶼微微晃動。",
+    "comment_id": 4173103647,
+    "character": "mochi",
+    "avoid_list": [
+      "笨拙地嘗試或操作",
+      "日期時間顯示在畫面中",
+      "倫勃朗光與三角形光影",
+      "聚光燈下的高對比度",
+      "粉彩色系與夢幻色調",
+      "微縮模型或等距視角",
+      "生鏽與工業廢棄感",
+      "35mm鏡頭搭配底片質感",
+      "流動的液體或金屬材質",
+      "精緻的工藝紋理",
+      "傳統市場或港口場景",
+      "具備特定標記的貓咪外型"
+    ]
   }
 ]
