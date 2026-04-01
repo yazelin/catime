@@ -10801,5 +10801,18 @@
     "timestamp": "2026-04-01 08:08 UTC",
     "status": "failed",
     "model": "all failed"
+  },
+  {
+    "inspiration": "日本各地的家庭與親友紛紛前往公園和河畔，在盛開的櫻花樹下舉行年度賞櫻野餐，慶祝春天的正式到來。",
+    "character": "captain",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-01_0958_UTC.webp",
+    "timestamp": "2026-04-01 09:58 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "season": "spring",
+    "title": "春櫻碼頭的琥珀守望",
+    "status": "success",
+    "number": 1199
   }
 ]

@@ -97,5 +97,46 @@
     "idea": "這是一幅採用極簡塗鴉線條畫風格的分割畫面：左側是一隻穿著皮革背心的貓在熙攘的傳統市場中專業地揉捏麵糰，右側則是成品出爐的特寫，整體籠罩在柔和的粉彩色系背光中。",
     "title": "麵香裡的線條詩篇",
     "news_inspiration": []
+  },
+  {
+    "inspiration": "日本各地的家庭與親友紛紛前往公園和河畔，在盛開的櫻花樹下舉行年度賞櫻野餐，慶祝春天的正式到來。",
+    "character": "captain",
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Y2K Aesthetic",
+      "composition": "Isometric Photography",
+      "lighting": "Direct Flash",
+      "texture": "Marble",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "is_seasonal": true,
+    "avoid_list": [
+      "笨拙地嘗試或跳躍",
+      "新發現的無脊椎生物",
+      "繁複的衍紙藝術質感",
+      "倫勃朗光與三角形光影",
+      "魚眼鏡頭與強烈畸變",
+      "微縮立體模型與鳥瞰視角",
+      "霓虹螢光色與金屬工具",
+      "復古褪色與底片質感",
+      "滑板穿越幾何空間",
+      "細緻的絲綢紋理與蝴蝶",
+      "生鏽工業區與塗鴉牆",
+      "漂浮的珊瑚礁或島嶼"
+    ],
+    "prompt": "Authentic photography, perfectly isometric angle, real captured photo of Captain, a large stocky scruffy brown tabby cat with bold black stripes and untidy coarse fur. He stands majestically on a polished white marble lighthouse tower at a fishing port. Captain has a permanent natural dark-pigmented fur patch covering his left eye socket (no fabric, no straps), a single piercing emerald green right eye, a prominent V-shaped notch in his left ear, a faded red bandana around his neck, a white chest bib, and white mitten paws. Harsh direct on-camera flash, blown-out highlights, hard shadows, raw candid snapshot. Background features a spring coastline with blooming cherry blossoms under a warm amber color grade. Y2K aesthetic with holographic textures and glitter accents. The date and time '2026-04-01 09:58 UTC' is visually displayed in the corner. 35mm lens, f/8, nostalgic film grain.",
+    "comment_id": 4168945615,
+    "season": "spring",
+    "news_inspiration": [
+      "美國佛羅里達州卡納維爾角聚集了大批民眾，共同見證阿提米絲2號載人登月任務歷史性的發射時刻。",
+      "科學家在非洲馬拉威湖的魚類 DNA 中發現了加速進化的「超級基因」，揭開了新物種快速形成的生物奧秘。",
+      "新加坡曼代野生動物保護區推出了全球首個「我的世界：村民救援」實境體驗，吸引眾多遊戲玩家參與冒險任務。",
+      "最新考古研究發現，美索不達米亞出土的八千年前陶罐上有著精美的花卉設計，顯示當時已具備先進的數學與土地規劃知識。",
+      "日本各地的家庭與親友紛紛前往公園和河畔，在盛開的櫻花樹下舉行年度賞櫻野餐，慶祝春天的正式到來。"
+    ],
+    "title": "春櫻碼頭的琥珀守望",
+    "idea": "這是一幅結合 Y2K 復古未來主義與等距攝影視角的作品，船長正威風地站在大理石材質的漁港碼頭高塔上，在強烈的閃光燈直打下，守護著櫻花盛開的春日海岸。",
+    "story": "春天到了，船長在碼頭最高處俯瞰著這片充滿琥珀色暖調的海域。雖然櫻花正美，但牠銳利的綠色右眼始終專注於遠方緩緩入港的漁船，因為那裡有著能讓硬漢瞬間融化的新鮮鮮魚。",
+    "number": 1199
   }
 ]
