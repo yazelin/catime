@@ -10823,5 +10823,13 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-01_1051_UTC.webp",
     "status": "success",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "url": null,
+    "timestamp": "2026-04-01 11:42 UTC",
+    "number": null,
+    "status": "failed"
   }
 ]
