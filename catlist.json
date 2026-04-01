@@ -10865,5 +10865,18 @@
     "number": 1205,
     "model": "gemini-3-pro-image-preview",
     "title": "電幻絲絨電子夢"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-01_1844_UTC.webp",
+    "number": 1206,
+    "status": "success",
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）載人繞月任務預計於 4 月 1 日至 2 日在佛羅里達州發射，恰恰逢今年最壯觀的「粉紅滿月」。",
+    "season": "spring",
+    "character_name": "墨墨",
+    "timestamp": "2026-04-01 18:44 UTC",
+    "character": "momo",
+    "title": "月升之時的櫻色遠航",
+    "is_seasonal": true,
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]

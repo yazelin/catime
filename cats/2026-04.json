@@ -237,5 +237,46 @@
     "story": "在充斥著生物發光的地下派對中，這隻貓咪正以熟練的姿態轉動碟盤。霓虹色調的絲綢布幔隨著電子節奏律動，周圍是一群沉浸在數位幻覺中的電子寵物。",
     "prompt": "一隻穿著絲綢外套的貓咪正站在由螢光管排成的巨大唱片機上進行 DJ 混音，呈現 Y2K 風格的鳥瞰視角。. The date and time '2026-04-01 17:41 UTC' is visually displayed in the image. Y2K aesthetic, holographic textures, pastel gradients, glitter accents, early-2000s playful design, bird's-eye view, top-down perspective, looking straight down, miniature world effect, bioluminescent lighting, organic glow from living organisms, deep blue-green radiance, underwater phosphorescence, ethereal natural light, silk fabric texture, luminous smooth surface, delicate light reflections, flowing drape, luxurious sheen, neon fluorescent colors, electric pink, lime green, hot cyan, glowing against dark background",
     "title": "電幻絲絨電子夢"
+  },
+  {
+    "number": 1206,
+    "avoid_list": [
+      "笨拙地嘗試或操作",
+      "日期時間顯示在畫面中",
+      "倫勃朗光與三角形光影",
+      "聚光燈下的高對比度",
+      "粉彩色系與夢幻色調",
+      "微縮模型或等距視角",
+      "生鏽與工業廢棄感",
+      "35mm鏡頭搭配底片質感",
+      "流動的液體或金屬材質",
+      "精緻的工藝紋理",
+      "傳統市場或港口場景",
+      "具備特定標記的貓咪外型"
+    ],
+    "prompt": "A split view composition art piece combining low-poly digital origami and long exposure photography. Left side: Momo, a sleek slender solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny white fur locket tuft on the chest, a single small gold hoop earring on the left ear, and a dark-grey ring at the tail tip, lies calmly on a stack of vintage books. Her large luminous golden-amber eyes reflect pink moonlight. Right side: A window view of a pink full moon illuminating a rain of cherry blossoms, rendered in low-poly style with flat shaded triangular faces and geometric crystalline surfaces. The rainy glass shows long exposure light trails and neon reflections on wet surfaces. The timestamp '2026-04-01 18:44 UTC' is clearly visible in the corner. Moody urban night atmosphere with a retro faded color palette, nostalgic film-era warmth, and soft pink and neon cyan lighting.",
+    "comment_id": 4172252908,
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）載人繞月任務預計於 4 月 1 日至 2 日在佛羅里達州發射，恰恰逢今年最壯觀的「粉紅滿月」。",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Split View",
+      "lighting": "Neon Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Retro Faded Tones"
+    },
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號（Artemis II）載人繞月任務預計於 4 月 1 日至 2 日在佛羅里達州發射，恰逢今年最壯觀的「粉紅滿月」。",
+      "澳洲 科學家在珊瑚海的海域發現了超過 110 種前所未見的新物種，其中包括新型的深海貓鯊與魟魚，為海洋生物多樣性帶來重大突破。",
+      "日本 近期在社群平台 X（原 Twitter）上的獨特生活文化貼文意外在美國走紅，被許多歐美網友譽為是網路上最療癒且有趣的角落。",
+      "泰國 曼谷即將迎來一年一度的宋干節（潑水節），官方預期 2026 年的旅遊熱度將創新高，各地正積極籌備融合傳統祭祀與大型噴水派對的慶典。",
+      "印度 各地於本週歡慶傳統的「荷麗節」（Holi），民眾走上街頭互撒五彩粉末並潑灑彩水，象徵春天的到來與正義的勝利。"
+    ],
+    "season": "spring",
+    "character_name": "墨墨",
+    "character": "momo",
+    "idea": "這是一幅結合低多邊形紋理與長曝光攝影的作品，採用分割畫面呈現墨墨在雨天舊書店窗台上，望向窗外被粉紅滿月映照的櫻花雨。",
+    "is_seasonal": true,
+    "story": "在阿提米絲任務升空的這晚，粉紅滿月恰好升起。墨墨靜靜地趴在窗邊的舊書上，牠那金琥珀色的眼睛反射著窗外的櫻花與月光，彷彿在清冷與溫暖的霓虹色調間，獨自進行一場跨越星空的遠航。",
+    "title": "月升之時的櫻色遠航"
   }
 ]
