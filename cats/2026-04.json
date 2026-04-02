@@ -928,5 +928,44 @@
       "color_palette": "Morandi Color Palette"
     },
     "inspiration": "original"
+  },
+  {
+    "comment_id": 4180099344,
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "story": "在貝爾格勒的聚光燈下，這隻半透明的塑膠貓咪隨著強勁的節奏旋轉，燭光在它充氣的軀幹上反射出奇異的光澤。周圍的頂尖舞者們紛紛停下腳步，驚訝地看著這場結合了現代科技與傳統舞蹈藝術的跨界演出。",
+    "idea": "一隻充氣 PVC 質感的貓咪在等距攝影視角下，於塞爾維亞貝爾格勒舞蹈節的舞台中央表演霹靂舞，呈現鮮明的普普藝術雙色調。",
+    "number": 1226,
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Isometric Photography",
+      "lighting": "Candlelight",
+      "texture": "Inflatable PVC",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "澳洲海洋科學家在珊瑚海深海區域發現了超過 110 種新魚類與無脊椎動物，包含罕見的貓鯊與魟魚品種。",
+      "南韓鎮海市正舉辦盛大的「鎮海軍港節」，以壯觀的櫻花美景與海軍軍事遺產慶祝春季的到來。",
+      "賽普勒斯波萊米村展開了一年一度的鬱金香節，展示該地區特有的珍稀原生種紅鬱金香與豐富的鄉村文化。",
+      "巴林國際花園展在麥納瑪盛大開幕，以「綠色夢想走向全球」為主題展示尖端的園藝技術與景觀設計。",
+      "塞爾維亞貝爾格勒舞蹈節匯集了全球頂尖舞者，在今日持續呈現多場結合傳統與現代藝術的精彩舞蹈演出。"
+    ],
+    "inspiration": "塞爾維亞貝爾格勒舞蹈節匯集了全球頂尖舞者，在今日持續呈現多場結合傳統與現代藝術的精彩舞蹈演出。",
+    "prompt": "An isometric photograph of an inflatable PVC cat performing breakdancing moves in the center of the Belgrade Dance Festival stage. The cat has a high-gloss balloon-like surface with puffy rounded forms and air-filled tension. The image features a duotone color treatment in bold primary colors with a pop art style, incorporating Ben-Day dots and thick outlines. Lighting consists of a warm orange flickering candlelight glow, creating an intimate atmosphere with soft dancing shadows reflected on the cat's torso. The composition is a perfectly isometric angle, captured with a 50mm lens to avoid miniature effects. The date and time '2026-04-02 19:41 UTC' is visually displayed in the corner of the frame.",
+    "title": "充氣舞台的韻律"
   }
 ]
