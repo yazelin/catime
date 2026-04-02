@@ -10927,5 +10927,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "timestamp": "2026-04-01 23:27 UTC",
     "inspiration": "original"
+  },
+  {
+    "timestamp": "2026-04-02 01:14 UTC",
+    "title": "金流影裡的掌舵者",
+    "number": 1212,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-02_0114_UTC.webp",
+    "inspiration": "台灣屏東大鵬灣灣域自 4 月 1 日起展開全台最大的帆船生活節，結合遊艇賽事與一日船長體驗吸引大量遊客參與。",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
