@@ -1043,5 +1043,38 @@
     "character_name": "墨墨",
     "inspiration": "original",
     "prompt": "3D chibi blind box style art of Momo, a sleek solid-black Bombay shorthair cat with satin-sheen fur, a tiny white chest tuft, and a single gold hoop earring in her left ear. Momo sits on a miniature bookshelf inside a vintage bookstore window, gazing at falling cherry blossom rain. The composition features a Droste effect where Momo holds an open book showing the same window and cat repeating infinitely. The style is a C4D render with smooth plastic toy textures and luxurious velvet accents. Lighting is soft studio lighting with a dramatic golden rim light highlighting Momo's athletic silhouette and golden-amber eyes. The color palette uses retro faded, washed-out vintage tones for a nostalgic spring atmosphere. The date '2026-04-02 21:26 UTC' is clearly and visually displayed in the image as a printed timestamp on a miniature book spine."
+  },
+  {
+    "idea": "這是一幅採用生物朋克風格的分割畫面作品：左側展示一隻穿著螢光皮革背心的貓在實驗室培育發光植物，右側則是牠在黃金時刻下，於充滿霓虹線條的溫室屋頂操作生物電腦。",
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Split View",
+      "lighting": "Golden Hour",
+      "texture": "Leather",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "original",
+    "title": "螢光脈動的守護者",
+    "number": 1229,
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "news_inspiration": [],
+    "prompt": "A biopunk split view composition with a sharp vertical cut line. Left side: A photorealistic cat wearing a fluorescent leather vest with rich grain and supple creased texture, tending to bioluminescent mutated flora in a dark laboratory; 35mm lens, f/2.8, shallow depth of field. Right side: The same cat on a greenhouse roof at golden hour, operating an organic-mechanical hybrid biocomputer with neon wireframe lines against a warm sunset glow and long soft shadows. Colors feature a mix of electric pink, lime green, and hot cyan glowing against a dark backdrop. The date and time '2026-04-02 22:22 UTC' is clearly visually displayed in the scene.",
+    "story": "在基因工程主導的未來，這隻具備高度智慧的貓負責維護城市的氧氣供應系統。牠正透過皮膚接觸感應器，將自己的生物頻率與發光藤蔓同步，確保霓虹森林在落日時分準時綻放。",
+    "comment_id": 4180803656
   }
 ]
