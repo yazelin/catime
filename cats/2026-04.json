@@ -609,5 +609,43 @@
       "貓咪進行專業職人動作",
       "黑白單色背景與高飽和色彩對比"
     ]
+  },
+  {
+    "number": 1216,
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Split View",
+      "lighting": "Ring Light",
+      "texture": "Origami",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "Split view composition: left half is an expressive Fauvism painting with bold non-naturalistic colors and textured impasto brushwork, right half is an Origami style paper sculpture. An orange cat constructed from clean geometric creases and sharp angular folds is inside the Artemis II spacecraft cabin, carefully mending a floating navigational star map with its paws. The lighting features a prominent ring light effect with circular catchlights. The color palette blends wildly vibrant Fauvist tones with a soft pastel secondary palette of lavender, mint, and baby blue. The date and time '2026-04-02 08:53 UTC' is clearly displayed as a digital overlay on a cabin monitor. Minimalist paper aesthetic, simplified forms, sharp vertical cut line dividing the two styles.",
+    "story": "在前往月球的軌道上，這隻由幾何摺痕構成的橘貓化身為最安靜的船員。它正小心翼翼地用爪子按住受損的星圖，在環形燈的柔和粉彩光影下，保護著人類重返月球的夢想。",
+    "avoid_list": [
+      "生物發光與霓虹螢光配色",
+      "漂浮島嶼或浮空建築場景",
+      "俯瞰鳥瞰或魚眼扭曲視角",
+      "黏土質感與手工捏塑紋理",
+      "精確的日期時間戳記文字",
+      "穿著絲綢或碳纖維科技甲冑",
+      "操作機械蜂或實驗室精密儀器",
+      "低多邊形與幾何抽象風格結合",
+      "在窗台或桌前凝視蠟燭與月光",
+      "宏偉的巴洛克或洛可可裝飾風格",
+      "深青色體積光與冷調科技氛圍",
+      "貓咪進行專業職人動作",
+      "黑白單色背景與高飽和色彩對比"
+    ],
+    "idea": "這是一幅結合野獸派大膽色塊與摺紙質感的分割畫面，展示一隻摺紙構造的橘貓正在阿提米絲 2 號船艙內嘗試修補飄浮的導航圖紙。",
+    "comment_id": 4175736832,
+    "title": "月軌上的紙痕導航",
+    "news_inspiration": [
+      "美國佛羅里達州一家醫院發生了一件暖心趣聞，一名已經康復但不願出院的患者，因為太喜歡醫院的照顧而與院方展開了一場溫馨又無奈的遷延爭議。",
+      "澳洲科學家在珊瑚海的深海區域發現了超過 110 種科學界從未記載過的新物種，其中包括極其罕見的深海貓鯊與銀鮫。",
+      "美國 NASA 的阿提米絲 2 號載人太空船今日成功升空，帶領四名太空人開啟為期 10 天的繞月之旅，這是人類時隔 50 年後再度重返月球軌道。",
+      "紐西蘭奧克蘭市今日舉辦「文化世界節」系列活動，透過電影放映與傳統工藝工作坊，向市民展示來自吐瓦魯與菲律賓等不同族裔的多樣文化魅力。",
+      "英國一隻頑皮的紅狐狸意外在一艘貨輪上「偷渡」，歷經長途航行後跨越大西洋平安抵達美國，目前已交由當地野生動物保護組織妥善安置。"
+    ],
+    "inspiration": "美國 NASA 的阿提米絲 2 號載人太空船今日成功升空，帶領四名太空人開啟為期 10 天的繞月之旅，這是人類時隔 50 年後再度重返月球軌道。"
   }
 ]

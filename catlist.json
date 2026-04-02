@@ -10963,5 +10963,14 @@
     "status": "success",
     "title": "海境微觀圖鑑",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": 1216,
+    "timestamp": "2026-04-02 08:53 UTC",
+    "status": "success",
+    "title": "月軌上的紙痕導航",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-02_0853_UTC.webp",
+    "inspiration": "美國 NASA 的阿提米絲 2 號載人太空船今日成功升空，帶領四名太空人開啟為期 10 天的繞月之旅，這是人類時隔 50 年後再度重返月球軌道。",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
