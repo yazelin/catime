@@ -571,5 +571,43 @@
       "color_palette": "Monochrome / Black and White"
     },
     "prompt": "A giant translucent holographic cat, glowing with blue-cyan light and digital scan lines, carefully using its paw to brush dust off a tiny Dollylong dinosaur fossil. Fisheye wide-angle lens with strong barrel distortion creates a 360-degree feel, exaggerating the foreground. The scene is set on a monochrome black and white wooden floor with high-contrast grain textures and visible knots. The lighting is a mix of cool silvery moonlight and sci-fi hologram emission, casting dramatic shadows. Small glowing digital text reading '2026-04-02 06:05 UTC' is visually displayed in the lower corner of the frame. Digital art style, intricate sci-fi holographic effect, high tonal range, quiet nighttime atmosphere."
+  },
+  {
+    "number": 1215,
+    "inspiration": "澳洲聯邦科學與工業研究組織（CSIRO）宣佈在珊瑚海深處發現了超過 110 種前所未見的新物種，其中包括多種稀有的深海鯊魚與鰩魚。",
+    "idea": "這是一張採用 35mm 底片攝影風格的照片，利用移軸微縮效果呈現澳洲珊瑚海灘上的場景，一隻半透明樹脂質感的虎斑貓正專注地在金色沙灘上翻閱一本厚重的防水圖鑑。",
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Golden Hour",
+      "texture": "Translucent Resin",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 4175466309,
+    "prompt": "這是一張採用 35mm 底片攝影風格的照片，利用移軸微縮效果呈現澳洲珊瑚海灘上的場景，一隻半透明樹脂質感的虎斑貓正專注地在金色沙灘上翻閱一本厚重的防水圖鑑。. The date and time '2026-04-02 07:58 UTC' is visually displayed in the image. 35mm film photography, visible grain, warm tones, nostalgic feel, slight vignette, Tilt-shift photography, selective focus band, miniature toy-like effect, blurred foreground and background, vibrant saturated colors, golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, translucent resin material, embedded elements visible inside, glossy smooth surface, amber-like clarity, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth",
+    "news_inspiration": [
+      "美國航太總署（NASA）於今日成功發射「阿提米絲2號」（Artemis II），載著四名太空人展開睽違逾 50 年的首次繞月飛行任務。",
+      "澳洲聯邦科學與工業研究組織（CSIRO）宣佈在珊瑚海深處發現了超過 110 種前所未見的新物種，其中包括多種稀有的深海鯊魚與鰩魚。",
+      "英國政府今日啟動全新國家交通戰略，讓全英各地的巴士與輕軌皆可實施「感應支付」，並與 Google 地圖合作提供偏遠地區的即時公車追蹤服務。",
+      "突尼西亞正在舉行年度「Sicca 爵士音樂節」（Sicca Jazz Festival），吸引了全球樂迷前往這座北非古城體驗融合在地文化的音樂盛宴。",
+      "西班牙的伊比利高地成功引進歐洲野牛進行野放，這項自然復育計畫旨在透過大型草食動物改善生物多樣性並防止野火擴散。"
+    ],
+    "story": "在珊瑚海的微型海岸線上，這隻好奇的貓咪正對照著圖鑑，試圖辨認剛從深海湧上岸的奇特貝殼。夕陽的餘暉灑在牠那如樹脂般透光的毛皮上，與遠處剛被科學家發現的新物種氣息交織成一場微觀的冒險。",
+    "title": "海境微觀圖鑑",
+    "avoid_list": [
+      "生物發光與霓虹螢光配色",
+      "漂浮島嶼或浮空建築場景",
+      "俯瞰鳥瞰或魚眼扭曲視角",
+      "黏土質感與手工捏塑紋理",
+      "精確的日期時間戳記文字",
+      "穿著絲綢或碳纖維科技甲冑",
+      "操作機械蜂或實驗室精密儀器",
+      "低多邊形與幾何抽象風格結合",
+      "在窗台或桌前凝視蠟燭與月光",
+      "宏偉的巴洛克或洛可可裝飾風格",
+      "深青色體積光與冷調科技氛圍",
+      "貓咪進行專業職人動作",
+      "黑白單色背景與高飽和色彩對比"
+    ]
   }
 ]
