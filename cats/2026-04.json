@@ -719,5 +719,37 @@
     "idea": "這是一幅以莫蘭迪色調刺繡呈現的鏡子自拍作品，巨大的虎斑貓船長正用白手套肉球笨拙地拿著一台被大理石外殼包覆的復古相機，對著魚市場的老舊更衣鏡自拍，背景閃爍著直打閃光燈的強烈光影。",
     "character_name": "船長",
     "character": "captain"
+  },
+  {
+    "story": "在充滿高飽和鮮豔色彩的狹小理髮店裡，這隻擁有天鵝絨般柔軟毛皮的貓咪，展現出驚人的平衡感。它踩在生鏽的皮革旋轉椅背上，以極低角度的雄偉姿態，精準地揮動著手中的金屬剃刀，空氣中瀰漫著老派男士香水的味道。",
+    "number": 1219,
+    "comment_id": 4176969842,
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Extreme Low Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Velvet",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A giant ginger cat with thick velvet-textured fur balances on a rusted leather barber chair, meticulously trimming an old gentleman's beard with a metal razor. Fauvism art style featuring bold non-naturalistic colors, textured impasto brushwork, and simplified forms. Extreme low angle shot looking up at the towering cat for a powerful perspective. Dramatic Rembrandt lighting with a single light source at 45 degrees, creating a signature triangle of light on the shadowed cheek and intense chiaroscuro. The narrow vintage American barbershop is filled with high saturation vivid colors and an energetic palette of wild, vibrant hues. The date and time '2026-04-02 11:37 UTC' is clearly visually displayed on the barbershop wall.",
+    "avoid_list": [
+      "生物發光與霓虹螢光配色",
+      "漂浮島嶼或浮空建築場景",
+      "俯瞰鳥瞰或魚眼扭曲視角",
+      "黏土質感與手工捏塑紋理",
+      "精確的日期時間戳記文字",
+      "穿著絲綢或碳纖維科技甲冑",
+      "操作機械蜂或實驗室精密儀器",
+      "低多邊形與幾何抽象風格結合",
+      "在窗台或桌前凝視蠟燭與月光",
+      "宏偉的巴洛克或洛可可裝飾風格",
+      "深青色體積光與冷調科技氛圍",
+      "貓咪進行專業職人動作",
+      "黑白單色背景與高飽和色彩對比"
+    ],
+    "news_inspiration": [],
+    "title": "紅牆裡的理髮大師",
+    "inspiration": "original",
+    "idea": "一隻巨大的橘貓在野獸派風格的復古美式理髮店中，正專注地用厚實的爪子為一位老紳士修剪鬍鬚，運用倫勃朗光影展現強烈對比。"
   }
 ]
