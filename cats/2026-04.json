@@ -817,5 +817,44 @@
     ],
     "title": "水泥地的流動音符",
     "news_inspiration": []
+  },
+  {
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Moonlight",
+      "texture": "Low Poly",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 1223,
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "prompt": "A low-poly digital illustration of an orange cat named Artemis in a lunar orbiter. The cat wears a luxurious Art Deco style spacesuit featuring geometric patterns, gold accents, and black trim with 1920s elegance. Artemis is floating and gazing through a recursive window, creating a Droste effect with an infinite repeating loop of the cat observing the moon. The environment consists of flat-shaded triangular faces and polygon mesh facets in a crystalline, digital origami aesthetic. The lighting is a gentle silvery moonlight glow with cool blue tones. The color palette is retro and faded with washed-out vintage tones and low contrast. Inscribed clearly on the cabin wall or a digital display is the text '2026-04-02 16:44 UTC'.",
+    "news_inspiration": [
+      "樂高（LEGO）與足球明星梅西及姆巴佩合作，在丹麥推出了專為 2026 年世界盃設計的限量版球星人偶收藏系列。",
+      "美國 NASA 的阿提米絲 2 號（Artemis II）太空人已正式展開為期 10 天的繞月任務，這是人類時隔 50 多年後再次載人飛往月球軌道。",
+      "澳洲瓦加瓦加（Wagga Wagga）的青少年為慶祝青年週，在街道人行道上創作了充滿活力的鞋印彩繪與鞋帶雕塑藝術展。",
+      "芬蘭近日舉辦了傳統的馴鹿賽車大賽，吸引了大批觀眾在酷寒中感受這項獨特的北歐文化體育盛事。",
+      "英國一名英格蘭足球隊的超級粉絲為了籌集前往 2026 年世界盃觀賽的旅費，竟然決定出售自己的房屋以圓足球夢。"
+    ],
+    "story": "這隻名叫『阿提米絲』的橘貓正執行人類睽違半世紀的載人繞月任務。牠在船艙內優雅地飄浮，透過一個個層疊嵌入的視窗，看見無數個自己也在觀察那銀色的荒原。",
+    "title": "月影遞迴的星航者",
+    "idea": "在一座低多邊形（Low Poly）風格的月球軌道艙內，一隻穿著裝飾藝術風格宇航服的貓正專注地透過遞迴式視窗觀測月球，整幅畫面呈現復古褪色的月光色調。",
+    "comment_id": 4179125085,
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）太空人已正式展開為期 10 天的繞月任務，這是人類時隔 50 多年後再次載人飛往月球軌道。"
   }
 ]
