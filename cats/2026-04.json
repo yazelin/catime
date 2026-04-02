@@ -647,5 +647,37 @@
       "英國一隻頑皮的紅狐狸意外在一艘貨輪上「偷渡」，歷經長途航行後跨越大西洋平安抵達美國，目前已交由當地野生動物保護組織妥善安置。"
     ],
     "inspiration": "美國 NASA 的阿提米絲 2 號載人太空船今日成功升空，帶領四名太空人開啟為期 10 天的繞月之旅，這是人類時隔 50 年後再度重返月球軌道。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Knolling Photography",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Marble",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "生物發光與霓虹螢光配色",
+      "漂浮島嶼或浮空建築場景",
+      "俯瞰鳥瞰或魚眼扭曲視角",
+      "黏土質感與手工捏塑紋理",
+      "精確的日期時間戳記文字",
+      "穿著絲綢或碳纖維科技甲冑",
+      "操作機械蜂或實驗室精密儀器",
+      "低多邊形與幾何抽象風格結合",
+      "在窗台或桌前凝視蠟燭與月光",
+      "宏偉的巴洛克或洛可可裝飾風格",
+      "深青色體積光與冷調科技氛圍",
+      "貓咪進行專業職人動作",
+      "黑白單色背景與高飽和色彩對比"
+    ],
+    "comment_id": 4176048029,
+    "story": "這隻名為『植覺』的貓並非在搞破壞，而是在進行一場植物構造的微觀研究。牠細心地將葉片、根系與大理石盆器按比例擺放，彷彿在混亂的自然中找尋一種粉嫩的幾何秩序。",
+    "idea": "一張採用濕版攝影技術的 Knolling 排列照片，呈現一隻慵懶的橘貓在粉彩色系的大理石工作檯面上，精準地拆解並排列各種多肉植物零件，背景透著柔和的日光燈影。",
+    "number": 1217,
+    "inspiration": "original",
+    "prompt": "A vintage wet plate collodion photograph, flat lay overhead view, knolling photography. A lazy ginger cat is precisely arranging disassembled succulent plant parts, leaves, roots, and marble pots in an organized grid layout at 90-degree angles on a polished pastel marble countertop with natural vein patterns. The scene features silver-toned monochrome qualities with dark edges and chemical imperfections characteristic of a tintype. The date and time '2026-04-02 09:50 UTC' is visually inscribed into the corner of the plate. Shot with a large format bellows camera, f/8, overhead fluorescent lighting, neutral white 5000K, flat institutional illumination, soft pastel colors of mint and lavender bleeding through the silver grain.",
+    "title": "石上花開的秩序",
+    "news_inspiration": []
   }
 ]
