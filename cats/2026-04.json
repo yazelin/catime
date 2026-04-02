@@ -679,5 +679,45 @@
     "prompt": "A vintage wet plate collodion photograph, flat lay overhead view, knolling photography. A lazy ginger cat is precisely arranging disassembled succulent plant parts, leaves, roots, and marble pots in an organized grid layout at 90-degree angles on a polished pastel marble countertop with natural vein patterns. The scene features silver-toned monochrome qualities with dark edges and chemical imperfections characteristic of a tintype. The date and time '2026-04-02 09:50 UTC' is visually inscribed into the corner of the plate. Shot with a large format bellows camera, f/8, overhead fluorescent lighting, neutral white 5000K, flat institutional illumination, soft pastel colors of mint and lavender bleeding through the silver grain.",
     "title": "石上花開的秩序",
     "news_inspiration": []
+  },
+  {
+    "avoid_list": [
+      "生物發光與霓虹螢光配色",
+      "漂浮島嶼或浮空建築場景",
+      "俯瞰鳥瞰或魚眼扭曲視角",
+      "黏土質感與手工捏塑紋理",
+      "精確的日期時間戳記文字",
+      "穿著絲綢或碳纖維科技甲冑",
+      "操作機械蜂或實驗室精密儀器",
+      "低多邊形與幾何抽象風格結合",
+      "在窗台或桌前凝視蠟燭與月光",
+      "宏偉的巴洛克或洛可可裝飾風格",
+      "深青色體積光與冷調科技氛圍",
+      "貓咪進行專業職人動作",
+      "黑白單色背景與高飽和色彩對比"
+    ],
+    "story": "船長在巡邏魚市場時，偶然在廢棄更衣間發現了一面大鏡子。牠想起年輕時在漁船上聽過的「莫比迪克」傳說，決定挺起寬闊的胸膛，在鏡頭前留下自己如巨鯨般威嚴的壯碩身影。",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Direct Flash",
+      "texture": "Marble",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "老碼頭的自畫像",
+    "news_inspiration": [
+      "美國 NASA 於今日成功發射阿提米絲 2 號（Artemis II），載著四名太空人展開睽違 50 多年的首次載人繞月飛行任務。",
+      "南美洲雨林中發現了一種外型奇特的白蟻新物種，因其頭部巨大且形似抹香鯨，被科學家正式命名為「莫比迪克」白蟻。",
+      "韓國首爾的國立中央博物館近期訪客量激增，顯示出當地文化藝術展覽對大眾的吸引力正持續攀升。",
+      "威爾斯橄欖球員喬伊斯（Joyce）在產後僅數月便入選女子六國賽名單，其驚人的體能恢復與職業精神令體壇感到震撼。",
+      "尼泊爾科學家 Rajat Sainju 成功開發出能自主管理科學設施的 AI 系統，展現了該國在尖端科技領域的研發實力。"
+    ],
+    "number": 1218,
+    "comment_id": 4176327298,
+    "inspiration": "南美洲雨林中發現了一種外型奇特的白蟻新物種，因其頭部巨大且形似抹香鯨，被科學家正式命名為「莫比迪克」白蟻。",
+    "prompt": "Embroidered illustration on linen fabric using satin stitch and French knots, a mirror selfie of a large stocky brown tabby cat with bold black stripes, muscular build, scruffy coarse fur. LEFT eye is entirely covered by a natural dark-pigmented fur patch with no straps; RIGHT eye is piercing emerald green. V-shaped notch on the left ear, a faded red bandana around the neck, white chest bib, and white mitten paws. The cat clumsily holds a vintage camera with a polished marble texture shell. The scene is reflected in a weathered fish market dressing room mirror. Lighting features a harsh direct on-camera flash with blown-out highlights and hard shadows. Morandi color palette with muted dusty greys and desaturated pastels. Text '2026-04-02 10:41 UTC' is visually stitched into the bottom corner of the image.",
+    "idea": "這是一幅以莫蘭迪色調刺繡呈現的鏡子自拍作品，巨大的虎斑貓船長正用白手套肉球笨拙地拿著一台被大理石外殼包覆的復古相機，對著魚市場的老舊更衣鏡自拍，背景閃爍著直打閃光燈的強烈光影。",
+    "character_name": "船長",
+    "character": "captain"
   }
 ]
