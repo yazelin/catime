@@ -856,5 +856,44 @@
     "idea": "在一座低多邊形（Low Poly）風格的月球軌道艙內，一隻穿著裝飾藝術風格宇航服的貓正專注地透過遞迴式視窗觀測月球，整幅畫面呈現復古褪色的月光色調。",
     "comment_id": 4179125085,
     "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）太空人已正式展開為期 10 天的繞月任務，這是人類時隔 50 多年後再次載人飛往月球軌道。"
+  },
+  {
+    "inspiration": "加拿大皇家軍團於渥太華正式發表「軍團100」紀念鬱金香，以獨特的紅白色瓣慶祝該組織成立百週年並致敬退伍軍人。",
+    "story": "為了紀念特別的百年慶典，這隻嚴謹的貓花匠將每一片「軍團100」紀念鬱金香拆解並按幾何比例重新排列。在微弱的燭光下，破碎的色塊與螢光線條交織，彷彿將歷史與思念重新組合成一幅抽象的致敬圖騰。",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Knolling Photography",
+      "lighting": "Candlelight",
+      "texture": "Paper Texture",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 4179435738,
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "number": 1224,
+    "news_inspiration": [
+      "美國甘迺迪太空中心於本週三成功發射阿提米絲2號，載著四名太空人展開逾半世紀以來首次載人繞月飛行任務。",
+      "加拿大皇家軍團於渥太華正式發表「軍團100」紀念鬱金香，以獨特的紅白色瓣慶祝該組織成立百週年並致敬退伍軍人。",
+      "南非開普敦一名健身教練成功發起圓夢行動，帶領一群來自弱勢社區的孩子們首度前往球場現場觀看國家隊 Bafana Bafana 的比賽。",
+      "美國維吉尼亞州一名高中生研發出一種利用鐵磁流體的高效過濾器，能清除飲水中高達 96% 的微塑膠，展現驚人的科學創新力。",
+      "愛爾蘭政府於今日積極鼓勵國內畢業生申請歐盟藍皮書實習計畫，提供前往布魯塞爾參與歐盟政策制定與國際事務的帶薪實習機會。"
+    ],
+    "idea": "以立體主義風格呈現，一隻橘貓正以 Knolling 排列攝影的方式整齊擺放各色鬱金香花瓣，畫面充斥霓虹螢光色的紙質肌理感。",
+    "prompt": "以立體主義風格呈現，一隻橘貓正以 Knolling 排列攝影的方式整齊擺放各色鬱金香花瓣，畫面充斥霓虹螢光色的紙質肌理感。. The date and time '2026-04-02 17:40 UTC' is visually displayed in the image. Cubism art, geometric fragmented forms, multiple simultaneous perspectives, abstract angular planes, analytical decomposition, Knolling photography, flat lay overhead view, objects neatly arranged at 90-degree angles, organized grid layout, clean background, candlelight, warm orange flickering glow, intimate atmosphere, soft dancing shadows, textured paper surface, visible fiber grain, kraft or watercolor paper feel, tactile warmth, neon fluorescent colors, electric pink, lime green, hot cyan, glowing against dark background",
+    "title": "紅瓣幾何的百年奏鳴"
   }
 ]
