@@ -967,5 +967,38 @@
     "inspiration": "塞爾維亞貝爾格勒舞蹈節匯集了全球頂尖舞者，在今日持續呈現多場結合傳統與現代藝術的精彩舞蹈演出。",
     "prompt": "An isometric photograph of an inflatable PVC cat performing breakdancing moves in the center of the Belgrade Dance Festival stage. The cat has a high-gloss balloon-like surface with puffy rounded forms and air-filled tension. The image features a duotone color treatment in bold primary colors with a pop art style, incorporating Ben-Day dots and thick outlines. Lighting consists of a warm orange flickering candlelight glow, creating an intimate atmosphere with soft dancing shadows reflected on the cat's torso. The composition is a perfectly isometric angle, captured with a 50mm lens to avoid miniature effects. The date and time '2026-04-02 19:41 UTC' is visually displayed in the corner of the frame.",
     "title": "充氣舞台的韻律"
+  },
+  {
+    "inspiration": "original",
+    "story": "在深夜的私人甜點工房裡，貓咪鑑定師正專注地將每一塊手工巧克力與金箔飾品整齊對齊。微弱的燭火照亮了黑色大理石上的金漆紋路，讓這場深夜的甜點儀式充滿了靜謐的奢華感。",
+    "idea": "這是一幅結合 3D 渲染質感的奢華水彩畫，呈現一隻黑貓在金色燭光下，以 Knolling 排列攝影風格精確地拆解並排列頂級松露巧克力。",
+    "news_inspiration": [],
+    "title": "深夜的金工食譜",
+    "prompt": "A luxurious watercolor painting with polished 3D render textures, featuring a sleek black cat acting as a pastry connoisseur, meticulously arranging deconstructed gourmet truffle chocolates and gold leaf ornaments. The composition follows a strict Knolling photography style, a flat lay overhead view with all items organized in a precise 90-degree grid on a black marble surface with gold veins. Soft transparent pigments and bleeding edges of the watercolor medium blend with the smooth geometry and global illumination of a high-end 3D aesthetic. The scene is illuminated by flickering orange candlelight, creating long dancing shadows and an intimate atmosphere. The color palette is dominated by deep obsidian and opulent metallic gold. The date and time '2026-04-02 20:24 UTC' is elegantly inscribed on the marble surface.",
+    "number": 1227,
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "comment_id": 4180303671,
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Knolling Photography",
+      "lighting": "Candlelight",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
