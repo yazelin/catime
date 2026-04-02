@@ -11010,5 +11010,13 @@
     "title": "回聲迴廊的撥號者",
     "status": "success",
     "inspiration": "original"
+  },
+  {
+    "status": "failed",
+    "model": "all failed",
+    "number": null,
+    "url": null,
+    "timestamp": "2026-04-02 14:15 UTC",
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
