@@ -1000,5 +1000,48 @@
       "texture": "3D Render",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "story": "春雨綿綿，墨墨窩在最愛的舊書店窗台上，望著飄落的櫻花雨。牠正盯著一本關於空間幾何的古書看著，彷彿自己也陷入了無限循環的書中世界，在天鵝絨般的夢境中穿梭。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Velvet",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 4180584363,
+    "season": "spring",
+    "number": 1228,
+    "character": "momo",
+    "idea": "這是一幅 3D 盲盒風格的藝術創作，黑貓墨墨正坐在舊書店窗台邊的微縮模型書中，而模型書中又重複出現縮小的窗台與墨墨，形成迷幻的德羅斯特遞迴效應。",
+    "news_inspiration": [
+      "在印度的印第安納波利斯，2026年 NCAA 男子籃球「最終四強」賽事於今日正式點燃戰火。",
+      "紐西蘭一名登山客的愛犬在荒野森林失蹤，在眾多陌生網友集資贊助直升機搜救後，今日成功獲救。",
+      "美國科學家研發出一款感應透明指甲油，能讓留長指甲的使用者更順暢地操作智慧型手機觸控螢幕。",
+      "希臘聖山阿索斯山的僧侶向大眾分享了春季健康飲食指南，結合傳統斷食與地中海飲食習慣引起文化關注。",
+      "南非一名政治家為了抗議城市道路管理不善，親自跳入巨大的路面坑洞中進行浮潛，引發社群媒體熱議。"
+    ],
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "is_seasonal": true,
+    "title": "櫻雨中的無限墨色",
+    "character_name": "墨墨",
+    "inspiration": "original",
+    "prompt": "3D chibi blind box style art of Momo, a sleek solid-black Bombay shorthair cat with satin-sheen fur, a tiny white chest tuft, and a single gold hoop earring in her left ear. Momo sits on a miniature bookshelf inside a vintage bookstore window, gazing at falling cherry blossom rain. The composition features a Droste effect where Momo holds an open book showing the same window and cat repeating infinitely. The style is a C4D render with smooth plastic toy textures and luxurious velvet accents. Lighting is soft studio lighting with a dramatic golden rim light highlighting Momo's athletic silhouette and golden-amber eyes. The color palette uses retro faded, washed-out vintage tones for a nostalgic spring atmosphere. The date '2026-04-02 21:26 UTC' is clearly and visually displayed in the image as a printed timestamp on a miniature book spine."
   }
 ]

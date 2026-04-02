@@ -11072,5 +11072,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-02_2024_UTC.webp",
     "title": "深夜的金工食譜",
     "number": 1227
+  },
+  {
+    "season": "spring",
+    "timestamp": "2026-04-02 21:26 UTC",
+    "number": 1228,
+    "character": "momo",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-02_2126_UTC.webp",
+    "title": "櫻雨中的無限墨色",
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "墨墨",
+    "status": "success",
+    "inspiration": "original"
   }
 ]
