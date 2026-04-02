@@ -784,5 +784,38 @@
       "color_palette": "Duotone"
     },
     "inspiration": "original"
+  },
+  {
+    "prompt": "A black and white disposable camera photograph of a tabby cat wearing miniature quad roller skates, captured from a perfectly isometric angle. The cat is gliding gracefully across a brutalist industrial concrete rink with rough aggregate texture and visible cracks. Harsh direct on-camera flash creates blown-out highlights and hard dramatic shadows, capturing a raw candid snapshot look with high contrast and rich tonal range. The bottom right corner displays a digital date and time stamp: 2026-04-02 15:50 UTC. The image has flash artifacts, light leaks, and the low-quality charm of a real handheld snapshot, emphasizing industrial minimalism and urban material.",
+    "story": "這隻貓曾是這座廢棄工廠的守衛，現在則是深夜溜冰場的秘密明星。當閃光燈亮起的瞬間，牠正優雅地繞過地上的混凝土裂縫，捕捉到一種生冷而純粹的自由感。",
+    "comment_id": 4178854503,
+    "idea": "在粗糙的工業混凝土溜冰場中，一隻穿著微型四輪溜冰鞋的虎斑貓正以等距攝影視角展現其流暢的滑行姿態，畫面呈現即棄相機的黑白閃光燈質感。",
+    "number": 1222,
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Isometric Photography",
+      "lighting": "Direct Flash",
+      "texture": "Concrete",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "inspiration": "original",
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "title": "水泥地的流動音符",
+    "news_inspiration": []
   }
 ]
