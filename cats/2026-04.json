@@ -751,5 +751,38 @@
     "title": "紅牆裡的理髮大師",
     "inspiration": "original",
     "idea": "一隻巨大的橘貓在野獸派風格的復古美式理髮店中，正專注地用厚實的爪子為一位老紳士修剪鬍鬚，運用倫勃朗光影展現強烈對比。"
+  },
+  {
+    "comment_id": 4177629425,
+    "news_inspiration": [],
+    "idea": "一隻低多邊形風格的貓正在裝飾藝術風格的通訊室內撥打轉盤電話，構圖呈現無限延伸的德羅斯特效應。",
+    "avoid_list": [
+      "大理石紋理背景",
+      "貓咪進行精密操作或修復任務",
+      "鏡子自拍視角與反射",
+      "黏土或陶瓷手工材質質感",
+      "日期時間浮水印標記",
+      "野獸派大膽色塊與筆觸",
+      "極端視角如魚眼或極低角度",
+      "巨大化貓咪與微縮場景對比",
+      "多肉植物或恐龍化石物件",
+      "倫勃朗或體積光強烈光影",
+      "莫蘭迪或粉彩色調調色",
+      "幾何摺紙或紙捲藝術風格",
+      "復古相機或帆船元素",
+      "迷宮與古文明遺跡設定"
+    ],
+    "number": 1220,
+    "prompt": "Art Deco illustration of a low-poly cat with geometric crystalline facets and flat shaded triangular faces, using a luxurious gold and black duotone palette. The cat is elegantly dialing a vintage rotary telephone inside a metallic communications room defined by symmetrical geometric patterns and 1920s elegance. The composition features a recursive Droste effect where the scene repeats infinitely within a picture frame on the wall. Butterfly lighting creates symmetrical shadows and a glamour portrait feel. The date and time '2026-04-02 12:45 UTC' is visually displayed on a digital readout within the room.",
+    "story": "這隻優雅的貓身處金屬感十足的幾何空間，正試圖撥通一支永遠接不完的電話。隨著牠拿起聽筒，背景的畫框裡又出現了另一個正在撥號的自己，形成一場跨越維度的對話。",
+    "title": "回聲迴廊的撥號者",
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Butterfly Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "original"
   }
 ]
