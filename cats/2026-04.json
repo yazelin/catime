@@ -1212,5 +1212,44 @@
     "story": "這隻名為「將軍」的貓並不打算發動戰爭，牠只是對這輛金屬怪獸的履帶情有獨鍾。在懸浮於半空的祕密基地裡，牠乘坐著戰車巡視雲端，享受著遠離塵囂的寂靜與權威。",
     "title": "青點孤島的演習",
     "comment_id": 4182071660
+  },
+  {
+    "story": "麻糬巡邏到巷弄深處，發現攤販正測試台大研究的新科技。牠試圖將肉球按在轉換器的按鈕上，導致裝置產生奇異的數位干擾，讓這顆圓滾滾的麻糬在藍綠色的訊號波動中顯得格外呆萌。",
+    "news_inspiration": [
+      "南非開普敦的一位健身教練發起一項溫馨計畫，成功帶領一群來自弱勢社區的孩子前往開普敦體育場，平生第一次親眼觀看南非國家足球隊的比賽。",
+      "韓國首爾憑藉傳統文化與現代潮流的完美融合，在 2026 年「休閒生活方式獎」中連續第二年被評選為亞洲最佳休閒旅遊目的地。",
+      "台灣大學研究團隊在台北展示了一款背包大小的可攜式生質柴油生產系統，能將廢食用油高效轉化為燃料，未來可望應用於街頭攤販。 ",
+      "美國麻省理工學院的科學家發表研究指出，他們發現了一個影響大腦更新資訊能力的特定基因突變，這項發現為理解人類認知適應機制提供了新的科學依據。",
+      "日本大阪迎來了萬豪酒店集團旗下 Series 品牌在當地的首度亮相，新開幕的酒店座落於充滿活力的心齋橋商圈，主打結合商業與生活風格的在地旅遊體驗。"
+    ],
+    "avoid_list": [
+      "德羅斯特效應無限遞迴",
+      "低多邊形幾何風格",
+      "Knolling 俯瞰整齊排列",
+      "橘貓穿著裝飾藝術風格服飾",
+      "復古褪色與洗舊色調",
+      "霓虹螢光色對比黑暗背景",
+      "等距攝影視角",
+      "燭光下的溫暖橙色陰影",
+      "裝飾藝術結合奢華金屬質感",
+      "貓咪進行精細的人類職業動作",
+      "3D 盲盒與塑料玩具質感",
+      "金屬或大理石表面的刻字顯示"
+    ],
+    "number": 1234,
+    "comment_id": 4182425100,
+    "character": "mochi",
+    "idea": "以故障藝術（Glitch Art）呈現的俯瞰視覺，胖橘貓麻糬正在老街攤位旁好奇地撥弄一台背包大小的生質柴油生產裝置，畫面充滿數位破碎感與冷青色調。",
+    "title": "數位綠能的試吃員",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Bird's-Eye View",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "3D Render",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "inspiration": "台灣大學研究團隊在台北展示了一款背包大小的可攜式生質柴油生產系統，能將廢食用油高效轉化為燃料，未來可望應用於街頭攤販。",
+    "character_name": "麻糬",
+    "prompt": "以故障藝術（Glitch Art）呈現的俯瞰視覺，胖橘貓麻糬正在老街攤位旁好奇地撥弄一台背包大小的生質柴油生產裝置，畫面充滿數位破碎感與冷青色調。. The date and time '2026-04-03 07:55 UTC' is visually displayed in the image. glitch art, digital distortion, RGB channel shift, corrupted data aesthetic, scan line artifacts, fragmented visuals, bird's-eye view, top-down perspective, looking straight down, miniature world effect, soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones, polished 3D render, smooth materials, clean geometry, soft global illumination, Cinema 4D aesthetic, cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm mood"
   }
 ]
