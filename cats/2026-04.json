@@ -1533,5 +1533,42 @@
       "智利的魯賓天文台在正式觀測計畫啟動前，透過初步數據便一口氣發現了超過 11,000 顆新小行星，展現其革命性的空間觀測能力。",
       "中國各地於今日迎來清明節傳統節慶，民眾紛紛前往郊外踏青並舉行掃墓儀式，以緬懷先人並感受春天新生的氣息。"
     ]
+  },
+  {
+    "avoid_list": [
+      "魚眼鏡頭與極端桶形畸變",
+      "巨大齒輪與機械核心結構",
+      "貓咪撥弄或揉捏特定物件",
+      "三點打光結合邊緣光效果",
+      "蝴蝶光照明與對稱陰影",
+      "黑白單色高對比質感",
+      "精細沙質紋理與風蝕圖案",
+      "酷炫藍青色調與冷冽氛圍",
+      "畫面角落顯示日期時間戳記",
+      "分割視角或多重透視構圖",
+      "玻璃或冰晶半透明質感",
+      "特定毛色特徵如白色手套或耳缺口"
+    ],
+    "inspiration": "摩洛哥著名的玫瑰節（Rose Festival）於本週拉開序幕，吸引全球遊客前往凱拉-姆貢納體驗獨特的香料文化與花卉慶典。",
+    "number": 1248,
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Concrete",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "A focused cat gardening in a miniature Moroccan valley, pruning oversized pink roses with its paws, chalk art on dark green slate blackboard. Visible hatching strokes and dusty matte texture characteristic of colored chalk. Composition features a tilt-shift photography effect with a narrow selective focus band creating a toy-like miniature aesthetic with blurred foreground and background. Morandi muted color palette with desaturated soft pastels and dusty grey undertones. Dramatic Rembrandt lighting with a single light source at 45 degrees, creating a signature triangle of light and deep chiaroscuro. The text '2026-04-03 21:23 UTC' is clearly and visually integrated into the scene.",
+    "news_inspiration": [
+      "美國太空總署（NASA）證實 Artemis II 繞月任務成員已成功在太空修復突發的廁所故障，確保後續登月準備工作順利進行。",
+      "南非一位六歲小作家 Tlotlo Tsheka 成功出版了三本童書，並在威特波奇特啟動識字計畫以激勵更多孩子追求夢想。",
+      "中國與印度在綠色能源領域創下歷史紀錄，推動全球再生能源發電量超越化石燃料的轉型里程碑。",
+      "西班牙伊比利亞高地成功復育歐洲野牛，這群歐洲體型最大的陸域哺乳動物重新漫步山林，有助於恢復當地生態多樣性。",
+      "摩洛哥著名的玫瑰節（Rose Festival）於本週拉開序幕，吸引全球遊客前往凱拉-姆貢納體驗獨特的香料文化與花卉慶典。"
+    ],
+    "idea": "在莫蘭迪色調的粉筆畫布上，一隻貓咪正專注地在微縮的摩洛哥山谷中修剪巨大的粉紅玫瑰，畫面呈現迷人的移軸攝影質感。",
+    "title": "山谷裡的玫瑰守護者",
+    "story": "凱拉-姆貢納的玫瑰節正如火如荼地展開，這名小小的園丁穿梭在如同模型般的香料市場間。它用爪子輕輕修剪盛開的花苞，濃郁的芬芳隨粉筆灰一同在倫勃朗光影中翩翩起舞。",
+    "comment_id": 4185261200
   }
 ]
