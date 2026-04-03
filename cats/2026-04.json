@@ -1465,5 +1465,36 @@
       "texture": "Frost Crystal",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Miniature Diorama",
+      "lighting": "Spotlight",
+      "texture": "Fabric / Textile",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 4184897713,
+    "title": "織線間的午夜裁縫師",
+    "story": "這隻工坊的老店長正忙著修補一件微型大地色羊毛大衣。聚光燈穿過漫天飛舞的纖維，映照出布料細膩的經緯，讓這場深夜的裁縫作業充滿溫暖的手作氣息。",
+    "number": 1246,
+    "idea": "一張具有拍立得質感的微縮立體模型照片，捕捉一隻橘貓在充滿織品紋理的縫紉工坊裡，正專注地踩著古董縫紉機踏板。",
+    "avoid_list": [
+      "魚眼鏡頭與極端桶形畸變",
+      "巨大齒輪與機械核心結構",
+      "貓咪撥弄或揉捏特定物件",
+      "三點打光結合邊緣光效果",
+      "蝴蝶光照明與對稱陰影",
+      "黑白單色高對比質感",
+      "精細沙質紋理與風蝕圖案",
+      "酷炫藍青色調與冷冽氛圍",
+      "畫面角落顯示日期時間戳記",
+      "分割視角或多重透視構圖",
+      "玻璃或冰晶半透明質感",
+      "特定毛色特徵如白色手套或耳缺口"
+    ],
+    "news_inspiration": [],
+    "prompt": "A Polaroid instant photo with a classic white border, capturing a miniature diorama of a ginger cat focused on pedaling an antique sewing machine. The cat is mending a tiny earth-toned wool coat in a sewing workshop. Narrow beam spotlight creates dramatic high-contrast, illuminating floating fiber dust and the tactile textures of woven linen and cotton fabrics. Tilt-shift effect enhances the toy-like scale model appearance. Slightly faded colors with soft warm tones of terracotta, olive green, and deep brown. 35mm lens, f/2.8, shallow depth of field, natural film grain, dark shadows falloff. The date and time '2026-04-03 19:31 UTC' is printed in the bottom corner of the photo."
   }
 ]
