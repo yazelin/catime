@@ -1290,5 +1290,42 @@
       "texture": "Rust / Weathered",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "number": 1236,
+    "comment_id": 4182774920,
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號太空船於今日成功脫離地球軌道，四名太空人正啟程前往月球進行歷史性的繞月飛行任務。",
+      "南韓科學家發現了一種極其罕見且外型可愛的小型恐龍化石，並以知名卡通角色將其命名為「Doolysaurus」。",
+      "澳洲雪梨的澳洲博物館今日開幕了一場名為「大自然吸血鬼」的特展，探索吸血生物對現代醫學與神話的深遠影響。",
+      "南非一名六歲的小作家 Tlotlo Tsheka 至今已出版三本書籍，並正式啟動了一項旨在激發兒童閱讀與夢想的識字計畫。",
+      "美國內華達州的瓦肖族（Washoe Tribe）成功完成了歷史性的土地收購，奪回位於太浩湖附近超過一萬英畝的祖傳領地。"
+    ],
+    "prompt": "A Cubism-style illustration of a pastel-colored origami cat and a small Doolysaurus dinosaur huddled over an ancient map. The composition features a split-view fragmented into geometric planes and multiple perspectives. One half of the scene shows a folded paper sculpture aesthetic with clean creases and sharp angular folds, while the other half dissolves into abstract angular planes and analytical decomposition. Dramatic Rembrandt lighting creates a sharp chiaroscuro effect with a signature triangle of light. The color palette consists of soft pastel pink, lavender, mint, and baby blue. The date and time '2026-04-03 09:42 UTC' is visually integrated and clearly displayed within the image.",
+    "title": "紙間時空的地圖繪製者",
+    "idea": "這是一幅以立體主義風格呈現的摺紙質感創作，一隻粉彩色系的貓咪正與一隻小型「小恐龍」Doolysaurus 在分割畫面中共同專注地閱讀地圖。",
+    "story": "這隻由粉彩紙張摺疊而成的貓咪在分化的時空中，意外發現了穿越時空的史前生物。兩者在多重角度的光影交錯下，正埋頭研究通往遠古叢林的古老路線圖。",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Split View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Origami",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "南韓科學家發現了一種極其罕見且外型可愛的小型恐龍化石，並以知名卡通角色將其命名為「Doolysaurus」。",
+    "avoid_list": [
+      "德羅斯特效應無限遞迴",
+      "低多邊形幾何風格",
+      "Knolling 俯瞰整齊排列",
+      "橘貓穿著裝飾藝術風格服飾",
+      "復古褪色與洗舊色調",
+      "霓虹螢光色對比黑暗背景",
+      "等距攝影視角",
+      "燭光下的溫暖橙色陰影",
+      "裝飾藝術結合奢華金屬質感",
+      "貓咪進行精細的人類職業動作",
+      "3D 盲盒與塑料玩具質感",
+      "金屬或大理石表面的刻字顯示"
+    ]
   }
 ]
