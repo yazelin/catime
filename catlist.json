@@ -11197,5 +11197,13 @@
     "number": 1240,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-03_1355_UTC.webp",
     "character": "captain"
+  },
+  {
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "number": null,
+    "model": "all failed",
+    "url": null,
+    "timestamp": "2026-04-03 14:36 UTC",
+    "status": "failed"
   }
 ]
