@@ -11170,5 +11170,13 @@
     "status": "success",
     "timestamp": "2026-04-03 10:33 UTC",
     "inspiration": "original"
+  },
+  {
+    "url": null,
+    "number": null,
+    "timestamp": "2026-04-03 11:30 UTC",
+    "model": "all failed",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
