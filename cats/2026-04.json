@@ -1607,5 +1607,42 @@
       "特定毛色特徵如白色手套或耳缺口"
     ],
     "comment_id": 4185444416
+  },
+  {
+    "title": "浮島上的星圖巡航",
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號（Artemis II）任務成功將太空人送往月球進行繞飛，這是自 1972 年以來人類首次離開地球軌道前往深空探索。",
+      "南非開普敦的一位教練成功實現夢想，帶領來自開普平原（Cape Flats）的弱勢族群孩童第一次親臨現場觀看南非國家足球隊的比賽。",
+      "西班牙瓦倫西亞的宗教信徒在耶穌受難日儀式中，遵循傳統將薩爾瓦多基督聖像抬入大海，場面莊嚴且充滿文化特色。",
+      "美國德州 Arlington 的圖書館在今日舉辦阿拉伯書法工作坊與文學講座，藉由親手實作書法與文化交流慶祝阿拉伯裔美國人遺產月。",
+      "多明尼加的一處洞穴中發現了數千年前的蜜蜂將巢穴築在古代哺乳動物化石骨骼內的奇特景象，為科學家揭示了罕見的生態演化紀錄。"
+    ],
+    "idea": "一隻巨大的三花貓正懸浮在由高飽和色彩拼貼而成的馬賽克浮島上，神情專注地用腳爪撥動著一座巨大的木紋經緯儀，在黃金時刻的餘暉下導航。",
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）任務成功將太空人送往月球進行繞飛，這是自 1972 年以來人類首次離開地球軌道前往深空探索。",
+    "style_picks": {
+      "art_style": "Mosaic",
+      "composition": "Floating Island Scene",
+      "lighting": "Golden Hour",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "這隻被稱為『星圖守護者』的貓，正引領著整座漂浮島嶼穿梭於雲海。島上的每一塊馬賽克磚都閃爍著鮮豔的螢光，隨著牠每一次撥弄木質儀器，島嶼便向著未知的深空平穩航行。",
+    "prompt": "A majestic calico cat floating on a levitating mosaic island made of small vibrant colored tiles with an ancient Byzantine aesthetic and grouted texture. The cat is intently manipulating a large, antique wooden theodolite with visible wood grain and organic textures. The scene is set in the sky above a sea of white clouds during golden hour, featuring a warm sunset glow, long soft shadows, and golden rim lighting on the cat. The color palette is high saturation with bold, vivid hues. The text '2026-04-03 23:24 UTC' is clearly integrated into the visual composition. Illustration style with a focus on tactile surfaces and an energetic, high-contrast palette.",
+    "number": 1250,
+    "avoid_list": [
+      "微縮模型與立體透視圖",
+      "視覺整合日期與時間字樣",
+      "左右分割視角構圖",
+      "倫勃朗式三角光影",
+      "琥珀色與燒橙色的秋季色調",
+      "黑金配色的奢華奢華基調",
+      "極低角度仰望貓咪的身影",
+      "穿著傳統背心或蕾絲背心",
+      "冰霜結晶與細膩凍結紋理",
+      "貓咪操作機械儀器或工具",
+      "透明樹脂或玻璃質感貓咪",
+      "移軸攝影造就的玩具比例感"
+    ],
+    "comment_id": 4185598276
   }
 ]
