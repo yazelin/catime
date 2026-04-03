@@ -1358,5 +1358,44 @@
     "story": "這隻晶瑩剔透的貓是一位珠寶工匠的化身，正細心地將碎裂的水晶胸針重新排序。在忽明忽暗的霓虹燭火中，每一件玻璃碎片都映照出城市深夜的冷冽與華麗。",
     "idea": "一隻半透明玻璃質感的貓在裝飾藝術風格的化妝台上，以 Knolling 排列攝影手法展示其拆解的珠寶零件，周遭環繞著霓虹螢光的燭光影跡。",
     "inspiration": "original"
+  },
+  {
+    "prompt": "Architectural blueprint style illustration on a warm amber background with white technical lines and precise annotations. Extreme low angle shot looking up at Captain, a stocky brown classic tabby cat with bold black stripes and scruffy untidy fur. Captain is standing atop a lighthouse mechanical core beside massive gears, wearing white mitten paws and holding a large wrench. His left eye (viewer perspective) is permanently hidden by a natural dark-pigmented fur patch with no straps, and his right eye is a piercing emerald green. He has a prominent V-shaped notch in his left ear, a white chest bib, and a faded red bandana around his neck. The lighting follows a butterfly pattern with an overhead key light creating a symmetrical shadow under the nose. The scene features fine sand texture and wind-sculpted patterns in a cozy nostalgic autumn palette of golden yellows and burnt orange. The text '2026-04-03 13:55 UTC' is visually displayed in a technical font integrated into the drawing.",
+    "character": "captain",
+    "comment_id": 4183591993,
+    "idea": "以琥珀色暖調建築藍圖風格呈現，船長正屹立在燈塔塔頂的巨大齒輪組旁，用厚實的白手套龍頭扳手調整旋轉機構，極低角度由下而上仰望其威嚴身影。",
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）載人太空船今日成功脫離地球軌道，四名太空人正帶著興奮的心情飛往月球進行繞飛任務。",
+    "avoid_list": [
+      "分割畫面構圖",
+      "日期時間戳記顯示",
+      "三點式打光設置",
+      "貓咪撥弄或揉捏物體",
+      "魚眼廣角鏡頭變形",
+      "霓虹與冷青色調結合",
+      "微縮模型或小型化場景",
+      "極端邊緣輪廓光",
+      "貓咪專注凝視或閱讀",
+      "幾何結構與對稱構圖",
+      "天鵝絨或光滑塑膠質感",
+      "復古與未來元素交織"
+    ],
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號（Artemis II）載人太空船今日成功脫離地球軌道，四名太空人正帶著興奮的心情飛往月球進行繞飛任務。",
+      "奧地利一群被逐出修道院後強行搬回的修女，在法律爭端中獲得進展，離獲准永久留居修道院的夢想更近了一步。",
+      "波蘭一家動物園近期為鳥類開設了專屬的急診室，致力於為受傷或患病的禽類提供最先進的醫療照護。",
+      "科學家今日宣布在多明尼加的一處洞穴中，發現了數千年前蜜蜂在化石骨骸內築巢的罕見遺跡，改寫了對古代生態的認知。",
+      "台灣著名歌手周杰倫宣布將推出全新專輯，引發全球樂迷的高度期待與熱烈討論。"
+    ],
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Extreme Low Angle",
+      "lighting": "Butterfly Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "導航者的琥珀齒輪",
+    "character_name": "船長",
+    "number": 1240,
+    "story": "儘管人類的太空船已飛往月球，船長仍堅持守護這座古老燈塔的機械核心。牠在海風中瞇起翠綠色的右眼，熟練地校準航道指引，對牠而言，確保岸邊的靈魂安全歸航比征服星辰更重要。"
   }
 ]
