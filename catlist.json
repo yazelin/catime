@@ -11340,5 +11340,18 @@
     "timestamp": "2026-04-04 08:29 UTC",
     "inspiration": "original",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-04_0829_UTC.webp"
+  },
+  {
+    "status": "success",
+    "number": 1257,
+    "is_seasonal": true,
+    "title": "雲端上的花見午茶",
+    "inspiration": "在美國密西根州的韋斯特蘭，當局舉辦了一年一度的趣味傳統活動，由直升機在公園上空撒下數千顆棉花糖讓孩子們比賽抓取。",
+    "character_name": "麻糬",
+    "season": "spring",
+    "timestamp": "2026-04-04 09:28 UTC",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-04_0928_UTC.webp",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

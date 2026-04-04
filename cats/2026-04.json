@@ -1862,5 +1862,46 @@
     "comment_id": 4186767553,
     "prompt": "A long exposure monochrome photograph, top-down Knolling view. A tabby cat elegantly steps across a flat lay of precision watch gears and hairsprings neatly arranged in a 90-degree grid on white silk fabric. The cat is captured with motion blur, its movement appearing as a silky, semi-transparent trail against the sharp, static metallic components. The scene is illuminated by dramatic volumetric lighting from a side window, with visible light rays and dust particles. High contrast black and white with a rich tonal range. In the corner of the frame, the date and time '2026-04-04 08:29 UTC' is etched into a small brass plate. Shot on 35mm lens, f/8, slow shutter speed, grainy film texture, natural light, realistic photography.",
     "story": "老鐘錶匠退休後，他的貓接管了工作檯。在微弱的體積光照射下，貓爪撥動著拆解後的齒輪與發條，長曝光讓貓的動作化為一道如絲綢般順滑的虛影，與靜態零件形成對比。"
+  },
+  {
+    "title": "雲端上的花見午茶",
+    "number": 1257,
+    "is_seasonal": true,
+    "avoid_list": [
+      "微縮模型與立體透視",
+      "莫蘭迪色調與灰粉色系",
+      "黃金時刻的金色輪廓光",
+      "曼陀羅與幾何圖形拼貼",
+      "貓操作精密科學儀器",
+      "視覺嵌入日期時間戳記",
+      "金屬質感與拉絲表面反射",
+      "等距構圖與移軸攝影效果",
+      "穿著傳統背心或蕾絲裝飾",
+      "深海生物發光與螢光氛圍",
+      "德羅斯特效應或無限循環",
+      "傳統工藝風格如貢德畫或馬賽克"
+    ],
+    "inspiration": "在美國密西根州的韋斯特蘭，當局舉辦了一年一度的趣味傳統活動，由直升機在公園上空撒下數千顆棉花糖讓孩子們比賽抓取。",
+    "comment_id": 4186839367,
+    "character_name": "麻糬",
+    "idea": "這是一幅結合雙重曝光與摺紙質感的漂浮島場景，麻糬正戴著精緻的摺紙花環，在半空中懸浮的櫻花老街攤位旁進行野餐。",
+    "story": "麻糬這顆圓滾滾的花生麻糬，在春日暖陽下夢見自己飛上了天。牠悠哉地躺在漂浮的石板路上，身旁滿是從直升機撒落、如雪片般的棉花糖，牠正張大圓眼，試圖捕捉這場甜蜜的空中驚喜。",
+    "news_inspiration": [
+      "在加拿大的龍格伊，太空人傑里米·漢森從前往月球的阿提米絲2號太空船上，向地球進行了歷史性的首次影像連線與問答。",
+      "在中國雲南省，科學家發現了距今約 5 億年前的化石寶庫，找到了人類與脊椎動物已知最古老的遠親證據。",
+      "在澳洲珊瑚海，研究團隊於深海探勘中驚喜發現了超過 110 種前所未見的魚類與無脊椎動物新物種。",
+      "在南大西洋的聖赫勒拿島，世界最長壽的烏龜「喬納森」度過謠言危機，官方證實牠依然健康地生活在官邸草坪上。",
+      "在美國密西根州的韋斯特蘭，當局舉辦了一年一度的趣味傳統活動，由直升機在公園上空撒下數千顆棉花糖讓孩子們比賽抓取。"
+    ],
+    "prompt": "Origami art style of Mochi, a chubby shorthair cat with a white base, orange mask on the right half-face (viewer perspective), and a heart-shaped orange saddle on the upper back. Mochi has amber eyes, a pink nose with a tiny dot, an orange mitten on the right front paw, and a white left front paw. The scene is a floating island in the sky with a double exposure effect, blending a silhouette filled with a miniature cherry blossom street and origami food stalls. Mochi wears a delicate origami flower garland and lies on a floating stone path amidst falling marshmallow flakes. The style features clean geometric creases, sharp angular folds, and a paper sculpture aesthetic. Earth tone palette with terracotta, olive green, and warm brown. The date and time '2026-04-04 09:28 UTC' is clearly visually displayed in the corner of the image.",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Floating Island Scene",
+      "lighting": "Direct Flash",
+      "texture": "Origami",
+      "color_palette": "Earth Tones"
+    },
+    "character": "mochi",
+    "season": "spring"
   }
 ]
