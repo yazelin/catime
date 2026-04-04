@@ -2014,5 +2014,36 @@
       "texture": "Concrete",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "avoid_list": [
+      "氧化生鏽的金屬零件",
+      "體積光與懸浮微塵",
+      "莫蘭迪色調與粉塵灰色",
+      "精密齒輪與鐘錶零件",
+      "Knolling 幾何整齊排列",
+      "分割畫面與垂直切割線",
+      "摺紙與幾何低多邊形風格",
+      "雙重曝光與曼陀羅幾何",
+      "貓穿著工裝或飾品",
+      "霓虹螢光與深色背景對比",
+      "35mm 鏡頭與廣角透視",
+      "在廢墟或研究室中撥弄物品"
+    ],
+    "news_inspiration": [],
+    "number": 1265,
+    "prompt": "Orthographic projection Chinese ink wash painting of a giant inflatable PVC cat rowing a small wooden boat in a moonlit ancient city moat. Minimalist sumi-e brushwork and black ink on rice paper blended with a soft pastel color palette of gentle pink, lavender, and mint. The cat has a high-gloss, puffy, balloon-like surface with air-filled tension. Composition features flowing gradients and墨色 rendered lotus flowers. Lighting is a gentle silvery moonlight with cool blue tones creating a quiet nighttime atmosphere. The date and time '2026-04-04 17:21 UTC' is visually displayed in the corner of the image. Technical illustration style with no perspective distortion.",
+    "title": "月下粉墨划槳時",
+    "comment_id": 4187446145,
+    "idea": "在正交投影的構圖下，一隻巨大的充氣 PVC 材質貓咪正悠閒地在月光灑落的古城護城河中划著小木船，呈現出獨特的水墨畫風格。",
+    "story": "深夜的古鎮被月光染上一層粉彩，充氣的貓咪船夫輕輕搖槳，穿梭在墨色渲染的荷花之間。這是一場關於輕盈與沉重的對話，柔軟的 PVC 質感與剛硬的水墨線條在靜謐的夜晚完美融合。",
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Inflatable PVC",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "original"
   }
 ]
