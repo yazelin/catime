@@ -1973,5 +1973,46 @@
     "title": "鐵鏽星軌上的霓虹迴響",
     "prompt": "A split-view Studio Ghibli anime style illustration featuring a tabby cat mechanic wearing worn, tattered denim overalls. On one side, the cat is actively repairing a rusted, oxidized communication antenna in a derelict orbital space station. The composition features a sharp vertical cut line between the two halves. Soft watercolor backgrounds are layered with aged industrial decay, warm orange-brown corrosion, and peeling paint. Dramatic volumetric lighting and god rays pierce through the atmosphere, illuminating floating dust particles. The scene is electrified by neon fluorescent accents in electric pink, lime green, and hot cyan glowing against the dark void. In the corner of the frame, the date and time '2026-04-04 11:20 UTC' is visually displayed in a clean digital font. Gentle character design with warm, nostalgic lighting.",
     "number": 1259
+  },
+  {
+    "comment_id": 4187381457,
+    "character": "captain",
+    "title": "碼頭老大的寶藏巡視",
+    "prompt": "Split view photography, vertical cut line. Left side: Majestic studio portrait of Captain, a stocky brown classic tabby with bold black stripes, scruffy coarse fur, and a prominent V-shaped notch in his left ear. A natural dark fur patch conceals his left eye, while his right eye is piercing emerald green. He wears a faded red bandana and has a white chest bib. Background is rough brutalist concrete with industrial texture. Right side: Captain sits on a wooden stool at a dark harbor bar at night, using his thick white mitten paws to touch glowing raw mineral stones on the counter. The scene features dramatic Rembrandt lighting with a 45-degree single light source creating a chiaroscuro effect. 35mm lens, f/2.8, warm earth tones of terracotta and olive green. The timestamp '2026-04-04 16:22 UTC' is clearly visible in the corner.",
+    "idea": "這是一組採用棚拍人像風格的分割畫面：左側是船長在粗糙混凝土背景前凝視鏡頭的威嚴特寫，右側則是牠在深夜碼頭老酒吧的圓凳上，用厚實的白手套貓掌認真撥弄著幾枚象徵發現的閃耀礦石。",
+    "story": "船長在巡邏時於碼頭貨櫃旁發現了幾塊散發奇異光澤的礦石，牠將這些戰利品帶回老酒吧，在倫勃朗光的照射下仔細研究。儘管身處喧囂的港口，這位老大的眼神中卻透漏出對未知事物的好奇與守護這片土地的沉穩。",
+    "number": 1264,
+    "inspiration": "美國地質學家於蒙大拿州菲利普斯堡發現了新型礦石樣本，這項科學發現有望為當地地質研究開啟新的篇章。",
+    "news_inspiration": [
+      "在南非開普敦，一名健身教練成功發起公益活動，帶領一群來自貧困地區的孩子們親臨體育場觀看國家隊的足球比賽。",
+      "加拿大航太局宣布加拿大太空人 Jeremy Hansen 在進行繞月飛行任務前，於 4 月 5 日凌晨與地球進行了精彩的直播連線。",
+      "在英國倫敦，4 月 5 日舉行了一場盛大的女子拳擊賽，多位頂尖選手在奧林匹亞展覽中心爭奪世界統一拳王金腰帶。",
+      "美國地質學家於蒙大拿州菲利普斯堡發現了新型礦石樣本，這項科學發現有望為當地地質研究開啟新的篇章。",
+      "日本東京的百貨公司受惠於觀光熱潮，免稅銷售額在 4 月初創下新高，顯示當地旅遊與消費市場正強勁復甦。"
+    ],
+    "avoid_list": [
+      "生鏽與氧化金屬質感",
+      "體積光與丁達爾效應",
+      "懸浮或漂浮的島嶼",
+      "貓爪撥弄精密儀器",
+      "黃金時刻的輪廓光",
+      "莫蘭迪色調與灰調",
+      "幾何整齊的平鋪排列",
+      "摺紙藝術風格",
+      "日期與時間戳記的整合",
+      "雙色調或高飽和對比",
+      "古老建築與工業廢墟",
+      "太空通訊站或研究室",
+      "單色黑白與高對比",
+      "細膩的發光霓虹點綴"
+    ],
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Split View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Concrete",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
