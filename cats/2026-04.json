@@ -2138,5 +2138,36 @@
       "color_palette": "Pastel Colors"
     },
     "prompt": "A calico cat sitting at a miniature wooden workbench, meticulously crafting a tiny kite, colored pencil illustration style with visible pencil grain and layered hues on rough sketchbook paper texture. The composition is a perfectly isometric view. A narrow beam spotlight creates dramatic high-contrast lighting with sharp edges on the cat and the natural wood grain of the desk, while the background falls into deep darkness. Soft pastel color palette featuring lavender, mint, and baby blue. The date and time '2026-04-04 20:18 UTC' is clearly and visually displayed on a small sign within the scene."
+  },
+  {
+    "prompt": "A hand-drawn infographic style illustration with tilt-shift miniature effects, depicting an elite cat chef performing a precise 'slicing surgery' on a golden truffle. The scene is set on a long luxury banquet table draped in deep black silk fabric with a luminous sheen and delicate light reflections. The cat uses miniature pure gold utensils under professional butterfly lighting, creating a symmetrical shadow and glamour portrait effect. The artwork features calligraphy brush strokes and a paper texture background with a warm rustic aesthetic. The date '2026-04-04 21:21 UTC' is visually integrated into the composition. High-contrast gold and black color scheme, selective focus band, blurred foreground, opulent mood.",
+    "inspiration": "original",
+    "avoid_list": [
+      "氧化生鏽的金屬零件",
+      "體積光與懸浮微塵",
+      "莫蘭迪色調與粉塵灰色",
+      "精密齒輪與鐘錶零件",
+      "Knolling 幾何整齊排列",
+      "分割畫面與垂直切割線",
+      "摺紙與幾何低多邊形風格",
+      "雙重曝光與曼陀羅幾何",
+      "貓穿著工裝或飾品",
+      "霓虹螢光與深色背景對比",
+      "35mm 鏡頭與廣角透視",
+      "在廢墟或研究室中撥弄物品"
+    ],
+    "comment_id": 4187770098,
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Butterfly Lighting",
+      "texture": "Silk",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "title": "黑金晚宴的絲綢手術",
+    "number": 1269,
+    "idea": "採用手繪信息圖風格與移軸微縮效果，描繪一隻貓在黑色絲綢鋪就的高級晚宴長桌上，正精準地為一顆金色的松露進行「切片手術」。",
+    "news_inspiration": [],
+    "story": "這隻身價不凡的貓主廚在蝴蝶光的照射下，展現出極致的專注力。牠正利用微型純金餐具，在一場縮小比例的豪門盛宴中，為賓客們示範如何完美分割極品食材。"
   }
 ]
