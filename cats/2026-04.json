@@ -1942,5 +1942,36 @@
     "number": 1258,
     "character_name": "鈴鈴",
     "idea": "這是一幅金黑奢華色調的扁平向量插圖，以正交投影呈現鈴鈴在生鏽鐵件與金色齒輪交錯的太空通訊站中，手忙腳亂地對著巨大螢幕「通訊」的場景。"
+  },
+  {
+    "idea": "這是一幅吉卜力風格的分割畫面，展現一隻穿著破舊連身工裝的虎斑貓在廢棄空間站維修鏽跡斑斑的通訊天線，背景交織著體積光與霓虹螢光色彩。",
+    "news_inspiration": [],
+    "story": "在被遺忘的高空軌道上，機械師貓咪阿虎正熟練地敲打著氧化剥落的鐵鏽零件。儘管通訊站已荒廢多年，當霓虹燈火再次點亮時，那道穿越雲層的體積光彷彿與地面的同伴建立了最後的連結。",
+    "avoid_list": [
+      "微縮模型與立體透視",
+      "莫蘭迪色調與灰粉色系",
+      "黃金時刻的金色輪廓光",
+      "曼陀羅與幾何圖形拼貼",
+      "貓操作精密科學儀器",
+      "視覺嵌入日期時間戳記",
+      "金屬質感與拉絲表面反射",
+      "等距構圖與移軸攝影效果",
+      "穿著傳統背心或蕾絲裝飾",
+      "深海生物發光與螢光氛圍",
+      "德羅斯特效應或無限循環",
+      "傳統工藝風格如貢德畫或馬賽克"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Split View",
+      "lighting": "Volumetric Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 4186968413,
+    "title": "鐵鏽星軌上的霓虹迴響",
+    "prompt": "A split-view Studio Ghibli anime style illustration featuring a tabby cat mechanic wearing worn, tattered denim overalls. On one side, the cat is actively repairing a rusted, oxidized communication antenna in a derelict orbital space station. The composition features a sharp vertical cut line between the two halves. Soft watercolor backgrounds are layered with aged industrial decay, warm orange-brown corrosion, and peeling paint. Dramatic volumetric lighting and god rays pierce through the atmosphere, illuminating floating dust particles. The scene is electrified by neon fluorescent accents in electric pink, lime green, and hot cyan glowing against the dark void. In the corner of the frame, the date and time '2026-04-04 11:20 UTC' is visually displayed in a clean digital font. Gentle character design with warm, nostalgic lighting.",
+    "number": 1259
   }
 ]
