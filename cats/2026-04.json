@@ -1825,5 +1825,42 @@
       "日本北部的櫻花季持續盛放，吸引許多遊客趁著週末前往青森等地，在粉色花海中享受春季野餐趣。"
     ],
     "number": 1255
+  },
+  {
+    "title": "時光的絲綢足跡",
+    "number": 1256,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Silk",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "這是一幅以長曝光攝影捕捉的單色影像，一隻虎斑貓正優雅地跨越一系列整齊排列在絲綢布料上的精密鐘錶零件，畫面呈現 Knolling 排列攝影的美感。",
+    "news_inspiration": [
+      "中國重慶市巫山縣正式啟用全球最長的戶外電梯「女神電梯」，遊客僅需約 20 分鐘即可垂直上升 240 公尺飽覽壯闊峽谷景觀。",
+      "美國芝加哥謝德水族館近日迎來一隻外型奇特的「小丑躄魚」寶寶，這是該物種首度成功在人工飼養環境下誕生並成長。",
+      "澳洲科學家最新考古研究發現，塔斯馬尼亞虎在澳洲大陸滅絕的時間點可能比原先預期的晚，岩畫證據顯示牠們在不到一千年前仍有活動跡象。",
+      "南非一名政治家為了抗議城市基礎建設修繕不力，穿戴潛水裝備跳進路面巨大的坑洞中「浮潛」，引發當地社群媒體高度關注與熱議。",
+      "希臘一項神經科學研究發現大黃蜂雖然大腦極小，卻擁有人類意想不到的節奏感，能隨著不同頻率的閃爍燈光調整自己的行為節律。"
+    ],
+    "avoid_list": [
+      "微縮模型與立體透視",
+      "莫蘭迪色調與灰粉色系",
+      "黃金時刻的金色輪廓光",
+      "曼陀羅與幾何圖形拼貼",
+      "貓操作精密科學儀器",
+      "視覺嵌入日期時間戳記",
+      "金屬質感與拉絲表面反射",
+      "等距構圖與移軸攝影效果",
+      "穿著傳統背心或蕾絲裝飾",
+      "深海生物發光與螢光氛圍",
+      "德羅斯特效應或無限循環",
+      "傳統工藝風格如貢德畫或馬賽克"
+    ],
+    "comment_id": 4186767553,
+    "prompt": "A long exposure monochrome photograph, top-down Knolling view. A tabby cat elegantly steps across a flat lay of precision watch gears and hairsprings neatly arranged in a 90-degree grid on white silk fabric. The cat is captured with motion blur, its movement appearing as a silky, semi-transparent trail against the sharp, static metallic components. The scene is illuminated by dramatic volumetric lighting from a side window, with visible light rays and dust particles. High contrast black and white with a rich tonal range. In the corner of the frame, the date and time '2026-04-04 08:29 UTC' is etched into a small brass plate. Shot on 35mm lens, f/8, slow shutter speed, grainy film texture, natural light, realistic photography.",
+    "story": "老鐘錶匠退休後，他的貓接管了工作檯。在微弱的體積光照射下，貓爪撥動著拆解後的齒輪與發條，長曝光讓貓的動作化為一道如絲綢般順滑的虛影，與靜態零件形成對比。"
   }
 ]
