@@ -1720,5 +1720,36 @@
     "character_name": "墨墨",
     "number": 1252,
     "idea": "在以貢德畫派風格描繪的深海研究室中，黑貓墨墨正專注地用爪子撥弄一本摺紙質感的立體生物圖鑑，畫面呈現德羅斯特效應，圖鑑中的深海景象不斷循環擴張。"
+  },
+  {
+    "prompt": "Infrared photography, flat lay overhead view. A metallic-textured tabby cat sits amidst a knolling arrangement of fishing tools, hooks, and lures on a glowing deep-sea dock. Objects are neatly organized at 90-degree angles in a geometric grid. The cat and equipment feature brushed metal surfaces with sharp reflections. Captured with a 35mm lens, f/8, high-contrast infrared look with desaturated Morandi tones, dusty greys, and muted blue-green bioluminescent light. The date and time '2026-04-04 05:48 UTC' is clearly visible as a digital timestamp in the corner of the frame.",
+    "comment_id": 4186461859,
+    "story": "這隻富有強迫症的職業釣魚貓，正在發光的深海碼頭上校準牠的裝備。生物發光的浮標在微弱的紅外線波長下閃爍，所有的金屬釣鉤與捲線器都以完美的幾何對稱排列在牠身旁。",
+    "inspiration": "original",
+    "title": "銀波中的靜默校準",
+    "number": 1253,
+    "news_inspiration": [],
+    "avoid_list": [
+      "微縮模型與立體透視圖",
+      "視覺整合日期與時間字樣",
+      "左右分割視角構圖",
+      "倫勃朗式三角光影",
+      "琥珀色與燒橙色的秋季色調",
+      "黑金配色的奢華奢華基調",
+      "極低角度仰望貓咪的身影",
+      "穿著傳統背心或蕾絲背心",
+      "冰霜結晶與細膩凍結紋理",
+      "貓咪操作機械儀器或工具",
+      "透明樹脂或玻璃質感貓咪",
+      "移軸攝影造就的玩具比例感"
+    ],
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Metallic Surface",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "這是一幅採用紅外線攝影技術的 Knolling 排列作品，展現一隻全身散發金屬質感的虎斑貓在低溫莫蘭迪色調下，精準地將各種捕魚工具與魚餌整齊排開。"
   }
 ]
