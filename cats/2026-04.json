@@ -2169,5 +2169,36 @@
     "idea": "採用手繪信息圖風格與移軸微縮效果，描繪一隻貓在黑色絲綢鋪就的高級晚宴長桌上，正精準地為一顆金色的松露進行「切片手術」。",
     "news_inspiration": [],
     "story": "這隻身價不凡的貓主廚在蝴蝶光的照射下，展現出極致的專注力。牠正利用微型純金餐具，在一場縮小比例的豪門盛宴中，為賓客們示範如何完美分割極品食材。"
+  },
+  {
+    "story": "在高奢品牌的發表會現場，這隻貓無視所有名模與鏡頭，兀自闖入伸展台中心。它用那雙充滿靈氣的眼睛直視低機位的攝影機，彷彿它才是這場飽和色彩盛宴中唯一的真主角。",
+    "idea": "這是一張時尚編輯攝影風格的作品，以極低角度捕捉一隻孟加拉貓在鮮紅大理石伸展台上，優雅地踢開一隻細跟高跟鞋的瞬間。",
+    "comment_id": 4187841923,
+    "avoid_list": [
+      "體積光與浮塵微粒",
+      "生鏽金屬與金色齒輪組合",
+      "微縮模型與精密零件",
+      "正交投影與等距視角",
+      "絲綢布料上的物品陳列",
+      "在角落刻上日期與時間戳記",
+      "貓咪擔任工匠或機械師職業",
+      "霓虹螢光與深色背景對比",
+      "分割畫面與垂直切割線",
+      "倫勃朗光與蝴蝶光照明",
+      "液態金屬或熔融材質",
+      "粉彩與大地色調調色盤"
+    ],
+    "title": "紅台上的孤傲步伐",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Extreme Low Angle",
+      "lighting": "Spotlight",
+      "texture": "Marble",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "original",
+    "prompt": "Fashion editorial photography of a Bengal cat on a vivid red polished marble runway, extreme low angle shot looking up at the cat. The cat is mid-action, elegantly kicking a black stiletto heel to the side. Sharp narrow beam spotlight illuminates the cat and the natural vein patterns of the luxurious stone, creating dramatic high-contrast and deep darkness falloff. High saturation bold vibrant hues, magazine-quality lighting, crisp details, 35mm lens, f/2.8. The date and time '2026-04-04 22:17 UTC' is clearly displayed in the lower corner of the frame.",
+    "number": 1270
   }
 ]
