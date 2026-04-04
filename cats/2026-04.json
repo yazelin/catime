@@ -1788,5 +1788,42 @@
       "透明樹脂或玻璃質感貓咪",
       "移軸攝影造就的玩具比例感"
     ]
+  },
+  {
+    "prompt": "A black and white monochrome pop art illustration with a perfectly symmetrical composition. Centered subject: a tabby cat skillfully rowing a canoe made from a giant, cracked bird eggshell. Setting: a rusted, abandoned industrial zone in the ruins of the Thames. Dramatic volumetric lighting with visible god rays and dust particles streaming through metal tower gaps. Style features thick outlines, high contrast black and white tonal range, and Ben-Day dots for shading. The textures show oxidized patina and peeling paint on weathered metal. The date and time '2026-04-04 07:41 UTC' is clearly and visually displayed in the corner of the frame.",
+    "comment_id": 4186696803,
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Symmetrical Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "荒墟蛋殼之渡",
+    "avoid_list": [
+      "微縮模型與立體透視",
+      "莫蘭迪色調與灰粉色系",
+      "黃金時刻的金色輪廓光",
+      "曼陀羅與幾何圖形拼貼",
+      "貓操作精密科學儀器",
+      "視覺嵌入日期時間戳記",
+      "金屬質感與拉絲表面反射",
+      "等距構圖與移軸攝影效果",
+      "穿著傳統背心或蕾絲裝飾",
+      "深海生物發光與螢光氛圍",
+      "德羅斯特效應或無限循環",
+      "傳統工藝風格如貢德畫或馬賽克"
+    ],
+    "story": "這隻貓在泰晤士河下游的廢墟中穿梭，它所乘的蛋殼獨木舟是從科學組織的收藏中意外獲得的稀世奇珍。陽光透過鐵塔的空隙形成強烈的體積光，照亮了它堅定划桨的身影，彷彿這是一場屬於荒野的划船賽。",
+    "idea": "這是一幅採用普普藝術風格的黑白對稱構圖，描繪一隻虎斑貓在鏽跡斑斑的廢棄工業區裡，熟練地划著一艘由巨大的舊鳥蛋殼製成的獨木舟。",
+    "inspiration": "澳洲聯邦科學與工業研究組織（CSIRO）展示了一系列特殊的鳥蛋收藏，部分蛋殼外觀酷似復活節巧克力蛋，成為有趣的科普話題。",
+    "news_inspiration": [
+      "英國倫敦今日迎來歷史悠久的牛津與劍橋划船對抗賽（The Boat Race），吸引大批民眾聚集在泰晤士河畔為選手加油。",
+      "澳洲聯邦科學與工業研究組織（CSIRO）展示了一系列特殊的鳥蛋收藏，部分蛋殼外觀酷似復活節巧克力蛋，成為有趣的科普話題。",
+      "美國維吉尼亞州的一名高中生發明了利用磁性流體過濾微塑料的系統，經測試可去除飲用水中 96% 的微塑料。",
+      "羅馬尼亞布加勒斯特正在舉辦 2026 年嬰兒博覽會（Baby Boom Show），展示最新的育兒科技與家庭服務，吸引許多新手父母參與。",
+      "日本北部的櫻花季持續盛放，吸引許多遊客趁著週末前往青森等地，在粉色花海中享受春季野餐趣。"
+    ],
+    "number": 1255
   }
 ]

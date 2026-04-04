@@ -11322,5 +11322,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-04_0645_UTC.webp",
     "number": 1254,
     "timestamp": "2026-04-04 06:45 UTC"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-04_0741_UTC.webp",
+    "title": "荒墟蛋殼之渡",
+    "timestamp": "2026-04-04 07:41 UTC",
+    "inspiration": "澳洲聯邦科學與工業研究組織（CSIRO）展示了一系列特殊的鳥蛋收藏，部分蛋殼外觀酷似復活節巧克力蛋，成為有趣的科普話題。",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "number": 1255
   }
 ]
