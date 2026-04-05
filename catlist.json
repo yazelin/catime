@@ -11536,5 +11536,13 @@
     "title": "琥珀霓虹的無盡麻糬",
     "status": "success",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "model": "all failed",
+    "url": null,
+    "number": null,
+    "status": "failed",
+    "timestamp": "2026-04-05 10:22 UTC"
   }
 ]
