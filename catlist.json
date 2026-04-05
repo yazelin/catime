@@ -11617,5 +11617,14 @@
     "number": 1286,
     "title": "無盡碼頭的鮮魚守望",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-05_1926_UTC.webp",
+    "status": "success",
+    "number": 1287,
+    "title": "月影軌道上的孤航",
+    "timestamp": "2026-04-05 19:26 UTC",
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）任務已成功升空，這是在時隔 50 年後，首次載人飛往月球軌道進行繞行飛行。",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

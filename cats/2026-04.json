@@ -2579,5 +2579,42 @@
       "texture": "Concrete",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Miniature Diorama",
+      "lighting": "Volumetric Light",
+      "texture": "Leather",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 4189400355,
+    "idea": "這是一個採用黏土動畫風格與微縮立體模型構圖的場景，一隻穿著皮革飛行夾克的黑白單色貓咪，正站在精緻的月球軌道艙內，專注地調整複雜的儀表板。",
+    "number": 1287,
+    "story": "身為阿提米絲 2 號任務的神祕成員，這隻勇敢的貓咪正引領人類重返月球。在體積光的照射下，牠厚實的皮革裝備與黏土質感的座艙，共同編織出一場靜謐且莊嚴的太空史詩。",
+    "prompt": "Claymation style miniature diorama of a monochrome black and white cat wearing a genuine leather flight jacket with rich grain and aged patina. The cat is inside a tiny detailed lunar module cockpit, paws adjusting complex sculpted clay control panels. Visible fingerprint textures on characters and surfaces, stop-motion aesthetic, toy-like scale model. Dramatic volumetric lighting with visible rays through dust particles. High contrast tonal range with deep shadows. The date and time '2026-04-05 19:26 UTC' is visually displayed on a digital screen within the cabin. Tilt-shift effect, macro photography perspective.",
+    "avoid_list": [
+      "35mm 鏡頭與 f/2.8 光圈設定",
+      "日期與時間戳記浮水印",
+      "鳥瞰視角與垂直向下觀察",
+      "莫蘭迪色調與消色差粉彩",
+      "分割畫面或左右對比構圖",
+      "強烈直射閃光燈與硬陰影",
+      "復古褪色與電影膠片質感",
+      "貓咪進行維修或手工修補動作",
+      "鏡面自拍與手機隨拍風格",
+      "古代遺跡與高科技裝備結合",
+      "碳纖維紋理與工業鏽蝕細節",
+      "特定的彩色背景或幾何圖案織品"
+    ],
+    "inspiration": "美國 NASA 的阿提米絲 2 號（Artemis II）任務已成功升空，這是在時隔 50 年後，首次載人飛往月球軌道進行繞行飛行。",
+    "title": "月影軌道上的孤航",
+    "news_inspiration": [
+      "美國印第安納波利斯今天舉行 NCAA 男子籃球錦標賽決賽，由康乃狄克大學對陣密西根大學，吸引全球籃球迷關注體育旅遊趨勢。",
+      "德國哈茨地區的考古學家在歷史悠久的村莊地下，發現了與六千年古墓群相連的神秘中世紀隧道網路「Erdstall」。",
+      "美國 NASA 的阿提米絲 2 號（Artemis II）任務已成功升空，這是在時隔 50 年後，首次載人飛往月球軌道進行繞行飛行。",
+      "台灣屏東大鵬灣國家風景區正舉辦「2026 大鵬灣帆船生活節」，結合遊艇體驗與在地市集，展示南台灣獨特的海洋文化魅力。",
+      "智利與美國的科學家透過魯賓天文台的初步觀測數據，一次性發現了超過 11,000 顆新小行星，極大擴展了人類對太陽系邊緣的認知。"
+    ]
   }
 ]
