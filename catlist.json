@@ -11573,5 +11573,13 @@
     "title": "地心聖殿的守望者",
     "model": "gemini-3-pro-image-preview",
     "number": 1281
+  },
+  {
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "url": null,
+    "model": "all failed",
+    "number": null,
+    "timestamp": "2026-04-05 14:26 UTC"
   }
 ]
