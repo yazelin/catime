@@ -2299,5 +2299,44 @@
     "comment_id": 4188253083,
     "news_inspiration": [],
     "story": "在一年一度的織物藝術祭，貓咪大師正挑戰世界最大的幾何拼布。它靈巧地在無數絲絨與亞麻碎塊間躍動，從高空俯瞰，整座舞臺就像一張充滿動感的波普藝術畫作，吸引了四周成千上萬的觀眾屏息凝視。"
+  },
+  {
+    "title": "月下的遠古邂逅",
+    "comment_id": 4188370043,
+    "character_name": "墨墨",
+    "story": "墨墨在舊書店的閣樓發現了一件來自雲南的古老奇珍，那形似沙蟲的化石在鮮豔的紅絲絨襯墊上顯得格外神祕。牠優雅地伸出爪子，試圖撥弄這具沉睡了五億年的遠古生命，金琥珀色的雙眼在月色下與化石交織出跨越時空的對話。",
+    "number": 1274,
+    "idea": "這是一幅採用電影分鏡風格的作品，從鳥瞰視角捕捉墨墨在月光灑落的大理石露台上，與一具發光的沙蟲化石標本對視的震撼瞬間。",
+    "news_inspiration": [
+      "加拿大多倫多足球協會舉辦有趣的「球衣大交換」活動，邀請義大利球迷將藍色球衣換成加拿大國家隊的紅色戰袍，為即將到來的 2026 世界盃助陣。",
+      "科學家在中國雲南省發現了距今約 5.4 億年前的「江川生物群」化石寶庫，其中發現類似《沙丘》沙蟲的古生物，改寫了複雜動物的演化史。",
+      "美國 NASA 的「阿提米絲 2 號」載人繞月任務於本週順利展開，這也是人類睽違 50 年後首次再度啟程前往月球軌道。",
+      "澳洲烏魯魯-卡塔丘塔國家公園於今年 4 月首度開放遊客在園區核心地帶過夜，讓旅行者能深度體驗原住民文化與壯闊的星空景觀。",
+      "北歐國家因氣候涼爽成為 2026 年夏季的旅遊首選，瑞典與挪威的「涼感假期」預訂量較往年大幅增長 35%。"
+    ],
+    "avoid_list": [
+      "體積光與浮塵微粒",
+      "生鏽金屬與金色齒輪組合",
+      "微縮模型與精密零件",
+      "正交投影與等距視角",
+      "絲綢布料上的物品陳列",
+      "在角落刻上日期與時間戳記",
+      "貓咪擔任工匠或機械師職業",
+      "霓虹螢光與深色背景對比",
+      "分割畫面與垂直切割線",
+      "倫勃朗光與蝴蝶光照明",
+      "液態金屬或熔融材質",
+      "粉彩與大地色調調色盤"
+    ],
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Bird's-Eye View",
+      "lighting": "Moonlight",
+      "texture": "Marble",
+      "color_palette": "High Saturation Vivid"
+    },
+    "character": "momo",
+    "prompt": "Cinematic storyboard grid featuring a bird's-eye view shot of Momo, a sleek solid-black Bombay-style shorthair cat with satin-sheen fur, a small gold hoop earring in her left ear, a tiny white chest locket, and a dark-grey ring at her tail tip. From a top-down perspective, Momo stands on a polished white marble terrace with natural vein patterns, her golden-amber eyes fixed on a glowing, vibrant red-velvet lined box containing a bioluminescent sandworm fossil specimen. Dramatic moonlight illumination creates a cool blue nighttime atmosphere with silvery glows. High saturation vivid colors and bold vibrant hues create an energetic palette. The date and time '2026-04-05 06:08 UTC' is visually displayed in the corner of the frame. Movie-quality composition, sequential shots style, high contrast, looking straight down, elegant and mysterious.",
+    "inspiration": "科學家在中國雲南省發現了距今約 5.4 億年前的「江川生物群」化石寶庫，其中發現類似《沙丘》沙蟲的古生物，改寫了複雜動物的演化史。"
   }
 ]
