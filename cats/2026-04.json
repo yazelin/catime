@@ -2338,5 +2338,36 @@
     "character": "momo",
     "prompt": "Cinematic storyboard grid featuring a bird's-eye view shot of Momo, a sleek solid-black Bombay-style shorthair cat with satin-sheen fur, a small gold hoop earring in her left ear, a tiny white chest locket, and a dark-grey ring at her tail tip. From a top-down perspective, Momo stands on a polished white marble terrace with natural vein patterns, her golden-amber eyes fixed on a glowing, vibrant red-velvet lined box containing a bioluminescent sandworm fossil specimen. Dramatic moonlight illumination creates a cool blue nighttime atmosphere with silvery glows. High saturation vivid colors and bold vibrant hues create an energetic palette. The date and time '2026-04-05 06:08 UTC' is visually displayed in the corner of the frame. Movie-quality composition, sequential shots style, high contrast, looking straight down, elegant and mysterious.",
     "inspiration": "科學家在中國雲南省發現了距今約 5.4 億年前的「江川生物群」化石寶庫，其中發現類似《沙丘》沙蟲的古生物，改寫了複雜動物的演化史。"
+  },
+  {
+    "number": 1275,
+    "idea": "採用超寫實動漫風格，透過分割畫面呈現一隻穿著隔熱服的貓在極地研究站維修衛星接收器，背景環繞著磨砂玻璃般的冰晶質感。",
+    "story": "在零下四十度的寂靜中，這名毛茸茸的技師正專注地調整天線相位。蝴蝶光影柔和地灑在牠的護目鏡上，莫蘭迪色調的灰藍冰原在玻璃窗後若隱若現。",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Split View",
+      "lighting": "Butterfly Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "A hyperrealistic anime-style split view composition featuring a cat in a high-tech insulated thermal suit repairing a satellite receiver at a polar research station. Left side shows a detailed realistic-anime hybrid portrait with sharp textures; right side displays a wireframe diagram of the machinery with a sharp vertical cut line. The text '2026-04-05 07:48 UTC' is digitally etched onto the side of the satellite dish. Butterfly lighting creates a symmetrical shadow under the nose and a glow on the cat's goggles. The background features a frosted glass texture with translucent matte surfaces and diffused light. Color palette is Morandi muted tones, utilizing desaturated grey-blues, dusty pastels, and quiet elegance.",
+    "title": "寂靜極地的訊號修復",
+    "inspiration": "original",
+    "avoid_list": [
+      "鳥瞰俯視構圖",
+      "專業聚光燈與深色陰影",
+      "精準切片或雕琢的職人動作",
+      "日期時間視覺化標記",
+      "微縮模型或模型立體效果",
+      "大理石紋理背景",
+      "高飽和度與鮮豔色彩組合",
+      "專注於微小物件的貓爪動作",
+      "時尚編輯攝影風格",
+      "粉彩與馬卡龍色調",
+      "精緻手工藝或工坊場景",
+      "單一光源營造的高對比光影"
+    ],
+    "news_inspiration": [],
+    "comment_id": 4188483640
   }
 ]
