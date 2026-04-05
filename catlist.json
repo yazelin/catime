@@ -11517,5 +11517,13 @@
     "inspiration": "original",
     "timestamp": "2026-04-05 07:48 UTC",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-05_0748_UTC.webp"
+  },
+  {
+    "url": null,
+    "model": "all failed",
+    "timestamp": "2026-04-05 08:31 UTC",
+    "status": "failed",
+    "number": null,
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
