@@ -2439,5 +2439,38 @@
       "texture": "Leather",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "comment_id": 4188826264,
+    "inspiration": "original",
+    "prompt": "A mixed media isometric photography composition combining torn paper collage and polished 3D rendering. Lingling, an extremely fluffy pure white Ragdoll-like cat with voluminous cloud-like fur and enormous sapphire-blue #0F52BA eyes, is perched on a giant macaron tower in a colorful dessert shop. She is reaching out with a pink paw to catch a colorful paper butterfly. Lingling wears a pink #FF69B4 ribbon bow collar with a centered golden #FFD700 bell. The scene features layered textures with visible paper edges, notebook lines, and clean 3D geometry with soft global illumination. Harsh direct on-camera flash creates hard shadows and blown-out highlights against a retro faded color palette with washed-out vintage tones. The date and time '2026-04-05 12:32 UTC' is visually displayed as a digital timestamp in the corner. Pure white fur, no markings, pink nose, and feathery plume tail.",
+    "character": "lingling",
+    "news_inspiration": [],
+    "character_name": "鈴鈴",
+    "story": "鈴鈴在甜點店追逐蝴蝶時，不小心讓整身蓬鬆的白毛沾滿了馬卡龍的糖粉。她好奇地用肉球撥弄著紙蝴蝶，結果一個噴嚏把自己往後彈飛到奶油蛋糕堆裡，鈴鐺發出清脆的驚呼聲。",
+    "number": 1280,
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Isometric Photography",
+      "lighting": "Direct Flash",
+      "texture": "3D Render",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "這是一幅結合撕紙拼貼藝術與 3D 渲染質感的等距攝影構圖，呈現長毛布偶貓鈴鈴在繽紛的甜點店內，正努力嘗試在一座巨大的馬卡龍塔上捕捉一隻迷路的彩色紙蝴蝶。",
+    "title": "糖霜雲朵與紙蝶之舞",
+    "avoid_list": [
+      "聚光燈照射下的極致專注力",
+      "日期與時間視覺化顯示於場景中",
+      "俯瞰或鳥瞰視角的微縮世界效果",
+      "貓咪進行精準的手術或工藝勞作",
+      "蝴蝶光照明與對稱陰影效果",
+      "高對比度結合深邃黑暗背景",
+      "時尚編輯攝影風格與低角度拍攝",
+      "手寫或藝術質感背景結合數位時間戳",
+      "貓咪穿著專業服裝進行科技或探險任務",
+      "鏡子自拍或反射成像的隨拍感",
+      "莫蘭迪色調與柔和粉彩配色",
+      "細緻的木紋或布料纖維紋理細節"
+    ]
   }
 ]
