@@ -2369,5 +2369,38 @@
     ],
     "news_inspiration": [],
     "comment_id": 4188483640
+  },
+  {
+    "character_name": "麻糬",
+    "story": "麻糬在收攤後的市場巡邏，偶然發現一個剛好能塞進去的空紙箱。當牠探頭進去時，空間彷彿陷入了無盡的循環，讓這隻貪吃的橘白貓在溫暖的霓虹燈火中，展開了一場超現實的躲貓貓冒險。",
+    "prompt": "Infrared photography of Mochi, a chubby shorthair cat with a white base and solid orange patches. Mochi has an orange mask on the right half of his face, a white left face, amber eyes, and a heart-shaped orange saddle on his back. He is crawling into a cardboard box printed with a traditional market map in a neon-lit old street market. The image features the Droste effect, showing Mochi inside a box, inside a smaller box, repeating infinitely. Shot with a 35mm lens, f/2.8, the scene has a warm amber color grading, sandy grain texture, and a moody urban night atmosphere with glowing neon reflections on wet pavement. The date and time '2026-04-05 09:29 UTC' is clearly displayed in a corner of the frame. The color palette consists of golden yellows and burnt oranges, capturing a surreal, self-referential loop with the look of a vintage film photograph.",
+    "number": 1277,
+    "character": "mochi",
+    "idea": "在霓虹閃爍的老街傳統市場，麻糬正鑽入一個印有市場地圖的紙箱，畫面呈現紅外線攝影的琥珀色調與沙質紋理，並透過德羅斯特效應讓紙箱內的麻糬又鑽入更小的紙箱中。",
+    "title": "琥珀霓虹的無盡麻糬",
+    "news_inspiration": [],
+    "comment_id": 4188603690,
+    "avoid_list": [
+      "鳥瞰俯視構圖",
+      "專業聚光燈與深色陰影",
+      "精準切片或雕琢的職人動作",
+      "日期時間視覺化標記",
+      "微縮模型或模型立體效果",
+      "大理石紋理背景",
+      "高飽和度與鮮豔色彩組合",
+      "專注於微小物件的貓爪動作",
+      "時尚編輯攝影風格",
+      "粉彩與馬卡龍色調",
+      "精緻手工藝或工坊場景",
+      "單一光源營造的高對比光影"
+    ],
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Neon Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "original"
   }
 ]
