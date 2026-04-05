@@ -2540,5 +2540,44 @@
       "細緻的木紋或布料纖維紋理細節"
     ],
     "idea": "採用畫意攝影風格與分割畫面構圖，左側展現廢棄工業廠房的鐵鏽舊化細節，右側則以倫勃朗光捕捉一隻老貓在生鏽機具旁專注修補破舊漁網的剪影。"
+  },
+  {
+    "comment_id": 4189319591,
+    "avoid_list": [
+      "35mm 鏡頭與 f/2.8 光圈設定",
+      "日期與時間戳記浮水印",
+      "鳥瞰視角與垂直向下觀察",
+      "莫蘭迪色調與消色差粉彩",
+      "分割畫面或左右對比構圖",
+      "強烈直射閃光燈與硬陰影",
+      "復古褪色與電影膠片質感",
+      "貓咪進行維修或手工修補動作",
+      "鏡面自拍與手機隨拍風格",
+      "古代遺跡與高科技裝備結合",
+      "碳纖維紋理與工業鏽蝕細節",
+      "特定的彩色背景或幾何圖案織品"
+    ],
+    "idea": "在以粗獷混凝土為基調的魚市場中，運用白板記號筆畫風格與德羅斯特效應，描繪船長站在一個畫著自己正站在魚簍上的魚簍邊，層層遞進的體積光穿透市場天窗。",
+    "character": "captain",
+    "inspiration": "original",
+    "character_name": "船長",
+    "title": "無盡碼頭的鮮魚守望",
+    "number": 1286,
+    "prompt": "A whiteboard marker drawing style illustration on glass with slightly faded ink and hand-drawn line art. A large stocky brown tabby cat named Captain, with bold black stripes and scruffy untidy fur, stands in a brutalist fish market made of raw concrete. Captain has a white chest bib, white mitten paws, a v-shaped notch in his left ear, and a faded red bandana. His left eye is hidden by a natural dark-pigmented fur patch (no straps), while his right eye is piercing emerald green. He is inspecting a basket of silvery fish. The scene features the Droste effect: the basket shows a drawing of Captain standing by that same basket, repeating infinitely. Dramatic volumetric lighting and god rays pierce through the market skylight, illuminating dust particles. Earth tone palette including terracotta and olive green. Text '2026-04-05 18:27 UTC' is clearly displayed in the corner.",
+    "news_inspiration": [
+      "在美國華盛頓特區，2026年國家櫻花節於今日迎來「創意綻放」活動，遊客能親手挑選鮮花並將汽車轉化為活生生的藝術裝置。",
+      "南非開普敦的一位跑步愛好者近日完成了艱苦的「無盡循環」耐力賽，成功為需要接受免費手術的兒童籌集醫療基金。",
+      "印度喜馬拉雅山脈的板球巨星 Virat Kohli 在今日的 T20 賽事中打破紀錄，為被稱為「眾神之地」的喜馬恰爾邦增添運動榮耀。",
+      "位於英國的慈善機構慶祝今日起生效的新福利政策，廢除育兒津貼限制並增加法定病假薪資，預計將大幅改善單親家庭的生活。",
+      "科學家在今日發布的研究中宣布，利用 DNA 技術開發出一種可編程的精準藥物系統，能像導向飛彈般準確鎖定並治療癌細胞。"
+    ],
+    "story": "船長正嚴肅地對著一簍新鮮漁獲進行『品質鑑定』，然而德羅斯特效應讓畫面陷入無盡的循環，彷彿整座碼頭的魚都歸牠管轄。儘管外表霸氣，但當牠看到那堆閃閃發光的銀魚時，翠綠色的右眼還是不自覺地閃過一絲渴望。",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Volumetric Light",
+      "texture": "Concrete",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
