@@ -2231,5 +2231,42 @@
       "color_palette": "Duotone"
     },
     "story": "停電的深夜，這隻愛漂亮的貓咪趁著主人點燃蠟燭時，偷偷溜上梳妝台。牠看著鏡中的自己，似乎決定在派對開始前，為自己那對毛茸茸的臉頰增添一點緋紅的氣色。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Floating Island Scene",
+      "lighting": "Direct Flash",
+      "texture": "Paper Texture",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "體積光與浮塵微粒",
+      "生鏽金屬與金色齒輪組合",
+      "微縮模型與精密零件",
+      "正交投影與等距視角",
+      "絲綢布料上的物品陳列",
+      "在角落刻上日期與時間戳記",
+      "貓咪擔任工匠或機械師職業",
+      "霓虹螢光與深色背景對比",
+      "分割畫面與垂直切割線",
+      "倫勃朗光與蝴蝶光照明",
+      "液態金屬或熔融材質",
+      "粉彩與大地色調調色盤"
+    ],
+    "number": 1272,
+    "prompt": "Fashion editorial photography of an elegant cat perched on the dome edge of the Vera C. Rubin Observatory, peering through a handheld brass telescope at a starry sky. The observatory appears as a miniature floating island on a levitating platform amidst soft white clouds. Composition features a raw candid snapshot look with a dramatic pose and high-end styling. Lighting is characterized by harsh direct on-camera flash, blown-out highlights, and hard shadows. Color scheme follows a Morandi muted palette with desaturated soft pastels and dusty grey undertones. The image has a textured paper surface with visible fiber grain and a tactile watercolor paper feel. A small, clean text overlay in the corner displays '2026-04-05 01:19 UTC'. Shot with a 35mm lens, f/8, aerial perspective, grainy film aesthetic.",
+    "title": "銀河邊緣的觀測者",
+    "idea": "這是一幅採用時尚編輯攝影風格的作品，一隻優雅的貓正在智利魯賓天文台的圓頂邊緣，認真地透過手持長筒望遠鏡觀測星空，整體場景呈現出如浮島般的漂浮感。",
+    "inspiration": "智利魯賓天文台在正式啟動大規模巡天調查前，僅憑初步觀測數據就發現了超過 11,000 顆新小行星，為天文科學帶來重大突破。",
+    "news_inspiration": [
+      "美國密蘇里州坎薩斯城的年度慈善活動 Thundergong! 成功為超過 2,000 名截肢者募得裝設義肢的資金，展現了社區互助的溫馨力量。",
+      "智利魯賓天文台在正式啟動大規模巡天調查前，僅憑初步觀測數據就發現了超過 11,000 顆新小行星，為天文科學帶來重大突破。",
+      "義大利威尼斯電影學院正式開啟微預算長片製作工作坊，支持全球新銳導演進行沉浸式影像創作與跨國文化交流。",
+      "泰國各大城市正迎來盛大的宋干節（潑水節）傳統慶祝活動，世界各地遊客聚集於此透過潑水祈福，共同慶祝泰國新年。",
+      "澳洲烏魯魯－卡塔丘塔國家公園宣布自 2026 年起首度開放遊客在公園核心地帶過夜，推廣與當地原住民文化深度連結的永續旅遊趨勢。"
+    ],
+    "comment_id": 4188054371,
+    "story": "為了在巡天調查中領先一步，這隻熱愛天文的貓在深夜偷偷溜進了觀測區。牠正專注地調整焦距，試圖在浩瀚銀河中找出第 11,001 顆未被紀錄的小行星。"
   }
 ]
