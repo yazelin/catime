@@ -2690,5 +2690,44 @@
       "texture": "Sand Texture",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "story": "在深夜的漢格大棚內，這隻天才貓咪工程師正與頂尖科學家並肩作戰，月光穿透天窗落入實驗室，與熱成像顯現的能量金光交織出奢華質感。牠正用爪子微調噴嘴噴頭，確保這架象徵未來的零排放飛機能在明日清晨順利起飛。",
+    "prompt": "A wide-angle photography shot of a glowing cat engineer repairing cryogenic fuel pipes in a minimalist hydrogen-powered aircraft lab. The cat radiates a golden thermal heat signature against a deep black background, appearing as a vivid heat map visualization. Ultra wide 12mm lens creates a dramatic perspective distortion and expansive field of view from a high overhead angle. Cool blue moonlight and a gentle silvery glow from a skylight contrast with the cat's luxurious metallic gold heat radiation. The cat uses its paws to adjust a precision nozzle. Visible film grain and subtle analog noise provide an organic photographic texture. In the corner of the frame, the date and time '2026-04-05 22:19 UTC' is visually displayed in a clean digital typeface. Shot on 35mm film, f/2.8, quiet nighttime atmosphere, infrared vision aesthetic.",
+    "comment_id": 4189626271,
+    "number": 1290,
+    "avoid_list": [
+      "德羅斯特效應無限遞迴",
+      "皮革賽車服或飛行夾克",
+      "分屏或分割畫面構圖",
+      "35mm鏡頭與f/2.8光圈組合",
+      "體積光與塵埃微粒",
+      "德瓦卡盆地或古代廢墟",
+      "數位蝕刻的時間戳記",
+      "莫蘭迪色調與灰藍色系",
+      "碳纖維與細緻紋理對比",
+      "黏土動畫與手作指紋質感",
+      "復古褪色底片質感",
+      "新藝術風格曲線裝飾",
+      "紅外線琥珀色調攝影",
+      "穿戴智慧感測器或儀表板"
+    ],
+    "news_inspiration": [
+      "聯合國於 4 月 6 日慶祝「體育促進發展與和平國際日」，並在美國紐約總部強調體育在建立社會連結與打破隔閡的獨特作用。",
+      "六位來自南非各專業領域的傑出科學家獲邀前往德國，與諾貝爾獎得主共同探討能定義未來科學紀元的前瞻性研究。",
+      "美國佛羅里達州邁阿密國際足球俱樂部（Inter Miami）的新主場正式啟用並迎來首勝，成為大衛·貝克漢球隊經營的重要里程碑。",
+      "中國成功完成一款氫動力飛機的首次飛行測試，象徵航空技術在環保能源應用與技術鏈完善上取得重大進展。",
+      "美國密西根州一家寵物護理品牌推出由待領養貓咪毛髮製成的趣味「高級時裝」系列，拍賣所得將全數捐贈給動物救援組織。"
+    ],
+    "title": "金焰能源的守望者",
+    "idea": "一隻通體散發金色熱輻射光芒的貓咪，正在極簡風格的氫動力飛機實驗室中，利用超廣角鏡頭俯拍視角維修精密的低溫燃料管道。",
+    "inspiration": "中國成功完成一款氫動力飛機的首次飛行測試，象徵航空技術在環保能源應用與技術鏈完善上取得重大進展。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Moonlight",
+      "texture": "Film Grain",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
