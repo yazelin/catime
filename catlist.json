@@ -11598,5 +11598,13 @@
     "url": null,
     "timestamp": "2026-04-05 16:23 UTC",
     "error": "Failed to generate any images - All models failed. Last error: No image data in response"
+  },
+  {
+    "model": "all failed",
+    "number": null,
+    "timestamp": "2026-04-05 17:21 UTC",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "url": null
   }
 ]
