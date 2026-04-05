@@ -2653,5 +2653,42 @@
       "日本各地的櫻花季在 4 月份進入高潮，北部地區的賞櫻活動持續帶動春季旅遊熱潮與文化慶典。",
       "菲律賓與拉丁美洲各國在復活節後的週一舉行傳統慶祝活動，包含了豐富的家庭聚會與地方特色飲食文化。"
     ]
+  },
+  {
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號（Artemis II）載人太空船預計於今日飛抵月球背面，這是人類時隔半個多世紀後再次踏足深空。",
+      "羅馬尼亞布加勒斯特正在舉辦提里亞克網球公開賽（Tiriac Open），今日將迎來充滿活力的決賽週活動。",
+      "荷蘭利瑟的庫肯霍夫花園（Keukenhof）適逢鬱金香節，數百萬朵鮮花盛放，吸引全球遊客前往體驗春季美景。",
+      "南非開普敦的馬拉松運動員與慈善機構合作，今日舉辦「無盡循環」耐力挑戰賽，為貧困兒童籌集免費手術費用。",
+      "日本名古屋今日展開「日本 IT 週」博覽會，展示最新的穿戴式醫療科技與 AI 運動設備，引領未來生活趨勢。"
+    ],
+    "story": "這隻名叫「大福」的實驗貓正在名古屋的科技展場中，親自驗證最新的穿戴式醫療科技。牠輕盈的步伐被精密轉換成數據流，在螢光燈的映照下，流動的沙質紋理與裝飾性的花草線條交織成一場未來的律動。",
+    "number": 1289,
+    "comment_id": 4189552263,
+    "prompt": "A black and white monochrome photograph with a tilt-shift effect, featuring a cat wearing miniature smart sensors while walking on a small treadmill inside a laboratory. The laboratory design incorporates Art Nouveau flowing organic curves and ornamental floral motifs on the walls. The scene is shot with a selective focus band, creating a miniature toy-like appearance with a blurred foreground and background. The lighting is institutional overhead fluorescent white 5000K, creating a high contrast tonal range. A fine sand texture with wind-sculpted patterns covers the laboratory floor. The date and time '2026-04-05 21:21 UTC' is clearly displayed on a digital readout in the scene. Shot on a 35mm lens, f/1.8, realistic textures, grainy film aesthetic.",
+    "idea": "在黑白單色且具備新藝術風格曲線的實驗室中，一隻貓咪穿戴著微型智慧感測器，正專注地在跑步機上測試 AI 運動設備，畫面呈現移軸微縮效果。",
+    "inspiration": "日本名古屋今日展開「日本 IT 週」博覽會，展示最新的穿戴式醫療科技與 AI 運動設備，引領未來生活趨勢。",
+    "avoid_list": [
+      "35mm 鏡頭與 f/2.8 光圈設定",
+      "日期與時間戳記浮水印",
+      "鳥瞰視角與垂直向下觀察",
+      "莫蘭迪色調與消色差粉彩",
+      "分割畫面或左右對比構圖",
+      "強烈直射閃光燈與硬陰影",
+      "復古褪色與電影膠片質感",
+      "貓咪進行維修或手工修補動作",
+      "鏡面自拍與手機隨拍風格",
+      "古代遺跡與高科技裝備結合",
+      "碳纖維紋理與工業鏽蝕細節",
+      "特定的彩色背景或幾何圖案織品"
+    ],
+    "title": "銀鹽流動的數據律動",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
