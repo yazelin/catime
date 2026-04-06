@@ -2875,5 +2875,42 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "idea": "在幽暗的體育館角落，一隻貓咪正透過冰霜結晶覆蓋的魚眼鏡頭，以全像投影的虛擬形態全神貫注地運球，呈現出冷冽的雙色調美感。",
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Fisheye Lens",
+      "lighting": "Spotlight",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    },
+    "story": "即使這只是阿提米絲任務前的模擬訓練，這隻基因強化的橘貓仍渴望在零下溫度的月球基地裡，運著那顆閃爍微光的投影籃球，精準投入籃框。聚光燈下，牠的每一次跳躍都與全美球迷的呼吸同步。",
+    "title": "極地籃底的幽靈轉身",
+    "number": 1295,
+    "prompt": "A cinematic photograph of a genetically enhanced orange cat as a translucent holographic projection, dribbling a glowing digital basketball in a dark gymnasium corner. Shot through a fisheye lens with strong barrel distortion and ice crystal formations covering the glass. The cat is a glowing blue-cyan figure with digital scan lines. A single narrow beam spotlight creates dramatic high-contrast lighting against deep darkness. Delicate frost patterns and translucent ice shards frame the exaggerated foreground. Duotone color palette of icy cyan and deep black. The date and time '2026-04-06 08:17 UTC' is digitally rendered in the corner of the frame. 35mm lens, f/2.8, sharp light edges, grainy texture, realistic optical distortion.",
+    "avoid_list": [
+      "地球色調與赤陶色橄欖綠組合",
+      "德羅斯特效應與無限循環構圖",
+      "體積光與穿透灰塵的光束",
+      "亮面塑膠或黏土質感的微縮模型",
+      "日期與時間戳記浮水印",
+      "移軸攝影產生的玩具化效果",
+      "霓虹螢光與電光粉色調",
+      "貓咪進行人類專業維修工作",
+      "35mm鏡頭搭配f/2.8與重底片顆粒",
+      "工業廢墟或粗獷主義混凝土背景",
+      "正交投影或扁平化技術渲染",
+      "貓咪穿著皮革飛行夾克或運動球衣"
+    ],
+    "comment_id": 4191110149,
+    "inspiration": "美國印第安納波利斯市今天舉行 NCAA 男子籃球錦標賽決賽，吸引全美球迷關注這場年度體壇盛事。",
+    "news_inspiration": [
+      "美國印第安納波利斯市今天舉行 NCAA 男子籃球錦標賽決賽，吸引全美球迷關注這場年度體壇盛事。",
+      "南非的六位年輕科學家獲得正式邀請，將於今年夏天前往德國參加備受尊崇的林島諾貝爾獎得主大會，與全球頂尖智慧交流。",
+      "美國國家航空暨太空總署（NASA）阿提米絲 2 號任務正式啟動，這是人類時隔 50 年後首次進行載人繞月飛行。",
+      "澳洲科學家最新研究發現，無尾熊在經歷慘重的人口崩跌後，其 DNA 展現出強大的恢復力，為物種保育帶來新希望。",
+      "各國體壇焦點正轉向摩納哥，蒙地卡羅大師賽於今日正式開打，標誌著網球紅土賽季的熱鬧展開。"
+    ]
   }
 ]
