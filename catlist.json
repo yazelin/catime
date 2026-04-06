@@ -11718,5 +11718,16 @@
     "number": 1297,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_1055_UTC.webp",
     "timestamp": "2026-04-06 10:55 UTC"
+  },
+  {
+    "number": 1298,
+    "title": "青影浮島的貪吃巡禮",
+    "character_name": "麻糬",
+    "timestamp": "2026-04-06 11:40 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_1140_UTC.webp",
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "character": "mochi",
+    "status": "success"
   }
 ]

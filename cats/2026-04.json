@@ -2980,5 +2980,38 @@
     "idea": "一隻黑貓正在精緻的胡桃木工作台上進行鐘錶拆解，採用賽璐璐著色風格並以 Knolling 排列攝影呈現所有金色零件。",
     "number": 1297,
     "comment_id": 4191835968
+  },
+  {
+    "number": 1298,
+    "title": "青影浮島的貪吃巡禮",
+    "character_name": "麻糬",
+    "idea": "在浮空的老街攤位島嶼間，圓滾滾的橘白貓麻糬正靈活地跳躍，試圖捕捉漂浮在磨砂玻璃雲朵中的藍色蒸汽波魚乾。",
+    "comment_id": 4192052504,
+    "prompt": "Digital art illustration of Mochi, a chubby shorthair cat jumping between floating traditional market stall islands. Mochi has a white base, a solid orange mask on his right face (left face pure white), a heart-shaped orange saddle on his back, a solid orange right front paw, a white left front paw, and round amber eyes. He is reaching for translucent blue vaporwave fish snacks floating inside frosted glass clouds. Style features vaporwave aesthetic with pastel pink and cyan gradients, retro 80s digital elements, and Greek statues. Aerial perspective of a miniature landscape on levitating platforms with cool blue-teal color grading. Soft, diffused light with translucent matte textures. The timestamp '2026-04-06 11:40 UTC' is clearly visually displayed in the corner in a retro digital font.",
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Floating Island Scene",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "即使身處超現實的冷色調浮島，麻糬的吃貨本性依舊不改。牠挺著圓潤的肚子，在青藍色的光影中優雅地穿梭於各個懸浮的小吃攤，尋找那傳說中散發著薄荷藍光的夢幻麻糬。",
+    "character": "mochi",
+    "inspiration": "original",
+    "avoid_list": [
+      "地球色調與赤陶色橄欖綠組合",
+      "德羅斯特效應與無限循環構圖",
+      "體積光與穿透灰塵的光束",
+      "亮面塑膠或黏土質感的微縮模型",
+      "日期與時間戳記浮水印",
+      "移軸攝影產生的玩具化效果",
+      "霓虹螢光與電光粉色調",
+      "貓咪進行人類專業維修工作",
+      "35mm鏡頭搭配f/2.8與重底片顆粒",
+      "工業廢墟或粗獷主義混凝土背景",
+      "正交投影或扁平化技術渲染",
+      "貓咪穿著皮革飛行夾克或運動球衣"
+    ],
+    "news_inspiration": []
   }
 ]
