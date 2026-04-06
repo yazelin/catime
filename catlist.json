@@ -11709,5 +11709,14 @@
     "title": "汞齊幻影的自畫像",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_0958_UTC.webp",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "inspiration": "original",
+    "status": "success",
+    "title": "金律中的時光拆解",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "number": 1297,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_1055_UTC.webp",
+    "timestamp": "2026-04-06 10:55 UTC"
   }
 ]
