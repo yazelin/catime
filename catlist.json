@@ -11729,5 +11729,13 @@
     "model": "gemini-3-pro-image-preview",
     "character": "mochi",
     "status": "success"
+  },
+  {
+    "url": null,
+    "status": "failed",
+    "number": null,
+    "timestamp": "2026-04-06 12:44 UTC",
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
