@@ -11748,5 +11748,14 @@
     "status": "success",
     "character": "lingling",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "title": "金殿星圖之守望",
+    "timestamp": "2026-04-06 15:36 UTC",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_1536_UTC.webp",
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1301
   }
 ]

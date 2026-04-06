@@ -3048,5 +3048,38 @@
     ],
     "news_inspiration": [],
     "character": "lingling"
+  },
+  {
+    "comment_id": 4193232306,
+    "number": 1301,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Isometric Photography",
+      "lighting": "Cinematic Lighting",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "在這座由方塊構成的奢華聖殿中，守護者黑貓正用肉墊撥動齒輪，調整星辰的運行軌跡。金色的餘暉灑在黑色釉面的毛皮上，每一次撥動都讓沉寂的星圖重新綻放神聖的光芒。",
+    "prompt": "Isometric 3D voxel art render of a black cat in ornate gold-trimmed armor, diligently repairing a massive golden orrery with its paws. The cat and the grand palace environment feature a handcrafted ceramic clay texture with matte surfaces and subtle imperfections. Cinematic lighting with volumetric light rays and dramatic shadows creates an opulent mood. The color palette is dominated by deep black and luxurious metallic gold. The date and time '2026-04-06 15:36 UTC' is visually integrated into the scene on a decorative golden plaque. The style combines Minecraft-style pixelated cubes with high-end film-quality lighting, captured from a perfect isometric camera angle.",
+    "inspiration": "original",
+    "avoid_list": [
+      "數位日期時間顯示",
+      "移軸攝影效果",
+      "35mm鏡頭與f/1.8或f/2.8光圈",
+      "具有顆粒感的底片質感",
+      "魚眼鏡頭與桶形畸變",
+      "微縮模型景觀",
+      "閃光燈直打與過曝亮部",
+      "亮面塑膠或乙烯基材質",
+      "5000K冷白螢光燈照明",
+      "俯拍鳥瞰視角",
+      "大地色系搭配橄欖綠與赤陶色",
+      "雙色調高對比處理",
+      "精細顆粒底片美學",
+      "微型智慧感測器或穿戴裝置"
+    ],
+    "idea": "一隻體素風格的黑貓身著金邊盔甲，正在金碧輝煌的等距視角殿堂內修復一台巨大的黃金天象儀，呈現細膩的陶瓷黏土質感與電影感光影。",
+    "title": "金殿星圖之守望"
   }
 ]
