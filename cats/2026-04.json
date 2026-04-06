@@ -2840,5 +2840,40 @@
     "inspiration": "美國印第安納波利斯今日將迎來 NCAA 男子籃球「最終四強」決賽，這項年度體育盛事讓整座城市沉浸在狂熱的籃球氛圍中。",
     "title": "月光下的關鍵三分",
     "number": 1293
+  },
+  {
+    "news_inspiration": [],
+    "inspiration": "original",
+    "character": "momo",
+    "title": "霓虹墨色詩章",
+    "story": "墨墨在午夜的書店裡化身為深夜作家，閃光燈直打出牠緞面般的黑毛與金色耳環。牠優雅地蹲在堆疊的書本上，金琥珀色的眼睛閃爍，正敲打著屬於牠的貓生回憶錄。",
+    "number": 1294,
+    "character_name": "墨墨",
+    "idea": "在霓虹螢光的舊書店中，墨墨以印象派筆觸呈現，身處正交投影的書架間，正用修長肉球撥動一台亮面塑膠質感的復古打字機。",
+    "prompt": "Impressionist painting of Momo, a sleek black Bombay-style shorthair cat with satin fur, golden-amber eyes, a tiny white chest tuft, and a single small gold hoop earring on her left ear. She is positioned in an orthographic projection within a neon fluorescent used bookstore. Momo is using long paws to press keys on a glossy plastic-textured retro typewriter. The scene features thick painterly visible brushstrokes and an emphasis on electric pink and lime green light. Harsh direct on-camera flash creates blown-out highlights on the glossy typewriter and hard shadows on the surrounding bookstacks. Technical flat rendering with no perspective distortion. The date and time '2026-04-06 06:24 UTC' is clearly visually displayed in the image as part of the composition.",
+    "comment_id": 4190685309,
+    "avoid_list": [
+      "德羅斯特效應無限遞迴",
+      "皮革賽車服或飛行夾克",
+      "分屏或分割畫面構圖",
+      "35mm鏡頭與f/2.8光圈組合",
+      "體積光與塵埃微粒",
+      "德瓦卡盆地或古代廢墟",
+      "數位蝕刻的時間戳記",
+      "莫蘭迪色調與灰藍色系",
+      "碳纖維與細緻紋理對比",
+      "黏土動畫與手作指紋質感",
+      "復古褪色底片質感",
+      "新藝術風格曲線裝飾",
+      "紅外線琥珀色調攝影",
+      "穿戴智慧感測器或儀表板"
+    ],
+    "style_picks": {
+      "art_style": "Impressionism",
+      "composition": "Orthographic Projection",
+      "lighting": "Direct Flash",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
