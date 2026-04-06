@@ -3225,5 +3225,44 @@
     "idea": "在一幅表現主義風格的畫作中，一隻神情憂鬱的藍貓正在螺旋狀的古老木造圖書館中校對地圖，場景呈現德羅斯特效應的無限遞迴感。",
     "comment_id": 4194815949,
     "prompt": "Expressionism oil painting of a melancholy indigo-furred cat proofreading a map within a spiraling ancient wooden library. The scene features the Droste effect, creating an infinite recursive loop where the cat holds a map that contains the same scene, repeating into itself. Bold distorted forms and exaggerated gestural brushwork define the organic wood grain of the towering shelves. Dramatic Rembrandt lighting creates a single light source at 45 degrees, casting deep chiaroscuro shadows and a signature triangle of light on the cat's face. The color palette uses vivid contrasting tones, blending rich warm wood textures with cool blue-teal color grading and icy undertones. Clearly visible in the composition is the text '2026-04-06 20:28 UTC'."
+  },
+  {
+    "title": "矮欄上的三分躍動",
+    "news_inspiration": [
+      "澳洲海洋科學家在珊瑚海保護區發現了超過110種全新的深海魚類與無脊椎動物，包含罕見的貓鯊與魟魚。",
+      "美國加州帕薩迪納一對夫婦創立了「聯合籃球聯盟」，專為身高188公分以下球員設計，並規定灌籃得分以三分計算。",
+      "紐西蘭奧克蘭正舉辦「世界文化節」，透過菲律賓美食節與中國武術展演等活動，慶祝當地的多元族群文化。",
+      "南非開普敦一名跑者參加挑戰體能極限的「無盡循環」超級馬拉松，成功為需要手術的貧困兒童籌得醫療基金。",
+      "義大利帕多瓦大學的最新DNA研究顯示，著名的「杜林裹屍布」可能曾經過中東，為這件歷史遺物增添了科學與文化討論新證據。"
+    ],
+    "style_picks": {
+      "art_style": "Impressionism",
+      "composition": "Split View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "美國加州帕薩迪納一對夫婦創立了「聯合籃球聯盟」，專為身高188公分以下球員設計，並規定灌籃得分以三分計算。",
+    "story": "在帕薩迪納的街頭角落，這隻不滿188公分的「小個子」球員正挑戰聯盟新制，試圖用一記華麗灌籃換取三分。儘管籃板布滿鐵鏽，但在粉彩般的黃昏中，每一絲毛髮的躍動都像是莫內筆下的碎光。",
+    "idea": "這是一幅採用印象派風格的分割畫面作品：左側是一隻身形矯健的橘貓在低矮籃框前躍起灌籃，右側則是生鏽斑駁的計分板，在倫勃朗光影下呈現柔和的粉彩色調。",
+    "prompt": "Impressionist painting with a split view composition. Left side: An athletic ginger cat leaping in mid-air for a slam dunk at a low basketball hoop, painterly visible brushstrokes, plein air atmosphere, every hair capturing light like Monet's broken color technique. Right side: A rusted, weathered scoreboard with oxidized patina and peeling paint layers. The entire scene uses Rembrandt lighting with a single light source at 45 degrees and dramatic chiaroscuro. Color palette is soft pastel tones of gentle pink, lavender, mint, and baby blue. Visually display the text '2026-04-06 21:28 UTC' integrated into the composition.",
+    "number": 1307,
+    "comment_id": 4195120191,
+    "avoid_list": [
+      "數位日期時間顯示",
+      "移軸攝影效果",
+      "35mm鏡頭與f/1.8或f/2.8光圈",
+      "具有顆粒感的底片質感",
+      "魚眼鏡頭與桶形畸變",
+      "微縮模型景觀",
+      "閃光燈直打與過曝亮部",
+      "亮面塑膠或乙烯基材質",
+      "5000K冷白螢光燈照明",
+      "俯拍鳥瞰視角",
+      "大地色系搭配橄欖綠與赤陶色",
+      "雙色調高對比處理",
+      "精細顆粒底片美學",
+      "微型智慧感測器或穿戴裝置"
+    ]
   }
 ]
