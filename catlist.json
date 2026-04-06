@@ -11819,5 +11819,18 @@
     "status": "success",
     "inspiration": "original",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": 1309,
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "is_seasonal": true,
+    "timestamp": "2026-04-06 23:26 UTC",
+    "season": "spring",
+    "character_name": "船長",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_2326_UTC.webp",
+    "title": "春風裡的藍調啟航"
   }
 ]
