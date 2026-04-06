@@ -11766,5 +11766,14 @@
     "timestamp": "2026-04-06 16:34 UTC",
     "inspiration": "希臘阿索斯山的僧侶分享春季健康飲食秘訣，引發全球追求自然生活與規律飲食者的文化關注。",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "inspiration": "original",
+    "title": "青瓷夢境的石雕師",
+    "timestamp": "2026-04-06 17:36 UTC",
+    "status": "success",
+    "number": 1303,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-06_1736_UTC.webp"
   }
 ]

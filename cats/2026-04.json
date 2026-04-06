@@ -3120,5 +3120,38 @@
     ],
     "inspiration": "希臘阿索斯山的僧侶分享春季健康飲食秘訣，引發全球追求自然生活與規律飲食者的文化關注。",
     "idea": "這是一幅黑色電影風格的分割畫面影像，左側呈現一隻穿著充氣 PVC 夾克的貓在希臘修道院廚房揉麵糰，右側則由環形燈照亮滿桌的鮮豔蔬果。"
+  },
+  {
+    "story": "這隻名為「匠心」的貓工匠正專注於打磨最後的大理石花瓣，蝴蝶光在牠專注的眉宇間投下對稱的陰影。整座工坊被濃郁的青藍色調包裹，每一道鑿痕都像是凝固的波浪，訴說著石材與靈魂的對話。",
+    "inspiration": "original",
+    "title": "青瓷夢境的石雕師",
+    "avoid_list": [
+      "數位日期時間顯示",
+      "移軸攝影效果",
+      "35mm鏡頭與f/1.8或f/2.8光圈",
+      "具有顆粒感的底片質感",
+      "魚眼鏡頭與桶形畸變",
+      "微縮模型景觀",
+      "閃光燈直打與過曝亮部",
+      "亮面塑膠或乙烯基材質",
+      "5000K冷白螢光燈照明",
+      "俯拍鳥瞰視角",
+      "大地色系搭配橄欖綠與赤陶色",
+      "雙色調高對比處理",
+      "精細顆粒底片美學",
+      "微型智慧感測器或穿戴裝置"
+    ],
+    "prompt": "3D isometric illustration of an elegant Bengal cat artisan meticulously carving an icy blue marble fountain in a detailed Art Nouveau workshop. The scene features flowing organic curves, ornamental borders, and Mucha-inspired floral motifs. The cat uses a chisel to shape marble petals with frozen wave textures. Cool blue-teal color grading with icy undertones and a crisp, serene atmosphere. Lighting is a polished butterfly lighting setup with an overhead key light creating symmetrical shadows. The date and time '2026-04-06 17:36 UTC' is clearly displayed on a nearby marble plaque. Polished marble textures with natural vein patterns and a luxurious stone finish.",
+    "news_inspiration": [],
+    "number": 1303,
+    "comment_id": 4193961619,
+    "idea": "一隻優雅的孟加拉貓在繁複的新藝術風格大理石工坊中，運用等距3D視角精確地雕琢一座冰藍色的噴泉，展現出流動的藤蔓線條與冷調美感。",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Butterfly Lighting",
+      "texture": "Marble",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
