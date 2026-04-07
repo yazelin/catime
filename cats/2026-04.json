@@ -3509,5 +3509,46 @@
       "35mm底片質感與數位日期戳記",
       "對稱構圖與鳥瞰視角"
     ]
+  },
+  {
+    "character": "mochi",
+    "story": "麻糬戴著細緻的編織花環，在櫻花瓣落下的黃金時刻，正專注地朝著野餐墊上的花生大福伸出橘色小手。背景由重複且華麗的曼陀羅幾何圓對稱展開，將春季賞花的熱鬧氛圍轉化為一場視覺的禪意盛宴。",
+    "title": "櫻下圓舞曲",
+    "idea": "這是一件結合曼陀羅藝術與微縮立體模型的橘白貓創作，展現胖乎乎的麻糬在滿開的櫻花樹下，身處精密沙質紋理構築的野餐場景。",
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Miniature Diorama",
+      "lighting": "Golden Hour",
+      "texture": "Sand Texture",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A miniature diorama in a mandala art style featuring Mochi, a chubby shorthair cat. Mochi has a white base coat, a solid orange mask on the right half-face (viewer perspective) while the left face is pure white, large round amber eyes, a pink nose with an orange center dot, a heart-shaped orange saddle on the upper back, an orange mitten on the right front paw, and a white left front paw. Mochi wears a tiny woven flower crown and reaches an orange paw toward a peanut mochi on a picnic blanket under a blooming cherry blossom tree. The scene is set on fine sand texture with radial symmetry and intricate concentric geometric patterns of sacred geometry. Golden hour lighting creates a warm sunset glow with long soft shadows and a golden rim light. The text '2026-04-07 11:44 UTC' is visually displayed in the corner. Duotone color treatment with bold graphic impact, complex circular design, tilt-shift effect, toy-like scale model.",
+    "comment_id": 4198770603,
+    "number": 1316,
+    "avoid_list": [
+      "Knolling 排列攝影風格",
+      "德羅斯特效應無限遞迴",
+      "倫勃朗光影與對稱陰影",
+      "生物發光與螢光色彩",
+      "復古褪色與紙質肌理",
+      "冷調青藍色與冰藍色噴泉",
+      "貓咪穿著工作圍裙或白袍",
+      "在透明樹脂或玻璃結構中工作",
+      "手繪蠟筆與兒童畫風格",
+      "精密修理或校對地圖的動作",
+      "35mm底片質感與數位日期戳記",
+      "對稱構圖與鳥瞰視角"
+    ],
+    "is_seasonal": true,
+    "inspiration": "中國多地於清明連假期間迎來櫻花盛開，江蘇省常熟市與揚州市的賞花活動帶動了熱烈的春季旅遊經濟。",
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號太空人於 4 月 6 日打破人類太空飛行距離紀錄，成為史上離地球最遠的人類。",
+      "澳洲科學家在珊瑚海深海發現了超過 110 種新物種，其中包括罕見的深海貓鯊與多種新奇的魚類。",
+      "德國漢堡的一隻野狼在咬傷人後經過評估，已於 4 月 6 日被地方環境部門正式放回大自然。",
+      "中國多地於清明連假期間迎來櫻花盛開，江蘇省常熟市與揚州市的賞花活動帶動了熱烈的春季旅遊經濟。",
+      "泰國一名業餘高爾夫球手因父親熱愛足球而取名為「Fifa」，他將於本週帶著這個獨特的名字首度登上美國奧古斯塔國家高球場。"
+    ],
+    "character_name": "麻糬"
   }
 ]
