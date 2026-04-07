@@ -11937,5 +11937,13 @@
     "status": "success",
     "character_name": "鈴鈴",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "model": "all failed",
+    "url": null,
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "status": "failed",
+    "number": null,
+    "timestamp": "2026-04-07 18:45 UTC"
   }
 ]
