@@ -3470,5 +3470,44 @@
       "莫蘭迪色調與粉彩灰階",
       "復古數位元素與蒸汽波美學"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Fisheye Lens",
+      "lighting": "Direct Flash",
+      "texture": "Paper Quilling",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "在粉彩色調的衍紙藝術世界中，黑貓墨墨正以魚眼鏡頭視角，在喜馬拉雅山腳下的不丹精品酒店露台，用肉墊輕觸一盞巨大的熱成像風格轉經筒。",
+    "comment_id": 4198448753,
+    "story": "墨墨隨著名牌酒店的入駐來到不丹，牠對這座追求幸福的國度充滿好奇。在高海拔的清冷空氣中，牠優雅地躍上木雕圍欄，試圖理解轉經筒傳遞的永續念想，胸前的白領結在柔和的粉彩光影下熠熠生輝。",
+    "news_inspiration": [
+      "在南大西洋的聖赫勒拿島，世界最長壽的 193 歲烏龜喬納森日前被傳死訊，今日官方證實僅是愚人節惡作劇，牠依然健康地生活著。",
+      "澳洲海洋科學家在珊瑚海深處發現了超過 110 種新物種，其中包括前所未見的深海貓鯊與魟魚，展現了生物多樣性的奇蹟。",
+      "美國紐約市舉辦了年度愛沙尼亞文化日，吸引了大量年輕移民透過傳統民俗舞蹈連結家鄉根源，場面溫馨且充滿文化傳承活力。",
+      "不丹正式迎來知名國際酒店品牌入駐並推廣永續旅遊，結合當地獨特的「國民幸福總值」理念，打造沉浸式的喜馬拉雅文化體驗。",
+      "越南會安的一家度假村今日榮獲全球奢侈生活風格獎，其設計靈感源自傳統木雕與陶藝村落，成功將古鎮文化轉化為現代舒壓體驗。"
+    ],
+    "character_name": "墨墨",
+    "number": 1315,
+    "prompt": "Paper quilling art of Momo, a sleek solid-black shorthair cat with satin-sheen fur, a tiny white fur locket on the chest, a single small gold hoop earring on the left ear, and golden-amber eyes. In a fisheye wide-angle lens perspective with strong barrel distortion, Momo uses a paw to touch a giant prayer wheel rendered in a thermal imaging heat map style with red-yellow-blue gradients. The scene is set on a boutique hotel terrace at the foot of the Himalayas in Bhutan. The entire world is constructed from intricate coiled paper strips, delicate curling loops, and 3D rolled paper textures. A soft pastel color palette of lavender, mint, and baby blue creates a dreamy atmosphere. Hard on-camera flash creates blown-out highlights and hard shadows. Visually display the timestamp '2026-04-07 10:51 UTC' in the composition.",
+    "title": "幸福國度的黑色轉經手",
+    "inspiration": "不丹正式迎來知名國際酒店品牌入駐並推廣永續旅遊，結合當地獨特的「國民幸福總值」理念，打造沉浸式的喜馬拉雅文化體驗。",
+    "character": "momo",
+    "avoid_list": [
+      "Knolling 排列攝影風格",
+      "德羅斯特效應無限遞迴",
+      "倫勃朗光影與對稱陰影",
+      "生物發光與螢光色彩",
+      "復古褪色與紙質肌理",
+      "冷調青藍色與冰藍色噴泉",
+      "貓咪穿著工作圍裙或白袍",
+      "在透明樹脂或玻璃結構中工作",
+      "手繪蠟筆與兒童畫風格",
+      "精密修理或校對地圖的動作",
+      "35mm底片質感與數位日期戳記",
+      "對稱構圖與鳥瞰視角"
+    ]
   }
 ]
