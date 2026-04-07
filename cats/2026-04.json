@@ -3402,5 +3402,42 @@
     "news_inspiration": [],
     "inspiration": "original",
     "story": "這隻守護森林的巨貓將落葉、發光菌菇與漿果按幾何比例重新排列，彷彿在進行一場無聲的大地祭典。光點從植物纖維中滲透出來，將整片森林地表轉化為一件會呼吸的絞染織物。"
+  },
+  {
+    "prompt": "A macro photography flat lay overhead view in knolling style. A tabby cat's paws are carefully arranging dried seaweed specimens and sleek carbon fiber diving components on a weathered wooden table. The objects are organized at 90-degree angles in a neat grid layout. Ring light illumination creates even lighting with a circular catchlight in the cat's eyes. Retro faded color palette with washed-out vintage tones and low contrast. Visible carbon fiber weave patterns and fine textures of marine plants. Shallow depth of field, 50mm lens, f/2.8, film grain. The date and time '2026-04-07 06:12 UTC' is clearly printed on a small vintage label on the table.",
+    "avoid_list": [
+      "漂浮島嶼與懸浮平台",
+      "2026年日期時間戳記標籤",
+      "德羅斯特效應與無限遞迴",
+      "電影感體積光與倫勃朗照明",
+      "修復古老零件或機械儀器",
+      "冷調青藍與冰藍色調處理",
+      "等距視角3D渲染與體素藝術",
+      "分割畫面或對稱構圖",
+      "穿著特定服裝的職人貓咪",
+      "磨砂玻璃或透明樹脂質感",
+      "莫蘭迪色調與粉彩灰階",
+      "復古數位元素與蒸汽波美學"
+    ],
+    "news_inspiration": [
+      "澳洲坎培拉於今日啟動首屆「奇妙世界節」（Wonderful World Festival），透過豐富的互動裝置與表演，為當地家庭營造充滿童趣與想像力的文化氛圍。",
+      "法國里昂正在舉辦「一體健康」峰會（One Health Summit），全球科學家與領袖齊聚一堂，慶祝世界衛生日並探討維護人類與自然環境的和諧共生。",
+      "南韓現代汽車在首爾發起「無名海林」全球環保行動，計畫為韓國、阿根廷與澳洲的海底森林命名，藉此提升大眾對海洋生態保育的重視。",
+      "科學家在中國發現了首批具有對稱身體構造的早期動物化石，這項突破性發現為研究地球複雜生命形式的演化提供了珍貴的科學實據。",
+      "牙買加田徑選手湯普森（Kishane Thompson）在美國佛羅里達州的邀請賽中，以 14.92 秒的成績創下男子 150 公尺短跑的世界最佳紀錄。"
+    ],
+    "number": 1312,
+    "inspiration": "南韓現代汽車在首爾發起「無名海林」全球環保行動，計畫為韓國、阿根廷與澳洲的海底森林命名，藉此提升大眾對海洋生態保育的重視。",
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Ring Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 4196929404,
+    "story": "這隻名叫「舵手」的虎斑貓正參與一場全球行動，牠在陽光灑落的舊木桌上，仔細挑選並命名來自海底森林的樣本。環形燈的均勻光線照亮了每一條海藻纖維與貓爪的細節，展現出人與海洋和諧共生的寧靜時刻。",
+    "title": "海林深處的命名者",
+    "idea": "這是一幅微距攝影作品，採用 Knolling 排列攝影風格，在復古褪色色調下展示一隻貓正專注地將多種海洋植物標本與碳纖維潛水構件整齊排開。"
   }
 ]
