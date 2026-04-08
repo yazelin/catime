@@ -4044,5 +4044,44 @@
     },
     "prompt": "Tilt-shift photography of a miniature Japanese garden made of heavy textured paper with visible fiber grain. An orange cat wearing traditional Japanese robes sits under a paper cherry blossom tree, holding a long-handled ladle to perform a tea ceremony. The scene features a selective focus band and miniature toy-like effect with a blurred foreground. The aesthetic is a collision of synthwave neon grid elements and an earth tone palette of terracotta, olive green, and warm brown. Three-point lighting setup with a soft key light and subtle rim light. The date and time '2026-04-08 11:44 UTC' is visually displayed in the corner of the frame. 35mm lens, f/2.8, tactile warmth, macro perspective.",
     "number": 1333
+  },
+  {
+    "avoid_list": [
+      "冷青色體積光",
+      "極低角度仰拍",
+      "蠟燭微弱橘色火光",
+      "莫蘭迪色調與粉彩灰",
+      "鏡子自拍或反射構圖",
+      "金屬質感裝備與鎧甲",
+      "霓虹螢光色彩對比",
+      "深夜戶外或廢墟場景",
+      "復古與超現實風格混合",
+      "貓咪進行科學實驗或導航",
+      "日期時間視覺標記",
+      "細膩的冰霜或結晶紋理"
+    ],
+    "comment_id": 4206413423,
+    "prompt": "Bird's-eye view illustration of Momo, a sleek solid-black shorthair cat with satin-sheen fur, a tiny white chest tuft, and golden-amber eyes, looking down at an open pop-up book in a warm amber-toned bookstore. Momo has a single gold hoop earring on her left ear and a subtle dark-grey ring at her tail tip. The artwork fuses Gond painting's intricate dot and line patterns with paper quilling art's 3D coiled paper textures and spirals. Warm amber color grading with golden yellows and burnt oranges. Long white whiskers are visible as she touches the paper. The text '2026-04-08 12:54 UTC' is elegantly integrated into the scene. Composition shows a miniature world effect with top-down perspective and cozy nostalgic warmth.",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Bird's-Eye View",
+      "lighting": "Moonlight",
+      "texture": "Paper Quilling",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character": "momo",
+    "news_inspiration": [
+      "泰國曼谷於 4 月 8 日宣布將舉辦規模空前的「世界最大宋干節」，首度選拔「宋干節小姐」並結合傳統與現代 T-Pop 演出慶祝新年。",
+      "日本九州大學的研究團隊於本週發表太陽能技術突破，成功將電池光電轉換效率上限提升，為再生能源領域帶來科學進展。",
+      "美國洛杉磯馬拉松於今日宣布與頂級調酒品牌建立多年合作，將在賽事中為跑者提供結合運動文化的高端社交生活體驗。",
+      "南非開普敦一名 6 歲小作家 Tlotlo Tsheka 近日出版了她的第三本書，並發起識字計畫鼓勵其他孩童追求閱讀與寫作夢想。",
+      "哥斯大黎加聖荷西與美國坦帕市之間時隔 25 年再度重啟直飛航線，為兩地旅遊與跨國文化交流開啟新篇章。"
+    ],
+    "inspiration": "南非開普敦一名 6 歲小作家 Tlotlo Tsheka 近日出版了她的第三本書，並發起識字計畫鼓勵其他孩童追求閱讀與寫作夢想。",
+    "number": 1334,
+    "idea": "在充滿溫暖琥珀色調的舊書店中，以鳥瞰視角展現墨墨正專注地用小爪子翻閱一本立體書，全畫融合了貢德畫的點狀裝飾與衍紙藝術的立體螺旋紋理。",
+    "story": "月光穿透舊書店的彩色玻璃，將墨墨的黑色緞面毛髮映照出深棕暖光。身為小小藏書家的牠，正沈浸在南非小作家 Tlotlo Tsheka 的新作中，用細長的白鬍鬚輕觸紙頁，享受文字與藝術帶來的寧靜喜悅。",
+    "character_name": "墨墨",
+    "title": "月色書香中的黑影詩篇"
   }
 ]
