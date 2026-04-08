@@ -12045,5 +12045,14 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "number": 1332
+  },
+  {
+    "inspiration": "日本北部的櫻花季持續盛開，吸引大量國際遊客前往賞櫻，帶動了當地的春季觀光熱潮。",
+    "status": "success",
+    "title": "櫻下微觀茶會",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1333,
+    "timestamp": "2026-04-08 11:44 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-08_1144_UTC.webp"
   }
 ]
