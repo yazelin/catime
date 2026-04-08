@@ -12117,5 +12117,13 @@
     "title": "綠影復甦的魚骨水岸",
     "number": 1340,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-08_2133_UTC.webp"
+  },
+  {
+    "status": "failed",
+    "number": null,
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "timestamp": "2026-04-08 22:29 UTC",
+    "url": null
   }
 ]
