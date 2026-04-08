@@ -729,6 +729,11 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
             )
             raw1 = response.text
             print(f"  [DEBUG] Stage 1 raw response ({len(raw1) if raw1 else 'None'}): {(raw1 or '')[:500]}")
+            try:
+                if response.candidates:
+                    print(f"  [DEBUG] Stage 1 finish_reason={response.candidates[0].finish_reason}, usage={response.usage_metadata}")
+            except Exception as _e:
+                print(f"  [DEBUG] Stage 1 meta unavailable: {_e}")
             result = parse_ai_response_generic(raw1, ["idea", "story"])
             if result:
                 idea = result["idea"]
