@@ -12065,5 +12065,13 @@
     "status": "success",
     "character_name": "墨墨",
     "title": "月色書香中的黑影詩篇"
+  },
+  {
+    "url": null,
+    "number": null,
+    "model": "all failed",
+    "timestamp": "2026-04-08 14:27 UTC",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response"
   }
 ]
