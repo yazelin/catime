@@ -12398,5 +12398,18 @@
     "status": "failed",
     "timestamp": "2026-04-10 20:24 UTC",
     "number": null
+  },
+  {
+    "character_name": "麻糬",
+    "title": "花見慶典中的無盡食光",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-10_2126_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "character": "mochi",
+    "season": "spring",
+    "is_seasonal": true,
+    "timestamp": "2026-04-10 21:26 UTC",
+    "inspiration": "西班牙塞維亞正準備迎來充滿活力的四月節（Feria de Abril），當地民眾將穿上傳統服飾慶祝這場極具代表性的文化盛宴。",
+    "number": 1374
   }
 ]
