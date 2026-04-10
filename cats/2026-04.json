@@ -4334,5 +4334,36 @@
       "結合3D等距視角與水彩風格"
     ],
     "prompt": "A sharp bird's-eye view photograph looking straight down at a stray cat agilely chasing a mechanical mouse across a frosted glass canopy. The scene is captured in a thermal imaging style with a deep blue-teal and icy color grading. The cat and mouse appear as intense red-yellow heat map cores, looking like a narrow beam spotlight against the cold environment. The frosted glass has a translucent matte surface with soft blurred shapes visible beneath. The text '2026-04-10 09:59 UTC' is visually displayed in a digital corner readout. Shot with a 35mm lens, f/2.8, high contrast with dramatic light edges and deep darkness falloff, infrared vision aesthetic, temperature visualization."
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Split View",
+      "lighting": "Bioluminescence",
+      "texture": "Leather",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "在深邃的午夜海溝中，頂尖黑貓工程師正穿梭於精密機械間。牠熟練地調整金屬齒輪，讓這座沉睡的黃金城池在幽藍的生物螢光下重新煥發生機。",
+    "number": 1364,
+    "comment_id": 4223073204,
+    "avoid_list": [
+      "極低角度仰拍構圖",
+      "倫勃朗式強烈明暗對比光影",
+      "粉彩色系與莫蘭迪色調組合",
+      "紙質肌理與纖維紋理細節",
+      "移軸攝影產生的微縮模型效果",
+      "穿著背心或傳統服飾的貓",
+      "在角落顯示日期與時間戳記",
+      "融合蒸氣波或合成波元素",
+      "使用魚眼或35mm底片鏡頭質感",
+      "貓進行修復或科學實驗的動作",
+      "發光霓虹與深色背景的對比",
+      "結合3D等距視角與水彩風格"
+    ],
+    "idea": "這是一組採用 3D Q版盲盒風格的分割畫面影像，展現一隻身穿黑色皮革賽車服的貓咪正在深海潛艇中維修黃金儀表板，環境充滿生物發光光澤。",
+    "news_inspiration": [],
+    "title": "深海金律之修復",
+    "prompt": "3D chibi blind box style cat wearing a detailed black leather racing suit, repairing a complex golden dashboard inside a deep-sea submarine. Split view composition with a sharp vertical cut line: left side features a high-end C4D render with smooth plastic toy textures and bioluminescent organic glow, right side shows a technical wireframe diagram. The cat has a cute Q-version aesthetic, interacting with metallic gold gears and cogs. The environment is filled with deep blue-green radiance and underwater phosphorescence. On the dashboard, the date and time '2026-04-10 10:53 UTC' are clearly visually displayed. Soft studio lighting, gold and black color scheme, luxurious atmosphere, opulent mood, rich grain pattern on leather, warm aged patina."
   }
 ]
