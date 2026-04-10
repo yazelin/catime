@@ -4396,5 +4396,42 @@
     "number": 1365,
     "inspiration": "original",
     "story": "這隻對機械著迷的橘虎斑貓，正利用微弱的燭火餘光，在浴室鏡子前調整相機齒輪。牠不經意地按下快門，留下了這張充滿生活感、色調溫暖且帶有些許雜訊的珍貴自拍照。"
+  },
+  {
+    "number": 1366,
+    "title": "金屬節拍的鏡像律動",
+    "comment_id": 4223839581,
+    "story": "這隻音樂發燒貓潛入了科切拉的貴賓休息室，它靈活的爪子調整著節拍，液態金屬般的毛皮在蝴蝶光下閃爍。它用舊式手持鏡照映出自己狂野的靈魂，將音樂節的熱情轉化為充滿民族色彩的視覺旋律。",
+    "idea": "一隻巨大的孟加拉貓在充滿液態金屬質感的背景中，以鏡子自拍構圖捕捉自己在科切拉音樂節後台戴上音樂耳機的瞬間，並結合鮮明的貢德畫裝飾藝術風格。",
+    "inspiration": "在美國加利福尼亞州的印第奧市，著名的科切拉音樂節（Coachella）於今日盛大開幕，吸引成千上萬的樂迷聚集共享音樂饗宴。",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A giant Bengal cat taking a mirror selfie in a Coachella backstage lounge, wearing over-ear music headphones. The image is a Gond painting illustration characterized by intricate dot and line patterns, vibrant colors, and Indian tribal folklore motifs. The background features a liquid metal texture with mercury-like reflective flow and molten chrome dripping. Intimate close-up perspective with butterfly lighting creating soft even illumination. The visual style uses a bold duotone color treatment. The date and time '2026-04-10 12:43 UTC' is clearly visually displayed in the composition.",
+    "news_inspiration": [
+      "在印度北阿坎德邦的喬普塔，當地居民與遊客共同參與了充滿色彩的「Phool Dei」花卉節，慶祝春天的到來與杜鵑花的盛開。",
+      "南美洲的阿根廷布宜諾斯艾利斯舉辦了年度奢華旅遊展，展示當地豐富的文化底蘊，並邀請全球旅遊專業人士共襄盛舉。",
+      "在美國加利福尼亞州的印第奧市，著名的科切拉音樂節（Coachella）於今日盛大開幕，吸引成千上萬的樂迷聚集共享音樂饗宴。",
+      "南非一位教授因其長達二十年對兒童心理韌性的研究獲得國際表彰，強調了社區支持系統對年輕人成長的重要影響。",
+      "在韓國鎮海，為期數日的軍港祭進入高潮，粉紅色的櫻花隧道吸引了大量國際遊客前往體驗浪漫的韓國海洋文化與慶典。"
+    ],
+    "avoid_list": [
+      "微縮移軸效果",
+      "環形燈影或是圓形眼光",
+      "復古褪色色調與薄霧感",
+      "倫勃朗光影對比",
+      "細緻紙質肌理或纖維紋路",
+      "生物發光與幽藍光芒",
+      "鳥瞰或正交投影視角",
+      "分割畫面與垂直切割線",
+      "黑色或金色皮革與絲絨服飾",
+      "在角落標註日期與時間字樣",
+      "橘貓進行職人或專業活動",
+      "磨砂玻璃與冰霜結晶質感"
+    ]
   }
 ]
