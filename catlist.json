@@ -12269,5 +12269,16 @@
     "status": "failed",
     "timestamp": "2026-04-10 01:19 UTC",
     "error": "Failed to generate any images - All models failed. Last error: No image data in response"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "title": "琥珀之眼與動動眼的凝視",
+    "character": "momo",
+    "character_name": "墨墨",
+    "number": 1360,
+    "status": "success",
+    "timestamp": "2026-04-10 04:04 UTC",
+    "inspiration": "澳洲南部的甘比爾山，一名女性因在公共雕塑上貼上趣味「動動眼」貼紙而被控告，這起古怪的藝術裝飾事件引發當地社群熱議。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-10_0404_UTC.webp"
   }
 ]
