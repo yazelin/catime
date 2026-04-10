@@ -4303,5 +4303,36 @@
     "news_inspiration": [],
     "character_name": "船長",
     "comment_id": 4222181807
+  },
+  {
+    "story": "深夜的科研溫室上方，這隻貓化身為一道移動的熱源，在半透明的磨砂介面上留下模糊的足跡。牠的每一個動作都在冷色調的熱感圖層中劃破寂靜，展示著生物能與工業冷卻系統之間的強烈對比。",
+    "title": "幽藍域界的熱感追逐",
+    "news_inspiration": [],
+    "number": 1363,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Bird's-Eye View",
+      "lighting": "Spotlight",
+      "texture": "Frosted Glass",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4222710002,
+    "idea": "在幽藍青色的熱成像視圖下，從高空鳥瞰一隻流浪貓正敏捷地在磨砂玻璃天幕上追逐逃竄的機械鼠，聚光燈般的熱感核心在冰冷的環境中格外顯眼。",
+    "avoid_list": [
+      "極低角度仰拍構圖",
+      "倫勃朗式強烈明暗對比光影",
+      "粉彩色系與莫蘭迪色調組合",
+      "紙質肌理與纖維紋理細節",
+      "移軸攝影產生的微縮模型效果",
+      "穿著背心或傳統服飾的貓",
+      "在角落顯示日期與時間戳記",
+      "融合蒸氣波或合成波元素",
+      "使用魚眼或35mm底片鏡頭質感",
+      "貓進行修復或科學實驗的動作",
+      "發光霓虹與深色背景的對比",
+      "結合3D等距視角與水彩風格"
+    ],
+    "prompt": "A sharp bird's-eye view photograph looking straight down at a stray cat agilely chasing a mechanical mouse across a frosted glass canopy. The scene is captured in a thermal imaging style with a deep blue-teal and icy color grading. The cat and mouse appear as intense red-yellow heat map cores, looking like a narrow beam spotlight against the cold environment. The frosted glass has a translucent matte surface with soft blurred shapes visible beneath. The text '2026-04-10 09:59 UTC' is visually displayed in a digital corner readout. Shot with a 35mm lens, f/2.8, high contrast with dramatic light edges and deep darkness falloff, infrared vision aesthetic, temperature visualization."
   }
 ]
