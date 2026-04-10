@@ -4270,5 +4270,38 @@
     ],
     "title": "琥珀之眼與動動眼的凝視",
     "story": "墨墨在旅行途中駐足於澳洲的一間古董店，發現櫥窗被頑皮的遊客貼上了許多動動眼貼紙。牠那帶有金色耳環的腦袋微微傾斜，正好奇地研究這些「會動的眼睛」是否也是某種古老的靈魂。"
+  },
+  {
+    "avoid_list": [
+      "極低角度仰拍構圖",
+      "倫勃朗式強烈明暗對比光影",
+      "粉彩色系與莫蘭迪色調組合",
+      "紙質肌理與纖維紋理細節",
+      "移軸攝影產生的微縮模型效果",
+      "穿著背心或傳統服飾的貓",
+      "在角落顯示日期與時間戳記",
+      "融合蒸氣波或合成波元素",
+      "使用魚眼或35mm底片鏡頭質感",
+      "貓進行修復或科學實驗的動作",
+      "發光霓虹與深色背景的對比",
+      "結合3D等距視角與水彩風格"
+    ],
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Frost Crystal",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character": "captain",
+    "idea": "採用無人機空拍的正交投影視角，船長正蹲在被冰霜結晶覆蓋的廢棄碼頭棧橋盡頭，凝視著水面下閃爍的生物發光水母群，風格融合復古褪色色調。",
+    "prompt": "Orthographic projection drone aerial shot from directly above, no perspective distortion. A large stocky brown tabby cat with bold black stripes, a scruffy untidy coarse fur texture, and a white chest bib is crouching at the end of a frozen, abandoned wooden pier covered in delicate ice crystal patterns and translucent frost shards. The cat has a prominent V-shaped notch in its left ear, a faded red bandana tied around its neck, and white mitten paws. Its left eye is completely concealed by a natural dark-pigmented brown fur patch with no straps, while its right eye is a piercing emerald green. The cat is looking down into the water where a swarm of bioluminescent jellyfish emits a deep blue-green radiance and organic glow beneath the surface. The visual style is a technical illustration with a retro faded color palette, washed-out vintage tones, and low contrast nostalgic warmth. The text '2026-04-10 08:15 UTC' is clearly and visually displayed on the dock surface.",
+    "title": "寒霜棧橋的幽光巡邏",
+    "number": 1362,
+    "inspiration": "original",
+    "story": "冬夜的港口被寒冷侵襲，船長守護著這片結霜的領地。當成群的發光水母游過棧橋下方時，這位老船長暫時放下了威嚴，被那股神祕的幽光深深吸引，彷彿看見了當年遠航時的海底幻象。",
+    "news_inspiration": [],
+    "character_name": "船長",
+    "comment_id": 4222181807
   }
 ]

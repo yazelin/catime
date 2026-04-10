@@ -12288,5 +12288,16 @@
     "model": "all failed",
     "url": null,
     "timestamp": "2026-04-10 06:25 UTC"
+  },
+  {
+    "character": "captain",
+    "status": "success",
+    "title": "寒霜棧橋的幽光巡邏",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1362,
+    "inspiration": "original",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-10_0815_UTC.webp",
+    "timestamp": "2026-04-10 08:15 UTC"
   }
 ]
