@@ -5301,5 +5301,36 @@
       "泰國清邁的民眾開始為即將到來的宋干節（潑水節）做準備，市區街頭展現出濃厚的傳統慶典色彩與歡樂氛圍。",
       "巴布亞紐幾內亞的叢林中，探險隊宣佈尋獲二戰時期美國王牌飛行員理查德·邦格失蹤已久的戰鬥機「瑪姬號」，解開了長達 80 年的歷史謎團。"
     ]
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "魚眼鏡頭與桶形畸變",
+      "蝴蝶光照明效果",
+      "亮面塑膠玩具質感",
+      "混凝土與工業極簡主義",
+      "分割畫面與對稱構圖",
+      "黑金奢華色調與金屬質感",
+      "鏡子自拍構圖",
+      "日期時間文字浮水印",
+      "螢光或黑光紫外線發光",
+      "修補或維護機械組件",
+      "厚重毛皮或雲朵狀長毛",
+      "櫻花與合成波美學結合"
+    ],
+    "idea": "採用建築藍圖風格呈現，一隻液態金屬質感的貓正以極低角度在半透明的溫室結構中修剪巨大的幾何盆栽。",
+    "number": 1396,
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Extreme Low Angle",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Duotone"
+    },
+    "story": "這隻銀色流動的貓化身為精密的園藝建築師，在漫射的雙色調光影中重新定義空間。牠的爪子尖端正緩慢融化並重塑植物的輪廓，將生命與結構完美融合。",
+    "comment_id": 4230282885,
+    "title": "液態構築的溫室幻夢",
+    "news_inspiration": [],
+    "prompt": "Architectural blueprint style illustration of a liquid metal cat gardening at an extreme low angle, looking up from the floor of a translucent geometric greenhouse. The cat has a mercury-like reflective flow and molten mirror finish, using its chrome dripping claws to prune massive geometric topiaries. White technical lines on a deep blue background with precise measurements, annotations, and drafting marks. The scene features soft diffused natural light with a duotone color treatment. Visually include the text '2026-04-11 22:20 UTC' in a technical font as part of the blueprint's metadata. Bold graphic impact, precise technical drawing technique, towering perspective."
   }
 ]
