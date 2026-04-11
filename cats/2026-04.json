@@ -5163,5 +5163,42 @@
       "texture": "Marble",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "prompt": "Atompunk illustration in a vertical split view. Left side: An elegant black cat inside a brutalist concrete command center with luxurious metallic gold accents, pressing a large launch button. Right side: A majestic rocket piercing the sky with golden exhaust trails. Retro-futuristic atomic age aesthetics, sleek chrome lines, and 1950s optimistic space-age energy. Industrial minimalism with raw concrete textures and rough aggregate surfaces. Deep black and opulent gold color scheme. Cinematic lighting with volumetric light rays and dramatic shadows. The date and time '2026-04-11 18:28 UTC' is clearly displayed on a high-tech terminal screen within the scene.",
+    "title": "寰宇榮光之瞬",
+    "comment_id": 4229950014,
+    "avoid_list": [
+      "生鏽與剝落的油漆",
+      "蝴蝶光照明效果",
+      "具有亮面塑膠質感的貓",
+      "三點打光系統",
+      "視覺化顯示日期時間文字",
+      "黃金時刻的夕陽餘暉",
+      "復古褪色的色調",
+      "邊緣輪廓光設計",
+      "正在維修或操作設備的貓",
+      "黑白單色調的高對比",
+      "鏡像自拍構圖",
+      "皮革紋理與舊化質感"
+    ],
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Split View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Concrete",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [
+      "美國 NASA 阿提米絲 2 號太空人於 4 月順利完成繞月任務並安全返回地球，並在任務中感性地為月球隕石坑命名以紀念逝者。",
+      "越南河內舉辦了紀念人類首位太空人尤里·加加林進入太空 65 週年的特別展覽，展現越俄兩國在航太領域的長期文化與科技合作。",
+      "荷蘭阿姆斯特丹新開幕了一家 Apple 博物館，現場展示了繽紛的復古 iMac 牆並生動還原了賈伯斯當年的創業車庫。",
+      "美國加州波貝奇舉行了第十屆「波貝奇雙年展」，這場結合藝術與荒漠文化的奇特慶典吸引了眾多喜愛 DIY 藝術與非主流文化的遊客。",
+      "新加坡職業足球聯賽迎來日本傳奇球星本田圭佑加盟裕廊足球俱樂部，為當地的體育文化注入新的活力與話題。"
+    ],
+    "number": 1392,
+    "idea": "這是一幅原子龐克風格的分割畫面：左側是黑金奢華色調的混凝土指揮部，一隻優雅的黑貓正全神貫注地按下發射鈕；右側則是同步顯示火箭劃破長空的壯麗景象。",
+    "inspiration": "越南河內舉辦了紀念人類首位太空人尤里·加加林進入太空 65 週年的特別展覽，展現越俄兩國在航太領域的長期文化與科技合作。",
+    "story": "為了紀念人類探索宇宙的先驅，這隻智慧非凡的黑貓受邀主持這場橫跨六十載的慶典。在冷硬的混凝土牆與金屬光澤交織下，牠以冷靜的姿態重新定義了航太科技的優雅。"
   }
 ]
