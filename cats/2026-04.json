@@ -5092,5 +5092,39 @@
     ],
     "title": "春綻櫻花鼓之鳴",
     "comment_id": 4229589148
+  },
+  {
+    "number": 1389,
+    "idea": "在一座漂浮於雲端的莫蘭迪色調皮革孤島上，一隻貓正用稚拙的蠟筆筆觸努力修補一只巨大的皮革風琴，場景充斥著閃光燈直打的強烈硬影。",
+    "comment_id": 4229667706,
+    "news_inspiration": [],
+    "title": "雲巔上的皮革變奏曲",
+    "inspiration": "original",
+    "prompt": "A cat on a floating Morandi-toned leather island, repairing a giant leather accordion with crude, childlike crayon-drawn stitches. The scene features a childlike hand-drawn crayon drawing style with a warm paper background. The floating platform is surrounded by white clouds in an aerial perspective. Harsh direct on-camera flash creates blown-out highlights and intense hard shadows, giving it a raw candid snapshot look. The island and accordion exhibit genuine leather texture with a rich grain pattern and aged patina. Desaturated soft pastels with dusty grey undertones dominate the Morandi muted color palette. The date and time '2026-04-11 15:22 UTC' is visually displayed in the corner of the image.",
+    "story": "這隻小貓是雲端樂器的維護者，牠正用蠟筆畫出的針線縫合漏氣的風琴皮革。島嶼在灰藍與淡藕色的霧氣中搖晃，每一次按壓琴鍵都噴發出溫暖的皮質香氣。",
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Floating Island Scene",
+      "lighting": "Direct Flash",
+      "texture": "Leather",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "德羅斯特遞迴效應",
+      "角落顯示日期時間戳記",
+      "三點打光與邊緣光",
+      "透明樹脂質感",
+      "生鏽氧化與剝落油漆",
+      "黃金時刻夕陽餘暉",
+      "物品整齊排列的平拍構圖",
+      "復古褪色色調",
+      "極高飽和度的鮮豔色彩",
+      "特定品種貓的細微外觀描述",
+      "單眼相機大光圈散景",
+      "半透明骨骼 X 光風格",
+      "琥珀色月光與冷色調對比",
+      "特定職業裝扮的貓",
+      "幾何對稱或正交投影構圖"
+    ]
   }
 ]
