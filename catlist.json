@@ -12556,5 +12556,14 @@
     "model": "all failed",
     "error": "Failed to generate any images - All models failed. Last error: No image data in response",
     "url": null
+  },
+  {
+    "inspiration": "德國柏林的世界花園於今日舉辦櫻花節，遊客在粉色花海中迎接春天並參與傳統文化慶典。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-11_1722_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-04-11 17:22 UTC",
+    "title": "櫻粉電馭茶會",
+    "number": 1391,
+    "status": "success"
   }
 ]
