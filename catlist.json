@@ -12548,5 +12548,13 @@
     "title": "雲巔上的皮革變奏曲",
     "inspiration": "original",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": null,
+    "timestamp": "2026-04-11 16:23 UTC",
+    "status": "failed",
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "url": null
   }
 ]
