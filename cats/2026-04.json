@@ -4902,5 +4902,43 @@
       "復古電子產品博物館"
     ],
     "character_name": "船長"
+  },
+  {
+    "story": "這隻被尊稱為『百歲大使』的橘貓，正用肉球按著泛黃的歷史文獻，試圖在琥珀色的月光中尋找祖先的爪印。周遭瀰漫著深秋的溫暖氣息，牠眼神中流露出的不只是好奇，更是跨越一世紀的沈穩與智慧。",
+    "idea": "這是一幅採用表現主義風格的 3D 渲染作品，描繪一隻高齡長壽貓在都柏林舊檔案館的黃銅圓鏡前，以鏡子自拍構圖記錄牠翻閱 1926 年人口普查手稿的瞬間。",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Moonlight",
+      "texture": "3D Render",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "百載遺冊的琥珀凝視",
+    "news_inspiration": [
+      "美國西雅圖馬林魚隊為主場球星鈴木一朗舉行雕像揭幕儀式，雖然過程中球棒不慎斷裂，仍不減球迷的熱情與慶祝氣氛。",
+      "蘇格蘭格拉斯哥的凱爾特人足球俱樂部在世界帕金森氏症日當天，透過推廣「健走足球」活動，幫助病友藉由運動與社交改善生活品質。",
+      "愛爾蘭國家檔案館宣布邀請 48 位百歲人瑞擔任「百歲大使」，為即將在都柏林公開的 1926 年歷史人口普查紀錄揭開序幕。",
+      "紐西蘭一隻在森林中失蹤多日的愛犬，在熱心網友集資贊助直升機搜尋後，終於在荒野中被成功救出並與主人團聚。",
+      "澳洲機場的一家禮品店店員驚訝地發現，在一堆絨毛玩偶展示架中，竟然躲著一隻活生生的真負鼠，場面既逗趣又溫馨。"
+    ],
+    "prompt": "A polished 3D render with Expressionism art style influences, featuring an elderly orange tabby cat in a mirror selfie composition. The cat is seen in the reflection of a brass circular mirror within a Dublin old archive, pressing its paw against a 1926 census manuscript. The scene captures bold distorted forms and exaggerated gestural textures. Lighting is a mix of amber moonlight and a gentle silvery glow, creating a quiet nighttime atmosphere with cool blue tones and warm golden-orange color grading. The text '2026-04-11 09:30 UTC' is clearly visually displayed in the frame. Soft global illumination, autumn palette, and a nostalgic Cinema 4D aesthetic.",
+    "number": 1383,
+    "inspiration": "愛爾蘭國家檔案館宣布邀請 48 位百歲人瑞擔任「百歲大使」，為即將在都柏林公開的 1926 年歷史人口普查紀錄揭開序幕。",
+    "avoid_list": [
+      "微縮立體模型風格",
+      "日期時間視覺標記",
+      "透明樹脂質感貓咪",
+      "黑白單色電影感",
+      "倫勃朗式戲劇光影",
+      "工業廢墟與苔蘚綠植",
+      "精密儀器維修動作",
+      "3D等距投射插圖",
+      "科技設備與貓的組合",
+      "鮮明雙色調濾鏡",
+      "35mm電影膠片質感",
+      "正交投影與剪影藝術",
+      "復古電子產品博物館"
+    ],
+    "comment_id": 4229195521
   }
 ]
