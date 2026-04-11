@@ -12513,5 +12513,13 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "title": "懸岩上的齒輪密語"
+  },
+  {
+    "model": "all failed",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "url": null,
+    "number": null,
+    "timestamp": "2026-04-11 12:32 UTC"
   }
 ]
