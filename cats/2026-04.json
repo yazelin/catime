@@ -5332,5 +5332,46 @@
     "title": "液態構築的溫室幻夢",
     "news_inspiration": [],
     "prompt": "Architectural blueprint style illustration of a liquid metal cat gardening at an extreme low angle, looking up from the floor of a translucent geometric greenhouse. The cat has a mercury-like reflective flow and molten mirror finish, using its chrome dripping claws to prune massive geometric topiaries. White technical lines on a deep blue background with precise measurements, annotations, and drafting marks. The scene features soft diffused natural light with a duotone color treatment. Visually include the text '2026-04-11 22:20 UTC' in a technical font as part of the blueprint's metadata. Bold graphic impact, precise technical drawing technique, towering perspective."
+  },
+  {
+    "is_seasonal": true,
+    "avoid_list": [
+      "魚眼鏡頭與桶形畸變",
+      "蝴蝶光照明效果",
+      "亮面塑膠玩具質感",
+      "混凝土與工業極簡主義",
+      "分割畫面與對稱構圖",
+      "黑金奢華色調與金屬質感",
+      "鏡子自拍構圖",
+      "日期時間文字浮水印",
+      "螢光或黑光紫外線發光",
+      "修補或維護機械組件",
+      "厚重毛皮或雲朵狀長毛",
+      "櫻花與合成波美學結合"
+    ],
+    "character_name": "麻糬",
+    "comment_id": 4230362132,
+    "idea": "以黑色電影風格呈現，極低角度捕捉圓滾滾的麻糬戴著櫻花花環，在粉彩色系的低多邊形立體櫻花樹下低頭「預演」野餐，倫勃朗光投射出強烈的明暗對比。",
+    "number": 1397,
+    "prompt": "Film noir style illustration of Mochi, a chubby shorthair cat with a spherical body. Mochi has a white base coat, an orange mask covering only the right half-face (viewer perspective) while the left face is white, and round amber eyes. An orange heart-shaped saddle is visible on the upper back. Mochi wears a cherry blossom wreath and looks down, practicing for a picnic. Extreme low angle shot looking up at the cat to create a towering perspective. The setting features a low-poly stylized cherry blossom tree with flat shaded triangular faces in a soft pastel color palette of pink and lavender. Dramatic Rembrandt lighting creates high contrast chiaroscuro with deep shadows. The date and time '2026-04-11 23:22 UTC' is visually displayed in the corner. Digital origami aesthetic, geometric crystalline surfaces, 1940s cinematic mood.",
+    "inspiration": "original",
+    "story": "麻糬為了春季野餐，在老街角落偷偷戴上花環練習優雅。雖然風格硬派冷酷，但牠那遮不住的渾圓身軀和對著空氣練習嗅聞櫻花飯糰的呆萌模樣，瞬間瓦解了黑色電影的沉重感。",
+    "title": "花影下的硬漢野餐",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Extreme Low Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Pastel Colors"
+    },
+    "season": "spring",
+    "news_inspiration": [
+      "美國 NASA 的阿提米絲 2 號（Artemis II）載人太空船順利完成繞月飛行任務，成功返回地球並創下人類離地最遠距離的新紀錄。",
+      "泰國各大城市正熱烈舉辦傳統宋干節（潑水節），民眾與全球遊客透過大型水戰慶祝泰國新年並祈求好運。",
+      "荷蘭一家舞團因其在網路上發布搭配名曲《Somebody That I Used to Know》的創意編舞影片，因獨特的肢體律動與美感在全球社群媒體走紅。",
+      "科學家在墨西哥附近的深海研究中發現，即便在希克蘇魯伯小行星撞擊導致恐龍滅絕後，海洋生態系統的復原速度遠比原先預期的更快。",
+      "英國長達約 4,500 公里的英格蘭海岸步道正式全線貫通開放，成為全球最長的濱海步道，為徒步旅行者提供完整的海岸自然景觀。"
+    ],
+    "character": "mochi"
   }
 ]
