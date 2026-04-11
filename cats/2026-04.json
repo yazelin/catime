@@ -4760,5 +4760,44 @@
       "魚眼或超廣角鏡頭畸變"
     ],
     "story": "這隻富有責任感的貓咪正帶領機器人穿越邊境，確保每一寸土地都能重獲新生。聚光燈下，透視的骨骼與堅硬的陶瓷外殼交織出一種冷靜的科技美學。"
+  },
+  {
+    "prompt": "An artistic illustration of Momo, a sleek black Bombay shorthair cat with satin fur, lying elegantly atop a vintage Tiffany blue iMac G3 inside a Dutch Apple computer museum. The image uses a graphic halftone dot pattern and CMYK print aesthetic, creating a visible dot matrix and retro newspaper effect. Momo is depicted with athletic proportions, a tiny white fur locket on her chest, a single gold hoop earring on her left ear (viewer's perspective), a dark-grey ring at the tip of her tail, and large golden-amber eyes. The composition is perfectly symmetrical and centered, framed by rusted industrial shelves with orange-brown oxidation and peeling paint. Golden hour lighting creates a warm sunset glow, long soft shadows, and a golden rim light on Momo's fur, revealing warm brown undertones. The color palette features retro faded tones and nostalgic low contrast. The text '2026-04-11 04:10 UTC' is clearly and visually displayed in a clean font within the frame.",
+    "comment_id": 4228157054,
+    "story": "墨墨在舊物堆中穿梭，最後選中了一台蒂芙尼藍的復古電腦趴下休息，似乎在回味這面展示牆所承載的科技歷史。陽光透過窗戶灑在帶有鐵鏽痕跡的展示架上，將牠黑緞般的毛髮映照出溫暖的棕色光澤。",
+    "inspiration": "荷蘭一家新開幕的蘋果電腦博物館近日展出一面由彩色復古 iMac 組成的展示牆，並成功重現了賈伯斯當年的創業車庫。",
+    "avoid_list": [
+      "維修精密機械的貓",
+      "日期與時間數字浮水印",
+      "液態金屬與流動汞質感",
+      "微縮立體模型與移軸鏡頭",
+      "鏡子自拍與反射構圖",
+      "蝴蝶光照明效果",
+      "35mm底片質感與雜訊",
+      "穿著賽車服或工作服的貓",
+      "數位霓虹與雙色調光影",
+      "苔蘚覆蓋的廢墟遺跡",
+      "透明或生物發光元素",
+      "魚眼或超廣角鏡頭畸變"
+    ],
+    "character_name": "墨墨",
+    "idea": "在荷蘭蘋果電腦博物館內，墨墨正優雅地趴在一部復古彩色 iMac 上，透過半色調網點的藝術風格呈現對稱構圖下的黃金時刻光影。",
+    "title": "復古矽谷的守望者",
+    "news_inspiration": [
+      "美國阿提米絲 2 號太空船於 2026 年 4 月 11 日成功降落在聖地牙哥外海，完成了人類時隔半世紀後重返月球軌道的歷史性任務。",
+      "巴西一名板球投手在比賽中連續投出 5 次出局並在單場取得 9 個出局數，打破了多項國際板球紀錄。",
+      "植物學家在厄瓜多安地斯山脈的森林保護區內，一天之內同時發現並命名了三種罕見的熱帶開花植物新物種。",
+      "荷蘭一家新開幕的蘋果電腦博物館近日展出一面由彩色復古 iMac 組成的展示牆，並成功重現了賈伯斯當年的創業車庫。",
+      "南非一名 6 歲小學生 Tlotlo Tsheka 至今已出版了三本書，並在校園發起識字活動以激勵更多孩子勇敢追夢。"
+    ],
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Symmetrical Composition",
+      "lighting": "Golden Hour",
+      "texture": "Rust / Weathered",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 1378
   }
 ]
