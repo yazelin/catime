@@ -5231,5 +5231,38 @@
     ],
     "title": "螢光深處的燭火儀式",
     "news_inspiration": []
+  },
+  {
+    "title": "黑金幻境的鈴聲",
+    "character_name": "鈴鈴",
+    "story": "天真的鈴鈴在奢華的暗黑花園裡發現了金色發光蝴蝶，她興奮地奮力一跳，卻因為毛太蓬鬆而像顆絨球般在空中彈開。雖然動作笨拙，但她那雙寶石藍的大眼睛在霓虹映照下閃閃發光，清脆的鈴鐺聲打破了黑金空間的寧靜。",
+    "number": 1394,
+    "news_inspiration": [],
+    "prompt": "3D isometric illustration in a translucent frosted glass-paper style featuring Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and a huge feathery plume tail. She has a small round face, huge sapphire-blue eyes, a pink nose, and is wearing a pink ribbon bow collar with a centered golden bell. Lingling is captured mid-air in a clumsy leap, looking like a round white pom-pom. The scene is a luxurious black and gold garden with glowing mechanical butterflies. Minimalist geometric forms with velvet textures and matte surfaces. Lighting is soft cinematic neon with gold metallic accents and reflections on dark surfaces. The date and time '2026-04-11 20:20 UTC' is visually displayed in the corner of the composition. Clean dark background, opulent mood, polished playful rendering.",
+    "inspiration": "original",
+    "avoid_list": [
+      "生鏽與剝落的油漆",
+      "蝴蝶光照明效果",
+      "具有亮面塑膠質感的貓",
+      "三點打光系統",
+      "視覺化顯示日期時間文字",
+      "黃金時刻的夕陽餘暉",
+      "復古褪色的色調",
+      "邊緣輪廓光設計",
+      "正在維修或操作設備的貓",
+      "黑白單色調的高對比",
+      "鏡像自拍構圖",
+      "皮革紋理與舊化質感"
+    ],
+    "style_picks": {
+      "art_style": "Frosted Paper-Glass",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Neon Lighting",
+      "texture": "Velvet",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "這是一幅結合霓虹燈光與金色奢華色調的等距3D插圖，以霧面紙玻璃風格呈現鈴鈴在黑金花園中努力撲捉發光機械蝴蝶的場景。",
+    "character": "lingling",
+    "comment_id": 4230120979
   }
 ]
