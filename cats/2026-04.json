@@ -5264,5 +5264,42 @@
     "idea": "這是一幅結合霓虹燈光與金色奢華色調的等距3D插圖，以霧面紙玻璃風格呈現鈴鈴在黑金花園中努力撲捉發光機械蝴蝶的場景。",
     "character": "lingling",
     "comment_id": 4230120979
+  },
+  {
+    "title": "密林深處的航跡尋蹤",
+    "number": 1395,
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Bird's-Eye View",
+      "lighting": "Spotlight",
+      "texture": "Leather",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "這是一幅採用貢德畫（Gond Painting）風格的鳥瞰圖，展現一隻斑點花紋貓正全神貫注地在一張巨大的皮革地圖上，利用聚光燈照亮的圓圈標註出二戰失蹤戰機的方位。",
+    "avoid_list": [
+      "魚眼鏡頭與桶形畸變",
+      "蝴蝶光照明效果",
+      "亮面塑膠玩具質感",
+      "混凝土與工業極簡主義",
+      "分割畫面與對稱構圖",
+      "黑金奢華色調與金屬質感",
+      "鏡子自拍構圖",
+      "日期時間文字浮水印",
+      "螢光或黑光紫外線發光",
+      "修補或維護機械組件",
+      "厚重毛皮或雲朵狀長毛",
+      "櫻花與合成波美學結合"
+    ],
+    "story": "在茂密的巴布亞紐幾內亞叢林深處，這隻身手敏捷的冒險貓正對著這張充滿復古褪色色調的皮革航圖進行最後的定位。牠手中的指南針閃爍著光芒，即將揭開消失了八十年的『瑪姬號』戰鬥機背後的驚人歷史謎團。",
+    "inspiration": "巴布亞紐幾內亞的叢林中，探險隊宣佈尋獲二戰時期美國王牌飛行員理查德·邦格失蹤已久的戰鬥機「瑪姬號」，解開了長達 80 年的歷史謎團。",
+    "prompt": "A bird's-eye view illustration in the traditional Gond painting style, featuring an intricate spotted cat intently marking locations on a giant, weathered leather map. The composition uses the Indian tribal art's signature repetitive dot and line patterns and mystical motifs. A narrow, high-contrast spotlight illuminates a circular area of the map where the cat identifies missing WWII aircraft coordinates. The leather surface displays a rich grain pattern and a warm aged patina with retro faded color tones. The text '2026-04-11 21:22 UTC' is clearly integrated into the visual layout. The artwork combines vibrant nature-inspired colors with deep darkness falloff, creating a dramatic top-down perspective of this investigative scene.",
+    "comment_id": 4230205349,
+    "news_inspiration": [
+      "在梵蒂岡城，教宗方濟各於聖伯多祿大教堂主持復活節慶典，吸引全球數萬名信徒齊聚一堂迎接春天的祝福。",
+      "美國喬治亞州的奧古斯塔國家高爾夫俱樂部迎來 2026 年美國名人賽決賽日，全球頂尖好手在著名的「阿門角」展開綠夾克爭奪戰。",
+      "法國巴黎主辦的歐洲心律學會年會於今日開幕，科學家發表了利用人工智慧顯著提升心律不整偵測準確率的突破性研究。",
+      "泰國清邁的民眾開始為即將到來的宋干節（潑水節）做準備，市區街頭展現出濃厚的傳統慶典色彩與歡樂氛圍。",
+      "巴布亞紐幾內亞的叢林中，探險隊宣佈尋獲二戰時期美國王牌飛行員理查德·邦格失蹤已久的戰鬥機「瑪姬號」，解開了長達 80 年的歷史謎團。"
+    ]
   }
 ]
