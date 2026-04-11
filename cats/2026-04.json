@@ -4723,5 +4723,42 @@
       "魚眼或超廣角鏡頭畸變"
     ],
     "title": "皮革縫隙裡的時光"
+  },
+  {
+    "inspiration": "克羅埃西亞宣佈成功清除境內所有地雷，轉型為排雷技術的出口國，並向有需要的國家捐贈數十台排雷機器人。",
+    "prompt": "A bird's-eye view, top-down perspective looking straight down at a ceramic-textured cat at the center of a minefield, operating a precision teal-blue demining robot. The style is an X-ray radiograph aesthetic, blending a translucent skeletal view with a sculpted clay texture and matte ceramic surface. A narrow beam spotlight creates dramatic high-contrast with sharp light edges and deep darkness falloff. The color palette features a monochrome blue-white medical imaging aesthetic with cool blue-teal color grading and icy undertones. The scene has a serene, calm mood and a miniature world effect. Visually displayed in the composition is the text '2026-04-11 01:14 UTC'.",
+    "title": "淨土上的青藍守望",
+    "news_inspiration": [
+      "美國航太總署的阿提米絲二號太空艙在完成歷史性的繞月飛行任務後，於 2026 年 4 月 10 日成功濺落在聖地牙哥附近的太平洋海域。",
+      "美國西雅圖水手隊的主場為傳奇球星一朗揭幕銅像，雖然典禮中發生球棒折斷的小意外，但仍吸引無數球迷到場慶祝。",
+      "南非一名六歲的小作家發行了她的第三本書，並啟動了一項旨在激發同齡孩童閱讀與寫作夢想的識字計畫。",
+      "英國倫敦的一座公園出現了一隻會「吸電子煙」的灰松鼠，引發專家對民眾隨意丟棄含果味電子煙可能對野生動物造成毒害的關注。",
+      "克羅埃西亞宣佈成功清除境內所有地雷，轉型為排雷技術的出口國，並向有需要的國家捐贈數十台排雷機器人。"
+    ],
+    "idea": "採用 X 光透視風格與鳥瞰視角，捕捉一隻陶瓷質感的貓咪在排雷田中心，正專注地操控著一台精密的藍青色排雷機器人。",
+    "number": 1377,
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Bird's-Eye View",
+      "lighting": "Spotlight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4227567008,
+    "avoid_list": [
+      "維修精密機械的貓",
+      "日期與時間數字浮水印",
+      "液態金屬與流動汞質感",
+      "微縮立體模型與移軸鏡頭",
+      "鏡子自拍與反射構圖",
+      "蝴蝶光照明效果",
+      "35mm底片質感與雜訊",
+      "穿著賽車服或工作服的貓",
+      "數位霓虹與雙色調光影",
+      "苔蘚覆蓋的廢墟遺跡",
+      "透明或生物發光元素",
+      "魚眼或超廣角鏡頭畸變"
+    ],
+    "story": "這隻富有責任感的貓咪正帶領機器人穿越邊境，確保每一寸土地都能重獲新生。聚光燈下，透視的骨骼與堅硬的陶瓷外殼交織出一種冷靜的科技美學。"
   }
 ]
