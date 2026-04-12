@@ -5908,5 +5908,45 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "inspiration": "科學家最新公佈阿提米絲 2 號任務完成歷史性的繞月航行返回地球後，從月球採集的數據揭示了多項有關月球地質的新發現。"
+  },
+  {
+    "title": "月島螢光的繁華舞步",
+    "prompt": "Baroque art style oil painting of Lingling, an extremely fluffy pure white Ragdoll-like cat with voluminous cloud-like fur and huge round sapphire-blue eyes. She is wearing a pink ribbon bow collar with a centered golden bell, chasing bioluminescent moonlight butterflies with silk wings inside a floating island greenhouse. Dramatic chiaroscuro lighting with deep shadows and golden highlights. Composition features exuberant grandeur and rich ornate Baroque architectural details. The color palette is composed of earth tones, terracotta, olive green, and warm brown. The date and time '2026-04-12 21:23 UTC' is visually integrated into the scene. Intricate textures of silk and fur, organic glow from living plants, aerial perspective on a levitating platform.",
+    "inspiration": "美國太空總署（NASA）阿提米絲 2 號（Artemis II）的太空人，在完成環繞月球的任務後，於今日成功濺落並返回地球。",
+    "avoid_list": [
+      "橘貓進行對鏡自拍",
+      "倫勃朗光影效果",
+      "正交投影工整構圖",
+      "莫蘭迪色調與柔和過去色",
+      "直打閃光燈硬調光影",
+      "正在修理或操作精密儀器的貓",
+      "在場景中顯示日期與時間戳記",
+      "天鵝絨或塑膠質感材料",
+      "琥珀色與燒橘色的秋日色調",
+      "35mm鏡頭搭配f/8光圈設定",
+      "實驗室或工作坊內的貓科學家",
+      "顯微細節與微縮模型美學",
+      "具有特定觸感的異材質表面"
+    ],
+    "news_inspiration": [
+      "美國太空總署（NASA）阿提米絲 2 號（Artemis II）的太空人，在完成環繞月球的任務後，於今日成功濺落並返回地球。",
+      "澳洲衝浪海岸（Surf Coast）憑藉其優異的綠色環保表現，於今日正式獲得國際認證的全球環境標誌。",
+      "法國巴黎今日舉辦了國際可再生能源會議，聚集全球專家共同探討綠色能源轉型與未來科技的發展。",
+      "菲律賓歌唱組合 BINI 獲選為 2026 年告示牌（Billboard）「年度女性音樂獎」的全球影響力大獎得主。",
+      "美國科切拉音樂節（Coachella）上，凱蒂·佩芮（Katy Perry）與加拿大總理杜魯道在小賈斯汀的演出現場驚喜同框，引發歌迷熱議。"
+    ],
+    "story": "為了慶祝阿提米絲 2 號太空人凱旋歸來，鈴鈴決定在漂浮的花園溫室捕捉最亮的月光蝶作為賀禮。她那蓬鬆如雲的白毛在發光植物的映照下，顯得格外神聖且華麗，就像一位在巴洛克舞台上忙碌的小精靈。",
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Floating Island Scene",
+      "lighting": "Bioluminescence",
+      "texture": "Silk",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 4232779442,
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "idea": "在巴洛克風格的浮島溫室中，鈴鈴正奮力追逐一群閃爍著生物螢光、拍打著絲綢羽翼的月光蝶，整體色調呈現沉穩的大地色系。",
+    "number": 1415
   }
 ]
