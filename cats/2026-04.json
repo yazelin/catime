@@ -5437,5 +5437,38 @@
     "inspiration": "original",
     "title": "雲端書境的墨影",
     "character": "momo"
+  },
+  {
+    "number": 1400,
+    "title": "碎裂時空的修片師",
+    "avoid_list": [
+      "漂浮島嶼場景",
+      "莫蘭迪色調",
+      "皮革紋理地圖與風琴",
+      "魚眼鏡頭與桶形畸變",
+      "極低角度仰望視角",
+      "混凝土與工業極簡主義",
+      "黑金奢華配色",
+      "粉彩與霓虹燈光結合",
+      "建築藍圖與製圖風格",
+      "角落顯示日期時間字體",
+      "低多邊形或體素方塊風格",
+      "鳥瞰圖視角",
+      "幾何植栽與修剪動作",
+      "軟毛球狀的貓咪形象"
+    ],
+    "idea": "在立體主義風格的拼貼空間中，一隻貓正透過磨砂玻璃窗笨拙地修補一台發光的古董黑膠唱機，並結合了移軸微縮的獨特景深感。",
+    "story": "這隻在老舊公寓裡的橘貓穿梭在錯位的線條之間，試圖用爪子撥正跳針的樂曲。微縮視角讓原本雜亂的客廳顯得像是一座靜謐的小人國，環形燈的圓潤光澤點亮了褪色的復古夢境。",
+    "inspiration": "original",
+    "comment_id": 4230904373,
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Ring Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Retro Faded Tones"
+    },
+    "news_inspiration": [],
+    "prompt": "Cubism art style illustration of an orange cat clumsily repairing a glowing vintage vinyl record player behind a frosted glass window. Geometric fragmented forms and multiple simultaneous perspectives create an analytical decomposition of a cluttered living room. Tilt-shift photography effect with a selective focus band creates a miniature toy-like scale. The lighting features a ring light illumination with circular catchlights in the cat's eyes. Retro faded color palette with washed-out vintage tones and low contrast. Frosted glass texture with diffused light transmission. The date and time '2026-04-12 06:17 UTC' is clearly visible and integrated into the scene."
   }
 ]
