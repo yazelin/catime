@@ -12729,5 +12729,13 @@
     "timestamp": "2026-04-12 14:32 UTC",
     "title": "紅星球的生存自拍照",
     "status": "success"
+  },
+  {
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "model": "all failed",
+    "status": "failed",
+    "number": null,
+    "url": null,
+    "timestamp": "2026-04-12 15:26 UTC"
   }
 ]
