@@ -5585,5 +5585,38 @@
     "comment_id": 4231231142,
     "character_name": "船長",
     "title": "殘光與網的守望者"
+  },
+  {
+    "story": "夕陽的光線將工作室染成濃郁的蜂蜜色，塑膠貓木工正屏氣凝神地打造屬於牠的微縮家具。每一片落下的木屑在迷幻的光影波動中，彷彿都化作了閃爍的金幣，填滿了這方規整的幾何空間。",
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Golden Hour",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [],
+    "avoid_list": [
+      "漂浮島嶼場景",
+      "莫蘭迪色調",
+      "皮革紋理地圖與風琴",
+      "魚眼鏡頭與桶形畸變",
+      "極低角度仰望視角",
+      "混凝土與工業極簡主義",
+      "黑金奢華配色",
+      "粉彩與霓虹燈光結合",
+      "建築藍圖與製圖風格",
+      "角落顯示日期時間字體",
+      "低多邊形或體素方塊風格",
+      "鳥瞰圖視角",
+      "幾何植栽與修剪動作",
+      "軟毛球狀的貓咪形象"
+    ],
+    "comment_id": 4231318273,
+    "title": "琥珀午后的木作時光",
+    "prompt": "Orthographic projection of a glossy plastic orange tabby cat in a tiny wood workshop, technical illustration style. The cat has a smooth vinyl toy texture and is using a miniature plane to shave a piece of wood. Psychedelic art influences with swirling patterns and melting distorted forms in the background. Warm golden hour lighting creates a rich amber glow with long soft shadows and a golden rim light on the subject. The color palette is cozy with burnt orange and golden yellows. The text '2026-04-12 10:28 UTC' is visually displayed in the scene.",
+    "inspiration": "original",
+    "number": 1404,
+    "idea": "這是一幅以迷幻藝術風格呈現的正交投影畫面，一隻具有亮面塑膠質感的橘色條紋貓，正於黃金時刻的暖陽下，在充滿琥珀色調的袖珍木工坊內，專注地用迷你刨刀修整一塊微型原木。"
   }
 ]
