@@ -5696,5 +5696,44 @@
     "inspiration": "在澳門舉行的國際煙花比賽圓滿落幕，官方於今日在旅遊產業博覽會上為學生繪畫、攝影及 AI 創作大賽的 104 名獲獎者舉行盛大的頒獎儀式。",
     "story": "這隻圓滾滾的陶瓷貓正準備參加澳門的 AI 創作大賽頒獎典禮。牠認真地調整角度，想在鏡中留下自己最自信的模樣，背景散落著參賽的草稿圖。",
     "idea": "一隻具備黏土質感的橘貓正站在老式木質衣櫃鏡子前，一手抓著拍立得相機進行鏡子自拍，呈現溫暖的吉卜力風格與倫勃朗光影。"
+  },
+  {
+    "story": "這隻好奇的貓在模擬火星環境的實驗室裡穿梭，意外發現了在極端條件下生存的生命。它興奮地拿起裝著酵母的培養皿，對著光滑的實驗室金屬板倒影，記錄下這場跨星系的科學奇遇。",
+    "number": 1408,
+    "inspiration": "科學家在實驗室中成功讓酵母細胞在模擬火星的極端衝擊與有毒環境下生存，這項新發現為未來在紅星球尋找生命跡象提供了重要的科學線索。",
+    "prompt": "Torn paper collage illustration of a cat taking a mirror selfie in a Mars laboratory, holding a petri dish with yeast samples. The composition features layered textures and mixed media with visible paper edges and notebook lines. A clear reflection of the cat is visible in a polished metal panel. The scene includes the timestamp '2026-04-12 14:32 UTC' integrated into the artwork. Lighting is soft and diffused like an overcast sky, providing even illumination with no harsh shadows. The color palette uses gentle pastels, lavender, mint, and baby blue with rich saturation. Surfaces have a tactile, light-absorbing matte quality and velvet texture.",
+    "news_inspiration": [
+      "法國巴黎於今日舉行 2026 年巴黎馬拉松大賽，成千上萬的跑者穿梭在艾菲爾鐵塔與香榭麗舍大道等地標建築間享受賽事。",
+      "美國加州知名的科切拉音樂節（Coachella）正進入首個週末的高潮，吸引全球無數樂迷前往沙漠地帶感受頂尖的藝術與流行音樂氛圍。",
+      "比利時的一項最新考古研究發現，科學家透過新型分析技術重新檢視洞穴遺址，揭露了十多萬年前尼安德塔人與早期智人曾有過意想不到的互動與技術共享。",
+      "波蘭與匈牙利等中歐國家今日慶祝復活節，民眾依循傳統舉行色彩斑斕的彩蛋裝飾活動，並準備慶祝隨後而來的「潑水週一」傳統節日。",
+      "科學家在實驗室中成功讓酵母細胞在模擬火星的極端衝擊與有毒環境下生存，這項新發現為未來在紅星球尋找生命跡象提供了重要的科學線索。"
+    ],
+    "comment_id": 4231710367,
+    "idea": "採用撕紙拼貼效果呈現一隻貓在火星實驗室的鏡子前進行自拍，手中正擺弄著培養皿中的酵母樣本。",
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Velvet",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "俯瞰鳥瞰圖視角",
+      "正交投影技術圖",
+      "極低角度仰視",
+      "環形燈圓形反光",
+      "聚光燈高對比明暗",
+      "低多邊形或體素方塊",
+      "復古褪色琥珀色調",
+      "冷青色體積光",
+      "貓咪專注修補或繪製",
+      "微縮模型與袖珍場景",
+      "磨砂玻璃或半透明材質",
+      "在角落顯示日期時間字體",
+      "幾何建築藍圖風格",
+      "穿戴裝飾或服裝的貓"
+    ],
+    "title": "紅星球的生存自拍照"
   }
 ]
