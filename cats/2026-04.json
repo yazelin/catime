@@ -5548,5 +5548,42 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "story": "這隻身手矯健的橘貓正參與阿提米絲任務，牠的職責是確保晶片能即時紀錄生物數據。冷青色的體積光穿透磨砂玻璃艙門，為這場深空科研計畫增添了沉靜而神祕的科技氛圍。"
+  },
+  {
+    "season": "spring",
+    "prompt": "A technical orthographic projection photography of Captain, a stocky brown classic tabby cat with bold black stripes and scruffy fur, sitting on a coastal breakwater at dawn. Captain has a natural dark fur patch concealing his left eye, a single emerald green right eye, a V-shaped notch in his left ear, and a faded red bandana. He wears thick white gloves on his white mitten paws, leaning over to repair a tattered fishing net covered in delicate ice crystals and frost patterns. Wet plate collodion style with silver-toned monochrome, vintage tintype aesthetic, and dark vignetted edges. Symmetrical straight-on flat rendering with ring light illumination creating circular catchlights. Earth tone palette of terracotta and olive green visible in the silver-tone. The text '2026-04-12 09:36 UTC' is clearly displayed in a corner. 35mm lens, f/8, high grain, authentic chemical imperfections, no perspective distortion.",
+    "inspiration": "original",
+    "story": "春寒料峭的碼頭邊，船長頂著微亂的虎斑毛，在環形燈般的晨曦中巡視領地。儘管外表粗獷且戴著神祕眼罩，牠仍細心地整理著漁具，預備迎接入春後的第一批漁船，展現碼頭老大沉穩又講義氣的一面。",
+    "is_seasonal": true,
+    "idea": "在清晨海邊防波堤，船長正低頭專注地用厚實的白手套修補一張掛滿冰霜結晶的破舊漁網，畫面呈現濕版攝影的銀鹽質感與正交投影的工整構圖。",
+    "news_inspiration": [],
+    "number": 1403,
+    "avoid_list": [
+      "漂浮島嶼場景",
+      "莫蘭迪色調",
+      "皮革紋理地圖與風琴",
+      "魚眼鏡頭與桶形畸變",
+      "極低角度仰望視角",
+      "混凝土與工業極簡主義",
+      "黑金奢華配色",
+      "粉彩與霓虹燈光結合",
+      "建築藍圖與製圖風格",
+      "角落顯示日期時間字體",
+      "低多邊形或體素方塊風格",
+      "鳥瞰圖視角",
+      "幾何植栽與修剪動作",
+      "軟毛球狀的貓咪形象"
+    ],
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Orthographic Projection",
+      "lighting": "Ring Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Earth Tones"
+    },
+    "character": "captain",
+    "comment_id": 4231231142,
+    "character_name": "船長",
+    "title": "殘光與網的守望者"
   }
 ]
