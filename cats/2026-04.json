@@ -5404,5 +5404,38 @@
       "厚重毛皮或雲朵狀長毛",
       "櫻花與合成波美學結合"
     ]
+  },
+  {
+    "number": 1399,
+    "story": "墨墨踏著輕盈無聲的步伐，在懸浮於雲端的微型圖書館中穿梭。牠對那些帶有濕潤苔蘚質感的舊書情有獨鍾，即便在環形光影的籠罩下，牠那金琥珀色的眼睛依然專注於方塊文字間的秘密。",
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Floating Island Scene",
+      "lighting": "Ring Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "在莫蘭迪色調的體素世界中，墨墨正優雅地待在一個漂浮的舊書店孤島上，用爪子翻閱一本長滿青苔的古老方塊書。",
+    "prompt": "Minecraft-style voxel art of Momo, a sleek solid-black Bombay cat with golden-amber eyes, a tiny white chest tuft, and a single gold hoop in her left ear. She is elegantly using a paw to flip through a moss-covered blocky book on a floating bookstore island. The scene features pixelated cubes, blocky textures, and a miniature landscape on a levitating platform against white clouds. Lighting is a clean 3D render with ring light illumination creating circular catchlights in her eyes. Color palette is Morandi-inspired with muted pastels, dusty greys, and quiet elegance. The text '2026-04-12 04:38 UTC' is clearly visually displayed within the image environment.",
+    "character_name": "墨墨",
+    "comment_id": 4230767840,
+    "news_inspiration": [],
+    "avoid_list": [
+      "魚眼鏡頭與桶形畸變",
+      "蝴蝶光照明效果",
+      "亮面塑膠玩具質感",
+      "混凝土與工業極簡主義",
+      "分割畫面與對稱構圖",
+      "黑金奢華色調與金屬質感",
+      "鏡子自拍構圖",
+      "日期時間文字浮水印",
+      "螢光或黑光紫外線發光",
+      "修補或維護機械組件",
+      "厚重毛皮或雲朵狀長毛",
+      "櫻花與合成波美學結合"
+    ],
+    "inspiration": "original",
+    "title": "雲端書境的墨影",
+    "character": "momo"
   }
 ]
