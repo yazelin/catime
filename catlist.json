@@ -12813,5 +12813,14 @@
     "character": "mochi",
     "timestamp": "2026-04-12 23:24 UTC",
     "number": 1417
+  },
+  {
+    "number": 1418,
+    "title": "霓虹幻影的跳躍",
+    "timestamp": "2026-04-13 01:25 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-13_0125_UTC.webp",
+    "inspiration": "original",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
