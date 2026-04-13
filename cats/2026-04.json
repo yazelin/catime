@@ -6350,5 +6350,38 @@
       "texture": "Concrete",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "character_name": "麻糬",
+    "story": "麻糬趁著麵包店老闆不注意，悄悄溜進更衣間，對著鏡子欣賞自己剛吃完紅豆麵包後的圓潤身材。在細膩的紙質肌理與點狀裝飾下，這隻橘白貓的呆萌神情與那隻標誌性的『橘色手套』更顯得神祕而優雅。",
+    "avoid_list": [
+      "全像投影海圖",
+      "金黑色調魚拓風格",
+      "移軸攝影微縮效果",
+      "充氣PVC材質凹陷",
+      "濕版攝影銀鹽質感",
+      "琥珀色聚光燈",
+      "裝飾藝術幾何圖騰",
+      "在場景中標註日期時間",
+      "貓指揮微型小隊",
+      "金色與黑色的奢華配色",
+      "對稱的等距3D視角",
+      "穿著雨衣或領結的貓"
+    ],
+    "number": 1431,
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "news_inspiration": [],
+    "prompt": "A black and white monochrome Gond art illustration of Mochi, a chubby shorthair cat. Mochi has a white base coat, an orange mask on the right half of his face (viewer perspective) while the left face is white, and a heart-shaped orange saddle on his back. His right front paw is a solid orange mitten, and his left front paw is white. He has large round amber eyes. Mochi is taking a mirror selfie in a bakery dressing room, standing on short stubby legs before a full-length mirror. Intricate Gond painting technique with dense patterns of dots and lines. Rembrandt lighting creates a dramatic chiaroscuro with a single light source at 45 degrees, casting a signature triangle of light on the shadowed cheek. The scene is rendered on a textured paper surface with visible fiber grain. The date and time '2026-04-13 23:33 UTC' is visually displayed in the corner of the image.",
+    "inspiration": "original",
+    "comment_id": 4240300895,
+    "character": "mochi",
+    "title": "圓影中的花生粉旋律",
+    "idea": "以單色貢德畫風格呈現，麻糬在老街麵包店的全身鏡前，利用倫勃朗光影展現圓滾滾的鏡子自拍構圖。"
   }
 ]
