@@ -12838,5 +12838,14 @@
     "error": "Failed to generate any images - All models failed. Last error: No image data in response",
     "model": "all failed",
     "timestamp": "2026-04-13 07:07 UTC"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-13_0925_UTC.webp",
+    "number": 1421,
+    "inspiration": "台灣屏東大鵬灣灣域正舉行全台規模最大的「大鵬灣帆船生活節」，結合遊艇賽事與船長體驗推廣海洋觀光文化。",
+    "title": "繫泊碼頭的微縮領航者",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-04-13 09:25 UTC"
   }
 ]
