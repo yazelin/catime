@@ -12881,5 +12881,16 @@
     "timestamp": "2026-04-13 16:05 UTC",
     "error": "Failed to generate any images - All models failed. Last error: No image data in response",
     "number": null
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-13_1750_UTC.webp",
+    "character_name": "船長",
+    "timestamp": "2026-04-13 17:50 UTC",
+    "status": "success",
+    "inspiration": "original",
+    "character": "captain",
+    "model": "gemini-3-pro-image-preview",
+    "title": "航道幽魂的霓虹海圖",
+    "number": 1426
   }
 ]

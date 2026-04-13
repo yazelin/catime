@@ -6163,5 +6163,44 @@
       "對稱性建築或佈局",
       "貓站立或伸出爪子的特定動作"
     ]
+  },
+  {
+    "comment_id": 4238501200,
+    "news_inspiration": [
+      "德國柏林動物園為世界上最長壽的圈養大猩猩 Fatou 慶祝 69 歲生日，並為其準備了由櫻桃番茄和生菜組成的特製蔬果大餐。",
+      "希臘考古學家在伊薩卡島發現了一座擁有 3000 年歷史的聖殿，據信與《奧德賽》中的傳奇英雄奧德修斯有關。",
+      "美國加州聖地牙哥近海見證了阿提米絲 2 號載人太空船的成功濺落，標誌著人類重返月球任務邁出關鍵的一步。",
+      "巴西正式引入法律程序規範伴侶分手時的寵物共同監護權，反映出法律對動物福利與情感關係的最新重視。",
+      "西班牙馬德里正在興建的新 F1 賽道 Madring 發生一起白色小貨車誤闖賽道並衝入碎石緩衝區的離奇意外，引發網路社群熱議。"
+    ],
+    "avoid_list": [
+      "漂浮島嶼與雲端建築",
+      "生物發光蝴蝶與植物",
+      "貓修復微縮晶體或齒輪",
+      "莫蘭迪色調與柔和灰底",
+      "極低角度或超廣角透視",
+      "日期時間戳記融入畫面",
+      "聚光燈下的戲劇性陰影",
+      "液態金屬或螢光水柱質感",
+      "整齊排列的科研儀器或樣本",
+      "沙質紋理與風蝕波紋",
+      "等距3D或立體主義幾何風格",
+      "琥珀色與金黃色的夕陽餘暉"
+    ],
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Symmetrical Composition",
+      "lighting": "Candlelight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A wide-angle photograph inside a rusted, abandoned lighthouse featuring Captain, a large stocky brown tabby cat with bold black stripes and scruffy, coarse fur. He has a white chest bib, white mitten paws, a loose faded red bandana, and a visible V-shaped notch in his left ear. His left eye is completely hidden by a natural dark-pigmented fur patch with no straps, while his right eye is a piercing emerald green. He is looking down at a glowing holographic nautical chart that emits neon cyan, electric pink, and lime green light with digital scan lines. The composition is perfectly symmetrical and centered. Lighting is a mix of warm flickering candlelight creating soft dancing shadows and the cool blue emission of the hologram. The background shows oxidized metal, peeling paint, and industrial decay. The text '2026-04-13 17:50 UTC' is clearly displayed in the lower corner. 35mm lens, f/2.8, film grain, realistic textures, cinematic lighting.",
+    "character": "captain",
+    "inspiration": "original",
+    "story": "即使退役多年，船長仍習慣在暴風雨前夕巡視燈塔，對著浮空的數位海圖分析洋流。微弱的燭光映照在牠粗糙的虎斑毛皮與深色眼罩上，讓這位碼頭守護者更顯威嚴且不容置疑。",
+    "character_name": "船長",
+    "title": "航道幽魂的霓虹海圖",
+    "idea": "在充滿鐵鏽舊化質感的廢棄燈塔內部，船長正低頭研究一份閃爍著螢光霓虹色彩的全像投影海圖，畫面呈現莊嚴的對稱構圖。",
+    "number": 1426
   }
 ]
