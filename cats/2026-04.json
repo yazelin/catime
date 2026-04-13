@@ -6202,5 +6202,44 @@
     "title": "航道幽魂的霓虹海圖",
     "idea": "在充滿鐵鏽舊化質感的廢棄燈塔內部，船長正低頭研究一份閃爍著螢光霓虹色彩的全像投影海圖，畫面呈現莊嚴的對稱構圖。",
     "number": 1426
+  },
+  {
+    "prompt": "Afrofuturism illustration of Momo, a sleek black shorthair cat with a white locket on the chest, golden-amber eyes, and a single small gold hoop on the left ear. Momo is taking a mirror selfie in a round mirror with geometric tribal patterns inside an inflatable PVC bookstore. The cat uses a claw to touch a glowing golden holographic bookmark. High-gloss balloon-like surfaces, puffy rounded forms, and retro faded color palette with washed-out vintage tones. Intimate close-up composition, cinematic volumetric light rays, and dramatic shadows. The date and time '2026-04-13 18:59 UTC' is visually displayed in the corner of the image.",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "墨墨",
+    "story": "在一個融合傳統部族紋樣與前衛科技的空間裡，墨墨發現了這面能對映出星系色彩的鏡子。牠不自覺地展現出那標誌性的傲嬌姿態，左耳的金環與金琥珀色眼睛在復古褪色的電路光影下，閃耀著如黑曜石般的絲滑光澤。",
+    "number": 1427,
+    "inspiration": "original",
+    "title": "幻色鏡像中的墨色部族",
+    "news_inspiration": [
+      "泰國：著名的潑水節（Songkran）慶祝活動於曼谷正式展開，大批遊客與當地民眾湧上街頭，透過傳統的灑水儀式共同慶祝泰國新年。",
+      "印度：坦米爾那都省成功將一條被垃圾堵塞的運河轉化為擁有兩萬棵紅樹林的生態綠洲，為城市水路修復樹立了全球性的環保典範。",
+      "澳門：文化局宣布大型音樂節「K-SPARK」將於路氹體育館戶外場地盛大舉行，邀請 G-DRAGON 及 Daesung 等頂尖亞洲歌手共同參與。",
+      "瑞士：羅氏大藥廠研發的最新血液檢測技術獲得歐盟認證，能透過偵測蛋白質標記來早期發現多發性硬化症的神經發炎狀況。",
+      "美國：阿提米絲 2 號計畫的太空人從太空艙傳回了地球與月球的最新影像，捕捉到了地球迷人的藍色曲線與閃耀的綠色極光。"
+    ],
+    "idea": "墨墨在一間充滿非洲未來主義風格的充氣 PVC 舊書店中，對著帶有幾何圖騰的圓鏡進行「鏡子自拍」，牠正優雅地用爪子撥弄一個發光的金色全息書標。",
+    "avoid_list": [
+      "漂浮島嶼與雲端建築",
+      "生物發光蝴蝶與植物",
+      "貓修復微縮晶體或齒輪",
+      "莫蘭迪色調與柔和灰底",
+      "極低角度或超廣角透視",
+      "日期時間戳記融入畫面",
+      "聚光燈下的戲劇性陰影",
+      "液態金屬或螢光水柱質感",
+      "整齊排列的科研儀器或樣本",
+      "沙質紋理與風蝕波紋",
+      "等距3D或立體主義幾何風格",
+      "琥珀色與金黃色的夕陽餘暉"
+    ],
+    "comment_id": 4238897725,
+    "character": "momo"
   }
 ]
