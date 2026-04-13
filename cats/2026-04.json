@@ -6241,5 +6241,42 @@
     ],
     "comment_id": 4238897725,
     "character": "momo"
+  },
+  {
+    "title": "深海之影的安魂曲",
+    "comment_id": 4239295509,
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [
+      "泰國與寮國各地開始歡慶傳統宋干節（潑水節），民眾透過潑水祈福與家庭聚會迎接新年。",
+      "歐洲太空總署的 Proba-3 衛星任務成功捕捉到太陽內冕影像，揭示了太陽風加速的全新科學數據。",
+      "孟加拉民眾於今日熱烈慶祝波赫拉博伊沙節（孟加拉新年），在達卡等城市舉行色彩繽紛的遊行與文化表演。",
+      "英國皇家海軍潛水員在偏遠的皮特凱恩群島完成廢棄炸藥清理任務，並協助當地僅有的 38 位居民修復太陽能板。",
+      "北美冰球職業聯賽（NHL）例行賽進入尾聲，華盛頓首都隊今日擊敗對手，成功爭奪季後賽的最後席次。"
+    ],
+    "avoid_list": [
+      "漂浮島嶼與雲端建築",
+      "生物發光蝴蝶與植物",
+      "貓修復微縮晶體或齒輪",
+      "莫蘭迪色調與柔和灰底",
+      "極低角度或超廣角透視",
+      "日期時間戳記融入畫面",
+      "聚光燈下的戲劇性陰影",
+      "液態金屬或螢光水柱質感",
+      "整齊排列的科研儀器或樣本",
+      "沙質紋理與風蝕波紋",
+      "等距3D或立體主義幾何風格",
+      "琥珀色與金黃色的夕陽餘暉"
+    ],
+    "number": 1428,
+    "idea": "在倫敦塔橋下的微縮碼頭邊，一隻黑色孟買貓正穿著亮面塑膠雨衣，專注地指揮一隊穿著金黑色制服的發條潛水員清理生鏽的微型水雷，採用35mm底片攝影與移軸鏡頭捕捉。",
+    "prompt": "35mm film photography of a miniature dock scene beneath London Tower Bridge, a black Bombay cat wearing a glossy yellow plastic raincoat stands on the pier, directing a team of wind-up divers in gold and black uniforms as they clear rusted micro-mines. Tilt-shift photography creates a toy-like miniature effect with a narrow selective focus band and blurred foreground. Soft diffused natural light under an overcast sky provides even illumination and gentle tones. The divers have a glossy vinyl figure aesthetic with high-shine surfaces and metallic gold accents. Visible film grain, warm nostalgic tones, and a slight vignette. The date and time '2026-04-13 20:05 UTC' is printed in the bottom corner in a classic digital camera timestamp font.",
+    "story": "這位黑貓士官長正在皮特凱恩群島的迷你海港執行任務，指導潛水小隊排除海底隱患。雖然海面平靜，但牠那雙如金幣般的黃金眼正嚴密監控著每一個拆彈環節，確保島民的安全。",
+    "inspiration": "英國皇家海軍潛水員在偏遠的皮特凱恩群島完成廢棄炸藥清理任務，並協助當地僅有的 38 位居民修復太陽能板。"
   }
 ]
