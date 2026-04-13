@@ -6278,5 +6278,40 @@
     "prompt": "35mm film photography of a miniature dock scene beneath London Tower Bridge, a black Bombay cat wearing a glossy yellow plastic raincoat stands on the pier, directing a team of wind-up divers in gold and black uniforms as they clear rusted micro-mines. Tilt-shift photography creates a toy-like miniature effect with a narrow selective focus band and blurred foreground. Soft diffused natural light under an overcast sky provides even illumination and gentle tones. The divers have a glossy vinyl figure aesthetic with high-shine surfaces and metallic gold accents. Visible film grain, warm nostalgic tones, and a slight vignette. The date and time '2026-04-13 20:05 UTC' is printed in the bottom corner in a classic digital camera timestamp font.",
     "story": "這位黑貓士官長正在皮特凱恩群島的迷你海港執行任務，指導潛水小隊排除海底隱患。雖然海面平靜，但牠那雙如金幣般的黃金眼正嚴密監控著每一個拆彈環節，確保島民的安全。",
     "inspiration": "英國皇家海軍潛水員在偏遠的皮特凱恩群島完成廢棄炸藥清理任務，並協助當地僅有的 38 位居民修復太陽能板。"
+  },
+  {
+    "character_name": "鈴鈴",
+    "character": "lingling",
+    "number": 1429,
+    "idea": "這是一幅結合濕版攝影質感與 Knolling 排列美學的雙色調影像，呈現鈴鈴在月光下的櫻花林中，認真整理她收集的亮晶晶寶石與粉紅蝴蝶結。",
+    "prompt": "A wet plate collodion photography style flat lay, Knolling arrangement overhead view. In a moonlit cherry blossom forest, Lingling, an extremely fluffy pure white Ragdoll-like cat with voluminous cloud-like fur and huge sapphire-blue eyes, is meticulously organizing a grid of sparkling gemstones and pink bows on the ground. She wears a pink ribbon bow collar with a centered golden bell. Scattered pink petals rest on her white fur. The composition follows a strict 90-degree angle grid layout. The image features a silver-toned duotone color treatment with cool blue moonlit highlights and dark vignetted edges. Natural silver-grain texture and vintage tintype imperfections are visible. The date and time '2026-04-13 21:38 UTC' is subtly etched into the bottom corner. Shot with a 35mm lens, f/8 for deep focus, moonlit long exposure.",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "is_seasonal": true,
+    "title": "月下櫻瓣與玲瓏珍藏",
+    "avoid_list": [
+      "漂浮島嶼與雲端建築",
+      "生物發光蝴蝶與植物",
+      "貓修復微縮晶體或齒輪",
+      "莫蘭迪色調與柔和灰底",
+      "極低角度或超廣角透視",
+      "日期時間戳記融入畫面",
+      "聚光燈下的戲劇性陰影",
+      "液態金屬或螢光水柱質感",
+      "整齊排列的科研儀器或樣本",
+      "沙質紋理與風蝕波紋",
+      "等距3D或立體主義幾何風格",
+      "琥珀色與金黃色的夕陽餘暉"
+    ],
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Knolling Photography",
+      "lighting": "Moonlight",
+      "texture": "3D Render",
+      "color_palette": "Duotone"
+    },
+    "comment_id": 4239811885,
+    "season": "spring",
+    "story": "在櫻花盛開的深夜，鈴鈴正努力將她珍藏的寶石按大小排好，蓬鬆的白毛上沾滿了掉落的花瓣。她那對寶石藍的眼睛在月光下閃閃發亮，雖然被一隻路過的蝴蝶分了心，但依然試圖維持這完美的對稱排列。"
   }
 ]
