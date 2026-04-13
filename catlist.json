@@ -12865,5 +12865,13 @@
     "title": "琥珀時光的修復者",
     "inspiration": "original",
     "status": "success"
+  },
+  {
+    "timestamp": "2026-04-13 14:45 UTC",
+    "number": null,
+    "url": null,
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "model": "all failed",
+    "status": "failed"
   }
 ]
