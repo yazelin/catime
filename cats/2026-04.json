@@ -6593,5 +6593,36 @@
     },
     "inspiration": "美國科學家在今日發表的量子力學研究中發現，量子系統能同時「記住」與「忘記」其過去的狀態，這項突破性發現將對未來量子電腦發展產生深遠影響。",
     "title": "量子記憶的重塑者"
+  },
+  {
+    "avoid_list": [
+      "維修工坊內修理機械",
+      "鏡子自拍構圖",
+      "磨砂玻璃與透明磨砂質感",
+      "全像投影與霓虹色彩",
+      "莫蘭迪色調與大地色系",
+      "復古電子產品與數位時鐘",
+      "低多邊形或體素藝術風格",
+      "極低角度或俯瞰微縮視角",
+      "生物發光與螢光效果",
+      "特定日期與時間戳記浮水印",
+      "懸浮或漂浮的超現實場景",
+      "燭光與倫勃朗光影組合"
+    ],
+    "idea": "採用等距攝影視角與野獸派大膽色塊，描繪一隻穿著金屬圍裙的貓在充滿粉彩色調的現代冷凍庫中精細雕琢巨大的金屬冰雕。",
+    "story": "在高飽和度的色彩碰撞下，貓技師正專注地調整雕刻刀。體積光穿透寒冷的霧氣，在粉紅與淺綠色的金屬牆面上映照出迷人的光澤。",
+    "title": "極地粉彩的雕琢者",
+    "prompt": "A perfectly isometric photograph of a cat wearing a metal apron, meticulously carving a massive metallic ice sculpture inside a modern industrial freezer. The scene features bold Fauvism-inspired non-naturalistic color blocks with vibrant pink, mint, and lavender metallic walls. Dramatic volumetric lighting with visible light rays and dust particles pierces through cold mist. The cat is captured in a focused pose with a carving tool. Surfaces show brushed metal textures and sharp reflections. The date and time '2026-04-14 12:58 UTC' is clearly displayed on a digital display on the freezer wall. High-contrast lighting, 85mm lens, f/8, industrial premium aesthetic.",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "number": 1438,
+    "comment_id": 4244064872,
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Isometric Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Pastel Colors"
+    }
   }
 ]
