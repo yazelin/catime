@@ -6624,5 +6624,42 @@
       "texture": "Metallic Surface",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "news_inspiration": [
+      "德國柏林動物園為世界上人工飼養最長壽的大猩猩法圖（Fatou）慶祝 69 歲生日。",
+      "法國舉辦了一場 Picasso 名畫抽獎活動，參與者僅需花費 100 歐元就有機會贏得價值百萬美元的藝術品，並以此資助阿茲海默症研究。",
+      "科學家在南非發現了 2.5 億年前的獸孔目化石，內含一顆古代蛋，證實了哺乳動物的祖先最初是卵生的。",
+      "紐西蘭一名登山客的愛犬在森林失蹤多日後，透過熱心陌生人資助的直升機搜救行動成功獲救。",
+      "加拿大卑詩省的一處公路旁，有人將一輛報廢車殼懸掛在陡峭岩壁上，這場神秘的惡作劇吸引了路過遊客的目光。"
+    ],
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Moonlight",
+      "texture": "Velvet",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "這是一款 3D Q 版盲盒風格的設計，捕捉一隻擁有天鵝絨質感的橘貓，正專注地在微縮的岩壁上維修一輛懸掛在半空中的鏽蝕紅色小車，背景伴隨著朦朧的琥珀色月光。",
+    "prompt": "A 3D Q-version blind box style collectible featuring a velvet-textured ginger cat working on a miniature cliffside. The cat is holding a tiny wrench, repairing a rusted red vintage car suspended by steel cables against a rocky wall. The scene uses tilt-shift photography with a selective focus band to create a miniature toy-box effect and blurred background. Lighting is a mix of soft studio lights and a glowing amber moon, casting a warm, nostalgic autumn light over the scene. The texture is a mix of tactile deep-pile velvet on the cat and smooth C4D rendered plastic for the car. The date and time '2026-04-14 16:00 UTC' is clearly and stylistically displayed within the composition.",
+    "number": 1440,
+    "title": "峭壁上的琥珀修理工",
+    "story": "在偏遠的卑詩省公路旁，這隻身手矯健的小貓決定把那輛神祕的報廢車殼變成自己的秘密基地。牠正拿著小扳手檢查岩壁上的鋼索，整座山頭在移軸攝影下彷彿一個溫暖的秋日玩具盒。",
+    "comment_id": 4245373216,
+    "avoid_list": [
+      "魚眼鏡頭與極致張力",
+      "磨砂玻璃與透明質感",
+      "體積光與塵土飛揚",
+      "環形燈與圓形眼神光",
+      "大地色系與三色調組合",
+      "貓咪正在修復或雕琢物品",
+      "數位顯示器上的時間浮水印",
+      "復古與現代科技的結合",
+      "極高或極低角度的透視",
+      "精密排列與網格布局",
+      "神祕生物發光或螢光工具",
+      "層疊剪紙與立體維度"
+    ],
+    "inspiration": "加拿大卑詩省的一處公路旁，有人將一輛報廢車殼懸掛在陡峭岩壁上，這場神秘的惡作劇吸引了路過遊客的目光。"
   }
 ]
