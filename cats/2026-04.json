@@ -6729,5 +6729,44 @@
     },
     "character_name": "墨墨",
     "number": 1443
+  },
+  {
+    "idea": "在微縮立體模型的佈景中，身穿粉紅鈴鐺項圈的布偶貓鈴鈴正優雅地待在透明展示缸旁，好奇地盯著幾條鮮豔的「Calendula」蝴蝶魚。這是一張採用 35mm 底片攝影風格的照片，背景點綴著霓虹螢光色的水族箱燈光，魚缸邊緣包覆著柔軟的天鵝絨飾邊。",
+    "number": 1444,
+    "news_inspiration": [
+      "澳洲科學家在北部海域發現了一種新型蝴蝶魚，因其色彩斑斕酷似萬壽菊而將其命名為「Calendula」。",
+      "美國德州的一位學校工友在兼顧家庭與夜間工作的同時，成功取得了第四個大學學位，勵志故事感動社區。",
+      "印度新德里地鐵公司計畫在主要車站興建多層停車場，以緩解當地長期以來的交通擁堵問題並提升通勤體驗。",
+      "全球各地於今日共同慶祝「世界文化日」，旨在透過藝術與科學機構的保護，促進國際間對多元文化遺產的尊重。",
+      "美國洛杉磯 2028 夏季奧運會的門票抽籤登記正式展開，吸引了全球體育迷關注這場即將到來的體育盛事。"
+    ],
+    "character_name": "鈴鈴",
+    "prompt": "35mm film photography of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and a small round face. She has huge round sapphire-blue eyes, a pale pink nose, and wears a pink ribbon bow collar with a centered golden bell. Lingling is in a miniature diorama setting, elegantly peering into a transparent display tank containing vibrant Calendula butterflyfish. One pink paw pad touches the glass. The tank features velvet trim edges. Lighting is dramatic high-contrast with a narrow beam spotlight and neon fluorescent glow in electric pink and hot cyan against a dark background. Visible film grain, warm tones, nostalgic feel, slight vignette, and a tilt-shift effect creating a toy-like scale. The date and time '2026-04-14 21:41 UTC' is visually displayed in the corner of the frame.",
+    "story": "鈴鈴在花店的角落發現了一個新奇的魚缸，裡面游動著色彩斑斕如萬壽菊的新種蝴蝶魚。她天真地伸出粉紅肉掌輕觸玻璃，清脆的鈴鐺聲隨著她興奮的動作在靜謐的室內迴盪，彷彿與這些水中花朵進行一場跨越物種的秘密對話。",
+    "inspiration": "澳洲科學家在北部海域發現了一種新型蝴蝶魚，因其色彩斑斕酷似萬壽菊而將其命名為「Calendula」。",
+    "comment_id": 4247377351,
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Miniature Diorama",
+      "lighting": "Spotlight",
+      "texture": "Velvet",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "藍寶石與水中萬壽菊",
+    "avoid_list": [
+      "魚眼鏡頭與極致張力",
+      "磨砂玻璃與透明質感",
+      "體積光與塵土飛揚",
+      "環形燈與圓形眼神光",
+      "大地色系與三色調組合",
+      "貓咪正在修復或雕琢物品",
+      "數位顯示器上的時間浮水印",
+      "復古與現代科技的結合",
+      "極高或極低角度的透視",
+      "精密排列與網格布局",
+      "神祕生物發光或螢光工具",
+      "層疊剪紙與立體維度"
+    ],
+    "character": "lingling"
   }
 ]
