@@ -6694,5 +6694,40 @@
     },
     "character": "captain",
     "comment_id": 4246433521
+  },
+  {
+    "title": "野獸派的櫻雨舊夢",
+    "news_inspiration": [],
+    "comment_id": 4247018613,
+    "is_seasonal": true,
+    "story": "雨滴輕敲著玻璃，墨墨慵懶地微瞇起琥珀色的眼，享受著下巴處暖黃燭火的餘溫。儘管外頭落櫻如雨，牠仍固執地守著書堆中的那份寧靜，彷彿正與古老的靈魂進行一場靜默的對話。",
+    "character": "momo",
+    "avoid_list": [
+      "魚眼鏡頭與極致張力",
+      "磨砂玻璃與透明質感",
+      "體積光與塵土飛揚",
+      "環形燈與圓形眼神光",
+      "大地色系與三色調組合",
+      "貓咪正在修復或雕琢物品",
+      "數位顯示器上的時間浮水印",
+      "復古與現代科技的結合",
+      "極高或極低角度的透視",
+      "精密排列與網格布局",
+      "神祕生物發光或螢光工具",
+      "層疊剪紙與立體維度"
+    ],
+    "inspiration": "original",
+    "prompt": "Fauvism art style painting of Momo, a sleek slender solid-black shorthair cat with satin-sheen fur, a small gold hoop earring in her left ear, a tiny white locket tuft on her chest, a single dark-grey ring at her tail tip, and large golden-amber eyes. She is elegantly lounging on a weathered, peeling wooden windowsill of an old bookstore. Ultra wide angle 18mm lens perspective capturing a wildly vibrant palette with bold non-naturalistic colors and textured impasto brushwork. Indoor warm flickering orange candlelight creates soft dancing shadows, while outside the window, delicate cherry blossom petals fall like rain. The date and time '2026-04-14 20:41 UTC' is visually integrated into the scene. Simplified forms, high-contrast expressive strokes, and a nostalgic spring atmosphere.",
+    "idea": "在野獸派那飽滿且不羈的色彩線條下，墨墨優雅地趴在舊書店斑駁的木窗台上，超廣角鏡頭將室內滿溢的燭光與窗外細碎的櫻花雨悉數捕捉。",
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Candlelight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "墨墨",
+    "number": 1443
   }
 ]
