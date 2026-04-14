@@ -6805,5 +6805,38 @@
       "移軸攝影 toy-box 濾鏡",
       "半透明與不透明質感對比"
     ]
+  },
+  {
+    "prompt": "Pixel art mixed with paper quilling texture, ultra wide angle 12mm lens perspective of a midnight bakery in an old street. Mochi, a chubby shorthair cat with a spherical body and short legs, is eating an egg tart. Mochi has a white #FFFFFF body, a solid orange #FF8C00 mask covering the right half of his face and right ear while the left side is pure white, large round amber #FFBF00 eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on his upper back, a solid orange right front paw mitten, a pure white left front paw, and a ringed orange-and-white tail. The scene features intricate coiled paper strips and crisp blocky pixels. Lighting is dramatic Blacklight UV illumination with fluorescent orange patches and glowing tart filling against a dark background. The date and time '2026-04-14 23:34 UTC' is visually displayed in the corner. Vibrant neon colors, intricate curling loops, 3D dimensional ornament, expansive field of view.",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "title": "深夜食堂的霓虹食客",
+    "number": 1446,
+    "comment_id": 4248024969,
+    "character_name": "麻糬",
+    "avoid_list": [
+      "磨砂玻璃質感",
+      "生物發光效果",
+      "日期時間視覺顯示",
+      "微縮模型效果",
+      "懸浮或懸掛的汽車",
+      "天鵝絨材質貓咪",
+      "環形燈與圓形眼神光",
+      "透明樹脂微縮景觀",
+      "莫蘭迪色調搭配",
+      "野獸派大膽色塊",
+      "移軸攝影 toy-box 濾鏡",
+      "半透明與不透明質感對比"
+    ],
+    "story": "深夜的麵包店空無一人，麻糬憑藉著圓滾滾的身軀擠進剛出爐的木盤間。在紫外光燈管的照射下，牠身上的橘色斑塊與蛋塔內餡閃爍著奇幻的螢光色彩，牠正瞇著眼陶醉在濃郁的奶香中。",
+    "character": "mochi",
+    "idea": "在黑光螢光映照的深夜老街麵包店，以像素藝術與衍紙捲紙紋理呈現超廣角視野下正在偷吃蛋塔的麻糬。",
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Paper Quilling",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
