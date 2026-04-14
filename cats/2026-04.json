@@ -6768,5 +6768,42 @@
       "層疊剪紙與立體維度"
     ],
     "character": "lingling"
+  },
+  {
+    "inspiration": "美國大聯盟在今日迎來「傑基·羅賓森日」，各大球場球員皆穿上 42 號球衣，紀念這位打破種族藩籬的傳奇球員。",
+    "story": "為了向傳奇致敬，這隻熱愛棒球的貓咪正在工作室裡細心維護它的老舊裝備。在冷色調的藍青背景映襯下，木質的溫潤與金色的陽光交織出一段跨越時空的體育精神。",
+    "news_inspiration": [
+      "泰國清邁正盛大舉行一年一度的潑水節（宋干節），民眾與遊客在街頭互相潑水祝福，共同慶祝泰國新年。",
+      "美國大聯盟在今日迎來「傑基·羅賓森日」，各大球場球員皆穿上 42 號球衣，紀念這位打破種族藩籬的傳奇球員。",
+      "柬埔寨金邊的民眾聚集在寺廟進行傳統儀式，在長達四天的柬埔寨新年假期中與家人共享節慶喜悅。",
+      "南非開普敦的一位健身教練成功發起募款，帶領一群來自弱勢社區的孩子們前往體育場觀看國家隊的足球比賽。",
+      "最新科學研究顯示，科學家在南美洲發現了一種能夠「玩遊戲」的倭猩猩，這項觀察挑戰了人類對於動物認知能力的認知。"
+    ],
+    "idea": "這是一幅以棚拍人像風格呈現的分割畫面，左側特寫一隻穿著42號球衣的玳瑁貓專注修補破損的棒球手套，右側則是灑滿黃金時刻餘暉的復古木紋計分板。",
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Split View",
+      "lighting": "Golden Hour",
+      "texture": "Wood Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4247635004,
+    "title": "背號四十二的榮光",
+    "number": 1445,
+    "prompt": "A split-view studio photograph. Left side: Close-up of a tortoiseshell cat wearing a jersey with number 42, focused on repairing a worn leather baseball glove with needle and thread, 85mm lens, f/2.8, cool blue-teal color grading, crisp atmosphere, three-point lighting. Right side: A vintage wood grain scoreboard with visible knots and textures, bathed in golden hour sunlight with long soft shadows and a warm sunset glow. A sharp vertical cut line separates the halves. The date and time '2026-04-14 22:35 UTC' is clearly displayed on the scoreboard. Professional headshot quality, clean background, golden rim light on the cat, rich warm tones.",
+    "avoid_list": [
+      "磨砂玻璃質感",
+      "生物發光效果",
+      "日期時間視覺顯示",
+      "微縮模型效果",
+      "懸浮或懸掛的汽車",
+      "天鵝絨材質貓咪",
+      "環形燈與圓形眼神光",
+      "透明樹脂微縮景觀",
+      "莫蘭迪色調搭配",
+      "野獸派大膽色塊",
+      "移軸攝影 toy-box 濾鏡",
+      "半透明與不透明質感對比"
+    ]
   }
 ]
