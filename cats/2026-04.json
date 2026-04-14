@@ -6661,5 +6661,38 @@
       "層疊剪紙與立體維度"
     ],
     "inspiration": "加拿大卑詩省的一處公路旁，有人將一輛報廢車殼懸掛在陡峭岩壁上，這場神秘的惡作劇吸引了路過遊客的目光。"
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "魚眼鏡頭與極致張力",
+      "磨砂玻璃與透明質感",
+      "體積光與塵土飛揚",
+      "環形燈與圓形眼神光",
+      "大地色系與三色調組合",
+      "貓咪正在修復或雕琢物品",
+      "數位顯示器上的時間浮水印",
+      "復古與現代科技的結合",
+      "極高或極低角度的透視",
+      "精密排列與網格布局",
+      "神祕生物發光或螢光工具",
+      "層疊剪紙與立體維度"
+    ],
+    "title": "破碎維度的領航者",
+    "idea": "在強烈色彩衝擊的故障藝術風格下，船長正以低多邊形建模質感，在一座充滿電氣感的漁港燈塔頂端，對著一張發光的數位海圖指點江山。",
+    "number": 1442,
+    "news_inspiration": [],
+    "character_name": "船長",
+    "prompt": "Glitch art illustration of Captain, a large stocky brown classic tabby cat with bold black stripes and a scruffy, untidy coat texture. His left eye is hidden by a natural dark-pigmented fur patch (no straps), his right eye is piercing emerald green, and his left ear has a prominent V-shaped notch. He wears a faded red bandana and has a white chest bib and white mitten paws. Captain is rendered in a low-poly style with geometric crystalline surfaces and flat-shaded triangular faces. He is standing at the edge of an electric-themed fishing port lighthouse, pointing at a glowing digital nautical chart. The composition is an orthographic projection with no perspective distortion. The visual style features heavy digital distortion, RGB channel shifts, scan line artifacts, and fragmented visuals. Lighting is cinematic with volumetric light rays and dramatic shadows against a high-saturation palette of vivid, energetic colors. The text '2026-04-14 19:02 UTC' is visually displayed in a technical digital font on the map or lighthouse wall.",
+    "story": "即使身處數據破碎的數位時空中，船長依然是那隻最沉穩的虎斑。牠站在燈塔邊緣，翠綠的右眼無視周遭閃爍的雜訊圖層，僅專注於指引遠方迷航的漁船歸航。",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Cinematic Lighting",
+      "texture": "Low Poly",
+      "color_palette": "High Saturation Vivid"
+    },
+    "character": "captain",
+    "comment_id": 4246433521
   }
 ]

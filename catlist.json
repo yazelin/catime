@@ -13033,5 +13033,16 @@
     "url": null,
     "timestamp": "2026-04-14 17:56 UTC",
     "model": "all failed"
+  },
+  {
+    "timestamp": "2026-04-14 19:02 UTC",
+    "inspiration": "original",
+    "title": "破碎維度的領航者",
+    "character_name": "船長",
+    "number": 1442,
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-14_1902_UTC.webp",
+    "character": "captain",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
