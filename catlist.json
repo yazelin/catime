@@ -12963,5 +12963,14 @@
     "status": "success",
     "title": "懸壁上的像素修復師",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-14_0436_UTC.webp"
+  },
+  {
+    "status": "success",
+    "number": 1434,
+    "title": "蒼穹雲海的漫步者",
+    "inspiration": "美國 NASA 的阿提米絲 2 號太空人從太空傳回了最新的地球照片，向世人展示了這顆藍色星球壯麗的雲層與極光之美。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-14_0624_UTC.webp",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "timestamp": "2026-04-14 06:24 UTC"
   }
 ]

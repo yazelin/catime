@@ -6457,5 +6457,42 @@
       "對稱的等距3D視角",
       "穿著雨衣或領結的貓"
     ]
+  },
+  {
+    "prompt": "A papercut art masterpiece from an extreme low angle looking up at a giant calico cat walking across a sea of clouds. The clouds are crafted from layered frosted glass with a translucent matte texture, while the cat moves through aurora-textured mist. The composition features intricate cutout details and deep shadow depth typical of layered paper silhouettes. The scene is illuminated by ring light, creating circular catchlights in the cat's eyes and even lighting across an earth tone palette of terracotta, olive green, and warm brown. The date and time '2026-04-14 06:24 UTC' is visually displayed in the corner of the artwork.",
+    "number": 1434,
+    "title": "蒼穹雲海的漫步者",
+    "news_inspiration": [
+      "在泰國，民眾紛紛走上街頭慶祝傳統宋干節（潑水節），透過互相潑水來象徵洗去過去一年的厄運並迎接新年。",
+      "斯里蘭卡的全國各地正在舉辦豐富的文化儀式與家庭慶典，慶祝象徵收穫季節結束的僧伽羅和泰米爾新年。",
+      "美國 NASA 的阿提米絲 2 號太空人從太空傳回了最新的地球照片，向世人展示了這顆藍色星球壯麗的雲層與極光之美。",
+      "澳洲墨爾本大學近日獲得捐贈一套共 232 卷的《中國歷代繪畫大系》，成為全球最完整的早期中國繪畫出版收藏地之一。",
+      "在孟加拉，成千上萬的民眾齊聚城市中心，以充滿活力的遊行、音樂和傳統美食慶祝孟加拉曆新年「博希卡節」。"
+    ],
+    "avoid_list": [
+      "全像投影海圖",
+      "金黑色調魚拓風格",
+      "移軸攝影微縮效果",
+      "充氣PVC材質凹陷",
+      "濕版攝影銀鹽質感",
+      "琥珀色聚光燈",
+      "裝飾藝術幾何圖騰",
+      "在場景中標註日期時間",
+      "貓指揮微型小隊",
+      "金色與黑色的奢華配色",
+      "對稱的等距3D視角",
+      "穿著雨衣或領結的貓"
+    ],
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Extreme Low Angle",
+      "lighting": "Ring Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "這是一幅以極低角度呈現的剪紙藝術作品，一隻巨大的三花貓正悠然地在佈滿極光紋理的雲海中漫步，腳下踩著層疊的磨砂玻璃質感雲朵。",
+    "inspiration": "美國 NASA 的阿提米絲 2 號太空人從太空傳回了最新的地球照片，向世人展示了這顆藍色星球壯麗的雲層與極光之美。",
+    "comment_id": 4241741347,
+    "story": "靈感源自阿提米絲2號傳回的壯麗影像，這隻貓化身為星際的守護者。在環形燈的映照下，牠在大地色系的剪紙星系中跳躍，捕捉那些閃爍在雲層間的微弱光影。"
   }
 ]
