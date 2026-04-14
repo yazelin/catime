@@ -13008,5 +13008,13 @@
     "number": 1438,
     "timestamp": "2026-04-14 12:58 UTC",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "error": "Failed to generate any images - All models failed. Last error: No image data in response",
+    "status": "failed",
+    "url": null,
+    "number": null,
+    "timestamp": "2026-04-14 14:49 UTC",
+    "model": "all failed"
   }
 ]
