@@ -6931,5 +6931,44 @@
       "移軸攝影 toy-box 濾鏡",
       "半透明與不透明質感對比"
     ]
+  },
+  {
+    "inspiration": "在印度，各個地區於 4 月 15 日共同慶祝區域新年（如孟加拉曆元旦），各地民眾以充滿活力的藝術創作和傳統鼓聲迎接春收與新的開始。",
+    "avoid_list": [
+      "維修機械或操作面板",
+      "使用扳手或工具的貓",
+      "黑光或螢光效果",
+      "極低角度仰望視角",
+      "野獸派大膽色塊",
+      "等距或正投影攝影",
+      "電子零件與數位海圖",
+      "日期與時間戳記文字",
+      "天鵝絨或細緻紋理材質",
+      "廢棄工業或礦坑設施",
+      "微縮模型或移軸攝影效果",
+      "柔和粉彩色調背景",
+      "具備特定圖案或配飾的貓",
+      "寒冷霧氣或冰晶效果"
+    ],
+    "title": "紅塵鼓韻的新生",
+    "prompt": "A nostalgic 1990s film photography mirror selfie of a cat standing on its hind legs, front paw striking a large traditional Indian Dhaki drum. The scene is set on a vibrant street during Poila Baisakh celebrations with artistic floor paintings and colorful decorations. The reflection in a shop mirror shows a background of dancing crowds and festive stalls. Style features high saturation vivid colors, bold vibrant hues, and direct flash lighting with a characteristic grainy texture and nostalgic glow. Shot on a 35mm lens with casual framing and an intimate close-up perspective. The date and time '2026-04-15 08:21 UTC' is visually displayed in the corner of the image. Real film aesthetic with light refraction and prismatic reflections from crystal shop ornaments.",
+    "idea": "在印度孟加拉曆元旦的歡慶街頭，一隻貓咪正用前爪拍擊巨大的傳統達克鼓（Dhaki），呈現 90 年代底片攝影特有的顆粒感與高飽和鮮豔色彩。",
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "隨著新年的鼓聲響起，這隻貓在充滿藝術彩繪的街道上興奮地加入慶祝行列。牠對著裝飾著水晶吊飾的店舖鏡子拍下這張自拍，鏡面倒映出後方載歌載舞的人群與節日盛況。",
+    "number": 1450,
+    "news_inspiration": [
+      "在法國巴黎，一名 58 歲的工程師僅花費 100 歐元購買慈善彩券，便幸運抽中價值超過百萬歐元的畢卡索真跡畫作，所得款項將全數捐給阿茲海默症研究機構。",
+      "在印度，各個地區於 4 月 15 日共同慶祝區域新年（如孟加拉曆元旦），各地民眾以充滿活力的藝術創作和傳統鼓聲迎接春收與新的開始。",
+      "在英格蘭利物浦舉行的歐冠半準決賽中，巴黎聖日耳曼隊球員奧斯曼·登貝萊梅開二度，幫助球隊擊敗利物浦，挺進歐冠聯賽四強。",
+      "在南美洲厄瓜多，知名巧克力製造商瑪氏（Mars）與合作夥伴宣佈一項為期五年的氣候智慧型農業計畫，旨在協助當地 960 多名可可農夫實現淨零排放並提升生產力。",
+      "在科學界，研究人員宣佈已成功完整繪製出醫學上常被忽視的陰蒂神經網絡圖譜，這項科學突破對於提升女性健康與相關醫療領域具有重大意義。"
+    ],
+    "comment_id": 4250402114
   }
 ]
