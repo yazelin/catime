@@ -6838,5 +6838,36 @@
       "texture": "Paper Quilling",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "title": "廢墟中的金工殘影",
+    "inspiration": "original",
+    "idea": "以手機隨拍風格記錄一隻穿著金邊黑西裝的貓，在鋪滿青苔的廢棄金屬礦坑中，專注地用金色扳手維修一台老式等距結構的發電機。",
+    "number": 1447,
+    "prompt": "A casual smartphone snapshot of a black cat wearing a tailored black suit with metallic gold trim, intently using a small gold wrench to repair an old 3D isometric style generator. The setting is an abandoned metal mine with lush green organic overgrowth and moss-covered surfaces where nature is reclaiming the machinery. Soft diffused natural light from an overcast sky creates even illumination and a damp forest aesthetic without harsh shadows. The color scheme is a mix of deep black, opulent gold accents, and vibrant green moss. The text '2026-04-15 01:20 UTC' is clearly visible in the corner of the frame. Shot with a mobile phone lens, natural lighting, authentic everyday moment, slight motion blur, realistic textures.",
+    "story": "這隻黑貓曾是礦業大亨的寵兒，如今牠在被大自然回收的金色礦道中，憑藉著遺傳的精湛工藝，試圖讓這座沉睡的奢華堡壘重新運轉。午後的自然漫射光灑在濕潤的苔蘚上，映襯出黑金色的高貴與荒廢的美感。",
+    "comment_id": 4248477854,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "磨砂玻璃質感",
+      "生物發光效果",
+      "日期時間視覺顯示",
+      "微縮模型效果",
+      "懸浮或懸掛的汽車",
+      "天鵝絨材質貓咪",
+      "環形燈與圓形眼神光",
+      "透明樹脂微縮景觀",
+      "莫蘭迪色調搭配",
+      "野獸派大膽色塊",
+      "移軸攝影 toy-box 濾鏡",
+      "半透明與不透明質感對比"
+    ]
   }
 ]
