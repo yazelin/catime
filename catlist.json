@@ -13169,5 +13169,14 @@
     "model": "gemini-3-pro-image-preview",
     "number": 1455,
     "inspiration": "美國：德州大學麥克唐納天文台舉辦「暗空節」（Dark Skies Festival），邀請公眾一同探索天文奧秘並推廣保護自然夜空的科學教育。"
+  },
+  {
+    "timestamp": "2026-04-15 17:00 UTC",
+    "number": 1456,
+    "inspiration": "美國聖安東尼奧於今日展開為期11天的 Fiesta 狂歡節，以色彩繽紛的花車遊行和傳統美食慶祝當地多元文化。",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "title": "慶典前的碎紙舞步",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-15_1700_UTC.webp",
+    "status": "success"
   }
 ]
