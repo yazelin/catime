@@ -7081,5 +7081,44 @@
       "波士尼亞與赫塞哥維納在 40 歲老將哲科（Edin Dzeko）的帶領下，成功晉級 2026 年國際足總世界盃，全國球迷陷入狂歡。",
       "印度印多爾的一位被親切稱為「Janak Didi」的女性，因成功打造出「零廢棄家庭」而成為推廣永續生活方式的文化榜樣。"
     ]
+  },
+  {
+    "title": "琥珀光影中的生命溯源",
+    "idea": "一隻全像投影貓咪正專注地在南非荒野中挖掘發光的水龍獸卵化石，場景呈現液態金屬質感的遞迴德羅斯特效應，充滿溫暖的琥珀色調。",
+    "story": "這隻由純粹光學組成的探險家，正跨越時空觸碰那枚剛出土的古老生命。隨著牠的挖掘，空間如鏡像般無限嵌套，將科學發現的瞬間轉化為永恆的視覺迴圈。",
+    "avoid_list": [
+      "維修機械或操作面板",
+      "使用扳手或工具的貓",
+      "黑光或螢光效果",
+      "極低角度仰望視角",
+      "野獸派大膽色塊",
+      "等距或正投影攝影",
+      "電子零件與數位海圖",
+      "日期與時間戳記文字",
+      "天鵝絨或細緻紋理材質",
+      "廢棄工業或礦坑設施",
+      "微縮模型或移軸攝影效果",
+      "柔和粉彩色調背景",
+      "具備特定圖案或配飾的貓",
+      "寒冷霧氣或冰晶效果"
+    ],
+    "prompt": "A holographic projection cat translucent and glowing with digital scan lines, intently digging up glowing Lystrosaurus egg fossils in the South African wilderness. The scene features a liquid metal texture with a mercury-like reflective flow and a recursive Droste effect where the image repeats infinitely within itself. Warm amber color grading with golden yellows and burnt orange tones. The environment is lit with a classic three-point lighting setup: a soft key light, fill light, and a subtle rim light for separation. The date and time '2026-04-15 14:28 UTC' is visually displayed in the corner of the frame. Sci-fi digital art style, molten mirror finish, chrome dripping textures, futuristic atmosphere.",
+    "number": 1454,
+    "comment_id": 4252925461,
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Three-Point Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "南非金山大學與法國科學團隊今日宣布，在南非發現了全球首枚含有胚胎的哺乳動物祖先「水龍獸」卵化石，解開了哺乳類繁殖起源的科學謎團。",
+    "news_inspiration": [
+      "香港故宮文化博物館與紐約大都會藝術博物館今日（4月15日）共同舉辦「Met的珠寶：身體的變革」特展開幕，呈獻跨越四千年的珠寶藝術珍品。",
+      "南非金山大學與法國科學團隊今日宣布，在南非發現了全球首枚含有胚胎的哺乳動物祖先「水龍獸」卵化石，解開了哺乳類繁殖起源的科學謎團。",
+      "中國國務院今日推出全國性的「旅遊服務升級」計畫，旨在為外籍遊客提供更便捷的支付、交通與觀光體驗，吸引更多國際旅客造訪。",
+      "日本觀光局今日公布統計數據，儘管受地緣政治影響，受惠於櫻花季與復活節假期，3月赴日旅遊人次仍創下360萬的歷史新高紀錄。",
+      "美國 NASA 的阿提米絲2號（Artemis II）太空人近日傳回最新月球近距離觀測影像，為人類時隔半個世紀後再次重返月球軌道留下歷史見證。"
+    ]
   }
 ]
