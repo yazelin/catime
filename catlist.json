@@ -13187,5 +13187,16 @@
     "inspiration": "original",
     "timestamp": "2026-04-15 18:58 UTC",
     "number": 1457
+  },
+  {
+    "timestamp": "2026-04-15 20:02 UTC",
+    "title": "潑水節的拓印遠征",
+    "number": 1458,
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "船長",
+    "inspiration": "泰國與東南亞各國本週正盛大慶祝宋干節（潑水節），街頭充滿了傳統祈福與歡樂的水戰活動。",
+    "character": "captain",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-15_2002_UTC.webp"
   }
 ]
