@@ -7872,5 +7872,36 @@
       "texture": "Velvet",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Moonlight",
+      "texture": "Silk",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "A pencil sketch on paper using hatching and cross-hatching with visible graphite strokes, depicting a mirror selfie of an orange cat in a dusty attic. The cat wears a luxurious silk tie with a luminous sheen and is clumsily adjusting a camera lens with its paws. Composition features a casual framing of a full-length mirror reflection. Lighting is cool blue moonlight with a gentle silvery glow, creating a quiet nighttime atmosphere. Color palette uses earth tones like terracotta, olive green, and warm brown for the background clutter. The date and time '2026-04-16 23:31 UTC' is visually displayed in the corner of the image.",
+    "comment_id": 4264129391,
+    "title": "月下鏡像的優雅",
+    "avoid_list": [
+      "移軸攝影微縮模型感",
+      "黑光紫外螢光",
+      "復古褪色質感色調",
+      "貓咪專注於精細操作",
+      "3D等距視角渲染",
+      "畫面角落顯示日期時間戳",
+      "黏土動畫指紋質感",
+      "冷色調藍青色分級",
+      "特定光影邊緣勾勒",
+      "物體整齊排列攝影佈局",
+      "印象派與衍紙藝術結合",
+      "傳統與未來科技感交織"
+    ],
+    "story": "老舊閣樓透進清冷的月光，這隻自命不凡的貓咪在土褐色系的雜物堆中，試圖拍下自己最優雅的一面。雖然筆觸簡練，卻能從牠認真的眼神中感受到那份對時尚的偏執。",
+    "number": 1476,
+    "idea": "這是一幅採用鉛筆素描風格的鏡子自拍，捕捉一隻戴著絲綢領帶的橘貓在滿布灰塵的閣樓穿衣鏡前，笨拙地用爪子調整相機鏡頭。"
   }
 ]
