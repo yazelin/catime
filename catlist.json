@@ -13321,5 +13321,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "title": "指尖上的泥喃",
     "status": "success"
+  },
+  {
+    "title": "液態幻櫻曲",
+    "inspiration": "日本東京與各大城市的櫻花進入滿開高峰期，吸引全球大批遊客湧入，體驗城市街道變身粉色夢幻幻境的櫻花祭景致。",
+    "status": "success",
+    "number": 1472,
+    "timestamp": "2026-04-16 19:56 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-16_1956_UTC.webp",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
