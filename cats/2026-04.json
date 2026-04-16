@@ -7658,5 +7658,42 @@
       "丁達爾效應與體積光束",
       "等距3D插圖設計"
     ]
+  },
+  {
+    "title": "幽藍海境的金盞探尋",
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Floating Island Scene",
+      "lighting": "Candlelight",
+      "texture": "Film Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "在浮動的深海島嶼上，一隻貓咪正專注地手持古老地圖，尋找傳說中的金盞花蝴蝶魚，呈現復古海報風格。",
+    "news_inspiration": [
+      "德國柏林動物園於本週為世界上人工飼養最長壽的金剛猩猩 Fatou 慶祝 69 歲生日，並為其準備了豐盛的蔬菜水果大餐。",
+      "澳洲海洋科學家於 4 月 17 日宣布在北部沿海發現一種外型神似金盞花的全新物種「金盞花蝴蝶魚」，展現深海生物的多樣性。",
+      "美國波士頓於 4 月 17 日正式拉開第 130 屆波士頓馬拉松博覽會序幕，為即將到來的全球歷史最悠久馬拉松賽事預熱。",
+      "南非德班於 4 月 17 日舉行印度對戰南非的女籃女子 T20 板球系列首賽，作為同年世界盃前的重要熱身指標。",
+      "台灣屏東大鵬灣海域於 4 月舉辦「2026 大鵬灣帆船生活節」，結合遊艇體驗與觀光市集，打造全台最大的帆船慶典。"
+    ],
+    "story": "這隻毛色如午夜般幽深的探險貓，在微弱的燭光下研究著洋流路徑。牠正帶領著一群發光的深海生物，試圖在漂浮的珊瑚礁群中找尋那抹如花綻放的金色魚影。",
+    "number": 1470,
+    "inspiration": "澳洲海洋科學家於 4 月 17 日宣布在北部沿海發現一種外型神似金盞花的全新物種「金盞花蝴蝶魚」，展現深海生物的多樣性。",
+    "avoid_list": [
+      "移軸攝影微縮模型感",
+      "黑光紫外螢光特效",
+      "復古褪色與電影膠卷質感",
+      "專注於修補或組裝特定物件",
+      "3D 衍紙藝術風格",
+      "日期時間視覺顯示於角落",
+      "穿著特定服飾或背心的擬人化貓咪",
+      "極低角度或鳥瞰等極端視角",
+      "分割畫面或幾何構成背景",
+      "特定光影邊緣勾勒與高對比強調",
+      "於特殊地理或虛構實驗室場景工作",
+      "融合立體主義或歐普藝術的幾何抽象"
+    ],
+    "prompt": "Vintage poster art of a midnight-black explorer cat holding an ancient map on a floating deep-sea island. Mid-century modern design with bold typography. The cat is illuminated by a warm orange flickering candlelight, creating soft dancing shadows and an intimate atmosphere. Surrounding the cat are glowing deep-sea creatures and floating coral reefs. Retro color palette with cool blue-teal color grading and icy undertones. Visible film grain, analog texture, and subtle noise. The text '2026-04-16 17:01 UTC' is visually displayed in the corner. Aerial perspective, organic photographic imperfections, serene mood.",
+    "comment_id": 4261960510
   }
 ]
