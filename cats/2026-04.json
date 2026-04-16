@@ -7453,5 +7453,43 @@
       "texture": "Concrete",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "number": 1464,
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Origami",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "在一座充滿日光燈管的深海研究室中，一隻以粉彩色系摺紙構成的貓咪正運用 X 光透視視覺，仔細觀測游過窗外的神祕金盞花蝴蝶魚。",
+    "prompt": "Origami style illustration of a mechanical cat made of folded paper with sharp angular folds and clean geometric creases in a soft pastel color palette of gentle pink, lavender, and mint. The cat is in a deep sea research lab with overhead fluorescent lighting and institutional flat illumination, using X-ray radiograph vision to observe mysterious calendula butterflyfish swimming past a window. The view through the cat's eyes shows a translucent skeletal view and medical imaging aesthetic with high contrast negative blue-white tones. Ultra wide angle 12-18mm lens perspective with dramatic distortion. The text '2026-04-16 06:27 UTC' is visually displayed in the corner of the frame.",
+    "title": "摺紙之眼的深海透視",
+    "inspiration": "澳洲海洋研究人員在北部沿海發現一種名為「金盞花」的新種蝴蝶魚，其鮮豔的色彩與同名花卉極為相似。",
+    "comment_id": 4257822602,
+    "avoid_list": [
+      "鏡面反射自拍",
+      "琥珀色色調與暖橙光影",
+      "德羅斯特效應與遞迴空間",
+      "莫蘭迪色調與淡灰色調",
+      "35mm 底片攝影顆粒感",
+      "在影像角落顯示日期時間",
+      "冷調月光與霓虹螢光對比",
+      "體積光與耶穌光效果",
+      "等距視角插圖風格",
+      "邊緣光勾勒輪廓",
+      "35mm 鏡頭與 f/2.8 光圈設定",
+      "傳統節慶背景下的貓咪行為",
+      "液態金屬或全像投影質感"
+    ],
+    "news_inspiration": [
+      "日本東京的本田汽車正式推出第四代 Insight 純電動跨界車，標誌著這款經典車型轉型為純電時代的里程碑。",
+      "澳洲海洋研究人員在北部沿海發現一種名為「金盞花」的新種蝴蝶魚，其鮮豔的色彩與同名花卉極為相似。",
+      "多米尼克在加勒比海設立了全球首個抹香鯨保護區，讓遊客能在保護生態的前提下近距離觀察鯨魚遷徙。",
+      "台灣台北舉辦「客家春鐘」活動，結合傳統祭典與文創市集，以創新的展覽形式呈現馬年文化意象。",
+      "美國阿拉巴馬州莫比爾郡今日舉辦春季音樂會與墨西哥灣沿岸唐人街燈籠節，展現多元文化融合的藝術光彩。"
+    ],
+    "story": "這隻由精密摺紙工藝打造的機械貓負責監控海洋生態，其透視視角能穿透表皮觀察生物脈動。當色彩鮮豔的新品種蝴蝶魚成群游過，研究室的螢光燈映照出紙張層疊的細緻紋理。"
   }
 ]
