@@ -7381,5 +7381,45 @@
     },
     "story": "在金伯利神祕的紅土大地上，這隻身為部落守護者的貓咪穿梭於時空縫隙，試圖重組這枚具有億年歷史的生命結晶。隨著指尖轉動衍紙般的齒輪，古老的胚胎緩且穩定地發出金光，連結了過去與未來的生命脈動。",
     "inspiration": "在南非金伯利，科學家首次發現了哺乳動物祖先水龍獸的蛋與胚胎化石，揭開了這種史前生物在大滅絕中生存繁衍的秘密。"
+  },
+  {
+    "character_name": "麻糬",
+    "character": "mochi",
+    "title": "橘色彗星的火星夢",
+    "inspiration": "土耳其政府於 4 月 16 日宣布將與 NASA 合作，在具有類似火星地質結構的薩爾達湖開展天文生物學研究計畫，推動科學觀光發展。",
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Bird's-Eye View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "3D Render",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "麻糬聽說薩爾達湖的地質結構最像火星，天真地以為那裡長滿了火星產的「紅豆麻糬」。牠混進了 NASA 的科研帳篷，一邊在粉藍色的湖岸邊研究石頭，一邊等著外星零食降臨。",
+    "news_inspiration": [
+      "德國柏林動物園於 4 月 13 日為全球人工飼養最長壽的母猩猩 Fatou 慶祝 69 歲生日，並為其準備了豐盛的蔬菜大餐。",
+      "土耳其政府於 4 月 16 日宣布將與 NASA 合作，在具有類似火星地質結構的薩爾達湖開展天文生物學研究計畫，推動科學觀光發展。",
+      "美國路易斯安那州紐奧良著名的「法國區節」於 4 月 16 日正式開幕，結合在地音樂與河濱公園的路跑活動吸引大量遊客。",
+      "歐洲足球冠軍聯賽於 4 月 15 日晚間進行半準決賽，德甲豪門拜仁慕尼黑與西甲皇家馬德里展開強強對決，爭奪晉級準決賽的門票。",
+      "美國麻薩諸塞州的曼荷蓮學院溫室內，一株被暱稱為「Pangy」的巨花魔芋於 4 月 14 日後進入盛開期，吸引大批民眾前往觀摩其奇特的氣味與外觀。"
+    ],
+    "number": 1462,
+    "prompt": "Vintage poster art, 3D render of Mochi, a chubby shorthair cat with a white base and solid orange patches. Mochi has an orange mask on the right half of his face (viewer perspective) while the left side is white, large round amber eyes, and a heart-shaped orange saddle on his back. His right front paw is an orange mitten and the left is white. Mochi is at Lake Salda, Turkey, seen from a bird's-eye view, clumsily putting on a mini spacesuit while fiddling with scientific sampling gear. Mid-century modern design, bold typography. Polished 3D render with soft global illumination and Cinema 4D aesthetic. Retro pastel color palette of mint, baby blue, and lavender. Rembrandt lighting with a single 45-degree light source creating dramatic chiaroscuro. The text '2026-04-16 01:25 UTC' is visually displayed in the composition.",
+    "comment_id": 4256756639,
+    "avoid_list": [
+      "鏡面反射自拍",
+      "琥珀色色調與暖橙光影",
+      "德羅斯特效應與遞迴空間",
+      "莫蘭迪色調與淡灰色調",
+      "35mm 底片攝影顆粒感",
+      "在影像角落顯示日期時間",
+      "冷調月光與霓虹螢光對比",
+      "體積光與耶穌光效果",
+      "等距視角插圖風格",
+      "邊緣光勾勒輪廓",
+      "35mm 鏡頭與 f/2.8 光圈設定",
+      "傳統節慶背景下的貓咪行為",
+      "液態金屬或全像投影質感"
+    ],
+    "idea": "以復古海報風格與 3D 渲染技術，從鳥瞰視角描繪圓滾滾的麻糬在土耳其薩爾達湖邊，笨拙地試圖穿上迷你太空裝並撥弄著科研採樣器材。"
   }
 ]
