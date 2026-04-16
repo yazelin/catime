@@ -7763,5 +7763,44 @@
       "color_palette": "High Saturation Vivid"
     },
     "story": "東京的櫻花雨落下時，這隻銀色流浪貓在倫勃朗光的映照下，動作輕盈地捕捉每一片春意。牠的身體像熔化的汞一般閃爍，在高飽和的粉色幻境中，成了城市裡最神祕的藝術品。"
+  },
+  {
+    "inspiration": "original",
+    "character": "captain",
+    "number": 1473,
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "移軸攝影微縮模型感",
+      "黑光紫外螢光特效",
+      "復古褪色與電影膠卷質感",
+      "專注於修補或組裝特定物件",
+      "3D 衍紙藝術風格",
+      "日期時間視覺顯示於角落",
+      "穿著特定服飾或背心的擬人化貓咪",
+      "極低角度或鳥瞰等極端視角",
+      "分割畫面或幾何構成背景",
+      "特定光影邊緣勾勒與高對比強調",
+      "於特殊地理或虛構實驗室場景工作",
+      "融合立體主義或歐普藝術的幾何抽象"
+    ],
+    "idea": "以黏土動畫風格呈現「船長」正專注地在漁港碼頭整理他的航海裝備，場景採用排列攝影（Knolling）佈局，並籠罩在柔和的莫蘭迪色調與體積光中。",
+    "news_inspiration": [
+      "在南非金山大學的一項突破性研究中，科學家首次發現了哺乳動物祖先「水龍獸」的胚胎化石蛋，揭開了其在二疊紀大滅絕中生存的生物學奧秘。",
+      "墨西哥瓜達拉哈拉動物園的一隻小猴子 Yuji 因母親拒哺，在飼養員提供的絨毛玩具陪伴下找到了安全感，溫馨畫面引起廣大關注。",
+      "美國波士頓馬拉松博覽會於今日在海因斯會議中心正式開幕，為這座歷史悠久的體育盛事與馬拉松週揭開序幕。",
+      "澳洲海洋研究船 RV Investigator 公布了在深海探測中發現的多種奇特新物種，其中包括長相神似萬壽菊的「金盞花蝴蝶魚」。",
+      "美國新墨西哥州的洛斯阿拉莫斯電影與文化節於今日開幕，展示來自芬蘭、伊朗、愛爾蘭等國的多元電影，促進全球文化交流。"
+    ],
+    "story": "船長正為下一次的出航做準備，他將指南針、舊地圖與剛捕獲的小魚整齊排列在佈滿苔蘚的防波堤上。儘管左眼的眼罩與破損的耳朵訴說著過去的風霜，但在這寧靜的清晨，他展現出了老派航海士特有的嚴謹與沉穩。",
+    "prompt": "Claymation style, sculpted clay anthropomorphic brown tabby cat 'Captain' with scruffy coarse fur texture and black stripes, stocky muscular build, large white chest bib and white mitten paws, prominent V-shaped notch in his left ear, a faded red bandana around his neck, a natural dark-pigmented fur patch covering his left eye socket with no straps, and a single piercing emerald green right eye. He is meticulously arranging a compass, old maps, and small clay fish in a Knolling photography layout on a moss-covered concrete breakwater. Flat lay overhead view with objects neatly organized at 90-degree angles in a grid. Soft Morandi muted color palette with desaturated pastels and dusty grey undertones. Volumetric lighting with visible god rays and dust particles. Visible fingerprint textures on the clay figures, stop-motion aesthetic. The date and time '2026-04-16 20:40 UTC' is etched clearly into the mossy surface.",
+    "title": "港口的秩序與詩意",
+    "character_name": "船長",
+    "comment_id": 4263315713
   }
 ]
