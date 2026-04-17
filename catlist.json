@@ -13370,5 +13370,13 @@
     "title": "月下鏡像的優雅",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-16_2331_UTC.webp",
     "number": 1476
+  },
+  {
+    "model": "all failed",
+    "number": null,
+    "url": null,
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "timestamp": "2026-04-17 01:23 UTC",
+    "status": "failed"
   }
 ]
