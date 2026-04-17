@@ -8020,5 +8020,42 @@
       "color_palette": "Duotone"
     },
     "prompt": "Fashion editorial photography of Momo, a sleek solid-black Bombay shorthair with satin-sheen fur, a single gold hoop earring on the left ear, a tiny white chest locket tuft, and a dark-grey ring at the tail tip. Momo has large golden-amber eyes and long white whiskers. In a miniature diorama of an Italian antique shop, Momo sits elegantly by a rusted espresso machine with oxidized patina and peeling paint. The cat reaches out a paw to touch a tiny detailed coffee cup. Tilt-shift effect, toy-like scale model. Captured with a 50mm lens, f/2.8, institutional flat overhead fluorescent lighting, 5000K neutral white. Duotone color treatment with bold graphic impact. The date and time '2026-04-17 08:20 UTC' is visually displayed in the corner of the frame."
+  },
+  {
+    "style_picks": {
+      "art_style": "Frosted Paper-Glass",
+      "composition": "Floating Island Scene",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Paper Texture",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "黏土動畫風格與指紋紋理",
+      "木刻版畫與粗糙木紋質感",
+      "魚眼鏡頭與桶形畸變",
+      "鏡子自拍構圖",
+      "等距視角 3D 渲染",
+      "視覺化日期時間戳記",
+      "倫勃朗式照明與高對比側光",
+      "粉色與青色霓虹配色",
+      "橘貓專注進行特定工藝",
+      "透明充氣或流體金屬材質",
+      "窄光束聚光燈與深色陰影落差",
+      "復古調色盤與底片顆粒"
+    ],
+    "number": 1481,
+    "comment_id": 4267089794,
+    "idea": "在一座懸浮於雲端的紙藝基隆港口，一隻優雅的白貓正穿著小背心，在霧面紙玻璃質感的攤位前，用肉球遞出彩色抵用券給穿著制服的郵輪水手。",
+    "prompt": "A minimalist paper-art illustration of a floating Keelung harbor island in the sky. An elegant white cat wearing a small vest stands at a translucent frosted glass-textured stall, handing a colorful voucher with its paw to a uniformed cruise sailor. The scene features a tactile paper surface with visible fiber grain and a watercolor paper feel. Soft cinematic lighting and diffused natural light illuminate the miniature landscape against a clean white background and dreamy clouds. Use a soft pastel color palette of mint, baby blue, and lavender. The date and time '2026-04-17 10:03 UTC' is visually displayed in the corner of the image. Aerial perspective, gentle tones, no harsh shadows.",
+    "news_inspiration": [
+      "德國柏林動物園為世界上圈養最長壽的金剛猩猩 Fatou 慶祝 69 歲生日。",
+      "台灣基隆市正式啟動「樂投基隆」計畫，提供現金抵用券邀請郵輪船員走進在地商圈體驗深度觀光。",
+      "英國英格蘭宣布一項自然保育計畫，打算將被譽為「鳥中之王」的金鵰重新引進當地的天空。",
+      "加拿大政府於多倫多宣布一項聯邦投資計畫，旨在吸引更多國際會議與大型活動，提振當地的旅遊與商業。",
+      "日本鳥取縣政府領先全國展開夏季「Cool Biz」節能運動，鼓勵職員換上輕便服裝以應對氣溫升高並節省能源。"
+    ],
+    "inspiration": "台灣基隆市正式啟動「樂投基隆」計畫，提供現金抵用券邀請郵輪船員走進在地商圈體驗深度觀光。",
+    "title": "雲港的樂投邀約",
+    "story": "這隻名為『基隆小管家』的貓咪，負責在浮空商圈指引遠道而來的船員。牠細心地將每一張充滿在地溫度的現金抵用券交到遊客手中，邀請大家一起體驗這座城市的海洋魅力。"
   }
 ]
