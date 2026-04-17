@@ -13492,5 +13492,14 @@
     "title": "花間蜂蝶守望者",
     "timestamp": "2026-04-17 19:50 UTC",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_2034_UTC.webp",
+    "inspiration": "古巴哈瓦那出現了一輛由公車改裝的「水下巴士」，成為該國燃料危機中一種奇特且受關注的交通工具景點。",
+    "timestamp": "2026-04-17 20:34 UTC",
+    "title": "潮汐間的返鄉巴士",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "status": "success",
+    "number": 1490
   }
 ]

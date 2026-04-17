@@ -8341,5 +8341,42 @@
       "南非一位六歲小男孩 Tlotlo Tsheka 成功出版了三本書，並在今日啟動一項旨在啟發同齡孩童閱讀與夢想的文學計畫。",
       "日本國會近期正式通過法律，允許離婚父母在今日起適用的新制中對子女擁有共同監護權，打破多年來的單獨監護傳統。"
     ]
+  },
+  {
+    "avoid_list": [
+      "微縮模型與立體島嶼場景",
+      "莫蘭迪色調與柔和灰調",
+      "黑光燈與螢光顏料效果",
+      "貓咪擔任特定職業或教官",
+      "紙質纖維與觸感紋理畫面",
+      "角落標記日期與時間戳記",
+      "鳥瞰或極低角度的戲劇性透視",
+      "金屬勺子或微型灑水壺等小道具",
+      "發光的胚胎化石或實驗試管",
+      "黃金時刻的背光與邊緣光",
+      "古生物或考古實驗室題材",
+      "高飽和度與鮮豔色彩的雙色調"
+    ],
+    "inspiration": "古巴哈瓦那出現了一輛由公車改裝的「水下巴士」，成為該國燃料危機中一種奇特且受關注的交通工具景點。",
+    "number": 1490,
+    "news_inspiration": [
+      "德國柏林動物園為全球最高齡的人養大猩猩 Fatou 慶祝 69 歲生日。",
+      "加拿大卑詩省阿加西茲鎮的哈里森鬱金香節正式開幕，邀請遊客觀賞全國最大規模的鬱金香花海。",
+      "美國紐約美國自然史博物館於 4 月 18 日舉辦地球節活動，科學家現場為民眾鑑定自帶的生物標本或文物。",
+      "南非一名六歲小作家 Tlotlo Tsheka 成功出版了三本書，並啟動識字計畫以激發其他兒童的閱讀與夢想。",
+      "古巴哈瓦那出現了一輛由公車改裝的「水下巴士」，成為該國燃料危機中一種奇特且受關注的交通工具景點。"
+    ],
+    "story": "在古巴的海岸邊，這隻貓正專注地調整巴士的螺旋槳，試圖讓這台奇特的交通工具在缺油的危機中，轉化為能夠在大海深處穿梭的神祕航行器。柔和的蝴蝶光灑在大理石質感的站台上，勾勒出貓咪與巴士之間靜謐而充滿希望的合作時光。",
+    "prompt": "A 3D isometric illustration with pencil sketch elements, featuring a cat patiently modifying a translucent underwater bus made from a vintage vehicle at a Cuban coastal bus stop. The cat is focused on adjusting a propeller. The scene uses graphite pencil hatching and cross-hatching combined with polished marble textures on the platform. Soft pastel colors of mint, lavender, and baby blue dominate the palette. Butterfly lighting creates a soft overhead key light and symmetrical shadows. The date and time '2026-04-17 20:34 UTC' is visually integrated into the scene. Clean geometric forms, visible pencil strokes, and a dreamy light tone.",
+    "comment_id": 4271108648,
+    "idea": "採用鉛筆素描結合等距3D插圖的透視感，描繪一隻貓在粉彩色系的大理石候車亭旁，耐心地改造一輛由舊巴士改裝而成的半透明水下巴士。",
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Butterfly Lighting",
+      "texture": "Marble",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "潮汐間的返鄉巴士"
   }
 ]
