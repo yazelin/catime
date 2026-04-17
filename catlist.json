@@ -13501,5 +13501,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "status": "success",
     "number": 1490
+  },
+  {
+    "title": "霓虹聖殿的角力爭霸",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_2132_UTC.webp",
+    "inspiration": "加拿大溫尼伯市今日舉辦一場盛大的綜合格鬥賽事（UFC），吸引眾多運動迷關注當地體育發展。",
+    "number": 1491,
+    "status": "success",
+    "timestamp": "2026-04-17 21:32 UTC",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

@@ -8378,5 +8378,42 @@
       "color_palette": "Pastel Colors"
     },
     "title": "潮汐間的返鄉巴士"
+  },
+  {
+    "title": "霓虹聖殿的角力爭霸",
+    "prompt": "A massive calico cat performing a Brazilian Jiu-Jitsu armbar on a concrete MMA ring, Renaissance painting style meets 3D isometric illustration. The cat exhibits bioluminescent fur with neon fluorescent glows in electric pink and hot cyan. Mastery of sfumato and chiaroscuro creates rich warm shadows against the raw, brutalist concrete texture of a Winnipeg underground arena. The date and time '2026-04-17 21:32 UTC' is clearly integrated into the scene. Classical composition, organic deep blue-green radiance, polished rendering with industrial minimalism, and sharp geometric forms.",
+    "news_inspiration": [
+      "德國柏林動物園為全球最高齡的人工飼養大猩猩法圖（Fatou）慶祝 69 歲生日。",
+      "台灣南投縣於今日舉辦「2026 南投客家大會」，結合桐花季與野餐音樂會推廣在地文化與觀光。",
+      "加拿大溫尼伯市今日舉辦一場盛大的綜合格鬥賽事（UFC），吸引眾多運動迷關注當地體育發展。",
+      "南非開普敦一位慢跑者完成了艱難的無限循環馬拉松挑戰，成功為當地弱勢兒童籌得手術經費。",
+      "加拿大多倫多自今日起舉辦「健康飲食與生活博覽會」，展示超過 200 個致力於健康與環保生活的品牌。"
+    ],
+    "idea": "這是一幅結合文藝復興畫風與等距3D空間的視覺饗宴，一隻巨大的三花貓在粗糙的混凝土格鬥擂台上，正認真地執行綜合格鬥的「十字固」技巧，全身散發著霓虹螢光色的生物發光氣息。",
+    "story": "在溫尼伯市的地下格鬥場中，這隻貓不僅是力量的象徵，更是藝術的體現。牠優雅的肢體動作如同達文西的草稿，卻在冷硬的工業質地中爆發出強烈的現代生命力。",
+    "avoid_list": [
+      "微縮模型與立體島嶼場景",
+      "莫蘭迪色調與柔和灰調",
+      "黑光燈與螢光顏料效果",
+      "貓咪擔任特定職業或教官",
+      "紙質纖維與觸感紋理畫面",
+      "角落標記日期與時間戳記",
+      "鳥瞰或極低角度的戲劇性透視",
+      "金屬勺子或微型灑水壺等小道具",
+      "發光的胚胎化石或實驗試管",
+      "黃金時刻的背光與邊緣光",
+      "古生物或考古實驗室題材",
+      "高飽和度與鮮豔色彩的雙色調"
+    ],
+    "inspiration": "加拿大溫尼伯市今日舉辦一場盛大的綜合格鬥賽事（UFC），吸引眾多運動迷關注當地體育發展。",
+    "style_picks": {
+      "art_style": "Renaissance",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Bioluminescence",
+      "texture": "Concrete",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 1491,
+    "comment_id": 4271441438
   }
 ]
