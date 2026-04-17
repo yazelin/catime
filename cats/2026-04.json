@@ -7944,5 +7944,42 @@
       "texture": "Inflatable PVC",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "prompt": "Abstract Expressionist painting of a cat with glossy carbon fiber weave textured fur, performing a rose-brewing dance in the center of Kelaat M'Gouna square. The cat is shown in an extreme low angle shot, looking up with a powerful, towering perspective as it vigorously stomps through waves of Damask rose petals. High-contrast gestural brushwork and spontaneous raw emotional intensity capture the movement. A narrow beam spotlight in warm amber cuts through a dark amber twilight, creating sharp light edges and deep darkness falloff. Large bold color fields of golden yellows and burnt orange dominate the palette. The text '2026-04-17 06:28 UTC' is visually displayed in the corner of the scene.",
+    "comment_id": 4265926900,
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Extreme Low Angle",
+      "lighting": "Spotlight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "琥珀城的玫瑰踏歌",
+    "news_inspiration": [
+      "美國 NASA 阿提米絲 2 號任務圓滿成功，太空人順利繞月飛行並傳回地球的高解析度壯麗影像。",
+      "英國政府宣布撥款支持「金鵰復育計畫」，讓這款消失超過 150 年的標誌性猛禽有望再次翱翔於英格蘭領空。",
+      "泰國各地正熱烈慶祝宋干節（潑水節），無數遊客與當地民眾走上街頭以傳統潑水儀式迎接泰國新年。",
+      "澳洲瓦加瓦加市的河濱博物館揭幕了一面具有百年歷史的「袋鼠長征」旗幟，透過文化遺產的展示向大眾分享歷史記憶。",
+      "摩洛哥著名的「玫瑰節」在凱拉姆貢納拉開序幕，整座城市沉浸在盛開大馬士革玫瑰的香氣與慶典舞蹈中。"
+    ],
+    "story": "金色的聚光燈劃破琥珀色的暮色，照亮了這場充滿動能的慶典。貓咪以極低角度的姿態躍動，每一次踩踏都讓大馬士革玫瑰的香氣隨著抽象的油彩筆觸在空中爆發。",
+    "number": 1479,
+    "idea": "在抽象表現主義風格下，一隻擁有碳纖維紋理毛皮的貓咪，在摩洛哥凱拉姆貢納的廣場中心，正熱烈地踩踏著如海浪般的玫瑰花瓣進行「玫瑰釀造」。",
+    "inspiration": "摩洛哥著名的「玫瑰節」在凱拉姆貢納拉開序幕，整座城市沉浸在盛開大馬士革玫瑰的香氣與慶典舞蹈中。",
+    "avoid_list": [
+      "移軸攝影微縮模型感",
+      "黑光紫外螢光",
+      "復古褪色質感色調",
+      "貓咪專注於精細操作",
+      "3D等距視角渲染",
+      "畫面角落顯示日期時間戳",
+      "黏土動畫指紋質感",
+      "冷色調藍青色分級",
+      "特定光影邊緣勾勒",
+      "物體整齊排列攝影佈局",
+      "印象派與衍紙藝術結合",
+      "傳統與未來科技感交織"
+    ]
   }
 ]

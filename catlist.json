@@ -13391,5 +13391,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_0440_UTC.webp",
     "inspiration": "original",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: no image data in response)"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "title": "琥珀城的玫瑰踏歌",
+    "number": 1479,
+    "inspiration": "摩洛哥著名的「玫瑰節」在凱拉姆貢納拉開序幕，整座城市沉浸在盛開大馬士革玫瑰的香氣與慶典舞蹈中。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_0628_UTC.webp",
+    "status": "success",
+    "timestamp": "2026-04-17 06:28 UTC"
   }
 ]
