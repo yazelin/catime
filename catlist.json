@@ -13474,5 +13474,14 @@
     "title": "月下遺緒的守望者",
     "inspiration": "在南非威特沃特斯蘭德大學的領銜下，科學家首次發現了哺乳動物祖先「水龍獸」的胚胎化石蛋，揭開了其在二疊紀大滅絕後生存的祕密。",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "title": "花城深處的玫瑰拾荒者",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_1841_UTC.webp",
+    "number": 1488,
+    "inspiration": "在摩洛哥馬拉喀什，年度玫瑰節於本週拉開序幕，當地街道充滿了季節限定的花香與充滿異國情調的文化表演。",
+    "timestamp": "2026-04-17 18:41 UTC",
+    "status": "success",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]
