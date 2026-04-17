@@ -7903,5 +7903,46 @@
     "story": "老舊閣樓透進清冷的月光，這隻自命不凡的貓咪在土褐色系的雜物堆中，試圖拍下自己最優雅的一面。雖然筆觸簡練，卻能從牠認真的眼神中感受到那份對時尚的偏執。",
     "number": 1476,
     "idea": "這是一幅採用鉛筆素描風格的鏡子自拍，捕捉一隻戴著絲綢領帶的橘貓在滿布灰塵的閣樓穿衣鏡前，笨拙地用爪子調整相機鏡頭。"
+  },
+  {
+    "number": 1478,
+    "character_name": "麻糬",
+    "avoid_list": [
+      "移軸攝影微縮模型感",
+      "黑光紫外螢光",
+      "復古褪色質感色調",
+      "貓咪專注於精細操作",
+      "3D等距視角渲染",
+      "畫面角落顯示日期時間戳",
+      "黏土動畫指紋質感",
+      "冷色調藍青色分級",
+      "特定光影邊緣勾勒",
+      "物體整齊排列攝影佈局",
+      "印象派與衍紙藝術結合",
+      "傳統與未來科技感交織"
+    ],
+    "season": "spring",
+    "is_seasonal": true,
+    "story": "老街市場的櫻花盛開，麻糬趁著巡邏空檔在樹下展開「試吃野餐」。牠對裝滿零食的透明充氣箱充滿執念，即使身型像顆撒了花生粉的巨大球狀麻糬，仍堅持要擠進去享受被美食包圍的慵懶時光。",
+    "character": "mochi",
+    "title": "花見時節的圓舞曲",
+    "prompt": "Woodcut print illustration of Mochi, a chubby shorthair cat with a white base and solid orange patches. Mochi has a specific orange mask on the right half of his face (viewer's right) while the left face is white, large round amber eyes, and a pink nose with a tiny orange dot. He wears a delicate pink flower crown for spring. Mochi is squeezed into a transparent inflatable PVC picnic box, creating a puffy rounded form with high-gloss balloon-like surface tension. Fisheye wide-angle lens composition with strong barrel distortion exaggerates his spherical torso and heart-shaped orange saddle on his back. Bold carved woodcut lines and rough wood grain texture contrast with high saturation vivid colors. Three-point lighting with soft shadows and a subtle rim light illuminates his orange-and-white ringed tail and orange right front mitten (left paw is white). The text '2026-04-17 04:40 UTC' is visually integrated into the woodcut design.",
+    "inspiration": "original",
+    "idea": "在春意盎然的木刻版畫風格中，肥嘟嘟的麻糬戴著粉嫩花環，正試圖鑽進一個充滿充氣 PVC 質感的透明野餐箱，魚眼鏡頭誇張地放大了牠圓滾滾的身軀與好奇的大眼。",
+    "news_inspiration": [
+      "美國休士頓於今日舉辦阿提米絲2號任務太空人記者會，四名太空人分享了打破阿波羅13號最遠載人飛行紀錄，並成功帶回月球背面壯麗影像的喜悅。",
+      "澳洲海洋科學家在北部沿岸深海發現了外型神似萬壽菊的新種蝴蝶魚，並將其命名為「Calendula」，這項研究成果為全球海洋生物資料庫增添了珍貴數據。",
+      "美國波士頓正緊鑼密鼓籌備即將到來的第130屆波士頓馬拉松，這座歷史悠久的城市將迎來數千名跑者與加油群眾，共同慶祝這項全球最具代表性的體育賽事。",
+      "菲律賓的巴恰塔舞迷於今日齊聚欣賞羅密歐·山托斯與羅西·普林斯的巡迴演出，這場音樂盛事展現了熱情的文化交流與拉丁音樂的全球影響力。",
+      "葡萄牙波爾圖今日迎來歐足總歐洲聯賽的強強對決，當地球迷在充滿熱情的氛圍中，見證了 FC Porto 與對手展開晉級世足賽預選關鍵時期的精彩較量。"
+    ],
+    "comment_id": 4265430297,
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Fisheye Lens",
+      "lighting": "Three-Point Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]

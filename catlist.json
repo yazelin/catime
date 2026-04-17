@@ -13378,5 +13378,18 @@
     "error": "Failed to generate any images - All models failed. Last error: ",
     "timestamp": "2026-04-17 01:23 UTC",
     "status": "failed"
+  },
+  {
+    "number": 1478,
+    "character_name": "麻糬",
+    "season": "spring",
+    "is_seasonal": true,
+    "status": "success",
+    "character": "mochi",
+    "timestamp": "2026-04-17 04:40 UTC",
+    "title": "花見時節的圓舞曲",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_0440_UTC.webp",
+    "inspiration": "original",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: no image data in response)"
   }
 ]
