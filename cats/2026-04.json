@@ -8094,5 +8094,36 @@
       "texture": "Carbon Fiber",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "number": 1483,
+    "comment_id": 4268177035,
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Marble",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "original",
+    "title": "幽光深海的調色巫師",
+    "idea": "這是一幅結合迷幻風格與超廣角透視的場景，一隻大理石紋路的小貓正在發光的深海珊瑚礁實驗室中，利用螢光試管調配色彩劑。",
+    "story": "在被黑光燈照亮的深海祕境裡，這隻貓科藥劑師正精準地跳過實驗桌。隨著試管液體濺出，高飽和的鮮豔色彩與大理石紋理在空間中交織流動，彷彿整個世界都在隨著化學反應起舞。",
+    "avoid_list": [
+      "黏土動畫風格與指紋紋理",
+      "木刻版畫與粗糙木紋質感",
+      "魚眼鏡頭與桶形畸變",
+      "鏡子自拍構圖",
+      "等距視角 3D 渲染",
+      "視覺化日期時間戳記",
+      "倫勃朗式照明與高對比側光",
+      "粉色與青色霓虹配色",
+      "橘貓專注進行特定工藝",
+      "透明充氣或流體金屬材質",
+      "窄光束聚光燈與深色陰影落差",
+      "復古調色盤與底片顆粒"
+    ],
+    "news_inspiration": [],
+    "prompt": "Psychedelic art illustration of a marble-textured kitten leaping across a glowing deep-sea coral reef laboratory. The cat is mixing fluorescent chemicals in glowing test tubes, causing vibrant clashing neon colors and swirling patterns to splash and melt into the environment. Ultra-wide angle 12-18mm lens perspective with dramatic distortion and an expansive field of view. Lighting is Blacklight UV illumination with ethereal ultraviolet luminescence and fluorescent pigments glowing against a dark background. High saturation vivid colors and bold energetic palette. The date and time '2026-04-17 12:53 UTC' is visually displayed in the corner of the scene."
   }
 ]
