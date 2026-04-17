@@ -13447,5 +13447,14 @@
     "status": "success",
     "number": 1484,
     "timestamp": "2026-04-17 14:15 UTC"
+  },
+  {
+    "title": "古島上的胚胎低語",
+    "inspiration": "在南非的維特大學，科學家首次發現了哺乳動物祖先「水龍獸」包含胚胎的蛋化石，揭開了兩億多年前物種生存的奧祕。",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_1548_UTC.webp",
+    "number": 1485,
+    "timestamp": "2026-04-17 15:48 UTC",
+    "status": "success"
   }
 ]
