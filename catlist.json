@@ -13438,5 +13438,14 @@
     "status": "success",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "number": 1483
+  },
+  {
+    "title": "金羽歸航的螢光序曲",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_1415_UTC.webp",
+    "inspiration": "英國英格蘭宣佈啟動金鵰復育計畫，這種指標性猛禽在消失超過 150 年後有望重新翱翔天際。",
+    "status": "success",
+    "number": 1484,
+    "timestamp": "2026-04-17 14:15 UTC"
   }
 ]
