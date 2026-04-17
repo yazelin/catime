@@ -13483,5 +13483,14 @@
     "timestamp": "2026-04-17 18:41 UTC",
     "status": "success",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
+  },
+  {
+    "inspiration": "蘇格蘭環保組織宣布在野化保育區取得重大突破，多種瀕危大黃蜂與蝴蝶的物種數量成功增加超過兩倍。",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-17_1950_UTC.webp",
+    "number": 1489,
+    "title": "花間蜂蝶守望者",
+    "timestamp": "2026-04-17 19:50 UTC",
+    "status": "success"
   }
 ]
