@@ -8452,5 +8452,44 @@
       "英國英格蘭政府宣布支持一項復育計畫，讓消失超過 150 年的「鳥中之王」金鵰有機會重新翱翔於英國領空。",
       "南非開普敦的一位跑者參加了挑戰極限的環圈耐力賽，透過不斷繞圈跑步的方式為需要手術的兒童籌集醫療基金。"
     ]
+  },
+  {
+    "idea": "這是一幅以「電影分鏡」風格呈現的超廣角畫面，大隻的虎斑貓船長正神情肅穆地走進一個巨大的 14 公尺長充氣研究船內部，在冷色調的藍青燈光與透明樹脂質感中，檢查著複雜的深海探測儀器。",
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "美國紐約：美國自然史博物館於今日舉辦「地球節」慶典，民眾可攜帶神秘標本讓科學家鑑定，並走進 14 公尺長的充氣研究船模型探索海洋科學。",
+      "加拿大薩里：全球規模最大的「錫克教光明節」大遊行於今日登場，預計吸引數十萬人參與這場充滿繽紛色彩與傳統美食的文化盛事。",
+      "美國伯班克：華納兄弟探索頻道與 DC 漫畫今日在全球慶祝「超人日」，並在洛杉磯、米蘭與福州設立快閃活動，致敬這位誕生於 1938 年的超級英雄。",
+      "南非開普敦：一名當地的跑步愛好者發起「無盡迴圈」耐力挑戰賽，透過每小時完成 6.7 公里的路程，為需要免費手術的兒童籌集善款。",
+      "法國巴黎：適逢春季假期首日，巴黎大皇宮今日盛大開幕年度文學盛事「巴黎書展」，吸引世界各地的愛書人與作家共襄盛舉。"
+    ],
+    "inspiration": "美國紐約：美國自然史博物館於今日舉辦「地球節」慶典，民眾可攜帶神秘標本讓科學家鑑定，並走進 14 公尺長的充氣研究船模型探索海洋科學。",
+    "avoid_list": [
+      "微縮模型與立體島嶼場景",
+      "莫蘭迪色調與柔和灰調",
+      "黑光燈與螢光顏料效果",
+      "貓咪擔任特定職業或教官",
+      "紙質纖維與觸感紋理畫面",
+      "角落標記日期與時間戳記",
+      "鳥瞰或極低角度的戲劇性透視",
+      "金屬勺子或微型灑水壺等小道具",
+      "發光的胚胎化石或實驗試管",
+      "黃金時刻的背光與邊緣光",
+      "古生物或考古實驗室題材",
+      "高飽和度與鮮豔色彩的雙色調"
+    ],
+    "comment_id": 4271940695,
+    "number": 1493,
+    "story": "船長聽聞港口邊出現了一艘龐然大物，便決定親自登船巡視。牠那結實的軀幹在倫勃朗光影下顯得格外威嚴，儘管面對尖端的海洋科學設備，牠依然保持著老練漁夫的沉穩，試圖從儀器螢幕中尋找大群魚蹤的線索。",
+    "character_name": "船長",
+    "character": "captain",
+    "title": "深藍艙室的領航者",
+    "prompt": "這是一幅以「電影分鏡」風格呈現的超廣角畫面，大隻的虎斑貓船長正神情肅穆地走進一個巨大的 14 公尺長充氣研究船內部，在冷色調的藍青燈光與透明樹脂質感中，檢查著複雜的深海探測儀器。. The date and time '2026-04-17 23:29 UTC' is visually displayed in the image. cinematic storyboard grid, film keyframes, sequential shots, dramatic camera angles, movie-quality composition, ultra wide angle 12-18mm lens, dramatic perspective distortion, expansive field of view, Rembrandt lighting, single light source at 45 degrees, signature triangle of light on shadowed cheek, dramatic chiaroscuro, translucent resin material, embedded elements visible inside, glossy smooth surface, amber-like clarity, cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm mood"
   }
 ]
