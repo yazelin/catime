@@ -13644,5 +13644,13 @@
     "model": "all failed",
     "status": "failed",
     "url": null
+  },
+  {
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "number": null,
+    "url": null,
+    "status": "failed",
+    "timestamp": "2026-04-18 16:26 UTC"
   }
 ]
