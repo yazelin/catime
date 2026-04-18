@@ -13583,5 +13583,14 @@
     "character": "momo",
     "title": "墨影齒輪間的春雨",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-18_0836_UTC.webp"
+  },
+  {
+    "title": "深海齒輪間的螢光復甦",
+    "timestamp": "2026-04-18 09:37 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-18_0937_UTC.webp",
+    "number": 1499,
+    "inspiration": "澳大利亞科學家在 RV Investigator 研究航次中，於北領地附近海域發現了一種色彩鮮豔、形似萬壽菊的新種蝴蝶魚（Calendula Butterflyfish）。",
+    "status": "success",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]
