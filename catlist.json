@@ -13652,5 +13652,13 @@
     "url": null,
     "status": "failed",
     "timestamp": "2026-04-18 16:26 UTC"
+  },
+  {
+    "timestamp": "2026-04-18 17:28 UTC",
+    "model": "all failed",
+    "number": null,
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "status": "failed",
+    "url": null
   }
 ]
