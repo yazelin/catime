@@ -8709,5 +8709,37 @@
       "貓咪執行擬人化專業職務",
       "多種藝術風格混搭如文藝復興結合現代"
     ]
+  },
+  {
+    "idea": "這是一幅結合衍紙藝術紋理與即棄相機質感的作品，描繪一隻貓在漂浮的復古理髮廳島嶼上為一位老紳士修剪鬍鬚。",
+    "number": 1500,
+    "news_inspiration": [],
+    "title": "雲巔理髮師的午後",
+    "avoid_list": [
+      "生物發光螢光色彩",
+      "蒸汽朋克齒輪儀器",
+      "垂直俯瞰鳥瞰視角",
+      "金屬拋光鏡面反射",
+      "貓咪進行精密修理工作",
+      "特定日期時間浮水印",
+      "等距3D結合插畫風格",
+      "黑白單色高對比影調",
+      "透明樹脂或半透明材質",
+      "霓虹與冷色調藍青光影",
+      "細節豐富的大理石質感",
+      "機械生物與仿生設計",
+      "蝴蝶光或三點打光設置"
+    ],
+    "prompt": "A cat standing on its hind legs precisely trimming the beard of an elderly gentleman with scissors, set within a vintage barbershop on a floating island miniature landscape levitating among white clouds. The entire scene is crafted in paper quilling art with intricate coiled paper strips and delicate curling loops creating a 3D dimensional texture. The visual style mimics a disposable camera photo with low-quality charm, flash artifacts, light leaks, and a casual snapshot feel. A narrow beam spotlight creates dramatic high-contrast and sharp light edges against deep darkness. The color palette features washed-out vintage tones and nostalgic film-era warmth. The date and time '2026-04-18 10:30 UTC' is visually displayed in the corner of the frame.",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Floating Island Scene",
+      "lighting": "Spotlight",
+      "texture": "Paper Quilling",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 4273453737,
+    "story": "在雲端盤旋的理髮小島上，貓大師正專注地揮舞剪刀，聚光燈穿透薄霧投射在細膩的捲紙紋理上。這裡沒有重力的束縛，只有復古褪色色調下流淌的悠閒時光與細碎毛髮。",
+    "inspiration": "original"
   }
 ]
