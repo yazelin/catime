@@ -13550,5 +13550,16 @@
     "character": "lingling",
     "title": "螢光幻境中的鈴鐺視界",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-04-18 06:06 UTC",
+    "character_name": "麻糬",
+    "status": "success",
+    "number": 1496,
+    "inspiration": "original",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-18_0606_UTC.webp",
+    "title": "橘影潛航瓦縫間"
   }
 ]

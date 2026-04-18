@@ -8567,5 +8567,38 @@
     "character": "lingling",
     "prompt": "A fluffy pure white longhair cat named Lingling, featuring sapphire-blue #0F52BA eyes and a pink #FF69B4 ribbon bow collar with a centered golden bell, taking a mirror selfie. She is touching her reflection on a polished carbon fiber weave surface with a pink paw pad. The composition is an illuminated manuscript style with ornate gold leaf borders and intricate neon calligraphy. Lighting is provided by a circular ring light reflected in her eyes, set against an interactive fluorescent science-themed wall. The image features neon electric pink, lime green, and hot cyan colors on a dark background. Visually displayed in the corner of the frame is the text '2026-04-18 04:22 UTC'. Intimate close-up perspective, medieval book art medium, rich jewel tones, and glossy modern industrial textures.",
     "title": "螢光幻境中的鈴鐺視界"
+  },
+  {
+    "avoid_list": [
+      "等距3D插圖風格",
+      "莫蘭迪色調與粉彩色系",
+      "日期時間視覺化顯示",
+      "水龍獸或古生物化石元素",
+      "對稱建築構圖與框架",
+      "巨大化貓咪守護或操作物體",
+      "拋光金屬與大理石質感",
+      "特定光影技術如倫勃朗光或蝴蝶光",
+      "微縮景觀與漂浮島嶼設定",
+      "亮面塑膠或透明樹脂材質",
+      "貓咪執行擬人化專業職務",
+      "多種藝術風格混搭如文藝復興結合現代"
+    ],
+    "news_inspiration": [],
+    "character_name": "麻糬",
+    "idea": "採用 IXUS 消費相機風格，從老街屋頂俯瞰，麻糬正靈活地在長滿青苔的紅磚瓦片間穿梭，試圖偷襲一盤放在窗台邊晾曬的高雄黑輪，整體呈現暖色調的黃金時刻光影。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Bird's-Eye View",
+      "lighting": "Golden Hour",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 1496,
+    "story": "夕陽將老街染成一片金黃，麻糬憑藉著圓滾滾卻意外靈活的身軀，在布滿厚實苔蘚的屋頂邊緣潛行。牠的目標是小吃攤老闆剛出鍋、正冒著熱氣的炸甜不辣，右前腳的橘色手套在光影下閃閃發亮。",
+    "prompt": "A candid point-and-shoot photography shot from a top-down perspective looking straight down onto a moss-covered red brick rooftop during golden hour. A chubby shorthair cat, Mochi, is agilely moving across the tiles; he has a spherical body, a white base coat, and a distinct orange mask covering only the right half of his face while the left side is pure white. He has large amber eyes, a heart-shaped orange saddle on his upper back, and a solid orange mitten on his right front paw with a pure white left front paw. He is reaching toward a plate of steaming Kaohsiung oden cooling on a wooden windowsill. The image features slightly overexposed highlights, long soft shadows, and a warm amber color grading. In the corner of the frame, the date and time '2026-04-18 06:06 UTC' is visually displayed in a digital camera timestamp font. 35mm lens, direct flash, casual candid aesthetic, film grain, no digital art effects.",
+    "character": "mochi",
+    "title": "橘影潛航瓦縫間",
+    "comment_id": 4272979550
   }
 ]
