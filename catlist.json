@@ -13628,5 +13628,13 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "title": "餘燼中的修面師",
     "number": 1503
+  },
+  {
+    "model": "all failed",
+    "url": null,
+    "number": null,
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "timestamp": "2026-04-18 14:33 UTC",
+    "status": "failed"
   }
 ]
