@@ -13570,5 +13570,18 @@
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-04-18 07:52 UTC",
     "status": "success"
+  },
+  {
+    "is_seasonal": true,
+    "status": "success",
+    "inspiration": "瑞典斯德哥爾摩於今晚舉辦「文化之夜」，各大博物館與藝文機構免費開放至深夜，讓市民盡情探索城市美學。",
+    "timestamp": "2026-04-18 08:36 UTC",
+    "number": 1498,
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "墨墨",
+    "season": "spring",
+    "character": "momo",
+    "title": "墨影齒輪間的春雨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-18_0836_UTC.webp"
   }
 ]
