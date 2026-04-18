@@ -8741,5 +8741,37 @@
     "comment_id": 4273453737,
     "story": "在雲端盤旋的理髮小島上，貓大師正專注地揮舞剪刀，聚光燈穿透薄霧投射在細膩的捲紙紋理上。這裡沒有重力的束縛，只有復古褪色色調下流淌的悠閒時光與細碎毛髮。",
     "inspiration": "original"
+  },
+  {
+    "story": "這是一幅結合工藝與動感的作品，橘貓穿梭在深秋的街道，每一次滑行都帶起琥珀色的落葉。絲線的紋理勾勒出滑板的木質感，與皮革背景交織出溫暖且懷舊的氛圍。",
+    "title": "琥珀滑行織夢",
+    "avoid_list": [
+      "生物發光螢光色彩",
+      "蒸汽朋克齒輪儀器",
+      "垂直俯瞰鳥瞰視角",
+      "金屬拋光鏡面反射",
+      "貓咪進行精密修理工作",
+      "特定日期時間浮水印",
+      "等距3D結合插畫風格",
+      "黑白單色高對比影調",
+      "透明樹脂或半透明材質",
+      "霓虹與冷色調藍青光影",
+      "細節豐富的大理石質感",
+      "機械生物與仿生設計",
+      "蝴蝶光或三點打光設置"
+    ],
+    "prompt": "Detailed embroidered illustration of an orange cat riding a skateboard in an isometric perspective, hand-stitched onto a base of genuine thick brown leather with rich grain and warm aged patina. The cat is rendered with visible needlework, satin stitch, and French knots to create texture. A narrow amber spotlight casts dramatic high-contrast lighting with sharp edges and deep darkness falloff. The scene features autumn colors of golden yellow and burnt orange, capturing a cozy nostalgic warmth. The date and time '2026-04-18 11:26 UTC' are visually embroidered into the leather surface. Handcrafted textile art aesthetic, artisanal craftsmanship, no miniature effect.",
+    "news_inspiration": [],
+    "idea": "在一塊厚實的棕色皮革底材上，以細膩的手工刺繡針法呈現一隻橘貓正踩著等距視角的滑板，在秋季琥珀色的聚光燈下靈巧滑行。",
+    "inspiration": "original",
+    "number": 1501,
+    "comment_id": 4273538610,
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Isometric Photography",
+      "lighting": "Spotlight",
+      "texture": "Leather",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
