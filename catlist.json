@@ -13795,5 +13795,14 @@
     "status": "failed",
     "url": null,
     "model": "all failed"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_1235_UTC.webp",
+    "status": "success",
+    "title": "金燦曠野的無盡捕捉",
+    "number": 1522,
+    "timestamp": "2026-04-19 12:35 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "流行巨星杜娃·黎波與未婚夫卡倫·透納現身南非克魯格國家公園，分享了一系列充滿野生動物與壯麗景觀的旅遊照，稱其為人生中最難忘的旅行。"
   }
 ]
