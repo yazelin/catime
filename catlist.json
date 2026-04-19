@@ -13734,5 +13734,14 @@
     "character": "captain",
     "title": "月下星辰與碼頭守望者",
     "character_name": "船長"
+  },
+  {
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "status": "success",
+    "timestamp": "2026-04-19 06:23 UTC",
+    "number": 1516,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_0623_UTC.webp",
+    "inspiration": "original",
+    "title": "點彩靛藍的指尖舞"
   }
 ]
