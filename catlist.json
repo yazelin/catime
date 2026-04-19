@@ -13787,5 +13787,13 @@
     "number": 1520,
     "model": "gemini-3-pro-image-preview",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_1030_UTC.webp"
+  },
+  {
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "number": null,
+    "timestamp": "2026-04-19 11:26 UTC",
+    "status": "failed",
+    "url": null,
+    "model": "all failed"
   }
 ]
