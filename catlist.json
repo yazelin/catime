@@ -13813,5 +13813,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "status": "success",
     "title": "銀色賽道上的瞬間"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_1433_UTC.webp",
+    "title": "紅土上的恆久遠征",
+    "timestamp": "2026-04-19 14:33 UTC",
+    "inspiration": "在南非開普敦，一名耐力賽跑者完成了一項艱鉅的「無盡循環」跑步挑戰，成功為需要進行免費手術的兒童籌集了善款。",
+    "number": 1524
   }
 ]
