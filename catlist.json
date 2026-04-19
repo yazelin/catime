@@ -13765,5 +13765,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_0856_UTC.webp",
     "character": "mochi",
     "status": "success"
+  },
+  {
+    "season": "spring",
+    "timestamp": "2026-04-19 09:39 UTC",
+    "title": "雨窗落櫻的青色凝望",
+    "number": 1519,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_0939_UTC.webp",
+    "inspiration": "original",
+    "character": "momo",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "character_name": "墨墨",
+    "is_seasonal": true
   }
 ]

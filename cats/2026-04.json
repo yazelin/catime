@@ -9234,5 +9234,40 @@
     "story": "午後的市場光影閃爍，貪吃的麻糬巡邏完魚攤後，發現了一個尺寸剛好的空水果盒。牠憑藉著「液體貓」的毅力，搖晃著渾圓的肚子硬是擠了進去，在漫射的自然光下，像極了一顆剛出爐、色澤鮮豔的巨大花生麻糬。",
     "character": "mochi",
     "idea": "在色彩斑斕的傳統市場攤位前，以印象派筆觸描繪圓滾滾的麻糬正努力鑽進一個印有鮮豔水果圖案的亮面塑膠盒，呈現正交投影的獨特視角。"
+  },
+  {
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4275623954,
+    "title": "雨窗落櫻的青色凝望",
+    "number": 1519,
+    "prompt": "Orthographic projection photography of Momo, a sleek solid-black shorthair Bombay-style cat with satin-sheen fur, staring at falling cherry blossoms through a rusted iron window frame of an old bookstore during a rainstorm. Momo features a single small gold hoop earring on the left ear, a tiny white locket tuft on the chest, a dark-grey ring at the tail tip, and large luminous golden-amber eyes. Cross processing print style with experimental color shifts, cold blue-teal color grading, and icy undertones. The scene is illuminated by cool moonlight and a gentle silvery glow. Texture of weathered metal, oxidized patina, and peeling paint on the window frame. Flat rendering, no perspective distortion, technical illustration style composition. The date and time '2026-04-19 09:39 UTC' is visually displayed in the corner of the frame. 35mm lens, f/8, film grain, high contrast, retro vintage color cast.",
+    "avoid_list": [
+      "低多邊形質感與幾何刻面",
+      "超廣角12mm透視扭曲",
+      "彩色石版印刷維多利亞風格",
+      "Knolling平鋪排列攝影",
+      "生物發光與霓虹螢光色彩",
+      "等距視角3D插圖",
+      "皮革底材與手工刺繡針法",
+      "貓咪進行鏡子自拍構圖",
+      "精密零件與高科技背心",
+      "漂浮的神祕發光蓮花",
+      "在特定日期時間的視覺植入",
+      "琥珀色聚光燈與黑色電影風格"
+    ],
+    "news_inspiration": [],
+    "is_seasonal": true,
+    "character": "momo",
+    "idea": "在雨天舊書店的窗台邊，利用交叉沖洗（Cross Processing）風格呈現墨墨凝視櫻花雨的冷青色調場景，結合正交投影構圖與生鏽鐵窗框的質感。",
+    "story": "雨滴拍打著舊書店斑駁的鐵窗，墨墨窩在厚重的古籍上，安靜地看著窗外紛落的櫻花。在清冷的月光與青藍色調交織下，牠那金琥珀色的雙眼映照出春季特有的憂鬱與優雅。",
+    "character_name": "墨墨",
+    "inspiration": "original"
   }
 ]
