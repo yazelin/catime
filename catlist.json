@@ -13754,5 +13754,16 @@
     "timestamp": "2026-04-19 07:59 UTC",
     "character_name": "鈴鈴",
     "title": "荒漠中的雲朵舞會"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "title": "果香盒裡的胖麻糬",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "number": 1518,
+    "timestamp": "2026-04-19 08:56 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-19_0856_UTC.webp",
+    "character": "mochi",
+    "status": "success"
   }
 ]
