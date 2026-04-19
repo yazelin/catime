@@ -13831,5 +13831,13 @@
     "timestamp": "2026-04-19 15:28 UTC",
     "inspiration": "在台灣台北市，大龍峒保安宮盛大舉辦「保生文化祭」，透過傳統的「放火獅」儀式與家姓戲演出，展現結合傳統美學與宗教信仰的在地文化。",
     "number": 1525
+  },
+  {
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "timestamp": "2026-04-19 16:27 UTC",
+    "model": "all failed",
+    "number": null,
+    "url": null
   }
 ]
