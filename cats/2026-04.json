@@ -9092,5 +9092,44 @@
       "手工藝材質紋理",
       "貓咪進行人類職業活動"
     ]
+  },
+  {
+    "idea": "在廢棄燈塔頂端，船長正低頭注視著腳下四顆整齊排列、如「四星連珠」般的發光海螺，這是一幅結合極低角度仰拍與空拍視角的月光粉彩構圖。",
+    "prompt": "A cinematic illustration blending an extreme low-angle shot with a drone aerial perspective at the top of an abandoned, moss-covered lighthouse. A stocky brown tabby cat captain with bold black stripes, a scruffy untidy coat, and a white chest bib is looking down at four glowing sea snails arranged in a straight line on the ground. The cat has a natural dark fur patch covering its left eye socket (no straps), a single piercing emerald green right eye, a V-shaped notch in its left ear, and a faded red bandana around its neck. Its white mitten paws rest on a rusted, mossy railing. The scene is illuminated by a silvery moonlight glow with a soft pastel color palette of lavender, mint, and baby blue. The date and time '2026-04-19 04:42 UTC' is visually displayed in the corner of the image. The style features organic overgrowth, a dreamy nighttime atmosphere, and a geometric composition from above.",
+    "number": 1515,
+    "character_name": "船長",
+    "story": "月光穿透雲層，將鏽蝕的燈塔染成溫柔的粉紫色。船長威風地守護著這組神祕的發光海螺，牠的白手套輕觸覆滿苔蘚的護欄，堅毅的翠綠右眼在黎明前的星象下閃爍著光芒。",
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Extreme Low Angle",
+      "lighting": "Moonlight",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "全球天文愛好者正熱切關注本週末在黎明前天空出現的四星連珠奇觀，水星、火星、土星與海王星將在多國夜空形成難得一見的行星排列。",
+    "character": "captain",
+    "title": "月下星辰與碼頭守望者",
+    "comment_id": 4275194780,
+    "news_inspiration": [
+      "全球天文愛好者正熱切關注本週末在黎明前天空出現的四星連珠奇觀，水星、火星、土星與海王星將在多國夜空形成難得一見的行星排列。",
+      "流行巨星 Dua Lipa 近日造訪南非克魯格國家公園，並在社群媒體分享她與野生動物近距離接觸的心靈震撼之旅。",
+      "聯合國教科文組織與聯合國旅遊局在法國巴黎簽署新協議，計畫共同推動包含「絲綢之路」在內的全球文化遺產永續旅遊航線。",
+      "中國多地迎來春季旅遊高峰，江蘇與北京等地風景區推出結合 AR 智慧眼鏡的科技賞花與文化研學活動，吸引大量遊客體驗。",
+      "蘇格蘭格拉斯哥大會正式發表 2026 年大英國協運動會志工制服，融合當地傳統蘇格蘭格紋與繽紛色彩，並將志工命名為「傳奇」。"
+    ],
+    "avoid_list": [
+      "低多邊形質感與幾何刻面",
+      "超廣角12mm透視扭曲",
+      "彩色石版印刷維多利亞風格",
+      "Knolling平鋪排列攝影",
+      "生物發光與霓虹螢光色彩",
+      "等距視角3D插圖",
+      "皮革底材與手工刺繡針法",
+      "貓咪進行鏡子自拍構圖",
+      "精密零件與高科技背心",
+      "漂浮的神祕發光蓮花",
+      "在特定日期時間的視覺植入",
+      "琥珀色聚光燈與黑色電影風格"
+    ]
   }
 ]
