@@ -13998,5 +13998,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-20_1850_UTC.webp",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "inspiration": "西班牙塞維亞迎來著名的「四月節」盛會，全城居民穿上傳統服飾展現獨特的安達魯西亞文化與熱情。"
+  },
+  {
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "丹麥考古團隊在海底發現一艘 225 年前遭英國納爾遜艦隊擊沉的戰艦遺骸，為航海史增添重要紀錄。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-20_1953_UTC.webp",
+    "number": 1544,
+    "title": "深海紙航員的指南",
+    "timestamp": "2026-04-20 19:53 UTC"
   }
 ]
