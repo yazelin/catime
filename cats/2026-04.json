@@ -9888,5 +9888,44 @@
     },
     "number": 1539,
     "prompt": "這是一幅手繪信息圖風格的創作，描繪麻糬在倫敦巴比肯展覽中，身穿縮小版經典豹紋裝穿梭於閃閃發光的金屬展櫃間，畫面邊緣點綴著復古褪色色調的配色條邊框。. The date and time '2026-04-20 13:03 UTC' is visually displayed in the image. hand-drawn infographic style, paper texture background, calligraphy brush strokes, warm rustic aesthetic, illustration framed by vertical color palette swatch bars on both sides, design moodboard aesthetic, stacked color blocks revealing the work's palette, portfolio presentation format, Korean illustrator signature layout, harsh direct on-camera flash, blown-out highlights, hard shadows, raw candid snapshot look, metallic surface, brushed or polished metal, sharp reflections, industrial premium feel, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth"
+  },
+  {
+    "style_picks": {
+      "art_style": "BJD Ball-Jointed Doll",
+      "composition": "Extreme Low Angle",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Marble",
+      "color_palette": "Duotone"
+    },
+    "idea": "以 BJD 擬真娃娃風格呈現，鈴鈴在佈滿大理石雕刻的半程馬拉松終點線前，好奇地與一台巨大的跑步機器人對視。",
+    "character_name": "鈴鈴",
+    "story": "鈴鈴好奇地闖入了北京半馬賽場，當她看到那台打破紀錄的人形機器人時，嚇得差點往後彈，脖子上的鈴鐺清亮作響。她伸出粉紅肉掌，試探性地想觸碰機器人的冰冷金屬腳踝，形成了一幅有機生命與精密科技對比的有趣畫面。",
+    "number": 1540,
+    "avoid_list": [
+      "對著鏡子進行鏡子自拍",
+      "使用前爪調整領結或配件",
+      "視覺化顯示日期與時間戳記",
+      "分割畫面與垂直切割線",
+      "利用強制透視技巧抓取遠方物體",
+      "微弱燭光與動態陰影的結合",
+      "復古褪色色調與洗舊膠片感",
+      "金箔裝飾與黑金奢華配色",
+      "體積光束穿透窗櫺的塵埃細節",
+      "中片幅攝影配上奶油般淺景深",
+      "精密電子零件的Knolling排列",
+      "手繪信息圖風格配色彩條邊框"
+    ],
+    "prompt": "以 BJD 擬真娃娃風格呈現，鈴鈴在佈滿大理石雕刻的半程馬拉松終點線前，好奇地與一台巨大的跑步機器人對視。. The date and time '2026-04-20 15:08 UTC' is visually displayed in the image. BJD ball-jointed doll photography, porcelain skin finish, intricate eye insert, realistic fabric wardrobe with lace and embroidery, studio soft light, collectible art doll aesthetic, subtle uncanny realism, extreme low angle shot, looking up at subject, dramatic towering perspective, powerful feel, soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones, polished marble texture, natural vein patterns, luxurious stone surface, cool smooth finish, classical elegance, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel",
+    "comment_id": 4282139369,
+    "character": "lingling",
+    "inspiration": "在中國北京舉行的半馬拉松比賽中，一台人形機器人打破了該項目的世界紀錄，展現了技術開發的重大突破。",
+    "title": "鋼鐵足跡與棉花糖",
+    "news_inspiration": [
+      "在中國北京舉行的半馬拉松比賽中，一台人形機器人打破了該項目的世界紀錄，展現了技術開發的重大突破。",
+      "英國倫敦的一場新展覽展出了辣妹合唱團（Spice Girls）三十年前的標誌性服飾，慶祝這支流行組合對樂壇的深遠影響。",
+      "日本九州大學的研究人員宣布一項太陽能技術突破，成功將太陽能板的捕獲效率提升至此前被認為不可能的 130%。",
+      "在墨西哥與拉美地區，各城市正在舉行盛大的聖週（Semana Santa）慶典，吸引全球遊客體驗豐富的宗教文化傳統。",
+      "南非開普敦的一位跑步愛好者完成了艱巨的後院超馬挑戰，透過不間斷的耐力跑為需要手術的兒童籌集善款。"
+    ]
   }
 ]
