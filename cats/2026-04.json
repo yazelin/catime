@@ -10038,5 +10038,43 @@
       "texture": "Origami",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "inspiration": "美國芝加哥的一名幸運兒僅花費 117 美元購買抽獎券，便驚喜贏得價值一百萬美元的畢卡索畫作。",
+    "title": "溫室裡的百萬自拍",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Shibori Textile",
+      "color_palette": "Pastel Colors"
+    },
+    "comment_id": 4284147524,
+    "idea": "一隻身穿粉嫩色調絞染和服的 3D Q 版橘貓，正拿著一支復古智慧型手機在滿布霧氣的溫室化妝鏡前進行自拍。",
+    "prompt": "3D chibi blind box character of an orange cat named Daifuku, smooth plastic toy texture, C4D rendering style. The cat is wearing a pastel-toned Shibori-style kimono with soft pink and lavender resist-dyed patterns. It is holding a vintage smartphone, taking a mirror selfie in front of a misty greenhouse vanity. A clear reflection is visible in the fogged mirror. The composition is an intimate close-up with casual framing. Soft studio lighting and volumetric light rays create a cinematic mood with dramatic shadows and high dynamic range. On the corner of the mirror, the date and time '2026-04-20 20:35 UTC' is clearly displayed. Dreamy light tones of mint and baby blue fill the background.",
+    "number": 1545,
+    "avoid_list": [
+      "液態金屬與流動質感",
+      "霓虹螢光配色",
+      "直打閃光燈與硬陰影",
+      "塞維亞四月節與弗拉明戈舞裙",
+      "摺紙藝術與幾何褶皺",
+      "2026年日期時間戳記",
+      "超廣角或極低角度透視",
+      "古老手抄本與絲綢畫卷背景",
+      "精密實驗零件與無人機",
+      "冷青色調與冰冷氛圍",
+      "多視角展示版面結構",
+      "金箔與高級珠寶色調",
+      "強制透視與爪子互動"
+    ],
+    "news_inspiration": [
+      "德國柏林動物園於今日為世界上人工圈養最長壽的大猩猩 Fatou 慶祝 69 歲生日。",
+      "墨西哥一隻名為 Yuji 的孤兒小猴子在絨毛玩偶的陪伴下找到了安全感，溫暖了許多讀者的心。",
+      "南非威特沃特斯蘭德大學的科學家宣布發現了首枚含有胚胎的水龍獸蛋化石，揭開了哺乳動物祖先的繁衍之謎。",
+      "紐西蘭一名登山客的愛犬在森林失蹤，經過熱心網友募款籌資，今日成功由直升機搜救平安歸來。",
+      "美國芝加哥的一名幸運兒僅花費 117 美元購買抽獎券，便驚喜贏得價值一百萬美元的畢卡索畫作。"
+    ],
+    "story": "這隻名叫「大福」的小貓在溫室一隅發現了被遺忘的昂貴畫作。比起這幅百萬美金的藝術品，牠更在乎自己今天穿上的絞染新衣是否在柔和的電影感打光下顯得更耀眼。"
   }
 ]
