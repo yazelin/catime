@@ -9785,5 +9785,38 @@
     "news_inspiration": [],
     "comment_id": 4277890951,
     "story": "即使在寒冷的青色冬夜，船長依然守護著碼頭。牠忘記了自己平時的霸氣，在那粗獷不修邊幅的外表下，藏著最柔軟的溫柔，在冷冽的雨中為弱小擋住所有風寒。這是一個充滿電影感打光的瞬間，展現了這位老船長最沉穩的義氣。"
+  },
+  {
+    "title": "指尖下的金色流年",
+    "comment_id": 4279607896,
+    "story": "在寒冷的冬日清晨，舊書店的窗戶結滿了細密的冰霜結晶。墨墨優雅地趴在最高層的皮裝書上，看準了老闆遺忘在遠處桌上的金錶，牠調皮地伸出爪子，在鏡頭下精巧地與遠方的金光重疊，彷彿指尖正操控著時間的流轉。",
+    "news_inspiration": [],
+    "number": 1537,
+    "inspiration": "original",
+    "character": "momo",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "生物發光與大地色系對比",
+      "摺紙質感橘貓",
+      "分割畫面與垂直切割線",
+      "鳥瞰視角撥弄引信或蠟燭",
+      "蝴蝶光照明搭配混凝土牆",
+      "衍紙工藝與粉彩色調",
+      "彩飾手抄本與金箔邊框",
+      "鏡子自拍與反射構圖",
+      "等距3D空間摺紙模型",
+      "魚眼鏡頭下的粗糙混凝土",
+      "爪子調整古老儀器或零件",
+      "透明樹脂與生物發光質感"
+    ],
+    "idea": "這是一張以手機隨拍風格捕捉的強烈對比照片，墨墨正從高處書架伸出前爪，利用強制透視技巧像是要抓取遠方桌上的金色古董懷錶，畫面充滿奢華的黑金色調與倫勃朗光影。",
+    "prompt": "A casual smartphone snapshot with forced perspective from a low angle. Momo, a slender solid-black Bombay-style shorthair with satin-sheen fur, a small gold hoop in her left ear, a tiny white chest locket, and a dark-grey ring at her tail tip, reaches a front paw from a high bookshelf toward the camera. Her paw appears to grasp a distant gold antique pocket watch on a table through forced perspective. Golden-amber eyes are focused. The scene features Rembrandt lighting with deep chiaroscuro, a black and gold color scheme, and delicate ice crystal frost on a window in the background. Shot on a mobile phone, f/1.8, slightly grainy, natural light, 35mm focal length. The text '2026-04-20 09:47 UTC' is clearly visible as a digital timestamp in the corner."
   }
 ]

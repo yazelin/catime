@@ -13930,5 +13930,16 @@
     "model": "all failed",
     "status": "failed",
     "error": "Failed to generate any images - All models failed. Last error: "
+  },
+  {
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-20_0947_UTC.webp",
+    "title": "指尖下的金色流年",
+    "number": 1537,
+    "inspiration": "original",
+    "status": "success",
+    "character": "momo",
+    "character_name": "墨墨",
+    "timestamp": "2026-04-20 09:47 UTC"
   }
 ]
