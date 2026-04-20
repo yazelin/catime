@@ -13950,5 +13950,16 @@
     "status": "success",
     "timestamp": "2026-04-20 11:10 UTC",
     "number": 1538
+  },
+  {
+    "title": "豹紋麻糬的英倫巡演",
+    "character_name": "麻糬",
+    "timestamp": "2026-04-20 13:03 UTC",
+    "inspiration": "在英國倫敦，巴比肯音樂圖書館舉辦了辣妹合唱團出道 30 週年紀念展，展出包括團員經典豹紋裝在內的標誌性服飾。",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-20_1303_UTC.webp",
+    "character": "mochi",
+    "number": 1539,
+    "status": "success"
   }
 ]
