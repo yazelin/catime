@@ -13972,5 +13972,13 @@
     "title": "鋼鐵足跡與棉花糖",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-20_1508_UTC.webp",
     "timestamp": "2026-04-20 15:08 UTC"
+  },
+  {
+    "model": "all failed",
+    "timestamp": "2026-04-20 16:53 UTC",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "number": null,
+    "url": null
   }
 ]
