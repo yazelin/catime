@@ -10526,5 +10526,46 @@
       "超現實主義拼貼與雙重曝光"
     ],
     "idea": "在賽博龐克風格的漁港老酒吧，船長正低頭研究一張絲綢材質的發光海圖，背景呈現出層層遞進、無限循環的德羅斯特效應，營造出手遊立繪般的視覺張力。"
+  },
+  {
+    "news_inspiration": [
+      "在中國北京，一款人形機器人在半馬比賽中成功完賽，其奔跑速度更打破了人類的世界紀錄，展現 AI 科技的驚人突破。",
+      "為慶祝世界地球日 56 週年，全球超過 190 個國家的民眾於今日同步參與環保活動，共同推動綠色轉型與環境復育。",
+      "英國政府今日起實施新的寵物旅行規定，放寬了寵物健康證書的效期，讓當地居民帶著毛孩前往歐盟旅遊變得更加便利。",
+      "南非開普敦一位六歲的小作家成功出版了三本童書並創立閱讀計畫，旨在激發更多兒童投入寫作與追逐夢想。",
+      "美國田納西州的一條公路上演了有趣的「蜂擁」奇景，多達一百萬隻蜜蜂意外佔據路面，引發當地一場獨特的交通奇觀。"
+    ],
+    "character_name": "鈴鈴",
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Miniature Diorama",
+      "lighting": "Cinematic Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "採用電影分鏡藝術風格，展現鈴鈴在微縮立體模型般的花店角落，正努力模仿人形機器人練習跑步的逗趣畫面。",
+    "number": 1560,
+    "prompt": "Cinematic storyboard grid of multiple film keyframes showing Lingling, an extremely fluffy pure white longhair cat with massive sapphire-blue eyes, a pink bow collar, and a golden bell. In a miniature diorama flower shop, she mimics a humanoid robot running with her short legs, accidentally bumping into pink hydrangeas. Soft Morandi color palette with dusty grey undertones and desaturated pastels. Dramatic camera angles, tilt-shift effect, and cinematic lighting with volumetric rays. Tactile natural wood grain textures. The text '2026-04-21 19:58 UTC' is visually displayed in the corner of the frames. High dynamic range, film-quality mood, and sequential shots showing falling petals on her cloud-like fur.",
+    "story": "看到新聞報導機器人破紀錄後，愛湊熱鬧的鈴鈴也在花店的小徑上奮力擺動短腿。她那蓬鬆如棉花糖的身軀因為跑得太認真，撞倒了一旁的粉色繡球花，灑落了一身淡雅的莫蘭迪色花瓣。",
+    "inspiration": "在中國北京，一款人形機器人在半馬比賽中成功完賽，其奔跑速度更打破了人類的世界紀錄，展現 AI 科技的驚人突破。",
+    "comment_id": 4291415692,
+    "character": "lingling",
+    "avoid_list": [
+      "復古褪色與懷舊影調",
+      "35mm底片攝影質感",
+      "日期與時間數字戳印",
+      "精緻皮革紋理與刻痕",
+      "對稱或分割畫面構圖",
+      "琥珀色與燒橙色調",
+      "環境光中的環形燈或霓虹點綴",
+      "貓咪穿戴機能外衣或配件",
+      "鳥瞰或極端俯衝視角",
+      "發光地圖或電子儀表",
+      "層次豐富的織物與纖維細節",
+      "單一光源形成的倫勃朗光影",
+      "重複遞進的視覺特效",
+      "融合機械與生物的特徵"
+    ],
+    "title": "棉花糖的馬拉松"
   }
 ]
