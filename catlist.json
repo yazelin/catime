@@ -14078,5 +14078,14 @@
     "url": null,
     "timestamp": "2026-04-21 08:26 UTC",
     "error": "Failed to generate any images - All models failed. Last error: "
+  },
+  {
+    "status": "success",
+    "title": "古舖藥香磨時光",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-21_1010_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "timestamp": "2026-04-21 10:10 UTC",
+    "number": 1553
   }
 ]

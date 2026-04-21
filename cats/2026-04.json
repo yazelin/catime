@@ -10300,5 +10300,38 @@
     "title": "金羽浮島的守望者",
     "story": "在漂浮於雲端的黃金生態島上，這隻擁有精巧摺紙外皮的機械貓正細心守護著瀕危的杓杓鳥雛鳥。島嶼籠罩在清冷的螢光燈下，黑色岩石與金色飾邊構成了一幅奢華的科幻自然景觀。",
     "comment_id": 4286383846
+  },
+  {
+    "inspiration": "original",
+    "title": "古舖藥香磨時光",
+    "idea": "一隻神情專注的貓咪正在充滿古味的藥材舖中，利用石磨研磨草藥，視覺上結合了米提拉畫的傳統線條與磨砂玻璃的朦朧質感。",
+    "story": "老藥舖的晨曦穿過磨砂窗戶，形成深邃的倫勃朗光影。橘貓藥師熟練地推動磨盤，細碎的藥粉在褪色調的幾何圖騰中翻滾，傳承著百年的療癒秘方。",
+    "news_inspiration": [],
+    "comment_id": 4287734973,
+    "prompt": "An illustration of a focused cat pharmacist using a stone mortar to grind herbs in an ancient apothecary, Madhubani painting style, intricate geometric and floral patterns, symmetrical composition, Indian folk art aesthetic. The scene is viewed through a frosted glass texture with a translucent matte surface and soft blurred shapes. Extreme low angle shot looking up at the cat for a dramatic towering perspective. Rembrandt lighting with a single light source at 45 degrees creating a signature triangle of light on the shadowed cheek and dramatic chiaroscuro. Retro faded color palette with washed-out vintage tones and nostalgic film-era warmth. The text '2026-04-21 10:10 UTC' is visually displayed in the corner of the image.",
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Extreme Low Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 1553,
+    "avoid_list": [
+      "直打閃光燈與硬陰影",
+      "配色條邊框裝飾",
+      "復古皮革沙發",
+      "液態金屬或流動材質",
+      "低多邊形結合油畫風格",
+      "環形燈圓形倒影",
+      "極低角度仰拍視角",
+      "粉嫩色調與溫室背景",
+      "生鏽航海指南針",
+      "手繪信息圖風格",
+      "充氣PVC質感",
+      "工筆畫搭配螢光色",
+      "復古拍立得濾鏡",
+      "維修生鏽工業齒輪"
+    ]
   }
 ]
