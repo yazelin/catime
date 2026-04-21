@@ -14098,5 +14098,13 @@
     "character_name": "墨墨",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-21_1152_UTC.webp",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "timestamp": "2026-04-21 12:57 UTC",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "number": null,
+    "url": null,
+    "model": "all failed"
   }
 ]
