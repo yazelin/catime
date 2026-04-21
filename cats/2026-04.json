@@ -10680,5 +10680,44 @@
     "story": "為了響應世界地球日，老街市場舉行了減塑行動。貪吃的麻糬以為發光的回收箱裡藏著美味罐頭，不顧肥嫩的肚子會卡住，硬是表演了一場「麻糬塞罐頭」的特技，讓路過的攤販老闆們全笑翻了。",
     "idea": "等距3D插圖風格的鉛筆素描，描繪麻糬在充滿螢光苔蘚的老街小吃攤，正努力將圓滾滾的身軀擠進一個發出藍青色幽光的環保回收箱。",
     "number": 1563
+  },
+  {
+    "idea": "以時尚設計草圖風格呈現，一隻擁有大理石紋理的貓咪在火星古代海洋遺留的「浴缸環」地質構造上，專注地進行考古挖掘。",
+    "inspiration": "美國太空總署（NASA）的毅力號火星車在火星發現了疑似古代海洋留下的「浴缸環」地質構造，為這顆紅色星球曾擁有海洋的理論提供了新證據。",
+    "avoid_list": [
+      "復古褪色與懷舊影調",
+      "35mm底片攝影質感",
+      "日期與時間數字戳印",
+      "精緻皮革紋理與刻痕",
+      "對稱或分割畫面構圖",
+      "琥珀色與燒橙色調",
+      "環境光中的環形燈或霓虹點綴",
+      "貓咪穿戴機能外衣或配件",
+      "鳥瞰或極端俯衝視角",
+      "發光地圖或電子儀表",
+      "層次豐富的織物與纖維細節",
+      "單一光源形成的倫勃朗光影",
+      "重複遞進的視覺特效",
+      "融合機械與生物的特徵"
+    ],
+    "prompt": "Fashion croquis sketch style illustration of an elongated marble-textured cat acting as an archaeologist, digging into Martian sedimentary 'bathtub ring' rock formations. The composition is a vertical poster with a side calligraphy panel and ornamental borders, featuring '2026-04-21 23:26 UTC' visually integrated into the design. Artistic medium includes loose pencil and marker lines, vibrant color swatches, and sketchy strokes typical of a designer's sketchbook. The central cat has a polished marble texture with natural vein patterns. Lighting is cinematic with volumetric rays and dramatic shadows, contrasting neon fluorescent electric pink, lime green, and hot cyan against a dark, moody background. Red seal accents and East Asian movie poster framing elements complete the high-concept sci-fi aesthetic.",
+    "style_picks": {
+      "art_style": "Fashion Croquis Sketch",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Cinematic Lighting",
+      "texture": "Marble",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "紅星荒海的拓荒者",
+    "story": "這隻優雅的貓科考古學家穿梭於霓虹螢光的火星地景中，正試圖從沉積岩中撥開時光的塵埃。隨著畫筆落下，古老海洋的秘密在如書法海報般的直式構圖中躍然紙上，展現出科幻與藝術交織的張力。",
+    "news_inspiration": [
+      "在美國亞利桑那州的沙漠中，科學家發現了一種「清潔蟻」，牠們會專門為體型較大的螞蟻進行修飾與清潔，展現出獨特的共生行為。",
+      "墨西哥城的霍奇米爾科透過農民與政府的合作，成功修復了40多座人工浮島農場，並致力於保護瀕危的奇蹟生物「墨西哥鈍口螈」。",
+      "義大利米蘭推行的「食物浪費中心」模式成效顯著，每年成功回收超過26萬份餐點，並計劃在2030年前將全市的食物浪費減半。",
+      "澳洲的研究團隊在深海觀測中發現，原本被認為是「世界最老章魚」的生物，經過DNA鑑定後確認其實屬於另一個全新的物種。",
+      "美國太空總署（NASA）的毅力號火星車在火星發現了疑似古代海洋留下的「浴缸環」地質構造，為這顆紅色星球曾擁有海洋的理論提供了新證據。"
+    ],
+    "number": 1564,
+    "comment_id": 4292537320
   }
 ]
