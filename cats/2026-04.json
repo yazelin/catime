@@ -10374,5 +10374,44 @@
       "texture": "Velvet",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "title": "織影裡的相對論",
+    "idea": "一張以 35mm 底片攝影風格拍攝的鏡子自 selfie，貓咪身穿琥珀色針織毛衣，正站在掛滿秋季織品的更衣室鏡子前，專注地用爪子調整一條愛因斯坦頭像圖案的絲巾。",
+    "prompt": "35mm film photography mirror selfie of a ginger cat wearing a warm amber knit sweater, standing in a dressing room filled with autumn textiles. The cat is using its paws to adjust a silk scarf featuring an Albert Einstein portrait. Visible grain, nostalgic feel, slight vignette, casual framing with visible reflection. Intimate close-up perspective, high-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows. Luminous clean atmosphere, woven fabric texture with visible threads. Warm amber color grading, golden yellows, burnt orange. The date and time '2026-04-21 14:45 UTC' is printed in the bottom corner of the frame.",
+    "avoid_list": [
+      "長卷全景構圖",
+      "生鏽與鐵鏽質感",
+      "復古褪色與電影感色調",
+      "對稱性構圖與中心主體",
+      "摺紙與幾何褶皺紋理",
+      "溫室與透明室內環境",
+      "黃金時刻與倫勃朗光影",
+      "日期與時間戳記浮水印",
+      "精準修補或研磨的手部動作",
+      "結合科技與生物的仿生細節",
+      "鳥瞰視角與傾斜觀察角",
+      "粉色系與薄荷綠的馬卡龍色調",
+      "充氣PVC或陶瓷塑膠材質",
+      "超現實主義拼貼與雙重曝光"
+    ],
+    "number": 1556,
+    "inspiration": "美國科學家在《科學日報》發表突破性研究，成功利用光在晶體上雕刻出愛因斯坦頭像，為未來精細光學技術開闢新路徑。",
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4289515388,
+    "story": "這隻對時尚有著極致追求的橘貓，正為了參加一場向科學致敬的地下派對做準備。牠在暖色調的試衣間裡，透過光線折射觀察絲巾上細緻的圖案雕刻，彷彿在確認每根纖維的質感是否完美。",
+    "news_inspiration": [
+      "在義大利米蘭設計週，賓利家居發表了融合奢華工藝與永續材質的全新系列，展示未來居家生活的設計美學。",
+      "美國科學家在《科學日報》發表突破性研究，成功利用光在晶體上雕刻出愛因斯坦頭像，為未來精細光學技術開闢新路徑。",
+      "香港流行文化節在文化中心露天廣場舉行「想像界」音樂嘉年華，將本土電影與奇幻時尚結合，免費與民眾分享創意活力。",
+      "在美國亞利桑那州沙漠，研究人員觀測到一種罕見的「清潔蟻」行為，這類小型螞蟻會主動為巨型螞蟻清理身體以維持群落健康。",
+      "泰國普吉島正積極籌備全球永續旅遊大會，將展示清邁有機農場與浮動生態旅館等結合社區賦權的綠色旅遊新模式。"
+    ]
   }
 ]
