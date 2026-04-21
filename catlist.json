@@ -14070,5 +14070,13 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-21_0628_UTC.webp",
     "title": "金羽浮島的守望者",
     "status": "success"
+  },
+  {
+    "model": "all failed",
+    "number": null,
+    "status": "failed",
+    "url": null,
+    "timestamp": "2026-04-21 08:26 UTC",
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
