@@ -10446,5 +10446,44 @@
     },
     "idea": "在一幅結合合成波美學與平面排列攝影的黑白影像中，一隻身穿精緻皮革背心的黑貓正專注地拆解並排列滑板零件。",
     "comment_id": 4290042156
+  },
+  {
+    "title": "跨界的奔跑者",
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "南非的一場知名馬拉松賽事中，傳出有數名男性參賽者試圖混入女子組賽道競爭而引發外界關注。",
+    "prompt": "A vintage poster art illustration in a duotone color treatment, featuring a multi-view product showcase layout. The central subject is a tabby cat sprinting in a marathon on a South African track, wearing a translucent resin technical jacket. The composition is arranged in panels showing a front view, side view, and detail close-up, resembling a fashion design lookbook. Bold typography displays the date '2026-04-21 17:50 UTC' integrated into the mid-century modern design. Dramatic rim lighting creates glowing silhouette edges around the cat as it runs among the women's lead group. The style uses a retro color palette with bold graphic impact, clean studio-style labeling for the views, and highlights the glossy, amber-like clarity of the resin material.",
+    "comment_id": 4290684548,
+    "news_inspiration": [
+      "在德國柏林動物園，世界上圈養年齡最長的銀背大猩猩 Fatou 歡度牠的 69 歲生日。",
+      "美國紐約的美國自然歷史博物館舉辦了全齡參與的「地球節」活動，透過科學益智問答與標本辨識迎接 4 月 22 日世界地球日。",
+      "墨西哥的一隻幼年猿猴 Yuji 在保護中心內，因為從一隻毛絨玩具同伴身上找到慰藉而成為網路熱門話題。",
+      "南非的一場知名馬拉松賽事中，傳出有數名男性參賽者試圖混入女子組賽道競爭而引發外界關注。",
+      "澳洲科學家與天文團隊發表最新研究，指出天王星與海王星內部可能存在某種奇特的全新物質狀態。"
+    ],
+    "number": 1558,
+    "avoid_list": [
+      "長卷全景構圖",
+      "生鏽與鐵鏽質感",
+      "復古褪色與電影感色調",
+      "對稱性構圖與中心主體",
+      "摺紙與幾何褶皺紋理",
+      "溫室與透明室內環境",
+      "黃金時刻與倫勃朗光影",
+      "日期與時間戳記浮水印",
+      "精準修補或研磨的手部動作",
+      "結合科技與生物的仿生細節",
+      "鳥瞰視角與傾斜觀察角",
+      "粉色系與薄荷綠的馬卡龍色調",
+      "充氣PVC或陶瓷塑膠材質",
+      "超現實主義拼貼與雙重曝光"
+    ],
+    "idea": "這是一幅以復古海報風格呈現的雙色調作品，採用服裝多視角展示構圖，描繪一隻穿著透明樹脂機能外衣的貓咪在南非馬拉松賽道上，試圖混入女子組領跑群中奮力衝刺，周圍環繞著強烈的輪廓光。",
+    "story": "在開普敦的蔚藍賽道上，這隻擁有頂級運動天賦的虎斑貓決定挑戰規則。牠穿上特製的透明雨衣，在多個分鏡視角中展現出優美的跑姿與矯捷的身影，成為賽場上最令人側目的異類參賽者。"
   }
 ]
