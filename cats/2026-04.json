@@ -10639,5 +10639,46 @@
     "comment_id": 4291981166,
     "number": 1562,
     "news_inspiration": []
+  },
+  {
+    "avoid_list": [
+      "復古褪色與懷舊影調",
+      "35mm底片攝影質感",
+      "日期與時間數字戳印",
+      "精緻皮革紋理與刻痕",
+      "對稱或分割畫面構圖",
+      "琥珀色與燒橙色調",
+      "環境光中的環形燈或霓虹點綴",
+      "貓咪穿戴機能外衣或配件",
+      "鳥瞰或極端俯衝視角",
+      "發光地圖或電子儀表",
+      "層次豐富的織物與纖維細節",
+      "單一光源形成的倫勃朗光影",
+      "重複遞進的視覺特效",
+      "融合機械與生物的特徵"
+    ],
+    "news_inspiration": [
+      "聯合國將 4 月 22 日訂為世界地球日，預計全球 190 多個國家將有超過十億人參與各種環保行動以保護地球環境。",
+      "香港葵青貨櫃碼頭首批 AI 無人駕駛卡車正式投入運營，旨在緩解港口勞動力短缺並提升貨物裝卸效率。",
+      "斯里蘭卡旅遊局在倫敦舉辦的 2026 全球媒體大獎中榮獲最高榮譽，其旅遊紀錄片成功向世界展示當地文化魅力。",
+      "印度博帕爾（Bhopal）推廣其鮮為人知的野生動物秘境，吸引遊客在夏季前往距離市區僅一小時路程的自然保護區避暑。",
+      "美國紐約美國自然史博物館在今日舉行春季研討會，由科學家與原住民領袖共同探討北極社區如何應對氣候變遷並建立韌性。"
+    ],
+    "character": "mochi",
+    "prompt": "3D isometric illustration, pencil sketch on paper using graphite hatching and cross-hatching with visible strokes. A chubby, spherical shorthair cat named Mochi, featuring a white base with solid orange patches: a mask covering only the right half-face (viewer perspective) while the left face is white, a heart-shaped orange saddle on the upper back, an orange mitten on the right front paw, and a pure white left front paw. Mochi has amber eyes and a pink nose with a tiny dot. He is humorously wedging his round body into a glowing blue-teal recycling bin at an old street food stall covered in vibrant fluorescent moss. The scene features Blacklight UV illumination with neon pigments glowing against a dark background, creating an ethereal ultraviolet luminescence. The timestamp '2026-04-21 22:30 UTC' is visually integrated into the lower corner of the image.",
+    "comment_id": 4292287159,
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "幽光裡的綠色守候",
+    "inspiration": "聯合國將 4 月 22 日訂為世界地球日，預計全球 190 多個國家將有超過十億人參與各種環保行動以保護地球環境。",
+    "character_name": "麻糬",
+    "story": "為了響應世界地球日，老街市場舉行了減塑行動。貪吃的麻糬以為發光的回收箱裡藏著美味罐頭，不顧肥嫩的肚子會卡住，硬是表演了一場「麻糬塞罐頭」的特技，讓路過的攤販老闆們全笑翻了。",
+    "idea": "等距3D插圖風格的鉛筆素描，描繪麻糬在充滿螢光苔蘚的老街小吃攤，正努力將圓滾滾的身軀擠進一個發出藍青色幽光的環保回收箱。",
+    "number": 1563
   }
 ]
