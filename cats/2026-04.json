@@ -10485,5 +10485,46 @@
     ],
     "idea": "這是一幅以復古海報風格呈現的雙色調作品，採用服裝多視角展示構圖，描繪一隻穿著透明樹脂機能外衣的貓咪在南非馬拉松賽道上，試圖混入女子組領跑群中奮力衝刺，周圍環繞著強烈的輪廓光。",
     "story": "在開普敦的蔚藍賽道上，這隻擁有頂級運動天賦的虎斑貓決定挑戰規則。牠穿上特製的透明雨衣，在多個分鏡視角中展現出優美的跑姿與矯捷的身影，成為賽場上最令人側目的異類參賽者。"
+  },
+  {
+    "number": 1559,
+    "title": "翠綠之眼的迴響",
+    "story": "儘管只有一隻眼，船長仍憑藉驚人的毅力帶領部下克服殘疾。在霓虹螢光交織的碼頭角落，牠正佈署著巡邏戰術，那條褪色的紅頭巾在冷色調的日光燈下格外顯眼。",
+    "character": "captain",
+    "inspiration": "紐西蘭基督城的柳岸野生動物保護區研究發現，一隻失去上喙的啄羊鸚鵡透過獨創的「喙部格鬥」技術，成功克服殘疾並成為群體中的領袖。",
+    "news_inspiration": [
+      "美國紐約市的時報廣場於今日舉行第 18 屆「世界和平地球日」慶祝活動，透過音樂與舞蹈表演倡導環境保護與全球團結。",
+      "紐西蘭基督城的柳岸野生動物保護區研究發現，一隻失去上喙的啄羊鸚鵡透過獨創的「喙部格鬥」技術，成功克服殘疾並成為群體中的領袖。",
+      "加拿大卡加利動物園宣布將於今年夏天迎來稀有的四川扭角羚，這項國際合作計畫旨在提升大眾對這種長相奇特且珍稀的山區動物的保護意識。",
+      "台灣桃園市即將舉辦「龍岡米干節」，結合源自滇緬邊境的特色美食與文化表演，展現當地的「金三角」移民歷史與獨特風情。",
+      "南非普利托利亞於今日召開高階工作坊，邀集南共體成員國官員共同研擬區域發展戰略，致力於促進南非與周邊國家的經濟整合。"
+    ],
+    "comment_id": 4291063374,
+    "prompt": "A gacha game promotional character illustration of a large stocky brown classic tabby cat captain with bold black stripes and a scruffy, coarse fur texture. The cat has a permanent dark-pigmented fur patch covering its left eye socket with no straps, and a single piercing emerald green right eye. A prominent V-shaped notch is in its left ear, and a faded red bandana is tied loosely around its neck. The cat has a white chest bib and white mitten paws. The cat is leaning over a luminous, glowing silk sea map on a wooden table in a cyberpunk fishing port bar. The background features a recursive Droste effect of the scene repeating infinitely into the distance. Polished anime style with vibrant saturated colors, smooth cel shading, and dynamic expressive pose. Lighting is neutral 5000K overhead fluorescent with no shadows. Glowing neon fluorescent pink and cyan accents contrast against the dark bar. The date and time '2026-04-21 18:55 UTC' is clearly displayed in a digital font within the frame.",
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Gacha Game Character Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Silk",
+      "color_palette": "Neon Fluorescent"
+    },
+    "avoid_list": [
+      "長卷全景構圖",
+      "生鏽與鐵鏽質感",
+      "復古褪色與電影感色調",
+      "對稱性構圖與中心主體",
+      "摺紙與幾何褶皺紋理",
+      "溫室與透明室內環境",
+      "黃金時刻與倫勃朗光影",
+      "日期與時間戳記浮水印",
+      "精準修補或研磨的手部動作",
+      "結合科技與生物的仿生細節",
+      "鳥瞰視角與傾斜觀察角",
+      "粉色系與薄荷綠的馬卡龍色調",
+      "充氣PVC或陶瓷塑膠材質",
+      "超現實主義拼貼與雙重曝光"
+    ],
+    "idea": "在賽博龐克風格的漁港老酒吧，船長正低頭研究一張絲綢材質的發光海圖，背景呈現出層層遞進、無限循環的德羅斯特效應，營造出手遊立繪般的視覺張力。"
   }
 ]
