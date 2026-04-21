@@ -10261,5 +10261,44 @@
     "inspiration": "台灣花蓮的鯉魚潭螢火蟲季正值高峰，吸引大量遊客前來體驗大自然夜間的閃爍美景。",
     "prompt": "Baroque art style illustration of a plump cat with a sculpted clay texture and matte ceramic surface, standing by Liyue Lake. The cat is elegantly catching shimmering green fireflies with its paws in a perfectly symmetrical composition. Dramatic chiaroscuro lighting with deep shadows and golden highlights under a cool blue moonlight glow. The scene features exuberant grandeur and rich ornate details with a retro faded color palette and washed-out vintage tones. Centered subject with mirror-like balance and architectural framing. The date and time '2026-04-21 04:40 UTC' is visually displayed in the corner of the image.",
     "idea": "一隻具備陶瓷黏土質感的肥貓在鯉魚潭邊，正以對稱構圖在月光下優雅地捕捉閃爍的螢火蟲，呈現巴洛克式的華麗與動感。"
+  },
+  {
+    "avoid_list": [
+      "直打閃光燈與硬陰影",
+      "配色條邊框裝飾",
+      "復古皮革沙發",
+      "液態金屬或流動材質",
+      "低多邊形結合油畫風格",
+      "環形燈圓形倒影",
+      "極低角度仰拍視角",
+      "粉嫩色調與溫室背景",
+      "生鏽航海指南針",
+      "手繪信息圖風格",
+      "充氣PVC質感",
+      "工筆畫搭配螢光色",
+      "復古拍立得濾鏡",
+      "維修生鏽工業齒輪"
+    ],
+    "news_inspiration": [
+      "愛爾蘭政府於 4 月 21 日世界麻杓杓日宣布一項重大生態突破，成功讓首隻人工復育的瀕危大杓杓回歸自然並開始繁殖。",
+      "中國北京的國際車展上，汽車零部件供應商宣布其電子機械煞車（EMB）技術正式進入量產階段，大幅提升城市通勤與狹窄空間停車的駕駛體驗。",
+      "新加坡於 4 月 21 日舉辦 NRF 亞太零售展，吸引超過 80 國的零售領袖探討 AI 技術如何改變未來的購物與旅遊服務。",
+      "在美國費城，市政府通過新法案要求雇主為員工提供經期與更年期相關的職場便利措施，成為提升勞工福祉的新典範。",
+      "德國拜仁慕尼黑足球隊在慶祝奪冠活動中，一個精緻的瓷製大葵花鳳頭鸚鵡意外成為眾人矚目的焦點，為體育盛事增添文化趣味。"
+    ],
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Floating Island Scene",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Origami",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "一隻由摺紙紋理構成的體素大杓杓貓，在金色與黑色的浮空島嶼上，利用精密機械技術進行人工復育的生態觀測，展現體素藝術與摺紙工藝的融合。",
+    "prompt": "A voxel-art cat with an origami-textured outer skin, meticulously caring for endangered chicks on a floating ecosystem island. The island features black volcanic rock with luxurious metallic gold accents. Style blend of Minecraft-style pixelated cubes and sharp, clean geometric paper folds. Composition uses an aerial perspective on a levitating platform amidst white clouds. Lighting is 5000K overhead fluorescent, providing institutional flat illumination with no shadows. Color palette of deep black and opulent gold. High-precision mechanical equipment is integrated into the scene. The text '2026-04-21 06:28 UTC' is visually displayed in the image as a clean digital overlay.",
+    "number": 1551,
+    "inspiration": "愛爾蘭政府於 4 月 21 日世界麻杓杓日宣布一項重大生態突破，成功讓首隻人工復育的瀕危大杓杓回歸自然並開始繁殖。",
+    "title": "金羽浮島的守望者",
+    "story": "在漂浮於雲端的黃金生態島上，這隻擁有精巧摺紙外皮的機械貓正細心守護著瀕危的杓杓鳥雛鳥。島嶼籠罩在清冷的螢光燈下，黑色岩石與金色飾邊構成了一幅奢華的科幻自然景觀。",
+    "comment_id": 4286383846
   }
 ]
