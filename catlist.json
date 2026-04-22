@@ -14312,5 +14312,18 @@
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-04-22 21:41 UTC",
     "inspiration": "original"
+  },
+  {
+    "number": 1578,
+    "character": "mochi",
+    "status": "success",
+    "title": "花見時節的幻彩偶遇",
+    "timestamp": "2026-04-22 22:37 UTC",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_2237_UTC.webp",
+    "inspiration": "英國倫敦瑪麗女王大學的研究發現，部分汗蜂會隨空氣濕度改變體色，展現如「變色龍」般的奇特現象。",
+    "season": "spring",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "character_name": "麻糬"
   }
 ]
