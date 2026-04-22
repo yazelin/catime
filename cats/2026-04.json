@@ -11046,5 +11046,44 @@
     "prompt": "A surrealist illustration and multi-view fashion design sheet featuring a cat artisan repairing a massive wooden gear clock in an antique workshop. The central scene shows the cat weaving wood-grain fibers into a rhythmic pendulum, surrounded by Dali-inspired melting clock forms and uncanny juxtapositions. The composition uses a multi-view product showcase layout with panels showing the front, back, and side views of the cat's intricate wood-texture gown, including a detail close-up of the organic grain and visible knots. Lighting is a dramatic narrow beam spotlight with high-contrast sharp edges and deep darkness falloff. The color palette is rich earth tones: terracotta, olive green, and warm brown. The date '2026-04-22 18:56 UTC' is clearly etched into the wood of the large central gear.",
     "number": 1575,
     "story": "老工匠留下的懷錶裡藏著時間的碎屑，這隻貓裁縫正忙著將木紋纖維編織進鐘擺的律動中。在聚光燈的折射下，牠的服飾從不同角度展現出如年輪般深邃的生命質感。"
+  },
+  {
+    "number": 1576,
+    "comment_id": 4299540968,
+    "title": "碼頭餘暉的黑白凝視",
+    "prompt": "A raw candid snapshot of a large stocky brown tabby cat named Captain with bold black stripes and scruffy untidy fur. He has a natural dark-pigmented fur patch over his left eye (no straps) and a piercing emerald green right eye. He wears a faded red bandana and has white mitten paws and a white chest bib. A prominent V-notch is in his left ear. He is looking down at a bowl of fresh fish with a liquid metal mercury-like reflective flow texture. The scene is shot in a harbor bar in front of a stained glass window with bold black outlines and translucent jewel-toned segments. High-contrast black and white monochrome photography using a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground. Lighting is a harsh direct on-camera flash with blown-out highlights and hard shadows. The timestamp '2026-04-22 20:01 UTC' is etched into the bottom corner of the frame.",
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Fisheye Lens",
+      "lighting": "Direct Flash",
+      "texture": "Liquid Metal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "news_inspiration": [
+      "西班牙塞維亞正迎來盛大的「四月節」慶典，整座城市充滿了傳統弗拉明哥舞、馬車巡遊與色彩繽紛的帳篷慶祝活動。",
+      "科學家利用韋伯太空望遠鏡在系外行星 Epsilon Indi Ab 的大氣中發現了水冰雲，這是探索「第二個地球」過程中的重大科學突破。",
+      "澳洲伍魯努加（Murujuga）因其擁有超過百萬幅古老岩刻的獨特文化景觀，在世界遺產日前後再次受到全球文化保護者的關注。",
+      "美國費城展開了歷史悠久的賓夕法尼亞接力賽（Penn Relays），吸引了全球頂尖田徑選手在富蘭克林體育場同場競技。",
+      "義大利米蘭設計週（Milan Design Week）正式進入高潮，吸引了來自世界各地的設計師展示最前衛的家居與生活美學作品。"
+    ],
+    "idea": "在碼頭老酒吧的彩色玻璃窗前，船長正低頭凝視一碗在強烈閃光燈與液態金屬質感下顯得波光粼粼的鮮魚，背景透過魚眼鏡頭呈現誇張的黑白弧度。",
+    "inspiration": "original",
+    "character_name": "船長",
+    "story": "退休後的船長總愛坐在常去的港邊酒吧，這裡的彩色玻璃折射出冷硬的單色光輝。牠正準備享用今日的收穫，儘管那碗鮮魚讓牠暫時放下了碼頭老大的威嚴，但在魚眼鏡頭的扭曲下，船長的身影依舊顯得雄壯如昔。",
+    "avoid_list": [
+      "藍青色調與冷冽底色",
+      "磨砂玻璃質感與模糊形狀",
+      "強制透視且前爪伸向鏡頭",
+      "視覺整合的時間戳記",
+      "黑色背景搭配奢華金色裝飾",
+      "東亞電影海報構圖與書法面板",
+      "懸浮島嶼與微縮景觀",
+      "霓虹螢光與黑色背景對比",
+      "苔蘚覆蓋的場景細節",
+      "金屬光澤與金箔勾邊",
+      "環境光照射下的邊緣輪廓光",
+      "細膩的織物或紙質手工藝風格"
+    ],
+    "character": "captain"
   }
 ]
