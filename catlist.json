@@ -14266,5 +14266,13 @@
     "number": 1572,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_1445_UTC.webp",
     "inspiration": "西班牙塞維亞迎來年度盛事「四月節」（Feria de Abril），整座城市充滿了傳統弗朗明哥舞蹈、五彩繽紛的帳篷與熱鬧的馬車遊行。"
+  },
+  {
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "timestamp": "2026-04-22 16:01 UTC",
+    "url": null,
+    "model": "all failed",
+    "number": null
   }
 ]
