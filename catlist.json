@@ -14257,5 +14257,14 @@
     "character": "momo",
     "title": "花城祭典的暗影",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
+  },
+  {
+    "timestamp": "2026-04-22 14:45 UTC",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "status": "success",
+    "title": "塞維亞的探戈之爪",
+    "number": 1572,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_1445_UTC.webp",
+    "inspiration": "西班牙塞維亞迎來年度盛事「四月節」（Feria de Abril），整座城市充滿了傳統弗朗明哥舞蹈、五彩繽紛的帳篷與熱鬧的馬車遊行。"
   }
 ]
