@@ -10758,5 +10758,44 @@
       "texture": "Wood Grain",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "number": 1566,
+    "comment_id": 4293553918,
+    "story": "洞穴深處的生物多樣性在針線間躍然紙上，貓咪輕輕伸出爪子，試圖觸碰那如同幻影般的巨蛛。冷色調的絲線交織出岩壁的潮濕感，光影在磨砂紋理下顯得既神祕又寧靜。",
+    "title": "幽穴織夢影",
+    "inspiration": "寮國：科學家在甘蒙省的洞穴中深入研究巨型獵人蛛，其高達 30 公分的腿展展現了地下生態系統的驚人生物多樣性。",
+    "idea": "在一幅精緻的刺繡畫卷中，超廣角視野展現一隻貓咪正在老撾深邃幽暗的石灰岩洞穴內，聚精會神地觀察一隻展開巨大長腿的獵人蛛，整體畫面籠罩在清冷的藍青色月光下，並覆蓋著一層朦朧的磨砂玻璃質感。",
+    "prompt": "Detailed embroidered illustration on linen fabric, visible needlework, satin stitch and French knots, handcrafted textile art. Ultra wide angle 12-18mm lens perspective inside a deep limestone cave in Laos. A cat is intensely observing a giant huntsman spider with long legs. The scene is illuminated by cool blue-teal moonlight with a gentle silvery glow. A frosted glass texture with a translucent matte surface covers the image, creating soft blurred shapes and diffused light transmission. The text '2026-04-22 04:37 UTC' is clearly embroidered into the corner of the composition. Serene and calm atmosphere, icy undertones, crisp nighttime mood.",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Moonlight",
+      "texture": "Frosted Glass",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "澳洲：好萊塢影星 Jack Quaid 與 Claudia Doumit 在新南威爾斯州的私人莊園舉行婚禮，多位影視巨星到場祝賀。",
+      "西班牙：塞維亞著名的「四月節」盛大登場，全城展開為期一週的傳統馬車巡遊、佛朗明哥舞蹈與文化慶典。",
+      "寮國：科學家在甘蒙省的洞穴中深入研究巨型獵人蛛，其高達 30 公分的腿展展現了地下生態系統的驚人生物多樣性。",
+      "美國：華盛頓大學的物理學家榮獲 2026 年突破獎，表彰其在研究「緲子」磁性特徵以探索宇宙基礎物理方面的卓越貢獻。",
+      "老撾與中國：兩國共同建設的 500 千伏跨國輸電線路正式投運，大幅提升了東南亞地區的跨境清潔能源貿易能力。"
+    ],
+    "avoid_list": [
+      "霓虹螢光色彩",
+      "35mm 鏡頭底片質感",
+      "莫蘭迪色調",
+      "視覺化日期時間標記",
+      "黑白單色調拼貼",
+      "科幻與未來感配件",
+      "精確的幾何排列構圖",
+      "特定毛色紋理細節描述",
+      "手遊風格立繪",
+      "多視角分鏡構圖",
+      "復古海報與設計草圖風格",
+      "極高對比度光影",
+      "貓咪進行人類職業活動",
+      "發光材質與表面紋理"
+    ]
   }
 ]

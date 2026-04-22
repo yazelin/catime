@@ -14202,5 +14202,14 @@
     "timestamp": "2026-04-22 01:21 UTC",
     "title": "寰宇生命之源",
     "number": 1565
+  },
+  {
+    "number": 1566,
+    "status": "success",
+    "timestamp": "2026-04-22 04:37 UTC",
+    "title": "幽穴織夢影",
+    "inspiration": "寮國：科學家在甘蒙省的洞穴中深入研究巨型獵人蛛，其高達 30 公分的腿展展現了地下生態系統的驚人生物多樣性。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_0437_UTC.webp",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]
