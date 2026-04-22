@@ -14274,5 +14274,14 @@
     "url": null,
     "model": "all failed",
     "number": null
+  },
+  {
+    "number": 1574,
+    "inspiration": "original",
+    "title": "幽藍沙域的捕航者",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_1751_UTC.webp",
+    "status": "success",
+    "timestamp": "2026-04-22 17:51 UTC",
+    "model": "gemini-3-pro-image-preview"
   }
 ]

@@ -10984,5 +10984,36 @@
       "texture": "Leather",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "number": 1574,
+    "idea": "在荒蕪的鹽湖沙地中，一隻橘貓正以「紅外線攝影」風格呈現，透過「強制透視伸手」的鏡頭張力，試圖撥弄地平線上縮小的遠洋貨輪。",
+    "prompt": "Infrared photography of an orange cat on a barren salt flat, forced perspective composition with the cat's paw thrust toward the camera in an exaggerated foreshortening, cat attempting to swat a tiny distant cargo ship on the horizon, surreal blue-teal color grading with icy undertones, dark skies and white foliage elements, fine sand texture and desert dune ripples, soft diffused natural light, overcast sky with no harsh shadows, 35mm lens, f/2.8, film grain, timestamp '2026-04-22 17:51 UTC' visually displayed in the corner.",
+    "inspiration": "original",
+    "title": "幽藍沙域的捕航者",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sand Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "藍青色的紅外線濾鏡將原本酷熱的荒原轉化為超現實的冷調異星，貓咪巨大的掌心彷彿跨越空間抓向遠方的工業遺骸。沙質紋理與瀰漫的自然光交織，呈現出一場關於比例與幻覺的孤獨遊戲。",
+    "avoid_list": [
+      "懸浮浮島與雲端背景",
+      "磨砂玻璃與半透明質感",
+      "藍青色調與清冷月光",
+      "整合時間戳記於畫面中",
+      "東方書法海報與紅印章",
+      "莫蘭迪色調與粉彩灰",
+      "精密鑷子或儀器修復動作",
+      "微縮模型與立體場景",
+      "金色與黑色的奢華配色",
+      "電影分鏡與多重面板構圖",
+      "背光勾勒的金色邊緣光",
+      "木紋質感與天然纖維背景"
+    ],
+    "comment_id": 4298761238
   }
 ]
