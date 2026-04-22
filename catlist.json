@@ -14238,5 +14238,13 @@
     "inspiration": "original",
     "title": "金墨寒夜的星軌修復師",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": null,
+    "timestamp": "2026-04-22 11:51 UTC",
+    "model": "all failed",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "url": null
   }
 ]
