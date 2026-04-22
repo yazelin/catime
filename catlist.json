@@ -14193,5 +14193,14 @@
     "title": "紅星荒海的拓荒者",
     "number": 1564,
     "status": "success"
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "火星上的好奇號探測車發現了過去未曾見過的有機分子，其分子結構被認為是組成 DNA 與 RNA 的前驅物，為古火星適居性提供了新證據。",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_0121_UTC.webp",
+    "timestamp": "2026-04-22 01:21 UTC",
+    "title": "寰宇生命之源",
+    "number": 1565
   }
 ]
