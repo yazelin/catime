@@ -14325,5 +14325,14 @@
     "season": "spring",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "character_name": "麻糬"
+  },
+  {
+    "title": "幾何經卷的守護者",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_2337_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "timestamp": "2026-04-22 23:37 UTC",
+    "status": "success",
+    "number": 1579
   }
 ]
