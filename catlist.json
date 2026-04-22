@@ -14246,5 +14246,16 @@
     "status": "failed",
     "error": "Failed to generate any images - All models failed. Last error: ",
     "url": null
+  },
+  {
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-22_1258_UTC.webp",
+    "number": 1571,
+    "timestamp": "2026-04-22 12:58 UTC",
+    "inspiration": "西班牙塞維亞迎來年度盛事「四月節」，整座城市沉浸在佛朗明哥舞蹈、傳統馬車巡遊與熱鬧的帳篷慶典中。",
+    "status": "success",
+    "character": "momo",
+    "title": "花城祭典的暗影",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]
