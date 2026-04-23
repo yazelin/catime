@@ -11588,5 +11588,45 @@
       "極低角度或等距視角",
       "貓咪操作專業工具"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Symmetrical Composition",
+      "lighting": "Golden Hour",
+      "texture": "Wood Grain",
+      "color_palette": "Duotone"
+    },
+    "story": "船長屹立在防波堤中央，身後的夕陽將牠的影子拉得極長。儘管科學家在遙遠彗星發現了重水，但對船長而言，腳下這片蘊含生命與漁獲的海域，才是牠守護了一輩子的宇宙。",
+    "idea": "採用抽象表現主義風格與對稱構圖，描繪「船長」在金黃色餘暉下的碼頭，腳踩著如星際彗星般的冰冷重水，兩側則是木紋質感強烈的巨型漁船。",
+    "prompt": "Abstract Expressionism art of Captain, a stocky brown classic tabby cat with black stripes and scruffy coarse fur, standing centered on a pier. He has a natural dark-pigmented fur patch covering his left eye with no straps, a piercing emerald green right eye, a V-shaped notch in his left ear, a faded red bandana, a white chest bib, and white mitten paws. He stands on glowing icy blue heavy water resembling interstellar comets. Perfectly symmetrical composition framed by massive wooden fishing boats with prominent grain and knots. High contrast gestural brushwork and large bold color fields. Golden hour sunset lighting with long shadows and a golden rim light on the cat. The date '2026-04-23 21:36 UTC' is visually integrated into the image. Duotone color treatment of deep golden amber and icy blue.",
+    "title": "星塵重水間的舵手",
+    "number": 1591,
+    "inspiration": "智利阿塔卡馬大型毫米波天線陣列（ALMA）研究顯示，科學家首度在星際彗星 3I/ATLAS 中偵測到重水成分，揭開了太陽系外行星系統形成初期的極度低溫環境之謎。",
+    "news_inspiration": [
+      "在美國德克薩斯州休士頓，2026年女子高爾夫球第一場大滿貫賽「雪佛龍錦標賽」於今日正式開打，吸引全球頂尖好手同台競技。",
+      "智利阿塔卡馬大型毫米波天線陣列（ALMA）研究顯示，科學家首度在星際彗星 3I/ATLAS 中偵測到重水成分，揭開了太陽系外行星系統形成初期的極度低溫環境之謎。",
+      "中國貴州省貴陽市舉辦了 2026 年「世界桌球日」旗艦活動，透過「百檯千人」挑戰賽慶祝國際桌總成立一百週年，展現全民運動的熱潮。",
+      "英國倫敦準備迎來本週末舉行的倫敦馬拉松，這場世界級賽事預計將吸引數萬名跑者與加油群眾走上街頭，充滿節慶般的文化體育氣氛。",
+      "美國阿拉巴馬州莫比爾縣今日舉辦了結合波恩·喬維經典音樂重現與爵士樂演奏的文化藝術活動，為當地社區帶來充滿節奏感的週末前奏。"
+    ],
+    "avoid_list": [
+      "2026-04-23 日期標籤",
+      "粉彩色調組合",
+      "薄荷綠與薰衣草紫",
+      "高調明亮光影",
+      "軟性幾何蝴蝶",
+      "精細插畫與拼貼風格",
+      "迷你微縮場景設計",
+      "貓咪修理複雜機械",
+      "絲綢與絹本質感",
+      "重複的UTC時間標註",
+      "莫蘭迪或低飽和度色系",
+      "極低角度或等距視角",
+      "貓咪操作專業工具"
+    ],
+    "comment_id": 4308375186,
+    "character": "captain",
+    "character_name": "船長"
   }
 ]
