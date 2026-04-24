@@ -12227,5 +12227,47 @@
     "news_inspiration": [],
     "title": "幽香墨影閱流年",
     "idea": "以暗黑花卉肖像風格呈現，墨墨正在充滿皮革香氣的舊書店閣樓，優雅地踩在排列整齊的等距3D微縮書架上，試圖翻開一本巨大的皮革封面古籍。"
+  },
+  {
+    "news_inspiration": [
+      "義大利全國各地於今日舉行慶祝活動，紀念二戰結束暨「解放日」81 週年。",
+      "美國加州聖地牙哥今日舉辦大規模的「地球節」慶典，推廣素食美食與現場音樂表演以慶祝地球日。",
+      "澳洲昆士蘭警方今日清晨舉行特別儀式，於澳紐軍團日（Anzac Day）向歷史上的英雄與職務奉獻致敬。",
+      "美國芝加哥今日召開國際心臟研討會，發表了關於利用最新血管閉合技術提升心臟手術安全性與效率的研究結果。",
+      "美國印第安納波利斯今日舉行全美大學女子七人制橄欖球錦標賽，各地頂尖校隊齊聚爭奪全國冠軍。"
+    ],
+    "prompt": "這是一幅採用賽璐璐著色風格的浮島場景，描繪體型壯碩、戴著眼罩的「船長」正蹲在漂浮於雲端的木造燈塔邊緣，用前腳掌撥弄著一具散發天鵝絨質感的褪色望遠鏡。. The date and time '2026-04-24 23:32 UTC' is visually displayed in the image. Cel shaded art, flat color areas with bold outlines, toon shading, sharp shadow edges, cartoon rendering, anime game look, floating island in the sky, miniature landscape on a levitating platform, white clouds, aerial perspective, backlighting with rim light, glowing silhouette edges, subject outlined by light, dramatic mood, velvet texture, deep pile softness, rich color saturation, light-absorbing matte surface, tactile luxury, high saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Captain — a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. Fur texture: scruffy, untidy, slightly coarse with uneven lengths (NOT sleek). LEFT eye (viewer perspective): permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket — explicitly a fur marking, NOT a fabric or leather eye patch, NO straps. RIGHT eye: single piercing emerald green #50C878. LEFT ear: prominent V-shaped notch. Neck: faded red #CD5C5C bandana tied loosely and visible. White #FFFFFF chest bib and white mitten paws on all four feet. Distinctive M-mark on forehead. Tail: thick and sturdy. [HARD CONSTRAINTS] 1) LEFT eye MUST be hidden by dark fur patch — NEVER a fabric eye patch or strap. 2) RIGHT eye emerald #50C878 ONLY. 3) V-shaped left-ear notch always present. 4) Faded red bandana always present. 5) White chest bib and white mitten paws preserved. 6) Brown tabby with black stripes ONLY — NEVER orange or grey. 7) Scruffy coarse texture, NEVER groomed sleek coat. End.\nNEGATIVE CONSTRAINTS (must not appear): two visible eyes, both eyes open, fabric eye patch, leather eye patch, strap over eye, clean sleek fur, groomed coat, smooth glossy fur, no bandana, missing bandana, missing ear notch, intact left ear, orange tabby, grey tabby, blue eyes, longhair, small cat, slender build, kitten, symmetrical eyes, two green eyes, eye patch with string, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n",
+    "comment_id": 4317036391,
+    "idea": "這是一幅採用賽璐璐著色風格的浮島場景，描繪體型壯碩、戴著眼罩的「船長」正蹲在漂浮於雲端的木造燈塔邊緣，用前腳掌撥弄著一具散發天鵝絨質感的褪色望遠鏡。",
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "character": "captain",
+    "story": "船長雖然退休了，但守護水域的本能讓牠登上了這座懸浮燈塔。即便在高空吹著強風，牠依然神情堅毅，領著脖子上的紅色頭巾在背光照射下顯出鮮艷輪廓，時刻監視著下方的波濤。",
+    "number": 1610,
+    "character_name": "船長",
+    "title": "雲端燈塔的眼界",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Floating Island Scene",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Velvet",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
