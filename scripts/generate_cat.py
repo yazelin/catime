@@ -78,7 +78,13 @@ IDEA_PROMPT = (
     "(6) For photography styles: describe the scene realistically - real cats in real places. "
     "Do NOT add fantasy or magical elements. Think like a photographer, not a painter.\n"
     "(7) Vary the scene composition - sometimes include other characters (people, other animals, crowds) "
-    "or objects the cat interacts with. A lone cat is fine occasionally, but don't default to it every time.\n\n"
+    "or objects the cat interacts with. A lone cat is fine occasionally, but don't default to it every time.\n"
+    "(8) The cat is ALWAYS a literal four-legged cat. Do NOT describe it as anthropomorphic, "
+    "standing upright like a human, wearing full human clothing, mimicking a humanoid, "
+    "or acting in a way that an illustrator would naturally draw as a human figure. "
+    "Avoid verbs like 'mimics a human/robot', 'poses as a person', 'stands upright'. "
+    "The cat can watch, chase, sniff, paw at, or sit near human/robot subjects — "
+    "but the cat itself stays a cat in form.\n\n"
     "Output a JSON object with exactly this format:\n"
     '{{"idea": "繁體中文場景描述，1-2句，包含藝術風格", "story": "繁體中文短故事，2-3句", "title": "作品名稱，3-10個字的繁體中文", "inspiration": "original 或引用的新聞摘要"}}\n\n'
     "The title should be poetic, evocative, and concise (3-10 Chinese characters). Like a painting title.\n"
@@ -427,9 +433,17 @@ def format_character_for_render(char: dict) -> str:
         if variant:
             seasonal_addition = f" Seasonal theme: {season} - the cat should be dressed/styled appropriately for {season}."
 
+    negative = char.get("negative_prompt", "")
+    negative_line = f"NEGATIVE CONSTRAINTS (must not appear): {negative}\n" if negative else ""
+
     return (
         f"\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n"
         f"{snippet}\n"
+        f"{negative_line}"
+        f"The subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, "
+        f"person, child, or anthropomorphic figure — even if the scene mentions people, robots, "
+        f"or human activities. Humans may appear in the background, but the named character "
+        f"stays a four-legged cat.\n"
         f"Every HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\n"
         f"If the art style makes any feature hard to show, simplify the style — NEVER drop the feature.{seasonal_addition}\n"
     )
@@ -794,7 +808,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         else:
             print("Stage 2 parse failed, using idea as prompt fallback.")
             return {
-                'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}",
+                'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}{character_render_section}",
                 'story': story,
                 'idea': idea,
                 'title': title or '貓咪日常',
@@ -810,7 +824,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
     except Exception as e:
         print(f"Stage 2 failed ({e}), using idea as prompt fallback.")
         return {
-            'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}",
+            'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}{character_render_section}",
             'story': story,
             'idea': idea,
             'title': title or '貓咪日常',
