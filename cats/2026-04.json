@@ -11969,5 +11969,44 @@
     ],
     "title": "古籍中的星圖掌痕",
     "number": 1600
+  },
+  {
+    "story": "這隻好奇的貓咪在鳳凰城的歷史古宅中發現了遊客遺落的手機，正笨拙地參與當地的尋寶冒險。牠對鏡中閃爍的閃光燈感到著迷，無意間在充滿幾何線條的民俗藝術世界裡留下了自己的身影。",
+    "news_inspiration": [
+      "英國羅徹斯特於今日開啟第 44 屆掃帚節（Sweeps Festival），匯集來自斯洛伐克、印度與愛爾蘭的國際民俗樂舞團體走上街頭慶祝春季到來。",
+      "中國科學院與新加坡國立大學的聯合研究團隊今日發表突破性技術，成功開發出如「印報紙」般大規模生產光學超材料的捲對捲奈米列印設備。",
+      "美國亞利桑那州鳳凰城於今日展開春季城市尋寶冒險活動，透過智慧型手機引導參賽者探索歷史古蹟並解決謎題。",
+      "澳洲新南威爾斯州的科學家在乾旱農田下的鏽蝕岩層中，發現了保存異常完美的古代雨林化石，揭開 1,100 萬年前生物多樣性的神秘面紗。",
+      "緬甸發現了一種名為「伊洛瓦底蝮蛇」的新物種，其外觀融合多種蛇類特徵，令科學家對生物物種的定義界線感到驚訝。"
+    ],
+    "number": 1601,
+    "comment_id": 4313963648,
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Direct Flash",
+      "texture": "Origami",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "以米提拉畫（Madhubani Painting）風格描繪一隻摺紙質感的橘貓在浴室鏡子前，利用前爪撥弄一支智慧型手機進行自拍，背景呈現溫暖的琥珀色調與閃光燈直打的視覺效果。",
+    "title": "琥珀鏡像尋寶蹤",
+    "inspiration": "美國亞利桑那州鳳凰城於今日展開春季城市尋寶冒險活動，透過智慧型手機引導參賽者探索歷史古蹟並解決謎題。",
+    "avoid_list": [
+      "生物發光瓶罐與流體",
+      "螺旋漩渦狀構圖",
+      "電影感低角度仰拍",
+      "透明樹脂與糖果色質感",
+      "復古褪色與底片質感",
+      "垂直躍起或懸浮攝影",
+      "劇烈的光影對比與深色背景",
+      "精緻的金屬與液態鏡面材質",
+      "對稱性構圖與中心消失點",
+      "整合日期時間文字於畫面",
+      "特定的2026年未來時間戳記",
+      "貓咪撥弄精密零件或線條",
+      "異國風格建築與鑄鐵裝飾",
+      "雙色調打光效果"
+    ],
+    "prompt": "Madhubani painting style illustration of an orange cat made of folded origami paper, standing in front of a bathroom mirror, using its front paw to interact with a smartphone to take a mirror selfie. The composition features intricate geometric and floral patterns with vibrant colors and symmetrical folk art elements. Direct on-camera flash effect with harsh shadows and blown-out highlights on the mirror surface. Warm amber color grading with a palette of golden yellows and burnt orange. The date and time '2026-04-24 14:28 UTC' is clearly displayed in the corner of the frame. Indian folk art aesthetic combined with sharp angular paper sculpture creases."
   }
 ]
