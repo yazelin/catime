@@ -14603,5 +14603,16 @@
     "title": "藍影閃現的獵場",
     "model": "gemini-3-pro-image-preview",
     "inspiration": "菲律賓馬尼拉大都會今日展開大規模的動漫粉絲慶典，集結了國際表演團體、角色扮演與沉浸式展位，打造出充滿活力的動漫宇宙體驗。"
+  },
+  {
+    "number": 1609,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-24_2231_UTC.webp",
+    "character": "momo",
+    "character_name": "墨墨",
+    "status": "success",
+    "inspiration": "original",
+    "timestamp": "2026-04-24 22:31 UTC",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "title": "幽香墨影閱流年"
   }
 ]
