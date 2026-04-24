@@ -14542,5 +14542,13 @@
     "title": "琥珀鏡像尋寶蹤",
     "inspiration": "美國亞利桑那州鳳凰城於今日展開春季城市尋寶冒險活動，透過智慧型手機引導參賽者探索歷史古蹟並解決謎題。",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "number": null,
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "model": "all failed",
+    "url": null,
+    "timestamp": "2026-04-24 15:57 UTC"
   }
 ]
