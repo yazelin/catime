@@ -14707,5 +14707,16 @@
     "model": "gemini-3-pro-image-preview",
     "title": "綠苔間的微光脈絡",
     "number": 1619
+  },
+  {
+    "timestamp": "2026-04-25 13:56 UTC",
+    "title": "月下巷弄的孤獨食客",
+    "character_name": "麻糬",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-25_1356_UTC.webp",
+    "inspiration": "original",
+    "number": 1620,
+    "character": "mochi",
+    "status": "success"
   }
 ]

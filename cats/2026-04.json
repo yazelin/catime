@@ -12585,5 +12585,41 @@
       "texture": "Moss Overgrowth",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "title": "月下巷弄的孤獨食客",
+    "story": "深夜的老街市場空無一人，唯有麻糬在清冷的月光下進行巡邏。牠圓滾滾的身影被拉出細長的雙色調陰影，正專注地與一個木製蒸籠周旋，在粗糙的沙質地面上留下一串梅花足跡。",
+    "comment_id": 4319776184,
+    "character_name": "麻糬",
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Bird's-Eye View",
+      "lighting": "Moonlight",
+      "texture": "Sand Texture",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "original",
+    "prompt": "A bird's-eye view photograph looking straight down into a moonlit sandy alleyway in a film noir style. A chubby shorthair cat named Mochi, with a spherical torso and stubby legs, is poking at a single shumai dumpling spilling from an overturned wooden bamboo steamer. Mochi has a white base coat; the right half of his face (viewer perspective) has a solid orange mask while the left face is pure white. A heart-shaped orange saddle is visible on his upper back. His right front paw is a solid orange mitten and his left front paw is pure white. Dramatic high-contrast monochrome with cool blue duotone moonlight. Deep shadows and Venetian blind light patterns fall across the fine sand texture of the ground. The scene has a 1940s cinematic mood with natural film grain. The date and time '2026-04-25 13:56 UTC' is visually imprinted in the corner of the frame. 35mm lens, f/2.8, sharp focus on the cat's amber eyes and pink nose with a tiny orange dot, candid nighttime street photography.",
+    "number": 1620,
+    "character": "mochi",
+    "idea": "黑色電影風格的鳥瞰視角，麻糬在月光映照的沙質老街巷弄中，試圖從翻倒的蒸籠裡撥弄出最後一顆燒賣。",
+    "news_inspiration": []
   }
 ]
