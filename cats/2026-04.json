@@ -12843,5 +12843,36 @@
       "黑色電影與強烈明暗對比"
     ],
     "news_inspiration": []
+  },
+  {
+    "idea": "這是一幅結合浮世繪風格與大理石紋理的雙色調作品，描繪一隻虎斑貓在奢華大理石浴室中，好奇地躍起捕捉閃光燈直射下飛濺的水滴。",
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Direct Flash",
+      "texture": "Marble",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [],
+    "comment_id": 4320494105,
+    "prompt": "A duotone illustration in ukiyo-e Japanese woodblock print style, featuring a muscular brown tabby cat with a V-shaped notch in its left ear and a faded red bandana, jumping on a polished marble surface to catch splashing water droplets. The composition follows a fashion design sheet format with multiple panels showing front, side, and close-up views. The artwork uses bold outlines, flat color areas, and wave patterns integrated with natural marble vein patterns. Lighting is a harsh direct on-camera flash with blown-out highlights and hard shadows, creating a raw candid snapshot look within a classical art medium. The colors are strictly limited to two contrasting tones. The text '2026-04-25 20:27 UTC' is clearly visually displayed in the corner.",
+    "avoid_list": [
+      "黑光燈UV螢光照明",
+      "對稱構圖與建築框架",
+      "古絹絹本或老化絲綢紋理",
+      "粉彩色調熱成像或體積光",
+      "長卷全景或遞迴效果",
+      "貓爪撥弄精密儀器或化石",
+      "35mm鏡頭搭配f/2.8光圈",
+      "日期時間字串視覺整合",
+      "低頭凝視或專注撥弄動作",
+      "大地色系與鏽蝕金屬質感",
+      "鳥瞰視角或傾斜俯視",
+      "黑色電影與強烈明暗對比"
+    ],
+    "story": "清晨的浴室成了探險者的樂園，虎斑貓「隊長」盯著水龍頭滲出的剔透水珠。隨著一聲脆響，牠輕盈地在冰冷的大理石檯面上轉身跳躍，利爪劃過空中凝結的瞬間。",
+    "number": 1627,
+    "inspiration": "original",
+    "title": "石間躍影水玲瓏"
   }
 ]
