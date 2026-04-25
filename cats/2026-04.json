@@ -12948,5 +12948,44 @@
     "idea": "在莫蘭迪色調的美術館展場中，一隻具有黏土質感的貓正對著金色海葵雕塑進行鏡子自拍構圖，環境環繞著柔和燭光。",
     "prompt": "A mirror selfie composition featuring a cat with a sculpted clay texture and matte handmade ceramic feel, standing in a Morandi muted color palette museum gallery. The cat is posing next to a monumental golden sea anemone sculpture. The environment is illuminated by a warm orange flickering candlelight glow with soft dancing shadows. The image is captured as a candid photograph with a 35mm lens, f/2.8, visible reflection on a silver wall, and polished wooden floors. The date and time '2026-04-25 22:24 UTC' is visually displayed in the corner of the image. Desaturated soft pastels, dusty grey undertones, contemporary exhibition atmosphere.",
     "title": "深海金蛋的鏡像迴聲"
+  },
+  {
+    "character": "momo",
+    "prompt": "Architectural blueprint style illustration on a blue background with precise white technical lines and annotations, combined with a shoujo manga narrative layout featuring multiple irregular panels. Momo, a slender solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny white fur locket on the chest, golden-amber eyes, and a single small gold hoop earring in the left ear, is exploring a luxury mobile mini-library built into a tricycle. Gold and black color scheme with opulent metallic accents. A narrow beam spotlight creates dramatic high-contrast lighting on Momo as she elegantly flips through yellowed pages of a book with her pink paws. Detailed leather textures with rich grain and gold reflections on the covers. The layout includes a decorative title banner at the top and integrated dialogue bubbles. The text '2026-04-25 23:27 UTC' is visually displayed within the composition.",
+    "idea": "這是一幅結合「建築藍圖」風格與「故事插畫分格」的作品，描繪墨墨在充滿奢華金黑色調的行動迷你圖書館中，聚光燈打在牠翻閱書頁的優雅身影，皮革質感的封面上隱約可見其倒影。",
+    "inspiration": "印度卡納塔克邦的一位三輪車司機將車廂改造成行動迷你圖書館，這份推廣閱讀的熱情在今日引起社群媒體的廣泛關注與讚賞。",
+    "number": 1630,
+    "news_inspiration": [
+      "美國聖安東尼奧市於今日迎來年度 Fiesta 慶典的最高潮，透過色彩繽紛的花車遊行與音樂會展現濃厚的在地文化情懷。",
+      "美國國家海洋暨大氣總署（NOAA）於今日正式揭開去年在阿拉斯加海域發現的「神祕金蛋」身世，證實其為深海海葵底部的細胞殘骸。",
+      "印度卡納塔克邦的一位三輪車司機將車廂改造成行動迷你圖書館，這份推廣閱讀的熱情在今日引起社群媒體的廣泛關注與讚賞。",
+      "南非一位跑步愛好者在開普敦完成了一項極限耐力挑戰，透過不間斷的循環跑步成功為需要手術的貧困兒童籌集醫療資金。",
+      "今日是世界知識產權日，全球各地舉辦了多場以「體育創新」為主題的文化活動，致敬運動器材與賽事轉播背後的創意技術。"
+    ],
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Spotlight",
+      "texture": "Leather",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "墨墨跳上了一輛由三輪車改造成的迷你圖書館，在堆滿珍貴古籍的皮革座椅間穿梭。牠用粉嫩的肉墊撥開一本泛黃的詩集，金色的圓環耳環在昏暗的車廂內閃爍，彷彿在為這座移動的知識聖殿進行深夜的校閱。",
+    "comment_id": 4320803310,
+    "character_name": "墨墨",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "日期時間視覺戳記",
+      "即棄相機風格",
+      "衍紙藝術紋理",
+      "黑色電影風格",
+      "35mm鏡頭與底片顆粒",
+      "螢光燈管 institutional lighting",
+      "鳥瞰或等距攝影視角",
+      "在角落視覺顯示時間",
+      "雙色調或莫蘭迪色調",
+      "不鏽鋼醫用推車或採礦車",
+      "冷調螢光燈配對高對比陰影"
+    ],
+    "title": "流動書香的守望者"
   }
 ]

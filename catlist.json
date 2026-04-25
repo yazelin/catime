@@ -14799,5 +14799,16 @@
     "title": "深海金蛋的鏡像迴聲",
     "status": "success",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-25_2327_UTC.webp",
+    "number": 1630,
+    "status": "success",
+    "inspiration": "印度卡納塔克邦的一位三輪車司機將車廂改造成行動迷你圖書館，這份推廣閱讀的熱情在今日引起社群媒體的廣泛關注與讚賞。",
+    "model": "gemini-3-pro-image-preview",
+    "character_name": "墨墨",
+    "timestamp": "2026-04-25 23:27 UTC",
+    "title": "流動書香的守望者"
   }
 ]
