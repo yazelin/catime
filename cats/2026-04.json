@@ -12874,5 +12874,42 @@
     "number": 1627,
     "inspiration": "original",
     "title": "石間躍影水玲瓏"
+  },
+  {
+    "news_inspiration": [
+      "在英國倫敦，2026年倫敦馬拉松於今日正式開跑，吸引了數萬名跑者與觀眾共襄盛舉，為城市增添熱鬧的體育氛圍。",
+      "埃及的研究團隊在孟考拉金字塔東側發現了兩個隱藏的空洞，這項科學發現為解開古埃及建築之謎提供了新的線索。",
+      "芬蘭赫爾辛基正式啟用了世界上最長的單車與火車共用橋樑，這項壯觀的基礎設施旨在推廣永續旅遊與綠色通勤方式。",
+      "在美國洛杉磯，2026年「科學突破獎」揭曉，科學家們因在基因療法及物理學領域的卓越貢獻而獲得表彰，象徵人類知識的重大跨越。",
+      "根據最新的海洋古生物研究，科學家在化石中發現了古代巨型章魚存在的證據，顯示這些生物曾在1億年前統治著海洋生態。"
+    ],
+    "story": "Momo在喧鬧的賽事途中躲進室內，被鏡中映照出的金色耳環所吸引。牠優雅地蹲坐在洗手台上，與身後身穿鮮豔運動服的參賽者人影形成鮮明對比，指爪間輕觸著那台廉價的膠捲相機。",
+    "idea": "在倫敦馬拉松路邊的公共廁所裡，一隻Bombay黑貓正對著沾滿指紋的穿衣鏡，以即棄相機風格拍下鏡子自拍，呈現出冷調螢光燈下的雙色調質感。",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Velvet",
+      "color_palette": "Duotone"
+    },
+    "title": "鏡中金環的瞬間",
+    "prompt": "A Bombay cat with velvet black fur sitting on a public restroom vanity during the London Marathon, taking a mirror selfie with a disposable camera. Disposable camera photo style, flash artifacts, and casual snapshot framing with visible fingerprints on the mirror. The background shows blurred silhouettes of marathon runners in vibrant sportswear. Duotone color treatment in cold fluorescent 5000K lighting. The date and time '2026-04-25 21:26 UTC' is visually imprinted in the bottom corner in classic orange digital film stamp. Intimate close-up perspective, light leaks, heavy grain, institutional flat illumination, 35mm lens, candid shot.",
+    "inspiration": "在英國倫敦，2026年倫敦馬拉松於今日正式開跑，吸引了數萬名跑者與觀眾共襄盛舉，為城市增添熱鬧的體育氛圍。",
+    "number": 1628,
+    "comment_id": 4320600704,
+    "avoid_list": [
+      "黑光燈UV螢光照明",
+      "對稱構圖與建築框架",
+      "古絹絹本或老化絲綢紋理",
+      "粉彩色調熱成像或體積光",
+      "長卷全景或遞迴效果",
+      "貓爪撥弄精密儀器或化石",
+      "35mm鏡頭搭配f/2.8光圈",
+      "日期時間字串視覺整合",
+      "低頭凝視或專注撥弄動作",
+      "大地色系與鏽蝕金屬質感",
+      "鳥瞰視角或傾斜俯視",
+      "黑色電影與強烈明暗對比"
+    ]
   }
 ]
