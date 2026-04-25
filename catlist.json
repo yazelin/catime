@@ -14654,5 +14654,13 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-25_0614_UTC.webp",
     "inspiration": "新加坡正舉辦首屆機器人節（RoboFest 2026），讓家庭與兒童能親手操作與編程 AI 機器人，推廣科學教育。",
     "number": 1613
+  },
+  {
+    "number": null,
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "url": null,
+    "timestamp": "2026-04-25 07:58 UTC",
+    "status": "failed"
   }
 ]
