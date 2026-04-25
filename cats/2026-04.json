@@ -12391,5 +12391,45 @@
       "澳洲或北歐等特定地理標籤",
       "單眼人像散景與奶油虛化"
     ]
+  },
+  {
+    "idea": "一隻虎斑貓身處古巴哈瓦那神祕的蒸氣朋克「水下巴士」中，正專注地用爪子撥弄鏽蝕的黃銅儀表板，整體呈現對稱構圖與黑光螢光色調。",
+    "number": 1615,
+    "story": "這輛由舊潛艇改造的巴士穿梭於深海，貓咪作為非正式的導航員，負責監視漏氣的黃銅管道與發光的壓力表。在古絹絹本的質感與大地色系的映襯下，貓咪的眼球與儀表盤上的紫外光交相輝映。",
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Symmetrical Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 4318593864,
+    "news_inspiration": [
+      "在德國柏林動物園，世界上圈養年齡最長、高齡 69 歲的大猩猩法圖（Fatou）開心慶祝了她的生日。",
+      "在台灣桃園，2026 龍岡米干節於今日正式開幕，透過雲南美食與歌舞展現獨特的異域文化風情。",
+      "美國加州一名曾任校園清潔工的女性凱德威爾（Jessica Caldwell），在邊工作邊撫養四個孩子的同時順利取得了第四個學位。",
+      "在古巴哈瓦那，當地民眾為了應對能源與燃料短缺，開發出極具創意且外型獨特的「水下巴士」作為通勤新選擇。",
+      "南非著名的馬拉松賽事中發生了令人哭笑不得的插曲，幾名男性跑者因試圖冒名參加女子組比賽而被取消資格。"
+    ],
+    "title": "深海巴士的黃銅導航員",
+    "inspiration": "在古巴哈瓦那，當地民眾為了應對能源與燃料短缺，開發出極具創意且外型獨特的「水下巴士」作為通勤新選擇。",
+    "prompt": "An illustration on aged silk scroll texture with earth tones of terracotta and olive green, featuring a perfectly symmetrical composition of a tabby cat inside a steampunk underwater bus in Havana. The cat is focused, using its paws to fiddle with a rusted brass dashboard. The scene features Victorian-era machinery, brass gears, and steam-powered mechanisms. Blacklight UV illumination makes fluorescent pigments and ultraviolet luminescence glow against the weathered silk weave and antique manuscript stains. Centered subject with architectural framing. The text '2026-04-25 08:51 UTC' is visually integrated into the scene."
   }
 ]
