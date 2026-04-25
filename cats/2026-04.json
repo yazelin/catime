@@ -12349,5 +12349,47 @@
     "number": 1612,
     "comment_id": 4318070474,
     "inspiration": "美國德州的一名學校工友 Jessica Caldwell 在一邊工作一邊養育四個孩子的情況下，成功取得了四個學位，勵志故事感動眾人。"
+  },
+  {
+    "idea": "在長卷全景構圖下，純白蓬鬆的鈴鈴正試圖捕捉一支發光的機械小蜜蜂，場景融合了粉彩光點繪畫與清冷的藍青色調。",
+    "news_inspiration": [
+      "韓國軍浦市正舉行年度杜鵑花節，滿山遍野的鮮艷花朵吸引大量遊客前來感受春意。",
+      "美國聖地牙哥於今日舉辦第 41 屆琳達維斯塔多元文化節，透過遊行與攤位展現社區的豐富文化多樣性。",
+      "德國柏林動物園為全球圈養最高齡的金剛猩猩法圖（Fatou）慶祝 69 歲生日，並為牠準備了特製的蔬果蛋糕。",
+      "新加坡正舉辦首屆機器人節（RoboFest 2026），讓家庭與兒童能親手操作與編程 AI 機器人，推廣科學教育。",
+      "最新天文研究利用韋伯太空望遠鏡追蹤適居帶中的「地月雙星」系統，試圖在遙遠星系中尋找類地生命的發展條件。"
+    ],
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "comment_id": 4318333372,
+    "story": "新加坡首屆機器人節熱鬧非凡，鈴鈴在展區中好奇地追逐著低空飛行的編程機器人。她那巨大的羽毛尾巴在木紋地板上掃動，清脆的鈴鐺聲伴隨著倫勃朗光影，在科技感十足的會場中顯得格外純真。",
+    "title": "藍調裡的微型獵場",
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "在長卷全景構圖下，純白蓬鬆的鈴鈴正試圖捕捉一支發光的機械小蜜蜂，場景融合了粉彩光點繪畫與清冷的藍青色調。. The date and time '2026-04-25 06:14 UTC' is visually displayed in the image. pastel bokeh illustration, painterly digital rendering of cityscape or harbor, heavy colorful light dots scattered across sky and water, dreamy candy palette, glowing window lights, soft reflection on water surface, magical night atmosphere, extreme wide handscroll composition, continuous panoramic narrative, layered foreground middleground background, multiple focal points spread horizontally, oblique bird's-eye angle, right-to-left reading flow, Rembrandt lighting, single light source at 45 degrees, signature triangle of light on shadowed cheek, dramatic chiaroscuro, natural wood grain texture, rich warm tones, visible knots and lines, organic tactile surface, cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm mood\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Lingling — extremely fluffy pure white #FFFFFF longhair, Ragdoll-like with voluminous cloud-like fur. Small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of face) with gentle sparkle. Nose and inner ears: pale pink #FFB6C1. Neck: pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell — the bell must be clearly visible and centered beneath the bow knot. Tail: enormous feathery white plume. Pink paw pads occasionally visible through fur. [HARD CONSTRAINTS] 1) Pure white fur ONLY — no colored points or patches. 2) Pink bow collar with golden bell ALWAYS visible and centered. 3) Sapphire-blue #0F52BA eyes ONLY — NEVER amber, green, or gold. 4) Longhair extremely fluffy, NEVER shorthair. 5) Pink nose and inner ears. 6) No other accessories besides the bow bell collar. End.\nNEGATIVE CONSTRAINTS (must not appear): shorthair, flat coat, sleek fur, dark patches, cream fur, grey fur, yellow fur, amber eyes, green eyes, gold eyes, missing collar, no collar, missing bell, hidden bell, red collar, blue collar, no bow, plain collar, small eyes, calico markings, siamese points, colorpoint, thin tail, tabby markings, orange patches, dirty fur, matted fur, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n",
+    "inspiration": "新加坡正舉辦首屆機器人節（RoboFest 2026），讓家庭與兒童能親手操作與編程 AI 機器人，推廣科學教育。",
+    "number": 1613,
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ]
   }
 ]
