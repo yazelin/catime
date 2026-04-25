@@ -12269,5 +12269,45 @@
       "texture": "Velvet",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "idea": "以 IXUS 消費相機風格捕捉一隻低多邊形質感的貓咪在充滿爵士樂氣息的密西西比街頭，低頭撥弄散落的樂譜，呈現黑白單色的故事插畫分格。",
+    "title": "密西西比的即興節奏",
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "comment_id": 4317355335,
+    "inspiration": "美國密西西比州迎來第 44 屆阿爾科恩州立大學爵士音樂節，眾多爵士樂團與名家齊聚，為大眾帶來充滿文化氣息的音樂饗宴。",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Golden Hour",
+      "texture": "Low Poly",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "A low-poly cat with geometric crystalline surfaces and flat shaded triangular faces, interacting with scattered sheet music on a Mississippi street during a jazz festival. The composition is an illustrated story page layout featuring multiple irregular panels and a decorative title banner at the top. Black and white monochrome with high contrast and a rich tonal range. IXUS point-and-shoot camera aesthetic with a casual candid feel, direct flash, and slightly overexposed highlights. Narrative elements include integrated dialogue bubbles in a shoujo manga flow. Golden hour lighting creates long soft shadows and a distinct rim light on the feline's facets. The text '2026-04-25 01:19 UTC' is visually displayed in the corner of the frame.",
+    "news_inspiration": [
+      "美國阿拉斯加海域的神祕「金蛋」身分揭曉，科學家證實它是深海巨型海葵底部的附著組織，解開了長期以來的海洋生物之謎。",
+      "美國密西西比州迎來第 44 屆阿爾科恩州立大學爵士音樂節，眾多爵士樂團與名家齊聚，為大眾帶來充滿文化氣息的音樂饗宴。",
+      "菲律賓知名女星 Dimples Romana 為好友 Angel Locsin 慶生，並分享了與家人共舞的溫馨影片，展現演藝圈長存的深厚友誼。",
+      "台灣觀光署宣布「Taiwan PASS」台鐵版服務升級，為國際旅客提供更便捷的跨區域鐵路旅遊服務，提升旅遊體驗品質。",
+      "越南因其獨特的文化魅力與觀光資源，在 2026 年躍升為東南亞最熱門的旅遊目的地之一，吸引大量國際遊客前往探索。"
+    ],
+    "number": 1611,
+    "story": "夕陽餘暉灑在老舊的薩克斯風盒旁，這隻稜角分明的低多邊形貓咪正專注於被風吹亂的爵士樂譜。街道兩旁擠滿了參與音樂節的人潮，而牠只在乎腳掌下那段跳動的旋律軌跡。"
   }
 ]
