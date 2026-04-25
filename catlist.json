@@ -14745,5 +14745,14 @@
     "number": 1623,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-25_1629_UTC.webp",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-25_1729_UTC.webp",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "美國波士頓於 4 月 26 日舉辦年度日本節，在波士頓公園展示傳統祭典與文化活動，吸引眾多市民參與文化交流。",
+    "number": 1624,
+    "title": "霓虹祭典的躍動之影",
+    "timestamp": "2026-04-25 17:29 UTC"
   }
 ]

@@ -12735,5 +12735,45 @@
     },
     "comment_id": 4320071336,
     "story": "四川的神祕山脈中，貓咪在層層疊疊、永無止盡的岩壁間追尋著新發現的綠色蝮蛇。這幅畫卷在古老的絹本上不斷向內延伸，每一層雲霧都藏著另一個正在發生的瞬間。"
+  },
+  {
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "prompt": "Impressionist painting of a calico cat mid-leap toward a traditional Japanese festival float with deep wood grain textures. Set in Boston Common during a Japan festival. Painterly visible brushstrokes, emphasis on luminous neon lighting and high saturation vivid colors. Ultra wide angle 12-18mm lens perspective with dramatic distortion and an expansive field of view. Reflections on wet surfaces, moody urban night atmosphere, and energetic bold hues. The text '2026-04-25 17:29 UTC' is clearly visually displayed in the corner of the scene.",
+    "inspiration": "美國波士頓於 4 月 26 日舉辦年度日本節，在波士頓公園展示傳統祭典與文化活動，吸引眾多市民參與文化交流。",
+    "news_inspiration": [
+      "中國科學家在成都舉辦的 2026 中國航天日開幕式上，正式宣佈從嫦娥五號月球樣本中發現了兩種名為「鎂磷鈣石」與「鈰磷鈣石」的月球新礦物。",
+      "美國波士頓於 4 月 26 日舉辦年度日本節，在波士頓公園展示傳統祭典與文化活動，吸引眾多市民參與文化交流。",
+      "加拿大紐芬蘭紀念大學的研究團隊發現了 5.65 億年前的肌肉組織化石，這項科學發現為早期生命演化提供了關鍵證據。",
+      "美國德州聖安東尼奧市於 4 月 26 日迎來「聖安東尼奧嘉年華」的最後一天，全市以盛大的花車遊行與音樂表演慶祝多元文化傳承。",
+      "英國的一項正向新聞指出，蘇格蘭已立法要求所有新房屋必須安裝「雨燕磚」，這項友善環境的措施旨在幫助這種候鳥恢復族群數量。"
+    ],
+    "style_picks": {
+      "art_style": "Impressionism",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Neon Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "number": 1624,
+    "comment_id": 4320187949,
+    "title": "霓虹祭典的躍動之影",
+    "story": "祭典的喧囂與霓虹燈光交織成一片絢麗的色彩海洋。這隻貓咪在熙攘的人群中穿梭，牠正全神貫注地盯著木製山車上的傳統裝飾，準備進行一次輕盈的跳躍，成為這場文化盛宴中意外的過客。",
+    "idea": "在波士頓公園的日本節慶典中，一隻三花貓正試圖躍上刻滿深邃木紋的祭典山車，背景充斥著印象派筆觸下的霓虹燈影與高飽和度的祭典色彩。"
   }
 ]
