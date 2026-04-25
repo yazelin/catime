@@ -12505,5 +12505,45 @@
       "澳洲或北歐等特定地理標籤",
       "單眼人像散景與奶油虛化"
     ]
+  },
+  {
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "title": "古陵深處的探尋者",
+    "prompt": "A whimsical fairytale storybook painting with oil on canvas texture, vertical poster composition. A tabby cat named Captain with a V-shaped ear notch and dark natural eye markings is curiously sniffing the crack of a dusty, ancient stone door inside a hidden pyramid chamber. The scene features naive childlike perspective and multi-layered depth. Soft diffused natural light illuminates the dusty air without harsh shadows, highlighting earth tones of terracotta, olive green, and warm brown. The aesthetic blends Daniel Merriam's dreamlike style with East Asian movie poster framing, including ornamental border elements and a side panel. The date '2026-04-25 11:30 UTC' is visually integrated into the artwork as part of the historical inscription or decorative border.",
+    "idea": "這是一幅以童話繪本油畫風格呈現的直式構圖，描繪一隻虎斑貓「隊長」在充滿塵土與歷史感的金字塔秘密密室中，好奇地嗅著剛被發現的石門縫隙，耳邊的V形缺口在柔和的自然漫射光下若隱若現。",
+    "style_picks": {
+      "art_style": "Whimsical Fairytale Painting",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Silk",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 4319528140,
+    "number": 1618,
+    "story": "古老金字塔的深處藏著未被察覺的氣息，隊長輕手輕腳地踏在乾枯的地面上，憑藉著獵人的直覺找到了那扇緊閉數千年的隱藏之門。牠那深色的天然眼部色塊在陰影中顯得神祕，正在為這場跨越時空的考古探險進行最後的氣味確認。",
+    "news_inspiration": [
+      "在埃及阿斯旺舉行的第10屆阿斯旺國際女性影展於今日閉幕，展示了來自34個國家的68部精彩女性視角電影。",
+      "美國舊金山巨人隊球星李政厚在對陣邁阿密馬林魚隊的比賽中，擊出一支直接飛入麥考維灣（McCovey Cove）的壯觀全壘打。",
+      "印度班加羅爾一對夫婦分享了他們購買人生第一間房子的情感旅程，溫暖故事在社群媒體上引發眾多網友共鳴。",
+      "在美國聖地牙哥舉行的第41屆琳達維斯塔多元文化節中，社區居民共同揭幕了一面由60塊面板組成、代表當地多元文化的新壁畫。",
+      "考古學家在埃及孟卡拉金字塔東側發現了兩個隱藏的充滿空氣的空間，這可能揭示了這座古代遺跡中尚未發現的秘密入口。"
+    ],
+    "inspiration": "考古學家在埃及孟卡拉金字塔東側發現了兩個隱藏的充滿空氣的空間，這可能揭示了這座古代遺跡中尚未發現的秘密入口。"
   }
 ]
