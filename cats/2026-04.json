@@ -12309,5 +12309,45 @@
     ],
     "number": 1611,
     "story": "夕陽餘暉灑在老舊的薩克斯風盒旁，這隻稜角分明的低多邊形貓咪正專注於被風吹亂的爵士樂譜。街道兩旁擠滿了參與音樂節的人潮，而牠只在乎腳掌下那段跳動的旋律軌跡。"
+  },
+  {
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ],
+    "title": "燈火闌珊處的守護",
+    "style_picks": {
+      "art_style": "Contemporary Chinese Doll Illustration",
+      "composition": "Bird's-Eye View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "在狹窄卻溫馨的書房裡，四個學位的證書象徵著多年的奮鬥。橘貓安靜地守護在伏案沉睡的母親身邊，爪子輕輕搭在一支鋼筆上，彷彿在為這場長跑接力，溫暖的底片顆粒記錄下這份平凡中的偉大。",
+    "news_inspiration": [
+      "在澳大利亞新南威爾斯州的農場地下，科學家發現了保存極其完整、距今約 1,100 萬至 1,600 萬年前的熱帶雨林化石。",
+      "美國德州的一名學校工友 Jessica Caldwell 在一邊工作一邊養育四個孩子的情況下，成功取得了四個學位，勵志故事感動眾人。",
+      "科學家在緬甸發現了一種名為伊洛瓦底竹葉青的新蛇種，其外觀特徵融合了多個物種，挑戰了傳統的物種定義。",
+      "一隻名為 Veronika 的牛在德國農場展現出使用工具的罕見能力，讓研究人員對牛類動物的智力有了全新認識。",
+      "科學家利用最新技術分析了南極冰層中封存了 300 萬年的微小氣泡，揭開了地球氣候演變史中的一段驚人新篇章。"
+    ],
+    "idea": "這是一幅新中式少女插畫風格的俯瞰圖，一隻橘貓正趴在散落的草稿紙與學位證書之間，伴隨一旁的少女在琥珀色電影感光影中疲憊小憩。",
+    "prompt": "A contemporary Chinese doll-style illustration from a top-down, bird's-eye view looking straight down at a miniature world scene. A large-eyed stylized young woman in modern hanfu is slumped over a desk, fast asleep amidst scattered draft papers and four distinct degree certificates. A ginger cat lies peacefully beside her, its paw resting gently on a fountain pen. The text '2026-04-25 04:27 UTC' is clearly visible on a digital clock or calendar on the desk. The artwork features an ink wash background with crackle textures, traditional flora motifs, and calligraphy scroll accents. The lighting is dramatic and cinematic, with volumetric amber light rays casting long shadows and a warm golden-orange color grading. The image has a rich analog texture with visible film grain and organic photographic imperfections, blending a modern chinoiserie aesthetic with a nostalgic, cozy atmosphere.",
+    "number": 1612,
+    "comment_id": 4318070474,
+    "inspiration": "美國德州的一名學校工友 Jessica Caldwell 在一邊工作一邊養育四個孩子的情況下，成功取得了四個學位，勵志故事感動眾人。"
   }
 ]
