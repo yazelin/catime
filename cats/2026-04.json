@@ -12911,5 +12911,42 @@
       "鳥瞰視角或傾斜俯視",
       "黑色電影與強烈明暗對比"
     ]
+  },
+  {
+    "comment_id": 4320711983,
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 1629,
+    "inspiration": "美國阿拉斯加海域深處發現的神秘「金蛋」謎底揭曉，科學家證實這其實是一種大型深海海葵 Relicanthus daphneae 基部的細胞殘骸。",
+    "news_inspiration": [
+      "德國柏林動物園為全球最高齡的人養大猩猩 Fatou 慶祝 69 歲生日，園方特別準備了裝滿水果與蔬菜的豐盛生日蛋糕。",
+      "美國阿拉斯加海域深處發現的神秘「金蛋」謎底揭曉，科學家證實這其實是一種大型深海海葵 Relicanthus daphneae 基部的細胞殘骸。",
+      "芬蘭赫爾辛基正式啟用全球最長的自行車與列車兩用大橋，致力於推廣永續交通並提供市民更便捷的通勤選擇。",
+      "台灣桃園舉辦「龍岡米干節」，透過在地美食與歌舞表演展現獨特的滇緬異域文化與「金三角」歷史風情。",
+      "墨西哥一隻名為 Yuji 的孤兒小猴子在動物保護機構的悉心照料下，透過擁抱毛絨玩偶獲得了情感慰藉與安全感。"
+    ],
+    "avoid_list": [
+      "黑光燈UV螢光照明",
+      "對稱構圖與建築框架",
+      "古絹絹本或老化絲綢紋理",
+      "粉彩色調熱成像或體積光",
+      "長卷全景或遞迴效果",
+      "貓爪撥弄精密儀器或化石",
+      "35mm鏡頭搭配f/2.8光圈",
+      "日期時間字串視覺整合",
+      "低頭凝視或專注撥弄動作",
+      "大地色系與鏽蝕金屬質感",
+      "鳥瞰視角或傾斜俯視",
+      "黑色電影與強烈明暗對比"
+    ],
+    "story": "這隻陶瓷質感的貓咪穿梭在模擬深海秘境的藝術展廳，好奇地湊近閃耀金光的深海海葵殘骸裝置。牠在鍍銀反射牆面前停下腳步，燭影搖曳中，呈現出一場跨越物種與材質的當代藝術對話。",
+    "idea": "在莫蘭迪色調的美術館展場中，一隻具有黏土質感的貓正對著金色海葵雕塑進行鏡子自拍構圖，環境環繞著柔和燭光。",
+    "prompt": "A mirror selfie composition featuring a cat with a sculpted clay texture and matte handmade ceramic feel, standing in a Morandi muted color palette museum gallery. The cat is posing next to a monumental golden sea anemone sculpture. The environment is illuminated by a warm orange flickering candlelight glow with soft dancing shadows. The image is captured as a candid photograph with a 35mm lens, f/2.8, visible reflection on a silver wall, and polished wooden floors. The date and time '2026-04-25 22:24 UTC' is visually displayed in the corner of the image. Desaturated soft pastels, dusty grey undertones, contemporary exhibition atmosphere.",
+    "title": "深海金蛋的鏡像迴聲"
   }
 ]
