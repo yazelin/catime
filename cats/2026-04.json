@@ -12621,5 +12621,45 @@
     "character": "mochi",
     "idea": "黑色電影風格的鳥瞰視角，麻糬在月光映照的沙質老街巷弄中，試圖從翻倒的蒸籠裡撥弄出最後一顆燒賣。",
     "news_inspiration": []
+  },
+  {
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "在廢棄煤礦場改造的人工湖畔，一隻橘貓正趴在鐵鏽斑駁的舊採礦台車上，身旁排列著整齊的野餐餐具與救生衣，全景呈現出粉彩調性的熱成像攝影風格。",
+    "story": "隨着礦區轉型為歐洲最大的水上樂園，這隻守候多年的老貓也見證了黑塵褪去後的湖光。牠在清晨的體積光下守著遊客留下的設備，彷彿在為即將展開的划船冒險進行最後的盤點檢修。",
+    "prompt": "A wide-angle photograph of an orange cat lying on a rusted, weathered industrial mining cart at the edge of a flooded coal mine lake. Beside the cat, several picnic utensils and orange life vests are organized in a precise knolling photography layout, arranged at 90-degree angles in a clean grid. The image is captured in a thermal imaging style with a soft pastel color palette, using a red-yellow-blue heat map spectrum rendered in gentle lavender, mint, and baby blue tones. Volumetric lighting creates visible god rays through the morning mist. The date and time '2026-04-25 14:37 UTC' is digitally superimposed in the corner. Shot on a 35mm lens, f/2.8, with visible film grain and oxidized patina textures on the decaying metal. Authentic infrared vision aesthetic.",
+    "title": "廢墟餘溫的湖畔巡禮",
+    "news_inspiration": [
+      "德國正式開放由廢棄煤礦場改造而成的歐洲最大人工湖泊區供民眾游泳與划船，完成長達數十年的地景綠化轉型。",
+      "美國華盛頓特區於本週舉辦第 19 屆「護照華盛頓」活動，超過 70 個國家大使館開放入場讓民眾體驗多元異國文化。",
+      "日本弘前櫻花祭在歷史悠久的弘前城周圍盛大舉行，吸引大量遊客前往觀賞著名的夜間照明櫻花美景與花筏景觀。",
+      "科學家在中國北京宣布於光學超材料的大規模生產技術取得重大突破，成功開發出首款能降低成本並兼顧客製化的奈米列印裝置。",
+      "南非開普敦一名 6 歲小作家 Tlotlo Tsheka 已出版三本書籍並發起識字運動，旨在激勵更多同齡孩子追求閱讀與寫作夢想。"
+    ],
+    "comment_id": 4319854527,
+    "inspiration": "德國正式開放由廢棄煤礦場改造而成的歐洲最大人工湖泊區供民眾游泳與划船，完成長達數十年的地景綠化轉型。",
+    "number": 1621,
+    "avoid_list": [
+      "撥弄或觸碰圓形物件",
+      "貓咪伸手撲向鏡頭的強制透視",
+      "透明樹脂或玻璃質感",
+      "幾何與花卉圖案的民俗藝術風格",
+      "皮革紋理的書本或地球儀",
+      "蝴蝶光照明與對稱陰影",
+      "窄光束聚光燈與高對比陰影",
+      "微縮模型或等距3D場景",
+      "特定日期時間戳記的視覺呈現",
+      "極致低角度仰拍視角",
+      "閃光燈直打與過曝高光",
+      "現代與傳統藝術風格的突兀結合",
+      "帶有光譜折射的水晶質感",
+      "澳洲或北歐等特定地理標籤",
+      "單眼人像散景與奶油虛化"
+    ]
   }
 ]
