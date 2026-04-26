@@ -13198,5 +13198,41 @@
       "texture": "Carbon Fiber",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "comment_id": 4322199908,
+    "is_seasonal": true,
+    "idea": "在陽光灑落的傳統老街巷弄中，胖嘟嘟的橘白貓麻糬正坐在櫻花盛開的野餐墊中央，以 90 年代底片風格捕捉牠正低頭專注於一盤裝滿花生粉麻糬的瞬間，畫面呈現完美對稱構圖。",
+    "number": 1639,
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Symmetrical Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Film Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "在陽光灑落的傳統老街巷弄中，胖嘟嘟的橘白貓麻糬正坐在櫻花盛開的野餐墊中央，以 90 年代底片風格捕捉牠正低頭專注於一盤裝滿花生粉麻糬的瞬間，畫面呈現完美對稱構圖。. The date and time '2026-04-26 13:58 UTC' is visually displayed in the image. 1990s camera style, direct flash, nostalgic glow, 35mm lens, slightly muted warm tones, perfectly symmetrical composition, centered subject, mirror-like balance, architectural framing, volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, dramatic depth, visible film grain, analog texture, subtle noise, organic photographic imperfections, high saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Mochi — chubby rounded shorthair with a white #FFFFFF base coat and bright orange #FF8C00 patches. RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Dorsal: heart-shaped orange #FF8C00 saddle centered on the upper back. RIGHT front paw: solid orange #FF8C00 mitten to the wrist. LEFT front paw: pure white #FFFFFF. Eyes: large round amber #FFBF00. Nose: pink #FFB6C1 with a tiny orange center dot. Tail: orange-and-white ringed bands. Body: short stubby legs and spherical torso. [HARD CONSTRAINTS] 1) RIGHT half-face orange mask ONLY — LEFT face MUST be white. 2) Heart-shaped orange saddle present on dorsal back. 3) RIGHT front paw orange mitten, LEFT front paw white — NEVER reversed. 4) White belly ALWAYS. 5) Amber #FFBF00 eyes ONLY — NEVER blue or green. 6) Shorthair ONLY — NEVER fluffy or long. 7) Orange patches solid — NO tabby stripes within patches. End.\nNEGATIVE CONSTRAINTS (must not appear): left face orange, left paw orange, fully orange cat, tabby stripes, striped markings, mackerel pattern, longhair, fluffy coat, orange belly, both paws orange, both paws white, missing back patch, no heart saddle, slender build, skinny cat, green eyes, blue eyes, symmetrical face markings, even face split, grey patches, black patches, calico tricolor, tortoiseshell, missing nose dot, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: spring - the cat should be dressed/styled appropriately for spring.\n",
+    "character_name": "麻糬",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "磨砂玻璃質感",
+      "蝴蝶光照明",
+      "35mm鏡頭拍攝",
+      "黑光螢光照明",
+      "微縮立體模型",
+      "金屬質感與齒輪",
+      "粉色肉墊觸碰物體",
+      "V形缺口左耳",
+      "角落顯示日期時間戳",
+      "莫蘭迪色調美術館",
+      "手作工藝材質貓咪",
+      "單色或雙色調藝術風格"
+    ],
+    "title": "花見時節的圓舞曲",
+    "inspiration": "original",
+    "story": "春意正濃，麻糬戴著老闆特製的鮮豔花環，在老街轉角處展開了一場獨自的野餐盛宴。當體積光穿透櫻花瓣灑在牠圓滾滾的身軀上時，這顆「走路的麻糬」與盤中的點心形成了有趣的對比，空氣中充滿了底片顆粒感帶來的懷舊溫度。",
+    "character": "mochi",
+    "season": "spring",
+    "news_inspiration": []
   }
 ]

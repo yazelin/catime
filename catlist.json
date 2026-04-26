@@ -14884,5 +14884,18 @@
     "inspiration": "台灣桃園「龍岡米干節」於本週末熱鬧登場，透過雲南少數民族的傳統美食與潑水祈福活動，展現金三角獨特的移民文化。",
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-26_1239_UTC.webp"
+  },
+  {
+    "is_seasonal": true,
+    "number": 1639,
+    "character_name": "麻糬",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-26_1358_UTC.webp",
+    "timestamp": "2026-04-26 13:58 UTC",
+    "title": "花見時節的圓舞曲",
+    "inspiration": "original",
+    "character": "mochi",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: no image data in response)",
+    "season": "spring"
   }
 ]
