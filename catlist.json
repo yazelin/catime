@@ -14915,5 +14915,13 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "timestamp": "2026-04-26 15:33 UTC",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-26_1533_UTC.webp"
+  },
+  {
+    "number": null,
+    "status": "failed",
+    "timestamp": "2026-04-26 16:30 UTC",
+    "url": null,
+    "model": "all failed",
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
