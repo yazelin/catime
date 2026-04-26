@@ -13065,5 +13065,36 @@
     "character_name": "鈴鈴",
     "title": "亙古花園的粉紅奇遇",
     "character": "lingling"
+  },
+  {
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "日期時間視覺戳記",
+      "即棄相機風格",
+      "衍紙藝術紋理",
+      "黑色電影風格",
+      "35mm鏡頭與底片顆粒",
+      "螢光燈管 institutional lighting",
+      "鳥瞰或等距攝影視角",
+      "在角落視覺顯示時間",
+      "雙色調或莫蘭迪色調",
+      "不鏽鋼醫用推車或採礦車",
+      "冷調螢光燈配對高對比陰影"
+    ],
+    "number": 1634,
+    "prompt": "Handmade mechanical figurine photography of a velvet-textured craft cat lying on an open antique nautical chart. The cat is using its paw to adjust a brass clockwork compass. The composition is an orthographic projection with no perspective distortion, presented as a straight-on flat rendering in a technical illustration style. The date '2026-04-26 08:10 UTC' is visually displayed in the corner. Lighting is provided by a single flickering candle, creating a warm orange glow and soft dancing shadows on the copper gears and springs. The scene features a retro faded color palette with washed-out vintage tones and low contrast. Captured with a 50mm macro lens, f/2.8, shallow depth of field, subtle film grain, and an artisan workshop aesthetic. The cat has a deep pile matte surface, emphasizing tactile luxury against the assemblage sculpture of aged brass parts and soft pastel patina.",
+    "inspiration": "original",
+    "comment_id": 4321599769,
+    "story": "在微弱的燭光映照下，這隻發條小貓正專注地與齒輪博弈，試圖修正古老海圖上的航線偏差。每一次齒輪的轉動都伴隨著復古褪色調的陰影起伏，將航海時代的冒險縮小在一方精緻的機械機關之中。",
+    "title": "燭影下的星圖航線",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Orthographic Projection",
+      "lighting": "Candlelight",
+      "texture": "Velvet",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "這是一座以手作機關偶風格呈現的微型古董地圖室，一隻天鵝絨質感的工藝貓正趴在展開的航海圖上，用爪子撥動著正交投影視角下的黃銅發條指南針。"
   }
 ]
