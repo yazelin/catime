@@ -14932,5 +14932,14 @@
     "status": "success",
     "timestamp": "2026-04-26 17:30 UTC",
     "number": 1643
+  },
+  {
+    "number": 1644,
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-26_1835_UTC.webp",
+    "title": "遺落星塔的青苔漫步",
+    "inspiration": "original",
+    "timestamp": "2026-04-26 18:35 UTC"
   }
 ]

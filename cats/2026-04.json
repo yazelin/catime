@@ -13333,5 +13333,36 @@
     "prompt": "Vintage poster art illustration of a tabby cat mid-leap, playfully swatting at neatly stacked newspapers on an outdoor newsstand in the 1920s. The scene features a duotone color treatment with high-key bright lighting and an airy, overexposed feel. Design moodboard aesthetic with vertical color palette swatch bars on both sides and stacked color blocks. The text '2026-04-26 17:30 UTC' is visually displayed. Mid-century modern design style, visible film grain, analog texture, and minimal shadows. Korean illustrator signature layout, dreamy pastel mood, and organic noise. Bold typography and graphic impact.",
     "comment_id": 4322610322,
     "number": 1643
+  },
+  {
+    "number": 1644,
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "古老的天文台早已被大自然回收，青翠的苔蘚在冷色調的光線下蔓延。虎斑貓靈巧地在齒輪與透鏡間穿梭，試圖捕捉鏡片折射出的微弱藍光。",
+    "news_inspiration": [],
+    "comment_id": 4322724300,
+    "idea": "在一座被藍色苔蘚覆蓋的廢棄天文台內，一隻虎斑貓正撥弄著傾倒的黃銅望遠鏡零件，呈現賽璐璐著色風格的服裝多視角展示構圖。",
+    "title": "遺落星塔的青苔漫步",
+    "inspiration": "original",
+    "prompt": "A character sheet style illustration of a tabby cat playing with fallen brass telescope parts inside an abandoned observatory covered in blue moss, cel shaded art with bold outlines and flat color areas, multi-view layout featuring front view side view back view and close-up detail panels, the date and time '2026-04-26 18:35 UTC' is visually displayed in the corner of the image, nature reclaiming the interior with lush organic overgrowth, cool blue-teal color grading, soft diffused natural light with even illumination, toon shading and sharp shadow edges in an anime game aesthetic, clean organized composition.",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "燭影搖曳與柔和陰影",
+      "35mm鏡頭底片質感",
+      "視覺印記時間戳記",
+      "奢華金黑配色與金屬裝飾",
+      "故事插畫分格配置",
+      "低頭撥弄物件的動作",
+      "粉色肉墊的特寫",
+      "冷調螢光燈 institutional lighting",
+      "古董地圖與航海元素",
+      "微型立體模型 diorama 效果",
+      "左耳金色圓環耳環"
+    ]
   }
 ]
