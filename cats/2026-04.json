@@ -13096,5 +13096,37 @@
       "color_palette": "Retro Faded Tones"
     },
     "idea": "這是一座以手作機關偶風格呈現的微型古董地圖室，一隻天鵝絨質感的工藝貓正趴在展開的航海圖上，用爪子撥動著正交投影視角下的黃銅發條指南針。"
+  },
+  {
+    "inspiration": "original",
+    "idea": "在宏偉的大理石圓頂圖書館內，一隻三花貓正試圖用爪子撥弄散落在冰冷地板上的古老航海地圖，全景呈現半色調網點的復古印刷質感。",
+    "title": "琥珀影裡的航海夢",
+    "story": "深夜的圖書館僅剩幾點燭光搖曳，琥珀色的光影在層疊的書架間跳動。這隻貓並非在尋找獵物，而是著迷於紙張在大理石板上摩擦的沙沙聲，彷彿在混亂的經緯線中捕捉風的軌跡。",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Candlelight",
+      "texture": "Marble",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4321758036,
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "磨砂玻璃質感",
+      "蝴蝶光照明",
+      "35mm鏡頭拍攝",
+      "黑光螢光照明",
+      "微縮立體模型",
+      "金屬質感與齒輪",
+      "粉色肉墊觸碰物體",
+      "V形缺口左耳",
+      "角落顯示日期時間戳",
+      "莫蘭迪色調美術館",
+      "手作工藝材質貓咪",
+      "單色或雙色調藝術風格"
+    ],
+    "prompt": "A calico cat batting at an ancient nautical map on a polished marble floor inside a grand domed library, retro halftone dot pattern print style with visible CMYK matrix texture. The scene is captured with an ultra wide angle 12-18mm lens creating dramatic perspective distortion and an expansive field of view. Lighting features flickering candlelight with warm orange glows and soft dancing shadows against the natural stone veins of the floor. The color grading uses a warm amber and autumn palette of golden yellows and burnt orange. The date and time '2026-04-26 09:42 UTC' is visually integrated into the image composition.",
+    "number": 1635,
+    "news_inspiration": []
   }
 ]
