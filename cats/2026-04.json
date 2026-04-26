@@ -13364,5 +13364,42 @@
       "微型立體模型 diorama 效果",
       "左耳金色圓環耳環"
     ]
+  },
+  {
+    "number": 1645,
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Ring Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "title": "金縷絲絨的律動",
+    "news_inspiration": [
+      "美國紐約於 4 月 27 日迎來「穿睡衣上班日」，許多上班族脫下正裝換上柔軟睡衣，以趣味方式緩解工作壓力並增進職場互動。",
+      "南非於 4 月 27 日熱烈慶祝「自由日」，全國各大城市舉辦多元文化表演與遊行，紀念 1994 年首次不分種族的民主選舉。",
+      "荷蘭利瑟的庫肯霍夫花園正值鬱金香花季，全球遊客紛紛湧入參觀繽紛的花海地毯，體驗世界頂級的園藝藝術與春季自然美景。",
+      "韓國鎮海區舉辦軍港節櫻花盛典，數以萬計的櫻花樹在街道兩旁綻放，吸引大批國際遊客參與這場結合軍事歷史與浪漫花季的文化活動。",
+      "科學家近期宣布 2026 年突破獎名單，其中美國與歐洲的研究團隊因對渺子磁矩的精密測量，開啟了物理學超越標準模型的新紀元。"
+    ],
+    "avoid_list": [
+      "用爪子撥弄物體",
+      "古老航海地圖",
+      "微弱燭光與閃爍陰影",
+      "復古底片顆粒感",
+      "視覺化的日期時間戳記",
+      "強制透視與誇張前縮法",
+      "粉彩色調組合",
+      "淺景深與宏觀攝影",
+      "黃銅發條或機械零件",
+      "古董圖書館或遺址場景",
+      "低角度或正交投影視角",
+      "特定時空的微縮模型"
+    ],
+    "story": "在慶祝紐約「穿睡衣上班日」的前夕，這隻挑剔的貓正親自為主人挑選最舒適的絲綢面料。牠靈巧地在布料堆中穿梭，螺旋狀的構圖捕捉了絲綢翻騰的瞬間，金色的光澤在黑色絞染紋理中躍動。",
+    "comment_id": 4322846464,
+    "idea": "這是一幅採用棚拍人像風格的攝影作品，金屬質感的大型圓環燈光映照在一隻正在高級裁縫間裡，優雅踩踏在一塊奢華金黑交織絞染布料上的孟加拉貓。",
+    "inspiration": "美國紐約於 4 月 27 日迎來「穿睡衣上班日」，許多上班族脫下正裝換上柔軟睡衣，以趣味方式緩解工作壓力並增進職場互動。",
+    "prompt": "A professional studio portrait of a Bengal cat stepping elegantly on luxury gold and black Shibori-style resist-dyed silk fabric in a high-end tailor shop. The composition uses a spiral vortex perspective with the fabric coiling around the cat toward a centered vanishing point. Shot with a 50mm lens, f/2.8, featuring a large metallic ring light providing even frontal illumination and distinct circular catchlights in the cat's eyes. The lighting is high-end beauty portrait quality against a deep black background. In the corner of the frame, the timestamp '2026-04-26 19:38 UTC' is visible as a subtle digital overlay. Low angle cinematic shot, sharp focus on the cat's fur texture and the gold metallic accents of the textile."
   }
 ]
