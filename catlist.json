@@ -14897,5 +14897,14 @@
     "character": "mochi",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: no image data in response)",
     "season": "spring"
+  },
+  {
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1640,
+    "title": "雪掩燈火的捉弄",
+    "status": "success",
+    "timestamp": "2026-04-26 14:40 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-26_1440_UTC.webp"
   }
 ]
