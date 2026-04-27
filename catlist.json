@@ -15019,5 +15019,16 @@
     "timestamp": "2026-04-27 07:33 UTC",
     "status": "success",
     "number": 1652
+  },
+  {
+    "character": "captain",
+    "inspiration": "original",
+    "character_name": "船長",
+    "model": "gemini-3-pro-image-preview",
+    "title": "螢光下的航向指引",
+    "number": 1653,
+    "timestamp": "2026-04-27 10:04 UTC",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-27_1004_UTC.webp"
   }
 ]

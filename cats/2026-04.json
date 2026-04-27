@@ -13642,5 +13642,43 @@
     "character_name": "鈴鈴",
     "number": 1652,
     "news_inspiration": []
+  },
+  {
+    "character": "captain",
+    "inspiration": "original",
+    "character_name": "船長",
+    "comment_id": 4326042600,
+    "prompt": "A macro photography shot using a fisheye wide-angle lens with strong barrel distortion, capturing a large stocky brown classic tabby cat with bold black stripes named Captain. He is leaning down to sniff a modern navy compass featuring a glossy carbon fiber weave pattern. Captain has scruffy, untidy coarse fur, a prominent V-shaped notch in his left ear, and a faded red bandana tied around his neck. His left eye is completely obscured by a natural dark-pigmented fur patch, while his right eye is a piercing emerald green. He has white mitten paws and a white chest bib. The scene is illuminated by blacklight UV lighting, making his white fur and whiskers glow with ultraviolet luminescence against a dark background. The color grading is cool blue-teal with icy undertones. The digital timestamp '2026-04-27 10:04 UTC' is clearly visible in the corner of the frame. Shot on 35mm lens, f/2.8, sharp focus on the nose and compass texture, shallow depth of field.",
+    "title": "螢光下的航向指引",
+    "number": 1653,
+    "news_inspiration": [
+      "日本東京上野動物園為大熊貓舉辦了盛大的春季慶典，吸引數千名遊客參與文化體驗活動。",
+      "法國巴黎的一名業餘天文學家發現了一顆新的近地小行星，獲得了國際天文聯會的正式命名認證。",
+      "澳洲雪梨的海灘舉辦了年度慈善衝浪大賽，數百位衝浪者穿著趣味變裝服飾為海洋保護籌款。",
+      "加拿大多倫多宣布完成全市最大的都市森林擴建計畫，為市民提供更多綠地休閒空間與生態教育場所。"
+    ],
+    "idea": "這是一幅利用魚眼鏡頭拍攝的微距攝影作品，船長正低頭嗅著一片覆蓋碳纖維紋路的海軍羅盤，場景沉浸在冷色調的黑光螢光下。",
+    "avoid_list": [
+      "螺旋狀漩渦構圖",
+      "視覺化的時間戳記",
+      "虎斑貓撥弄零件",
+      "側邊配色條框與色塊",
+      "多視角服裝展示構圖",
+      "陶瓷或摺紙材質貓咪",
+      "強制透視撥弄遠端物體",
+      "全像投影與書法邊框組合",
+      "底片顆粒與懷舊溫度",
+      "生物發光孢子或感測器",
+      "1950年代原子龐克風格",
+      "直打閃光燈捕捉液體濺起"
+    ],
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Carbon Fiber",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "在燈塔頂端的祕密閣樓裡，船長正用牠那佈滿戰鬥痕跡的爪子撥動著航海儀器。紫外光的照射讓牠白色的手套和鬍鬚發出神祕幽光，映照出這位港口老大曾經遠航深海的冒險靈魂。"
   }
 ]
