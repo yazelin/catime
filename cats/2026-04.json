@@ -13861,5 +13861,37 @@
       "texture": "Aged Silk Scroll",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "news_inspiration": [],
+    "story": "深夜的維修店內，一隻虎斑貓正專注地用爪子撥弄散落的齒輪，試圖找回齒輪轉動的律動。昏暗的燭光在畫布上勾勒出簡練的流動線條，大地色系的陰影讓這場時光的修復顯得沉靜而優雅。",
+    "number": 1660,
+    "avoid_list": [
+      "童話繪本油畫風格",
+      "莫蘭迪色調搭配淡彩",
+      "魚眼鏡頭與桶形畸變",
+      "貓咪撥弄或拍打懸掛物",
+      "鏡像反射自拍構圖",
+      "視覺整合日期時間文字",
+      "漫射自然光與均勻照明",
+      "Daniel Merriam 藝術風格",
+      "特定的貓咪特徵描述如白襪或色塊",
+      "微距攝影與淺景深結合",
+      "巨大的泡泡或球狀物體",
+      "在特定地點的窗台或階梯上蹲伏",
+      "極寬視野與超廣角透視"
+    ],
+    "prompt": "Fashion croquis sketch of a tabby cat repairing antique clock gears in a dimly lit workshop. The style features loose pencil and marker lines, stylized elongated forms, and a designer sketchbook aesthetic. Intimate atmosphere illuminated by a warm orange flickering candlelight with soft dancing shadows. The composition is framed by vertical color palette swatch bars on both sides, presented as a design moodboard with visible colored pencils. Earth tone palette of terracotta, olive green, and warm brown. The date '2026-04-27 21:44 UTC' is visually integrated into the sketch. Finished with a heavy film grain, analog texture, and organic photographic noise.",
+    "title": "光影間的時光修復師",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Fashion Croquis Sketch",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Candlelight",
+      "texture": "Film Grain",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "採用時尚設計草圖風格，描繪一隻貓在燭光掩映的古董鐘錶維修店內，身邊圍繞著色卡邊框與細膩的底片顆粒感。",
+    "comment_id": 4330651438
   }
 ]
