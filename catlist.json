@@ -15065,5 +15065,14 @@
     "status": "failed",
     "number": null,
     "url": null
+  },
+  {
+    "number": 1658,
+    "timestamp": "2026-04-27 19:20 UTC",
+    "inspiration": "美國紐約市的中央公園今天舉辦了年度「巨型泡泡節」，數千名民眾參與，創造了許多壯觀的泡泡奇景，為城市增添了歡樂氣氛。",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-27_1920_UTC.webp",
+    "title": "鏡中的泡泡捕手",
+    "status": "success"
   }
 ]
