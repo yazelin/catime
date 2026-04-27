@@ -13822,5 +13822,44 @@
     "title": "鏡中的泡泡捕手",
     "comment_id": 4329819048,
     "idea": "這是一幅結合童話繪本油畫風格與 3D 渲染質感的作品，描繪一隻虎斑貓在堆滿莫蘭迪色調織物的裁縫店裡，透過穿衣鏡「自拍」牠正試圖抓捕鏡面反射出的巨大肥皂泡。"
+  },
+  {
+    "character": "mochi",
+    "number": 1659,
+    "story": "老街迎來了罕見的暴風雪，貪吃的麻糬卻不肯待在溫暖的箱子裡，牠在風雪交加的乾貨攤前，瞄準了一串被強風吹起的鯷魚乾。透過絹本的紋理，我們看見那圓滾滾的胖麻糬縱身一躍，雖然肚子隨風晃動，卻展現了為了美食而爆發的驚人活力。",
+    "comment_id": 4330384652,
+    "character_name": "麻糬",
+    "title": "雪暗香浮逐魚蹤",
+    "news_inspiration": [
+      "在澳洲凱恩斯外海，公民科學家發現了一座面積約 3,973 平方公尺的巨型珊瑚群，這可能是目前已知世界上最大的珊瑚群之一。",
+      "在英國倫敦，成千上萬的跑者與精英運動員共同參與了倫敦馬拉松，為各類慈善機構募集資金並展現體育精神。",
+      "在美國麻薩諸塞州，生技公司發布了全球首個體內基因編輯療法的第三期臨床正面結果，為遺傳性血管性水腫患者帶來治癒希望。",
+      "在泰國與寮國等東南亞國家，民眾剛結束盛大的宋干節慶祝活動，以潑水傳統迎接新年並祈求好運。",
+      "美國 NASA 的阿提米絲 2 號任務太空人圓滿完成繞月飛行測試，並在安全返回後分享了從月球視角拍攝到的驚人全食影像。"
+    ],
+    "inspiration": "original",
+    "avoid_list": [
+      "碳纖維紋理皮毛",
+      "紫外光與黑光螢光照明",
+      "整合在畫面邊緣的時間戳記",
+      "魚眼鏡頭與強烈桶形畸變",
+      "撥弄或輕觸感測器與儀器",
+      "精密整合的書法與邊框裝飾",
+      "液態金屬與流動鉻合金質感",
+      "特定日期的視覺化疊加",
+      "貓咪低頭嗅聞特定物件",
+      "科幻全像投影與傳統構圖結合",
+      "生物發光孢子或植物",
+      "多視角設計圖或手稿格式"
+    ],
+    "idea": "這是一幅以古絹絹本為質感的剪影藝術作品，採用故事插畫分格，呈現麻糬在暴風雪朦朧的傳統市場中，為了追逐飛舞的魚乾而忘情跳躍的雙色調剪影。",
+    "prompt": "Storybook illustration on aged silk scroll texture with visible silk weave and warm sepia patina. Multiple irregular panels arranged on one page in a shoujo manga narrative flow with a decorative title banner at the top. Silhouette art style featuring duotone solid shapes with clean defined edges. A chubby shorthair cat named Mochi (white base coat, orange mask on the right half-face only, left face white, heart-shaped orange saddle on back, right front paw orange, left front paw white, amber eyes) is leaping vigorously to catch flying dried anchovies in a traditional market. Atmospheric snowstorm lighting with heavy falling snow veil, muted diffused daylight, and fogged distance in a cold blue-white palette. Integrated dialogue bubbles and weathered paper stains. The text '2026-04-27 20:50 UTC' is visually displayed in the corner of the image. Antique manuscript aesthetic, stark graphic composition, slice-of-life storybook feel.",
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Snowstorm Haze",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Duotone"
+    }
   }
 ]
