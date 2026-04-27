@@ -15103,5 +15103,13 @@
     "status": "success",
     "title": "幽藍星雲的指尖迴響",
     "timestamp": "2026-04-27 22:39 UTC"
+  },
+  {
+    "timestamp": "2026-04-27 23:41 UTC",
+    "number": null,
+    "url": null,
+    "model": "all failed",
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: "
   }
 ]
