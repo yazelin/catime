@@ -15174,5 +15174,13 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "number": 1669
+  },
+  {
+    "status": "failed",
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "model": "all failed",
+    "timestamp": "2026-04-28 19:17 UTC",
+    "url": null,
+    "number": null
   }
 ]
