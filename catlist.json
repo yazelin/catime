@@ -15204,5 +15204,18 @@
     "timestamp": "2026-04-28 21:52 UTC",
     "model": "gemini-3-pro-image-preview",
     "title": "幽光下的海港守護者"
+  },
+  {
+    "inspiration": "美國麻省理工學院（MIT）的一項最新研究顯示，種子竟然能「聽見」雨聲，降雨產生的聲波振動會刺激稻米種子更快從休眠中甦醒並發芽。",
+    "number": 1673,
+    "timestamp": "2026-04-28 22:44 UTC",
+    "season": "spring",
+    "status": "success",
+    "character_name": "墨墨",
+    "title": "翠靛幾何下的春之覺醒",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-28_2244_UTC.webp",
+    "is_seasonal": true,
+    "character": "momo"
   }
 ]
