@@ -15111,5 +15111,14 @@
     "model": "all failed",
     "status": "failed",
     "error": "Failed to generate any images - All models failed. Last error: "
+  },
+  {
+    "title": "月岩上的刻痕",
+    "timestamp": "2026-04-28 01:50 UTC",
+    "status": "success",
+    "inspiration": "美國太空總署（NASA）阿提米絲 2 號（Artemis II）的太空人們在完成歷史性的繞月試飛任務後成功返回地球，寫下人類時隔 50 多年重返深空的新紀錄。",
+    "number": 1663,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-28_0150_UTC.webp",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
