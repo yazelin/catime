@@ -14145,5 +14145,45 @@
     ],
     "character_name": "麻糬",
     "title": "古道渠道的琥珀躍動"
+  },
+  {
+    "character": "captain",
+    "story": "即使退出了驚濤駭浪的漁船歲月，船長仍習慣在暴雨前夕登上燈塔最高處。牠穩健地踩在厚實的苔蘚上，任由冷色調的紫外線映照出牠那如老練航海士般的堅毅神情，敏銳地感應大氣壓力來預知即將到來的風暴。",
+    "number": 1672,
+    "character_name": "船長",
+    "inspiration": "澳洲科學家最新的研究發現，黑猩猩具備預測未來天氣的能力，並會根據氣象預報提前在高處或特定位置築巢以應對雨季。",
+    "idea": "船長正踩在佈滿發光苔蘚的漁港燈塔邊緣，利用如導航儀般的右眼凝視遠方，呈現出一幅結合正交投影構圖與黑光螢光氛圍的棚拍人像藝術作品。",
+    "prompt": "A professional studio portrait of a stocky brown classic tabby cat with bold black stripes, scruffy coarse fur, and a broad muscular build. The cat is standing on all fours on the edge of a moss-covered lighthouse railing, surrounded by lush green glowing bioluminescent moss. The cat has a prominent V-shaped notch in its left ear and a faded red bandana tied loosely around its neck. The cat's left eye (viewer perspective) is completely hidden by a natural dark-pigmented fur patch, while its right eye is a single piercing emerald green. The cat has a white chest bib and white mitten paws on all four feet. The composition uses orthographic projection for a flat, technical illustration rendering without perspective distortion. The lighting is a Blacklight UV style with fluorescent pigments glowing in vibrant neon colors against a dark background, creating an ethereal ultraviolet luminescence with cool blue-teal color grading. The date and time '2026-04-28 21:52 UTC' is visually displayed in a clean, legible font in the corner of the frame.",
+    "comment_id": 4339365198,
+    "avoid_list": [
+      "莫蘭迪色調與柔和粉彩",
+      "視覺化整合日期時間戳記",
+      "貓爪撥弄或觸摸物體",
+      "少女漫畫風格的不規則分格佈局",
+      "大地色系與鐵鏽舊化質感",
+      "對稱構圖與置中主體",
+      "裝飾性標題橫幅",
+      "特定時間格式 2026-04 UTC",
+      "故事插畫與文字對話框結合",
+      "微縮模型或立體透視效果",
+      "工業廢墟或廢棄機械室場景",
+      "特定的貓種描述如虎斑或長毛白貓",
+      "結合傳統材質如絹本或陶瓷的混合媒介"
+    ],
+    "news_inspiration": [
+      "美國芝加哥今日舉辦第 15 屆國際爵士樂日慶典，與全球 190 多個國家的樂迷共同透過音樂傳遞文化多樣性與團結意涵。",
+      "紐西蘭航空公司宣布將在長途航線上推出創新的「Skynest」經濟艙睡眠艙，讓經濟艙旅客能以預約制享受平躺補眠服務。",
+      "美國亞利桑那州的公共服務機構今日動員大規模志工團，透過翻新公園球場與打造校園自然棲地，慶祝其服務社區 140 週年。",
+      "澳洲科學家最新的研究發現，黑猩猩具備預測未來天氣的能力，並會根據氣象預報提前在高處或特定位置築巢以應對雨季。",
+      "加拿大政府今日正式批准首款通用型肥胖治療藥物 Semaglutide 進入市場，成為 G7 國家中首個讓此類藥物更易負擔的國家。"
+    ],
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Orthographic Projection",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "幽光下的海港守護者"
   }
 ]
