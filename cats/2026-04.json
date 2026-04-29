@@ -14341,5 +14341,37 @@
       "美國華盛頓特區於 4 月 23 日啟動了第 19 屆「Passport DC」活動，邀請全球旅客免費參觀各國大使館並體驗異國文化。",
       "愛爾蘭的一隻受傷海龜「Molly」在經過長達 22 年的悉心照料與奇蹟康復後，終於在近期重回海洋懷抱。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Volumetric Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "original",
+    "story": "在光影斑駁的百年鐘錶店裡，老貓熟練地用爪尖撥動著桌上的金屬發條。牠似乎在混亂的齒輪迷宮中，尋找著那個能讓時間倒流的齒輪，畫面呈現出唯美的雙色調金屬質感。",
+    "comment_id": 4341879708,
+    "title": "時光漩渦裡的捕手",
+    "avoid_list": [
+      "生物發光與螢光苔蘚",
+      "正交投影或等距攝影構圖",
+      "冷色調藍綠色調色與冰冷底色",
+      "低多邊形幾何切面與建模風格",
+      "視覺化整合的日期與時間戳記",
+      "琥珀色光影與黃金時刻打光",
+      "完美對稱的居中構圖",
+      "貓在廢棄或工業風環境中撥弄零件",
+      "多面板故事分格或漫畫佈局",
+      "黑光UV紫外螢光效果",
+      "貓佩戴領巾、項圈或耳環飾品",
+      "微縮模型與立體模型美學",
+      "大地色系與鏽跡斑駁質感"
+    ],
+    "prompt": "A wet plate collodion photography shot of a cat in a vintage watchmaker workshop, looking down and pawing at clock hands at the center of a spiral vortex of metallic gears. The composition features a strong rotational perspective with a centered vanishing point, creating a dizzying sense of depth. Cinematic low angle with volumetric lighting and visible light rays through dust particles. Silver-toned monochrome with dark edges and vintage tintype imperfections. The metallic surfaces of the gears show sharp reflections and a polished industrial texture. A small, clear brass plaque on the workbench is engraved with the text '2026-04-29 07:57 UTC'. Shot with a 35mm lens, f/2.8, visible film grain, duotone color treatment, authentic chemical streaks.",
+    "idea": "採用濕版攝影風格，一隻貓在滿布金屬齒輪的鐘錶工坊內，沿著呈螺旋漩渦狀排列的零件中心低頭撥弄指針，陽光穿透塵埃形成強烈的體積光。",
+    "number": 1677,
+    "news_inspiration": []
   }
 ]
