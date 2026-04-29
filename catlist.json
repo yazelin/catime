@@ -15261,5 +15261,18 @@
     "status": "failed",
     "url": null,
     "model": "all failed"
+  },
+  {
+    "character": "lingling",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-04/cat_2026-04-29_1209_UTC.webp",
+    "status": "success",
+    "title": "櫻下鈴音與紙蝶之舞",
+    "is_seasonal": true,
+    "season": "spring",
+    "number": 1679,
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "timestamp": "2026-04-29 12:09 UTC"
   }
 ]

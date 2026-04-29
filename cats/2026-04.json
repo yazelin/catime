@@ -14373,5 +14373,46 @@
     "idea": "採用濕版攝影風格，一隻貓在滿布金屬齒輪的鐘錶工坊內，沿著呈螺旋漩渦狀排列的零件中心低頭撥弄指針，陽光穿透塵埃形成強烈的體積光。",
     "number": 1677,
     "news_inspiration": []
+  },
+  {
+    "avoid_list": [
+      "生物發光與螢光苔蘚",
+      "正交投影或等距攝影構圖",
+      "冷色調藍綠色調色與冰冷底色",
+      "低多邊形幾何切面與建模風格",
+      "視覺化整合的日期與時間戳記",
+      "琥珀色光影與黃金時刻打光",
+      "完美對稱的居中構圖",
+      "貓在廢棄或工業風環境中撥弄零件",
+      "多面板故事分格或漫畫佈局",
+      "黑光UV紫外螢光效果",
+      "貓佩戴領巾、項圈或耳環飾品",
+      "微縮模型與立體模型美學",
+      "大地色系與鏽跡斑駁質感"
+    ],
+    "prompt": "Pastel bokeh illustration of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and large round sapphire-blue eyes. Lingling is leaping toward floating origami butterflies in a spring garden. She wears a pink ribbon bow collar with a prominent golden bell centered at her neck. Pink flower petals are caught in her fur. The composition is a split view with a sharp vertical cut line. The scene is illuminated by harsh midday sunlight with hard-edged shadows and high-contrast natural daylight. The art style features heavy colorful light dots and a dreamy candy palette. The date and time '2026-04-29 12:09 UTC' is visually displayed in the corner of the image. Duotone color treatment applied to the split screen.",
+    "character": "lingling",
+    "comment_id": 4343555547,
+    "idea": "在強烈的硬光日照下，這幅粉彩光點繪畫描繪了長毛白貓鈴鈴正撲向飛舞的摺紙蝴蝶，白毛與粉色花瓣在雙色調的分割畫面中交織。",
+    "is_seasonal": true,
+    "title": "櫻下鈴音與紙蝶之舞",
+    "news_inspiration": [
+      "在南非夸祖魯-納塔爾省，來自姆波波梅尼鎮的孩子們在 Funda Nenja 狗學校因全勤獲得了金星證書，他們在該校學習與愛犬建立聯繫以及負責任的寵物所有權。",
+      "南非開普敦的桌山國家公園和桌山空中纜車公司在山頂啟用了一條新的通用無障礙步道，使輪椅使用者和行動不便的遊客能夠獨立遊覽。",
+      "日本東京理科大學的科學家們首次直接觀察到了電子偶素（一種由電子和正電子組成的奇特“原子”）的波狀干涉，這是量子力學的一項突破。",
+      "美國阿拉斯加州的 NOAA 科學家解開了在阿拉斯加灣發現的“金色圓球”之謎，經鑑定它是一種巨型深海海葵底部的死亡組織。"
+    ],
+    "season": "spring",
+    "number": 1679,
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "story": "春日櫻花盛開，鈴鈴在花園裡興奮地追逐著翩翩起舞的摺紙蝴蝶。她那如棉花糖般的白毛沾滿了粉嫩花瓣，每次跳躍時脖子上的鈴鐺都發出清脆聲響，卻在轉身時不小心因太過用力而往後彈了一下。",
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Split View",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Origami",
+      "color_palette": "Duotone"
+    }
   }
 ]
