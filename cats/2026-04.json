@@ -14414,5 +14414,36 @@
       "texture": "Origami",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "title": "銀河漩渦中的捕水者",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "inspiration": "original",
+    "idea": "這是一幅黑白單色的單眼人像攝影，捕捉一隻流浪貓在鋪滿閃光亮粉的圓形噴泉邊緣，追逐著螺旋狀噴湧而出的強烈水柱。",
+    "prompt": "A monochrome black and white DSLR portrait of a stray cat perched on the edge of a circular stone fountain, swathes of glitter and sparkling particles covering the rim. The cat is mid-action, extending a paw to swat at a powerful spiral vortex of water jetting upward. Captured with an 85mm f/1.4 lens, sharp focus on the cat's intense expression and wet fur, with a creamy bokeh background of a blurred urban crowd. The composition uses a strong rotational perspective with the circular fountain structure coiling around the central subject. Harsh midday sunlight creates high contrast, hard edge shadows, and brilliant star-shaped highlights on the shimmering water droplets and glitter. The date and time '2026-04-29 15:01 UTC' is visually displayed in the corner of the frame. Gritty urban realism, cinematic low angle, rich tonal range, high contrast natural daylight.",
+    "story": "在正午硬光的照射下，水珠與亮粉交織成耀眼的銀色漩渦。老貓專注地伸出前爪拍打水花，無視於身後繁忙的人群，只為捕捉那道轉瞬即逝的螺旋光影。",
+    "number": 1680,
+    "avoid_list": [
+      "廢棄工業設施與金屬鏽蝕",
+      "貓爪撥弄齒輪或機械零件",
+      "黑光螢光與紫外線照明",
+      "分形幾何與德羅斯特效應",
+      "角落顯示日期時間字樣",
+      "正交投影與等距攝影構圖",
+      "垂直分割畫面與雙色調處理",
+      "體積光穿透塵埃與丁達爾效應",
+      "白色長毛貓配戴粉紅絲帶金鈴鐺",
+      "低多邊形與點描法結合風格",
+      "摺紙質感動物與幾何摺痕",
+      "5000K螢光燈冷冽室內打光"
+    ],
+    "comment_id": 4344986853
   }
 ]
