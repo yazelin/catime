@@ -14678,5 +14678,44 @@
     },
     "character_name": "麻糬",
     "character": "mochi"
+  },
+  {
+    "news_inspiration": [
+      "德國柏林於 5 月 1 日舉行規模盛大的「五月節」慶典，市民聚集在克羅伊茨貝格區透過篝火、音樂與舞蹈迎接春天並驅除惡靈。",
+      "印度馬哈拉施特拉邦今日慶祝「馬哈拉施特拉日」，全境展開熱鬧的閱兵與文化表演，紀念該邦於 1960 年正式成立。",
+      "美國俄克拉荷馬州的切羅基族於今日舉辦民族植物學健行活動，帶領大眾深入了解當地野生植物的傳統文化與營養價值。",
+      "科學家利用韋伯太空望遠鏡，在距離地球 12 光年的印第安座 Epsilon Indi Ab 行星上發現了疑似由冰組成的厚實雲層。",
+      "美國馬里蘭州的科學家正加緊組裝「蜻蜓號」無人機的子系統，準備在未來幾年將這台大膽的飛行探測器送往土星衛星泰坦。"
+    ],
+    "avoid_list": [
+      "伸出爪子撥弄物體",
+      "螺旋狀漩渦構圖",
+      "硬光日照與深重陰影",
+      "分割畫面或垂直切割線",
+      "金屬齒輪與工業質感",
+      "螢光或黑光UV照明",
+      "貓的單耳戴金色圓環耳環",
+      "在角落標註日期時間文字",
+      "俯瞰或超廣角低角度透視",
+      "摺紙質感的貓或蝴蝶",
+      "黑白單色與高對比色調",
+      "幾何分形與幾何重組背景"
+    ],
+    "title": "五月篝火旁的金鈴",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Knolling Photography",
+      "lighting": "Snowstorm Haze",
+      "texture": "Frosted Glass",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "在黑金奢華色調的克羅伊茨貝格區，一隻如棉花糖般的白貓鈴鈴正奮力追逐五月節慶典噴煙中的金色紙屑，構圖採用極致工整的 Knolling 排列攝影並融合 GTA 風格的強烈輪廓。",
+    "comment_id": 4354942117,
+    "story": "柏林的五月節篝火正旺，鈴鈴在花店旁的街道上被慶祝春天的金色紙屑吸引。她興奮地在整齊排列的樂器與慶典道具間穿梭，清脆的鈴鐺聲淹沒在音樂中，卻讓她成為這場黑金盛宴裡最蓬鬆的焦點。",
+    "number": 1694,
+    "prompt": "GTA art style illustration of Lingling, an extremely fluffy pure white longhair cat with huge sapphire-blue eyes, pink nose, and a pink ribbon bow collar with a prominent golden bell. Lingling is jumping to catch golden confetti amidst festival smoke in Berlin's Kreuzberg. The composition is a Knolling photography flat lay overhead view, with musical instruments and festival items neatly arranged at 90-degree angles in an organized grid. The visual style features bold cel-shaded outlines, saturated colors, and an urban attitude. A luxurious black and gold color scheme dominates with metallic gold accents against a deep black background. In the corner, the text '2026-04-30 18:02 UTC' is clearly displayed. High-contrast lighting, opulent mood, crisp edges, and flat graphic shadows.",
+    "inspiration": "德國柏林於 5 月 1 日舉行規模盛大的「五月節」慶典，市民聚集在克羅伊茨貝格區透過篝火、音樂與舞蹈迎接春天並驅除惡靈。",
+    "character_name": "鈴鈴",
+    "character": "lingling"
   }
 ]
