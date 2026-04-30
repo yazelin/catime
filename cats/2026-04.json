@@ -14546,5 +14546,36 @@
       "color_palette": "Neon Fluorescent"
     },
     "inspiration": "蘇格蘭正式實施一項領先全球的法律，要求所有新建房屋必須安裝供雨燕築巢的專用磚塊，以透過城市設計守護瀕危鳥類的棲息地。"
+  },
+  {
+    "inspiration": "original",
+    "title": "青影裡的地下鐵追逐",
+    "number": 1690,
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Golden Hour",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [],
+    "story": "藍青色的油彩如流動的地下鐵隧道般交織，貓咪伸出圓潤的爪子，在玩具般的亮面質感中追逐著虛幻的光點。這是一場發生在速度與光影邊界的遊戲，現實與抽象在搖晃的車廂中融為一體。",
+    "comment_id": 4351791874,
+    "prompt": "Abstract Expressionism painting of a glossy plastic toy cat in a Tokyo subway car. The cat, featuring a smooth high-shine vinyl figure texture with slight reflections, uses forced perspective to reach toward neon light trails outside the window, its paw thrust toward the camera with exaggerated foreshortening. The background consists of large bold color fields and high contrast gestural brushwork in a cool blue-teal color palette with icy undertones. The scene is bathed in golden hour lighting, creating a warm sunset glow and golden rim light on the cat's silhouette. The date and time '2026-04-30 10:44 UTC' is visually displayed in the corner of the image. Dynamic confrontational framing, spontaneous raw emotional intensity, long soft shadows.",
+    "avoid_list": [
+      "伸出爪子撥弄物體",
+      "螺旋狀漩渦構圖",
+      "硬光日照與深重陰影",
+      "分割畫面或垂直切割線",
+      "金屬齒輪與工業質感",
+      "螢光或黑光UV照明",
+      "貓的單耳戴金色圓環耳環",
+      "在角落標註日期時間文字",
+      "俯瞰或超廣角低角度透視",
+      "摺紙質感的貓或蝴蝶",
+      "黑白單色與高對比色調",
+      "幾何分形與幾何重組背景"
+    ],
+    "idea": "在冷色調抽象表現主義的筆觸下，一隻具有亮面塑膠質感的貓咪在黃金時刻的餘暉中，正試圖透過強制透視的視覺效果抓取東京地鐵車窗外的霓虹光影。"
   }
 ]
