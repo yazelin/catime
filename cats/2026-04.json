@@ -14645,5 +14645,38 @@
     "story": "在這座由發光海葵組成的診所裡，這隻特殊的貓正專注於牠的日常巡視。牠輕巧地走過色彩飽和的珊瑚台面，用靈敏的鼻子檢查著冒出螢光泡泡的治療噴霧，確保深海居民的健康。",
     "inspiration": "original",
     "idea": "一隻擁有碳纖維紋路毛色的虎斑貓，在深海珊瑚礁診療室中以對稱構圖呈現，運用普普藝術風格捕捉牠低頭嗅聞生物發光藥劑的瞬間。"
+  },
+  {
+    "prompt": "Rococo style 3D render of Mochi, a chubby shorthair cat with a white base coat, an orange mask on the right half of the face (viewer's right) while the left face is entirely white, a heart-shaped orange saddle on the upper back, an orange right front paw mitten, a white left front paw, and round amber eyes. Mochi is squeezing into a narrow wooden box glowing with cyan light outside an old-fashioned bakery during a heavy blizzard. The composition is a vertical poster with flamboyant ornamental curves, elaborate Rococo decorative details, and an East Asian movie poster layout with a side calligraphy panel and red seal accents. The atmosphere is a cold blue-teal color grading with muted diffused daylight, heavy falling snow, and painterly weather fog. The text '2026-04-30 16:16 UTC' is clearly displayed. High-end Cinema 4D aesthetic with smooth geometry and soft global illumination. No tabby stripes, no long hair, no symmetrical face markings.",
+    "avoid_list": [
+      "伸出爪子撥弄物體",
+      "螺旋狀漩渦構圖",
+      "硬光日照與深重陰影",
+      "分割畫面或垂直切割線",
+      "金屬齒輪與工業質感",
+      "螢光或黑光UV照明",
+      "貓的單耳戴金色圓環耳環",
+      "在角落標註日期時間文字",
+      "俯瞰或超廣角低角度透視",
+      "摺紙質感的貓或蝴蝶",
+      "黑白單色與高對比色調",
+      "幾何分形與幾何重組背景"
+    ],
+    "news_inspiration": [],
+    "inspiration": "original",
+    "number": 1693,
+    "comment_id": 4354179813,
+    "story": "即使屋外寒風夾雜著朦朧雪霧，貪吃的麻糬仍守候在充滿奶油香氣的麵包店旁。牠挺著圓潤的肚子，正努力將自己塞進店門口那個剛好容得下牠的藍色木箱，滿足地縮成一顆冰冷色調下的溫暖花生麻糬。",
+    "title": "寒霧凝香鑽木箱",
+    "idea": "在冷色調洛可可風格的暴風雪中，圓滾滾的橘白貓麻糬在老街麵包店門口，試圖鑽進一個透著青藍色微光的狹窄木箱。",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Snowstorm Haze",
+      "texture": "3D Render",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "character_name": "麻糬",
+    "character": "mochi"
   }
 ]
