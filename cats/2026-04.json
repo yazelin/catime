@@ -14614,5 +14614,36 @@
       "texture": "Fabric / Textile",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Symmetrical Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Carbon Fiber",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "伸出爪子撥弄物體",
+      "螺旋狀漩渦構圖",
+      "硬光日照與深重陰影",
+      "分割畫面或垂直切割線",
+      "金屬齒輪與工業質感",
+      "螢光或黑光UV照明",
+      "貓的單耳戴金色圓環耳環",
+      "在角落標註日期時間文字",
+      "俯瞰或超廣角低角度透視",
+      "摺紙質感的貓或蝴蝶",
+      "黑白單色與高對比色調",
+      "幾何分形與幾何重組背景"
+    ],
+    "title": "幽藍深海的斑斕巡診",
+    "news_inspiration": [],
+    "prompt": "Pop art illustration of a tabby cat with a glossy carbon fiber weave pattern coat, perfectly symmetrical composition, centered subject in a deep-sea coral reef clinic. The cat is bowing its head to sniff a bioluminescent medicinal spray. Style features bold primary colors, thick outlines, and Ben-Day dots. Lighting consists of a deep blue-green radiance and organic glow from bioluminescent anemones. High saturation vivid colors with an energetic palette. The date and time '2026-04-30 14:58 UTC' is clearly visually displayed in the scene.",
+    "comment_id": 4353562581,
+    "number": 1692,
+    "story": "在這座由發光海葵組成的診所裡，這隻特殊的貓正專注於牠的日常巡視。牠輕巧地走過色彩飽和的珊瑚台面，用靈敏的鼻子檢查著冒出螢光泡泡的治療噴霧，確保深海居民的健康。",
+    "inspiration": "original",
+    "idea": "一隻擁有碳纖維紋路毛色的虎斑貓，在深海珊瑚礁診療室中以對稱構圖呈現，運用普普藝術風格捕捉牠低頭嗅聞生物發光藥劑的瞬間。"
   }
 ]
