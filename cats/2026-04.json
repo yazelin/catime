@@ -14754,5 +14754,44 @@
       "color_palette": "Earth Tones"
     },
     "number": 1695
+  },
+  {
+    "news_inspiration": [
+      "法國巴黎的各大博物館與遊樂園於今日五一假期全面開放，包括光學幻覺博物館與航空航太博物館，吸引大量家庭遊客前往體驗科學與藝術的樂趣。",
+      "美國食品藥物管理局（FDA）核准了一款名為 Auvelity 的創新藥物，專門用於治療與阿茲海默症相關的躁動症狀，為患者家庭帶來新希望。",
+      "奧地利維也納的科學家首次記錄到乳牛具有使用工具的罕見能力，這項發現挑戰了人類對牲畜智力的傳統認知。",
+      "拉脫維亞今日展開了 2026 簽名板網球賽（Signature Padel），邀請運動愛好者與傳奇球星一同揮拍競技並提升運動旅遊熱度。",
+      "哈薩克的保育工作取得重大成功，塞加羚羊（Saiga Antelope）的數量已從不到五萬隻大幅回升至超過四百萬隻。"
+    ],
+    "avoid_list": [
+      "正午強烈硬光與硬邊陰影",
+      "日期時間視覺標記",
+      "白色長毛貓鈴鈴配粉色蝴蝶結鈴鐺",
+      "貓咪撲向或追逐旋轉物件",
+      "冷色調青藍色與黃金時刻對比",
+      "高飽和鮮豔撞色與電影感光影",
+      "粗糙混凝土與都市現實主義",
+      "霓虹螢光與像素藝術風格",
+      "亮面塑膠或碳纖維特殊質感毛皮",
+      "超廣角俯瞰或強制透視構圖",
+      "對稱構圖與幾何圖形背景",
+      "復古褪色色調與舊時代溫馨感"
+    ],
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Earth Tones"
+    },
+    "story": "趁著五一假期博物館開放，船長溜進了航空航太博物館。這隻老碼頭貓似乎對這些「鐵鳥」感到好奇，牠在螢光燈的冷光下緩慢踱步，用長鬚輕觸冰冷的銀色機翼，尋找著與大海相似的機械氣息。",
+    "comment_id": 4356378204,
+    "title": "鋼鐵機翼下的老水手",
+    "character_name": "船長",
+    "character": "captain",
+    "inspiration": "法國巴黎的各大博物館與遊樂園於今日五一假期全面開放，包括光學幻覺博物館與航空航太博物館，吸引大量家庭遊客前往體驗科學與藝術的樂趣。",
+    "prompt": "A real macro photograph using a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground in an aerospace museum. A large stocky brown tabby cat with bold black stripes, scruffy untidy coarse fur, and a distinctive M-mark on its forehead is leaning in close to sniff a massive vintage polished metal airplane propeller. The cat has a natural dark fur patch covering its left eye socket (no straps or fabric), a single piercing emerald green right eye, and a prominent V-shaped notch in its left ear. It wears a faded red bandana around its neck and has a white chest bib and white mitten paws. The lighting is cold overhead fluorescent 5000K creating sharp reflections on the brushed metallic surfaces. The color scheme features earth tones of terracotta, olive green, and warm brown against the industrial silver. The date and time '2026-04-30 21:45 UTC' is visually displayed in the corner of the frame. Shot with a 35mm lens, f/1.8, shallow depth of field, fine textures of fur and cold metal visible.",
+    "number": 1696,
+    "idea": "在充滿金屬質感的航空航太博物館中，船長正低頭專注地嗅聞一副巨大的老式飛機金屬螺旋槳，運用微距攝影呈現毛皮與冷冽金屬的細節對比，並透過魚眼鏡頭擴張機艙空間感。"
   }
 ]
