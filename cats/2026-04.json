@@ -14793,5 +14793,42 @@
     "prompt": "A real macro photograph using a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground in an aerospace museum. A large stocky brown tabby cat with bold black stripes, scruffy untidy coarse fur, and a distinctive M-mark on its forehead is leaning in close to sniff a massive vintage polished metal airplane propeller. The cat has a natural dark fur patch covering its left eye socket (no straps or fabric), a single piercing emerald green right eye, and a prominent V-shaped notch in its left ear. It wears a faded red bandana around its neck and has a white chest bib and white mitten paws. The lighting is cold overhead fluorescent 5000K creating sharp reflections on the brushed metallic surfaces. The color scheme features earth tones of terracotta, olive green, and warm brown against the industrial silver. The date and time '2026-04-30 21:45 UTC' is visually displayed in the corner of the frame. Shot with a 35mm lens, f/1.8, shallow depth of field, fine textures of fur and cold metal visible.",
     "number": 1696,
     "idea": "在充滿金屬質感的航空航太博物館中，船長正低頭專注地嗅聞一副巨大的老式飛機金屬螺旋槳，運用微距攝影呈現毛皮與冷冽金屬的細節對比，並透過魚眼鏡頭擴張機艙空間感。"
+  },
+  {
+    "comment_id": 4356651800,
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "以等距3D插圖呈現一隻身披黑色光澤毛皮的貓，正優雅地趴在金色豪華客機機艙的真皮座椅上，細嗅前方精緻的航空餐點，展現交叉沖洗風格的獨特質感。",
+    "avoid_list": [
+      "正午強烈硬光與硬邊陰影",
+      "日期時間視覺標記",
+      "白色長毛貓鈴鈴配粉色蝴蝶結鈴鐺",
+      "貓咪撲向或追逐旋轉物件",
+      "冷色調青藍色與黃金時刻對比",
+      "高飽和鮮豔撞色與電影感光影",
+      "粗糙混凝土與都市現實主義",
+      "霓虹螢光與像素藝術風格",
+      "亮面塑膠或碳纖維特殊質感毛皮",
+      "超廣角俯瞰或強制透視構圖",
+      "對稱構圖與幾何圖形背景",
+      "復古褪色色調與舊時代溫馨感"
+    ],
+    "story": "隨著義大利民航局的新制上路，這隻優雅的黑貓首次獲得了與主人同座的尊榮席位。在奢華的黑金配色客艙中，牠對精美的盤中飧流露出濃烈好奇，享受著屬於寵物友善紀元的高空旅程。",
+    "prompt": "3D isometric illustration of a sleek black glossy-furred cat elegantly lounging on a premium leather seat inside a luxurious gold and black private jet cabin. The cat is sniffing a gourmet airplane meal served on a fine porcelain plate. The visual style follows a cross-processing print aesthetic with experimental color shifts, unpredictable color casts, and heightened contrasts for a retro vintage feel. The render features clean geometric forms, polished surfaces, and soft global illumination typical of a Cinema 4D aesthetic. Opulent metallic gold accents contrast with deep black textures. The text '2026-04-30 22:40 UTC' is clearly and visually displayed on a digital cabin display in the background. High-key bright lighting creates a luminous, airy atmosphere with minimal shadows.",
+    "number": 1697,
+    "inspiration": "義大利民航局推出新規定，允許中大型犬進入客機機艙與主人同坐，象徵全球旅遊產業正邁向更具尊嚴的寵物友善新紀元。",
+    "title": "雲端上的黑金禮遇",
+    "news_inspiration": [
+      "法國巴黎的布爾熱航空航天博物館於今日舉辦特別活動，邀請遊客透過天文館與航太互動裝置，探索宇宙與飛行歷史的奧秘。",
+      "台灣台北的大龍峒保安宮昨日舉行保生文化祭，現場點燃滿載煙火的「放火獅」紙糊神獸，祈求健康平安並驅除霉運。",
+      "美國紐約奧本尼的居民正集體發聲，希望能保留當地地標「Nipper」——一座在倉庫屋頂佇立近七十年的 28 英尺高巨型狗雕像。",
+      "澳大利亞烏魯魯-卡塔丘塔國家公園宣布歷史性的突破，於 2026 年首度允許遊客在國家公園中心地帶過夜，體驗原住民文化深度之旅。",
+      "義大利民航局推出新規定，允許中大型犬進入客機機艙與主人同坐，象徵全球旅遊產業正邁向更具尊嚴的寵物友善新紀元。"
+    ]
   }
 ]
