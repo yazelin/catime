@@ -134,5 +134,44 @@
     ],
     "story": "這隻貓正專注地調整重心，在極限運動場上展現驚人的平衡感。觀眾席上的小動物們屏息以待，看牠如何在粗獷的皮革賽道上滑出完美的曲線。",
     "inspiration": "瑞典奧勒於 5 月 1 日舉行 Red Bull Unrailistic 自由式滑雪決賽，各國頂尖好手在極具創意的鋼軌賽道上挑戰體能與技巧極限。"
+  },
+  {
+    "number": 1703,
+    "title": "古物閣樓的有序時光",
+    "news_inspiration": [
+      "在菲律賓巴拉望省的愛妮島，恩塔魯拉海灘因其潔白的沙灘與壯觀的石灰岩峭壁，榮登 2026 年「世界 50 最佳海灘」榜首。",
+      "紐西蘭首都威靈頓在歷經一個世紀的缺席後，透過民間保育計畫成功讓 250 隻國鳥奇異鳥重新回歸當地山丘繁衍。",
+      "奧地利維也納大學的科學家首次記錄到牛隻使用工具的行為，這頭名叫薇若妮卡的牛刷新了人類對牛類智商的認知。",
+      "中國上海於今日正式啟動第七屆「五五購物節」，結合虛擬實境與時尚展覽，吸引大量國際遊客體驗沉浸式購物與文化活動。",
+      "英國倫敦馬拉松賽事傳來捷報，肯亞好手塞巴斯蒂安·索維以驚人的成績突破兩小時大關，刷新了男子馬拉松世界紀錄。"
+    ],
+    "inspiration": "original",
+    "character": "momo",
+    "avoid_list": [
+      "具有亮面塑膠或金屬質感的毛皮",
+      "低頭嗅聞特定物體的動作",
+      "冷色調青藍色與黃金時刻的對比",
+      "黑金奢華配色的場景設定",
+      "視覺化呈現UTC日期與時間文字",
+      "強制透視與魚眼廣角鏡頭效果",
+      "精緻織品或布料紋理細節",
+      "3D等距或Cinema 4D渲染風格",
+      "生物發光或霓虹燈影效果",
+      "對稱構圖與垂直海報佈局",
+      "歷史風格與現代科技質感的融合",
+      "爪子向前伸出抓取或撥弄的姿勢"
+    ],
+    "story": "墨墨在舊書店深處發現了一盒塵封的玻璃藏品，牠憑藉著驚人的智慧，將這些具備玻璃質感的物件依大小精確對齊。陽光穿過窗戶形成暖調的體積光，映照在牠緞面般的黑毛與琥珀色的雙眼上，彷彿在進行一場無聲的鑑定。",
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character_name": "墨墨",
+    "prompt": "An oil painting with thick impasto brushstrokes and visible canvas texture, featuring Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny white locket tuft on the chest, and a single dark-grey ring at the tail tip. Momo has large golden-amber eyes and a single small gold hoop earring on her left ear. She is elegantly performing a knolling arrangement on an amber wooden floor in a dusty bookstore attic. A variety of antique glass magnifying glasses and crystalline bookends are organized in a precise 90-degree grid layout (flat lay overhead view). Warm volumetric lighting and golden god rays stream through a window, illuminating dust particles and creating prismatic light refractions through the glass objects. The color palette is rich with burnt orange, golden yellows, and deep shadows. The date and time '2026-05-01 11:00 UTC' is visually displayed in the corner of the image.",
+    "idea": "這是一幅採用油畫風格與 Knolling 排列攝影構圖的畫作，黑貓墨墨正在充滿體積光的舊書店閣樓裡，優雅地將多種古老放大鏡與水晶書鎮整齊排列在琥珀色的地板上。",
+    "comment_id": 4358997039
   }
 ]
