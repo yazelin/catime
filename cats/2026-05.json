@@ -97,5 +97,42 @@
     "comment_id": 4358421106,
     "inspiration": "original",
     "story": "老站長的退休室裡，這隻陶瓷般的小貓正守護著它的地下鐵王國。當蝴蝶光投射在它圓潤的身軀上，它輕輕推動模型零件，彷彿整座城市的脈動都掌握在它的爪下。"
+  },
+  {
+    "title": "雪嶺上的鋼軌飛躍",
+    "idea": "一隻斑紋貓在奧勒雪山的皮革製滑雪道頂端，正準備飛躍鋼軌，展現吉卜力風格下的動態長卷全景。",
+    "prompt": "A tabby cat poised at the peak of a genuine leather ski slope on Mount Oule, preparing to jump over a steel rail, Studio Ghibli anime style with soft watercolor backgrounds. The composition is an extreme wide handscroll panoramic narrative with multiple focal points spread horizontally, viewed from an oblique bird's-eye angle. The scene features layered foreground and background with a right-to-left reading flow. Lighting is dramatic Rembrandt style with a single light source at 45 degrees creating a signature triangle of light on the cat's cheek and deep chiaroscuro. The ski slope shows rich grain patterns, warm aged patina, and supple creased leather textures. The color palette is a duotone treatment of two contrasting colors for a bold graphic impact. The text '2026-05-01 09:46 UTC' is clearly visually displayed in the corner of the frame.",
+    "news_inspiration": [
+      "法國巴黎在 5 月 1 日勞動節當天，於榮軍院附近舉辦了結合歷史遺產與科技的 Luminescence 沉浸式燈光音響秀。",
+      "英國倫敦於 5 月 1 日正式實施《租賃權利法案》，廢除「無過錯驅逐」規定，全面加強對全英 1100 萬名租客的居住權保護。",
+      "瑞典奧勒於 5 月 1 日舉行 Red Bull Unrailistic 自由式滑雪決賽，各國頂尖好手在極具創意的鋼軌賽道上挑戰體能與技巧極限。",
+      "美國華盛頓特區於 5 月 1 日在國家大教堂展開第 87 屆「花卉市集」慶典，透過多元文化表演與手工藝市集慶祝春季降臨。",
+      "博茨瓦納哈博羅內正準備迎接即將於 5 月 2 日開幕的世界接力錦標賽，這是該市首次主辦如此高規格的國際田徑賽事。"
+    ],
+    "comment_id": 4358763513,
+    "number": 1702,
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Leather",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "具有亮面塑膠或金屬質感的毛皮",
+      "低頭嗅聞特定物體的動作",
+      "冷色調青藍色與黃金時刻的對比",
+      "黑金奢華配色的場景設定",
+      "視覺化呈現UTC日期與時間文字",
+      "強制透視與魚眼廣角鏡頭效果",
+      "精緻織品或布料紋理細節",
+      "3D等距或Cinema 4D渲染風格",
+      "生物發光或霓虹燈影效果",
+      "對稱構圖與垂直海報佈局",
+      "歷史風格與現代科技質感的融合",
+      "爪子向前伸出抓取或撥弄的姿勢"
+    ],
+    "story": "這隻貓正專注地調整重心，在極限運動場上展現驚人的平衡感。觀眾席上的小動物們屏息以待，看牠如何在粗獷的皮革賽道上滑出完美的曲線。",
+    "inspiration": "瑞典奧勒於 5 月 1 日舉行 Red Bull Unrailistic 自由式滑雪決賽，各國頂尖好手在極具創意的鋼軌賽道上挑戰體能與技巧極限。"
   }
 ]
