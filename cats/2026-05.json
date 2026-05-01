@@ -35,5 +35,36 @@
     "story": "在凱恩斯外海的夢幻深處，這隻銀色光澤的小貓正與新發現的巨大珊瑚溫柔互動。牠穿梭在如夢似幻的粉色海底世界，與神祕的海洋生物共同編織一場壯麗的長卷冒險。",
     "number": 1699,
     "title": "海境長卷的珊瑚守望"
+  },
+  {
+    "news_inspiration": [],
+    "idea": "這是一幅結合非洲未來主義的摺紙藝術作品，展示一隻摺紙質感的貓在霓虹螢光色的幾何實驗室中，正優雅地撥弄一個懸浮的發光星儀，構圖採用多視角展示服裝細節的手法。",
+    "inspiration": "original",
+    "title": "星域褶皺間的巡航",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Origami",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "An Afrofuturism illustration of a cat made of origami folded paper with sharp geometric creases and tribal patterns. The cat is elegantly batting a levitating glowing armillary sphere in a neon fluorescent laboratory. The composition is a multi-view fashion design sheet format, featuring front, side, and back views alongside a detailed close-up, all arranged in clean panels. The color palette consists of electric pink, lime green, and hot cyan glowing against a dark background. Lighting is soft and diffused with no harsh shadows, highlighting the paper sculpture aesthetic. The date and time '2026-05-01 05:33 UTC' is visually integrated into the image layout.",
+    "number": 1700,
+    "story": "在遙遠星系的綠洲實驗室，這隻幾何構造的摺紙貓正協助領航員校對航線。牠靈巧的爪子輕觸螢光部件，自然漫射的光線穿透其摺疊的層次，呈現出古老部落圖騰與未來科技的完美交織。",
+    "comment_id": 4358002146,
+    "avoid_list": [
+      "具有亮面塑膠或金屬質感的毛皮",
+      "低頭嗅聞特定物體的動作",
+      "冷色調青藍色與黃金時刻的對比",
+      "黑金奢華配色的場景設定",
+      "視覺化呈現UTC日期與時間文字",
+      "強制透視與魚眼廣角鏡頭效果",
+      "精緻織品或布料紋理細節",
+      "3D等距或Cinema 4D渲染風格",
+      "生物發光或霓虹燈影效果",
+      "對稱構圖與垂直海報佈局",
+      "歷史風格與現代科技質感的融合",
+      "爪子向前伸出抓取或撥弄的姿勢"
+    ]
   }
 ]
