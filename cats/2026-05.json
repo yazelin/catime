@@ -173,5 +173,36 @@
     "prompt": "An oil painting with thick impasto brushstrokes and visible canvas texture, featuring Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny white locket tuft on the chest, and a single dark-grey ring at the tail tip. Momo has large golden-amber eyes and a single small gold hoop earring on her left ear. She is elegantly performing a knolling arrangement on an amber wooden floor in a dusty bookstore attic. A variety of antique glass magnifying glasses and crystalline bookends are organized in a precise 90-degree grid layout (flat lay overhead view). Warm volumetric lighting and golden god rays stream through a window, illuminating dust particles and creating prismatic light refractions through the glass objects. The color palette is rich with burnt orange, golden yellows, and deep shadows. The date and time '2026-05-01 11:00 UTC' is visually displayed in the corner of the image.",
     "idea": "這是一幅採用油畫風格與 Knolling 排列攝影構圖的畫作，黑貓墨墨正在充滿體積光的舊書店閣樓裡，優雅地將多種古老放大鏡與水晶書鎮整齊排列在琥珀色的地板上。",
     "comment_id": 4358997039
+  },
+  {
+    "prompt": "New Chinese doll-style illustration of a ginger cat on a weathered wooden windowsill in an ancient town. The cat is intently pawing at scattered dry pinecones. The composition features a vertical poster layout with modern chinoiserie aesthetics and multi-layered depth. Lighting is dramatic Rembrandt style with a single light source at 45 degrees, creating a chiaroscuro effect. The visual style incorporates a fine sand texture with warm golden granules and wind-sculpted patterns. Color palette consists of warm amber, burnt orange, and golden yellows to evoke an autumn nostalgia. Detailed elements include traditional flora motifs and a side calligraphy panel. The text '2026-05-01 12:52 UTC' is visually integrated into the scene.",
+    "idea": "這是一幅採用新中式少女插畫風格的作品，描繪一隻橘貓在秋日琥珀色的光影下，於古鎮木窗邊專注地撥弄散落的乾松果，畫面充滿細膩的沙質紋理與倫勃朗光影。",
+    "style_picks": {
+      "art_style": "Contemporary Chinese Doll Illustration",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4359358084,
+    "news_inspiration": [],
+    "number": 1704,
+    "story": "老宅的午後安靜得只剩下風聲，橘貓在深秋的窗台邊與幾顆乾枯的松果玩起追逐遊戲。暖陽斜射進屋內，映照出少女畫像般的靜謐氛圍，每一寸空氣都瀰漫著琥珀色的歲月感。",
+    "title": "琥珀窗邊的松果圓舞曲",
+    "inspiration": "original",
+    "avoid_list": [
+      "具有亮面塑膠或金屬質感的毛皮",
+      "低頭嗅聞特定物體的動作",
+      "冷色調青藍色與黃金時刻的對比",
+      "黑金奢華配色的場景設定",
+      "視覺化呈現UTC日期與時間文字",
+      "強制透視與魚眼廣角鏡頭效果",
+      "精緻織品或布料紋理細節",
+      "3D等距或Cinema 4D渲染風格",
+      "生物發光或霓虹燈影效果",
+      "對稱構圖與垂直海報佈局",
+      "歷史風格與現代科技質感的融合",
+      "爪子向前伸出抓取或撥弄的姿勢"
+    ]
   }
 ]
