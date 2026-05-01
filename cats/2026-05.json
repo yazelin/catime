@@ -525,5 +525,42 @@
     "idea": "這是一幅酒精墨水藝術風格的插畫分格，描繪一隻貓在格林威治皇家天文台的透明玻璃露台上，輕拍著映照在水晶球裡的哈雷彗星流星雨。",
     "story": "當罕見的藍月升起，整座天文台被粉彩色的高調明亮光籠罩。這隻好奇的貓坐在星圖旁，正試圖用爪子捕捉那些在水晶折射下閃爍的流星軌跡。",
     "number": 1713
+  },
+  {
+    "prompt": "A calico cat lying on the surface of Phobos, curiously pawing at red Martian dust next to an automated water-spraying rover, Palekh miniature painting style with intricate detailing and gold leaf accents. The composition uses an orthographic projection and a straight-on flat rendering on a dark background. The color scheme follows a Morandi palette with desaturated soft pastels, dusty grey undertones, and muted elegance. Heavy falling snow and a blizzard veil create a foggy, diffused atmosphere with cold blue-white lighting. The text '2026-05-01 23:41 UTC' is visually displayed in the corner of the frame. The scene blends Russian folkloric storytelling with a technical space illustration aesthetic.",
+    "title": "火衛一的神祕採樣員",
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Orthographic Projection",
+      "lighting": "Snowstorm Haze",
+      "texture": "3D Render",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 4362172065,
+    "inspiration": "日本宇宙航空研究開發機構（JAXA）正積極籌備火星衛星探測任務，計畫前往火衛一及火衛二採集樣本並帶回地球。",
+    "idea": "在莫蘭迪色調的帕列赫細密畫風格下，一隻三花貓趴在正在自動噴水的火星探測器旁，好奇地撥弄著火衛一表面的紅色塵埃。",
+    "story": "日本宇宙航空研究開發機構的探測器剛登陸火衛一，隨行的貓咪便迫不及待地在暴風雪朦朧的稀薄大氣中探索。它用肉墊輕拍著採樣臂，似乎在指導這台昂貴的機器如何正確地挖掘異星泥土。",
+    "number": 1714,
+    "avoid_list": [
+      "撥弄史前化石",
+      "螺旋漩渦構圖",
+      "長卷全景敘事",
+      "鳥類引導貓群",
+      "霓虹螢光實驗室",
+      "扭曲下顎結構",
+      "雙色調處理與鐵鏽紋理",
+      "俯瞰鳥瞰視角",
+      "摺紙與幾何構造",
+      "倫勃朗光影效果",
+      "琥珀色與焦橙色調",
+      "物件整齊排列構圖"
+    ],
+    "news_inspiration": [
+      "在奧地利維也納，科學家首次觀察到乳牛竟能將工具當作多功能用途使用，顯示其智力遠超以往認知。",
+      "香港長洲正盛大舉行一年一度的包山節，吸引眾多遊客參與傳統的道教儀式、舞獅表演及驚險的搶包山比賽。",
+      "澳洲大堡礁的科研團隊發現了一株存活數百年且體型巨大的珊瑚，這為研究氣候變遷下的珊瑚韌性提供了寶貴線索。",
+      "蘇格蘭正式立法要求所有新蓋房屋必須安裝「雨燕磚」，透過提供築巢空間來保育這群每年遷徙萬里的候鳥。",
+      "日本宇宙航空研究開發機構（JAXA）正積極籌備火星衛星探測任務，計畫前往火衛一及火衛二採集樣本並帶回地球。"
+    ]
   }
 ]
