@@ -241,5 +241,42 @@
     "comment_id": 4359703177,
     "story": "隨著幾維鳥數量的回升，這群長嘴的小嚮導帶著貓咪巡視新開闢的生態秘境。在雙色調的強烈輪廓光下，森林的邊界因數位故障而產生位移，形成一場現實與數據交織的保育慶典。",
     "inspiration": "紐西蘭保育團隊宣布幾維鳥（Kiwi）數量成功回升，成為該國生態復育計畫的一個重要里程碑。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 1706,
+    "comment_id": 4360164419,
+    "story": "在深邃的神祕雨林中，這隻靈巧的貓發現了沉睡億萬年的祕密。化石上奇異的下顎在生物螢光映照下閃爍，連結起當下的生命與遠古的荒野。",
+    "prompt": "A cat in the Amazon forest observing a prehistoric fossil with a twisted jaw, Gond painting style featuring intricate dot and line patterns. Neon fluorescent palette with electric pink, lime green, and hot cyan glowing against a dark forest background. Bioluminescent plants casting organic light. Orthographic projection, flat rendering with no perspective distortion. The entire scene is set on an aged silk texture with visible weave and weathered patina. The text '2026-05-01 15:44 UTC' is visually displayed in a corner of the image.",
+    "news_inspiration": [
+      "巴西古生物學家在亞馬遜森林發現具備奇特「扭曲下顎」的新物種化石，這隻生存於 2.75 億年前的史前動物為研究早期植食性動物提供了關鍵線索。",
+      "美國喬治亞州一名 103 歲的二戰老兵尼布利特太太，在當年為投入 B-29 轟炸機焊接工作而輟學的 80 多年後，終於在今年 5 月 1 日獲頒榮譽高中畢業證書。",
+      "紐西蘭保育界迎來喜訊，隨著復育計畫成功，國鳥奇異鳥（Kiwi）在多個地區的族群數量顯著回升，展現了長期生態保護的成效。",
+      "中國五一假期期間「小眾旅遊」成為主流，許多遊客避開大城市，前往內蒙古錫林郭勒盟參加大規模的越野賽車挑戰賽，體驗沙漠壯麗景致。",
+      "英國迎來近年最繁忙的 5 月銀行假期交通尖峰，預計將有超過 1,900 萬次休閒旅遊車次，儘管氣象預報將有陣雨，仍擋不住民眾的出遊熱情。"
+    ],
+    "idea": "以霓虹螢光色調的貢德畫風格，描繪一隻貓在亞馬遜森林的發光植物間，觀察一具擁有扭曲下顎的史前生物化石，並採用正交投影構圖與古絹紋理。",
+    "inspiration": "巴西古生物學家在亞馬遜森林發現具備奇特「扭曲下顎」的新物種化石，這隻生存於 2.75 億年前的史前動物為研究早期植食性動物提供了關鍵線索。",
+    "avoid_list": [
+      "倫勃朗光影與深邃層次",
+      "長卷全景構圖",
+      "貓撥弄或觸碰特定物件",
+      "鳥瞰或斜向鳥瞰視角",
+      "右至左的敘事流動",
+      "吉卜力或動漫風格背景",
+      "整合日期時間戳記於畫面",
+      "層層嵌套的重複空間",
+      "皮革與金屬材質對比",
+      "琥珀色與金黃色調的深秋感",
+      "蝴蝶光照明效果",
+      "微縮模型或精密物件排列"
+    ],
+    "title": "幽林古頜螢光夢"
   }
 ]
