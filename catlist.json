@@ -15581,5 +15581,14 @@
     "title": "糖果海的探險家",
     "model": "gemini-3-pro-image-preview",
     "status": "success"
+  },
+  {
+    "number": 1713,
+    "inspiration": "格林威治皇家天文台指出，5 月份的夜空將出現罕見的「藍月」現象與哈雷彗星帶來的流星雨。",
+    "title": "藍月下的星軌捕手",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-01_2239_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-05-01 22:39 UTC"
   }
 ]
