@@ -346,5 +346,46 @@
       "蝴蝶光照明效果",
       "微縮模型或精密物件排列"
     ]
+  },
+  {
+    "prompt": "Art Nouveau illustration of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and huge round sapphire-blue eyes, surprised and recoiling in a Dutch tulip field. She wears a pink ribbon bow collar with a prominent golden bell centered beneath the knot. The composition features an infinite Droste effect recursion within flowing organic Mucha-inspired ornamental borders and floral motifs. The scene utilizes a bold duotone color treatment with rusted weathered metal textures and oxidized patina. Volumetric light rays and dramatic cinematic shadows illuminate the pink petals clinging to her white fur. The text '2026-05-01 18:55 UTC' is visually integrated into the graphic design of the frame.",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "美國芝加哥於今日（5月2日）成功舉辦第15屆國際爵士樂日全明星全球音樂會，集結世界頂尖樂手以音樂慶祝文化團結。",
+      "菲律賓巴拉望島的恩塔盧拉海灘（Entalula Beach）在最新公佈的「2026年全球50大最佳海灘」名單中榮登榜首，被譽為隱世的熱帶天堂。",
+      "美國肯塔基州路易斯維爾市今日迎來第152屆肯塔基德比馬術大賽，這項傳統運動盛事吸引全球馬迷關注。",
+      "荷蘭利瑟的庫肯霍夫花園正值鬱金香節盛花期，五彩繽紛的花海吸引了大量國際遊客體驗春季自然美景。",
+      "在英國舉行的臨床試驗傳出好消息，一種新型血液檢測技術已能成功在症狀出現前識別出約50種癌症，為醫學預防帶來重大突破。"
+    ],
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Cinematic Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "倫勃朗光影與深邃層次",
+      "長卷全景構圖",
+      "貓撥弄或觸碰特定物件",
+      "鳥瞰或斜向鳥瞰視角",
+      "右至左的敘事流動",
+      "吉卜力或動漫風格背景",
+      "整合日期時間戳記於畫面",
+      "層層嵌套的重複空間",
+      "皮革與金屬材質對比",
+      "琥珀色與金黃色調的深秋感",
+      "蝴蝶光照明效果",
+      "微縮模型或精密物件排列"
+    ],
+    "story": "鈴鈴在庫肯霍夫花園的鬱金香叢中追逐蝴蝶，卻被一隻色彩斑斕的鳳蝶嚇得原地起飛，渾身沾滿了粉色花瓣。這隻活像棉花糖的布偶貓在鐵鏽舊化的園藝裝飾間穿梭，清脆的鈴聲迴盪在雙色調處理的夢幻花海中。",
+    "idea": "在新藝術風格的流線框線中，蓬鬆的鈴鐺貓在荷蘭鬱金香花田裡驚訝地往後彈跳，畫面呈現如德羅斯特效應般的無限花海遞迴。",
+    "inspiration": "荷蘭利瑟的庫肯霍夫花園正值鬱金香節盛花期，五彩繽紛的花海吸引了大量國際遊客體驗春季自然美景。",
+    "comment_id": 4361085836,
+    "number": 1709,
+    "title": "鬱金香海的驚奇彈跳",
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "season": "spring"
   }
 ]

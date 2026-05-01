@@ -15539,5 +15539,18 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-05-01 17:48 UTC"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-01_1855_UTC.webp",
+    "is_seasonal": true,
+    "inspiration": "荷蘭利瑟的庫肯霍夫花園正值鬱金香節盛花期，五彩繽紛的花海吸引了大量國際遊客體驗春季自然美景。",
+    "number": 1709,
+    "status": "success",
+    "timestamp": "2026-05-01 18:55 UTC",
+    "title": "鬱金香海的驚奇彈跳",
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "season": "spring",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]
