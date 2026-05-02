@@ -714,5 +714,42 @@
       "color_palette": "Neon Fluorescent"
     },
     "prompt": "Isometric photography of a manga world where a calico cat crouches in bioluminescent tall grass, curiously watching a herd of wild horses made of liquid metal galloping past. The horses feature a mercury-like reflective flow and molten mirror finish with neon fluorescent colors in electric pink, lime green, and hot cyan. The scene is rendered with clean ink lines, screentone shading, and deep blue-green organic glow from underground mycelium. In the corner of the frame, the date and time '2026-05-02 09:52 UTC' is visually displayed. High-contrast lighting with chrome dripping textures and dynamic action lines, perfectly isometric angle capturing the expansive wild rebirth."
+  },
+  {
+    "avoid_list": [
+      "好奇地撥弄或按住物品",
+      "日期時間文字整合於畫面",
+      "莫蘭迪色調與粉彩色系",
+      "懸浮或透明的玻璃祭壇露台",
+      "高調明亮光與極簡陰影",
+      "無限遞迴的德羅斯特效應",
+      "等距視角與低多邊形風格",
+      "液態金屬或金箔元素",
+      "邊角顯示數位字體時間",
+      "貓在物品堆或盤子中央",
+      "奢華黑金裝飾配混凝土紋理",
+      "強烈的背光或黃金時刻輪廓光"
+    ],
+    "news_inspiration": [
+      "巴西古生物學家在亞馬遜河附近的乾涸河床中，發現了距今 2.75 億年前、擁有獨特扭曲下頜的史前「活化石」魚類 Tanyka amnicola。",
+      "美國加州范登堡太空軍基地計畫於 5 月 2 日午夜發射獵鷹 9 號火箭，將韓國觀測衛星 CAS500-2 送入軌道，慶祝美韓技術合作。",
+      "哥倫比亞正在舉行瓦倫納托傳奇節（Vallenato Legend Festival），展示被聯合國教科文組織列為非物質文化遺產的傳統手風琴音樂。",
+      "英國牛津大學物理學家成功實現了量子系統中極難觀測的「四重擠壓」（quadsqueezing）效果，為未來的量子感測與運算開拓了新領域。",
+      "辛巴威國際電影節（ZIFF）於首都哈拉雷正式開幕，透過多樣化的影像作品慶祝非洲文化與獨立電影的創意活力。"
+    ],
+    "title": "霓虹手風琴之夜的狩獵",
+    "comment_id": 4363620922,
+    "number": 1720,
+    "prompt": "A 3D claymation style handscroll panorama, sculpted clay characters with visible fingerprint textures and stop-motion aesthetic, extreme wide continuous narrative from a right-to-left flow. A bioluminescent patterned cat leaps through a dark Colombian plaza, weaving between giant neon accordions with glowing ultraviolet bellows. The cat chases fluorescent musical note particles erupting from keys. Oblique bird's-eye angle with layered depth. Blacklight UV illumination, vibrant neon electric pink, lime green, and hot cyan pigments glowing against deep shadows. Polished Cinema 4D render with soft global illumination. The text '2026-05-02 10:40 UTC' is visually integrated and clearly displayed within the scene.",
+    "inspiration": "哥倫比亞正在舉行瓦倫納托傳奇節（Vallenato Legend Festival），展示被聯合國教科文組織列為非物質文化遺產的傳統手風琴音樂。",
+    "story": "在瓦倫納托傳奇節的夜晚，這隻貓靈巧地在發出紫外光的風箱褶皺間跳躍。隨著手風琴自動開闔演奏，貓兒正專注地追逐著從琴鍵中噴發出的螢光音符粒子。",
+    "idea": "以 3D 渲染的黏土動畫風格呈現長卷全景，一隻螢光斑紋貓在黑暗的哥倫比亞廣場中穿梭於巨大霓虹手風琴之間。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "3D Render",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
