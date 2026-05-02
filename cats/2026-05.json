@@ -893,5 +893,42 @@
     "title": "深海銀幣的守護者",
     "story": "這隻勇敢的深海小貓在挪威深海中發現了沉睡千年的維京寶藏。周遭的深海生物發出藍青色的光芒，照亮了牠身下堆積如山的古代銀幣與陶瓷殘骸。",
     "idea": "在幽暗的海底維京船骸中，一隻具有黏土質感的發光貓咪正用爪子撥弄著剛出土的古銀幣，呈現超廣角蠟筆兒童畫風格。"
+  },
+  {
+    "news_inspiration": [
+      "法國巴黎的香榭麗舍大道於 5 月 3 日實施行人徒步日，禁止車輛進入，讓市民與遊客能自在地在街頭漫步。",
+      "天文學家利用 XRISM 衛星觀測資料，成功解開困擾科學家 50 年的仙后座 gamma 星 X 射線來源之謎。",
+      "美國哈佛大學藝術節於 5 月 3 日迎來最後一天，在劍橋市舉辦包括《布蘭詩歌》音樂會等多場免費文化演出。",
+      "德國柏林動物園為全球最高齡的母大猩猩 Fatou 慶祝 69 歲生日，館方特別準備了豐富的蔬菜大餐。",
+      "墨西哥城近期因地下水過度抽取導致地層下陷速度加劇，其明顯的沉降現象已可從太空衛星影像中觀測到。"
+    ],
+    "story": "街道因行人徒步日而空無一車，世界靜謐得只剩下雪落下的聲音。這隻貓在微縮的凱旋門剪影前跳躍，將空曠的巴黎街頭當成了牠專屬的織品遊樂場。",
+    "idea": "在黑白單色調的立體紙藝景中，一隻布料質感的長毛貓正於暴風雪朦朧的香榭麗舍大道中心，專注地追逐一片被風吹起的皺紙屑。",
+    "avoid_list": [
+      "低頭撥弄地圖或地磚",
+      "虹彩全息質感",
+      "三花貓與莫蘭迪色調",
+      "超廣角12-18mm透視",
+      "視覺顯示日期與時間",
+      "螢光霓虹與深色陰影對比",
+      "垂直色板設計美學",
+      "奢華混凝土與金色元素",
+      "生物發光與地下菌絲",
+      "黏土動畫與手指紋理質感",
+      "蝴蝶光對稱陰影",
+      "古代文物與貓的跨時空對話"
+    ],
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Snowstorm Haze",
+      "texture": "Fabric / Textile",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "inspiration": "法國巴黎的香榭麗舍大道於 5 月 3 日實施行人徒步日，禁止車輛進入，讓市民與遊客能自在地在街頭漫步。",
+    "prompt": "A black and white monochrome paper diorama scene of a three-dimensional layered paper sculpture showing the Champs-Élysées. In the center of the snowy street, a long-haired cat with visible woven fabric texture and linen weave pattern is leaping to catch a piece of crumpled paper. Behind the cat, a miniature laser-cut silhouette of the Arc de Triomphe stands under a heavy falling snow veil. The aesthetic is a pop-up book with high contrast and dramatic shadows. Tilt-shift photography effect with a selective focus band creates a miniature toy-like appearance. The text '2026-05-02 16:35 UTC' is visually displayed in the corner of the scene. Atmospheric snowstorm lighting with fogged distance and a rich tonal range.",
+    "number": 1725,
+    "comment_id": 4364259178,
+    "title": "雪徑孤蹤的迴旋"
   }
 ]
