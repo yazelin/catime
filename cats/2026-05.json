@@ -930,5 +930,42 @@
     "number": 1725,
     "comment_id": 4364259178,
     "title": "雪徑孤蹤的迴旋"
+  },
+  {
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "南韓考古團隊在境內發現了距今約 1.06 億年前的翼龍足跡化石，這項發現為研究史前飛行爬行動物的行為提供了重要線索。",
+    "comment_id": 4364366276,
+    "story": "考古團隊正在挖掘一億年前的翼龍足跡，這隻不請自來的貓卻成了工地最可靠的監督。牠在塵土飛揚的溝壑中穿梭，熟練地用爪子撥開紅土，試圖尋找那跨越時空的「大鳥」留下的氣味。",
+    "idea": "在南韓發現翼龍化石的挖掘現場，一隻虎斑貓正以 GTA 藝術風格呈現，蹲伏在泥土中專注地扒開砂石，構圖採用服裝多視角展示並搭配倫勃朗光與底片顆粒感。",
+    "news_inspiration": [
+      "澳洲墨爾本大學的工程系學生成功重現了 1775 年設計的「機械火山」，讓這座沉寂 250 年的科學構想在校園中震撼登場。",
+      "美國佛羅里達州的奧蘭治郡於今日正式啟動「亞裔美國人與太平洋島民傳統月」慶祝活動，展出豐富的藝術展覽並推廣多元文化交流。",
+      "南韓考古團隊在境內發現了距今約 1.06 億年前的翼龍足跡化石，這項發現為研究史前飛行爬行動物的行為提供了重要線索。",
+      "美國明尼蘇達州的庫克郡今日正式展開「國家旅遊週」活動，以「熱愛旅程」為主題慶祝旅遊業對當地經濟與生活型態的貢獻。",
+      "巴西古生物學家在乾涸的河床中挖掘出 2.75 億年前的古老生物化石，其特殊的「扭曲下頜」結構是目前已知物種中前所未見的科學奇觀。"
+    ],
+    "title": "億載足跡的守護者",
+    "prompt": "GTA art style illustration of a tabby cat digging in an archaeological pterosaur fossil site in South Korea. Bold cel-shaded graphic style with saturated colors and urban attitude. Multi-view fashion design sheet layout featuring front view, back view, side view, and a close-up of the cat's paws in the red dirt, arranged in labeled panels. Dramatic Rembrandt lighting with a single 45-degree light source creating a chiaroscuro effect. Duotone color treatment with heavy film grain and analog texture. The text '2026-05-02 17:35 UTC' is visually displayed in the corner of the composition.",
+    "avoid_list": [
+      "低頭撥弄地圖或地磚",
+      "虹彩全息質感",
+      "三花貓與莫蘭迪色調",
+      "超廣角12-18mm透視",
+      "視覺顯示日期與時間",
+      "螢光霓虹與深色陰影對比",
+      "垂直色板設計美學",
+      "奢華混凝土與金色元素",
+      "生物發光與地下菌絲",
+      "黏土動畫與手指紋理質感",
+      "蝴蝶光對稱陰影",
+      "古代文物與貓的跨時空對話"
+    ],
+    "number": 1726
   }
 ]
