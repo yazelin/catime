@@ -782,5 +782,42 @@
     ],
     "story": "這隻由數位像素構成的貓穿梭在現實與虛擬的邊界，地圖上的墨水正隨著雨水擴散。畫面被分割成故事插畫般的格位，每一格都捕捉到牠在單色霓虹光影下尋找失落港口的細膩動態。",
     "idea": "在霓虹燈映照的雨後巷弄中，一隻巨大的充氣式 PVC 質感黑白貓咪正以馬賽克藝術風格呈現，其身體構造由無數微小的方塊拼湊而成，正低頭專注地嗅著地上一張濕漉漉的航海地圖。"
+  },
+  {
+    "idea": "一隻玳瑁貓在古老修道院的石桌上，專注地舔拭一尊具有1.13億年歷史的激龍屬恐龍頭骨，呈現彩飾手抄本藝術風格。",
+    "inspiration": "德國自然歷史博物館於今日正式向巴西歸還具有 1.13 億年歷史的激龍屬恐龍頭骨，標誌著全球文物與化石返還運動的重大進展。",
+    "prompt": "An illuminated manuscript style illustration of a tortoiseshell cat on a weathered stone table in an ancient monastery, focused on licking a 113-million-year-old Irritator dinosaur skull. The scene is framed by vertical color palette swatch bars on both sides in a design moodboard aesthetic. Art style features intricate calligraphy borders, gold leaf accents, and rich jewel-tone colors mixed with an earth tone palette of terracotta, olive green, and warm brown. The cat's fur exhibits iridescent holographic material and rainbow color shifts. Lighting is a mix of butterfly lighting and overhead key light, creating symmetrical shadows. The date and time '2026-05-02 12:43 UTC' is visually integrated into the artwork's border. Traditional medieval book art technique with shimmering translucent surfaces and pastel prismatic reflections.",
+    "story": "隨着巴西文物的歸還，這隻守護博物館多年的老貓似乎也感受到了化石上的遠古氣息。牠優雅地蹲伏在羊皮紙卷之間，虹彩全息的光澤在棕褐色大地色調中閃爍，彷彿在與史前巨獸進行一場跨越時空的靜默對話。",
+    "comment_id": 4363807455,
+    "number": 1722,
+    "news_inspiration": [
+      "德國自然歷史博物館於今日正式向巴西歸還具有 1.13 億年歷史的激龍屬恐龍頭骨，標誌著全球文物與化石返還運動的重大進展。",
+      "美國 NASA 的阿提米絲 2 號（Artemis II）太空員在順利繞月返航後，於今日分享了他們降落太平洋後的第一餐，並與小粉絲溫馨互動。",
+      "阿爾及利亞首都阿爾及爾舉辦第 15 屆國際交響樂節，由捷克共和國擔任榮譽嘉賓，現場演出了結合古典與當地民族風格的樂章。",
+      "印度納加蘭邦的楚丘伊姆朗村於今日熱鬧慶祝傳統的莫阿蘇節（Moatsu），村民透過歌舞與祭典祈求自然之神保佑農作豐收。",
+      "美國亞特蘭大動物園今日正式宣布啟動新的巨型熊貓保護合作協議，預計迎來「平平」與「福雙」兩隻大熊貓進駐，延續保育研究任務。"
+    ],
+    "avoid_list": [
+      "好奇地撥弄或按住物品",
+      "日期時間文字整合於畫面",
+      "莫蘭迪色調與粉彩色系",
+      "懸浮或透明的玻璃祭壇露台",
+      "高調明亮光與極簡陰影",
+      "無限遞迴的德羅斯特效應",
+      "等距視角與低多邊形風格",
+      "液態金屬或金箔元素",
+      "邊角顯示數位字體時間",
+      "貓在物品堆或盤子中央",
+      "奢華黑金裝飾配混凝土紋理",
+      "強烈的背光或黃金時刻輪廓光"
+    ],
+    "title": "歸途上的古獸守護者",
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
