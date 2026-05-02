@@ -15717,5 +15717,18 @@
     "number": 1727,
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-05-02 18:41 UTC"
+  },
+  {
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-02_1945_UTC.webp",
+    "status": "success",
+    "character_name": "鈴鈴",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1728,
+    "season": "spring",
+    "title": "櫻落鈴響幻蝶夢",
+    "timestamp": "2026-05-02 19:45 UTC",
+    "inspiration": "original",
+    "character": "lingling"
   }
 ]

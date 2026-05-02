@@ -1004,5 +1004,40 @@
     "number": 1727,
     "idea": "在食物超現實擬物風格下，一隻液態金屬質感的貓咪正在由巨大蘇打餅乾組成的馬拉松賽道上奮力奔跑，展現微縮立體模型的奇幻感。",
     "comment_id": 4364481676
+  },
+  {
+    "story": "春日盛開的櫻花林中，鈴鈴正奮力追逐一隻閃爍的藍色幻蝶，每一步跳躍都讓身上的粉紅鈴鐺發出清脆聲響。雖然不小心撞上樹幹讓櫻花落滿了一身，但她那雙寶石藍的大眼睛依然充滿好奇與喜悅。",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "character_name": "鈴鈴",
+    "prompt": "Oriental mythic poster art of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and large sapphire-blue eyes. She is leaping through a lush cherry blossom forest, chasing a shimmering blue phantom butterfly. Lingling wears a pink ribbon bow collar with a centered, visible golden bell. The composition is a multi-view showcase layout with front, back, side, and detail close-up panels arranged like a fashion design sheet. Visual elements include traditional Chinese ink cloud ornaments, vertical calligraphy panels, and red seal stamps. Gold leaf accents on a deep black background contrast with cinematic lighting and volumetric rays. The text '2026-05-02 19:45 UTC' is visually displayed in the corner. The style features tactile woven fabric textures for her pink ribbons, serene cool-blue color grading, and falling pink cherry blossoms. No human features, purely a four-legged feline subject.",
+    "avoid_list": [
+      "低頭撥弄地圖或地磚",
+      "虹彩全息質感",
+      "三花貓與莫蘭迪色調",
+      "超廣角12-18mm透視",
+      "視覺顯示日期與時間",
+      "螢光霓虹與深色陰影對比",
+      "垂直色板設計美學",
+      "奢華混凝土與金色元素",
+      "生物發光與地下菌絲",
+      "黏土動畫與手指紋理質感",
+      "蝴蝶光對稱陰影",
+      "古代文物與貓的跨時空對話"
+    ],
+    "number": 1728,
+    "comment_id": 4364588682,
+    "season": "spring",
+    "idea": "以東方奇幻海報風格呈現，穿梭在繁茂櫻花樹間的鈴鈴，白毛與粉紅織品緞帶交織，畫面採多視角展示其蓬鬆動態。",
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Cinematic Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "櫻落鈴響幻蝶夢",
+    "is_seasonal": true,
+    "character": "lingling"
   }
 ]
