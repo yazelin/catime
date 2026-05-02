@@ -819,5 +819,42 @@
       "texture": "Iridescent Holographic",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "idea": "採用即棄相機風格，捕捉一隻橘貓在充滿高飽和鮮豔色的混亂客廳中，正專注地用爪子撥弄一塊具有虹彩全息質感的古老中世紀地磚，背景環形燈光映照出少年歸還文物的現場感。",
+    "inspiration": "史密森尼學會今日報導一名英國少年將 60 年前從修道院偷走的歷史地磚送還，這段跨越半世紀的誠實行為引發大眾熱議。",
+    "number": 1723,
+    "story": "這隻名叫「地圖」的貓在少年歸還地磚的前一刻，試圖用牠的方式鑑定這塊跨越半世紀的歷史碎片。閃光燈的強烈光影與粗糙的底片顆粒感，記錄下這場關於誠實與好奇的午茶時光。",
+    "comment_id": 4363980102,
+    "title": "跨越甲子的歸途",
+    "prompt": "A disposable camera snapshot of an orange cat in a messy, high-saturation living room, focused on batting at an ancient medieval floor tile with its paw. The tile features a shimmering iridescent holographic texture with rainbow color shifts. The scene is illuminated by a ring light, creating circular catchlights in the cat's eyes and even frontal lighting. The image has a low-quality charm with flash artifacts, heavy film grain, and subtle light leaks. The composition is framed by vertical color palette swatch bars on both sides in a design moodboard aesthetic. The date and time '2026-05-02 14:04 UTC' is visually stamped in a small, glowing orange font in the bottom right corner.",
+    "news_inspiration": [
+      "美國阿拉巴馬州莫比爾市於今日舉行第 77 屆年度漁隊祈福儀式，這項悠久的傳統活動吸引了大量遊客參與海鮮饗宴與慶祝活動。",
+      "奧地利維也納的科學家近期首次紀錄到乳牛能使用工具的行為，這項發現挑戰了人類對家畜智慧的既有認知。",
+      "史密森尼學會今日報導一名英國少年將 60 年前從修道院偷走的歷史地磚送還，這段跨越半世紀的誠實行為引發大眾熱議。",
+      "美國航太總署的阿提米絲 2 號太空人本週訪問紐約聯合國總部，分享他們完成載人繞月飛行任務後對人類團結的深刻見解。",
+      "蘇格蘭正式立法成為全球首個要求新建住宅必須安裝「雨燕磚」的國家，旨在為這種數量急遽減少的鳥類提供城市棲息地。"
+    ],
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Ring Light",
+      "texture": "Iridescent Holographic",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "好奇地撥弄或按住物品",
+      "日期時間文字整合於畫面",
+      "莫蘭迪色調與粉彩色系",
+      "懸浮或透明的玻璃祭壇露台",
+      "高調明亮光與極簡陰影",
+      "無限遞迴的德羅斯特效應",
+      "等距視角與低多邊形風格",
+      "液態金屬或金箔元素",
+      "邊角顯示數位字體時間",
+      "貓在物品堆或盤子中央",
+      "奢華黑金裝飾配混凝土紋理",
+      "強烈的背光或黃金時刻輪廓光"
+    ]
   }
 ]
