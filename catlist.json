@@ -15918,5 +15918,16 @@
     "status": "success",
     "timestamp": "2026-05-03 22:29 UTC",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-03_2229_UTC.webp"
+  },
+  {
+    "status": "success",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-03_2333_UTC.webp",
+    "inspiration": "義大利薩丁尼亞島今日正式展開第三屆世界西洋棋節，吸引了歷年來最強大的棋手陣容在美麗的地中海景致下同場競技。",
+    "timestamp": "2026-05-03 23:33 UTC",
+    "character_name": "麻糬",
+    "title": "老街棋王的異國挑戰",
+    "number": 1749,
+    "model": "gemini-3-pro-image-preview"
   }
 ]
