@@ -15779,5 +15779,16 @@
     "title": "沙盤上的墨色足跡",
     "character_name": "墨墨",
     "status": "success"
+  },
+  {
+    "character": "captain",
+    "inspiration": "original",
+    "title": "金影交織的航道巡邏",
+    "timestamp": "2026-05-03 05:20 UTC",
+    "number": 1734,
+    "character_name": "船長",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-03_0520_UTC.webp",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)"
   }
 ]

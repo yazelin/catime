@@ -1222,5 +1222,38 @@
       "金箔飾邊與手抄本藝術風格",
       "低角度或廣角透視鏡頭"
     ]
+  },
+  {
+    "news_inspiration": [],
+    "character": "captain",
+    "avoid_list": [
+      "虹彩全息質感",
+      "多視角服裝設計展示圖板",
+      "古老文物與化石挖掘",
+      "螢光生物發光效果",
+      "視覺化日期時間標記",
+      "黏土動畫與 3D 渲染質感",
+      "垂直調色盤色塊裝飾",
+      "微縮立體模型與移軸攝影",
+      "霓虹光影與雨後溼滑地面",
+      "液態金屬或織品材質貓咪",
+      "金箔飾邊與手抄本藝術風格",
+      "低角度或廣角透視鏡頭"
+    ],
+    "style_picks": {
+      "art_style": "Op Art",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Low Poly",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "Digital art illustration, extreme wide handscroll panoramic composition, Op Art style with black and gold geometric optical illusion patterns. A large stocky brown tabby cat with bold black stripes, scruffy coarse fur, a white chest bib, and white mitten paws walks across a black and white checkered breakwater dock. The cat has a prominent V-shaped notch in his left ear and a faded red bandana. His left eye is completely concealed by a natural dark fur patch with no straps, while his right eye is a piercing emerald green, focused on a low-poly gold fish in the waves. The scene features low-poly style facets, flat shaded triangular surfaces, and gritty hard-edge shadows from harsh midday sunlight. The date '2026-05-03 05:20 UTC' is visually displayed in the corner. High contrast, movement and vibration effects, luxurious metallic gold and deep black color scheme.",
+    "inspiration": "original",
+    "comment_id": 4365467267,
+    "idea": "在以歐普藝術幾何線條交織的金色與黑色全景長卷中，低多邊形風格的「船長」正穩重地踏過由黑白錯視方塊組成的碼頭防波堤，右眼銳利地注視著虛幻波浪中的金魚。",
+    "story": "即使身處如同歐普藝術般令人眩暈的幾何幻境，船長依然靠著如船舵般的尾巴保持平衡。牠在強烈日照形成的金色光影間巡邏，守護著這片由低多邊形構成的港口國度，展現出老大的威嚴與沈穩。",
+    "title": "金影交織的航道巡邏",
+    "number": 1734,
+    "character_name": "船長"
   }
 ]
