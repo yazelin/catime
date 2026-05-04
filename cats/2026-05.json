@@ -1802,5 +1802,36 @@
       "澳洲大堡礁發現一座生長緩慢但體積巨大的珊瑚群，其壽命已達數百年，為當地的海洋生態研究帶來新契機。"
     ],
     "idea": "採用蠟筆兒童畫風格，展現胖橘貓麻糬在義大利薩丁尼亞島的露天咖啡館，正認真用粉紅鼻頭推動棋盤上的西洋棋，背景融入多視角服裝展示與暴風雪般的朦朧質感。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Fisheye Lens",
+      "lighting": "Three-Point Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [],
+    "story": "深夜的錄音室充滿了扭曲的線條與木紋質感，黑貓在強烈的三點打光下顯得神祕而靈動。隨著琴弦顫動，鮮艷的霓虹色彩彷彿從木質地板中滲透而出，譜出一場視覺上的即興演奏。",
+    "avoid_list": [
+      "德羅斯特遞迴視覺效果",
+      "琥珀色與燒橙色秋季調色盤",
+      "織品與布料拼貼質感",
+      "西洋棋盤與棋子互動",
+      "薩丁尼亞島場景設定",
+      "角落顯示特定時間戳記",
+      "35mm 鏡頭與底片顆粒感",
+      "溫暖的輪廓光與蝴蝶光",
+      "三花貓或橘貓特定花色",
+      "Knolling 平鋪排列構圖",
+      "電影分鏡與多面板佈局",
+      "生物發光或螢光效果"
+    ],
+    "prompt": "Expressionism art style painting, bold distorted forms and exaggerated gestural brushwork. A fisheye wide-angle lens perspective with strong barrel distortion shows a black cat in a midnight wooden recording studio, its claws plucking glowing neon fluorescent electric guitar strings. Intense emotional energy with vivid contrasting colors: electric pink, lime green, and hot cyan bleeding into the natural wood grain texture. Classic three-point lighting with a bright key light, soft fill, and subtle rim light to separate the cat from the dark background. The date and time '2026-05-04 01:47 UTC' is clearly visually displayed in the corner of the image.",
+    "inspiration": "original",
+    "comment_id": 4367750642,
+    "title": "霓虹木影的撥弦者",
+    "number": 1750,
+    "idea": "這是一幅表現主義風格的作品，以魚眼鏡頭捕捉一隻黑貓在深夜的木造錄音室中，用爪子撥弄霓虹螢光色調的電吉他弦。"
   }
 ]
