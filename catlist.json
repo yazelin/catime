@@ -16029,5 +16029,14 @@
     "season": "spring",
     "status": "success",
     "number": 1759
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-04_2246_UTC.webp",
+    "inspiration": "日本各地的家庭今日紛紛掛起象徵力量與成功的鯉魚旗，慶祝充滿文化傳統的「兒童之日」。",
+    "title": "金雲鯉影下的守望",
+    "timestamp": "2026-05-04 22:46 UTC",
+    "number": 1760,
+    "model": "gemini-3-pro-image-preview",
+    "status": "success"
   }
 ]
