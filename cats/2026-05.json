@@ -2695,5 +2695,38 @@
       "texture": "Glass / Crystal",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Dark Floral Portrait",
+      "composition": "Floating Island Scene",
+      "lighting": "Neon Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "number": 1774,
+    "avoid_list": [
+      "黃金時刻與長陰影",
+      "低多邊形幾何色塊",
+      "蝴蝶光影與對稱陰影",
+      "垂直書法海報與紅印章",
+      "微縮模型與玩具感特效",
+      "雙色調高張力光影",
+      "絲綢般的毛髮質感",
+      "曼陀羅圖案與幾何線條",
+      "魚眼或超廣角鏡頭扭曲",
+      "生物發光與有機光澤",
+      "極低角度仰拍構圖",
+      "琥珀色暴風雪場景",
+      "莫蘭迪色調與粉彩色系",
+      "黑色絲絨與金色刺繡組合"
+    ],
+    "inspiration": "original",
+    "story": "失重的小島上佈滿了晶瑩剔透的冰晶花朵，微弱的霓虹燈火在花瓣間流動。這隻好奇的貓在透明的齒輪與零件間穿梭，試圖在無聲的永恆中捕捉時間碎裂的清脆聲響。",
+    "idea": "在黑白霓虹光影交錯的懸浮水晶花園中，一隻黑貓正專注地用爪子撥弄半空中漂浮的玻璃鐘錶零件，呈現暗黑花卉肖像風格。",
+    "news_inspiration": [],
+    "comment_id": 4384004965,
+    "prompt": "A black cat focused on batting at floating glass watch gears and clockwork parts in a levitating crystal garden. Dark floral portrait style, melancholic vanitas mood, Renaissance-influenced contemporary photography. Miniature landscape on a floating island, crystalline flowers with faint neon light trails. The cat's paw is mid-motion, refracting light through transparent glass material and prismatic reflections. Low-key lighting, high contrast black and white monochrome with rich tonal range and dramatic shadows. Text '2026-05-05 23:38 UTC' is subtly etched onto a floating glass shard. Shot on 50mm lens, f/2.8, moody urban night atmosphere, wet surface reflections, deep black void background, grain, sharp focus on the cat's intense gaze.",
+    "title": "幻境之城的鐘錶匠"
   }
 ]
