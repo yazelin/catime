@@ -2539,5 +2539,44 @@
       "貓伸爪觸碰特定物件",
       "懷舊復古五金或實驗室背景"
     ]
+  },
+  {
+    "prompt": "A split view composition featuring a tabby cat in a Washington State University greenhouse laboratory at night, its paw batting at an exploding plant cell wall model made of intricate coiled paper strips and delicate curling loops. The left side is light painting photography with swirling luminous trails and glowing ribbons drawn around the cat, captured with a 35mm lens, f/2.8, long exposure, visible dust particles catching god rays. The right side is a wireframe diagram and paper quilling art texture. The scene is illuminated by warm volumetric lighting in an earth tone palette of terracotta, olive green, and warm brown. The date and time '2026-05-05 19:03 UTC' is visually displayed in a clean font in the corner of the frame.",
+    "inspiration": "美國華盛頓州立大學的研究團隊在《科學進展》發表重大發現，揭開了植物細胞壁形成的「大霹靂」機制，有助於未來設計更強韌的植物結構。",
+    "title": "綠意細胞的大霹靂",
+    "news_inspiration": [
+      "美國華盛頓州立大學的研究團隊在《科學進展》發表重大發現，揭開了植物細胞壁形成的「大霹靂」機制，有助於未來設計更強韌的植物結構。",
+      "加拿大航空在「紅裙日」發布了一段名為《精神女性》的影片，旨在向原住民文化致敬並提高全球對原住民女性議題的關注。",
+      "沙烏地阿拉伯吉達今日迎來亞洲 U17 青年足球錦標賽，印度隊首場將對陣強敵澳洲隊，爭奪卡達世界盃的參賽資格。",
+      "美國紐約大都會藝術博物館今日舉行 2026 年慈善晚宴（Met Gala），眾多巨星以頂尖時尚造型亮相紅毯，展現當代流行文化魅力。",
+      "美國布朗克斯動物園迎來了 14 隻從美墨邊境獲救的巨嘴鳥，這些珍稀鳥類在執法行動中獲救後，將在動物園得到妥善照顧並與大眾見面。"
+    ],
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Split View",
+      "lighting": "Volumetric Light",
+      "texture": "Paper Quilling",
+      "color_palette": "Earth Tones"
+    },
+    "story": "在華盛頓州立大學的深夜實驗室裡，一隻好奇的虎斑貓潛入溫室，無意間觸動了展示植物細胞壁形成機制的纖維模型。隨著貓爪的撥動，複雜的衍紙構造在光影中展開，彷彿重現了生命強韌結構的起源瞬間。",
+    "idea": "這是一幅利用光繪攝影結合衍紙藝術質感的分割畫面，呈現一隻貓在實驗室溫室中撥弄著如「大霹靂」般爆發的植物細胞壁模型，周圍環繞著溫暖的體積光與大地色系。",
+    "avoid_list": [
+      "黃金時刻與長陰影",
+      "低多邊形幾何色塊",
+      "蝴蝶光影與對稱陰影",
+      "垂直書法海報與紅印章",
+      "微縮模型與玩具感特效",
+      "雙色調高張力光影",
+      "絲綢般的毛髮質感",
+      "曼陀羅圖案與幾何線條",
+      "魚眼或超廣角鏡頭扭曲",
+      "生物發光與有機光澤",
+      "極低角度仰拍構圖",
+      "琥珀色暴風雪場景",
+      "莫蘭迪色調與粉彩色系",
+      "黑色絲絨與金色刺繡組合"
+    ],
+    "number": 1770,
+    "comment_id": 4382196538
   }
 ]
