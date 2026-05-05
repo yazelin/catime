@@ -2319,5 +2319,38 @@
     "story": "在紐約大都會藝術博物館的特展廳內，一隻黑貓在古埃及文物與頂級訂製服飾間漫遊。當夕陽的黃金時刻灑落，貓咪輕盈地跳上展示台，與黑色絲絨和金色刺繡的布料質感融為一體，展現出超越時空的優雅與神祕。",
     "prompt": "A fashion design sheet and multi-view lookbook layout featuring a cat in an ancient Egyptian exhibition. The composition combines minimalist line drawing doodles with detailed fabric textures. Panels include front, back, and side views of the cat weaving through black velvet and gold embroidered textiles, plus a close-up of the woven linen threads. Style is black ink on white with playful loose strokes. Lighting is a warm golden hour sunset glow with long soft shadows and a golden rim light on the feline. The color scheme is deep black and metallic gold. The text '2026-05-05 04:52 UTC' is visually displayed in a clean font on the layout.",
     "comment_id": 4376628952
+  },
+  {
+    "title": "極境中的燈塔魂",
+    "comment_id": 4377209479,
+    "character": "captain",
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Snowstorm Haze",
+      "texture": "Silk",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [],
+    "idea": "在肆虐暴風雪的漁港防波堤頂端，3D Q版風格的「船長」正緊盯著洶湧海面，絲綢般的毛髮質感在湛藍與銀白的雙色調光影中閃耀。",
+    "story": "儘管寒風刺骨，船長仍穩如泰山地踏在積雪的防波堤上，巡視著受困於港口的漁船。牠翠綠的右眼在雪霧朦朧中如同導航燈火，即便最狂暴的冬雪也無法動搖這位海上老兵守護碼頭的意志。",
+    "avoid_list": [
+      "用爪子撥弄物體",
+      "霓虹螢光色彩",
+      "魚眼鏡頭與桶形畸變",
+      "液態金屬與流動質感",
+      "復古褪色色調",
+      "粉色櫻花瓣飄落",
+      "黑光燈與UV照明",
+      "角落顯示日期時間",
+      "多樣風格的混合媒材",
+      "極低角度或俯瞰視角",
+      "特定品種貓的細節特徵",
+      "精密零件或齒輪結構"
+    ],
+    "inspiration": "original",
+    "number": 1764,
+    "prompt": "3D chibi blind box character of Captain, a stocky brown tabby cat with bold black stripes, standing on all fours on a snow-covered breakwater during a raging snowstorm. Captain has scruffy, coarse untidy fur with a white chest bib and white mitten paws. His left eye is completely concealed by a natural dark-pigmented fur patch, and his right eye is a piercing emerald green. His left ear has a prominent V-shaped notch, and he wears a faded red bandana. Rendered in C4D style with a smooth plastic toy texture but maintaining the luxurious sheen of silk fabric light reflections. Composition is an ultra-wide angle 12-18mm lens with dramatic perspective distortion showing the cat looking out at a surging harbor sea. Lighting is a duotone color treatment of cold blue and silver-white, featuring heavy falling snow and a fogged distance. The text '2026-05-05 07:11 UTC' is visually displayed in the corner of the image. Muted diffused daylight, painterly weather mood."
   }
 ]
