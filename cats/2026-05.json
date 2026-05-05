@@ -2389,5 +2389,42 @@
     "story": "在距離地球萬光年的「塔圖因」式行星上，這隻貓正專注於捕捉那些由冷冽螢光燈映照出的幾何碎片。風沙吹過紙質般的岩層，雙日的殘影與曼陀羅藝術的繁複線條在沙丘上交織成一場超現實的狩獵。",
     "prompt": "An illustration of a tabby cat chasing mechanical butterflies with intricate mandala patterns across an alien desert with twin stars. The style features a textured paper surface with visible fiber grain and a tactile watercolor paper feel. Composition is an extreme low angle shot looking up at the cat, creating a dramatic towering perspective against the alien dunes. High saturation vivid colors and a bold energetic palette define the scene. Lighting is overhead fluorescent 5000K, casting a flat institutional illumination over the complex circular designs and radial symmetry of the butterflies. The text '2026-05-05 09:51 UTC' is visually displayed in the corner of the image.",
     "inspiration": "天文學家在《星際大戰》日之際宣佈，利用衛星數據新發現了 27 顆環繞雙星運行的「塔圖因」式行星，地點分布於距離地球 650 至 18,000 光年的外太空。"
+  },
+  {
+    "inspiration": "義大利威尼斯即將於本週末迎來第 61 屆威尼斯雙年展，各國藝術家齊聚一堂展示多元的當代視覺藝術與文化記憶。",
+    "idea": "在超廣角鏡頭下，一隻三花貓正在由巨大的發霉乳酪與藍莓拼湊成的微縮威尼斯水都中，追逐一條由冰鎮蘇打水流動而成的運河，呈現出食物超現實擬物風格。",
+    "avoid_list": [
+      "貓撥弄金屬零件",
+      "液態金屬流動質感",
+      "復古褪色色調",
+      "金箔祥雲紋樣",
+      "視覺整合日期時間",
+      "黃金時刻側光與邊緣光",
+      "雙色調光影處理",
+      "俯瞰視角的整齊排列構圖",
+      "金黑色系的高級感搭配",
+      "35mm鏡頭底片質感",
+      "貓伸爪觸碰特定物件",
+      "懷舊復古五金或實驗室背景"
+    ],
+    "story": "為了向第61屆威尼斯雙年展致敬，這座由發酵食材構成的藝術之城佈滿了潮濕的苔蘚。貓咪輕巧地越過藍紋起司堆砌的聖馬可鐘樓，冷色調的聚光燈照亮了它在美食藝術品間穿梭的矯健身影。",
+    "number": 1766,
+    "title": "藍調發酵的水都漫遊",
+    "news_inspiration": [
+      "在美國洛杉磯舉行的公告牌女性音樂獎上，菲律賓女團 BINI 向歌手 Laufey 熱情推薦家鄉美食，展現溫馨的文化交流。",
+      "天文學家在 5 月 4 日「星際大戰日」宣布發現 27 顆繞行雙星運行的潛在行星，宛如現實版的塔圖因星球。",
+      "香港旅遊發展局於 5 月 5 日宣布，為慶祝端午節龍舟賽 50 週年，今年 6 月將在維多利亞港舉辦為期 13 天的大型嘉年華。",
+      "義大利威尼斯即將於本週末迎來第 61 屆威尼斯雙年展，各國藝術家齊聚一堂展示多元的當代視覺藝術與文化記憶。",
+      "一項發表於科學期刊的新研究指出，在澳洲等地的運動訓練中，比起舉起重量，緩慢放下的「離心運動」對增強肌肉與力量更有效。"
+    ],
+    "comment_id": 4378682263,
+    "style_picks": {
+      "art_style": "Food Surrealism",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Spotlight",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "A calico cat mid-sprint chasing a flowing canal of bubbly ice-cold soda through a miniature Venice city crafted from wedges of moldy blue cheese and fresh blueberries. The cat leaps over a St. Mark's Campanile made of Gorgonzola. Food surrealism photography, ultra-wide angle 12-18mm lens, dramatic perspective distortion, expansive field of view. Surfaces are covered in lush green damp moss and organic overgrowth. Lighting is a narrow beam spotlight with sharp edges and deep darkness falloff, creating a high-contrast cinematic effect. Cool blue-teal color grading with icy undertones. The date and time '2026-05-05 11:09 UTC' is clearly visually displayed in the scene. Shot on 35mm film, f/2.8, crisp atmosphere, macro conceptual still life style."
   }
 ]
