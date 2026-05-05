@@ -2463,5 +2463,44 @@
       "台灣澎湖國際海上花火節於觀音亭園區盛大登場，結合浪漫的虹橋景緻與璀璨煙火吸引大量遊客。",
       "加拿大安大略冰球聯盟的巴里小馬隊在第七場決賽中勝出，成功奪得象徵榮譽的波比奧爾獎盃。"
     ]
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [
+      "香港旅遊發展局於今日宣佈慶祝國際龍舟賽 50 週年，將於 6 月在維多利亞港舉辦為期 13 天的大型日夜嘉年華。",
+      "美國太空總署與 Blue Origin 在德州休士頓完成月球登陸器 MK1 的測試，為未來的阿提米絲登月計畫減少技術風險。",
+      "西班牙馬德里近日舉辦海南旅遊推介會，雙方致力於加強兩地文化交流並爭取開通直航，增進歐洲旅客的度假體驗。",
+      "不丹政府今日與世界銀行簽署價值 5.15 億美元的融資協議，啟動東部最大水電站計畫，目標是推動該國實現負碳排放與經濟增長。",
+      "美國零食品牌樂事（Lay's）今日正式啟動 2026 年世界盃足球賽全球宣傳活動，邀請梅西及貝克漢等球星共同參與全球觀賽熱潮。"
+    ],
+    "number": 1768,
+    "title": "墨影躍動幻境間",
+    "idea": "在融合歐普藝術視覺衝擊的舊書店中，墨墨正優雅地躍向高處書架，畫面透過分割畫面呈現光影錯位，結合古絹絹本質感與粉彩色調。",
+    "character_name": "墨墨",
+    "story": "墨墨在錯落的書架間尋找最佳俯瞰點，當牠躍起時，身上的純黑皮毛與背景的幾何線條形成強烈對比。即便在充滿視覺干擾的歐普風格空間裡，牠那金琥珀色的眼睛依然精準鎖定目標，展現出獨特的安靜與聰慧。",
+    "prompt": "An illustration of Momo, a sleek solid-black shorthair cat with satin-sheen fur, a tiny white locket tuft on her chest, a single gold hoop earring on her left ear, a dark-grey ring on her tail tip, and luminous golden-amber eyes. Momo is captured mid-leap toward a high wooden bookshelf in an old bookstore. The composition is a split-view design with a sharp vertical cut line: the left side features Op Art optical illusion patterns and high-contrast geometric repetitions, while the right side transitions into an aged silk scroll texture with a visible weave and weathered paper stains. The lighting follows a Rembrandt style with a single light source at 45 degrees creating dramatic chiaroscuro. The color palette is composed of soft pastels including lavender, mint, and baby blue over a warm sepia patina. The date and time '2026-05-05 15:28 UTC' is visually displayed in a corner of the frame.",
+    "style_picks": {
+      "art_style": "Op Art",
+      "composition": "Split View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Pastel Colors"
+    },
+    "comment_id": 4380725919,
+    "avoid_list": [
+      "貓撥弄金屬零件",
+      "液態金屬流動質感",
+      "復古褪色色調",
+      "金箔祥雲紋樣",
+      "視覺整合日期時間",
+      "黃金時刻側光與邊緣光",
+      "雙色調光影處理",
+      "俯瞰視角的整齊排列構圖",
+      "金黑色系的高級感搭配",
+      "35mm鏡頭底片質感",
+      "貓伸爪觸碰特定物件",
+      "懷舊復古五金或實驗室背景"
+    ],
+    "character": "momo"
   }
 ]
