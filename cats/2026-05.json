@@ -2426,5 +2426,42 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "prompt": "A calico cat mid-sprint chasing a flowing canal of bubbly ice-cold soda through a miniature Venice city crafted from wedges of moldy blue cheese and fresh blueberries. The cat leaps over a St. Mark's Campanile made of Gorgonzola. Food surrealism photography, ultra-wide angle 12-18mm lens, dramatic perspective distortion, expansive field of view. Surfaces are covered in lush green damp moss and organic overgrowth. Lighting is a narrow beam spotlight with sharp edges and deep darkness falloff, creating a high-contrast cinematic effect. Cool blue-teal color grading with icy undertones. The date and time '2026-05-05 11:09 UTC' is clearly visually displayed in the scene. Shot on 35mm film, f/2.8, crisp atmosphere, macro conceptual still life style."
+  },
+  {
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Floating Island Scene",
+      "lighting": "Snowstorm Haze",
+      "texture": "Shibori Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "隨著 2026 勞力士中國海帆船賽在強風中落幕，這隻機械島上的守望者也在極速的氣流中穩住腳步。它不僅是在避寒，更是在混亂的齒輪轉動聲中，守護著這座浮島在琥珀色迷霧中的航向。",
+    "avoid_list": [
+      "貓撥弄金屬零件",
+      "液態金屬流動質感",
+      "復古褪色色調",
+      "金箔祥雲紋樣",
+      "視覺整合日期時間",
+      "黃金時刻側光與邊緣光",
+      "雙色調光影處理",
+      "俯瞰視角的整齊排列構圖",
+      "金黑色系的高級感搭配",
+      "35mm鏡頭底片質感",
+      "貓伸爪觸碰特定物件",
+      "懷舊復古五金或實驗室背景"
+    ],
+    "prompt": "A steampunk digital illustration of an orange tabby cat wearing a warm Shibori resist-dyed fabric cloak, elegantly walking on massive rotating brass gears and copper compass cogs. The scene is set on a floating mechanical island amidst a heavy amber-colored snowstorm. Below the island, a vast sea of white clouds stretches into the distance. The art style features Victorian-era industrial retrofuturism with steam-powered mechanisms. The lighting is a mix of muted diffused daylight and warm amber color grading, creating a cozy yet dramatic atmosphere with heavy falling snow flurries. The color palette blends indigo blue textile patterns with golden yellows and burnt oranges. Centered in the frame, the text '2026-05-05 13:08 UTC' is clearly displayed, integrated into the atmospheric haze.",
+    "idea": "在琥珀色暴風雪籠罩的蒸汽朋克漂浮島上，一隻橘色虎斑貓身披絞染布料製成的防寒斗篷，正優雅地踏在巨大的銅製羅盤齒輪上，觀察著下方的雲海。",
+    "inspiration": "在香港舉行的 2026 勞力士中國海帆船賽圓滿結束，參賽者在強風下完成了這場創紀錄的極速航程。",
+    "number": 1767,
+    "title": "琥珀迷霧的齒輪航線",
+    "comment_id": 4379586243,
+    "news_inspiration": [
+      "在香港舉行的 2026 勞力士中國海帆船賽圓滿結束，參賽者在強風下完成了這場創紀錄的極速航程。",
+      "美國新墨西哥州實施全美首創的普及托育法，將祖父母納入補助對象，暖心支持協助照顧孫子女的長輩。",
+      "法國蒙佩利爾的科學家成功減少海洋污染後，觀察到對生態至關重要的海草床已大面積重新生長。",
+      "台灣澎湖國際海上花火節於觀音亭園區盛大登場，結合浪漫的虹橋景緻與璀璨煙火吸引大量遊客。",
+      "加拿大安大略冰球聯盟的巴里小馬隊在第七場決賽中勝出，成功奪得象徵榮譽的波比奧爾獎盃。"
+    ]
   }
 ]
