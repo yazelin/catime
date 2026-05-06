@@ -2944,5 +2944,44 @@
       "color_palette": "High Saturation Vivid"
     },
     "idea": "這是一幅結合蒸汽朋克機械美學與現代鏡子自拍構圖的作品，展現一隻橙色虎斑貓正在黃銅齒輪遍佈的維修間內，用肉掌撥弄一個發光的蒸氣核心。"
+  },
+  {
+    "news_inspiration": [
+      "奧地利維也納的大學研究發現，一頭名叫維若妮卡（Veronika）的母牛展現出罕見的工具使用能力，打破了科學界對家畜智力的既有認知。",
+      "蘇格蘭政府通過新法規，規定境內所有新建房屋都必須安裝「雨燕磚」，為這種能在飛行中睡覺的候鳥提供友善的棲息空間。",
+      "科學家在澳洲大堡礁凱恩斯外海發現了一個面積將近半個足球場大的巨型珊瑚群，這被認為是有紀錄以來全球最大的珊瑚體之一。",
+      "美國國家航空暨太空總署（NASA）阿提米絲2號任務順利結束，成功驗證了載人飛行系統，為人類未來重返月球的登陸計畫奠定基礎。",
+      "印度一部名為《Boong》的馬尼普爾語電影在英國影藝學院電影獎（BAFTA）驚喜奪下最佳兒童及家庭電影獎，獲得國際影壇高度關注。"
+    ],
+    "character_name": "墨墨",
+    "idea": "在充滿蒸氣波風格的高飽和色調舊書店中，黑貓墨墨正靈巧地踩在懸掛於天花板的巨大「雨燕磚」裝飾裝置上，透過超廣角鏡頭展現其優雅的肌肉線條。",
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Three-Point Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "character": "momo",
+    "story": "為了響應為候鳥提供棲息地的法規，這間舊書店安裝了特殊的雨燕磚結構。墨墨對這些新的「高處領地」感到滿意，牠在鮮豔的紫紅色與青翠綠的織品背景前穿梭，享受俯瞰全場的權威感。",
+    "prompt": "Ultra-wide angle photography, 12mm lens, dramatic perspective distortion of a sleek black Bombay-style shorthair cat named Momo with satin-sheen fur, visible muscle definition, a single gold hoop earring in its left ear, and a tiny white chest locket tuft. Momo is walking across a large geometric 'swift brick' installation hanging from the ceiling of a vaporwave-style second-hand bookstore. The background features pastel pink and cyan gradients, Greek statues, and retro 80s digital elements. High saturation vivid colors, bold vibrant hues. Lighting is a classic three-point setup with a key light creating soft shadows and a subtle rim light separating the cat from the woven fabric textures of the decor. The text '2026-05-06 17:21 UTC' is visually displayed in the corner of the frame. Realistic photography, sharp focus, 1/500 shutter speed, f/2.8.",
+    "inspiration": "蘇格蘭政府通過新法規，規定境內所有新建房屋都必須安裝「雨燕磚」，為這種能在飛行中睡覺的候鳥提供友善的棲息空間。",
+    "comment_id": 4390456479,
+    "title": "靛藍夢境的高處守望",
+    "avoid_list": [
+      "大地色系調色盤",
+      "貓爪撥弄模型或零件",
+      "霓虹螢光與月光結合",
+      "微縮場景與巨型貓對比",
+      "精確的時間日期浮水印",
+      "Knolling 平鋪排列構圖",
+      "植物或動物化石元素",
+      "等距投影或正交投影視角",
+      "35mm鏡頭搭配f/2.8光圈參數",
+      "琥珀色與橄欖綠組合",
+      "藝術風格與攝影技術的分割畫面",
+      "貓在實驗室或天文場域探索"
+    ],
+    "number": 1781
   }
 ]
