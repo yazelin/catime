@@ -3287,5 +3287,46 @@
       "texture": "Metallic Surface",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "idea": "在月光照耀的微縮漁港場景中，船長坐鎮於燈塔頂端，以古絹絹本的質地呈現 Y2K 未來復古美學與莫蘭迪低飽和色彩。",
+    "inspiration": "original",
+    "prompt": "An illustration on an aged silk scroll texture with visible weave and weathered paper stains, depicting a miniature diorama of a quiet nighttime fishing port. A large, stocky brown tabby cat captain with bold black stripes and scruffy, untidy coarse fur sits atop a tiny lighthouse. The cat has a natural dark-pigmented fur patch covering its left eye socket (no straps or fabric), a single piercing emerald green right eye, a V-shaped notch in its left ear, and a faded red bandana around its neck. It has a white chest bib and white mitten paws. The scene uses a Morandi muted color palette with desaturated soft pastels and dusty grey undertones, blended with Y2K future-retro holographic textures and subtle glitter accents. Moonlight provides a gentle silvery glow and cool blue tones. A tilt-shift effect emphasizes the toy-like scale model aesthetic. The text '2026-05-07 12:27 UTC' is clearly and visually displayed in the corner of the composition.",
+    "avoid_list": [
+      "古代兩棲類化石",
+      "鑄鐵雕花鏤空裝置",
+      "垂直色票邊框",
+      "黃金時刻邊緣光",
+      "高飽和鮮豔色彩",
+      "超廣角鏡頭透視扭曲",
+      "設計情緒板風格",
+      "發光的科研樣本或核心",
+      "刺繡與針織紋理",
+      "金屬質感漆器或齒輪",
+      "維多利亞式工藝細節",
+      "粉彩棉花糖色調雲朵"
+    ],
+    "is_seasonal": true,
+    "news_inspiration": [
+      "澳洲雪梨在 2026 年 5 月 7 日宣布今年的 VIVID Live 音樂節將由多位原住民藝術家擔綱主角，在歌劇院展現深厚的文化與創新活力。",
+      "台灣與東南亞於 2026 年 5 月 7 日正式展開大型混合生活風格手遊《永恆之塔傳說》（ETS）的公開測試，吸引大批玩家參與。",
+      "美國俄勒岡州波特蘭的一家歷史悠久酒廠於今日發起「保持晴朗」品牌更新活動，透過新款啤酒與亮麗包裝在太平洋西北地區傳遞積極樂觀的生活態度。",
+      "香港「法國五月」藝術節於 2026 年 5 月 7 日呈獻一系列文化盛事，包括在維多利亞港舉辦的電子音樂秀以及羅浮宮授權的達文西沉浸式數位展。",
+      "奧地利科學家於近期發表研究，紀錄到山村中一頭名為維羅妮卡的母牛能熟練使用棍棒與刷子作為工具，翻轉了人類對牛群智力的認知。"
+    ],
+    "story": "春夜的海風吹拂著船長略顯蓬亂的虎斑毛髮，牠正全神貫注地盯著遠方漁船的燈火。即便身處如精緻立體模型般的碼頭，這位戴著眼罩的老將依然散發著守護這片海域的威嚴氣息。",
+    "character": "captain",
+    "number": 1790,
+    "character_name": "船長",
+    "season": "spring",
+    "comment_id": 4397106368,
+    "title": "月下碼頭的微縮守望",
+    "style_picks": {
+      "art_style": "Y2K Aesthetic",
+      "composition": "Miniature Diorama",
+      "lighting": "Moonlight",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
