@@ -3166,5 +3166,46 @@
       "texture": "Wood Grain",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "prompt": "A Chinese ink wash painting with sumi-e style minimalist brushwork and flowing gradients depicting Mochi, a chubby shorthair cat. Mochi is white with a solid orange mask on the right side of his face (viewer's right), a white left side of the face, amber eyes, a pink nose with an orange dot, a heart-shaped orange saddle on his back, a solid orange right front paw mitten, a white left front paw, and an orange-and-white ringed tail. He is clumsily climbing a large stone balancing sculpture at Qixingtian beach. The scene uses tilt-shift photography effects with a selective focus band creating a miniature toy-like look. The background features vibrant cotton candy-like clouds in pastel pink and blue with marshmallow textures. Golden hour lighting creates a warm sunset glow and golden rim light on Mochi's spherical body. The date and time '2026-05-07 05:21 UTC' is visually displayed in the corner of the image.",
+    "title": "浪尖上的圓潤禪意",
+    "news_inspiration": [
+      "中國上海的靜安嘉里中心於今日正式啟動「燃點」文化季，與全球知名雜誌 Monocle 合作開設中國首家快閃咖啡店與書店。",
+      "西班牙大加那利島的考古學家發現了加那利群島最早的穀物收割證據，揭示了 10 至 13 世紀古代原住民精湛的農業技術。",
+      "加拿大蒙特婁於今日舉辦大規模的亞洲文化市集，透過超過 30 家攤位的異國美食與流行藝術表演慶祝亞洲傳統月。",
+      "科學家在最新研究中發現，將最後一餐時間提前至傍晚 5 點至 7 點之間，比起深夜進食更能有效改善代謝健康與體重管理。",
+      "台灣花蓮七星潭現正舉行太平洋國際疊石藝術節，匯集瑞典、西班牙及土耳其等多國藝術家與在地創作者進行跨國藝術對話。"
+    ],
+    "character": "mochi",
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Golden Hour",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "台灣花蓮七星潭現正舉行太平洋國際疊石藝術節，匯集瑞典、西班牙及土耳其等多國藝術家與在地創作者進行跨國藝術對話。",
+    "avoid_list": [
+      "巨型貓咪微縮模型建築",
+      "霓虹螢光絲綢質感毛髮",
+      "伸出肉掌撥弄機器或裝置",
+      "三點打光配合邊緣光",
+      "超廣角鏡頭造成的透視畸變",
+      "民族藝術與畫意攝影結合",
+      "角落顯示數位時間戳記",
+      "琥珀色或莫蘭迪色調",
+      "貓咪輕巧跳躍過障礙物",
+      "複雜的幾何與花卉圖案背景",
+      "拼貼或剪貼簿邊框風格",
+      "低多邊形樂高或陶瓷質感",
+      "維多利亞蒸汽朋克與齒輪",
+      "舊書店或文化節攤位場景"
+    ],
+    "idea": "在夕陽餘暉的黃金時刻，以水墨畫筆觸勾勒出麻糬正笨拙地攀爬在七星潭海邊的一座巨大疊石藝術品上，背景呈現出如棉花糖般的鮮豔雲朵與移軸攝影的微縮景致。",
+    "character_name": "麻糬",
+    "comment_id": 4394356311,
+    "story": "麻糬趁著太平洋疊石藝術節，試圖在石頭堆中尋找被遊客遺忘的小魚乾，牠圓滾滾的身子在錯落的石塊間顯得有些吃力。那隻獨特的橘色「手套」腳努力支撐著肥美的身軀，在墨色渲染的海浪聲中，牠成了最重磅的藝術裝置。",
+    "number": 1787
   }
 ]
