@@ -3402,5 +3402,36 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "story": "這隻實驗室家貓正好奇地觀察著能過濾微塑膠的辣木種子，牠的爪子觸碰著冰冷的玻璃邊緣。透過多視角的服裝展示構圖，記錄下這場生物科技與平凡生命的靜謐交會。"
+  },
+  {
+    "avoid_list": [
+      "古代兩棲類化石",
+      "鑄鐵雕花鏤空裝置",
+      "垂直色票邊框",
+      "黃金時刻邊緣光",
+      "高飽和鮮豔色彩",
+      "超廣角鏡頭透視扭曲",
+      "設計情緒板風格",
+      "發光的科研樣本或核心",
+      "刺繡與針織紋理",
+      "金屬質感漆器或齒輪",
+      "維多利亞式工藝細節",
+      "粉彩棉花糖色調雲朵"
+    ],
+    "comment_id": 4400414154,
+    "inspiration": "original",
+    "number": 1793,
+    "title": "極夜霓虹的零件守望",
+    "idea": "這是一張採用雜誌封面排版與衍紙藝術風格的照片，以極低角度捕捉一隻虎斑貓在暴風雪朦朧的極地科研站，正專注地用爪子撥弄翻覆的雪地摩托車鏈條。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Extreme Low Angle",
+      "lighting": "Snowstorm Haze",
+      "texture": "Paper Quilling",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "在霓虹螢光燈火的映照下，這隻堅韌的貓在酷寒的極地基地穿梭。牠靈巧地檢查著機械零件，彷彿是這座孤島哨站中唯一的機修師，在螢光綠的雪地中尋找一絲溫暖與秩序。",
+    "prompt": "A professional magazine cover mockup featuring paper quilling art. The central subject is a tabby cat at an extreme low angle, looking up as it meticulously tinkers with a flipped snowmobile chain using its paws. The setting is a polar research station during a heavy snowstorm with a veil of falling flakes. The scene is crafted from intricate coiled paper strips and delicate curling loops, creating a 3D dimensional texture. Lighting features neon fluorescent lime green and electric pink glowing against a cold blue-white palette. The composition includes bold vertical typography, an issue number, a barcode, and the text '2026-05-07 19:23 UTC' clearly integrated into the graphic design. Clean print publication aesthetic with a painterly weather mood and fogged distance."
   }
 ]
