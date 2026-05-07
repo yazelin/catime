@@ -3501,5 +3501,42 @@
       "混合工藝質感",
       "特定毛色特徵描述"
     ]
+  },
+  {
+    "title": "萬象森羅的潛入者",
+    "inspiration": "美國伊利諾州的收藏家刷新了金氏世界紀錄，成功收集近 3,500 隻 Bearbrick 暴力熊公仔，成為全球最大規模的私人收藏。",
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Ring Light",
+      "texture": "Film Grain",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 1796,
+    "comment_id": 4401761917,
+    "prompt": "Medium format photography of a calico cat weaving through a collection room filled with Bearbrick figures. The scene features multiple layers of nested display cases creating a Droste effect with an infinite recursive loop. The cat is focused on a central limited edition figure. Ring light illumination creates circular catchlights in the cat's eyes and even frontal lighting. The image exhibits visible film grain, analog texture, and a retro faded color palette with low contrast and nostalgic warmth. The date and time '2026-05-07 22:51 UTC' is visually displayed in the corner of the frame. Hasselblad aesthetic, creamy shallow depth of field, organic photographic imperfections.",
+    "story": "這隻好奇的貓咪在數千隻色彩斑斕的公仔迷宮中優雅地潛行，牠正全神貫注地盯著一隻位於視覺核心的限量版熊仔。隨著展示櫃的鏡面反射不斷向內延伸，貓咪的身影也如同無盡的迴圈般消失在復古褪色的色調深處。",
+    "idea": "採用中片幅攝影捕捉一隻三花貓在堆滿 Bearbrick 暴力熊的收藏室中，穿梭於層層嵌套、呈現德羅斯特效應的展示櫃間，並以環形燈強調底片顆粒感。",
+    "avoid_list": [
+      "用爪子撥弄",
+      "低角度捕捉",
+      "日期與時間戳記",
+      "古老生物化石",
+      "熱帶植株與闊葉",
+      "微縮移軸攝影效果",
+      "螢光或霓虹燈光色彩",
+      "莫蘭迪低飽和色調",
+      "極地或冰川背景",
+      "藝術裝置或疊石藝術",
+      "混合工藝質感",
+      "特定毛色特徵描述"
+    ],
+    "news_inspiration": [
+      "美國伊利諾州的收藏家刷新了金氏世界紀錄，成功收集近 3,500 隻 Bearbrick 暴力熊公仔，成為全球最大規模的私人收藏。",
+      "紐西蘭威靈頓的奧塔里威爾頓森林正熱烈慶祝成立一百週年，其著名的螢火蟲夜間導覽吸引了眾多遊客體驗大自然的奇幻燈光秀。",
+      "荷蘭阿姆斯特丹史基浦機場的海關人員在廁所中發現了六隻珍稀的箭毒蛙，並在意外查獲後將牠們轉交給專業機構安置照顧。",
+      "智利聖安東尼奧港公佈 2025-2026 郵輪季成果，成功接待超過 5 萬 8 千名遊客，鞏固了智利作為南美洲領先郵輪旅遊目的地的地位。",
+      "印度泰米爾納德邦於今日上午公佈第 12 級學生州立考試結果，逾 81 萬名學生在經歷數月等待後終於迎來升學的關鍵時刻。"
+    ]
   }
 ]
