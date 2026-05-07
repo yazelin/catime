@@ -16297,5 +16297,14 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "character_name": "麻糬",
     "number": 1787
+  },
+  {
+    "inspiration": "英國研究指出，單次劑量的裸蓋菇素（Psilocybin）可引起大腦解剖構造的正面變化，有助於心理健康治療。",
+    "number": 1788,
+    "timestamp": "2026-05-07 08:11 UTC",
+    "title": "冰川邊緣的神經喚醒",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-07_0811_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success"
   }
 ]
