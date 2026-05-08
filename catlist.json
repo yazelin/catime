@@ -16444,5 +16444,18 @@
     "model": "gemini-3-pro-image-preview",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-08_1016_UTC.webp",
     "number": 1802
+  },
+  {
+    "character": "lingling",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-08_1204_UTC.webp",
+    "title": "花見時節的慢城鈴聲",
+    "number": 1803,
+    "timestamp": "2026-05-08 12:04 UTC",
+    "season": "spring",
+    "status": "success",
+    "inspiration": "台灣花蓮縣鳳林鎮透過舉辦有趣的蝸牛賽跑活動，推廣悠閒的「慢城」生活理念與永續發展精神。",
+    "is_seasonal": true,
+    "character_name": "鈴鈴"
   }
 ]
