@@ -3569,5 +3569,42 @@
       "混合工藝質感",
       "特定毛色特徵描述"
     ]
+  },
+  {
+    "title": "維港月影賽龍奪錦",
+    "idea": "在以撕紙拼貼效果呈現的維多利亞港，一隻貓正全神貫注地盯著木製龍舟上的選手，身處冷色調的月光與皮革紋理背景中。",
+    "prompt": "A torn paper collage and mixed media illustration of a cat perched on a dock, eyes fixed on rowers in a wooden dragon boat in Victoria Harbour. The scene features layered textures with visible paper edges, notebook lines, and a background of genuine leather with a rich grain pattern and aged patina. Ultra-wide angle 12-18mm lens perspective with dramatic distortion and an expansive field of view. Lighting is cool blue-teal moonlight with a gentle silvery glow and icy undertones, creating a serene nighttime atmosphere. The date and time '2026-05-08 01:56 UTC' is visually integrated into the composition. Artisanal craftsmanship style with crisp, cool-toned color grading.",
+    "story": "月色灑在波光粼粼的拼貼海面上，龍舟賽的鼓聲震天，這隻貓伏在碼頭邊緣，計算著躍上船頭抓取裝飾羽毛的最佳時機。牠的身影被超廣角鏡頭拉長，與遠處撕裂邊緣狀的城市燈火融為一體。",
+    "number": 1798,
+    "comment_id": 4402676597,
+    "inspiration": "香港為了慶祝國際龍舟邀請賽 50 週年，將於六月在維多利亞港舉辦盛大的賽事與文化慶典。",
+    "avoid_list": [
+      "用爪子撥弄",
+      "低角度捕捉",
+      "日期與時間戳記",
+      "古老生物化石",
+      "熱帶植株與闊葉",
+      "微縮移軸攝影效果",
+      "螢光或霓虹燈光色彩",
+      "莫蘭迪低飽和色調",
+      "極地或冰川背景",
+      "藝術裝置或疊石藝術",
+      "混合工藝質感",
+      "特定毛色特徵描述"
+    ],
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Moonlight",
+      "texture": "Leather",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "香港為了慶祝國際龍舟邀請賽 50 週年，將於六月在維多利亞港舉辦盛大的賽事與文化慶典。",
+      "美國科學家利用美國國家航空暨太空總署（NASA）的雷達數據，正持續監測墨西哥市以每月 2 公分的速度沉降的問題。",
+      "澳洲科研機構發表最新技術，利用即時感測與磁共振方法，協助採礦業更高效地提取淨零轉型所需的關鍵金屬銅。",
+      "奧地利維也納的一座劇院正推出獨特的「鷹架導覽」，讓遊客能近距離欣賞平時難以觸及的克林姆天頂畫作。",
+      "適逢英國著名自然科學家大衛·艾登堡爵士 100 歲壽辰，科學家特別將一種新發現的微型寄生蜂以他的名字命名作為致敬。"
+    ]
   }
 ]
