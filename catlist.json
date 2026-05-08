@@ -16431,5 +16431,18 @@
     "title": "霓虹廢土的狩獵者",
     "inspiration": "original",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "is_seasonal": true,
+    "season": "spring",
+    "title": "幾何春雨中的墨色跳躍",
+    "status": "success",
+    "character_name": "墨墨",
+    "character": "momo",
+    "inspiration": "original",
+    "timestamp": "2026-05-08 10:16 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-08_1016_UTC.webp",
+    "number": 1802
   }
 ]

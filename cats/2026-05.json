@@ -3707,5 +3707,46 @@
       "texture": "Rust / Weathered",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "news_inspiration": [
+      "紐西蘭奧克蘭：奧克蘭動物園揭幕了一幅巨大的壁畫，向在 2026 年 5 月 8 日迎來百歲壽辰的生態保護領袖大衛·艾登堡爵士致敬。",
+      "奧地利維也納：著名的「維也納美食節」於城市公園開幕，匯聚全國各地的傳統農場與創新手作坊，展開為期三天的奧地利風味慶典。",
+      "德國漢堡：全球規模最大的港口節「漢堡港口節」於今日登場，不僅有壯觀的船隻遊行，還包括獨特的拖船芭蕾表演與煙火秀。",
+      "英國卡地夫：科學家發表最新研究，透過引力波分析發現宇宙中最大的黑洞並非天生巨大，而是由多個黑洞在星團中反覆碰撞「回收」而成。",
+      "南非約翰尼斯堡：第六屆「非洲崛起音樂會議」宣布正式啟動，邀集來自非洲、澳洲與德國的藝術家與文化領袖，在憲法山歷史遺址展開跨國文化交流。"
+    ],
+    "avoid_list": [
+      "莫蘭迪低飽和色調",
+      "德羅斯特效應無限遞迴",
+      "貓撥弄機械零件或工具",
+      "視覺化日期時間戳記",
+      "冷色調月光與銀色光澤",
+      "微縮模型與立體透視效果",
+      "紙質紋理與手工藝風格結合",
+      "全神貫注盯著特定目標的貓",
+      "專業攝影鏡頭參數描述",
+      "雙色調高對比視覺衝擊",
+      "皮革或布料的細微紋理細節",
+      "極低角度或超廣角誇張透視"
+    ],
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Golden Hour",
+      "texture": "Inflatable PVC",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "De Stijl art style illustration of Momo, a sleek slender solid-black Bombay-style shorthair cat with an inflatable PVC texture and high-gloss balloon-like surface. Momo has large golden-amber eyes, a tiny white locket tuft on her chest, a single gold hoop earring on her left ear, and a dark-grey ring at the tip of her tail. She is captured in a graceful leap between translucent, giant abstract bookshelves. The background is a neoplasticism composition of geometric red, yellow, and blue panels mixed with earth tones of terracotta and olive green. Outside a window, a rain of geometric cherry blossoms falls. The scene is bathed in golden hour lighting with a warm sunset glow and long soft shadows. An ultra-wide 12mm perspective creates dramatic distortion. The text '2026-05-08 10:16 UTC' is visually integrated into the lower corner of the image. High-gloss finish, puffy rounded forms, air-filled tension, vibrant primary colors, spring atmosphere.",
+    "is_seasonal": true,
+    "season": "spring",
+    "title": "幾何春雨中的墨色跳躍",
+    "character_name": "墨墨",
+    "story": "在充滿大地色調的舊書店裡，夕陽將室內染上黃金色彩。墨墨在如充氣裝置般圓潤且光澤閃耀的抽象空間中穿梭，牠左耳的金環隨動作晃動，即使在鮮明的幾何秩序中，牠依然是那抹最優雅且難以捕捉的墨色影子。",
+    "character": "momo",
+    "idea": "以風格派（De Stijl）的幾何紅黃藍構圖為背景，一隻具備充氣 PVC 質感的黑貓墨墨，正輕盈地跳躍在半透明的巨大抽象書架間，試圖觸碰窗外落下的幾何櫻花雨。",
+    "inspiration": "original",
+    "comment_id": 4405631183,
+    "number": 1802
   }
 ]
