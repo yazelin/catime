@@ -3970,5 +3970,42 @@
       "毛茸茸質感與工業廢墟的對比"
     ],
     "story": "佛誕節前的深夜，寺廟中庭掛滿了高飽和鮮豔色的手工燈籠。這隻貓在聚光燈般的投影下穿梭，虹彩全息質感的絲線在牠爪邊閃爍，記錄下神聖建築中充滿生活氣息的瞬間。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Symmetrical Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Earth Tones"
+    },
+    "avoid_list": [
+      "等距視角構圖",
+      "生鏽與舊化鐵鏽紋理",
+      "復古褪色色調",
+      "環形燈產生的圓形眼部高光",
+      "櫻花瓣飛舞的場景",
+      "超廣角鏡頭產生的透視畸變",
+      "巨大物體與貓的比例對比",
+      "結合科技感與金箔祥雲",
+      "特定時間戳記整合於畫面",
+      "貓咪捕捉或撥弄漂浮物",
+      "抽象幾何背景與裝飾藝術風格",
+      "毛茸茸質感與工業廢墟的對比"
+    ],
+    "title": "幽光下的生命圖騰",
+    "comment_id": 4410413190,
+    "number": 1809,
+    "idea": "在對稱構圖的磨砂玻璃實驗室中，一隻橘貓正專注地凝視著全像投影出的水下肉食性果蠅基因鏈。",
+    "inspiration": "瑞典隆德大學的研究團隊透過基因組圖譜分析，揭開了一種能在水下狩獵的奇特肉食性果蠅演化之謎。",
+    "news_inspiration": [
+      "緬甸抹谷地區的礦工發現一顆重達 11,000 克拉（約 2.2 公斤）的巨型紅寶石，因其絕佳的色澤與品質被視為極其罕見的珍寶。",
+      "瑞典隆德大學的研究團隊透過基因組圖譜分析，揭開了一種能在水下狩獵的奇特肉食性果蠅演化之謎。",
+      "蘇格蘭正式立法要求所有新建築必須安裝「雨燕磚」，這項友善生態的舉措旨在為數量下降的雨燕提供安全的築巢空間。",
+      "丹麥哥本哈根推出了一座獨特的「真人圖書館」，讓讀者可以「借閱」不同背景的人進行交流，而非傳統的紙本書籍。",
+      "美國加州瓦列霍市於今日迎來大型室內運動公園 Sky Zone 的盛大開幕，為當地家庭提供結合彈跳床與障礙賽的活力休閒去處。"
+    ],
+    "story": "這隻好奇的貓在隆德大學的研究室裡穿梭，試圖用爪子觸碰那些懸浮在半空中、閃爍著大地色系光芒的螺旋分子。實驗室的光影呈現倫勃朗式的深邃層次，貓咪的剪影與複雜的演化圖譜完美重合。",
+    "prompt": "A symmetrical photograph of an orange cat in a frosted glass research lab at Lund University, focused intently on a holographic projection of underwater carnivorous fruit fly DNA chains. The cat is reaching out to touch the glowing earth-tone double helix molecules. The composition is perfectly centered and balanced, utilizing the lab's architectural framing. Lighting follows a dramatic Rembrandt style with a single 45-degree light source creating a classic chiaroscuro effect and a signature light triangle on the cat's shadowed face. The color scheme features terracotta, olive green, and warm browns. The date and time '2026-05-08 22:44 UTC' is visually displayed in a digital font on a terminal in the background. Captured on 50mm lens, f/2.8, with realistic matte textures, diffused light through frosted glass, and natural film grain."
   }
 ]
