@@ -3826,5 +3826,44 @@
     ],
     "title": "琥珀實驗室的彗星獵手",
     "prompt": "Atompunk illustration of a clumsy ginger cat swatting at a massive floating heavy water sphere inside a retro-futuristic levitating laboratory. The scene features 1950s atomic age technology with sleek chrome lines and amber-glowing scientific instruments. Traditional East Asian gold leaf auspicious clouds with intricate curling swirl patterns drift through the air. Even frontal lighting with circular ring light catchlights in the cat's eyes. The color palette consists of warm autumn tones, golden yellows, and burnt orange for a cozy nostalgic warmth. Small digital display in the corner clearly showing the text '2026-05-08 14:46 UTC'. Luxurious gilt textures and embossed metallic finishes on the machinery."
+  },
+  {
+    "title": "琥珀鏡像中的深海守望",
+    "number": 1805,
+    "story": "船長聽聞科學家在大堡礁發現了奇蹟般的強韌珊瑚，特地來到港口酒吧研究老友帶回的模型。即便身為碼頭老大，牠那銳利的翠綠色右眼在面對這象徵生命韌性的深海寶藏時，也流露出少見的敬畏與沉思。",
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [
+      "英國倫敦成千上萬的粉絲群聚在特拉法加廣場，為慶祝世界知名自然紀錄片之父大衛·艾登堡爵士（David Attenborough）的100歲壽辰。",
+      "奧地利一頭名為薇洛妮卡（Veronika）的母牛因能熟練使用掃帚與木棍等工具清理身體，其展現的高度智慧令維也納的研究人員感到震驚。",
+      "美國史丹佛大學醫學院的一項突破性研究發現，透過阻斷特定蛋白質可以逆轉關節軟骨流失，有望讓未來的膝關節置換手術成為過去式。",
+      "澳洲大堡礁的凱恩斯近海發現了一座面積將近半個足球場大的巨型珊瑚群，科學家正研究其在氣候變遷下仍能生存數百年的強大韌性。",
+      "丹麥哥本哈根推廣了一項別出心裁的「真人圖書館」活動，讓民眾可以透過「借閱」不同背景的人來進行深度交談，以消除社會偏見。"
+    ],
+    "character": "captain",
+    "avoid_list": [
+      "等距視角構圖",
+      "生鏽與舊化鐵鏽紋理",
+      "復古褪色色調",
+      "環形燈產生的圓形眼部高光",
+      "櫻花瓣飛舞的場景",
+      "超廣角鏡頭產生的透視畸變",
+      "巨大物體與貓的比例對比",
+      "結合科技感與金箔祥雲",
+      "特定時間戳記整合於畫面",
+      "貓咪捕捉或撥弄漂浮物",
+      "抽象幾何背景與裝飾藝術風格",
+      "毛茸茸質感與工業廢墟的對比"
+    ],
+    "prompt": "A candid 35mm photograph taken through a mirror at a harbor bar, showing the reflection of a large stocky brown tabby cat with bold black stripes. The cat, with scruffy untidy fur, has a dark-pigmented fur patch #2B1B0E covering its left eye socket and a single piercing emerald green #50C878 right eye. A V-shaped notch is visible on its left ear, and a faded red #CD5C5C bandana is tied around its neck. Its white mitten paws are meticulously touching a giant, intricate coral model on a liquid metal bar top that looks like flowing mercury. The scene uses cross-processing print techniques with experimental color shifts and a warm amber color grading. Soft diffused light illuminates the cozy setting. In the corner of the frame, the text '2026-05-08 16:08 UTC' is clearly displayed. Mirror selfie composition with casual framing and visible reflections.",
+    "comment_id": 4407916655,
+    "inspiration": "澳洲大堡礁的凱恩斯近海發現了一座面積將近半個足球場大的巨型珊瑚群，科學家正研究其在氣候變遷下仍能生存數百年的強大韌性。",
+    "idea": "在漁港老酒吧的液態金屬質感吧台前，透過後方鏡面反射出的「船長」正專注地用厚實爪子撥弄一個精緻的巨型珊瑚模型，畫面呈現琥珀色的交叉沖洗藝術風格。",
+    "character_name": "船長"
   }
 ]
