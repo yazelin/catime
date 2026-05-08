@@ -3865,5 +3865,36 @@
     "inspiration": "澳洲大堡礁的凱恩斯近海發現了一座面積將近半個足球場大的巨型珊瑚群，科學家正研究其在氣候變遷下仍能生存數百年的強大韌性。",
     "idea": "在漁港老酒吧的液態金屬質感吧台前，透過後方鏡面反射出的「船長」正專注地用厚實爪子撥弄一個精緻的巨型珊瑚模型，畫面呈現琥珀色的交叉沖洗藝術風格。",
     "character_name": "船長"
+  },
+  {
+    "idea": "在正交投影的鉛筆素描筆觸下，一隻三花貓正伏在碳纖維質感的修車墊上，全神貫注地撥弄著零件，背景則是充滿琥珀色霓虹燈火的地下改裝車庫。",
+    "comment_id": 4408765422,
+    "prompt": "Technical orthographic projection illustration, pencil sketch on paper with visible graphite hatching and cross-hatching. A calico cat lies on a carbon fiber weave repair mat, intensely fiddling with mechanical engine parts. Background is a subterranean modification garage illuminated by glowing amber neon signs. The scene features a high-tech industrial aesthetic with warm golden yellow and burnt orange color grading. The date and time '2026-05-08 18:03 UTC' is visually integrated into the image. Straight-on flat rendering, no perspective distortion, moody urban night atmosphere with reflections on glossy surfaces.",
+    "number": 1806,
+    "avoid_list": [
+      "等距視角構圖",
+      "生鏽與舊化鐵鏽紋理",
+      "復古褪色色調",
+      "環形燈產生的圓形眼部高光",
+      "櫻花瓣飛舞的場景",
+      "超廣角鏡頭產生的透視畸變",
+      "巨大物體與貓的比例對比",
+      "結合科技感與金箔祥雲",
+      "特定時間戳記整合於畫面",
+      "貓咪捕捉或撥弄漂浮物",
+      "抽象幾何背景與裝飾藝術風格",
+      "毛茸茸質感與工業廢墟的對比"
+    ],
+    "title": "琥珀霓虹下的齒輪低語",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Orthographic Projection",
+      "lighting": "Neon Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "老舊的地下車庫裡，琥珀色的霓虹燈光勾勒出碳纖維車殼的線條。三花貓雖然不發一語，卻是這裡最資深的零件監督員，正用腳爪精準地確認著每一顆螺絲的鬆緊。",
+    "news_inspiration": []
   }
 ]
