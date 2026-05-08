@@ -3896,5 +3896,42 @@
     },
     "story": "老舊的地下車庫裡，琥珀色的霓虹燈光勾勒出碳纖維車殼的線條。三花貓雖然不發一語，卻是這裡最資深的零件監督員，正用腳爪精準地確認著每一顆螺絲的鬆緊。",
     "news_inspiration": []
+  },
+  {
+    "comment_id": 4409476828,
+    "title": "霜降之地的震動儀式",
+    "inspiration": "美國佛羅里達州的索普喬皮小鎮今日舉辦年度「震動地表抓蚯蚓節」，當地居民透過古老的傳統技藝吸引大量蚯蚓出土，氣氛既古怪又歡樂。",
+    "number": 1807,
+    "story": "這隻好奇的虎斑貓潛入佛羅里達州的抓蚯蚓節現場，正專注地觀察從地底鑽出的生物。冰霜結晶的質感覆蓋在帳篷邊緣，三點打光與紅藍雙色調營造出一種既古怪又冷冽的競技氛圍。",
+    "news_inspiration": [
+      "在英國牛津大學公園的池塘中，科學家發現了一種打破遺傳法則的新物種纖毛蟲，其 DNA 讀取方式完全顛覆了生物學的現有常識。",
+      "美國五角大廈今日發布一段引發熱議的影片，畫面顯示一個神祕的「八角星形」不明飛行物在空中飛掠，讓全球幽浮迷感到極度興奮。",
+      "為慶祝知名自然學家大衛·艾登堡爵士 100 歲壽辰，世界各地的科學家將新發現的十種生物以他的名字命名，以此向這位傳奇人物致敬。",
+      "美國佛羅里達州的索普喬皮小鎮今日舉辦年度「震動地表抓蚯蚓節」，當地居民透過古老的傳統技藝吸引大量蚯蚓出土，氣氛既古怪又歡樂。",
+      "義大利一項最新遺傳研究顯示，當地近半數的野狼已與家犬混血，這項有趣的發現不僅揭示了物種演化的現況，也引發大眾對生態多樣性的關注。"
+    ],
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Split View",
+      "lighting": "Three-Point Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A DSLR split-screen photography composition. The left half is a sharp photorealistic close-up of a tabby cat inside a frosted wilderness tent, batting at an earthworm on the ground; 85mm f/1.4 lens, creamy bokeh, delicate ice crystal formations and frozen textures on the tent fabric. The right half shows a distant wireframe diagram of townspeople in Sopchoppy, Florida, participating in a worm grunting festival. A sharp vertical cut line separates the halves. Three-point lighting with a key light, soft shadows, and subtle rim light. Red and blue duotone color treatment. The date and time '2026-05-08 20:03 UTC' is visually displayed in a modern font in the corner.",
+    "idea": "採用單眼人像散景與分割畫面構圖，左側近景呈現一隻貓在結霜的野外帳篷內撥弄蚯蚓，右側遠景則是索普喬皮鎮民參與震動抓蚯蚓節的熱鬧景象。",
+    "avoid_list": [
+      "等距視角構圖",
+      "生鏽與舊化鐵鏽紋理",
+      "復古褪色色調",
+      "環形燈產生的圓形眼部高光",
+      "櫻花瓣飛舞的場景",
+      "超廣角鏡頭產生的透視畸變",
+      "巨大物體與貓的比例對比",
+      "結合科技感與金箔祥雲",
+      "特定時間戳記整合於畫面",
+      "貓咪捕捉或撥弄漂浮物",
+      "抽象幾何背景與裝飾藝術風格",
+      "毛茸茸質感與工業廢墟的對比"
+    ]
   }
 ]
