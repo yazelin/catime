@@ -3933,5 +3933,42 @@
       "抽象幾何背景與裝飾藝術風格",
       "毛茸茸質感與工業廢墟的對比"
     ]
+  },
+  {
+    "inspiration": "在韓國首爾的曹溪寺，信眾與工作人員正忙著布置五彩斑斕的燈籠，為即將到來的佛誕節做準備。",
+    "prompt": "A four-panel storybook illustration with a shoujo manga narrative flow, featuring a calico cat chasing moving shadows of lantern tassels at Jogyesa Temple in Seoul. The layout includes multiple irregular panels on one page with a decorative title banner and integrated dialogue bubbles. Art style blends disposable camera aesthetics with slice-of-life storybook composition, showing flash artifacts, light leaks, and a low-quality charm. Dramatic high-contrast lighting with narrow beam spotlights creates sharp light edges and deep darkness falloff. The scene is filled with high saturation vivid colors from handmade lanterns and iridescent holographic silk threads with rainbow color shifts and shimmering translucent surfaces. The orange date and time '2026-05-08 21:48' is visually displayed in the corner of the frames.",
+    "title": "梵音燈影間的躍動",
+    "comment_id": 4410112099,
+    "news_inspiration": [
+      "在摩洛哥的凱拉特姆古納（Kelaat M'Gouna），熱鬧的玫瑰節盛大開幕，舞者們穿著傳統服飾慶祝大馬士革玫瑰的豐收。",
+      "科學家在瑞典隆德大學宣布，透過 DNA 技術成功繪製出一種自 1981 年後就未曾露面的神祕「水下狩獵」果蠅基因圖譜。",
+      "美國密西根大學的研究團隊發現一顆來自太陽系外的星際彗星 3I/ATLAS，其含有的「重水」比例遠高於太陽系內的任何天體。",
+      "在韓國首爾的曹溪寺，信眾與工作人員正忙著布置五彩斑斕的燈籠，為即將到來的佛誕節做準備。",
+      "越南峴港宣布將於五月下旬舉辦 2026 美食巡迴節，在東海公園等景點提供豐富的在地料理與文化觀光體驗。"
+    ],
+    "number": 1808,
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Spotlight",
+      "texture": "Iridescent Holographic",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "這是一組採用即棄相機風格的四格故事插畫，捕捉一隻三花貓在首爾曹溪寺五彩斑斕的燈籠海下，專注地追逐影子中晃動的流蘇。",
+    "avoid_list": [
+      "等距視角構圖",
+      "生鏽與舊化鐵鏽紋理",
+      "復古褪色色調",
+      "環形燈產生的圓形眼部高光",
+      "櫻花瓣飛舞的場景",
+      "超廣角鏡頭產生的透視畸變",
+      "巨大物體與貓的比例對比",
+      "結合科技感與金箔祥雲",
+      "特定時間戳記整合於畫面",
+      "貓咪捕捉或撥弄漂浮物",
+      "抽象幾何背景與裝飾藝術風格",
+      "毛茸茸質感與工業廢墟的對比"
+    ],
+    "story": "佛誕節前的深夜，寺廟中庭掛滿了高飽和鮮豔色的手工燈籠。這隻貓在聚光燈般的投影下穿梭，虹彩全息質感的絲線在牠爪邊閃爍，記錄下神聖建築中充滿生活氣息的瞬間。"
   }
 ]
