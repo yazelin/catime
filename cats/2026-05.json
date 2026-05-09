@@ -4115,5 +4115,47 @@
       "texture": "Film Grain",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "season": "spring",
+    "title": "遺落神廟的黃金瞳",
+    "number": 1813,
+    "avoid_list": [
+      "琥珀色霓虹燈光",
+      "生鏽管線與舊化鐵鏽",
+      "大地色系與暖調色彩",
+      "等距攝影視角",
+      "磨砂玻璃與透明質感",
+      "全像投影與基因鏈",
+      "櫻花雨與粉色花瓣",
+      "實驗室中的科學研究",
+      "觸碰或撥弄球體物",
+      "充氣PVC與高光表面",
+      "廢棄工業設施背景",
+      "日期與時間視覺顯示",
+      "三點打光與深邃陰影"
+    ],
+    "story": "麻糬在老街深處的廢棄神廟遺址中穿梭，意外發現了散發金光的古代遺物。牠好奇地用粉紅鼻頭輕嗅這枚罕見的黃金劍飾，完全沒發現自己正身處於一個被螢光植物與厚重苔蘚包圍的奇幻禁地。",
+    "comment_id": 4411823811,
+    "inspiration": "挪威的一名登山者在山區意外發現了一枚極其罕見且精美的維京勇士黃金劍飾，專家研判這可能是古代為祭祀神靈而埋藏的珍貴祭品。",
+    "character": "mochi",
+    "news_inspiration": [
+      "為慶祝 5 月 9 日的世界候鳥日，加拿大政府宣佈了全新的自然戰略，致力於在 2030 年前保護該國 30% 的土地與水域，以守護如紅喉北蜂鳥等珍稀候鳥的棲息地。",
+      "巴西大坎普舉辦的國際遷徙物種公約會議取得重大成果，成功將雪鴞等 40 個物種納入保護名錄，透過跨國合作應對氣候變遷對這些北極指標物種的威脅。",
+      "挪威的一名登山者在山區意外發現了一枚極其罕見且精美的維京勇士黃金劍飾，專家研判這可能是古代為祭祀神靈而埋藏的珍貴祭品。",
+      "奧地利維也納大學的研究團隊發現一頭名為維若妮卡的牛具備使用工具的多重能力，這項科學發現打破了長期以來認為只有靈長類動物才會使用複雜工具的認知。",
+      "辛巴威的偏遠鄉村地區推行了「疫苗單車手」計畫，由社區衛生工作者騎單車深入交通不便的家庭，成功為超過兩萬名偏鄉女孩完成 HPV 疫苗接種。"
+    ],
+    "idea": "在霓虹螢光色彩斑斕的古老石窟中，圓滾滾的橘白貓麻糬正低頭研究一枚鑲嵌在苔蘚岩石間的維京勇士黃金劍飾，畫風融合東方奇幻海報與移軸微縮攝影，展現微小而神祕的世界。",
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Neon Fluorescent"
+    },
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "prompt": "Oriental mythic poster art featuring Mochi, a chubby shorthair cat with a white #FFFFFF base and solid orange #FF8C00 patches. Mochi has a spherical torso, large amber #FFBF00 eyes, and a pink #FFB6C1 nose with a tiny orange dot. His markings are specific: a solid orange mask on the RIGHT half of his face (viewer's right), a pure white LEFT face, a heart-shaped orange saddle on his upper back, a solid orange RIGHT front paw, and a white LEFT front paw. Mochi is sniffing a golden Viking sword ornament embedded in mossy rocks within an ancient grotto. The scene uses tilt-shift photography style for a miniature effect, featuring a selective focus band and blurred foreground. The aesthetic is a fusion of traditional Chinese ink cloud ornaments, red seal stamps, and vertical calligraphy panels with neon fluorescent colors in electric pink, lime green, and hot cyan glowing against a dark background. Gold leaf accents on deep black. The date and time '2026-05-09 07:08 UTC' is visually displayed in the corner of the image. High contrast cinematic fantasy composition with a spring floral touch."
   }
 ]
