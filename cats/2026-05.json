@@ -4397,5 +4397,46 @@
     "comment_id": 4413022483,
     "title": "海面上的霓虹獵手",
     "inspiration": "阿拉伯聯合大公國杜拜宣布啟用翻新後的阿瑪札海灘，新增了全球首創的女性專屬夜間泳池及漂浮步道等多元遊憩設施。"
+  },
+  {
+    "number": 1821,
+    "avoid_list": [
+      "東方電影海報構圖與書法側欄",
+      "貓咪撥弄或維護放映機與齒輪",
+      "微縮模型與移軸攝影效果",
+      "日期時間戳記視覺化整合",
+      "極高對比度的硬光與深色陰影",
+      "藍綠色調與生物發光質感",
+      "貓咪低頭嗅聞特定物品的姿勢",
+      "冷峻混凝土與工業極簡背景",
+      "細密畫或絲綢卷軸的古風紋理",
+      "雙色調或藍曬法藝術處理",
+      "貓眼中的環境光反射細節",
+      "垂直長卷或直式海報比例"
+    ],
+    "character_name": "船長",
+    "character": "captain",
+    "season": "spring",
+    "story": "春天是漁船出航的季節，船長在最後一班船離港後，巡視著岸邊裝滿玻璃質感鬱金香的板車。牠雖然外表粗獷，卻被這色彩繽紛的春季禮物吸引，在蝴蝶光的照射下，船長的白色手套輕輕觸碰著花瓣。",
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Pastel Colors"
+    },
+    "is_seasonal": true,
+    "idea": "在充滿粉彩合成波風格的漁港碼頭，一隻左眼戴眼罩的壯碩虎斑貓「船長」正專注地用肉墊撥弄著如水晶般透明的鬱金香，畫面邊緣環繞著復古貼紙拼貼效果。",
+    "inspiration": "位於荷蘭利瑟的庫肯霍夫花園鬱金香節於今日迎來最後一天，繽紛的花海吸引了全球無數遊客造訪這座春季仙境。",
+    "news_inspiration": [
+      "位於荷蘭利瑟的庫肯霍夫花園鬱金香節於今日迎來最後一天，繽紛的花海吸引了全球無數遊客造訪這座春季仙境。",
+      "科學家在英國牛津大學公園的池塘樣本中，發現了一種打破遺傳規律的新型微小微生物，挑戰了生命遺傳編碼的通用準則。",
+      "國際足總 FIFA 正式確認 2026 世界盃將在墨西哥城、洛杉磯與多倫多三地舉行開幕式，並由凱蒂·佩芮等全球巨星領銜演出。",
+      "丹麥哥本哈根馬拉松於今日正式開跑，成千上萬的跑者穿梭於這座北歐城市的歷史街道，展現盛大的運動與文化交流。",
+      "研究發現蒼蠅的視覺系統具備「渦輪增壓」功能，能配合身體抖動加速數據處理，這項發現將助力英國科學家開發更高效的 AI 機器人。"
+    ],
+    "prompt": "A wide-angle illustration of Captain, a large stocky brown tabby cat with bold black stripes and scruffy, untidy coarse fur. He has a broad muscular build, a white chest bib, and white mitten paws. His left eye is completely hidden by a natural dark fur patch with no straps, his right eye is piercing emerald green, his left ear has a prominent V-shaped notch, and he wears a faded red bandana. He is sitting on a fishing pier at a harbor, using a white mitten paw to gently touch transparent, crystalline glass tulips on a wooden cart. The scene is rendered in a pastel synthwave aesthetic with a soft color palette of lavender, mint, and baby blue. The composition is a die-cut sticker collage with white outline borders, scrapbooking elements, and retro-futuristic sunset vibes. Butterfly lighting creates a soft glow on his face with a symmetrical shadow under his nose. Prismatic light refractions from the glass flowers decorate the ground. Floating retro props and chibi-style marine life stickers surround the frame. The text '2026-05-09 17:40 UTC' is visually displayed in a retro digital font in the corner.",
+    "comment_id": 4413163842,
+    "title": "霓虹港灣的春之贈禮"
   }
 ]

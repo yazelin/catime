@@ -16620,5 +16620,18 @@
     "title": "海面上的霓虹獵手",
     "inspiration": "阿拉伯聯合大公國杜拜宣布啟用翻新後的阿瑪札海灘，新增了全球首創的女性專屬夜間泳池及漂浮步道等多元遊憩設施。",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-09_1740_UTC.webp",
+    "character_name": "船長",
+    "character": "captain",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-05-09 17:40 UTC",
+    "is_seasonal": true,
+    "inspiration": "位於荷蘭利瑟的庫肯霍夫花園鬱金香節於今日迎來最後一天，繽紛的花海吸引了全球無數遊客造訪這座春季仙境。",
+    "number": 1821,
+    "season": "spring",
+    "title": "霓虹港灣的春之贈禮"
   }
 ]
