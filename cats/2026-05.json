@@ -4290,5 +4290,36 @@
       "color_palette": "Duotone"
     },
     "number": 1817
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Film Grain",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "分割畫面構圖",
+      "側邊書法面板與紅章",
+      "低頭嗅聞或撥弄特定物件",
+      "冰霜結晶與冷色調質感",
+      "琥珀色霓虹燈光與金屬質感",
+      "垂直構圖的海報風格",
+      "交叉沖洗與底片顆粒特效",
+      "正交投影或技術圖稿筆觸",
+      "螢光生物發光與幽藍調性",
+      "精準標註特定色碼與時間戳記",
+      "好奇的貓檢查科學模型或儀器",
+      "東方奇幻海報與現代元素融合"
+    ],
+    "title": "金影格裡的發條巡禮",
+    "number": 1818,
+    "news_inspiration": [],
+    "story": "這隻黑貓在微型機械劇場中優雅穿梭，用肉墊輕撥黃銅齒輪，啟動了一場關於黃金時代的默片。漫射的自然光透過機械縫隙，灑在它閃爍金光的毛皮與細緻的發條結構上。",
+    "idea": "在長卷全景中展現手作機關偶風格的黑金奢華戲院，一隻黑貓正穿梭於齒輪間撥動放映機發條。",
+    "prompt": "Handmade mechanical figurine photography, extreme wide handscroll panorama, continuous narrative composition from right-to-left. In a luxurious black and gold mechanical theater, a black cat with metallic gold fur accents is moving between brass gears and winding a projection machine's clockwork spring. Assemblage sculpture aesthetic with aged copper parts, springs, and ceramic elements. Visible timestamp '2026-05-09 14:12 UTC' displayed on a mechanical plate within the scene. Shot on 35mm lens, f/2.8, soft diffused natural light, overcast illumination, shallow depth of field, artisan workshop atmosphere, film grain, analog texture, organic photographic imperfections, opulent gold and black color scheme.",
+    "comment_id": 4412721915
   }
 ]
