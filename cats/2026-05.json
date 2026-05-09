@@ -4083,5 +4083,37 @@
     "comment_id": 4411025505,
     "story": "隨著蘇格蘭新法案的實施，每一座新屋都成了鳥兒的庇護所。這隻小貓在冷色調的清晨光影中，正執行牠每日的「安檢」巡視，守護著這片為雨燕準備的小小天地。",
     "title": "北國簷下的新客"
+  },
+  {
+    "number": 1812,
+    "prompt": "Split-view pictorialism photography. A tortoiseshell cat inside a deep-sea research pod. Left side: extreme close-up of the cat's eye reflecting shimmering cyan light. Right side: close-up of a paw with visible film grain touching a glass container of bioluminescent jellyfish and flowing blue-green liquid. The date '2026-05-09 04:59 UTC' is visible on a digital console in the frame. Shot on 35mm film, f/2.8, deliberate soft focus, analog texture, heavy grain, cool blue-teal color grading. Bioluminescent lighting from organisms creates a deep sea phosphorescence. Early fine art photography style with a sharp vertical cut line separating the two views.",
+    "news_inspiration": [],
+    "avoid_list": [
+      "琥珀色霓虹燈光",
+      "生鏽管線與舊化鐵鏽",
+      "大地色系與暖調色彩",
+      "等距攝影視角",
+      "磨砂玻璃與透明質感",
+      "全像投影與基因鏈",
+      "櫻花雨與粉色花瓣",
+      "實驗室中的科學研究",
+      "觸碰或撥弄球體物",
+      "充氣PVC與高光表面",
+      "廢棄工業設施背景",
+      "日期與時間視覺顯示",
+      "三點打光與深邃陰影"
+    ],
+    "comment_id": 4411526001,
+    "idea": "採用畫意攝影風格並運用分割畫面，呈現一隻玳瑁貓在深海研究艙內專注撥弄浮游生物樣本，畫面充斥著生物發光的幽藍冷調。",
+    "story": "研究員離座的片刻，好奇的貓咪跳上控制台，在微光中輕觸透明容器裡的發光水母。左側畫面捕捉了貓眼中的閃爍青光，右側則聚焦於牠那帶著底片顆粒質感的爪尖與流動的藍綠色液體。",
+    "inspiration": "original",
+    "title": "深海艙內的螢光微瀾",
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Split View",
+      "lighting": "Bioluminescence",
+      "texture": "Film Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
