@@ -5202,5 +5202,42 @@
       "透明玻璃與晶體折射質感",
       "傳統紡織品與織紋細節"
     ]
+  },
+  {
+    "inspiration": "original",
+    "number": 1843,
+    "idea": "採用光繪攝影藝術風格，從鳥瞰視角捕捉一隻三花貓在皮革沙發上瘋狂追逐雷射光點的動態瞬間，背景呈現高飽和鮮豔色的殘影光跡。",
+    "news_inspiration": [
+      "泰國：一隻長期流浪且害怕人類的小狗 Curly 成功被收容機構救助，近日第一次在海邊沙灘上自由奔跑，溫馨畫面感動無數網友。",
+      "法國：科學家在圖盧茲大學的研究中發現脂肪細胞內一種名為 HSL 的蛋白質具有保護細胞核的新功能，此發現打破了數十年來的科學認知，將改寫肥胖與代謝疾病的研究方向。",
+      "埃及：世界旅遊暨觀光協會（WTTC）高峰會於蘇伊士運河的郵輪上圓滿落幕，展示了現代化永續遊艇碼頭，並宣示推動埃及觀光邁向綠色轉型。",
+      "西班牙：在巴塞隆納舉行的 2026 心衰竭大會上，醫學界發布了全球首個微 RNA 抑制療法臨床試驗結果，為心臟病治療帶來革命性的技術突破。",
+      "荷蘭：位於利瑟的庫肯霍夫花園（Keukenhof）鬱金香花季於今日迎來最後一天開放，吸引了來自全球各地的遊客在繽紛花海中慶祝春天的尾聲。"
+    ],
+    "comment_id": 4416527309,
+    "story": "正午的硬光穿透天窗，一隻靈巧的三花貓在鮮紅色的皮革沙發上跳躍，其移動的爪印與光影交織成炫目的幾何圖案。這場獨自進行的狩獵遊戲，在長曝光下轉化為一場關於速度與色彩的視覺實驗。",
+    "prompt": "A long exposure light painting photograph from a bird's-eye view looking straight down at a calico cat mid-pounce on a red leather sofa. Swirling luminous neon light trails in high saturation vivid colors surround the cat, capturing its movement as it chases a laser point. The scene features harsh midday sunlight from a skylight creating high contrast hard edge shadows, revealing the rich grain and supple creased surface of the leather. The text '2026-05-10 22:35 UTC' is visually integrated into the bottom corner. 24mm wide-angle lens, f/11, long exposure, motion blur on the light streaks, sharp focus on the cat's intense expression.",
+    "title": "紅革上的光影獵殺",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Bird's-Eye View",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Leather",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "霓虹螢光色彩",
+      "多視角立繪構圖",
+      "莫蘭迪色調",
+      "視覺呈現日期與時間戳記",
+      "分割畫面構圖",
+      "櫻花雨與花環元素",
+      "35mm鏡頭與f/2.8光圈設定",
+      "精密齒輪與機械裝置",
+      "粉色與青色高對比光影",
+      "微型世界與移軸攝影效果",
+      "透明玻璃與晶體折射質感",
+      "傳統紡織品與織紋細節"
+    ]
   }
 ]
