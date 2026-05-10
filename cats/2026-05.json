@@ -5031,5 +5031,37 @@
       "精密摺紙質感",
       "復古褪色底片感"
     ]
+  },
+  {
+    "prompt": "A split view composition in a Cubism art style featuring a tabby cat interacting with an ancient sundial inside a wrought iron filigree conservatory. The left side displays geometric fragmented forms and abstract angular planes, while the right side integrates ornate black scrollwork and Victorian architectural ironwork. Lighting is defined by ring light illumination creating circular catchlights in the cat's eyes. The color palette consists of earth tones including terracotta, olive green, and warm brown. The date and time '2026-05-10 17:41 UTC' is clearly visually displayed on a metallic plaque within the scene. Analytical decomposition of shapes, multiple simultaneous perspectives, and intricate cast iron lace patterns.",
+    "comment_id": 4415926660,
+    "idea": "這是一幅以立體主義風格呈現的分割畫面，描繪一隻虎斑貓在鑄鐵雕花溫室中撥弄古老日晷，大地色系的幾何色塊與環形燈般的圓潤光影交錯。",
+    "title": "鐵花窗裡的時光碎影",
+    "avoid_list": [
+      "莫蘭迪色調",
+      "極低角度拍攝",
+      "黑光螢光照明",
+      "紙質肌理感",
+      "多視角立繪構圖",
+      "體積光穿透塵埃",
+      "透明樹脂霓虹招牌",
+      "貓撥弄特定物體",
+      "數位時間標記",
+      "細緻纖維紋理",
+      "微縮模型移軸效果",
+      "精密摺紙質感",
+      "復古褪色底片感"
+    ],
+    "number": 1838,
+    "news_inspiration": [],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Split View",
+      "lighting": "Ring Light",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Earth Tones"
+    },
+    "story": "在光影破碎的暖房裡，貓兒伸出肉掌試探金屬刻度上的時間倒影。鑄鐵的鏤空花紋將視界切分成無數層次，讓靜止的午後像是一場由泥土與生鐵交織而成的幾何夢境。"
   }
 ]
