@@ -4993,5 +4993,43 @@
       "英國牛津大學研究團隊發現了一種新型系外行星 L 98-59 d，這顆富含硫磺且擁有岩漿海洋的行星，據信聞起來充滿了臭雞蛋味。",
       "泰國於今日慶祝「國家紅樹林日」，透過全國性的保育活動提高大眾對維護沿海生態系統與紅樹林重要性的認識。"
     ]
+  },
+  {
+    "idea": "在一座鋪滿琥珀色大理石的巨型海底神廟中，一隻橘色虎斑貓正在巨大的珊瑚礁盤上追逐一群發光的透明小魚，整體呈現鮮明的特林吉特圖騰藝術風格。",
+    "title": "琥珀深處的圖騰獵場",
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Neon Lighting",
+      "texture": "Marble",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [
+      "美國維吉尼亞州的「帽子女士」們在母親節當天延續百年傳統，佩戴精心設計的華麗禮帽參與教堂活動，展現獨特的非裔美國人服飾文化。",
+      "奧地利維也納的科學家首度觀察到乳牛「維羅妮卡」展現出罕見的工具使用能力，顯示牛隻的認知智慧可能遠超人類過去的想像。",
+      "丹麥哥本哈根推出了創新的「真人圖書館」，讓民眾可以像借書一樣「借出」不同背景的人進行深度交談，以促進社會包容與理解。",
+      "英國謝菲爾德大學的研究團隊發現蒼蠅大腦具備「渦輪增壓」功能，能配合身體動作將視覺處理速度提升三倍，這項發現將有助於開發更節能的 AI 與機器人。",
+      "澳洲凱恩斯外海的公民科學家在大堡礁發現了一個面積將近半個足球場大的巨型珊瑚群，這可能是目前已知世界上最大的單一珊瑚體之一。"
+    ],
+    "number": 1837,
+    "inspiration": "澳洲凱恩斯外海的公民科學家在大堡礁發現了一個面積將近半個足球場大的巨型珊瑚群，這可能是目前已知世界上最大的單一珊瑚體之一。",
+    "story": "這隻好奇的貓潛入了新發現的巨型珊瑚宮殿，在充滿霓虹光影的石柱間輕盈跳躍。隨著牠的每一次撲擊，大理石地面映照出如秋日暖陽般的琥珀色彩，與古老的原住民圖騰紋樣交織成一場夢幻的深海狩獵。",
+    "prompt": "Tlingit formline art illustration of an orange tabby cat pouncing on glowing transparent fish atop a massive coral reef. The setting is a colossal underwater temple with polished amber marble floors featuring intricate natural vein patterns. The visual style incorporates bold ovoid and U-shapes, traditional Pacific Northwest indigenous totem motifs in red and black. Composition uses a 12-18mm ultra-wide angle perspective with dramatic distortion to capture expansive stone pillars. Lighting features neon glows and reflections on the wet marble surfaces. Color grading is a warm autumn palette of golden yellows and burnt orange. The text '2026-05-10 16:40 UTC' is clearly integrated into the scene.",
+    "comment_id": 4415802524,
+    "avoid_list": [
+      "莫蘭迪色調",
+      "極低角度拍攝",
+      "黑光螢光照明",
+      "紙質肌理感",
+      "多視角立繪構圖",
+      "體積光穿透塵埃",
+      "透明樹脂霓虹招牌",
+      "貓撥弄特定物體",
+      "數位時間標記",
+      "細緻纖維紋理",
+      "微縮模型移軸效果",
+      "精密摺紙質感",
+      "復古褪色底片感"
+    ]
   }
 ]
