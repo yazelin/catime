@@ -4911,5 +4911,47 @@
       "在公共場域或市集進行狩獵動作"
     ],
     "story": "這隻工坊守護者穿梭於冰冷的金屬機械間，用靈敏的耳朵監聽著齒輪嚙合的細微聲響。陽光透過高窗形成強烈的體積光，映照出貓咪與複雜發條裝置間的靜謐契合。"
+  },
+  {
+    "avoid_list": [
+      "莫蘭迪色調",
+      "極低角度拍攝",
+      "黑光螢光照明",
+      "紙質肌理感",
+      "多視角立繪構圖",
+      "體積光穿透塵埃",
+      "透明樹脂霓虹招牌",
+      "貓撥弄特定物體",
+      "數位時間標記",
+      "細緻纖維紋理",
+      "微縮模型移軸效果",
+      "精密摺紙質感",
+      "復古褪色底片感"
+    ],
+    "comment_id": 4415505100,
+    "character": "momo",
+    "season": "spring",
+    "news_inspiration": [
+      "在印度浦那，一位退休工程師將自家庭院改造為降溫 4°C 的都市花園，成為對抗夏季熱浪的在地典範。",
+      "美國羅徹斯特大學的科學家成功將裸鼴鼠的長壽基因轉移至小鼠體內，顯著提升了實驗鼠的健康狀況並延長其壽命。",
+      "南非約翰尼斯堡的數位圓頂劇院近日首映沉浸式敘事作品《Kancícà》，展示了由非洲、巴西與法國跨國合作的數位創意藝術。",
+      "在澳洲大堡礁的凱恩斯近海，公民科學家發現了一座面積將近半個足球場大的巨型珊瑚群，為海洋保育帶來新希望。",
+      "加拿大的多倫多市於今日宣布「Doors Open」活動詳情，將於五月下旬免費開放超過 160 座歷史與文化建築供大眾參觀。"
+    ],
+    "character_name": "墨墨",
+    "number": 1835,
+    "title": "翠窗凝望櫻色雨",
+    "idea": "以霓虹螢光的彩色玻璃風格呈現，黑貓墨墨在正交投影的舊書店窗台上，靜靜注視著窗外如棉花糖雲朵般的粉色櫻花雨。",
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Orthographic Projection",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "Stained glass window art style illustration of Momo, a sleek slender solid-black Bombay-style shorthair cat with satin-sheen fur, athletic build, and a tiny white fur locket tuft on the ventral chest. Momo has large luminous golden-amber eyes, long white whiskers, a slight upward curl at the tail tip, and a single dark-grey ring at the end of the tail. A single small gold hoop earring is visible on the edge of the left ear. The cat is sitting calmly on an old bookstore windowsill in an orthographic projection, no perspective distortion, straight-on flat rendering. Outside, a pink cherry blossom rain falls like fluffy cotton candy clouds and marshmallow-like pastel puffs. The scene uses neon fluorescent colors including electric pink, lime green, and hot cyan glowing against dark backgrounds. Translucent jewel-toned segments with bold black outlines and a backlit glow. The date and time '2026-05-10 14:15 UTC' is visually displayed in the corner of the image in a matching artistic font. High contrast lighting with hard edge shadows and strong directional sun.",
+    "is_seasonal": true,
+    "story": "春雨打濕了多倫多歷史建築的窗櫺，墨墨在開放參觀的舊書店裡尋得一處高地。牠身披緞面黑毛，在硬光日照穿透彩色玻璃的斑斕中，與紛飛的櫻花隔窗相對。",
+    "inspiration": "加拿大的多倫多市於今日宣布「Doors Open」活動詳情，將於五月下旬免費開放超過 160 座歷史與文化建築供大眾參觀。"
   }
 ]
