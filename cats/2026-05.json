@@ -4953,5 +4953,45 @@
     "is_seasonal": true,
     "story": "春雨打濕了多倫多歷史建築的窗櫺，墨墨在開放參觀的舊書店裡尋得一處高地。牠身披緞面黑毛，在硬光日照穿透彩色玻璃的斑斕中，與紛飛的櫻花隔窗相對。",
     "inspiration": "加拿大的多倫多市於今日宣布「Doors Open」活動詳情，將於五月下旬免費開放超過 160 座歷史與文化建築供大眾參觀。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Golden Hour",
+      "texture": "Velvet",
+      "color_palette": "Neon Fluorescent"
+    },
+    "character": "lingling",
+    "title": "深海霓虹的幻夢旋律",
+    "inspiration": "科學家在澳洲大堡礁發現了一株面積近4000平方公尺的巨大珊瑚群，其規模約有半個足球場大，是目前紀錄中最大的珊瑚之一。",
+    "prompt": "A colored pencil illustration on rough sketchbook paper with visible pencil grain and layered hues, capturing the golden hour's warm sunset glow and cinematic low angle. Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and enormous sapphire-blue eyes, is captured in mid-leap toward a spiral vortex of coral. Lingling is wearing her signature pink ribbon bow collar with a centered, clearly visible golden bell. The scene features a dramatic spiral vortex composition with a dizzying sense of depth and a centered vanishing point, as if the cat is jumping into a neon fluorescent coral reef made of electric pink, lime green, and hot cyan glowing against the deep sea backdrop. Golden rim lighting highlights her soft, velvet-textured white fur. The text '2026-05-10 15:41 UTC' is visually displayed in the corner of the image. Tactile luxury, deep pile softness, and rich color saturation dominate the frame.",
+    "avoid_list": [
+      "莫蘭迪色調",
+      "極低角度拍攝",
+      "黑光螢光照明",
+      "紙質肌理感",
+      "多視角立繪構圖",
+      "體積光穿透塵埃",
+      "透明樹脂霓虹招牌",
+      "貓撥弄特定物體",
+      "數位時間標記",
+      "細緻纖維紋理",
+      "微縮模型移軸效果",
+      "精密摺紙質感",
+      "復古褪色底片感"
+    ],
+    "story": "鈴鈴在潛水艇的觀景窗前看到大堡礁巨大的珊瑚群，以為那是大號的粉紅羽毛撢子。她興奮地伸出粉紅肉掌撲向玻璃，在光影流轉的螺旋構圖中，整隻貓像團發光的棉花糖在深海幻境前彈跳。",
+    "idea": "在夕陽餘暉下，純白蓬鬆的鈴鈴正試圖跳入一個由五彩霓虹螢光組成的螺旋形珊瑚漩渦中，以色鉛筆畫呈現極具動感的黃金時刻。",
+    "character_name": "鈴鈴",
+    "number": 1836,
+    "comment_id": 4415682165,
+    "news_inspiration": [
+      "在印度班加羅爾，由高齡者組成的「銀色歌鳥」合唱團舉行了免費音樂會，透過歌唱為長者找回生活的喜悅與歸屬感。",
+      "科學家在澳洲大堡礁發現了一株面積近4000平方公尺的巨大珊瑚群，其規模約有半個足球場大，是目前紀錄中最大的珊瑚之一。",
+      "荷蘭阿姆斯特丹宣佈全面禁止化石燃料相關廣告，成為全球領先推動環保轉型並淨化城市公共空間的文化先鋒。",
+      "英國牛津大學研究團隊發現了一種新型系外行星 L 98-59 d，這顆富含硫磺且擁有岩漿海洋的行星，據信聞起來充滿了臭雞蛋味。",
+      "泰國於今日慶祝「國家紅樹林日」，透過全國性的保育活動提高大眾對維護沿海生態系統與紅樹林重要性的認識。"
+    ]
   }
 ]
