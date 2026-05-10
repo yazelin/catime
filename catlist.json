@@ -16705,5 +16705,18 @@
     "timestamp": "2026-05-10 05:28 UTC",
     "status": "success",
     "title": "藍色樞紐的午夜旅客"
+  },
+  {
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "season": "spring",
+    "character": "mochi",
+    "model": "gemini-3-pro-image-preview",
+    "timestamp": "2026-05-10 07:54 UTC",
+    "status": "success",
+    "title": "花見時節的麻糬夢",
+    "number": 1830,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-10_0754_UTC.webp"
   }
 ]

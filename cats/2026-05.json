@@ -4728,5 +4728,40 @@
     "inspiration": "胡志明市隆城國際機場計畫於今年正式啟用，這座全新的航空樞紐預計將顯著提升越南的觀光運輸能力。",
     "number": 1829,
     "title": "藍色樞紐的午夜旅客"
+  },
+  {
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "idea": "這是一幅結合工筆人物畫細膩筆觸與微縮立體模型構圖的作品，展現圓滾滾的橘白貓「麻糬」戴著細緻花環，在傳統老街櫻花樹下的微型野餐場景，背景融入絞染布料的職人質感與復古褪色調。",
+    "style_picks": {
+      "art_style": "Gongbi Figure Painting",
+      "composition": "Miniature Diorama",
+      "lighting": "Neon Lighting",
+      "texture": "Shibori Textile",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character": "mochi",
+    "season": "spring",
+    "is_seasonal": true,
+    "comment_id": 4414780958,
+    "story": "春日暖陽灑進老街，麻糬在櫻花盛放的攤位旁築起一方小天地。牠頭戴粉嫩花環，正慵懶地趴在絞染餐墊上，目光鎖定前方微型野餐籃裡的魚乾，霓虹燈影在牠琥珀色的瞳孔中與落櫻交織成一首春之組曲。",
+    "prompt": "Miniature diorama art of Mochi, a chubby rounded shorthair cat. Mochi has a white #FFFFFF base, a bright orange #FF8C00 mask on the RIGHT half-face only (viewer perspective) with the LEFT face pure white, and a heart-shaped orange #FF8C00 saddle on her back. Her RIGHT front paw is a solid orange mitten, while her LEFT front paw is pure white. She has large round amber #FFBF00 eyes and a pink nose with a tiny orange dot. Mochi is wearing a delicate pink cherry blossom flower crown, lounging on a Shibori indigo resist-dyed textile mat under a miniature cherry blossom tree in a traditional old street. She is looking at a tiny picnic basket filled with dried fish. Style incorporates Chinese Gongbi painting with meticulous fine-line brushwork and delicate color washes. Retro faded color palette with nostalgic vintage tones and low contrast. Tilt-shift effect creates a tiny world scale with moody neon lighting reflecting off wet cobblestones. The date and time '2026-05-10 07:54 UTC' is visually displayed in the bottom corner.",
+    "news_inspiration": [],
+    "avoid_list": [
+      "貓用肉墊撥弄或抓取物品",
+      "霓虹螢光粉色與青色組合",
+      "三花貓作為主角",
+      "透明樹脂或水晶玻璃質感",
+      "畫面角落顯示日期時間戳記",
+      "極低角度俯瞰或仰拍鏡頭",
+      "手持慢門動態模糊效果",
+      "帶有纖維紋理的紙張肌理感",
+      "漂浮的島嶼或建築裝置",
+      "窄光束聚光燈與強烈陰影對比",
+      "絲綢或皮革等特定材質細節",
+      "在公共場域或市集進行狩獵動作"
+    ],
+    "title": "花見時節的麻糬夢",
+    "number": 1830
   }
 ]
