@@ -4691,5 +4691,42 @@
     "idea": "在色彩繽紛的多倫多大亞細亞市集，一隻三花貓正專注地躍過整排透明樹脂製成的霓虹螢光招牌，畫面以超寫實動漫風呈現螺旋漩渦構圖。",
     "inspiration": "加拿大多倫多正在舉行亞洲傳統月慶祝活動，並舉辦了該市史上規模最大的亞洲市集，匯集超過 95 家亞裔小微企業參與。",
     "title": "繁華市集的流光躍動"
+  },
+  {
+    "news_inspiration": [
+      "科學家在南太平洋的湯加火山噴發雲層中發現氯粒子能清除大氣中的甲烷，為應對氣候變遷提供新線索。",
+      "巴基斯坦在拉合爾成功舉辦第 11 屆板球超級聯賽（PSL），由隊長 Babar Azam 帶領球隊奪冠並展現體育熱情。",
+      "密西根大學研究發現，飛越太陽系的星際彗星 3I/ATLAS 含有極高含量的「重水」，揭示了系外行星系統的獨特成分。",
+      "印度板球名將 Shubman Gill 在齋浦爾比賽前向看台上的父親敬禮並擊掌，溫馨畫面在社群媒體上引發熱烈討論。",
+      "胡志明市隆城國際機場計畫於今年正式啟用，這座全新的航空樞紐預計將顯著提升越南的觀光運輸能力。"
+    ],
+    "avoid_list": [
+      "伸出爪子撥動齒輪",
+      "角落標註日期時間文字",
+      "金色與黑色的奢華配色",
+      "等距視角攝影構圖",
+      "三點打光與蝴蝶光照明",
+      "玻璃或水晶質感的反射折射",
+      "漂浮的島嶼或懸浮裝置",
+      "貓咪撥弄圓形鏡子或天體儀",
+      "微縮模型與食物擬物場景",
+      "具有特定相機鏡頭參數的敘述",
+      "藝術風格與底片質感的混搭",
+      "棉花糖或天鵝絨般的雲朵苔蘚"
+    ],
+    "prompt": "An illustration on textured paper with visible fiber grain and kraft paper feel, featuring a calico cat focused on scratching a brown leather luggage tag in a terminal of Ho Chi Minh Long Thanh International Airport. The scene uses an extreme low angle shot with a film noir style and dramatic deep shadows. The lighting is dominated by cold blue-teal neon glowing from the background, creating reflections on the polished floor. The date and time '2026-05-10 05:28 UTC' is visually displayed on a digital flight information screen in the background. High contrast, icy undertones, and a mysterious urban night atmosphere.",
+    "idea": "在冷冽藍青霓虹燈映照的胡志明市隆城國際機場候機室，一隻三花貓正專注地埋頭抓弄一只被遺忘的棕色皮製行李吊牌，呈現黑色電影般的極低角度與紙質肌理感。",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Extreme Low Angle",
+      "lighting": "Neon Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4414526926,
+    "story": "深夜的航空樞紐空蕩而深邃，貓咪在明亮的青色地磚上潛行，試圖解開行李箱上的皮革秘密。在起飛的轟鳴聲中，牠的影子被長長地拉向登機門，彷彿是這座現代交通堡壘中唯一的靈魂觀察者。",
+    "inspiration": "胡志明市隆城國際機場計畫於今年正式啟用，這座全新的航空樞紐預計將顯著提升越南的觀光運輸能力。",
+    "number": 1829,
+    "title": "藍色樞紐的午夜旅客"
   }
 ]
