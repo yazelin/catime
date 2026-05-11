@@ -5344,5 +5344,44 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "title": "琉璃影裡的風之觸"
+  },
+  {
+    "story": "麻糬巡邏到老街新開的精品店，被一條充滿咖啡香氣的新科技皮革領帶吸引，忍不住伸出橘色手套般的右前腳輕輕撥弄。店內的金色環型燈映照在牠圓滾滾的身軀上，宛如一位精緻的時尚評論家正在審視最新的環保配件。",
+    "character": "mochi",
+    "number": 1847,
+    "inspiration": "美國一家名為 Mushmycel 的環保新創公司研發出以蘑菇菌絲體、蘋果皮和咖啡渣製成的永續植物皮革，並於今日推出一系列環保配飾。",
+    "news_inspiration": [
+      "在墨西哥的小鎮洛斯亞尼托斯，當地家族正積極復興擁有 3400 年歷史的古老運動「烏拉馬」球賽，並藉由 2026 世界盃足球賽的熱度推廣這項傳統文化。",
+      "美國一家名為 Mushmycel 的環保新創公司研發出以蘑菇菌絲體、蘋果皮和咖啡渣製成的永續植物皮革，並於今日推出一系列環保配飾。",
+      "南韓平澤市宣布將於月底舉辦「街道之聲 DJ 節」，邀請知名表演者與駐韓美軍家庭共同參與，透過街頭音樂與文化促進社群互動。",
+      "台灣成功大學的研究團隊在台南農村開展「黃金碳」調查，致力於將當地農田轉化為全球氣候變遷的解決方案。",
+      "馬爾地夫的渡假村推出限時旅遊優惠，針對特定海島航線提供水上飛機接送半價折扣，吸引遊客體驗獨特的熱帶島嶼風情。"
+    ],
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 4419295245,
+    "title": "金迷紙醉的環保嗅覺",
+    "prompt": "Fisheye lens magazine cover photography of a chubby orange-and-white shorthair cat named Mochi. Mochi has a white base coat, a specific orange mask covering only his right face (viewer's right), a white left face, and an orange heart-shaped saddle on his back. His right front paw is a solid orange mitten, while his left front paw is pure white. Mochi is leaning down to sniff a sustainable leather tie made from mushroom mycelium and coffee grounds. The setting is a luxury midnight diner with a black and gold color scheme. Editorial fashion photography with bold vertical typography overlay, issue number, and a barcode. The date and time '2026-05-11 09:29 UTC' is printed clearly on the cover. Lighting features a bright gold ring light creating circular catchlights in Mochi's large round amber eyes. Strong barrel distortion with an exaggerated foreground and a 360-degree feel. High-gloss surfaces with metallic gold accents against a deep black background. Shot on a wide-angle lens, f/2.8, realistic textures, print publication aesthetic.",
+    "character_name": "麻糬",
+    "idea": "在黑金奢華色調的深夜食堂中，橘白貓麻糬正低頭嗅聞一件由蘑菇菌絲與咖啡渣製成的永續皮革領帶，畫面呈現雜誌封面排版的魚眼鏡頭張力。",
+    "avoid_list": [
+      "棉花糖雲朵與粉紅櫻花",
+      "霓虹螢光與螢光綠配色",
+      "琥珀色大理石地板與珊瑚礁",
+      "肉掌撥弄儀表或羅盤",
+      "視覺顯示日期與時間戳記",
+      "秋日琥珀色調與燒橘色",
+      "1950年代原子龐克或復古風格",
+      "硬光高對比與深色背景",
+      "貼紙拼貼或紙捲藝術紋理",
+      "懸浮島嶼與雲端背景",
+      "長曝光光軌與動態模糊",
+      "正交投影或平面化渲染"
+    ]
   }
 ]
