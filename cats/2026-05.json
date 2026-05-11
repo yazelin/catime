@@ -5521,5 +5521,46 @@
       "美國西雅圖慶祝建國 250 週年的特別系列活動開跑，全市多個地點舉辦多元文化藝術節，向當地居民與國際遊客展示豐富的歷史與創意精神。",
       "一項由多國研究團隊在《細胞》期刊發表的新研究顯示，科學家成功開發出名為 RegVelo 的 AI 工具，能精確預測單細胞的發育路徑，為再生醫學帶來重大突破。"
     ]
+  },
+  {
+    "character": "lingling",
+    "season": "spring",
+    "news_inspiration": [
+      "緬甸的礦工在該國寶石中心地帶挖掘出一顆重達 11,000 克拉的巨型紅寶石，被認為是當地史上重量第二大的發現。",
+      "美國賓州哈里斯堡的賀喜巧克力與寶可夢公司合作，於今日推出包含 151 種寶可夢圖案的限量版包裝，並加入火箭隊主題的數位互動體驗。",
+      "英國倫敦宣布將於 2027 年開設全新的「披頭四粉絲體驗館」，今日釋出更多關於這座紀念傳奇樂團文化影響力的展館細節。",
+      "丹麥哥本哈根啟動了「真人圖書館」計畫，讓遊客與市民可以像借書一樣「借閱」特定背景的人士進行交流，藉此促進不同文化間的理解。",
+      "阿根廷布宜諾斯艾利斯的各大廣場湧現世界盃足球卡貼紙交易熱潮，球迷們在 2026 世界盃開幕前夕熱衷於收集與交換球星貼紙。"
+    ],
+    "title": "櫻下鈴音與數位蝶",
+    "avoid_list": [
+      "肉掌撥弄或伸爪觸摸物件",
+      "琥珀色調與秋日金黃光澤",
+      "視覺化日期時間戳記文字",
+      "黃金時刻的夕陽餘暉",
+      "三花貓或玳瑁貓的品種設定",
+      "細膩的紙捲或黏土紋理",
+      "長曝光捕捉的光影流動軌跡",
+      "雜誌封面或剪貼簿排版風格",
+      "復古太空或科技配件組合",
+      "冷藍色與暖橘色的對比色調",
+      "環形燈產生的眼部圓形反光",
+      "由下往上的廣角或魚眼鏡頭張力"
+    ],
+    "character_name": "鈴鈴",
+    "is_seasonal": true,
+    "idea": "在莫蘭迪色調的等距3D櫻花園中，白色蓬鬆的鈴鈴正努力追逐一隻帶有故障藝術數位重影的蝴蝶，場景融合了鑄鐵雕花長椅的細膩紋理與直打閃光燈的強烈視覺感。",
+    "number": 1852,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Direct Flash",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "春天來了，鈴鈴在滿佈櫻花的庭院裡橫衝直撞，身上沾滿了粉色花瓣。她那大如寶石的藍眼睛緊盯著閃爍的數位蝴蝶，卻沒發現自己正朝著精緻的鑄鐵圍欄彈跳過去。",
+    "prompt": "3D isometric illustration of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and huge round sapphire-blue eyes, chasing a butterfly in a cherry blossom garden. Lingling wears a pink ribbon bow collar with a centered golden bell. The butterfly features glitch art digital distortion with RGB channel shifts and scan line artifacts. The garden is styled in a Morandi muted color palette with desaturated soft pastels and dusty grey undertones. Ornate black wrought iron filigree benches and fences with intricate openwork patterns are scattered throughout. The lighting mimics a harsh direct on-camera flash with blown-out highlights and hard shadows, creating a raw candid snapshot look. The date and time '2026-05-11 21:08 UTC' is visually displayed in the corner. Polished playful rendering, clean geometric forms, spring cherry blossom petals falling.",
+    "comment_id": 4425227168
   }
 ]
