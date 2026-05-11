@@ -16941,5 +16941,18 @@
     "timestamp": "2026-05-11 22:44 UTC",
     "inspiration": "台灣台北捷運引進的首列韓國製高運量新車順利抵台，未來將提升通勤族的搭乘體驗。",
     "number": 1853
+  },
+  {
+    "season": "spring",
+    "character_name": "船長",
+    "number": 1854,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-11_2345_UTC.webp",
+    "status": "success",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "title": "春風拂袖碼頭守望",
+    "timestamp": "2026-05-11 23:45 UTC",
+    "character": "captain",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
