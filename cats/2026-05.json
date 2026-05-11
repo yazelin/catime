@@ -5562,5 +5562,42 @@
     "story": "春天來了，鈴鈴在滿佈櫻花的庭院裡橫衝直撞，身上沾滿了粉色花瓣。她那大如寶石的藍眼睛緊盯著閃爍的數位蝴蝶，卻沒發現自己正朝著精緻的鑄鐵圍欄彈跳過去。",
     "prompt": "3D isometric illustration of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and huge round sapphire-blue eyes, chasing a butterfly in a cherry blossom garden. Lingling wears a pink ribbon bow collar with a centered golden bell. The butterfly features glitch art digital distortion with RGB channel shifts and scan line artifacts. The garden is styled in a Morandi muted color palette with desaturated soft pastels and dusty grey undertones. Ornate black wrought iron filigree benches and fences with intricate openwork patterns are scattered throughout. The lighting mimics a harsh direct on-camera flash with blown-out highlights and hard shadows, creating a raw candid snapshot look. The date and time '2026-05-11 21:08 UTC' is visually displayed in the corner. Polished playful rendering, clean geometric forms, spring cherry blossom petals falling.",
     "comment_id": 4425227168
+  },
+  {
+    "title": "幽藍車廂的鏡中行者",
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "Pixel art style, a black cat with a fluorescent sci-fi glow performing a mirror selfie in front of polished stainless steel Taipei MRT doors. The interior features ornate wrought iron filigree and cast iron lace patterns. Lighting is dominated by blacklight UV illumination and ethereal ultraviolet luminescence, creating vibrant neon outlines on a dark background. Cool blue-teal color grading with icy undertones. Composition is an intimate close-up with a visible reflection on the door surface. The timestamp '2026-05-11 22:44 UTC' is visually displayed in the corner in a crisp blocky 8-bit font. Limited color palette, sharp pixels, retro aesthetic.",
+    "news_inspiration": [
+      "印度的射箭好手 Deepika Kumari 在世界盃射箭賽中擊敗中國隊，成功為國家奪得金牌。",
+      "澳洲南部的無尾熊數量從數百隻大幅回升至近五十萬隻，展現出基因多樣性恢復的生機。",
+      "美國科學家研發出一款具有「指甲」的機器手，能模仿人類精細動作進行剝皮和開啟瓶蓋。",
+      "台灣台北捷運引進的首列韓國製高運量新車順利抵台，未來將提升通勤族的搭乘體驗。",
+      "南非的越野車市場正迎來轉型，車廠開始將穿戴式科技與露營設備整合進車輛設計中。"
+    ],
+    "story": "這隻好奇的黑貓溜進了剛抵達台灣的韓國製捷運新車。車廂內的鑄鐵裝飾在UV燈下顯現出細緻的幾何投影，貓兒蹲在亮如鏡面的車門前，凝視著自己那充滿數位顆粒感的幽藍色倒影。",
+    "idea": "在充滿冷青色調的像素藝術世界中，一隻黑貓在佈滿鑄鐵雕花裝修的台北捷運新車廂內，對著不鏽鋼車門進行鏡子自拍構圖，全身散發著黑光螢光的科幻光芒。",
+    "comment_id": 4425787703,
+    "inspiration": "台灣台北捷運引進的首列韓國製高運量新車順利抵台，未來將提升通勤族的搭乘體驗。",
+    "number": 1853,
+    "avoid_list": [
+      "肉掌撥弄或伸爪觸摸物件",
+      "琥珀色調與秋日金黃光澤",
+      "視覺化日期時間戳記文字",
+      "黃金時刻的夕陽餘暉",
+      "三花貓或玳瑁貓的品種設定",
+      "細膩的紙捲或黏土紋理",
+      "長曝光捕捉的光影流動軌跡",
+      "雜誌封面或剪貼簿排版風格",
+      "復古太空或科技配件組合",
+      "冷藍色與暖橘色的對比色調",
+      "環形燈產生的眼部圓形反光",
+      "由下往上的廣角或魚眼鏡頭張力"
+    ]
   }
 ]
