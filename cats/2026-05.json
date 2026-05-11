@@ -5383,5 +5383,36 @@
       "長曝光光軌與動態模糊",
       "正交投影或平面化渲染"
     ]
+  },
+  {
+    "avoid_list": [
+      "棉花糖雲朵與粉紅櫻花",
+      "霓虹螢光與螢光綠配色",
+      "琥珀色大理石地板與珊瑚礁",
+      "肉掌撥弄儀表或羅盤",
+      "視覺顯示日期與時間戳記",
+      "秋日琥珀色調與燒橘色",
+      "1950年代原子龐克或復古風格",
+      "硬光高對比與深色背景",
+      "貼紙拼貼或紙捲藝術紋理",
+      "懸浮島嶼與雲端背景",
+      "長曝光光軌與動態模糊",
+      "正交投影或平面化渲染"
+    ],
+    "idea": "這是一幅採用莫蘭迪色調、具有黏土質感的超廣角誇張漫畫，描繪一隻虎斑貓正蹲在繁忙的露天洗車場，用肉掌認真地撥弄旋轉中的泡沫噴頭。",
+    "story": "在色調柔和的莫蘭迪世界裡，這隻貓對噴射的水花充滿執著，甚至試圖引導噴頭的方向。洗車員與司機在一旁驚訝地圍觀，環形燈的光影讓這場混亂顯得像是一場陶瓷藝術的律動。",
+    "inspiration": "original",
+    "title": "灰調水花的指揮家",
+    "news_inspiration": [],
+    "comment_id": 4420729275,
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Ring Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "A clay-textured caricature illustration of a tabby cat crouching in a busy open-air car wash, using its paw to play with a spinning foam nozzle. The scene features exaggerated proportions and comical distortion with an ultra-wide angle 12-18mm lens for dramatic perspective. The style is a handmade ceramic aesthetic with a sculpted clay texture and matte surface. The color scheme is a Morandi muted palette with desaturated soft pastels, dusty grey undertones, and warm earthy tones. Lighting is provided by a ring light, creating circular catchlights in the eyes and even frontal illumination. In the background, surprised car wash attendants and drivers watch the scene. Visually displayed clearly within the composition is the text '2026-05-11 12:33 UTC'.",
+    "number": 1848
   }
 ]
