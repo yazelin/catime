@@ -5916,5 +5916,36 @@
     },
     "title": "幽藍脈絡的靜謐巡禮",
     "number": 1862
+  },
+  {
+    "title": "金墨流光之獵",
+    "story": "在繁複的金邊故事插畫分格中，黑貓靈活地躍過刻有精緻紋理的大理石地板。黑光螢光的流動線條勾勒出牠狩獵的身影，每一處躍動都彷彿在古老的手抄本頁面上書寫著傳奇。",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "黑光螢光與UV燈效果",
+      "像素藝術與8位元復古風",
+      "鑄鐵雕花與幾何投影",
+      "倫勃朗光與三角形光影",
+      "復古褪色與莫蘭迪色調",
+      "量子電腦與發條機械裝置",
+      "撥弄粉撲或獎盃的爪子動作",
+      "苔蘚與古老遺產的結合",
+      "角落視覺顯示日期時間戳記",
+      "3D渲染與等距插畫視角",
+      "橘貓與科學實驗室場景"
+    ],
+    "prompt": "A medieval illuminated manuscript page featuring multiple narrative panels in a shoujo manga layout. A sleek black cat with ornate gold vein patterns chases a fluttering gold leaf butterfly through a polished marble palace corridor. The art style combines traditional medieval book art with Blacklight UV illumination, featuring glowing fluorescent pigments and ethereal ultraviolet luminescence against a deep black background. Intricate calligraphy borders, rich jewel-tone colors, and decorative title banners frame the scene. The cat leaps across luxurious stone surfaces with natural vein patterns. The date and time '2026-05-12 22:02 UTC' is elegantly inscribed into the golden border of the illustration.",
+    "news_inspiration": [],
+    "idea": "這是一幅結合中世紀彩飾手抄本風格的奢華插圖，描繪一隻黑色與金紋相間的貓，正在大理石材質的宮廷走廊中專注地追逐一只翻飛的金箔蝴蝶。",
+    "number": 1863,
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Marble",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "inspiration": "original",
+    "comment_id": 4435221098
   }
 ]
