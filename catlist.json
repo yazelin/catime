@@ -16981,5 +16981,16 @@
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
     "title": "青瓷雲間躍",
     "number": 1857
+  },
+  {
+    "title": "琥珀街角的巡視者",
+    "character_name": "麻糬",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "number": 1858,
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-12_1110_UTC.webp",
+    "timestamp": "2026-05-12 11:10 UTC"
   }
 ]
