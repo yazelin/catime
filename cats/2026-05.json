@@ -5846,5 +5846,38 @@
       "橘貓與科學實驗室場景"
     ],
     "number": 1860
+  },
+  {
+    "inspiration": "original",
+    "number": 1861,
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "黑光螢光與UV燈效果",
+      "像素藝術與8位元復古風",
+      "鑄鐵雕花與幾何投影",
+      "倫勃朗光與三角形光影",
+      "復古褪色與莫蘭迪色調",
+      "量子電腦與發條機械裝置",
+      "撥弄粉撲或獎盃的爪子動作",
+      "苔蘚與古老遺產的結合",
+      "角落視覺顯示日期時間戳記",
+      "3D渲染與等距插畫視角",
+      "橘貓與科學實驗室場景"
+    ],
+    "character_name": "墨墨",
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Split View",
+      "lighting": "Neon Lighting",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 4433564565,
+    "news_inspiration": [],
+    "prompt": "Split view composition in Neo-Impressionist Pointillism style. Left side: Momo, a sleek slender solid-black shorthair cat with a satin-sheen coat, golden-amber eyes, a single gold hoop earring in her left ear, and a tiny white locket tuft on her chest, stepping gracefully on piano keys atop a bookshelf in a vintage bookstore. Right side: Momo looking out a window at cotton candy neon clouds in a dreamy sky. Technique uses tiny dabs of pure color and systematic dots for optical mixing. High saturation vivid hues, luminous surface, marshmallow-like fluffy pastel pink and blue cumulus puffs. In the bottom corner, the text '2026-05-12 18:29 UTC' is clearly visually displayed. Sharp vertical cut line separating the two scenes.",
+    "story": "深夜的舊書店迴盪著斷續的琴音，墨墨優雅地在黑白鍵間穿梭，彷彿在為寂靜的古書伴奏。窗外整座城市被高飽和的霓虹燈火點燃，五彩斑斕的雲朵與牠眼中的金琥珀色交相輝映。",
+    "idea": "這是一幅結合新印象派點描法與分割畫面的作品，左側是墨墨在舊書店頂樓鋼琴上輕踩琴鍵，右側則是牠抬頭望向窗外如棉花糖般的霓虹雲朵。",
+    "title": "霓虹雲端的鋼琴夜曲"
   }
 ]
