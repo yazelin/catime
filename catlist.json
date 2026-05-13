@@ -17081,5 +17081,16 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "title": "綢間鏡影敘事"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-13_1124_UTC.webp",
+    "status": "success",
+    "character": "mochi",
+    "model": "gemini-3-pro-image-preview",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "timestamp": "2026-05-13 11:24 UTC",
+    "number": 1868,
+    "title": "青苔攤位的貢丸奇襲"
   }
 ]

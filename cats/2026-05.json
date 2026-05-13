@@ -6095,5 +6095,38 @@
       "color_palette": "Earth Tones"
     },
     "title": "綢間鏡影敘事"
+  },
+  {
+    "character": "mochi",
+    "avoid_list": [
+      "用爪子撥弄小零件或科技裝置",
+      "日期與時間戳記浮水印",
+      "分割畫面或故事分格構圖",
+      "橘貓與科技/機械裝置的組合",
+      "棉花糖或雲朵般的煙霧/皮毛",
+      "復古褪色與低對比色彩調性",
+      "35mm底片質感或顆粒感",
+      "特定光影技術如倫勃朗光或霓虹光",
+      "裝飾性橫幅與藝術邊框",
+      "在特定工作檯或頂部俯視的構圖",
+      "精緻紋理與磨砂玻璃背景",
+      "金屬、玻璃與植物的混合美學"
+    ],
+    "inspiration": "original",
+    "story": "老街夜市剛下過雨，空氣中瀰漫著青藍色的冷調光澤。麻糬圓滾滾的身軀擠在長滿苔蘚的木凳邊，正處於「黃金時刻」的飢餓狀態，盯著那顆充滿彈性的貢丸，準備發動牠短肢的突襲。",
+    "character_name": "麻糬",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Golden Hour",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "Whiteboard marker drawing on glass, slightly faded ink hand-drawn line art, casual sketch feel, orthographic projection, flat rendering without perspective distortion. A spherical shorthair cat named Mochi, with a white base coat and specific markings: an orange mask covering only the right half-face (viewer perspective) while the left face is white, and a heart-shaped orange saddle on the upper back. Mochi has large round amber eyes, a pink nose with a tiny orange dot, and an orange mitten on the right front paw while the left front paw is white. Mochi is hunched on a moss-covered wooden stool in a night market noodle stall, reaching out with the solid orange right front paw to poke a rolling meatball. The background shows a night market after rain with lush green moss reclaiming the textures. Lighting is a mix of golden hour sunset glow with long soft shadows and a cool blue-teal color grading. The date and time '2026-05-13 11:24 UTC' is visually displayed in the corner in marker handwriting.",
+    "idea": "採用白板記號筆畫風格與正交投影視角，描繪胖橘貓麻糬在遍佈青苔的夜市麵攤，趁老闆不注意時伸出橘色手套般的右前腳，試圖撥弄一顆滾落的貢丸。",
+    "comment_id": 4440440978,
+    "number": 1868,
+    "title": "青苔攤位的貢丸奇襲",
+    "news_inspiration": []
   }
 ]
