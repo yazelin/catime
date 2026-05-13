@@ -17059,5 +17059,18 @@
     "status": "success",
     "timestamp": "2026-05-13 01:59 UTC",
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "season": "spring",
+    "number": 1866,
+    "character_name": "船長",
+    "timestamp": "2026-05-13 05:49 UTC",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview",
+    "title": "綠眼船長的霓虹春味",
+    "inspiration": "阿拉伯聯合大公國近期興起西瓜汁健康熱潮，營養專家指出其富含的茄紅素有助於心臟與皮膚健康，成為當地的夏季消暑首選。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-13_0549_UTC.webp",
+    "is_seasonal": true,
+    "character": "captain"
   }
 ]

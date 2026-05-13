@@ -6017,5 +6017,46 @@
       "color_palette": "Duotone"
     },
     "story": "這是一場發生在紅、藍、黃純色方塊間的冒險，黑白貓在冰冷的螢光燈下穿梭於鏤空的鑄鐵格柵，試圖捕捉移動中的微型齒輪。在雙色調的高對比視覺中，貓的每一次跳躍都精準落於垂直與水平線的交界點。"
+  },
+  {
+    "season": "spring",
+    "number": 1866,
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Impressionism",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Ring Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "綠眼船長的霓虹春味",
+    "inspiration": "阿拉伯聯合大公國近期興起西瓜汁健康熱潮，營養專家指出其富含的茄紅素有助於心臟與皮膚健康，成為當地的夏季消暑首選。",
+    "idea": "在印象派風格下，船長正專注地在佈滿螢光苔蘚的漁港碼頭邊，用爪子撥弄一碗透著霓虹光澤的西瓜汁消暑，整體構圖呈現直式書法海報的張力。",
+    "news_inspiration": [
+      "英國倫敦的一部歷史悠久的小便斗因溫斯頓·邱吉爾曾使用過而成為古蹟，使現任財政大臣里維斯因無法將其拆除而成為諷刺劇《邱吉爾的小便斗》的靈感來源。",
+      "阿拉伯聯合大公國近期興起西瓜汁健康熱潮，營養專家指出其富含的茄紅素有助於心臟與皮膚健康，成為當地的夏季消暑首選。",
+      "澳洲北領地提維群島的原住民領袖與科學家合作，結合傳統生態知識與現代水產養殖技術，成功打造出示範性的永續蝦類養殖場。",
+      "中國福建省正全面推動「智慧體育」，透過 AI 演算法分析游泳姿勢及開發機器人馬拉松，目標在 2030 年建立全民數位運動社群。",
+      "英國劍橋大學與多國研究證實，胎兒在子宮內就能辨識母親攝取的食物氣味，懷孕期間食用蔬菜粉有助於孩子出生後更願意接受健康飲食。"
+    ],
+    "comment_id": 4437770433,
+    "avoid_list": [
+      "用爪子撥弄小零件或科技裝置",
+      "日期與時間戳記浮水印",
+      "分割畫面或故事分格構圖",
+      "橘貓與科技/機械裝置的組合",
+      "棉花糖或雲朵般的煙霧/皮毛",
+      "復古褪色與低對比色彩調性",
+      "35mm底片質感或顆粒感",
+      "特定光影技術如倫勃朗光或霓虹光",
+      "裝飾性橫幅與藝術邊框",
+      "在特定工作檯或頂部俯視的構圖",
+      "精緻紋理與磨砂玻璃背景",
+      "金屬、玻璃與植物的混合美學"
+    ],
+    "story": "春天的海風吹拂著船長略顯蓬亂的虎斑毛，身為碼頭老大的牠，此刻正享受著阿拉伯流行的西瓜汁熱潮，銳利的翠綠色右眼映照出繽紛的螢光色彩。雖然少了一隻眼，但牠穩如船舵的尾巴依然守護著這片水域，展現出不失威嚴的硬漢柔情。",
+    "prompt": "Impressionist art, painterly visible brushstrokes, emphasis on light and color, plein air atmosphere, soft luminous palette. Vertical East Asian movie poster composition with a side calligraphy panel and ornamental border elements. A stocky brown classic tabby cat with bold black stripes, scruffy coarse fur, a white chest bib, and white mitten paws. The cat has a prominent V-shaped notch in its left ear and a faded red bandana around its neck. Its left eye is permanently concealed by a natural dark-pigmented fur patch, while its right eye is a piercing emerald green with a circular catchlight. The cat is crouched on all fours on a dock covered in lush glowing neon green fluorescent moss. It uses a white mitten paw to dab at a bowl of neon-glowing watermelon juice. Multi-layered depth with a misty fishing harbor background. Red seal accents and the text '2026-05-13 05:49 UTC' visually displayed. Vibrant electric pink and hot cyan highlights against a damp, organic texture.",
+    "character": "captain",
+    "is_seasonal": true
   }
 ]
