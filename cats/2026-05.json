@@ -6202,5 +6202,42 @@
       "texture": "Cotton Candy Clouds",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "avoid_list": [
+      "微型立體模型與移軸攝影",
+      "貓咪撥弄或輕觸球狀物",
+      "溫暖橘色閃爍燭光",
+      "日期與時間視覺顯示",
+      "大理石自然脈絡紋理",
+      "苔蘚覆蓋的潮濕表面",
+      "5000K 高飽和日光燈",
+      "35mm鏡頭與f/2.8光圈設定",
+      "玻璃與磨砂材質的折射",
+      "金屬金色與深黑背景",
+      "粉色鼻頭與肉掌細節",
+      "深夜便利商店或實驗室場景"
+    ],
+    "prompt": "Baroque-style duotone storybook illustration, a tabby cat mid-leap capturing scattered pizza flour in a textured Tokyo kitchen. Composition features multiple irregular panels and a decorative title banner at the top, integrated with shoujo manga narrative flow and dialogue bubbles. The scene uses dramatic chiaroscuro with deep shadows and golden highlights, harsh midday sunlight creating hard edge shadows. Strong emphasis on woven fabric textures and visible linen threads. Two-tone color treatment for bold graphic impact. The date and time '2026-05-13 19:29 UTC' is clearly visually displayed within the image layout. Gritty urban realism meets exuberant grandeur.",
+    "inspiration": "日本東京的頂尖披薩職人成功提升了城市的餐飲水準，多間在地披薩店在 2026 年亞洲最佳披薩排行榜中奪冠並展現出全球影響力。",
+    "comment_id": 4444589747,
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Fabric / Textile",
+      "color_palette": "Duotone"
+    },
+    "number": 1871,
+    "news_inspiration": [
+      "日本東京的頂尖披薩職人成功提升了城市的餐飲水準，多間在地披薩店在 2026 年亞洲最佳披薩排行榜中奪冠並展現出全球影響力。",
+      "美國加州卡拉韋拉斯郡於今日拉開了「跳蛙銀禧」慶典的序幕，這場自馬克·吐溫時代流傳至今的趣味競賽吸引了眾多遊客參與。",
+      "德國慕尼黑自今日起舉辦為期十天的「各種他者」當代藝術節，全市數十個畫廊與藝術空間同步展出當前最前衛的創意作品。",
+      "日本傳奇花式滑冰運動員坂本花織在今日宣布退役的同時分享了結婚喜訊，為其輝煌的體育生涯畫下溫馨的句點。",
+      "澳洲阿德萊德正舉行「澳洲旅遊交易會」，向世界展示其獨特的自然景觀與原住民文化特色，吸引全球旅遊業者共襄盛舉。"
+    ],
+    "story": "東京披薩職人的榮耀背後，有一隻默默守護廚房的貓。當職人奮力揉捏麵團時，貓咪在硬光日照的陰影間穿梭，試圖拍打空中飛舞的香氣與麵粉碎屑。",
+    "idea": "這是一幅以巴洛克風格呈現的雙色調故事插畫，描繪一隻虎斑貓在充滿織品紋理的東京廚房中，正全神貫注地躍起捕捉飛散的披薩麵粉。",
+    "title": "麵粉與光影的狩獵"
   }
 ]

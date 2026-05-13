@@ -17110,5 +17110,14 @@
     "title": "星盤上的幻境追逐",
     "number": 1870,
     "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "title": "麵粉與光影的狩獵",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s)",
+    "number": 1871,
+    "timestamp": "2026-05-13 19:29 UTC",
+    "inspiration": "日本東京的頂尖披薩職人成功提升了城市的餐飲水準，多間在地披薩店在 2026 年亞洲最佳披薩排行榜中奪冠並展現出全球影響力。",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-13_1929_UTC.webp"
   }
 ]
