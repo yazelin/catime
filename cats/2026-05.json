@@ -6316,5 +6316,36 @@
       "texture": "Paper Quilling",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "news_inspiration": [],
+    "story": "在霓虹閃爍的地下城邊緣，流浪貓正利用敏銳的直覺在沙塵中翻找。它正試圖撥開層層沙礫，找出那塊能讓故障發電機重新運轉的藍色能源核心。",
+    "idea": "在冷色調賽博龐克廢墟中，一隻貓在沙質旋渦中心挖掘著埋藏在電子殘骸下的機械零件。",
+    "avoid_list": [
+      "微型立體模型與移軸攝影",
+      "貓咪撥弄或輕觸球狀物",
+      "溫暖橘色閃爍燭光",
+      "日期與時間視覺顯示",
+      "大理石自然脈絡紋理",
+      "苔蘚覆蓋的潮濕表面",
+      "5000K 高飽和日光燈",
+      "35mm鏡頭與f/2.8光圈設定",
+      "玻璃與磨砂材質的折射",
+      "金屬金色與深黑背景",
+      "粉色鼻頭與肉掌細節",
+      "深夜便利商店或實驗室場景"
+    ],
+    "title": "藍調沙旋中的尋寶者",
+    "prompt": "A stray cat digging through electronic debris at the center of a sandy vortex in a cold-toned cyberpunk ruin. The cat is pawing at layers of sand to uncover a glowing blue energy core hidden beneath mechanical wreckage. Composition features a spiral vortex design with a strong rotational perspective and a centered vanishing point, creating a sense of depth in a neon-lit dystopian cityscape. Cinematic low angle with a narrow beam spotlight hitting the cat. Dramatic high-contrast lighting with sharp light edges and deep darkness falloff. Fine sand texture with desert dune ripples and wind-sculpted patterns. Cool blue-teal color grading with icy undertones. In the corner, the text '2026-05-13 23:48 UTC' is clearly displayed. Digital illustration style with crisp holographic elements and architectural ruins coiling around the subject.",
+    "comment_id": 4446091924,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Spotlight",
+      "texture": "Sand Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 1874
   }
 ]
