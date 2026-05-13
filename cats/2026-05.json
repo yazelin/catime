@@ -6128,5 +6128,42 @@
     "number": 1868,
     "title": "青苔攤位的貢丸奇襲",
     "news_inspiration": []
+  },
+  {
+    "title": "金羽墨痕球場守望",
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Candlelight",
+      "texture": "Marble",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 1869,
+    "avoid_list": [
+      "用爪子撥弄小零件或科技裝置",
+      "日期與時間戳記浮水印",
+      "分割畫面或故事分格構圖",
+      "橘貓與科技/機械裝置的組合",
+      "棉花糖或雲朵般的煙霧/皮毛",
+      "復古褪色與低對比色彩調性",
+      "35mm底片質感或顆粒感",
+      "特定光影技術如倫勃朗光或霓虹光",
+      "裝飾性橫幅與藝術邊框",
+      "在特定工作檯或頂部俯視的構圖",
+      "精緻紋理與磨砂玻璃背景",
+      "金屬、玻璃與植物的混合美學"
+    ],
+    "story": "在登內里市激烈角逐的看台邊，這隻守護神般的貓在燭光映照的大理石基座上，靜靜觀察著青少年的不敗神話。透過移軸攝影的微縮視角，整場球賽彷彿成了貓爪下的棋局，金色的足跡在黑色的畫布上勾勒出勝負的瞬間。",
+    "inspiration": "聖露西亞的青少年足球聯賽在登內里市展開激烈角逐，米庫隊以一球之差擊敗對手並維持其不敗戰績。",
+    "news_inspiration": [
+      "日本東京的代代木公園舉辦了第 26 屆泰國節，吸引大批粉絲參與 T-pop 音樂演出並深度體驗泰國文化。",
+      "美國南佛羅里達大學的研究團隊成功破解了強化橡膠之所以堅韌的百年之謎，這項發現將有助於開發更安全且節能的輪胎。",
+      "聖露西亞的青少年足球聯賽在登內里市展開激烈角逐，米庫隊以一球之差擊敗對手並維持其不敗戰績。",
+      "澳洲阿得雷德的 Tarnanthi 原住民藝術節迎來十週年，並展開全國巡迴展覽以展示澳洲原住民豐富的文化藝術。",
+      "英國雷丁大學的一項最新研究發現，沙漠中的仙人掌花朵形狀演化速度極快，翻轉了科學界過去對沙漠生態系統演化緩慢的認知。"
+    ],
+    "prompt": "A Gyotaku-style art piece with a textured relief surface and direct ink impression aesthetic, featuring a cat at the edge of a miniature Saint Lucia soccer stadium. The cat is leaning down, its nose gently touching a tiny soccer ball. The scene uses a tilt-shift photography perspective to create a toy-like miniature effect with a selective focus band and blurred surroundings. The composition is set on a polished marble pedestal with natural vein patterns, illuminated by a warm orange flickering candlelight glow that creates soft dancing shadows. The color scheme is a luxurious mix of deep black backgrounds and opulent metallic gold accents. The date and time '2026-05-13 14:03 UTC' is visually integrated into the image.",
+    "comment_id": 4441844738,
+    "idea": "以金色與黑色奢華為基調的魚拓藝術風格，描繪一隻貓在微縮比例的聖露西亞足球場邊緣，正專注地用鼻尖輕觸一顆微型足球。"
   }
 ]
