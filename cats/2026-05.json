@@ -6448,5 +6448,46 @@
       "複雜的鏤空或幾何結構",
       "特定的貓咪花色標記描述"
     ]
+  },
+  {
+    "avoid_list": [
+      "微縮移軸攝影透視",
+      "螺旋漩渦構圖",
+      "2026年日期時間戳記",
+      "雙色調高對比處理",
+      "硬光日照與深沉陰影",
+      "發光螢光苔蘚",
+      "貓爪撥弄微型圓形物體",
+      "正交投影或扁平化渲染",
+      "燭光閃爍的陰影律動",
+      "懷舊復古底片顆粒質感",
+      "複雜的鏤空或幾何結構",
+      "特定的貓咪花色標記描述"
+    ],
+    "number": 1878,
+    "prompt": "New Chinese doll-style illustration for a vertical calligraphy poster. A stocky brown classic tabby cat with bold black stripes, scruffy coarse fur, a white chest bib, and white mitten paws sits on a rusted pier breakwater. The cat's left eye is permanently hidden by a natural dark-pigmented fur patch (no straps), while its right eye is a piercing emerald green. It has a V-shaped notch in its left ear and a faded red bandana. The cat is staring at drones decorated with indigenous patterns flying over the sea. The pier is covered in oxidized patina and glowing neon pink and cyan fluorescent light tubes. Style: Contemporary modern chinoiserie, ink wash background with crackle texture, large-eyed stylized character in hanfu-inspired aesthetic, side calligraphy panel, ornamental borders, red seal accents. Lighting: Cinematic volumetric light rays and dramatic shadows. Text '2026-05-14 11:42 UTC' is visually integrated into the composition. High-contrast spring mood with electric lime green accents.",
+    "character": "captain",
+    "character_name": "船長",
+    "season": "spring",
+    "is_seasonal": true,
+    "comment_id": 4450383103,
+    "news_inspiration": [
+      "印度阿薩姆邦於今日發布了一本收錄當地民間傳說的新書，其中《哈納穆利：愛情魔藥的災難》一故事情節幽默且溫馨，展現了東北印度的文化魅力。",
+      "加拿大多倫多市為迎接即將到來的世界盃，推出了創意十足的足球主題文創產品，將體育熱潮與城市旅遊生活相結合。",
+      "美國馬里蘭州的科學家今日宣布在杜顯型肌肉萎縮症的基因治療研究取得重大突破，高達九成三的受試患者表現出明顯的臨床改善。",
+      "澳洲的研究團隊結合了原住民傳統知識與無人機遙測技術，成功開發出一套能提前偵測植物壓力與土地健康變化的預警系統。",
+      "日本科學家開發出一種新型量子檢測方法，大幅提升了量子通訊與運算的精準度，為未來的瞬間傳輸技術奠定科學基礎。"
+    ],
+    "title": "翠綠之眼的科技守望",
+    "inspiration": "澳洲的研究團隊結合了原住民傳統知識與無人機遙測技術，成功開發出一套能提前偵測植物壓力與土地健康變化的預警系統。",
+    "style_picks": {
+      "art_style": "Contemporary Chinese Doll Illustration",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Cinematic Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "春季的海風吹亂了船長蓬鬆的虎斑毛，牠正利用碼頭先進的無人機監測系統巡視水域健康。雖然外表粗獷且戴著眼罩，但在霓虹色調的映襯下，這位老港口老大正以科技守望著牠熱愛的這片大地。",
+    "idea": "在融合新中式少女插畫風格的直式書法海報構圖中，船長正蹲坐在生鏽且佈滿霓虹螢光燈管的碼頭防波堤上，專注地凝視著幾架運用原住民傳統紋樣裝飾的無人機掠過海面。"
   }
 ]
