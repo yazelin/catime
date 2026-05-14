@@ -6557,5 +6557,46 @@
       "充氣或氣泡質感裝飾物",
       "結合傳統畫風與現代科技元素"
     ]
+  },
+  {
+    "story": "麻糬趁著春意在老街市場的布莊角落「開工」，牠戴著手工花環趴在昂貴的棕色絲綢上，盯著一盤剛偷來的試吃品。聚光燈投射下，牠圓滾滾的身影與右手的橘色手套格外顯眼，彷彿一場低調而奢華的春季走秀。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Spotlight",
+      "texture": "Silk",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "美國哈伯太空望遠鏡發現了被暱稱為「德古拉的起司三明治」的巨大行星形成盤，其跨度高達 4000 億英里，是目前觀測到最大的行星搖籃。",
+      "瑞士蘇黎世正式揭開 2026 年世界男子冰球錦標賽序幕，東道主瑞士隊將在主場首戰對陣衛冕冠軍美國隊。",
+      "美國南達科他州的研究人員在 6,600 萬年前的埃德蒙頓龍化石中發現了保存完好的原始膠原蛋白，這項發現挑戰了化石化會摧毀所有有機物質的長期觀點。",
+      "法國坎城影展今日持續進行，這項全球最具盛名的電影盛事吸引了世界各地的影視人才，共同展示最新的藝術創作。",
+      "捷克與丹麥之間在睽違十多年後重新開通了直達長途列車，最高時速達 230 公里，象徵歐洲跨國鐵路旅行進入新的黃金時代。"
+    ],
+    "prompt": "Film noir style photography, high-contrast monochrome mood with an earth tone palette of terracotta and warm brown. Multi-view product showcase layout featuring front, side, and detail close-up panels. A chubby white shorthair cat named Mochi with a specific orange mask on the right half-face and a white left face, wearing a cherry blossom garland. Mochi has an orange heart-shaped saddle on the upper back, an orange right front paw mitten, and a white left front paw. The cat is crouching on luxurious brown silk fabric in a market corner, staring at a plate of snacks. Dramatic lighting with venetian blind patterns and a narrow spotlight. The text '2026-05-14 18:27 UTC' is visually displayed in the corner. 35mm lens, f/2.8, sharp light edges, deep shadows, cinematic grain, realistic fabric texture.",
+    "idea": "採用黑色電影風格與大地色系，以服裝多視角展示構圖，呈現麻糬戴著櫻花花環在市場角落絲綢布料上野餐的特寫。",
+    "title": "絲路上的春日食客",
+    "comment_id": 4453578072,
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "season": "spring",
+    "character": "mochi",
+    "number": 1881,
+    "avoid_list": [
+      "撥弄或拍打散落的小物",
+      "環形燈與圓形眼底反光",
+      "超廣角鏡頭導致的透視扭曲",
+      "雙色調高對比色彩處理",
+      "冷色調賽博龐克或生化實驗室背景",
+      "螺旋漩渦狀構圖與中心消失點",
+      "硬光日照下的深重陰影",
+      "沙質紋理與沙漠波紋元素",
+      "具備日期時間戳記的畫面配置",
+      "細膩點線紋理的裝飾風格",
+      "充氣或氣泡質感裝飾物",
+      "結合傳統畫風與現代科技元素"
+    ]
   }
 ]

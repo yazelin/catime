@@ -17210,5 +17210,18 @@
     "status": "success",
     "inspiration": "美國伊利諾州一家博物館展出的《霹靂遊俠》影集霹靂車複製品，明明已在展位停放多年未曾移動，卻離奇收到超速罰單，引發館方與地方民眾熱議。",
     "number": 1880
+  },
+  {
+    "status": "success",
+    "inspiration": "original",
+    "model": "gemini-3-pro-image-preview",
+    "title": "絲路上的春日食客",
+    "timestamp": "2026-05-14 18:27 UTC",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "season": "spring",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-14_1827_UTC.webp",
+    "character": "mochi",
+    "number": 1881
   }
 ]
