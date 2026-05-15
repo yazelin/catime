@@ -6759,5 +6759,44 @@
     "prompt": "Detailed papercut art and layered paper silhouettes featuring a storybook page layout with multiple irregular panels. In the central panel, a curious grey cat sits atop a weathered, rusted lighthouse, delicately pawing at a damp matchbox under a gentle silvery moonlight glow. The artwork captures an oxidized patina with peeling paint layers in cool blue-teal tones, contrasted by warm orange-brown corrosion textures. The composition follows a shoujo manga narrative flow with integrated dialogue bubbles and an intricate decorative title banner. The scene is illuminated by a crisp, serene moonlight, highlighting deep shadow depth between the paper layers. The date and time '2026-05-15 02:00 UTC' is visually integrated into the page design. Icy undertones and industrial decay textures blend with the quiet nighttime atmosphere.",
     "idea": "這是一幅結合鐵鏽舊化質感的藍青色剪紙藝術，呈現故事插畫分格，描繪一隻貓在廢棄燈塔頂端撥弄受潮火柴盒的月光場景。",
     "title": "月下鏽色的燈塔密語"
+  },
+  {
+    "comment_id": 4457475175,
+    "idea": "以酒精墨水藝術風格繪製，墨墨在長卷全景的日本古實驗室中，正優雅地越過散落的古老基因卷軸與發光的琥珀標本，試圖撥開擋住視線的絲綢地圖。",
+    "title": "幽墨祖緣長卷",
+    "news_inspiration": [
+      "日本理化學研究所（RIKEN）的研究團隊於 2026 年 5 月 15 日發表基因分析結果，在現代日本人的祖先中發現了第三個鮮為人知的 ancestral 群體，挑戰了長久以來的「雙重起源」理論。",
+      "南非金山大學（Wits University）的科學家今日展示了一項關於光學的突破性研究，發現光在自由傳播時能自然產生「手性」旋轉行為，未來有望應用於高速網路與量子通訊。",
+      "新加坡旅遊局於 2026 年 5 月 15 日與社群平台小紅書簽署戰略合作協議，計畫針對高端康養與深度文化體驗，將新加坡打造為亞太地區的「世界盲盒」旅遊首選地。",
+      "馬爾地夫旅遊業協會今日與 Trip.com 合作推出了全新「酒店+X」預訂功能，讓旅客能一站式預訂水上飛機、海鮮大餐及在地文化體驗，大幅提升度假的個性化便利性。",
+      "第 108 屆 PGA 錦標賽於 2026 年 5 月 15 日在美國賓夕法尼亞州阿羅尼明克高爾夫俱樂部進入關鍵賽程，吸引了全球高爾夫迷關注這場年度大滿貫盛事。"
+    ],
+    "character_name": "墨墨",
+    "avoid_list": [
+      "大地色系調色板",
+      "貓咪撥弄或輕點物品",
+      "環形燈與圓形眼神光",
+      "窄光束聚光燈效果",
+      "視覺化整合時間戳記",
+      "絲綢或皮革紋理背景",
+      "狹窄的微小物品特寫",
+      "傳統藝術風格與現代科技結合",
+      "赤陶色與橄欖綠組合",
+      "螢光或黑光霓虹發光",
+      "裝飾性邊框或書法面板",
+      "戲劇性高對比邊緣光"
+    ],
+    "number": 1887,
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Three-Point Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "墨墨在理化學研究所的舊庫房裡發現了隱藏的家譜。牠安靜地在金色與黑色的墨韻間穿梭，用肉墊輕壓著那些揭示日本第三個祖先群體的古老文獻，彷彿牠早就在守護這段失落的血緣記憶。",
+    "prompt": "Alcohol ink art of Momo, a sleek slender solid-black Bombay-style shorthair cat with satin-sheen fur, white whiskers, and golden-amber eyes. Momo has a single small gold hoop earring on the left ear, a tiny white locket tuft on the chest, and a dark-grey ring at the tail tip. The scene is an extreme wide handscroll panoramic composition of an ancient Japanese laboratory. Momo is elegantly leaping over scattered ancient gene scrolls and glowing amber specimens, pushing aside a silk map. Fluid vibrant colors, unpredictable organic patterns, translucent layers, and gold and black color scheme with metallic gold accents. Oblique bird's-eye angle, right-to-left reading flow, textured paper surface with visible fiber grain. Three-point lighting with soft shadows and subtle rim light. The date and time '2026-05-15 06:22 UTC' is visually displayed in the corner of the image.",
+    "inspiration": "日本理化學研究所（RIKEN）的研究團隊於 2026 年 5 月 15 日發表基因分析結果，在現代日本人的祖先中發現了第三個鮮為人知的 ancestral 群體，挑戰了長久以來的「雙重起源」理論。"
   }
 ]

@@ -17268,5 +17268,16 @@
     "number": 1886,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-15_0200_UTC.webp",
     "status": "success"
+  },
+  {
+    "title": "幽墨祖緣長卷",
+    "character_name": "墨墨",
+    "timestamp": "2026-05-15 06:22 UTC",
+    "number": 1887,
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-15_0622_UTC.webp",
+    "status": "success",
+    "inspiration": "日本理化學研究所（RIKEN）的研究團隊於 2026 年 5 月 15 日發表基因分析結果，在現代日本人的祖先中發現了第三個鮮為人知的 ancestral 群體，挑戰了長久以來的「雙重起源」理論。",
+    "model": "gemini-3-pro-image-preview"
   }
 ]
