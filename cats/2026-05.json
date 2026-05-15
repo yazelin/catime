@@ -6874,5 +6874,44 @@
     "title": "電玩廢墟的狩獵者",
     "prompt": "A calico cat intensely manipulating a glowing joystick in a dusty vintage arcade, captured through a fisheye wide-angle lens with strong barrel distortion. The scene is rendered in a CRT monitor aesthetic with visible scan lines, phosphor glow, and retro screen curvature. The arcade cabinet is adorned with intricate gold leaf ornamental clouds and traditional East Asian auspicious cloud motifs in an embossed metallic finish. The lighting follows a Rembrandt style, featuring a single light source at 45 degrees creating a dramatic chiaroscuro effect on the cat's focused profile. Vivid, high-saturation colors dominate the neon-lit environment. In the corner of the screen, the date and time '2026-05-15 11:45 UTC' is visually displayed in a retro digital font.",
     "idea": "一隻三花貓在老舊電子遊樂場內奮力撥弄著發光的搖桿，畫面呈現強烈的CRT掃描線藝術風格與魚眼鏡頭的扭曲感。"
+  },
+  {
+    "title": "月光下的巨獸密語",
+    "news_inspiration": [
+      "泰國猜也蓬府發現了東南亞有史以來最大的恐龍化石，這是一種被命名為「Nagatitan」的巨型長頸食草泰坦龍。",
+      "阿拉伯聯合大公國阿布達比宣布為慶祝國際博物館日，羅浮宮阿布達比分館等多個文化地標將在本週末提供免費入場及互動體驗。",
+      "法國政府宣布擴大「1歐元學生餐」計畫，投入1.2億歐元讓所有大學生都能享用平價營養膳食，旨在減輕學生的生活負擔。",
+      "摩爾多瓦基希訥烏盛大慶祝國家葡萄酒日25週年，這個全球少數為葡萄酒設立國定假日的國家，再次展現其深厚的釀酒文化與觀光魅力。",
+      "加拿大蒙特婁的一家新創公司成功研發出利用乳腺細胞在生物反應器中生產的「細胞奶」，無需透過母牛即可獲得完整的牛奶成分。"
+    ],
+    "comment_id": 4460152325,
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Split View",
+      "lighting": "Moonlight",
+      "texture": "Glass / Crystal",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "金箔祥雲紋理",
+      "大地色系與橄欖綠",
+      "魚眼鏡頭與桶形畸變",
+      "貓咪撥弄透明或電子設備",
+      "時間戳記顯示於角落",
+      "絲綢質感與奢華布料",
+      "暴風雪中的朦朧光影",
+      "傳統東亞吉祥圖騰",
+      "強制透視與厚實肉掌",
+      "高飽和度的霓虹與發光元素",
+      "古老實驗室或燈塔遺址",
+      "針織毛衣或編織紋理"
+    ],
+    "number": 1890,
+    "character": "captain",
+    "prompt": "A creative torn paper collage and mixed media illustration featuring a split-view composition under soft moonlight. On the left, a large stocky brown classic tabby cat with bold black stripes, a muscular build, and scruffy untidy fur. The cat's left eye is permanently hidden by a dark brown fur patch (no straps), while the right eye is a piercing emerald green. He has a prominent V-shaped notch in his left ear, a faded red bandana around his neck, a white chest bib, and white mitten paws. He is crouched on all fours, using a white mitten paw to curiously poke a massive, crystalline Nagatitan fossil that glows with prismatic reflections and light refraction. The right side of the vertical cut shows a wireframe diagram of the same fossil on notebook lines. The style uses layered textures, visible paper edges, and a soft pastel color palette of mint, lavender, and gentle pink. Moonlight creates a silvery glow and cool blue tones. Visually displayed in the corner is the text '2026-05-15 13:25 UTC'.",
+    "inspiration": "泰國猜也蓬府發現了東南亞有史以來最大的恐龍化石，這是一種被命名為「Nagatitan」的巨型長頸食草泰坦龍。",
+    "story": "老船長在碼頭巡邏時，意外發現了一塊被潮汐沖刷出的巨型化石。他放下平時的威嚴，好奇地圍繞著這塊如玻璃般晶瑩的遠古遺骸打轉，試圖用他那航海家的直覺解開這個史前巨獸的秘密。",
+    "character_name": "船長",
+    "idea": "在粉彩色調的撕紙拼貼畫面中，採用月光下的分割畫面，呈現「船長」正專注地用前爪撥弄並研究一塊散發水晶質感的巨大「Nagatitan」長頸龍化石。"
   }
 ]
