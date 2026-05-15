@@ -6728,5 +6728,36 @@
       "color_palette": "Monochrome / Black and White"
     },
     "news_inspiration": []
+  },
+  {
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Moonlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "大地色系調色板",
+      "貓咪撥弄或輕點物品",
+      "環形燈與圓形眼神光",
+      "窄光束聚光燈效果",
+      "視覺化整合時間戳記",
+      "絲綢或皮革紋理背景",
+      "狹窄的微小物品特寫",
+      "傳統藝術風格與現代科技結合",
+      "赤陶色與橄欖綠組合",
+      "螢光或黑光霓虹發光",
+      "裝飾性邊框或書法面板",
+      "戲劇性高對比邊緣光"
+    ],
+    "comment_id": 4456241374,
+    "news_inspiration": [],
+    "story": "在高聳的生鏽燈塔上，一隻好奇的灰貓正試圖用爪子撥開散落的火柴，遠方的冰冷海浪在月色下翻騰。每一格畫面都細膩刻劃了紙張重疊的陰影與金屬氧化的藍綠色澤。",
+    "inspiration": "original",
+    "number": 1886,
+    "prompt": "Detailed papercut art and layered paper silhouettes featuring a storybook page layout with multiple irregular panels. In the central panel, a curious grey cat sits atop a weathered, rusted lighthouse, delicately pawing at a damp matchbox under a gentle silvery moonlight glow. The artwork captures an oxidized patina with peeling paint layers in cool blue-teal tones, contrasted by warm orange-brown corrosion textures. The composition follows a shoujo manga narrative flow with integrated dialogue bubbles and an intricate decorative title banner. The scene is illuminated by a crisp, serene moonlight, highlighting deep shadow depth between the paper layers. The date and time '2026-05-15 02:00 UTC' is visually integrated into the page design. Icy undertones and industrial decay textures blend with the quiet nighttime atmosphere.",
+    "idea": "這是一幅結合鐵鏽舊化質感的藍青色剪紙藝術，呈現故事插畫分格，描繪一隻貓在廢棄燈塔頂端撥弄受潮火柴盒的月光場景。",
+    "title": "月下鏽色的燈塔密語"
   }
 ]
