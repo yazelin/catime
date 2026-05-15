@@ -6913,5 +6913,42 @@
     "story": "老船長在碼頭巡邏時，意外發現了一塊被潮汐沖刷出的巨型化石。他放下平時的威嚴，好奇地圍繞著這塊如玻璃般晶瑩的遠古遺骸打轉，試圖用他那航海家的直覺解開這個史前巨獸的秘密。",
     "character_name": "船長",
     "idea": "在粉彩色調的撕紙拼貼畫面中，採用月光下的分割畫面，呈現「船長」正專注地用前爪撥弄並研究一塊散發水晶質感的巨大「Nagatitan」長頸龍化石。"
+  },
+  {
+    "avoid_list": [
+      "金箔祥雲紋理",
+      "大地色系與橄欖綠",
+      "魚眼鏡頭與桶形畸變",
+      "貓咪撥弄透明或電子設備",
+      "時間戳記顯示於角落",
+      "絲綢質感與奢華布料",
+      "暴風雪中的朦朧光影",
+      "傳統東亞吉祥圖騰",
+      "強制透視與厚實肉掌",
+      "高飽和度的霓虹與發光元素",
+      "古老實驗室或燈塔遺址",
+      "針織毛衣或編織紋理"
+    ],
+    "news_inspiration": [
+      "科學家在百慕達群島下方發現一層獨特的輕質岩層，這項地質發現解釋了為何該島在火山活動停止後仍能長期浮於海面，而非沉入大西洋。",
+      "研究人員在「青蘋果草」的葉片中發現了與城市規劃及計算機科學相關的泰森多邊形（Voronoi diagram）幾何圖案，揭開了植物生長的數學奧秘。",
+      "美國德州奧斯汀舉辦了「高人巡迴賽」（Tall Tour），讓來自各地的長人齊聚一堂，在充滿共鳴的社交環境中慶祝並分享身高帶來的獨特生活經驗。",
+      "為慶祝世界瀕危物種日，印尼凱群島傳出保育捷報，透過社區監測與數據收集，成功減少了 85% 針對印尼皮龜及其卵的食用性獵捕。",
+      "台灣澎湖國際海上花火節於本月盛大登場，2026 年的主題與《七龍珠 Z》聯名，帶來多場震撼的無人機與高空煙火秀。"
+    ],
+    "number": 1891,
+    "comment_id": 4461286226,
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Moonlight",
+      "texture": "Metallic Surface",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "月下追龍的殘影",
+    "prompt": "Black and white sports panning photography of a cat sprinting at high speed along a polished metal guardrail at Penghu harbor, chasing a rising drone array. The shot captures the cat's silhouette and muscular tension reflected on the mirrored metallic surface under moonlight. High contrast monochrome with a rich tonal range and dramatic shadows. Motion-blurred background with a frozen subject, high shutter speed, industrial premium feel with sharp reflections. A small, clear digital timestamp '2026-05-15 15:54 UTC' is visible in the corner. 35mm lens, f/2.8, grainy film aesthetic, candid action shot.",
+    "idea": "一隻貓在澎湖港口的金屬護欄旁高速奔向剛升空的無人機陣列，採用單色黑白的運動追焦風格，鏡頭捕捉到貓咪在月光下映照在鏡面金屬板上的反射剪影。",
+    "story": "2026年澎湖花火節迎來《七龍珠 Z》聯名秀，這隻好奇的黑貓在港邊看見神龍無人機升起，興奮地在光滑的金屬堤防上飛奔追逐。快門捕捉到牠肌肉緊繃的瞬間，月光與金屬的反光交織成一幅充滿速度感的單色畫面。",
+    "inspiration": "台灣澎湖國際海上花火節於本月盛大登場，2026 年的主題與《七龍珠 Z》聯名，帶來多場震撼的無人機與高空煙火秀。"
   }
 ]
