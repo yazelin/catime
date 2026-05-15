@@ -7020,5 +7020,41 @@
     "character": "mochi",
     "character_name": "麻糬",
     "inspiration": "original"
+  },
+  {
+    "title": "聽雨發芽的瞬間",
+    "inspiration": "美國麻省理工學院一項最新的科學研究指出，稻米種子其實能「聽見」雨聲，而這種聲音震動能促使它們更快打破休眠並發芽。",
+    "style_picks": {
+      "art_style": "Mosaic",
+      "composition": "Extreme Low Angle",
+      "lighting": "Cinematic Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "金箔祥雲紋理",
+      "大地色系與橄欖綠",
+      "魚眼鏡頭與桶形畸變",
+      "貓咪撥弄透明或電子設備",
+      "時間戳記顯示於角落",
+      "絲綢質感與奢華布料",
+      "暴風雪中的朦朧光影",
+      "傳統東亞吉祥圖騰",
+      "強制透視與厚實肉掌",
+      "高飽和度的霓虹與發光元素",
+      "古老實驗室或燈塔遺址",
+      "針織毛衣或編織紋理"
+    ],
+    "idea": "這是一幅以冷藍青色調馬賽克拼貼風格呈現的作品，從極低角度仰望一隻側臥在磨砂玻璃地板上的三花貓，牠正用前爪撥弄著一粒在暴雨音頻震動下剛破土發芽的稻米嫩芽。",
+    "comment_id": 4463513965,
+    "prompt": "Mosaic art composition made of small colored tiles with a grouted texture, ancient Roman and Byzantine aesthetic. Extreme low angle shot looking up from beneath a translucent frosted glass floor, creating a dramatic towering perspective. A calico cat is lying on its side on the frosted glass, using its front paw to gently play with a single, tiny sprouted rice seedling that has just burst from its seed. Visually display the text '2026-05-15 20:49 UTC' clearly integrated into the image scene. Cool blue-teal color grading with icy undertones, creating a serene and calm mood. Cinematic lighting with volumetric light rays and dramatic shadows diffusing through the matte glass surface from below, high dynamic range, film-quality mood.",
+    "number": 1894,
+    "story": "在一個將聲音轉化為能量的未來溫室裡，地面的磨砂玻璃正隨著模擬的雷雨聲劇烈震動。一隻對頻率極度敏感的貓咪趴在冰冷的藍色馬賽克瓷磚邊緣，專注地看著一株稻米種子在「聽」到雨聲後，瞬間破殼吐出綠芽。微弱的電影感光芒從玻璃下方透出，映照著牠充滿好奇的雙眼與稻芽的生命律動。",
+    "news_inspiration": [
+      "美國麻省理工學院一項最新的科學研究指出，稻米種子其實能「聽見」雨聲，而這種聲音震動能促使它們更快打破休眠並發芽。",
+      "韓國首爾於5月16日至17日迎來一年一度的「燃燈會」蓮花燈節，這項歷史悠久的聯合國教科文組織人類非物質文化遺產，以盛大的萬人燈籠遊行點亮城市夜空。",
+      "日本理化學研究所（RIKEN）科學家分析數千名日本人的基因組後發表重大發現，指出日本人的祖先除了過去熟知的兩大群體外，其實還存在與東北部古代「蝦夷人」相關的第三組隱藏祖先。",
+      "南非最新研究證實，「奇蹟之樹」辣木樹的種子在簡單的過濾系統中，能有效去除飲用水中高達98%的微塑膠顆粒，效果甚至優於常規的化學處理。 "
+    ]
   }
 ]
