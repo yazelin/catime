@@ -17393,5 +17393,18 @@
     "number": 1899,
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-05-16 05:18 UTC"
+  },
+  {
+    "season": "spring",
+    "model": "gemini-3-pro-image-preview",
+    "character": "momo",
+    "is_seasonal": true,
+    "character_name": "墨墨",
+    "title": "春雨鏡中的金色微觀",
+    "timestamp": "2026-05-16 07:47 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-16_0747_UTC.webp",
+    "number": 1900,
+    "inspiration": "original",
+    "status": "success"
   }
 ]
