@@ -17500,5 +17500,14 @@
     "title": "月光下的巨獸密語",
     "model": "gemini-3-pro-image-preview",
     "inspiration": "泰國清萊的一名男子在池塘附近發現奇特岩石，經專家鑑定證實為全新巨型恐龍物種的化石。"
+  },
+  {
+    "number": 1911,
+    "model": "gemini-3-pro-image-preview",
+    "title": "時空的沙漏",
+    "inspiration": "衣索比亞最新出土的古人類化石打破了過往認知，證實早期人屬與一種未知的南方古猿在約260萬至280萬年前曾共同生活。",
+    "timestamp": "2026-05-16 20:37 UTC",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-16_2037_UTC.webp"
   }
 ]
