@@ -7930,5 +7930,38 @@
       "高飽和合成波霓虹燈光"
     ],
     "number": 1919
+  },
+  {
+    "number": 1920,
+    "character": "lingling",
+    "prompt": "Expressionism art style painting in an orthographic projection with straight-on flat rendering and no perspective distortion. The scene depicts a literal, extremely fluffy pure white longhair Ragdoll-like cat named Lingling pouncing on a butterfly. Lingling has a small round face nearly hidden in voluminous cloud-like white fur, huge round sapphire-blue eyes, a pale pink nose and inner ears, and an enormous feathery white plume tail. Centered on her neck is a highly visible pink ribbon bow collar with a small golden bell. Bold distorted forms and exaggerated gestural brushworks deform the scene. A narrow beam spotlight creates a dramatic high-contrast effect with sharp light edges against deep darkness falloff, casting an iridescent holographic material texture with rainbow color shifts and pastel prismatic reflections onto the cat's shimmering translucent surface. The palette is a black and white monochrome with deep darkness and rich tonal range, juxtaposed with the vibrant rainbow color shifts of the holographic sheen on the cat. The text '2026-05-17 12:53 UTC' is visually displayed and integrated clearly in the image.",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Orthographic Projection",
+      "lighting": "Spotlight",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "在表現主義風格下，這幅畫以正交投影的視角，展現純白蓬鬆的布偶貓鈴鈴正撲向一隻蝴蝶，畫面融合了強烈的聚光燈與虹彩全息質感，並在黑白單色調中扭曲變形。",
+    "avoid_list": [
+      "用爪子輕輕撥弄化石",
+      "粉紅紅鶴與孟買濕地",
+      "等距3D與莫蘭迪色調",
+      "與遠古巨獸跨越千年的對話",
+      "直式書法海報構圖與裝飾邊框",
+      "酒精墨水藝術風格的分割畫面",
+      "深夜的池塘邊",
+      "黑色天鵝絨般細緻的毛皮",
+      "金黑色調與生物發光",
+      "復古褪色色調與溫暖琥珀色燈光",
+      "35mm底片攝影與強制透視",
+      "粗糙混凝土與高飽和鮮豔色調"
+    ],
+    "news_inspiration": [],
+    "comment_id": 4470730014,
+    "inspiration": "original",
+    "story": "天真笨拙的鈴鈴在充滿奇異線條的花園裡追逐著一隻蝴蝶，卻沒注意前方是一面巨大的裝飾牆。就在她拍打肉掌的瞬間，聚光燈般的強光將她如雲朵般蓬鬆的長毛與脖子上的蝴蝶結鈴鐺，暈染出迷幻的虹彩波紋。她隨即一頭撞上牆壁，伴隨清脆的叮鈴聲，委屈地在原地縮成一團會移動的棉花糖。",
+    "character_name": "鈴鈴",
+    "title": "光影花園的追逐"
   }
 ]
