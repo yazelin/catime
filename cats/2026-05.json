@@ -7896,5 +7896,39 @@
       "color_palette": "Retro Faded Tones"
     },
     "comment_id": 4470261742
+  },
+  {
+    "idea": "這是一幅融合生物朋克（Biopunk）美學與直式書法海報構圖的視覺作品，在冰冷刺眼的閃光燈直打下，一隻擁有金屬質感改造外骨骼的貓咪正趴在充斥著粉紅色紅鶴的孟買濕地邊緣，專注地嗅聞著一根與機械組織融合的活體羽毛。",
+    "story": "成千上萬隻紅鶴如期抵達孟買，將濕地染成一片夢幻的粉紅色海洋。在這座高度發達的生物朋克都市邊緣，一隻體表嵌有金屬感應器的流浪貓正靜靜伏在泥灘上，用靈敏的仿生嗅覺捕捉這場自然奇觀帶來的季節氣息。牠與遠處鋪天蓋地的粉紅羽翼形成了一幅奇異而和諧的生化生態圖卷。",
+    "inspiration": "在印度孟買，成千上萬隻紅鶴集體飛抵當地的濕地，將整片景觀染成壯觀的粉紅色海洋，吸引無數市民前來賞鳥。",
+    "title": "粉海邊緣的生化嗅覺",
+    "news_inspiration": [
+      "在泰國猜也奔府，科學家發現了一種被命名為「Nagatitan chaiyaphumensis」的巨大新種恐龍化石，這是東南亞有史以來發現過體型最大的泰坦巨龍。",
+      "在印度孟買，成千上萬隻紅鶴集體飛抵當地的濕地，將整片景觀染成壯觀的粉紅色海洋，吸引無數市民前來賞鳥。",
+      "在捷克布拉格，為了慶祝國際博物館與美術館日，當地數十家知名文化機構於本週末限時開放民眾免費或減價入場參觀。",
+      "在阿根廷，古生物學家挖掘出新種巨大恐龍「Bicharracosaurus dionidei」的化石，其身長達20公尺，刷新了科學界對南半球侏羅紀巨型恐龍演化史的認知。"
+    ],
+    "comment_id": 4470547125,
+    "prompt": "A biopunk photography vertical poster composition capturing a cat with a metallic, brushed and polished metal cyborg exoskeleton, crouching at the edge of a Mumbai wetland. The cat is closely sniffing a living feather that is organically fused with mechanical tissue. The background is filled with thousands of pink flamingos covering the wetland in a soft pastel color palette of gentle pink and lavender. Harsh direct on-camera flash illuminates the scene, creating blown-out highlights, hard shadows, and a raw candid snapshot look with sharp reflections on the metal. The text '2026-05-17 11:53 UTC' is visually displayed in the corner of the image. The composition resembles an East Asian movie poster with a side calligraphy panel and ornamental border elements, shot on a 35mm lens, f/2.8, capturing a multi-layered depth of a real photograph.",
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Direct Flash",
+      "texture": "Metallic Surface",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "貓用爪子撥弄",
+      "恐龍化石挖掘現場",
+      "分割畫面與長卷全景構圖",
+      "邊框融合配色條",
+      "生物發光與粉紅水母",
+      "毛髮呈現天鵝絨質感",
+      "磨砂玻璃與絲綢紋理",
+      "極限運動或滑板",
+      "莫蘭迪色調與酒精墨水風格",
+      "高飽和合成波霓虹燈光"
+    ],
+    "number": 1919
   }
 ]
