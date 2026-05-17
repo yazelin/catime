@@ -17558,5 +17558,16 @@
     "status": "success",
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-05-17 05:43 UTC"
+  },
+  {
+    "character": "momo",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-17_0807_UTC.webp",
+    "timestamp": "2026-05-17 08:07 UTC",
+    "inspiration": "在阿根廷丘布特省新發現了一種名為「Bicharracosaurus dionidei」的奇特巨大恐龍化石，其融合了兩種著名恐龍的特徵，為南半球侏羅紀巨獸的演化史填補了重要空白。",
+    "title": "墨染古卷尋龍記",
+    "character_name": "墨墨",
+    "model": "gemini-3-pro-image-preview",
+    "number": 1917
   }
 ]
