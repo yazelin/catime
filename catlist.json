@@ -17761,5 +17761,18 @@
     "model": "gemini-3-pro-image-preview",
     "number": 1937,
     "title": "霓虹廢墟的探險家"
+  },
+  {
+    "character_name": "麻糬",
+    "timestamp": "2026-05-18 22:46 UTC",
+    "inspiration": "original",
+    "status": "success",
+    "season": "spring",
+    "character": "mochi",
+    "number": 1938,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-18_2246_UTC.webp",
+    "model": "gemini-3-pro-image-preview",
+    "title": "鏡花水月的春日盛宴",
+    "is_seasonal": true
   }
 ]
