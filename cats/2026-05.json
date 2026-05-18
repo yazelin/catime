@@ -8354,5 +8354,34 @@
       "幾何窗格與大理石紋理",
       "手作機關或刺繡工藝質感"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Floating Island Scene",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Leather",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "一張充滿復古褪色色調的拍立得照片，捕捉了一隻橘貓在漂浮於半空中的皮革沙發島嶼上，正專注地用鼻子嗅聞一盤散落的舊黑膠唱片。",
+    "prompt": "A Polaroid instant photo of an orange cat intently sniffing a pile of scattered vintage vinyl records. The cat is on a floating island made of a giant leather sofa, which has a warm aged patina, rich grain pattern, and a supple creased surface. The island floats in the sky surrounded by soft white clouds. The scene is captured with a 35mm lens, f/2.8, candid shot, showing a retro faded color palette, washed-out vintage tones, low contrast, and nostalgic film-era warmth. The lighting is soft diffused natural light from an overcast sky with even illumination and no harsh shadows. The image features a white border frame, a slightly grainy texture, and the date and time '2026-05-18 10:55 UTC' is visually stamped in the bottom corner of the photo.",
+    "number": 1933,
+    "title": "時空的漂流旋律",
+    "news_inspiration": [],
+    "avoid_list": [
+      "全息虹彩雙色調",
+      "粉彩莫蘭迪色系貼紙拼貼",
+      "單色調融合倫勃朗光",
+      "前爪觸碰或按壓物品",
+      "體積光與硬光日照",
+      "超廣角或魚眼扭曲視角",
+      "鏡子自拍構圖",
+      "齒輪與工坊機械元素",
+      "幾何窗格與大理石紋理",
+      "手作機關或刺繡工藝質感"
+    ],
+    "story": "這座由巨大皮革沙發構成的浮島在微風中緩緩漂流，自然漫射光溫柔地灑在貓咪身上。牠輕巧地在軟皮墊間穿梭，似乎在那些古老唱片的溝槽中尋找著屬於上個世紀的音樂軌跡。",
+    "inspiration": "original",
+    "comment_id": 4476979678
   }
 ]
