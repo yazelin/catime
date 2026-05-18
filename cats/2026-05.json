@@ -8450,5 +8450,40 @@
     "comment_id": 4480157650,
     "story": "在充氣玩具組成的微縮世界裡，這隻圓滾滾的Q版橘貓把巨大的充氣滑梯當成了它的極限運動場。溫暖的琥珀色與秋日霓虹光暈映照在它光亮如氣球的PVC皮膚上，極低角度的視角讓這隻努力伸長後腿、用肚皮貼著滑梯往上挪動的四腳小貓顯得無比宏偉。",
     "inspiration": "original"
+  },
+  {
+    "number": 1936,
+    "inspiration": "美國密西根州一所小學的四年級學生利用人工智慧設計出一款能精準捕獲外來入侵物種、同時不傷害本土魚類的無人機，成功在全州AI設計挑戰賽中奪得第一名。",
+    "comment_id": 4481188061,
+    "story": "密西根州溪流旁的草叢中，一隻好奇的斑橘貓正全神貫注地盯著水面上方巡航的生態無人機。隨著無人機精準鎖定外來入侵魚類，橘貓突然向著鏡頭方向猛然伸爪抓撈，在刺繡編織的斑斕光影中，形成一幅充滿未來感與野性趣味的立體畫面。",
+    "prompt": "A polished 3D render combined with handcrafted textile art of a curious ginger tabby cat in a grassy area by a Michigan stream. The cat uses forced perspective, thrusting its front paw directly toward the camera with exaggerated foreshortening. It tries to catch a high-saturation, vivid AI invasive-species-removal drone cruising over the water. The scene features an embroidered illustration style with visible needlework on linen fabric, using satin stitch and French knots. Dramatic backlighting creates a glowing rim light silhouette edge around the cat. The composition uses smooth materials, clean geometry, and a Cinema 4D aesthetic with soft global illumination and a bold, energetic color palette of vibrant hues. Visually displayed clearly in the image is the date and time text '2026-05-18 19:21 UTC'.",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "3D Render",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "這是一幅結合 3D 渲染立體感與刺繡工藝的斑橘貓場景，畫面運用強烈背光勾勒出金色輪廓，貓咪正透過強制透視伸出前爪，試圖捕捉空中由小學生研發的色彩高飽和鮮豔 AI 除侵無人機。",
+    "news_inspiration": [
+      "蘇格蘭正式通過新法案，規定所有新建造的房屋都必須嵌入專為雨燕設計的「雨燕磚」空心磚，以搶救這類因現代建築失去築巢地的受威脅鳥類。",
+      "丹麥哥本哈根著名的「真人圖書館」持續拓展，允許讀者借閱經歷過偏見或社會排斥的「真人書」進行面對面跨文化對談，藉此消除刻板印象並促進社會包容。",
+      "美國密西根州一所小學的四年級學生利用人工智慧設計出一款能精準捕獲外來入侵物種、同時不傷害本土魚類的無人機，成功在全州AI設計挑戰賽中奪得第一名。"
+    ],
+    "avoid_list": [
+      "倫勃朗光線",
+      "織物紋理與麻布質感",
+      "前腳按壓或觸碰物品",
+      "鏡子自拍構圖",
+      "莫蘭迪色調",
+      "直打閃光燈與強烈陰影",
+      "大地色系與赤陶色",
+      "散落的黃銅齒輪",
+      "暴風雪朦朧背景",
+      "復古拍立得與即棄相機風格",
+      "冷藍調與青色調",
+      "幾何線條與窗格"
+    ],
+    "title": "智巡溪流的金色捕手"
   }
 ]
