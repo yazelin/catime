@@ -8485,5 +8485,36 @@
       "幾何線條與窗格"
     ],
     "title": "智巡溪流的金色捕手"
+  },
+  {
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Spotlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A hybrid visual style combining a studio portrait with a 3D isometric illustration. A calico cat is intently sniffing an old, rust-covered generator in the corner of an abandoned factory. The scene features aged industrial decay, rusted weathered metal, an oxidized patina, and peeling paint layers with warm orange-brown corrosion. The environment is vibrant with neon fluorescent colors, including electric pink, lime green, and hot cyan glowing against a dark background. Dramatic high-contrast three-point lighting with a narrow beam spotlight from directly above creates sharp light edges and a deep darkness falloff, crisply defining the cat and the clean geometric forms of the mechanical maze. The text '2026-05-18 21:00 UTC' is visually displayed in the image.",
+    "comment_id": 4482181207,
+    "avoid_list": [
+      "倫勃朗光線",
+      "織物紋理與麻布質感",
+      "前腳按壓或觸碰物品",
+      "鏡子自拍構圖",
+      "莫蘭迪色調",
+      "直打閃光燈與強烈陰影",
+      "大地色系與赤陶色",
+      "散落的黃銅齒輪",
+      "暴風雪朦朧背景",
+      "復古拍立得與即棄相機風格",
+      "冷藍調與青色調",
+      "幾何線條與窗格"
+    ],
+    "news_inspiration": [],
+    "story": "在一個散發著螢光綠與迷幻粉紅光芒的報廢工廠角落，一隻三花貓正專注地用鼻子嗅聞一具佈滿鐵鏽的舊型發電機。聚光燈從正上方打下，將牠探險的身影與斑駁的工業零件立體地勾勒出來，彷彿一個精心佈置的微縮機械迷宮。",
+    "idea": "這是一幅結合棚拍人像與等距3D插圖視覺的獨特作品，展現一隻貓咪在充滿鐵鏽舊化質感的霓虹螢光色空間中活動。",
+    "inspiration": "original",
+    "number": 1937,
+    "title": "霓虹廢墟的探險家"
   }
 ]
