@@ -17839,5 +17839,13 @@
     "inspiration": "original",
     "model": "gemini-3-pro-image-preview",
     "timestamp": "2026-05-19 18:52 UTC"
+  },
+  {
+    "model": "all failed",
+    "timestamp": "2026-05-19 20:23 UTC",
+    "status": "failed",
+    "url": null,
+    "error": "Failed to generate any images - All models failed. Last error: ",
+    "number": null
   }
 ]
