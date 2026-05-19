@@ -8695,5 +8695,41 @@
       "texture": "Sparkle Glitter Accents",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "story": "深夜的巨型階梯天井被微弱的雙色調燭光照亮，將斑駁的混凝土階梯渲染成魔幻的幾何光影。一隻肚皮貼地的斑紋貓正小心翼翼地沿著階梯向下挪動，被一對英國夫婦留在石階上的香料炸湯丸（Pani Puri）香氣所吸引。在宛如彩色玻璃拼接的夜色中，這隻貓咪用牠最敏銳的嗅覺，獨自品嚐著這座城市街頭最靈魂的在地風味。",
+    "comment_id": 4488416301,
+    "number": 1943,
+    "news_inspiration": [
+      "一名六歲男孩在挪威南部意外發現了一把埋藏於地下、擁有約1300年歷史的前維京時代古劍。",
+      "澳洲埃斯佩蘭斯的一名居民在超市購買的密封包裝沙拉菜袋中，意外發現了一隻依然存活的青蛙。",
+      "一對英國夫婦在社群媒體上分享他們的印度旅遊經驗，大讚路邊攤是該國的靈魂，成功打破了許多人對當地街頭小吃的刻板印象。",
+      "科學家在中國東北地區與多個城市發現，近年蓬勃發展的業餘城市足球聯賽已成為推動當地文化旅遊與體育商業融合發展的重要催化劑。"
+    ],
+    "prompt": "Isometric photography of a stray cat carefully leaning down to sniff a plate of pani puri street food next to a flickering candle. The scene is set in a massive brutalist stepwell made of raw concrete texture with a rough aggregate surface. The overall aesthetic is rendered in a stained glass window style with bold black outlines and translucent jewel-toned segments creating a backlit glow. Lit by a warm orange flickering candlelight that casts soft dancing shadows, featuring a duotone color treatment with two contrasting colors only for a bold graphic impact. The date and time '2026-05-19 13:47 UTC' is visually displayed in the corner of the image. Perfectly isometric angle, real captured photo style with no miniature effect, intimate atmosphere.",
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Isometric Photography",
+      "lighting": "Candlelight",
+      "texture": "Concrete",
+      "color_palette": "Duotone"
+    },
+    "idea": "這是一幅採用等距攝影視角與彩色玻璃藝術風格的藝術創作，展現一隻流浪貓在由粗糙混凝土築成的巨大印式階梯天井中，低頭嗅聞一盤被放置在燭光旁的印度街頭小吃。",
+    "title": "天井燭光的深夜食光",
+    "inspiration": "一對英國夫婦在社群媒體上分享他們的印度旅遊經驗，大讚路邊攤是該國的靈魂，成功打破了許多人對當地街頭小吃的刻板印象。",
+    "avoid_list": [
+      "倫勃朗光線",
+      "織物紋理與麻布質感",
+      "前腳按壓或觸碰物品",
+      "鏡子自拍構圖",
+      "莫蘭迪色調",
+      "直打閃光燈與強烈陰影",
+      "大地色系與赤陶色",
+      "散落的黃銅齒輪",
+      "暴風雪朦朧背景",
+      "復古拍立得與即棄相機風格",
+      "冷藍調與青色調",
+      "幾何線條與窗格"
+    ]
   }
 ]
