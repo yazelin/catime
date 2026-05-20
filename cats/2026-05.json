@@ -8938,5 +8938,35 @@
     },
     "number": 1951,
     "character_name": "麻糬"
+  },
+  {
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Miniature Diorama",
+      "lighting": "Moonlight",
+      "texture": "Sand Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "在黑金奢華色調與沙質紋理的微縮立體模型中，一隻三花貓在柔和月光下用粉筆畫風格勾勒，正專注地用前爪撥弄著古董天文儀的齒輪。",
+    "avoid_list": [
+      "正交投影視角",
+      "等距攝影視角",
+      "燭光與 dancing shadows",
+      "高飽和鮮豔粉彩光點",
+      "復古褪色色調",
+      "螢光與霓虹色彩",
+      "微縮與巨大體型對比",
+      "用鼻子嗅聞植物或食物",
+      "用爪子撥弄或排列物品",
+      "純黑貓咪配單眼金色",
+      "清楚顯示的日期時間戳記"
+    ],
+    "comment_id": 4495349902,
+    "news_inspiration": [],
+    "number": 1952,
+    "inspiration": "original",
+    "title": "星軌間的掌印",
+    "prompt": "A miniature diorama with a tilt-shift effect showing a calico cat focused on using its front paws to fiddle with the gears of an antique astronomical instrument. The scene is crafted like a tiny detailed world with a toy-like scale model. The artistic medium combines colored chalk art on a dark background with a fine sand texture, showing visible hatching strokes and dusty matte textures. Inscribed clearly and visually displayed on a metallic section of the instrument is the text '2026-05-20 06:38 UTC'. The lighting features moonlight illumination with cool blue tones and a gentle silvery glow, creating a quiet nighttime atmosphere. The color scheme is a luxurious gold and black, with metallic gold accents against a deep black background, evoking an opulent mood.",
+    "story": "深夜的皇家天文台裡安靜得只剩齒輪微鳴。這隻好奇的守門貓輕巧地躍上黃銅渾天儀，伸出爪子撥動著軌道模型，彷彿在為繁星重新編排夜空的舞步。月光穿透天窗灑落，在黑色的夜幕與金色的儀器上，鍍上一層如沙般細膩的奢華光芒。"
   }
 ]
