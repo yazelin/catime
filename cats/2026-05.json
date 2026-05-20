@@ -8805,5 +8805,38 @@
       "texture": "Carbon Fiber",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "avoid_list": [
+      "3D等距視角",
+      "霓虹螢光色彩",
+      "低頭用鼻子嗅聞",
+      "用爪子撥弄捕捉",
+      "琥珀色與秋日調色盤",
+      "微縮模型與地貌",
+      "粗糙混凝土與粗骨材表面",
+      "雙色調高對比視覺",
+      "溫暖的燭光與跳動陰影",
+      "精細的拼圖與微小圓孔",
+      "高飽和度的鮮艷色彩",
+      "服裝多視角展示排版"
+    ],
+    "title": "終端機的暗夜微光",
+    "character": "momo",
+    "prompt": "Technical illustration in orthographic projection with no perspective distortion, flat rendering style. Inside a green energy server room during a freezing cold snowstorm, a sleek, slender solid-black shorthair cat with satin-sheen fur, large luminous golden-amber eyes, long prominent white whiskers, a tiny white locket tuft on its ventral chest, a single small gold hoop earring on its left ear, and a single dark-grey ring at its tail tip is focused on a retro vintage server, gently touching its glowing green fluorescent power switch with its paw. The composition is in a command line terminal aesthetic, featuring a black console background, monospace bitmap text output, and scrolling log lines with white and green glyphs, alongside a blinking cursor prompt. Visually displayed on the screen is the exact text '2026-05-19 23:52 UTC'. The atmospheric lighting combines a painterly weather mood of a heavy falling snow veil, muted diffused daylight, and a fogged distance seen through the protective glass, blending a cold blue-white palette with an earth tone palette of terracotta, olive green, and warm brown. The entire image has a heavy analog texture with visible film grain, subtle noise, and organic photographic imperfections.",
+    "inspiration": "original",
+    "comment_id": 4493282440,
+    "story": "風雪敲擊著機房的防護玻璃，室內瀰漫著粗糙的底片顆粒感與溫暖的大地色系。獨自守候在舊世代終端機旁的墨墨，像個優雅的守護者，正用牠那亮金色的琥珀眼眸凝視著代碼閃爍，熟練地在鍵盤堆間挑選最舒適的角度趴著，彷彿在閱讀一場跨越時空的數位史詩。",
+    "character_name": "墨墨",
+    "number": 1948,
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Orthographic Projection",
+      "lighting": "Snowstorm Haze",
+      "texture": "Film Grain",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [],
+    "idea": "在冷冽暴風雪朦朧的綠能機房內，純黑貓咪墨墨以命令列終端機風格與正交投影視角呈現，正專注地用肉墊輕觸古董伺服器的綠色螢光開關。"
   }
 ]
