@@ -9037,5 +9037,38 @@
       "純黑貓咪配單眼金色",
       "清楚顯示的日期時間戳記"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Split View",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Shibori Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "江浪追光躍影",
+    "number": 1955,
+    "news_inspiration": [],
+    "avoid_list": [
+      "等距攝影與3D空間",
+      "正交投影視角",
+      "微縮景觀與微縮模型",
+      "粗糙混凝土建築與空間",
+      "沙質紋理與風雕圖案",
+      "充氣PVC與氣球膨脹質感",
+      "粉筆畫藝術風格",
+      "彩色玻璃窗拼接風格",
+      "命令列終端機或漫畫分格排版",
+      "貓用前爪撥弄或輕觸特定物品",
+      "霓虹螢光色彩與高飽和色調",
+      "復古褪色色調與老舊底片顆粒",
+      "冷調藍青色與琥珀色秋日調",
+      "在特定角落視覺化顯示日期與時間"
+    ],
+    "inspiration": "original",
+    "comment_id": 4500605017,
+    "idea": "這是一幅採用分割畫面的運動追焦攝影作品，左側展現一隻斑 block 貓在高速行駛的傳統木船邊緣奮力躍向空中捕魚的瞬間，右側則是水花飛濺的動態特寫，整體融入強烈的高飽和鮮豔色調與倫勃朗光的深邃光影。",
+    "prompt": "A sports panning photograph featuring a split view composition with a sharp vertical cut line. The left half is a photorealistic shot of a black and white cat at the edge of a traditional wooden boat moving at high speed, jumping into the air to catch a fish. The right half is a wireframe diagram of splashing water. The date and time '2026-05-20 16:44 UTC' is visually displayed in the corner of the image. The scene utilizes Rembrandt lighting with a single light source at 45 degrees, creating dramatic chiaroscuro. The background shows motion-blurred water mist with organic flowing resist-dyed textile patterns in an indigo blue Shibori style. High saturation vivid colors and bold vibrant hues create an eye-catching contrast. Shot with a 50mm lens at f/2.8, high shutter speed, frozen subject with action captured.",
+    "story": "在波濤洶湧的江面上，這隻黑白相間的貓咪展現了驚人的狩獵天賦。牠緊盯著躍出水面的飛魚，在船隻高速移動的瞬間奮力一撲，身後的空氣彷彿凝結成絞染布料般細緻的水霧紋理。這一刻的力與美，在側向強光的照射下，被完美捕捉在分割鏡頭中。"
   }
 ]
