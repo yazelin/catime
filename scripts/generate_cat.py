@@ -839,13 +839,28 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         }
 
 
-async def generate_cat_image(output_dir: str, timestamp: str, prompt: str) -> dict:
-    """Use nanobanana-py's ImageGenerator to generate a cat image."""
+def _convert_png_to_webp(png_path: str) -> str:
+    """Convert PNG to WebP for smaller file size. Falls back to the PNG on error."""
+    webp_path = png_path.rsplit(".", 1)[0] + ".webp"
+    try:
+        from PIL import Image
+
+        img = Image.open(png_path)
+        img.save(webp_path, "WEBP", quality=90)
+        os.remove(png_path)
+        print(f"Converted to WebP: {os.path.getsize(webp_path) / 1024:.0f}KB")
+        return webp_path
+    except Exception as e:
+        print(f"WebP conversion failed ({e}), using PNG")
+        return png_path
+
+
+async def _generate_via_nanobanana(output_dir: str, timestamp: str, prompt: str) -> dict:
+    """Use nanobanana-py's ImageGenerator (Gemini-backed) to generate the image."""
     from nanobanana_py.image_generator import ImageGenerator
     from nanobanana_py.types import ImageGenerationRequest
 
     generator = ImageGenerator()
-
     request = ImageGenerationRequest(
         prompt=prompt,
         filename=f"cat_{timestamp.replace(' ', '_').replace(':', '')}",
@@ -854,7 +869,6 @@ async def generate_cat_image(output_dir: str, timestamp: str, prompt: str) -> di
         parallel=1,
         output_count=1,
     )
-
     os.environ["NANOBANANA_OUTPUT_DIR"] = output_dir
     response = await generator.generate_text_to_image(request)
 
@@ -870,26 +884,139 @@ async def generate_cat_image(output_dir: str, timestamp: str, prompt: str) -> di
     if response.used_fallback:
         model_info += f" (fallback from {response.primary_model}, reason: {response.fallback_reason})"
 
-    # Convert PNG to WebP for smaller file size
-    png_path = response.generated_files[0]
-    webp_path = png_path.rsplit(".", 1)[0] + ".webp"
-    try:
-        from PIL import Image
-
-        img = Image.open(png_path)
-        img.save(webp_path, "WEBP", quality=90)
-        os.remove(png_path)
-        print(f"Converted to WebP: {os.path.getsize(webp_path) / 1024:.0f}KB")
-        final_path = webp_path
-    except Exception as e:
-        print(f"WebP conversion failed ({e}), using PNG")
-        final_path = png_path
-
     return {
-        "file_path": final_path,
+        "file_path": _convert_png_to_webp(response.generated_files[0]),
         "model_used": model_info,
         "status": "success",
     }
+
+
+async def _generate_via_codex_image_service(
+    output_dir: str, timestamp: str, prompt: str
+) -> dict:
+    """Use the self-hosted codex-image-service (Codex CLI behind FastAPI + nginx)."""
+    import json as _json
+    import urllib.request
+    import urllib.error
+
+    base_url = (os.environ.get("CODEX_IMAGE_BASE_URL") or "").rstrip("/")
+    api_key = os.environ.get("CODEX_IMAGE_KEY") or ""
+    if not base_url or not api_key:
+        return {
+            "file_path": None,
+            "model_used": None,
+            "status": "failed",
+            "error": "CODEX_IMAGE_BASE_URL or CODEX_IMAGE_KEY is not set",
+        }
+
+    payload = _json.dumps(
+        {"prompt": prompt, "size": "1024x1024", "quality": "medium", "count": 1}
+    ).encode("utf-8")
+    req = urllib.request.Request(
+        f"{base_url}/v1/images/generate",
+        data=payload,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+
+    def _call() -> dict:
+        with urllib.request.urlopen(req, timeout=650) as resp:
+            return _json.loads(resp.read().decode("utf-8"))
+
+    try:
+        data = await asyncio.to_thread(_call)
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace") if exc.fp else ""
+        return {
+            "file_path": None,
+            "model_used": None,
+            "status": "failed",
+            "error": f"codex-image-service HTTP {exc.code}: {body[:300]}",
+        }
+    except Exception as exc:
+        return {
+            "file_path": None,
+            "model_used": None,
+            "status": "failed",
+            "error": f"codex-image-service request failed: {exc}",
+        }
+
+    images = data.get("images") or []
+    if not images:
+        return {
+            "file_path": None,
+            "model_used": None,
+            "status": "failed",
+            "error": f"codex-image-service returned no images: {data}",
+        }
+    image_url = images[0]["url"]
+
+    out_name = f"cat_{timestamp.replace(' ', '_').replace(':', '')}.png"
+    png_path = os.path.join(output_dir, out_name)
+    try:
+        await asyncio.to_thread(urllib.request.urlretrieve, image_url, png_path)
+    except Exception as exc:
+        return {
+            "file_path": None,
+            "model_used": None,
+            "status": "failed",
+            "error": f"failed to download {image_url}: {exc}",
+        }
+
+    # codex-image-service drives Codex CLI's $imagegen skill, which uses the
+    # built-in image_gen tool — gpt-image-2 by default. If you ever know
+    # better (e.g. you flipped quality=auto and Codex reports back a different
+    # underlying model), override via CODEX_IMAGE_MODEL_LABEL env.
+    model_label = os.environ.get(
+        "CODEX_IMAGE_MODEL_LABEL",
+        "gpt-image-2 (codex-image-service / $imagegen)",
+    )
+    return {
+        "file_path": _convert_png_to_webp(png_path),
+        "model_used": model_label,
+        "status": "success",
+    }
+
+
+async def generate_cat_image(output_dir: str, timestamp: str, prompt: str) -> dict:
+    """Dispatch to the configured image backend.
+
+    Set CAT_IMAGE_GENERATOR=codex to use the self-hosted codex-image-service;
+    anything else (or unset) keeps the nanobanana / Gemini path.
+
+    When the codex path is selected and the call fails (key revoked, service
+    down, timeout, etc.), this falls back to nanobanana so the hourly cron
+    still produces a cat. The fallback is annotated in `model_used`.
+    """
+    backend = (os.environ.get("CAT_IMAGE_GENERATOR") or "").strip().lower()
+    if backend != "codex":
+        print("Image backend: nanobanana (Gemini)")
+        return await _generate_via_nanobanana(output_dir, timestamp, prompt)
+
+    print("Image backend: codex-image-service")
+    primary = await _generate_via_codex_image_service(output_dir, timestamp, prompt)
+    if primary["status"] == "success":
+        return primary
+
+    primary_error = primary.get("error") or "unknown error"
+    print(
+        f"codex-image-service failed ({primary_error!r}); "
+        "falling back to nanobanana (Gemini) so the hour still ships a cat",
+        file=sys.stderr,
+    )
+    fallback = await _generate_via_nanobanana(output_dir, timestamp, prompt)
+    if fallback["status"] == "success":
+        base_label = fallback.get("model_used") or "unknown"
+        fallback["model_used"] = f"{base_label} (fallback from codex: {primary_error})"
+    else:
+        fallback_error = fallback.get("error") or "unknown error"
+        fallback["error"] = (
+            f"codex failed ({primary_error}); nanobanana fallback also failed: {fallback_error}"
+        )
+    return fallback
 
 
 def ensure_release_exists():

@@ -34,6 +34,12 @@ jobs:
           NANOBANANA_MODEL: gemini-3-pro-image-preview
           NANOBANANA_TIMEOUT: '240'
           NANOBANANA_FALLBACK_MODELS: gemini-3.1-flash-image-preview,gemini-2.5-flash-image
+          # codex-image-service path. Set repo variable CAT_IMAGE_GENERATOR=codex to
+          # route the final image through the self-hosted Codex backend instead of
+          # nanobanana (Gemini). Idea / prompt-engineering Gemini calls stay as-is.
+          CAT_IMAGE_GENERATOR: ${{ vars.CAT_IMAGE_GENERATOR }}
+          CODEX_IMAGE_KEY: ${{ secrets.CODEX_IMAGE_KEY }}
+          CODEX_IMAGE_BASE_URL: ${{ secrets.CODEX_IMAGE_BASE_URL }}
         run: python scripts/generate_cat.py
 
       - name: Post to Telegram channel
