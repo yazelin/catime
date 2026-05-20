@@ -8838,5 +8838,38 @@
     },
     "news_inspiration": [],
     "idea": "在冷冽暴風雪朦朧的綠能機房內，純黑貓咪墨墨以命令列終端機風格與正交投影視角呈現，正專注地用肉墊輕觸古董伺服器的綠色螢光開關。"
+  },
+  {
+    "character": "lingling",
+    "inspiration": "original",
+    "number": 1949,
+    "comment_id": 4493671205,
+    "character_name": "鈴鈴",
+    "idea": "這是一幅採用擬人動物肖像風格的超廣角攝影，展現一隻全身如棉花糖般蓬鬆、擁有寶石藍大眼睛的白貓鈴鈴，在充氣PVC材質打造的復古褪色色調甜點店裡活動。",
+    "story": "鈴鈴在粉色系的充氣甜點店裡興奮地奔跑，清脆的鈴鐺聲此起彼落。一隻色彩斑斕的蝴蝶飛過，她好奇地擺動巨大的羽毛尾巴奮力追趕，卻一個不小心，整隻貓噗溜地正面撞上了充氣塑膠牆，瞬間軟綿綿地反彈趴倒在地上。雖然有點笨拙，但她那張長毛圓臉上依然閃爍著漫畫般的星星眼，努力地想爬起來繼續這場追逐遊戲。",
+    "style_picks": {
+      "art_style": "Anthropomorphic Animal Portrait",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Retro Faded Tones"
+    },
+    "news_inspiration": [],
+    "prompt": "An ultra wide angle 12-18mm photography shot with dramatic perspective distortion and an expansive field of view, capturing a literal four-legged white cat named Lingling playfully crashing into a wall. The cat has extremely fluffy, voluminous cloud-like pure white longhair fur, a small round face, huge round sapphire-blue eyes, a pink nose, pink inner ears, an enormous feathery white plume tail, and a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. She is captured mid-action, comically face-planted and flattening against an inflatable PVC plastic wall inside a whimsical, puffy, air-filled vintage dessert shop. The environment is styled with a Wes Anderson aesthetic and retro faded color palette featuring washed-out vintage tones and low contrast. The lighting is overhead fluorescent, neutral white 5000K, creating institutional flat illumination with almost no shadows on the high-gloss, balloon-like surfaces. The date and time '2026-05-20 01:19 UTC' is clearly and cleanly superimposed as a visual timestamp in a corner of the frame. Candid snapshot, shot on 16mm film, analog grain, nostalgic film-era warmth.",
+    "avoid_list": [
+      "3D等距視角",
+      "霓虹螢光色彩",
+      "低頭用鼻子嗅聞",
+      "用爪子撥弄捕捉",
+      "琥珀色與秋日調色盤",
+      "微縮模型與地貌",
+      "粗糙混凝土與粗骨材表面",
+      "雙色調高對比視覺",
+      "溫暖的燭光與跳動陰影",
+      "精細的拼圖與微小圓孔",
+      "高飽和度的鮮艷色彩",
+      "服裝多視角展示排版"
+    ],
+    "title": "棉花糖的粉紅撞擊"
   }
 ]
