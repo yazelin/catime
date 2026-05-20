@@ -9070,5 +9070,45 @@
     "idea": "這是一幅採用分割畫面的運動追焦攝影作品，左側展現一隻斑 block 貓在高速行駛的傳統木船邊緣奮力躍向空中捕魚的瞬間，右側則是水花飛濺的動態特寫，整體融入強烈的高飽和鮮豔色調與倫勃朗光的深邃光影。",
     "prompt": "A sports panning photograph featuring a split view composition with a sharp vertical cut line. The left half is a photorealistic shot of a black and white cat at the edge of a traditional wooden boat moving at high speed, jumping into the air to catch a fish. The right half is a wireframe diagram of splashing water. The date and time '2026-05-20 16:44 UTC' is visually displayed in the corner of the image. The scene utilizes Rembrandt lighting with a single light source at 45 degrees, creating dramatic chiaroscuro. The background shows motion-blurred water mist with organic flowing resist-dyed textile patterns in an indigo blue Shibori style. High saturation vivid colors and bold vibrant hues create an eye-catching contrast. Shot with a 50mm lens at f/2.8, high shutter speed, frozen subject with action captured.",
     "story": "在波濤洶湧的江面上，這隻黑白相間的貓咪展現了驚人的狩獵天賦。牠緊盯著躍出水面的飛魚，在船隻高速移動的瞬間奮力一撲，身後的空氣彷彿凝結成絞染布料般細緻的水霧紋理。這一刻的力與美，在側向強光的照射下，被完美捕捉在分割鏡頭中。"
+  },
+  {
+    "number": 1956,
+    "character_name": "船長",
+    "character": "captain",
+    "title": "黑金港灣的科技獵手",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Split View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "在融合非洲未來主義與精緻衍紙藝術的科技碼頭，畫面上方是獨眼虎斑貓「船長」正用爪子按住一條閃爍金光的機械魚，畫面下方則是巨型客輪在黑金色彩與日光燈映照下進港的分割畫面。",
+    "story": "身為碼頭老大的船長在夜間巡邏時，遇見了從遠方高科技海域逃脫的金色機械魚。儘管外表粗獷堅毅，牠一看到魚便瞬間失去所有威嚴，迅速趴下身子，用靈巧的白手套貓掌將這條科技產物牢牢壓制在發光的甲板上。",
+    "inspiration": "original",
+    "prompt": "An Afrofuturism illustration with intricate paper quilling art style elements. A dynamic split view composition. Top half: A large stocky four-legged brown classic tabby cat with bold black stripes, named Captain, has a scruffy untidy coat and a distinctive M-mark on its forehead. Its left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch covering the socket with no fabric patch or straps, while its right eye is a piercing emerald green. It has a prominent V-shaped notch on its left ear, a faded red bandana tied loosely around its neck, a white chest bib, and white mitten paws. Captain is using its white paws to press down onto a shimmering, golden mechanical fish on a glowing dock. Bottom half: A giant passenger liner cruise ship entering a high-tech port, illuminated by overhead fluorescent lighting, neutral white 5000K, institutional flat illumination with no shadows. The entire scene features deep black backgrounds, luxurious metallic gold accents, vibrant colors, and cosmic imagery. The artwork incorporates colorful rolled paper textures and delicate curling loops of coiled paper strips. Visually displayed clearly in the image is the text '2026-05-20 19:12 UTC'.",
+    "news_inspiration": [
+      "美國愛荷華州普雷里城（Prairie City）的國家野生動物保護區近日誕生了一隻罕見的「百萬分之一機率」白化美洲野牛幼崽，被許多美洲原住民視為神聖的象徵。",
+      "奧地利維也納（Vienna）獸醫大學的研究團隊發現了一隻名為薇洛妮卡（Veronika）的乳牛展現出罕見的工具使用能力，打破了以往認為只有靈長類動物才會使用多功能工具的科學認知。",
+      "澳洲雪梨（Sydney）於今日（5月21日）盛大展開一年一度的「繽紛雪梨燈光音樂節」（Vivid Sydney），融合了當代藝術、先進光雕投影與創新音樂，吸引全球旅客目光。",
+      "肯亞奈洛比（Nairobi）近日迎來了四隻從捷克動物園運抵當地的極危物種山地紫羚（Mountain Bongo），為這個非洲最稀有羚羊物種的野外復育計畫帶來重大突破。"
+    ],
+    "comment_id": 4501805522,
+    "avoid_list": [
+      "等距攝影與3D空間",
+      "正交投影視角",
+      "微縮景觀與微縮模型",
+      "粗糙混凝土建築與空間",
+      "沙質紋理與風雕圖案",
+      "充氣PVC與氣球膨脹質感",
+      "粉筆畫藝術風格",
+      "彩色玻璃窗拼接風格",
+      "命令列終端機或漫畫分格排版",
+      "貓用前爪撥弄或輕觸特定物品",
+      "霓虹螢光色彩與高飽和色調",
+      "復古褪色色調與老舊底片顆粒",
+      "冷調藍青色與琥珀色秋日調",
+      "在特定角落視覺化顯示日期與時間"
+    ]
   }
 ]
