@@ -9325,5 +9325,39 @@
     "prompt": "An illustrated story page layout with multiple irregular panels showing a slice-of-life storybook composition. The main scene features a warm amber and burnt orange cat with a translucent skeletal view in an X-ray radiograph style, playfully swatting at the moving shadow of an ancient stone sundial's gnomon. The setting is a cozy, nostalgic greenhouse where nature is reclaiming the space, featuring a moss-covered surface with lush green organic overgrowth and damp forest aesthetics. Classic three-point lighting setup with a bright key light casting soft shadows, a subtle fill light, and a rim light separating the cat from the background. The text '2026-05-21 13:53 UTC' is visually displayed and integrated into a decorative title banner at the top of the page. High contrast medical imaging aesthetic mixed with shoujo manga narrative flow.",
     "inspiration": "original",
     "story": "在被時光遺忘的溫室深處，秋日的陽光透過斑駁玻璃，經由精密的三點打光投射在長滿苔蘚的石質日晷上。一隻溫柔的橘貓正專注地伸出爪子，在分格的畫面中追逐著那道隨時間推移而緩緩移動的陰影。透過透視的骨骼線條，我們看見了生命律動與時間流逝的奇妙交織。"
+  },
+  {
+    "idea": "這幅畫作採用傳統米提拉畫（Madhubani Painting）筆觸與等距攝影構圖，描繪一隻橘貓在巨大的絞染織物迷宮中，專注地用鼻子嗅聞並追逐一隻布藝大翅鯨的魔幻遷徙線條。",
+    "number": 1963,
+    "prompt": "Madhubani painting style illustration with perfectly isometric composition, depicting a curious orange cat low to the ground, actively sniffing and chasing the neon fluorescent glowing trail of a giant Shibori-style fabric humpback whale. The scene is an intricate geometric and floral pattern maze made of indigo blue resist-dyed textiles, illuminated by vibrant neon electric pink, lime green, and hot cyan colors glowing against a dark background. The Indian folk art aesthetic features bold lines and organic flowing designs under soft diffused natural light with even illumination and gentle tones. Visually displayed clearly within the image are the text and numbers '2026-05-21 16:33 UTC'.",
+    "story": "在充滿霓虹螢光色彩的線條世界裡，兩頭巨大的布藝大翅鯨正跨越一場由絞染布料織成的14,000公里深海遷徙。一隻充滿好奇心的橘貓在等距視角的幾何格紋中穿梭，牠壓低身子、輕嗅著鯨魚留下的螢光軌跡，成為這場壯麗旅行的唯一陸地見證者。",
+    "inspiration": "科學家在澳洲與巴西之間發現了令人驚嘆的大翅鯨遷徙新紀錄，兩頭大翅鯨被證實跨越了超過14,000公里的廣闊海洋，打破了以往對該物種移動路徑的認知。",
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Isometric Photography",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 4510422844,
+    "avoid_list": [
+      "微縮景觀與傾斜移軸效果",
+      "前爪輕輕撥弄物品的動作",
+      "莫蘭迪色調與低飽和度粉彩",
+      "非洲未來主義融合宇宙意象",
+      "鏡子自拍與閃光燈直打構圖",
+      "運動追焦與高速凍結瞬間",
+      "黑金奢華色調搭配大理石或金屬",
+      "冷調藍青色與半色調網點風格",
+      "日光燈管的無陰影均勻照明",
+      "賽璐璐風格搭配黏土或低多邊形質感",
+      "沙質紋理與細緻微粒表面"
+    ],
+    "news_inspiration": [
+      "在英國大曼徹斯特郡的威根，第二屆「平板包裝家具組裝世界錦標賽」於5月1日熱鬧登場，由衛冕冠軍的海莉·麥考利（Hayley McAuley）在現場觀眾的歡呼中，再次展現極速組裝IKEA家具的絕技。",
+      "中國上海的外灘市內政廳廣場於5月17日正式迎來了全球首家「名創優品美術館」（MINISO Gallery），並以印尼當代藝術家RYOL的個人作品展作為開幕首秀，打造融合公共文化與潮流IP的藝術空間。",
+      "科學家在澳洲與巴西之間發現了令人驚嘆的大翅鯨遷徙新紀錄，兩頭大翅鯨被證實跨越了超過14,000公里的廣闊海洋，打破了以往對該物種移動路徑的認知。"
+    ],
+    "title": "螢光織海的萬里航行"
   }
 ]
