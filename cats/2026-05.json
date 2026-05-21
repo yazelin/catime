@@ -9389,5 +9389,36 @@
       "沙質紋理與細緻微粒表面"
     ],
     "story": "在古色古香的巨型壽司亭內，溫暖的三點打光映照著精緻的木紋桌面。這隻貓兒將巨大的鮭魚生魚片當作舒適的墊子，在復古褪色色調的氛圍中，牠正好奇地探索這座由頂級食材築起的美味迷宮。"
+  },
+  {
+    "character": "captain",
+    "character_name": "船長",
+    "prompt": "Studio Ghibli anime style illustration with soft watercolor backgrounds, orthographic projection, straight-on flat rendering with no perspective distortion. A large, stocky brown classic tabby cat with bold black stripes and a muscular build, named Captain, is on a harbor breakwater. He has scruffy, untidy, coarse fur texture. His left eye is permanently concealed by a natural dark-pigmented fur patch, with no fabric patch or straps. His right eye is a piercing emerald green. His left ear has a prominent V-shaped notch. A faded red bandana is tied loosely around his neck. He has a white chest bib and white mitten paws. He is using his white-gloved front paw to play with a brass sextant that glows with a golden sunset halo. The background is a deep black color scheme with luxurious metallic gold accents, featuring backlighting with a rim light and glowing silhouette edges. The sea has a frosted glass texture and translucent matte surface. The text '2026-05-21 20:29 UTC' is visually displayed in the corner of the image.",
+    "story": "港口的老大「船長」趁著四下無人，悄悄登上最愛的燈塔防波堤。牠壓低強壯的身體，專注地用肉墊調整那具古老的航海儀器，透過磨砂玻璃般波光粼粼的海面與逆光輪廓，彷彿又看見了當年隨漁船遠航的金色冒險歲月。",
+    "news_inspiration": [],
+    "title": "舵手的遠方之眼",
+    "number": 1965,
+    "idea": "在黑金交織且充滿吉卜力動畫溫度的正交投影視角下，一隻戴眼罩的壯碩虎斑貓「船長」正用牠的白手套前掌，在防波堤上撥弄一個泛著金色夕陽光暈的黃銅六分儀。",
+    "inspiration": "original",
+    "comment_id": 4512550245,
+    "avoid_list": [
+      "分割畫面/分格畫面",
+      "運動追焦/高速行駛的傳統木船",
+      "蝴蝶光/三點打光/倫勃朗光",
+      "用鼻子/貓掌專注嗅聞/壓低身子/趴在",
+      "霓虹螢光色彩/高飽和鮮豔色調",
+      "絞染布料/Shibori",
+      "2026-05",
+      "大理石紋理/粗糙的混凝土",
+      "老街傳統小吃/巨型壽司",
+      "復古褪色色調/莫蘭迪色調"
+    ],
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Orthographic Projection",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
