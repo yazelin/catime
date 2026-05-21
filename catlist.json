@@ -17973,5 +17973,16 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "character": "momo",
     "character_name": "墨墨"
+  },
+  {
+    "inspiration": "中國安徽省宣城市的一家超商推出一項名為「減重1.5公斤送0.5公斤牛肉」的趣味促銷活動，成功吸引大量當地市民熱情參與體重管理。",
+    "character": "mochi",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "title": "秤重線上的花生麻糬",
+    "number": 1960,
+    "timestamp": "2026-05-21 06:41 UTC",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-21_0641_UTC.webp"
   }
 ]
