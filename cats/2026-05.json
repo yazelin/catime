@@ -9454,5 +9454,38 @@
     "inspiration": "original",
     "title": "綠苔機房的終端密碼",
     "story": "老舊的終端機螢幕上閃爍著代碼，微弱的黃金時刻夕陽透過窗櫺，與室內的粉彩色調光暈交織。這隻好奇的貓咪在尋找溫暖的過程中，意外觸碰了控制台，竟讓沈睡多年的大型主機重新運作，在覆滿青苔的機房裡發出低沈的運轉聲。"
+  },
+  {
+    "inspiration": "加拿大不列顛哥倫比亞省（B.C.）多地居民深夜目擊一個巨大的神祕白色發光體緩慢掠過夜空，天文學家推測該奇景其實是 SpaceX 火箭發射所產生的「水母效應」現象。",
+    "title": "琥珀溫室的無限凝視",
+    "story": "深夜的植物溫室裡，橘貓被一個散發著神秘生物發光的液態金屬藝術品所吸引。當牠好奇地伸出前爪觸碰時，裝置表面泛起漣漪，並如同夜空中的水母般層層遞迴擴散，將整座溫室染上溫暖的秋意琥珀光芒。",
+    "prompt": "Magazine cover mockup with bold vertical typography overlay, issue number, barcode, and the date and time '2026-05-21 23:49 UTC' visually printed on the cover. Clean graphic design composition, editorial fashion photography base, print publication aesthetic. An orange cat is in a greenhouse, extending its paw to touch a mysterious bioluminescent liquid metal jellyfish device. The device features a Droste effect with a self-referential loop, a picture within a picture repeating infinitely. Captured as a candid shot on a 35mm lens, f/1.8, with sharp focus on the cat's paw, shallow depth of field, and a subtle film grain. The lighting is an organic glow from the living organism mixed with mercury-like reflective flow on the molten mirror finish. Warm amber color grading, autumn tones of golden yellows, burnt orange, and cozy nostalgic warmth.",
+    "news_inspiration": [
+      "美國美聯社報導，一名顧客在連鎖超市購買袋裝沙拉時，驚奇地在蔬菜包裝內發現了一隻活生生的青蛙。",
+      "加拿大不列顛哥倫比亞省（B.C.）多地居民深夜目擊一個巨大的神祕白色發光體緩慢掠過夜空，天文學家推測該奇景其實是 SpaceX 火箭發射所產生的「水母效應」現象。",
+      "澳洲雪梨（Sydney）的體育界迎來溫馨焦點，新南威爾斯藍隊（NSW Blues）橄欖球星 Tolu Koula 即將在與他母親 2000 年雪梨奧運代表東加擔任掌旗官時相同的體育場迎來歷史性的首次亮相。"
+    ],
+    "comment_id": 4513727222,
+    "idea": "這是一張採用「雜誌封面排版」的創意視覺作品，畫面核心是一隻橘貓在充滿暖秋琥珀色調的溫室中，用貓掌輕撥一個由「液態金屬」構成、具備「德羅斯特效應」無限遞迴的神秘水母發光體裝置。",
+    "number": 1967,
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Bioluminescence",
+      "texture": "Liquid Metal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "分割畫面/分格畫面",
+      "運動追焦/高速行駛的傳統木船",
+      "蝴蝶光/三點打光/倫勃朗光",
+      "用鼻子/貓掌專注嗅聞/壓低身子/趴在",
+      "霓虹螢光色彩/高飽和鮮豔色調",
+      "絞染布料/Shibori",
+      "2026-05",
+      "大理石紋理/粗糙的混凝土",
+      "老街傳統小吃/巨型壽司",
+      "復古褪色色調/莫蘭迪色調"
+    ]
   }
 ]
