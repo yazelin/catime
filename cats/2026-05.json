@@ -9776,5 +9776,42 @@
       "texture": "Clay / Ceramic",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "prompt": "Hyperrealistic anime portrait of a large stocky brown classic tabby cat with bold black stripes and a muscular build, having scruffy coarse untidy fur. The cat has a distinctive M-mark on its forehead, a prominent V-shaped notch on its left ear, and a faded red bandana tied loosely around its neck. Its left eye is permanently concealed by a natural dark-pigmented fur patch, while its single right eye is a piercing emerald green. It has a white chest bib and white mitten paws. The cat is sitting on all fours like a literal cat, leaning over a dimly lit old bar wooden table, intently staring at a yellowed nautical chart. A single candle provides a dramatic spotlight, casting a warm orange flickering glow with soft dancing shadows. The entire scene is framed by a decorative die-cut sticker collage composition with white outline borders, featuring chibi side characters and floating props in a scrapbook-style overlay. The text '2026-05-22 23:56 UTC' is visually displayed clearly in the image.",
+    "title": "燭火下的老航海家",
+    "comment_id": 4523430085,
+    "character": "captain",
+    "story": "風暴來臨的前夕，碼頭老大「船長」獨自待在港邊的老酒吧裡。牠用粗壯的白手套貓掌按壓著泛黃的航海圖，銳利的翠綠色單眼在微弱的燭光下閃爍，正嚴肅地規劃著避開暴風雨的巡邏路線。",
+    "idea": "在超寫實動漫風格中，一隻戴眼罩的壯碩虎斑貓在昏暗的老酒吧木桌上專注地凝視著航海圖，畫面四周環繞著精緻的貼紙拼貼邊框。",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Candlelight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Duotone"
+    },
+    "character_name": "船長",
+    "avoid_list": [
+      "用貓掌撥弄物品",
+      "生物發光裝置",
+      "碳纖維材質表面",
+      "黃金時刻夕陽光暈",
+      "微縮立體模型風格",
+      "大地色系墨流紋理",
+      "黑白單色高對比油畫",
+      "德羅斯特效應遞迴",
+      "折紙微縮場景",
+      "莫蘭迪色調浴室",
+      "命令列終端機復古主軸"
+    ],
+    "inspiration": "original",
+    "number": 1977,
+    "news_inspiration": [
+      "加拿大的溫哥華科學世界（Science World）自5月起開始將其標誌性的幾何圓頂建築，改造覆蓋成高達40公尺的巨大2026年世界盃足球賽官方指定用球外觀，成為吸引全球遊客的全新打卡地標。",
+      "墨西哥佳麗帕米拉·魯伊茲（Palmira Ruiz）在埃及舉行的2026年「環境國際小姐」（Miss Eco International）總決賽中脫穎而出，成功摘得后冠。",
+      "澳洲格里菲斯大學（Griffith University）研究團隊發現兩隻座頭鯨竟然橫跨超過14,000公里的公海，成功在澳洲昆士蘭與巴西聖保羅等地的繁殖地之間進行了史詩級的跨洋遷徙，刷新了個體座頭鯨的最長移動紀錄。",
+      "印度焦特布爾（Jodhpur）當地的一家收容中心採用仿效大自然的創新科技設計，在不使用任何冷氣空調的情況下，成功讓室內溫度比炙熱的室外低了攝氏8度，為街頭小販與外送員提供了一個舒適涼爽的避暑綠洲。"
+    ]
   }
 ]
