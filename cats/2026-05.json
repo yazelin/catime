@@ -9987,5 +9987,41 @@
       "texture": "Fabric / Textile",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "number": 1983,
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Isometric Photography",
+      "lighting": "Moonlight",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "在凱恩斯深海的月光投影下，這隻貓咪在廣闊如草地的綠色薔薇珊瑚間敏捷地擺動四肢，追逐著散發金光的深海小魚。3D渲染的精緻質感激發出黑金交織的奢華氛圍，讓這場深夜的海底冒險顯得格外神祕而壯麗。",
+    "news_inspiration": [
+      "在孟加拉達卡附近的一座農場，一隻白化水牛因其獨特的「金髮掀背頭」神似美國總統川普而意外爆紅，吸引大批民眾慕名前來拍照。",
+      "美國猶他州一隻大角鴞在受困於混凝土攪拌機後幸運獲救，經動物庇護所進行手術與細心照顧已康復並重返大自然自由飛翔。",
+      "在澳洲大堡礁的凱恩斯外海，公民科學家計畫的志工發現了一個面積將近半個足球場大（約3973平方公尺）的巨大薔薇珊瑚群落，宛如一座壯麗的海底綠色草地。",
+      "法國坎城影展頒發了專屬狗狗的「金棕櫚狗狗獎」（Palm Dog），今年由一隻名為「La Perra」的狗狗演員獲得這項另類殊榮。"
+    ],
+    "inspiration": "在澳洲大堡礁的凱恩斯外海，公民科學家計畫的志工發現了一個面積將近半個足球場大（約3973平方公尺）的巨大薔薇珊瑚群落，宛如一座壯麗的海底綠色草地。",
+    "avoid_list": [
+      "配色條邊框",
+      "浮空島嶼與漂浮場景",
+      "在控制台或收銀台上踩踏與按壓",
+      "專注地嗅聞或凝視特定物件",
+      "四格漫畫與拼貼邊框結構",
+      "高飽和度的霓虹與螢光燈光",
+      "微縮立體模型與盲盒風格",
+      "古代文物與化石挖掘現場",
+      "無陰影的冷白日光燈照明",
+      "雙色調極簡與黑白單色風格",
+      "精緻擬人化與手作機關偶質感",
+      "電影感的微光與大氣照明"
+    ],
+    "comment_id": 4525665567,
+    "idea": "這是一幅採用超寫實動漫風格與等距攝影視角的場景，一隻優雅的黑色孟買貓正在巨大的金色薔薇珊瑚群落間輕盈穿梭，宛如置身於海底的奢華宮殿。",
+    "title": "深海金碧的巡航",
+    "prompt": "A perfectly isometric photography view of an elegant black Bombay cat gracefully weaving through a vast, sprawling colony of giant metallic gold and green rose coral, resembling a luxurious underwater palace. In the style of a realistic-anime hybrid and polished 3D render with clean geometry and smooth materials. The cat is agilely moving its limbs, chasing tiny deep-sea fish glowing with gold light under moonlight illumination. The scene is cast in cool blue tones with a gentle silvery glow, creating a quiet nighttime atmosphere with soft global illumination. A dramatic spotlight highlights the opulent gold and black color scheme with luxurious metallic gold accents against a deep black background. Injected visually into the scene, the text '2026-05-23 14:25 UTC' is clearly displayed. Cinema 4D aesthetic, hyperrealistic anime details, capturing a majestic midnight underwater adventure without any miniature effect."
   }
 ]
