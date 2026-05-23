@@ -9917,5 +9917,40 @@
     "number": 1980,
     "character": "lingling",
     "comment_id": 4524774712
+  },
+  {
+    "story": "一名極限運動員在南非高空挑戰極速解開魔術方塊，而他忠實的貓咪夥伴正穿著防風皮革背心，在機艙門口觀看這場驚心動魄的紀錄挑戰。透過分割畫面的直擊，貓咪在強烈閃光燈下展現出對高空毫無畏懼的野性眼神，與遠處自由落體的破紀錄瞬間完美呼應。",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Split View",
+      "lighting": "Direct Flash",
+      "texture": "Leather",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "這是一幅採用超寫實動漫風格的雙視角作品：一邊是高速墜落的跳傘員，另一邊是待在機艙門口的貓咪。畫面運用強烈的閃光燈直打與冷藍青色調，捕捉貓咪身穿特製皮革飛行背心、在強風中緊緊抓著機艙邊緣的震撼瞬間。",
+    "prompt": "A split view composition hyperrealistic anime portrait with a sharp vertical cut line. On one side, a skydiver is in a high-speed freefall. On the other side, a cat wearing a custom genuine leather flight vest with a rich grain pattern and supple creased surface is at the open airplane cabin door, gripping the edge tightly against the strong wind. Harsh direct on-camera flash creates blown-out highlights and hard shadows, giving a raw candid snapshot look. The text '2026-05-23 11:53 UTC' is visually displayed in the corner of the image. Cool blue-teal color grading with icy undertones and a crisp atmosphere. Realistic-anime hybrid style with detailed textures.",
+    "title": "蒼穹之上的疾速凝望",
+    "comment_id": 4525261174,
+    "number": 1981,
+    "avoid_list": [
+      "配色條邊框",
+      "浮空島嶼與漂浮場景",
+      "在控制台或收銀台上踩踏與按壓",
+      "專注地嗅聞或凝視特定物件",
+      "四格漫畫與拼貼邊框結構",
+      "高飽和度的霓虹與螢光燈光",
+      "微縮立體模型與盲盒風格",
+      "古代文物與化石挖掘現場",
+      "無陰影的冷白日光燈照明",
+      "雙色調極簡與黑白單色風格",
+      "精緻擬人化與手作機關偶質感",
+      "電影感的微光與大氣照明"
+    ],
+    "inspiration": "在南非莫塞爾灣的上空，一名23歲的德國YouTuber在跳傘自由落體期間，僅用23.333秒便成功解開魔術方塊，刷新了金氏世界紀錄。",
+    "news_inspiration": [
+      "在南非莫塞爾灣的上空，一名23歲的德國YouTuber在跳傘自由落體期間，僅用23.333秒便成功解開魔術方塊，刷新了金氏世界紀錄。",
+      "在法國坎城影展，智利電影《La Perra》中表現亮眼的狗狗尤里（Yuri）榮獲了著名的「狗狗金棕櫚獎」（Palm Dog）。",
+      "美國維吉尼亞州北部的母女研發團隊成功培育出雞蛋大小的微型西瓜，不僅保留了原本的甜味與風味，更有助於垂直農業發展並減少食物浪費。"
+    ]
   }
 ]
