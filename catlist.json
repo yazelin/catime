@@ -18214,5 +18214,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "津巴布韋（Zimbabwe）的卡里巴與胡倫韋農村地區，發起了一項由社區衛生工作者組成的「疫苗單車隊」計畫，騎單車挨家挨戶為偏遠地區的女孩接種HPV疫苗，目前已成功幫助超過2.2萬人。",
     "status": "success"
+  },
+  {
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-23_1753_UTC.webp",
+    "character_name": "麻糬",
+    "season": "spring",
+    "timestamp": "2026-05-23 17:53 UTC",
+    "is_seasonal": true,
+    "title": "琥珀春光中的花見",
+    "inspiration": "original",
+    "status": "success",
+    "number": 1985,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
