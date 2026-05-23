@@ -10097,5 +10097,39 @@
     },
     "number": 1985,
     "is_seasonal": true
+  },
+  {
+    "story": "在波士頓的科技發表會後台，一隻頑皮的橘貓溜進了展示區。牠對眼前那個伴隨著節奏、完美模仿麥可·傑克森舞步的擬人化機器人充滿好奇，一邊繞著它轉圈，一邊伸出肉墊試探性地拍打機器人的金屬腳踝。背後的強光將牠們的輪廓鍍上一層金邊，定格成這幅充滿未來感卻又帶點玩具趣味的時尚封面。",
+    "news_inspiration": [
+      "在澳洲大堡礁的凱恩斯外海，科學家最近在一項公民科學計畫中發現了一個面積近4000平方公尺的巨大珊瑚群，這可能是目前紀錄上最大的珊瑚巨體之一。",
+      "在法國中部的聖朱利安沙普特伊村，法國總理親自走訪當地麵包店購買法式長棍麵包，以推動新法案，力挺獨立麵包店在勞動節不強制休息。",
+      "在美國波士頓的東北大學物理人工智慧研究倡議發表會上，一個擬人化機器人完美模仿麥可·傑克森表演經典的「月球漫步」舞步，引起科技界熱烈關注。",
+      "在英國拉夫堡的一場國際環境運動比賽中，參賽者透過一邊慢跑一邊撿拾垃圾的方式，在短短一個下午內便成功清除當地城鎮高達281公斤的各類垃圾。"
+    ],
+    "comment_id": 4526258043,
+    "avoid_list": [
+      "四足著地",
+      "等距攝影視角",
+      "高飽和螢光燈",
+      "閃光燈直打",
+      "超寫實動漫風格",
+      "貼紙拼貼邊框",
+      "奢華黑金調",
+      "手作機關偶",
+      "棉花糖雲朵",
+      "幾何排列古文物"
+    ],
+    "inspiration": "在美國波士頓的東北大學物理人工智慧研究倡議發表會上，一個擬人化機器人完美模仿麥可·傑克森表演經典的「月球漫步」舞步，引起科技界熱烈關注。",
+    "prompt": "A magazine cover mockup featuring an editorial fashion photography base with a clean graphic design composition, bold vertical typography overlay, issue number, barcode, and the text '2026-05-23 18:52 UTC' printed clearly on the corner. The photograph utilizes a cinematic low angle and a dramatic spiral vortex composition, with a circular structure coiling around the central subjects to create a strong rotational perspective and a dizzying sense of depth. At the center, a glossy plastic toy-textured orange cat with a smooth high-shine vinyl figure surface and slight reflections is captured mid-action, extending its front paw to play with a miniature anthropomorphic robot that is dancing the moonwalk. The lighting is a dramatic backlighting with a strong rim light, leaving the subjects in a glowing silhouette with brightly outlined edges. Shot on a 35mm lens, f/2.8, with a retro faded color palette, washed-out vintage tones, low contrast, and a nostalgic film-era warmth that gives it a print publication aesthetic.",
+    "title": "機械步履與貓爪節奏",
+    "number": 1986,
+    "idea": "這是一張採用雜誌封面排版與復古褪色色調的視覺作品，鏡頭以螺旋漩渦構圖捕捉一隻擁有亮面塑膠質感的橘貓，在光芒四射的背光輪廓中，正伸出前爪專注地撥弄著一個正在跳「月球漫步」的擬人化微型機器人。",
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Retro Faded Tones"
+    }
   }
 ]
