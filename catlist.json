@@ -18290,5 +18290,16 @@
     "status": "success",
     "inspiration": "卡達杜哈主辦的第35屆杜哈國際書展於今日圓滿落幕，本屆書展吸引了來自全球的文化愛好者與眾多出版商共襄盛舉。",
     "number": 1992
+  },
+  {
+    "status": "success",
+    "title": "巨獸與碼頭之王",
+    "inspiration": "美國德州最新出土了一具長達43英尺的巨型海中掠食者「泰羅龍（Tylosaurus rex）」化石，揭開了古代海洋霸主的神秘面紗。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-05-24 09:12 UTC",
+    "character": "captain",
+    "number": 1993,
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-24_0912_UTC.webp"
   }
 ]
