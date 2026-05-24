@@ -10553,5 +10553,38 @@
       "texture": "3D Render",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "news_inspiration": [],
+    "number": 2000,
+    "title": "穹頂之上的捕風者",
+    "story": "在高聳入雲的古老穹頂之上，狂風吹拂著貓咪的毛髮。牠利用強烈的強制透視感向著高空奮力一抓，彷彿那架發出轟鳴聲的木質飛機只是牠爪邊的精緻玩具，在柔和的自然漫射光中與褪色復古的玻璃窗花融為一體。",
+    "prompt": "A stained glass window style illustration of a tabby border cat perched at the top of a grand Gothic cathedral spire, dynamically reaching out its front paw in a forced perspective composition to catch a vintage biplane soaring across the sky. The scene incorporates bold black outlines, translucent jewel-toned segments with a backlit glow, and an exaggerated foreshortening effect with the paw thrust toward the camera. The background features a textured paper surface with visible fiber grain and a watercolor paper feel. Rendered in a retro faded color palette with washed-out vintage tones and low contrast under soft diffused natural light from an overcast sky. The date and time '2026-05-24 18:58 UTC' is visually displayed in the corner of the image.",
+    "avoid_list": [
+      "被冰封的古代皮革鞋履",
+      "機械鸚鵡與恐龍化石模型",
+      "巨型立體書與書籍展場",
+      "古老鐘錶與齒輪發條零件",
+      "立體紙藝與衍紙藝術風格",
+      "莫蘭迪色調與粉彩色系搭配",
+      "巨型古生物或掠食者化石",
+      "用肉墊或前腳撥弄與按壓",
+      "鼻子輕觸並專注嗅聞",
+      "微弱的燭光與溫暖橘光",
+      "蝴蝶光與倫勃朗光照明",
+      "35mm底片或即棄相機粗糙顆粒感",
+      "故事頁面與多個不規則漫畫分格",
+      "日期與時間文字戳印"
+    ],
+    "comment_id": 4529688902,
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Paper Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "inspiration": "original",
+    "idea": "一隻斑 border 貓咪在宏偉的哥德式大教堂尖塔頂端，奮力伸出前爪試圖捕捉一架掠過天空的復古雙翼飛機，整個畫面呈現斑斕的彩色玻璃藝術風格。"
   }
 ]
