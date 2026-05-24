@@ -10293,5 +10293,39 @@
       "texture": "Cotton Candy Clouds",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "comment_id": 4527607464,
+    "idea": "這是一幅採用35mm底片攝影風格的照片，捕捉了一隻貓咪在繁華的卡達杜哈國際書展會場中央，用鼻子輕觸並嗅聞一本巨型立體書的瞬間。",
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Orthographic Projection",
+      "lighting": "Butterfly Lighting",
+      "texture": "Low Poly",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "在剛落幕的杜哈國際書展中，一隻流浪的虎斑貓悄悄溜進了展場。牠對滿地的書香充滿好奇，停在一本打開的精裝書前專注地嗅聞，與周圍熙攘的愛書人群構成了一幅有趣的畫面。",
+    "title": "書香中的微光步履",
+    "prompt": "A candid 35mm film photograph of a cat in the center of the bustling Doha International Book Fair in Qatar, capturing the exact moment its nose gently touches and sniffs a giant pop-up book. The image features a visible grain, warm tones, a nostalgic feel, a slight vignette, and soft even illumination. In a subtle, clean digital font at the bottom corner, the text '2026-05-24 06:26 UTC' is visually displayed. Shot with a 35mm lens at f/2.8, capturing authentic textures, natural motion blur of the crowd in the background, and genuine documentary-style lighting.",
+    "avoid_list": [
+      "伸出爪子撥弄",
+      "粉筆畫風格",
+      "超寫實動漫風格",
+      "閃光燈直打",
+      "螺旋漩渦構圖",
+      "奢華色調與金屬質感",
+      "復古褪色色調",
+      "發光蝴蝶與生物發光",
+      "液態流動與3D渲染材質",
+      "日期和時間標籤"
+    ],
+    "inspiration": "卡達杜哈主辦的第35屆杜哈國際書展於今日圓滿落幕，本屆書展吸引了來自全球的文化愛好者與眾多出版商共襄盛舉。",
+    "number": 1992,
+    "news_inspiration": [
+      "奧地利維也納的動物智能專家發現，一頭名叫維羅妮卡（Veronika）的乳牛展現出罕見的工具使用能力，打破了科學界過去對牛群智商的認知。",
+      "阿根廷大伊培拉國家公園在相隔超過70年後，再次於野外觀測到野生美洲豹的蹤跡，令當地的生態保育學者感到相當振奮。",
+      "英國威爾斯野生動物保護區迎來了打破歷史紀錄的海鸚（Puffin）繁育季節，大批健康的海鸚寶寶順利孵化，為海洋鳥類保育帶來好消息。",
+      "卡達杜哈主辦的第35屆杜哈國際書展於今日圓滿落幕，本屆書展吸引了來自全球的文化愛好者與眾多出版商共襄盛舉。"
+    ]
   }
 ]
