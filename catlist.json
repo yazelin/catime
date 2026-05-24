@@ -18272,5 +18272,14 @@
     "status": "success",
     "number": 1990,
     "timestamp": "2026-05-23 23:46 UTC"
+  },
+  {
+    "status": "success",
+    "number": 1991,
+    "inspiration": "一項最新演化研究成功解開了長達 3.2 億年的謎團，科學家在西班牙發現了歐洲保存最完整的劍龍頭骨化石，重新改寫了恐龍的演化歷程。",
+    "title": "石階上的遠古對望",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-05-24 02:03 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-24_0203_UTC.webp"
   }
 ]
