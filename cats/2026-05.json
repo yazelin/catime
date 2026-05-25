@@ -10976,5 +10976,40 @@
       "時間戳記視覺文字顯示",
       "精緻細膩的特定質感融合"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Extreme Low Angle",
+      "lighting": "Volumetric Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 4537565660,
+    "prompt": "An extreme low angle shot, looking up from the soil at a cat lying down and sniffing an autonomous agricultural robot. X-ray radiograph style, translucent skeletal view of the cat and the internal metal gears and circuits of the robot. The text '2026-05-25 22:00 UTC' is visually displayed in the corner of the image. Black and white monochrome, high contrast negative, medical imaging aesthetic with a rich tonal range. Volumetric lighting and dramatic shadows, with visible light rays and dust particles catching the light. Dramatic towering perspective with deep atmospheric depth.",
+    "number": 2012,
+    "idea": "這是一幅採用極低角度拍攝的黑白X光透視風格作品，展現一隻貓咪正趴在土壤中用鼻子嗅聞AI農業機器人的運作，其骨骼與機器人的內部金屬齒輪清晰可見。",
+    "news_inspiration": [
+      "韓國首爾全新開幕了一座佔地廣闊的機器人主題樂園，並安排多隻人形機器人登台完美同步跳起 K-pop 明星 G-Dragon 的熱門舞蹈，吸引大量目光。",
+      "科學家在厄瓜多加拉巴哥群島近 6000 英尺深的海域中，正式確認並命名了一種高爾夫球大小的新品種迷你藍色章魚。",
+      "最新一項發表於國際期刊的研究指出，每天飲用富含硝酸鹽的甜菜根汁僅需兩週，就能透過改變年長者口腔中的菌叢生態來幫助降低血壓。",
+      "加州一家新創公司將人工智慧與機器人技術結合，成功研發出能自主進行播種、除草和採收等多項複雜農務的 AI 農業機器人。"
+    ],
+    "avoid_list": [
+      "長卷全景構圖",
+      "德羅斯特效應遞迴構圖",
+      "彩色玻璃窗花藝術風格",
+      "用爪子輕輕撥弄物體",
+      "冷色調藍青色調",
+      "聚光燈或窄光束照耀",
+      "追逐或捕捉會動的小生物",
+      "俯瞰或鳥瞰的強烈透視視角",
+      "在建築物或物體的頂端",
+      "時間戳記視覺文字顯示",
+      "精緻細膩的特定質感融合"
+    ],
+    "title": "光影骨骼的農耕曲",
+    "inspiration": "加州一家新創公司將人工智慧與機器人技術結合，成功研發出能自主進行播種、除草和採收等多項複雜農務的 AI 農業機器人。",
+    "story": "在加州的科技農場裡，一台自主除草的農業機器人正在發出細微的運作聲。一隻農場貓好奇地趴在極低的地面上，透過X光視角，貓咪優雅的骨骼線條與機器人複雜的電路、機械關節在黑白與體積光的交織下完美融合，呈現出一場科技與生物的靜謐對話。"
   }
 ]
