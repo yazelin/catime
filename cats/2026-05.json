@@ -10769,5 +10769,41 @@
     "comment_id": 4531016803,
     "number": 2005,
     "idea": "在長卷全景構圖的宏大高加索大理石聖殿中，一隻精緻的BJD擬真娃娃質感的白貓正用爪子撥弄並追逐著地面上因強烈高飽和鮮豔色體積光吸引而集體繞圈旋轉的神秘鼠婦隊伍。"
+  },
+  {
+    "idea": "在清冷月光照耀的長卷全景構圖中，一隻英國短毛貓正悄悄尾隨並試圖捕捉成群在岩壁上築巢的海鸚，整幅畫面呈現濕版攝影特有的藍青冷色調與邊緣金屬感不均勻沉澱。",
+    "title": "海岬月夜的銀鹽獵場",
+    "number": 2006,
+    "prompt": "A long, continuous panoramic handscroll composition featuring a British Shorthair cat stealthily stalking and pouncing on a colony of puffins nesting on a coastal cliffside. Wet plate collodion photography style with vintage tintype look, dark edges, and silver-toned monochrome imperfections. Extreme wide angle, oblique bird's-eye view tracking the narrative flow across the layered rock formations. Illuminated by cool moonlight, creating a gentle silvery glow, quiet nighttime atmosphere, and cool blue-teal color grading with icy undertones. The edges show uneven metallic surface and silver-halide chemical deposition. The timestamp '2026-05-25 07:00 UTC' is clearly and cleanly printed in the corner of the frame.",
+    "comment_id": 4532260665,
+    "inspiration": "英國威爾斯迎來了破紀錄的海鸚（Puffin）繁殖季，成千上萬隻色彩鮮豔的海鳥進駐海岸，吸引了大量賞鳥人士與遊客前往參觀。",
+    "avoid_list": [
+      "用爪子撥弄精密鐘錶發條與齒輪",
+      "莫蘭迪色調與灰調柔和粉彩",
+      "雙腳直立且前爪輕搭在工作檯邊緣",
+      "秋日琥珀色調與倫勃朗光影",
+      "金箔祥雲與傳統東亞祥雲紋理",
+      "故事插畫分格與多個不規則漫畫分鏡排版",
+      "微縮立體模型搭配50mm鏡頭與微距攝影",
+      "黑白單色調的高對比底片風格",
+      "貓咪用前腳按壓翻開的立體摺紙書",
+      "在畫面角落清晰顯示視覺日期時間文字",
+      "採用Cinema 4D質感的精緻3D渲染"
+    ],
+    "story": "威爾斯海岸的峭壁迎來了前所未有的海鸚繁殖潮，成千上萬隻海鳥的啼鳴打破了夜的寂靜。一隻當地的農場貓藉著微弱的月色溜了出來，在起伏的岩石間壓低身子，敏捷地在鳥群間穿梭與撲擊，這幕海島夜間的獵場奇景被定格在帶有銀鹽微光的長鏡頭之中。",
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Moonlight",
+      "texture": "Metallic Surface",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "肯亞的保育人員成功將四隻極度瀕危的山地紫羚從捷克的動物園空運送回其原生棲息地，為該物種的野外族群復育帶來重大突破。",
+      "美國愛荷華州的尼爾史密斯國家野生動物保護區誕生了一隻極其罕見、概率僅百萬分之一的純白色美洲野牛寶寶，在當地原住民文化中被視為神聖的象徵。",
+      "阿根廷最大國家公園內相隔70年首次目擊到野生美洲豹的蹤跡，令當地的生態保育專家與學者感到振奮不已。",
+      "德國科學家成功開發出一項創新技術，能夠透過室內普通無線網路（WiFi）訊號的電波折射，以近乎完美的準確度辨識出特定人員。",
+      "英國威爾斯迎來了破紀錄的海鸚（Puffin）繁殖季，成千上萬隻色彩鮮豔的海鳥進駐海岸，吸引了大量賞鳥人士與遊客前往參觀。"
+    ]
   }
 ]
