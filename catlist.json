@@ -18439,5 +18439,16 @@
     "timestamp": "2026-05-25 11:12 UTC",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success"
+  },
+  {
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-25_1430_UTC.webp",
+    "inspiration": "英國倫敦「哈克尼馬賽克項目」邀請患有創傷後壓力症候群（PTSD）及受心理健康困擾的當地居民參與公共藝術，透過規律拼接羅馬風格馬賽克的過程，成功為社區街道和醫療中心椅子換上斑斕新裝並達到療癒效果。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2008,
+    "timestamp": "2026-05-25 14:30 UTC",
+    "character_name": "墨墨",
+    "title": "鏡中鏡的斑斕足跡",
+    "status": "success"
   }
 ]
