@@ -10942,5 +10942,39 @@
       "精緻細膩的特定質感融合"
     ],
     "idea": "在霓虹燈光閃爍的微縮模型街景中，一隻橘貓正趴在屋頂上用爪子試圖按住一輛正在行駛的玩具小汽車，畫面融合了故障藝術的數位錯位與紙質肌理。"
+  },
+  {
+    "idea": "在霓虹螢光色系與環形燈圍繞下，一隻擁有冰霜結晶質感的3D Q版公仔貓咪，正以服裝多視角展示的構圖呈現牠穿梭在密封生菜沙拉袋中的模樣。",
+    "title": "翠綠密封艙的奇遇",
+    "news_inspiration": [
+      "在英國布羅克沃斯舉行的年度「滾起司大賽」中，24歲的德國YouTuber擊敗了退役復出的23屆傳奇冠軍，成功奪得今年最甜美的雙格洛斯特起司。",
+      "澳洲埃斯佩蘭斯的一名農夫在從超市購買的密封生菜沙拉袋中意外發現一隻活青蛙，室友們甚至幽默地播放經典的《瘋狂青蛙》歌曲將牠放生至附近池塘。",
+      "英國威爾斯斯科默島的野生動物信託基金會宣布，今年當地的海鸚迎來了打破歷史紀錄的繁衍豐收年，令保育人員振奮不已。"
+    ],
+    "number": 2011,
+    "story": "這隻好奇的貓咪鑽進了巨大的透明沙拉袋中，驚奇地看著一隻活青蛙在翠綠的生菜葉間跳躍。袋子外圍繞著圈圈霓虹螢光線條，全方位捕捉牠那充滿科技童趣的探索身影。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Ring Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 4536989537,
+    "prompt": "A 3D chibi blind box character of a cute Q-version cat made of ice crystal formation, delicate frost patterns, and translucent ice shards, exploring inside a giant transparent sealed lettuce salad bag with a live green frog jumping among crisp lettuce leaves. Multi-view product showcase layout arranged in panels, presenting front view, back view, side view, and detail close-up. The fashion design sheet format features a text overlay reading '2026-05-25 20:18 UTC'. The scene is illuminated by ring light illumination creating circular catchlights in the eyes, with vibrant neon fluorescent colors of electric pink, lime green, and hot cyan glowing against a clean studio backdrop. C4D rendering, smooth plastic toy texture, winter crystalline beauty.",
+    "inspiration": "澳洲埃斯佩蘭斯的一名農夫在從超市購買的密封生菜沙拉袋中意外發現一隻活青蛙，室友們甚至幽默地播放經典的《瘋狂青蛙》歌曲將牠放生至附近池塘。",
+    "avoid_list": [
+      "長卷全景構圖",
+      "德羅斯特效應遞迴構圖",
+      "彩色玻璃窗花藝術風格",
+      "用爪子輕輕撥弄物體",
+      "冷色調藍青色調",
+      "聚光燈或窄光束照耀",
+      "追逐或捕捉會動的小生物",
+      "俯瞰或鳥瞰的強烈透視視角",
+      "在建築物或物體的頂端",
+      "時間戳記視覺文字顯示",
+      "精緻細膩的特定質感融合"
+    ]
   }
 ]
