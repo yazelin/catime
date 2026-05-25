@@ -11011,5 +11011,35 @@
     "title": "光影骨骼的農耕曲",
     "inspiration": "加州一家新創公司將人工智慧與機器人技術結合，成功研發出能自主進行播種、除草和採收等多項複雜農務的 AI 農業機器人。",
     "story": "在加州的科技農場裡，一台自主除草的農業機器人正在發出細微的運作聲。一隻農場貓好奇地趴在極低的地面上，透過X光視角，貓咪優雅的骨骼線條與機器人複雜的電路、機械關節在黑白與體積光的交織下完美融合，呈現出一場科技與生物的靜謐對話。"
+  },
+  {
+    "story": "這隻賽博貓咪在充滿霓虹螢光色的微型植物園中穿梭。透過移軸微縮效果，周遭的金屬質感葉片與生物發光真菌顯得如玩具般精緻，而牠正專注地檢查著每一株發光植物的生長狀況。",
+    "avoid_list": [
+      "長卷全景構圖",
+      "德羅斯特效應遞迴構圖",
+      "彩色玻璃窗花藝術風格",
+      "用爪子輕輕撥弄物體",
+      "冷色調藍青色調",
+      "聚光燈或窄光束照耀",
+      "追逐或捕捉會動的小生物",
+      "俯瞰或鳥瞰的強烈透視視角",
+      "在建築物或物體的頂端",
+      "時間戳記視覺文字顯示",
+      "精緻細膩的特定質感融合"
+    ],
+    "title": "霓虹溫室的微光漫步",
+    "comment_id": 4538198323,
+    "style_picks": {
+      "art_style": "Y2K Aesthetic",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Bioluminescence",
+      "texture": "Metallic Surface",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 2013,
+    "prompt": "A close-up tilt-shift photograph of a cybernetic augmented cat gently touching its nose to glowing bioluminescent fiber-optic plants inside a Y2K aesthetic futuristic electronic greenhouse. In the corner of the frame, the date and time '2026-05-25 23:54 UTC' is visually displayed. The composition uses a selective focus band and miniature toy-like effect with a heavily blurred foreground and background. The scene features neon fluorescent colors, including electric pink, lime green, and hot cyan glowing against a dark background, mixed with pastel gradients and holographic textures. The cat has metallic surfaces with sharp reflections and polished metal details. Shot on a macro lens, f/1.4, with organic glow lighting from the living organisms, creating a vibrant, saturated, and playful early-2000s atmosphere.",
+    "idea": "在 Y2K 風格的未來電子溫室中，一隻機械改造貓正用鼻子輕觸著散發螢光的光纖植物。",
+    "inspiration": "original",
+    "news_inspiration": []
   }
 ]
