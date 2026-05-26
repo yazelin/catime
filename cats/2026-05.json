@@ -11182,5 +11182,39 @@
     },
     "story": "五月的愛爾蘭迎來了歷史性的罕見熱浪，連海風都變得滾燙。駐守燈塔的貓咪發現頂樓窗台的木紋地板被曬得發熱，而那株本不該在此刻綻放的向日葵，正散發出令牠好奇的溫暖香氣。",
     "inspiration": "愛爾蘭氣象局於昨日（5月25日）發表報告，在強大高壓脊影響下，該國多個氣象站同步刷新了有觀測紀錄以來的五月份最高溫紀錄。"
+  },
+  {
+    "news_inspiration": [
+      "奧地利維也納的動物行為專家首次記錄到一頭名叫薇若妮卡（Veronika）的乳牛能熟練使用工具的不同端來達到多種目的，展現出過往被認為僅存在於黑猩猩等靈長類動物的超高智商。",
+      "美國紐約市的一位科技業工程師在正職之餘兼職幫鄰居遛狗，憑藉這份副業平均每個月能額外賺取高達57.2萬盧比（約合近7,000美元）的驚人收入，引發網路熱烈討論。",
+      "研究人員在義大利羅馬的一本中世紀古書中，意外發現了迄今已知最古老的英文詩歌片段，為古代文學與人類遷徙歷史的研究帶來重大突破。",
+      "一名赴印度清奈旅遊的日本遊客在社群媒體上盛讚當地的清奈地鐵系統，稱其乾淨、高效且現代化的乘車體驗甚至「超越了美國紐約的地鐵」。"
+    ],
+    "prompt": "A bird's-eye view, top-down perspective looking straight down at a miniature world effect illustration in Chinese gongbi figure painting style. Meticulous fine-line brushwork and delicate color washes depict a spotted cat on a large, heavily rusted, weathered black and gold sundial. The cat is nuzzling and rubbing its body against the gnomon. Dramatic backlighting with a glowing rim light creates a luxurious silhouette edge, outlining the cat in a thin gold line. The color scheme is gold and black, with opulent metallic accents contrasting against aged industrial decay, warm orange-brown corrosion, and an oxidized patina on the metal. Visually displayed clearly within the image are the date and time '2026-05-26 19:53 UTC'. The artwork has the quality of a detailed character design sheet, complete with a subtle scholarly calligraphy signature and a small red seal stamp in the corner.",
+    "comment_id": 4548175276,
+    "title": "古卷旁的金線日晷",
+    "story": "在羅馬一座古老圖書館的露天中庭，學者們正為剛出土的中世紀英詩片段爭論不休。而館長養的貓兒對文學毫無興趣，只想在被斜陽曬得暖烘烘的巨大鐵鏽日晷上，隨著陰影的移動慵懶地伸個懶腰。",
+    "style_picks": {
+      "art_style": "Gongbi Figure Painting",
+      "composition": "Bird's-Eye View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "這是一幅採用工筆人物畫風格的鳥瞰圖，展現一隻斑點貓在佈滿鐵鏽舊化斑駁的大型黑金日晷上，用鼻子輕嗅並用身體磨蹭著指針，金色與黑色奢華的輪廓光為牠鍍上一層細緻的金邊。",
+    "inspiration": "研究人員在義大利羅馬的一本中世紀古書中，意外發現了迄今已知最古老的英文詩歌片段，為古代文學與人類遷徙歷史的研究帶來重大突破。",
+    "avoid_list": [
+      "長卷全景構圖",
+      "遞迴德羅斯特效應",
+      "移軸攝影微縮效果",
+      "霓虹螢光色調",
+      "藍青冷色調",
+      "體積光與塵埃微粒",
+      "貓爪子撥弄物體",
+      "機械改造與賽博科技",
+      "巨型黑夜花卉植物",
+      "X光透視骨骼與齒輪"
+    ],
+    "number": 2018
   }
 ]
