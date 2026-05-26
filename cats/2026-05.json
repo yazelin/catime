@@ -11113,5 +11113,40 @@
     "prompt": "Medium format photography, Hasselblad aesthetic, extreme low angle shot looking up at Mochi, a chubby rounded shorthair cat. Mochi has a white base coat, bright amber eyes, short stubby legs, and a spherical torso. Her right half-face (viewer perspective) has a solid orange mask extending from the nose bridge across the cheek to the ear, while her left face is entirely pure white. She has a pink nose with a tiny orange center dot, a heart-shaped orange saddle on her upper back, a solid orange mitten on her right front paw to the wrist, a pure white left front paw, an orange-and-white ringed tail, and a white belly. No tabby stripes are present on her solid orange patches. Mochi is wearing a soft pink cherry blossom flower crown, lying on a Japanese-style picnic mat next to a traditional street market food stall window. She is staring intently at a glass container of strawberry daifuku. Harsh midday sunlight refracts through a nearby colored glass cup, casting a duotone color treatment of two contrasting colors as prismatic reflections onto her white belly and orange-mitten right front paw. High contrast natural daylight, hard edge shadows, extraordinary tonal range, creamy shallow depth of field, gritty urban realism, strong directional sun. Visible timestamp '2026-05-26 06:36 UTC' is clearly displayed in a corner of the image. Candid shot, f/2.8, natural light, subtle film grain.",
     "character_name": "麻糬",
     "title": "春櫻老街的玻璃野餐"
+  },
+  {
+    "title": "深海與老貓的凝視",
+    "story": "老船長在深夜的巡邏中，被一頭剛從厄瓜多深海捕撈上岸的蔚藍色小章魚吸引了全部注意力。牠威嚴的右眼緊緊盯著水桶裡閃爍著奇異藍光的軟體生物，粗壯的尾巴如船舵般在身後緊繃，完全忘記了平時的沉穩。碼頭上的強烈直打閃光燈將牠斑駁的棕黑虎斑與鮮紅頭巾映襯得無比鮮豔，地上甚至還鋪著一塊帶有絞染紋理的防雨藍色帆布。",
+    "news_inspiration": [
+      "在厄瓜多加拉巴哥群島附近約5,900英尺的深海中，科學家發現了一種體型小巧且呈現美麗蔚藍色的全新章魚物種。",
+      "在英國大曼徹斯特郡舉辦的第二屆平價組裝家具世界錦標賽中，去年的冠軍選手成功衛冕，展現了極速組裝IKEA家具的驚人技巧。",
+      "美國加州丹維爾一所小學的學生們為了保護網路明星白頭海鵰夫婦的棲息地不被開發，主動透過洗車、舉辦義賣等活動積極協助募資保護土地。"
+    ],
+    "character_name": "船長",
+    "inspiration": "在厄瓜多加拉巴哥群島附近約5,900英尺的深海中，科學家發現了一種體型小巧且呈現美麗蔚藍色的全新章魚物種。",
+    "idea": "在漁港碼頭的深夜，船長正伸長脖子湊近一個裝滿新鮮漁獲的塑料長方框，以街頭攝影風格與等距攝影視角捕捉這隻大貓與深海蔚藍章魚的意外相遇。",
+    "number": 2016,
+    "character": "captain",
+    "comment_id": 4544669427,
+    "prompt": "A street photography candid shot capturing a real photo with an isometric angle at a fishing harbor dock at night. A large stocky brown classic tabby cat with bold black stripes and a scruffy, untidy, coarse coat has its neck extended, leaning over a rectangular plastic crate filled with fresh catch. The cat has an explicit V-shaped notch on its left ear, a faded red bandana loosely tied around its neck, a white chest bib, and white mitten paws. Its left eye is permanently concealed by a natural dark-pigmented fur patch, while its single piercing emerald green right eye stares intently at a small deep-sea cerulean blue octopus in the container. Harsh direct on-camera flash illuminates the scene, creating blown-out highlights and hard shadows. On the ground is a blue rainproof canvas with Shibori-style resist-dyed textile patterns and an indigo palette. In the corner of the frame, the date and time '2026-05-26 13:45 UTC' is visually stamped on the image. High saturation vivid colors, raw candid snapshot look, 35mm lens.",
+    "avoid_list": [
+      "長卷全景構圖",
+      "遞迴德羅斯特效應",
+      "移軸攝影微縮效果",
+      "霓虹螢光色調",
+      "藍青冷色調",
+      "體積光與塵埃微粒",
+      "貓爪子撥弄物體",
+      "機械改造與賽博科技",
+      "巨型黑夜花卉植物",
+      "X光透視骨骼與齒輪"
+    ],
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Isometric Photography",
+      "lighting": "Direct Flash",
+      "texture": "Shibori Textile",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
