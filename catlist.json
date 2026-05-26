@@ -18508,5 +18508,18 @@
     "status": "success",
     "timestamp": "2026-05-26 02:02 UTC",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "status": "success",
+    "inspiration": "original",
+    "number": 2015,
+    "character": "mochi",
+    "season": "spring",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-05-26 06:36 UTC",
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "title": "春櫻老街的玻璃野餐",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-26_0636_UTC.webp"
   }
 ]
