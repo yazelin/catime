@@ -11430,5 +11430,42 @@
     "comment_id": 4554423214,
     "prompt": "Artistic oil painting blending Renaissance style with modern elements. In a bakery with raw concrete walls, industrial minimalism, and a cool blue-teal color grading with icy undertones, a chubby rounded shorthair cat named Mochi looks into an old dressing mirror. The composition is a casual mirror selfie framing, showing the visible reflection of the cat. The cat is a four-legged literal animal with a spherical torso and short stubby legs, featuring a pure white base coat with solid orange patches and no tabby stripes. Its face has an asymmetrical marking: the right half-face (viewer perspective) has an orange mask from the nose bridge to the right ear, while the left face is entirely white. It has large round amber eyes, a pink nose with a tiny orange center dot, and a pure white belly. Its right front paw is a solid orange mitten to the wrist, and its left front paw is pure white. Golden hour lighting and a warm sunset glow stream in, creating long soft shadows and a golden rim light on the subject, contrasted against the rough aggregate surface of the background. The sfumato technique is used for masterful light and shadow. Visually displayed clearly in the corner of the image is the date and time text '2026-05-27 12:17 UTC'.",
     "number": 2024
+  },
+  {
+    "idea": "在浮島般懸浮的棒球場上，一隻優雅的白貓正伸爪撥弄著一粒在黃金時刻光芒下漂浮的香蕉。整體畫面融入表現主義的強烈情感與古絹絹本的細緻紋理，並以極具張力的雙色調呈現。",
+    "number": 2025,
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "等距攝影視角",
+      "中片幅攝影風格",
+      "迷你藍色章魚",
+      "橘色手套右腳",
+      "向日葵與愛爾蘭燈塔",
+      "莫蘭迪色調房間",
+      "生物朋克咖啡廳",
+      "文藝復興油畫風格",
+      "蝴蝶光與魚眼扭曲",
+      "粗壯的棕黑虎斑",
+      "草莓大福與傳統市場"
+    ],
+    "prompt": "Expressionism art style painting of an elegant white cat on a floating island baseball stadium in the sky, extending its paw to swat at a floating banana. Incorporate bold distorted forms and exaggerated gestural brushwork with the textured look of an aged silk scroll surface, showing a warm sepia patina and visible silk weave. The scene is illuminated by dramatic golden hour lighting, creating a warm sunset glow with a golden rim light on the cat and banana. Rendered in a high-contrast duotone color treatment using only two contrasting colors for a bold graphic impact. The text '2026-05-27 16:31 UTC' is visually displayed in the corner of the artwork.",
+    "inspiration": "美國里奇蒙舉辦了一場充滿歡樂與趣味的「香蕉球」棒球巡迴賽，球員們以花式特技與豐富的群眾互動為球迷帶來獨特的娛樂體驗。",
+    "comment_id": 4556553253,
+    "title": "雲巔追逐黃金球",
+    "news_inspiration": [
+      "英國倫敦知名的切爾西花卉展盛大開幕，向全球旅客展示了頂尖的園藝設計與令人驚豔的花卉創新藝術。",
+      "保加利亞歌手 Dara 憑藉熱門歌曲《Bangaranga》在歐洲歌唱大賽中奪冠，讓保加利亞舉國上下沉浸在歷史性勝利的喜悅中。",
+      "美國里奇蒙舉辦了一場充滿歡樂與趣味的「香蕉球」棒球巡迴賽，球員們以花式特技與豐富的群眾互動為球迷帶來獨特的娛樂體驗。",
+      "多明尼加共和國的喀巴里特即將舉辦水上風箏衝浪節，成功吸引全球水上運動愛好者與頂尖選手的目光。",
+      "澳洲西部海域的研究人員透過檢測海水中的 DNA 數據，成功偵測到行蹤隱密的巨烏賊以及多種令人驚喜的珍貴海洋生物。"
+    ],
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Floating Island Scene",
+      "lighting": "Golden Hour",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Duotone"
+    },
+    "story": "這是一場舉辦在雲端浮島的香蕉球棒球賽。當球員們在空中奮力展現特技時，一隻當地的白貓在看台邊緣輕快躍動，專注地用爪子追逐那顆被擊飛、在空中慢動作旋轉的黃色香蕉球，為這場瘋狂的球賽增添了純真而生動的趣味。"
   }
 ]
