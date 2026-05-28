@@ -18668,5 +18668,16 @@
     "title": "深夜鐘錶店的發條舞曲",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-28_0600_UTC.webp",
     "character_name": "墨墨"
+  },
+  {
+    "number": 2031,
+    "inspiration": "original",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-28_1042_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "黑金航道的守望者",
+    "status": "success",
+    "timestamp": "2026-05-28 10:42 UTC",
+    "character_name": "船長"
   }
 ]
