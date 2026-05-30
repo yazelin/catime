@@ -12240,5 +12240,44 @@
     "prompt": "An origami style tabby cat, made of folded paper art with clean geometric creases and sharp angular folds, stands on a colorful pop art style miniature map. The cat is pressing its paw onto a miniature anatomical toy model of a pigeon's internal organs. The scene features a distinct tilt-shift photography effect with a selective focus band, creating a miniature toy-like appearance with a blurred foreground and background. The style is inspired by pop art with bold primary colors, thick outlines, and subtle Ben-Day dots. The atmosphere is illuminated by warm amber volumetric lighting, with dramatic god rays and dust particles catching the light. The date and time '2026-05-30 12:00 UTC' is visually stamped in a clean, legible font in the corner of the image. The overall color grading follows an autumn palette of golden yellows and burnt orange for a cozy, nostalgic warmth.",
     "inspiration": "德國康斯坦茲的馬克斯·普朗克動物行為研究所發表一項有趣研究，科學家透過追蹤標記發現鴿子可能是利用「肝臟」來進行導航。",
     "title": "琥珀航線的導航者"
+  },
+  {
+    "prompt": "An ultra wide angle 12-18mm lens art illustration of a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, athletic proportions, large luminous golden-amber eyes, and long prominent white whiskers. The cat has a single small gold hoop earring on its left ear, a tiny natural white locket tuft of fur on its ventral chest, and a single dark-grey ring at its tail tip. The cat is perched on top of an old antique globe in a dusty old bookstore, gently batting with its front paw at a suspended, delicate miniature Czech train track with a running train. The entire scene is rendered in a fusion of Impressionism and Low-poly styles, featuring painterly visible brushstrokes, geometric crystalline surface facets, and flat shaded triangular faces. The lighting is a blend of ethereal blacklight UV illumination with fluorescent pigments glowing and a Morandi muted color palette of desaturated soft pastels with dusty grey undertones. Visually displayed clearly in a corner of the image is the date and time text '2026-05-30 14:22 UTC'.",
+    "story": "墨墨靜靜地待在古董店高處，居高臨下地看著剛重啟的布拉格與哥本哈根直達列車微縮模型。牠優雅地瞇起琥珀色的大眼睛，伸出爪子撥弄著精準運行的車廂，彷彿整個歐洲的鐵路軌道都在牠的掌控之中。在神秘的黑光燈照射下，牠長長的白色鬍鬚和耳環閃爍著細緻的光芒。",
+    "avoid_list": [
+      "用鼻子專注地嗅聞",
+      "粉彩色系",
+      "閃光燈直打效果",
+      "維持著四足伏臥的姿勢",
+      "好奇地看著無數破碎的歷史碎片",
+      "畫面呈現獨特的CRT掃描線",
+      "專注地用爪子撥弄並排列",
+      "蓬鬆如棉花糖的白色長毛貓",
+      "在織品般細緻的草地上追逐蝴蝶",
+      "在硬光日照的溫暖琥珀色光影下",
+      "圓滾滾的橘白貓麻糬",
+      "充氣PVC材質製成"
+    ],
+    "number": 2049,
+    "character": "momo",
+    "news_inspiration": [
+      "德國康斯坦茨的最新科學研究發現，除了一般的星象與地磁外，鴿子可能還會透過肝臟來感知方向以尋找回家的路。",
+      "美國密西根州卡爾頓的機場高中即將畢業的高三學生，在傳統的「拖拉機日」當天紛紛捨棄一般車輛，改開拖拉機、全地形車和高爾夫球車拉風上學。",
+      "英國國王查爾斯三世訪問北愛爾蘭紐卡斯爾期間，在與夾道歡迎的民眾互動時，不幸遭到一隻飛過的海鷗空中大便「空襲」命中。",
+      "澳洲埃斯佩蘭斯的一名居民在超市購買的密封生菜沙拉袋中，意外發現裡面竟然藏著一隻活生生的青蛙。",
+      "捷克與丹麥的鐵路公司聯手重啟了中斷超過十年的直達列車，讓旅客能搭乘時速高達230公里的班次輕鬆往返布拉格與哥本哈根兩國首都。"
+    ],
+    "comment_id": 4583094779,
+    "idea": "在黑光螢光與莫蘭迪色調交織的舊書店裡，一隻純黑貓趴在古老地球儀頂端，正用一隻前爪輕輕撥動一條懸掛的精緻微型捷克火車軌道，整體呈現獨特的印象派與低多邊形超廣角風格。",
+    "title": "午夜軌道的軌跡",
+    "style_picks": {
+      "art_style": "Impressionism",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Low Poly",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "捷克與丹麥的鐵路公司聯手重啟了中斷超過十年的直達列車，讓旅客能搭乘時速高達230公里的班次輕鬆往返布拉格與哥本哈根兩國首都。",
+    "character_name": "墨墨"
   }
 ]

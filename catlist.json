@@ -18848,5 +18848,16 @@
     "timestamp": "2026-05-30 12:00 UTC",
     "inspiration": "德國康斯坦茲的馬克斯·普朗克動物行為研究所發表一項有趣研究，科學家透過追蹤標記發現鴿子可能是利用「肝臟」來進行導航。",
     "title": "琥珀航線的導航者"
+  },
+  {
+    "number": 2049,
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-30_1422_UTC.webp",
+    "inspiration": "捷克與丹麥的鐵路公司聯手重啟了中斷超過十年的直達列車，讓旅客能搭乘時速高達230公里的班次輕鬆往返布拉格與哥本哈根兩國首都。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "午夜軌道的軌跡",
+    "timestamp": "2026-05-30 14:22 UTC",
+    "status": "success",
+    "character_name": "墨墨"
   }
 ]
