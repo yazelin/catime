@@ -12376,5 +12376,42 @@
       "texture": "Iridescent Holographic",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "inspiration": "加拿大科學家在地底深處的古老岩石中，驚人地發現它們正在自然且大量地製造出氫氣，為未來的乾淨能源開發帶來全新曙光。",
+    "comment_id": 4584397637,
+    "story": "在科學家發現地底氫氣的多年後，一隻好奇的布偶貓溜進了這座化為新能源基地的高科技礦坑。牠在縱橫交錯的岩層間跳躍，被岩壁上散發霓虹光芒的自然氫氣氣泡所吸引，正弓著身子、伸長脖子去嗅聞那股來自遠古的乾淨能源氣息。",
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Neon Lighting",
+      "texture": "Shibori Textile",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "地底深處的微光呼吸",
+    "prompt": "A 3D isometric illustration with a crayon drawing style and childlike hand-drawn look, depicting a ragdoll cat in a futuristic underground cavern. The cat is inquisitively sniffing glowing light bubbles emerging from an ancient rock crevice. The cavern walls are covered in Shibori style resist-dyed textile patterns with an organic flowing design. The scene features a Morandi muted color palette of desaturated soft pastels and dusty grey undertones, contrasted by vibrant neon lighting reflecting off the surfaces to create a moody atmosphere. The entire artwork is rendered with clean geometric forms and a polished playful look on a warm paper background. Visually displayed clearly in the corner of the image is the timestamp '2026-05-30 20:01 UTC'.",
+    "number": 2053,
+    "idea": "這是一幅結合霓虹燈光與莫蘭迪色調的蠟筆兒童畫，以等距3D插圖視角呈現一隻布偶貓在充滿絞染布藝質感的未來地下岩穴中，用鼻子專注地嗅聞著從古老岩縫中冒出的微光泡泡。",
+    "avoid_list": [
+      "用前爪按住",
+      "用爪子撥弄",
+      "分割畫面",
+      "普普藝術風格",
+      "微縮模型地圖",
+      "琥珀色光影",
+      "紐約港碼頭",
+      "火車軌道與列車",
+      "雙色調海報",
+      "手機鏡頭隨拍日常感",
+      "高飽和度鮮豔色彩",
+      "鴿子與科學實驗"
+    ],
+    "news_inspiration": [
+      "孟加拉納拉揚甘傑市的一家農業農場中，一隻以美國前總統唐納·川普命名並因其獨特外觀在網路走紅的白化水牛，於宰牲節前夕吸引了大量關注。",
+      "義大利羅馬一名因長相帥氣而連續多年登上當地觀光月曆的「性感神父」，日前公開承認自己其實從未擔任過神職人員，引發民眾與遊客熱烈討論。",
+      "德國的研究人員成功開發出一項創新監控技術，能夠僅透過分析室內普通WiFi訊號的無線電波反射，就能以近乎完美的準確度識別出特定人員。",
+      "日本的研究團隊透過分析古老樹木的年輪以及數百年前的天空觀測記錄，成功追溯出八百年前一場曾在歷史文獻中被記載為「紅天空」的致命強烈太陽風暴。",
+      "加拿大科學家在地底深處的古老岩石中，驚人地發現它們正在自然且大量地製造出氫氣，為未來的乾淨能源開發帶來全新曙光。"
+    ]
   }
 ]
