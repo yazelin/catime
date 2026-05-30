@@ -12168,5 +12168,41 @@
       "texture": "Frosted Glass",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "inspiration": "德國康斯坦茨的馬克斯·普朗克動物行為研究所發表最新科學研究，科學家透過在鴿子身上佩戴追蹤標記，發現鴿子可能是利用「肝臟」來進行飛行導航。",
+    "title": "深夜的肝臟導航",
+    "number": 2047,
+    "news_inspiration": [
+      "德國康斯坦茨的馬克斯·普朗克動物行為研究所發表最新科學研究，科學家透過在鴿子身上佩戴追蹤標記，發現鴿子可能是利用「肝臟」來進行飛行導航。",
+      "美國密西根州卡爾頓的一所高中迎來了傳統的畢業生「拖拉機日」，數十名即將畢業的高三學生不開普通汽車，而是紛紛駕駛農用拖拉機、全地形車（ATV）及高爾夫球車拉風上學。",
+      "印度新德里的美國大使館為了慶祝建國紀念活動，在當地的三輪摩托車（嘟嘟車）後方印上趣味宣傳海報，讓美國總統的肖像與祝賀標語直接融入新德里繁忙的街頭車流中。",
+      "英國倫敦的一對雙胞胎姊妹在進行 DNA 檢測後，驚覺兩人竟然擁有不同的親生父親，揭開了極為罕見且在英國首度被記錄的「異父同胞雙生」奇特家族歷史。"
+    ],
+    "idea": "這是一幅採用白板記號筆畫風格創作的雙色調作品，一隻黑貓在燭光搖曳的昏暗房間中，透過強制透視伸手技巧，將爪子伸向畫面前方的一張老舊德意志地圖，彷彿在用肉球指引方向，背景與地圖皆散發著絲綢般的平滑光澤。",
+    "avoid_list": [
+      "用鼻子專注地嗅聞",
+      "粉彩色系",
+      "閃光燈直打效果",
+      "維持著四足伏臥的姿勢",
+      "好奇地看著無數破碎的歷史碎片",
+      "畫面呈現獨特的CRT掃描線",
+      "專注地用爪子撥弄並排列",
+      "蓬鬆如棉花糖的白色長毛貓",
+      "在織品般細緻的草地上追逐蝴蝶",
+      "在硬光日照的溫暖琥珀色光影下",
+      "圓滾滾的橘白貓麻糬",
+      "充氣PVC材質製成"
+    ],
+    "story": "深夜的馬克斯·普朗克研究所內，這隻黑貓悄悄溜進了生物導航實驗室。牠趴在鋪滿絲綢軟墊的桌上，看著科學家留下的鴿子飛行路線圖，突然伸出爪子按住地圖上的康斯坦茨湖。在微弱的蠟燭光影下，牠的肉球成了指引鴿子靠肝臟導航的神秘羅盤。",
+    "prompt": "A duotone whiteboard marker drawing style illustration on a smooth glass surface with slightly faded ink and hand-drawn line art. In a forced perspective composition, a black cat in a dimly lit room thrusts its paw directly toward the camera, its paw pad dramatically foreshortened and engaging the viewer as if pointing a direction on an old German map placed in the foreground. The background features a silk fabric texture with a luminous, smooth surface, flowing drapes, and a luxurious sheen reflecting delicate light. The scene is illuminated by a warm orange flickering candlelight glow, creating soft dancing shadows and an intimate atmosphere. Visually displayed in the corner of the image is the date and time '2026-05-30 10:42 UTC' written in a casual sketch marker style.",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Candlelight",
+      "texture": "Silk",
+      "color_palette": "Duotone"
+    },
+    "comment_id": 4582571312
   }
 ]
