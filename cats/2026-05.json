@@ -12444,5 +12444,43 @@
     "inspiration": "original",
     "title": "霓虹幻境的鐘錶匠",
     "idea": "一隻通體呈現透明樹脂質感的貓咪，正在由無數齒輪組成的浮島上，用鼻尖輕觸並修理一盞巨大的霓虹發光沙漏，整體呈現迷幻風格。"
+  },
+  {
+    "idea": "在溫暖的傳統老街市場巷弄中，以超寫實動漫風格捕捉一隻胖嘟嘟的橘白貓頂著粉嫩花環、趴在櫻花樹下絞染野餐墊上流口水的神態。",
+    "avoid_list": [
+      "用鼻子嗅聞植物或氣泡",
+      "用爪子撥弄車票或微縮火車軌道",
+      "黑貓在火車站或書店月台",
+      "透明樹脂質感且內部有嵌入物",
+      "在漂浮浮島或大理石廢墟建築中",
+      "霓虹螢光配上莫蘭迪色調",
+      "普普藝術搭配微縮地圖與鴿子導航",
+      "雙色調的不透明水彩或記號筆風格",
+      "在對稱的大理石祭壇或玻璃圓盤上",
+      "多視角排版配上手機隨拍風格"
+    ],
+    "news_inspiration": [
+      "在丹麥哥本哈根，當地的「真人圖書館」活動在五月份持續受到矚目，讀者可以借閱與真人對話，而不是借閱實體書本。",
+      "在蘇格蘭，政府已正式立法規定全國境內每棟新建的房屋都必須加裝供雨燕築巢的「雨燕磚」，成為全球首個為保護該瀕危鳥類而立法的國家。",
+      "在澳洲凱恩斯外海的大堡礁，一名參與公民科學計畫的民眾發現了一座面積將近半個足球場大的巨型珊瑚群，被認為是有紀錄以來最巨大的珊瑚之一。",
+      "在奧地利維也納，科學家首次記錄到一頭名叫薇若妮卡（Veronika）的乳牛具備罕見的使用多用途工具能力，顛覆了過往對牛隻智力的認知。"
+    ],
+    "comment_id": 4585071583,
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Extreme Low Angle",
+      "lighting": "Direct Flash",
+      "texture": "Shibori Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character": "mochi",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "title": "春櫻樹下的花生麻糬",
+    "is_seasonal": true,
+    "number": 2055,
+    "story": "春日的老街市場開滿了櫻花，貪吃的麻糬戴上攤販老闆娘送的花環，在櫻花樹下的絞染布墊上舉辦個人野餐。牠睜大兩倍圓滾滾的琥珀色大眼，正準備撲向前面那盤剛從市場攤位「試吃」拿到的花生麻糬，極低角度與直打閃光燈讓牠那隻像戴了橘色手套的右前腳和圓滾滾的肚子顯得格外引人注目。",
+    "prompt": "A raw candid snapshot look, extreme low angle shot looking up at Mochi, a chubby rounded shorthair cat with a white base coat, bright orange solid patches with no tabby stripes, an orange mask on the right half-face while the left face is pure white, a heart-shaped orange saddle on the upper back, a solid orange mitten on the right front paw, a pure white left front paw, large round amber eyes, a pink nose with a tiny orange center dot, and a spherical torso with a white belly. Mochi is wearing a pink flower wreath on its head, lying on a Shibori style resist-dyed textile picnic mat with indigo blue palette organic flowing designs under a blooming cherry blossom tree in a warm traditional old street market alley, drooling as it prepares to pounce on a plate of peanut mochi. Hyperrealistic anime portrait, realistic-anime hybrid style, with a dramatic towering perspective. Harsh direct on-camera flash creates blown-out highlights, hard shadows, and a dramatic spotlight effect. Warm amber color grading with cozy nostalgic warmth. The date and time '2026-05-30 22:45 UTC' is visually displayed in the corner of the image."
   }
 ]
