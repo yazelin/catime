@@ -12341,5 +12341,40 @@
     "title": "金色穹頂下的繁星軌跡",
     "number": 2051,
     "comment_id": 4583500047
+  },
+  {
+    "character_name": "船長",
+    "idea": "這是一張以手機隨拍風格捕捉的漁港深夜照片，畫面採用服裝多視角展示的並列排版，在強烈霓虹螢光色與虹彩全息質感的蝴蝶光照射下，獨眼虎斑貓「船長」正穩重地站在春季深夜的防波堤最高處，凝視著遠方出海的漁船。",
+    "comment_id": 4583636828,
+    "number": 2052,
+    "avoid_list": [
+      "用前爪按住",
+      "用爪子撥弄",
+      "分割畫面",
+      "普普藝術風格",
+      "微縮模型地圖",
+      "琥珀色光影",
+      "紐約港碼頭",
+      "火車軌道與列車",
+      "雙色調海報",
+      "手機鏡頭隨拍日常感",
+      "高飽和度鮮豔色彩",
+      "鴿子與科學實驗"
+    ],
+    "story": "春風帶著一絲涼意吹亂了船長的毛髮，牠戴著深色眼罩、圍著褪色紅色頭巾，如往常般在碼頭最高處巡邏。遠方夜釣漁船的霓虹燈光將海面染成魔幻的螢光色，雖然看到岸邊魚販的漁獲讓牠差點失控，但身為港口老大的牠依然壓抑下渴望，維持著威嚴守護這片水域。",
+    "news_inspiration": [],
+    "is_seasonal": true,
+    "season": "spring",
+    "character": "captain",
+    "prompt": "A smartphone snapshot of a multi-view product showcase layout with front view, back view, side view, and detail close-up arranged in labeled panels, fashion design sheet format. The subject is Captain, a large stocky four-legged brown classic tabby cat with bold black stripes, a thick sturdy tail, a prominent V-shaped notch in his left ear, and a loose faded red bandana around his neck. His scruffy, untidy coarse fur has a white chest bib and white mitten paws. On his forehead is a distinctive M-mark. His left eye is permanently concealed by a natural dark-pigmented fur patch, while his right eye is a single piercing emerald green. Captain is standing on all four paws at the highest point of a harbor breakwater on a chilly spring night, staring at distant fishing boats. The scene features butterfly lighting with an overhead key light creating a symmetrical shadow under his nose. Intense neon fluorescent colors of electric pink, lime green, and hot cyan glow against the dark background, casting iridescent holographic material reflections and rainbow color shifts like transparent PVC across the shimmering translucent surface. Visually displayed in the corner of the image is the timestamp text '2026-05-30 18:00 UTC'. Shot with a 35mm lens, f/1.8, grainy texture, candid shot, looking like an authentic everyday photograph.",
+    "inspiration": "original",
+    "title": "春夜港灣的霓虹守望",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Butterfly Lighting",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
