@@ -12542,5 +12542,34 @@
       "color_palette": "Pastel Colors"
     },
     "prompt": "A disposable camera photo capturing a real perfectly isometric photography shot, dated '2026-05-31 02:12 UTC' visually displayed on the lower-right corner. On a natural wood grain texture counter with rich warm tones, visible knots, and an organic tactile surface, an extremely fluffy pure white longhair Ragdoll-like cat with voluminous cloud-like fur named Lingling is pouncing. She has a small round face, huge round sapphire-blue eyes, a pale pink nose, and a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. She extends a pink paw pad, trying to catch a yellow butterfly perched at the top of a colorful macaron tower. Nearby, a sugar shaker slightly tips backward. The scene is filled with pink pastel desserts. Backlighting with a rim light creates glowing silhouette edges around her white feathery plume tail. The image features flash artifacts, light leaks, a casual snapshot charm, and a soft pastel color palette of gentle pink, lavender, mint, and baby blue. Shot with a 35mm lens, f/2.8, candid snapshot style, genuine film grain texture."
+  },
+  {
+    "avoid_list": [
+      "用鼻子嗅聞植物或氣泡",
+      "用爪子撥弄車票或微縮火車軌道",
+      "黑貓在火車站或書店月台",
+      "透明樹脂質感且內部有嵌入物",
+      "在漂浮浮島或大理石廢墟建築中",
+      "霓虹螢光配上莫蘭迪色調",
+      "普普藝術搭配微縮地圖與鴿子導航",
+      "雙色調的不透明水彩或記號筆風格",
+      "在對稱的大理石祭壇或玻璃圓盤上",
+      "多視角排版配上手機隨拍風格"
+    ],
+    "story": "在充滿溫暖琥珀光芒的工作室裡，小貓化身為最嚴格的面料測試員。牠用肉墊按壓著剛剪裁好的秋季燈芯絨布料，並在環形燈下認真地追逐著滾動的線球，為新一季的寵物時裝展現獨特的材質張力。",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Ring Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4585983253,
+    "idea": "這是一幅採用暖色調秋日琥珀色系的漫畫風格服裝多視角展示圖，呈現一隻光滑亮面塑膠質感的貓咪在環形燈照射下，於復古縫紉工作室裡專注地用爪子撥弄彩色線球與布料。",
+    "title": "琥珀工作室的秋緒",
+    "number": 2058,
+    "prompt": "A manga style multi-view product showcase layout arranged in panels, presenting a glossy plastic toy texture cat with a smooth high-shine surface and vinyl figure aesthetic. The cat is in a retro sewing studio, focused on swatting at colorful yarn balls and fabric with its paws. Multi-view fashion design sheet format showing front view, back view, side view, and a detail close-up, complete with labeled views and dynamic action lines. Illuminated by ring light illumination creating an even frontal lighting and circular catchlights in its expressive eyes. Clean ink lines, screentone shading, and a clean studio backdrop. The color palette features a warm amber color grading, autumn palette with golden yellows and burnt orange for a cozy nostalgic warmth. The date and time '2026-05-31 06:46 UTC' is visually displayed in the corner of the image as a text overlay.",
+    "news_inspiration": [],
+    "inspiration": "original"
   }
 ]
