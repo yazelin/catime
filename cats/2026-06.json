@@ -32,5 +32,40 @@
     "story": "盛夏的午後，陽光透過溫室的鑄鐵雕花窗格，形成一道溫柔的聚光燈。最喜歡冒險的鈴鈴戴著小草帽在向日葵田裡迷了路，一個噴嚏讓她往後彈倒在整齊排列的花鏟旁。她索性趴下翻肚，任由清澈的寶石藍眼睛倒映著滿室的金黃。",
     "prompt": "A Knolling style flat lay overhead photography view of a summer scene. An extremely fluffy pure white longhair Ragdoll-like cat named Lingling is lying on her back, showing her belly, next to neatly arranged gardening tools and sunflowers laid out at 90-degree angles in an organized grid layout on a clean background. She has a small round face nearly hidden in voluminous cloud-like white fur, huge round sapphire-blue eyes, a pale pink nose and inner ears, and an enormous feathery white plume tail. Centered and clearly visible on her neck is a pink ribbon bow collar with a small golden bell. A narrow beam spotlight creates dramatic high-contrast and sharp light edges, casting wrought iron filigree and ornate black scrollwork shadows over the scene. The image has a duotone color treatment of two contrasting colors, creating a bold graphic impact with a dreamy pastel editorial photography vibe and a whimsical surreal atmosphere. The text '2026-06-01 02:37 UTC' is cleanly and visually displayed in the corner of the frame. Shot on a 35mm lens, f/2.8, sharp focus, real photographic texture, grain.",
     "idea": "這是一幅融合夢幻粉彩編輯攝影與Knolling排列風格的影像，白色蓬鬆的布偶貓鈴鈴戴著迷你草帽與太陽花，在鑄鐵雕花鏤空的復古溫室裡，與整齊排列的向日葵、園藝工具進行雙色調的光影互動。"
+  },
+  {
+    "idea": "這是一幅採用扁平向量插圖風格的長卷全景畫面，描繪一隻虎斑貓在大堡礁的巨型圓形珊瑚群落旁，正專注地追逐著成群穿梭的熱帶小魚。",
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "An extreme wide handscroll composition and continuous panoramic narrative of a flat vector illustration depicting a tabby cat eagerly chasing schools of tropical fish around a giant circular coral colony at the Great Barrier Reef. The artwork uses clean lines, geometric forms, and minimal shading with layered foreground, middleground, and background across multiple focal points spread horizontally, viewed from an oblique bird's-eye angle with a right-to-left reading flow. The scene features Shibori style resist-dyed textile patterns with an indigo blue palette and organic flowing designs from the Japanese artisan dye technique, blended with a Morandi muted color palette of desaturated soft pastels and dusty grey undertones for a quiet elegance. The lighting is a dramatic backlighting with rim light, creating glowing silhouette edges where subjects are outlined by light against a white background. Visually displayed clearly in the image is the text '2026-06-01 08:22 UTC'.",
+    "avoid_list": [
+      "貓用爪子輕輕撥弄物品",
+      "浮空或懸浮的島嶼基地",
+      "微弱的燭光與溫暖橘色光芒",
+      "極端廣角或全景構圖",
+      "黑白單色與豐富調性範疇",
+      "半透明或液態金屬質感的精密儀器與零件",
+      "高飽和鮮豔色調與強烈對比",
+      "冷清的深夜月光與藍色調氛圍",
+      "貓用肉墊小心翼翼地觸碰或整理物品",
+      "幾何線條或立體派碎片化面貌",
+      "背景為無限循環或遞迴的層疊圖案"
+    ],
+    "news_inspiration": [
+      "奧地利維也納的大學獸醫團隊近日發表一項驚人研究，科學家首度記錄到一隻名為薇若妮卡（Veronika）的母牛能夠靈巧操縱並將物品當作多功能工具使用，打破了人類以往對牛群智商的認知。",
+      "美國紐約市於近日迎來著名自然奇景「曼哈頓懸日（Manhattanhenge）」，夕陽美景完美對齊棋盤式街道，吸引大批市民與遊客齊聚街頭共賞落日餘暉。",
+      "澳洲凱恩斯外海的大堡礁公民科學計畫傳出好消息，研究人員發現了一座面積將近四千平方公尺、相當於半個足球場大的巨型圓形珊瑚群落（Pavona clavus），為近期面臨白化危機的海洋生態注入希望。",
+      "法國巴黎的羅蘭·加洛斯球場迎來法網公開賽（French Open），本土地主選手奧瑟·熱阿（Arthur Gea）在激烈的首秀賽事中因內急而緊急申請去洗手間，成為球場上一段逗趣且令人印象深刻的插曲。"
+    ],
+    "title": "紺碧隱珊瑚",
+    "number": 2071,
+    "comment_id": 4590848382,
+    "story": "在陽光穿透海面所形成的柔和背光下，巨大的圓形珊瑚如同一座海底的莫蘭迪色迷宮。這隻熱帶貓咪靈巧地在絞染質感的珊瑚礁岩間穿梭，用牠敏捷的四足在水底撥動漣漪，與尋得庇護的海洋生物們展開一場無聲的捉迷藏。",
+    "inspiration": "澳洲凱恩斯外海的大堡礁公民科學計畫傳出好消息，研究人員發現了一座面積將近四千平方公尺、相當於半個足球場大的巨型圓形珊瑚群落（Pavona clavus），為近期面臨白化危機的海洋生態注入希望。"
   }
 ]
