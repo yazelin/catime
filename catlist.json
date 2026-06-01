@@ -19055,5 +19055,18 @@
     "number": 2069,
     "character": "mochi",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service request failed: Remote end closed connection without response)",
+    "title": "盛夏的向日葵幾何",
+    "timestamp": "2026-06-01 02:37 UTC",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "character": "lingling",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-01_0237_UTC.webp",
+    "status": "success",
+    "season": "summer",
+    "number": 2070
   }
 ]
