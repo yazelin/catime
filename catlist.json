@@ -19104,5 +19104,14 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-01_2228_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-02_0004_UTC.webp",
+    "inspiration": "美國紐約市迎來了著名的「曼哈頓懸日」（Manhattanhenge）奇景，落日餘暉完美對齊棋盤式街道，吸引大批民眾與遊客爭相目睹。",
+    "number": 2075,
+    "timestamp": "2026-06-02 00:04 UTC",
+    "title": "懸日遞迴之眼",
+    "status": "success",
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex exited with code 1\"})"
   }
 ]
