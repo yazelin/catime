@@ -552,5 +552,40 @@
     "title": "巨獸的溫柔鐵道",
     "story": "在鐵道迷的大型模型室裡，直打的閃光燈將高飽和度的微縮場景照得無處 plan 藏。一隻三花貓一屁股坐在微縮城鎮中央，正好奇地用下巴去磨蹭那座純手工打造的鐵橋，讓一旁的主人既驚心動魄又忍不住按下了快門。",
     "inspiration": "original"
+  },
+  {
+    "avoid_list": [
+      "四足姿態與動作",
+      "前爪伸手捕捉或輕撥",
+      "體積光與閃光亮粉效果",
+      "粗糙混凝土與幾何空間",
+      "黑白單色與富色調範圍",
+      "高調明亮光線與極簡陰影",
+      "溫暖琥珀色調與金黃色澤",
+      "對稱構圖與建築框架",
+      "數位故障藝術與線條分割",
+      "巨型物件與強制透視",
+      "故事插畫分格與多視角排版",
+      "細緻冰霜結晶紋理"
+    ],
+    "style_picks": {
+      "art_style": "Surreal Collage Portrait",
+      "composition": "Floating Island Scene",
+      "lighting": "Golden Hour",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 2086,
+    "inspiration": "澳洲雪梨大學的研究團隊利用無線電望遠鏡，於2026年6月成功破解困擾天文學家多年的神祕重複宇宙訊號來源，證實其源自於一對罕見的雙星系統。",
+    "comment_id": 4616578740,
+    "news_inspiration": [
+      "澳洲雪梨大學的研究團隊利用無線電望遠鏡，於2026年6月成功破解困擾天文學家多年的神祕重複宇宙訊號來源，證實其源自於一對罕見的雙星系統。",
+      "英國伯明罕的亞歷山大體育場於2026年6月初舉辦了一場包容性社區運動節，吸引了超過450名青少年及家庭參與，為即將到來的歐洲田徑錦標賽暖身並推廣社區運動。",
+      "美國華盛頓哥倫比亞特區於2026年6月3日正式宣布，奧迪球場獲選為同年11月舉辦的國家女子足球聯賽（NWSL）總決賽主辦場地。"
+    ],
+    "prompt": "A surreal photographic collage portrait and landscape of a tabby cat resting on a floating, rusted, weathered metal antenna in the sky. The cat is intently sniffing fluorescent neon wave signals emitting from a miniature binary star model. The date and time '2026-06-03 20:45 UTC' is visually displayed in the image corner. Dreamlike digital cut-and-paste aesthetic, featuring a miniature landscape on a levitating platform with white clouds and an aerial perspective. Shot during golden hour lighting with a warm sunset glow, long soft shadows, and golden rim light on the subject. The oxidized patina and peeling paint layers of warm orange-brown corrosion contrast sharply with neon fluorescent colors of electric pink, lime green, and hot cyan glowing against the background. Muted contemporary palette, Pinterest surrealism vibe.",
+    "title": "雙星的遙遠囈語",
+    "story": "澳洲的研究團隊剛破解了困擾多年的雙星宇宙訊號，而這隻對頻率極度敏感的貓咪，似乎早就在漂浮的廢鐵島嶼上接收到了這組來自外太空的神秘呼喚。在黃金時刻的餘暉照耀下，霓虹螢光的訊號軌跡與天線上的老舊鐵鏽形成了強烈對比，記錄下這場貓咪與遙遠星系的無聲對話。",
+    "idea": "這是一幅結合超現實拼貼肖像與浮島場景的藝術創作，展現一隻斑虎貓正趴在半空中漂浮的斑駁生鏽天線上，用鼻子專注地嗅聞一組從霓虹雙星模型中發射出的螢光色波形訊號。"
   }
 ]
