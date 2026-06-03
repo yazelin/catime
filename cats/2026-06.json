@@ -415,5 +415,42 @@
       "撕紙低多邊形拼貼"
     ],
     "inspiration": "在台灣沿海海域，科學家發現了一種體型比芝麻粒還要小的全新海蛞蝓物種，為海洋生物多樣性帶來全新發現。"
+  },
+  {
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "來自印度的新德里三名16歲青少年發明了一款利用廚餘羅望子種子製成的天然磁性粉末「Plas-Stick」，能讓水中的微塑料凝結並用磁鐵輕易清除，因而榮獲2026年全球地球獎（The Earth Prize）總冠軍。",
+      "紐西蘭保育部公告其戶外步道與營地預訂量創下歷史新高，其中位於南島的知名景點米爾福德步道（Milford Track）在開放後短短34分鐘內便全數售罄。",
+      "全球年度科學盛事「品脫科學節」（Pint of Science）在英國倫敦、澳洲及德國等多國酒吧同步登場，由各領域科學家在輕鬆的酒館氛圍中與民眾面對面分享如人工智慧與宇宙免疫學等前沿研究。",
+      "義大利全國在晴朗的春季陽光下盛大慶祝「共和國日」80週年，各地舉辦了熱鬧的遊行、音樂會，並依照傳統享用烤乳豬等標誌性經典美食。"
+    ],
+    "number": 2082,
+    "story": "墨墨在光線明亮的古董書店裡，挑選了一本有著精緻摺紙質感封面的大書趴著。牠那雙金琥珀色的眼睛在午後的溫暖光線下閃閃發亮，長而直的白色鬍鬚隨著微風輕輕顫動，正享受著俯瞰整個書堆的寧靜時光。",
+    "prompt": "A perfectly isometric illustration of Momo, a sleek, slender solid-black shorthair cat with satin-sheen fur, a tiny natural white locket tuft on the ventral chest, long prominent white whiskers, large luminous golden-amber eyes, a single small gold hoop earring on the left ear (viewer perspective), and a single dark-grey ring at the tip of the slightly upward-curled tail. The cat is elegantly lying on an open, large origami-style heavy ancient book featuring folded paper art, clean geometric creases, and sharp angular folds. The scene is set inside a warm, nostalgic autumn antique bookstore, captured in a vibrant chromolithograph style with multi-layered printing, decorative elements, and an ornate Victorian-era poster composition. Volumetric lighting and god rays pierce through window panes, showing dust particles catching the light, with warm amber color grading, golden yellows, and burnt orange tones. The text '2026-06-03 02:39 UTC' is visually displayed clearly within the image.",
+    "style_picks": {
+      "art_style": "Chromolithography",
+      "composition": "Isometric Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Origami",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "前爪專注撥弄零件",
+      "粉彩莫蘭迪色系",
+      "雙色調高對比色塊",
+      "微縮移軸世界",
+      "強制透視大隻爪子",
+      "粗糙混凝土幾何空間",
+      "手作機關與齒輪零件",
+      "戴草帽的夏日場景",
+      "單一聚光燈強烈光影",
+      "全像投影與虛擬圖層",
+      "撕紙低多邊形拼貼"
+    ],
+    "character": "momo",
+    "inspiration": "original",
+    "comment_id": 4608637229,
+    "title": "琥珀光陰的書香微醺",
+    "idea": "在溫暖的秋日舊書店中，一隻修長的純黑貓咪正優雅地趴在翻開的厚重古書上，畫面採用彩色石版印刷風格，搭配等距攝影的視角與穿透窗櫺的體積光。"
   }
 ]
