@@ -732,5 +732,41 @@
     "inspiration": "original",
     "news_inspiration": [],
     "comment_id": 4620962042
+  },
+  {
+    "title": "狹縫中的金色追逐",
+    "inspiration": "美國紐約市在每年此時都會迎來著名的「曼哈頓懸日（Manhattanhenge）」景觀，大批民眾與攝影愛好者紛紛聚集街頭捕捉夕陽完美對齊棋盤式街道的壯麗畫面。",
+    "news_inspiration": [
+      "孟加拉達卡的一家動物園內，一隻因為擁有一頭神似美國前總統川普金髮的特殊外觀水牛，在近日成為當地的網路爆紅明星。",
+      "美國紐約市在每年此時都會迎來著名的「曼哈頓懸日（Manhattanhenge）」景觀，大批民眾與攝影愛好者紛紛聚集街頭捕捉夕陽完美對齊棋盤式街道的壯麗畫面。",
+      "新西蘭奧瑪魯舉辦了一場熱鬧的蒸汽朋克節（Steampunk Festival），吸引了眾多身著維多利亞時代復古服飾與科幻機械風道具的愛好者前來共襄盛舉。",
+      "法國坎城影展在日前揭曉了趣味橫生的「金棕櫚狗狗獎（Palm Dog Award）」，最終由一隻名為「La Perra」的狗狗憑藉精湛的銀幕表現抱走殊榮。"
+    ],
+    "avoid_list": [
+      "橘白貓麻糬",
+      "霓虹螢光色",
+      "高調明亮光線",
+      "微縮移軸效果",
+      "老舊生鏽鐵皮痕跡",
+      "賽博龐克城市",
+      "精緻手工作品模型",
+      "四足圓滾滾姿態",
+      "冷藍青色調",
+      "深海全新生物物種",
+      "傳統市場老街",
+      "蒸汽龐克古老工坊"
+    ],
+    "number": 2091,
+    "idea": "這是一幅採用低多邊形（Low Poly）質感與雙色調（Duotone）色彩的油畫，透過分割畫面呈現一隻貓在紐約街頭追逐光影的瞬間。",
+    "prompt": "An oil painting with thick impasto brushstrokes and visible canvas texture, featuring a split view composition with a sharp vertical cut line. On one side, a long-haired black cat in a low-poly style with polygon mesh facets and flat shaded triangular faces is playfully swatting at a bright golden beam of light on a New York street. On the other side, photographers are crouching on the grid streets capturing Manhattanhenge. The image uses a duotone color treatment with two contrasting colors for a bold graphic impact. The text '2026-06-04 12:36 UTC' is visually displayed in the corner. Illuminated by dramatic, directional sunlight cutting between skyscrapers.",
+    "comment_id": 4622221350,
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Split View",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Low Poly",
+      "color_palette": "Duotone"
+    },
+    "story": "當正午的陽光以完美角度穿透曼哈頓的摩天大樓狹縫，一隻長毛黑貓正專注地用前爪拍擊地面上那道筆直延伸的金黃色光束。分割畫面的另一側，則是無數攝影師蹲伏在棋盤式街道上，正試圖捕捉這一年一度的曼哈頓懸日奇景，而貓咪成了這場夕陽盛宴中最靈動的點綴。"
   }
 ]
