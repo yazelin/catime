@@ -699,5 +699,38 @@
     ],
     "inspiration": "紐西蘭奧馬魯近日舉辦了蒸汽龐克節（Steampunk Festival），吸引眾多身穿維多利亞風格與科幻機關服飾的愛好者齊聚一堂，讓當地化身為蒸汽龐克文化的奇幻首都。",
     "title": "機關工坊的慵懶晨光"
+  },
+  {
+    "character": "momo",
+    "title": "玻璃稜鏡下的黑色凝視",
+    "story": "美術館正在舉辦一場光影與玻璃的特展。墨墨趁著工作人員不注意，輕盈無聲地躍上高聳的透明展台，在柔和的日光燈映照下，牠那如緞面般的黑毛與粉彩玻璃折射出的微光交織。前來觀展的人群紛紛駐足，以為這隻左耳戴著金環、眼神如琥珀般深邃的黑貓，也是展覽中一件不可多得的活體藝術品。",
+    "number": 2090,
+    "idea": "在當代美術館的極簡幾何展場中，純黑貓墨墨正優雅地趴在一座巨大的粉彩色系水晶玻璃裝置藝術頂端，居高臨下地俯瞰著四周。",
+    "prompt": "An institutional photography shot taken from an ultra wide angle 12-18mm lens with dramatic perspective distortion, capturing an expansive contemporary museum gallery installation view with polished wooden floors, clean white walls, and a track lighting atmosphere under neutral white 5000K overhead fluorescent lighting. In the center, a monumental artwork made of transparent glass material dominates the space, showing light refraction, prismatic reflections, crystalline clarity, and a soft pastel color palette of gentle pink, lavender, mint, and baby blue. Tiny human figures stand in the background for scale contrast. Crouching gracefully on the very top of the massive glass sculpture is a sleek, slender, solid-black shorthair Bombay-style cat with satin-sheen fur, a slight upward curl at the tail tip, and long prominent white whiskers. The cat has large, luminous golden-amber eyes, a tiny natural white tuft of fur on its chest, and a single small gold hoop earring on its left ear. The date and time '2026-06-04 09:41 UTC' is visually stamped cleanly in a corner of the image. Real photograph, flat illumination, no shadows, documentary style, f/8, crisp details, natural camera grain.",
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Pastel Colors"
+    },
+    "character_name": "墨墨",
+    "avoid_list": [
+      "橘白貓麻糬",
+      "霓虹螢光色",
+      "高調明亮光線",
+      "微縮移軸效果",
+      "老舊生鏽鐵皮痕跡",
+      "賽博龐克城市",
+      "精緻手工作品模型",
+      "四足圓滾滾姿態",
+      "冷藍青色調",
+      "深海全新生物物種",
+      "傳統市場老街",
+      "蒸汽龐克古老工坊"
+    ],
+    "inspiration": "original",
+    "news_inspiration": [],
+    "comment_id": 4620962042
   }
 ]

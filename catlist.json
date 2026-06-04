@@ -19257,5 +19257,16 @@
     "status": "success",
     "inspiration": "紐西蘭奧馬魯近日舉辦了蒸汽龐克節（Steampunk Festival），吸引眾多身穿維多利亞風格與科幻機關服飾的愛好者齊聚一堂，讓當地化身為蒸汽龐克文化的奇幻首都。",
     "title": "機關工坊的慵懶晨光"
+  },
+  {
+    "title": "玻璃稜鏡下的黑色凝視",
+    "number": 2090,
+    "status": "success",
+    "timestamp": "2026-06-04 09:41 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "momo",
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-04_0941_UTC.webp"
   }
 ]
