@@ -1164,5 +1164,41 @@
     },
     "inspiration": "科學家在厄瓜多加拉巴哥群島發現了一種體型迷你、甚至能蜷縮在手掌心中的全新物種「藍色章魚」。",
     "comment_id": 4634909871
+  },
+  {
+    "news_inspiration": [
+      "孟加拉達卡的一家動物園內，一隻因擁有獨特金色毛髮而被命名為「唐納·川普」的罕見白化水牛成為近期引爆熱潮的明星景點。",
+      "紐西蘭奧馬魯近日舉辦了著名的蒸汽龐克節（Steampunk NZ Festival），成千上萬的愛好者身著維多利亞與科幻融合風格的裝扮齊聚一堂，將該地打造為奇幻文化之都。",
+      "德國耶拿大學的科學家利用先進的3D成像技術，在著名文學家歌德的琥珀收藏品中，發現了隱藏並保存完好的四千萬年前滅絕螞蟻化石。",
+      "位於加勒比海地區的阿魯巴全島，在巴拉圭舉辦的聯合國教科文組織（UNESCO）會議上，正式獲得批准列入世界生物圈保護區網絡。"
+    ],
+    "avoid_list": [
+      "合成波美學",
+      "黑光螢光",
+      "低角度仰拍",
+      "用前爪撥弄",
+      "正交投影視角",
+      "硬光日照與硬邊陰影",
+      "雕塑黏土質感",
+      "極簡幾何構圖",
+      "德羅斯特效應",
+      "歐普藝術錯視",
+      "雙重曝光融合",
+      "精密音樂盒或沙漏機關"
+    ],
+    "comment_id": 4635595407,
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "An illustrated story page layout on an aged silk scroll surface with visible silk weave and warm sepia patina. The text '2026-06-05 21:15 UTC' is visually displayed in a clean, integrated format on the page. In a steampunk ancient mechanical workshop, a calico cat is focused on gently touching a huge brass compass scattered with gears with its nose. The scene is rendered in a painterly digital style blending pastel bokeh illustrations with heavy colorful light dots. Dramatic Rembrandt lighting from a single light source at 45 degrees casts deep chiaroscuro and a signature triangle of light. The composition features an earth tone palette of terracotta, olive green, and warm brown, with glowing window lights and a dreamy candy palette bleeding into the magical night atmosphere of an Oamaru workshop. Multiple irregular panels and a slice-of-life storybook composition capture inventors in Victorian sci-fi attire murmuring in the background.",
+    "inspiration": "紐西蘭奧馬魯近日舉辦了著名的蒸汽龐克節（Steampunk NZ Festival），成千上萬的愛好者身著維多利亞與科幻融合風格的裝扮齊聚一堂，將該地打造為奇幻文化之都。",
+    "idea": "在融合粉彩光點繪畫與倫勃朗光的溫暖筆觸下，一隻三花貓身處蒸汽龐克風格的古老機械工作坊，正專注地用鼻子輕觸一個散落著齒輪的巨大黃銅羅盤。",
+    "title": "齒輪歲月的呢喃",
+    "number": 2103,
+    "story": "古絹絹本的質地上，記錄了這場奧馬魯小鎮的奇幻盛宴。無數身著維多利亞科幻裝束的發明家在四周低聲討論，而這隻好奇的貓咪則在厚重的大地色調光影中，獨自探索著齒輪與蒸汽的奧秘。"
   }
 ]
