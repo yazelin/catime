@@ -1052,5 +1052,43 @@
     },
     "number": 2099,
     "title": "傾聽心聲的影子"
+  },
+  {
+    "comment_id": 4633233009,
+    "avoid_list": [
+      "合成波美學",
+      "黑光螢光",
+      "低角度仰拍",
+      "用前爪撥弄",
+      "正交投影視角",
+      "硬光日照與硬邊陰影",
+      "雕塑黏土質感",
+      "極簡幾何構圖",
+      "德羅斯特效應",
+      "歐普藝術錯視",
+      "雙重曝光融合",
+      "精密音樂盒或沙漏機關"
+    ],
+    "title": "琥珀夜讀星軌",
+    "prompt": "An art piece in the style of Neo-Impressionism and Pointillism, utilizing systematic dot technique with tiny dabs of pure color for optical color mixing to create a luminous surface. A perfectly symmetrical composition with a centered subject and architectural framing. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, athletic proportions, long prominent white whiskers, and large luminous golden-amber eyes is lying on a thick, old wooden table, intensely staring at an open ancient astronomy book. Momo has a single small gold hoop earring on its left ear, a tiny natural white locket tuft of fur on its ventral chest, a single dark-grey ring at the tail tip, and a slight upward curl at the tail tip. The setting is a late-night old bookstore. Moody urban night atmosphere with neon lighting from colorful glowing signs reflecting on surfaces, casting a warm amber color grading, autumn palette of golden yellows and burnt orange. The natural wood grain texture of the table shows rich warm tones and visible knots. The text '2026-06-05 15:47 UTC' is clearly and visually displayed in a corner of the image.",
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Symmetrical Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [
+      "美國亞利桑那州的基特峰國立天文台拍下了一張壯麗的太空奇景，捕捉到一顆耀眼的流星劃過夜空並與雙子座望遠鏡圓頂同框的瞬間。",
+      "波蘭華沙市公署首次正式承認了一對同性伴侶的婚姻關係，這項歷史性的舉動是由歐洲法院一項具約束力的裁決所推動。",
+      "希臘歷經了長達16年的財政奮鬥後，今日因強勁的經濟增長與債務下降，正式被歐盟執委會從宏觀經濟失衡的危機名單中移除。",
+      "國際知名的「品味科學」節（Pint of Science）在瑞士蘇黎世等全球數百個城市的在地酒吧與小酒館熱烈展開，讓頂尖科學家走進群眾，用最親民的方式分享前沿研究。"
+    ],
+    "number": 2100,
+    "idea": "在融合新印象派點描法與霓虹燈光的深夜老書店中，一隻純黑貓咪正趴在厚重的舊木桌上，聚精會神地凝視著一本打開的天文學古籍，畫面呈現和諧的對稱構圖。",
+    "inspiration": "original",
+    "character": "momo",
+    "character_name": "墨墨",
+    "story": "夜深了，舊書店的霓虹招牌在窗外閃爍，將琥珀色的光暈細密地灑在木質紋理上。墨墨悄悄跳上中央的書桌，它長長的白色鬍鬚在光影中微微顫動，金琥珀色的眼睛專注地看著書頁上古老的天體運行圖，彷彿在獨自鑽研繁星的奧秘。"
   }
 ]
