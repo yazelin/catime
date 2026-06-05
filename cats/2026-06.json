@@ -1200,5 +1200,40 @@
     "title": "齒輪歲月的呢喃",
     "number": 2103,
     "story": "古絹絹本的質地上，記錄了這場奧馬魯小鎮的奇幻盛宴。無數身著維多利亞科幻裝束的發明家在四周低聲討論，而這隻好奇的貓咪則在厚重的大地色調光影中，獨自探索著齒輪與蒸汽的奧秘。"
+  },
+  {
+    "comment_id": 4636257721,
+    "inspiration": "三名來自印度（於瑞士日內瓦獲獎）的16歲青少年，因利用傳統印度料理常見的羅望子粉成功發明能輕鬆去除微塑料的過濾法，榮獲全球地球獎（Global Earth Prize）。",
+    "title": "羅望子島的淨化之嗅",
+    "idea": "在印度羅望子森林上空的漂浮浮島上，一隻擁有液態金屬斑紋的橘貓正伸長後腿趴在巨大濾網旁，用鼻子好奇地嗅聞著正被過濾掉的微塑料顆粒，整體畫面以貢德畫的細緻點線紋理與粉彩色系呈現。",
+    "news_inspiration": [
+      "在厄瓜多加拉巴哥群島附近，科學家發表了一種全新物種，發現了一隻體型極小、能收納於手掌心的迷你藍色章魚。",
+      "荷蘭在最新公布的聯合國兒童福利指數中，再度蟬聯已開發國家中「最幸福快樂的兒童」榜首，其注重性別平等與單車文化被視為關鍵原因。",
+      "三名來自印度（於瑞士日內瓦獲獎）的16歲青少年，因利用傳統印度料理常見的羅望子粉成功發明能輕鬆去除微塑料的過濾法，榮獲全球地球獎（Global Earth Prize）。"
+    ],
+    "avoid_list": [
+      "合成波美學",
+      "黑光螢光",
+      "低角度仰拍",
+      "用前爪撥弄",
+      "正交投影視角",
+      "硬光日照與硬邊陰影",
+      "雕塑黏土質感",
+      "極簡幾何構圖",
+      "德羅斯特效應",
+      "歐普藝術錯視",
+      "雙重曝光融合",
+      "精密音樂盒或沙漏機關"
+    ],
+    "prompt": "An intricate Gond art illustration depicting a scene on a floating island above an Indian tamarind forest. A ginger cat with liquid metal, mercury-like reflective streaks is stretching its hind legs, leaning beside a massive filter, and curiously sniffing microplastic particles being filtered out. The entire composition features the signature fine dot and line patterns of Gond painting, rendered in a soft pastel color palette of gentle pink, lavender, mint, and baby blue, blending mystical Indian folklore with a miniature levitating landscape amidst white clouds. The image is captured with a harsh, direct on-camera flash look that creates blown-out highlights and hard shadows, giving it a raw candid snapshot vibe. Visually displayed clearly in the corner of the image is the timestamp '2026-06-05 22:56 UTC'.",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Floating Island Scene",
+      "lighting": "Direct Flash",
+      "texture": "Liquid Metal",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "三位年輕發明家在漂浮島嶼上架設了新型的羅望子過濾裝置，試圖清除溪流中的微塑料。隨行的貓咪在直打閃光燈的強烈光影下，正專注地盯著那些泛著金屬光澤的過濾殘渣，成為這場環保實驗中最前線的監督者。",
+    "number": 2104
   }
 ]
