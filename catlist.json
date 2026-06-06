@@ -19437,5 +19437,18 @@
     "inspiration": "美國紐約市地鐵的排水人孔蓋附近，最近頻頻出現群眾在夜間神祕進出下水道系統的奇特畫面，引發當地居民熱烈討論與大眾的好奇關注。",
     "title": "深夜地底的黃金探險",
     "number": 2107
+  },
+  {
+    "title": "琥珀海灘的西瓜假期",
+    "number": 2108,
+    "character": "mochi",
+    "timestamp": "2026-06-06 09:17 UTC",
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex completed but did not create /app/static/generated/img_1287670132c16a566584b00e.png\"})",
+    "status": "success",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-06_0917_UTC.webp",
+    "character_name": "麻糬"
   }
 ]
