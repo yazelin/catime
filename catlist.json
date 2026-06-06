@@ -19415,5 +19415,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-05_2359_UTC.webp",
     "title": "白夜微霜的偶遇",
     "status": "success"
+  },
+  {
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-06_0339_UTC.webp",
+    "season": "summer",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "title": "烈日下的黃金航道",
+    "character_name": "船長",
+    "timestamp": "2026-06-06 03:39 UTC",
+    "number": 2106
   }
 ]
