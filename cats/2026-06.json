@@ -1881,5 +1881,40 @@
     "prompt": "A detailed miniature diorama in an oriental mythic poster art style featuring a chubby rounded shorthair cat named Mochi. The cat has a white base coat, bright orange patches, a spherical torso, and short stubby legs. Its right half-face from the perspective of the viewer has an orange mask covering the cheek and ear, while its left face is entirely pure white. It has large round amber eyes and a pink nose with a tiny orange dot. On its upper back is a heart-shaped orange saddle patch. Its right front paw is a solid orange mitten to the wrist, while its left front paw is pure white. Its belly is white, its tail has orange-and-white ringed bands, and its shorthair coat has no tabby stripes. The cat is lying next to a steaming traditional bamboo steamer on a polished marble surface with natural vein patterns, stretching out its orange right front paw to pat a giant freshly-baked soup dumpling. The scene is blending a toy-like scale model with cinematic fantasy composition, using a tilt-shift effect for a tiny detailed world. The background features traditional Chinese ink cloud ornaments, vertical calligraphy panels, and red seal stamps, with gold leaf accents on deep black. Classic three-point lighting setup with a soft key light, fill light, and subtle rim light separation. The color palette is retro and faded with washed-out vintage tones, low contrast, and nostalgic film-era warmth. The date and time '2026-06-07 15:16 UTC' is visually displayed in the corner of the image.",
     "character_name": "麻糬",
     "inspiration": "original"
+  },
+  {
+    "story": "為迎接近期的大型足球盛事，這座城市的地標被改造成了巨型球體。這隻尊貴的波斯貓在貼紙拼貼邊框的環繞下，將庭院裡的地球儀當成了自己的巨型玩具，在強烈日光的照射下顯得格外耀眼。",
+    "prompt": "A Persian cat playing with a large transparent globe in a luxury courtyard. The image features a die-cut sticker collage composition, with the central cat surrounded by layered sticker cutouts and a scrapbook-style overlay. The frame is decorated with chibi side characters and floating props, all with white outline borders. The background blends a gold and black color scheme with a frosted glass texture and a Suminagashi Japanese paper marbling effect, showing floating concentric ink patterns and delicate swirls. Illuminating the scene is harsh midday sunlight creating hard edge shadows and high contrast natural daylight. The date and time '2026-06-07 17:03 UTC' is visually displayed in the corner of the image.",
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Frosted Glass",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 4643357406,
+    "idea": "一隻波斯貓在充滿磨砂玻璃與金黑色奢華色調的庭院裡，正用爪子撥弄一個透明的大型地球儀，整體畫面融合了墨流（Suminagashi）藝術風格與硬光日照。",
+    "title": "金流球轉的嬉戲",
+    "number": 2124,
+    "inspiration": "加拿大溫哥華的科學世界（Science World）地標建築近日為了迎接即將到來的世界盃足球賽，特別將其標誌性的巨大球體外觀改造成了一顆巨型足球，吸引眾多目光。",
+    "news_inspiration": [
+      "美國專為收容犬舉辦的「史丹利幼犬盃」（Stanley Pup）狗狗冰球趣味賽於6月8日開播，來自32支隊伍的可愛犬隻在特製迷你冰場上大展身手，藉此推廣動物認養。",
+      "加拿大溫哥華的科學世界（Science World）地標建築近日為了迎接即將到來的世界盃足球賽，特別將其標誌性的巨大球體外觀改造成了一顆巨型足球，吸引眾多目光。",
+      "澳洲環境部門在巴瑟斯特成功查獲了一家非法的昆蟲繁殖場，當場起獲超過10萬隻打算商業販售的馬達加斯加蟑螂等多種非法昆蟲。",
+      "科學家在最新研究中揭示了一個令人驚訝的發現，指出鴿子在返鄉導航時，除了依靠地磁和視覺外，可能還利用了其肝臟來進行方向定位。"
+    ],
+    "avoid_list": [
+      "莫蘭迪低飽和色調",
+      "環形燈均勻正面光",
+      "視覺嵌入日期時間戳",
+      "蝴蝶光對稱光影",
+      "35mm鏡頭膠片顆粒質感",
+      "天鵝絨吸光啞光質感",
+      "藍青色調冷冽光芒",
+      "專注撥弄操作複雜儀器",
+      "棉花糖蓬鬆雲朵",
+      "對稱構圖實驗室場景",
+      "鏡面反射與折射迷宮"
+    ]
   }
 ]
