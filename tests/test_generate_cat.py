@@ -1,5 +1,6 @@
 """Unit tests for core functions in scripts/generate_cat.py."""
 
+import json
 import random
 import sys
 from datetime import datetime, timezone
@@ -257,6 +258,82 @@ class TestPickRandomStyles:
             result = generate_cat.pick_random_styles()
             assert "art_style" in result
             assert "empty_cat" not in result
+
+
+# ── GitHub Issue Routing ──
+
+
+class TestMonthlyIssueLookup:
+    def test_uses_oldest_duplicate_issue_without_search(self):
+        now = datetime(2026, 5, 27, 0, 0, tzinfo=timezone.utc)
+        calls = []
+
+        def fake_run(cmd, capture_output=False, text=False, check=False):
+            calls.append(cmd)
+            assert cmd[:3] == ["gh", "api", "graphql"]
+            payload = {
+                "data": {
+                    "repository": {
+                        "issues": {
+                            "nodes": [
+                                {"number": 39, "title": "Cat Gallery - 2026-05", "createdAt": "2026-05-01T01:56:22Z"},
+                                {"number": 40, "title": "Cat Gallery - 2026-05", "createdAt": "2026-05-26T13:50:17Z"},
+                            ],
+                            "pageInfo": {"hasNextPage": False, "endCursor": None},
+                        }
+                    }
+                }
+            }
+            return mock.Mock(returncode=0, stdout=json.dumps(payload), stderr="")
+
+        with mock.patch.object(generate_cat.subprocess, "run", side_effect=fake_run):
+            assert generate_cat.get_or_create_monthly_issue(now) == "39"
+
+        assert len(calls) == 1
+        assert "issue" not in calls[0]
+        assert "create" not in calls[0]
+
+    def test_creates_issue_only_after_successful_empty_lookup(self):
+        now = datetime(2026, 7, 1, 0, 0, tzinfo=timezone.utc)
+        calls = []
+
+        def fake_run(cmd, capture_output=False, text=False, check=False):
+            calls.append(cmd)
+            if cmd[:3] == ["gh", "api", "graphql"]:
+                payload = {
+                    "data": {
+                        "repository": {
+                            "issues": {
+                                "nodes": [{"number": 41, "title": "Cat Gallery - 2026-06", "createdAt": "2026-06-01T02:43:27Z"}],
+                                "pageInfo": {"hasNextPage": False, "endCursor": None},
+                            }
+                        }
+                    }
+                }
+                return mock.Mock(returncode=0, stdout=json.dumps(payload), stderr="")
+            if cmd[:3] == ["gh", "issue", "create"]:
+                return mock.Mock(returncode=0, stdout="https://github.com/yazelin/catime/issues/42\n", stderr="")
+            raise AssertionError(f"unexpected command: {cmd}")
+
+        with mock.patch.object(generate_cat.subprocess, "run", side_effect=fake_run):
+            assert generate_cat.get_or_create_monthly_issue(now) == "42"
+
+        assert calls[1][:3] == ["gh", "issue", "create"]
+
+    def test_lookup_failure_does_not_create_duplicate(self):
+        now = datetime(2026, 5, 27, 0, 0, tzinfo=timezone.utc)
+        calls = []
+
+        def fake_run(cmd, capture_output=False, text=False, check=False):
+            calls.append(cmd)
+            return mock.Mock(returncode=1, stdout="", stderr="GitHub API unavailable")
+
+        with mock.patch.object(generate_cat.subprocess, "run", side_effect=fake_run), \
+             pytest.raises(RuntimeError, match="Failed to list GitHub issues"):
+            generate_cat.get_or_create_monthly_issue(now)
+
+        assert len(calls) == 1
+        assert calls[0][:3] == ["gh", "api", "graphql"]
 
 
 # ── Version Synchronization ──

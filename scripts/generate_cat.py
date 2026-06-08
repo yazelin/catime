@@ -1055,21 +1055,76 @@ def upload_image_as_release_asset(image_path: str) -> str:
     return f"https://github.com/{REPO}/releases/download/{RELEASE_TAG}/{filename}"
 
 
+def _repo_owner_name(repo: str) -> tuple[str, str]:
+    """Split an owner/repo string from GitHub Actions."""
+    parts = repo.split("/", 1)
+    if len(parts) != 2 or not all(parts):
+        raise ValueError(f"Invalid GitHub repository name: {repo!r}")
+    return parts[0], parts[1]
+
+
+def find_open_issue_by_exact_title(title: str) -> str | None:
+    """Find the oldest open issue with an exact title match without using GitHub search."""
+    owner, name = _repo_owner_name(REPO)
+    query = """
+query($owner: String!, $name: String!, $cursor: String) {
+  repository(owner: $owner, name: $name) {
+    issues(first: 100, after: $cursor, states: OPEN, orderBy: {field: CREATED_AT, direction: ASC}) {
+      nodes {
+        number
+        title
+        createdAt
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+    }
+  }
+}
+"""
+    cursor = None
+    matches = []
+
+    while True:
+        cmd = ["gh", "api", "graphql", "-f", f"query={query}", "-f", f"owner={owner}", "-f", f"name={name}"]
+        if cursor:
+            cmd.extend(["-f", f"cursor={cursor}"])
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            raise RuntimeError(f"Failed to list GitHub issues via GraphQL: {result.stderr.strip()}")
+
+        payload = json.loads(result.stdout)
+        if payload.get("errors"):
+            raise RuntimeError(f"Failed to list GitHub issues via GraphQL: {payload['errors']}")
+
+        issues = payload["data"]["repository"]["issues"]
+        matches.extend(issue for issue in issues["nodes"] if issue["title"] == title)
+
+        page_info = issues["pageInfo"]
+        if not page_info["hasNextPage"]:
+            break
+        cursor = page_info["endCursor"]
+
+    if not matches:
+        return None
+
+    if len(matches) > 1:
+        numbers = ", ".join(f"#{issue['number']}" for issue in matches)
+        print(f"Found duplicate monthly issues for {title}: {numbers}; using oldest.")
+
+    return str(matches[0]["number"])
+
+
 def get_or_create_monthly_issue(now: datetime) -> str:
     """Get or create a monthly issue for cat images. Returns issue number as string."""
     month_label = now.strftime("%Y-%m")
     title = f"Cat Gallery - {month_label}"
 
-    # Search for existing issue with this title
-    result = subprocess.run(
-        ["gh", "issue", "list", "--repo", REPO, "--search", f'"{title}" in:title', "--json", "number,title", "--limit", "10"],
-        capture_output=True, text=True,
-    )
-    if result.returncode == 0:
-        issues = json.loads(result.stdout)
-        for issue in issues:
-            if issue["title"] == title:
-                return str(issue["number"])
+    issue_number = find_open_issue_by_exact_title(title)
+    if issue_number:
+        return issue_number
 
     # Create new monthly issue
     result = subprocess.run(
