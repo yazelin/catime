@@ -2159,5 +2159,44 @@
     "title": "玻璃房的鮮味探險",
     "story": "在加拿大卑詩省的海邊農場，這隻四腳著地的貓咪趁著主人不注意，溜進了擺滿玻璃器皿的陽光房。高調明亮的陽光穿透玻璃，將大地色系的泥土與藤編籃映照得格外溫暖，而貓咪正專注地探索著這些剛從海裡撈上來的怪異生物。",
     "comment_id": 4648927236
+  },
+  {
+    "title": "夏日防波堤的獨釣",
+    "character": "captain",
+    "season": "summer",
+    "character_name": "船長",
+    "avoid_list": [
+      "伸出前爪試圖撥弄物品",
+      "微縮模型與立體浮島場景",
+      "雙色調與強烈色彩對比",
+      "墨流藝術與流動水墨線條",
+      "溫暖琥珀色的黃金時刻光線",
+      "融合傳統元素與幾何美學",
+      "角落視覺化顯示日期與時間",
+      "貓咪在特定場景內巡邏或探險",
+      "笨拙或專注捕捉特定小生物",
+      "粗糙混凝土與幾何色塊基底",
+      "大理石紋理與光滑亮面質感",
+      "背光勾勒的邊緣光與輪廓線"
+    ],
+    "number": 2132,
+    "story": "港口的老大「船長」給自己放了個夏日長假。牠戴上褪色的草帽，坐在防波堤上享受屬於自己的釣魚時光。聚光燈般的陽光灑在牠身上，雖然牠極力保持沉穩，但當海面泛起波紋時，那隻翠綠色的右眼還是忍不住閃爍著期待的光芒。",
+    "news_inspiration": [
+      "美國漢諾威的達特茅斯學院研究團隊發現加州雙斑蛸能透過鏡子反射定位並捕捉身後隱藏的獵物，這是全球首次證實無脊椎動物具備此類空間認知與利用鏡子工具的能力。",
+      "法國巴黎舉辦的2026年法國網球公開賽男子單打決賽中，德國名將亞歷山大·茲維列夫歷經五盤大戰擊敗義大利選手高保利，奪得其職業生涯首座大滿貫冠軍獎盃。",
+      "美國新墨西哥州幽靈牧場出土了一種約2.12億年前三疊紀晚期的古老鱷魚遠親化石，並被正式命名為「預期魔女鱷」，其擁有雙足行走、沒有牙齒且長有鳥嘴的獨特外貌顛覆了以往對鱷魚祖先的想像。"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Symmetrical Composition",
+      "lighting": "Spotlight",
+      "texture": "Liquid Metal",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "A minimalist line drawing and doodle style illustration with playful loose strokes and a hand-drawn feel, featuring a perfectly symmetrical composition with a centered subject and mirror-like balance. A large, stocky brown classic tabby cat with bold black stripes, a broad muscular build, and scruffy, untidy coarse fur is wearing a straw hat and sitting at the exact center of a seaside breakwater. The cat is viewed from the front, with its left eye completely covered by a natural dark-pigmented fur patch (no fabric, no straps), while its single piercing right eye is a vibrant emerald green. Its left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. The cat has a white chest bib and white mitten paws, and is intensely focused on a fishing line dipping into the water. A narrow beam spotlight casts dramatic high-contrast lighting with sharp edges on the scene, contrasting with deep darkness. The sea has a soft pastel color palette of gentle pink, lavender, mint, and baby blue, with a liquid metal surface that looks like a mercury-like reflective flow with a chrome dripping texture and a molten mirror finish. Visually displayed clearly in the corner of the image is the text '2026-06-08 16:42 UTC'.",
+    "idea": "在極簡塗鴉線條畫風中，一隻戴著草帽的獨眼虎斑貓在海邊防波堤正中央，以完美的對稱構圖專注地看著魚線垂入液態金屬般波動的粉彩色海面。",
+    "comment_id": 4651263967,
+    "is_seasonal": true
   }
 ]

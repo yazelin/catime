@@ -19669,5 +19669,18 @@
     "number": 2131,
     "inspiration": "在加拿大卑詩省，一群生蠔養殖場的農夫們聯手救起了一隻早產的迷路海豹寶寶，隨後甚至還貼心地送了一整箱新鮮的蛤蜊與螃蟹到救援中心慰勞牠。",
     "status": "success"
+  },
+  {
+    "character": "captain",
+    "title": "夏日防波堤的獨釣",
+    "season": "summer",
+    "status": "success",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-08_1642_UTC.webp",
+    "number": 2132,
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex exited with code 1\"})",
+    "timestamp": "2026-06-08 16:42 UTC",
+    "inspiration": "original",
+    "is_seasonal": true
   }
 ]
