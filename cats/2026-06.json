@@ -2123,5 +2123,41 @@
     "story": "在一間充滿奇幻色彩的深夜工作室裡，一隻三花貓正在半透明的粉色樹脂巨大鍵盤上奔跑。隨著牠每一次的落足，燭光在樹脂間折射出夢幻的光暈，伴隨著凌亂的色塊與線條，彷彿貓咪正用腳爪即興譜寫著一首抽象的夜間交響曲。",
     "title": "粉蠟燭光下的夜奏曲",
     "comment_id": 4646344244
+  },
+  {
+    "prompt": "A candid disposable camera photo capturing a real-life snapshot with a low-quality charm and subtle light leaks. The scene is shot from a cinematic low angle with a strong spiral vortex composition, where the structural lines of a transparent glass greenhouse coil around the central subject. In the middle, a tabby cat on all fours is stretching its neck to curiously sniff a pile of freshly harvested oysters and crabs stacked in a spiral pattern inside a crate. The lighting is high-key, bright, and airy with an overexposed feel, soft even illumination, and minimal shadows. The atmosphere is filled with light refraction and prismatic reflections from the glass material. The color scheme is an earth tone palette of terracotta, olive green, and warm brown. Visually displayed on the bottom right corner of the image is the orange date and time stamp '2026-06-08 12:20 UTC'. 35mm lens, f/8, flash artifacts, natural organic harmony.",
+    "idea": "這是一張以即棄相機風格捕捉的真實照片，採用螺旋漩渦構圖，一隻斑虎貓正在透明的玻璃溫室花房中央，伸長脖子好奇地去嗅聞農夫剛採收、堆疊成螺旋狀的一箱新鮮生蠔與螃蟹。",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "在西班牙聖塞巴斯提安，奧運自行車傳奇名將克里斯·霍伊於今日（6月8日）領軍展開一場跨越庇里牛斯山、總長644公里的公益騎行，為弱勢青少年籌措慈善基金。",
+      "在加拿大卑詩省，一群生蠔養殖場的農夫們聯手救起了一隻早產的迷路海豹寶寶，隨後甚至還貼心地送了一整箱新鮮的蛤蜊與螃蟹到救援中心慰勞牠。",
+      "在美國喬治亞州的傑基爾島，海龜中心的一隻綠蠵龜在經過7個月的康復治療後重返大海，而牠獨特的基因檢測結果讓科學家驚訝發現牠融合了其他海龜物種的特徵。",
+      "在澳洲的一座國家公園，全新落成的野生動物跨界生態陸橋成功啟用，透過特製的繩索與植被通道，保護當地的瀕危有袋類動物能安全穿梭於兩大公園之間。"
+    ],
+    "avoid_list": [
+      "伸出前爪試圖撥弄物品",
+      "微縮模型與立體浮島場景",
+      "雙色調與強烈色彩對比",
+      "墨流藝術與流動水墨線條",
+      "溫暖琥珀色的黃金時刻光線",
+      "融合傳統元素與幾何美學",
+      "角落視覺化顯示日期與時間",
+      "貓咪在特定場景內巡邏或探險",
+      "笨拙或專注捕捉特定小生物",
+      "粗糙混凝土與幾何色塊基底",
+      "大理石紋理與光滑亮面質感",
+      "背光勾勒的邊緣光與輪廓線"
+    ],
+    "number": 2131,
+    "inspiration": "在加拿大卑詩省，一群生蠔養殖場的農夫們聯手救起了一隻早產的迷路海豹寶寶，隨後甚至還貼心地送了一整箱新鮮的蛤蜊與螃蟹到救援中心慰勞牠。",
+    "title": "玻璃房的鮮味探險",
+    "story": "在加拿大卑詩省的海邊農場，這隻四腳著地的貓咪趁著主人不注意，溜進了擺滿玻璃器皿的陽光房。高調明亮的陽光穿透玻璃，將大地色系的泥土與藤編籃映照得格外溫暖，而貓咪正專注地探索著這些剛從海裡撈上來的怪異生物。",
+    "comment_id": 4648927236
   }
 ]
