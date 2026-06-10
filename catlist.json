@@ -19793,5 +19793,18 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-09_2308_UTC.webp",
     "number": 2143
+  },
+  {
+    "character": "momo",
+    "timestamp": "2026-06-10 02:09 UTC",
+    "inspiration": "美國紐約市在接近夏至之際，迎來了著名的「曼哈頓懸日」（Manhattanhenge）奇景，大批民眾與遊客紛紛聚集街頭捕捉落日餘暉灑滿東西向街道的壯麗畫面。",
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex exited with code 1\"})",
+    "is_seasonal": true,
+    "number": 2144,
+    "title": "懸日餘暉下的傲骨",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-10_0209_UTC.webp",
+    "season": "summer",
+    "character_name": "墨墨"
   }
 ]
