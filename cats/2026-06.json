@@ -2685,5 +2685,35 @@
     "prompt": "A cute cat with the date and time '2026-06-10 10:51 UTC' displayed in the image, high quality, detailed",
     "news_inspiration": [],
     "title": "貓咪日常"
+  },
+  {
+    "prompt": "A cute cat with the date and time '2026-06-10 14:15 UTC' displayed in the image, high quality, detailed",
+    "number": 2147,
+    "news_inspiration": [],
+    "inspiration": "original",
+    "comment_id": 4671350816,
+    "title": "貓咪日常",
+    "avoid_list": [
+      "黑貓墨墨",
+      "優雅地趴在竹蓆上納涼",
+      "金色與黑色奢華",
+      "琥珀化石與昆蟲",
+      "用前爪推動或撥弄物品",
+      "在古老廢墟中捕捉昆蟲",
+      "電影感打光與強烈體積光",
+      "微距攝影結合古絹或精細工藝",
+      "將日期時間標記在畫面角落",
+      "採用特殊的透視與對稱構圖",
+      "融合傳統工藝元素如摺紙與衍紙"
+    ],
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "idea": ""
   }
 ]

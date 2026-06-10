@@ -19830,5 +19830,14 @@
     "season": "summer",
     "status": "success",
     "title": "貓咪日常"
+  },
+  {
+    "timestamp": "2026-06-10 14:15 UTC",
+    "number": 2147,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-10_1415_UTC.webp",
+    "inspiration": "original",
+    "title": "貓咪日常",
+    "status": "success",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s) (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex exited with code 1\"})"
   }
 ]
