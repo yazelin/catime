@@ -19817,5 +19817,18 @@
     "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex exited with code 1\"})",
     "title": "燭光溫室的純白禮讚",
     "character": "lingling"
+  },
+  {
+    "timestamp": "2026-06-10 10:51 UTC",
+    "number": 2146,
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service HTTP 502: {\"detail\":\"Codex exited with code 1\"})",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "character_name": "船長",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-10_1051_UTC.webp",
+    "season": "summer",
+    "status": "success",
+    "title": "貓咪日常"
   }
 ]
