@@ -2924,5 +2924,44 @@
       "texture": "Silk",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "title": "幽光苔痕夏日宴",
+    "idea": "在幽暗且佈滿苔蘚的古老地下酒窖中，這幅表現主義風格的超廣角畫面捕捉到肥嘟嘟的橘白貓麻糬。牠身穿一件亮眼的迷你浮水衣，正專注地用嘴啃咬著一塊鮮紅的西瓜，周圍僅由幾盞微弱的燭光點亮，將大地色系的陰影拉得深邃而扭曲。",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Candlelight",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Earth Tones"
+    },
+    "story": "麻糬在老街市場巡邏時，意外鑽進了一個通往廢棄地下老酒窖的密道。雖然外面是炎炎夏日，這裡卻長滿了厚厚的青苔，貪玩的麻糬穿著牠最愛的迷你浮水衣，在燭光搖曳的神秘空間裡大口享受著西瓜的清涼，彷彿在進行一場私密的夏日地底冒險。",
+    "prompt": "Expressionism art style, emotional intensity, bold distorted forms, vivid contrasting colors, exaggerated gestural brushwork. An ultra wide angle 12-18mm lens perspective captures a chubby, spherical shorthair cat named Mochi eating a bright red watermelon slice in a dark, ancient, moss-covered underground wine cellar. The cat is wearing a tiny bright-colored floating vest. Mochi has a white base coat with solid orange patches and no tabby stripes. The cat's right half-face (viewer's right) has an orange mask covering the cheek and ear, while the left face is entirely white. It has a heart-shaped orange saddle patch on its upper back, a solid orange right front paw, a pure white left front paw, a white belly, large round amber eyes, and a pink nose with a tiny orange dot. Dramatic perspective distortion and an expansive field of view. The scene is illuminated only by a few flickering candles creating a warm orange glow and soft, dancing, deep earth tone shadows of terracotta, olive green, and warm brown. The date and time '2026-06-11 14:28 UTC' is visually stamped in the corner of the image.",
+    "comment_id": 4681669845,
+    "inspiration": "original",
+    "news_inspiration": [
+      "在紐西蘭奧瑪魯舉辦的年度蒸汽龐克節，吸引了眾多愛好者穿上結合維多利亞風格與科幻元素的復古奇幻服飾共襄盛舉。",
+      "美國紐約市一名男子的高中畢業紀念冊在網路上瘋傳，因為他在六年前就精準預言了紐約尼克隊將在2026年奪得NBA總冠軍。",
+      "孟加拉達卡的一家動物園裡，一隻因為擁有一頭金黃色蓬鬆毛髮而被命名為「唐納·川普」的水牛，在當地引發了觀看熱潮。",
+      "歐洲太空總署與空中巴士合作的太空金屬3D印表機，在國際太空站成功列印出第一個金屬零件，為未來的長途太空探索任務邁出重要一步。"
+    ],
+    "season": "summer",
+    "number": 2154,
+    "character_name": "麻糬",
+    "character": "mochi",
+    "is_seasonal": true,
+    "avoid_list": [
+      "黑貓墨墨",
+      "優雅地趴在竹蓆上納涼",
+      "金色與黑色奢華",
+      "琥珀化石與昆蟲",
+      "用前爪推動或撥弄物品",
+      "在古老廢墟中捕捉昆蟲",
+      "電影感打光與強烈體積光",
+      "微距攝影結合古絹或精細工藝",
+      "將日期時間標記在畫面角落",
+      "採用特殊的透視與對稱構圖",
+      "融合傳統工藝元素如摺紙與衍紙"
+    ]
   }
 ]

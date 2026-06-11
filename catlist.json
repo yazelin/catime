@@ -19899,5 +19899,18 @@
     "character": "lingling",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "title": "絲路珍羽的呢喃"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-11_1428_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "幽光苔痕夏日宴",
+    "inspiration": "original",
+    "timestamp": "2026-06-11 14:28 UTC",
+    "season": "summer",
+    "number": 2154,
+    "character_name": "麻糬",
+    "character": "mochi",
+    "is_seasonal": true
   }
 ]
