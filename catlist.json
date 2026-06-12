@@ -20014,5 +20014,16 @@
     "character_name": "麻糬",
     "is_seasonal": true,
     "inspiration": "original"
+  },
+  {
+    "number": 2165,
+    "timestamp": "2026-06-12 22:25 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "風雨夜的掌舵者",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-12_2225_UTC.webp",
+    "inspiration": "original",
+    "character_name": "船長",
+    "character": "captain",
+    "status": "success"
   }
 ]

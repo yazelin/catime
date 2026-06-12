@@ -3334,5 +3334,37 @@
     "is_seasonal": true,
     "story": "夜市攤位與沙灘奇妙交織，散發著神祕的生物發光螢光。圓滾滾的麻糬雖然穿著亮眼的迷你浮水衣，卻完全被眼前的巨大西瓜吸引，在具有紙質肌理質感的繽紛光影中，留下一道專注吃瓜的可愛長曝光殘影。",
     "idea": "在融合老街夜市與海灘意象的奇幻空間中，以等距攝影視角與長曝光攝影捕捉橘白胖貓「麻糬」穿著迷你浮水衣、低頭狂嗑西瓜的動態軌跡。"
+  },
+  {
+    "number": 2165,
+    "title": "風雨夜的掌舵者",
+    "news_inspiration": [],
+    "avoid_list": [
+      "用爪子撥弄",
+      "等距3D插圖",
+      "冷藍青色調",
+      "硬光日照",
+      "生物發光螢光",
+      "蒸汽龐克機械",
+      "絞染紋理",
+      "35mm鏡頭拍攝",
+      "石階與河畔場景",
+      "迷你浮水衣",
+      "無限遞迴遞迴"
+    ],
+    "comment_id": 4695930842,
+    "inspiration": "original",
+    "prompt": "這是一幅以雙色調為主的立體紙藝景作品，從俯瞰視角展現一隻戴眼罩的壯碩虎斑貓，在散發沙質紋理的雨中老酒吧屋頂上，正專注地用前爪按住一張被風吹動的航海圖。. The date and time '2026-06-12 22:25 UTC' is visually displayed in the image. paper diorama scene, three-dimensional layered paper sculpture, laser-cut foliage silhouettes, backlit warm glow through translucent layers, pop-up book aesthetic, soft textured paper mountains, miniature handmade landscape, bird's-eye view, top-down perspective, looking straight down, miniature world effect, soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones, fine sand texture, desert dune ripples, warm golden granules, wind-sculpted patterns, natural grain detail, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Captain — a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. Fur texture: scruffy, untidy, slightly coarse with uneven lengths (NOT sleek). LEFT eye (viewer perspective): permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket — explicitly a fur marking, NOT a fabric or leather eye patch, NO straps. RIGHT eye: single piercing emerald green #50C878. LEFT ear: prominent V-shaped notch. Neck: faded red #CD5C5C bandana tied loosely and visible. White #FFFFFF chest bib and white mitten paws on all four feet. Distinctive M-mark on forehead. Tail: thick and sturdy. [HARD CONSTRAINTS] 1) LEFT eye MUST be hidden by dark fur patch — NEVER a fabric eye patch or strap. 2) RIGHT eye emerald #50C878 ONLY. 3) V-shaped left-ear notch always present. 4) Faded red bandana always present. 5) White chest bib and white mitten paws preserved. 6) Brown tabby with black stripes ONLY — NEVER orange or grey. 7) Scruffy coarse texture, NEVER groomed sleek coat. End.\nNEGATIVE CONSTRAINTS (must not appear): two visible eyes, both eyes open, fabric eye patch, leather eye patch, strap over eye, clean sleek fur, groomed coat, smooth glossy fur, no bandana, missing bandana, missing ear notch, intact left ear, orange tabby, grey tabby, blue eyes, longhair, small cat, slender build, kitten, symmetrical eyes, two green eyes, eye patch with string, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n",
+    "character_name": "船長",
+    "character": "captain",
+    "story": "夜裡的老港口下起綿綿細雨，船長獨自爬上酒吧最高的層疊紙雕屋頂。牠用厚實的白手套爪子死死按住泛黃的航海圖，冒著風雨任由雨水浸濕紅色頭巾，翠綠色的單眼正銳利地尋找下一次出海的航線。儘管歲月讓牠退居碼頭，但每當站在高處凝視遠方，那份屬於討海貓的沉穩與霸氣便會悄然流露。",
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Bird's-Eye View",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sand Texture",
+      "color_palette": "Duotone"
+    },
+    "idea": "這是一幅以雙色調為主的立體紙藝景作品，從俯瞰視角展現一隻戴眼罩的壯碩虎斑貓，在散發沙質紋理的雨中老酒吧屋頂上，正專注地用前爪按住一張被風吹動的航海圖。"
   }
 ]
