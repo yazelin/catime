@@ -20001,5 +20001,18 @@
     "title": "藍調實驗室的淨水禮讚",
     "number": 2163,
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-12_2100_UTC.webp",
+    "title": "螢光夏夜的西瓜巡禮",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2164,
+    "season": "summer",
+    "character": "mochi",
+    "timestamp": "2026-06-12 21:00 UTC",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "inspiration": "original"
   }
 ]
