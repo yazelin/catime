@@ -20103,5 +20103,16 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "title": "熱血看台的速寫"
+  },
+  {
+    "status": "success",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-13_2100_UTC.webp",
+    "title": "月光下的散裝麻糬",
+    "character_name": "麻糬",
+    "character": "mochi",
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service request failed: Remote end closed connection without response)",
+    "timestamp": "2026-06-13 21:00 UTC",
+    "number": 2174
   }
 ]
