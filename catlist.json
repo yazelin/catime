@@ -20210,5 +20210,16 @@
     "inspiration": "加拿大溫哥華的科學世界博物館將其標誌性的巨大球形屋頂，全面改裝成直徑40公尺的2026年世界盃足球賽官方比賽指定球外觀，喜迎體育盛事。",
     "status": "success",
     "number": 2184
+  },
+  {
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2185,
+    "character": "mochi",
+    "timestamp": "2026-06-14 22:05 UTC",
+    "inspiration": "original",
+    "title": "霓虹夜市的微醺冰霜",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-14_2205_UTC.webp"
   }
 ]
