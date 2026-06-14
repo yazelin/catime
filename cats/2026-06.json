@@ -3881,5 +3881,41 @@
       "color_palette": "Duotone"
     },
     "number": 2180
+  },
+  {
+    "number": 2181,
+    "avoid_list": [
+      "貓咪伸出前爪撥弄或抓取物品",
+      "向鏡頭方向大幅延伸或伸出前爪的強制透視",
+      "畫面邊緣或角落顯示明確的日期與時間文字",
+      "奢華的黑色與金色搭配色調",
+      "柔和的莫蘭迪色調與粉彩色系",
+      "帶有浮游塵埃與神祕神聖光芒的體積光",
+      "大理石或冰霜結晶等特殊材質的貓咪身體",
+      "貓咪在古老、廢棄工廠或宮殿的建築場景",
+      "超廣角或魚眼鏡頭造成的強烈透視扭曲與 barrel distortion",
+      "倫勃朗式45度單一光源側光",
+      "垂直書法海報構圖與裝飾藝術風格",
+      "包含精密齒輪、發條或微縮機械裝置的場景"
+    ],
+    "inspiration": "加拿大多倫多的一處社區配合世界盃足球賽熱潮，推出了一場極具趣味的「尋找巨型海狸雕塑」主題偵探尋寶活動。",
+    "idea": "這是一幅結合故障藝術（Glitch Art）與古絹絹本質感的雙色調故事插畫分格，描繪一隻橘貓在加拿大社區草地上，用鼻子專注地嗅聞一個隱藏在灌木叢中的巨型海狸雕塑邊緣。",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Duotone"
+    },
+    "title": "綠叢中的巨獸線索",
+    "comment_id": 4702145345,
+    "news_inspiration": [
+      "厄瓜多加拉巴哥群島傳出令科學家振奮的消息，最新發表的論文中宣佈發現了一種可以收縮在手掌心中的全新超迷你藍色章魚物種。",
+      "西班牙巴塞隆納的奧林匹克體育場迎來了獨特的文化景觀，當地的傳統疊人塔（Castells）表演者在教宗里奧十四世面前展現了壯觀的人塔特技。",
+      "印度日內瓦舉行的全球地球獎中，三名來自印度的青少年憑藉發明利用羅望子粉輕鬆去除微塑料的創新技術，成功奪得國際科學大獎。",
+      "加拿大多倫多的一處社區配合世界盃足球賽熱潮，推出了一場極具趣味的「尋找巨型海狸雕塑」主題偵探尋寶活動。"
+    ],
+    "prompt": "A duotone illustration story page layout with multiple irregular panels, combining glitch art and antique textures. In a suburban Canadian community park on a grassy lawn, a ginger cat is focused, using its nose to sniff the edge of a giant beaver sculpture partially hidden in a shrubbery. The top of the page features a decorative title banner, and the scene includes integrated dialogue bubbles following a shoujo manga narrative flow. The background shows an overcast sky with soft diffused natural light, even illumination, and no harsh shadows. The entire composition has a modern design feel with bold graphic impact using only two contrasting colors. The texture blends digital distortion, RGB channel shift, scan line artifacts, and corrupted data aesthetic with an aged silk scroll surface, warm sepia patina, visible silk weave, weathered paper stains, and delicate crease lines. Visually displayed clearly within the image is the date and time text '2026-06-14 15:04 UTC'.",
+    "story": "多倫多社區的尋寶活動正進行得如火如荼，人類偵探們毫無頭緒，一隻散步的橘貓卻憑藉著敏銳的嗅覺，在公園角落發現了巨大的海狸線索。畫面的數位故障條紋與古舊的絲綢紋理交織，記錄下這場跨越虛實的趣味偵查。"
   }
 ]
