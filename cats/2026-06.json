@@ -4570,5 +4570,41 @@
       "時間戳記日期",
       "雜誌封面與排版佈局"
     ]
+  },
+  {
+    "story": "皇家阿斯科特賽馬會的誇張帽飾風潮席捲了未來都市，仕紳名流們爭相展示最怪異的頭頂時尚。一隻充滿好奇心的貓咪跳上了名媛的巨型高帽，在霓虹微光下將這頂帽子當成了牠的專屬伸展台，以優雅的貓步引來無數多角度鏡頭的捕捉。",
+    "comment_id": 4731459094,
+    "prompt": "A cel shaded anime fashion design sheet layout with multi-view panels featuring a front view, back view, and side view of a hairless cat. The hairless cat wears a translucent resin raincoat with a glossy smooth surface and is elegantly balancing on four legs along the brim of a giant, bizarrely ornate Royal Ascot-inspired high fashion hat. The scene is set on a futuristic Tokyo street at night under neon lighting with colorful glowing signs and reflections on wet surfaces. The artistic style uses flat color areas with bold outlines, toon shading, and sharp shadow edges. The overall color palette is a cool blue-teal color grading with icy undertones and a moody urban atmosphere. The text '2026-06-17 14:22 UTC' is visually displayed in the image as a crisp, clean label on the design sheet.",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "貼紙拼貼邊框",
+      "莫蘭迪色調",
+      "螢光燈與日光燈照明",
+      "黑白單色調",
+      "35mm鏡頭",
+      "微縮碼頭與魚市場",
+      "全息全像投影",
+      "橘白貓麻糬",
+      "白貓鈴鈴",
+      "時間戳記日期",
+      "雜誌封面與排版佈局"
+    ],
+    "idea": "在霓虹燈光閃爍的未來東京街頭，一隻身披透明樹脂防雨外套的無毛貓，正以四足優雅地在一頂巨大且奇異的華麗帽子邊緣平衡漫步，整體畫面以冷色調藍青色的賽璐璐著色與服裝多視角展示呈現。",
+    "title": "霓虹帽沿的霓裳步履",
+    "inspiration": "英國阿斯科特舉辦了著名的皇家阿斯科特賽馬會，現場各式精緻、誇張且造型奇特的華麗帽子成為觀賽群眾與媒體爭相捕捉的吸睛焦點。",
+    "news_inspiration": [
+      "在法國巴黎的日本文化會館舉行了相撲示範與交流活動，吸引了大量當地民眾與媒體前來感受日本傳統相撲的獨特魅力。",
+      "西班牙加泰隆尼亞的傳統疊羅漢（Castells）團隊前往巴塞隆納的奧林匹克體育場，在祈禱守夜活動中為教宗方濟各進行了壯觀的真人疊羅漢表演。",
+      "孟加拉達卡的一家動物園裡，一隻因為頭頂擁有獨特金色毛髮而被命名為「唐納·川普」的罕見白化水牛，成為當地近期最具人氣的觀光明星。",
+      "英國阿斯科特舉辦了著名的皇家阿斯科特賽馬會，現場各式精緻、誇張且造型奇特的華麗帽子成為觀賽群眾與媒體爭相捕捉的吸睛焦點。"
+    ],
+    "number": 2201,
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Neon Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    }
   }
 ]
