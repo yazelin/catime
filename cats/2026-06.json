@@ -4946,5 +4946,42 @@
     "number": 2211,
     "character": "lingling",
     "character_name": "鈴鈴"
+  },
+  {
+    "comment_id": 4746797468,
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Futurism",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Inflatable PVC",
+      "color_palette": "Neon Fluorescent"
+    },
+    "avoid_list": [
+      "用爪子撥弄",
+      "粉彩色調",
+      "故事插畫分格",
+      "古絹質感",
+      "服裝多視角展示",
+      "獨眼虎斑貓船長",
+      "莫蘭迪色調",
+      "雙色調",
+      "透明樹脂",
+      "佈滿苔蘚"
+    ],
+    "number": 2212,
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "idea": "在融合未來主義風格的昏暗骨董店中，黑貓墨墨正透過一面變形的充氣PVC材質穿衣鏡進行鏡子自拍構圖，畫面充斥著強烈的霓虹螢光色與搖曳的燭光。",
+    "prompt": "Futurism art style illustration, fragmented overlapping forms with dynamic motion lines and an angular kinetic composition. In a dimly lit, futuristic antique shop, Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny natural white locket tuft on its chest, a single small gold hoop earring on its left ear, a single dark-grey ring at its tail tip, and large luminous golden-amber eyes, is taking a mirror selfie. The composition is a casual framing, an intimate close-up perspective showing the visible reflection through a distorted, warped inflatable PVC dressing mirror with a high-gloss, puffy, rounded air-filled surface. Warm orange flickering candlelight casts soft dancing shadows, while vibrant neon fluorescent colors of electric pink, lime green, and hot cyan glow intensely against the dark background. The timestamp '2026-06-18 22:50 UTC' is clearly and visually displayed in a corner of the image.",
+    "news_inspiration": [
+      "在克羅埃西亞，一隻剛滿月的小馬搬進了一棟公寓的四樓，與主人一同生活，而友善的鄰居們對此並不在意。",
+      "在英國舉行的皇家雅士谷賽馬會上，現場觀眾紛紛戴上極具創意且色彩斑斕的浮誇帽子，成為全場矚目的文化與時尚焦點。",
+      "一項由美國杜蘭大學科學家主導的全球研究指出，經過數十年的減少，全球紅樹林正迎來顯著的復甦與增長，為氣候行動帶來樂觀進展。",
+      "在墨西哥的墨西哥市，一隻名叫 Merlin 的鴨子因經常在街頭亮相而成為當地紅人，近日更搖身一變成為了世界盃足球賽的吉祥物。",
+      "在埃及、約旦和摩洛哥等國，聯合國推動的「父親計畫」正取得正面進展，越來越多傳統家庭的父親開始積極投入育兒與家務，挑戰並轉變性別刻板印象。"
+    ],
+    "story": "墨墨優雅地躍上古董店高處的陳列架，身旁點綴著幾盞古典蠟燭，微弱的燭光在未來感十足的充氣PVC裝飾上反射出斑斕的霓虹螢光。牠微微側頭，金琥珀色的眼睛在鏡子裡閃爍，左耳的金環與胸前的白色領結在動態扭曲的未來主義線條中，勾勒出一幅既神祕又前衛的靜謐畫面。",
+    "title": "幻彩鏡中的墨色流光"
   }
 ]
