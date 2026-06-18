@@ -4742,5 +4742,36 @@
     },
     "inspiration": "original",
     "title": "綠苔與霓虹的變奏"
+  },
+  {
+    "title": "鏡中素描的私語",
+    "prompt": "A pencil sketch of a curious calico cat with one paw resting on a mirror, creating a mirror selfie composition. The scene is drawn with graphite on paper, featuring visible pencil strokes, detailed hatching, and cross-hatching. The image appears on an aged silk scroll surface with a warm sepia patina, visible silk weave, weathered paper stains, and delicate crease lines, reflecting an antique manuscript texture. The color scheme follows a Morandi muted color palette with desaturated soft pastels, dusty grey undertones, and quiet elegance. The composition is an intimate close-up perspective with casual framing, illuminated by soft diffused natural light that provides even illumination and no harsh shadows. Inscribed clearly and visually displayed within the image is the date and time '2026-06-18 02:33 UTC'.",
+    "news_inspiration": [],
+    "comment_id": 4737351433,
+    "idea": "在老舊更衣室的古絹鏡子前，一隻三花貓一隻爪子搭在玻璃上，呈現出一幅帶有莫蘭迪色調的鉛筆素描鏡子自拍。",
+    "number": 2206,
+    "story": "這隻好奇的三花貓溜進了古董店的後室，被一面帶有細緻古絹質感的穿衣鏡所吸引。它伸出爪子觸碰鏡中自己的倒影，陽光透過窗戶形成柔和的自然漫射光，完美捕捉了這個充滿趣味的定格瞬間。",
+    "inspiration": "original",
+    "avoid_list": [
+      "服裝多視角展示的排版與構圖",
+      "蝴蝶光在貓咪鼻子下投射出的對比陰影",
+      "藍青色調與冷冽冰冷氛圍",
+      "貼紙拼貼與白邊相簿風格邊框",
+      "粉彩色系與溫柔粉嫩的柔和夢幻色調",
+      "魚拓藝術或畫意攝影風格",
+      "純黑孟買貓戴著金色耳環",
+      "撥弄金色絲綢緞帶或金色閃卡",
+      "溫暖琥珀色與秋日金黃橘色調",
+      "用鼻子輕輕嗅聞植物或木桶",
+      "全息投影與虹彩全息質感",
+      "強烈直打的閃光燈與高對比硬陰影"
+    ],
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
