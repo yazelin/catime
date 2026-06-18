@@ -20467,5 +20467,14 @@
     "is_seasonal": true,
     "status": "success",
     "number": 2209
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-18_1753_UTC.webp",
+    "inspiration": "台灣台南的寺廟近期因其獨特且非傳統的「門神」畫像受到文化界關注，這些藝術創作不僅展現了民俗創新，也融合了豐富的在地歷史與宗教意涵。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "神將與神貓的對視",
+    "number": 2210,
+    "timestamp": "2026-06-18 17:53 UTC"
   }
 ]

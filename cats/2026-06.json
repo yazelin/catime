@@ -4881,5 +4881,39 @@
       "color_palette": "Monochrome / Black and White"
     },
     "number": 2209
+  },
+  {
+    "avoid_list": [
+      "用爪子撥弄",
+      "粉彩色調",
+      "故事插畫分格",
+      "古絹質感",
+      "服裝多視角展示",
+      "獨眼虎斑貓船長",
+      "莫蘭迪色調",
+      "雙色調",
+      "透明樹脂",
+      "佈滿苔蘚"
+    ],
+    "news_inspiration": [
+      "馬來西亞吉隆坡的 Skål International 俱樂部在成立 68 年後，首度榮獲「亞洲年度最佳俱樂部」稱號，標誌著該國在區域觀光產業的卓越成就。",
+      "美國賓州州立大學所在地 State College 於 6 月 19 日舉辦六週年紀念活動，透過藝術展與社區聚會歡慶「六月節」(Juneteenth) 並推廣多元文化遺產。",
+      "台灣台南的寺廟近期因其獨特且非傳統的「門神」畫像受到文化界關注，這些藝術創作不僅展現了民俗創新，也融合了豐富的在地歷史與宗教意涵。",
+      "英國皇家植物園（Kew Gardens）的研究人員開發出一套尖端 AI 系統，能精準分析植物標本的微觀特徵，以加速識別並拯救全球瀕臨滅絕的植物物種。"
+    ],
+    "inspiration": "台灣台南的寺廟近期因其獨特且非傳統的「門神」畫像受到文化界關注，這些藝術創作不僅展現了民俗創新，也融合了豐富的在地歷史與宗教意涵。",
+    "prompt": "A close-up illustration of a blue-teal tortoiseshell cat, rendered in Tlingit art style with bold formline design, ovoid shapes, and U-shapes. The cat features an iridescent holographic material texture with rainbow color shift and shimmering translucent reflections. The cat is captured in a forced perspective composition, with its paw thrust dynamically toward the viewer, attempting to touch a non-traditional Men-shen (door god) painting on the wall of an ancient temple. The scene is bathed in harsh midday sunlight, creating hard edge shadows and high-contrast natural daylight with strong directional sun. The overall color palette features cool blue-teal color grading with icy undertones. Inscribed clearly and visually displayed within the image is the text '2026-06-18 17:53 UTC'.",
+    "title": "神將與神貓的對視",
+    "story": "台南古廟的燠熱正午，新繪的門神在強光下散發出前衛的圖騰線條。一隻守廟的街貓被那巨大的神明面容吸引，猛地伸出前爪撲向牆面，在全息光影的折射下，牠的爪子彷彿穿越了時空與神祇對話。",
+    "idea": "在硬光日照下，一隻呈現特林吉特圖騰藝術風格、帶著虹彩全息光澤的藍青色調花貓，正以強制透視伸手的視覺效果，在古老寺廟前伸爪試圖觸碰一幅剛畫好的非傳統門神畫像。",
+    "number": 2210,
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 4744744785
   }
 ]
