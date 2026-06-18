@@ -4804,5 +4804,43 @@
       "texture": "3D Render",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "news_inspiration": [
+      "在墨西哥的墨西哥市，一隻名叫馬林（Merlin）的街頭鴨子因經常在路邊亮相而爆紅，並成為了今年世界盃的非官方吉祥物。",
+      "在克羅埃西亞的一座城市，一匹僅一個月大的小馬竟然搬進了公寓的四樓居住，而奇妙的是鄰居們對此都表示毫不介意。",
+      "在加拿大多倫多，當地的社區為了迎接世界盃而舉辦了一場獨特的「大河狸尋寶活動」，在公園中展出各種代表不同參賽國家的造型河狸雕塑。",
+      "在泰國的利邦島（Koh Libong），當地海島社區居民團結一致實施友善船隻政策並積極復育海草，攜手保護島嶼周邊的瀕危儒艮。"
+    ],
+    "avoid_list": [
+      "服裝多視角展示的排版與構圖",
+      "蝴蝶光在貓咪鼻子下投射出的對比陰影",
+      "藍青色調與冷冽冰冷氛圍",
+      "貼紙拼貼與白邊相簿風格邊框",
+      "粉彩色系與溫柔粉嫩的柔和夢幻色調",
+      "魚拓藝術或畫意攝影風格",
+      "純黑孟買貓戴著金色耳環",
+      "撥弄金色絲綢緞帶或金色閃卡",
+      "溫暖琥珀色與秋日金黃橘色調",
+      "用鼻子輕輕嗅聞植物或木桶",
+      "全息投影與虹彩全息質感",
+      "強烈直打的閃光燈與高對比硬陰影"
+    ],
+    "character": "mochi",
+    "comment_id": 4741623013,
+    "idea": "這是一幅採用酒精墨水藝術風格的直式書法海報構圖，展現一隻圓滾滾的橘白貓在佈滿苔蘚的傳統老街乾貨攤上，於莫蘭迪色調的硬光日照下，正專注地用貓爪撥弄一隻代表世界盃參賽國的造型河狸雕塑。",
+    "inspiration": "在加拿大多倫多，當地的社區為了迎接世界盃而舉辦了一場獨特的「大河狸尋寶活動」，在公園中展出各種代表不同參賽國家的造型河狸雕塑。",
+    "character_name": "麻糬",
+    "title": "老街乾貨攤的尋寶記",
+    "story": "老街市場的「試吃巡邏員」麻糬，今天在常去的乾貨攤前發現了一個新奇的巨大玩具——社區為迎接世界盃而放的造型河狸雕塑。麻糬挺著圓滾滾的花生身軀，好奇地伸出牠那戴著橘色手套的右前腳，在粗糙的苔蘚紋理與柔和的莫蘭迪色墨暈中，與這隻新朋友展開了一場市場裡的尋寶互動。",
+    "prompt": "A vertical East Asian calligraphy poster composition in an alcohol ink art style mixed with photorealistic focal points. A chubby rounded shorthair cat named Mochi with a spherical torso and short stubby legs is on a moss-covered traditional old street dried goods stall. The cat has a white base coat with solid bright orange patches and no tabby stripes. The cat's right half-face from the viewer's perspective has an orange mask extending from the nose bridge across the right cheek to the right ear, while the left face is entirely white. On its dorsal upper back is a heart-shaped orange saddle. Its right front paw is a solid orange mitten to the wrist, and its left front paw is pure white. It has large round amber eyes, a pink nose with a tiny orange center dot, an orange-and-white ringed tail, and a white belly. The cat is focused, using its orange right front paw to pat a stylized beaver sculpture representing a World Cup participating country. The scene is illuminated by harsh midday sunlight with hard-edge shadows, high contrast natural daylight, and a strong directional sun in a Morandi muted color palette of desaturated soft pastels and dusty grey undertones. The background shows fluid vibrant colors, translucent layers, and ethereal abstract effects of alcohol ink, with a side calligraphy panel and ornamental border elements with red seal accents. The text '2026-06-18 11:43 UTC' is visually displayed and integrated cleanly into the composition.",
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 2208
   }
 ]
