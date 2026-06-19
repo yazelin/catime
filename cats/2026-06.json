@@ -5219,5 +5219,41 @@
       "texture": "Iridescent Holographic",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "number": 2220,
+    "inspiration": "original",
+    "comment_id": 4755047541,
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "莫蘭迪色調",
+      "鏡子自拍構圖",
+      "硬光日照",
+      "古董店",
+      "雙色調",
+      "微縮移軸",
+      "傳統老街",
+      "機械老鼠或蝴蝶",
+      "絞染質感"
+    ],
+    "title": "月下流螢與棉花糖",
+    "story": "深夜的花店溫室被溫柔的月光籠罩，鈴鈴被一隻穿梭在細緻鐵藝花架間的螢火蟲深深吸引。她瞪大那雙如寶石藍般的漫畫星星眼，興奮地向前一撲，卻不小心一頭撞上了旁邊的雕花花盆，震落了一身的花瓣與清脆的鈴鐺聲。",
+    "character_name": "鈴鈴",
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Moonlight",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "在融合鑄鐵雕花鏤空的深夜溫室中，蓬鬆如棉花糖的白貓鈴鈴正撲向一隻發光的流螢，整體呈現出月光映照下的復古海報風格與故事插畫分格構圖。",
+    "character": "lingling",
+    "news_inspiration": [
+      "在瑞士日內瓦，歐洲核子研究組織（CERN）的科學家宣布成功發現了「雙魅數重子」家族中最後一個未知的成員，完美為這項預測超過半世紀的物質基本組成研究劃下重要句點。",
+      "在英國布拉福，當地一座清真寺為50歲以上男性舉辦的普拉提（Pilates）健康健身課程在社群媒體 TikTok 上吸引了超過200萬次觀看，成功帶動年長社群的健康生活風潮。",
+      "在澳洲凱恩斯附近的珊瑚礁海域，一項公民科學計畫的參與者發現了一個面積達3,973平方公尺（約半個足球場大）的巨大 Pavona clavus 珊瑚群落，被認為是目前有紀錄以來最大的珊瑚群落之一。"
+    ],
+    "prompt": "Illustrated story page layout with multiple irregular panels in a vintage poster art style, mid-century modern design. A literal four-legged cat named Lingling is depicted. Lingling is an extremely fluffy pure white longhair cat, Ragdoll-like with voluminous cloud-like fur, a small round face nearly hidden in fur, huge round sapphire-blue eyes, and a pink ribbon bow collar with a small golden bell clearly visible and centered. In a midnight greenhouse with ornate black wrought iron filigree and cast iron lace, she pounces toward a glowing firefly amidst fine metal plant stands, bumping into a carved flowerpot, with falling flower petals around. Cool blue tones, a gentle silvery moonlight illumination, and a retro faded color palette create a nostalgic film-era warmth. A decorative title banner at the top features integrated dialogue bubbles and the text '2026-06-19 22:04 UTC' visually displayed within the layout composition."
   }
 ]
