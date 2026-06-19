@@ -5045,5 +5045,35 @@
     "number": 2214,
     "story": "市井的喧囂被包覆在怪異的霓虹螢光中，日光燈將長卷上的金箔祥雲照得格外刺眼。這隻三花貓壓低身子，在無數個縮小的平行時空裡，永遠執著地撲向那隻發光的老鼠。",
     "inspiration": "original"
+  },
+  {
+    "comment_id": 4751009121,
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "科學家正在探勘未知的海溝，船艙內僅有深海生物發光的微弱綠芒與金箔祥雲般的數據紋理交織。這隻隨船的貓咪用鼻子輕觸著溫熱的控制面板，牠的毛髮在紅外線鏡頭下呈現出奇幻的亮粉色，彷彿牠也是這場深海冒險的一員。",
+    "idea": "在融合紅外線攝影與高飽和鮮豔色的正交投影視角下，一隻三花貓正趴在深海研究船的儀器旁，好奇地凝視著閃爍的螢幕。",
+    "number": 2215,
+    "inspiration": "original",
+    "title": "深海螢光中的航海家",
+    "prompt": "An orthographic projection technical illustration of a calico cat on a deep-sea research vessel, curiously staring at a blinking monitor and touching the warm control panel with its nose. The scene combines infrared photography aesthetics with high saturation vivid colors; the cat's fur glows in surreal, vibrant bright pink, set against dark skies and a deep blue-green radiance of bioluminescent lighting and underwater phosphorescence. Intricate gold leaf ornamental clouds with traditional East Asian auspicious cloud motifs and an embossed metallic finish curl across the dark background. On the monitor, the date and time '2026-06-19 11:12 UTC' is clearly and visually displayed. Straight-on flat rendering with no perspective distortion, bold vibrant hues, energetic palette, eye-catching contrast.",
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "莫蘭迪色調",
+      "鏡子自拍構圖",
+      "硬光日照",
+      "古董店",
+      "雙色調",
+      "微縮移軸",
+      "傳統老街",
+      "機械老鼠或蝴蝶",
+      "絞染質感"
+    ],
+    "news_inspiration": []
   }
 ]
