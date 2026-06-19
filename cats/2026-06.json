@@ -5110,5 +5110,43 @@
       "color_palette": "High Saturation Vivid"
     },
     "comment_id": 4752532654
+  },
+  {
+    "number": 2217,
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "莫蘭迪色調",
+      "鏡子自拍構圖",
+      "硬光日照",
+      "古董店",
+      "雙色調",
+      "微縮移軸",
+      "傳統老街",
+      "機械老鼠或蝴蝶",
+      "絞染質感"
+    ],
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Fisheye Lens",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character_name": "船長",
+    "character": "captain",
+    "prompt": "A monochrome black and white Palekh miniature painting style illustration with a strong fisheye wide-angle lens perspective and heavy barrel distortion. In a corner of a moss-covered, abandoned fish market, a large stocky brown classic tabby cat with bold black stripes and a scruffy, untidy coarse coat is intently poking and examining a row of seashells and coral fragments carved with mysterious runes using its paws. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch, while its right eye is a piercing emerald green. It has a prominent V-shaped notch on its left ear, a faded red bandana loosely tied around its neck, a white chest bib, and white mitten paws. The background features lush green organic moss overgrowth and overhead fluorescent lighting providing institutional flat illumination with rich tonal range and dramatic shadows. Intricate details and gold leaf storytelling elements are adapted to a high contrast black and white palette. The date and time '2026-06-19 17:10 UTC' is visually and clearly displayed in the image.",
+    "story": "在退潮後的深夜，碼頭老大「船長」獨自巡視著這座被綠苔蔓延的舊市場。日光燈在頭頂發出微弱的嗡嗡聲，牠銳利的翠綠色右眼凝視著這些彷彿記載著海洋秘密的古老構造，像是在回憶當年在漁船上經歷的風浪。雖然身處寂靜的黑白世界，牠那如船舵般穩重的尾巴與威風的白鬍鬚，依然彰顯著牠不容侵犯的威嚴。",
+    "title": "墨色碼頭的寂靜巡航",
+    "comment_id": 4753518028,
+    "idea": "這是一幅採用黑色與白色單色調的帕列赫細密畫，透過強烈的魚眼鏡頭視角，展現一隻左眼戴眼罩、脖圍褪色紅頭巾的壯碩虎斑貓「船長」，正在苔蘚覆蓋的廢棄老舊魚市場角落裡，專注地用爪子撥弄並研究一整排刻有神祕紋路的貝殼與珊瑚殘骸。",
+    "inspiration": "original",
+    "news_inspiration": [
+      "奧地利維也納的獸醫大學科學家首次發現乳牛具有使用工具的罕見能力，一隻名叫維羅妮卡（Veronika）的牛展示了多用途工具的使用技巧，打破了過去只有黑猩猩等高智商動物才會此技能的認知。",
+      "英國切斯特動物園在六月中旬迎來了極其罕見的蘇門答臘虎雙胞胎幼崽誕生，這對野外僅存約400隻的極危物種繁衍帶來了巨大的保育曙光。",
+      "澳洲凱恩斯外海的大堡礁公民科學計畫中，研究人員發現了一座面積達3973平方公尺（約半個足球場大）的巨大 Pavona clavus 珊瑚群落，被認為是目前紀錄上最大的珊瑚構造之一。",
+      "丹麥哥本哈館開始推行一項別開生面的「真人圖書館」計畫，讓來到圖書館的民眾不再只是借閱紙本書籍，而是可以透過「借閱真人」來與不同背景的人進行面對面深度對談。",
+      "瑞典與挪威之間推出了一條全新的絕美火車路線，從瑞典直接開往挪威奧斯陸，沿途將帶領旅客飽覽兩國最壯麗的北歐自然風光與精華景致。"
+    ]
   }
 ]
