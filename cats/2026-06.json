@@ -5463,5 +5463,35 @@
     "prompt": "An isometric photography view of a calico cat lying on a rusted iron window sill of an old apartment on the fourth floor, curiously swatting at the tail of a newly moved-in mini horse with its paw. The text '2026-06-20 14:58 UTC' is visually displayed in the corner of the image. Chalk art on blackboard style with dusty matte texture, colored chalk, and visible hatching strokes on dark green slate. Perfectly isometric photography angle. Cinematic lighting with volumetric light rays, dramatic shadows, and high dynamic range to create a film-quality mood. Rusted weathered metal with oxidized patina, peeling paint layers, and aged industrial decay with warm orange-brown corrosion on the window sill. Retro faded color palette with washed-out vintage tones, low contrast, and nostalgic film-era warmth.",
     "inspiration": "一匹僅一個月大的可愛迷你小馬搬進了克羅埃西亞的一棟公寓四樓，特別的是，這裡的鄰居們對這位新搬來的四腳室友完全不介意且感到非常有趣。",
     "idea": "在粉筆畫風格與等距攝影視角下，一隻三花貓趴在老舊公寓四樓的生鏽鐵窗台上，好奇地用爪子撥弄一匹剛搬進來的迷你小馬的尾巴，整體呈現復古褪色色調與電影感打光。"
+  },
+  {
+    "title": "藍晶礦坑的觀星者",
+    "prompt": "Studio Ghibli anime style illustration. From a bird's-eye view, top-down perspective looking straight down, a large white cat sits at the peak of a towering crystal mine, playfully batting at an old brass theodolite with its front paws. The setting features soft watercolor backgrounds, transparent glass materials, and crystalline clarity. Overhead key light creates butterfly lighting with light refraction and prismatic reflections across the dark tunnels, showcasing a cool blue-teal color grading with icy undertones. The text '2026-06-20 16:14 UTC' is visually and clearly displayed in a corner of the image. Serene and calm mood, gentle character design, miniature world effect.",
+    "news_inspiration": [],
+    "idea": "在吉卜力的手繪美學下，一隻大白貓在高聳的水晶礦坑頂端俯瞰，正用前爪撥弄著一架老舊的黃銅經緯儀。",
+    "avoid_list": [
+      "高飽和鮮豔色",
+      "黑白單色與色彩融合",
+      "生物發光與微芒",
+      "粉彩色系夢幻光暈",
+      "深海與實驗室研究場景",
+      "溫室與老舊工坊",
+      "用鼻子輕觸嗅聞",
+      "專注凝視閃爍螢幕或水珠",
+      "金箔與金色浮雕元素",
+      "35mm鏡頭拍攝",
+      "顯示精確的時間戳記"
+    ],
+    "inspiration": "original",
+    "comment_id": 4758964418,
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Bird's-Eye View",
+      "lighting": "Butterfly Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 2227,
+    "story": "老學者留在礦坑頂層的探勘工具，成了貓咪的最新玩具。牠趴在剔透的玻璃質地岩壁上，好奇地用爪子轉動鏡頭，折射出的藍青色蝴蝶光在幽暗的坑道中一閃一滅。"
   }
 ]
