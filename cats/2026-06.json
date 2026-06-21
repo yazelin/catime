@@ -5694,5 +5694,39 @@
     "story": "墨墨悄然漫步至被藝術家改造為巨型人工洞穴的巴黎新橋，這裡融合了它最愛的古老與藝術氣息。它在光影交錯的低矮岩壁下找到一本遺落的皮革古籍，正安靜地趴在上面，用充滿靈性的金琥珀色眼睛凝視著黑暗。縱使周圍充滿朝聖的遊客，這隻如影子般的黑貓依然獨享著它在洞穴深處的閱讀時光。",
     "title": "新橋洞穴的墨色閱讀",
     "prompt": "這是一幅採用傳統魚拓藝術風格的雙色調作品，以極低角度捕捉純黑貓墨墨在一座由街頭藝術家改造、宛如巨大人工洞穴的古老地標新橋石階上，正用爪子輕輕撥弄著一本古舊皮革精裝書的優雅身影，四周伴隨著神秘的體積光。. The date and time '2026-06-21 07:23 UTC' is visually displayed in the image. Gyotaku style, direct ink impression print, textured relief surface, traditional Japanese art form, monochrome contact print aesthetic, extreme low angle shot, looking up at subject, dramatic towering perspective, powerful feel, volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, dramatic depth, genuine leather texture, rich grain pattern, warm aged patina, supple creased surface, artisanal craftsmanship, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Momo — a sleek, slender solid-black #0A0A0A Bombay-style shorthair with satin-sheen fur revealing warm brown undertones in direct light. Athletic proportions with visible muscle definition and a slight upward curl at the tail tip. LEFT ear (viewer perspective): single small gold hoop earring #FFD700 (3mm) positioned at the mid-ear edge — the only earring. Ventral chest: tiny natural white locket tuft #FFFFFF (fur only, NOT a collar). Tail tip: single dark-grey #696969 ring. Eyes: large luminous golden-amber #D4A017 like polished amber gems. Long prominent white whiskers. Expression: calm and attentive. [HARD CONSTRAINTS] 1) Solid black fur ONLY — no other body patches or stripes. 2) LEFT ear gold hoop ONLY; NEVER on right ear. 3) White chest locket tuft is the sole white marking. 4) Golden-amber #D4A017 eyes ONLY — NEVER blue or green. 5) Shorthair satin-sheen texture, NEVER long or fluffy. 6) No collar, bandana, or necklace. End.\nNEGATIVE CONSTRAINTS (must not appear): two earrings, right ear earring, earring on both ears, blue eyes, green eyes, longhair, fluffy coat, white patches on legs, white belly, white paws, collar, necklace, bandana, grey fur, brown cat, tabby stripes, spotted pattern, heterochromia, orange eyes, missing earring, calico, tuxedo full bib, large white chest, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n"
+  },
+  {
+    "avoid_list": [
+      "冰霜結晶紋理",
+      "復古褪色色調與電影感打光",
+      "等距3D插圖",
+      "粉彩色系與生物發光",
+      "長毛貓皮毛上凝結著冰霜",
+      "老舊公寓四樓",
+      "大白貓在頂端俯瞰",
+      "琥珀暖色調",
+      "用前爪撥弄老舊儀器或工具",
+      "電影感打光與強烈聚光燈"
+    ],
+    "number": 2234,
+    "comment_id": 4761733621,
+    "news_inspiration": [
+      "法國巴黎的知名當代藝術家 JR 用充氣織物將新橋（Pont Neuf）包裹起來，營造出崎嶇山脈的視覺錯覺，藉此向 40 年前包裹該橋的藝術家克里斯多致敬。",
+      "印尼布魯島（Buru）的偏遠山區中，保育團隊成功拍攝到被列為「遺失物種」且近一世紀未被觀測到的藍額吸蜜鸚鵡（Blue-fronted Lorikeet）。",
+      "美國紐約市的紐約尼克隊在總決賽第五戰擊敗聖安東尼奧馬刺隊，睽違 53 年再度奪得 NBA 總冠軍，引發成千上萬球迷走上街頭狂歡慶祝。",
+      "紐西蘭凱庫拉（Kaikoura）正式啟用了名為「Te Au Roa o Te Rakihouia」的大型海洋保護區，由當地毛利部落與政府共同管理，全面禁止捕魚以保護當地的海洋生態。"
+    ],
+    "inspiration": "美國紐約市的紐約尼克隊在總決賽第五戰擊敗聖安東尼奧馬刺隊，睽違 53 年再度奪得 NBA 總冠軍，引發成千上萬球迷走上街頭狂歡慶祝。",
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Symmetrical Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "狂歡夜的金色弧線",
+    "prompt": "A 1990s 35mm film photograph of a tabby cat lying on a natural wood grain bar counter inside a crowded sports bar, stretching its front paw out to swat at a television screen showing a basketball game. The timestamp '2026-06-21 10:58 UTC' is visually displayed in the corner of the image. Perfectly symmetrical composition with the centered cat and mirror-like balance framing the scene. The image blends a stark black and white monochrome high-contrast background of dramatic shadows and cheering fans with vibrant, colorful neon lighting casting a nostalgic glow and reflections on the bar surface. Direct flash camera style, rich tonal range, and slightly muted warm tones on the organic tactile surface of the wood.",
+    "idea": "在黑白與霓虹燈光交織的90年代底片風格中，一隻斑虎貓正趴在塞滿球迷的酒吧木紋吧台上，伸出前爪試圖拍打電視螢幕上播放的球賽轉播。",
+    "story": "紐約尼克隊奪冠的這一夜，整間酒吧陷入瘋狂的歡呼與騷動。這隻店貓完全不理會身旁舉杯狂歡的群眾，只是專注地盯著螢幕上跳動的籃球，用貓咪特有的精準節奏，在對稱構圖的畫面中央不斷撲向彩色的霓虹殘影。"
   }
 ]
