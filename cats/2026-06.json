@@ -5768,5 +5768,41 @@
     "season": "summer",
     "inspiration": "在瑞士日內瓦，世界氣象組織（WMO）發布最新預測指出，2026年夏季聖嬰現象（El Niño）發展的機率高達80%，這將使全球在未來數月普遍面臨更顯著的高溫氣候。",
     "idea": "這是一幅結合墨流藝術風格與移軸微縮效果的獨特畫面，純白蓬鬆的布偶貓風格小貓「鈴鈴」正戴著迷你草帽與太陽花，在烈日灼身的向日葵田迷宮中，好奇地追逐一隻閃閃發光的金色甲蟲。"
+  },
+  {
+    "prompt": "An ultra wide angle 12-18mm lens shot with dramatic perspective distortion capturing an orange cat sniffing a newly unearthed Mozart handwritten manuscript on a music stand. The scene is a steampunk underground rehearsal room filled with Victorian-era machinery, brass gears, and cogs. The lighting is an ethereal ultraviolet luminescence from blacklight UV illumination, making fluorescent pigments and vibrant neon colors glow intensely against a dark background. Liquid metal surfaces with a mercury-like reflective flow and molten mirror finish coat the industrial retrofuturism elements. High saturation vivid colors and bold vibrant hues create an energetic contrast. On the manuscript or nearby wall, the text '2026-06-21 15:44 UTC' is clearly visible.",
+    "comment_id": 4762481927,
+    "story": "這隻好奇的貓咪在充滿液態金屬質感的齒輪與銅管間穿梭，意外驚醒了正在解讀古老樂譜的樂團成員。超廣角鏡頭捕捉到牠趴在譜架旁、尾巴輕輕擺動的瞬間，彷彿牠才是那位穿越時空的古典指揮家。",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "四樓公寓陽台",
+      "古老地標新橋",
+      "冷藍色調",
+      "藍青色色調",
+      "冰霜結晶紋理",
+      "木紋質感控制室",
+      "生鏽鐵窗台",
+      "紐約尼克隊奪冠",
+      "體積光與神祕光影",
+      "傳統魚拓藝術風格",
+      "等距攝影視角"
+    ],
+    "title": "霓虹齒輪與莫札特",
+    "inspiration": "法國一名策展人近期在國內意外挖掘出珍貴的莫札特親筆手稿，為古典音樂界帶來全新驚喜。",
+    "idea": "在黑光螢光與高飽和鮮豔色交織的蒸汽朋克地下排練室中，一隻橘貓正專注地用鼻子輕觸並嗅聞一份剛出土的莫札特親筆手稿。",
+    "number": 2236,
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Liquid Metal",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [
+      "法國一名策展人近期在國內意外挖掘出珍貴的莫札特親筆手稿，為古典音樂界帶來全新驚喜。",
+      "克羅埃西亞有一匹一個月大的小馬跟隨主人搬進了公寓四樓生活，有趣的溫馨互動獲得鄰居們的包容與喜愛。",
+      "一項長期的耶魯大學研究發現，美國有將近一半的65歲以上老年人在身體或心理機能上隨著年齡增長反而有所提升，打破了老化必然持續衰退的傳統迷思。",
+      "科學家在秘魯亞馬遜雨林發現了一種全新蜘蛛物種（Taczanowskia waska），牠能完美擬態成寄生真菌的外觀與行為以躲避天敵。"
+    ]
   }
 ]
