@@ -6435,5 +6435,36 @@
     "idea": "在融合東方奇幻海報風格的深夜老街市場中，圓滾滾的橘白貓麻糬正趴在流淌著金色與黑色奢華光澤的絲綢布幔上，好奇地凝視著一盤剛出爐、散發霓虹燈光的發光滷肉飯，四周環繞著精緻的貼紙拼貼邊框。",
     "comment_id": 4784216959,
     "title": "神市夜巡饕客魂"
+  },
+  {
+    "idea": "這是一幅採用工筆人物畫風格的對稱構圖作品，描繪一隻貓咪在充滿透明樹脂質感器皿的傳統染坊中，低頭嗅聞晾曬染布的細緻場景。",
+    "inspiration": "original",
+    "number": 2256,
+    "prompt": "A symmetric composition in the style of Chinese gongbi figure painting, featuring meticulous fine-line brushwork and delicate color washes. In the center, a cat is gracefully bowing its head to sniff hanging dyed fabrics inside a traditional dye house. The workshop features vessels with a translucent resin material and amber-like clarity. Perfectly symmetrical composition, centered subject, mirror-like balance with architectural framing. Soft diffused natural light, even illumination with no harsh shadows. A retro faded color palette with washed-out vintage tones and low contrast creates a nostalgic warmth. The date and time '2026-06-23 23:53 UTC' is clearly and visually displayed in a corner of the image.",
+    "story": "在古色古香的工坊正中央，一隻優雅的白貓正輕巧地穿梭於垂掛的布幔之間，在柔和的自然漫射光下凝視著染料缸。空氣中瀰漫著草木染的淡淡香氣，褪色的復古色調讓這個靜謐的午後顯得格外深邃。貓咪偶爾用鼻子輕觸懸掛的布條，與周圍嚴謹對稱的職人工具融為一體。",
+    "style_picks": {
+      "art_style": "Gongbi Figure Painting",
+      "composition": "Symmetrical Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Retro Faded Tones"
+    },
+    "avoid_list": [
+      "水晶玻璃蒸籠",
+      "維多利亞式鑄鐵鏤空溫室",
+      "老舊鋼鐵工廠巨型齒輪",
+      "鳥瞰畫面俯瞰",
+      "長卷式等距攝影",
+      "魚眼鏡頭與長曝光",
+      "用爪子撥弄",
+      "戴著橘色手套的右前腳",
+      "左眼戴著眼罩的壯碩虎斑貓",
+      "倫勃朗光強烈明暗對比",
+      "環形燈般柔和水面反光",
+      "莫蘭迪色調灰藍與霧粉"
+    ],
+    "title": "染房幽緒",
+    "comment_id": 4784604216,
+    "news_inspiration": []
   }
 ]
