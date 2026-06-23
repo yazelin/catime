@@ -20869,5 +20869,18 @@
     "status": "success",
     "number": 2250,
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-23_1334_UTC.webp",
+    "status": "success",
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s) (fallback from codex: codex-image-service request failed: Remote end closed connection without response)",
+    "is_seasonal": true,
+    "title": "竹蓆上的夏日墨影",
+    "season": "summer",
+    "character_name": "墨墨",
+    "character": "momo",
+    "number": 2251,
+    "inspiration": "original",
+    "timestamp": "2026-06-23 13:34 UTC"
   }
 ]
