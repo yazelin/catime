@@ -1035,6 +1035,14 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
 }
 
 @media (max-width: 600px) {
+  /* date calendar: the trigger sits at the bottom of the sheet, so an absolute
+     "drop below" dropdown lands off-screen. Center it as a modal instead. */
+  .date-dropdown {
+    position: fixed; top: 50%; left: 50%; right: auto;
+    transform: translate(-50%, -50%);
+    width: min(320px, 92vw); max-height: 80vh; overflow-y: auto; z-index: 210;
+  }
+
   .tabbar {
     display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 150;
     background: var(--topbar-bg); border-top: 2px solid var(--pink-light);
