@@ -1,7 +1,17 @@
-const STATIC_CACHE = "catime-static-v5";   // html/css/js/icons — network-first, cache is offline fallback
+const STATIC_CACHE = "catime-static-v6";   // html/css/js/icons — network-first, cache is offline fallback
 const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
+
+// Precache the app shell + latest catlist on install, so the app reliably
+// opens offline (gallery structure + the catlist snapshot) even on first run.
+// (Cat images stay on-demand cache-first — too many/large to precache.)
+const CORE = [
+  "./", "index.html", "style.css", "app.js", "dom-utils.js",
+  "character.html", "character.js", "manifest.json",
+  "icon-192.png", "icon-512.png", "apple-touch-icon.png", "favicon-32.png", "favicon.ico",
+  "catlist.json"
+];
 
 // A cat image = a GitHub Release asset under any "cats" / "cats-YYYY-MM" tag.
 // These never change once published, so they can be cached forever.
@@ -10,7 +20,11 @@ function isCatImage(url) {
 }
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(self.skipWaiting());
+  event.waitUntil(
+    caches.open(STATIC_CACHE)
+      .then((c) => Promise.allSettled(CORE.map((u) => c.add(u))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener("activate", (event) => {
