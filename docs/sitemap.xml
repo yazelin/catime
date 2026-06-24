@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yazelin.github.io/catime/index.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <loc>https://yazelin.github.io/catime/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yazelin.github.io/catime/character.html?id=momo</loc>
+    <lastmod>2026-06-24</lastmod>
+  </url>
+  <url>
+    <loc>https://yazelin.github.io/catime/character.html?id=captain</loc>
+    <lastmod>2026-06-24</lastmod>
+  </url>
+  <url>
+    <loc>https://yazelin.github.io/catime/character.html?id=mochi</loc>
+    <lastmod>2026-06-24</lastmod>
+  </url>
+  <url>
+    <loc>https://yazelin.github.io/catime/character.html?id=lingling</loc>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://yazelin.github.io/catime/feed.xml</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
 </urlset>
