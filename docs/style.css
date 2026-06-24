@@ -521,7 +521,8 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 }
 /* Character tag */
 .character-tag {
-  display: inline-flex; align-items: center; padding: .12rem .5rem;
+  display: inline-flex; align-items: center; vertical-align: middle;
+  padding: .12rem .5rem;
   border-radius: 20px; font-size: .65rem; font-weight: 700;
   color: #fff; white-space: nowrap; text-decoration: none;
   background: linear-gradient(135deg, rgba(255, 179, 71, .85), rgba(255, 140, 100, .75));
