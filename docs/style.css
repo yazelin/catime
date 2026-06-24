@@ -80,6 +80,18 @@ body {
   align-items: center; flex-wrap: nowrap; min-width: 0; overflow-x: auto;
 }
 
+/* Mobile filter sheet chrome — hidden on desktop, shown in the 600px @media */
+.filter-toggle, .sheet-head, .sheet-social, .sheet-social-label, .sheet-backdrop { display: none; }
+.filter-toggle {
+  color: var(--pink); flex-shrink: 0; background: none; border: none;
+  padding: 0; cursor: pointer; position: relative; align-items: center;
+}
+.filter-toggle.has-active::after {
+  content: ""; position: absolute; top: -1px; right: -1px;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--pink); border: 1.5px solid var(--topbar-bg);
+}
+
 /* Search input */
 .search-input {
   padding: .45rem .8rem; border-radius: 20px;
@@ -914,4 +926,55 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   .character-bar { gap: .5rem; padding: .4rem .6rem; }
   .character-bar a { font-size: .65rem; padding: .2rem .4rem; }
   .character-bar .char-avatar { width: 32px; height: 32px; font-size: 1rem; }
+}
+
+/* ── Mobile filter bottom-sheet (≤600px). Overrides the earlier .filters
+      mobile rule above because it comes later in source order. ── */
+@media (max-width: 600px) {
+  .filter-toggle { display: inline-flex; }
+
+  .filters {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 201;
+    flex-direction: column; align-items: stretch; gap: .7rem;
+    flex-wrap: nowrap; overflow-x: hidden; overflow-y: auto;
+    max-height: 82vh; min-width: 0;
+    background: var(--topbar-bg);
+    padding: .8rem 1.1rem calc(1rem + env(safe-area-inset-bottom, 0px));
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -8px 30px rgba(0,0,0,.28);
+    transform: translateY(110%);
+    transition: transform .25s ease;
+  }
+  .filters.open { transform: translateY(0); }
+
+  .sheet-head { display: flex; align-items: center; justify-content: space-between; }
+  .sheet-title { font-size: 1.05rem; font-weight: 800; color: var(--pink); }
+  .sheet-close {
+    background: none; border: none; font-size: 1.3rem; line-height: 1;
+    color: var(--text-muted); cursor: pointer; padding: .2rem .5rem;
+  }
+
+  /* full-width stacked controls in the sheet */
+  .filters .search-input,
+  .filters select,
+  .filters .date-picker,
+  .filters .date-picker-btn,
+  .filters .random-cat-button {
+    width: 100%; max-width: none; box-sizing: border-box;
+  }
+  .filters .random-cat-button { justify-content: center; }
+
+  .sheet-social-label {
+    display: block; text-align: center; font-size: .75rem; color: var(--text-muted);
+    border-top: 1px dashed var(--pink-light); padding-top: .7rem; margin-top: .1rem;
+  }
+  .sheet-social { display: flex; justify-content: center; gap: 22px; padding: .1rem 0 .2rem; }
+  .sheet-social a { margin: 0; }
+
+  .sheet-backdrop {
+    display: block; position: fixed; inset: 0; z-index: 200;
+    background: rgba(0,0,0,.42); opacity: 0; pointer-events: none;
+    transition: opacity .25s;
+  }
+  .sheet-backdrop.open { opacity: 1; pointer-events: auto; }
 }

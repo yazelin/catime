@@ -62,6 +62,10 @@
     <img src="icon-192.png" alt="Catime" class="logo-icon">
     <h1>Catime <span id="cat-count" class="cat-count"></span></h1>
     <div class="filters">
+      <div class="sheet-head">
+        <span class="sheet-title">篩選</span>
+        <button type="button" id="sheet-close" class="sheet-close" aria-label="關閉">✕</button>
+      </div>
       <input type="search" id="search-input" class="search-input" placeholder="Search #number or title...">
       <button id="random-cat-btn" class="random-cat-button" title="隨機一喵" aria-label="隨機一喵"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zM7.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg> 隨機一喵</button>
       <select id="character-filter">
@@ -90,7 +94,10 @@
           <button class="dd-clear" id="dd-clear">Clear</button>
         </div>
       </div>
+      <div class="sheet-social-label">連結</div>
+      <div id="sheet-social" class="sheet-social"></div>
     </div>
+    <button type="button" id="filter-toggle" class="filter-toggle" aria-label="篩選與連結" title="篩選"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M3 4h18v2.6L14 14v6l-4-2.2V14L3 6.6z"/></svg></button>
     <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
     <a href="https://github.com/yazelin/catime" target="_blank" rel="noopener" class="github-link" title="View on GitHub">
       <svg viewBox="0 0 16 16" width="22" height="22" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
@@ -110,6 +117,7 @@
   </header>
   <div id="character-bar" class="character-bar"></div>
   </div>
+  <div id="sheet-backdrop" class="sheet-backdrop"></div>
 
   <nav id="timeline" aria-label="Timeline navigation">
     <button id="timeline-toggle" aria-label="Toggle timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
@@ -300,6 +308,62 @@
         window.addEventListener('resize', sync);
       }
       new MutationObserver(sync).observe(document.getElementById('character-bar') || document.body, {childList:true});
+    })();
+
+    // Mobile filter bottom-sheet: collapse filters + social links behind one
+    // button so the sticky header stays slim. Desktop untouched (>600px).
+    (function(){
+      var filters = document.querySelector('.filters');
+      var toggle = document.getElementById('filter-toggle');
+      var backdrop = document.getElementById('sheet-backdrop');
+      var closeBtn = document.getElementById('sheet-close');
+      var socialBox = document.getElementById('sheet-social');
+      var topbar = document.getElementById('topbar');
+      if (!filters || !toggle || !backdrop || !socialBox || !topbar) return;
+      var socials = Array.prototype.slice.call(
+        document.querySelectorAll('#topbar .github-link, #topbar .tg-link, #topbar .fb-link, #topbar .bmc-link, #topbar .rss-link')
+      );
+      var mq = window.matchMedia('(max-width: 600px)');
+
+      function placeSocials(){
+        // move the actual nodes (keeps their links) into the sheet on mobile,
+        // back to the topbar on desktop — no duplication, no re-wiring.
+        socials.forEach(function(a){ (mq.matches ? socialBox : topbar).appendChild(a); });
+      }
+      function setOpen(open){
+        filters.classList.toggle('open', open);
+        backdrop.classList.toggle('open', open);
+        document.body.style.overflow = open ? 'hidden' : '';
+      }
+      function updateActive(){
+        var active = ['search-input','character-filter','inspiration-filter','model-filter'].some(function(id){
+          var el = document.getElementById(id); return el && el.value;
+        });
+        var dateBtn = document.getElementById('date-picker-btn');
+        if (dateBtn && dateBtn.classList.contains('active')) active = true;
+        toggle.classList.toggle('has-active', active);
+      }
+
+      toggle.addEventListener('click', function(){ setOpen(!filters.classList.contains('open')); });
+      backdrop.addEventListener('click', function(){ setOpen(false); });
+      if (closeBtn) closeBtn.addEventListener('click', function(){ setOpen(false); });
+
+      ['character-filter','inspiration-filter','model-filter'].forEach(function(id){
+        var el = document.getElementById(id);
+        if (el) el.addEventListener('change', function(){ updateActive(); if (mq.matches) setOpen(false); });
+      });
+      var searchEl = document.getElementById('search-input');
+      if (searchEl) searchEl.addEventListener('input', updateActive);
+      var randomBtn = document.getElementById('random-cat-btn');
+      if (randomBtn) randomBtn.addEventListener('click', function(){ if (mq.matches) setOpen(false); });
+      document.addEventListener('click', function(e){
+        if (e.target.closest('#date-picker') || e.target.id === 'dd-clear') setTimeout(updateActive, 0);
+      });
+
+      placeSocials();
+      updateActive();
+      var onChange = function(){ placeSocials(); if (!mq.matches) setOpen(false); };
+      if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
     })();
   </script>
 </body>
