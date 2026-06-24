@@ -550,6 +550,14 @@
       });
       window.addEventListener('appinstalled', function(){ btn.hidden = true; });
     })();
+
+    // Register the service worker (this was never wired up — without it the SW
+    // never ran, so no offline / no image caching). Enables the whole PWA.
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function(){
+        navigator.serviceWorker.register('sw.js').catch(function(){});
+      });
+    }
   </script>
 </body>
 </html>

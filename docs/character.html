@@ -213,6 +213,12 @@
       var themeBtn = document.getElementById('theme-toggle');
       if (themeBtn) themeBtn.addEventListener('click', function(){ setTimeout(function(){ var f = document.querySelector('.giscus-frame'); if (f) f.contentWindow.postMessage({ giscus: { setConfig: { theme: theme() } } }, 'https://giscus.app'); }, 50); });
     })();
+    // Register the service worker (PWA offline / image caching)
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function(){
+        navigator.serviceWorker.register('sw.js').catch(function(){});
+      });
+    }
   </script>
   <script src="character.js"></script>
 </body>
