@@ -107,6 +107,16 @@ body {
 
 /* Header action icon buttons (random / social / comment / theme) */
 .topbar-actions { display: flex; align-items: center; gap: .3rem; flex-shrink: 0; }
+/* Install-to-home-screen button (shown only when beforeinstallprompt fires) */
+.install-btn {
+  display: inline-flex; align-items: center; gap: .25rem; flex-shrink: 0;
+  background: linear-gradient(135deg, var(--pink), var(--purple)); color: #fff;
+  border: none; border-radius: 20px; padding: .35rem .7rem;
+  font-family: inherit; font-size: .78rem; font-weight: 700; cursor: pointer;
+  transition: transform .2s;
+}
+.install-btn[hidden] { display: none; }
+.install-btn:hover { transform: scale(1.05); }
 .random-cat-button, .social-fab, .act-btn {
   width: 40px; height: 40px; padding: 0; border-radius: 50%; border: none;
   background: transparent; color: var(--pink); cursor: pointer; font-size: 0;

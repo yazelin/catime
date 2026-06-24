@@ -13,18 +13,49 @@
 <body>
   <div id="sticky-header">
   <header id="topbar">
-    <a href="index.html" class="back-link" title="返回 Gallery">
-      <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
-      <span>Gallery</span>
-    </a>
-    <a href="index.html" style="display:flex;align-items:center;text-decoration:none;gap:.6rem">
+    <a class="brand" href="index.html">
       <img src="icon-192.png" alt="Catime" class="logo-icon">
       <h1>Catime</h1>
     </a>
-    <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式" style="margin-left:auto"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    <div class="topbar-actions" style="margin-left:auto">
+      <a href="index.html" id="act-home" class="act-btn" aria-label="首頁" title="首頁"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg></a>
+      <button type="button" id="social-toggle" class="social-fab" aria-label="社群連結" title="社群連結"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></button>
+      <button type="button" id="act-comment" class="act-btn" aria-label="留言" title="留言"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
+      <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
   </header>
   <div id="character-bar" class="character-bar character-bar--page"></div>
   </div>
+
+  <!-- social links popover (anchored to #social-toggle) -->
+  <div id="social-pop" class="social-pop">
+    <a href="https://github.com/yazelin/catime" target="_blank" rel="noopener" class="github-link" title="GitHub"><svg viewBox="0 0 16 16" width="22" height="22" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a>
+    <a href="https://t.me/catime_yaze" target="_blank" rel="noopener" class="tg-link" title="Telegram"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+    <a href="https://www.facebook.com/yaze.lin.gm" target="_blank" rel="noopener" class="fb-link" title="Facebook"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg></a>
+    <a href="https://buymeacoffee.com/yazelin" target="_blank" rel="noopener" class="bmc-link" title="請我喝咖啡"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M4 3h13a1 1 0 0 1 1 1v2h2a3 3 0 0 1 0 6h-2.2A6 6 0 0 1 12 16H9a6 6 0 0 1-6-6V4a1 1 0 0 1 1-1Zm14 5v2h2a1 1 0 0 0 0-2h-2ZM3 19h16v2H3z"/></svg></a>
+    <a href="feed.xml" class="rss-link" title="RSS Feed"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M6.18 15.64a2.18 2.18 0 1 1 0 4.36 2.18 2.18 0 0 1 0-4.36zM4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44zm0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/></svg></a>
+  </div>
+
+  <!-- Giscus comment panel (per-character thread) -->
+  <button id="giscus-toggle" class="back-to-top giscus-toggle" aria-label="Toggle comments" aria-expanded="false" style="display:none"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
+  <aside id="giscus-panel" class="giscus-panel" aria-hidden="true" role="dialog" aria-labelledby="giscus-title">
+    <div id="giscus-container" class="giscus-panel-body">
+      <section id="giscus-section">
+        <div class="giscus-panel-header">
+          <h2 id="giscus-title"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" style="vertical-align:middle"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> 留言討論</h2>
+          <button id="giscus-panel-close" aria-label="Close comments">×</button>
+        </div>
+      </section>
+    </div>
+  </aside>
+
+  <!-- Mobile bottom tab bar (≤600px) -->
+  <nav id="tabbar" class="tabbar" aria-label="主選單">
+    <a id="tab-home" href="index.html" class="tab" aria-label="首頁"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg><span>首頁</span></a>
+    <button type="button" id="tab-char" class="tab" aria-label="角色"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M4.5 12.75a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5-4a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5 0a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5 4a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zM12 14c-2.5 0-4.5 2-4.5 4 0 1.1.9 2 2 2 .8 0 1.5-.4 2.5-.4s1.7.4 2.5.4c1.1 0 2-.9 2-2 0-2-2-4-4.5-4z"/></svg><span>角色</span></button>
+    <button type="button" id="tab-social" class="tab" aria-label="社群連結"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg><span>社群</span></button>
+    <button type="button" id="tab-comment" class="tab" aria-label="留言"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>留言</span></button>
+  </nav>
 
   <main class="character-page">
     <div id="character-profile" class="character-card">
@@ -81,6 +112,89 @@
           }).catch(function(){});
         });
       }).catch(function(){});
+    })();
+  </script>
+  <script>
+    // Nav shell: social popover + character switcher (mobile) + comment + tab bar
+    (function(){
+      var socialToggle = document.getElementById('social-toggle');
+      var socialPop = document.getElementById('social-pop');
+      var charBar = document.getElementById('character-bar');
+      var tabbar = document.getElementById('tabbar');
+      if (!socialToggle || !socialPop) return;
+      function setTab(id, on){ var t = document.getElementById(id); if (t) t.classList.toggle('active', on); }
+      function openSocial(open){
+        socialPop.classList.toggle('open', open);
+        if (open && charBar) charBar.classList.remove('char-open');
+        setTab('tab-social', open); if (open) setTab('tab-char', false);
+      }
+      function openChar(open){
+        if (!charBar) return;
+        charBar.classList.toggle('char-open', open);
+        if (open) socialPop.classList.remove('open');
+        setTab('tab-char', open); if (open) setTab('tab-social', false);
+      }
+      socialToggle.addEventListener('click', function(e){ e.stopPropagation(); openSocial(!socialPop.classList.contains('open')); });
+      socialPop.addEventListener('click', function(e){ e.stopPropagation(); });
+      if (charBar) charBar.addEventListener('click', function(e){ e.stopPropagation(); });
+      document.addEventListener('click', function(){ socialPop.classList.remove('open'); if (charBar) charBar.classList.remove('char-open'); setTab('tab-social', false); setTab('tab-char', false); });
+
+      var actComment = document.getElementById('act-comment');
+      if (actComment) actComment.addEventListener('click', function(e){ e.stopPropagation(); var g = document.getElementById('giscus-toggle'); if (g) g.click(); });
+
+      function bindTab(id, fn){ var t = document.getElementById(id); if (t) t.addEventListener('click', function(e){ e.stopPropagation(); fn(); }); }
+      bindTab('tab-social', function(){ openSocial(!socialPop.classList.contains('open')); });
+      bindTab('tab-char', function(){ openChar(!(charBar && charBar.classList.contains('char-open'))); });
+      bindTab('tab-comment', function(){ var g = document.getElementById('giscus-toggle'); if (g) g.click(); });
+
+      function syncTabbarH(){ if (tabbar) document.documentElement.style.setProperty('--tabbar-h', tabbar.offsetHeight + 'px'); }
+      syncTabbarH();
+      window.addEventListener('resize', syncTabbarH);
+      if (window.ResizeObserver && tabbar) new ResizeObserver(syncTabbarH).observe(tabbar);
+    })();
+
+    // Giscus comment panel — one thread per character (data-term = char-<id>)
+    (function() {
+      var toggle = document.getElementById('giscus-toggle');
+      var panel = document.getElementById('giscus-panel');
+      var closeBtn = document.getElementById('giscus-panel-close');
+      var loaded = false;
+      var charId = new URLSearchParams(window.location.search).get('id') || 'unknown';
+      function theme(){
+        var t = document.documentElement.getAttribute('data-theme');
+        if (t) return t === 'dark' ? 'dark' : 'light';
+        return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      function load(){
+        if (loaded) return;
+        var section = document.getElementById('giscus-section');
+        if (!section) return;
+        var mount = document.createElement('div'); mount.id = 'giscus-mount'; section.appendChild(mount);
+        var s = document.createElement('script');
+        s.src = 'https://giscus.app/client.js';
+        s.setAttribute('data-repo', 'yazelin/catime');
+        s.setAttribute('data-repo-id', 'R_kgDOREojMg');
+        s.setAttribute('data-category', 'General');
+        s.setAttribute('data-category-id', 'DIC_kwDOREojMs4C2KHU');
+        s.setAttribute('data-mapping', 'specific');
+        s.setAttribute('data-term', 'char-' + charId);
+        s.setAttribute('data-strict', '0');
+        s.setAttribute('data-reactions-enabled', '1');
+        s.setAttribute('data-emit-metadata', '0');
+        s.setAttribute('data-input-position', 'top');
+        s.setAttribute('data-theme', theme());
+        s.setAttribute('data-lang', 'zh-TW');
+        s.setAttribute('data-loading', 'lazy');
+        s.crossOrigin = 'anonymous'; s.async = true;
+        mount.appendChild(s); loaded = true;
+      }
+      function open(){ if (!panel) return; panel.classList.add('open'); panel.setAttribute('aria-hidden','false'); load(); if (closeBtn) closeBtn.focus(); }
+      function close(){ if (!panel) return; panel.classList.remove('open'); panel.setAttribute('aria-hidden','true'); }
+      if (toggle) toggle.addEventListener('click', function(){ panel.classList.contains('open') ? close() : open(); });
+      if (closeBtn) closeBtn.addEventListener('click', close);
+      document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && panel && panel.classList.contains('open')) close(); });
+      var themeBtn = document.getElementById('theme-toggle');
+      if (themeBtn) themeBtn.addEventListener('click', function(){ setTimeout(function(){ var f = document.querySelector('.giscus-frame'); if (f) f.contentWindow.postMessage({ giscus: { setConfig: { theme: theme() } } }, 'https://giscus.app'); }, 50); });
     })();
   </script>
   <script src="character.js"></script>
