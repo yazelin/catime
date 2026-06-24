@@ -325,18 +325,28 @@
 
   // ── Image error handler ──
   function handleImgError(img, isLightbox) {
-    if (isLightbox) {
-      const placeholder = document.createElement("div");
-      placeholder.className = "lb-img-error";
-      placeholder.textContent = "🐱";
-      img.replaceWith(placeholder);
-    } else {
-      const placeholder = document.createElement("div");
-      placeholder.className = "img-error";
-      placeholder.textContent = "🐱";
-      img.replaceWith(placeholder);
-    }
+    const placeholder = document.createElement("div");
+    placeholder.className = isLightbox ? "lb-img-error" : "img-error";
+    placeholder.textContent = "🐱";
+    // remember the URL so we can recover this image when the network returns
+    if (!isLightbox && img.src) placeholder.dataset.retry = img.src;
+    img.replaceWith(placeholder);
   }
+
+  // When the network comes back, retry the card images that failed offline
+  // (a failed <img> never re-requests on its own).
+  window.addEventListener("online", () => {
+    document.querySelectorAll(".img-error[data-retry]").forEach(ph => {
+      const card = ph.closest(".card");
+      const img = document.createElement("img");
+      img.src = ph.dataset.retry;
+      img.alt = "";
+      img.loading = "lazy";
+      img.addEventListener("load", () => { if (card) sizeCard(card); });
+      img.addEventListener("error", () => { handleImgError(img, false); if (card) sizeCard(card); });
+      ph.replaceWith(img);
+    });
+  });
 
   // ── Render cards ──
   // ── Masonry row-span sizing ──
