@@ -156,10 +156,63 @@
       }
       gallery.querySelectorAll(".skeleton-card").forEach(el => el.remove());
       applyFilter();
+      checkForNewCats();
     })
     .catch(err => {
       showGalleryError("載入貓咪列表失敗，請稍後重試");
     });
+
+  // "最新" band — stale-while-revalidate. The gallery you first see is the
+  // locally cached list (instant). In the background we pull the truly-latest
+  // list (cache-busted, bypasses the SW cache); if it has cats newer than the
+  // cached max, those lead the gallery and get highlighted in the 最新 band.
+  // No new cats → leave the cached list untouched.
+  function checkForNewCats() {
+    if (!allCats.length) return;
+    const cachedMax = allCats.reduce((m, c) => Math.max(m, c.number || 0), 0);
+    fetch(CATLIST_URL + (CATLIST_URL.includes("?") ? "&" : "?") + "_=" + Date.now())
+      .then(r => r.ok ? r.json() : null)
+      .then(fresh => {
+        if (!Array.isArray(fresh)) return;
+        const newCats = fresh
+          .filter(c => c.status !== "failed" && (c.number || 0) > cachedMax)
+          .sort((a, b) => (b.number || 0) - (a.number || 0));
+        if (!newCats.length) return;
+        allCats = newCats.concat(allCats);
+        newCats.forEach(c => catDates.add(c.timestamp.split(" ")[0]));
+        applyFilter();
+        renderNewestBand(newCats);
+      })
+      .catch(() => {});
+  }
+
+  function renderNewestBand(newCats) {
+    const band = document.getElementById("newest-band");
+    if (!band) return;
+    band.innerHTML = "";
+    const head = document.createElement("div");
+    head.className = "newest-head";
+    head.textContent = "最新 · 你離開後多了 " + newCats.length + " 隻新貓";
+    band.appendChild(head);
+    const row = document.createElement("div");
+    row.className = "newest-row";
+    newCats.slice(0, 40).forEach(cat => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "newest-item";
+      btn.setAttribute("aria-label", "Cat #" + cat.number);
+      const img = document.createElement("img");
+      img.src = cat.url;
+      img.alt = "Cat #" + cat.number;
+      img.loading = "lazy";
+      img.addEventListener("error", () => handleImgError(img, false));
+      btn.appendChild(img);
+      btn.addEventListener("click", () => openLightbox(cat, filtered.indexOf(cat)));
+      row.appendChild(btn);
+    });
+    band.appendChild(row);
+    band.classList.remove("hidden");
+  }
 
   // Canonical model name = text before the first " (" — drops the verbose
   // "(fallback from …, reason: …)" annotations so the filter lists a handful

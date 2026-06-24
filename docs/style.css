@@ -1181,3 +1181,29 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
 }
 
 @media (max-width: 600px) { #timeline-toggle { display: none; } }
+
+/* "最新" band — cats added since your last visit */
+.newest-band {
+  margin: 0 130px 0 0; padding: .85rem 1.2rem;
+  border-bottom: 2px dashed var(--pink-light);
+}
+.newest-head {
+  font-size: .9rem; font-weight: 800; color: var(--pink);
+  margin-bottom: .6rem; display: flex; align-items: center; gap: .4rem;
+}
+.newest-head .spark { font-size: 1rem; }
+.newest-row {
+  display: flex; gap: .6rem; overflow-x: auto; padding-bottom: .3rem;
+  -webkit-overflow-scrolling: touch;
+}
+.newest-item {
+  flex: 0 0 auto; width: 96px; height: 96px; padding: 0;
+  border: 2px solid var(--pink); border-radius: 14px; overflow: hidden;
+  cursor: pointer; background: var(--surface); transition: transform .15s;
+}
+.newest-item:hover { transform: translateY(-3px) scale(1.03); }
+.newest-item img { width: 100%; height: 100%; object-fit: cover; display: block; }
+@media (max-width: 600px) {
+  .newest-band { margin-right: 0; padding: .7rem 1rem; }
+  .newest-item { width: 84px; height: 84px; }
+}
