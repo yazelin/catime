@@ -875,6 +875,7 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
   border-bottom: 2px solid var(--pink-light);
   box-shadow: 0 2px 8px var(--shadow);
 }
+@media (max-width: 600px) { .character-bar--page { display: none; } }
 @media (min-width: 601px) {
   .character-bar.char-open {
     position: fixed; top: 58px; right: 1rem; z-index: 120;
