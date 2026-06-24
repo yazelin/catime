@@ -1,4 +1,4 @@
-const STATIC_CACHE = "catime-static-v3";   // html/css/js/icons — replaced on each app update
+const STATIC_CACHE = "catime-static-v4";   // html/css/js/icons — replaced on each app update
 const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
