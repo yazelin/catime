@@ -130,8 +130,8 @@
     </div>
   </div>
   <div id="character-bar" class="character-bar"></div>
-  </div>
   <div id="sheet-backdrop" class="sheet-backdrop"></div>
+  </div>
 
   <nav id="timeline" aria-label="Timeline navigation">
     <button id="timeline-toggle" aria-label="Toggle timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
@@ -439,6 +439,18 @@
       // Character segmented chips — built from the dynamically-populated select
       var charSelect = document.getElementById('character-filter');
       var charChips = document.getElementById('character-chips');
+      function avatarSrcFor(name){
+        var links = document.querySelectorAll('#character-bar a');
+        for (var i = 0; i < links.length; i++){
+          var spans = links[i].querySelectorAll('span');
+          var lbl = spans[spans.length - 1];
+          if (lbl && lbl.textContent.trim() === name){
+            var img = links[i].querySelector('img');
+            return img ? img.getAttribute('src') : null;
+          }
+        }
+        return null;
+      }
       function buildCharChips(){
         if (!charSelect || !charChips) return;
         charChips.innerHTML = '';
@@ -447,7 +459,18 @@
           b.type = 'button';
           b.className = 'chip' + (opt.value === charSelect.value ? ' active' : '');
           b.dataset.val = opt.value;
-          b.textContent = opt.value === '' ? '全部' : opt.textContent;
+          if (opt.value === '') {
+            b.textContent = '全部';
+          } else {
+            var src = avatarSrcFor(opt.value);
+            if (src){
+              var im = document.createElement('img');
+              im.src = src; im.alt = ''; im.className = 'chip-avatar';
+              im.width = 18; im.height = 18; im.loading = 'lazy';
+              b.appendChild(im);
+            }
+            b.appendChild(document.createTextNode(opt.textContent));
+          }
           b.addEventListener('click', function(){
             charSelect.value = opt.value;
             charSelect.dispatchEvent(new Event('change', { bubbles: true }));
@@ -464,6 +487,8 @@
       if (charSelect) {
         buildCharChips();
         new MutationObserver(buildCharChips).observe(charSelect, { childList: true });
+        // rebuild once the avatar bar loads so chips can show their icons
+        if (charBar) new MutationObserver(buildCharChips).observe(charBar, { childList: true });
         charSelect.addEventListener('change', syncCharChips);
       }
 

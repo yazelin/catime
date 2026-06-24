@@ -25,6 +25,13 @@
   --topbar-border: var(--pink-light);
 }
 
+/* Hide the native page scrollbar (app-like). On an infinite feed a full-height
+   scrollbar is meaningless and, with classic scrollbars, its appearing/
+   disappearing shifts the fixed tab bar. Scroll still works via wheel / touch /
+   the year-month rail. */
+html, body { scrollbar-width: none; }
+html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
+
 /* Sticky header wrapper */
 #sticky-header {
   position: sticky;
@@ -1075,7 +1082,12 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
 .chip {
   border: none; background: transparent; cursor: pointer; font-family: inherit;
   font-size: .8rem; font-weight: 700; color: var(--text-muted);
-  padding: .35rem .85rem; border-radius: 18px; transition: background .15s, color .15s;
+  padding: .3rem .8rem; border-radius: 18px; transition: background .15s, color .15s;
+  display: inline-flex; align-items: center; gap: .3rem;
+}
+.chip-avatar {
+  width: 18px; height: 18px; border-radius: 50%; object-fit: cover;
+  border: 1px solid var(--pink-light);
 }
 .chip.active { background: #fff; color: var(--pink); box-shadow: 0 1px 4px var(--shadow); }
 [data-theme="dark"] .chip-group { background: rgba(255,107,157,.1); }
