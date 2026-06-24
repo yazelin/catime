@@ -1,4 +1,4 @@
-const STATIC_CACHE = "catime-static-v4";   // html/css/js/icons — replaced on each app update
+const STATIC_CACHE = "catime-static-v5";   // html/css/js/icons — network-first, cache is offline fallback
 const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
@@ -64,7 +64,8 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // App shell (html/css/js/icons): cache-first.
+  // App shell (html/css/js/icons): network-first so a deploy shows up on the
+  // next load without cache-busting; fall back to cache only when offline.
   const isStatic =
     request.destination === "document" ||
     request.destination === "style" ||
@@ -72,16 +73,15 @@ self.addEventListener("fetch", (event) => {
     (request.destination === "image" && ICON_RE.test(url.pathname));
   if (isStatic) {
     event.respondWith(
-      caches.match(request).then((cached) =>
-        cached ||
-        fetch(request).then((resp) => {
+      fetch(request)
+        .then((resp) => {
           if (resp && resp.ok) {
             const copy = resp.clone();
             caches.open(STATIC_CACHE).then((c) => c.put(request, copy));
           }
           return resp;
         })
-      )
+        .catch(() => caches.match(request))
     );
   }
 });
