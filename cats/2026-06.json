@@ -6504,5 +6504,40 @@
     "character": "captain",
     "character_name": "船長",
     "number": 2257
+  },
+  {
+    "story": "科學家在幽暗的地下洞穴中有了驚人發現，但最先抵達現場的探險家其實是一隻充滿好奇心的貓咪。牠趴在岩石邊緣，伸長了爪子試圖觸碰那具封存百萬年的會飛鴞鸚鵡祖先化石。微光穿透石縫，照亮了這場跨越時空的世紀相遇。",
+    "avoid_list": [
+      "水晶玻璃蒸籠",
+      "維多利亞式鑄鐵鏤空溫室",
+      "老舊鋼鐵工廠巨型齒輪",
+      "鳥瞰畫面俯瞰",
+      "長卷式等距攝影",
+      "魚眼鏡頭與長曝光",
+      "用爪子撥弄",
+      "戴著橘色手套的右前腳",
+      "左眼戴著眼罩的壯碩虎斑貓",
+      "倫勃朗光強烈明暗對比",
+      "環形燈般柔和水面反光",
+      "莫蘭迪色調灰藍與霧粉"
+    ],
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Pastel Colors"
+    },
+    "news_inspiration": [
+      "在墨西哥首都墨西哥城，一隻身穿國家足球隊球衣、打著領帶的寵物鴨「梅林」在總統的新聞發布會上大搖大擺走入會場，意外搶走全場焦點。",
+      "科學家在紐西蘭的一處洞穴內發現了擁有一百萬年歷史的化石「時間膠囊」，其中包含疑似鴞鸚鵡會飛的祖先，揭示了該國古代獨特的生態系統。",
+      "在美國休士頓舉行的2026年世界盃足球賽分組賽中，葡萄牙球星克里斯蒂亞諾·羅納度射門得分，成為世界盃歷史上第二年長的進球球員。"
+    ],
+    "comment_id": 4786582361,
+    "inspiration": "科學家在紐西蘭的一處洞穴內發現了擁有一百萬年歷史的化石「時間膠囊」，其中包含疑似鴞鸚鵡會飛的祖先，揭示了該國古代獨特的生態系統。",
+    "title": "百萬年的微光凝視",
+    "prompt": "A cinematic storyboard grid shot of a mysterious hairless cat deep within a massive New Zealand stalactite cave. Using a forced perspective composition, the cat extends its front paw toward the camera, making it appear as though it is about to grab an ancient avian fossil of a flying kakapo ancestor in the distant background. The entire scene is illuminated by soft diffused natural light with gentle tones and no harsh shadows, following a soft pastel color palette of lavender, mint, and baby blue. Shimmering particles and magical glow dust of ancient spore crystals float in the air with sparkle and glitter overlay effects. The text '2026-06-24 06:34 UTC' is clearly and visually displayed in the corner of the frame.",
+    "number": 2258,
+    "idea": "這是一幅採用電影分鏡風格的畫面，一隻神祕的無毛貓在紐西蘭巨型鐘乳石洞穴深處，利用強制透視伸出前爪，彷彿正要抓取遠處一具遠古鳥類化石。整個場景瀰漫著粉彩色系的自然漫射光，空氣中飄散著如閃光亮粉效果般的古老孢子結晶。"
   }
 ]
