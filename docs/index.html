@@ -59,44 +59,21 @@
 <body>
   <div id="sticky-header">
   <header id="topbar">
-    <img src="icon-192.png" alt="Catime" class="logo-icon">
-    <h1>Catime <span id="cat-count" class="cat-count"></span></h1>
-    <div class="filters">
-      <div class="sheet-head">
-        <span class="sheet-title">篩選</span>
-        <button type="button" id="sheet-close" class="sheet-close" aria-label="關閉">✕</button>
-      </div>
-      <input type="search" id="search-input" class="search-input" placeholder="Search #number or title...">
+    <a class="brand" href="index.html">
+      <img src="icon-192.png" alt="Catime" class="logo-icon">
+      <h1>Catime <span id="cat-count" class="cat-count"></span></h1>
+    </a>
+    <div class="search-wrap">
+      <svg class="search-ic" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="search" id="search-input" class="search-input" placeholder="搜尋 #編號 或標題…">
+    </div>
+    <div class="topbar-actions">
       <button id="random-cat-btn" class="random-cat-button" title="隨機一喵" aria-label="隨機一喵"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zM7.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg> 隨機一喵</button>
-      <select id="character-filter">
-        <option value="">All Characters</option>
-      </select>
-      <select id="inspiration-filter">
-        <option value="">All Inspiration</option>
-        <option value="original">原創</option>
-        <option value="news">新聞靈感</option>
-      </select>
-      <select id="model-filter">
-        <option value="">All Models</option>
-      </select>
-      <div class="date-picker" id="date-picker">
-        <button class="date-picker-btn" id="date-picker-btn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> All Dates</button>
-        <div class="date-dropdown hidden" id="date-dropdown">
-          <div class="dd-header">
-            <button class="dd-nav" id="dd-prev">&lsaquo;</button>
-            <span id="dd-month-label"></span>
-            <button class="dd-nav" id="dd-next">&rsaquo;</button>
-          </div>
-          <div class="dd-weekdays">
-            <span>Su</span><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span>
-          </div>
-          <div class="dd-days" id="dd-days"></div>
-          <button class="dd-clear" id="dd-clear">Clear</button>
-        </div>
-      </div>
+      <button type="button" id="social-toggle" class="social-fab" aria-label="社群連結" title="社群連結"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></button>
+      <button type="button" id="act-comment" class="act-btn" aria-label="留言" title="留言"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
+      <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
     </div>
     <button type="button" id="filter-toggle" class="filter-toggle hdr-btn" aria-label="篩選" title="篩選"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M3 4h18v2.6L14 14v6l-4-2.2V14L3 6.6z"/></svg></button>
-    <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
     <a href="https://github.com/yazelin/catime" target="_blank" rel="noopener" class="github-link" title="View on GitHub">
       <svg viewBox="0 0 16 16" width="22" height="22" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
     </a>
@@ -113,6 +90,43 @@
       <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M6.18 15.64a2.18 2.18 0 1 1 0 4.36 2.18 2.18 0 0 1 0-4.36zM4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44zm0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/></svg>
     </a>
   </header>
+  <div class="filters">
+    <div class="sheet-head">
+      <span class="sheet-title">篩選</span>
+      <button type="button" id="sheet-close" class="sheet-close" aria-label="關閉">✕</button>
+    </div>
+    <div class="chip-group" id="inspiration-chips" role="group" aria-label="靈感">
+      <button type="button" class="chip active" data-val="">全部</button>
+      <button type="button" class="chip" data-val="original">原創</button>
+      <button type="button" class="chip" data-val="news">新聞靈感</button>
+    </div>
+    <select id="inspiration-filter" class="visually-hidden" tabindex="-1" aria-hidden="true">
+      <option value="">All Inspiration</option>
+      <option value="original">原創</option>
+      <option value="news">新聞靈感</option>
+    </select>
+    <select id="character-filter">
+      <option value="">All Characters</option>
+    </select>
+    <select id="model-filter">
+      <option value="">All Models</option>
+    </select>
+    <div class="date-picker" id="date-picker">
+      <button class="date-picker-btn" id="date-picker-btn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> All Dates</button>
+      <div class="date-dropdown hidden" id="date-dropdown">
+        <div class="dd-header">
+          <button class="dd-nav" id="dd-prev">&lsaquo;</button>
+          <span id="dd-month-label"></span>
+          <button class="dd-nav" id="dd-next">&rsaquo;</button>
+        </div>
+        <div class="dd-weekdays">
+          <span>Su</span><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span>
+        </div>
+        <div class="dd-days" id="dd-days"></div>
+        <button class="dd-clear" id="dd-clear">Clear</button>
+      </div>
+    </div>
+  </div>
   <div id="character-bar" class="character-bar"></div>
   </div>
   <div id="sheet-backdrop" class="sheet-backdrop"></div>
@@ -134,11 +148,11 @@
   </main>
   <div id="end-msg" class="hidden">No more cats! 🐱</div>
 
-  <!-- Floating social FAB (above the comment button) + its links popover -->
-  <button type="button" id="social-toggle" class="social-fab" aria-label="社群連結" title="社群連結"><svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></button>
+  <!-- Social links popover (anchored to the #social-toggle in the top bar) -->
   <div id="social-pop" class="social-pop"></div>
 
-  <!-- Floating Giscus button & slide-in panel -->
+  <!-- Giscus comment panel (toggled by #act-comment / tab-comment) -->
+  <button id="giscus-toggle" class="back-to-top giscus-toggle" aria-label="Toggle comments" aria-expanded="false" style="display:none"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
   <button id="giscus-toggle" class="back-to-top giscus-toggle" aria-label="Toggle comments" aria-expanded="false"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
   <aside id="giscus-panel" class="giscus-panel" aria-hidden="true" role="dialog" aria-labelledby="giscus-title">
     <div id="giscus-container" class="giscus-panel-body">
@@ -341,9 +355,15 @@
         document.querySelectorAll('#topbar .github-link, #topbar .tg-link, #topbar .fb-link, #topbar .bmc-link, #topbar .rss-link')
       ).forEach(function(a){ socialPop.appendChild(a); });
 
-      // Random button is a floating FAB at all sizes — move it out to <body>
-      // so position:fixed isn't trapped by the sheet's transformed ancestor.
-      if (randomBtn) document.body.appendChild(randomBtn);
+      // Search lives in the top bar on desktop, inside the sheet on mobile.
+      var searchWrap = document.querySelector('.search-wrap');
+      var searchEl = document.getElementById('search-input');
+      var sheetHead = filters.querySelector('.sheet-head');
+      function placeSearch(){
+        if (!searchEl) return;
+        if (mq.matches) { filters.insertBefore(searchEl, sheetHead ? sheetHead.nextSibling : filters.firstChild); }
+        else if (searchWrap) { searchWrap.appendChild(searchEl); }
+      }
 
       var charBar = document.getElementById('character-bar');
       function openSheet(open){
@@ -401,19 +421,37 @@
       bindTab('tab-random', function(){ if (randomBtn) randomBtn.click(); });
       bindTab('tab-comment', function(){ var g = document.getElementById('giscus-toggle'); if (g) g.click(); });
 
+      // desktop top-right "留言" icon → drives the (hidden) giscus toggle
+      var actComment = document.getElementById('act-comment');
+      if (actComment) actComment.addEventListener('click', function(e){ e.stopPropagation(); var g = document.getElementById('giscus-toggle'); if (g) g.click(); });
+
+      // Inspiration segmented chips drive the hidden <select id="inspiration-filter">
+      var inspSelect = document.getElementById('inspiration-filter');
+      var chips = document.querySelectorAll('#inspiration-chips .chip');
+      chips.forEach(function(chip){
+        chip.addEventListener('click', function(){
+          chips.forEach(function(c){ c.classList.remove('active'); });
+          chip.classList.add('active');
+          if (inspSelect && inspSelect.value !== chip.dataset.val) {
+            inspSelect.value = chip.dataset.val;
+            inspSelect.dispatchEvent(new Event('change', { bubbles: true }));
+          }
+        });
+      });
+
       ['character-filter','inspiration-filter','model-filter'].forEach(function(id){
         var el = document.getElementById(id);
         if (el) el.addEventListener('change', function(){ updateActive(); if (mq.matches) openSheet(false); });
       });
-      var searchEl = document.getElementById('search-input');
       if (searchEl) searchEl.addEventListener('input', updateActive);
       document.addEventListener('click', function(e){
         if (e.target.closest('#date-picker') || e.target.id === 'dd-clear') setTimeout(updateActive, 0);
       });
 
+      placeSearch();
       updateActive();
-      // leaving mobile closes the filter sheet (it's desktop-inline there)
-      var onChange = function(){ if (!mq.matches) openSheet(false); };
+      // re-place search + close the sheet when crossing the mobile breakpoint
+      var onChange = function(){ placeSearch(); if (!mq.matches) openSheet(false); };
       if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
     })();
   </script>

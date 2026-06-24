@@ -1,7 +1,13 @@
-const STATIC_CACHE = "catime-static-v2";
+const STATIC_CACHE = "catime-static-v3";   // html/css/js/icons — replaced on each app update
+const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
-const RELEASE_CATS = "https://github.com/yazelin/catime/releases/download/cats/";
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
+
+// A cat image = a GitHub Release asset under any "cats" / "cats-YYYY-MM" tag.
+// These never change once published, so they can be cached forever.
+function isCatImage(url) {
+  return /\/releases\/download\/cats[-/]/.test(url.href) && /\.(webp|png|jpe?g)$/i.test(url.pathname);
+}
 
 self.addEventListener("install", (event) => {
   event.waitUntil(self.skipWaiting());
@@ -10,7 +16,10 @@ self.addEventListener("install", (event) => {
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
-      Promise.all(keys.filter((k) => k !== STATIC_CACHE).map((k) => caches.delete(k)))
+      // drop old static caches; KEEP the cats cache so viewed images survive updates
+      Promise.all(keys
+        .filter((k) => k !== STATIC_CACHE && k !== CATS_CACHE)
+        .map((k) => caches.delete(k)))
     ).then(() => self.clients.claim())
   );
 });
@@ -19,19 +28,34 @@ self.addEventListener("fetch", (event) => {
   const { request } = event;
   if (request.method !== "GET") return;
   const url = new URL(request.url);
-  const isCatlist = CATLIST_RE.test(url.pathname) || url.href.includes("catlist.json");
-  const isReleaseCat = url.href.startsWith(RELEASE_CATS);
-  const isStatic =
-    request.destination === "document" ||
-    request.destination === "style" ||
-    request.destination === "script" ||
-    (request.destination === "image" && ICON_RE.test(url.pathname));
-  if (isCatlist || isReleaseCat) {
+
+  // Cat images: immutable → cache-first, persist forever. Once a cat is in the
+  // cache it is NEVER re-fetched (opaque cross-origin responses are cached too).
+  // ponytail: unbounded — fine for an append-only gallery; the browser evicts
+  // under storage pressure. Add an LRU cap only if quota becomes a real problem.
+  if (isCatImage(url)) {
+    event.respondWith(
+      caches.open(CATS_CACHE).then((cache) =>
+        cache.match(request).then((hit) =>
+          hit ||
+          fetch(request).then((resp) => {
+            if (resp && (resp.ok || resp.type === "opaque")) cache.put(request, resp.clone());
+            return resp;
+          })
+        )
+      )
+    );
+    return;
+  }
+
+  // catlist.json: changes as new cats ship → network-first, fall back to cache offline.
+  if (CATLIST_RE.test(url.pathname) || url.href.includes("catlist.json")) {
     event.respondWith(
       fetch(request)
         .then((resp) => {
           if (resp && resp.ok) {
-            caches.open(STATIC_CACHE).then((c) => c.put(request, resp.clone()));
+            const copy = resp.clone();
+            caches.open(STATIC_CACHE).then((c) => c.put(request, copy));
           }
           return resp;
         })
@@ -39,13 +63,21 @@ self.addEventListener("fetch", (event) => {
     );
     return;
   }
+
+  // App shell (html/css/js/icons): cache-first.
+  const isStatic =
+    request.destination === "document" ||
+    request.destination === "style" ||
+    request.destination === "script" ||
+    (request.destination === "image" && ICON_RE.test(url.pathname));
   if (isStatic) {
     event.respondWith(
       caches.match(request).then((cached) =>
         cached ||
         fetch(request).then((resp) => {
           if (resp && resp.ok) {
-            caches.open(STATIC_CACHE).then((c) => c.put(request, resp.clone()));
+            const copy = resp.clone();
+            caches.open(STATIC_CACHE).then((c) => c.put(request, copy));
           }
           return resp;
         })
