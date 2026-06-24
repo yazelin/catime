@@ -248,6 +248,16 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 }
 .github-link:hover { color: var(--purple); transform: scale(1.15) rotate(-8deg); }
 
+.tg-link, .fb-link, .bmc-link {
+  flex-shrink: 0;
+  transition: color .2s, transform .2s;
+  display: flex; align-items: center;
+}
+.tg-link { color: #229ED9; }
+.fb-link { color: #1877F2; }
+.bmc-link { color: #d8a200; }
+.tg-link:hover, .fb-link:hover, .bmc-link:hover { transform: scale(1.15) rotate(8deg); }
+
 /* Timeline sidebar */
 #timeline {
   position: fixed; top: var(--header-offset, 56px); right: 0; bottom: 0; width: 130px; z-index: 90;
