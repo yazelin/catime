@@ -315,12 +315,18 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 /* Gallery masonry */
 .masonry {
   margin-top: 0; margin-right: 130px; padding: 1.2rem;
-  column-count: 3; column-gap: 1.2rem;
+  /* Row-major waterfall: CSS grid with per-card row-span set in app.js
+     (sizeCard). column-count gave column-major order — new items filled
+     left/right instead of flowing down. grid-auto-rows is the span unit. */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 1.2rem;
+  grid-auto-rows: 4px;
+  align-items: start;
 }
 
 /* Candy color rotation for cards */
 .card {
-  break-inside: avoid; margin-bottom: 1.2rem;
   border-radius: 16px; overflow: hidden;
   cursor: pointer;
   transition: transform .2s ease, box-shadow .2s ease;
@@ -379,7 +385,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 
 /* Month separator */
 .month-sep {
-  break-inside: avoid; padding: .5rem 0; font-size: .95rem;
+  grid-column: 1 / -1; padding: .5rem 0; font-size: .95rem;
   font-weight: 800; letter-spacing: .02em;
   color: var(--pink);
   background: linear-gradient(135deg, var(--pink), var(--purple));
@@ -635,7 +641,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 
 /* Responsive */
 @media (max-width: 1024px) {
-  .masonry { column-count: 2; margin-right: 0; }
+  .masonry { grid-template-columns: repeat(2, 1fr); margin-right: 0; }
   #end-msg { margin-right: 0; }
   #timeline { transform: translateX(100%); }
   #timeline.open { transform: translateX(0); }
@@ -643,7 +649,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   .back-to-top { bottom: 4.5rem; }
 }
 @media (max-width: 600px) {
-  .masonry { column-count: 1; padding: .8rem; margin-top: 0; }
+  .masonry { grid-template-columns: 1fr; padding: .8rem; margin-top: 0; }
   #topbar { gap: .4rem; padding: .5rem .6rem; }
   #topbar h1 { font-size: 1.1rem; }
   .logo-icon { width: 28px; height: 28px; }

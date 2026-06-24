@@ -329,6 +329,31 @@
   }
 
   // ── Render cards ──
+  // ── Masonry row-span sizing ──
+  // .masonry is a CSS grid with a 4px row unit; each child spans as many rows
+  // as its real height needs, so columns pack independently (true waterfall,
+  // row-major order) with no per-row dead space. Recompute on image load /
+  // error (heights change) and on resize (column width changes).
+  const MASONRY_ROW = 4;   // px, must match grid-auto-rows in .masonry
+  const MASONRY_GAP = 19;  // ~1.2rem vertical gap baked into each span
+  function sizeCard(el) {
+    if (!el || el.nodeType !== 1) return;
+    // Span applies in every column count (incl. single-column mobile, since
+    // grid-auto-rows:4px clamps un-spanned items). Clear first so we measure
+    // natural height, not the previous span.
+    el.style.gridRowEnd = "";
+    const h = el.scrollHeight;  // content height, unaffected by the 4px track clamp
+    if (h > 0) el.style.gridRowEnd = "span " + Math.ceil((h + MASONRY_GAP) / MASONRY_ROW);
+  }
+  function resizeAllCards() {
+    gallery.querySelectorAll(".card, .month-sep").forEach(sizeCard);
+  }
+  let resizeTimer = null;
+  window.addEventListener("resize", () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(resizeAllCards, 150);
+  });
+
   function loadMore() {
     if (loading || loaded >= filtered.length) return;
     loading = true;
@@ -369,6 +394,7 @@
       img.src = cat.url;
       img.alt = `Cat #${cat.number}`;
       img.loading = "lazy";
+      img.addEventListener("load", () => sizeCard(card));
       cardImgWrap.appendChild(img);
       if (likeCount > 0) {
         const likeBadge = document.createElement("span");
@@ -421,7 +447,7 @@
       card.appendChild(cardImgWrap);
       card.appendChild(cardInfo);
       // Image error handling
-      img.addEventListener("error", () => handleImgError(img, false));
+      img.addEventListener("error", () => { handleImgError(img, false); sizeCard(card); });
       card.addEventListener("click", () => {
         triggerCard = card;
         openLightbox(cat, loaded - slice.length + i + (frag.contains(card) ? 0 : 0));
@@ -435,7 +461,9 @@
       });
       frag.appendChild(card);
     });
+    const newNodes = Array.from(frag.children);
     gallery.appendChild(frag);
+    newNodes.forEach(sizeCard);
     loaded += slice.length;
     loading = false;
     if (loaded >= filtered.length) {
