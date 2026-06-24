@@ -1037,8 +1037,16 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
   /* actions live in the tab bar — hide header action icons + funnel; search
      moves into the sheet (JS), so its topbar wrapper is hidden */
   .filter-toggle, .random-cat-button, .social-fab, .act-btn, .giscus-toggle { display: none !important; }
-  .search-wrap { display: none; }
-  .topbar-actions { margin-left: auto; } /* leaves only the theme toggle, pinned right */
+  /* search lives in the header (left of the theme toggle), not in the sheet */
+  .search-wrap {
+    flex: 1; min-width: 0; position: relative; display: flex; align-items: center;
+  }
+  .search-wrap .search-ic { position: absolute; left: .65rem; color: var(--text-muted); pointer-events: none; }
+  .search-wrap .search-input {
+    width: 100%; max-width: none; padding: .4rem .6rem .4rem 1.9rem; border-radius: 18px; font-size: .8rem;
+  }
+  #topbar h1 { font-size: 1rem; } /* trim brand so search has room */
+  .cat-count { display: none; }
 
   /* character bar: hidden on home, opens as a strip flush above the bar */
   #character-bar { display: none; }

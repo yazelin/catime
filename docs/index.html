@@ -357,15 +357,7 @@
         document.querySelectorAll('#topbar .github-link, #topbar .tg-link, #topbar .fb-link, #topbar .bmc-link, #topbar .rss-link')
       ).forEach(function(a){ socialPop.appendChild(a); });
 
-      // Search lives in the top bar on desktop, inside the sheet on mobile.
-      var searchWrap = document.querySelector('.search-wrap');
-      var searchEl = document.getElementById('search-input');
-      var sheetHead = filters.querySelector('.sheet-head');
-      function placeSearch(){
-        if (!searchEl) return;
-        if (mq.matches) { filters.insertBefore(searchEl, sheetHead ? sheetHead.nextSibling : filters.firstChild); }
-        else if (searchWrap) { searchWrap.appendChild(searchEl); }
-      }
+      var searchEl = document.getElementById('search-input'); // stays in the top bar at all sizes
 
       var charBar = document.getElementById('character-bar');
       function openSheet(open){
@@ -475,19 +467,20 @@
         charSelect.addEventListener('change', syncCharChips);
       }
 
+      // keep the badge in sync, but DON'T auto-close the sheet — let the user
+      // toggle several chips/filters, then close via ✕ / backdrop / 篩選 tab
       ['character-filter','inspiration-filter','model-filter'].forEach(function(id){
         var el = document.getElementById(id);
-        if (el) el.addEventListener('change', function(){ updateActive(); if (mq.matches) openSheet(false); });
+        if (el) el.addEventListener('change', updateActive);
       });
       if (searchEl) searchEl.addEventListener('input', updateActive);
       document.addEventListener('click', function(e){
         if (e.target.closest('#date-picker') || e.target.id === 'dd-clear') setTimeout(updateActive, 0);
       });
 
-      placeSearch();
       updateActive();
-      // re-place search + close the sheet when crossing the mobile breakpoint
-      var onChange = function(){ placeSearch(); if (!mq.matches) openSheet(false); };
+      // close the sheet when leaving mobile (filters become inline on desktop)
+      var onChange = function(){ if (!mq.matches) openSheet(false); };
       if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
     })();
   </script>
