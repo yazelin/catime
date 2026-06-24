@@ -406,8 +406,9 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 .card-info { padding: .6rem .8rem; font-size: .78rem; }
 .card-info .time { color: var(--text-muted); font-weight: 600; }
 .card-info .model {
-  display: inline-block; margin-top: .3rem; padding: .15rem .55rem;
-  border-radius: 20px; font-size: .7rem; font-weight: 700;
+  display: inline-flex; align-items: center; vertical-align: middle;
+  margin-top: .3rem; margin-right: .3rem; padding: .12rem .5rem;
+  border-radius: 20px; font-size: .65rem; font-weight: 700;
   color: #fff;
 }
 /* Rotate model tag colors */
@@ -537,7 +538,7 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
   object-fit: cover;
 }
 .card-info .character-tag { margin-top: .3rem; margin-right: .3rem; }
-.card-info .inspiration-tag { margin-top: .3rem; }
+.card-info .inspiration-tag { margin-top: .3rem; margin-right: .3rem; vertical-align: middle; }
 
 /* Image wrapper - contains overlay elements */
 #lb-img-wrap {
