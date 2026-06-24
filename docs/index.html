@@ -69,6 +69,7 @@
     </div>
     <div class="topbar-actions">
       <button id="random-cat-btn" class="random-cat-button" title="隨機一喵" aria-label="隨機一喵"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zM7.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg> 隨機一喵</button>
+      <button type="button" id="act-char" class="act-btn" aria-label="角色介紹" title="角色介紹"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M4.5 12.75a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5-4a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5 0a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5 4a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zM12 14c-2.5 0-4.5 2-4.5 4 0 1.1.9 2 2 2 .8 0 1.5-.4 2.5-.4s1.7.4 2.5.4c1.1 0 2-.9 2-2 0-2-2-4-4.5-4z"/></svg></button>
       <button type="button" id="social-toggle" class="social-fab" aria-label="社群連結" title="社群連結"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></button>
       <button type="button" id="act-comment" class="act-btn" aria-label="留言" title="留言"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
       <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
@@ -105,7 +106,8 @@
       <option value="original">原創</option>
       <option value="news">新聞靈感</option>
     </select>
-    <select id="character-filter">
+    <div class="chip-group" id="character-chips" role="group" aria-label="角色篩選"></div>
+    <select id="character-filter" class="visually-hidden" tabindex="-1" aria-hidden="true">
       <option value="">All Characters</option>
     </select>
     <select id="model-filter">
@@ -424,6 +426,9 @@
       // desktop top-right "留言" icon → drives the (hidden) giscus toggle
       var actComment = document.getElementById('act-comment');
       if (actComment) actComment.addEventListener('click', function(e){ e.stopPropagation(); var g = document.getElementById('giscus-toggle'); if (g) g.click(); });
+      // desktop top-right "角色" icon → opens the character avatar popover
+      var actChar = document.getElementById('act-char');
+      if (actChar) actChar.addEventListener('click', function(e){ e.stopPropagation(); openChar(!(charBar && charBar.classList.contains('char-open'))); });
 
       // Inspiration segmented chips drive the hidden <select id="inspiration-filter">
       var inspSelect = document.getElementById('inspiration-filter');
@@ -438,6 +443,37 @@
           }
         });
       });
+
+      // Character segmented chips — built from the dynamically-populated select
+      var charSelect = document.getElementById('character-filter');
+      var charChips = document.getElementById('character-chips');
+      function buildCharChips(){
+        if (!charSelect || !charChips) return;
+        charChips.innerHTML = '';
+        Array.prototype.forEach.call(charSelect.options, function(opt){
+          var b = document.createElement('button');
+          b.type = 'button';
+          b.className = 'chip' + (opt.value === charSelect.value ? ' active' : '');
+          b.dataset.val = opt.value;
+          b.textContent = opt.value === '' ? '全部' : opt.textContent;
+          b.addEventListener('click', function(){
+            charSelect.value = opt.value;
+            charSelect.dispatchEvent(new Event('change', { bubbles: true }));
+          });
+          charChips.appendChild(b);
+        });
+      }
+      function syncCharChips(){
+        if (!charChips) return;
+        Array.prototype.forEach.call(charChips.querySelectorAll('.chip'), function(c){
+          c.classList.toggle('active', c.dataset.val === charSelect.value);
+        });
+      }
+      if (charSelect) {
+        buildCharChips();
+        new MutationObserver(buildCharChips).observe(charSelect, { childList: true });
+        charSelect.addEventListener('change', syncCharChips);
+      }
 
       ['character-filter','inspiration-filter','model-filter'].forEach(function(id){
         var el = document.getElementById(id);
