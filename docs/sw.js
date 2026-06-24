@@ -1,4 +1,4 @@
-const STATIC_CACHE = "catime-static-v1";
+const STATIC_CACHE = "catime-static-v2";
 const CATLIST_RE = /catlist\.json$/;
 const RELEASE_CATS = "https://github.com/yazelin/catime/releases/download/cats/";
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;

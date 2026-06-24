@@ -77,20 +77,49 @@ body {
 
 .filters {
   display: flex; gap: .5rem; flex: 1; justify-content: flex-end;
-  align-items: center; flex-wrap: nowrap; min-width: 0; overflow-x: auto;
+  align-items: center; flex-wrap: wrap; min-width: 0;
 }
+/* keep controls readable: don't shrink to the arrow, cap long-option selects */
+.filters select, .filters .search-input,
+.filters .date-picker, .filters .date-picker-btn {
+  flex-shrink: 0;
+}
+.filters select { max-width: 12rem; }
 
-/* Mobile filter sheet chrome — hidden on desktop, shown in the 600px @media */
-.filter-toggle, .sheet-head, .sheet-social, .sheet-social-label, .sheet-backdrop { display: none; }
 .filter-toggle {
   color: var(--pink); flex-shrink: 0; background: none; border: none;
-  padding: 0; cursor: pointer; position: relative; align-items: center;
+  padding: 0; cursor: pointer; position: relative;
+  display: none; align-items: center; /* funnel: mobile only */
 }
+.sheet-head, .sheet-backdrop { display: none; } /* sheet chrome: mobile only */
 .filter-toggle.has-active::after {
   content: ""; position: absolute; top: -1px; right: -1px;
   width: 8px; height: 8px; border-radius: 50%;
   background: var(--pink); border: 1.5px solid var(--topbar-bg);
 }
+
+/* Floating social FAB (above the comment button) + links popover */
+.social-fab {
+  position: fixed; right: 1.2rem; bottom: 5.4rem; z-index: 96;
+  width: 44px; height: 44px; border-radius: 50%; border: none;
+  background: linear-gradient(135deg, var(--pink), var(--purple));
+  color: #fff; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 4px 15px rgba(255,107,157,.35);
+  transition: transform .2s;
+}
+.social-fab svg { width: 22px; height: 22px; }
+.social-fab:hover { transform: scale(1.1); }
+.social-pop {
+  position: fixed; right: 4.9rem; bottom: 5.2rem; z-index: 96;
+  display: flex; gap: 16px; padding: .55rem .85rem;
+  background: var(--topbar-bg); border: 2px solid var(--pink-light);
+  border-radius: 26px; box-shadow: 0 8px 30px var(--shadow);
+  opacity: 0; transform: translateX(12px); pointer-events: none;
+  transition: opacity .18s, transform .18s;
+}
+.social-pop.open { opacity: 1; transform: none; pointer-events: auto; }
+.social-pop a { margin: 0; }
 
 /* Search input */
 .search-input {
@@ -109,18 +138,23 @@ body {
   outline-offset: 2px;
 }
 /* Random cat button */
+/* Random button = floating dice FAB, bottom-left (all sizes) */
 .random-cat-button {
-  padding: .45rem .8rem; border-radius: 20px;
-  border: 2px solid var(--pink-light);
-  background: var(--pink-pale); color: var(--pink);
-  font-size: .85rem; font-family: inherit; font-weight: 700;
+  position: fixed; left: 1.2rem; bottom: 1.2rem; z-index: 96;
+  width: 44px; height: 44px; padding: 0; border-radius: 50%;
+  border: none;
+  background: linear-gradient(135deg, var(--pink), var(--purple));
+  color: #fff;
+  font-size: 0; /* hide the "隨機一喵" text node, keep the dice icon */
+  font-family: inherit; font-weight: 700;
   cursor: pointer; white-space: nowrap;
-  transition: border-color .2s, background .2s, transform .2s;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 4px 15px rgba(255,107,157,.35);
+  transition: transform .2s;
 }
-.random-cat-button:hover {
-  border-color: var(--pink); background: var(--pink-light); color: #fff;
-  transform: scale(1.05);
-}
+.random-cat-button:hover { transform: scale(1.1); }
+.random-cat-button svg { width: 22px; height: 22px; }
+.random-cat-button:hover { transform: scale(1.1); }
 .random-cat-button:focus-visible {
   outline: 2px solid var(--pink);
   outline-offset: 2px;
@@ -133,21 +167,17 @@ body {
   30% { transform: scale(.9); }
   60% { transform: scale(1.15); }
 }
-[data-theme="dark"] .random-cat-button {
-  background: rgba(255, 107, 157, .15);
-  border-color: rgba(255, 107, 157, .3);
-  color: var(--pink-light);
-}
-[data-theme="dark"] .random-cat-button:hover {
-  background: rgba(255, 107, 157, .35); color: #fff;
-}
 
 .search-input::placeholder { color: var(--text-muted); }
 
 .filters select {
-  padding: .45rem .8rem; border-radius: 20px;
+  appearance: none; -webkit-appearance: none;
+  padding: .45rem 1.9rem .45rem .8rem; border-radius: 20px;
   border: 2px solid var(--pink-light);
-  background: #fff; color: var(--text); font-size: .85rem;
+  /* custom chevron so the pill corner doesn't clip the native arrow */
+  background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ff6b9d' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E") no-repeat right .7rem center;
+  background-size: .7rem;
+  color: var(--text); font-size: .85rem;
   font-family: inherit; cursor: pointer;
   transition: border-color .2s, box-shadow .2s;
   min-width: 0;
@@ -308,7 +338,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 
 /* Back to top button */
 .back-to-top {
-  position: fixed; bottom: 5rem; right: 1.2rem; z-index: 91;
+  position: fixed; bottom: 9.4rem; right: 1.2rem; z-index: 91;
   width: 44px; height: 44px; border-radius: 50%; border: none;
   background: linear-gradient(135deg, var(--pink), var(--purple));
   color: #fff; font-size: 1.3rem; font-weight: 800;
@@ -498,11 +528,13 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 }
 /* Character tag */
 .character-tag {
-  display: inline-block; padding: .12rem .5rem;
+  display: inline-flex; align-items: center; padding: .12rem .5rem;
   border-radius: 20px; font-size: .65rem; font-weight: 700;
-  color: #fff; white-space: nowrap;
+  color: #fff; white-space: nowrap; text-decoration: none;
   background: linear-gradient(135deg, rgba(255, 179, 71, .85), rgba(255, 140, 100, .75));
 }
+a.character-tag { cursor: pointer; transition: transform .15s, filter .15s; }
+a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
 .character-tag.seasonal {
   background: linear-gradient(135deg, rgba(168, 230, 207, .9), rgba(116, 185, 255, .8));
 }
@@ -658,7 +690,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   #timeline { transform: translateX(100%); }
   #timeline.open { transform: translateX(0); }
   #timeline-toggle { display: block; }
-  .back-to-top { bottom: 4.5rem; }
+  .back-to-top { bottom: 9rem; }
 }
 @media (max-width: 600px) {
   .masonry { grid-template-columns: 1fr; padding: .8rem; margin-top: 0; }
@@ -671,7 +703,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   .date-picker-btn { font-size: .78rem; padding: .35rem .5rem; }
   .date-dropdown { width: calc(100vw - 1.2rem); max-width: 280px; right: auto; left: 0; }
   .github-link { margin-left: auto; }
-  .back-to-top { bottom: 4.5rem; right: 1rem; width: 40px; height: 40px; font-size: 1.1rem; }
+  .back-to-top { bottom: 9rem; right: 1rem; width: 40px; height: 40px; font-size: 1.1rem; }
   /* Lightbox mobile */
   .lb-nav { display: none; }
   #lightbox { justify-content: safe center; padding: 2.5rem 0 1rem; overflow-y: auto; }
@@ -735,6 +767,10 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   background: #2a2030;
   border-color: rgba(255, 107, 157, .3);
   color: var(--text);
+}
+[data-theme="dark"] .filters select {
+  background: #2a2030 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffa5c8' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E") no-repeat right .7rem center;
+  background-size: .7rem;
 }
 [data-theme="dark"] .date-dropdown { background: #2a2030; border-color: rgba(255, 107, 157, .3); }
 [data-theme="dark"] .dd-nav { background: rgba(255, 107, 157, .15); }
@@ -830,7 +866,10 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   display: flex; gap: .8rem; justify-content: center; align-items: center;
   padding: .4rem 1rem;
   position: relative; z-index: 99;
-  background: var(--surface); border-bottom: 2px solid var(--pink-light);
+  /* translucent so cats faintly show through while scrolling under it */
+  background: rgba(255, 255, 255, .68);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border-bottom: 2px solid var(--pink-light);
   overflow-x: auto; -webkit-overflow-scrolling: touch;
   flex-wrap: nowrap; white-space: nowrap;
   box-shadow: 0 2px 8px var(--shadow);
@@ -854,7 +893,7 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 .character-bar .char-avatar img {
   width: 100%; height: 100%; object-fit: cover; border-radius: 50%;
 }
-[data-theme="dark"] .character-bar { background: var(--surface); border-color: rgba(255,107,157,.2); }
+[data-theme="dark"] .character-bar { background: rgba(42, 32, 48, .55); border-color: rgba(255,107,157,.2); }
 [data-theme="dark"] .character-bar a:hover { background: rgba(255,107,157,.12); }
 [data-theme="dark"] .char-avatar { background: linear-gradient(135deg, #2a1f2a, #1f2530); border-color: rgba(255,107,157,.3); }
 
@@ -931,7 +970,20 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
 /* ── Mobile filter bottom-sheet (≤600px). Overrides the earlier .filters
       mobile rule above because it comes later in source order. ── */
 @media (max-width: 600px) {
-  .filter-toggle { display: inline-flex; }
+  /* funnel becomes a bottom-left FAB (above the random dice); header keeps
+     only the theme toggle. All four corner FABs share size 40px. */
+  .filter-toggle {
+    display: flex; margin-left: 0;
+    position: fixed; left: 1rem; bottom: 5rem; z-index: 96;
+    width: 40px; height: 40px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--pink), var(--purple));
+    color: #fff; align-items: center; justify-content: center;
+    box-shadow: 0 4px 15px rgba(255,107,157,.35);
+  }
+  .filter-toggle svg { width: 20px; height: 20px; }
+  #theme-toggle { margin-left: auto; } /* keep theme toggle pinned right */
+  .random-cat-button { left: 1rem; bottom: 1rem; width: 40px; height: 40px; }
+  .social-fab { right: 1rem; bottom: 5rem; width: 40px; height: 40px; }
 
   .filters {
     position: fixed; left: 0; right: 0; bottom: 0; z-index: 201;
@@ -958,18 +1010,9 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   .filters .search-input,
   .filters select,
   .filters .date-picker,
-  .filters .date-picker-btn,
-  .filters .random-cat-button {
+  .filters .date-picker-btn {
     width: 100%; max-width: none; box-sizing: border-box;
   }
-  .filters .random-cat-button { justify-content: center; }
-
-  .sheet-social-label {
-    display: block; text-align: center; font-size: .75rem; color: var(--text-muted);
-    border-top: 1px dashed var(--pink-light); padding-top: .7rem; margin-top: .1rem;
-  }
-  .sheet-social { display: flex; justify-content: center; gap: 22px; padding: .1rem 0 .2rem; }
-  .sheet-social a { margin: 0; }
 
   .sheet-backdrop {
     display: block; position: fixed; inset: 0; z-index: 200;
@@ -977,4 +1020,44 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
     transition: opacity .25s;
   }
   .sheet-backdrop.open { opacity: 1; pointer-events: auto; }
+}
+
+/* ── Mobile bottom tab bar (≤600px) ── */
+.tabbar { display: none; }
+.tab {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 2px; background: none; border: none; cursor: pointer;
+  color: var(--text-muted); font-family: inherit; font-size: .62rem; font-weight: 700;
+  padding: 7px 0 5px; position: relative;
+}
+.tab.active { color: var(--pink); }
+.tab.has-active::after {
+  content: ""; position: absolute; top: 6px; left: 50%; margin-left: 6px;
+  width: 7px; height: 7px; border-radius: 50%; background: var(--pink);
+}
+
+@media (max-width: 600px) {
+  .tabbar {
+    display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 150;
+    background: var(--topbar-bg); border-top: 2px solid var(--pink-light);
+    box-shadow: 0 -2px 16px var(--shadow);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  /* actions now live in the tab bar — hide the standalone FABs/funnel */
+  .filter-toggle, .random-cat-button, .social-fab, .giscus-toggle { display: none !important; }
+
+  /* character bar: hidden on home, opens as a strip flush above the bar */
+  #character-bar { display: none; }
+  #character-bar.char-open {
+    display: flex; position: fixed; left: 0; right: 0;
+    bottom: var(--tabbar-h, 56px); z-index: 151;
+    border-top: 2px solid var(--pink-light);
+  }
+
+  /* --tabbar-h (set in JS from the bar's real height incl. safe-area) keeps
+     these flush with the bar — no dead gap */
+  .masonry { padding-bottom: calc(var(--tabbar-h, 56px) + 16px); }
+  .social-pop { bottom: calc(var(--tabbar-h, 56px) + 8px); right: 1rem; }
+  .back-to-top { bottom: calc(var(--tabbar-h, 56px) + 8px); right: 1rem; }
+  .filters { bottom: var(--tabbar-h, 56px); }
 }

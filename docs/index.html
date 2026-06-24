@@ -94,10 +94,8 @@
           <button class="dd-clear" id="dd-clear">Clear</button>
         </div>
       </div>
-      <div class="sheet-social-label">連結</div>
-      <div id="sheet-social" class="sheet-social"></div>
     </div>
-    <button type="button" id="filter-toggle" class="filter-toggle" aria-label="篩選與連結" title="篩選"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M3 4h18v2.6L14 14v6l-4-2.2V14L3 6.6z"/></svg></button>
+    <button type="button" id="filter-toggle" class="filter-toggle hdr-btn" aria-label="篩選" title="篩選"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M3 4h18v2.6L14 14v6l-4-2.2V14L3 6.6z"/></svg></button>
     <button id="theme-toggle" class="theme-toggle" aria-label="切換深淺模式" title="切換深淺模式"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
     <a href="https://github.com/yazelin/catime" target="_blank" rel="noopener" class="github-link" title="View on GitHub">
       <svg viewBox="0 0 16 16" width="22" height="22" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
@@ -136,6 +134,10 @@
   </main>
   <div id="end-msg" class="hidden">No more cats! 🐱</div>
 
+  <!-- Floating social FAB (above the comment button) + its links popover -->
+  <button type="button" id="social-toggle" class="social-fab" aria-label="社群連結" title="社群連結"><svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></button>
+  <div id="social-pop" class="social-pop"></div>
+
   <!-- Floating Giscus button & slide-in panel -->
   <button id="giscus-toggle" class="back-to-top giscus-toggle" aria-label="Toggle comments" aria-expanded="false"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
   <aside id="giscus-panel" class="giscus-panel" aria-hidden="true" role="dialog" aria-labelledby="giscus-title">
@@ -148,6 +150,15 @@
       </section>
     </div>
   </aside>
+
+  <!-- Mobile bottom tab bar (≤600px). Tabs proxy to the existing controls. -->
+  <nav id="tabbar" class="tabbar" aria-label="主選單">
+    <button type="button" id="tab-filter" class="tab" aria-label="篩選"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M3 4h18v2.6L14 14v6l-4-2.2V14L3 6.6z"/></svg><span>篩選</span></button>
+    <button type="button" id="tab-char" class="tab" aria-label="角色"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M4.5 12.75a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5-4a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5 0a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zm5 4a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5zM12 14c-2.5 0-4.5 2-4.5 4 0 1.1.9 2 2 2 .8 0 1.5-.4 2.5-.4s1.7.4 2.5.4c1.1 0 2-.9 2-2 0-2-2-4-4.5-4z"/></svg><span>角色</span></button>
+    <button type="button" id="tab-random" class="tab" aria-label="隨機一喵"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zM7.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4.5-4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg><span>隨機</span></button>
+    <button type="button" id="tab-social" class="tab" aria-label="社群連結"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg><span>社群</span></button>
+    <button type="button" id="tab-comment" class="tab" aria-label="留言"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>留言</span></button>
+  </nav>
 
   <script>
     // Floating Giscus panel with lazy-load
@@ -310,59 +321,99 @@
       new MutationObserver(sync).observe(document.getElementById('character-bar') || document.body, {childList:true});
     })();
 
-    // Mobile filter bottom-sheet: collapse filters + social links behind one
-    // button so the sticky header stays slim. Desktop untouched (>600px).
+    // Header controls: collapse filters into a bottom sheet (mobile only),
+    // move social links into their own popover (all sizes), and float the
+    // random button as a FAB on mobile. Desktop filters stay inline.
     (function(){
       var filters = document.querySelector('.filters');
-      var toggle = document.getElementById('filter-toggle');
+      var filterToggle = document.getElementById('filter-toggle');
+      var socialToggle = document.getElementById('social-toggle');
+      var socialPop = document.getElementById('social-pop');
       var backdrop = document.getElementById('sheet-backdrop');
       var closeBtn = document.getElementById('sheet-close');
-      var socialBox = document.getElementById('sheet-social');
       var topbar = document.getElementById('topbar');
-      if (!filters || !toggle || !backdrop || !socialBox || !topbar) return;
-      var socials = Array.prototype.slice.call(
-        document.querySelectorAll('#topbar .github-link, #topbar .tg-link, #topbar .fb-link, #topbar .bmc-link, #topbar .rss-link')
-      );
+      var randomBtn = document.getElementById('random-cat-btn');
+      if (!filters || !filterToggle || !socialToggle || !socialPop || !topbar) return;
       var mq = window.matchMedia('(max-width: 600px)');
 
-      function placeSocials(){
-        // move the actual nodes (keeps their links) into the sheet on mobile,
-        // back to the topbar on desktop — no duplication, no re-wiring.
-        socials.forEach(function(a){ (mq.matches ? socialBox : topbar).appendChild(a); });
-      }
-      function setOpen(open){
+      // Social links live in their own popover at every size (one-time move).
+      Array.prototype.slice.call(
+        document.querySelectorAll('#topbar .github-link, #topbar .tg-link, #topbar .fb-link, #topbar .bmc-link, #topbar .rss-link')
+      ).forEach(function(a){ socialPop.appendChild(a); });
+
+      // Random button is a floating FAB at all sizes — move it out to <body>
+      // so position:fixed isn't trapped by the sheet's transformed ancestor.
+      if (randomBtn) document.body.appendChild(randomBtn);
+
+      var charBar = document.getElementById('character-bar');
+      function openSheet(open){
         filters.classList.toggle('open', open);
         backdrop.classList.toggle('open', open);
         document.body.style.overflow = open ? 'hidden' : '';
+        if (open) { socialPop.classList.remove('open'); if (charBar) charBar.classList.remove('char-open'); setTabActive('tab-social', false); setTabActive('tab-char', false); }
+        setTabActive('tab-filter', open);
       }
+      function openSocial(open){
+        socialPop.classList.toggle('open', open);
+        if (open) { openSheet(false); if (charBar) charBar.classList.remove('char-open'); setTabActive('tab-char', false); }
+        setTabActive('tab-social', open);
+      }
+      function openChar(open){
+        if (!charBar) return;
+        charBar.classList.toggle('char-open', open);
+        if (open) { openSheet(false); socialPop.classList.remove('open'); setTabActive('tab-social', false); }
+        setTabActive('tab-char', open);
+      }
+      function setTabActive(id, on){ var t = document.getElementById(id); if (t) t.classList.toggle('active', on); }
       function updateActive(){
         var active = ['search-input','character-filter','inspiration-filter','model-filter'].some(function(id){
           var el = document.getElementById(id); return el && el.value;
         });
         var dateBtn = document.getElementById('date-picker-btn');
         if (dateBtn && dateBtn.classList.contains('active')) active = true;
-        toggle.classList.toggle('has-active', active);
+        filterToggle.classList.toggle('has-active', active);
+        var tf = document.getElementById('tab-filter'); if (tf) tf.classList.toggle('has-active', active);
       }
 
-      toggle.addEventListener('click', function(){ setOpen(!filters.classList.contains('open')); });
-      backdrop.addEventListener('click', function(){ setOpen(false); });
-      if (closeBtn) closeBtn.addEventListener('click', function(){ setOpen(false); });
+      filterToggle.addEventListener('click', function(e){ e.stopPropagation(); openSheet(!filters.classList.contains('open')); });
+      socialToggle.addEventListener('click', function(e){ e.stopPropagation(); openSocial(!socialPop.classList.contains('open')); });
+      socialPop.addEventListener('click', function(e){ e.stopPropagation(); });
+      if (charBar) charBar.addEventListener('click', function(e){ e.stopPropagation(); });
+      if (backdrop) backdrop.addEventListener('click', function(){ openSheet(false); });
+      if (closeBtn) closeBtn.addEventListener('click', function(){ openSheet(false); });
+      // click anywhere else closes the social popover / character strip
+      document.addEventListener('click', function(){ socialPop.classList.remove('open'); if (charBar) charBar.classList.remove('char-open'); setTabActive('tab-social', false); setTabActive('tab-char', false); });
+
+      // publish the tab bar's real height (incl. safe-area) so panels sit flush
+      var tabbar = document.getElementById('tabbar');
+      function syncTabbarH(){
+        if (tabbar) document.documentElement.style.setProperty('--tabbar-h', tabbar.offsetHeight + 'px');
+      }
+      syncTabbarH();
+      window.addEventListener('resize', syncTabbarH);
+      if (window.ResizeObserver && tabbar) new ResizeObserver(syncTabbarH).observe(tabbar);
+
+      // Bottom tab bar (mobile) — proxy to the existing controls
+      function bindTab(id, fn){ var t = document.getElementById(id); if (t) t.addEventListener('click', function(e){ e.stopPropagation(); fn(); }); }
+      bindTab('tab-filter', function(){ openSheet(!filters.classList.contains('open')); });
+      bindTab('tab-social', function(){ openSocial(!socialPop.classList.contains('open')); });
+      bindTab('tab-char', function(){ openChar(!(charBar && charBar.classList.contains('char-open'))); });
+      bindTab('tab-random', function(){ if (randomBtn) randomBtn.click(); });
+      bindTab('tab-comment', function(){ var g = document.getElementById('giscus-toggle'); if (g) g.click(); });
 
       ['character-filter','inspiration-filter','model-filter'].forEach(function(id){
         var el = document.getElementById(id);
-        if (el) el.addEventListener('change', function(){ updateActive(); if (mq.matches) setOpen(false); });
+        if (el) el.addEventListener('change', function(){ updateActive(); if (mq.matches) openSheet(false); });
       });
       var searchEl = document.getElementById('search-input');
       if (searchEl) searchEl.addEventListener('input', updateActive);
-      var randomBtn = document.getElementById('random-cat-btn');
-      if (randomBtn) randomBtn.addEventListener('click', function(){ if (mq.matches) setOpen(false); });
       document.addEventListener('click', function(e){
         if (e.target.closest('#date-picker') || e.target.id === 'dd-clear') setTimeout(updateActive, 0);
       });
 
-      placeSocials();
       updateActive();
-      var onChange = function(){ placeSocials(); if (!mq.matches) setOpen(false); };
+      // leaving mobile closes the filter sheet (it's desktop-inline there)
+      var onChange = function(){ if (!mq.matches) openSheet(false); };
       if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
     })();
   </script>

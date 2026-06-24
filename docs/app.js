@@ -161,8 +161,14 @@
       showGalleryError("載入貓咪列表失敗，請稍後重試");
     });
 
+  // Canonical model name = text before the first " (" — drops the verbose
+  // "(fallback from …, reason: …)" annotations so the filter lists a handful
+  // of clean models, not one long option per error string. Cards still show
+  // the full string for transparency.
+  function baseModel(m) { return String(m || "").split(" (")[0].trim(); }
+
   function populateModels() {
-    const models = [...new Set(allCats.map(c => c.model).filter(Boolean))].sort();
+    const models = [...new Set(allCats.map(c => baseModel(c.model)).filter(Boolean))].sort();
     models.forEach(m => {
       const opt = document.createElement("option");
       opt.value = m; opt.textContent = m;
@@ -287,7 +293,7 @@
     const model = modelSelect.value;
     const charFilter = characterSelect.value;
     filtered = allCats.filter(c => {
-      if (model && c.model !== model) return false;
+      if (model && baseModel(c.model) !== model) return false;
       if (charFilter && c.character_name !== charFilter) return false;
       const inspFilter = inspirationSelect.value;
       if (inspFilter === "original" && c.inspiration !== "original") return false;
@@ -412,9 +418,14 @@
       time.textContent = `#${cat.number} ${title ? title + " · " : ""}${timestamp}`;
       cardInfo.appendChild(time);
       if (characterName) {
-        const charTag = document.createElement("span");
+        // link to the character's page when we know which character it is;
+        // stop the click from also opening the card lightbox.
+        const charTag = document.createElement(characterId ? "a" : "span");
         charTag.className = "character-tag" + (cat.is_seasonal ? " seasonal" : "");
         if (characterId) {
+          charTag.href = "character.html?id=" + encodeURIComponent(characterId);
+          charTag.title = "看看 " + characterName + " 的介紹頁";
+          charTag.addEventListener("click", (e) => e.stopPropagation());
           const charAvatar = document.createElement("img");
           charAvatar.src = "avatars/" + characterId + ".webp";
           charAvatar.alt = characterName;
