@@ -1,4 +1,4 @@
-# <img src="icon-192.png" width="32" height="32" alt="catime icon"> catime
+# <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime
 
 **AI生成の毎時キャット画像。毎時間、新しい猫が誕生！** 🐱
 
@@ -9,13 +9,13 @@
 📦 **PyPI：** [catime](https://pypi.org/project/catime/)
 🧩 **OpenClaw スキル：** `clawhub install catime`
 
-> 📖 他の言語：[English](../../README.md) | [繁體中文](README.zh-TW.md)
+> 📖 他の言語：[English](README.en.md) | [繁體中文](README.md)
 
 ## スポンサー
 
 catimeを気に入っていただけたら、[Buy Me a Coffee](https://buymeacoffee.com/yazelin)でプロジェクトを応援してください ☕
 
-スポンサーシップはすべてAPI費用、コンピューティングリソース、プロジェクトメンテナンスに使われます。詳細は[SPONSORS.md](../../SPONSORS.md)をご覧ください。
+スポンサーシップはすべてAPI費用、コンピューティングリソース、プロジェクトメンテナンスに使われます。詳細は[SPONSORS.md](SPONSORS.md)をご覧ください。
 
 ## インストールと使い方
 
