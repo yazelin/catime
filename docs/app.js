@@ -235,7 +235,11 @@
     if (!dateDropdown.classList.contains("hidden")) renderCalendar();
   });
   document.addEventListener("click", e => {
-    if (!dateDropdown.classList.contains("hidden") && !document.getElementById("date-picker").contains(e.target)) {
+    // close only when the click is outside both the trigger and the calendar
+    // itself (the calendar may be relocated out of #date-picker on mobile)
+    if (!dateDropdown.classList.contains("hidden") &&
+        !document.getElementById("date-picker").contains(e.target) &&
+        !dateDropdown.contains(e.target)) {
       dateDropdown.classList.add("hidden");
     }
   });

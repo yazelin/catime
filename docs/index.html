@@ -503,9 +503,21 @@
         if (e.target.closest('#date-picker') || e.target.id === 'dd-clear') setTimeout(updateActive, 0);
       });
 
+      // Calendar must not be a descendant of the sheet (the sheet's transform
+      // traps position:fixed). On mobile relocate it to <body> so it centers
+      // against the viewport; on desktop keep it under the date button.
+      var datePickerEl = document.getElementById('date-picker');
+      var dateDD = document.getElementById('date-dropdown');
+      function placeDateDD(){
+        if (!dateDD || !datePickerEl) return;
+        if (mq.matches) document.body.appendChild(dateDD);
+        else datePickerEl.appendChild(dateDD);
+      }
+
+      placeDateDD();
       updateActive();
-      // close the sheet when leaving mobile (filters become inline on desktop)
-      var onChange = function(){ if (!mq.matches) openSheet(false); };
+      // close the sheet + re-home the calendar when crossing the breakpoint
+      var onChange = function(){ placeDateDD(); if (!mq.matches) openSheet(false); };
       if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
     })();
   </script>
