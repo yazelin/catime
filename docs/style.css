@@ -865,6 +865,14 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
   box-shadow: 0 8px 30px var(--shadow);
 }
 .character-bar.char-open { display: flex; }
+
+/* character page: restore the always-visible switch bar (the shared base is
+   now display:none for the home-page popover). Same look as before. */
+.character-bar--page {
+  display: flex; position: relative; z-index: 99;
+  border-bottom: 2px solid var(--pink-light);
+  box-shadow: 0 2px 8px var(--shadow);
+}
 @media (min-width: 601px) {
   .character-bar.char-open {
     position: fixed; top: 58px; right: 1rem; z-index: 120;
