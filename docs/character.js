@@ -27,7 +27,9 @@
   function renderProfile(c) {
     document.title = (c.name.en || c.id) + ' - Catime Character';
 
-    document.getElementById('char-name').textContent = c.name.zh + ' / ' + c.name.en;
+    document.getElementById('char-name').innerHTML =
+      '<img class="char-name-avatar" src="avatars/' + esc(c.id) + '.webp" alt="" width="56" height="56">' +
+      '<span>' + esc(c.name.zh) + ' / ' + esc(c.name.en) + '</span>';
 
     // Personality
     var perEl = document.getElementById('char-personality');

@@ -928,6 +928,17 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
   background: linear-gradient(135deg, var(--pink), var(--purple));
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
 }
+/* #char-name keeps the centered gradient title, with the avatar to its left.
+   The gradient must live on the text span (background-clip:text needs the text). */
+#char-name { display: flex; align-items: center; justify-content: center; gap: .7rem; }
+#char-name span {
+  background: linear-gradient(135deg, var(--pink), var(--purple));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.char-name-avatar {
+  width: 52px; height: 52px; border-radius: 50%; object-fit: cover;
+  border: 3px solid var(--pink-light); flex-shrink: 0;
+}
 .char-section { margin-bottom: 1rem; }
 .char-section h4 { font-size: .95rem; font-weight: 800; color: var(--pink); margin-bottom: .4rem; }
 .char-section p, .char-section ul { font-size: .88rem; line-height: 1.6; }
