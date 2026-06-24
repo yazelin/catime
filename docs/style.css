@@ -1159,3 +1159,25 @@ a.character-tag:hover { transform: translateY(-1px); filter: brightness(1.08); }
   }
   .filters .sheet-head { display: none; }
 }
+
+/* ── Mobile month-jump pill (Google-Photos style) ── */
+.month-pill { display: none; }
+@media (max-width: 600px) {
+  .month-pill {
+    display: inline-flex; align-items: center; gap: .35rem;
+    position: fixed; top: calc(var(--header-offset, 56px) + 8px);
+    left: 50%; transform: translateX(-50%); z-index: 95;
+    background: rgba(20, 12, 26, .82); color: #fff;
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+    border: none; border-radius: 20px; padding: .32rem .85rem;
+    font-family: inherit; font-size: .8rem; font-weight: 800; cursor: pointer;
+    box-shadow: 0 4px 14px rgba(0,0,0,.35);
+    opacity: 0; pointer-events: none; transition: opacity .25s;
+  }
+  .month-pill.show { opacity: 1; pointer-events: auto; }
+  /* timeline drawer above the tab bar; clear its content from the bar */
+  #timeline { z-index: 160; }
+  #timeline-list { padding-bottom: calc(var(--tabbar-h, 56px) + 12px); }
+}
+
+@media (max-width: 600px) { #timeline-toggle { display: none; } }

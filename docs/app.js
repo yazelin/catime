@@ -507,6 +507,43 @@
 
   timelineToggle.addEventListener("click", () => timelineNav.classList.toggle("open"));
 
+  // ── Mobile month-jump pill: shows the current month on scroll; tap → timeline ──
+  (function(){
+    const pill = document.getElementById("month-pill");
+    const label = document.getElementById("month-pill-label");
+    if (!pill || !label) return;
+    const sh = document.getElementById("sticky-header");
+    let hideTimer = null;
+    function currentMonth(){
+      const seps = document.querySelectorAll(".month-sep");
+      const top = (sh ? sh.offsetHeight : 56) + 24;
+      let cur = null;
+      for (const s of seps){
+        if (s.getBoundingClientRect().top <= top) cur = s.textContent; else break;
+      }
+      if (!cur && seps.length) cur = seps[0].textContent;
+      return cur;
+    }
+    function update(){
+      const m = currentMonth();
+      if (m) { label.textContent = m; pill.classList.add("show"); }
+      clearTimeout(hideTimer);
+      hideTimer = setTimeout(() => pill.classList.remove("show"), 1600);
+    }
+    window.addEventListener("scroll", update, { passive: true });
+    pill.addEventListener("click", e => {
+      e.stopPropagation();
+      timelineNav.classList.add("open");
+      clearTimeout(hideTimer); pill.classList.add("show");
+    });
+    document.addEventListener("click", e => {
+      if (timelineNav.classList.contains("open") && !timelineNav.contains(e.target) &&
+          e.target !== pill && !pill.contains(e.target)) {
+        timelineNav.classList.remove("open");
+      }
+    });
+  })();
+
   // ── Back to top ──
   window.addEventListener("scroll", () => {
     backToTop.classList.toggle("visible", window.scrollY > 600);
