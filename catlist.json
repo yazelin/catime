@@ -20931,5 +20931,16 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "title": "染房幽緒"
+  },
+  {
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s) (fallback from codex: codex-image-service request failed: Remote end closed connection without response)",
+    "status": "success",
+    "title": "風雨中的避風港",
+    "timestamp": "2026-06-24 02:06 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-24_0206_UTC.webp",
+    "inspiration": "original",
+    "character": "captain",
+    "character_name": "船長",
+    "number": 2257
   }
 ]

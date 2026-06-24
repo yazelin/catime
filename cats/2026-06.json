@@ -6466,5 +6466,43 @@
     "title": "染房幽緒",
     "comment_id": 4784604216,
     "news_inspiration": []
+  },
+  {
+    "news_inspiration": [
+      "在墨西哥首都墨西哥城，一隻身穿墨西哥國家足球隊球衣、繫著國際足總領帶的寵物鴨「梅林」意外闖入總統的新聞發布會，並大搖大擺地坐在記者席前成為全場焦點。",
+      "美國紐奧良的杜蘭大學發表最新科學研究，指出全球紅樹林生態系統在經歷數十年的退化後，因各地砍伐速度放緩而展現出令人驚喜的自我修復與擴張能力。",
+      "在英國倫敦舉行的氣候行動週上，聯合國秘書長大讚全球再生能源的蓬勃發展，指出自2010年以來太陽能發電成本已大幅驟降了將近九成。",
+      "在美國波士頓，當地政府成功將一所閒置的舊校舍改建為專為LGBTQ+高齡族群設計的平價安養住宅住宅區，為長者提供充滿包容性的溫馨社群。"
+    ],
+    "avoid_list": [
+      "水晶玻璃蒸籠",
+      "維多利亞式鑄鐵鏤空溫室",
+      "老舊鋼鐵工廠巨型齒輪",
+      "鳥瞰畫面俯瞰",
+      "長卷式等距攝影",
+      "魚眼鏡頭與長曝光",
+      "用爪子撥弄",
+      "戴著橘色手套的右前腳",
+      "左眼戴著眼罩的壯碩虎斑貓",
+      "倫勃朗光強烈明暗對比",
+      "環形燈般柔和水面反光",
+      "莫蘭迪色調灰藍與霧粉"
+    ],
+    "title": "風雨中的避風港",
+    "prompt": "An illustrated storybook page layout with multiple irregular panels, 3D render style with expressionism influence, bold distorted forms and exaggerated gestural brushwork. A polished 3D render with soft global illumination and a warm earth tone palette of terracotta, olive green, and warm brown. The scene features a large, stocky brown classic tabby cat named Captain, who has bold black stripes, a broad muscular build, and scruffy, untidy, coarse fur. Captain's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch, which is explicitly a fur marking with no straps or fabric. His right eye is a piercing emerald green, illuminated by dramatic overhead butterfly lighting that casts a symmetrical shadow under his nose. He has a prominent V-shaped notch on his left ear, a white chest bib, white mitten paws, a distinctive M-mark on his forehead, and a faded red bandana tied loosely around his neck. Captain is lying flat on a wet wooden boardwalk at a fishing harbor during a torrential downpour, using his thick, muscular body and wide shoulders to shelter several shivering, tiny stray kittens from the wind and rain. The textual timestamp '2026-06-24 02:06 UTC' is visually displayed and integrated clearly into the corner of the layout.",
+    "idea": "在融合表現主義狂放線條與大地色系的3D渲染故事插畫分格中，一隻戴著深色眼罩、脖子圍著褪色紅頭巾的壯碩虎斑貓「船長」，正趴在暴雨中的漁港碼頭木棧道上，用身體和寬厚肩膀拼命替幾隻瑟瑟發抖的小浪貓遮擋風雨。",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Butterfly Lighting",
+      "texture": "3D Render",
+      "color_palette": "Earth Tones"
+    },
+    "story": "夜裡漁港突降暴雨，平常威風八面的碼頭老大「船長」，此刻正毫無架子地緊貼著濕漉漉的地面。牠用自己厚實的胸膛與大骨架築起一道溫暖的防線，任憑風雨打在粗糙的毛髮上，也要死死守護懷裡的小貓，翠綠色的右眼在蝴蝶光投射下顯得無比堅毅。",
+    "inspiration": "original",
+    "comment_id": 4785304358,
+    "character": "captain",
+    "character_name": "船長",
+    "number": 2257
   }
 ]
