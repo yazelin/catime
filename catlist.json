@@ -21089,5 +21089,14 @@
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "number": 2272
+  },
+  {
+    "timestamp": "2026-06-25 16:13 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-25_1613_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "金色法庭的綠意宣言",
+    "inspiration": "在加拿大，一個城鎮宣布將樹木視為該地區對抗極端氣候的「最大盟友」，並正式立法賦予樹木作為生物的法定權利。",
+    "number": 2273,
+    "status": "success"
   }
 ]

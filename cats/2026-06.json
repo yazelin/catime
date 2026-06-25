@@ -7062,5 +7062,41 @@
     "number": 2272,
     "prompt": "An extreme wide handscroll composition, continuous panoramic narrative with an oblique bird's-eye angle and a right-to-left reading flow. In a layered arrangement, a majestic black cat is using its paw to gently press down on a Guinness World Record golden megaphone trophy. The trophy glows with a distinct backlighting and rim light, creating glowing silhouette edges that outline the subject with a dramatic mood. The scene is set against a deep black background featuring a dark floral portrait with white daisies and baby's breath, exuding a melancholic vanitas mood inspired by Renaissance-influenced contemporary photography. The cat rests on a black and gold velvet texture cushion with deep pile softness and a light-absorbing matte surface. The opulent color scheme is strictly gold and black with luxurious metallic gold accents. Visually displayed clearly within the image is the date and time text '2026-06-25 13:09 UTC'. Shot on a 35mm lens, f/2.8, low-key lighting, capturing tactile luxury and rich color saturation as a real photograph, with multiple focal points spread horizontally.",
     "comment_id": 4799661200
+  },
+  {
+    "news_inspiration": [
+      "在墨西哥首都墨西哥城，一隻名叫梅林（Merlín）的寵物鴨因成為世界盃足球賽的非官方吉祥物而在網路上爆紅，甚至在近日出現在總統的新聞簡報會上成為全場焦點。",
+      "在加拿大，一個城鎮宣布將樹木視為該地區對抗極端氣候的「最大盟友」，並正式立法賦予樹木作為生物的法定權利。",
+      "在英國的皇家愛斯科賽馬會上，一名印度裔作家身著傳統紗麗並搭配一頂極具創意的華麗帽子盛裝出席，成功在賽事活動中掀起時尚話題。",
+      "一項由耶魯大學發表的研究挑戰了老化的刻板印象，發現近半數65歲以上的長者在生理、心理或兩者上，隨著年齡增長反而展現出逆齡改善的現象。"
+    ],
+    "story": "加拿大某城鎮正式立法賦予樹木法律地位，這場歷史性的審判吸引了全場目光。作為法院特聘的「自然守護貓」，牠正以嚴肅的姿態趴在審判桌上，用沈穩的肉墊按壓著黃金法槌與文件，在強烈的倫勃朗光與奢華的金黑對比下，見證這份人與自然的全新契約。",
+    "prompt": "An atompunk illustration capturing a retro-futuristic atomic age courtroom. An orange cat is lying on the judge's bench, pressing its paw firmly onto a document declaring the legal rights of trees, right next to a massive, ornate golden gavel. The scene is rendered on a textured paper surface with a visible fiber grain and a warm, tactile kraft paper feel. Executed with a luxurious gold and black color scheme, featuring opulent metallic gold accents against a deep black background. Lit with dramatic Rembrandt lighting from a single light source at 45 degrees, creating a powerful chiaroscuro effect. Shot with an ultra-wide angle 12-18mm lens, delivering a dramatic perspective distortion and an expansive field of view. The date and time '2026-06-25 16:13 UTC' is visually stamped cleanly into the lower corner of the image, sleek chrome lines and 1950s futuristic technology blend into the background.",
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "微縮移軸效果",
+      "等距3D插圖",
+      "冷色調藍青色物體",
+      "亮面塑膠玩具質感",
+      "貓用鼻子輕觸物品",
+      "貓用爪子撥弄調整",
+      "合成波與霓虹螢光",
+      "虹彩全息材質",
+      "魚眼鏡頭與強烈桶形畸變",
+      "黑白單色融合多彩光影",
+      "暴風雪朦朧大霧場景",
+      "天鵝絨柔軟毛髮質感"
+    ],
+    "title": "金色法庭的綠意宣言",
+    "inspiration": "在加拿大，一個城鎮宣布將樹木視為該地區對抗極端氣候的「最大盟友」，並正式立法賦予樹木作為生物的法定權利。",
+    "number": 2273,
+    "idea": "在充滿原子龐克（Atompunk）美學的復古未來主義法庭中，一隻橘貓正趴在精緻的金色巨大法槌旁，用爪子按住一份宣示樹木法定權利的文件。",
+    "comment_id": 4801754259
   }
 ]
