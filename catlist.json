@@ -21098,5 +21098,14 @@
     "inspiration": "在加拿大，一個城鎮宣布將樹木視為該地區對抗極端氣候的「最大盟友」，並正式立法賦予樹木作為生物的法定權利。",
     "number": 2273,
     "status": "success"
+  },
+  {
+    "number": 2274,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-25_1900_UTC.webp",
+    "title": "高牆內的光影自由",
+    "status": "success",
+    "timestamp": "2026-06-25 19:00 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "南非矯正署在多所監獄內首度開設了藝術畫廊，公開展示並販售受刑人的畫作與藝術創作，提供他們重返社會與自我展現的機會。"
   }
 ]
