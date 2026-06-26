@@ -7509,5 +7509,39 @@
     "idea": "在融合黑色電影風格與等距3D插圖的雙色調畫面中，一隻精瘦的黑貓在深夜的西班牙海邊舊燈塔頂端，正低頭專注地用爪子撥弄一具生鏽的黃銅航海羅盤。",
     "inspiration": "西班牙海域捕獲了一隻幼年大白鯊，這項最新發現為科學界提供了有力證據，證實地中海神祕且難以追蹤的「幽靈」大白鯊族群至今依然存在。",
     "story": "暴風雨前的燈塔內，黑貓在古絹絹本質感的陰影中穿梭。強烈的直打閃光燈照亮了牠敏銳的雙眼，牠正試圖撥動那具指向神祕海域的羅盤，彷彿在為遠方的某個神祕族群指引航向。"
+  },
+  {
+    "comment_id": 4814194355,
+    "avoid_list": [
+      "長卷全景構圖",
+      "強制透視伸手構圖",
+      "復古褪色色調",
+      "螢光燈無陰影照明",
+      "金黑奢華配色",
+      "粉紅鼻尖嗅聞",
+      "前爪按壓物件",
+      "圓滾滾胖貓",
+      "3D盲盒黏土風格",
+      "大地色系竹蓆"
+    ],
+    "title": "深海螢光鏡像",
+    "idea": "在幽暗的巴西深海研究船艙中，一隻高飽和鮮豔橘貓透過傾斜的木紋儀器鏡面反射，以街頭攝影的鏡子自拍構圖，拍下牠正好奇撥弄閃爍生物發光螢幕的瞬間。",
+    "inspiration": "巴西的外海進行了一場為期兩週的海洋科學考察，研究團隊利用尖端科技在海洋中層海域迅速發現了 31 個全新的深海物種。",
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "number": 2286,
+    "news_inspiration": [
+      "美國華盛頓哥倫比亞特區的國家地理探索博物館於 6 月 26 日正式對外開放，並同步推出結合多媒體 LED 螢幕與互動式地投的沉浸式海洋夜間體驗。",
+      "巴西的外海進行了一場為期兩週的海洋科學考察，研究團隊利用尖端科技在海洋中層海域迅速發現了 31 個全新的深海物種。",
+      "南非的奇觀洞穴（Wonderwerk Cave）最新考古研究發現，早期人類早在 179 萬年前就已經開始將火源帶入洞穴深處使用，刷新了人類用火歷史的紀錄。",
+      "南韓富川市將於本週舉辦 2026 富川國際奇幻影展（BiFan），匯集大量恐怖、動作及科幻等各具特色的非主流類型電影共襄盛舉。"
+    ],
+    "story": "科學考察船正於巴西外海探勘神祕的中層海域，新發現的31種深海生物在水族箱中散發著奇幻螢光。隨船的捕鼠橘貓悄悄溜進控制室，被螢幕上的發光影像深深吸引，在伸爪試探的剎那，牠的專注神態與窗外幽藍的生物發光一同被鏡面捕捉下來。",
+    "prompt": "Street photography candid shot of a high-saturation vivid orange cat in a dark Brazilian deep-sea research vessel cabin. The cat is curiously tapping a flashing bioluminescent screen. Mirror selfie composition showing the scene via the reflection of a tilted natural wood grain instrument mirror, with rich warm tones and visible knots. The deep blue-green radiance and underwater phosphorescence from a nearby aquarium provide an organic glow. In a corner of the frame, the text '2026-06-26 23:53 UTC' is visually displayed. Casual framing, close-up perspective, shot on 35mm lens, f/2.8, shallow depth of field, realistic film grain, genuine photograph."
   }
 ]
