@@ -7207,5 +7207,45 @@
     "comment_id": 4804678301,
     "idea": "在復古褪色色調的不透明水彩風格中，一隻橘白花貓正趴在桌上，用粉紅鼻尖專注地嗅聞著一本被翻開的書本，背景是一座充滿螢光燈照明與棉花糖雲朵般蓬鬆植物的奇幻溫室，並以故事插畫分格呈現。",
     "story": "這是哥本哈根的一座特殊花園，人們在這裡不讀書，而是閱讀彼此的人生。這隻貓咪成了最受歡迎的『借閱對象』，牠不發一語，只是靜靜地趴在翻開的書頁旁，用溫暖的呼吸聆聽著每位讀者心中的秘密與憂傷。"
+  },
+  {
+    "is_seasonal": true,
+    "number": 2277,
+    "inspiration": "original",
+    "character": "mochi",
+    "title": "墨浪浮生啖甘瓜",
+    "season": "summer",
+    "comment_id": 4805227427,
+    "character_name": "麻糬",
+    "avoid_list": [
+      "視覺時間戳記顯示",
+      "等距3D插圖風格",
+      "貓爪輕輕觸碰物體",
+      "金屬質感背光輪廓",
+      "奢華絲絨與金黑配色",
+      "復古未來主義原子龐克",
+      "微縮移軸模型場景",
+      "莫蘭迪色系幾何構圖",
+      "深層黑暗背景與聚光燈",
+      "磨砂玻璃與紙張質感",
+      "紀實攝影與電影感光影",
+      "魚眼鏡頭畸變效果"
+    ],
+    "story": "老街市場的「麻糬」今天給自己放了個暑假，來到浪花拍打的海岸邊。牠套上特製的迷你浮水衣，圓滾滾的身軀像顆掉在海灘上的花生麻糬，正瞇著大圓眼享受著冰涼的西瓜，在墨色渲染的夏日海景中顯得格外呆萌。",
+    "news_inspiration": [
+      "在美國邁阿密海灘，超過500名足球員與來自多國的5000名民眾同時連續顛球10秒，成功打破了金氏世界紀錄，活動收益將用於改善當地的基層足球場地。",
+      "科學家利用設置於南極洲康科迪亞站的望遠鏡，在長達數小時的冬夜極夜觀測中，成功協助辨識出一對密度比棉花糖還要輕的「超級蓬鬆」系外行星。",
+      "位於瑞士日內瓦的歐洲核子研究組織（CERN）大型強子對撞機底夸克實驗團隊宣布，成功發現了雙魅鋇衰變家族中最後一個未知的成員，為這項提出超過半世紀的物理理論拼上最後一塊拼圖。",
+      "澳洲新南威爾斯州的哈金河，在一項雄心勃勃的野生動物保護計畫推動下，瀕危的鴨嘴獸在睽違數代後首次重返該流域並成功在當地繁衍後代。"
+    ],
+    "idea": "這幅水墨畫採用長卷全景構圖，描繪一隻橘白相間的圓滾滾胖貓「麻糬」，在黑白單色的海邊岩礁上，身穿一件迷你浮水衣，正專注地用粉紅鼻頭嗅聞著一塊切開的西瓜，展現漫射自然光下的慵懶夏日。",
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "A Chinese ink wash painting in sumi-e style, extreme wide handscroll composition, continuous panoramic narrative of a black and white monochrome seaside with rocky reefs under soft diffused natural light and an overcast sky. The text '2026-06-26 00:03 UTC' is visually written in traditional calligraphy on the rice paper. In the foreground, a literal, chubby, short-legged spherical shorthair cat is wearing a miniature floating vest, focusing on sniffing a slice of cut watermelon with its pink nose. The cat has a white base coat, large round amber eyes, a solid orange mask on the right half of its face (viewer perspective) while the left face is pure white, a heart-shaped orange saddle on its upper back, a solid orange right front paw, and a pure white left front paw. The painting uses minimalist brushwork, flowing gradients, and layered composition from right-to-left reading flow, capturing a lazy summer day with rich tonal range and delicate openwork patterns in the wet ink."
   }
 ]

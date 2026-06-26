@@ -21125,5 +21125,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-25_2219_UTC.webp",
     "title": "午後的文字溫室",
     "status": "success"
+  },
+  {
+    "is_seasonal": true,
+    "number": 2277,
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "title": "墨浪浮生啖甘瓜",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-26_0003_UTC.webp",
+    "character": "mochi",
+    "timestamp": "2026-06-26 00:03 UTC",
+    "season": "summer",
+    "character_name": "麻糬"
   }
 ]
