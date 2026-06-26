@@ -7354,5 +7354,34 @@
       "color_palette": "Neon Fluorescent"
     },
     "prompt": "A Renaissance-influenced contemporary miniature diorama photograph with a tilt-shift effect, capturing a tiny detailed world. On a small toy-like scale model of an old bookstore corner, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur named Momo is gracefully using its paw to flip an open ancient pop-up botanical book. Momo has large luminous golden-amber eyes, long prominent white whiskers, a single small gold hoop earring on the left ear edge, a tiny natural white locket tuft on the ventral chest, and a single dark-grey ring at the tail tip. The scene is illuminated by a narrow beam spotlight with dramatic high-contrast and sharp light edges, casting deep darkness falloff. Surrounding the cat are giant neon fluorescent flowers in electric pink, lime green, and hot cyan glowing against a dark background, in a dark floral portrait style with a melancholic vanitas mood. Fluffy pastel pink and blue cotton candy cloud-textured, marshmallow-like whimsical volumetric clouds float nearby. Inscribed subtly but clearly within the scene is the date and time text '2026-06-26 11:37 UTC'. Shot with a 35mm lens, f/1.8, low-key lighting, shallow depth of field, realistic photographic grain."
+  },
+  {
+    "idea": "這是一幅採用粉彩色系與分割畫面的鉛筆素描作品，展現一隻擁有亮面塑膠質感的機械玩偶貓，在暴風雪朦朧的燈光下，於破舊的極地觀測站內用爪子撥弄並修理停擺的精密氣象儀器。",
+    "number": 2281,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Split View",
+      "lighting": "Snowstorm Haze",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "長卷全景構圖",
+      "強制透視伸手構圖",
+      "復古褪色色調",
+      "螢光燈無陰影照明",
+      "金黑奢華配色",
+      "粉紅鼻尖嗅聞",
+      "前爪按壓物件",
+      "圓滾滾胖貓",
+      "3D盲盒黏土風格",
+      "大地色系竹蓆"
+    ],
+    "prompt": "A split view composition pencil sketch on paper with hatching and cross-hatching visible pencil strokes. On one side, a photorealistic glossy plastic toy texture mechanical cat with a vinyl figure aesthetic uses its paws to repair a broken, precise meteorological instrument inside a dilapidated polar observatory. The other side is a wireframe diagram. The date and time '2026-06-26 13:59 UTC' is visually displayed in the image. Set in a snowstorm atmospheric lighting with muted diffused daylight, heavy falling snow veil, and a fogged distance. Soft pastel color palette featuring gentle pink, lavender, mint, baby blue, and a cold blue-white palette, creating a dreamy light tone and painterly weather mood.",
+    "comment_id": 4810286966,
+    "inspiration": "original",
+    "title": "極夜齒輪的微光",
+    "story": "狂風夾雜著白雪肆虐著窗外，觀測站內的氣溫降到了冰點。這隻特殊的發條貓趴在凌亂的工作檯上，正專注地用肉墊撥動齒輪，試圖讓凍結的氣象計重新運轉，而畫面另一側則對焦於窗外漫天飛雪的混沌世界。"
   }
 ]
