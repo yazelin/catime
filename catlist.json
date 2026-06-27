@@ -21307,5 +21307,14 @@
     "title": "綠茵場外的拼圖",
     "timestamp": "2026-06-27 17:54 UTC",
     "number": 2294
+  },
+  {
+    "timestamp": "2026-06-27 19:01 UTC",
+    "title": "公寓裡的迷你牧場",
+    "number": 2295,
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-27_1901_UTC.webp",
+    "inspiration": "在克羅埃西亞，一隻剛出生一個月的小馬近日搬進了位於四樓的公寓，成為奇特而溫馨的社區新寵，且鄰居們都表示完全不介意。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
