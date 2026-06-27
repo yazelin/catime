@@ -7607,5 +7607,41 @@
       "大地色系竹蓆"
     ],
     "prompt": "A Minecraft-style voxel art 3D render of a fluffy long-haired Persian cat lying on the floor of an old autumn greenhouse, gently pawing at scattered vintage clockwork gears and parts. Extreme low angle shot looking up at the cat, creating a dramatic, towering perspective. The entire scene is crafted from pixelated cubes and blocky textures, overlaid with a tactile textured paper surface showing visible fiber grain and a kraft paper feel. The date and time '2026-06-27 06:19 UTC' is visually displayed in the image. Illuminated by dramatic butterfly lighting from an overhead key light, creating symmetrical shadows under the nose. Color grading is a warm amber and autumn palette of golden yellows and burnt orange, exuding cozy nostalgic warmth."
+  },
+  {
+    "idea": "在波濤洶湧的東方奇幻海報風格中，一隻戴眼罩的壯碩虎斑貓「船長」正穩穩地蹲坐在防波堤上，用前爪撥弄著一隻剛從深海捕獲、閃爍著奇異螢光的全新未知物種水母，整個畫面以螺旋漩渦構圖呈現海浪與光影的交織。",
+    "news_inspiration": [
+      "在科學研究方面，科學家利用先進的 SWOT 衛星首度觀測到完整的太平洋海嘯動態，揭示了極其複雜的波動散落規律，有助於大幅提升全球未來的海嘯預警準確度。",
+      "在英國倫敦，一項保育計畫成功利用河狸建造天然水壩，以自然生態工法完美解決了當地長期困擾的社區淹水問題。",
+      "在美國西雅圖舉行的世界盃足球賽分組賽中，埃及國家隊以 1 比 1 逼平伊朗隊，成功挺進淘汰賽階段，創下該國在世界盃擴大賽制下的新紀錄。",
+      "在海洋生態科學領域，一項在巴西外海進行的深海探勘任務，在短短兩週內運用尖端科技成功發現了 31 種全新的海洋物種。"
+    ],
+    "number": 2289,
+    "story": "船長在碼頭巡邏時，遇上了剛從巴西外海隨洋流漂來的神祕深海生物。面對這隻散發著高飽和鮮豔色彩的全新物種，老船長毫無畏懼，反而燃起了年輕時出海冒險的鬥志，用牠那帶有戰鬥痕跡的厚實身軀守護著這片神祕的水域。",
+    "inspiration": "在海洋生態科學領域，一項在巴西外海進行的深海探勘任務，在短短兩週內運用尖端科技成功發現了 31 種全新的海洋物種。",
+    "comment_id": 4816376604,
+    "prompt": "Oriental mythic poster art of a large stocky brown classic tabby cat named Captain, featuring bold black stripes and a broad muscular build. His scruffy, untidy, coarse fur has uneven lengths. A natural dark-pigmented fur patch permanently conceals his left eye socket with no straps or fabric, while his right eye is a piercing emerald green. He has a prominent V-shaped notch on his left ear, a faded red bandana tied loosely around his neck, a white chest bib, and white mitten paws. The tabby cat is squatting stably on a raw concrete breakwater with a brutalist aesthetic and rough aggregate surface, nudging a newly discovered bioluminescent deep-sea jellyfish that glows with an extraordinary, high-saturation vivid neon luminescence. The entire composition forms a dramatic spiral vortex with traditional Chinese ink cloud ornaments coiling around the central subject, creating a strong rotational perspective and a dizzying sense of depth with a centered vanishing point. Shot from a cinematic low angle with gold leaf accents on a deep black background. Classic three-point lighting setup with a soft-shadow key light, fill light, and subtle rim light separation highlighting the cat. The current date and time '2026-06-27 09:21 UTC' is visually displayed on a sleek vertical calligraphy panel with red seal stamps.",
+    "character_name": "船長",
+    "avoid_list": [
+      "長卷全景構圖",
+      "強制透視伸手構圖",
+      "復古褪色色調",
+      "螢光燈無陰影照明",
+      "金黑奢華配色",
+      "粉紅鼻尖嗅聞",
+      "前爪按壓物件",
+      "圓滾滾胖貓",
+      "3D盲盒黏土風格",
+      "大地色系竹蓆"
+    ],
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Three-Point Lighting",
+      "texture": "Concrete",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "深海異客的航道",
+    "character": "captain"
   }
 ]
