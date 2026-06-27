@@ -7643,5 +7643,42 @@
     },
     "title": "深海異客的航道",
     "character": "captain"
+  },
+  {
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "巴西外海深海生物",
+      "黑色電影風格",
+      "蝴蝶光照明",
+      "精密氣象與鐘錶儀器",
+      "暗黑花卉肖像風格",
+      "分割畫面與線框圖",
+      "虹彩全息質感",
+      "粗獷主義混凝土質感",
+      "棉花糖般的雲霧",
+      "微縮立體模型"
+    ],
+    "news_inspiration": [
+      "美國德州的一座私人農場傳出好消息，走失長達兩週的長頸鹿葛蕾希（Gracie）終於在週五被平安尋獲，且在野外生活一段時間後狀態依然良好。",
+      "墨西哥一隻名為默林（Merlin）的寵物鴨，因經常身穿色彩鮮豔的服裝在墨西哥市街頭漫步，在近期因受邀參加總統新聞簡報會後，迅速在社群上走紅並成為熱門的世界盃吉祥物。",
+      "天文學家近期發現了兩顆極其罕見的「超蓬鬆」系外行星，它們的大小與木星相當，但大氣層密度極低，整體重量比棉花糖還要輕。",
+      "英國阿斯科特舉辦的皇家阿斯科特賽馬會（Royal Ascot）上，除了解說激烈的賽事外，各式各樣極具創意且色彩斑斕的浮誇帽子再次成為觀眾席上最吸睛的文化焦點。",
+      "克羅埃西亞的一家住戶近期將一隻剛滿月的小馬搬進了位於四樓的公寓共同生活，而周遭的鄰居對此新奇舉動皆表示並不介意且樂見其成。"
+    ],
+    "idea": "這是一幅採用米提拉畫風格的俯瞰圖，展現一隻斑點花貓在鋪滿金箔祥雲的奢華黑金庭院中，正全神貫注地追逐一隻身穿鮮豔外衣的寵物鴨。",
+    "prompt": "A bird's-eye view, top-down perspective looking straight down in Madhubani painting style, showing a miniature world effect. A spotted calico cat is crouched low and agilely pouncing, in mid-activity chasing a pet duck wearing a vibrant, bright-colored jacket. The setting is a luxurious black and gold courtyard with a deep black background and opulent mood. The ground is adorned with gold leaf ornamental clouds, traditional East Asian auspicious cloud motifs with an embossed metallic finish, intricate curling swirl patterns, and luxurious gilt texture. The scene features dramatic backlighting with a rim light creating glowing silhouette edges, with subjects outlined by light. Intricate geometric and floral patterns with luxurious metallic gold accents and a gold and black color scheme define the Indian folk art aesthetic. Visually displayed clearly in the image is the date and time text '2026-06-27 11:18 UTC'.",
+    "inspiration": "墨西哥一隻名為默林（Merlin）的寵物鴨，因經常身穿色彩鮮豔的服裝在墨西哥市街頭漫步，在近期因受邀參加總統新聞簡報會後，迅速在社群上走紅並成為熱門的世界盃吉祥物。",
+    "comment_id": 4817075701,
+    "story": "在繁華的墨西哥市中心，這隻明星寵物鴨穿著牠招牌的璀璨彩衣昂首闊步，卻不小心闖入了黑金配色的神祕庭院。四腳著地的花貓被這抹奇異的色彩吸引，在耀眼的背光輪廓下，壓低身體在金箔雲紋間敏捷地穿梭飛撲，與鴨子展開一場優雅的追逐。",
+    "title": "黑金祥雲間的彩衣追逐",
+    "number": 2290,
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Bird's-Eye View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]

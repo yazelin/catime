@@ -21256,5 +21256,14 @@
     "character_name": "船長",
     "status": "success",
     "character": "captain"
+  },
+  {
+    "timestamp": "2026-06-27 11:18 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-27_1118_UTC.webp",
+    "inspiration": "墨西哥一隻名為默林（Merlin）的寵物鴨，因經常身穿色彩鮮豔的服裝在墨西哥市街頭漫步，在近期因受邀參加總統新聞簡報會後，迅速在社群上走紅並成為熱門的世界盃吉祥物。",
+    "status": "success",
+    "title": "黑金祥雲間的彩衣追逐",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2290
   }
 ]
