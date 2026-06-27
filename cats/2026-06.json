@@ -7960,5 +7960,39 @@
     },
     "title": "鏡中微物之境",
     "inspiration": "台灣沿海地區最新發現一種體型比芝麻還小的全新海蛞蝓物種，獨特的外觀為海洋生物多樣性研究帶來新突破。"
+  },
+  {
+    "idea": "在食物超現實擬物風格下，一隻巨大的虎斑貓正趴在由巨型西瓜皮與起司片改裝的偉士牌速克達上，在液態金屬般的霓虹螢光街道中穿梭。",
+    "number": 2299,
+    "inspiration": "義大利羅馬於6月25日至28日舉辦「Vespa Roma 2026」盛大集會，吸引成千上萬的偉士牌騎士齊聚街頭，共同慶祝這款經典速克達誕生80週年。",
+    "news_inspiration": [
+      "義大利羅馬於6月25日至28日舉辦「Vespa Roma 2026」盛大集會，吸引成千上萬的偉士牌騎士齊聚街頭，共同慶祝這款經典速克達誕生80週年。",
+      "加拿大溫哥華的知名地標「科學世界」博物館為了迎接世界盃足球賽，特別被創意改造為一顆高達17層樓的巨型足球。",
+      "在日本八代市舉辦的亞洲青少年羽球錦標賽中，馬來西亞青年隊在全新接力計分制下擊敗南韓隊，順利挺進八強。",
+      "科學家在摩洛哥的古老海底岩石中，意外發現了通常只出現在淺水光照區的微生物席皺紋圖案，為遠古生命的生存環境研究帶來全新線索。"
+    ],
+    "comment_id": 4823101900,
+    "title": "羅馬的流動盛宴",
+    "prompt": "A huge tabby cat riding a customized Vespa scooter built from a giant watermelon rind and cheese slices, clinging to a bread loaf seat. The scene is set on a neon fluorescent street with a liquid metal, mercury-like reflective flow and molten mirror finish. Food surrealism photography, whimsical scale play, glamour portrait lighting with butterfly lighting creating soft even illumination. Electric pink, lime green, and hot cyan colors glowing against a dark background. The text '2026-06-27 23:52 UTC' is visually displayed in the image. Shot with a 35mm lens, f/1.8, shallow depth of field, subtle film grain, candid shot style, capturing a real photograph aesthetic.",
+    "style_picks": {
+      "art_style": "Food Surrealism",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "為了慶祝經典速克達誕生80週年，這隻熱愛速度的街貓跳上了特製的「美味偉士牌」。牠四腳緊抓著麵包座墊，在蝴蝶光的照射下，雙眼與四周的螢光色調一同閃耀，成為羅馬街頭最矚目的焦點。",
+    "avoid_list": [
+      "生物發光螢幕",
+      "特林吉特圖騰藝術",
+      "金箔祥雲紋理",
+      "黑色電影風格",
+      "用爪子撥弄",
+      "用鼻子嗅聞",
+      "直打閃光燈",
+      "墨西哥市的活動背景",
+      "巴西外海或深海船艙",
+      "極低角度仰望"
+    ]
   }
 ]
