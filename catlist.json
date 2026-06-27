@@ -21285,5 +21285,18 @@
     "status": "success",
     "title": "羅馬騎士的幾何浪漫",
     "inspiration": "義大利羅馬自6月25日起舉辦為期四天的盛大聚會，吸引無數偉士牌騎士齊聚街頭，共同慶祝這款經典速克達問世80週年。"
+  },
+  {
+    "inspiration": "一項由英國牛津大學等國際團隊發表的最新天文研究指出，科學家首度證實發現了兩顆密度比棉花糖還要低、體積卻與木星相當的極罕見「超級膨脹行星（Super-puff planets）」。",
+    "is_seasonal": true,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-27_1654_UTC.webp",
+    "season": "summer",
+    "character_name": "鈴鈴",
+    "title": "金色圖騰的夏日探險",
+    "character": "lingling",
+    "number": 2293,
+    "status": "success",
+    "timestamp": "2026-06-27 16:54 UTC"
   }
 ]
