@@ -8320,5 +8320,36 @@
     "character": "lingling",
     "inspiration": "original",
     "idea": "在鐵鏽舊化的大地色系體素方塊花園中，一隻全身由白色方塊構成、戴著粉紅蝴蝶結鈴鐺的蓬鬆布偶貓鈴鈴，正撲向一隻由幾何方塊組成的斑斕蝴蝶，畫面呈現直式書法海報構圖與戲劇性的倫勃朗光。"
+  },
+  {
+    "comment_id": 4827361018,
+    "inspiration": "original",
+    "prompt": "A colored pencil illustration of a cat on rough sketchbook paper texture, with visible pencil grain and layered hues. Using a dramatic forced perspective composition, the cat's furry paw is thrust toward the camera with exaggerated foreshortening, trying to catch liquid metal mercury-like reflective spheres rolling on a wooden table. Intimate candlelight creates a warm orange flickering glow and soft dancing shadows. The scene is rendered in a warm amber color grading and an autumn palette of golden yellows and burnt orange. Integrated into the image, the date and time '2026-06-28 20:50 UTC' is visually displayed.",
+    "story": "古老圖書館的角落裡，搖曳的燭光將空氣染成深沉的秋日琥珀色。一隻淘氣的三花貓趴在凌亂的羊皮紙堆間，被一盞打翻的魔法墨水所吸引——那墨水竟化作液態金屬般的球體在桌面滾動。牠按捺不住好奇心，猛地伸出爪子向前探去，在強制透視的視覺下，那隻毛茸茸的貓爪顯得無比巨大且充滿張力。",
+    "avoid_list": [
+      "粉彩色系",
+      "霓虹螢光",
+      "35mm底片攝影風格",
+      "黏土動畫風格",
+      "巨型足球",
+      "伸出前爪撥弄",
+      "日光燈照明",
+      "莫蘭迪色調",
+      "時間戳記標記",
+      "魚眼鏡頭視角",
+      "故事插畫兩格或分割畫面",
+      "四腳著地趴在物體上"
+    ],
+    "number": 2309,
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Candlelight",
+      "texture": "Liquid Metal",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "流汞與燭火的捉迷藏",
+    "idea": "在溫暖的琥珀色燭光下，一隻貓咪以強烈的手部強制透視感向畫面伸出前爪，試圖捕捉桌上如液態金屬般流動的奇幻水銀球，整體以精緻的秋日色鉛筆畫風格呈現。",
+    "news_inspiration": []
   }
 ]
