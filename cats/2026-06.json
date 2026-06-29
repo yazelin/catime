@@ -8481,5 +8481,36 @@
     "news_inspiration": [],
     "idea": "在充滿對稱美感的新中式少女插畫中，一隻橘貓正趴在佈滿絞染織物紋理的古琴上，試圖用前爪按住正在發出生物發光的奇幻螢光琴弦。",
     "comment_id": 4828830743
+  },
+  {
+    "news_inspiration": [],
+    "title": "無盡花生麻糬之匣",
+    "comment_id": 4830645858,
+    "idea": "在傳統市場的古董乾貨店內，以漫畫風格呈現一隻肥嘟嘟的橘白貓「麻糬」正鑽進一個印有牠自身圖案的無限循環紙箱中，畫面結合百葉窗條紋光影、線框透明質感與莫蘭迪色調的德羅斯特效應。",
+    "story": "貪吃的麻糬巡邏完老街市場後，被一個散發淡淡乾貨香氣的層疊紙箱吸引。牠努力扭動圓滾滾的花生麻糬身軀，試圖塞進那剛好容得下牠的箱子裡，卻不知不覺走入了一個無限延伸的奇幻箱中箱視覺空間。",
+    "avoid_list": [
+      "伸出爪子撥弄",
+      "粉彩色系",
+      "35mm底片攝影風格",
+      "鳥瞰俯瞰視角",
+      "世界盃與足球",
+      "時間戳記浮雕",
+      "液態金屬或虹彩材質",
+      "直式海報構圖",
+      "微縮立體模型效果",
+      "硬光強烈陰影"
+    ],
+    "character": "mochi",
+    "prompt": "Manga style illustration of a chubby rounded shorthair cat named Mochi squeezing into a cardboard box inside a traditional antique dry goods market. Mochi has a white base coat and solid orange patches without tabby stripes. Her right half-face (viewer perspective) has an orange mask extending from the nose bridge across the right cheek to the right ear, while her left face remains entirely white. She has large round amber eyes, a pink nose with a tiny orange center dot, a short stubby body, a white belly, a heart-shaped orange saddle on her upper back, a solid orange mitten on her right front paw, a pure white left front paw, and an orange-and-white ringed tail. The box has an identical picture of Mochi printed on it, creating an infinite Droste effect recursive image loop into a futuristic see-through structure. The scene features clean ink lines, screentone shading, a wireframe overlay texture with a translucent technical grid, and venetian blind striped lighting casting hard parallel light-and-shadow bands. The color palette is composed of Morandi muted colors, desaturated soft pastels, and dusty grey undertones. Visually displayed in a clear tech-font on the corner of the image is the timestamp '2026-06-29 08:48 UTC'.",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Venetian Blind Light",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 2314,
+    "character_name": "麻糬"
   }
 ]
