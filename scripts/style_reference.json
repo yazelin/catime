@@ -644,6 +644,121 @@
       "zh": "粉彩光點繪畫",
       "en": "Pastel Bokeh Illustration",
       "prompt": "pastel bokeh illustration, painterly digital rendering of cityscape or harbor, heavy colorful light dots scattered across sky and water, dreamy candy palette, glowing window lights, soft reflection on water surface, magical night atmosphere"
+    },
+    {
+      "zh": "電影感寫實人像",
+      "en": "Cinematic Realistic Portrait",
+      "prompt": "cinematic photoreal portrait, color-graded film look, dramatic mood lighting, shallow depth of field, lifelike skin and atmosphere, movie-still quality"
+    },
+    {
+      "zh": "建築視覺化渲染",
+      "en": "Architectural Visualization Render",
+      "prompt": "architectural visualization render, photoreal CGI of futuristic or organic buildings, clean global illumination, glass and concrete surfaces, atmospheric scale, design portfolio quality"
+    },
+    {
+      "zh": "美術黑白攝影",
+      "en": "Fine Art Black-and-White Photography",
+      "prompt": "fine art black-and-white photography, rich tonal gradation, deep blacks and luminous highlights, contemplative monochrome mood, gallery print quality"
+    },
+    {
+      "zh": "極簡超現實場景",
+      "en": "Minimalist Surreal Scene",
+      "prompt": "minimalist surreal scene, single subject in vast empty space, clean negative space, dreamlike impossible staging, muted refined palette, conceptual fine art"
+    },
+    {
+      "zh": "通透紗影人像",
+      "en": "Sheer Veiled Ethereal Portrait",
+      "prompt": "ethereal portrait behind sheer translucent fabric, soft veiled silhouette, diffused glowing light, delicate gossamer layers, dreamy poetic mood"
+    },
+    {
+      "zh": "暗黑恐怖概念藝術",
+      "en": "Dark Horror Concept Art",
+      "prompt": "dark horror concept art, ominous creature or figure, deep shadows and eerie atmosphere, gothic dread, highly detailed digital painting, cinematic dread mood"
+    },
+    {
+      "zh": "空靈水晶花卉",
+      "en": "Ethereal Crystalline Florals",
+      "prompt": "ethereal crystalline floral art, translucent glass-like blossoms, glowing inner light, frosted prismatic petals, delicate surreal botanical, luminous dreamy palette"
+    },
+    {
+      "zh": "夢幻商品攝影",
+      "en": "Dreamy Product Photography",
+      "prompt": "dreamy product photography, hero object on soft gradient backdrop, glossy reflections and floating props, pastel studio light, polished commercial still life"
+    },
+    {
+      "zh": "羊毛氈工藝",
+      "en": "Needle-Felted Wool Craft",
+      "prompt": "needle-felted wool craft, soft fuzzy fiber texture, handmade plush character, cozy tactile surface, whimsical artisanal figurine, warm studio light"
+    },
+    {
+      "zh": "超現實潮玩人偶",
+      "en": "Surreal Designer Art-Toy Figure",
+      "prompt": "surreal designer art-toy figure, collectible blind-box character, glossy sculpted forms, playful uncanny styling, studio product lighting, vinyl figure aesthetic"
+    },
+    {
+      "zh": "侘寂靜物攝影",
+      "en": "Wabi-Sabi Still Life Photography",
+      "prompt": "wabi-sabi still life photography, imperfect organic objects, muted earthy palette, soft directional window light, quiet contemplative emptiness, textured aged surfaces"
+    },
+    {
+      "zh": "低俗藝術混媒插畫",
+      "en": "Lowbrow Mixed-Media Illustration",
+      "prompt": "lowbrow pop-surrealism illustration, mixed-media collage of paint and print, eccentric whimsical characters, layered textured surfaces, underground art aesthetic"
+    },
+    {
+      "zh": "日系底片攝影",
+      "en": "Japanese Film Photography",
+      "prompt": "Japanese film photography aesthetic, airy soft tones, gentle muted colors, fine grain, natural everyday light, nostalgic understated mood"
+    },
+    {
+      "zh": "壯麗自然風景攝影",
+      "en": "Majestic Landscape Photography",
+      "prompt": "majestic landscape photography, sweeping natural vista, dramatic sky and light, deep depth of field, grand sense of scale, fine art outdoor scenery"
+    },
+    {
+      "zh": "寫實人形機器人",
+      "en": "Photorealistic Sci-Fi Robot Concept",
+      "prompt": "photorealistic sci-fi concept, humanoid robot or alien creature, intricate mechanical detail, cinematic studio lighting, hard-surface design, blockbuster VFX quality"
+    },
+    {
+      "zh": "通透標本雕塑",
+      "en": "Translucent Specimen Sculpture",
+      "prompt": "translucent specimen sculpture, organic forms suspended in clear resin or glass, museum-like display, soft backlight revealing inner structure, delicate scientific beauty"
+    },
+    {
+      "zh": "舞蹈肢體攝影",
+      "en": "Dance Movement Photography",
+      "prompt": "dance movement photography, dynamic body in motion, expressive gesture and line, flowing fabric, dramatic studio light freezing motion, kinetic energy"
+    },
+    {
+      "zh": "漂流木組合雕塑",
+      "en": "Driftwood Assemblage Sculpture",
+      "prompt": "driftwood assemblage sculpture, weathered wood pieces forming a figure or animal, natural organic texture, gallery or land-art staging, rustic handcrafted form"
+    },
+    {
+      "zh": "暗黑微距花卉",
+      "en": "Dark Moody Floral Macro",
+      "prompt": "dark moody floral macro, single bloom against deep black void, dramatic low-key light, dewy petal detail, painterly vanitas atmosphere, rich saturated darks"
+    },
+    {
+      "zh": "線描著色本插畫",
+      "en": "Coloring Book Line Art",
+      "prompt": "coloring book line art, clean uniform black outlines on white, no shading, intricate decorative linework, playful illustrative shapes, ready-to-color aesthetic"
+    },
+    {
+      "zh": "後末日療癒動畫場景",
+      "en": "Post-Apocalyptic Cozy Animation Scene",
+      "prompt": "post-apocalyptic cozy animation scene, nature reclaiming ruins, lush greenery over abandoned structures, warm hopeful light, soft anime background painting, serene melancholic mood"
+    },
+    {
+      "zh": "和風妖怪面具插畫",
+      "en": "Japanese Yokai Mask Illustration",
+      "prompt": "Japanese yokai and mask illustration, folkloric spirits and oni masks, bold ukiyo-inspired linework, eerie playful mood, traditional Japanese color accents"
+    },
+    {
+      "zh": "空靈夜花奇幻插畫",
+      "en": "Ethereal Nocturnal Fantasy Illustration",
+      "prompt": "ethereal nocturnal fantasy illustration, pale figure among glowing flowers and butterflies, ornate iron floral lattice, full moon, dripping painterly render, dreamy blue nocturne"
     }
   ],
   "composition": [
@@ -761,6 +876,76 @@
       "zh": "服裝多視角展示",
       "en": "Multi-View Fashion Display",
       "prompt": "multi-view product showcase layout, front view, back view, side view and detail close-up arranged in panels, labeled views, clean studio backdrop, fashion design sheet format, lookbook reference guide"
+    },
+    {
+      "zh": "居中主體構圖",
+      "en": "Centered Subject Composition",
+      "prompt": "centered subject composition, single focal point dead center, balanced symmetrical framing, clean surrounding space, direct iconic presentation"
+    },
+    {
+      "zh": "淺景深特寫",
+      "en": "Shallow Depth-of-Field Close-up",
+      "prompt": "shallow depth-of-field close-up, subject sharp against creamy blurred background, intimate near-object framing, soft bokeh, tactile detail emphasis"
+    },
+    {
+      "zh": "頭肩特寫",
+      "en": "Head-and-Shoulders Portrait",
+      "prompt": "head-and-shoulders portrait crop, face filling the frame, intimate eye-level connection, tight framing on expression, classic portrait composition"
+    },
+    {
+      "zh": "留白負空間構圖",
+      "en": "Negative Space Composition",
+      "prompt": "negative space composition, small subject in expansive emptiness, minimalist breathing room, off-center placement, calm uncluttered framing"
+    },
+    {
+      "zh": "全身居中直幅",
+      "en": "Full-Body Vertical Portrait",
+      "prompt": "full-body vertical portrait, entire figure centered in a tall frame, head-to-toe framing, environmental context, balanced standing composition"
+    },
+    {
+      "zh": "滿版特寫",
+      "en": "Full-Bleed Frame Fill",
+      "prompt": "full-bleed frame-filling composition, subject cropped to edges, no empty margin, immersive overwhelming scale, dense edge-to-edge detail"
+    },
+    {
+      "zh": "側臉特寫",
+      "en": "Side Profile Portrait",
+      "prompt": "side profile portrait, subject viewed from the side, clean silhouette of nose and chin, profile-defining contour, elegant lateral framing"
+    },
+    {
+      "zh": "平視正面構圖",
+      "en": "Eye-Level Frontal Composition",
+      "prompt": "eye-level frontal composition, straight-on symmetrical view, subject facing camera directly, neutral honest perspective, confrontational balance"
+    },
+    {
+      "zh": "鏡像異我構圖",
+      "en": "Doppelganger Mirror Composition",
+      "prompt": "doppelganger mirror composition, the same figure duplicated or reflected facing itself, uncanny symmetry, surreal twin framing, conceptual self-encounter"
+    },
+    {
+      "zh": "引導線構圖",
+      "en": "Leading Lines Composition",
+      "prompt": "leading lines composition, converging perspective lines guiding the eye toward the subject, strong directional depth, architectural or path-driven framing"
+    },
+    {
+      "zh": "中景環境人像",
+      "en": "Environmental Medium Portrait",
+      "prompt": "environmental medium shot, subject placed within a meaningful setting, balanced figure-and-context framing, storytelling background, natural depth perspective"
+    },
+    {
+      "zh": "對角線構圖",
+      "en": "Diagonal Composition",
+      "prompt": "diagonal composition, dynamic slanted lines and tilted framing, energetic movement across the frame, off-axis tension, kinetic visual flow"
+    },
+    {
+      "zh": "渺小人物對比",
+      "en": "Tiny Figure Scale Contrast",
+      "prompt": "tiny figure for scale, a small human dwarfed by a vast subject or structure, dramatic size contrast, awe of monumental scale, lonely epic framing"
+    },
+    {
+      "zh": "框中框構圖",
+      "en": "Frame Within a Frame",
+      "prompt": "frame within a frame composition, subject seen through a window, arch or opening, layered foreground border, depth and focus emphasis, nested framing"
     }
   ],
   "lighting": [
@@ -863,6 +1048,36 @@
       "zh": "暴風雪朦朧",
       "en": "Snowstorm Haze",
       "prompt": "snowstorm atmospheric lighting, heavy falling snow veil, muted diffused daylight, fogged distance, cold blue-white palette, painterly weather mood, visibility obscured by flurries"
+    },
+    {
+      "zh": "水下焦散光",
+      "en": "Underwater Caustics",
+      "prompt": "underwater caustic lighting, rippling light patterns dancing over the subject, blue-green aquatic glow, refracted sun shafts through water, submerged dreamlike atmosphere"
+    },
+    {
+      "zh": "星雲輝光",
+      "en": "Nebula Cosmic Glow",
+      "prompt": "nebula cosmic glow, soft colorful starfield illumination, ethereal purple and blue space light, glowing particles and galactic haze, otherworldly radiance"
+    },
+    {
+      "zh": "斑駁光影",
+      "en": "Dappled Light",
+      "prompt": "dappled light, scattered patches of sunlight filtered through leaves, soft mottled shadow patterns, gentle organic light play, serene natural mood"
+    },
+    {
+      "zh": "百葉窗條紋光",
+      "en": "Venetian Blind Light",
+      "prompt": "venetian blind striped lighting, hard parallel light-and-shadow bands across the subject, film-noir mood, dramatic graphic shadow pattern, moody interior"
+    },
+    {
+      "zh": "窗邊柔光",
+      "en": "Window Light",
+      "prompt": "soft window light, gentle directional daylight from a side window, smooth falloff into shadow, intimate still-life mood, classic Vermeer-like illumination"
+    },
+    {
+      "zh": "白底去背棚光",
+      "en": "White Seamless Studio Light",
+      "prompt": "white seamless studio lighting, evenly lit subject on pure white cyclorama, clean shadowless product look, bright high-key backdrop, crisp commercial clarity"
     }
   ],
   "texture": [
@@ -1030,6 +1245,66 @@
       "zh": "虹彩全息",
       "en": "Iridescent Holographic",
       "prompt": "iridescent holographic material, rainbow color shift on transparent PVC, pastel prismatic reflections, shimmering translucent surface, futuristic fashion plastic, bubble-like holographic film"
+    },
+    {
+      "zh": "水彩潑濺墨點",
+      "en": "Watercolor Splatter & Ink Spray",
+      "prompt": "watercolor splatter and ink-spray texture, dripping pigment, scattered dots and splashes, organic fluid stains, expressive spontaneous marks on paper"
+    },
+    {
+      "zh": "紗網薄透肌理",
+      "en": "Sheer Gauze Mesh",
+      "prompt": "sheer gauze mesh texture, fine translucent netting, delicate woven veil, soft light passing through fabric, gossamer layered transparency"
+    },
+    {
+      "zh": "厚塗油彩肌理",
+      "en": "Impasto Oil Texture",
+      "prompt": "impasto oil texture, thick palette-knife strokes, raised three-dimensional paint ridges, visible brush gestures, rich tactile painterly surface"
+    },
+    {
+      "zh": "柔焦霧面",
+      "en": "Soft-Focus Matte Haze",
+      "prompt": "soft-focus matte haze, dreamy diffused blur, gentle glowing veil over the image, hazy atmospheric softness, low-contrast ethereal finish"
+    },
+    {
+      "zh": "絨毛皮草",
+      "en": "Fur / Plush Texture",
+      "prompt": "fur and plush texture, soft fuzzy fibers, fluffy tactile pile, cozy velvety strands catching light, huggable soft-surface detail"
+    },
+    {
+      "zh": "金箔潑點肌理",
+      "en": "Gold Foil Flecks",
+      "prompt": "gold foil flecks texture, scattered metallic gold leaf shards, glinting gilded specks, luxurious shimmering accents, hand-applied foil splatter"
+    },
+    {
+      "zh": "鏡面水反射",
+      "en": "Mirror Water Reflection",
+      "prompt": "mirror water reflection, glassy still surface mirroring the subject, symmetrical inverted image, subtle ripples, serene reflective sheen"
+    },
+    {
+      "zh": "膨脹絎縫羽絨",
+      "en": "Puffy Quilted Down",
+      "prompt": "puffy quilted down texture, inflated padded segments, soft bulging stitched channels, glossy puffer-jacket surface, plump air-filled volume"
+    },
+    {
+      "zh": "珠飾水鑽鑲嵌",
+      "en": "Beaded Rhinestone Embellishment",
+      "prompt": "beaded rhinestone embellishment, encrusted glittering gems and pearls, faceted sparkling stones, ornate jeweled surface, opulent couture detailing"
+    },
+    {
+      "zh": "壓花植物疊層",
+      "en": "Pressed Botanical Layers",
+      "prompt": "pressed botanical layers, flattened dried flowers and leaves, delicate translucent plant specimens, layered herbarium texture, natural organic collage"
+    },
+    {
+      "zh": "線框透明質感",
+      "en": "Wireframe Overlay",
+      "prompt": "wireframe overlay texture, glowing geometric mesh lines over the form, translucent technical grid, digital blueprint feel, futuristic see-through structure"
+    },
+    {
+      "zh": "鐵絲網纏繞",
+      "en": "Tangled Wire Mesh",
+      "prompt": "tangled wire mesh texture, coiled and woven metal strands, intricate wrapped wireframe, industrial netting, sculptural twisted-wire surface"
     }
   ],
   "color_palette": [
@@ -1087,6 +1362,16 @@
       "zh": "雙色調",
       "en": "Duotone",
       "prompt": "duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel"
+    },
+    {
+      "zh": "青橙電影調",
+      "en": "Teal and Orange",
+      "prompt": "teal and orange color grading, warm skin tones against cool blue-green shadows, complementary cinematic palette, blockbuster film look, punchy balanced contrast"
+    },
+    {
+      "zh": "月夜靛藍",
+      "en": "Moonlit Indigo",
+      "prompt": "moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, dark dreamy blue dominance"
     }
   ]
 }
