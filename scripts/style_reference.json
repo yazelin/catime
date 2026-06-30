@@ -969,6 +969,11 @@
       "zh": "新中式珠寶工筆插畫",
       "en": "Neo-Chinese Jeweled Gongbi Illustration",
       "prompt": "neo-Chinese jeweled gongbi illustration, meticulous fine-line beauty adorned with ornate jewelry and gems, rich decorative detail, gold accents, luxurious traditional craft feel"
+    },
+    {
+      "zh": "賽博霓虹浮世繪",
+      "en": "Cyberpunk Neon Ukiyo-e",
+      "prompt": "cyberpunk neon ukiyo-e, traditional Japanese woodblock figures and wave patterns fused with glowing neon signage, holographic accents, rain-soaked dystopian palette, bold flat outlines over electric cyan and magenta glow"
     }
   ],
   "composition": [
@@ -1575,6 +1580,11 @@
       "zh": "稜鏡彩虹光斑",
       "en": "Prismatic Rainbow Flare",
       "prompt": "prismatic rainbow flare texture, refracted spectral light spots scattered across the image, iridescent lens-glow streaks, dreamy chromatic highlights"
+    },
+    {
+      "zh": "霓虹掃描線雜訊",
+      "en": "Neon Scanline Noise",
+      "prompt": "neon scanline noise texture, horizontal CRT scan lines over glowing neon hues, analog video static, RGB shift artifacts, grainy phosphor flicker overlay"
     }
   ],
   "color_palette": [
