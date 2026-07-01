@@ -110,9 +110,20 @@ RENDER_PROMPT = (
     "grain, candid shot'). The output MUST look like a real photograph, NOT a painting or digital art. "
     "Do NOT use words like 'breathtaking', 'intricate', 'ethereal', 'brushstrokes', or 'palette'.\n"
     "    - If ILLUSTRATION/ART: describe artistic medium, technique, and visual style.\n"
-    "(6) If style reference snippets are provided below, incorporate them into the prompt.\n\n"
+    "(6) If style reference snippets are provided below, incorporate them into the prompt.\n"
+    "(7) Any text shown in the image (the date/time, titles, signs, captions) MUST be "
+    "Traditional Chinese (繁體中文 / 正體字) or English — NEVER Simplified Chinese (简体字).\n\n"
     "Output a JSON object with exactly this format:\n"
     '{{"prompt": "English image prompt here"}}'
+)
+
+# Appended verbatim to every final image prompt so the script constraint holds
+# even if the prompt-engineer LLM drops requirement (7). Gemini's image model
+# defaults to Simplified glyphs otherwise. User preference: 繁體中文 / English.
+_ZH_TEXT_CONSTRAINT = (
+    " IMPORTANT: any text rendered in the image (date/time, title, signs, captions) "
+    "must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. "
+    "NEVER render Simplified Chinese (简体字)."
 )
 
 def safe_load_json(path: Path, default):
@@ -789,7 +800,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         )
         result = parse_ai_response_generic(response.text, ["prompt"])
         if result:
-            prompt = result["prompt"]
+            prompt = result["prompt"] + _ZH_TEXT_CONSTRAINT
             print(f"Prompt: {prompt[:120]}...")
             return {
                 'prompt': prompt,
@@ -808,7 +819,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         else:
             print("Stage 2 parse failed, using idea as prompt fallback.")
             return {
-                'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}{character_render_section}",
+                'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}{character_render_section}{_ZH_TEXT_CONSTRAINT}",
                 'story': story,
                 'idea': idea,
                 'title': title or '貓咪日常',
@@ -824,7 +835,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
     except Exception as e:
         print(f"Stage 2 failed ({e}), using idea as prompt fallback.")
         return {
-            'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}{character_render_section}",
+            'prompt': f"{idea}. The date and time '{timestamp}' is visually displayed in the image. {style_snippets}{character_render_section}{_ZH_TEXT_CONSTRAINT}",
             'story': story,
             'idea': idea,
             'title': title or '貓咪日常',
