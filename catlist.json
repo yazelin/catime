@@ -21666,5 +21666,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "inspiration": "泰國政府成立跨部會特別小組，宣布積極推動曼谷等地的「寺廟夜間旅遊」與電影觀光，打造獨特的夜間文化體驗。"
+  },
+  {
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-01_0702_UTC.webp",
+    "season": "summer",
+    "title": "老船長的夏日漁獲",
+    "is_seasonal": true,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "inspiration": "original",
+    "number": 2332,
+    "timestamp": "2026-07-01 07:02 UTC",
+    "character": "captain"
   }
 ]
