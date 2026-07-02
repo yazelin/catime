@@ -472,5 +472,41 @@
     "character_name": "麻糬",
     "title": "雪霽繁花偷桃趣",
     "story": "市場裡最受歡迎的胖貓麻糬，今天換上了充滿節慶感的華麗繁花禮服，像一顆剛出爐的精緻黏土點心。雖然外面正下著朦朧的暴風雪，但牠完全被櫃檯上剛蒸好、冒著熱氣的紅金壽桃所吸引，眼睛興奮地放大了兩倍，正準備伸出戴著橘色手套的右前腳去偷偷撥弄。"
+  },
+  {
+    "story": "在一家瀰漫著油墨香氣的舊報攤角落，一隻三花貓正趴在長椅上，用靈巧的爪子按壓著一張張帶有摺痕的彩色卡紙。牠笨拙卻認真地協助身旁的老工匠製作手工卡片，聚光燈下，牠的毛髮與那些粗糙的摺紙紋理完美融合。這張老舊的拍立得紀錄了這場跨越物種的寧靜合作，散發出溫暖的時光感。",
+    "title": "舊報攤的摺紙光陰",
+    "prompt": "A Polaroid instant photo of an origami-style calico cat focused on folding paper with its paws, captured on 35mm film with faded vintage colors, low contrast, and nostalgic warmth. The central character is surrounded by a scrapbook-style die-cut sticker collage overlay on the white frame border, featuring chibi characters and floating props. A narrow beam spotlight creates dramatic high-contrast lighting with sharp light edges illuminating the clean geometric creases and sharp angular folds of the paper sculpture aesthetic. Visually displayed in a clear, vintage-style font on the photo is the date and time '2026-07-02 19:06 UTC'. Candid shot, realistic film grain, soft warm tones, slight color fading, shallow depth of field. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Spotlight",
+      "texture": "Origami",
+      "color_palette": "Retro Faded Tones"
+    },
+    "number": 2345,
+    "inspiration": "original",
+    "news_inspiration": [
+      "位於奧地利因斯布魯克的物理學家成功利用超冷銫原子創造出一種名為「分數費米海」的奇特新量子態，為量子物理學帶來全新突破。",
+      "英國倫敦帝國理工學院的最新醫學研究指出，降膽固醇與血壓的藥物能大幅降低40歲以上肥胖成年人罹患心血管疾病的風險。",
+      "一名加州極限跑者在美國邁阿密順利衝線，以31小時25分37秒的總時間完成在世界七大洲皆跑完超級馬拉松的壯舉，成功刷新金氏世界紀錄。",
+      "埃及在全國多個城市發起響應世界捐血日的活動，於短短12小時內成功吸引超過1萬5000人登記捐血，創下充滿愛心的金氏世界紀錄。",
+      "皇家加勒比遊輪與願望成真基金會在中國上海合作推出「海上心願」計畫，首航成功為一名罹患肌肉萎縮症的13歲男孩圓了出海旅遊的夢想。"
+    ],
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "粉紅肉掌與鼻頭",
+      "青橙電影調色彩",
+      "生物發光與特製複製品",
+      "留白負空間構圖",
+      "透明樹脂與水晶折射",
+      "互補色調與螺旋漩渦",
+      "新中式繁花禮服",
+      "水下焦散與體積光",
+      "傳統祥雲與金箔",
+      "好奇探頭俯瞰"
+    ],
+    "idea": "這是一張以復古褪色色調呈現的拍立得照片，四周圍繞著貼紙拼貼邊框，聚光燈打在一隻專注地用貓爪撥弄紙張的摺紙工藝貓身上。",
+    "comment_id": 4869636105
   }
 ]
