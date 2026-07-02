@@ -435,5 +435,42 @@
     "inspiration": "original",
     "story": "在時間齒輪停擺的奇幻工坊裡，這隻好奇的貓咪鑽進了精緻的雙層玻璃沙漏中。牠隨著傾瀉的藍黃沙塵靈巧地轉動身體，試圖在流沙的縫隙間捕捉時間的軌跡。光線透過璀璨的水晶折射，將這場與時間的追逐遊戲定格在交錯的線條之中。",
     "comment_id": 4867222285
+  },
+  {
+    "style_picks": {
+      "art_style": "Neo-Chinese Floral Couture Portrait",
+      "composition": "Negative Space Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Festive Red and Gold"
+    },
+    "number": 2344,
+    "news_inspiration": [
+      "美國夏威夷州的研究人員成功將廢棄漁網與回收塑膠混合製成瀝青，用來鋪設新型環保道路，且初步測試證實不會釋出更多微塑膠粒子。",
+      "在英國倫敦舉辦的溫布頓網球錦標賽上，IBM 技術團隊為官方應用程式進行了全面重構，推出全新的即時「勝率預測」及互動聊天功能，吸引數千萬球迷線上參與。",
+      "印度的一段網路短片引發熱烈關注，一名外賣騎手在收到顧客給予的 500 盧比溫馨小費後，表達了真摯熱情的感謝，溫暖舉動吸引了超過 1300 萬次觀看。",
+      "中國的一項最新考古學研究中，科學家成功按原比例複製了 7000 萬年前的偷蛋龍巢穴，透過熱力學實驗解開了這類恐龍如何孵化卵寶寶的遠古謎團。"
+    ],
+    "idea": "在暴風雪朦朧的留白負空間中，圓滾滾的橘白貓麻糬穿著特製的新中式繁花禮服，在老街市場的黏土質感老麵包店櫃檯前，正伸出粉紅鼻頭專注地嗅著剛出爐的紅金雙色壽桃。",
+    "inspiration": "original",
+    "avoid_list": [
+      "四足俯臥姿態",
+      "伸出前爪撲向發光物體",
+      "互補色調球形發光物",
+      "傳統雕花窗櫺或欄杆的框中框構圖",
+      "融入幾何抽象與線條風格的背景",
+      "水下焦散與星雲輝光結合的光影",
+      "融合傳統東方藝術元素與海報構圖",
+      "精準整齊的物品網格排列",
+      "衣服配件上印有特定國家隊或特製圖案",
+      "帶有時間戳記與繁體中文限制的標記",
+      "微縮模型與移軸攝影特效"
+    ],
+    "comment_id": 4868678752,
+    "character": "mochi",
+    "prompt": "Sculpted clay texture artwork with a handmade ceramic feel and matte surfaces with subtle imperfections. A chubby rounded shorthair cat named Mochi sits on all fours on a rustic bakery counter. Mochi has a white base coat and solid orange patches with no tabby stripes. The right half of its face has an orange mask extending from the nose bridge across its right cheek to its right ear, while the left face is entirely white. It has large round amber eyes and a pink nose with a tiny orange center dot. Its right front paw has a solid orange mitten to the wrist, while its left front paw is pure white. On its dorsal upper back is a heart-shaped orange saddle. The cat wears a custom-tailored, neo-Chinese floral couture garment draped in three-dimensional blossom gowns. It is in an old street market bread shop, stretching its pink nose to focus on sniffing freshly baked, festive red and gold double-colored longevity peaches. The scene is shot with a negative space composition, placing the small subject off-center within a vast, calm, and uncluttered framing of a heavy falling snow veil and an atmospheric snowstorm. Muted diffused daylight and a cold blue-white palette create a painterly weather mood with visibility obscured by flurries. In the corner of the frame, the date and time '2026-07-02 17:24 UTC' is visually displayed in clean English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "麻糬",
+    "title": "雪霽繁花偷桃趣",
+    "story": "市場裡最受歡迎的胖貓麻糬，今天換上了充滿節慶感的華麗繁花禮服，像一顆剛出爐的精緻黏土點心。雖然外面正下著朦朧的暴風雪，但牠完全被櫃檯上剛蒸好、冒著熱氣的紅金壽桃所吸引，眼睛興奮地放大了兩倍，正準備伸出戴著橘色手套的右前腳去偷偷撥弄。"
   }
 ]
