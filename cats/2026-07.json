@@ -719,5 +719,36 @@
     "story": "英國國家檔案館的角落裡，正在進行一場跨越兩百年的秘密歷史研究。這隻擁有大眼睛的萌系黑貓在檔案架間靈巧穿梭，冷不防一爪子拍向一份 1776 年的古老文獻，彷彿牠才是那位真正歷史發現的幕後功臣。",
     "idea": "在以黑白單色調與閃光燈直打呈現的日系萌系角色設計風格中，一隻毛髮泛著碳纖維般科技質感的黑貓，正在充滿歷史感的古老檔案室裡，用爪子撥弄一卷泛黃的羊皮紙。",
     "comment_id": 4874085484
+  },
+  {
+    "character": "captain",
+    "number": 2352,
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "玻璃容器內的世界",
+      "天文望遠鏡與星空",
+      "特定日期時間戳記顯示",
+      "稜鏡彩虹光斑折射",
+      "好奇凝視鏡像或倒影",
+      "限制使用繁體中文或英文",
+      "極簡與超現實場景結合",
+      "高調明亮光線與無陰影",
+      "三花貓與玻璃製品",
+      "大面積負空間或留白構圖"
+    ],
+    "title": "幽藍海圖的夜航",
+    "prompt": "Woodcut print and illustration art of a large stocky brown classic tabby cat with bold black stripes, scruffy coarse untidy fur, a white chest bib, and white mitten paws. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch, while its right eye is a single piercing emerald green. It has a prominent V-shaped notch on its left ear and a faded red bandana tied loosely around its neck. The cat is pressing its front paw onto an ancient old sea chart on a wooden table. Mucha-style arched frame composition, figure enclosed in an ornamental rounded arch with symmetrical Art Nouveau panel framing and integrated floral motifs. The texture features a raised embroidered coiled-flower texture with three-dimensional satin-stitch blossoms and dense thread relief. Illumination from bioluminescent deep blue-green radiance and underwater phosphorescence. Cool blue-teal color grading with icy undertones. The text '2026-07-03 10:25 UTC' is clearly and visually displayed on the chart. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夜幕低垂的避風港裡，退役的「船長」趴在廢棄老船艙的木桌上，用粗壯的爪子按著泛黃的航海圖。四周散落的深海魚類散發著奇幻的生物發光藍色微芒，照亮了牠堅毅的側臉與威風的白鬍鬚。雖然牠只是隻戀棧海洋的貓咪，但那凝視海圖的銳利眼神，宛如正在指揮一場深夜的秘密啟航。",
+    "inspiration": "original",
+    "comment_id": 4875272884,
+    "news_inspiration": [],
+    "idea": "這是一幅融合冷藍與青色調的木刻版畫，在穆夏式拱框構圖中，一隻戴眼罩的壯碩虎斑貓「船長」正用前爪按住一張古老海圖，彷彿在指引航向，畫面呈現立體刺繡盤花的獨特肌理。"
   }
 ]
