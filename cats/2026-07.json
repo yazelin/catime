@@ -750,5 +750,38 @@
     "comment_id": 4875272884,
     "news_inspiration": [],
     "idea": "這是一幅融合冷藍與青色調的木刻版畫，在穆夏式拱框構圖中，一隻戴眼罩的壯碩虎斑貓「船長」正用前爪按住一張古老海圖，彷彿在指引航向，畫面呈現立體刺繡盤花的獨特肌理。"
+  },
+  {
+    "story": "在白底去背的純淨棚光下，無數道螢光綠與霓虹粉的水墨線條交織成一座立體的彭賈里國家公園瀑布。一隻擁有豹紋斑點的貓咪正伏低身體，以純粹的動物本能朝著空中凝結的立體水珠奮力一撲，展現出瀕危物種復甦的強韌生命力。",
+    "avoid_list": [
+      "玻璃容器內的世界",
+      "天文望遠鏡與星空",
+      "特定日期時間戳記顯示",
+      "稜鏡彩虹光斑折射",
+      "好奇凝視鏡像或倒影",
+      "限制使用繁體中文或英文",
+      "極簡與超現實場景結合",
+      "高調明亮光線與無陰影",
+      "三花貓與玻璃製品",
+      "大面積負空間或留白構圖"
+    ],
+    "news_inspiration": [
+      "美國新墨西哥州的洛斯阿拉莫斯國家實驗室科學家成功利用量子控制技術，精準引導量子測量，讓系統在視覺與數據上呈現出「時間倒流」的驚人突破。",
+      "貝南的彭賈里國家公園傳出保育捷報，研究指出在非營利組織與政府的努力下，當地瀕危的西非豹數量在過去六年間呈現穩定上升的復甦趨勢。",
+      "美國紐約的麥迪遜廣場花園迎來泰勒絲（Taylor Swift）與崔維斯·凱爾西（Travis Kelce）的盛大婚禮，在嚴密的安保下吸引了約千名賓客共同慶祝這場世紀婚禮。"
+    ],
+    "prompt": "A 3D isometric illustration combining Chinese ink wash painting and sumi-e style, depicting an agile West African leopard cat pouncing toward vibrant splashing water droplets in a rushing stream. The scene is illuminated by white seamless studio lighting with a clean shadowless look on a pure white backdrop. The composition features clean geometric forms and minimalist brushwork blended with energetic splattering water details, crystalline liquid arcs, and bursting droplets frozen mid-motion. The color palette bursts with neon fluorescent colors, including electric pink, lime green, and hot cyan flowing in gradients. Visually displayed clearly within the image is the English text '2026-07-03 12:51 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "螢墨躍動之生",
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "貝南的彭賈里國家公園傳出保育捷報，研究指出在非營利組織與政府的努力下，當地瀕危的西非豹數量在過去六年間呈現穩定上升的復甦趨勢。",
+    "comment_id": 4876517603,
+    "idea": "這是一幅結合霓虹螢光色調的等距3D插圖水墨畫，描繪一隻敏捷的西非豹紋貓正在激流中撲向飛濺的靈動水花。",
+    "number": 2353
   }
 ]
