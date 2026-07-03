@@ -917,5 +917,41 @@
     "inspiration": "original",
     "idea": "這是一幅結合低多邊形（Low Poly）幾何幾何美學與建築藍圖風格的單色畫作，一隻折耳貓在結構複雜的巨型鐘錶內部齒輪間攀爬探險。",
     "title": "齒輪間的幾何律動"
+  },
+  {
+    "prompt": "A real long exposure light painting photograph capturing a large ginger cat on the dark deck of a deep-sea research vessel, intensely staring into a water tank containing a newly discovered, unknown jellyfish emitting a radiant golden bioluminescent glow. The date and time '2026-07-03 21:55 UTC' is clearly and cleanly displayed in a small, minimalist font in the corner of the frame. The composition uses negative space with an off-center placement, creating an expansive, calm, and uncluttered framing. Dramatic high-contrast lighting features a narrow beam spotlight on the cat, with swirling luminous trails, glowing halos, and vibrant gold ribbons drawn around the subject, falling off into deep darkness. The color scheme is strictly gold and black, delivering an opulent mood. Captured on 35mm film, f/2.8, with organic analog texture, visible film grain, and subtle noise, making it look like an authentic, real-life photograph with no digital art or painting elements. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4879542058,
+    "story": "科學家在巴西外海發現了數十種全新海洋生物，並將牠們暫時安置在甲板的水槽中。這隻隨船的橘貓被這抹深夜裡的金色微光深深吸引，牠伏下身子，用貓科動物特有的好奇眼神，與這隻來自千米深海的神秘居民進行無聲的對視。",
+    "number": 2358,
+    "idea": "在漆黑的深海科學考察船甲板上，一隻大黃貓正專注地凝視著剛從深海撈起、散發著金色生物螢光的全新未知水母，整體呈現光繪攝影風格。",
+    "news_inspiration": [
+      "在阿根廷布宜諾斯艾利斯，一名遛狗師將他照顧的13隻小狗全部穿上阿根廷國家隊球衣，讓牠們瞬間成為當地的世界盃明星犬。",
+      "西班牙馬德里日前舉辦了同志驕傲節的趣味高跟鞋賽跑，參賽者們穿著各式誇張的超高高跟鞋在街頭奮力狂奔，吸引大批民眾圍觀。",
+      "科學家利用最新技術在巴西外海的深海區域進行了為期兩週的海洋考察，成功發現了31種前所未見的全新海洋生物。",
+      "英國曼徹斯特大學的一項最新語言學研究指出，當地民眾在唸出如「happy」或「baby」等英文字尾的「快樂元音」時，其發音方式是辨識社會階層的關鍵指標。"
+    ],
+    "title": "深海螢光的對視",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Negative Space Composition",
+      "lighting": "Spotlight",
+      "texture": "Film Grain",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "inspiration": "科學家利用最新技術在巴西外海的深海區域進行了為期兩週的海洋考察，成功發現了31種前所未見的全新海洋生物。",
+    "avoid_list": [
+      "三花貓捕捉蝴蝶或小球",
+      "黑貓專注於天文望遠鏡或星空",
+      "立體花卉貼花裝飾肌理",
+      "復古褪色色調搭配拍立得或35mm底片質感",
+      "新中式與現代插畫融合風格",
+      "用貓爪按壓、撥弄或輕觸特定物品",
+      "玻璃瓶、幾何容器或微觀世界構圖",
+      "碳纖維紋理科技質感",
+      "霓虹與螢光色彩交織的水墨或幾何線條",
+      "漢勒暗空保護區或觀星展覽背景",
+      "強制顯示特定日期與時間文字戳記",
+      "穆夏式或裝飾藝術拱框對稱構圖"
+    ]
   }
 ]
