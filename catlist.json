@@ -21995,5 +21995,16 @@
     "number": 2364,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-04_1047_UTC.webp",
     "is_seasonal": true
+  },
+  {
+    "number": 2365,
+    "character_name": "鈴鈴",
+    "status": "success",
+    "character": "lingling",
+    "timestamp": "2026-07-04 12:00 UTC",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-04_1200_UTC.webp",
+    "title": "雪霾中的粉紅捕夢者",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]

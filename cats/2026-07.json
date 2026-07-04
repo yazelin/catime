@@ -1164,5 +1164,36 @@
       "在特定場景探險或嗅聞",
       "精確幾何與3D等距構圖"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Nostalgic Aged Photograph",
+      "composition": "Isometric Photography",
+      "lighting": "Snowstorm Haze",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Teal and Orange"
+    },
+    "news_inspiration": [],
+    "story": "陽台外的天空正下著一場罕見的朦朧暴風雪，將遠處的街景全籠罩在白茫茫的霧氣中。店內的暖氣與外面的寒冷交織，讓躲在粉紅陽台角落的鈴鈴興奮不已，她脖子上的粉紅蝴蝶結鈴鐺隨著她撲向橙色椅子旁的捕夢網和蝴蝶而叮鈴作響，打個噴嚏還差點往後彈走。儘管天寒地凍，這隻充滿好奇心的小白貓依然在充滿青橙調的溫馨角落裡，專注於她小小的亮晶晶收藏與追逐遊戲。",
+    "prompt": "An isometric photography shot of Lingling, an extremely fluffy pure white Ragdoll-like cat with voluminous cloud-like fur, a small round face, huge round sapphire-blue eyes, a pink nose, and a pink ribbon bow collar with a small centered golden bell. She is on an outdoor pink balcony of a vintage dessert shop, reaching out a front paw to catch a butterfly near orange chairs and tables. The image is captured in a nostalgic aged photograph style, looking like a real early-century snapshot with a warm sepia patina and yellowed faded antique print quality, blended with an aged silk scroll texture and delicate crease lines. Atmospheric snowstorm lighting fills the scene with a heavy falling snow veil, creating a muted diffused daylight effect, contrasted with a cinematic teal and orange color grading. The date and time '2026-07-04 12:00 UTC' is visually stamped in a clean font in the corner of the image. Real captured photo with an isometric angle, 35mm lens, f/2.8, film grain, candid shot, no miniature effect. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2365,
+    "avoid_list": [
+      "建築藍圖風格",
+      "多格角色拼貼",
+      "約德爾歌手與巴塞爾",
+      "傳統中式與節日元素",
+      "渺小與宏大建築對比",
+      "黑白單色與高對比",
+      "硬光與百葉窗條紋光影",
+      "強烈背光與輪廓光",
+      "繁體中文與英文時間標記",
+      "好奇貓咪穿梭齒輪管道"
+    ],
+    "character_name": "鈴鈴",
+    "character": "lingling",
+    "inspiration": "original",
+    "comment_id": 4881930139,
+    "idea": "在融合等距攝影與暴風雪朦朧光線的懷舊泛黃老照片風格中，蓬鬆如棉花糖的布偶貓鈴鈴正身處一間復古甜點店的露天粉紅陽台，伸出前掌試圖捕捉一隻落在橙色桌椅旁的蝴蝶，畫面帶著古絹絹本的細緻紋理與青橙電影調的色彩對比。",
+    "title": "雪霾中的粉紅捕夢者"
   }
 ]
