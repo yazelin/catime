@@ -21982,5 +21982,18 @@
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "number": 2363
+  },
+  {
+    "title": "夏夜防波堤的獨釣者",
+    "character_name": "船長",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "captain",
+    "season": "summer",
+    "inspiration": "original",
+    "timestamp": "2026-07-04 10:47 UTC",
+    "number": 2364,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-04_1047_UTC.webp",
+    "is_seasonal": true
   }
 ]
