@@ -1091,5 +1091,39 @@
     "title": "鋼鐵穹頂下的巡航",
     "inspiration": "original",
     "idea": "在宛如寫實人形機器人般精密結構的巨大機械溫室中，一隻纖細的暹羅貓正趴在半空中縱橫交錯的黃銅管道上，低頭凝視著下方一艘在室內人工運河中緩慢前進、載滿微型齒輪的微縮蒸汽貨船，整體畫面呈現出渺小人物對比的震撼感。"
+  },
+  {
+    "inspiration": "在瑞士巴塞爾，由於夏季高溫炎熱，參加年度約德爾唱法音樂節的女歌手們紛紛跳進市區的噴泉中一邊泡水降溫、一邊繼續歡樂高歌。",
+    "avoid_list": [
+      "橘色或黑色貓咪",
+      "生物發光與螢光",
+      "建築藍圖風格",
+      "亮面塑膠或碳纖維質感",
+      "傳統中式與青綠山水",
+      "高對比強烈光影與硬邊陰影",
+      "清晰顯示日期時間字樣",
+      "用爪子撥弄或按壓物品",
+      "在特定場景探險或嗅聞",
+      "精確幾何與3D等距構圖"
+    ],
+    "idea": "這是一幅東方奇幻海報風格的頭肩特寫，一隻罕見的雪白三花貓正趴在瑞士巴塞爾的古老雕刻噴泉邊緣，一邊在清涼的泉水中暢快地暢飲，背後則是數名身穿傳統服飾、泡在水裡歡樂高歌的約德爾女歌手。",
+    "title": "泉歌琥珀鳴",
+    "news_inspiration": [
+      "在阿根廷布宜諾斯艾利斯，一名職業遛狗師將他照顧的13隻狗狗全部穿上阿根廷國家足球隊的球衣，走在街頭為2026世界盃足球賽熱情應援。",
+      "在瑞士巴塞爾，由於夏季高溫炎熱，參加年度約德爾唱法音樂節的女歌手們紛紛跳進市區的噴泉中一邊泡水降溫、一邊繼續歡樂高歌。",
+      "在加拿大渥太華，市政府今日於利布雷頓平地公園舉辦大型免費觀賽派對，吸引無數球迷齊聚，一同為國家隊在2026世界盃十六強賽對陣摩洛哥的歷史性時刻吶喊加油。",
+      "在英國倫敦，國家檔案館於2026年7月2日公開展示了一份最新被發現的珍貴歷史文獻，該文獻為1776年7月在埃克塞特印刷的美國《獨立宣言》罕見原始副本。"
+    ],
+    "number": 2363,
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Dappled Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "Oriental mythic poster art, head-and-shoulders portrait of a rare snowy white calico cat resting on the edge of an ancient carved stone fountain in Basel, eagerly drinking cool water with its tongue out. In the background, several joyful Yodel female singers in traditional Swiss attire are soaking in the water, singing happily. A vertical calligraphy panel subtly displays the text '2026-07-04 08:21 UTC' in elegant Traditional Chinese characters. Photorealistic central subject merged with traditional Chinese ink cloud ornaments, red seal stamps, and gold leaf accents on deep black. Cinematic fantasy composition, face filling the frame with an intimate eye-level connection. Dappled light with scattered patches of sunlight filtered through leaves, soft mottled shadow patterns. Soft-focus matte haze with a dreamy diffused blur, hazy atmospheric softness, and a low-contrast finish. Warm amber color grading with an autumn palette of golden yellows and burnt orange, exuding cozy nostalgic warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4881290038,
+    "story": "炎夏的烈日讓瑞士巴塞爾的空氣變得炙熱，音樂節的女歌手們索性跳進噴泉一邊泡水一邊高歌。這隻愛熱鬧的三花貓也被歌聲與清涼的泉水吸引，優雅地趴在石雕邊緣，一邊享受斑駁光影下的柔焦霧面琥珀色秋意，一邊用舌頭舔舐著冰涼的泉水。悠揚的約德爾調與貓咪滿足的呼嚕聲交織在一起，成了夏天最奇幻的樂章。"
   }
 ]
