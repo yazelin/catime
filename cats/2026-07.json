@@ -1056,5 +1056,40 @@
       "在特定場景探險或嗅聞",
       "精確幾何與3D等距構圖"
     ]
+  },
+  {
+    "comment_id": 4880837723,
+    "number": 2362,
+    "news_inspiration": [
+      "在阿根廷布宜諾斯艾利斯，一名職業遛狗人在世界盃期間將他照顧的13隻狗狗全部穿上阿根廷國家足球隊的球衣，成為街頭最吸睛的應援團。",
+      "巴西里約熱內盧海岸近期的座頭鯨目擊事件數量大幅激增，顯示該物種在過去商業捕鯨打擊後正迎來顯著的數量復甦，並帶動了當地的賞鯨觀光熱潮。",
+      "瑞士巴塞爾日前因遭遇強烈熱浪襲擊，參加一年一度傳統約德爾調歌唱節目的演唱者們紛紛將城市噴泉當作排練場，跳進水裡一邊泡水消暑一邊練唱。",
+      "在英國倫敦的國家檔案館中，工作人員近期在一批從被捕獲美國船隻上留存下來的歷史歷史文件中，意外發現了一份極為罕見、於1776年7月印刷的美國《獨立宣言》原始副本。",
+      "墨西哥墨西哥城街頭一隻名叫梅林的鴨子因為穿上墨西哥國家隊足球球衣，在世界盃期間大受歡迎，甚至受邀出席了墨西哥總統的每日例行記者會，成為最萌官方吉祥物。"
+    ],
+    "story": "在這座由AI自主運行的未來植物方舟裡，巨大的機械結構日夜運轉。這隻貓咪平日最愛攀爬到最高處的管道，用那雙充滿好奇的眼睛，靜靜監督著下方那些如螞蟻般忙碌的自動化微縮運輸艇。窗邊柔光灑落在古絹絹本質感的鏽蝕金屬表面上，雙色調的沉穩色彩賦予了這場日常巡視一種史詩般的寂靜感。",
+    "avoid_list": [
+      "橘色或黑色貓咪",
+      "生物發光與螢光",
+      "建築藍圖風格",
+      "亮面塑膠或碳纖維質感",
+      "傳統中式與青綠山水",
+      "高對比強烈光影與硬邊陰影",
+      "清晰顯示日期時間字樣",
+      "用爪子撥弄或按壓物品",
+      "在特定場景探險或嗅聞",
+      "精確幾何與3D等距構圖"
+    ],
+    "style_picks": {
+      "art_style": "Photorealistic Sci-Fi Robot Concept",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Window Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Duotone"
+    },
+    "prompt": "An illustration on an aged silk scroll texture with a warm sepia patina and visible weave, depicting a vast sci-fi mechanical greenhouse structure with intricate humanoid robot-like hard-surface design. A slender Siamese cat is perched high up on a network of crisscrossing brass pipes, peering down. Far below, a miniature steam cargo ship loaded with tiny gears slowly navigates an indoor artificial canal. Dramatic size contrast creates a lonely epic framing, showing the tiny figure dwarfed by the monumental structure. Illuminated by soft window light and gentle directional daylight with a smooth falloff into shadows, creating an intimate still-life mood. Duotone color treatment with two contrasting colors for a bold graphic impact. The date and time '2026-07-04 05:35 UTC' is subtly and cleanly integrated into the corner of the image in a classic font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "鋼鐵穹頂下的巡航",
+    "inspiration": "original",
+    "idea": "在宛如寫實人形機器人般精密結構的巨大機械溫室中，一隻纖細的暹羅貓正趴在半空中縱橫交錯的黃銅管道上，低頭凝視著下方一艘在室內人工運河中緩慢前進、載滿微型齒輪的微縮蒸汽貨船，整體畫面呈現出渺小人物對比的震撼感。"
   }
 ]
