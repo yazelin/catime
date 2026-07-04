@@ -989,5 +989,38 @@
       "強制顯示特定日期與時間文字戳記",
       "穆夏式或裝飾藝術拱框對稱構圖"
     ]
+  },
+  {
+    "number": 2360,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "character_name": "墨墨",
+    "story": "盛夏正午，酷熱的硬光日照穿透老舊圖書館的格子窗。墨墨趴在冰涼的竹蓆上，尾巴微卷，瞇著金琥珀色的眼睛。在牠身後，無數本泛黃的古籍如巨塔般聳立，編織出一幅溫暖秋日色調的織品質感圖鑑。",
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Fabric / Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4879944068,
+    "idea": "這是一幅手繪信息圖風格的畫作，描繪一隻純黑的墨墨貓咪在老宅竹蓆上優雅納涼，與背景宏大的古董書架形成強烈的大小對比。",
+    "prompt": "A hand-drawn infographic style illustration with a paper texture background and expressive calligraphy brush strokes. A tiny figure for scale: a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, a tiny natural white locket tuft on her chest, large luminous golden-amber eyes, and long prominent white whiskers, lounging elegantly on a traditional woven bamboo mat. In her left ear (viewer perspective), she wears a single small gold hoop earring. She is dwarfed by a vast, monumental structure behind her—a massive antique bookshelf filled with countless yellowed ancient books, creating a dramatic size contrast. The scene is bathed in harsh midday sunlight with hard-edge shadows and strong directional sun breaking through a lattice window. The color palette features a warm rustic aesthetic, warm amber color grading, and cozy nostalgic autumn tones of golden yellows and burnt orange. A visible woven fabric texture runs throughout the background. Inscribed neatly in the corner in crisp English text is the timestamp '2026-07-03 23:55 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "season": "summer",
+    "avoid_list": [
+      "橘色或黑色貓咪",
+      "生物發光與螢光",
+      "建築藍圖風格",
+      "亮面塑膠或碳纖維質感",
+      "傳統中式與青綠山水",
+      "高對比強烈光影與硬邊陰影",
+      "清晰顯示日期時間字樣",
+      "用爪子撥弄或按壓物品",
+      "在特定場景探險或嗅聞",
+      "精確幾何與3D等距構圖"
+    ],
+    "character": "momo",
+    "title": "竹蓆上的盛夏圖鑑"
   }
 ]

@@ -21942,5 +21942,18 @@
     "timestamp": "2026-07-03 22:53 UTC",
     "inspiration": "瑞士巴塞爾日前因歐洲熱浪侵襲導致氣溫飆升，參加年度傳統約德爾調歌唱節目的歌手們紛紛跳進市區噴泉中排練，形成獨特的消暑奇景。",
     "number": 2359
+  },
+  {
+    "number": 2360,
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "status": "success",
+    "title": "竹蓆上的盛夏圖鑑",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-03_2355_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "is_seasonal": true,
+    "timestamp": "2026-07-03 23:55 UTC",
+    "character": "momo",
+    "season": "summer"
   }
 ]
