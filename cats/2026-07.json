@@ -1321,5 +1321,42 @@
       "繁體中文與英文時間標記",
       "好奇貓咪穿梭齒輪管道"
     ]
+  },
+  {
+    "news_inspiration": [
+      "在阿根廷布宜諾斯艾利斯，一名職業遛狗人為了迎接世界盃，特地為其照顧的13隻狗狗穿上國家隊球衣上街，吸引了大批路人目光。",
+      "美國與印尼的攀岩好手在波蘭克拉科夫舉行的世界攀岩賽中展現神速，並在全新設立的男女混合速度接力賽中，由美國隊創下歷史首度打破11秒大關的世界紀錄奪金。",
+      "由於夏季熱浪席捲歐洲，在瑞士巴塞爾舉辦的年度約德爾調（Yodeling）傳統音樂節上，不少演唱者因高溫酷熱而不得不直接跳進當地的噴泉裡消暑高歌。",
+      "大英檔案館的科學家與歷史學家近日在整理一艘早年被俘虜的美國船隻文件時，意外在倫敦舊檔案夾中尋獲一份於1776年7月印刷、極為罕見的美國《獨立宣言》原始副本。",
+      "澳洲野生動物官員近日發出呼籲，希望民眾能尊重一隻重達一噸、名叫尼爾（Neil）的象海豹的隱私，因為這隻個性自來熟的巨型海豹正隨性地在塔斯馬尼亞住宅區街道與海灘上漫步。"
+    ],
+    "idea": "在以吉卜力風格與金色、黑色奢華色調勾勒的等距3D星際溫室中，一隻擁有一身曜黑亮面塑膠質感的黑貓，正伸出前爪專注地撥弄著懸浮在星雲輝光中的宇宙計時器。",
+    "title": "星宇溫室的黃金守護者",
+    "number": 2370,
+    "story": "這是一座飄浮在銀河邊緣的神祕植物園，黑貓負責看管那些汲取星光生長的金色花卉。當夜空中的星雲開始變幻顏色，牠便會輕輕按壓計時器，調整溫室內的宇宙重力，讓漂浮的發光孢子如玩具般在微風中緩慢滾動。",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "An isometric 3D illustration of a mystical interstellar greenhouse in a Studio Ghibli anime style with a luxurious gold and black color scheme. Inside, a cat with a glossy black plastic toy texture and smooth high-shine surface is extending its paw to playfully interact with a floating cosmic timer. The timer visually displays the text '2026-07-04 17:56 UTC' in a clean font. The environment features soft watercolor backgrounds, clean geometric forms, and opulent metallic gold accents against a deep black background. The scene is illuminated by an otherworldly radiance, with an ethereal purple and blue nebula cosmic glow, soft colorful starfield light, and glowing particles drifting through the galactic haze. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4883317070,
+    "avoid_list": [
+      "強烈硬光日照",
+      "古絹絹本質感",
+      "溫暖秋日琥珀色調",
+      "渺小人物對比",
+      "青橙電影調",
+      "微弱燭光搖曳",
+      "水彩潑濺墨點",
+      "百百窗條紋光",
+      "英文字串時間戳記",
+      "硬光格子窗投影",
+      "大理石或古董雕刻邊緣",
+      "傳統圖騰與符號裝飾"
+    ],
+    "inspiration": "original"
   }
 ]
