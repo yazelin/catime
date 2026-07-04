@@ -1427,5 +1427,40 @@
     },
     "character_name": "麻糬",
     "idea": "在融合生物朋克風格的霓虹螢光夜市中，橘白相間的胖貓麻糬正用牠的右橘色前爪扒拉著一隻發光的機械大黃蜂。畫面採用閃光燈直打與對角線構圖，背景的小吃攤與機械生物外殼皆覆蓋著詭異的蛇鱗肌理。"
+  },
+  {
+    "news_inspiration": [
+      "在美國華盛頓特區，美國國家航空暨太空總署（NASA）為了慶祝美國建國250週年，特別公開了四幅以愛國色彩為主題的壯麗宇宙影像。",
+      "在奧地利維也納，維也納大學的物理學家團隊成功將微型磁波「磁振子」的壽命延長了近100倍，這項量子技術的重大突破有望讓硬幣大小的微型量子電腦成為現實。",
+      "在西班牙巴塞隆納，2026年環法自由車賽正式點燃戰火，丹麥名將溫格高（Jonas Vingegaard）帶領車隊贏得開幕站的團隊計時賽，順利穿上象徵領先的黃衫。"
+    ],
+    "number": 2373,
+    "comment_id": 4883908798,
+    "inspiration": "在奧地利維也納，維也納大學的物理學家團隊成功將微型磁波「磁振子」的壽命延長了近100倍，這項量子技術的重大突破有望讓硬幣大小的微型量子電腦成為現實。",
+    "idea": "這是一幅採用剪紙藝術風格的頭肩特寫，展現一隻散發霓虹螢光色彩的貓咪，正用爪子撥弄著桌上如硬幣般大小、閃爍著珠飾水鑽鑲嵌質感的微型量子電腦晶片。",
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Direct Flash",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "量子微光的探爪",
+    "story": "在維也納的大學實驗室裡，物理學家剛成功延長了磁振子的壽命，讓微型量子電腦迎來突破。一隻實驗室的愛貓趁著夜色溜上實驗台，在直打閃光燈的耀眼光芒下，好奇地伸出前爪，觸碰這枚改變未來科技的微小晶片。",
+    "avoid_list": [
+      "強烈硬光日照",
+      "古絹絹本質感",
+      "溫暖秋日琥珀色調",
+      "渺小人物對比",
+      "青橙電影調",
+      "微弱燭光搖曳",
+      "水彩潑濺墨點",
+      "百百窗條紋光",
+      "英文字串時間戳記",
+      "硬光格子窗投影",
+      "大理石或古董雕刻邊緣",
+      "傳統圖騰與符號裝飾"
+    ],
+    "prompt": "A papercut art style head-and-shoulders portrait crop of a cat glowing with neon fluorescent colors, including electric pink, lime green, and hot cyan, against a dark background. The cat's face fills the frame, creating an intimate eye-level connection. It is playfully swatting with its paw at a coin-sized miniature quantum computer chip on a table. The chip features a beaded rhinestone embellishment, encrusted with glittering gems and faceted sparkling stones for an ornate, jeweled surface. The entire scene uses layered paper silhouettes with intricate cutout details and dramatic shadow depth. Harsh direct on-camera flash illuminates the scene, creating blown-out highlights and hard shadows for a raw candid snapshot look. In the corner of the image, the date and time '2026-07-04 21:45 UTC' is visually displayed in clean English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
