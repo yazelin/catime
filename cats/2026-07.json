@@ -1698,5 +1698,41 @@
       "color_palette": "Duotone"
     },
     "inspiration": "在國際太空站（ISS）上，歐洲太空總署與空中巴士合作研發的太空首台金屬3D列印機成功印製出第一個金屬零件，為未來的長途太空探索任務奠定了重要基石。"
+  },
+  {
+    "prompt": "Inside-the-glass-vessel composition of a massive transparent greenhouse container. Inside, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur named Momo is elegantly lounging on a bamboo mat atop antique tatami flooring inside an old wooden Japanese house. The cat has athletic proportions, a slight upward curl at the tail tip, golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft of fur on its chest, a single dark-grey ring at the tail tip, and a single small gold hoop earring on its left ear. The cat is peacefully enjoying the summer sunlight filtering through the glass. Post-apocalyptic cozy animation scene style, featuring soft anime background painting, nature reclaiming ruins with lush greenery over abandoned structures, and a serene melancholic mood. Rembrandt lighting with a single light source at 45 degrees creates a dramatic chiaroscuro with a signature triangle of light on the shadowed cheek. The air is filled with scattered gold foil flecks and metallic gold leaf shards creating luxurious shimmering accents. A bamboo jade-green palette with fresh emerald and malachite tones brings cool verdant serenity. Visually displayed in a clear, unobtrusive font in the corner of the image is the date and time text: '2026-07-05 14:24 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓咪用爪子撥弄",
+      "蛇鱗肌理",
+      "霓虹螢光色",
+      "閃光燈直打與硬陰影",
+      "框中框構圖與薄紗透明感",
+      "高科技宇宙溫室與飛船",
+      "粉彩與莫蘭迪色調",
+      "多格漫畫與角色拼貼佈局"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Post-Apocalyptic Cozy Animation Scene",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "number": 2381,
+    "character": "momo",
+    "story": "世界寂靜後，舊書店的常客墨墨在廢棄的溫室中找到了新家。牠在鋪著竹蓆的古董榻榻米上伸展著修長的身軀，金琥珀色的眼睛注視著空氣中飄散的金箔微粒。微風拂過，竹影翠綠的色調與倫勃朗光交織，讓這份夏日的納涼時光顯得格外靜謐而療癒。",
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "在阿根廷布宜諾斯艾利斯，一名職業遛狗師在世界盃足球賽期間，將他照顧的13隻狗狗全部穿上阿根廷國家隊球衣上街漫步，溫馨又逗趣的畫面吸引了眾多目光。",
+      "在澳大利亞塔斯馬尼亞州，一隻重達一噸、名叫「尼爾」（Neil）的網紅象海豹因頻繁破壞路邊交通柱並對公眾造成「甜蜜困擾」，讓當地官員無奈呼籲粉絲尊重牠的隱私。",
+      "在瑞士巴塞爾舉行的年度約德爾調音樂節上，由於歐洲正遭遇熱浪襲擊，身穿傳統厚重服飾的女性歌手們紛紛轉移到市區的噴泉中一邊泡水消暑、一邊排練歌唱。",
+      "在哈薩克各地，全國正熱烈舉辦超過100場慶祝「國家冬不拉日」的文化活動，其中包括超過500名青少年音樂家齊聚一堂彈奏傳統樂曲，藉此傳承這項聯合國教科文組織認定的非物質文化遺產。"
+    ],
+    "is_seasonal": true,
+    "season": "summer",
+    "title": "綠境竹蓆間的夏日獨白",
+    "comment_id": 4886388977,
+    "idea": "在融合後末日療癒動畫風格的巨大玻璃溫室容器內，一隻純黑的貓咪優雅地趴在古老木造老宅的竹蓆上，享受著穿透玻璃的夏日日光。"
   }
 ]
