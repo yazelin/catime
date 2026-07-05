@@ -1667,5 +1667,36 @@
     ],
     "title": "老船長的夏日海調",
     "prompt": "A multi-panel character montage collage layout with comic-style cells, done in a rich tactile impasto oil texture with thick palette-knife strokes and visible paint ridges. The subject is Captain, a large stocky brown classic tabby cat with bold black stripes, a broad muscular build, and a scruffy untidy coarse coat. Across the panels, Captain is shown in several poses and expressions: wearing a straw hat, perched on a fishing harbor breakwater, focusing on a fishing rod against the sea breeze, and getting excited as humpback whales breach in the background. His left eye is permanently concealed by a natural dark-pigmented fur patch, with no fabric eye patch or straps. His right eye is a single piercing emerald green. He has a prominent V-shaped notch on his left ear, a faded red bandana tied loosely around his neck, a white chest bib, and white mitten paws. The art style blends an ethereal portrait behind sheer translucent fabric with diffused glowing glowing light and dramatic shadows. The date and time '2026-07-05 10:57 UTC' is visually displayed in the corner of the image in a clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "story": "這隻太空基地的黏土貓負責看守新一代的金屬3D列印機。當機器吐出第一個完美的鐵鏽感零件時，牠在特製的雙面鏡前看見了另一個自己，正以一模一樣的姿態在未來的長途宇宙中探索。整個畫面僅以洗鍊的雙色調呈現，充滿超現實的定格動畫張力。",
+    "idea": "在純白去背棚光下，一隻以黏土動畫風格捏製的橘貓，正對著一面佈滿鐵鏽舊化痕跡的雙面鏡，與鏡中宛如「鏡像異我」的斑駁影子互相凝視，並用前腳試圖印製金屬零件。",
+    "comment_id": 4885995703,
+    "number": 2380,
+    "prompt": "Claymation style, sculpted clay orange cat with visible fingerprint textures, using a stop-motion aesthetic. The cat is at a white seamless studio lighting backdrop, standing on its hind legs and pressing its front paw to imprint onto a rusted, weathered metal 3D-printed component. It is looking into a rusted dual-sided mirror, creating a doppelganger mirror composition with an uncanny symmetry, a surreal twin framing of itself looking back. The entire image uses a duotone color treatment with a bold graphic impact of just two contrasting colors, under bright high-key backdrop with clean shadowless product look. Inscribed clearly and visually on the metal component is the text '2026-07-05 12:12 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在國際太空站（ISS）上，歐洲太空總署與空中巴士合作研發的太空首台金屬3D列印機成功印製出第一個金屬零件，為未來的長途太空探索任務奠定了重要基石。",
+      "美國歐扎克（Ozark）的一位醫生，在看見一位獨自前來醫院動手術的年幼男孩後決定將他領養，隨後更主動伸出援手幫助他所有的兄弟姊妹，溫暖了許多人。",
+      "最新公布的歐洲空氣品質報告顯示，受惠於數十年來的環保政策，歐洲各監測站的二氧化硫與氮氧化物排放量正以每年3%至5%的比例穩定下降，居民們終於得以重拾清新空氣。"
+    ],
+    "avoid_list": [
+      "貓咪用爪子撥弄",
+      "蛇鱗肌理",
+      "霓虹螢光色",
+      "閃光燈直打與硬陰影",
+      "框中框構圖與薄紗透明感",
+      "高科技宇宙溫室與飛船",
+      "粉彩與莫蘭迪色調",
+      "多格漫畫與角色拼貼佈局"
+    ],
+    "title": "鏡中的金屬迴響",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "在國際太空站（ISS）上，歐洲太空總署與空中巴士合作研發的太空首台金屬3D列印機成功印製出第一個金屬零件，為未來的長途太空探索任務奠定了重要基石。"
   }
 ]
