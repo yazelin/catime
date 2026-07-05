@@ -1860,5 +1860,41 @@
       "color_palette": "Retro Faded Tones"
     },
     "inspiration": "original"
+  },
+  {
+    "story": "老街麵包店今天進了一款會用蹄部夾東西的智能乳牛玩具，據說靈感來自奧地利那頭高智商的母牛維羅妮卡。圓滾滾的麻糬立刻被這個新奇的小玩意吸引，慵懶地趴在竹影翠綠色的櫃檯旁，伸出粉嫩的右橘色套手不斷輕觸它，大圓眼因驚奇而放大兩倍。",
+    "news_inspiration": [
+      "在美國拉斯維加斯，當地消防員迅速深入地下洪水隧道，在緊急情況下成功為一名孕婦接生並確保母子平安。",
+      "一名為了2026世界盃前往美國旅遊的德國足球迷，在旅途中因感受到當地人出乎意料的善意舉動而感動落淚。",
+      "科學家在巴布亞紐幾內亞發現了一種全新的「走路鯊（walking shark）」物種，為海洋生物學界帶來重大突破。",
+      "奧地利維也納獸醫大學的研究團隊發現，一頭名叫維羅妮卡（Veronika）的母牛具備極其罕見的使用多用途工具能力，顛覆了人類過去對牛群智商的認知。"
+    ],
+    "character_name": "麻糬",
+    "prompt": "An illustration blending watercolor fashion illustration style with an old-world bakery setting, showing Mochi, a chubby rounded shorthair cat. Mochi has a white base coat and bright orange patches, with a specific asymmetrical pattern: the right half of his face (viewer perspective) has an orange mask extending from the nose bridge across the right cheek to the right ear, while his left face is entirely white. He has large round amber eyes, a pink nose with a tiny orange center dot, short stubby legs, a spherical torso, and a white belly. On his dorsal back is a heart-shaped orange saddle, his right front paw is a solid orange mitten to the wrist, his left front paw is pure white, and his tail has orange-and-white ringed bands. His orange patches are solid with no tabby stripes, and he is a shorthair cat. Mochi is curiously batting with his right orange front paw at a smart toy cow that is deftly holding a piece of toast with its hoof. The scene features elongated stylish figures, flowing couture rendered in loose pigment, runway elegance, splattered ink accents, and a glossy magazine feel. The composition is a side profile portrait with a profile-defining contour and elegant lateral framing. The lighting is infused with a nebula cosmic glow, soft colorful starfield illumination, ethereal purple and blue space light, glowing particles, and a galactic haze, creating an otherworldly radiance. The background includes cotton candy cloud textures with fluffy pastel pink and blue cumulus puffs and marshmallow-like softness, integrated with a bamboo jade-green palette of fresh emerald, malachite tones, and cool verdant serenity. Visually displayed clearly in the image is the English text '2026-07-05 21:49 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "約德爾調歌唱家噴泉消暑",
+      "瑞士巴塞爾噴泉與橘貓",
+      "雙面鏡與鏡像異我",
+      "玻璃溫室容器內的老宅",
+      "金箔微粒與金箔潑點肌理",
+      "緋紅與深黑的高對比配色",
+      "穿透樹梢的斑駁光影與碎金",
+      "帶有蛇鱗肌理的皮革沙發",
+      "Traditional Chinese English glyphs 限制提示",
+      "90年代底片風格與厚重邊框"
+    ],
+    "title": "翠竹與高智商乳牛的午後對話",
+    "style_picks": {
+      "art_style": "Watercolor Fashion Illustration",
+      "composition": "Side Profile Portrait",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "idea": "在融合水彩時尚插畫風格的老街麵包店內，橘白胖貓麻糬正好奇地用貓掌撥弄一隻正在用蹄部靈巧夾起吐司的乳牛玩偶，畫面散發著星雲輝光的奇幻色彩。",
+    "character": "mochi",
+    "comment_id": 4887717657,
+    "number": 2386,
+    "inspiration": "奧地利維也納獸醫大學的研究團隊發現，一頭名叫維羅妮卡（Veronika）的母牛具備極其罕見的使用多用途工具能力，顛覆了人類過去對牛群智商的認知。"
   }
 ]
