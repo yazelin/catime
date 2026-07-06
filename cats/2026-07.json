@@ -1931,5 +1931,42 @@
     "title": "潮池裡的步行者",
     "story": "在巴布亞紐幾內亞的清澈潮池邊，這隻調皮的貓咪整天趴在岩石上，對著剛發現的奇特生物充滿好奇。牠伸出圓滾滾的爪子輕輕試探，窗邊透進來的柔光照亮了牠們高飽和鮮豔色的黏土身軀。",
     "inspiration": "科學家在巴布亞紐幾內亞發現了一種全新的「會走路的鯊魚」物種，為當地的海洋生物多樣性研究寫下新篇章。"
+  },
+  {
+    "character_name": "鈴鈴",
+    "idea": "採用地中海夢幻飲品攝影風格與極低角度拍攝，純白蓬鬆的布偶貓鈴鈴戴著迷你草帽與太陽花，在一片被暴風雪朦朧光霧籠罩、帶著朱紅描金色彩的巨大向日葵田迷宮中探險。",
+    "title": "葵海裡的晴鈴",
+    "avoid_list": [
+      "約德爾調歌唱家噴泉消暑",
+      "瑞士巴塞爾噴泉與橘貓",
+      "雙面鏡與鏡像異我",
+      "玻璃溫室容器內的老宅",
+      "金箔微粒與金箔潑點肌理",
+      "緋紅與深黑的高對比配色",
+      "穿透樹梢的斑駁光影與碎金",
+      "帶有蛇鱗肌理的皮革沙發",
+      "Traditional Chinese English glyphs 限制提示",
+      "90年代底片風格與厚重邊框"
+    ],
+    "news_inspiration": [
+      "在世界盃足球賽 16 強賽中，挪威前鋒哈蘭德（Erling Haaland）在下半場尾聲梅開二度，率隊以 2 比 1 逆轉擊敗五屆冠軍巴西隊，歷史性首度闖進八強。",
+      "科學家在波羅的海的一座偏遠島嶼上發現了距今 5000 年的狼群遺骸，研究顯示牠們只能是經由人類帶到島上，徹底顛覆了以往對動物馴化歷史的認知。",
+      "一項刊登於最新科學期刊的研究發現，古生物學家在一個擁有 2 萬年歷史的哺乳動物骨骼空齒槽中，首次發現古代蜜蜂將其作為繁衍後代迷你巢穴的罕見證據。"
+    ],
+    "style_picks": {
+      "art_style": "Mediterranean Dreamy Beverage Photography",
+      "composition": "Extreme Low Angle",
+      "lighting": "Snowstorm Haze",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "season": "summer",
+    "character": "lingling",
+    "comment_id": 4888053903,
+    "inspiration": "original",
+    "number": 2388,
+    "prompt": "Mediterranean dreamy beverage photography, extreme low angle shot, looking up from the ground at an extremely fluffy pure white longhair Ragdoll cat named Lingling. The cat has a small round face nearly hidden in voluminous cloud-like pure white fur, huge round sapphire-blue eyes, and a pale pink nose. She is wearing a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. She is also wearing a mini straw hat with a sunflower. She is exploring a maze of giant, towering sunflowers. The background features a dramatic mist with a vermilion and gilt color palette, refined cinnabar red with metallic gold outlines, and elegant lacquer-like richness. The scene has snowstorm atmospheric lighting with a heavy falling snow veil, muted diffused daylight, and a fogged distance. The words '2026-07-05 23:55 UTC' are cleanly and visually displayed in a modern font in the corner of the image. Shot on a 35mm lens, f/1.8, realistic textures, natural lighting, shallow depth of field. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "天真好奇的鈴鈴在向日葵花海裡迷了路，巨大的花朵在極低視角下顯得高聳入雲。她頂著小草帽努力向前撲騰，脖子上的粉紅鈴鐺發出叮鈴清脆的聲響，在如水彩潑濺般朦朧的金色霧氣中，她正好奇地用粉紅肉球撥弄著一片掉落的金黃花瓣。",
+    "is_seasonal": true
   }
 ]
