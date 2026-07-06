@@ -2128,5 +2128,34 @@
       "texture": "Leather",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "number": 2394,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Miniature Diorama",
+      "lighting": "Volumetric Light",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Festive Red and Gold"
+    },
+    "title": "凝視微縮之城",
+    "comment_id": 4896936480,
+    "inspiration": "original",
+    "story": "工作室的午後安靜得出奇，陽光在空氣中折射出清晰的光柱。這隻四腳著地的暹羅貓對桌上剛搭建好的迷你紅金街景充滿好奇，牠小心翼翼地將鼻子湊近那些透明的建築骨架。對這座靜謐的模型小鎮而言，牠就像是一頭溫柔又充滿好奇心的優雅巨獸。",
+    "avoid_list": [
+      "伸爪撥弄物體的動作",
+      "畫面角落的UTC日期時間標籤",
+      "聲明禁用簡體字的提示",
+      "竹影翠綠配色面板",
+      "金箔微粒與金屬碎片點綴",
+      "狹窄聚光燈照明效果",
+      "極低角度仰視鏡頭",
+      "圓滾滾的橘貓設定",
+      "純黑貓咪角色設定",
+      "朱紅色調與對比"
+    ],
+    "idea": "這是一幅採用柯達 Portra 底片風格的攝影作品，一隻優雅的暹羅貓正趴在建築師的工作檯上，專注地嗅聞著一個帶有半透明線框質感的微縮立體模型小鎮。濃郁的體積光穿透窗戶灑在喜慶紅金配色的微縮街道上，真實的貓咪與幾何線條模型交織出獨特的視覺張力。",
+    "prompt": "A candid photograph shot on Kodak Portra 400, 35mm lens, f/1.8, natural light, shallow depth of field, warm film tones, subtle grain, soft focus, dreamy nostalgic atmosphere. An elegant Siamese cat rests on an architect's desk, intently sniffing a miniature diorama town. Tilt-shift effect, tiny detailed world, toy-like scale model. The miniature streetscape features festive red and gold colors, auspicious Chinese red dominance with bright gold accents, celebratory warmth, and lucky vivid contrast. The mini buildings display a wireframe overlay texture, glowing geometric mesh lines over the form, translucent technical grid, digital blueprint feel, futuristic see-through structure. Volumetric lighting, visible light rays through atmosphere, god rays pouring through a window, dust particles catching light, dramatic depth. A small desk sign clearly displays the text '2026-07-06 19:38 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
