@@ -2157,5 +2157,39 @@
     ],
     "idea": "這是一幅採用柯達 Portra 底片風格的攝影作品，一隻優雅的暹羅貓正趴在建築師的工作檯上，專注地嗅聞著一個帶有半透明線框質感的微縮立體模型小鎮。濃郁的體積光穿透窗戶灑在喜慶紅金配色的微縮街道上，真實的貓咪與幾何線條模型交織出獨特的視覺張力。",
     "prompt": "A candid photograph shot on Kodak Portra 400, 35mm lens, f/1.8, natural light, shallow depth of field, warm film tones, subtle grain, soft focus, dreamy nostalgic atmosphere. An elegant Siamese cat rests on an architect's desk, intently sniffing a miniature diorama town. Tilt-shift effect, tiny detailed world, toy-like scale model. The miniature streetscape features festive red and gold colors, auspicious Chinese red dominance with bright gold accents, celebratory warmth, and lucky vivid contrast. The mini buildings display a wireframe overlay texture, glowing geometric mesh lines over the form, translucent technical grid, digital blueprint feel, futuristic see-through structure. Volumetric lighting, visible light rays through atmosphere, god rays pouring through a window, dust particles catching light, dramatic depth. A small desk sign clearly displays the text '2026-07-06 19:38 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "story": "紐約布魯克林國慶吃熱狗大賽正熱烈展開，一隻名叫肉醬的橘貓也來到現場展現靈活身手。牠在攤位前精準預判了拋物線，俐落地在半空中截胡了一份熱狗。周圍滿是歡呼的群眾與繽紛的攤位，完美捕捉了這充滿活力的定格瞬間。",
+    "inspiration": "2026年7月4日，美國紐約布魯克林舉行了著名的國慶吃熱狗大賽，大胃王喬伊·切斯納特（Joey Chestnut）在10分鐘內吞下66個熱狗，成功衛冕並奪下生涯第18座冠軍。",
+    "idea": "結合等距視角構圖與真實懸浮攝影風格，在康尼島色彩極度鮮豔的熱狗攤前，一隻四腳橘貓在半空中高高躍起，張大嘴巴準備接住廚師拋向空中的熱狗，現場飄浮著攤販現做宛如雲朵般的粉紅色棉花糖，並帶有戲劇性的電影感打光。",
+    "title": "飛躍熱狗攤",
+    "comment_id": 4897752075,
+    "number": 2395,
+    "style_picks": {
+      "art_style": "Levitation Photography",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Cinematic Lighting",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "用貓掌撥弄觸碰物體",
+      "體積光與可見光束",
+      "趴伏凝視或嗅聞",
+      "畫面角落顯示日期時間",
+      "竹影翠綠色調配色",
+      "側臉特寫與邊緣輪廓線",
+      "分割畫面與線框構圖",
+      "底片顆粒與復古褪色感",
+      "極低角度仰視鏡頭",
+      "微縮模型與巨大化對比"
+    ],
+    "prompt": "A 3D isometric illustration merged with levitation photography, showing an energetic orange cat frozen mid-air in a gravity-defying composition, jumping high with its mouth wide open to catch a flying hot dog tossed by a chef. The setting is an extremely colorful Coney Island hot dog stand featuring clean geometric forms, high saturation vivid colors, and an energetic palette with bold vibrant hues and eye-catching contrast. Surrounding the stand are cheering crowds in an urban backdrop with bokeh. Floating around the scene are whimsical volumetric clouds made of fluffy pastel pink and blue cotton candy, showing marshmallow-like softness and a dreamy sky material texture. The scene is illuminated by cinematic lighting with volumetric light rays, dramatic shadows, soft overcast ambient light, and muted film tones creating a film-quality mood and high dynamic range. A prominent sign on the hot dog stand clearly displays the exact text '2026-07-06 21:19 UTC'. The candid jump is captured at the peak, perfectly post-processed to remove any support, showcasing a polished playful rendering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "2026年7月4日，美國紐約布魯克林舉行了著名的國慶吃熱狗大賽，大胃王喬伊·切斯納特（Joey Chestnut）在10分鐘內吞下66個熱狗，成功衛冕並奪下生涯第18座冠軍。",
+      "在澳洲塔斯馬尼亞州，一隻重達1000公斤、名叫「尼爾（Neil）」的南象鼻海豹近期因為在街頭把玩交通錐並撞壞路障而意外爆紅，當地政府還特地呼籲粉絲們給這隻調皮的海豹保留隱私空間。",
+      "瑞典斯德哥爾摩的卡羅林斯卡學院發表了一項歷時15年的最新科學研究，發現長者若維持低發炎的健康飲食，罹患失智症的風險最高可大幅降低30%。",
+      "英國倫敦於7月初首度舉辦了盛大的「2026年英國太平洋藝術節（Pasifika Fest UK）」，透過音樂、舞蹈、傳統美食與故事分享，熱情慶祝太平洋島國豐富的藝術與多元文化。"
+    ]
   }
 ]
