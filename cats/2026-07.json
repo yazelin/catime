@@ -2002,5 +2002,34 @@
     "comment_id": 4888510847,
     "number": 2389,
     "inspiration": "在阿根廷布宜諾斯艾利斯，一名職業遛狗師將他照顧的13隻狗狗全部穿上阿根廷國家足球隊球衣，組成超萌的應援團為世界盃加油。"
+  },
+  {
+    "number": 2390,
+    "prompt": "Afrofuturism illustration, split view composition with a sharp vertical cut line. Left half photorealistic, showing a traditional African wood carving workshop with ancient totems illuminated by candlelight, warm orange flickering glow, soft dancing shadows, and an intimate atmosphere. Right half wireframe diagram, featuring an Abyssinian cat resting peacefully on a workbench, focused on an activated tribal-tech mask merging carved wood with glowing circuit boards. The mask emits neon fluorescent colors of electric pink, lime green, and hot cyan glowing against a dark background. Prismatic rainbow flare texture, refracted spectral light spots scattered across the image, iridescent lens-glow streaks, and dreamy chromatic highlights reflecting in the cat's eyes. The exact glowing text '2026-07-06 06:59 UTC' is clearly visible and integrated into the futuristic wireframe display. Dynamic empowering aesthetic, African cultural symbolism, cosmic imagery. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "科技部落的工匠在微弱的燭光下，將古老的圖騰與發光的電路板巧妙融合。他的阿比西尼亞貓陪伴在一旁，專注地盯著剛啟動的螢光裝置。那些折射出的彩虹斑斕，在貓咪清澈的眼瞳中閃爍著未來的倒影。",
+    "comment_id": 4890001272,
+    "title": "霓光圖騰與貓",
+    "idea": "採用非洲未來主義風格的分割畫面，一半展現點燃蠟燭的傳統木雕工坊，另一半則呈現一隻阿比西尼亞貓安穩地趴在工作檯上，凝視著閃爍霓虹螢光與稜鏡彩虹光斑的部落科技面具。",
+    "avoid_list": [
+      "伸爪撥弄物體的動作",
+      "畫面角落的UTC日期時間標籤",
+      "聲明禁用簡體字的提示",
+      "竹影翠綠配色面板",
+      "金箔微粒與金屬碎片點綴",
+      "狹窄聚光燈照明效果",
+      "極低角度仰視鏡頭",
+      "圓滾滾的橘貓設定",
+      "純黑貓咪角色設定",
+      "朱紅色調與對比"
+    ],
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Split View",
+      "lighting": "Candlelight",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "original",
+    "news_inspiration": []
   }
 ]
