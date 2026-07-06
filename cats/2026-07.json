@@ -2031,5 +2031,36 @@
     },
     "inspiration": "original",
     "news_inspiration": []
+  },
+  {
+    "character_name": "船長",
+    "inspiration": "original",
+    "story": "在老酒吧滿佈灰塵的吧台上，有一個巨大的玻璃燈塔生態瓶，那是船長最愛的避風港。平時在碼頭呼風喚雨的他，此刻正趴在瓶內，那隻銳利的翠綠右眼死死盯著水窪裡游動的小魚，粗壯的尾巴興奮地微顫，完全忘記了自己身為港口老大的偶像包袱。",
+    "title": "玻璃塔內的凝視",
+    "number": 2391,
+    "news_inspiration": [],
+    "comment_id": 4892287274,
+    "prompt": "Art Nouveau anime illustration featuring an inside-the-glass-vessel composition. A contained miniature world framing inside a giant transparent glass lighthouse terrarium sitting on a dusty bar counter. Inside, a literal four-legged large stocky brown classic tabby cat with bold black stripes is lying on his belly. The cat has a scruffy, untidy, and coarse fur texture, white mitten paws on all four feet, a white chest bib, an M-mark on his forehead, a thick sturdy tail, and a prominent V-shaped notch on his left ear. He wears a loosely tied faded red bandana around his neck. His left eye is completely hidden by a natural dark-pigmented fur patch with no straps or fabric, while his open right eye is piercing emerald green. He stretches his neck forward comically, staring intensely at a tiny fish swimming in a small water puddle. The scene is framed by flowing organic ornamental borders and Mucha-inspired decorative panels with delicate dreamy detail. Plant leaves with lace openwork texture, delicate floral cutout patterns, and fine translucent filigree surround the cat. The text '2026-07-06 11:27 UTC' is elegantly incorporated into the refractive glass border. Volumetric lighting, visible light rays through atmosphere, god rays, and dust particles catching light create dramatic depth. The artwork utilizes a Morandi muted color palette with desaturated soft pastels, dusty grey undertones, and quiet elegance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "伸爪撥弄物體的動作",
+      "畫面角落的UTC日期時間標籤",
+      "聲明禁用簡體字的提示",
+      "竹影翠綠配色面板",
+      "金箔微粒與金屬碎片點綴",
+      "狹窄聚光燈照明效果",
+      "極低角度仰視鏡頭",
+      "圓滾滾的橘貓設定",
+      "純黑貓咪角色設定",
+      "朱紅色調與對比"
+    ],
+    "style_picks": {
+      "art_style": "Art Nouveau Fairy Illustration",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "這是一幅新藝術動漫插畫，採用玻璃容器置入構圖與莫蘭迪色調。戴著深色眼罩與褪色紅頭巾的虎斑貓「船長」趴在一個巨大的玻璃燈塔造景內部，帶有蕾絲鏤空質感的植物葉片環繞著他，溫暖的體積光灑落，而他正為了緊盯水窪裡的一條小魚而伸長脖子，瞬間失去所有霸氣威嚴。",
+    "character": "captain"
   }
 ]
