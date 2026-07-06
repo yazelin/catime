@@ -2191,5 +2191,39 @@
       "瑞典斯德哥爾摩的卡羅林斯卡學院發表了一項歷時15年的最新科學研究，發現長者若維持低發炎的健康飲食，罹患失智症的風險最高可大幅降低30%。",
       "英國倫敦於7月初首度舉辦了盛大的「2026年英國太平洋藝術節（Pasifika Fest UK）」，透過音樂、舞蹈、傳統美食與故事分享，熱情慶祝太平洋島國豐富的藝術與多元文化。"
     ]
+  },
+  {
+    "story": "漢勒村轉型為暗空保護區後，這座賽博龐克風格的天文台成為了星空旅客的聖地。當天文學家正忙著調整望遠鏡時，一隻當地的流浪貓卻把那些被紫外線吸引來的機械飛蛾當成了最佳獵物。牠靈活的躍動為寂靜的月夜觀星之旅帶來了一絲狂野的活力。",
+    "title": "靛夜星穹獵手",
+    "inspiration": "位於印度喜馬拉雅山區的漢勒村（Hanle）成功轉型為「暗空保護區」，當地居民現在透過帶領旅客使用天文望遠鏡觀星，發展出獨特的星空旅遊業。",
+    "news_inspiration": [
+      "在哥斯大黎加，一個由衝浪客發起的草根環保計畫透過在太平洋沿岸種植十萬棵原生樹木，成功將原本荒蕪的海灘變成了生機盎然的生態綠洲。",
+      "在英國倫敦的國家檔案館中，一名志工在整理未建檔的歷史收藏品時，意外尋獲一份極為罕見的美國《獨立宣言》副本。",
+      "位於印度喜馬拉雅山區的漢勒村（Hanle）成功轉型為「暗空保護區」，當地居民現在透過帶領旅客使用天文望遠鏡觀星，發展出獨特的星空旅遊業。",
+      "在澳洲凱恩斯（Cairns）外海，參與公民科學計畫的民眾發現了一座面積約半個足球場大的巨型珊瑚群，被認為是有史以來記錄到最大的珊瑚之一。"
+    ],
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Moonlit Indigo"
+    },
+    "idea": "賽博龐克風格的畫面中，一隻四腳著地的黑貓正在喜馬拉雅山區的高科技天文台觀景台上，凌空躍起捕捉圍繞在巨型望遠鏡旁的螢光飛蛾，月夜靛藍的色調與黑光螢光交織，設備上覆蓋的紗網薄透肌理增添了層次感，並採用配色條邊框構圖。",
+    "avoid_list": [
+      "用貓掌撥弄觸碰物體",
+      "體積光與可見光束",
+      "趴伏凝視或嗅聞",
+      "畫面角落顯示日期時間",
+      "竹影翠綠色調配色",
+      "側臉特寫與邊緣輪廓線",
+      "分割畫面與線框構圖",
+      "底片顆粒與復古褪色感",
+      "極低角度仰視鏡頭",
+      "微縮模型與巨大化對比"
+    ],
+    "prompt": "Cyberpunk aesthetic illustration of a black cat leaping into the air to catch glowing fluorescent mechanical moths near a giant high-tech telescope. The setting is a futuristic observatory observation deck in the Himalayas. Blacklight UV illumination and ethereal ultraviolet luminescence cause the moths and neon elements to glow vibrantly against a dark background. The equipment is draped in a sheer gauze mesh texture, resembling fine translucent netting and a delicate woven veil, with soft light passing through gossamer layered transparency. The color scheme features a moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, and dark dreamy blue dominance. A bright digital holographic display clearly shows the text '2026-07-06 22:55 UTC'. The composition is framed by vertical color palette swatch bars on both sides, resembling a design moodboard aesthetic with stacked color blocks revealing the work's palette, presented in a portfolio presentation format with a Korean illustrator signature layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4898365423,
+    "number": 2396
   }
 ]
