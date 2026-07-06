@@ -2062,5 +2062,36 @@
     },
     "idea": "這是一幅新藝術動漫插畫，採用玻璃容器置入構圖與莫蘭迪色調。戴著深色眼罩與褪色紅頭巾的虎斑貓「船長」趴在一個巨大的玻璃燈塔造景內部，帶有蕾絲鏤空質感的植物葉片環繞著他，溫暖的體積光灑落，而他正為了緊盯水窪裡的一條小魚而伸長脖子，瞬間失去所有霸氣威嚴。",
     "character": "captain"
+  },
+  {
+    "story": "古董店的午後瀰漫著沉靜的秋意，陽光為墨墨鑲上一層溫暖的金色輪廓光。牠輕巧地踏上那張充滿年代感的透明充氣PVC椅，左耳的金環與胸前白毛領結隱約閃爍，正像個嚴格的鑑定師般仔細端詳著這件特殊的傢俱。",
+    "character_name": "墨墨",
+    "prompt": "Polaroid instant photo with a white border frame. The exact text '2026-07-06 14:54 UTC' is clearly printed on the bottom white border. Split view composition with a sharp vertical cut line: the left half is a photorealistic candid shot, 35mm lens, f/1.8, shallow depth of field, natural light, subtle film grain; the right half is a wireframe diagram. A literal four-legged sleek, slender solid-black Bombay-style shorthair cat is gently stepping on and sniffing a vintage transparent amber inflatable PVC chair with a high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. The cat has satin-sheen fur with warm brown undertones in the light, a single small gold hoop earring strictly on its LEFT ear, a tiny natural white locket tuft on its ventral chest, a single dark-grey ring on its slightly upward-curled tail tip, large luminous golden-amber eyes, and long prominent white whiskers. No collar. Calm and attentive expression. The scene is set inside a quiet antique shop. Backlighting with rim light, glowing silhouette edges outlining the cat, dramatic mood. Slightly faded colors, soft warm tones, warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "avoid_list": [
+      "伸爪撥弄物體的動作",
+      "畫面角落的UTC日期時間標籤",
+      "聲明禁用簡體字的提示",
+      "竹影翠綠配色面板",
+      "金箔微粒與金屬碎片點綴",
+      "狹窄聚光燈照明效果",
+      "極低角度仰視鏡頭",
+      "圓滾滾的橘貓設定",
+      "純黑貓咪角色設定",
+      "朱紅色調與對比"
+    ],
+    "character": "momo",
+    "title": "琥珀色的午後",
+    "number": 2392,
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "採用分割畫面的拍立得攝影風格，秋日暖陽的背光勾勒出黑貓墨墨的輪廓，牠正專注地在古董店裡嗅聞並踩踏一張琥珀色的復古充氣PVC椅。",
+    "comment_id": 4894267750,
+    "inspiration": "original"
   }
 ]
