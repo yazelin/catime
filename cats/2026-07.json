@@ -2263,5 +2263,41 @@
       "在墨西哥首都墨西哥城，一隻名叫「梅林」的街頭明星寵物鴨意外爆紅，甚至成為了當地民眾熱烈討論的世界盃非官方吉祥物。"
     ],
     "character": "lingling"
+  },
+  {
+    "story": "午夜的老街麵包店裡，貪吃的麻糬發現了一批正在測試的夜光發酵麵包。牠毫不猶豫地把自己塞進了外帶紙袋裡，準備將這份特別的宵夜打包帶走。即使四周是單色調的幽暗，那塊被牠緊咬不放的發光可頌，依然照亮了牠得意的呆萌表情。",
+    "prompt": "Polished 3D render combined with a fashion croquis sketch style, featuring loose pencil and marker lines. A spherical, chubby short-haired cat is squeezing its round body into a narrow paper takeout bag on a bakery counter at midnight. The cat has a white base coat with solid bright orange patches and absolutely no tabby stripes. From the viewer's perspective, the right half of the cat's face has an orange mask extending from the nose bridge to the right ear, while the left side of its face is entirely pure white. It has a heart-shaped solid orange saddle on its upper back, a white belly, large round amber eyes, and a pink nose with a tiny orange center dot. Its right front paw is a solid orange mitten, and its left front paw is pure white. It has short stubby legs and an orange-and-white ringed tail. The cat is tightly biting a croissant that emits a deep blue-green bioluminescent radiance, organic glow, and ethereal natural light, illuminating its cute expression. The surrounding bakery environment is black and white monochrome, Cinema 4D aesthetic, smooth materials, clean geometry, soft global illumination, high contrast, rich tonal range, dramatic shadows and highlights, starkly contrasting with the glowing croissant. The scene is framed by vertical vibrant color palette swatch bars on both sides, stacked color blocks revealing the work's palette, portfolio presentation format, Korean illustrator signature layout, designer sketchbook aesthetic, with colored pencils visible as props. The exact text '2026-07-07 02:35 UTC' is clearly written on the outside of the paper bag. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "麻糬",
+    "title": "紙袋裡的夜光可頌",
+    "style_picks": {
+      "art_style": "Fashion Croquis Sketch",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Bioluminescence",
+      "texture": "3D Render",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character": "mochi",
+    "idea": "以黑白單色的3D渲染結合時尚設計草圖風格，畫面外圍環繞著配色條邊框，描繪圓滾滾的橘白貓麻糬在午夜的麵包店流理台上，正努力將胖胖的身軀塞進狹窄的紙袋中，嘴裡緊緊咬著一塊散發奇異生物發光的可頌。",
+    "comment_id": 4899601098,
+    "inspiration": "original",
+    "number": 2398,
+    "avoid_list": [
+      "用貓掌撥弄觸碰物體",
+      "體積光與可見光束",
+      "趴伏凝視或嗅聞",
+      "畫面角落顯示日期時間",
+      "竹影翠綠色調配色",
+      "側臉特寫與邊緣輪廓線",
+      "分割畫面與線框構圖",
+      "底片顆粒與復古褪色感",
+      "極低角度仰視鏡頭",
+      "微縮模型與巨大化對比"
+    ],
+    "news_inspiration": [
+      "在美國紐約，人形機器人Atlas在世界盃足球賽中場休息時，完美地穿越草地將比賽用球送到裁判手中並展示了專屬的慶祝動作。",
+      "法屬玻里尼西亞政府宣布將海洋保護區範圍大幅擴張至其水域的30%，為瀕危鯊魚與數百種海洋生物打造了廣闊的生態避風港。",
+      "在非洲維德角的博阿維斯塔島，經過當地長達十年的生態保育努力，瀕臨絕種的赤蠵龜數量奇蹟般地飆升了80倍。",
+      "在瑞士巴塞爾舉辦的年度約德爾音樂節上，連日的罕見高溫讓參賽歌手們忍不住跳進市區的噴泉中進行彩排與高歌。"
+    ]
   }
 ]
