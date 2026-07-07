@@ -2225,5 +2225,43 @@
     "prompt": "Cyberpunk aesthetic illustration of a black cat leaping into the air to catch glowing fluorescent mechanical moths near a giant high-tech telescope. The setting is a futuristic observatory observation deck in the Himalayas. Blacklight UV illumination and ethereal ultraviolet luminescence cause the moths and neon elements to glow vibrantly against a dark background. The equipment is draped in a sheer gauze mesh texture, resembling fine translucent netting and a delicate woven veil, with soft light passing through gossamer layered transparency. The color scheme features a moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, and dark dreamy blue dominance. A bright digital holographic display clearly shows the text '2026-07-06 22:55 UTC'. The composition is framed by vertical color palette swatch bars on both sides, resembling a design moodboard aesthetic with stacked color blocks revealing the work's palette, presented in a portfolio presentation format with a Korean illustrator signature layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 4898365423,
     "number": 2396
+  },
+  {
+    "number": 2397,
+    "idea": "運用BJD擬真娃娃風格與黑白單色調，在閃光燈直打的平視正面構圖下，呈現宛如透明樹脂材質的白貓鈴鈴戴著迷你草帽，在黑白向日葵田裡笨拙地追逐一隻當地的明星寵物鴨。",
+    "avoid_list": [
+      "用貓掌撥弄觸碰物體",
+      "體積光與可見光束",
+      "趴伏凝視或嗅聞",
+      "畫面角落顯示日期時間",
+      "竹影翠綠色調配色",
+      "側臉特寫與邊緣輪廓線",
+      "分割畫面與線框構圖",
+      "底片顆粒與復古褪色感",
+      "極低角度仰視鏡頭",
+      "微縮模型與巨大化對比"
+    ],
+    "story": "鈴鈴原本戴著小草帽與向日葵裝飾在田野間探險，卻意外撞見了爆紅的街頭明星寵物鴨。充滿好奇心的她立刻邁開四條腿在田埂間追趕，脖子上的鈴鐺隨著她毛茸茸的身軀發出清脆響聲。強烈的快門閃光瞬間凍結了這場跨物種的趣味追逐，將她蓬鬆如棉花糖的毛髮與澄澈的大眼定格成一件精緻的無色彩藝術品。",
+    "inspiration": "在墨西哥首都墨西哥城，一隻名叫「梅林」的街頭明星寵物鴨意外爆紅，甚至成為了當地民眾熱烈討論的世界盃非官方吉祥物。",
+    "title": "黑白葵田的追逐",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "BJD Ball-Jointed Doll",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Direct Flash",
+      "texture": "Translucent Resin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "BJD ball-jointed doll photography, raw candid snapshot look, 35mm lens, harsh direct on-camera flash, blown-out highlights, hard shadows. Eye-level frontal composition, straight-on symmetrical view, subject facing camera directly, neutral honest perspective, confrontational balance. A literal four-legged cat clumsily chasing a pet duck towards the camera in a high contrast black and white monochrome sunflower field. The cat features a collectible art doll aesthetic with subtle uncanny realism, her body sculpted from translucent resin material with embedded elements visible inside, glossy smooth surface, and porcelain skin finish. She has extremely fluffy pure white longhair, an enormous feathery white plume tail, a small round face, and huge round sapphire-blue intricate eye inserts. She has a pale pink nose and inner ears, wearing a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the knot, and a summer mini straw hat featuring realistic fabric wardrobe details, lace, and embroidery. Pink paw pads visible as she runs. Rich tonal range, dramatic shadows, film grain. A rustic sign in the field clearly displays the text '2026-07-06 23:57 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "season": "summer",
+    "character_name": "鈴鈴",
+    "comment_id": 4898723102,
+    "news_inspiration": [
+      "在法屬玻里尼西亞，當地政府正式宣佈擴大海洋保護區範圍至總水域的百分之三十，為瀕危鯊魚與多種海洋生物提供安全的庇護所。",
+      "在克羅埃西亞，一匹剛滿月的小馬被主人帶進一棟公寓的四樓飼養，而友善的鄰居們對這位奇特的毛小孩新住客完全不介意。",
+      "在巴西庫里奇巴，當地舉辦的國際雙年展首次迎來了澳門館的參展，透過當代藝術作品促進了跨文化的對話與交流。",
+      "在墨西哥首都墨西哥城，一隻名叫「梅林」的街頭明星寵物鴨意外爆紅，甚至成為了當地民眾熱烈討論的世界盃非官方吉祥物。"
+    ],
+    "character": "lingling"
   }
 ]
