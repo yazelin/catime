@@ -2428,5 +2428,34 @@
     ],
     "title": "雪夜金迷的撥弄",
     "news_inspiration": []
+  },
+  {
+    "story": "秋日的午後，老街上的麵包店瀰漫著濃郁的奶油與糖香。趁著烘焙師傅不注意，貪嘴的橘貓悄悄將毛茸茸的爪子伸向那顆最金黃誘人的菠蘿麵包。就在快要得逞的瞬間，一隻焦急的大手從鏡頭外猛然伸來，定格了這場溫馨又逗趣的點心保衛戰。",
+    "comment_id": 4907399255,
+    "number": 2403,
+    "avoid_list": [
+      "帶有精確UTC時間的文字",
+      "垂直裁切的分割畫面構圖",
+      "線框圖與半透明網格材質",
+      "體積光與神聖光透射效果",
+      "帶有配色色塊條的邊框排版",
+      "35mm鏡頭淺景深攝影風格",
+      "強調四腳著地的貓咪姿態",
+      "單色或暗色背景對比發光體",
+      "凌空躍起的動態定格瞬間",
+      "多視角服裝展示設計排版"
+    ],
+    "inspiration": "original",
+    "idea": "以IXUS消費相機風格與精緻3D渲染材質呈現，在溫暖的琥珀色調下，一隻橘貓趴在老式麵包店的木桌上偷偷撥弄剛出爐的麵包。畫面運用強制透視技巧，一隻誇張放大的烘焙師手臂從鏡頭前伸出試圖阻止，搭配專業的三點打光凸顯貓咪的好奇神態與麵包質感。",
+    "news_inspiration": [],
+    "prompt": "A polished 3D render of an orange cat lying on a vintage bakery wooden table, secretly pawing at a freshly baked golden pineapple bun. In the foreground, an exaggeratedly large baker's hand is thrust toward the camera, creating a forced perspective composition with exaggerated foreshortening and dynamic confrontational framing. The image features a visible text overlay reading '2026-07-07 18:53 UTC'. The cat has a curious expression, engaging the viewer. The visual style combines a point-and-shoot camera aesthetic, casual candid feel, direct flash, and slightly overexposed highlights with smooth materials, clean geometry, soft global illumination, and a Cinema 4D aesthetic. The lighting is a classic three-point lighting setup with key light with soft shadows, fill light, and subtle rim light separation. The overall mood features warm amber color grading, an autumn palette, golden yellows, burnt orange, and cozy nostalgic warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "琥珀色的偷嚐",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Three-Point Lighting",
+      "texture": "3D Render",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
