@@ -2495,5 +2495,36 @@
     "idea": "在一幅高飽和鮮豔色彩的浮世繪作品中，運用移軸微縮視角俯瞰，黑貓墨墨正優雅地趴在老宅的竹蓆上納涼，身下壓著一份剛被翻出來的古老宣言副本，背光勾勒出牠描金墨線般的優雅輪廓。",
     "story": "夏日的午後，檔案館老宅的竹蓆帶來了一絲清涼，墨墨最喜歡挑選特別的紙張當作午睡的床。當館員慌亂地尋找那份珍貴的《獨立宣言》早期副本時，這隻戴著金耳環的黑貓正將下巴靠在泛黃的紙上瞇眼歇息。陽光從紙窗背後灑下，讓牠胸前的白毛與金琥珀色眼睛閃爍著傲嬌的光芒。",
     "character_name": "墨墨"
+  },
+  {
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Direct Flash",
+      "texture": "Inflatable PVC",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "迷幻角落的啃咬",
+    "avoid_list": [
+      "配色條邊框與韓國插畫師排版",
+      "平視正面對稱與對峙感構圖",
+      "月夜靛藍與銀色高光色調",
+      "黑白單色調環境與背景",
+      "畫面中嵌入精確的UTC時間戳記",
+      "強制要求繁體中文或英文的文字渲染指令",
+      "伸出前爪撥弄或觸碰特定物品",
+      "將下巴緊靠在物體表面上",
+      "凌空躍起捕捉空中目標",
+      "麵包店或食物攤販場景",
+      "高飽和度與強烈視覺對比色彩",
+      "精緻的3D渲染與平滑幾何材質"
+    ],
+    "story": "唱片行老闆總是給愛搗蛋的店貓戴上這圈奇怪的充氣裝備以防牠搞破壞。然而今天牠還是盯上了一張迷幻搖滾的絕版專輯，津津有味地咀嚼著紙盒邊角。突如其來的閃光燈精準捕捉了這個荒謬又充滿奇幻氛圍的瞬間。",
+    "inspiration": "original",
+    "number": 2405,
+    "idea": "這是一幅迷幻風格的頭肩特寫，在一家復古黑膠唱片行裡，一隻戴著粉彩充氣PVC防舔頸圈的貓咪正側著頭啃咬一張老唱片封套。在閃光燈直打的強光下，充氣塑膠材質散發著怪誕的反光，周遭空間則融入了柔和且視覺扭曲的粉彩色調中。",
+    "news_inspiration": [],
+    "comment_id": 4909496700,
+    "prompt": "Head-and-shoulders portrait crop, face filling the frame, of a cat wearing a pastel inflatable PVC collar, tilting its head and chewing on a vintage vinyl record sleeve in a retro record shop. The digital timestamp '2026-07-07 22:03 UTC' is prominently displayed in the corner like a camera date stamp. Raw candid snapshot look, shot with a 35mm lens, harsh direct on-camera flash, blown-out highlights, hard shadows. The inflatable PVC material has a high-gloss balloon-like surface, puffy rounded forms, air-filled tension. The background features distorted psychedelic art elements with swirling patterns, melting distorted forms, blending vibrant clashing neon colors with a soft pastel color palette of gentle pink, lavender, mint, and baby blue, dreamy light tones. Intimate eye-level connection, tight framing on expression, classic portrait composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
