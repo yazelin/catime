@@ -2399,5 +2399,34 @@
     "prompt": "An Art Nouveau style illustration of Captain, a large stocky brown classic tabby cat with bold black stripes and a scruffy, untidy, coarse fur coat. His left eye is completely concealed by a natural dark-pigmented fur patch, with no straps or fabric eyepatch. His right eye is a piercing emerald green. His left ear features a prominent V-shaped notch, and a faded red bandana is tied loosely around his neck. He has a white chest bib and white mitten paws. Captain is in a cat-like posture, crouching on the transparent edge of an inflatable PVC rubber dinghy at a fishing port, his front paws slightly reaching out. The composition mimics a mirror selfie, with his figure vividly reflected on the high-key, bright, mirror-like surface of the calm water. The scene features flowing organic curves, ornamental borders, and is inspired by Mucha. The lighting is soft, even, and luminous with minimal shadows, creating an airy, overexposed, and dreamy atmosphere. The color palette combines deep moonlit indigo, night-blue, and violet tones with cool silvery highlights. Inscribed subtly but clearly within the image frame is the timestamp '2026-07-07 13:10 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 4904250324,
     "idea": "這是一幅融合新藝術風格流暢線條與月夜靛藍色調的畫作，呈現一隻獨眼戴眼罩、圍著褪色紅色頭巾的壯碩虎斑貓「船長」，正以貓咪慣有的姿態伏在漁港邊一艘充氣 PVC 橡皮艇的透明邊緣上，前爪微微探出，其身影在如鏡面般平靜反射的高調明亮水面上倒映出如同鏡子自拍構圖的趣味倒影。"
+  },
+  {
+    "number": 2402,
+    "prompt": "Polaroid instant photo with a white border frame. The exact text '2026-07-07 16:16 UTC' is written in marker on the bottom white border. Candid photography, 35mm lens, f/2.8, heavy visible film grain, analog texture, subtle noise, organic photographic imperfections. Spiral vortex composition with strong rotational perspective and a dizzying sense of depth, creating a centered vanishing point focused on a black cat. The cat is inside a luxurious train cabin lined with black velvet, sitting on a Persian rug, using its paws to actively bat at scattered pure gold pocket watches. In the blurred background, a passenger in a black coat looks out the train window. Luxurious metallic gold accents, deep black background, gold and black color scheme. Snowstorm atmospheric lighting, heavy falling snow veil visible outside the window, muted diffused daylight, fogged distance with cold blue-white tones blending with the slightly faded colors, soft warm tones, and opulent mood of the cabin interior. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4905958976,
+    "idea": "這是一張帶有濃厚底片顆粒的拍立得照片，以螺旋漩渦構圖呈現一隻黑貓在奢華的黃金黑天鵝絨火車包廂內，正專注地撥弄散落一地的金色懷錶。窗外暴風雪的朦朧光線透入，與室內的裝潢交織出金色與黑色的奢華質感。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Snowstorm Haze",
+      "texture": "Film Grain",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "暴風雪迫使豪華特快車停駛，身穿黑大衣的乘客在窗邊焦慮地望著白茫茫的雪夜。唯有這隻黑貓對延誤毫不在意，牠在華麗的波斯地毯上發現了散落的行李。在朦朧的冷光中，牠伸出毛茸茸的爪子撥弄著閃爍的純金懷錶，彷彿這場混亂只是牠的遊戲。",
+    "avoid_list": [
+      "帶有精確UTC時間的文字",
+      "垂直裁切的分割畫面構圖",
+      "線框圖與半透明網格材質",
+      "體積光與神聖光透射效果",
+      "帶有配色色塊條的邊框排版",
+      "35mm鏡頭淺景深攝影風格",
+      "強調四腳著地的貓咪姿態",
+      "單色或暗色背景對比發光體",
+      "凌空躍起的動態定格瞬間",
+      "多視角服裝展示設計排版"
+    ],
+    "title": "雪夜金迷的撥弄",
+    "news_inspiration": []
   }
 ]
