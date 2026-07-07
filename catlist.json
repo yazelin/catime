@@ -22376,5 +22376,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-07_1853_UTC.webp",
     "timestamp": "2026-07-07 18:53 UTC",
     "title": "琥珀色的偷嚐"
+  },
+  {
+    "title": "竹蓆上的古卷",
+    "is_seasonal": true,
+    "number": 2404,
+    "inspiration": "英國倫敦的國家檔案館在整理文件時，意外發現了一份極為罕見的美國《獨立宣言》早期副本。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-07_2044_UTC.webp",
+    "season": "summer",
+    "character": "momo",
+    "timestamp": "2026-07-07 20:44 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "墨墨",
+    "status": "success"
   }
 ]

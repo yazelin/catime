@@ -2457,5 +2457,43 @@
       "texture": "3D Render",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "title": "竹蓆上的古卷",
+    "is_seasonal": true,
+    "number": 2404,
+    "avoid_list": [
+      "帶有精確UTC時間的文字",
+      "垂直裁切的分割畫面構圖",
+      "線框圖與半透明網格材質",
+      "體積光與神聖光透射效果",
+      "帶有配色色塊條的邊框排版",
+      "35mm鏡頭淺景深攝影風格",
+      "強調四腳著地的貓咪姿態",
+      "單色或暗色背景對比發光體",
+      "凌空躍起的動態定格瞬間",
+      "多視角服裝展示設計排版"
+    ],
+    "prompt": "Ukiyo-e Japanese woodblock print with a Tilt-shift photography miniature toy-like effect. Bird's-eye view looking down with a selective focus band, blurred foreground and background. A sleek, slender solid-black Bombay-style shorthair cat is gracefully resting on a summer bamboo mat in an old archive house. The cat has satin-sheen black fur with warm brown undertones, a tiny natural white locket tuft on the ventral chest, long prominent white whiskers, large luminous golden-amber eyes, a single dark-grey ring at the tail tip with a slight upward curl, and exactly one small gold hoop earring on the LEFT ear. No collar. The cat is resting its chin on a yellowed early copy of the Declaration of Independence. Sunlight shines from behind a paper window, creating backlighting with rim light, glowing silhouette edges, and a subject outlined by light. The exact text '2026-07-07 20:44 UTC' is clearly written in English on an antique wooden sign next to the paper. The art style features flat color areas, bold outlines, wave patterns, gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, and ornamental hand-drawn detailing on a dark ground. High saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette, dramatic mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "英國倫敦的國家檔案館在整理文件時，意外發現了一份極為罕見的美國《獨立宣言》早期副本。",
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "High Saturation Vivid"
+    },
+    "season": "summer",
+    "character": "momo",
+    "news_inspiration": [
+      "在美國紐約，大胃王喬伊·切斯納特在著名的國慶日吃熱狗大賽中，以吞下66個熱狗的驚人成績再次奪冠。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員讓狗狗們穿上國家足球隊的球衣在街頭散步，成為一道可愛的風景。",
+      "英國倫敦的國家檔案館在整理文件時，意外發現了一份極為罕見的美國《獨立宣言》早期副本。",
+      "在墨西哥墨西哥城，一隻名為「梅林」的寵物鴨成為了街頭明星，甚至在新聞發布會上搶盡了風頭。"
+    ],
+    "comment_id": 4908672149,
+    "idea": "在一幅高飽和鮮豔色彩的浮世繪作品中，運用移軸微縮視角俯瞰，黑貓墨墨正優雅地趴在老宅的竹蓆上納涼，身下壓著一份剛被翻出來的古老宣言副本，背光勾勒出牠描金墨線般的優雅輪廓。",
+    "story": "夏日的午後，檔案館老宅的竹蓆帶來了一絲清涼，墨墨最喜歡挑選特別的紙張當作午睡的床。當館員慌亂地尋找那份珍貴的《獨立宣言》早期副本時，這隻戴著金耳環的黑貓正將下巴靠在泛黃的紙上瞇眼歇息。陽光從紙窗背後灑下，讓牠胸前的白毛與金琥珀色眼睛閃爍著傲嬌的光芒。",
+    "character_name": "墨墨"
   }
 ]
