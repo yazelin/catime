@@ -2333,5 +2333,34 @@
     "idea": "一隻波斯貓在朱紅與留白交織的新中式珠寶工筆插畫世界中，於水下焦散光影裡穿梭於纏繞的鐵絲網之間，以多視角服裝展示的構圖呈現其優雅身影。",
     "story": "在深邃的虛擬海洋保護區中，這隻貓兒正敏捷地追逐著穿梭於鐵絲網縫隙間的機械發光魚。水底的焦散光芒如珠寶般灑落在牠細緻的毛髮上，與周遭的朱紅珊瑚形成強烈對比。畫面以獨特的多視角剪裁，捕捉了牠在水下生態中每一次靈動的躍動瞬間。",
     "comment_id": 4900931262
+  },
+  {
+    "number": 2400,
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Spotlight",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Duotone"
+    },
+    "comment_id": 4902724423,
+    "story": "靜謐的前廳中，黃銅喇叭緩緩流淌出低沉的爵士樂，引起了沙發上這位小傢伙的注意。牠將下巴貼著柔軟的絎縫紋理，伸出前爪一次次試探那隨著唱片旋轉的發聲源。",
+    "news_inspiration": [],
+    "prompt": "Art Deco style illustration, eye-level frontal composition, straight-on symmetrical view, neutral honest perspective, confrontational balance. A cat resting its chin on a geometric puffy quilted down sofa, attentively extending a front paw to touch the needle of a brass gramophone. The sofa features a glossy puffer-jacket surface, inflated padded segments, soft bulging stitched channels, and plump air-filled volume. Set in a luxurious theater lobby exhibiting 1920s elegance, geometric patterns, and luxurious symmetry. A narrow beam spotlight creates dramatic high-contrast, sharp light edges, and deep darkness falloff. Duotone color treatment using a blue and gold palette, two contrasting colors only, providing a bold graphic impact and modern design feel. An elegant background sign clearly displays the text '2026-07-07 10:17 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "帶有精確UTC時間的文字",
+      "垂直裁切的分割畫面構圖",
+      "線框圖與半透明網格材質",
+      "體積光與神聖光透射效果",
+      "帶有配色色塊條的邊框排版",
+      "35mm鏡頭淺景深攝影風格",
+      "強調四腳著地的貓咪姿態",
+      "單色或暗色背景對比發光體",
+      "凌空躍起的動態定格瞬間",
+      "多視角服裝展示設計排版"
+    ],
+    "title": "留聲機的試探",
+    "idea": "採用裝飾藝術風格與平視正面構圖，在藍金雙色調的豪華劇院前廳裡，聚光燈聚焦於一張幾何膨脹絎縫羽絨沙發，一隻貓咪正專注地撥弄著旁邊的黃銅留聲機唱針。",
+    "inspiration": "original"
   }
 ]
