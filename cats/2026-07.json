@@ -2562,5 +2562,36 @@
       "精緻的3D渲染與平滑幾何材質"
     ],
     "number": 2406
+  },
+  {
+    "avoid_list": [
+      "配色條邊框與韓國插畫師排版",
+      "平視正面對稱與對峙感構圖",
+      "月夜靛藍與銀色高光色調",
+      "黑白單色調環境與背景",
+      "畫面中嵌入精確的UTC時間戳記",
+      "強制要求繁體中文或英文的文字渲染指令",
+      "伸出前爪撥弄或觸碰特定物品",
+      "將下巴緊靠在物體表面上",
+      "凌空躍起捕捉空中目標",
+      "麵包店或食物攤販場景",
+      "高飽和度與強烈視覺對比色彩",
+      "精緻的3D渲染與平滑幾何材質"
+    ],
+    "story": "老陶匠打盹時，這隻守護工坊的貓咪默默接手了未完成的傑作。牠熟練地咬起畫筆，將閃爍的青銅色液體塗抹在粗糙的陶土表面。塵埃在光柱中飛舞，陪伴著這場靜謐的藝術創作。",
+    "title": "陶坊裡的青銅夢",
+    "inspiration": "original",
+    "comment_id": 4910561739,
+    "news_inspiration": [],
+    "number": 2407,
+    "prompt": "BJD ball-jointed doll photography, 85mm lens, f/2.8, shallow depth of field. Head-and-shoulders portrait crop, tight framing on expression, intimate eye-level connection, face filling the frame, classic portrait composition. A four-legged ball-jointed cat with porcelain skin finish and detailed eye insert is holding a paintbrush in its mouth, carefully applying paint to a rough clay pot. The paint on the brush is a bronze liquid metal, showing a mercury-like reflective flow, chrome dripping texture, and molten mirror finish. Collectible art doll aesthetic, subtle uncanny realism. In the background of the ancient pottery workshop, a wooden sign clearly displays the exact text '2026-07-08 01:27 UTC'. Volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, studio soft light, dramatic depth. Earth tone colors, terracotta, olive green, warm brown, natural organic harmony. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以BJD擬真娃娃風格呈現的頭肩特寫，在充滿大地色系的古老陶藝工坊內，一隻四足關節貓咪正口銜著沾滿液態金屬顏料的畫筆，替陶罐細心上色。陽光化作溫暖的體積光穿透木窗，映照出貓咪專注的神情與閃耀的顏料光澤。",
+    "style_picks": {
+      "art_style": "BJD Ball-Jointed Doll",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
