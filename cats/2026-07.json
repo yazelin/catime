@@ -2593,5 +2593,36 @@
       "texture": "Liquid Metal",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "number": 2408,
+    "comment_id": 4911529691,
+    "prompt": "Cinematic storyboard grid, film keyframes, sequential shots, dramatic camera angles, movie-quality composition. Tilt-shift photography, selective focus band, miniature toy-like effect, blurred foreground and background, 35mm lens, f/1.8, film grain, candid shot. A Maine Coon cat crouched low, stealthily stalking an amber bioluminescent moth among scattered leather pieces on an old artisan workshop desk. Genuine leather texture, rich grain pattern, warm aged patina, supple creased surface, artisanal craftsmanship. Organic glow from living organisms, natural light. Vibrant saturated colors, warm amber color grading, autumn tones, golden yellows, burnt orange, cozy nostalgic warmth. A prominent vintage sign clearly displays the text '2026-07-08 04:56 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用電影分鏡風格與移軸微縮效果，一隻緬因貓正在古老皮革工坊的工作檯上巡視，專注地跟蹤著一隻散發琥珀色生物螢光的飛蛾。暖秋色調的光芒柔和地映照在厚重的復古皮革卷軸上，營造出神秘的微觀視角。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "avoid_list": [
+      "配色條邊框與韓國插畫師排版",
+      "平視正面對稱與對峙感構圖",
+      "月夜靛藍與銀色高光色調",
+      "黑白單色調環境與背景",
+      "畫面中嵌入精確的UTC時間戳記",
+      "強制要求繁體中文或英文的文字渲染指令",
+      "伸出前爪撥弄或觸碰特定物品",
+      "將下巴緊靠在物體表面上",
+      "凌空躍起捕捉空中目標",
+      "麵包店或食物攤販場景",
+      "高飽和度與強烈視覺對比色彩",
+      "精緻的3D渲染與平滑幾何材質"
+    ],
+    "title": "皮革坊的琥珀光",
+    "story": "老工匠離開後，這間充滿焦糖色皮革氣味的閣樓便成了貓咪的專屬領地。一隻散發著奇特暖光的飛蛾悄悄飛入，瞬間吸引了牠的目光。貓咪壓低身子在散落的皮件間穿梭，以狩獵者的姿態無聲地凝視著那團溫暖的光芒。",
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Bioluminescence",
+      "texture": "Leather",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
