@@ -2624,5 +2624,41 @@
       "texture": "Leather",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "number": 2409,
+    "prompt": "Polaroid instant photo with a white border frame, bearing the printed text '2026-07-08 07:24 UTC' on the bottom border. Tilt-shift photography, selective focus band, miniature toy-like effect, blurred foreground and background. A candid real photograph of a tabby cat carefully sniffing a yellowed parchment document on a wooden oak table filled with old archival files inside the London National Archives. Warm amber color grading, autumn palette, slightly faded colors, golden yellows, burnt orange, vibrant saturated colors, cozy nostalgic warmth. Butterfly lighting, overhead key light casting a symmetrical shadow under the cat's nose, soft even illumination, glamour portrait lighting, soft-focus matte haze, dreamy diffused blur, gentle glowing veil over the image, hazy atmospheric softness, low-contrast finish. 35mm lens, f/1.8, film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "檔案館的午後總是安靜得只剩下紙張翻動的沙沙聲，而這隻常駐館內的虎斑貓似乎對歷史有著敏銳的嗅覺。當志工在成堆的舊卷宗裡意外發現那份罕見的早期獨立宣言副本時，牠立刻湊上前去進行屬於牠的鑑定。在溫暖的光影下，這份跨越百年的歷史文件彷彿也沾染了一絲貓咪的悠然。",
+    "news_inspiration": [
+      "荷蘭萊頓大學的科學團隊透過歐洲太空總署的望遠鏡，成功發現了宇宙中至今最古老的31個類星體。",
+      "隨著座頭鯨族群逐漸復甦，巴西里約熱內盧海岸的鯨魚目擊次數激增，進而帶動了當地的賞鯨觀光熱潮。",
+      "知名大胃王喬伊·切斯納特在美國紐約科尼島舉行的國慶日吃熱狗大賽中，以狂吞66個熱狗的成績再次奪下冠軍。",
+      "一名志工在英國倫敦的國家檔案館裡，意外尋獲了一份極為罕見且具歷史意義的《美國獨立宣言》早期副本。"
+    ],
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Butterfly Lighting",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "一名志工在英國倫敦的國家檔案館裡，意外尋獲了一份極為罕見且具歷史意義的《美國獨立宣言》早期副本。",
+    "idea": "這是一張以拍立得風格拍攝的移軸微縮攝影，畫面呈現溫暖的秋日琥珀色調與柔焦霧面質感。在倫敦國家檔案館堆滿古老文件的橡木長桌上，一隻虎斑貓正低頭仔細嗅聞著一份剛被攤開的泛黃羊皮紙副本，上方柔和的蝴蝶光精準照亮了牠專注的神情。",
+    "avoid_list": [
+      "配色條邊框與韓國插畫師排版",
+      "平視正面對稱與對峙感構圖",
+      "月夜靛藍與銀色高光色調",
+      "黑白單色調環境與背景",
+      "畫面中嵌入精確的UTC時間戳記",
+      "強制要求繁體中文或英文的文字渲染指令",
+      "伸出前爪撥弄或觸碰特定物品",
+      "將下巴緊靠在物體表面上",
+      "凌空躍起捕捉空中目標",
+      "麵包店或食物攤販場景",
+      "高飽和度與強烈視覺對比色彩",
+      "精緻的3D渲染與平滑幾何材質"
+    ],
+    "comment_id": 4912406899,
+    "title": "檔案館的鑑定家"
   }
 ]
