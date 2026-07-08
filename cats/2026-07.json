@@ -2771,5 +2771,36 @@
     "comment_id": 4916269875,
     "prompt": "A mixed-media illustration combining dance movement photography aesthetics with watercolor splatter and ink-spray texture. A large stocky literal four-legged brown classic tabby cat with bold black stripes and scruffy, untidy, coarse fur of uneven lengths is leaping in mid-air. Character details: a distinctive M-mark on the forehead, a natural dark-pigmented fur patch permanently concealing the left eye socket (strictly a fur marking, no fabric eye patch, no straps), a single piercing emerald green right eye, a V-shaped notch in the left ear, a loosely tied faded red bandana around the neck, a white chest bib, white mitten paws on all four feet, and a thick sturdy tail. The cat is caught in dynamic body in motion, fully extended limbs in a perfect arc, catching a leaping golden flying fish. The scene features a perfectly symmetrical composition, centered subject, mirror-like balance, and architectural framing. The cat jumps between two refined cinnabar red mooring bollards with metallic gold outlines, possessing elegant lacquer-like richness and ornate restrained warmth. The background is a modern ocean exhibition hall featuring white seamless studio lighting, evenly lit subject on a pure white cyclorama, clean shadowless product look, bright high-key backdrop, and crisp commercial clarity. Water splashes around the cat and on its white chest bib, stylized with dripping pigment, scattered dots and splashes, organic fluid stains, expressive gesture and line, kinetic energy, and expressive spontaneous marks on paper in a vermilion and gilt palette. Flowing fabric is visible on the cat's bandana under dramatic studio light freezing motion. The text '2026-07-08 15:07 UTC' is clearly and prominently displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2412
+  },
+  {
+    "style_picks": {
+      "art_style": "Ornate Danmei Illustration",
+      "composition": "Leading Lines Composition",
+      "lighting": "Direct Flash",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Teal and Orange"
+    },
+    "news_inspiration": [],
+    "title": "池畔的凝視",
+    "comment_id": 4917415908,
+    "prompt": "Ornate danmei illustration, rich painterly render of a late-night luxury indoor bath. Leading lines composition with converging perspective lines of a straight bath edge guiding the eye toward the subjects, creating strong directional depth and architectural framing. A handsome, elegant androgynous long-haired young man fresh out of the water is walking and dragging a silk towel across the floor tiles. A black cat on all fours is gracefully walking behind him, intently following the boy and staring directly at the sliding fabric. Harsh direct on-camera flash, raw candid snapshot look, blown-out highlights, hard shadows. Intricate water droplets on skin texture, glistening beads of water clinging to dewy surfaces, fresh wet sheen, reflective micro-highlights, and hydrated luminous detail on the boy's body and the cat's fur. Lavish peacock and gilt ornamentation, intricate jeweled detail, decadent decorative composition. Teal and orange color grading, complementary cinematic palette, warm skin tones against cool blue-green shadows, blockbuster film look, punchy balanced contrast. The date and time '2026-07-08 17:17 UTC' is clearly painted on a decorative tile on the wall. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2413,
+    "idea": "在一幅青橙電影調的華麗耽美插畫中，引導線般的筆直浴池邊緣延伸至盡頭，一隻四腳著地的黑貓正全神貫注地緊跟著剛出水的俊美少年，閃光燈直打的強光完美勾勒出少年與貓身上細緻的晶瑩水珠肌理。",
+    "story": "深夜的奢華室內浴池裡，冷藍的水波與暖橘的華麗燈火交織。剛沐浴完的長髮少年漫不經心地拖曳著絲綢浴巾，一旁的黑貓沿著池畔優雅漫步，目光如炬地盯著那條在地磚上滑動的誘人布料。",
+    "avoid_list": [
+      "溫暖琥珀秋季色調",
+      "移軸微縮攝影效果",
+      "帶白邊的拍立得照片",
+      "35mm底片顆粒抓拍",
+      "檔案館與泛黃羊皮紙",
+      "充氣PVC與膨脹材質",
+      "畫面顯示UTC時間戳記",
+      "伸爪撥弄或試探物品",
+      "將下巴靠在物品上",
+      "滿版頭肩特寫構圖",
+      "古老工坊與木製工作檯",
+      "正上方鳥瞰俯視構圖"
+    ],
+    "inspiration": "original"
   }
 ]
