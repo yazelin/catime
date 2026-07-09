@@ -1,9 +1,11 @@
-const STATIC_CACHE = "catime-static-v8";   // html/css/js/icons — network-first, cache is offline fallback
+const STATIC_CACHE = "catime-static-v9";   // html/css/js/icons — network-first, cache is offline fallback
 const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
-const RAW = "https://raw.githubusercontent.com/yazelin/catime/main/characters/";
-const CATLIST_URL = "https://raw.githubusercontent.com/yazelin/catime/main/catlist.json";
+// Data files are same-origin copies mirrored into docs/ by the hourly workflow —
+// raw.githubusercontent.com 429-throttles anonymous requests (60/hr per IP).
+const CHARACTERS = "characters/";
+const CATLIST_URL = "catlist.json";
 
 // Precache the app shell + latest catlist + character data/avatars on install,
 // so the app + character pages reliably work offline even on first run.
@@ -14,7 +16,7 @@ const CORE = [
   "icon-192.png", "icon-512.png", "apple-touch-icon.png", "favicon-32.png", "favicon.ico",
   CATLIST_URL,
   "avatars/momo.webp", "avatars/captain.webp", "avatars/mochi.webp", "avatars/lingling.webp",
-  RAW + "index.json", RAW + "momo.json", RAW + "captain.json", RAW + "mochi.json", RAW + "lingling.json"
+  CHARACTERS + "index.json", CHARACTERS + "momo.json", CHARACTERS + "captain.json", CHARACTERS + "mochi.json", CHARACTERS + "lingling.json"
 ];
 
 // A cat image = a GitHub Release asset under any "cats" / "cats-YYYY-MM" tag.
@@ -99,6 +101,6 @@ self.addEventListener("fetch", (event) => {
   const cacheable =
     (request.destination === "image" &&
       (ICON_RE.test(url.pathname) || /\/avatars\//.test(url.pathname) || /og-image/.test(url.pathname))) ||
-    url.href.startsWith(RAW);
+    (url.origin === location.origin && /\/characters\/[^/]+\.json$/.test(url.pathname));
   if (cacheable) { event.respondWith(cacheFirst(request, STATIC_CACHE)); return; }
 });

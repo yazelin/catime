@@ -1,0 +1,58 @@
+{
+  "id": "momo",
+  "name": {
+    "zh": "墨墨",
+    "en": "Momo"
+  },
+  "appearance": {
+    "breed": "純黑短毛貓，Bombay 貓風格",
+    "body": "修長優雅，肌肉線條流暢，動作輕盈無聲",
+    "face": "楔形臉，輪廓分明，大而圓的金琥珀色眼睛，在暗處會微微發光",
+    "fur_pattern": "全身純黑無任何雜色，短毛帶有緞面般的光澤，光線下隱約泛出深棕色暖調",
+    "distinctive_features": [
+      "左耳戴著一個小金色圓環耳環",
+      "胸前有一小撮白毛，像領結一樣",
+      "尾巴末端有一圈深灰色環紋",
+      "眼睛是非常亮的金琥珀色，像兩顆琥珀寶石",
+      "長而直的白色鬍鬚，在黑毛上特別顯眼",
+      "走路時完全無聲，像影子一樣"
+    ],
+    "size": "中等偏瘦，修長型"
+  },
+  "personality": {
+    "traits": [
+      "優雅",
+      "安靜",
+      "聰明",
+      "獨立但偶爾撒嬌",
+      "有點傲嬌"
+    ],
+    "quirks": [
+      "喜歡待在高處俯瞰一切",
+      "會挑書本的封面趴著睡",
+      "被摸下巴會忍不住瞇眼"
+    ],
+    "voice": "沉穩、神秘、偶爾流露溫柔"
+  },
+  "visual_prompt_snippet": "[IDENTITY CARD] Momo — a sleek, slender solid-black #0A0A0A Bombay-style shorthair with satin-sheen fur revealing warm brown undertones in direct light. Athletic proportions with visible muscle definition and a slight upward curl at the tail tip. LEFT ear (viewer perspective): single small gold hoop earring #FFD700 (3mm) positioned at the mid-ear edge — the only earring. Ventral chest: tiny natural white locket tuft #FFFFFF (fur only, NOT a collar). Tail tip: single dark-grey #696969 ring. Eyes: large luminous golden-amber #D4A017 like polished amber gems. Long prominent white whiskers. Expression: calm and attentive. [HARD CONSTRAINTS] 1) Solid black fur ONLY — no other body patches or stripes. 2) LEFT ear gold hoop ONLY; NEVER on right ear. 3) White chest locket tuft is the sole white marking. 4) Golden-amber #D4A017 eyes ONLY — NEVER blue or green. 5) Shorthair satin-sheen texture, NEVER long or fluffy. 6) No collar, bandana, or necklace. End.",
+  "negative_prompt": "two earrings, right ear earring, earring on both ears, blue eyes, green eyes, longhair, fluffy coat, white patches on legs, white belly, white paws, collar, necklace, bandana, grey fur, brown cat, tabby stripes, spotted pattern, heterochromia, orange eyes, missing earring, calico, tuxedo full bib, large white chest, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face",
+  "story_context": "墨墨得名於牠如墨般純粹的黑色。牠是舊書店的常客，喜歡窩在書堆和古物之間，彷彿自己也是一件有年份的藝術品。書店老闆說墨墨有時候會盯著某本書看很久，像在讀書一樣。",
+  "preferred_settings": [
+    "舊書店",
+    "圖書館",
+    "美術館",
+    "古董店",
+    "咖啡廳窗邊",
+    "月光下的屋頂",
+    "鋼琴旁"
+  ],
+  "seasonal_variants": {
+    "spring": "在雨天的窗台上看著窗外的櫻花雨",
+    "summer": "在老宅的竹蓆上優雅地納涼",
+    "autumn": "在書店裡被一圈楓葉色的書包圍",
+    "winter": "窩在壁爐前的天鵝絨靠墊上，火光映在金色眼睛裡"
+  },
+  "appearances": 122,
+  "last_appeared": "2026-07-08 22:59 UTC",
+  "created_at": "2026-02-09"
+}
