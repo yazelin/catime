@@ -3175,5 +3175,43 @@
       "仙俠或耽美風格的俊美長髮男子",
       "強調字面意義上四腳著地的貓咪"
     ]
+  },
+  {
+    "character_name": "麻糬",
+    "prompt": "Watercolor mecha-girl illustration, anime heroine fused with mechanical armor parts, sitting on an old island street under construction. Converging perspective lines from the path guide the eye to the center. Beside her, a chubby white shorthair cat with #FF8C00 orange patches: specifically, an orange mask covering the RIGHT half-face (from viewer perspective) while the LEFT face is white, a heart-shaped orange saddle on the dorsal back, a solid orange mitten on the RIGHT front paw, and a white LEFT front paw. The cat is squeezing its round body into a narrow paper box filled with old fishing nets, staring at the fish with large amber eyes. Morandi muted color palette, desaturated soft pastels, dusty grey undertones, warm glowing candlelight, intimate atmosphere, hand-applied shimmering gold foil splatters. Text '2026-07-09 21:10 UTC' displayed in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "美國夏威夷的研究人員正成功嘗試將海洋廢棄塑膠與舊漁網混入柏油中，為這些海洋垃圾賦予了鋪設新馬路的第二生命。",
+    "number": 2425,
+    "avoid_list": [
+      "東京高科技實驗室與溫室場景",
+      "新型有機半導體發光裝置",
+      "星雲宇宙輝光與迷幻光芒",
+      "貓咪伸爪拍打或撥弄微小物品",
+      "緋紅與烏黑的強烈對比色調",
+      "電影級體積光與戲劇性陰影",
+      "月夜靛藍與深紫色的深夜色調",
+      "表面散發的藍綠色生物發光",
+      "亮面塑膠玩具般的平滑反光質感",
+      "帶有明顯節點的自然木紋肌理",
+      "冷冽的藍青色調濾鏡",
+      "強制畫面嵌入UTC精確時間標籤"
+    ],
+    "style_picks": {
+      "art_style": "Watercolor Mecha-Girl Illustration",
+      "composition": "Leading Lines Composition",
+      "lighting": "Candlelight",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "海島老街正用廢棄漁網與塑膠鋪設新路，機娘少女趁空檔在路邊生起微弱燭火烤魚。貪吃的麻糬聞香而來，帶著橘色手套般的右前腳奮力踏進裝漁網的窄箱裡，雙眼放大死盯著烤魚，肚子還微微晃動著。",
+    "news_inspiration": [
+      "一年一度的「世界聖誕老人大會」在盛夏的丹麥奧爾堡舉行，來自世界各地的聖誕老人與精靈齊聚一堂慶祝這個充滿歡樂的傳統。",
+      "一隻重達一噸、名為尼爾的南象鼻海豹最近回到了牠在澳洲塔斯馬尼亞的海岸出生地，在當地引起了民眾與官員的熱烈關注。",
+      "阿根廷布宜諾斯艾利斯的一名遛狗員為他的13隻小狗穿上國家隊球衣，讓這群萌寵成為當地廣受歡迎的世界盃足球賽球迷。",
+      "美國夏威夷的研究人員正成功嘗試將海洋廢棄塑膠與舊漁網混入柏油中，為這些海洋垃圾賦予了鋪設新馬路的第二生命。"
+    ],
+    "character": "mochi",
+    "comment_id": 4929609148,
+    "title": "老街燭光下的貪吃貓",
+    "idea": "以莫蘭迪色調的機娘水彩插畫呈現，沿著修補中的海島老街形成引導線構圖，機娘少女在燭光下烤魚，而胖貓麻糬正將圓滾滾的身軀塞進裝著舊漁網的窄紙箱中，畫面點綴著金箔潑點肌理。"
   }
 ]
