@@ -112,7 +112,7 @@
       if (!bar) return;
       var params = new URLSearchParams(window.location.search);
       var currentId = params.get('id') || '';
-      fetch('https://raw.githubusercontent.com/yazelin/catime/main/characters/index.json').then(function(r){ return r.json(); }).then(function(idx){
+      fetch('characters/index.json').then(function(r){ return r.json(); }).then(function(idx){
         var chars = (idx.characters || []).filter(function(c){ return c.enabled; });
         // build anchors synchronously in index order (fixed order), fill names async
         chars.forEach(function(c){
@@ -122,7 +122,7 @@
           a.innerHTML = '<span class="char-avatar"><img src="avatars/' + c.id + '.webp" alt="' + c.id + '" width="40" height="40" loading="lazy"></span>' +
             '<span class="char-bar-name">' + c.id + '</span>';
           bar.appendChild(a);
-          fetch('https://raw.githubusercontent.com/yazelin/catime/main/characters/' + c.file).then(function(r){ return r.json(); }).then(function(data){
+          fetch('characters/' + c.file).then(function(r){ return r.json(); }).then(function(data){
             var nm = (data.name ? data.name.zh : data.id);
             var lbl = a.querySelector('.char-bar-name'); if (lbl) lbl.textContent = nm;
             var img = a.querySelector('img'); if (img) img.alt = nm;

@@ -5,6 +5,7 @@ import json
 import os
 import random
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -1236,7 +1237,15 @@ def update_catlist_and_push(entry: dict) -> int:
     cats.append(index_entry)
     atomic_write_json(catlist_path, cats)
 
-    git_add_files = ["catlist.json"]
+    # Mirror data files into docs/ so GitHub Pages serves them same-origin —
+    # anonymous raw.githubusercontent.com requests get 429-throttled (60/hr per IP).
+    def mirror_to_docs(src: Path) -> str:
+        dst = Path("docs") / src
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(src, dst)
+        return str(dst)
+
+    git_add_files = ["catlist.json", mirror_to_docs(catlist_path)]
 
     # Write detail entry to monthly file (only for successful cats with detail data)
     has_detail = any(entry.get(k) for k in detail_fields if k != "number")
@@ -1250,6 +1259,7 @@ def update_catlist_and_push(entry: dict) -> int:
         monthly.append(detail_entry)
         atomic_write_json(month_path, monthly)
         git_add_files.append(str(month_path))
+        git_add_files.append(mirror_to_docs(month_path))
 
     subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
     subprocess.run(
@@ -1264,6 +1274,7 @@ def update_catlist_and_push(entry: dict) -> int:
     if char_dir.exists():
         for f in char_dir.glob("*.json"):
             git_add_files.append(str(f))
+            git_add_files.append(mirror_to_docs(f))
     subprocess.run(["git", "add"] + git_add_files, check=True)
 
     status = entry["status"]

@@ -1,0 +1,55 @@
+{
+  "id": "mochi",
+  "name": {
+    "zh": "麻糬",
+    "en": "Mochi"
+  },
+  "appearance": {
+    "breed": "橘白色短毛家貓",
+    "body": "圓滾滾的身型，明顯偏胖，四肢短而粗，像一顆花生麻糬",
+    "face": "扁圓臉，大圓眼，琥珀色瞳孔，表情永遠帶著一點呆萌",
+    "fur_pattern": "白底為主，右半邊臉到右耳是橘色斑，背部有心型/花生型橘色斑塊。肚子全白，尾巴橘白相間環狀紋路",
+    "distinctive_features": [
+      "鼻頭是粉紅色的，中間有一小點橘色",
+      "右前腳整隻是橘色（像戴了一隻手套）",
+      "耳朵內側是淡粉色",
+      "走路時肚子會微微晃動"
+    ],
+    "size": "中等偏胖，圓球體型"
+  },
+  "personality": {
+    "traits": [
+      "好奇",
+      "貪吃",
+      "慵懶但偶爾爆發活力",
+      "親人"
+    ],
+    "quirks": [
+      "看到食物眼睛會放大兩倍",
+      "喜歡鑽進剛好塞得下的箱子和袋子",
+      "吃飽會瞇眼打呼"
+    ],
+    "voice": "溫暖、呆萌、有點傻"
+  },
+  "visual_prompt_snippet": "[IDENTITY CARD] Mochi — chubby rounded shorthair with a white #FFFFFF base coat and bright orange #FF8C00 patches. RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Dorsal: heart-shaped orange #FF8C00 saddle centered on the upper back. RIGHT front paw: solid orange #FF8C00 mitten to the wrist. LEFT front paw: pure white #FFFFFF. Eyes: large round amber #FFBF00. Nose: pink #FFB6C1 with a tiny orange center dot. Tail: orange-and-white ringed bands. Body: short stubby legs and spherical torso. [HARD CONSTRAINTS] 1) RIGHT half-face orange mask ONLY — LEFT face MUST be white. 2) Heart-shaped orange saddle present on dorsal back. 3) RIGHT front paw orange mitten, LEFT front paw white — NEVER reversed. 4) White belly ALWAYS. 5) Amber #FFBF00 eyes ONLY — NEVER blue or green. 6) Shorthair ONLY — NEVER fluffy or long. 7) Orange patches solid — NO tabby stripes within patches. End.",
+  "negative_prompt": "left face orange, left paw orange, fully orange cat, tabby stripes, striped markings, mackerel pattern, longhair, fluffy coat, orange belly, both paws orange, both paws white, missing back patch, no heart saddle, slender build, skinny cat, green eyes, blue eyes, symmetrical face markings, even face split, grey patches, black patches, calico tricolor, tortoiseshell, missing nose dot, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face",
+  "story_context": "麻糬是一隻住在老街市場裡的橘白貓，名字來自牠圓滾滾像麻糬的身型和橘白配色像撒了花生粉。最愛在各個攤位間巡邏「試吃」，老闆們又愛又恨，但誰也捨不得趕走這顆會走路的麻糬。",
+  "preferred_settings": [
+    "傳統市場",
+    "夜市",
+    "街邊小吃攤",
+    "老街巷弄",
+    "廚房",
+    "麵包店",
+    "便利商店"
+  ],
+  "seasonal_variants": {
+    "spring": "戴著花環，在櫻花樹下野餐",
+    "summer": "穿著迷你浮水衣，在海邊吃西瓜",
+    "autumn": "圍著格紋圍巾，在烤番薯攤旁取暖",
+    "winter": "窩在暖桌裡只露出頭，旁邊放著年糕"
+  },
+  "appearances": 128,
+  "last_appeared": "2026-07-08 10:05 UTC",
+  "created_at": "2026-02-09"
+}

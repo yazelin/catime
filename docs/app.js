@@ -1,6 +1,8 @@
 (function () {
-  const CATLIST_URL = "https://raw.githubusercontent.com/yazelin/catime/main/catlist.json";
-  const CATS_BASE_URL = "https://raw.githubusercontent.com/yazelin/catime/main/cats/";
+  // Same-origin copies mirrored into docs/ by the hourly workflow —
+  // raw.githubusercontent.com 429-throttles anonymous requests (60/hr per IP).
+  const CATLIST_URL = "catlist.json";
+  const CATS_BASE_URL = "cats/";
   const LIKES_URL = "likes.json";
   const COMMENT_MAP_URL = "comment_map.json";
   const PAGE_SIZE = 20;
