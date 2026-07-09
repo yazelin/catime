@@ -3041,5 +3041,40 @@
     ],
     "number": 2420,
     "title": "拾荒貓與機器人"
+  },
+  {
+    "news_inspiration": [
+      "荷蘭鹿特丹的博伊曼斯·范伯寧恩美術館為了向已故藝術家致敬，在地板上塗滿花生醬來重現經典且奇特的「花生醬地板」藝術品。",
+      "阿根廷布宜諾斯艾利斯的一名遛狗員發揮創意，為他照顧的 13 隻狗狗全都穿上國家隊球衣，組成街頭最萌的世界盃足球賽應援團。",
+      "美國夏威夷的研究人員成功將海洋中的廢棄塑膠與舊漁網混入柏油中，打造出既耐用又不會釋放微塑膠的環保綠色公路。",
+      "韓國大田市的韓國科學技術院（KAIST）研究團隊發表了一項醫療創舉，他們研發的新型噴霧粉末能在一秒內形成凝膠，迅速止住嚴重的傷口出血。"
+    ],
+    "idea": "以剪影藝術與滿版特寫呈現，一隻貓咪正低頭仔細嗅聞夏威夷海岸邊一條由廢棄漁網與塑膠鋪設而成的環保公路。在月夜靛藍的色調下，路面散發著幽微的生物發光，而貓咪的暗色輪廓邊緣則透出黏土與陶瓷般的獨特反光質感。",
+    "number": 2421,
+    "avoid_list": [
+      "帶有精確 UTC 時間的文字標籤",
+      "貓伸爪拍打或撥弄特定物件",
+      "散發星雲輝光的有機半導體裝置",
+      "厚塗油彩肌理與立體刮刀筆觸",
+      "肌膚上細緻的晶瑩水珠特寫",
+      "青橙電影色調與對比配置",
+      "閃光亮粉特效與星星形狀高光",
+      "柔和漫射自然光與無強烈陰影",
+      "東京的高科技實驗室或溫室場景",
+      "仙俠或耽美風格的俊美長髮男子",
+      "強調字面意義上四腳著地的貓咪"
+    ],
+    "inspiration": "美國夏威夷的研究人員成功將海洋中的廢棄塑膠與舊漁網混入柏油中，打造出既耐用又不會釋放微塑膠的環保綠色公路。",
+    "title": "螢海公路巡禮",
+    "comment_id": 4924719227,
+    "story": "深夜的海岸公路上，一隻流浪貓正沿著這條由海洋廢棄物重生的奇妙道路漫步。牠停下腳步，專注地嗅著那些嵌入柏油中、閃爍著如深海浮游生物般幽光的紋理。這片靜謐的月光下，貓咪的剪影與發光的環保路面交織出神秘的夜曲。",
+    "prompt": "Silhouette art, full-bleed frame-filling composition, dense edge-to-edge detail. A close-up, dramatic profile outline of a cat looking down, carefully sniffing an eco-friendly Hawaiian coastal highway paved with discarded fishing nets and plastic. The glowing road clearly displays the text '2026-07-09 11:43 UTC'. Moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights. Bioluminescent lighting emanates from the road with a deep blue-green radiance and organic glow. The cat appears as a solid black shape but features a sculpted clay texture and handmade ceramic feel on its edges, catching the ethereal natural light. Stark graphic composition, mysterious nocturnal mood, no empty margin. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Bioluminescence",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Moonlit Indigo"
+    }
   }
 ]
