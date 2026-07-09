@@ -3076,5 +3076,37 @@
       "texture": "Clay / Ceramic",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "avoid_list": [
+      "帶有精確 UTC 時間的文字標籤",
+      "貓伸爪拍打或撥弄特定物件",
+      "散發星雲輝光的有機半導體裝置",
+      "厚塗油彩肌理與立體刮刀筆觸",
+      "肌膚上細緻的晶瑩水珠特寫",
+      "青橙電影色調與對比配置",
+      "閃光亮粉特效與星星形狀高光",
+      "柔和漫射自然光與無強烈陰影",
+      "東京的高科技實驗室或溫室場景",
+      "仙俠或耽美風格的俊美長髮男子",
+      "強調字面意義上四腳著地的貓咪"
+    ],
+    "news_inspiration": [],
+    "title": "薄荷甜點的驚嚇",
+    "character_name": "鈴鈴",
+    "inspiration": "original",
+    "number": 2422,
+    "comment_id": 4926151994,
+    "style_picks": {
+      "art_style": "Gacha Game Character Art",
+      "composition": "Orthographic Projection",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "character": "lingling",
+    "story": "鈴鈴被桌上那杯裝在亮晶晶藍色玻璃杯裡的薄荷冰淇淋吸引，好奇地湊上前嗅了嗅。冰涼刺鼻的香氣讓她瞬間打了個大噴嚏，整團毛茸茸的白色身體宛如棉花糖般往後彈起，跌進一旁的藍色木籃裡發出清脆鈴聲。",
+    "idea": "採用正交投影與手遊立繪風格，在高調明亮光的照射下，一間充滿藍青色木紋質感的甜點店陽台上，蓬鬆如棉花糖的白貓鈴鈴正因為偷聞薄荷冰淇淋而打噴嚏往後彈飛。",
+    "prompt": "Gacha game promotional character illustration, polished anime style, commercial game key art quality. Orthographic projection, no perspective distortion, straight-on flat rendering, technical illustration style. A dessert shop balcony featuring natural wood grain texture with visible knots and lines, colored in a cool blue-teal color grading with icy undertones. High-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere, dreamy pastel mood. A literal four-legged cat named Lingling, extremely fluffy pure white longhair with voluminous cloud-like fur, small round face, huge round sapphire-blue eyes with gentle sparkle, pale pink nose and inner ears, enormous feathery white plume tail, and pink paw pads. She is wearing a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. Dynamic expressive pose: Lingling is sneezing and bouncing backward like a marshmallow, falling toward a blue wooden basket, reacting to sniffing a sparkling blue glass cup filled with mint ice cream on a table. Vibrant saturated colors, smooth cel shading, sparkle and glow effects. A decorative wooden sign in the scene clearly displays the exact text '2026-07-09 14:27 UTC' and '薄荷冰淇淋' in Traditional Chinese. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
