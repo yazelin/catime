@@ -9,19 +9,38 @@ from pathlib import Path
 
 from catime.utils.http import safe_get_json
 
-CATLIST_URL = "https://raw.githubusercontent.com/{repo}/main/catlist.json"
-DETAIL_URL = "https://raw.githubusercontent.com/{repo}/main/cats/{month}.json"
+# Data files are served by GitHub Pages (no anonymous rate limit);
+# raw.githubusercontent.com (429-throttled at 60 req/hr/IP) stays as
+# fallback for forks without Pages enabled.
+PAGES_CATLIST_URL = "https://{owner}.github.io/{name}/catlist.json"
+PAGES_DETAIL_URL = "https://{owner}.github.io/{name}/cats/{month}.json"
+RAW_CATLIST_URL = "https://raw.githubusercontent.com/{repo}/main/catlist.json"
+RAW_DETAIL_URL = "https://raw.githubusercontent.com/{repo}/main/cats/{month}.json"
 DEFAULT_REPO = "yazelin/catime"
 
 _detail_cache: dict[str, list[dict]] = {}
 
 
-def fetch_catlist(repo: str) -> list[dict]:
-    url = CATLIST_URL.format(repo=repo)
+def _pages_urls(repo: str, template: str, **kwargs) -> str:
+    owner, name = repo.split("/", 1)
+    return template.format(owner=owner, name=name, **kwargs)
+
+
+def _fetch_json_with_fallback(pages_url: str, raw_url: str):
     try:
-        return safe_get_json(url, timeout=10.0, max_retries=3, follow_redirects=True)
+        result = safe_get_json(pages_url, timeout=10.0, max_retries=1, follow_redirects=True)
+        if result is not None:
+            return result
     except Exception:
-        raise
+        pass
+    return safe_get_json(raw_url, timeout=10.0, max_retries=3, follow_redirects=True)
+
+
+def fetch_catlist(repo: str) -> list[dict]:
+    return _fetch_json_with_fallback(
+        _pages_urls(repo, PAGES_CATLIST_URL),
+        RAW_CATLIST_URL.format(repo=repo),
+    )
 
 
 def fetch_detail(month: str, *, repo: str = DEFAULT_REPO, local: bool = False) -> list[dict]:
@@ -35,12 +54,12 @@ def fetch_detail(month: str, *, repo: str = DEFAULT_REPO, local: bool = False) -
             details = json.loads(p.read_text())
     else:
         try:
-            try:
-                result = safe_get_json(DETAIL_URL.format(repo=repo, month=month), timeout=10.0, max_retries=3, follow_redirects=True)
-                if result is not None:
-                    details = result
-            except Exception:
-                pass
+            result = _fetch_json_with_fallback(
+                _pages_urls(repo, PAGES_DETAIL_URL, month=month),
+                RAW_DETAIL_URL.format(repo=repo, month=month),
+            )
+            if result is not None:
+                details = result
         except Exception:
             pass
     _detail_cache[month] = details
