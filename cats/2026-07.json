@@ -2942,5 +2942,40 @@
       "在日本東京，科學研究團隊成功開發出一款新型有機半導體設備，該設備能夠同時利用光能發電並發出明亮的可見光。"
     ],
     "title": "星雲溫室的守望"
+  },
+  {
+    "story": "暴雨洗刷著古老的殘破劍亭，電影般的暗影勾勒出男子佈滿水珠的臉龐與鎖骨。一隻在此避雨的黑貓對男子下巴滴落的雨水產生了濃厚興趣，不斷在石桌上跳躍揮掌，為肅殺的氛圍帶來一絲奇異的生機。",
+    "prompt": "Semi-realistic anime render, otome game key art illustration. A handsome white-haired immortal swordsman with refined bishounen features and flowing robes. Water droplets on skin texture, glistening beads of water clinging to his dewy surface, fresh wet sheen, reflective micro-highlights, hydrated luminous detail. A realistic black cat is actively reaching its paw up, intently batting at the water droplets falling from the man's wet chin. Mucha-style arched frame composition, the figure enclosed in an ornamental rounded arch of interwoven crimson spider lilies and black vines, symmetrical Art Nouveau panel framing, integrated floral motifs, decorative border halo. The exact text '2026-07-09 00:08 UTC' is clearly displayed on a stone tablet integrated into the bottom of the border frame. Crimson and black palette, deep blood-red against jet black, dramatic high-contrast intensity, seductive sinister mood. Cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, film-quality mood. Xianxia male character standee design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "明確的UTC時間戳記與文字限制",
+      "青橙電影色調與強烈對比",
+      "移軸微縮攝影與選擇性對焦",
+      "閃光燈直打與過曝生硬陰影",
+      "溫暖琥珀色與秋日復古色調",
+      "啃咬或嗅聞特定物品的動作",
+      "臉部填滿畫面的頭肩特寫",
+      "強調四腳著地的具象貓咪",
+      "復古工坊與充滿歷史感的空間",
+      "溫暖發光體與冷色調陰影的碰撞"
+    ],
+    "idea": "結合仙俠郎君立繪與穆夏式拱框構圖，在緋紅彼岸花與烏黑藤蔓交織的拱門下，一隻真實的黑貓正伸出爪子，專注地拍打著修仙男子濕潤肌膚上滑落的水珠。",
+    "inspiration": "original",
+    "number": 2418,
+    "comment_id": 4920303782,
+    "news_inspiration": [
+      "在美國紐約，大胃王喬伊·切斯納特於著名的國慶日吃熱狗大賽中，以吃下66個熱狗的驚人成績再次奪下冠軍。",
+      "在義大利卡利亞里，聯合國教科文組織與Luna Rossa帆船隊攜手設立了沉浸式的「海洋與氣候村」，藉由頂尖帆船賽事推廣全球海洋保育意識。",
+      "在澳洲塔斯馬尼亞，一隻重達一噸、名為「尼爾」的南象鼻海豹因為在街頭遊蕩並調皮地壓壞路柱，成為備受當地民眾與網友喜愛的奇特動物明星。",
+      "在墨西哥的墨西哥城，一隻名叫「梅林」的寵物鴨穿著國家隊足球衣，不僅化身為超人氣的足球吉祥物，還可愛地出席了總統的例行記者會。",
+      "在日本東京，英國運動科學營養品牌「Science in Sport」宣布正式進軍日本市場，將結合三十年的運動科學數據來協助提升當地馬拉松與耐力運動員的表現。"
+    ],
+    "title": "緋紅雨亭戲水貓",
+    "style_picks": {
+      "art_style": "Xianxia Male Character Art",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Crimson and Black"
+    }
   }
 ]
