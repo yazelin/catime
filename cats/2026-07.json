@@ -3518,5 +3518,41 @@
     "character_name": "船長",
     "number": 2434,
     "idea": "採用巨人尺寸合成藝術與貼紙拼貼邊框構圖，戴著褪色紅頭巾、體型如巨獸般的獨眼虎斑貓「船長」蹲踞在生鏽破舊的室內魚市場鐵皮屋頂上，在冷冽螢光燈與霓虹色彩交織中，伸出巨大的白手套貓掌撥弄著下方吊車運送的巨型發光珊瑚。"
+  },
+  {
+    "story": "夜市的熱狗大胃王比賽即將開始，老闆卻發現備餐區的熱狗不翼而飛。原來貪吃的麻糬早就把自己胖嘟嘟的身體完美卡進金屬方盤中，右手的「橘色手套」還護著戰利品，準備挑戰一口氣吞噬六十六根熱狗的偉業。",
+    "prompt": "Cubism art illustration blending analytical decomposition with a raw candid snapshot look. Bird's-eye view, top-down perspective, looking straight down at a miniature world effect. A spherical, chubby shorthair literal four-legged cat tightly squeezed into a narrow metallic food tray with brushed or polished metal, sharp reflections, and an industrial premium feel at a night market. An LED display in the tray shows the text '2026-07-10 21:50 UTC'. The cat is frantically eating piles of hot dogs, with its right front paw guarding the food. The cat has a white base coat and solid bright orange patches. The viewer's RIGHT half of the cat's face features an orange mask covering the right cheek and right ear, while the LEFT half of the face is pure white. The cat has a pink nose with a tiny orange center dot, large round amber eyes, and a heart-shaped orange saddle patch on its upper back. The cat's RIGHT front paw is a solid orange mitten, and its LEFT front paw is pure white. It has a white belly, an orange-and-white ringed tail, and short stubby legs. No tabby stripes, no human features. The scene is illuminated by harsh direct on-camera flash, blown-out highlights, and hard shadows. The environment and background feature a bamboo jade-green palette, fresh emerald and malachite tones, cool verdant serenity, and elegant oriental green harmony, composed of geometric fragmented forms, multiple simultaneous perspectives, and abstract angular planes. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4939834936,
+    "number": 2435,
+    "idea": "運用立體主義的幾何切割手法與竹影翠綠色調，以鳥瞰視角和閃光燈直打的強烈光影，描繪圓滾滾的麻糬貓把自己硬塞進夜市攤位狹小的金屬餐盤裡，睜大琥珀色雙眼狂吞準備用來比賽的熱狗。",
+    "character_name": "麻糬",
+    "avoid_list": [
+      "透明樹脂材質",
+      "粉綠青霓虹螢光色",
+      "配色條邊框設計",
+      "黑金奢華配色",
+      "伸出前爪拍打物品",
+      "頂部強烈日光燈照明",
+      "寫實抓拍風格",
+      "強調四腳著地的貓",
+      "金屬描金與金箔裝飾",
+      "精確的UTC時間標籤"
+    ],
+    "news_inspiration": [
+      "在美國紐約，知名大胃王喬伊·切斯納（Joey Chestnut）於布魯克林舉辦的國慶日吃熱狗大賽中，以10分鐘吞下66個熱狗的驚人成績再度奪下2026年冠軍。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員為他照顧的13隻狗狗全數穿上阿根廷國家足球隊的球衣，讓這群在街頭散步的毛小孩瞬間成為當地明星。",
+      "在澳洲塔斯馬尼亞，一隻體重高達1000公斤的南象鼻海豹「尼爾（Neil）」重返海岸出生地，並因為喜歡在街頭與交通柱摩擦撒嬌而引起民眾熱烈關注。",
+      "在英國倫敦，23歲的網球小將亞瑟·費利（Arthur Fery）以外卡身份在溫布頓網球錦標賽中一路過關斬將，成為25年來首位闖入大滿貫男單四強的外卡黑馬。"
+    ],
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Metallic Surface",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "character": "mochi",
+    "inspiration": "在美國紐約，知名大胃王喬伊·切斯納（Joey Chestnut）於布魯克林舉辦的國慶日吃熱狗大賽中，以10分鐘吞下66個熱狗的驚人成績再度奪下2026年冠軍。",
+    "title": "鐵盤裡的盛宴"
   }
 ]
