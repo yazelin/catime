@@ -3445,5 +3445,41 @@
     "inspiration": "original",
     "idea": "以高飽和鮮豔色彩的手機隨拍風格呈現，在日光燈強烈照射的巨型夾娃娃機店內，渺小的白毛布偶貓鈴鈴正踮著腳趴在玻璃上，試圖捕捉機台內閃閃發光的粉色玩具，玻璃面上反射出機台螢幕的透明網格線框。",
     "story": "花店打烊後，鈴鈴跟著閃亮的燈光溜進了巨大的深夜遊樂場。她像一團純白的棉花糖般貼在色彩極度鮮豔的巨大機台前，湛藍的星星眼緊盯著裡面亮晶晶的獎品。正當她用粉紅肉球努力拍打玻璃時，上方的螢光燈管突然發出滋滋聲，嚇得她連著清脆的鈴鐺聲瞬間往後彈跳開來。"
+  },
+  {
+    "news_inspiration": [
+      "在美國科羅拉多州，一隻名叫金迪（Goldie）的山羊連續兩天陪伴著消防員撲滅野火，為前線人員提供了暖心的精神支持。",
+      "在巴西里約熱內盧，近期沿海座頭鯨的目擊次數大幅激增，進而帶動了當地賞鯨觀光行程的熱烈需求。",
+      "在克羅埃西亞，一匹剛滿月的小馬搬進了一棟公寓的四樓與人類同住，而周遭鄰居對這位奇特的新住客不僅毫不介意，還覺得十分有趣。",
+      "在墨西哥首都墨西哥城，一隻名叫梅林（Merlin）的街頭常客鴨子，搖身一變成為了備受當地民眾喜愛的世界盃足球賽吉祥物。",
+      "在中國，科學家最新發現了一種長有四個翅膀的有羽毛恐龍化石，這項重大的科學發現有望解開史前鳥類遭掠食的謎團。"
+    ],
+    "prompt": "A casual candid photograph, point-and-shoot camera aesthetic with direct flash and slightly overexposed highlights. A tabby cat resting on a translucent resin coffee table with glossy smooth surface and amber-like clarity showing embedded elements inside, reaching out its front paw to touch the nose of a one-month-old foal. A digital camera timestamp text reading '2026-07-10 18:15 UTC' is clearly printed in the corner. In the background of the apartment living room, an illuminated arch-shaped bookshelf creates a Mucha-style arched frame composition, enclosing the subjects in an ornamental rounded arch with a decorative border halo and symmetrical Art Nouveau panel framing with integrated floral motifs. The lighting is dramatic chiaroscuro featuring Rembrandt lighting, a single light source at 45 degrees creating a signature triangle of light on shadowed cheeks, contrasting with neon fluorescent colors of electric pink, lime green, and hot cyan glowing against the dark background from the window. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "亮面塑膠玩具反光質感",
+      "復古褪色與低對比色調",
+      "維梅爾式側邊柔和窗光",
+      "垂直配色條邊框構圖",
+      "金黑奢華金屬色系",
+      "高調明亮無影過曝打光",
+      "立體刺繡與布料紋理",
+      "帶有節點的自然木紋",
+      "貓咪與金屬機器人的互動",
+      "海岸或海邊廢棄物背景",
+      "35mm鏡頭淺景深攝影"
+    ],
+    "inspiration": "在克羅埃西亞，一匹剛滿月的小馬搬進了一棟公寓的四樓與人類同住，而周遭鄰居對這位奇特的新住客不僅毫不介意，還覺得十分有趣。",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "這棟克羅埃西亞的四樓公寓迎來了一匹剛滿月的小馬，讓原本的貓咪住客既困惑又好奇。當小馬笨拙地靠近茶几時，貓咪忍不住伸出肉墊輕拍對方溫熱的鼻頭。這充滿反差的跨物種同居瞬間，被主人用數位相機真實地記錄下來。",
+    "comment_id": 4938283499,
+    "idea": "以IXUS消費相機的寫實風格拍攝，一隻斑貓正趴在公寓客廳的透明樹脂茶几上，好奇地伸出前爪觸碰一匹滿月小馬的鼻子。背景的發光拱門造型書架形成穆夏式拱框構圖，斜角閃光與窗外透入的霓虹螢光色交織出深邃的倫勃朗光影。",
+    "title": "霓虹公寓的碰鼻",
+    "number": 2433
   }
 ]
