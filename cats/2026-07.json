@@ -3583,5 +3583,34 @@
       "精確的UTC時間標籤"
     ],
     "comment_id": 4940156973
+  },
+  {
+    "number": 2437,
+    "title": "燭光下的航圖",
+    "idea": "運用抽象表現主義的狂野筆觸與中國紅金色彩，描繪一隻仰躺在古老燈塔內的貓咪正用牙齒輕咬著航海圖，畫面以一隻穿著膨脹絎縫羽絨衣的人類手臂從邊緣強制透視伸出為前景，在搖曳燭光下呈現奇幻氛圍。",
+    "avoid_list": [
+      "透明樹脂材質",
+      "粉綠青霓虹螢光色",
+      "配色條邊框設計",
+      "黑金奢華配色",
+      "伸出前爪拍打物品",
+      "頂部強烈日光燈照明",
+      "寫實抓拍風格",
+      "強調四腳著地的貓",
+      "金屬描金與金箔裝飾",
+      "精確的UTC時間標籤"
+    ],
+    "prompt": "Abstract Expressionism painting, high contrast gestural brushwork, large bold color fields, spontaneous raw emotional intensity. Inside an ancient lighthouse, a lazy orange cat is lying on its back, gently biting a nautical chart. The nautical chart clearly displays the text '2026-07-10 23:45 UTC'. Forced perspective composition, a human arm thrust toward camera from the edge with exaggerated foreshortening and dynamic confrontational framing. The arm is wearing a puffy quilted down jacket featuring soft bulging stitched channels, inflated padded segments, and a glossy plump air-filled volume surface. Candlelight illuminates the scene, casting a warm orange flickering glow, intimate atmosphere, and soft dancing shadows. The artwork features a festive red and gold palette, auspicious Chinese red dominance with bright gold accents, creating celebratory warmth and lucky vivid contrast. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Candlelight",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 4940474542,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "story": "暴風雨的夜晚，燈塔守護者點燃僅存的蠟燭，伸出厚重羽絨包裹的手臂想取回海圖。沒想到慵懶仰躺的橘貓搶先一步，將海圖緊緊咬住不放。抽象的紅金光影在牆上狂舞，彷彿預示著一場未知的壯麗航行。"
   }
 ]
