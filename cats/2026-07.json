@@ -3413,5 +3413,37 @@
     "news_inspiration": [],
     "prompt": "Perfectly isometric photography of a contemporary museum gallery installation view, real captured photo with isometric angle, 35mm lens, f/8, sharp focus, no miniature effect. A black cat on all fours is curiously batting its front paw at a monumental translucent resin sculpture that dominates the space. Tiny human gallery workers stand nearby for scale contrast. The gallery features polished wooden floors, track lighting, and clean white walls. On one of the clean white walls, a clear exhibition sign prominently displays the text '2026-07-10 13:54 UTC'. The sculpture is made of translucent resin material with amber-like clarity, a glossy smooth surface, and embedded elements visible inside, radiating neon fluorescent colors of electric pink, lime green, and hot cyan glowing against a dark background. The entire space is illuminated by underwater caustic lighting, creating a submerged dreamlike atmosphere with rippling light patterns dancing over the subject, blue-green aquatic glow, and refracted sun shafts through water. Candid shot, realistic photographic lighting, architectural photography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "以等距攝影視角俯瞰的美術館展場中，一隻四腳著地的黑貓正伸出前掌，好奇地拍打著散發霓虹螢光色的透明樹脂雕塑，整個空間籠罩在波光粼粼的水下焦散光影之中。"
+  },
+  {
+    "character": "lingling",
+    "prompt": "Smartphone snapshot, candid shot, casual composition, authentic everyday moment, high saturation vivid colors, bold vibrant hues, energetic palette. A tiny literal four-legged extremely fluffy pure white longhair cat dwarfed by a vast structure, creating dramatic size contrast, lonely epic framing, and awe of monumental scale. The literal cat has voluminous cloud-like pure white fur, a small round face, huge round sapphire-blue eyes, a pale pink nose, pale pink inner ears, and wears a pink ribbon bow collar with a clearly visible, centered small golden bell. The cat is standing on its hind legs on tiptoes, stretching up with its pink paw pads pressed against the glass of a colossal, brightly colored claw machine arcade game, staring intently at glowing pink toys inside. Overhead fluorescent lighting, neutral white 5000K, institutional flat illumination, no shadows. The glass reflects a wireframe overlay texture, translucent technical grid, and glowing geometric mesh lines, giving a futuristic see-through structure and digital blueprint feel. A digital text timestamp clearly reading '2026-07-10 16:12 UTC' is visually displayed on the image. Shot with a 24mm mobile lens, f/1.8 aperture, natural everyday exposure, realistic photography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "機台前的棉花糖",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Wireframe Overlay",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 4937307195,
+    "avoid_list": [
+      "亮面塑膠玩具反光質感",
+      "復古褪色與低對比色調",
+      "維梅爾式側邊柔和窗光",
+      "垂直配色條邊框構圖",
+      "金黑奢華金屬色系",
+      "高調明亮無影過曝打光",
+      "立體刺繡與布料紋理",
+      "帶有節點的自然木紋",
+      "貓咪與金屬機器人的互動",
+      "海岸或海邊廢棄物背景",
+      "35mm鏡頭淺景深攝影"
+    ],
+    "number": 2432,
+    "character_name": "鈴鈴",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "idea": "以高飽和鮮豔色彩的手機隨拍風格呈現，在日光燈強烈照射的巨型夾娃娃機店內，渺小的白毛布偶貓鈴鈴正踮著腳趴在玻璃上，試圖捕捉機台內閃閃發光的粉色玩具，玻璃面上反射出機台螢幕的透明網格線框。",
+    "story": "花店打烊後，鈴鈴跟著閃亮的燈光溜進了巨大的深夜遊樂場。她像一團純白的棉花糖般貼在色彩極度鮮豔的巨大機台前，湛藍的星星眼緊盯著裡面亮晶晶的獎品。正當她用粉紅肉球努力拍打玻璃時，上方的螢光燈管突然發出滋滋聲，嚇得她連著清脆的鈴鐺聲瞬間往後彈跳開來。"
   }
 ]
