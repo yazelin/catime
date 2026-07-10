@@ -3249,5 +3249,42 @@
     "idea": "在復古旗袍寫真的寫實攝影風格下，一隻四足黑貓正趴在老式裁縫舖的工作桌上，專心地啃咬著一條金色的皮尺。畫面呈現金色與黑色奢華的色調，並融合了配色條邊框的構圖設計。",
     "prompt": "Vintage qipao portrait photography presented in a portfolio presentation format, design moodboard aesthetic. A four-legged black cat is lying on a vintage tailor's work table, intently chewing on a golden measuring tape. In the out-of-focus background, an elegant woman in a cheongsam with three-dimensional floral appliqué texture, sculpted raised flowers applied to the surface, layered petal relief, and ornate dimensional bloom decoration is busy working. Retro Shanghai mood, ornate interior, fine fabric detail. The scene is illuminated by backlighting with rim light, creating glowing silhouette edges where the cat is outlined by light in a dramatic, opulent mood. Gold and black color scheme, luxurious metallic gold accents, deep black background, warm nostalgic tones, cinematic styling. A prominent sign on the table clearly displays the text '2026-07-09 23:00 UTC'. Photographed with a 35mm lens, f/1.8, candid shot, shallow depth of field focusing on the cat. The entire photograph is formatted like an illustration framed by vertical color palette swatch bars on both sides, stacked color blocks revealing the work's palette, Korean illustrator signature layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "裁縫舖的金邊"
+  },
+  {
+    "title": "午後金屬文獻之夢",
+    "number": 2427,
+    "prompt": "Atompunk illustration, retro-futuristic atomic age aesthetics. Centered subject composition, single focal point dead center, balanced symmetrical framing, direct iconic presentation. A literal four-legged sleek, slender, solid-black Bombay-style shorthair cat with satin-sheen fur revealing warm brown undertones. The cat has a single small gold hoop earring exactly on its LEFT ear only, a tiny natural white fur locket tuft on its ventral chest, a single dark-grey ring on its tail tip, prominent white whiskers, and calm, slightly narrowed luminous golden-amber eyes. The cat is lounging lazily on a thick, heavy brass scientific tome that radiates warmth from glowing vacuum tubes. The book cover features an ornate textile surface, raised embroidered coiled-flower texture, three-dimensional satin-stitch blossoms, dense thread relief, and tactile gold-couched petals. Beside the cat, a 1950s futuristic brass robot librarian with sleek chrome lines reaches out gently, attempting to scratch the cat's chin. Background of an opulent retro-scientific library. A clear display panel prominently shows the exact text '2026-07-10 01:47 UTC'. Intimate still-life mood, classic Vermeer-like illumination, soft window light, gentle directional daylight from a side window, smooth falloff into shadow, clean surrounding space. Gold and black color scheme, luxurious metallic gold accents, deep black background, opulent mood, optimistic space-age energy. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "momo",
+    "avoid_list": [
+      "東京高科技實驗室與溫室場景",
+      "新型有機半導體發光裝置",
+      "星雲宇宙輝光與迷幻光芒",
+      "貓咪伸爪拍打或撥弄微小物品",
+      "緋紅與烏黑的強烈對比色調",
+      "電影級體積光與戲劇性陰影",
+      "月夜靛藍與深紫色的深夜色調",
+      "表面散發的藍綠色生物發光",
+      "亮面塑膠玩具般的平滑反光質感",
+      "帶有明顯節點的自然木紋肌理",
+      "冷冽的藍青色調濾鏡",
+      "強制畫面嵌入UTC精確時間標籤"
+    ],
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Centered Subject Composition",
+      "lighting": "Window Light",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 4931240379,
+    "character_name": "墨墨",
+    "story": "這本記載著金屬鎵原子鍵高溫重組理論的稀有文獻，正散發著真空管運作的微溫，剛好成為墨墨最完美的睡榻。牠胸前的白毛宛如優雅的領結，金琥珀色的雙眼微微瞇起，完全無視機器人試圖撫摸下巴以換取書本的討好舉動。對這隻戴著金耳環的黑貓來說，沒有什麼比在午後佔據最高深的學問更令人愉悅了。",
+    "inspiration": "紐西蘭奧克蘭的科學家解開了長達150年的科學謎團，發現金屬鎵的原子鍵在高溫下仍會重新形成，顛覆了傳統的物質熔解理論。",
+    "news_inspiration": [
+      "紐西蘭奧克蘭的科學家解開了長達150年的科學謎團，發現金屬鎵的原子鍵在高溫下仍會重新形成，顛覆了傳統的物質熔解理論。",
+      "美國丹佛引進了六輛全新的電動公車，這些車輛不僅能用於日常大眾運輸，還能創新地作為當地電網的巨型備用電池。",
+      "多國大使與代表齊聚衣索比亞拉利貝拉，共同參訪並重申對保護當地壯觀的世界文化遺產「岩石教堂」的堅定承諾。"
+    ],
+    "idea": "在原子龐克風格的復古科學圖書館裡，畫面正中央，純黑色的墨墨正慵懶地趴在一本擁有立體刺繡盤花肌理封面的厚重黃銅文獻上，享受著窗邊灑落的柔和光線。這幅呈現金黑奢華色調的畫面中，一旁的黃銅機器人圖書管理員正無奈地等待這隻優雅的貓咪讓位。"
   }
 ]
