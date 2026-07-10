@@ -3317,5 +3317,41 @@
     "comment_id": 4932438319,
     "news_inspiration": [],
     "story": "早晨的陽光將烘焙坊照得純白透亮，師傅正在後方忙著準備開店。白貓輕巧地躍上冰涼的大理石檯面，對鮮豔的甜點毫無興趣。牠只專注於品嚐那滴不慎滴落的濃郁奶香，享受著寧靜的早晨時光。"
+  },
+  {
+    "number": 2429,
+    "inspiration": "在丹麥奧爾堡，來自世界各地的聖誕老人與精靈們齊聚一堂，參加充滿歡樂夏日風情的年度世界聖誕老人大會。",
+    "prompt": "Studio Ghibli anime style illustration, bird's-eye view, top-down perspective, looking straight down at a miniature world effect. A fat orange cat on all fours on a summer cobblestone square in Aalborg, struggling to drag a huge dropped, melting vanilla ice cream cone with its mouth. The cat is surrounded by the legs of Santa Clauses wearing red summer shorts. The exact text '2026-07-10 08:58 UTC' is visually displayed prominently on the cobblestones. The art features soft watercolor backgrounds, warm pastoral scenery, and gentle character design, dynamically lit by a harsh direct on-camera flash creating blown-out highlights and hard shadows for a raw candid snapshot look. Every object and character is outlined with a gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, and ornamental hand-drawn detailing. Retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Retro Faded Tones"
+    },
+    "title": "仲夏貓咪的甜筒",
+    "news_inspiration": [
+      "在丹麥奧爾堡，來自世界各地的聖誕老人與精靈們齊聚一堂，參加充滿歡樂夏日風情的年度世界聖誕老人大會。",
+      "在澳洲塔斯馬尼亞，一隻重達一噸的巨型海象「尼爾」回到出生的海岸並在街頭引起轟動，當地官員特別呼籲熱情粉絲應保持距離並尊重這隻野生動物的隱私。",
+      "在美國費城，賓州大學的科學家發表最新研究指出，一面永遠酷熱而另一面永遠冰凍的「潮汐鎖定」系外行星，其地底的熱循環仍有機會創造出適宜孕育生命的環境。",
+      "在巴西里約熱內盧，隨著自然族群數量的逐漸復甦，當地海岸近期的座頭鯨目擊事件大幅激增，成功帶動了當地賞鯨旅遊的熱潮。"
+    ],
+    "avoid_list": [
+      "東京高科技實驗室與溫室場景",
+      "新型有機半導體發光裝置",
+      "星雲宇宙輝光與迷幻光芒",
+      "貓咪伸爪拍打或撥弄微小物品",
+      "緋紅與烏黑的強烈對比色調",
+      "電影級體積光與戲劇性陰影",
+      "月夜靛藍與深紫色的深夜色調",
+      "表面散發的藍綠色生物發光",
+      "亮面塑膠玩具般的平滑反光質感",
+      "帶有明顯節點的自然木紋肌理",
+      "冷冽的藍青色調濾鏡",
+      "強制畫面嵌入UTC精確時間標籤"
+    ],
+    "story": "奧爾堡的夏日廣場上，來自世界各地的聖誕老人正穿著清涼裝扮熱鬧聚會。一隻橘貓趁著人群喧鬧，在發燙的石板路上用嘴叼著並拖行一支快要融化的香草冰淇淋。由正上方閃光燈捕捉的瞬間，定格了這場穿梭在紅色大腿間的消暑大冒險。",
+    "comment_id": 4933767701,
+    "idea": "以吉卜力動畫風格結合俯瞰視角，在復古褪色色調與閃光燈直打的生硬光影下，一隻四腳著地的胖橘貓在丹麥奧爾堡的石板廣場上，正低頭奮力拖曳著一支掉落的巨大甜筒冰淇淋，周圍是穿著夏日短褲的聖誕老人們，所有物件與角色皆以細緻的描金墨線勾勒輪廓。"
   }
 ]
