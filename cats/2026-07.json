@@ -3353,5 +3353,35 @@
     "story": "奧爾堡的夏日廣場上，來自世界各地的聖誕老人正穿著清涼裝扮熱鬧聚會。一隻橘貓趁著人群喧鬧，在發燙的石板路上用嘴叼著並拖行一支快要融化的香草冰淇淋。由正上方閃光燈捕捉的瞬間，定格了這場穿梭在紅色大腿間的消暑大冒險。",
     "comment_id": 4933767701,
     "idea": "以吉卜力動畫風格結合俯瞰視角，在復古褪色色調與閃光燈直打的生硬光影下，一隻四腳著地的胖橘貓在丹麥奧爾堡的石板廣場上，正低頭奮力拖曳著一支掉落的巨大甜筒冰淇淋，周圍是穿著夏日短褲的聖誕老人們，所有物件與角色皆以細緻的描金墨線勾勒輪廓。"
+  },
+  {
+    "idea": "洛可可風格的畫作中，大片留白的竹影翠綠色壁紙與薄透紗網窗簾佔據了畫面大半，一隻四足白貓在右下角伸出前掌，正專心撥弄著華麗豎琴上垂墜的流蘇，百葉窗的條紋光影恰好落在牠與琴弦之上。",
+    "prompt": "Rococo style painting of a moody interior, flamboyant pastel colors, flowing ornamental curves, and elaborate decorative detail. Negative space composition with minimalist breathing room, a small subject in expansive emptiness with calm uncluttered framing and off-center placement. The scene features a bamboo jade-green palette, fresh emerald and malachite tones, creating a cool verdant serenity and elegant oriental green harmony. Large sections of the canvas are filled with sheer gauze mesh texture, fine translucent netting, a delicate woven veil, and gossamer layered transparency as soft light passes through the fabric. In the bottom right corner, a small four-legged white cat reaches out its front paw, playfully batting at the silk tassels of an ornate harp. Venetian blind striped lighting casts hard parallel light-and-shadow bands across the cat, the harp strings, and the wall, blending a film-noir mood with light playful elegance. A beautifully framed placard at the base of the harp clearly displays the exact text '2026-07-10 11:49 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "午後的古典琴房裡，貴族少女在躺椅上沉睡，空氣中瀰漫著靜謐的氣息。調皮的白貓悄悄躍上矮几，對著隨微風搖曳的絲線流蘇展開了一場無聲的狩獵。斑駁的條紋光影隨著時間推移，見證了這場專屬於牠的秘密遊戲。",
+    "news_inspiration": [],
+    "number": 2430,
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Negative Space Composition",
+      "lighting": "Venetian Blind Light",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "inspiration": "original",
+    "comment_id": 4934995021,
+    "avoid_list": [
+      "亮面塑膠玩具反光質感",
+      "復古褪色與低對比色調",
+      "維梅爾式側邊柔和窗光",
+      "垂直配色條邊框構圖",
+      "金黑奢華金屬色系",
+      "高調明亮無影過曝打光",
+      "立體刺繡與布料紋理",
+      "帶有節點的自然木紋",
+      "貓咪與金屬機器人的互動",
+      "海岸或海邊廢棄物背景",
+      "35mm鏡頭淺景深攝影"
+    ],
+    "title": "翠簾下的戲耍"
   }
 ]
