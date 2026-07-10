@@ -3554,5 +3554,34 @@
     "character": "mochi",
     "inspiration": "在美國紐約，知名大胃王喬伊·切斯納（Joey Chestnut）於布魯克林舉辦的國慶日吃熱狗大賽中，以10分鐘吞下66個熱狗的驚人成績再度奪下2026年冠軍。",
     "title": "鐵盤裡的盛宴"
+  },
+  {
+    "title": "閣樓星圖的呢喃",
+    "story": "廢棄天文台的閣樓裡，古老的星象圖順著木桌如瀑布般傾瀉而下。調皮的橘貓將星圖上盤花質感的黃色星辰當成了點心，在溫暖的輪廓光中津津有味地品嚐著宇宙的邊界。",
+    "number": 2436,
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Diagonal Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "idea": "這是一幅結合立體刺繡盤花肌理的水彩畫，以藍黃互補色與對角線構圖呈現，陽光從閣樓天窗逆光勾勒出一隻正在啃咬巨大深藍星象圖邊緣的橘貓，一旁的白鴿正好奇地注視著牠。",
+    "prompt": "A watercolor painting with soft transparent pigments, bleeding edges, wet-on-wet technique, and paper texture, merging with raised embroidered coiled-flower texture, three-dimensional satin-stitch blossoms, dense thread relief, tactile gold-couched petals, and an ornate textile surface. Diagonal composition, dynamic slanted lines and tilted framing, energetic movement across the frame, off-axis tension, kinetic visual flow. A vivid contrasting cool blue and warm yellow complementary palette with bold balanced energy and striking graphic vibrancy. In the attic of an abandoned observatory, a giant dark blue star chart cascades down a wooden table like a waterfall. A mischievous orange cat is actively biting and chewing the edge of the star chart, seemingly eating the textured yellow stars. A curious white dove stands nearby watching the cat. Backlighting with rim light from an attic skylight creates glowing silhouette edges, outlining the subjects with light in a dramatic mood. The precise text '2026-07-10 22:48 UTC' is prominently written on the surface of the star chart. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "avoid_list": [
+      "透明樹脂材質",
+      "粉綠青霓虹螢光色",
+      "配色條邊框設計",
+      "黑金奢華配色",
+      "伸出前爪拍打物品",
+      "頂部強烈日光燈照明",
+      "寫實抓拍風格",
+      "強調四腳著地的貓",
+      "金屬描金與金箔裝飾",
+      "精確的UTC時間標籤"
+    ],
+    "comment_id": 4940156973
   }
 ]
