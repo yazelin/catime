@@ -3940,5 +3940,34 @@
       "金屬拉絲表面與銳利反光",
       "包含精確UTC時間的文字標籤"
     ]
+  },
+  {
+    "news_inspiration": [],
+    "idea": "採用IXUS消費型相機的復古閃光燈特寫風格，一隻真實的黑貓在奢華的黑金雙色現代藝廊內，正伸出貓爪撥弄著一件霧面質感的低多邊形（Low Poly）金色幾何雕塑。滿版的畫面構圖將黑貓充滿好奇的姿態與奢華的展品完美捕捉。",
+    "prompt": "A candid photograph of a realistic black cat in an opulent modern art gallery, playfully reaching out its paw to poke a matte golden geometric sculpture. Point-and-shoot camera aesthetic, direct flash, slightly overexposed highlights, casual candid feel. Full-bleed frame-filling composition, subject cropped to edges, no empty margin, immersive overwhelming scale, dense edge-to-edge detail. The cat features a circular catchlight in its eyes from ring light illumination, even frontal lighting, beauty portrait quality. The sculpture exhibits a low-poly style, polygon mesh facets, geometric crystalline surface, flat shaded triangular faces, digital origami aesthetic. Gold and black color scheme, luxurious metallic gold accents, deep black background, opulent mood. A clear digital camera timestamp overlay displays the text '2026-07-11 17:44 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4948161637,
+    "title": "夜探黑金藝廊",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Ring Light",
+      "texture": "Low Poly",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "立體刺繡盤花肌理",
+      "中國紅與金色節慶色調",
+      "月夜靛藍與深紫羅蘭色調",
+      "貼紙拼貼邊框與白邊構圖",
+      "貓咪咀嚼或啃咬非食物物品",
+      "神秘的巨大太空球體",
+      "環形燈照明與眼部光斑",
+      "逆光與邊緣輪廓光效",
+      "金屬拉絲表面與銳利反光",
+      "包含精確UTC時間的文字標籤"
+    ],
+    "inspiration": "original",
+    "number": 2448,
+    "story": "凌晨的現代藝廊裡空無一人，這隻負責巡邏的黑貓被展台上靜謐的金色幾何雕塑深深吸引。牠小心翼翼地伸出前腳試探，彷彿想確認這個低多邊形物體的獨特觸感。突然亮起的相機閃光燈，凝結了這調皮又專注的瞬間。"
   }
 ]
