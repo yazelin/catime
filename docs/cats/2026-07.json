@@ -4036,5 +4036,40 @@
       "金屬拉絲表面與銳利反光",
       "包含精確UTC時間的文字標籤"
     ]
+  },
+  {
+    "news_inspiration": [
+      "在丹麥奧爾堡，一年一度的「世界聖誕老人大會」熱鬧登場，來自全球的聖誕老人與精靈們齊聚一堂，在盛夏時節為民眾帶來反差感十足的歡樂氣氛。",
+      "荷蘭鹿特丹的一家博物館為了向已故藝術家致敬，將展場地板鋪滿了足以製作一萬五千個三明治的巨量花生醬，這個奇特的展出引發了熱烈討論。",
+      "在美國科羅拉多泉，一隻名叫「金髮姑娘」的友善山羊成為了消防隊員的吉祥物，在他們辛苦撲滅野火的休息空檔提供了溫馨的精神支持。",
+      "阿根廷布宜諾斯艾利斯的一名遛狗員為他照顧的十三隻狗狗穿上阿根廷國家足球隊的專屬球衣在街頭散步，讓這群超萌的毛小孩瞬間成為當地焦點。",
+      "澳洲塔斯馬尼亞一隻重達一噸的網紅南象鼻海豹「尼爾」最近重返出生地四處調皮閒晃，引發追星熱潮，迫使當局呼籲粉絲們保持距離並尊重牠的隱私。"
+    ],
+    "avoid_list": [
+      "立體刺繡盤花肌理",
+      "中國紅與金色節慶色調",
+      "月夜靛藍與深紫羅蘭色調",
+      "貼紙拼貼邊框與白邊構圖",
+      "貓咪咀嚼或啃咬非食物物品",
+      "神秘的巨大太空球體",
+      "環形燈照明與眼部光斑",
+      "逆光與邊緣輪廓光效",
+      "金屬拉絲表面與銳利反光",
+      "包含精確UTC時間的文字標籤"
+    ],
+    "prompt": "A close-up biopunk photograph of an inquisitive orange cat inside a secret genetic engineering greenhouse laboratory. The cat uses its front paw to tap a bioluminescent, mutated plant whose leaves feature intricate indigo blue Shibori resist-dyed textile patterns. The plant slowly writhing, a hybrid of organic and mechanical elements. The scene is shot with a 50mm lens at f/1.8, creating a shallow depth-of-field with the cat and plant sharp against a creamy blurred background with soft bokeh. Dappled light and scattered patches of sunlight filter through giant leaves, creating a cinematic teal and orange color grading with cool blue-green shadows and punchy contrast. In the bottom corner, the date and time '2026-07-11 20:41 UTC' is digitally burned into the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在融合生物科技的溫室實驗室中，一隻貓咪正用前腳撥弄著一株散發螢光、葉片帶有藍染紋理的基改植物，整體呈現強烈的生物朋克風格。",
+    "comment_id": 4948708670,
+    "story": "這隻好奇的橘貓潛入了非法基因工程師的秘密溫室。陽光穿過基因改良的巨型葉片，在牠斑駁的毛皮上灑下青橙交織的影。牠正專注地用爪子拍打著一朵正與生物組織融合、緩慢蠕動的絞染質魂花。",
+    "number": 2451,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Dappled Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "溫室裡的螢光迴響"
   }
 ]
