@@ -3680,5 +3680,41 @@
       "金屬描金與金箔裝飾",
       "精確的UTC時間標籤"
     ]
+  },
+  {
+    "number": 2440,
+    "title": "星體上的守望者",
+    "character": "momo",
+    "inspiration": "澳洲昆士蘭的一座寧靜海濱小鎮因海灘上意外沖刷出神秘的「太空球」，瞬間成為全球科學愛好者與大眾矚目的焦點。",
+    "idea": "以米提拉畫的繁複幾何線條與絞染布料紋理交織，透過魚眼鏡頭呈現一間充滿月夜靛藍色調的海濱古董店，純黑短毛貓墨墨正優雅地四腳伏臥在店中央一顆神秘的巨大太空球上。",
+    "avoid_list": [
+      "貓咪伸出前爪拍打撥弄",
+      "啃咬圖紙絲帶或草桿",
+      "暗色背景襯托霓虹螢光色",
+      "內嵌懸浮物的透明樹脂材質",
+      "5000K中性白螢光燈無影平光",
+      "竹影翠綠色調配色",
+      "強制置入精確UTC時間戳文字",
+      "與巨型物件的極端比例反差",
+      "閃光燈直打的過曝高光效果",
+      "仰躺並輕咬紙張邊緣"
+    ],
+    "prompt": "An illustration merging Madhubani painting intricate geometric and floral patterns with Shibori style resist-dyed textile patterns and organic flowing designs, maintaining an Indian folk art aesthetic. The scene is a seaside antique shop interior with a mysterious nocturnal mood, utilizing a moonlit indigo palette, dark dreamy blue dominance, deep night-blue and violet tones, and cool silvery highlights. The composition uses a fisheye wide-angle lens perspective, showing strong barrel distortion, an exaggerated foreground, and a 360-degree feel. In the center is a mysterious giant space sphere. Gracefully resting on all four paws atop this sphere is a sleek, slender, solid-black Bombay-style shorthair cat. The literal four-legged feline has satin-sheen fur revealing warm brown undertones in the light, athletic proportions, a slight upward curl at the tail tip, and long prominent white whiskers. Crucially, the cat has a single small gold hoop earring on its left ear only, a tiny natural white locket tuft of fur on its ventral chest with absolutely no collar, and a single dark-grey ring on its tail tip. Its large luminous golden-amber eyes hold a calm and attentive expression, looking down at busy human scientists working in the background. Ring light illumination perfectly hits the cat, providing even frontal lighting, beauty portrait quality, and creating a distinct circular catchlight in the golden-amber eyes, making the left ear gold ring and white chest tuft slightly glow. Prominently displayed on an ornate signboard in the shop is the exact text '2026-07-11 07:04 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這顆剛從海灘運來的神祕球體成了科學家的焦點，卻也成了墨墨最愛的新高台。在觀測用的環形燈照射下，牠左耳的金環與胸前白毛微微發亮，金琥珀色的雙眼如寶石般靜靜俯視著周遭忙碌的人們。",
+    "character_name": "墨墨",
+    "comment_id": 4943423820,
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Moonlit Indigo"
+    },
+    "news_inspiration": [
+      "法國巴黎正積極擴建利用塞納河水的地下冷卻系統，期望以這項環保的創新方案來取代傳統冷氣並對抗極端熱浪。",
+      "加拿大溫哥華的史高米甚原住民族正式推出了名為 Senakw 的淨零排放住宅開發案，預計將提供六千戶永續綠能家園。",
+      "吉爾吉斯在中部高海拔地區設立了全新的生態廊道，為珍稀的雪豹及當地牧民提供了適應氣候變遷的安全活動空間。",
+      "澳洲昆士蘭的一座寧靜海濱小鎮因海灘上意外沖刷出神秘的「太空球」，瞬間成為全球科學愛好者與大眾矚目的焦點。"
+    ]
   }
 ]
