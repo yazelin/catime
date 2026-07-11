@@ -4133,5 +4133,43 @@
       "包含精確UTC時間的文字標籤"
     ],
     "prompt": "Watercolor storybook illustration, soft transparent washes, duotone color treatment with two contrasting colors only, bold graphic impact, modern design feel. A diagonal composition with dynamic slanted lines, tilted framing, off-axis tension, and kinetic visual flow showing a summer breakwater. A literal, quadrupedal, large stocky brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes, an M-mark on the forehead, and a thick sturdy tail. The cat has a scruffy, untidy, slightly coarse fur texture. Character constraints: Viewer's LEFT eye socket is entirely covered by a natural dark-pigmented fur patch (#2B1B0E) -- strictly a fur marking, no fabric eye patch, no straps. Viewer's RIGHT eye is a single piercing emerald green (#50C878). Left ear features a prominent V-shaped notch. The cat wears a loosely tied faded red (#CD5C5C) bandana around the neck and a small summer straw hat. It has a white (#FFFFFF) chest bib and white mitten paws on all four feet. The cat is on all fours, leaning over the slanted stone, pressing a white paw onto a fishing line descending into the ocean, watching a sea float intently. Cinematic lighting, volumetric light rays, dramatic shadows, film-quality mood, high dynamic range. Prismatic rainbow flare texture, refracted spectral light spots scattered across the image, iridescent lens-glow streaks, dreamy chromatic highlights. The scene is a gentle childlike scene, warm picture-book charm, whimsical characters and animals, healing fairytale mood. The exact English text '2026-07-11 22:35 UTC' is cleanly and visibly integrated into the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "立體刺繡盤花肌理",
+      "中國紅與金色節慶色調",
+      "月夜靛藍與深紫羅蘭色調",
+      "貼紙拼貼邊框與白邊構圖",
+      "貓咪咀嚼或啃咬非食物物品",
+      "神秘的巨大太空球體",
+      "環形燈照明與眼部光斑",
+      "逆光與邊緣輪廓光效",
+      "金屬拉絲表面與銳利反光",
+      "包含精確UTC時間的文字標籤"
+    ],
+    "news_inspiration": [
+      "捷克好手琳達·諾斯科娃在英國倫敦舉行的溫布頓網球錦標賽中擊敗對手，成功奪得2026年女單冠軍。",
+      "加拿大城鎮特拉斯沃德勒伊簽署了《世界樹木權利宣言》，成為全球首個在法律上保障樹木生存與繁衍權利的地方。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員為他帶領的13隻寵物狗全數穿上國家足球隊的球衣，畫面相當溫馨逗趣。",
+      "美國紐約市康尼島舉辦了年度國慶日吃熱狗大賽，大胃王喬伊·切斯納特以吞下66個熱狗的驚人成績再度奪冠。"
+    ],
+    "story": "夏夜的海邊老街正舉辦大胃王比賽，貪吃的麻糬穿著小巧的浮水衣，擠進了攤位最前排。在幽暗柔和的燭光下，牠琥珀色的圓眼看著滿桌的西瓜瞬間放大兩倍，隨即津津有味地大快朵頤，微胖的白肚子還開心地跟著晃動。",
+    "season": "summer",
+    "character_name": "麻糬",
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Miniature Diorama",
+      "lighting": "Candlelight",
+      "texture": "Paper Quilling",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 2454,
+    "prompt": "Watercolor anime illustration fused with 3D paper quilling art, miniature diorama scene, tilt-shift effect, toy-like scale model, visible paper texture, soft transparent washes, gentle pastel bleeding edges, intricate coiled paper strips, delicate curling loops. Cool blue-teal color grading with icy undertones, crisp atmosphere, serene and calm healing slice-of-life mood. In a tiny seaside night market stall illuminated by candlelight with a warm orange flickering glow and soft dancing shadows, a literal four-legged chubby spherical shorthair cat named Mochi is wearing a mini summer life jacket and wildly eating a huge slice of red watermelon. Mochi has a pure white base coat and a plump white belly. From the viewer's perspective, Mochi's right half-face has a solid orange mask extending to the right ear, while the left half-face is purely white. Mochi features a heart-shaped solid orange saddle on its upper back. Mochi's right front paw is a solid orange mitten, and the left front paw is pure white. Mochi has large round amber eyes, a pink nose with a tiny orange center dot, and an orange-and-white ringed tail. No tabby stripes, strictly a four-legged feline, non-anthropomorphic. A prominent sign at the stall clearly displays the exact text '2026-07-11 23:41 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "inspiration": "美國紐約市康尼島舉辦了年度國慶日吃熱狗大賽，大胃王喬伊·切斯納特以吞下66個熱狗的驚人成績再度奪冠。",
+    "idea": "以冷色調藍青色的水彩動漫插畫結合衍紙藝術的紋理，呈現一個微縮立體模型場景：在燭光搖曳的海邊夜市小攤，圓滾滾的橘白貓麻糬穿著迷你浮水衣，正埋頭狂啃著西瓜。",
+    "character": "mochi",
+    "title": "海畔西瓜大胃王",
+    "comment_id": 4949208444
   }
 ]
