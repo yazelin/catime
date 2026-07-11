@@ -3848,5 +3848,34 @@
     },
     "idea": "這是一幅採用濕版攝影風格並帶有貼紙拼貼邊框的影像作品，在鹿特丹一間博物館的展間內，一隻真實的短毛貓正穩穩站在散發金屬光澤的導覽紅龍柱上，低頭謹慎嗅聞著鋪滿整個地板的巨量花生醬；窗邊柔光灑落，為畫面蒙上一層幽靜的月夜靛藍色調。",
     "inspiration": "為了向已故藝術家致敬，荷蘭鹿特丹的一間博物館發揮奇思妙想，將足以製作一萬五千個三明治的巨量花生醬鋪滿了整個展場地板。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Underwater Caustics",
+      "texture": "Film Grain",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "comment_id": 4946688942,
+    "number": 2445,
+    "news_inspiration": [],
+    "title": "池畔的夏日狩獵",
+    "story": "盛夏午後，這座別墅的淺水池成了橘貓專屬的遊樂場。牠趴在湛藍的池畔全神貫注地鎖定目標，每一次揮動毛茸茸的爪子，都在水面激起一陣亮黃色的漣漪。",
+    "inspiration": "original",
+    "idea": "採用滿版特寫的空拍視角，俯視一隻在淺藍色庭院泳池邊伸爪撈取黃色小鴨玩具的橘貓，陽光穿透水面折射出迷幻的水下焦散光影，畫面帶有濃厚的底片顆粒質感。",
+    "avoid_list": [
+      "立體刺繡盤花肌理",
+      "中國紅與金色節慶色調",
+      "月夜靛藍與深紫羅蘭色調",
+      "貼紙拼貼邊框與白邊構圖",
+      "貓咪咀嚼或啃咬非食物物品",
+      "神秘的巨大太空球體",
+      "環形燈照明與眼部光斑",
+      "逆光與邊緣輪廓光效",
+      "金屬拉絲表面與銳利反光",
+      "包含精確UTC時間的文字標籤"
+    ],
+    "prompt": "採用滿版特寫的空拍視角，俯視一隻在淺藍色庭院泳池邊伸爪撈取黃色小鴨玩具的橘貓，陽光穿透水面折射出迷幻的水下焦散光影，畫面帶有濃厚的底片顆粒質感。. The date and time '2026-07-11 14:16 UTC' is visually displayed in the image. drone aerial shot, bird's-eye view, expansive landscape, geometric patterns from above, full-bleed frame-filling composition, subject cropped to edges, no empty margin, immersive overwhelming scale, dense edge-to-edge detail, underwater caustic lighting, rippling light patterns dancing over the subject, blue-green aquatic glow, refracted sun shafts through water, submerged dreamlike atmosphere, visible film grain, analog texture, subtle noise, organic photographic imperfections, blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy, striking graphic vibrancy IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
