@@ -3750,5 +3750,40 @@
       "仰躺並輕咬紙張邊緣"
     ],
     "number": 2441
+  },
+  {
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Underwater Caustics",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Festive Red and Gold"
+    },
+    "prompt": "Oriental mythic poster art of a domestic cat on all fours resting on mottled golden stone stairs of a sunken ancient Chinese temple courtyard, intently watching glowing koi fish swim between vermilion pillars and old stone carvings. Visual text prominently displays the date and time '2026-07-11 10:52 UTC'. Die-cut sticker collage composition with the central character surrounded by layered sticker cutouts, white outline borders, chibi side characters, and floating props decorating the frame in a scrapbook-style overlay. Photorealistic central subject merged with traditional Chinese ink cloud ornaments, vertical calligraphy panels in Traditional Chinese, red seal stamps, and gold leaf accents on deep black. Cinematic fantasy composition featuring underwater caustic lighting, rippling light patterns dancing over the subject, blue-green aquatic glow, and refracted sun shafts through water creating a submerged dreamlike atmosphere. Iridescent holographic material, rainbow color shift on transparent PVC, pastel prismatic reflections, shimmering translucent surface, futuristic fashion plastic, and bubble-like holographic film on the koi scales. Festive red and gold palette, auspicious Chinese red dominance with bright gold accents, celebratory warmth, lucky vivid contrast. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "story": "海底的龍王廟遺跡中，一隻不知從何而來的家貓成了這片靜謐海域的過客。牠靜靜地趴在斑駁的金色階梯上，伴隨著幾尊古老的石雕，看著那些身披全息鱗片的錦鯉在朱紅色的柱子間穿梭。水面折射的光影宛如一場華麗的幻境，將深海秘境渲染得既喜慶又神祕。",
+    "news_inspiration": [
+      "在荷蘭鹿特丹，一家博物館為了向已故藝術家致敬，在展場地板上塗滿了足以製作一萬五千個三明治的花生醬，成為近期最奇趣的文化展覽。",
+      "在吉爾吉斯中部，當地政府於高海拔地區正式設立了全新的生態走廊，為瀕危的雪豹以及牧民提供適應氣候變遷的廣闊生存空間。",
+      "在丹麥奧爾堡，來自世界各地的聖誕老人與精靈們齊聚一堂參加一年一度的「世界聖誕老人大會」，在七月的盛夏時節散播著歡樂的節日氣氛。",
+      "在中國重慶，新落成的重慶東站以122萬平方公尺的驚人規模，正式被相關機構認可為全球佔地面積最大的火車站。",
+      "在加拿大溫哥華，斯闊米甚原住民族啟動了指標性的城市開發案，正致力於打造出全球規模最大的淨零碳排環保住宅區之一。"
+    ],
+    "comment_id": 4945087800,
+    "title": "海底神廟觀魚記",
+    "number": 2442,
+    "idea": "這是一幅東方奇幻海報風格的視覺藝術，一隻四腳著地的貓咪正趴在沉沒海底的古老中式寺廟庭院石階上，全神貫注地盯著游過的發光錦鯉。畫面邊緣採用貼紙拼貼邊框，整體籠罩著波光粼粼的水下焦散光與中國紅金交織的色調，並閃爍著虹彩全息的材質質感。",
+    "avoid_list": [
+      "貓咪伸出前爪拍打撥弄",
+      "啃咬圖紙絲帶或草桿",
+      "暗色背景襯托霓虹螢光色",
+      "內嵌懸浮物的透明樹脂材質",
+      "5000K中性白螢光燈無影平光",
+      "竹影翠綠色調配色",
+      "強制置入精確UTC時間戳文字",
+      "與巨型物件的極端比例反差",
+      "閃光燈直打的過曝高光效果",
+      "仰躺並輕咬紙張邊緣"
+    ]
   }
 ]
