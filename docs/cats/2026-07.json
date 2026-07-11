@@ -3646,5 +3646,39 @@
       "金屬描金與金箔裝飾",
       "精確的UTC時間標籤"
     ]
+  },
+  {
+    "idea": "這是一幅35mm底片攝影風格的作品，採用平視正面構圖，畫面中一隻橘色虎斑貓正專心地咀嚼著從穀倉磨砂玻璃窗縫隙透進來的一根乾燥野草。畫面以溫暖的大地色系為主，精巧的打光在貓咪臉上形成完美的蝴蝶光，窗外隱約透出正在啃食雜草的驢子身影。",
+    "prompt": "35mm film photography, visible grain. Eye-level frontal composition, straight-on symmetrical view of an orange tabby cat facing the camera directly, intently chewing a stalk of dry wild grass poking through a crack in a frosted glass barn window. Butterfly lighting, overhead key light, symmetrical shadow under nose, soft even illumination. The frosted glass has a translucent matte surface with diffused light transmission, showing soft blurred shapes of a donkey outside. A sign in the barn clearly displays the text '2026-07-11 04:52 UTC'. Earth tone palette, terracotta, olive green, warm brown, natural organic harmony, warm tones, nostalgic feel, slight vignette, neutral honest perspective, confrontational balance. Shot on 50mm lens, f/4, natural light, shallow depth of field. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在西班牙多尼亞納國家公園，一支由18隻驢子組成的特殊「消防隊」近十年來透過啃食易燃雜草，成功保護當地免受野火侵襲。",
+    "title": "窗邊的守護者",
+    "news_inspiration": [
+      "在加拿大溫哥華，史高米甚原住民族正在打造北美最大的淨零碳排住宅開發案，預計完工後將提供六千套永續住房。",
+      "在西班牙多尼亞納國家公園，一支由18隻驢子組成的特殊「消防隊」近十年來透過啃食易燃雜草，成功保護當地免受野火侵襲。",
+      "一隻重達一千公斤、名為尼爾的網紅海象最近回到了牠在澳洲塔斯馬尼亞的出生地，慵懶又霸道的可愛行徑再度引起當地居民轟動。",
+      "一支日本醫療志工團隊連續第34個夏天前往越南偏遠地區，免費為當地患有唇顎裂的兒童提供改變一生的重建手術。"
+    ],
+    "comment_id": 4942524140,
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Earth Tones"
+    },
+    "number": 2439,
+    "story": "在西班牙多尼亞納國家公園邊緣的古老農舍裡，這隻名叫桑丘的貓總愛陪伴外頭的「驢子消防隊」。當驢子們在旱地裡辛勤啃食易燃雜草時，桑丘也會在窗邊挑選一根乾草慢慢咀嚼。牠以自己獨特的方式，參與了這場保護農莊免受野火侵襲的日常儀式。",
+    "avoid_list": [
+      "透明樹脂材質",
+      "粉綠青霓虹螢光色",
+      "配色條邊框設計",
+      "黑金奢華配色",
+      "伸出前爪拍打物品",
+      "頂部強烈日光燈照明",
+      "寫實抓拍風格",
+      "強調四腳著地的貓",
+      "金屬描金與金箔裝飾",
+      "精確的UTC時間標籤"
+    ]
   }
 ]
