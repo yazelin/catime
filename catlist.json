@@ -22851,5 +22851,18 @@
     "title": "水壩上的雪舞",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "original"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "season": "summer",
+    "character": "captain",
+    "timestamp": "2026-07-11 22:35 UTC",
+    "status": "success",
+    "title": "防波堤上的夏釣",
+    "number": 2453,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-11_2235_UTC.webp"
   }
 ]

@@ -4100,5 +4100,38 @@
       "金屬拉絲表面與銳利反光",
       "包含精確UTC時間的文字標籤"
     ]
+  },
+  {
+    "inspiration": "original",
+    "story": "夏日微風拂過防波堤，退役的碼頭老大「船長」頭頂草帽，脖子上的舊紅頭巾隨風揚起。雖然牠平時總是沉穩威嚴，但此刻為了捕捉新鮮的魚，牠老老實實地趴在傾斜的石塊邊緣，銳利的翠綠右眼緊盯著海面上的浮標。陽光透過海浪折射出夢幻的光暈，陪伴著老船長這場充滿期待的等待。",
+    "news_inspiration": [],
+    "character_name": "船長",
+    "is_seasonal": true,
+    "season": "summer",
+    "comment_id": 4949021183,
+    "character": "captain",
+    "idea": "這是一幅童話水彩繪本風格的作品，採用對角線構圖展現夏日防波堤，壯碩的獨眼虎斑貓「船長」頭頂著小草帽，正以四足著地的姿態，用純白的前腳掌專注地按著一根垂入海中的釣線，雙色調的畫面中閃爍著電影感的稜鏡彩虹光斑。",
+    "style_picks": {
+      "art_style": "Watercolor Storybook Illustration",
+      "composition": "Diagonal Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Duotone"
+    },
+    "title": "防波堤上的夏釣",
+    "number": 2453,
+    "avoid_list": [
+      "立體刺繡盤花肌理",
+      "中國紅與金色節慶色調",
+      "月夜靛藍與深紫羅蘭色調",
+      "貼紙拼貼邊框與白邊構圖",
+      "貓咪咀嚼或啃咬非食物物品",
+      "神秘的巨大太空球體",
+      "環形燈照明與眼部光斑",
+      "逆光與邊緣輪廓光效",
+      "金屬拉絲表面與銳利反光",
+      "包含精確UTC時間的文字標籤"
+    ],
+    "prompt": "Watercolor storybook illustration, soft transparent washes, duotone color treatment with two contrasting colors only, bold graphic impact, modern design feel. A diagonal composition with dynamic slanted lines, tilted framing, off-axis tension, and kinetic visual flow showing a summer breakwater. A literal, quadrupedal, large stocky brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes, an M-mark on the forehead, and a thick sturdy tail. The cat has a scruffy, untidy, slightly coarse fur texture. Character constraints: Viewer's LEFT eye socket is entirely covered by a natural dark-pigmented fur patch (#2B1B0E) -- strictly a fur marking, no fabric eye patch, no straps. Viewer's RIGHT eye is a single piercing emerald green (#50C878). Left ear features a prominent V-shaped notch. The cat wears a loosely tied faded red (#CD5C5C) bandana around the neck and a small summer straw hat. It has a white (#FFFFFF) chest bib and white mitten paws on all four feet. The cat is on all fours, leaning over the slanted stone, pressing a white paw onto a fishing line descending into the ocean, watching a sea float intently. Cinematic lighting, volumetric light rays, dramatic shadows, film-quality mood, high dynamic range. Prismatic rainbow flare texture, refracted spectral light spots scattered across the image, iridescent lens-glow streaks, dreamy chromatic highlights. The scene is a gentle childlike scene, warm picture-book charm, whimsical characters and animals, healing fairytale mood. The exact English text '2026-07-11 22:35 UTC' is cleanly and visibly integrated into the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
