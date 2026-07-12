@@ -4416,5 +4416,40 @@
       "texture": "Aged Silk Scroll",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Xianxia Beauty Character Art",
+      "composition": "Leading Lines Composition",
+      "lighting": "Golden Hour",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "Polished 3D render, xianxia beauty character standee style, fantasy wuxia game art quality. A lively pure black four-legged cat running briskly along a corridor, guiding an ethereal ancient-style Chinese maiden in flowing hanfu with ornate hairpieces who is holding handmade crafts. They are moving through an opulent exhibition hall with luxurious black-and-gold booths displaying metalwork. An elegant display sign clearly shows the text '2026-07-12 15:47 UTC'. Leading lines composition, converging perspective lines guiding the eye toward the subject, strong directional depth, architectural or path-driven framing. Golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, soft global illumination, soft glowing render. Cinema 4D aesthetic, smooth materials, clean geometry. Gold and black color scheme, luxurious metallic gold accents, deep black background, opulent mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "日本東京有明展覽館舉辦「HandMade In Japan Fes' 2026」大型手作市集，匯聚全國高達三千名創作者展示獨特的藝術工藝品。",
+    "title": "墨金長廊引路貓",
+    "news_inspiration": [
+      "2026年世界盃足球賽八強賽在美國堪薩斯城熱烈開踢，阿根廷隊最終以3比1擊敗瑞士隊順利晉級。",
+      "西班牙巴塞隆納的「Brunch Electronik」夏季露天電子音樂節在特立尼達公園盛大開幕，吸引眾多電音愛好者齊聚狂歡。",
+      "中國重慶動物園為大貓熊寶寶「望舒」舉辦一歲生日派對，慶祝她從出生時的188公克健康成長至36.5公斤。",
+      "《Pokémon GO》Fest 2026 全球社群慶典在巴西聖保羅登場，當地玩家齊聚一堂共同參與特殊的超級團體戰等豐富活動。",
+      "日本東京有明展覽館舉辦「HandMade In Japan Fes' 2026」大型手作市集，匯聚全國高達三千名創作者展示獨特的藝術工藝品。"
+    ],
+    "idea": "以3D渲染呈現的古風仙俠美人立繪風格中，一隻四足黑貓正輕快地奔跑於奢華的黑金手作展攤之間，沿著引導線構圖的長廊帶領後方手捧工藝品的仙子前進。黃金時刻的陽光灑滿這座精緻的展覽大廳，完美映襯出金色與黑色的極致奢華感。",
+    "story": "東京有明手作市集的長廊在落日餘暉下，幻化為一座奢華的仙俠宮殿。一隻靈動的純黑真貓在兩側展列著無數金工藝術品的攤位間穿梭，優雅地為前來參展的仙子引路。金色的夕陽將牠奔跑的倒影拉長，彷彿牠本身也是這場盛會中一件不可多得的流動藝術品。",
+    "number": 2462,
+    "avoid_list": [
+      "貓伸前爪撲打或按壓物件",
+      "貓專注嗅聞或緊咬特定物品",
+      "冷冽藍青色調與月夜靛藍配色",
+      "電影感體積光與戲劇性光暈",
+      "黏土雕塑與手工陶瓷表面質感",
+      "大光圈淺景深搭配底片顆粒",
+      "對角線構圖與傾斜視覺張力",
+      "生物朋克與發光變異元素",
+      "溫暖大地色與復古褪色感",
+      "畫面強制壓上UTC時間戳記"
+    ],
+    "comment_id": 4951804234
   }
 ]
