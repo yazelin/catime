@@ -4650,5 +4650,43 @@
     ],
     "number": 2468,
     "title": "螢光展廳的貓步"
+  },
+  {
+    "avoid_list": [
+      "強調「四足」貓咪的重複性字眼",
+      "黏土陶瓷質感與溫暖大地色調組合",
+      "月夜靛藍、紫羅蘭色與冷銀色高光搭配",
+      "環形燈照明的黑白單色視覺風格",
+      "古風仙俠美人立繪與武俠遊戲藝術",
+      "強制渲染精確UTC時間與繁中標牌",
+      "貓咪低頭嗅聞或使勁啃咬物體的動作",
+      "淺景深搭配電影底片顆粒感",
+      "鳥瞰視角與懸浮空間構圖",
+      "純黑或純白單一毛色的寫實貓咪設定"
+    ],
+    "number": 2469,
+    "is_seasonal": true,
+    "character": "captain",
+    "inspiration": "一名美國女性划船手創下歷史紀錄，成功完成從加州獨自划船橫跨太平洋抵達美國夏威夷的驚人壯舉。",
+    "news_inspiration": [
+      "在英國倫敦舉行的溫布頓網球錦標賽中，捷克女將諾斯科娃（Linda Noskova）上演精彩逆轉勝，奪得生涯首座大滿貫冠軍。",
+      "一名美國女性划船手創下歷史紀錄，成功完成從加州獨自划船橫跨太平洋抵達美國夏威夷的驚人壯舉。",
+      "緬甸仰光舉辦了一場特別的友誼運動會，吸引數千名中文學習者齊聚一堂，透過體育競賽促進文化交流與情誼。",
+      "韓國首爾舉辦了第二屆曹秀美國際聲樂大賽，透過企業贊助支持，致力於培育全球古典音樂的明日之星。"
+    ],
+    "story": "船長戴著破舊的草帽趴在發光的防波堤上，粗壯的白底毛掌穩穩壓著釣竿，翠綠的單眼專注地盯著螢光閃爍的海面。微縮球體內的霓虹燈光折射出絢麗波浪，遠方一艘孤獨的划船正勇敢橫跨這片袖珍太平洋，讓牠想起了年輕時乘風破浪的歲月。",
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Extreme Low Angle",
+      "lighting": "Neon Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Neon Fluorescent"
+    },
+    "season": "summer",
+    "character_name": "船長",
+    "idea": "以聖誕裝飾球微縮模型的藝術風格，透過極低角度仰拍，展現一隻戴著眼罩與草帽的壯碩虎斑貓，正趴在充氣PVC材質的霓虹螢光防波堤上釣魚。",
+    "comment_id": 4953065061,
+    "title": "霓虹防波堤守望",
+    "prompt": "A transparent glass Christmas bauble diorama containing a tiny detailed scene inside, creating a warm magical glow and cinematic reflections. Extreme low angle shot, looking up at the subject with a dramatic towering perspective and powerful feel. The main subject is a literal four-legged large stocky brown classic tabby cat with bold black stripes and a broad muscular build. The cat has scruffy, untidy, coarse fur of uneven lengths. Strict character details: a natural dark-pigmented fur patch completely conceals the left eye socket as a natural fur marking with strictly no fabric eye patch and no straps, a single piercing emerald green right eye, a prominent V-shaped notch in the left ear, an M-mark on the forehead, a thick sturdy tail, a loosely tied faded red bandana around the neck, a white chest bib, and white mitten paws. The cat wears a worn summer straw hat. The cat is lying down on a glowing breakwater made of inflatable PVC material with a high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. One of its sturdy white mitten paws rests steadily on a fishing rod, actively fishing. Surrounding the cat inside the bauble are neon fluorescent colors of electric pink, lime green, and hot cyan, creating a moody urban night atmosphere glowing against a dark background. The glowing miniature sea features refracted waves and cinematic reflections on wet surfaces, with a tiny lonely rowboat crossing the pocket-sized ocean in the background. A glowing neon sign seamlessly integrated into the scene clearly displays the text '2026-07-12 22:36 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
