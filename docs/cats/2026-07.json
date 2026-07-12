@@ -4346,5 +4346,41 @@
       "一隻重達2200磅、深受當地民眾喜愛的象海豹「尼爾」最近回到了牠在澳洲海岸的出生地，引發了熱烈討論。",
       "在美國紐約，知名大胃王喬伊·切斯納特於布魯克林舉行的年度吃熱狗大賽中一口氣吞下66個熱狗，再次奪下冠軍。"
     ]
+  },
+  {
+    "comment_id": 4951258815,
+    "inspiration": "科學家在尼泊爾等喜馬拉雅山脈地區發現了一種全新的「笑臉蜘蛛」，其背部獨特的微笑圖案與夏威夷的特有種極為相似，展現了大自然奇妙的獨立演化現象。",
+    "title": "古董店的凝視",
+    "avoid_list": [
+      "貓伸前爪撲打或按壓物件",
+      "貓專注嗅聞或緊咬特定物品",
+      "冷冽藍青色調與月夜靛藍配色",
+      "電影感體積光與戲劇性光暈",
+      "黏土雕塑與手工陶瓷表面質感",
+      "大光圈淺景深搭配底片顆粒",
+      "對角線構圖與傾斜視覺張力",
+      "生物朋克與發光變異元素",
+      "溫暖大地色與復古褪色感",
+      "畫面強制壓上UTC時間戳記"
+    ],
+    "prompt": "Grand Theft Auto art style, bold cel-shaded illustration, urban attitude, black and white monochrome environment with high contrast, rich tonal range, dramatic shadows and highlights. Eye-level frontal composition, straight-on symmetrical view, subject facing camera directly, neutral honest perspective, confrontational balance. Ring light illumination, even frontal lighting, circular catchlight in eyes, beauty portrait quality, soft-focus matte haze, dreamy diffused blur, gentle glowing veil over the image, hazy atmospheric softness, low-contrast ethereal finish on the background. Center subject: Momo, a sleek, slender solid-black Bombay-style shorthair literal four-legged cat with satin-sheen fur revealing warm brown undertones. Athletic proportions, slight upward curl at the tail tip. The cat has a single small gold hoop earring exclusively on its LEFT ear from the viewer's perspective. Tiny natural white locket tuft of fur on the ventral chest, no collar. A single dark-grey ring at the tail tip. Large luminous golden-amber eyes that pop with saturated colors against the monochrome scene. Long prominent white whiskers. The cat is completely non-anthropomorphic, wearing no clothing. Expression is calm and attentive, like a stoic mob boss. The cat is sitting elegantly on an antique piano inside a quiet antique shop, calmly looking at a peculiar smiley-face spider descending on a single silk thread. Visually displayed clearly in the image, painted on a sign resting on the piano, is the exact text '2026-07-12 12:52 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "momo",
+    "idea": "以GTA單色風格繪製，採用平視正面構圖，純黑貓咪墨墨端坐在古董店的鋼琴上，在環形燈的柔焦霧面光影中，平靜地凝視著一隻垂降而下的笑臉蜘蛛。",
+    "character_name": "墨墨",
+    "story": "靜謐的黑白古董店內，墨墨戴著金色耳環的左耳微微抽動，如同幫派大佬般沉穩。牠胸前的白領結與長白鬍鬚在環形燈下特別亮眼，黑白畫面中唯有那雙琥珀色雙眼閃爍著微光，正無聲地審視著那隻在琴鍵上織網的奇特蜘蛛。",
+    "number": 2460,
+    "news_inspiration": [
+      "在芬蘭奧盧，科學家驚訝地發現大黃蜂能在未經訓練的情況下，自行發明出滾動小球以獲取獎勵的新方法，展現了昆蟲驚人的認知與問題解決能力。",
+      "在美國堪薩斯城舉行的2026年世界盃足球賽八強戰中，阿根廷隊在延長賽發威，最終以3比1擊敗瑞士隊順利取得四強門票。",
+      "科學家在尼泊爾等喜馬拉雅山脈地區發現了一種全新的「笑臉蜘蛛」，其背部獨特的微笑圖案與夏威夷的特有種極為相似，展現了大自然奇妙的獨立演化現象。",
+      "在英國倫敦落幕的2026年溫布頓網球錦標賽女單決賽中，捷克網球好手諾斯科娃（Linda Noskova）直落兩盤擊敗同胞穆霍娃，勇奪生涯首座大滿貫金盃。"
+    ],
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Ring Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
