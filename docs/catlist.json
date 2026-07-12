@@ -22978,5 +22978,18 @@
     "timestamp": "2026-07-12 18:46 UTC",
     "title": "花生醬上的巡禮",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-12_1846_UTC.webp"
+  },
+  {
+    "season": "summer",
+    "status": "success",
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-12_1959_UTC.webp",
+    "timestamp": "2026-07-12 19:59 UTC",
+    "title": "幻海向日葵探險",
+    "is_seasonal": true,
+    "character": "lingling",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2466,
+    "inspiration": "在墨西哥卡波聖盧卡斯，當地打造了全新的沉浸式海洋體驗展，透過360度全景投影與真實的沙地觸感，讓遊客彷彿親身漫步於海底世界。"
   }
 ]
