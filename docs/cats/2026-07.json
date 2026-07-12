@@ -4382,5 +4382,39 @@
       "texture": "Soft-Focus Matte Haze",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "inspiration": "巴西米納斯吉拉斯州：生物學家在當地的大西洋沿岸森林中，驚喜地發現了一種名為 Dendropsophus 的全新樹蛙物種。",
+    "story": "米納斯吉拉斯州的生物學家為了觀察新樹蛙，打造了一個微型的雨林生態玻璃缸，卻沒發現實驗室的貓咪早已溜進去呼呼大睡。這張以古老絹絲紋理呈現的黑白雜誌封面照，意外記錄下了這場寧靜的跨物種奇遇。",
+    "number": 2461,
+    "title": "玻璃缸裡的午夢",
+    "idea": "以黑白單色的古絹絹本質感結合雜誌封面排版，一隻貓咪蜷縮在巴西生物實驗室的巨大玻璃觀測槽內部熟睡，一隻新發現的 Dendropsophus 樹蛙正靜靜停歇在牠的背上，上方環形燈在玻璃容器表面映出完美的光環。",
+    "news_inspiration": [
+      "美國堪薩斯城：在2026年世界盃足球賽八強戰中，阿根廷國家隊以3比1擊敗瑞士隊，在阿羅黑德體育場成功挺進四強。",
+      "巴西米納斯吉拉斯州：生物學家在當地的大西洋沿岸森林中，驚喜地發現了一種名為 Dendropsophus 的全新樹蛙物種。",
+      "台灣台北市：知名搖滾樂團五月天在台北大巨蛋舉辦了盛大的演唱會，為熱情的歌迷帶來難忘的週末音樂之夜。",
+      "澳洲雪梨：第34屆澳洲國際音樂節在標誌性的雪梨歌劇院盛大舉行，吸引了世界各地的古典音樂愛好者齊聚一堂。"
+    ],
+    "avoid_list": [
+      "貓伸前爪撲打或按壓物件",
+      "貓專注嗅聞或緊咬特定物品",
+      "冷冽藍青色調與月夜靛藍配色",
+      "電影感體積光與戲劇性光暈",
+      "黏土雕塑與手工陶瓷表面質感",
+      "大光圈淺景深搭配底片顆粒",
+      "對角線構圖與傾斜視覺張力",
+      "生物朋克與發光變異元素",
+      "溫暖大地色與復古褪色感",
+      "畫面強制壓上UTC時間戳記"
+    ],
+    "prompt": "A black and white monochrome magazine cover mockup featuring an editorial fashion photography base. A sleeping cat is curled up inside a giant transparent glass observation tank, with a tiny newly discovered Dendropsophus tree frog quietly resting on the cat's back. Bold vertical typography overlay includes Traditional Chinese characters and the English text '2026-07-12 14:21 UTC', an issue number, and a barcode. Inside-the-glass-vessel composition, contained miniature world framing, refractive glass border. Ring light illumination creates a perfect circular halo reflection on the glass surface and circular catchlights, even frontal lighting, dramatic shadows and highlights, high contrast, rich tonal range, beauty portrait quality. The photograph features an aged silk scroll surface effect, warm sepia patina, visible silk weave, weathered paper stains, delicate crease lines, and antique manuscript texture. Clean graphic design composition, print publication aesthetic. Shot with a 35mm lens, f/1.8, shallow depth of field, photographic film grain, candid shot. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4951526835,
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Ring Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
