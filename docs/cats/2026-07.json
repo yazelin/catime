@@ -4171,5 +4171,41 @@
     "character": "mochi",
     "title": "海畔西瓜大胃王",
     "comment_id": 4949208444
+  },
+  {
+    "idea": "在白底去背棚光的分割畫面中，一側是具備黏土陶瓷質感的生化歌劇歌手，另一側則是一隻四足貓咪正專注地啃咬著一把由肌肉與藤蔓構成的生物朋克大提琴。整體視覺充滿復古褪色色調，展現奇異的實驗舞台生態。",
+    "story": "艾克斯音樂節的實驗舞台上，一把寄生型大提琴正隨著古典樂微微搏動。一隻常駐劇院的四足貓咪對這些蠕動的肉質琴弦產生了食慾，正津津有味地咀嚼著延伸到地板上的生物觸手。這場詭異而華麗的歌劇饗宴，在純白的光照下宛如一組被定格的精緻黏土雕塑。",
+    "number": 2455,
+    "news_inspiration": [
+      "在英國倫敦，捷克女將琳達·諾斯科娃（Linda Noskova）在2026年溫布頓網球錦標賽女單決賽中大放異彩，成功抱走冠軍獎盃。",
+      "在美國邁阿密，英格蘭國家男子足球隊以2比1力克挪威隊，順利挺進2026年FIFA世界盃四強。",
+      "在法國普羅旺斯地區艾克斯，世界知名的艾克斯國際音樂節（Festival d'Aix-en-Provence）正熱烈舉行，為當地帶來頂級的歌劇與古典樂文化饗宴。",
+      "在澳洲阿米代爾，新英格蘭大學（UNE）舉辦了一場別出心裁的「科學遇見藝術」探索活動，以趣味互動啟發學童對跨領域知識的熱情。"
+    ],
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Split View",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 4949484047,
+    "avoid_list": [
+      "伸出前爪撥弄撲打",
+      "藍黃互補與青橙色調",
+      "冷冽藍青色調",
+      "溫室花房場景",
+      "水彩插畫風格",
+      "絞染紋理圖案",
+      "閃光燈直打效果",
+      "滿版無留白特寫構圖",
+      "俯視與鳥瞰視角",
+      "頭戴迷你小草帽",
+      "底片顆粒復古質感",
+      "水池與池畔邊緣"
+    ],
+    "title": "生化歌劇的詠嘆",
+    "inspiration": "在法國普羅旺斯地區艾克斯，世界知名的艾克斯國際音樂節（Festival d'Aix-en-Provence）正熱烈舉行，為當地帶來頂級的歌劇與古典樂文化饗宴。",
+    "prompt": "Split view composition with a sharp vertical cut line, left half photorealistic, right half wireframe diagram. White seamless studio lighting, evenly lit subject on pure white cyclorama, clean shadowless product look, bright high-key backdrop, crisp commercial clarity. On the left side, a biomechanical opera singer, an organic-mechanical hybrid showing genetic modification themes. On the right side, a four-legged cat intently chewing on a biopunk cello constructed of pulsating muscle and vines, featuring bioluminescent elements and mutated flora. The overall visual style embodies a sculpted clay texture and a handmade ceramic feel, with a matte surface showcasing subtle imperfections. Warm earthy tones, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. Prominently display the text '2026-07-12 01:28 UTC' in the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
