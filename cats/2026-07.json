@@ -4846,5 +4846,39 @@
     "inspiration": "original",
     "comment_id": 4957641284,
     "idea": "運用木刻版畫風格與藍黃互補色調，以分割畫面呈現：一半是沉浸在水下焦散光中的粗糙混凝土水族館通道，一隻橘白相間的四足貓咪正專注地緊盯著玻璃；另一半則是湛藍水槽中游動的鮮黃色發光水母。"
+  },
+  {
+    "comment_id": 4958869091,
+    "story": "為了慶祝馬克薩斯群島實施最高級別的海域保護，藝術家在半空中搭建了巨大的霓虹折紙浮島。一隻好奇的玳瑁貓在海島邊緣奔跑，陽光透過雲層如窗邊柔光般灑落，與折紙飛魚斑斕的螢光交織成一幅充滿速度感的生態讚歌。",
+    "prompt": "A real tortoiseshell cat captured with handheld slow shutter and intentional motion blur, creating dynamic light streaks and a flowing movement, dreamy time-passing effect. The cat is intensely chasing folded paper art origami style flying fish with clean geometric creases and sharp angular folds. The scene is set on a miniature landscape on a levitating platform, a floating island in the sky surrounded by white clouds in an aerial perspective. Illumination features soft window light, gentle directional daylight with a smooth falloff into shadow, creating an intimate still-life mood and classic Vermeer-like illumination, contrasted with neon fluorescent colors, electric pink, lime green, and hot cyan glowing from the origami fish. In the corner of the scene, the text '2026-07-13 14:00 UTC' is visually displayed. Shot with a 35mm lens, f/2.8, candid shot, capturing the action as a real photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2475,
+    "title": "群島霓虹的微光奔襲",
+    "inspiration": "在法屬玻里尼西亞的馬克薩斯群島，當地宣布對周圍20萬平方英里的海域實施最高級別的生態保護，全面禁止採礦與工業捕魚。",
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Floating Island Scene",
+      "lighting": "Window Light",
+      "texture": "Origami",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [
+      "在墨西哥的墨西哥城，一隻英國牧羊犬與眾多球迷參加了國家隊門將奧喬亞（Guillermo Ochoa）的趣味模仿大賽，試圖贏取一年份的免費披薩。",
+      "在美國堪薩斯州的勞倫斯市，當地居民熱情迎接參與2026世界盃的阿爾及利亞國家隊，更有藝術家在農田中創作出巨大的阿爾及利亞國旗地景。",
+      "在法屬玻里尼西亞的馬克薩斯群島，當地宣布對周圍20萬平方英里的海域實施最高級別的生態保護，全面禁止採礦與工業捕魚。",
+      "在非洲索馬利亞，榮獲非洲最佳男子足球裁判稱號的奧馬爾（Omar Abdulkadir Artan）光榮返鄉時，受到了當地民眾英雄式的熱烈歡迎。"
+    ],
+    "avoid_list": [
+      "伸出前掌撥弄與捕捉",
+      "充氣PVC材質與氣球表面",
+      "滿鋪巨量花生醬的地板",
+      "漂浮的發光水母",
+      "等距視角攝影",
+      "搖曳的微弱燭光照明",
+      "粗糙清水混凝土質地",
+      "螢光與生物發光效果",
+      "博物館與展廳場景",
+      "貓咪配戴草帽"
+    ],
+    "idea": "在浮空折紙海島上，一隻真實的貓咪以手持慢門的模糊動感，正全神貫注地追逐著由紙張折成的飛魚，展現窗邊柔光與霓虹螢光色的虛實交錯。"
   }
 ]
