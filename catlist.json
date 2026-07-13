@@ -23031,5 +23031,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "在馬來西亞的一座村莊裡，超過一百名村民為了保留一棟因鐵路工程面臨拆遷的75年歷史木屋，齊心協力用肩膀將整棟房屋扛起並搬移至新地點。",
     "status": "success"
+  },
+  {
+    "character": "mochi",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "title": "盛夏西瓜大挑戰",
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-13_0129_UTC.webp",
+    "status": "success",
+    "inspiration": "美國，紐約：大胃王喬伊·切斯納特（Joey Chestnut）在布魯克林康尼島舉辦的吃熱狗大賽中，以吞下66個熱狗的驚人成績再次奪冠。",
+    "number": 2471,
+    "timestamp": "2026-07-13 01:29 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
