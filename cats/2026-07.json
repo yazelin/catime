@@ -4911,5 +4911,40 @@
     "title": "光影中的閱讀者",
     "comment_id": 4960335853,
     "character": "momo"
+  },
+  {
+    "story": "劇院後台裡，舞者們正為了即將到來的慶典排練著傳統舞蹈。這隻平時總愛在道具間打盹的白貓似乎也被熱烈的氣氛感染，跟著節奏在晶瑩剔透的紅金燈籠間穿梭飛躍。牠那宛如專業舞者般的輕盈身段，成為了這場排練中最令人驚豔的插曲。",
+    "title": "飛躍紅金後台",
+    "number": 2477,
+    "news_inspiration": [
+      "在荷蘭阿姆斯特丹，該市成為全球首個在公共區域全面禁止肉類、航空與化石燃料廣告的首都，以此推動氣候與環境保護。",
+      "在印尼蘇門答臘，政府撤銷了當地數十家資源公司的採礦與伐木許可證，大舉投入保護世界上最稀有的紅毛猩猩棲息地。",
+      "在美國洛杉磯，帕薩迪納動物收容所一隻名叫「花生」的救援幼犬在網路上爆紅，憑藉可愛魅力成功為收容所募得數千筆愛心捐款。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員為狗狗們穿上阿根廷國家足球隊的迷你球衣在街頭散步，逗趣的模樣成為當地熱門話題。",
+      "在英國倫敦，自然歷史博物館的科學家們在一個不起眼的抽屜裡，意外發現了一塊極其罕見、來自南極洲的泰坦巨龍化石。"
+    ],
+    "prompt": "Dance movement photography, candid shot, 35mm lens, f/1.8. An elegant white cat frozen mid-air in a perfect jump between two traditional mahogany chairs. Dynamic body in motion, expressive gesture and line, kinetic energy. Environmental medium shot backstage in a traditional theater, storytelling background, subject placed within a meaningful setting, natural depth perspective, balanced figure-and-context framing. Scattered stage props made of translucent resin material, glossy smooth surface, amber-like clarity, embedded elements visible inside. Festive red and gold colors, auspicious Chinese red dominance with bright gold accents, celebratory warmth, lucky vivid contrast, flowing fabric in the background. Dramatic studio light freezing motion, volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, dramatic depth. A prominent sign on the wall clearly displays the text '2026-07-13 18:25 UTC'. Real photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4961276877,
+    "idea": "採用舞蹈肢體攝影風格的中景環境人像，一隻優雅的四足白貓在傳統劇院後台的兩張紅木椅之間展現出完美的跳躍姿態。穿透窗戶的強烈體積光照亮了四周散落的透明樹脂與紅金配色舞台道具，捕捉下這充滿動感的真實瞬間。",
+    "avoid_list": [
+      "伸出前掌撥弄與捕捉",
+      "充氣PVC材質與氣球表面",
+      "滿鋪巨量花生醬的地板",
+      "漂浮的發光水母",
+      "等距視角攝影",
+      "搖曳的微弱燭光照明",
+      "粗糙清水混凝土質地",
+      "螢光與生物發光效果",
+      "博物館與展廳場景",
+      "貓咪配戴草帽"
+    ],
+    "style_picks": {
+      "art_style": "Dance Movement Photography",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Festive Red and Gold"
+    },
+    "inspiration": "original"
   }
 ]
