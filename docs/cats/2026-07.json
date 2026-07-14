@@ -5489,5 +5489,39 @@
     "prompt": "Gyotaku style direct ink impression print illustration of a cat on all fours licking glowing condensation drops off a giant cooling pipe in the Paris underground cooling network. Neon fluorescent colors, electric pink, lime green, hot cyan glowing against a dark background, textured relief surface, traditional Japanese art form technique applied to a modern industrial subject. Leading lines composition with converging perspective lines of the moss-covered giant pipes guiding the eye toward the cat, strong directional depth, architectural path-driven framing. The giant pipe features lush green organic overgrowth, nature reclaiming texture, damp forest aesthetic, and a soft living patina. Deep backlighting with rim light, glowing silhouette edges outlining the cat, dramatic mood. Distant engineering staff inspecting valves in the deep background. The English text '2026-07-14 22:44 UTC' is prominently and visibly displayed within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 4974727811,
     "story": "隨著巴黎地下的塞納河冷卻系統不斷擴建，這個潮濕的迷宮成了城市貓咪的隱秘避暑勝地。當工程人員在遠處巡視閥門時，這隻流浪貓正安靜地享受著管線上沁涼的螢光水滴。那深邃的背光與蔓生的苔蘚，讓這座現代工業設施彷彿變成了奇幻的地下叢林。"
+  },
+  {
+    "avoid_list": [
+      "伸出爪子撥弄物品",
+      "魚眼鏡頭與強烈桶狀變形",
+      "畫面中顯示UTC時間文字",
+      "搖曳的溫暖燭光照明",
+      "強制僅使用繁體中文或英文",
+      "大地色系與溫暖棕色組合",
+      "戲劇性高對比光影與聚光燈",
+      "邊緣裝飾與拼貼邊框設計",
+      "貓咪與古物或科學設備互動",
+      "強調強烈互補色的色彩配置"
+    ],
+    "idea": "在這幅中片幅攝影作品中，移軸微縮效果將現代網球館的莫蘭迪色大理石大廳化為迷你的袖珍世界，一隻灰貓正專注地在平滑的地面上追逐著一顆遺落的綠色網球。大廳內播放賽事的LED螢幕在拋光石材上反射出宛如星雲輝光般的柔和粉紫光暈。",
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Marble",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 2494,
+    "story": "溫布頓男單決賽剛剛落幕，喧囂的人群與球迷逐漸散去。這隻總愛在場館裡溜達的當地貓咪，終於等到了牠最自在的時刻。牠在冰涼的大理石走廊上來回奔跑，將那顆充滿比賽氣息的網球當作了自己的專屬獎盃。",
+    "inspiration": "英國倫敦：義大利網球名將揚尼克·辛納（Jannik Sinner）在2026年溫布頓網球錦標賽中擊敗對手，奪得男單冠軍。",
+    "comment_id": 4975133994,
+    "news_inspiration": [
+      "中國重慶：重慶動物園為大熊貓寶寶「望舒」舉辦了溫馨的一歲生日慶典，並正式對外公佈她的名字。",
+      "西班牙加的斯：天文攝影師成功捕捉到蛇夫座ρ星雲宛如「棉花糖」般夢幻的恆星誕生區，並獲選為NASA每日天文圖。",
+      "美國德州阿靈頓：西班牙國家足球隊在2026年世界盃四強賽中，以2比0擊敗法國隊，成功挺進冠軍決賽。",
+      "英國倫敦：義大利網球名將揚尼克·辛納（Jannik Sinner）在2026年溫布頓網球錦標賽中擊敗對手，奪得男單冠軍。"
+    ],
+    "prompt": "Medium format photography, Hasselblad aesthetic, Tilt-shift photography of a modern tennis stadium hall transformed into a miniature toy-like effect. A grey cat is actively chasing a green tennis ball across a luxurious stone surface with polished marble texture, natural vein patterns, and a cool smooth finish. An LED screen in the background clearly displays the text '2026-07-14 23:40 UTC'. The hall features Morandi muted colors, desaturated soft pastels, dusty grey undertones, and quiet classical elegance. The glowing LED screens reflect a nebula cosmic glow, soft colorful starfield illumination, purple and blue space light, glowing particles, and galactic haze onto the marble floor. Extraordinary tonal range, creamy shallow depth of field, selective focus band, blurred foreground and background, vibrant saturated colors contrasting with the muted surroundings, candid candid shot, highly realistic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "賽後的大理石長廊"
   }
 ]
