@@ -5419,5 +5419,40 @@
       "強調強烈互補色的色彩配置"
     ],
     "title": "仲夏夜的鏡像"
+  },
+  {
+    "idea": "這是一幅復古少女漫畫風格的插畫，採用鏡子自拍的構圖，鏡中映照出一位少女與一隻四腳貓咪在粉彩色系的賞鯨船艙內，貓咪正趴在玻璃底板上，全神貫注地盯著下方散發星雲輝光與閃光亮粉效果的巨大座頭鯨。",
+    "style_picks": {
+      "art_style": "Retro Shoujo Manga Illustration",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "里約熱內盧的賞鯨熱潮讓這艘觀光船班班客滿，連隨船的貓咪也成了狂熱粉絲。當閃爍著宇宙般光芒的粉色巨鯨緩緩從船底游過時，小貓將鼻頭緊緊貼在玻璃上，圓滾滾的眼睛裡充滿了驚奇。少女趁機對著艙壁上的大鏡子按下快門，將這如夢似幻的瞬間永遠定格。",
+    "avoid_list": [
+      "伸出爪子撥弄物品",
+      "魚眼鏡頭與強烈桶狀變形",
+      "畫面中顯示UTC時間文字",
+      "搖曳的溫暖燭光照明",
+      "強制僅使用繁體中文或英文",
+      "大地色系與溫暖棕色組合",
+      "戲劇性高對比光影與聚光燈",
+      "邊緣裝飾與拼貼邊框設計",
+      "貓咪與古物或科學設備互動",
+      "強調強烈互補色的色彩配置"
+    ],
+    "prompt": "Retro shoujo manga illustration, nostalgic vintage girls'-comic styling, delicate screentone, mirror selfie composition, casual framing. In the visible reflection, a 1970s-80s sparkling big-eyed heroine takes a selfie inside a pastel whale-watching cabin. On the floor next to her, a four-legged cat is lying flat on a glass bottom floor, its nose pressed tightly against the glass, round eyes full of wonder, staring intently down at a giant humpback whale swimming underneath. The whale and water emit a nebula cosmic glow, ethereal purple and blue space light, and soft colorful starfield illumination. Sparkle and glitter overlay effects, star-shaped highlights, shimmering particles, magical glow dust, anime shine accents, otherworldly radiance, glowing particles, and galactic haze fill the intimate close-up perspective. Soft pastel color palette, gentle pink, lavender, mint, baby blue, dreamy light tones, floral backgrounds. A clear text timestamp reading '2026-07-14 21:44 UTC' is visually displayed in the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2492,
+    "news_inspiration": [
+      "為了對抗炎熱高溫並響應節能，日本東京的政府官員打破傳統，脫下西裝改穿輕便短褲辦公。",
+      "巴西里約熱內盧近期頻繁出現座頭鯨的身影，意外帶動了當地賞鯨觀光行程的熱潮。",
+      "參加瑞士年度音樂節的約德爾調歌手們因為天氣太過炎熱，索性跳進當地噴泉裡一邊泡水一邊演唱。",
+      "一名美國女性划船手成功完成從加州獨自划船抵達夏威夷的創舉，打破了單人橫渡太平洋的歷史紀錄。",
+      "研究人員在博物館不起眼的抽屜深處，意外尋獲了一塊被遺忘多年、來自南極洲的罕見恐龍化石。"
+    ],
+    "comment_id": 4974335230,
+    "title": "鯨光閃爍的相遇",
+    "inspiration": "巴西里約熱內盧近期頻繁出現座頭鯨的身影，意外帶動了當地賞鯨觀光行程的熱潮。"
   }
 ]
