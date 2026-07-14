@@ -23158,5 +23158,18 @@
     "timestamp": "2026-07-14 04:38 UTC",
     "character": "lingling",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "character": "mochi",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "夏日瓜香與燭光",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-14_0702_UTC.webp",
+    "season": "summer",
+    "timestamp": "2026-07-14 07:02 UTC",
+    "number": 2484
   }
 ]

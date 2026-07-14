@@ -5144,5 +5144,44 @@
       "color_palette": "Monochrome / Black and White"
     },
     "character": "lingling"
+  },
+  {
+    "story": "盛夏的海風徐徐吹進老街旁的沙灘，玩累了的麻糬窩在溫暖的大地色絲綢帳篷裡。牠穿著特製的小浮水衣，盯著眼前比牠腦袋還大的紅肉西瓜，一邊瞇眼打呼，一邊忍不住伸出戴著「橘色手套」的右前爪去撥弄西瓜籽。",
+    "character": "mochi",
+    "inspiration": "original",
+    "avoid_list": [
+      "貓咪咀嚼或叼著異物",
+      "強制顯示UTC時間戳記",
+      "聲明禁用簡體中文",
+      "發光水母元素",
+      "體積光與上帝光",
+      "粗野主義混凝土背景",
+      "微縮模型與巨大化對比",
+      "霓虹螢光色彩",
+      "摺紙與紙雕藝術風格",
+      "中國紅與鑲金配色",
+      "強調貓咪為四足"
+    ],
+    "is_seasonal": true,
+    "comment_id": 4966331067,
+    "season": "summer",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Candlelight",
+      "texture": "Silk",
+      "color_palette": "Earth Tones"
+    },
+    "character_name": "麻糬",
+    "title": "夏日瓜香與燭光",
+    "prompt": "Fauvism art style painting of a chubby rounded shorthair cat named Mochi. Mochi has a white base coat, bright orange patches, large round amber eyes, a pink nose with a tiny orange center dot, and a spherical torso with short stubby legs. On Mochi's face, a solid orange mask covers the right half (viewer's right, extending from the nose bridge across the right cheek to the right ear) while the left face remains entirely white. On Mochi's back, a heart-shaped orange saddle is visible. Mochi's right front paw is a solid orange mitten to the wrist, while the left front paw is pure white, and the belly is white. Mochi is wearing a mini orange and blue life jacket, sitting inside a cozy beach tent made of silk fabrics. Mochi is exploring a freshly sliced, cool red watermelon with its pink nose and right orange paw. The scene is lit by a warm, orange flickering candlelight, casting soft dancing shadows. The color palette is wildly vibrant and non-naturalistic with a textured impasto brushwork, simplified forms, and an earth tone backdrop of terracotta, olive green, and warm brown. The setting is a cozy beach tent with a luxurious, luminous silk drape. Visually displayed in a corner of the image is the text '2026-07-14 07:02 UTC' in a clean English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在野獸派風格的沙灘帳篷裡，橘白偏胖的貓咪「麻糬」穿著迷你橘藍相間的浮水衣，在燭光搖曳的絲綢墊子上，用粉紅鼻頭和貓爪探索一顆剛切開的冰涼大西瓜。",
+    "news_inspiration": [
+      "荷蘭阿姆斯特丹成為全球首個在公共空間全面禁止肉類與化石燃料廣告的首都，以實際行動支持氣候保護與公眾健康。",
+      "肯亞蒙巴薩成功舉辦「我們的海洋」國際大會，並獲得高達64億美元的資金承諾以保護全球海洋生態。",
+      "加拿大溫哥華的斯闊米甚（Squamish）原住民族啟動了全球最大的淨零排放住宅計畫之一，預計將打造六千戶永續住房。",
+      "吉爾吉斯在中部高海拔地區正式設立生態走廊，為瀕危的雪豹及其他野生動物提供適應氣候變遷的安全棲息空間。"
+    ],
+    "number": 2484
   }
 ]
