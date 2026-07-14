@@ -5074,5 +5074,43 @@
     "news_inspiration": [],
     "story": "黃昏時分的修車廠瀰漫著機油味與暖意，老技師剛放下手中的扳手稍作休息。一顆螺絲釘順著傾斜的鐵板滾落到地面，發出清脆的聲響。躲在一旁的橘貓立刻被吸引，好奇地湊上前用肉墊反覆試探這個新玩具。",
     "idea": "以手機隨拍的故事插畫分格排版呈現，一隻橘貓在充滿鐵鏽的老舊修車廠內，正伸出毛茸茸的爪子撥弄著技師不小心掉落的螺絲釘。畫面籠罩在濃郁的青橙色電影感光影中，寫實捕捉了金屬鏽斑的歲月痕跡。"
+  },
+  {
+    "story": "考古團隊剛從神祕海灣撈起珍貴的中世紀沉船文物，暫時放置在濕漉漉的防波堤上。身為碼頭老大的「船長」原本威風凜凜地靠近巡視，卻在看見古老陶罐裡意外夾帶的小海魚時瞬間失去所有威嚴，滿心歡喜地撈著牠的專屬戰利品。",
+    "comment_id": 4964489237,
+    "prompt": "Vertical poster composition, East Asian movie poster framing, Renaissance painting style, sfumato technique, classical composition. A literal four-legged large stocky brown classic tabby cat with bold black stripes and a broad muscular build crouches on a wet breakwater in a Spanish bay. The cat's fur is scruffy, untidy, and coarse. Its left eye is permanently concealed by a natural dark-pigmented fur patch covering the socket without any straps or fabric, while the right eye is a piercing emerald green. The left ear has a prominent V-shaped notch. It wears a loosely tied faded red bandana around its neck. It has a distinctive M-mark on its forehead, a white chest bib, a thick sturdy tail, and four white mitten paws. It is reaching one white paw to play with a tiny fish swimming inside a 13th-century ancient clay pot sitting on the ground. Masterful light and shadow, backlighting with rim light, glowing silhouette edges outlining the coarse fur, dramatic mood. The ground has a mirror water reflection, a glassy still surface mirroring the subject with a symmetrical inverted image, subtle ripples, and serene reflective sheen. Morandi muted color palette, desaturated soft pastels, dusty grey undertones blending with a rich warm palette and quiet elegance. Photorealistic central focal point, multi-layered depth, realistic perspective. Ornamental border elements, red seal accents, and a side calligraphy panel. The exact text '2026-07-14 01:18 UTC' is visibly and clearly incorporated into the poster design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "船長",
+    "news_inspiration": [
+      "在荷蘭鹿特丹，一間博物館為了向已故藝術家溫·席珀斯致敬，特別在展廳地板上塗滿了厚厚的花生醬作為奇特展覽。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員為他照顧的狗狗們穿上阿根廷國家足球隊的球衣上街散步，成為街頭的可愛亮點。",
+      "在西班牙梅諾卡島，考古學家於「神秘海灣」中尋獲三艘13世紀的中世紀貿易沉船，並發現了保存完好的珍貴跨文化文物。",
+      "在英國倫敦，國家檔案館公開展示了一份最新被發現、於1776年印製的罕見美國《獨立宣言》歷史副本。",
+      "在美國紐約，知名大胃王喬伊·切斯納於布魯克林康尼島舉辦的2026年國慶日吃熱狗大賽中再次奪得冠軍。"
+    ],
+    "avoid_list": [
+      "貓咪咀嚼或叼著異物",
+      "強制顯示UTC時間戳記",
+      "聲明禁用簡體中文",
+      "發光水母元素",
+      "體積光與上帝光",
+      "粗野主義混凝土背景",
+      "微縮模型與巨大化對比",
+      "霓虹螢光色彩",
+      "摺紙與紙雕藝術風格",
+      "中國紅與鑲金配色",
+      "強調貓咪為四足"
+    ],
+    "inspiration": "在西班牙梅諾卡島，考古學家於「神秘海灣」中尋獲三艘13世紀的中世紀貿易沉船，並發現了保存完好的珍貴跨文化文物。",
+    "title": "古船與貓的漁獲",
+    "idea": "以文藝復興油畫風格與直式海報構圖呈現，戴著紅頭巾與眼罩的壯碩虎斑貓「船長」蹲在西班牙海灣的濕滑防波堤上，背光勾勒出牠粗糙的毛髮輪廓，地面的鏡面水窪以莫蘭迪色調倒映著牠正伸出白底貓掌，專心撥弄剛從十三世紀沉船打撈上岸陶罐裡的一條小魚。",
+    "character": "captain",
+    "style_picks": {
+      "art_style": "Renaissance",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 2482
   }
 ]
