@@ -5183,5 +5183,38 @@
       "吉爾吉斯在中部高海拔地區正式設立生態走廊，為瀕危的雪豹及其他野生動物提供適應氣候變遷的安全棲息空間。"
     ],
     "number": 2484
+  },
+  {
+    "story": "為了致敬已故藝術家，博物館將展廳地板鋪滿了厚厚的花生醬，宛如一片秋日的金色泥沼。一隻調皮的小白貓趁夜溜了進來，毫不客氣地在地板上大快朵頤，吃得滿嘴都是香濃的堅果味。巡夜的仙子提著燭燈趕來，卻只看見這件藝術品已被改造成了貓咪專屬的深夜食堂。",
+    "number": 2485,
+    "avoid_list": [
+      "精確的UTC時間戳文字標籤",
+      "貓咪伸爪或用鼻子撥弄小物件",
+      "35mm大光圈鏡頭抓拍",
+      "穿透塵埃的戲劇性體積光",
+      "嚴格要求繁體中文禁用簡體字",
+      "強調字面意義上的四足貓咪",
+      "斑駁生鏽的歲月痕跡與金屬質感",
+      "戲劇性的強烈高對比光影",
+      "突如其來的日常抓拍瞬間"
+    ],
+    "title": "琥珀泥上的夜宴",
+    "news_inspiration": [
+      "在美國紐約，大胃王喬伊·切斯納特於康尼島的國慶日大賽中吞下66個熱狗，再次奪下吃熱狗大賽的冠軍寶座。",
+      "在荷蘭鹿特丹，一間博物館為了向已故藝術家致敬，展出了一整片塗滿花生醬的地板這項奇特又充滿創意的藝術裝置。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員帶著一群全都穿著阿根廷國家足球隊球衣的狗狗們散步，畫面十分溫馨逗趣。",
+      "在澳洲的海岸邊，一隻重達2200磅、名為「尼爾」的巨大象海豹回到了牠的出生地，為當地居民帶來了意外的驚喜與歡樂。"
+    ],
+    "style_picks": {
+      "art_style": "Xianxia Beauty Character Art",
+      "composition": "Fisheye Lens",
+      "lighting": "Candlelight",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 4967735257,
+    "idea": "以古風仙俠美人立繪結合厚塗油彩肌理的風格，透過魚眼鏡頭捕捉一隻毛茸茸的白貓在博物館內，正低頭狂舔塗滿花生醬的地板。琥珀色的溫暖燭光照亮了這片奇特的藝術裝置，背景中還有一位提著燈籠的仙子正無奈地看著牠。",
+    "inspiration": "在荷蘭鹿特丹，一間博物館為了向已故藝術家致敬，展出了一整片塗滿花生醬的地板這項奇特又充滿創意的藝術裝置。",
+    "prompt": "A fluffy white cat intensely licking a thick layer of peanut butter off a museum floor. Fisheye wide-angle lens, strong barrel distortion, exaggerated foreground, 360-degree feel. In the background stands an ethereal ancient-style Chinese maiden in flowing hanfu with ornate hairpieces, holding a lantern and watching helplessly, rendered like a xianxia beauty character standee with fantasy wuxia game art quality and a soft glowing render. A prominent museum sign clearly displays the exact text '2026-07-14 09:44 UTC'. The entire scene features an impasto oil texture, thick palette-knife strokes, raised three-dimensional paint ridges, visible brush gestures, and a rich tactile painterly surface. Illuminated by candlelight, warm orange flickering glow, intimate atmosphere, soft dancing shadows. Warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
