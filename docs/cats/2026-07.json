@@ -5216,5 +5216,38 @@
     "idea": "以古風仙俠美人立繪結合厚塗油彩肌理的風格，透過魚眼鏡頭捕捉一隻毛茸茸的白貓在博物館內，正低頭狂舔塗滿花生醬的地板。琥珀色的溫暖燭光照亮了這片奇特的藝術裝置，背景中還有一位提著燈籠的仙子正無奈地看著牠。",
     "inspiration": "在荷蘭鹿特丹，一間博物館為了向已故藝術家致敬，展出了一整片塗滿花生醬的地板這項奇特又充滿創意的藝術裝置。",
     "prompt": "A fluffy white cat intensely licking a thick layer of peanut butter off a museum floor. Fisheye wide-angle lens, strong barrel distortion, exaggerated foreground, 360-degree feel. In the background stands an ethereal ancient-style Chinese maiden in flowing hanfu with ornate hairpieces, holding a lantern and watching helplessly, rendered like a xianxia beauty character standee with fantasy wuxia game art quality and a soft glowing render. A prominent museum sign clearly displays the exact text '2026-07-14 09:44 UTC'. The entire scene features an impasto oil texture, thick palette-knife strokes, raised three-dimensional paint ridges, visible brush gestures, and a rich tactile painterly surface. Illuminated by candlelight, warm orange flickering glow, intimate atmosphere, soft dancing shadows. Warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "精確的UTC時間戳文字標籤",
+      "貓咪伸爪或用鼻子撥弄小物件",
+      "35mm大光圈鏡頭抓拍",
+      "穿透塵埃的戲劇性體積光",
+      "嚴格要求繁體中文禁用簡體字",
+      "強調字面意義上的四足貓咪",
+      "斑駁生鏽的歲月痕跡與金屬質感",
+      "戲劇性的強烈高對比光影",
+      "突如其來的日常抓拍瞬間"
+    ],
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Ring Light",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Moonlit Indigo"
+    },
+    "news_inspiration": [
+      "在美國賓夕法尼亞州，一位匿名善心人士慷慨捐贈了10萬美元，成功拯救了一個即將因資金短缺而關閉的長者社區供餐計畫。",
+      "英國倫敦西部的野生海狸發揮了驚人的築壩天性，免費幫當地議會解決了原本需要耗費巨資處理的長期洪水困擾。",
+      "肯亞蒙巴薩成功舉辦了非洲首場「我們的海洋」國際大會，各國順利達成共識並承諾投入64億美元用於全球海洋生態保護。",
+      "印尼政府正式撤銷了位於紅毛猩猩棲息地內的採礦與伐木許可證，為世界上最稀有的靈長類動物保留了珍貴的原始森林家園。"
+    ],
+    "idea": "這是一幅月夜靛藍色調的復古海報，採用中景環境人像構圖，一隻虎斑貓正慵懶地趴在蒙巴薩海洋研究站的巨大航海圖上，在環形燈的均勻照射下陪伴著周圍忙碌的海洋科學家，海報邊緣巧妙地裝飾著精緻的立體花卉貼花。",
+    "story": "海洋大會閉幕後的深夜，各國代表的討論聲已經散去，只剩幾位學者仍在連夜規劃生態保護區。這隻名為「浪花」的營地貓毫不客氣地將自己捲縮在標記著新計畫的藍圖正中央，彷彿在用體溫守護這片海域。科學家們笑著繞開牠的尾巴，在靜謐的月色下繼續勾勒未來。",
+    "number": 2486,
+    "inspiration": "肯亞蒙巴薩成功舉辦了非洲首場「我們的海洋」國際大會，各國順利達成共識並承諾投入64億美元用於全球海洋生態保護。",
+    "prompt": "Vintage poster art illustration, mid-century modern design. Environmental medium shot, subject placed within a meaningful setting, balanced figure-and-context framing, natural depth perspective. A tabby cat lounging comfortably in the center of a massive nautical blueprint chart inside the Mombasa Marine Research Station, surrounded by a storytelling background of busy marine scientists reviewing maps. Ring light illumination, circular catchlight in the cat's eyes, even frontal lighting, beauty portrait quality. Moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, dark dreamy blue dominance, retro color palette. The poster borders feature three-dimensional floral appliqué texture, sculpted raised flowers applied to the surface, layered petal relief, ornate dimensional bloom decoration. Bold typography clearly displaying the text '2026-07-14 11:16 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "守望湛藍海域",
+    "comment_id": 4968601082
   }
 ]
