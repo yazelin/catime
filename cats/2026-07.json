@@ -5385,5 +5385,39 @@
       "強調強烈互補色的色彩配置"
     ],
     "inspiration": "為了應對夏季熱浪，法國巴黎正大幅擴展利用塞納河水進行區域降溫的地下管網系統，以環保方式取代傳統空調。"
+  },
+  {
+    "news_inspiration": [
+      "瑞士物理研究團隊首度成功透過公路將反物質粒子運送了五公里的距離，為未來的粒子物理實驗寫下了歷史性的里程碑（瑞士日內瓦）。",
+      "為了慶祝全新迪士尼探險號郵輪的到來，著名的聖淘沙島正全面變身為充滿魔法與驚喜的海岸主題樂園（新加坡）。",
+      "大維多利亞莎士比亞戲劇節在歷史悠久的克雷格達羅克城堡外，以生動活潑且極具巧思的風格重新演繹了經典喜劇《仲夏夜之夢》（加拿大維多利亞）。",
+      "英國外科醫生運用最先進的機器人輔助技術，成功為遠在1500英里外的病患完成了首例跨國長距離遠距手術（直布羅陀）。"
+    ],
+    "prompt": "Renaissance painting style artwork of a theatrical backstage on a grassy lawn outside a stone castle. A black cat on all fours is looking down and carefully licking its tail amidst discarded crimson velvet cloaks. Next to it stands a tall ornate prop mirror featuring a doppelganger mirror composition: the reflection in the mirror shows the black cat quietly sitting upright, gazing at the cold moonlight, creating uncanny symmetry, surreal twin framing, and a conceptual self-encounter. The scene clearly displays the text '2026-07-14 20:10 UTC' elegantly painted on a theatrical wooden sign. Masterful light and shadow, sfumato technique, classical composition, realistic perspective. Moonlight illumination casting a gentle silvery glow and cool blue tones. Rich warm palette mixed with a crimson and black palette, deep blood-red against jet black, dramatic high-contrast intensity, seductive sinister mood. The painting incorporates pressed botanical layers, flattened dried flowers and leaves, delicate translucent plant specimens, and a layered herbarium texture acting as a natural organic collage enhancing the quiet nighttime atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夏夜的戲劇節落幕，演員們留下了華麗的緋紅天鵝絨披風與道具。黑貓獨自來到後台梳理毛髮，在銀白月色的映照下，鏡中那個擁有獨立意識的倒影，彷彿正在無聲地接續演出未完的仲夏夜之夢。",
+    "idea": "在文藝復興繪畫風格中，一隻四腳著地的黑貓在城堡外的草地劇團後台，正低頭仔細舔舐自己的尾巴；透過鏡像異我構圖，高大道具鏡中映照出的黑貓卻是靜靜端坐凝視清冷月光，整體畫面以緋紅與烏黑為主色調，並帶有壓花植物疊層的獨特紋理。",
+    "inspiration": "大維多利亞莎士比亞戲劇節在歷史悠久的克雷格達羅克城堡外，以生動活潑且極具巧思的風格重新演繹了經典喜劇《仲夏夜之夢》（加拿大維多利亞）。",
+    "comment_id": 4973578116,
+    "number": 2491,
+    "style_picks": {
+      "art_style": "Renaissance",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Moonlight",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Crimson and Black"
+    },
+    "avoid_list": [
+      "伸出爪子撥弄物品",
+      "魚眼鏡頭與強烈桶狀變形",
+      "畫面中顯示UTC時間文字",
+      "搖曳的溫暖燭光照明",
+      "強制僅使用繁體中文或英文",
+      "大地色系與溫暖棕色組合",
+      "戲劇性高對比光影與聚光燈",
+      "邊緣裝飾與拼貼邊框設計",
+      "貓咪與古物或科學設備互動",
+      "強調強烈互補色的色彩配置"
+    ],
+    "title": "仲夏夜的鏡像"
   }
 ]
