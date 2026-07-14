@@ -5112,5 +5112,37 @@
       "color_palette": "Morandi Color Palette"
     },
     "number": 2482
+  },
+  {
+    "idea": "這是一張黑白單色的拍立得照片，在打著純白去背棚光的工作室裡，戴著鈴鐺項圈的極蓬鬆白貓「鈴鈴」正專心地用毛茸茸的肉球撥弄、排列桌上的乾燥玫瑰花束。背景設置了一個帶有精緻蕾絲鏤空質感的穆夏式拱框實體道具，完美捕捉了她宛如一團棉花糖般的純真模樣。",
+    "comment_id": 4965463104,
+    "inspiration": "original",
+    "number": 2483,
+    "character_name": "鈴鈴",
+    "story": "鈴鈴今天跟著花店主人來到攝影棚，原本只是個小跟班的她，卻對桌上的花材產生了極大的好奇心。當她正認真地伸出小爪子「幫忙」調整花朵位置時，快門恰好按下。那清脆的鈴鐺聲彷彿也隨著這張復古的拍立得底片被永遠定格下來。",
+    "news_inspiration": [],
+    "prompt": "Black and white monochrome Polaroid instant photo with a white border frame. The text '2026-07-14 04:38 UTC' is printed clearly on the bottom white border. A literal four-legged cat, extremely fluffy pure white longhair, voluminous cloud-like fur, huge round sapphire-blue eyes, pale pink nose, pale pink inner ears. She is wearing a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. The cat is reaching out her paw, showing pink paw pads, to actively touch and arrange a bouquet of dried roses on a table. Setting is a bright high-key backdrop, white seamless studio lighting on a pure white cyclorama, clean shadowless product look. Behind the cat is a physical prop of a Mucha-style arched frame composition, symmetrical Art Nouveau panel framing with integrated floral motifs, detailed lace openwork texture, delicate floral cutout patterns, perforated fabric, fine translucent filigree, elegant scalloped edges. 35mm lens, f/2.8, candid shot, crisp commercial clarity, high contrast, rich tonal range, dramatic shadows and highlights. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓咪咀嚼或叼著異物",
+      "強制顯示UTC時間戳記",
+      "聲明禁用簡體中文",
+      "發光水母元素",
+      "體積光與上帝光",
+      "粗野主義混凝土背景",
+      "微縮模型與巨大化對比",
+      "霓虹螢光色彩",
+      "摺紙與紙雕藝術風格",
+      "中國紅與鑲金配色",
+      "強調貓咪為四足"
+    ],
+    "title": "純白裡的撥花時光",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character": "lingling"
   }
 ]
