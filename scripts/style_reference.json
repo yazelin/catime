@@ -974,6 +974,36 @@
       "zh": "未來光能時裝",
       "en": "Futuristic Luminous Couture",
       "prompt": "futuristic luminous couture concept, garments woven from glowing light-energy filaments, holographic fabrics and fiber-optic trim, sleek high-tech silhouette, neon inner glow, avant-garde fashion editorial render"
+    },
+    {
+      "zh": "水晶寶石精靈插畫",
+      "en": "Crystal Gemstone Fairy Illustration",
+      "prompt": "crystal gemstone fairy illustration, tiny sprite formed of faceted jewels and prismatic crystals, glowing translucent gemstone body, sparkling refractive facets, delicate luminous fantasy"
+    },
+    {
+      "zh": "黑白極簡觀念攝影",
+      "en": "Minimalist Black-and-White Conceptual Photography",
+      "prompt": "minimalist black-and-white conceptual photography, single subject in vast negative space, stark graphic monochrome, surreal quiet composition, high-contrast fine art print"
+    },
+    {
+      "zh": "極簡建築攝影",
+      "en": "Minimalist Architecture Photography",
+      "prompt": "minimalist architecture photography, clean geometric building lines, bold negative space, muted flat sky, abstract facade detail, calm graphic composition"
+    },
+    {
+      "zh": "皮影戲",
+      "en": "Chinese Shadow Puppetry",
+      "prompt": "Chinese shadow puppetry style, backlit translucent leather puppets, intricate perforated silhouettes, warm glowing screen, jointed figures, folk theater aesthetic"
+    },
+    {
+      "zh": "哥德定格偶",
+      "en": "Gothic Stop-Motion Puppet",
+      "prompt": "gothic stop-motion puppet animation, hand-crafted armature puppets, spindly whimsical characters, muted eerie palette, Tim Burton aesthetic, tactile handmade sets"
+    },
+    {
+      "zh": "拼布立體派人偶",
+      "en": "Patchwork Cubist Figure Sculpture",
+      "prompt": "patchwork cubist figure sculpture, stitched fabric doll with angular geometric planes, mismatched textile patches, faceted cubist form, handcrafted soft-sculpture art object"
     }
   ],
   "composition": [
@@ -1580,6 +1610,11 @@
       "zh": "稜鏡彩虹光斑",
       "en": "Prismatic Rainbow Flare",
       "prompt": "prismatic rainbow flare texture, refracted spectral light spots scattered across the image, iridescent lens-glow streaks, dreamy chromatic highlights"
+    },
+    {
+      "zh": "發光絲流",
+      "en": "Glowing Filament Flow",
+      "prompt": "glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, ethereal energy filaments"
     }
   ],
   "color_palette": [
