@@ -23316,5 +23316,18 @@
     "status": "success",
     "character": "mochi",
     "inspiration": "大胃王選手喬伊·切斯納特在美國紐約布魯克林（Brooklyn, USA）著名的康尼島吃熱狗大賽中成功奪冠，以這項趣味傳統活動與民眾同慶佳節。"
+  },
+  {
+    "is_seasonal": true,
+    "timestamp": "2026-07-15 13:06 UTC",
+    "status": "success",
+    "inspiration": "在澳洲海岸，一隻重達2200磅、名叫「尼爾」的超人氣南象鼻海豹最近回到了牠的出生地，為當地居民帶來了驚喜與轟動。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "captain",
+    "title": "破浪的緋紅獵手",
+    "character_name": "船長",
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-15_1306_UTC.webp",
+    "number": 2500
   }
 ]

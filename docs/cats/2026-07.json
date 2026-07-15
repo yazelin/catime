@@ -5696,5 +5696,43 @@
       "大胃王選手喬伊·切斯納特在美國紐約布魯克林（Brooklyn, USA）著名的康尼島吃熱狗大賽中成功奪冠，以這項趣味傳統活動與民眾同慶佳節。"
     ],
     "idea": "以復古半色調網點的漫畫風格呈現，俯瞰視角下，穿著迷你救生衣的胖橘白貓麻糬慵懶地俯臥在夜晚沙灘的大地色系牽牛花海中，在迷幻的黑光螢光照射下，毛髮帶著濕潤水珠的牠正大口啃咬著清涼的西瓜。"
+  },
+  {
+    "comment_id": 4980989330,
+    "prompt": "Sports panning photography, high shutter speed, 35mm lens, f/1.8, grain, candid action shot. A large stocky four-legged brown classic tabby cat with bold black stripes and a scruffy, untidy, coarse fur texture is captured leaping mid-air over a concrete breakwater, biting a flying fish in its mouth. The cat has a distinctive M-mark on its forehead, a V-shaped notch on its left ear, a faded red bandana loosely tied around its neck, a white chest bib, white mitten paws, and a thick sturdy tail. The cat's left eye from the viewer's perspective is permanently concealed by a natural dark-pigmented fur patch with absolutely no straps, eye patches, or fabric, while its right eye is a single piercing emerald green. The cat wears a woven summer straw hat. The composition cleverly mimics a Mucha-style arched frame natively formed by the physical environment, enclosing the feline figure in an ornamental rounded arch with a decorative border halo and symmetrical Art Nouveau panel framing with integrated floral motifs shaped by splashing water and shadows. Dynamic energy, frozen subject with motion-blurred background showing the massive blurred shape of a southern elephant seal. A narrow beam spotlight creates dramatic high-contrast, sharp light edges, and deep darkness falloff. Intense crimson and black tones, deep blood-red against jet black, projecting a seductive sinister mood. Dynamic water splash texture, bursting droplets and flying spray frozen mid-motion, crystalline liquid arcs, and energetic splattering water detail. A concrete sign on the breakwater clearly displays the text '2026-07-15 13:06 UTC' in English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "idea": "運用運動追焦攝影風格與天然的穆夏式拱框構圖，在緋紅與烏黑對比的夕陽聚光燈下，捕捉戴著草帽的獨眼虎斑貓船長在防波堤上凌空躍起，穿梭於靈動的水花飛濺中一口咬住飛魚的瞬間。",
+    "inspiration": "在澳洲海岸，一隻重達2200磅、名叫「尼爾」的超人氣南象鼻海豹最近回到了牠的出生地，為當地居民帶來了驚喜與轟動。",
+    "avoid_list": [
+      "伸出貓爪撥弄或拍打物體",
+      "星雲輝光與星空照明效果",
+      "側臉輪廓特寫與橫向構圖",
+      "拋光大理石紋理與表面",
+      "鏡像倒影與自拍構圖",
+      "復古懷舊褪色色調",
+      "霓虹螢光與黑光燈發光效果",
+      "強制包含UTC時間戳記文字",
+      "舔舐冷凝水或啃咬特定物品",
+      "工業管線與實驗室環境"
+    ],
+    "character": "captain",
+    "story": "重達兩千多磅的南象鼻海豹突然造訪碼頭，龐大身軀在防波堤旁激起巨浪與驚慌的魚群。原本戴著草帽在防波堤上釣魚的船長見狀，瞬間拋下老大的沉穩，在水花中敏捷躍起，俐落地咬住今晚的豐盛晚餐。",
+    "title": "破浪的緋紅獵手",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Spotlight",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Crimson and Black"
+    },
+    "news_inspiration": [
+      "在丹麥奧爾堡，來自世界各地的聖誕老人與精靈們齊聚一堂，參加充滿歡樂氣氛的年度「世界聖誕老人大會」夏日傳統活動。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員為他照顧的狗狗們全部穿上了國家足球隊的球衣，成為街頭一道可愛又熱血的風景線。",
+      "在美國紐約，知名大胃王喬伊·切斯納特（Joey Chestnut）再次贏得了著名的布魯克林國慶日吃熱狗大賽，與現場民眾一同熱烈慶祝。",
+      "在澳洲海岸，一隻重達2200磅、名叫「尼爾」的超人氣南象鼻海豹最近回到了牠的出生地，為當地居民帶來了驚喜與轟動。"
+    ],
+    "season": "summer",
+    "character_name": "船長",
+    "number": 2500
   }
 ]
