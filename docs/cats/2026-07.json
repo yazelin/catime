@@ -5523,5 +5523,34 @@
     ],
     "prompt": "Medium format photography, Hasselblad aesthetic, Tilt-shift photography of a modern tennis stadium hall transformed into a miniature toy-like effect. A grey cat is actively chasing a green tennis ball across a luxurious stone surface with polished marble texture, natural vein patterns, and a cool smooth finish. An LED screen in the background clearly displays the text '2026-07-14 23:40 UTC'. The hall features Morandi muted colors, desaturated soft pastels, dusty grey undertones, and quiet classical elegance. The glowing LED screens reflect a nebula cosmic glow, soft colorful starfield illumination, purple and blue space light, glowing particles, and galactic haze onto the marble floor. Extraordinary tonal range, creamy shallow depth of field, selective focus band, blurred foreground and background, vibrant saturated colors contrasting with the muted surroundings, candid candid shot, highly realistic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "賽後的大理石長廊"
+  },
+  {
+    "idea": "以夢幻商品攝影的長卷全景構圖與高調明亮光，呈現一間現代化妝品實驗室，一隻白貓正伸出毛茸茸的爪子，調皮地撥弄著不鏽鋼長桌上溢出的液態金屬質地精華液，畫面完全籠罩在極簡的青色與銀色雙色調中。",
+    "inspiration": "original",
+    "number": 2495,
+    "story": "午後的實驗室裡，身穿白袍的技術員正專注地操作著前方的離心機。白貓悄悄溜上狹長的實驗台，被那如水銀般閃爍的黏稠液體深深吸引。牠的肉墊輕輕拍打著光潔的表面，在純銀的桌板上留下了一長串青色的梅花印。",
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀畸變",
+      "星雲宇宙輝光與星空照明",
+      "柔和漫射自然光與陰天空景",
+      "巴黎地下冷卻管線系統場景",
+      "貓咪全神貫注地凝視特定目標",
+      "貓咪舔舐地板、表面或水滴",
+      "特別強調四腳著地的貓咪姿態",
+      "強制顯示特定UTC時間的文字",
+      "背景安排人物在遠處巡視或觀看",
+      "發光粒子與銀河星塵視覺效果"
+    ],
+    "comment_id": 4975841232,
+    "prompt": "Dreamy product photography, 35mm lens, f/2.8, shallow depth of field. Extreme wide handscroll composition, oblique bird's-eye angle, right-to-left reading flow, continuous panoramic narrative, layered foreground middleground background. A modern cosmetics lab in a strict cyan and silver duotone color treatment, two contrasting colors only. On a long stainless steel bench, a white cat playfully reaches out a fluffy paw to bat at spilled liquid metal essence, creating a mercury-like reflective flow and chrome dripping texture with a molten mirror finish, leaving cyan paw prints. Background features a technician in a white lab coat operating a centrifuge, multiple focal points spread horizontally. A sleek LED display cleanly shows the text '2026-07-15 01:15 UTC'. Hero object on soft gradient backdrop, glossy reflections, floating props, pastel studio light, polished commercial still life. High-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere, dreamy pastel mood, bold graphic impact, modern design feel. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "銀桌上的青印",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Dreamy Product Photography",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Duotone"
+    }
   }
 ]
