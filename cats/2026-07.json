@@ -5552,5 +5552,43 @@
       "texture": "Liquid Metal",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "is_seasonal": true,
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "season": "summer",
+    "prompt": "A close-up photograph of a fluffy pure white Ragdoll-like longhair cat named Lingling, with voluminous cloud-like white fur, huge round sapphire-blue eyes, a pale pink nose, and a pink ribbon bow collar with a small golden bell clearly visible and centered. The cat is wearing a miniature straw hat adorned with a small sunflower on its head, and is playfully reaching out a pale pink paw pad to touch a giant brass gear of a steam-powered automated watering system. The setting is a lush sunflower greenhouse with Victorian-era steampunk machinery, copper pipes, and ticking gears. The composition features strong leading lines and converging perspective lines of the greenhouse structure guiding the eye toward the subject. Lit by dramatic Rembrandt lighting with a single light source at 45 degrees, creating a signature triangle of light and a striking chiaroscuro effect against deep crimson and black velvet-textured shadows. Embedded subtly on a brass plaque in the background is the date and time text '2026-07-15 04:38 UTC'. Captured on a 35mm lens at f/1.8, high-contrast intensity, rich color saturation, shallow depth of field, realistic photographic texture, film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "花店裡最年幼的鈴鈴在向日葵田間探險，她對溫室裡那些滴答作響的蒸汽機械充滿好奇。伴隨著脖子上粉紅鈴鐺的叮鈴聲，她一邊追逐著齒輪間漏出的水滴，一邊在深紅與烏黑的天鵝絨陰影中留下一身花瓣。",
+    "news_inspiration": [
+      "加拿大 Terrasse-Vaudreuil 成為全球首個簽署《世界樹木權利宣言》的城鎮，正式承認並立法保障樹木生存與繁衍的權利。",
+      "美國一名32歲的漂流嚮導 Kelsey Pfendler 歷時44天、獨自划著21英尺的小艇，成功完成從加利福尼亞州到夏威夷州超過2300英里的海上划船挑戰。",
+      "吉爾吉斯正式將其中部高海拔地形指定為「Ak Ilbirs」生態走廊，在氣候變遷之際為雪豹和當地牧民開闢出友善共存的遷徙空間。",
+      "法國巴黎計劃擴大三倍其利用塞納河冰涼河水冷卻的地下管道網路，盼能以低碳的集體冷卻系統取代傳統的個人冷氣機。"
+    ],
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀畸變",
+      "星雲宇宙輝光與星空照明",
+      "柔和漫射自然光與陰天空景",
+      "巴黎地下冷卻管線系統場景",
+      "貓咪全神貫注地凝視特定目標",
+      "貓咪舔舐地板、表面或水滴",
+      "特別強調四腳著地的貓咪姿態",
+      "強制顯示特定UTC時間的文字",
+      "背景安排人物在遠處巡視或觀看",
+      "發光粒子與銀河星塵視覺效果"
+    ],
+    "inspiration": "original",
+    "number": 2496,
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Leading Lines Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Velvet",
+      "color_palette": "Crimson and Black"
+    },
+    "idea": "在融合蒸汽朋克美學的向日葵溫室中，一隻蓬鬆的白色布偶貓戴著迷你草帽與太陽花，正伸出粉紅肉掌好奇地撥弄著一具黃銅齒輪驅動的巨型自動澆水器。",
+    "title": "齒輪與葵花的協奏曲",
+    "comment_id": 4976958542
   }
 ]
