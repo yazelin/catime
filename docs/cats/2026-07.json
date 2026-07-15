@@ -5865,5 +5865,34 @@
       "泰國佛丕府的考古學家在一處鐵器時代墓地中，挖掘出伴隨人類骨骸的兩枚兩千年前金指環，其中一枚刻有象徵吉祥星宿的古印度婆羅米文。",
       "澳洲坎培拉的一名榮譽鎮民官，以一聲高達122.4分貝、堪比飛機起飛引擎聲的怒吼，獲得健力士世界紀錄認證為世界上聲音最大的人。"
     ]
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [],
+    "title": "月影紗窗凝露瑩",
+    "style_picks": {
+      "art_style": "Sheer Veiled Ethereal Portrait",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Moonlight",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "深夜的植物溫室裡，月光穿透薄霧與紗簾，灑在半透明的玻璃屋頂上。一隻黑白斑紋貓趴在溫室頂部，好奇地伸出前爪，在強制透視的鏡頭下顯得無比巨大，牠的毛髮上綴滿了如肌理般剔透的水珠，正專注地凝視著指尖那抹折射月光的晶瑩。",
+    "comment_id": 4985626880,
+    "avoid_list": [
+      "伸出貓爪撥弄物體",
+      "強制限定繁體中文與英文文字",
+      "精確的UTC時間戳文字顯示",
+      "側臉特寫輪廓構圖",
+      "暴風雪朦朧氛圍光",
+      "復古褪色色調與低對比度",
+      "亮面塑膠玩具質感",
+      "極簡雙色調處理",
+      "霓虹螢光與黑光效果",
+      "深紅與烏黑強烈對比色"
+    ],
+    "prompt": "A monochrome black and white candid photograph of a wet black and white tabby cat on a translucent greenhouse glass roof at night. Forced perspective composition, shot with a wide-angle lens close to the cat's paw, creating exaggerated foreshortening as it thrusts its paw toward the camera to catch a sliding water droplet. Glistening beads of water cling to the cat's dewy fur texture, creating reflective micro-highlights. Moonlight illuminates the scene with a gentle silvery glow, diffused through delicate gossamer layers of sheer fabric hanging below the glass, casting a soft veiled silhouette with dramatic shadows and highlights. In the bottom corner, the text '2026-07-15 21:45 UTC' is visually stamped into the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "一隻濕漉漉的黑白斑紋貓在深夜的溫室玻璃頂棚上，以強制透視的「伸手」視角試圖捕捉棚頂滑落的露珠，呈現出通透紗影人像的空靈美感。",
+    "number": 2505
   }
 ]
