@@ -5802,5 +5802,34 @@
     "title": "夏榻上的螢光微粒",
     "story": "盛夏的老宅裡，墨墨靜靜地躺在透涼的竹蓆上。斑駁的陽光透過窗櫺灑落，在帶有紙質肌理的空間中，與宛如解開過冷水微觀謎團的霓虹粒子交織在一起，墨墨眨著琥珀色的雙眼，在夏日裡享受著獨有的寧靜與科學奇幻感。",
     "character_name": "墨墨"
+  },
+  {
+    "comment_id": 4984258972,
+    "title": "鏡中皮革之境",
+    "number": 2503,
+    "avoid_list": [
+      "伸出貓爪撥弄或拍打物體",
+      "星雲輝光與星空照明效果",
+      "側臉輪廓特寫與橫向構圖",
+      "拋光大理石紋理與表面",
+      "鏡像倒影與自拍構圖",
+      "復古懷舊褪色色調",
+      "霓虹螢光與黑光燈發光效果",
+      "強制包含UTC時間戳記文字",
+      "舔舐冷凝水或啃咬特定物品",
+      "工業管線與實驗室環境"
+    ],
+    "idea": "在幽暗的皮革工坊中，透過巨大圓鏡的反射，以剪影藝術呈現一隻黑貓正低頭撥弄散落皮件的瞬間，背景灑落神祕的體積光。",
+    "story": "老工匠離開了工作檯，留下滿室溫潤的皮革香氣。黑貓悄悄躍上檯面，在復古褪色色調的微光中，好奇地用鼻子嗅聞著半成品的皮包，圓鏡中勾勒出牠優雅的剪影輪廓。",
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Leather",
+      "color_palette": "Retro Faded Tones"
+    },
+    "inspiration": "original",
+    "news_inspiration": [],
+    "prompt": "Silhouette art of a black cat on a leather workshop table, seen through a giant circular mirror. The cat is bowing its head and playfully batting at scattered genuine leather pieces. Authentic retro faded color palette with washed-out vintage tones and low contrast. In the background, dramatic volumetric lighting with visible god rays and dust particles catching the light creates a nostalgic film-era warmth. The compositions captures clean defined edges, a dramatic profile outline of the cat, and rich grain patterns of the aged leather patina. In a corner of the frame, the date and time '2026-07-15 18:52 UTC' is visually displayed in a clean, retro digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
