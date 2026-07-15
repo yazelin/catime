@@ -5734,5 +5734,34 @@
     "season": "summer",
     "character_name": "船長",
     "number": 2500
+  },
+  {
+    "idea": "運用吉卜力風格與故事插畫分格構圖，描繪一隻四腳著地的黑貓在暴風雪朦朧的藍青色調中，正帶領著披著紗網薄透肌理斗篷的旅人穿越陡峭的高山吊橋。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Snowstorm Haze",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 2501,
+    "story": "凜冬的冰川峽谷中，狂風捲起漫天飛雪，讓前方的道路變得模糊不清。這隻神秘的黑貓卻步伐堅定，在搖晃的木造吊橋上為迷途的旅人引路。藍青色的風雪如輕紗般拂過牠的毛髮，訴說著深山裡的奇幻傳說。",
+    "prompt": "Studio Ghibli anime style illustration, soft watercolor backgrounds, gentle character design, illustrated story page layout with multiple irregular panels arranged on one page, shoujo manga narrative flow, slice-of-life storybook composition. A decorative title banner at the top clearly displaying the text '2026-07-15 15:16 UTC'. The main scene depicts a winter glacier canyon with a four-legged black cat walking firmly on a steep, swaying wooden mountain suspension bridge, guiding a lost traveler. The traveler wears a cloak featuring sheer gauze mesh texture, fine translucent netting, and gossamer layered transparency with soft light passing through the fabric. Snowstorm atmospheric lighting, heavy falling snow veil, muted diffused daylight, fogged distance, visibility obscured by flurries. Cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm painterly weather mood. Integrated dialogue bubbles containing Traditional Chinese text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "風雪中的引路貓",
+    "comment_id": 4982283755,
+    "inspiration": "original",
+    "avoid_list": [
+      "伸出貓爪撥弄或拍打物體",
+      "星雲輝光與星空照明效果",
+      "側臉輪廓特寫與橫向構圖",
+      "拋光大理石紋理與表面",
+      "鏡像倒影與自拍構圖",
+      "復古懷舊褪色色調",
+      "霓虹螢光與黑光燈發光效果",
+      "強制包含UTC時間戳記文字",
+      "舔舐冷凝水或啃咬特定物品",
+      "工業管線與實驗室環境"
+    ]
   }
 ]
