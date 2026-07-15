@@ -5624,5 +5624,39 @@
     ],
     "prompt": "Conceptual fine art illustration, minimalist surreal scene. A side profile portrait of a fluffy cat, subject viewed from the side with a clean silhouette of nose and chin, profile-defining contour, elegant lateral framing. The cat is extending its paw to gently strike a bicycle bell. The bell features a vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, and ornate restrained warmth. The bicycle itself is carved with polished marble texture, natural vein patterns, luxurious stone surface, cool smooth finish, classical elegance. Prominently displayed on the marble bicycle frame is the English text '2026-07-15 07:05 UTC'. Set in a dreamlike impossible staging of a Copenhagen bicycle parking area with clean negative space and a single subject in a vast empty space. The environment features snowstorm atmospheric lighting, heavy falling snow veil, muted diffused daylight, fogged distance, cold blue-white palette, painterly weather mood, visibility obscured by flurries, and a muted refined palette. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "這幅極簡超現實場景以側臉特寫呈現，一隻貓咪在哥本哈根暴風雪朦朧的自行車停放區中，伸出貓爪輕輕撥弄著一輛大理石材質單車上的朱紅描金車鈴。"
+  },
+  {
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀畸變",
+      "星雲宇宙輝光與星空照明",
+      "柔和漫射自然光與陰天空景",
+      "巴黎地下冷卻管線系統場景",
+      "貓咪全神貫注地凝視特定目標",
+      "貓咪舔舐地板、表面或水滴",
+      "特別強調四腳著地的貓咪姿態",
+      "強制顯示特定UTC時間的文字",
+      "背景安排人物在遠處巡視或觀看",
+      "發光粒子與銀河星塵視覺效果"
+    ],
+    "number": 2498,
+    "inspiration": "國際「我們的海洋」大會在肯亞蒙巴薩成功落幕，各界共承諾提供高達 64 億美元的資金來加速保護全球海洋生態。",
+    "idea": "這是一幅復古褪色色調的戲曲花旦風格海報，透過側臉特寫捕捉一隻橘貓在肯亞海洋實驗室的螢光燈下，正用前掌撥弄著具有亮面塑膠質感的珊瑚模型。",
+    "story": "蒙巴薩的海洋大會剛落幕，一隻研究站裡的橘貓悄悄躍上實驗桌，對著散落的塑膠生態模型伸出了毛茸茸的爪子。刺眼的日光燈將這場貓咪與玩具珊瑚的互動，渲染成宛如傳統戲曲花旦般華麗卻又褪色的超現實畫面。這奇妙的瞬間被凝固在這張充滿戲劇張力的海報中。",
+    "comment_id": 4979241499,
+    "title": "蒙巴薩的珊瑚戲",
+    "news_inspiration": [
+      "國際「我們的海洋」大會在肯亞蒙巴薩成功落幕，各界共承諾提供高達 64 億美元的資金來加速保護全球海洋生態。",
+      "丹麥哥本哈根憑藉其發達的自行車文化與優質的永續環境，近期再次被評選為全球最宜居的城市。",
+      "印尼政府大舉撤銷了蘇門答臘島上數十家企業的採礦與伐木許可，以保護珍貴的雨林及瀕臨絕種的紅毛猩猩棲息地。",
+      "一隻名為 Peanut 的救援幼犬在美國加州洛杉磯的動物收容所意外爆紅，其溫馨可愛的模樣成功激發了社會大眾數千筆的熱心捐款。"
+    ],
+    "prompt": "A theatrical decorative poster composition in the style of a Chinese opera huadan poster. A side profile portrait, elegant lateral framing, subject viewed from the side with a clean feline silhouette of the nose and chin. The subject is an orange cat wearing an ornate stage costume and headdress, featuring dramatic painted face makeup adapted for a cat. The cat is reaching out with its paw to bat at a coral model that has a glossy plastic toy texture, smooth high-shine surface, slight reflections, and a vinyl figure aesthetic. Set on a laboratory table representing a Kenyan marine lab, illuminated by overhead fluorescent lighting, neutral white 5000K, institutional flat illumination with no shadows. The artwork features a retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth, and fading bold traditional colors. The exact text '2026-07-15 09:48 UTC' is clearly and prominently displayed as typography in the poster design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Chinese Opera Dan Poster",
+      "composition": "Side Profile Portrait",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Retro Faded Tones"
+    }
   }
 ]
