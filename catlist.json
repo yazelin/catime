@@ -23303,5 +23303,18 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-15_0948_UTC.webp",
     "timestamp": "2026-07-15 09:48 UTC"
+  },
+  {
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-15_1119_UTC.webp",
+    "title": "仲夏西瓜大胃王",
+    "number": 2499,
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-07-15 11:19 UTC",
+    "status": "success",
+    "character": "mochi",
+    "inspiration": "大胃王選手喬伊·切斯納特在美國紐約布魯克林（Brooklyn, USA）著名的康尼島吃熱狗大賽中成功奪冠，以這項趣味傳統活動與民眾同慶佳節。"
   }
 ]

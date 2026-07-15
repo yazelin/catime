@@ -5658,5 +5658,43 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "prompt": "Retro halftone comic style illustration, CMYK print aesthetic, visible dot matrix, retro newspaper print effect, graphic texture. Overhead view of subject reclining in a sea of blossoms, top-down flat-lay framing, body surrounded by dense flowers, dreamy decorative bird's-eye composition. A chubby, literal four-legged shorthair cat with a spherical torso and stubby legs is lying lazily on a night beach covered in earth tone palette morning glory flowers, featuring terracotta, olive green, warm brown, and natural organic harmony. The cat has a white base coat and solid bright orange patches with absolutely no tabby stripes. Crucial markings: right half-face (viewer perspective) has an orange mask from nose to right ear while left face is pure white; pink nose with a tiny orange center dot; extremely large wide amber eyes; a heart-shaped orange saddle centered on its upper back; right front paw has a solid orange mitten, left front paw is pure white; orange-and-white ringed tail; pure white belly. The cat is wearing a mini summer life jacket. Blacklight UV illumination, fluorescent pigments glowing, vibrant neon colors on dark background, ethereal ultraviolet luminescence. The cat's fur features water droplets on skin texture, glistening beads of water clinging to dewy surface, fresh wet sheen, reflective micro-highlights, hydrated luminous detail. The cat is taking a massive bite out of a giant slice of refreshing watermelon. A vibrant comic caption box clearly displays the exact text '2026-07-15 11:19 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Earth Tones"
+    },
+    "season": "summer",
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀畸變",
+      "星雲宇宙輝光與星空照明",
+      "柔和漫射自然光與陰天空景",
+      "巴黎地下冷卻管線系統場景",
+      "貓咪全神貫注地凝視特定目標",
+      "貓咪舔舐地板、表面或水滴",
+      "特別強調四腳著地的貓咪姿態",
+      "強制顯示特定UTC時間的文字",
+      "背景安排人物在遠處巡視或觀看",
+      "發光粒子與銀河星塵視覺效果"
+    ],
+    "inspiration": "大胃王選手喬伊·切斯納特在美國紐約布魯克林（Brooklyn, USA）著名的康尼島吃熱狗大賽中成功奪冠，以這項趣味傳統活動與民眾同慶佳節。",
+    "title": "仲夏西瓜大胃王",
+    "story": "為了稱霸海濱夜市的仲夏大胃王挑戰賽，剛踏浪回來的麻糬連救生衣都來不及脫，就趴在沙灘花墊上火力全開。充滿紫外螢光燈的奇幻夜色中，眼前的巨無霸西瓜讓牠的琥珀色雙眼放大兩倍，圓滾滾的肚子隨著咀嚼微微晃動。",
+    "comment_id": 4979999731,
+    "number": 2499,
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "character": "mochi",
+    "news_inspiration": [
+      "來自世界各地的聖誕老人與精靈齊聚在丹麥奧爾堡（Aalborg, Denmark），參加一年一度充滿歡樂氣氛的仲夏傳統盛會「世界聖誕老人大會」。",
+      "為了向已故藝術家致敬，荷蘭鹿特丹（Rotterdam, Netherlands）的一家博物館在展區地板上鋪滿了厚厚的花生醬，以這種奇妙的方式吸引大批民眾圍觀。",
+      "在阿根廷布宜諾斯艾利斯（Buenos Aires, Argentina），一名遛狗員帶著一群穿著阿根廷國家足球隊專屬球衣的狗狗們在街頭散步，畫面十分溫馨可愛。",
+      "大胃王選手喬伊·切斯納特在美國紐約布魯克林（Brooklyn, USA）著名的康尼島吃熱狗大賽中成功奪冠，以這項趣味傳統活動與民眾同慶佳節。"
+    ],
+    "idea": "以復古半色調網點的漫畫風格呈現，俯瞰視角下，穿著迷你救生衣的胖橘白貓麻糬慵懶地俯臥在夜晚沙灘的大地色系牽牛花海中，在迷幻的黑光螢光照射下，毛髮帶著濕潤水珠的牠正大口啃咬著清涼的西瓜。"
   }
 ]
