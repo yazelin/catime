@@ -5831,5 +5831,39 @@
     "inspiration": "original",
     "news_inspiration": [],
     "prompt": "Silhouette art of a black cat on a leather workshop table, seen through a giant circular mirror. The cat is bowing its head and playfully batting at scattered genuine leather pieces. Authentic retro faded color palette with washed-out vintage tones and low contrast. In the background, dramatic volumetric lighting with visible god rays and dust particles catching the light creates a nostalgic film-era warmth. The compositions captures clean defined edges, a dramatic profile outline of the cat, and rich grain patterns of the aged leather patina. In a corner of the frame, the date and time '2026-07-15 18:52 UTC' is visually displayed in a clean, retro digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "title": "遺跡裡的尋寶貓",
+    "avoid_list": [
+      "伸出貓爪撥弄或拍打物體",
+      "星雲輝光與星空照明效果",
+      "側臉輪廓特寫與橫向構圖",
+      "拋光大理石紋理與表面",
+      "鏡像倒影與自拍構圖",
+      "復古懷舊褪色色調",
+      "霓虹螢光與黑光燈發光效果",
+      "強制包含UTC時間戳記文字",
+      "舔舐冷凝水或啃咬特定物品",
+      "工業管線與實驗室環境"
+    ],
+    "comment_id": 4984788280,
+    "inspiration": "泰國佛丕府的考古學家在一處鐵器時代墓地中，挖掘出伴隨人類骨骸的兩枚兩千年前金指環，其中一枚刻有象徵吉祥星宿的古印度婆羅米文。",
+    "idea": "這是一件3D Q版盲盒風格的藝術品，結合硬光日照與黃紫雙色調，畫面中一隻摺紙質感的小貓正沿著對角線的木棧道快步奔跑，嘴裡緊緊叼著一枚剛出土的古老金指環。",
+    "prompt": "3D chibi blind box character, C4D rendering of a cute Q-version origami style cat with clean geometric creases and sharp angular folds. The cat has a smooth plastic toy texture and paper sculpture aesthetic. It is energetically running across a wooden boardwalk along a diagonal composition with dynamic slanted lines, kinetic visual flow, and off-axis tension. The cat is tightly holding an ancient engraved gold ring in its mouth. Harsh midday sunlight, strong directional sun, high contrast natural daylight with hard edge shadows and unforgiving illumination. Bold duotone color treatment strictly using only yellow and purple for a modern graphic impact. The text '2026-07-15 20:00 UTC' is clearly printed on the wooden boards. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2504,
+    "story": "泰國佛丕府的考古工地在正午陽光下呈現出銳利的光影，營地小貓趁著人類午休，悄悄溜進鐵器時代的墓穴坑裡尋寶。牠幸運地尋獲了一枚刻有吉祥星宿的兩千年前金戒指，正開心地叼著它跑過探方邊緣的木板。對這隻四足小傢伙來說，這份珍貴的歷史文物現在是牠最得意的秘密玩具。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Diagonal Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Origami",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "荷蘭鹿特丹的博伊曼斯·範伯寧恩美術館展出由390公斤花生醬鋪成的經典概念藝術展，向剛逝世的荷蘭概念藝術家溫·T·席柏斯致敬。",
+      "天文學家首度在銀河系中心附近的星際空間中，偵測到一種天然存在於覆盆子中的四碳糖分子「赤蘚酮糖」，為地球生命起源提供新線索。",
+      "泰國佛丕府的考古學家在一處鐵器時代墓地中，挖掘出伴隨人類骨骸的兩枚兩千年前金指環，其中一枚刻有象徵吉祥星宿的古印度婆羅米文。",
+      "澳洲坎培拉的一名榮譽鎮民官，以一聲高達122.4分貝、堪比飛機起飛引擎聲的怒吼，獲得健力士世界紀錄認證為世界上聲音最大的人。"
+    ]
   }
 ]
