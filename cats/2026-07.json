@@ -6162,5 +6162,39 @@
     "number": 2513,
     "inspiration": "original",
     "story": "平時在防波堤上威風凜凜的碼頭老大，一遇到大魚就會瞬間失去所有矜持。陽光透過百葉窗在牠的左耳V型缺口與長白鬍鬚上落下條紋光影，而牠正全神貫注地試圖制服這條剛從冰庫拿出來的戰利品。這場專屬於老船長的破冰戰役，每天都在漁港的角落熱烈上演。"
+  },
+  {
+    "prompt": "Vertical poster composition, East Asian movie poster framing, featuring a side Traditional Chinese calligraphy panel with red seal accents and ornamental border elements. The exact text '2026-07-16 15:24 UTC' is clearly and prominently displayed on the design. The photorealistic central focal point uses sports panning photography techniques, high shutter speed, and a telephoto lens to capture dynamic energy: an orange and white cat sprinting at full speed, chasing a fast-moving rare lizard. Frozen subject with a motion-blurred background. Set in an outdoor ceramic workshop filled with sculpted clay textures, handmade ceramic pots, and clay sculptures with matte surfaces and subtle imperfections. Harsh midday sunlight, strong directional sun, unforgiving illumination, hard edge shadows, high contrast natural daylight, gritty urban realism. Warm earthy tones, vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, ornate restrained warmth, multi-layered depth, action captured. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "瓜地馬拉首都瓜地馬拉市的一家動物園成功繁殖出極為罕見的瀕危蜥蜴，為保護該物種免於滅絕邁出重要一步。",
+    "avoid_list": [
+      "包含精確UTC時間標記",
+      "黑貓作為畫面主角",
+      "貓咪嘴裡叼咬著物品",
+      "巨大鏡子反射與雙重鏡像構圖",
+      "植物溫室或玻璃屋場景",
+      "戲劇化聚光燈與高對比邊緣光",
+      "半透明薄紗與磨砂玻璃肌理",
+      "近距離專注凝視或嗅聞微小物",
+      "嚴格限制的雙色調對比配色",
+      "強烈體積光與丁達爾效應"
+    ],
+    "title": "烈日朱泥追影",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "story": "瓜地馬拉動物園成功復育的罕見蜥蜴意外闖入了附近的陶藝工坊，立刻引發了院子裡橘貓的狩獵本能。貓咪在烈日下邁開四腿全速奔跑，穿梭於錯落有致的朱紅泥胚與金漆陶罐之間。這場驚險的追逐戰化作一抹橘紅色的殘影，打破了夏日午後的寧靜。",
+    "news_inspiration": [
+      "英國布里斯托灣的一座島嶼在成功清除外來鼠類後，海鸚鵡等當地野生鳥類族群迎來了大規模的繁衍與復甦。",
+      "加拿大溫哥華的斯闊米甚原住民族近期啟用了全球規模最大的淨零碳排永續住宅開發案之一。",
+      "瓜地馬拉首都瓜地馬拉市的一家動物園成功繁殖出極為罕見的瀕危蜥蜴，為保護該物種免於滅絕邁出重要一步。",
+      "印度班加羅爾一名租客在網路上發文抱怨當地極度競爭的租屋市場，意外引發廣大網友的共鳴並在社群媒體上瘋傳。"
+    ],
+    "idea": "採用直式書法海報構圖與運動追焦攝影技巧，捕捉一隻橘白花貓在朱紅色與描金裝飾的戶外陶瓷工坊中，狂奔追逐一隻快速竄逃的罕見蜥蜴的動態瞬間。硬直的正午日照打在周圍滿佈的黏土雕塑上，強化了真實環境的陶瓷質感與狂野的速度感。",
+    "comment_id": 4993692030,
+    "number": 2514
   }
 ]
