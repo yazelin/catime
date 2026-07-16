@@ -6094,5 +6094,42 @@
     "comment_id": 4990587907,
     "prompt": "Black and white monochrome paper quilling art, frame within a frame composition. A playful white cat is seen resting inside the giant geodesic dome of Vancouver Science World through a triangular window opening with a layered foreground border made of intricate coiled paper strips and delicate curling loops. The white cat is extending its front paw, batting at a rolling miniature paper-quilled soccer ball. Y2K aesthetic and early-2000s playful design, featuring glitter accents and holographic textures within the high contrast, rich tonal range. Lighting features underwater caustic lighting, rippling light patterns dancing over the subject, a blue-green aquatic glow, pastel gradients, refracted sun shafts through water, and a submerged dreamlike atmosphere with dramatic shadows and highlights. 3D dimensional ornament, nested framing, depth and focus emphasis. The exact text '2026-07-16 09:54 UTC' is prominently displayed on a quilled paper banner integrated into the architecture. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2511
+  },
+  {
+    "idea": "在融合迷幻風格與鏡像異我構圖的夏日海灘上，一隻胖嘟嘟的橘白貓麻糬正穿著迷你浮水衣，在水花飛濺的五彩夢幻海浪中，專注地用貓爪撥弄著一顆切開的西瓜，而海面上正倒映著牠那帶著虛幻色彩的奇異分身。",
+    "comment_id": 4991348892,
+    "character_name": "麻糬",
+    "number": 2512,
+    "prompt": "An artistic digital illustration in a bold psychedelic art style, featuring Mochi, a chubby rounded shorthair cat. Mochi has a white base coat with solid bright orange patches, featuring a specific asymmetrical face pattern: a bright orange mask covers the right half of his face (viewer perspective) from the nose bridge to the right ear, while the left face is entirely white. He has large round amber eyes, a pink nose with a tiny orange dot in the center, a white belly, and short stubby legs. His right front paw is a solid orange mitten, while his left front paw is pure white, and a heart-shaped orange saddle is visible on his upper back. Mochi is wearing a vibrant orange miniature flotation vest and is on a summer beach, playfully batting at a freshly cut watermelon slice with his paw. The scene features a dramatic doppelganger mirror composition, showing a mirrored, distorted, and surreal twin of Mochi reflected on the water's surface facing him in uncanny symmetry. The environment is filled with swirling patterns, vibrant clashing neon colors, and melting distorted forms in a surreal dreamscape. Volumetric god rays and visible light rays pierce through the atmosphere, catching floating dust particles and creating dramatic depth. Energetic, dynamic water splashes with crystalline liquid arcs and frozen droplets spray mid-motion around the cat. Displayed clearly and visually within the scene is the text '2026-07-16 11:25 UTC' in a sleek, glowing font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "幻彩夏日的西瓜盛宴",
+    "avoid_list": [
+      "包含精確UTC時間標記",
+      "黑貓作為畫面主角",
+      "貓咪嘴裡叼咬著物品",
+      "巨大鏡子反射與雙重鏡像構圖",
+      "植物溫室或玻璃屋場景",
+      "戲劇化聚光燈與高對比邊緣光",
+      "半透明薄紗與磨砂玻璃肌理",
+      "近距離專注凝視或嗅聞微小物",
+      "嚴格限制的雙色調對比配色",
+      "強烈體積光與丁達爾效應"
+    ],
+    "season": "summer",
+    "character": "mochi",
+    "story": "炎炎夏日，貪吃的麻糬穿上了鮮豔的橘色迷你浮水衣，在海邊一邊玩水一邊享受最愛的消暑西瓜。在極度飽和的霓虹色波光中，飛濺的靈動水花與宛如平行時空的鏡像分身相互輝映，讓這場海灘派對變成了屬於麻糬的奇幻冒險。",
+    "news_inspiration": [
+      "在澳洲雪梨，澳洲博物館時隔144年後正式將17具拉帕努伊原住民的祖先遺骸歸還給復活節島代表團，完成一場深具意義的文化修復之旅。",
+      "在丹麥奧爾堡，盛夏舉辦的年度「世界聖誕老人大會」熱鬧登場，來自全球各地的聖誕老人與精靈齊聚一堂，為民眾帶來反季節的節慶歡樂。",
+      "在美國紐澤西州東盧瑟福，挪威明星前鋒哈蘭德因在2026年世界盃足球賽中的亮眼表現與反差魅力，意外在網路上被粉絲逗趣地封為「網際網路的國民寶貝」。"
+    ],
+    "inspiration": "original"
   }
 ]
