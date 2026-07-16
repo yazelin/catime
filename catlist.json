@@ -23447,5 +23447,16 @@
     "status": "success",
     "season": "summer",
     "inspiration": "original"
+  },
+  {
+    "status": "success",
+    "character": "captain",
+    "title": "破冰的霸氣",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-16_1315_UTC.webp",
+    "number": 2513,
+    "inspiration": "original",
+    "timestamp": "2026-07-16 13:15 UTC"
   }
 ]
