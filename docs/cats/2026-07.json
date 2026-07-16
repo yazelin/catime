@@ -5957,5 +5957,39 @@
       "科學家近期針對數百種蜘蛛的奔跑速度進行評測，最終由產自澳洲的棕色獵人蛛奪下速度最快的冠軍。"
     ],
     "prompt": "Ornate danmei illustration, rich painterly render. Shallow depth-of-field frontal close-up, intimate near-object framing. An elegant long-haired white cat standing on a translucent matte frosted glass platform, focused under a narrow beam spotlight, delicately sniffing a miniature vermilion and gilt Mozart statue. The exact text '2026-07-15 23:47 UTC' is elegantly written in English on the statue's pedestal. Decadent decorative composition, lavish peacock and gilt ornamentation, intricate jeweled detail. Subject sharp against a creamy blurred background, soft bokeh, soft blurred shapes visible behind. Dramatic high-contrast, sharp light edges, deep darkness falloff, diffused light transmission. Vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, tactile detail emphasis, ornate restrained warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "comment_id": 4987125278,
+    "idea": "以酒精墨水藝術風格呈現，在移軸微縮效果下，一間佈滿琥珀色天鵝絨窗簾的總統新聞發佈會場內，一隻四腳著地的橘貓正趴在講台底下專心啃咬著麥克風線。三點打光完美突顯了貓咪柔軟的毛髮質感，以及後方正大搖大擺走進會場的鴨子。",
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Three-Point Lighting",
+      "texture": "Velvet",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "琥珀色的闖入者",
+    "story": "當鴨子梅林意外闖入會場並吸引全場記者目光時，流浪橘貓也悄悄溜進了講台下方。牠對閃光燈毫無興趣，只專注於把轉播電線當成磨牙玩具。這場充滿暖秋色調的微縮奇幻鬧劇，徹底打亂了原本嚴肅的政治會議。",
+    "prompt": "Alcohol ink art, miniature toy-like effect, tilt-shift photography, selective focus band, blurred foreground and background. Inside a presidential press conference room draped in warm amber velvet curtains exhibiting velvet texture, deep pile softness, rich color saturation, light-absorbing matte surface, and tactile luxury. Underneath the wooden podium, an orange cat on all fours is intently chewing on a microphone wire. In the background, a duck is swaggering into the room. A digital display banner on the podium clearly shows the text '2026-07-16 01:25 UTC'. Fluid vibrant colors, unpredictable organic patterns, translucent layers, ethereal abstract effects, and free-flowing movement. Classic three-point lighting setup, key light with soft shadows, fill light, subtle rim light separation perfectly highlighting the cat's soft fur. Warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth, vibrant saturated colors. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2508,
+    "news_inspiration": [
+      "美國宇航局（NASA）的衛星在土耳其伊斯坦堡拍攝到，黑海因大量浮游植物繁殖而呈現出令人驚嘆的綠松石色。",
+      "在墨西哥的墨西哥城，一隻名叫梅林的鴨子因意外闖入總統新聞發布會而爆紅，成為了深受當地民眾喜愛的吉祥物。",
+      "巴西里約熱內盧海岸近期頻繁出現座頭鯨的身影，不僅讓當地居民驚喜萬分，也大幅帶動了該地區的賞鯨旅遊熱潮。",
+      "澳洲塔斯馬尼亞州的網紅象海豹「尼爾」最近再度回歸街頭閒逛，促使當地官員呼籲熱情粉絲們務必與這隻重達一噸的巨獸保持安全距離。"
+    ],
+    "avoid_list": [
+      "伸出貓爪撥弄物體",
+      "強制限定繁體中文與英文文字",
+      "精確的UTC時間戳文字顯示",
+      "側臉特寫輪廓構圖",
+      "暴風雪朦朧氛圍光",
+      "復古褪色色調與低對比度",
+      "亮面塑膠玩具質感",
+      "極簡雙色調處理",
+      "霓虹螢光與黑光效果",
+      "深紅與烏黑強烈對比色"
+    ],
+    "inspiration": "在墨西哥的墨西哥城，一隻名叫梅林的鴨子因意外闖入總統新聞發布會而爆紅，成為了深受當地民眾喜愛的吉祥物。"
   }
 ]
