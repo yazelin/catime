@@ -6261,5 +6261,40 @@
       "半透明玻璃折射光影",
       "畫面嵌入精確日期時間"
     ]
+  },
+  {
+    "inspiration": "美國科羅拉多州將學區的黃色校車升級為電動車，使其在夜間停放時還能作為當地電網的備用電池。",
+    "number": 2517,
+    "story": "夜幕低垂，改裝後的黃色校車停泊在漂浮的充電站上，將剩餘電能悄悄輸回城鎮電網。一隻好奇的野貓踩著輕盈的步伐，在交錯的綠能纜線間穿梭巡視，享受著竹林間灑下的靜謐時光。",
+    "prompt": "Torn paper collage effect illustration, mixed media, layered textures with visible paper edges and notebook lines. Aerial perspective of a miniature landscape on a levitating platform: a floating island in the sky featuring a parking lot for modified yellow school buses. An orange cat on all fours is carefully walking along a thick EV charging cable. A distinct piece of torn notebook paper within the composition clearly displays the text '2026-07-16 19:54 UTC'. The terrain showcases fine sand texture, desert dune ripples, warm golden granules, wind-sculpted patterns, and natural grain detail. The color scheme is a bamboo jade-green palette, fresh emerald and malachite tones, cool verdant serenity, elegant oriental green harmony. The scene features dappled light, scattered patches of sunlight filtered through leaves, soft mottled shadow patterns, gentle organic light play, with white clouds drifting in the background, creating a serene natural mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4996043112,
+    "title": "綠能浮島的巡夜貓",
+    "idea": "這是一幅撕紙拼貼效果的插畫，一隻四腳著地的橘貓正在一座懸浮空中的校車停車場浮島上，沿著粗大的電動車充電纜線行走，畫面充滿沙質紋理、竹影翠綠的色調與斑駁光影。",
+    "news_inspiration": [
+      "為了保護珍稀紅毛猩猩的生態家園，印尼政府正式撤銷了該物種棲息地內的採礦與伐木許可證。",
+      "美國科羅拉多州將學區的黃色校車升級為電動車，使其在夜間停放時還能作為當地電網的備用電池。",
+      "葡萄牙波多（Porto）宣佈推出大眾運輸免費搭乘計畫，藉此推動綠色交通並提升市民的生活便利性。",
+      "哥倫比亞政府為保護自然生態環境，正式宣佈停止因發展牛肉產業而持續砍伐森林的行為。",
+      "在肯亞蒙巴薩（Mombasa）舉辦的「我們的海洋」國際會議成功落幕，為全球海洋保育計畫籌集了高達64億美元的資金。"
+    ],
+    "avoid_list": [
+      "黑白單色視覺風格",
+      "朱紅與描金配色",
+      "伸爪撥弄微小物件",
+      "溫室玻璃棚場景",
+      "迷你莫札特雕像",
+      "鏡像分身對稱構圖",
+      "強制透視微縮效果",
+      "貓咪凝視鼻尖前物體",
+      "半透明玻璃折射光影",
+      "畫面嵌入精確日期時間"
+    ],
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Floating Island Scene",
+      "lighting": "Dappled Light",
+      "texture": "Sand Texture",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
