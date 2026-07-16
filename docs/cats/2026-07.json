@@ -6196,5 +6196,34 @@
     "idea": "採用直式書法海報構圖與運動追焦攝影技巧，捕捉一隻橘白花貓在朱紅色與描金裝飾的戶外陶瓷工坊中，狂奔追逐一隻快速竄逃的罕見蜥蜴的動態瞬間。硬直的正午日照打在周圍滿佈的黏土雕塑上，強化了真實環境的陶瓷質感與狂野的速度感。",
     "comment_id": 4993692030,
     "number": 2514
+  },
+  {
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Side Profile Portrait",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "title": "金色餘韻的私語",
+    "avoid_list": [
+      "黑白單色視覺風格",
+      "朱紅與描金配色",
+      "伸爪撥弄微小物件",
+      "溫室玻璃棚場景",
+      "迷你莫札特雕像",
+      "鏡像分身對稱構圖",
+      "強制透視微縮效果",
+      "貓咪凝視鼻尖前物體",
+      "半透明玻璃折射光影",
+      "畫面嵌入精確日期時間"
+    ],
+    "prompt": "A crayon drawing style illustration with a childlike hand-drawn look, featuring a side profile portrait of a black cat on a jazz club stage, curiously sniffing the rim of a brilliant golden saxophone. Elegant lateral framing showing the clean silhouette of the cat's nose and chin from the side. The scene is enveloped in soft diffused natural light with even illumination and gentle tones. Incorporate a luxurious gold and black color scheme with metallic gold accents against a deep black background. The background features a watercolor splatter and ink-spray texture with dripping pigment, scattered dots, and organic fluid stains on a warm paper background. The date and time '2026-07-16 17:01 UTC' is clearly and elegantly written in English on the corner of the paper. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "number": 2515,
+    "comment_id": 4994598169,
+    "story": "深夜的俱樂部空無一人，一隻黑貓悄悄溜上空蕩的舞台，被樂手留下的金色薩克斯風所吸引。牠用濕潤的鼻子輕觸冰涼的金屬，彷彿能聽見昨夜殘留的搖擺樂章。在這寂靜的角落裡，貓咪與樂器共同編織著屬於深夜的無聲旋律。",
+    "inspiration": "original",
+    "idea": "這幅「蠟筆兒童畫」風格的作品以「側臉特寫」呈現一隻黑貓在爵士樂俱樂部舞台上，好奇地嗅著一把璀璨金色薩克斯風的邊緣。畫面融入「金色與黑色奢華」色調與「水彩潑濺墨點」質感，並籠罩在窗外灑落的「自然漫射光」之中。"
   }
 ]
