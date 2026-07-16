@@ -5991,5 +5991,41 @@
       "深紅與烏黑強烈對比色"
     ],
     "inspiration": "在墨西哥的墨西哥城，一隻名叫梅林的鴨子因意外闖入總統新聞發布會而爆紅，成為了深受當地民眾喜愛的吉祥物。"
+  },
+  {
+    "character": "lingling",
+    "title": "鏡中的棉花糖",
+    "avoid_list": [
+      "伸出貓爪撥弄物體",
+      "強制限定繁體中文與英文文字",
+      "精確的UTC時間戳文字顯示",
+      "側臉特寫輪廓構圖",
+      "暴風雪朦朧氛圍光",
+      "復古褪色色調與低對比度",
+      "亮面塑膠玩具質感",
+      "極簡雙色調處理",
+      "霓虹螢光與黑光效果",
+      "深紅與烏黑強烈對比色"
+    ],
+    "inspiration": "original",
+    "story": "鈴鈴跟著花店老闆來到隔壁的草莓甜點店，卻在角落的巨大更衣鏡前停下了腳步。她看著鏡子裡那隻同樣戴著粉紅鈴鐺、毛蓬鬆得像棉花糖的貓咪，忍不住歪了歪頭，脖子上的鈴鐺隨之發出清脆的叮鈴聲，鏡中的「貓咪」也做出了同樣可愛的動作。",
+    "prompt": "Cute anime illustration in Japanese moe character design style, character reference sheet quality, showcasing a fluffy pure white Ragdoll-like cat named Lingling with extremely fluffy pure white (#FFFFFF) longhair, enormous feathery white plume tail, huge round sapphire-blue (#0F52BA) eyes, pale pink nose and inner ears, wearing a pink (#FF69B4) ribbon bow collar with a small golden (#FFD700) bell clearly visible and centered. The cat is tilting her head, curiously staring into a large mirror reflection of herself inside a cozy, pastel-toned strawberry dessert shop. Doppelganger mirror composition showing the same figure duplicated, facing itself in uncanny symmetry. The atmosphere is filled with a dreamy diffused blur, soft-focus matte haze, and low-contrast ethereal finish. Gentle pastel color palette featuring soft pinks, mints, and baby blues. On the wall in the background, the date and time '2026-07-16 04:48 UTC' is clearly and cleanly printed as part of the scene's aesthetic design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4988333175,
+    "style_picks": {
+      "art_style": "Japanese Moe Character Design",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Pastel Colors"
+    },
+    "news_inspiration": [
+      "澳洲科學家針對數百種蜘蛛的奔跑速度進行了排名，結果發現當地特有的巨大棕色獵人蛛拔得頭籌。",
+      "荷蘭鹿特丹的一間博物館在展場地板塗滿了花生醬，以此奇特的藝術展覽向近期過世的前衛藝術家致敬。",
+      "印尼政府宣布全面撤銷紅毛猩猩棲息地內的採礦與伐木許可證，為保護全球最稀有的紅毛猩猩物種邁出重要一步。",
+      "美國紐約布魯克林的康尼島盛大舉辦了年度吃熱狗大賽，由知名大胃王再次奪冠並與民眾同慶美國建國250週年。"
+    ],
+    "idea": "在溫馨的粉色系甜點店內，白毛蓬鬆的布偶貓鈴鈴正歪著頭，好奇地盯著落地大鏡子中反射出的另一個自己，畫面呈現極致溫柔的日系萌系角色設計風。",
+    "number": 2509,
+    "character_name": "鈴鈴"
   }
 ]
