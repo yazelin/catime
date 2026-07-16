@@ -6225,5 +6225,41 @@
     "story": "深夜的俱樂部空無一人，一隻黑貓悄悄溜上空蕩的舞台，被樂手留下的金色薩克斯風所吸引。牠用濕潤的鼻子輕觸冰涼的金屬，彷彿能聽見昨夜殘留的搖擺樂章。在這寂靜的角落裡，貓咪與樂器共同編織著屬於深夜的無聲旋律。",
     "inspiration": "original",
     "idea": "這幅「蠟筆兒童畫」風格的作品以「側臉特寫」呈現一隻黑貓在爵士樂俱樂部舞台上，好奇地嗅著一把璀璨金色薩克斯風的邊緣。畫面融入「金色與黑色奢華」色調與「水彩潑濺墨點」質感，並籠罩在窗外灑落的「自然漫射光」之中。"
+  },
+  {
+    "news_inspiration": [
+      "在美國華盛頓特區，太空總署（NASA）發布最新科學進展，指出詹姆斯·韋伯太空望遠鏡觀測到熔岩系外行星「55 Cancri e」擁有由火山活動驅動的奇特大氣層。",
+      "一隻重達2200磅的南象鼻海豹「尼爾」最近回歸了牠在澳洲海岸的出生地，龐大又呆萌的模樣在當地引起了一陣歡樂的騷動。",
+      "英國倫敦的國家檔案館於近期首度展出一份最新被尋獲、印製於1776年的美國《獨立宣言》珍貴歷史副本。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員帶著一群穿著阿根廷國家足球隊專屬球衣的狗狗們在街頭散步，可愛逗趣的畫面成為眾人焦點。"
+    ],
+    "character": "momo",
+    "character_name": "墨墨",
+    "idea": "在暗黑微距花卉與立體刺繡盤花肌理的視覺風格下，採用藍黃互補配色與大面積留白構圖，純黑貓咪墨墨站在國家檔案館深藍色長桌的一角，正專注地低頭嗅聞一份被黃金時刻夕陽照亮的古老羊皮紙文獻。",
+    "inspiration": "英國倫敦的國家檔案館於近期首度展出一份最新被尋獲、印製於1776年的美國《獨立宣言》珍貴歷史副本。",
+    "number": 2516,
+    "title": "檔案館的歷史凝視",
+    "story": "國家檔案館的深處寂靜無聲，巨大且帶有刺繡立體質感的暗色花朵在畫面邊緣如陰影般蔓延。左耳戴著金環的墨墨優雅地踩著無聲的步伐，躍上寬廣的深藍色天鵝絨閱讀桌，長長的白色鬍鬚輕輕掃過桌面。在黃昏金黃色的餘暉中，牠那雙金琥珀色的大眼專注地盯著那份剛被尋獲、印製於1776年的珍貴歷史副本，彷彿一位靜默的學者正在解讀百年前的秘密。",
+    "comment_id": 4995536768,
+    "prompt": "An intricate illustration combining a painterly vanitas atmosphere with a raised embroidered coiled-flower texture and three-dimensional satin-stitch blossoms. A negative space composition with minimalist breathing room, featuring a small subject in expansive emptiness, off-center placement. The subject is a literal four-legged sleek, slender solid-black shorthair cat with a satin-sheen coat. The cat has a single small gold hoop earring exclusively on its LEFT ear, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket fur tuft on its chest, and a single dark-grey ring on its tail tip. The cat stands gracefully on a wide deep blue velvet reading table in a quiet National Archives room, attentively looking down and sniffing an old parchment document. The parchment explicitly features the text '2026-07-16 18:53 UTC' printed clearly in English. Giant dark moody floral macro elements with tactile gold-couched petals and dense thread relief frame the edges like shadows against an ornate textile surface. Dramatic low-key light, rich saturated darks. Golden hour lighting with a warm sunset glow hits the parchment and casts a golden rim light on the cat, creating long soft shadows. The artwork features a vivid contrasting cool blue and warm yellow complementary palette, delivering a bold balanced energy and striking graphic vibrancy. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Dark Moody Floral Macro",
+      "composition": "Negative Space Composition",
+      "lighting": "Golden Hour",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "avoid_list": [
+      "黑白單色視覺風格",
+      "朱紅與描金配色",
+      "伸爪撥弄微小物件",
+      "溫室玻璃棚場景",
+      "迷你莫札特雕像",
+      "鏡像分身對稱構圖",
+      "強制透視微縮效果",
+      "貓咪凝視鼻尖前物體",
+      "半透明玻璃折射光影",
+      "畫面嵌入精確日期時間"
+    ]
   }
 ]
