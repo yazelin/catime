@@ -6855,5 +6855,39 @@
       "texture": "Dynamic Water Splash",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "story": "為了向藝術家致敬，博物館的地面被厚厚的花生醬覆蓋。一隻迷路的貓咪憑藉本能，在錯落的展台間輕巧穿梭，深怕弄髒自己的肉墊。奇妙的波紋光影隨著牠的腳步在牆面上搖曳，彷彿這是一座凝固在琥珀中的迷宮。",
+    "comment_id": 5008594143,
+    "inspiration": "在荷蘭鹿特丹，一間博物館在地上鋪滿了花生醬，以這項奇特的展覽來向已故的藝術家 Wim T. Schippers 致敬 [1.1.3]。",
+    "style_picks": {
+      "art_style": "Coloring Book Line Art",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Underwater Caustics",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "精確的2026-07-17 UTC時間戳記",
+      "嚴格的繁體中文渲染強制指令",
+      "分割畫面與明確的切割線構圖",
+      "粉紅與青綠交織的霓虹螢光色調",
+      "宇宙星雲輝光與空靈空間光影",
+      "高飽和度與鮮豔奪目的色彩對比",
+      "復古褪色與低對比的底片感色調",
+      "貓咪專注啃咬或撥弄古老文本與物品",
+      "考古挖掘現場與帳篷內部場景",
+      "貓咪慵懶平趴在檯面上的姿勢"
+    ],
+    "title": "琥珀迷宮的探險",
+    "number": 2535,
+    "news_inspiration": [
+      "在荷蘭鹿特丹，一間博物館在地上鋪滿了花生醬，以這項奇特的展覽來向已故的藝術家 Wim T. Schippers 致敬 [1.1.3]。",
+      "在阿根廷布宜諾斯艾利斯，一名遛狗員帶著一群穿著阿根廷國家足球隊球衣的狗狗們在街頭開心散步，畫面十分溫馨。",
+      "在美國紐約市，大胃王喬伊·切斯納特於康尼島的吃熱狗大賽中再次奪冠，與大批民眾一同慶祝美國建國250週年。",
+      "在埃及，考古學家發現了一具擁有1600年歷史的木乃伊，並驚奇地發現其防腐材料中竟含有《荷馬史詩：伊利亞德》的殘卷。"
+    ],
+    "idea": "這是一幅秋日暖色調的等距3D線描著色本插畫，一隻四腳貓咪在鋪滿花生醬的博物館展廳中，正小心翼翼地跳過帶有蛇鱗肌理的雕塑底座。陽光透過天窗灑下如水下焦散光般的奇幻波紋，映照在整個琥珀色的空間裡。",
+    "prompt": "A 3D isometric illustration combining coloring book line art, clean uniform black outlines, intricate decorative linework, and playful illustrative shapes with soft pastel colors and warm amber color grading. An autumn palette of golden yellows, burnt orange, and cozy nostalgic warmth. In a museum gallery, the floor is entirely covered in thick peanut butter. A four-legged cat is carefully jumping over a sculpture base to avoid the floor. The sculpture base features a snake scale texture, overlapping iridescent reptilian scales, a glossy patterned surface, sinuous organic sheen, and exotic tactile detail. A sign prominently displays the exact text '2026-07-17 23:41 UTC'. The scene is illuminated by underwater caustic lighting, rippling light patterns dancing over the subject, refracted sun shafts through water, a blue-green aquatic glow, creating a submerged dreamlike atmosphere. Clean geometric forms, polished playful rendering, ready-to-color aesthetic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
