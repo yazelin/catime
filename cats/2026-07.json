@@ -6721,5 +6721,36 @@
       "為了對抗兒童蛀牙問題並改善健康不平等，英國利物浦市政府發起了向當地孩童免費贈送數萬組牙刷與牙膏的溫馨計畫。",
       "在日本太平洋沿岸的社區，兩名互不相識的民眾從不同地點同時拍下了多個神祕光球在空中漂浮超過20分鐘的奇特畫面。"
     ]
+  },
+  {
+    "number": 2531,
+    "comment_id": 5007032261,
+    "idea": "在一間積水的廢棄哥德式音樂室裡，黑貓墨墨優雅地趴在鋼琴上，凝視著一本產生遞迴視覺效應的舊書，畫面呈現帶有立體刺繡質感的定格偶動畫風格與波光粼粼的水下焦散光影。",
+    "prompt": "Gothic stop-motion puppet animation art, Tim Burton aesthetic. A literal four-legged sleek solid-black shorthair Bombay-style cat named Momo elegantly lies on top of a piano in a flooded abandoned gothic music room, staring calmly and attentively at an old book. Momo features satin-sheen fur with warm brown undertones, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white fur locket tuft on the ventral chest without any collar, a single dark-grey ring at the tail tip, and exactly one small gold hoop earring located exclusively on the LEFT ear from the viewer perspective. The old book cover displays a recursive image, a Droste effect picture within a picture repeating infinitely in a self-referential loop showing the cat. An ornate carved plaque clearly displays the exact text '2026-07-17 19:56 UTC'. The scene features tactile handmade sets and hand-crafted armature puppets. The piano and surroundings exhibit a raised embroidered coiled-flower texture, three-dimensional satin-stitch blossoms, dense thread relief, and tactile gold-couched petals on an ornate textile surface. Illuminated by underwater caustic lighting, rippling light patterns dancing over the subject, refracted sun shafts through water, creating a blue-green aquatic glow and a submerged dreamlike atmosphere. Muted eerie palette, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "title": "無盡遞迴的琴室",
+    "story": "復古褪色的音樂室裡漾著奇幻的波光，墨墨輕巧地跳上滿是立體刺繡紋理的鋼琴頂端。牠那金琥珀色的雙眼緊盯著一本舊書，書本封面無限遞迴著牠戴著金耳環與白領結趴在原地的模樣。水面折射的光影在牠黑毛上輕輕搖晃，彷彿整個空間是一齣靜謐的定格動畫。",
+    "character": "momo",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Gothic Stop-Motion Puppet",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Underwater Caustics",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "inspiration": "original",
+    "avoid_list": [
+      "包含精確UTC時間標籤",
+      "強調繁體中文禁用簡體的文字指令",
+      "螢光粉綠藍等霓虹色調與暗背景對比",
+      "高飽和度與強烈對比的鮮豔色彩",
+      "強調字面意義上的四足貓的描述",
+      "體積光與神聖光芒效果",
+      "俯視平鋪或整齊排列的構圖",
+      "明確的分割畫面與俐落切線",
+      "貓咪撥弄或追逐微小物件的動作",
+      "隔著玻璃或透明介質的框內構圖"
+    ]
   }
 ]
