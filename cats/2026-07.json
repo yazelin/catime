@@ -6618,5 +6618,41 @@
     "inspiration": "original",
     "prompt": "Split view composition with a sharp horizontal cut line. Top half: snowstorm atmospheric lighting, heavy falling snow veil, fogged distance, painterly weather mood, visibility obscured by flurries, hazy beach with old stalls, illuminated by neon fluorescent colors, electric pink, lime green, hot cyan glowing against a dark background. A glowing neon sign in the fog clearly reads '2026-07-17 14:44 UTC'. Bottom half: ornate danmei illustration style, rich painterly render, gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, decadent decorative composition, lavish gilt ornamentation, intricate jeweled detail on a dark ground. In the foreground of the bottom half, a literal four-legged chubby spherical shorthair cat is lying flat on a wooden beach table, eagerly eating a giant, brightly colored slice of watermelon. The cat wears a tight, small summer life jacket. The cat has a pure white base coat and solid orange patches with absolutely no tabby stripes. Viewer perspective: the right half of the cat's face has a solid orange mask from the nose bridge extending across the right cheek to the right ear, while the left side of the face is entirely pure white. The cat has a pink nose with a tiny orange center dot, and large, round amber eyes. On the upper back is a heart-shaped solid orange saddle. The right front paw has a solid orange mitten up to the wrist, and the left front paw is entirely pure white. The round white belly is pressed against the table. The tail has orange-and-white ringed bands, and the cat has short, stubby legs. Not anthropomorphic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "season": "summer"
+  },
+  {
+    "inspiration": "original",
+    "character_name": "船長",
+    "comment_id": 5005197562,
+    "idea": "結合新中式珠寶工筆插畫風格，透過精雕細琢的蕾絲鏤空窗櫺形成框中框構圖，描繪戴著眼罩的巨大虎斑貓「船長」蹲坐在古老燈塔窗台上，在倫勃朗光的幽暗光影與竹影翠綠的色調中，用厚實身軀替一隻小貓擋雨。",
+    "number": 2528,
+    "style_picks": {
+      "art_style": "Neo-Chinese Jeweled Gongbi Illustration",
+      "composition": "Frame Within a Frame",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "story": "狂風驟雨襲擊了夜晚的漁港，燈塔的鏤空木窗成了唯一的避風港。戴著紅頭巾的船長如雕像般端坐在窗邊，任憑水氣打濕粗糙的毛髮，用那如船舵般粗壯的尾巴將發抖的小貓緊緊圈住。牠那銳利的翠綠右眼凝視著海面，在微弱的燈火下流露出不言而喻的溫柔與堅毅。",
+    "character": "captain",
+    "title": "翠窗下的守望",
+    "prompt": "Neo-Chinese jeweled gongbi illustration, meticulous fine-line beauty adorned with ornate jewelry and gems, rich decorative detail, gold accents, luxurious traditional craft feel. Frame within a frame composition: the scene is viewed through an intricate lace openwork wooden window frame featuring delicate floral cutout patterns, fine translucent filigree, and elegant scalloped edges. On the ancient lighthouse windowsill inside this layered foreground border sits a literal, four-legged feline cat sheltering a small trembling kitten from a raging storm. The main cat is a large, stocky brown classic tabby with bold black stripes and a broad muscular build. Its fur is scruffy, untidy, and coarse. The cat's LEFT eye (from the viewer's perspective) is naturally concealed by a dark-pigmented fur patch covering the socket without any straps or fabric eye patches. The RIGHT eye is a single piercing emerald green. The cat has a V-shaped notch on its left ear, a loosely tied faded red bandana around its neck, a white chest bib, white mitten paws on all four legs, and an M-mark on its forehead. Its thick, sturdy tail is wrapped tightly around the tiny kitten to block the driving rain. Rembrandt lighting, dramatic chiaroscuro, single light source at 45 degrees casting a signature triangle of light on the shadowed cheek. Bamboo jade-green palette, fresh emerald and malachite tones, cool verdant serenity, elegant oriental green harmony. The exact text '2026-07-17 16:06 UTC' is clearly written on the windowsill. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "亞洲首家「榴槤體驗中心」在馬來西亞吉隆坡盛大開幕，為遊客帶來獨特的熱帶水果與美食文化體驗。",
+      "印尼日惹的普蘭巴南爵士音樂節吸引了創紀錄的8.5萬名遊客，在聯合國世界遺產的壯麗背景下展現音樂與歷史的結合。",
+      "2026年世界盃足球賽即將迎來決賽，阿根廷與西班牙將在美國紐澤西州東盧瑟福爭奪冠軍，當地也為此推出了豐富的沉浸式球迷活動。",
+      "義大利網球好手辛納（Jannik Sinner）在英國倫敦舉行的溫布頓網球錦標賽中，擊敗德國名將成功衛冕男單冠軍。"
+    ],
+    "avoid_list": [
+      "貓咪低頭嗅聞特定物體",
+      "揮動前肢撥弄面前物體",
+      "刻意強調四足或四腳貓咪",
+      "水彩潑濺與墨點肌理",
+      "藍黃互補色強烈對比",
+      "大面積留白的負空間構圖",
+      "繁複的立體花卉與壓花裝飾",
+      "戲劇性的局部條紋與聚光燈",
+      "超現實微縮與懸浮空間",
+      "強制渲染UTC時間戳記"
+    ]
   }
 ]
