@@ -6654,5 +6654,38 @@
       "超現實微縮與懸浮空間",
       "強制渲染UTC時間戳記"
     ]
+  },
+  {
+    "news_inspiration": [
+      "荷蘭的一間博物館為了向荒誕派藝術家致敬，在展場地板上鋪滿了重達800磅的花生醬。",
+      "考古學家在埃及發現了含「黃金舌頭」的木乃伊，古埃及人相信這能讓死者在來世順利溝通。",
+      "在加拿大安大略省一間倒閉的主題樂園內，30隻受困多年的白鯨終於獲救，即將被重新安置以獲得更好的照護。"
+    ],
+    "inspiration": "在加拿大安大略省一間倒閉的主題樂園內，30隻受困多年的白鯨終於獲救，即將被重新安置以獲得更好的照護。",
+    "idea": "在原子龐克風格的深海潛艇控制室內，一隻橘貓正趴在排列整齊（Knolling）的高飽和度鮮豔儀表與發光零件中央，目不轉睛地盯著圓形舷窗外游過的白鯨群，電影感打光與發光絲流的紋理交織出復古未來的科技氛圍。",
+    "comment_id": 5006033587,
+    "number": 2529,
+    "story": "退役的主題樂園終於關閉，三十隻受困的白鯨在核動力潛艇的護送下重返深海。艦長桌上的復古導航工具被強迫症般地完美排列，而艦長的愛貓卻毫不客氣地霸佔了正中央的圖紙。牠靜靜看著窗外散發著微光的龐大身軀，瞳孔中映照出深海的奇蹟。",
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Knolling Photography",
+      "lighting": "Cinematic Lighting",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "貓咪低頭嗅聞特定物體",
+      "揮動前肢撥弄面前物體",
+      "刻意強調四足或四腳貓咪",
+      "水彩潑濺與墨點肌理",
+      "藍黃互補色強烈對比",
+      "大面積留白的負空間構圖",
+      "繁複的立體花卉與壓花裝飾",
+      "戲劇性的局部條紋與聚光燈",
+      "超現實微縮與懸浮空間",
+      "強制渲染UTC時間戳記"
+    ],
+    "title": "深海潛航的守望",
+    "prompt": "Atompunk illustration, retro-futuristic atomic age aesthetics, sleek chrome lines, 1950s futuristic technology, optimistic space-age energy. A whimsical scene inside a deep-sea submarine control room. Composition inspired by Knolling photography: flat lay overhead view showing retro navigation tools, glowing parts, and instruments neatly arranged at 90-degree angles in an organized grid layout. Right in the center of this perfectly ordered desk, an orange cat is lying down on blueprints, staring intently out a large circular porthole at a pod of majestic beluga whales swimming in the dark ocean. An illuminated mechanical display panel prominently shows the exact text '2026-07-17 17:56 UTC'. Cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, film-quality mood. Enhanced by glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, and ethereal energy filaments. High saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette, clean background. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
