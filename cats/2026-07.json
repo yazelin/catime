@@ -6393,5 +6393,34 @@
       "texture": "Impasto Oil Texture",
       "color_palette": "Blue and Yellow Complementary"
     }
+  },
+  {
+    "avoid_list": [
+      "衍紙藝術與紙捲紋理",
+      "德羅斯特效應與遞迴影像",
+      "水下焦散光與波紋光影",
+      "撕紙拼貼視覺效果",
+      "朱紅與金漆華麗配色",
+      "貓爪拍打或撥弄特定物品",
+      "立體花瓣與刺繡花卉肌理",
+      "強制顯示特定日期與時間",
+      "金屬描金點綴裝飾",
+      "強調禁用簡體字的文字規則"
+    ],
+    "prompt": "Digital illustration, top-down flat-lay framing, dreamy decorative bird's-eye composition of a calico cat sleeping curled up on top of a 1990s retro arcade cabinet. The arcade machine's top panel is modified into a glass display featuring pressed botanical layers, flattened dried flowers and leaves, delicate translucent plant specimens, layered herbarium texture, and a natural organic collage. The cat's body is surrounded by dense flowers in a sea of blossoms. The dark, atmospheric arcade environment is illuminated by volumetric lighting, visible light rays through atmosphere, god rays, and dust particles catching light. High saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette. The entire image features a CRT monitor aesthetic, visible scan lines, phosphor glow, retro screen curvature, and vintage display artifacts. A glowing digital text display clearly reads exactly '2026-07-17 01:28 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4998159962,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "CRT Scanline",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Volumetric Light",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [],
+    "title": "機台上的酣睡",
+    "number": 2521,
+    "story": "在喧鬧的復古電子遊樂場角落，廢棄的機台被改造成色彩斑斕的植物標本展示區。一隻流浪三花貓將滿是壓花圖騰的玻璃檯面當成了最溫暖的床鋪，在霓虹燈光與遊戲機的低鳴中安心地打著呼嚕。周圍的玩家激動地按著按鈕，卻都默契地不打擾牠的安寧。",
+    "idea": "透過帶有復古CRT掃描線效果的鏡頭俯瞰，一隻三花貓正蜷縮在1990年代電子遊樂場裡一個改裝成壓花植物疊層展示桌的機台上方熟睡。高飽和鮮豔色的體積光穿透昏暗的遊樂場空間，照亮了這幅奇妙的畫面。"
   }
 ]

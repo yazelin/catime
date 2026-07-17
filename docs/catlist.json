@@ -23523,5 +23523,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-16_2347_UTC.webp",
     "inspiration": "美國洛杉磯：成千上萬的遊客好奇地湧入漢庭頓植物園，只為了親自聞一聞極為罕見且散發著強烈腐肉氣味的「雙生巨型屍花」開花奇景。",
     "status": "success"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-17_0128_UTC.webp",
+    "timestamp": "2026-07-17 01:28 UTC",
+    "inspiration": "original",
+    "model": "gemini-2.5-flash-image (fallback from gemini-3-pro-image-preview, reason: request error: All connection attempts failed) (fallback from codex: codex-image-service request failed: <urlopen error timed out>)",
+    "title": "機台上的酣睡",
+    "number": 2521
   }
 ]
