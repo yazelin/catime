@@ -6687,5 +6687,39 @@
     ],
     "title": "深海潛航的守望",
     "prompt": "Atompunk illustration, retro-futuristic atomic age aesthetics, sleek chrome lines, 1950s futuristic technology, optimistic space-age energy. A whimsical scene inside a deep-sea submarine control room. Composition inspired by Knolling photography: flat lay overhead view showing retro navigation tools, glowing parts, and instruments neatly arranged at 90-degree angles in an organized grid layout. Right in the center of this perfectly ordered desk, an orange cat is lying down on blueprints, staring intently out a large circular porthole at a pod of majestic beluga whales swimming in the dark ocean. An illuminated mechanical display panel prominently shows the exact text '2026-07-17 17:56 UTC'. Cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, film-quality mood. Enhanced by glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, and ethereal energy filaments. High saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette, clean background. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "包含精確UTC時間標籤",
+      "強調繁體中文禁用簡體的文字指令",
+      "螢光粉綠藍等霓虹色調與暗背景對比",
+      "高飽和度與強烈對比的鮮豔色彩",
+      "強調字面意義上的四足貓的描述",
+      "體積光與神聖光芒效果",
+      "俯視平鋪或整齊排列的構圖",
+      "明確的分割畫面與俐落切線",
+      "貓咪撥弄或追逐微小物件的動作",
+      "隔著玻璃或透明介質的框內構圖"
+    ],
+    "number": 2530,
+    "story": "這些來歷不明的光球已經在陣法室半空中漂浮了許久，修士決定用玉簡拍下這奇特的瞬間。但比起天象奇觀，橘貓顯然更在意嘴裡那卷口感極佳的陳年竹簡。",
+    "style_picks": {
+      "art_style": "Xianxia Male Character Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Retro Faded Tones"
+    },
+    "title": "奇景與啃簡貓",
+    "idea": "採用仙俠郎君立繪風格與復古褪色色調，在白底去背棚光的純白陣法室內，一名修士正拿著玉簡擺出鏡子自拍構圖，周遭漂浮著數顆液態金屬般的神祕光球，而一隻胖橘貓正坐在修士的肩膀上，專心啃咬著一卷古老竹簡。",
+    "comment_id": 5006572438,
+    "prompt": "xianxia male character standee, semi-realistic anime render, otome game key art. A handsome white-haired immortal swordsman in flowing robes with refined bishounen features holding a glowing jade slip, posing in a mirror selfie composition. casual framing, visible reflection, intimate close-up perspective. A fat orange cat sits on his shoulder, actively biting and chewing on an ancient bamboo scroll. Floating around them are mysterious orbs with a liquid metal surface, mercury-like reflective flow, chrome dripping texture, molten mirror finish, futuristic material. The exact text '2026-07-17 18:54 UTC' is clearly visible as a timestamp overlay. white seamless studio lighting, evenly lit subject on pure white cyclorama, clean shadowless product look, bright high-key backdrop, crisp commercial clarity. retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在日本太平洋沿岸的社區，兩名互不相識的民眾從不同地點同時拍下了多個神祕光球在空中漂浮超過20分鐘的奇特畫面。",
+    "news_inspiration": [
+      "在瓜地馬拉的瑪雅古城蘇爾通，考古學家近期首次確認了一位古代數學家記錄下連結金星與火星週期的天文計算公式。",
+      "美國科羅拉多州引進了全新的電動黃色校車，這些車輛不僅能日常接送學生，夜間停放時還能化身為當地電網的備用電源。",
+      "為了對抗兒童蛀牙問題並改善健康不平等，英國利物浦市政府發起了向當地孩童免費贈送數萬組牙刷與牙膏的溫馨計畫。",
+      "在日本太平洋沿岸的社區，兩名互不相識的民眾從不同地點同時拍下了多個神祕光球在空中漂浮超過20分鐘的奇特畫面。"
+    ]
   }
 ]
