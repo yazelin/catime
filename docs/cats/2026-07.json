@@ -6422,5 +6422,42 @@
     "number": 2521,
     "story": "在喧鬧的復古電子遊樂場角落，廢棄的機台被改造成色彩斑斕的植物標本展示區。一隻流浪三花貓將滿是壓花圖騰的玻璃檯面當成了最溫暖的床鋪，在霓虹燈光與遊戲機的低鳴中安心地打著呼嚕。周圍的玩家激動地按著按鈕，卻都默契地不打擾牠的安寧。",
     "idea": "透過帶有復古CRT掃描線效果的鏡頭俯瞰，一隻三花貓正蜷縮在1990年代電子遊樂場裡一個改裝成壓花植物疊層展示桌的機台上方熟睡。高飽和鮮豔色的體積光穿透昏暗的遊樂場空間，照亮了這幅奇妙的畫面。"
+  },
+  {
+    "number": 2522,
+    "story": "鈴鈴最喜歡收集亮晶晶的小東西。今天她跟著花店老闆的太陽能三輪車出門，卻被後照鏡旁新裝的環形燈給深深吸引。當她傻乎乎地對著鏡子裡的自己揮舞肉球時，這純真的一幕被完美定格在充滿墨點肌理的藝術畫面中。",
+    "comment_id": 4999125389,
+    "style_picks": {
+      "art_style": "Fine Art Black-and-White Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Ring Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "荷蘭鹿特丹的一家博物館為了致敬荒誕派藝術家，竟然用超過360公斤的花生醬鋪滿了整個展覽區地板。",
+      "西班牙潘普洛納的街頭擠滿了熱情的狂歡者，共同慶祝充滿文化傳統的聖費爾明節與經典的奔牛活動。",
+      "丹麥哥本哈根在盛夏時節舉辦了「世界聖誕老人大會」，為城市帶來了反常卻溫馨的耶誕歡樂氣氛。",
+      "古巴哈瓦那的居民開始廣泛使用太陽能三輪車，這項綠能交通工具幫助當地人輕鬆應對日常通勤與燃料短缺的問題。",
+      "美國科羅拉多州的一隻友善有蹄類動物意外現身，為當地辛勤工作的消防員們帶來了意想不到的溫馨精神支持。"
+    ],
+    "prompt": "Fine art black-and-white photography print with physical mixed media embellishments. Mirror selfie composition from the perspective of a tricycle's rearview mirror, intimate close-up perspective, casual framing, visible reflection. The subject is a literal four-legged cat: an extremely fluffy pure white longhair Ragdoll-like cat with a small round face, huge round sapphire-blue eyes, and pale pink nose and inner ears. She wears a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the knot. Her enormous feathery white plume tail is visible in the reflection. The cat is reaching her front paw forward, exposing pink paw pads, to playfully bat at the glowing ring light illumination reflecting in the mirror. Circular catchlight in eyes, even frontal lighting, beauty portrait quality, 35mm lens, f/1.8, shallow depth of field, photographic grain, candid shot of a Havana flower cart in the background. The printed photograph features watercolor splatter and ink-spray texture, dripping pigment, scattered dots and splashes, organic fluid stains, expressive spontaneous marks on paper in an earth tone palette of terracotta, olive green, and warm brown, adding natural organic harmony. The exact text '2026-07-17 04:52 UTC' is clearly printed on the image. Rich tonal gradation, deep blacks and luminous highlights, contemplative monochrome mood for the base photo, contrasting with the selective colors of the cat's sapphire-blue eyes, pink collar, golden bell, and the earth-tone splatters. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "衍紙藝術與紙捲紋理",
+      "德羅斯特效應與遞迴影像",
+      "水下焦散光與波紋光影",
+      "撕紙拼貼視覺效果",
+      "朱紅與金漆華麗配色",
+      "貓爪拍打或撥弄特定物品",
+      "立體花瓣與刺繡花卉肌理",
+      "強制顯示特定日期與時間",
+      "金屬描金點綴裝飾",
+      "強調禁用簡體字的文字規則"
+    ],
+    "inspiration": "古巴哈瓦那的居民開始廣泛使用太陽能三輪車，這項綠能交通工具幫助當地人輕鬆應對日常通勤與燃料短缺的問題。",
+    "character": "lingling",
+    "idea": "這是一幅結合大地色系水彩潑濺點綴的美術黑白攝影作品，透過三輪車後照鏡的「自拍」視角，捕捉純白蓬鬆的布偶貓鈴鈴在哈瓦那街頭的行動花車上，正好奇地伸出毛茸茸的前掌撥弄鏡前環形燈折射出的閃亮光暈。",
+    "character_name": "鈴鈴",
+    "title": "鏡裡的亮晶晶"
   }
 ]
