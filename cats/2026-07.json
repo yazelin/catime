@@ -6820,5 +6820,40 @@
       "在瓜地馬拉（瓜地馬拉市），動物園的保育人員正成功繁殖極度瀕危的瓜地馬拉珠毒蜥，並訓練幼蜥以備明年將牠們野放回歸自然棲地。"
     ],
     "inspiration": "在埃及（奧克西林庫斯），考古學家首次發現一具1600年歷史的木乃伊在防腐儀式中使用了古希臘史詩《伊利亞特》的莎草紙碎片 [2.2.2]。"
+  },
+  {
+    "avoid_list": [
+      "包含精確UTC時間標籤",
+      "強調繁體中文禁用簡體的文字指令",
+      "螢光粉綠藍等霓虹色調與暗背景對比",
+      "高飽和度與強烈對比的鮮豔色彩",
+      "強調字面意義上的四足貓的描述",
+      "體積光與神聖光芒效果",
+      "俯視平鋪或整齊排列的構圖",
+      "明確的分割畫面與俐落切線",
+      "貓咪撥弄或追逐微小物件的動作",
+      "隔著玻璃或透明介質的框內構圖"
+    ],
+    "comment_id": 5008179185,
+    "prompt": "Black and white monochrome photography, high contrast, rich tonal range, dramatic shadows and highlights. Perfectly isometric photography, real captured photo with isometric angle, 35mm lens, f/2.8, fast shutter speed, no miniature effect. Inside an archaeological tent in Guatemala, illuminated by candlelight, warm orange flickering glow, intimate atmosphere, soft dancing shadows. A cat leaps across an ancient flooded stone altar carved with Mayan star tracks. The cat's paws strike the puddle, creating a dynamic water splash texture, bursting droplets and flying spray frozen mid-motion, crystalline liquid arcs, energetic splattering water detail. The splashed water forms a complex circular design, radial symmetry, detailed concentric geometric patterns, and meditative sacred geometry resembling mandala art style. A nearby field journal prominently displays the exact text '2026-07-17 22:37 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在瓜地馬拉的蘇爾通（Xultun），考古學家最新破解了一處古老密室的壁畫，確認一位名叫「白胸狐」的馬雅數學家是首位算出金星與火星運轉週期的先驅。",
+    "title": "燭影下的星軌",
+    "idea": "這是一幅黑白單色調的等距攝影作品，在燭光搖曳的瓜地馬拉考古帳篷內，一隻貓咪躍過刻有馬雅星軌的石板，踩踏出曼陀羅藝術般精緻的靈動水花飛濺。",
+    "news_inspiration": [
+      "在瓜地馬拉的蘇爾通（Xultun），考古學家最新破解了一處古老密室的壁畫，確認一位名叫「白胸狐」的馬雅數學家是首位算出金星與火星運轉週期的先驅。",
+      "在肯亞蒙巴薩（Mombasa）剛落幕的「我們的海洋」國際會議中，全球共承諾提供 64 億美元的資金，為保護海洋生態與推動永續發展注入一劑強心針。",
+      "在美國科羅拉多州，當地學區最新引進的雙向充電電動校車正式上路，除了日常接送學生外，夜間還能作為支援當地電網的巨型備用電池。",
+      "在荷蘭的一處市鎮，為了解決電動自行車過快所帶來的安全隱患，當地政府開始測試首創的「自行車速限」政策，以保障用路人的安全。",
+      "在澳洲，醫學研究團隊最新宣布發現了導致肺部纖維化（肺疤痕）的關鍵原因，這項科學突破將為未來治療嚴重呼吸道疾病帶來新曙光。"
+    ],
+    "number": 2534,
+    "story": "考古學家正在蘇爾通密室內研究「白胸狐」留下的金星與火星運轉週期壁畫，他的同行貓咪卻在積水的古老祭壇上奔跑。當貓咪輕巧地躍過石板時，激起的水滴在微弱的燭火中瞬間凝結成複雜的幾何圖案。這幅單色畫面將馬雅數學的嚴謹與貓咪帶來的瞬間生命力完美融合。",
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Isometric Photography",
+      "lighting": "Candlelight",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
