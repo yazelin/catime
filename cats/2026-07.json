@@ -6786,5 +6786,39 @@
     "story": "深夜的潛水船上，剛結束海洋清理任務的銀髮志工們疲憊地卸下裝備。船貓見狀立刻上前，專注地幫忙咬開那些頑固糾結的廢棄物。在幽幽的靛藍輝光下，這個靜謐的甲板角落充滿了溫柔的羈絆。",
     "idea": "以月夜靛藍色調繪製的鉛筆素描，一隻緬因貓在鱈魚角老舊潛水船甲板上，正低頭用牙齒與前爪努力扯開纏繞在老奶奶潛水員蛙鞋上的粗糙海帶。畫面以穆夏式拱框構圖呈現，邊緣帶有鑄鐵雕花鏤空質感的藤壺與海草裝飾，背景海霧散發著神秘的星雲輝光。",
     "prompt": "Pencil sketch, graphite on paper, hatching and cross-hatching, visible pencil strokes. A Mucha-style arched frame composition, figure enclosed in an ornamental rounded arch, decorative border halo, symmetrical Art Nouveau panel framing, integrated floral motifs. The border features wrought iron filigree, ornate black scrollwork, Victorian architectural ironwork, intricate openwork patterns, cast iron lace, heritage metal craftsmanship depicting barnacles and seaweed. Inside the frame, a Maine Coon cat on the wooden deck of an old Cape Cod diving boat is intently using its teeth and front paws to pull apart rough, tangled kelp wrapped around an elderly diver's scuba fins. A sign on the wooden deck clearly displays the exact text '2026-07-17 20:44 UTC'. In the background, sea fog blends with a nebula cosmic glow, soft colorful starfield illumination, ethereal purple and blue space light, glowing particles and galactic haze, otherworldly radiance. The entire scene features a moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, dark dreamy blue dominance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "title": "莎草紙上的貓步",
+    "comment_id": 5007755444,
+    "story": "在乾燥炎熱的奧克西林庫斯挖掘現場，沉睡千年的史詩碎片終於重見天日。沒想到最先湊近這份古希臘文獻的，是一隻溜進帳篷的橘貓。牠踩在泛黃脆弱的紙頁邊緣，彷彿正專心致志地閱讀著特洛伊的壯闊戰爭。",
+    "prompt": "Sweet doll-like anime rendering of a Lolita fashion full-body character standee. A young girl wearing an elaborate frilly dress with lace and bows, featuring Shibori style resist-dyed textile patterns, organic flowing designs, and Japanese artisan dye technique in an indigo blue palette. She stands quietly inside an Egyptian archaeological tent at a hot, dry excavation site. At her feet, an orange cat is intently using its front paws to unroll and open a giant, ancient, yellowed, and fragile papyrus scroll. The papyrus clearly displays the Traditional Chinese text '伊利亞特' written on it. A sign hanging on the tent wall clearly displays the exact text '2026-07-17 21:40 UTC'. The artwork features a negative space composition, small subject in expansive emptiness, minimalist breathing room, off-center placement, calm uncluttered framing, and a full-length pose. The environment incorporates an earth tone palette of terracotta, olive green, and warm brown, creating a natural organic harmony. The scene is illuminated by harsh midday sunlight, hard edge shadows, high contrast natural daylight, strong directional sun, unforgiving illumination, blending ornate styling detail with a hint of gritty urban realism. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "包含精確UTC時間標籤",
+      "強調繁體中文禁用簡體的文字指令",
+      "螢光粉綠藍等霓虹色調與暗背景對比",
+      "高飽和度與強烈對比的鮮豔色彩",
+      "強調字面意義上的四足貓的描述",
+      "體積光與神聖光芒效果",
+      "俯視平鋪或整齊排列的構圖",
+      "明確的分割畫面與俐落切線",
+      "貓咪撥弄或追逐微小物件的動作",
+      "隔著玻璃或透明介質的框內構圖"
+    ],
+    "number": 2533,
+    "idea": "這是一幅運用留白負空間構圖的大地色系蘿莉塔少女全身立繪，在硬光日照下的埃及考古帳篷內，身穿絞染洋裝的少女安靜佇立，而她腳邊一隻貓咪正專注地用前掌攤開一張寫有《伊利亞特》的巨大古老莎草紙。",
+    "style_picks": {
+      "art_style": "Lolita Fashion Full-Body Standee",
+      "composition": "Negative Space Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Shibori Textile",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "在埃及（奧克西林庫斯），考古學家首次發現一具1600年歷史的木乃伊在防腐儀式中使用了古希臘史詩《伊利亞特》的莎草紙碎片 [2.2.2]。",
+      "在加拿大（安大略省尼加拉瀑布城），約30隻被困在廢棄主題樂園多年的白鯨終於獲准救援，準備移居至美國的水族館展開新生活。",
+      "在澳洲（塔斯馬尼亞州），一隻重達一千公斤的南象鼻海豹「尼爾」回到了牠出生的海灘，以推倒交通錐等調皮行徑成為當地與網路上的明星。",
+      "在瓜地馬拉（瓜地馬拉市），動物園的保育人員正成功繁殖極度瀕危的瓜地馬拉珠毒蜥，並訓練幼蜥以備明年將牠們野放回歸自然棲地。"
+    ],
+    "inspiration": "在埃及（奧克西林庫斯），考古學家首次發現一具1600年歷史的木乃伊在防腐儀式中使用了古希臘史詩《伊利亞特》的莎草紙碎片 [2.2.2]。"
   }
 ]
