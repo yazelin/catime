@@ -23579,5 +23579,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-17_1259_UTC.webp",
     "inspiration": "在荷蘭鹿特丹，一間博物館為了致敬已故的荷蘭藝術家，在展場地板上塗滿了重達800多磅的花生醬。",
     "status": "success"
+  },
+  {
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-17_1444_UTC.webp",
+    "title": "迷霧海灘的夏宴",
+    "timestamp": "2026-07-17 14:44 UTC",
+    "number": 2527,
+    "status": "success",
+    "character": "mochi",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "season": "summer"
   }
 ]
