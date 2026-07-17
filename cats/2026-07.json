@@ -6459,5 +6459,39 @@
     "idea": "這是一幅結合大地色系水彩潑濺點綴的美術黑白攝影作品，透過三輪車後照鏡的「自拍」視角，捕捉純白蓬鬆的布偶貓鈴鈴在哈瓦那街頭的行動花車上，正好奇地伸出毛茸茸的前掌撥弄鏡前環形燈折射出的閃亮光暈。",
     "character_name": "鈴鈴",
     "title": "鏡裡的亮晶晶"
+  },
+  {
+    "comment_id": 5000091988,
+    "news_inspiration": [
+      "在荷蘭鹿特丹，一家博物館為了致敬已故藝術家，在地板上塗滿了足以製作一萬五千個三明治的巨量花生醬。",
+      "在丹麥奧爾堡，來自世界各地的聖誕老人與精靈齊聚一堂參加一年一度的「世界聖誕老人大會」，在炎炎夏日中散播節慶歡樂。",
+      "在美國科羅拉多斯普林斯，一隻名叫Goldie的山羊成為了當地消防隊的「精神支柱」，在打火弟兄們撲滅小型野火時給予最溫暖的陪伴。",
+      "在印度科澤科德，一名大學畢業生為了兌現童年時期的承諾，驚喜送給父親一輛他夢寐以求的休旅車，這個溫馨的舉動感動了無數網友。"
+    ],
+    "avoid_list": [
+      "衍紙藝術與紙捲紋理",
+      "德羅斯特效應與遞迴影像",
+      "水下焦散光與波紋光影",
+      "撕紙拼貼視覺效果",
+      "朱紅與金漆華麗配色",
+      "貓爪拍打或撥弄特定物品",
+      "立體花瓣與刺繡花卉肌理",
+      "強制顯示特定日期與時間",
+      "金屬描金點綴裝飾",
+      "強調禁用簡體字的文字規則"
+    ],
+    "idea": "以建築藍圖的藝術風格呈現，在炎夏的丹麥奧爾堡街頭，一隻貓咪正專注地用腳掌撥弄著散落一地的聖誕老人大會宣傳單，周圍點綴著霓虹螢光的金箔祥雲圖騰。",
+    "title": "夏日聖誕藍圖",
+    "prompt": "An illustration in an architectural blueprint style with white lines on a blue background, transitioning into a dark ground with luxurious gilt texture. Centered subject composition with a single focal point dead center and balanced symmetrical framing. A curious cat is pawing at scattered World Santa Claus Congress flyers on a summer street in Aalborg, Denmark. The flyers and blueprint clearly display the exact text '2026-07-17 07:08 UTC' and the Traditional Chinese text '世界聖誕老人大會' written as precise annotations in a technical drawing format. The clean surrounding space features a direct iconic presentation. The scene is illuminated by candlelight with a warm orange flickering glow, soft dancing shadows, and an intimate atmosphere. Surrounding the cat are gold leaf ornamental clouds and traditional East Asian auspicious cloud motifs with an embossed metallic finish and intricate curling swirl patterns. These motifs glow intensely with neon fluorescent colors, electric pink, lime green, and hot cyan, glowing against the dark background. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在丹麥奧爾堡，來自世界各地的聖誕老人與精靈齊聚一堂參加一年一度的「世界聖誕老人大會」，在炎炎夏日中散播節慶歡樂。",
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Centered Subject Composition",
+      "lighting": "Candlelight",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "夏日的微風吹過廣場，帶來了不可思議的節慶氣息。貓咪好奇地審視著這些穿著紅衣的神秘人物海報，在溫暖的燭光映照下，牠彷彿也參與了這場反季節的狂歡。",
+    "number": 2523
   }
 ]
