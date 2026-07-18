@@ -7052,5 +7052,36 @@
     ],
     "idea": "以墨流藝術風格呈現，由正上方俯瞰一隻四腳朝天的貓咪，慵懶地躺在苗場滑雪場草地上一堆充氣PVC材質的巨型花朵坐墊中。畫面以月夜靛藍為主色調，遠方音樂祭舞台測試的光線如星雲輝光般流轉，映照著貓咪用後腿踢著花瓣的具體動作。",
     "title": "星雲花海的貓"
+  },
+  {
+    "story": "刺骨的寒風席捲著漫天飛雪，將遠處的山林隱沒在白色的陰霾裡。一隻野生的四足黑貓無懼嚴寒，牠壓低身子，在神社長廊的朱紅色木欄上屏息潛伏。迴廊的盡頭，一隻羽毛蓬鬆的鴿子正四處張望，完全不知這場自然界的追逐已然展開。",
+    "comment_id": 5011129589,
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Leading Lines Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "news_inspiration": [],
+    "prompt": "Infrared photography, 50mm lens, f/2.8, candid shot, film grain. A wild black cat crouching low on a long shrine corridor railing, intensely stalking a fluffy pigeon at the far end. Leading lines composition with converging perspective lines guiding the eye toward the subjects, creating strong directional depth through architectural framing. The corridor features refined cinnabar red wood with metallic gold outlines, elegant lacquer-like richness, and ornate restrained warmth. Above, icy traditional roof tiles exhibit a snake scale texture, overlapping iridescent reptilian scales, a glossy patterned surface, sinuous organic sheen, and exotic tactile detail. Snowstorm atmospheric lighting, heavy falling snow veil, muted diffused daylight, fogged distance, visibility obscured by flurries. Infrared camera effects feature white foliage, dark skies, surreal otherworldly tones, and cold blue-white hues. A clear text overlay reads '2026-07-18 11:42 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "精確的UTC時間標籤疊加",
+      "貓咪伸出前爪撥弄或拉扯特定微小物品",
+      "室內或非預期場景的積水與完美鏡面反射",
+      "復古褪色與懷舊底片色調",
+      "非水下場景的波光粼粼與水下焦散光影",
+      "溫暖琥珀色調與搖曳燭光照明",
+      "大面積留白的負空間極簡構圖",
+      "貓咪專注啃咬或攤開古老卷軸與書籍",
+      "考古帳篷、古老遺跡與博物館展廳背景",
+      "包含赤陶與橄欖綠的自然大地色系",
+      "嚴格指定僅使用繁體中文或英文的文字標示",
+      "懸浮的發光球體與神祕輝光特效"
+    ],
+    "idea": "在暴風雪的朦朧光影中，一幅紅外線攝影作品捕捉了一隻黑貓正沿著山頂神社那無限延伸的朱紅描金迴廊欄杆，專注地跟蹤一隻鴿子。上方結冰的傳統瓦片呈現出細密的蛇鱗肌理，與長廊形成的引導線共同將視線匯聚於這場真實的雪中狩獵。",
+    "inspiration": "original",
+    "number": 2541,
+    "title": "風雪迴廊的狩獵"
   }
 ]
