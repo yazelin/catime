@@ -7430,5 +7430,40 @@
       "texture": "Paper Texture",
       "color_palette": "Vermilion and Gilt"
     }
+  },
+  {
+    "comment_id": 5013388365,
+    "idea": "這是一幅以不透明水彩繪製的黑白單色作品，採用服裝多視角展示的構圖，描繪一隻帶有黏土陶瓷質感的貓咪在瓜地馬拉古瑪雅城市遺蹟中，用爪子撥弄並翻閱散落的古老數學手稿。",
+    "avoid_list": [
+      "由正上方俯瞰",
+      "充氣花朵",
+      "莫蘭迪色調",
+      "星雲輝光",
+      "受傷的鴿子",
+      "微型電動校車",
+      "暴風雪朦朧的冷藍色調",
+      "用鼻子輕嗅",
+      "傳統瓦片呈現蛇鱗肌理",
+      "粗糙的混凝土",
+      "鋼琴內部的微縮世界"
+    ],
+    "number": 2552,
+    "title": "白胸狐的星軌",
+    "story": "在古老的石磚地上，貓咪好奇地圍繞著第一位瑪雅數學家「白胸狐」留下的火星週期公式。隨著作物的多角度呈現，周圍微弱的生物發光植物映照出牠專注的身影與陶瓷般溫潤的毛皮肌理。",
+    "prompt": "A black and white monochrome gouache painting with an opaque matte finish, featuring a high contrast, rich tonal range, and dramatic shadows. Multi-view fashion design sheet layout arranged in panels displaying a front view, back view, side view, and detail close-up with labeled views against a clean studio backdrop. The subject is a cat with a sculpted clay texture and a handmade ceramic feel, using its paws to inspect and flip through scattered ancient mathematical manuscripts. The setting is the ancient Mayan city ruins of Guatemala, on old stone brick ground. The scene is illuminated by faint bioluminescent lighting from nearby plants, creating a subtle organic glow and ethereal light that reflects on the cat's ceramic fur texture. Visually displayed clearly in English within the composition is the text '2026-07-18 23:40 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "考古學家在瓜地馬拉的古瑪雅城市遺蹟中，首度發現歷史上第一位有名字留存的瑪雅數學家「白胸狐」，其於西元781年計算金星與火星週期的公式手稿獲得證實。",
+    "news_inspiration": [
+      "美國麻省理工學院與瑞士團隊合作，研發出一款靈感源自北極海鸚的海空兩棲拍翼機器人，成功在日內瓦湖展現不到一秒即可從水中躍起升空的驚人技術。",
+      "考古學家在瓜地馬拉的古瑪雅城市遺蹟中，首度發現歷史上第一位有名字留存的瑪雅數學家「白胸狐」，其於西元781年計算金星與火星週期的公式手稿獲得證實。",
+      "印尼政府為保護極度瀕危的紅毛猩猩棲息地，正式撤銷了數十家資源公司在蘇門答臘等森林地區的採礦與伐木許可證。",
+      "荷蘭阿姆斯特丹全面禁止在城市公有財產上投放肉類、化石燃料及航空遊輪的廣告，成為全球第一個實施此類環保健康禁令的首都城市。"
+    ],
+    "style_picks": {
+      "art_style": "Gouache",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Bioluminescence",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
