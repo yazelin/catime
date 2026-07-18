@@ -7396,5 +7396,39 @@
       "color_palette": "Warm Tones (Amber / Autumn)"
     },
     "comment_id": 5013032278
+  },
+  {
+    "avoid_list": [
+      "由正上方俯瞰",
+      "充氣花朵",
+      "莫蘭迪色調",
+      "星雲輝光",
+      "受傷的鴿子",
+      "微型電動校車",
+      "暴風雪朦朧的冷藍色調",
+      "用鼻子輕嗅",
+      "傳統瓦片呈現蛇鱗肌理",
+      "粗糙的混凝土",
+      "鋼琴內部的微縮世界"
+    ],
+    "prompt": "A mixed media illustration featuring a torn paper collage effect and an illustrated story page layout with multiple irregular panels arranged on one page and a decorative title banner at the top. The scene depicts a cat at an ancient altar on the peak of Mount Olympus, using its paw to play with scattered parchment maps on the temple tiled floor. The style incorporates layered textures, visible paper edges, notebook lines, and an integrated dialogue bubble following a shoujo manga narrative flow and slice-of-life storybook composition. The lighting is low candlelight with a warm orange flickering glow, an intimate atmosphere, and soft dancing shadows. The textured paper surface shows visible fiber grain with a kraft or watercolor paper feel for tactile warmth. The color scheme is a refined vermilion and gilt palette, utilizing cinnabar red with elegant metallic gold outlines for a lacquer-like richness. The text '2026-07-18 22:36 UTC' is clearly and visually displayed in English on the page. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "眾神隱去的奧林匹斯山迎來了新的巡邏者。橘貓在微弱的燭光下專注地翻動著羊皮紙，紙質肌理在朱紅描金的色調中顯得格外古老。牠正用肉墊按住地圖上的未知航線，彷彿在為下一次的冒險尋找隱秘的古蹟入口。",
+    "title": "諸神黃昏的羊皮紙",
+    "inspiration": "希臘北部的奧林匹斯山因其豐富的自然與文化價值，於2026年7月中旬正式被列為聯合國教科文組織世界遺產的候選地。",
+    "comment_id": 5013211522,
+    "idea": "這是一幅採用撕紙拼貼效果與故事插畫分格的藝術作品，展現一隻貓咪在希臘奧林匹斯山巔的古老祭壇旁，用爪子撥弄散落神廟地磚上的羊皮紙地圖。",
+    "number": 2551,
+    "news_inspiration": [
+      "荷蘭鹿特丹的一家博物館於2026年7月鋪設了重達800磅的花生醬地板，以此向近期逝世的荷蘭荒誕主義藝術家威姆·T·斯奇佩斯致敬。",
+      "希臘北部的奧林匹斯山因其豐富的自然與文化價值，於2026年7月中旬正式被列為聯合國教科文組織世界遺產的候選地。",
+      "美國大胃王喬伊·切斯納特於紐約布魯克林的康尼島再度奪冠，贏得2026年奈森國際吃熱狗大賽冠軍。"
+    ],
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Candlelight",
+      "texture": "Paper Texture",
+      "color_palette": "Vermilion and Gilt"
+    }
   }
 ]
