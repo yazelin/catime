@@ -7188,5 +7188,39 @@
       "懸浮的發光球體與神祕輝光特效"
     ],
     "story": "老街夜市剛擺攤，空氣中瀰漫著誘人的甜香。貪吃的麻糬被剛出鍋、金黃碩大的地瓜球深深吸引，牠潛伏在藍色調的混凝土櫃檯旁，忍不住伸出那隻像戴了橘色手套的右前腳，試圖在老闆發現前「優先試吃」這顆巨大的美味。"
+  },
+  {
+    "title": "烏黑流光蓄能夜",
+    "style_picks": {
+      "art_style": "Koi Ukiyo-e Beauty",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Golden Hour",
+      "texture": "Rust / Weathered",
+      "color_palette": "Crimson and Black"
+    },
+    "prompt": "A 3D isometric illustration of a curious black cat leaning forward to sniff the front of a miniature electric school bus with its nose. The school bus features heavily rusted, weathered metal, an oxidized patina, peeling paint layers, and warm orange-brown corrosion. The setting is a micro depot illuminated by golden hour lighting with a warm sunset glow, long soft shadows, and a golden rim light on the subjects. The art style blends neo-ukiyo-e beauty illustration with flat decorative color areas, bold flowing outlines, and ornamental Japanese woodblock-inspired styling, rendered with clean geometric forms and a polished playful 3D look. The color palette is a dramatic crimson and black, with deep blood-red against jet black, creating a high-contrast intensity. The text '2026-07-18 16:42 UTC' is cleanly and visually displayed in English on the side of the miniature bus. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "正上方俯瞰平鋪構圖",
+      "宇宙星雲空靈輝光",
+      "細密蛇鱗肌理表面",
+      "朱紅描金古典建築",
+      "溫暖秋日琥珀色調",
+      "貓咪伸出前爪撥弄",
+      "密集盛開的抽象花海",
+      "潛伏或接近蓬鬆鴿子",
+      "淺景深微距特寫",
+      "繁體中文與英文文本標示"
+    ],
+    "story": "黃金時刻的餘暉斜照進這座微縮機廠，緋紅與烏黑的光影交織在斑駁的車體上。這輛微型校車在夜間化身為社區的儲能電池，而這隻好奇的黑貓則成了深夜裡最忠實的能源守護者。",
+    "comment_id": 5012087739,
+    "inspiration": "美國科羅拉多州的切里溪學區引入了全新款的電動校車隊，當校車夜間停在車庫時，能夠作為當地電網的備用儲能電池以響應永續能源政策。",
+    "news_inspiration": [
+      "奧地利維也納的獸醫學研究團隊首次記錄到一頭名為薇洛妮卡（Veronika）的乳牛展現出罕見的使用工具能力，推翻了過往科學界對牛群智商的認知。",
+      "丹麥哥本哈根正在推行一項特別的「真人圖書館」活動，讓民眾可以來到圖書館借閱各行各業、擁有不同人生故事的「真人」來代替看書。",
+      "美國科羅拉多州的切里溪學區引入了全新款的電動校車隊，當校車夜間停在車庫時，能夠作為當地電網的備用儲能電池以響應永續能源政策。",
+      "澳洲大堡礁的公民科學計畫研究團隊在凱恩斯外海發現了一座面積將近半個足球場大的巨型珊瑚群，被認為是目前世界上有紀錄以來最大的珊瑚結構之一。"
+    ],
+    "number": 2545,
+    "idea": "在融合了錦鯉浮世繪美人風格的等距3D空間中，一隻黑貓正專注地用鼻子輕觸並嗅聞一輛具有鐵鏽舊化質感的微型電動校車。"
   }
 ]
