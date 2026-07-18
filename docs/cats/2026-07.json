@@ -6987,5 +6987,34 @@
       "color_palette": "Vermilion and Gilt"
     },
     "title": "朱閣金鏡戲落葉"
+  },
+  {
+    "number": 2539,
+    "story": "深夜的飯店大廳空無一人，冰冷的大理石地面反射著天花板殘留的微弱螢光。一隻迷路的橘貓將保全遺落的發光球當作獵物，在寬闊的地面上盡情奔跑。牠每一次的撲躍與轉身，都在長曝光鏡頭下化為交織的琥珀色與沙色光影。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Bird's-Eye View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Marble",
+      "color_palette": "Earth Tones"
+    },
+    "avoid_list": [
+      "精確的2026-07-17 UTC時間戳記",
+      "嚴格的繁體中文渲染強制指令",
+      "分割畫面與明確的切割線構圖",
+      "粉紅與青綠交織的霓虹螢光色調",
+      "宇宙星雲輝光與空靈空間光影",
+      "高飽和度與鮮豔奪目的色彩對比",
+      "復古褪色與低對比的底片感色調",
+      "貓咪專注啃咬或撥弄古老文本與物品",
+      "考古挖掘現場與帳篷內部場景",
+      "貓咪慵懶平趴在檯面上的姿勢"
+    ],
+    "prompt": "Bird's-eye view, top-down perspective looking straight down, miniature world effect. Light painting photography, long exposure capture, slow shutter speed 5s, f/11, ISO 100. A real orange cat leaping on all fours, chasing a glowing toy ball across a luxurious stone surface with polished marble texture and natural vein patterns, cool smooth finish, classical elegance. Swirling luminous trails drawn around subject, glowing halos and ribbons, painted light streaks forming kinetic neon calligraphy. Overhead fluorescent lighting, neutral white 5000K, institutional flat illumination, no shadows, dark environment. Earth tone palette, terracotta, olive green, warm brown, natural organic harmony, amber and sand-colored light streaks. A clear glowing digital sign integrated into the floor clearly displays the text '2026-07-18 08:40 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "title": "大理石上的光軌",
+    "comment_id": 5010629283,
+    "idea": "以鳥瞰視角的光繪攝影捕捉，一隻真實的橘貓在閃爍螢光燈的飯店大理石大廳中，正四肢並用地飛撲追逐著發光的玩具球，拉出溫暖的大地色光軌。"
   }
 ]
