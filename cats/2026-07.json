@@ -7016,5 +7016,41 @@
     "title": "大理石上的光軌",
     "comment_id": 5010629283,
     "idea": "以鳥瞰視角的光繪攝影捕捉，一隻真實的橘貓在閃爍螢光燈的飯店大理石大廳中，正四肢並用地飛撲追逐著發光的玩具球，拉出溫暖的大地色光軌。"
+  },
+  {
+    "news_inspiration": [
+      "英國西薩塞克斯郡（West Sussex）本週正熱鬧舉辦2026年「古德伍德速度嘉年華」（Goodwood Festival of Speed），展示多款歷史悠久的傳奇賽車並慶祝賽車史上的經典對決。",
+      "位於美國邁阿密花園（Miami Gardens）的硬石體育場正積極準備迎接明日即將開踢的2026年世界盃足球賽季軍戰，屆時將由法國隊迎戰英格蘭隊。",
+      "日本新潟縣（Niigata）的苗場滑雪場進入最後準備階段，即將迎來2026年「富士搖滾音樂祭」（Fuji Rock Festival），準備以世界級的音樂陣容與環保主題嗨翻夏日週末。",
+      "在法國（France）各地如火如荼進行的2026年環法自行車賽中，阿聯酋航空車隊的明星車手塔德伊·波加查（Tadej Pogacar）在歷經連日激戰後，目前仍強勢保持總成績領先地位。"
+    ],
+    "story": "富士搖滾音樂祭即將開幕，狂歡前的寧靜時刻被一隻闖入營地的野貓打破。牠在滿地散落的充氣花朵間肆意打滾，將光滑的PVC表面當作自己的專屬遊樂場。夜空下的燈光如星雲般變幻，映照著這場屬於貓咪的無聲派對。",
+    "number": 2540,
+    "inspiration": "日本新潟縣（Niigata）的苗場滑雪場進入最後準備階段，即將迎來2026年「富士搖滾音樂祭」（Fuji Rock Festival），準備以世界級的音樂陣容與環保主題嗨翻夏日週末。",
+    "prompt": "Suminagashi art style, Japanese paper marbling illustration with floating concentric ink patterns, delicate ethereal swirls, and a meditative marble effect. Overhead view of subject reclining in a sea of blossoms, top-down flat-lay framing, dreamy decorative bird's-eye composition. A wild cat lazily lying on its back on the grass, playfully using its hind legs to kick a giant flower petal. The cat's body is surrounded by dense flowers crafted from inflatable PVC material, featuring a high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. Prominently displaying the glowing text '2026-07-18 10:07 UTC'. The scene features a moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, and dark dreamy blue dominance. Distant festival stage lights create a nebula cosmic glow, soft colorful starfield illumination, ethereal purple and blue space light, glowing particles and galactic haze, casting an otherworldly radiance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5010874856,
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Inflatable PVC",
+      "color_palette": "Moonlit Indigo"
+    },
+    "avoid_list": [
+      "精確的UTC時間標籤疊加",
+      "貓咪伸出前爪撥弄或拉扯特定微小物品",
+      "室內或非預期場景的積水與完美鏡面反射",
+      "復古褪色與懷舊底片色調",
+      "非水下場景的波光粼粼與水下焦散光影",
+      "溫暖琥珀色調與搖曳燭光照明",
+      "大面積留白的負空間極簡構圖",
+      "貓咪專注啃咬或攤開古老卷軸與書籍",
+      "考古帳篷、古老遺跡與博物館展廳背景",
+      "包含赤陶與橄欖綠的自然大地色系",
+      "嚴格指定僅使用繁體中文或英文的文字標示",
+      "懸浮的發光球體與神祕輝光特效"
+    ],
+    "idea": "以墨流藝術風格呈現，由正上方俯瞰一隻四腳朝天的貓咪，慵懶地躺在苗場滑雪場草地上一堆充氣PVC材質的巨型花朵坐墊中。畫面以月夜靛藍為主色調，遠方音樂祭舞台測試的光線如星雲輝光般流轉，映照著貓咪用後腿踢著花瓣的具體動作。",
+    "title": "星雲花海的貓"
   }
 ]
