@@ -7258,5 +7258,39 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "title": "鏡中的風暴守望"
+  },
+  {
+    "idea": "在莫蘭迪色調的熱帶雨林深處，一隻花斑貓正趴在佈滿青苔的馬雅石碑頂端，伸長脖子專注地凝視著一隻在空中飛舞的白胸狐狸掠過，整體畫面呈現即棄相機風格特有的顆粒感與真實生活感。",
+    "comment_id": 5012480055,
+    "story": "考古學家在瓜地馬拉的密林中發現了失落的天文台，而這隻當地的野貓似乎比人類更早找到了這裡。牠順著斜向的藤蔓攀上石碑，在水下焦散般斑駁的光影中，靜靜看著遠處的白胸狐狸在如棉花糖雲朵的霧氣中穿梭，彷彿在與千年前的古老名字重逢。",
+    "news_inspiration": [
+      "奧地利維也納的獸醫學家首次發現名為瓦倫蒂卡（Veronika）的牛隻具備使用多功能工具的罕見能力，打破了以往只有黑猩猩等高智商動物才會用工具的認知。",
+      "丹麥哥本哈根的一座真人圖書館閱讀花園推出了獨特的借閱服務，讓民眾可以不再只是借書，而是直接「借」一個真實的人來進行深度交流對話。",
+      "瓜地馬拉北部的馬雅古城遺址中，考古學家首次成功為一位於西元781年計算出金星與火星週期公式的古代馬雅天文學家正名，其名字譯為「白胸狐狸」。",
+      "美國科羅拉多州的切里克里克學區引進了新型電動校車，使其在夜間停放時能轉化為大型行動蓄電池，成功為當地的公共電網提供穩定的備用電力。"
+    ],
+    "title": "白胸狐狸的古老凝視",
+    "number": 2547,
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Diagonal Composition",
+      "lighting": "Underwater Caustics",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "瓜地馬拉北部的馬雅古城遺址中，考古學家首次成功為一位於西元781年計算出金星與火星週期公式的古代馬雅天文學家正名，其名字譯為「白胸狐狸」。",
+    "prompt": "A candid disposable camera photo of a spotted cat lying on top of a moss-covered Mayan stele deep inside a tropical rainforest, stretching its neck to watch a white-breasted fox flying through the air. The image features a distinct low-quality charm with grain, flash artifacts, light leaks, and a casual snapshot feel. Diagonal composition with dynamic slanted lines creates a kinetic visual flow across the frame. The lighting consists of underwater caustic patterns with a blue-green aquatic glow and refracted sun shafts dancing over the subject, creating a submerged dreamlike atmosphere. In the background, fluffy cotton candy clouds with a soft marshmallow texture float by. The color scheme follows a Morandi muted palette with desaturated soft pastels and dusty grey undertones. A orange timestamp reading '2026-07-18 18:43 UTC' is visually displayed in the bottom corner of the photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "正上方俯瞰平鋪構圖",
+      "宇宙星雲空靈輝光",
+      "細密蛇鱗肌理表面",
+      "朱紅描金古典建築",
+      "溫暖秋日琥珀色調",
+      "貓咪伸出前爪撥弄",
+      "密集盛開的抽象花海",
+      "潛伏或接近蓬鬆鴿子",
+      "淺景深微距特寫",
+      "繁體中文與英文文本標示"
+    ]
   }
 ]
