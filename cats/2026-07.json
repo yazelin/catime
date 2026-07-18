@@ -7292,5 +7292,41 @@
       "淺景深微距特寫",
       "繁體中文與英文文本標示"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Miniature Diorama",
+      "lighting": "Volumetric Light",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Duotone"
+    },
+    "character": "momo",
+    "story": "墨墨悄悄溜進了音樂廳的後台，對舞台中央那台巨大的平台鋼琴產生了濃厚興趣。牠靈巧地鑽進琴蓋內部的微縮世界，在體積光的照耀下，牠一邊看著鋼琴調音師工作，一邊用爪子撥弄著帶有紗網薄透肌理的消音緩衝帶，享受著琴弦震動帶來的微弱頻率。",
+    "character_name": "墨墨",
+    "idea": "這是一幅採用中片幅攝影風格的微縮立體模型畫面，展現一隻純黑貓咪在雙色調的鋼琴內部，用爪子輕輕撥動琴弦的細緻瞬間。",
+    "number": 2548,
+    "inspiration": "original",
+    "news_inspiration": [
+      "南韓知名男子天團 BTS 在全體成員完成兵役後正式重聚，並宣布將於 2026 年展開全新世界巡迴演唱會與發行新專輯。",
+      "澳洲科學家與志工透過大眾科學觀察，成功破解了長腳盲蛛「父親照顧後代」的演化謎團，使已知具備育幼行為的物種紀錄增加了一倍以上。",
+      "義大利網球名將辛納（Jannik Sinner）在英國倫敦舉辦的溫布頓網球錦標賽中，成功擊敗德國對手衛冕男單冠軍。",
+      "法國梅斯（Metz）的龐畢度中心梅斯分館發生一起奇特竊案，義大利藝術家卡特蘭價值數百萬美元的知名概念藝術作品《喜劇演員》（膠帶黏貼的香蕉）遭人偷走。"
+    ],
+    "avoid_list": [
+      "正上方俯瞰平鋪構圖",
+      "宇宙星雲空靈輝光",
+      "細密蛇鱗肌理表面",
+      "朱紅描金古典建築",
+      "溫暖秋日琥珀色調",
+      "貓咪伸出前爪撥弄",
+      "密集盛開的抽象花海",
+      "潛伏或接近蓬鬆鴿子",
+      "淺景深微距特寫",
+      "繁體中文與英文文本標示"
+    ],
+    "prompt": "Medium format photograph capturing a miniature diorama scene inside a grand piano. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, a tiny natural white locket tuft on its chest, large luminous golden-amber eyes, and long prominent white whiskers is gently plucking the piano strings with its paw. A single small gold hoop earring is visible on its left ear. The environment features a toy-like scale model of the piano interior with a sheer gauze mesh texture on the dampening felt. A bold duotone color treatment creates a modern design aesthetic with two contrasting colors. Hasselblad aesthetic with an extraordinary tonal range and a creamy shallow depth of field via a tilt-shift effect. Dramatic volumetric lighting casts visible god rays catching dust particles through the atmosphere. The date and time '2026-07-18 19:57 UTC' is clearly and neatly displayed in a subtle English font in the corner of the frame. Shot on an 80mm lens, f/2.8, candid shot, realistic photographic texture. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5012719280,
+    "title": "琴腔內的無聲協奏"
   }
 ]
