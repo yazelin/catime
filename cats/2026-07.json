@@ -7222,5 +7222,41 @@
     ],
     "number": 2545,
     "idea": "在融合了錦鯉浮世繪美人風格的等距3D空間中，一隻黑貓正專注地用鼻子輕觸並嗅聞一輛具有鐵鏽舊化質感的微型電動校車。"
+  },
+  {
+    "avoid_list": [
+      "正上方俯瞰平鋪構圖",
+      "宇宙星雲空靈輝光",
+      "細密蛇鱗肌理表面",
+      "朱紅描金古典建築",
+      "溫暖秋日琥珀色調",
+      "貓咪伸出前爪撥弄",
+      "密集盛開的抽象花海",
+      "潛伏或接近蓬鬆鴿子",
+      "淺景深微距特寫",
+      "繁體中文與英文文本標示"
+    ],
+    "prompt": "A Neo-Impressionism Pointillism painting of a mirror selfie composition featuring a large, stocky four-legged brown classic tabby cat with bold black stripes, a broad muscular build, and scruffy untidy coarse fur. Its left eye is permanently concealed by a natural dark-pigmented fur patch with no straps, while its right eye is a single piercing emerald green. The cat has a prominent V-shaped notch on its left ear, a faded red bandana tied loosely around its neck, a white chest bib, and white mitten paws. The cat is crouching on a wooden cabinet, staring at its own reflection in a mottled dressing mirror inside an old harbor bar. The text '2026-07-18 17:45 UTC' is clearly written on the surface of the mirror. The art style features systematic dot technique, tiny dabs of pure color, and a luminous surface. Snowstorm atmospheric lighting with a heavy falling snow veil creates a cold blue-teal color grading, all textured with a tactile woven fabric linen pattern overlay. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5012295146,
+    "news_inspiration": [
+      "瑞士因極端高溫侵襲，參加年度約德爾傳統民謠音樂節的歌手們紛紛跳進噴泉中一邊消暑一邊繼續合唱。",
+      "阿根廷布宜諾斯艾利斯的一名職業遛狗師在世界盃期間，將他照顧的13隻狗狗全部穿上藍白條紋的國家隊球衣上街，引來路人圍觀與喜愛。",
+      "巴西里約熱內盧近海的大翅鯨出沒數量大幅增加，在當地掀起了一股前所未有的賞鯨旅遊熱潮。",
+      "印度邦加羅爾的一名專業人士透露自己平時會故意穿得很落魄、甚至賣掉iPhone，以便在日常消費中更容易與商家討價還價，引發網路熱烈討論。"
+    ],
+    "character": "captain",
+    "idea": "在暴風雪朦朧的冷藍色調中，一隻神情堅毅的獨眼虎斑貓「船長」正蹲坐在老酒吧斑駁的更衣鏡前，以鏡子自拍構圖凝視著自己，整幅畫面呈現出新印象派細密點描法與粗糙織品紋理的獨致視覺。",
+    "number": 2546,
+    "inspiration": "original",
+    "character_name": "船長",
+    "story": "剛從碼頭巡邏回來的船長走進常去的港口老酒吧，冷冽的暴風雪順著大門縫隙灌入，在空氣中結成一片青藍色的朦朧。牠跳上老舊的木櫃，借著一面帶有水漬的穿衣鏡審視自己風霜滿布的臉，褪色的紅色頭巾與白手套在點描派的細碎光點中顯得格外沉穩。儘管剛剛在風浪中弄得毛髮蓬亂，這位碼頭老大依然用那隻銳利的翠綠色右眼，對著鏡中的自己展現出不容質疑的威嚴。",
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "鏡中的風暴守望"
   }
 ]
