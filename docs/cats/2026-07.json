@@ -7150,5 +7150,43 @@
       "印度班加羅爾一名貼心的父親為了幫初次搭飛機的女兒打點好一切，在德里機場做出一系列無微不至的關懷與準備，溫暖的舉動在網路上贏得大批網友讚賞。",
       "菲律賓知名女星 Bea Alonzo 與 Vincent Co 於馬尼拉低調舉行了驚喜的公職婚禮，事後透露連婚禮妝容都是新娘自己親手完成的，令影迷們驚喜不已。"
     ]
+  },
+  {
+    "prompt": "An artistic poster illustration blending floral-adorned beauty poster elements and classical Chinese ornamentals with raw concrete textures. In a street night market, Mochi, a chubby, spherical shorthair cat with a white base coat, large round amber eyes, and a pink nose with a tiny orange center dot, is featured. The cat's face is uniquely marked: the right half-face (viewer's perspective) has a solid orange mask covering the cheek to the right ear, while the left face is entirely pure white. On its upper back is a distinct heart-shaped orange saddle, and its belly is white. Through a forced perspective composition, the cat's right front paw—which is a solid orange mitten to the wrist—is thrust toward the camera with exaggerated foreshortening, reaching for an oversized, extra-large fried sweet potato ball in the extreme foreground, while its left front paw is pure white. The background showcases a brutalist, rough aggregate concrete food stall with industrial minimalism under cinematic lighting, featuring volumetric light rays and dramatic shadows. A vivid blue and yellow complementary palette creates a striking graphic vibrancy with cool blues and warm yellows. In the corner of the poster composition, the date and time '2026-07-18 15:43 UTC' is elegantly and visually displayed in English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5011872007,
+    "idea": "在融合簪花美人海報藝術風格與藍黃互補色調的老街夜市中，圓滾滾的橘白貓麻糬正透過強制透視伸手效果，朝著鏡頭前特大的炸地瓜球伸出右側橘色手套爪子，背景展現粗糙的混凝土攤位質感與電影感打光。",
+    "style_picks": {
+      "art_style": "Floral-Adorned Beauty Poster",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Cinematic Lighting",
+      "texture": "Concrete",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "character_name": "麻糬",
+    "number": 2544,
+    "title": "金球落入手套中",
+    "news_inspiration": [
+      "丹麥奧爾堡舉辦了年度世界聖誕老人大會，來自世界各地的聖誕老人與聖誕精靈在盛夏齊聚一堂，提早帶來溫馨的節日氣氛。",
+      "希臘北部的奧林匹斯山因其豐富的自然景觀與古希臘神話背景，近日正式成為聯合國教科文組織世界遺產名錄的候選地。",
+      "巴西馬拉尼昂州一名狂熱的恐怖片影迷因身穿電影怪物的誇張服飾走上街頭漫步，奇特的致敬舉動引發社區騷動，最終遭到警方關切與驅離。",
+      "國際足聯宣布 2026 年世界盃的奪冠球隊除了冠軍獎盃外，還將首次獲得歷史性的專屬「世界盃冠軍戒指」。"
+    ],
+    "character": "mochi",
+    "inspiration": "original",
+    "avoid_list": [
+      "精確的UTC時間標籤疊加",
+      "貓咪伸出前爪撥弄或拉扯特定微小物品",
+      "室內或非預期場景的積水與完美鏡面反射",
+      "復古褪色與懷舊底片色調",
+      "非水下場景的波光粼粼與水下焦散光影",
+      "溫暖琥珀色調與搖曳燭光照明",
+      "大面積留白的負空間極簡構圖",
+      "貓咪專注啃咬或攤開古老卷軸與書籍",
+      "考古帳篷、古老遺跡與博物館展廳背景",
+      "包含赤陶與橄欖綠的自然大地色系",
+      "嚴格指定僅使用繁體中文或英文的文字標示",
+      "懸浮的發光球體與神祕輝光特效"
+    ],
+    "story": "老街夜市剛擺攤，空氣中瀰漫著誘人的甜香。貪吃的麻糬被剛出鍋、金黃碩大的地瓜球深深吸引，牠潛伏在藍色調的混凝土櫃檯旁，忍不住伸出那隻像戴了橘色手套的右前腳，試圖在老闆發現前「優先試吃」這顆巨大的美味。"
   }
 ]
