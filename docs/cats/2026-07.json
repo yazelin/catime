@@ -7362,5 +7362,39 @@
     "idea": "這是一幅結合舞蹈肢體攝影風格的頭肩特寫，捕捉一隻黑白貓咪在斑駁光影的舊倉庫中，隨著空氣中揚起的百年鋼琴塵埃，展現如舞者般充滿力道的驚異瞬間。",
     "prompt": "A close-up head-and-shoulders portrait of a black and white cat in dynamic motion, capturing a dancer-like expressive gesture and kinetic energy. The scene is set in an abandoned warehouse with dappled light and scattered patches of sunlight creating soft mottled shadow patterns. The air is filled with floating dust motes from an old piano. Shot as high-contrast monochrome photography with a rich tonal range, dramatic shadows, and highlights. Tight framing on the cat's expression at an intimate eye-level connection. Visually displayed clearly in the corner of the image is the text '2026-07-18 20:41 UTC' in a clean font. Taken on a 35mm lens, f/1.8, freezing the action with a shallow depth of field and natural film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "觸鍵的瞬間躍動"
+  },
+  {
+    "avoid_list": [
+      "由正上方俯瞰",
+      "充氣花朵",
+      "莫蘭迪色調",
+      "星雲輝光",
+      "受傷的鴿子",
+      "微型電動校車",
+      "暴風雪朦朧的冷藍色調",
+      "用鼻子輕嗅",
+      "傳統瓦片呈現蛇鱗肌理",
+      "粗糙的混凝土",
+      "鋼琴內部的微縮世界"
+    ],
+    "prompt": "A massive scale composite photograph of a giant orange cat, large as a mountain ridge, lying in a vast field of sunflowers at the base of Mount Olympus. Perfectly symmetrical composition with the centered cat carefully nudging a few tiny sunflowers with its enormous paw. Traditional East Asian auspicious gold leaf ornamental clouds with intricate curling swirl patterns and an embossed metallic finish float in the sky. Warm amber color grading with an autumn palette of golden yellows and burnt orange. Shot on a 35mm lens, f/1.8, classic three-point lighting setup featuring a soft key light, fill light, and subtle rim light separation. Visually displayed in the corner of the frame is the text '2026-07-18 21:39 UTC' in a clean, realistic digital timestamp overlay. Photorealistic VFX compositing with real world scale contrast. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在溫暖的秋日琥珀色調下，一隻巨大如山嶺的橘貓正趴在希臘奧林匹斯山腳下的向日葵海中，以「巨人尺寸合成」的震撼視覺與完美的「對稱構圖」展現。巨大的貓爪正小心翼翼地撥弄著幾朵與牠身體相比顯得微小的向日葵，天空中點綴著精緻的「金箔祥雲」紋理，在經典的「三點打光」下散發出神聖的光輝。",
+    "inspiration": "在希臘北部靠近利托霍羅（Litochoro）的地區，奧林匹斯山腳下的向日葵花海正迎來盛開期，並正式被列為聯合國教科文組織世界遺產的候選名單。",
+    "story": "這隻被當地人稱為「金色守護者」的巨貓，每年秋天都會準時現身於奧林匹斯山下。牠用那足以覆蓋整座山丘的龐大身軀溫柔地依偎著花海，每一次輕輕地撥弄花盤，都像是對這片世界遺產候選地的深情讚美。遊客們在遠處敬畏地看著這一幕，記錄下大自然與巨獸之間最和諧的瞬間。",
+    "number": 2550,
+    "title": "金羽祥雲下的阿波羅之尊",
+    "news_inspiration": [
+      "在荷蘭鹿特丹的一家博物館內，人們鋪設了厚達800磅的花生醬地板，以此向近期逝世的荷蘭概念藝術家溫·T·席佩斯（Wim T. Schippers）表達致敬。",
+      "在英國蘇格蘭的尼斯湖，一名遊客在搭乘遊船時拍攝到水面下神祕的綠色身影，讓這隻傳說中的尼斯湖水怪再度成為話題熱點。",
+      "在希臘北部靠近利托霍羅（Litochoro）的地區，奧林匹斯山腳下的向日葵花海正迎來盛開期，並正式被列為聯合國教科文組織世界遺產的候選名單。"
+    ],
+    "style_picks": {
+      "art_style": "Kaiju Scale Composite",
+      "composition": "Symmetrical Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 5013032278
   }
 ]
