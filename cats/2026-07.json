@@ -6889,5 +6889,38 @@
     ],
     "idea": "這是一幅秋日暖色調的等距3D線描著色本插畫，一隻四腳貓咪在鋪滿花生醬的博物館展廳中，正小心翼翼地跳過帶有蛇鱗肌理的雕塑底座。陽光透過天窗灑下如水下焦散光般的奇幻波紋，映照在整個琥珀色的空間裡。",
     "prompt": "A 3D isometric illustration combining coloring book line art, clean uniform black outlines, intricate decorative linework, and playful illustrative shapes with soft pastel colors and warm amber color grading. An autumn palette of golden yellows, burnt orange, and cozy nostalgic warmth. In a museum gallery, the floor is entirely covered in thick peanut butter. A four-legged cat is carefully jumping over a sculpture base to avoid the floor. The sculpture base features a snake scale texture, overlapping iridescent reptilian scales, a glossy patterned surface, sinuous organic sheen, and exotic tactile detail. A sign prominently displays the exact text '2026-07-17 23:41 UTC'. The scene is illuminated by underwater caustic lighting, rippling light patterns dancing over the subject, refracted sun shafts through water, a blue-green aquatic glow, creating a submerged dreamlike atmosphere. Clean geometric forms, polished playful rendering, ready-to-color aesthetic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "精確的2026-07-17 UTC時間戳記",
+      "嚴格的繁體中文渲染強制指令",
+      "分割畫面與明確的切割線構圖",
+      "粉紅與青綠交織的霓虹螢光色調",
+      "宇宙星雲輝光與空靈空間光影",
+      "高飽和度與鮮豔奪目的色彩對比",
+      "復古褪色與低對比的底片感色調",
+      "貓咪專注啃咬或撥弄古老文本與物品",
+      "考古挖掘現場與帳篷內部場景",
+      "貓咪慵懶平趴在檯面上的姿勢"
+    ],
+    "idea": "在一間昏暗的工作室裡，一隻真實的四足短毛貓正好奇地伸出爪子，撥弄著桌上由黑白衍紙藝術製作的微縮提款機造景，畫面以大面積留白的負空間構圖與單一聚光燈呈現微縮造景攝影的質感。",
+    "inspiration": "在印度默烏鎮，一名男子為了躲避夏季的高溫，竟然把附設冷氣的自動提款機（ATM）包廂當成專屬臥室在裡面安穩地呼呼大睡 [6]。",
+    "number": 2536,
+    "style_picks": {
+      "art_style": "Miniature Diorama Photography",
+      "composition": "Negative Space Composition",
+      "lighting": "Spotlight",
+      "texture": "Paper Quilling",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "Miniature diorama photography, 100mm macro lens, f/2.8, shallow depth of field. A realistic short-haired cat in a dimly lit studio is curiously reaching out its paw to poke a tiny handcrafted diorama made of black and white monochrome paper quilling art on a worktable. The miniature diorama features intricate coiled paper strips and delicate curling loops forming a tiny ATM room with a man sleeping inside and miniature air conditioner blades. An LED sign on the miniature ATM clearly displays the text '2026-07-18 01:20 UTC' in English. Negative space composition, off-center placement, small subject in expansive emptiness, minimalist breathing room, calm uncluttered framing. Illuminated by a single narrow beam spotlight with sharp light edges, creating dramatic high-contrast, deep darkness falloff, rich tonal range, dramatic shadows and highlights, soft directional light. Whimsical tabletop tiny-world realism, candid shot, real photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "炎夏的夜晚，藝術家剛完成這件描繪男子在冷氣ATM裡安睡的紙雕模型。調皮的貓咪趁著夜色跳上工作檯，專注地嗅聞並撥弄著微小的紙製冷氣機葉片。在聚光燈的照射下，這隻貓咪宛如這座單色微縮城市裡尋找清涼的巨大訪客。",
+    "title": "夜訪微縮紙城",
+    "news_inspiration": [
+      "在澳洲坎培拉，一名小鎮傳令員以高達122.4分貝的驚人嗓音，正式被金氏世界紀錄認證為世界上說話最大聲的人 [2]。",
+      "在印度默烏鎮，一名男子為了躲避夏季的高溫，竟然把附設冷氣的自動提款機（ATM）包廂當成專屬臥室在裡面安穩地呼呼大睡 [6]。",
+      "在美國紐約市，充滿節慶氣氛的科尼島吃熱狗大賽熱鬧登場，知名大胃王喬伊·切斯納（Joey Chestnut）再次以驚人食量奪下冠軍 [4]。"
+    ],
+    "comment_id": 5009167744
   }
 ]
