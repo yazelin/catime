@@ -7762,5 +7762,40 @@
       "描金墨線",
       "用肉墊按壓"
     ]
+  },
+  {
+    "title": "琥珀展廳的饕客",
+    "inspiration": "荷蘭鹿特丹的一家博物館在展廳地面塗滿花生醬，以此趣味方式向近期逝世的荷蘭藝術家溫·T·斯奇佩斯（Wim T. Schippers）致敬。",
+    "story": "鹿特丹的博物館為了向藝術家致敬，在展廳地面鋪滿了香濃的花生醬。這隻悄悄溜進來的三花貓將展廳當成了自己的夢幻自助餐廳，一邊享受美食，一邊在帶有紙質肌理的光影中留下無數個可愛的腳印。",
+    "comment_id": 5016764581,
+    "number": 2562,
+    "idea": "在融合水下焦散光與朱紅描金色彩的水彩動漫插畫中，一隻三花貓踩在塗滿花生醬的博物館地板上，正專注地用舌頭舔舐爪子上的花生醬。",
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Underwater Caustics",
+      "texture": "Paper Texture",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "prompt": "A watercolor anime illustration of a calico cat sitting on a museum floor entirely covered in thick peanut butter, intently licking peanut butter off its paw. The scene is rendered with soft transparent washes, gentle pastel bleeding edges, and a visible textured watercolor paper grain that brings a tactile warmth to the healing slice-of-life mood. The lighting features dreamlike underwater caustic lighting with rippling light patterns dancing over the cat, blue-green aquatic glows, and refracted sun shafts. The color palette is enriched with elegant vermilion and gilt accents, featuring refined cinnabar red and metallic gold outlines like exquisite lacquerware. The composition is an environmental medium shot, balancing the cat within the storytelling background of the museum hall filled with cute calico footprints. Inscribed elegantly in the corner of the artwork is the English text '2026-07-19 17:46 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "丹麥奧爾堡舉辦了年度世界聖誕老人大會，來自全球的「聖誕老人」與聖誕精靈在盛夏盛裝齊聚，提早帶來溫馨的節日氣氛。",
+      "荷蘭鹿特丹的一家博物館在展廳地面塗滿花生醬，以此趣味方式向近期逝世的荷蘭藝術家溫·T·斯奇佩斯（Wim T. Schippers）致敬。",
+      "阿根廷布宜諾斯艾利斯的一名職業遛狗師，在世界盃足球賽期間為他照顧的所有狗狗們穿上國家隊球衣上街，引來路人圍觀點讚。",
+      "美國科羅拉多斯普林斯的一群消防員在應對一場灌木火災時，獲得了一隻名叫「高迪」（Goldie）的山羊全程溫馨陪伴。"
+    ],
+    "avoid_list": [
+      "用爪子撥弄",
+      "奧林匹斯山",
+      "故事插畫分格",
+      "長卷構圖",
+      "不透明水彩風格",
+      "生物發光",
+      "閃光燈直打的強烈光影",
+      "大地色系",
+      "巨型珊瑚",
+      "描金墨線",
+      "用肉墊按壓"
+    ]
   }
 ]
