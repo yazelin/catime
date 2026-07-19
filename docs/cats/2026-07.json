@@ -7695,5 +7695,42 @@
     ],
     "inspiration": "美國科學家成功破解了百年鋼琴之謎，透過實驗證實演奏者的獨特觸鍵方式確實能實質改變鋼琴單個音符的音色與音質。",
     "idea": "這是一幅採用蒸汽朋克風格與長卷全景構圖的畫作，在白底去背棚光下，一隻伸展著四肢的斑紋貓正伸爪按壓著齒輪，與多位齒輪工匠在巨大的機械鋼琴內部共同調整著琴弦。"
+  },
+  {
+    "number": 2560,
+    "idea": "在融合莫蘭迪色調與墨流浮水染紋路的巨大玻璃糖罐內部，圓滾滾的橘白貓「麻糬」正奮力將頭塞進一個小紙袋裡，四周環繞著宛如星雲輝光的溫暖色彩與細緻的鐵絲網纏繞裝飾。",
+    "avoid_list": [
+      "用爪子撥弄",
+      "奧林匹斯山",
+      "故事插畫分格",
+      "長卷構圖",
+      "不透明水彩風格",
+      "生物發光",
+      "閃光燈直打的強烈光影",
+      "大地色系",
+      "巨型珊瑚",
+      "描金墨線",
+      "用肉墊按壓"
+    ],
+    "story": "老街麵包店的角落擺著一個巨大的文藝裝飾玻璃罐，貪吃的麻糬趁著店員不注意溜了進去，正著迷地嗅著剛出爐的吐司紙袋。牠圓潤的身體在墨流般變幻的莫蘭迪色光影中顯得更加呆萌，即使被困在瓶中，只要有食物的味道，對牠來說就是最完美的秘密基地。",
+    "news_inspiration": [
+      "美國西雅圖一隻因為先天脊椎較短而呈現奇特站姿的浣熊「吉莫西」（Jimothy），近日在網路上迅速竄紅並成為全球焦點。",
+      "丹麥奧爾堡舉辦了年度世界聖誕老人大會，來自全球的聖誕老人與聖誕精靈在盛夏齊聚一堂，為炎熱的七月帶來歡樂的節日氣氛。",
+      "阿根廷布宜諾斯艾利斯的一名職業遛狗師，在世界盃期間讓所有照顧的狗狗換上阿根廷國家足球隊的球衣上街漫步，溫馨逗趣的畫面吸引了眾多路人目光。",
+      "奧地利維也納獸醫大學的科學家首次記錄到一頭名為「維羅妮卡」（Veronika）的母牛能夠靈活使用工具，徹底顛覆了以往對牛類智商的認知。"
+    ],
+    "character": "mochi",
+    "comment_id": 5016348191,
+    "character_name": "麻糬",
+    "prompt": "Artistic illustration of a contained miniature world framing inside a massive transparent glass vessel. Inside, a literal chubby rounded shorthair cat named Mochi, with a white base coat and a solid orange mask covering only the right half-face and right ear while the left face remains pure white, is struggling to shove its head into a small paper bag. The cat has a heart-shaped orange saddle centered on its upper back, a solid orange mitten on its right front paw up to the wrist, a pure white left front paw, and large round amber eyes. The scene incorporates Japanese Suminagashi paper marbling with floating concentric ink patterns and delicate ethereal swirls. The composition features a refractive glass border, a nebula cosmic glow with soft colorful starfield illumination, ethereal purple and blue space light, glowing particles, and galactic haze. Intricate wrapped wireframe and tangled wire mesh texture with coiled and woven metal strands are sculpted over the surface. The entire scene uses a Morandi muted color palette of desaturated soft pastels with dusty grey undertones for quiet elegance. The text '2026-07-19 15:44 UTC' is clearly and visually displayed on a small label attached to the glass vessel. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "糖罐裡的琥珀微光"
   }
 ]
