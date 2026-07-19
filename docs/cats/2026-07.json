@@ -7465,5 +7465,40 @@
       "texture": "Clay / Ceramic",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "story": "這隻好奇的貓咪潛入深海，在閃光燈直打的強烈光影下，探索著剛被發現的半個足球場大巨型珊瑚。牠將這座由幾何摺紙線條交織而成的海底奇景當成了巨大的貓抓板，在熱成像的青藍與橙紅軌跡中留下了屬於牠的探索印記。",
+    "avoid_list": [
+      "由正上方俯瞰",
+      "充氣花朵",
+      "莫蘭迪色調",
+      "星雲輝光",
+      "受傷的鴿子",
+      "微型電動校車",
+      "暴風雪朦朧的冷藍色調",
+      "用鼻子輕嗅",
+      "傳統瓦片呈現蛇鱗肌理",
+      "粗糙的混凝土",
+      "鋼琴內部的微縮世界"
+    ],
+    "prompt": "A real candid photograph captured from a perfectly isometric angle showing a curious cat deep underwater at the Great Barrier Reef, actively swatting and scratching at a massive coral reef structure made entirely of origami folded paper with clean geometric creases and sharp angular folds. The scene is shot with a harsh direct on-camera flash, creating blown-out highlights and hard shadows for a raw snapshot look. The image features a striking thermal imaging style and infrared vision heat map color gradient, rendered in a cinematic teal and orange color grading with a red-yellow-blue temperature spectrum. In the corner of the frame, a digital timestamp reads '2026-07-19 01:26 UTC' in a clean font. Shot on 35mm lens, f/8, no miniature effect, realistic underwater textures. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5013674950,
+    "idea": "在澳洲大堡礁的深海海底，一隻貓咪正專注地用爪子撥弄著一具由摺紙質地構成的巨型珊瑚群，整體呈現出強烈青橙電影調的熱成像風格與等距攝影構圖。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Isometric Photography",
+      "lighting": "Direct Flash",
+      "texture": "Origami",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "深海熱核的摺疊珊瑚",
+    "news_inspiration": [
+      "在剛果民主共和國，科學家驚喜發現並確認了一個全新的猴子物種，為當地的生物多樣性研究注入強心針。",
+      "在中國，古生物學家成功挖掘出距今 3.85 億年的珍貴琥珀化石，這項重大發現將有助於解開古代生態系統的奧秘。",
+      "在寮國，考古學家近期解開了神祕「石缸平原」的千年之謎，最新研究證實這些巨大的石缸在古代曾被用作埋葬逝者的墓穴。",
+      "在澳洲凱恩斯外海的大堡礁，公民科學計畫的參與者發現了一座面積將近半個足球場大的巨型珊瑚群，這被認為是有紀錄以來最巨大的珊瑚之一。"
+    ],
+    "inspiration": "在澳洲凱恩斯外海的大堡礁，公民科學計畫的參與者發現了一座面積將近半個足球場大的巨型珊瑚群，這被認為是有紀錄以來最巨大的珊瑚之一。",
+    "number": 2553
   }
 ]
