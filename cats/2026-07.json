@@ -7931,5 +7931,42 @@
       "texture": "Iridescent Holographic",
       "color_palette": "Crimson and Black"
     }
+  },
+  {
+    "number": 2567,
+    "character_name": "墨墨",
+    "story": "盛夏的熱氣被老宅的厚牆隔絕，墨墨在冰涼的竹蓆上舒展著修長的身軀。牠看著銅鏡中自己胸前如領結般的白毛與長白鬍鬚，彷彿瞧見了馬雅壁畫中那位剛被解密的天文學家「白胸狐狸」，在金紅交織的體積光中，牠伸出前爪輕觸鏡面，與另一個自己進行著跨越時空的對話。",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "news_inspiration": [
+      "在瓜地馬拉的聖巴托洛-尊屯考古遺址，科學家首次從古代馬雅遺跡的繪畫中，解密出了一位西元前400年至西元900年間古天文學家的名字，名為「白胸狐狸」。",
+      "在印尼蘇門答臘島，印尼政府為了維護野生動物棲息地，正式撤銷了數十家林業與採礦公司的執照，以全面保護當地瀕臨絕種的珍貴紅毛猩猩。",
+      "在尼泊爾的薩加瑪塔國家公園（包含聖母峰），當地迎來了該國家公園成立50週年的黃金禧年紀念，彰顯數十年來在喜馬拉雅山脈自然景觀與文化保育上的卓越成就。",
+      "在荷蘭阿姆斯特丹，市政府於今年夏天正式實施新政策，全面禁止在城市公有財產上投放肉類、化石燃料、郵輪及航空飛行的廣告，成為全球第一個實施此類環保禁令的首都。"
+    ],
+    "inspiration": "在瓜地馬拉的聖巴托洛-尊屯考古遺址，科學家首次從古代馬雅遺跡的繪畫中，解密出了一位西元前400年至西元900年間古天文學家的名字，名為「白胸狐狸」。",
+    "character": "momo",
+    "is_seasonal": true,
+    "season": "summer",
+    "title": "竹蓆鏡影的古壁呢喃",
+    "idea": "這是一幅融合新藝術風格的流暢線條與鏡像異我構圖的精緻畫面，純黑貓咪墨墨正優雅地趴在古老宅邸的竹蓆上納涼，身旁一扇雕花銅鏡恰好映照出牠如「白胸狐狸」般的優雅側影。",
+    "prompt": "Art Nouveau illustration of a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, lounging elegantly on a cool bamboo mat inside an ancient mansion. Momo has a single small gold hoop earring on its left ear edge, a tiny natural white locket tuft on its ventral chest, a single dark-grey ring at its tail tip, luminous golden-amber eyes, and long prominent white whiskers. A doppelganger mirror composition features a detailed carved bronze mirror nearby, reflecting Momo's elegant profile like a white-breasted fox. The visual style is heavily inspired by Mucha, characterized by flowing organic curves, ornamental borders, and floral motifs. The texture includes overlapping iridescent reptilian snake scales for a glossy patterned surface and sinuous organic sheen. A festive red and gold palette dominates, featuring auspicious Chinese red with bright gold accents. The scene is illuminated by dramatic volumetric lighting, with visible light rays and dust particles catching the god rays through the atmosphere. The text '2026-07-19 23:45 UTC' is subtly integrated and visually displayed within the artwork. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5017832225,
+    "avoid_list": [
+      "莫蘭迪色調",
+      "生物發光",
+      "珠飾水鑽鑲嵌",
+      "專注地凝視",
+      "水下焦散光",
+      "朱紅描金",
+      "居中構圖",
+      "微型逆向灑水器",
+      "傳統框中框構圖"
+    ]
   }
 ]

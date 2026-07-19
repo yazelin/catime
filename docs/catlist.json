@@ -23959,5 +23959,18 @@
     "number": 2566,
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-19_2239_UTC.webp"
+  },
+  {
+    "number": 2567,
+    "status": "success",
+    "character_name": "墨墨",
+    "inspiration": "在瓜地馬拉的聖巴托洛-尊屯考古遺址，科學家首次從古代馬雅遺跡的繪畫中，解密出了一位西元前400年至西元900年間古天文學家的名字，名為「白胸狐狸」。",
+    "character": "momo",
+    "is_seasonal": true,
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-19_2345_UTC.webp",
+    "title": "竹蓆鏡影的古壁呢喃",
+    "timestamp": "2026-07-19 23:45 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
