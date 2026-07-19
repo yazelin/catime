@@ -7662,5 +7662,38 @@
       "texture": "Film Grain",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "number": 2559,
+    "comment_id": 5016071520,
+    "title": "金線鳴奏之瞬",
+    "avoid_list": [
+      "用爪子撥弄",
+      "用鼻子輕觸並嗅聞",
+      "等距3D空間",
+      "微縮立體模型",
+      "黃金時刻的溫暖光線",
+      "熱帶雨林深處的古老遺跡",
+      "希臘奧林匹斯山",
+      "斑駁的微型車體與金屬質感",
+      "傳統中文或英文的視覺化時間戳記"
+    ],
+    "prompt": "An extreme wide handscroll composition, continuous panoramic narrative from right-to-left, showcasing a steampunk aesthetic illustration. Inside a massive mechanical piano made of Victorian-era machinery, brass gears, cogs, and steam-powered mechanisms, multiple gear craftsmen are working. A striped cat is stretched out, using its paws to press down on vibrating steel piano strings and brass gears to help tune the instrument. The artwork uses fine black brush lines edged with metallic gold, gilded ink outline textures, and lustrous gilt contours against an earth tone palette of terracotta, olive green, and warm brown. The scene is illuminated by white seamless studio lighting, creating a bright high-key backdrop, evenly lit subject on a pure white cyclorama with a clean shadowless product look. The text '2026-07-19 14:18 UTC' is visually displayed and integrated cleanly into the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "古老劇院的蒸汽鋼琴百年來音色不對，直到工匠們請來了聽覺靈敏的街貓。牠趴在銅管與黃銅齒輪之間，隨著工匠敲擊琴鍵，貓咪用肉墊精準按壓發震的鋼琴鋼弦，以獨特的觸感改變了單個音符的音色。整幅畫作以大地色系為主調，並用細緻的描金墨線勾勒出貓咪毛髮與機械發光的邊緣。",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "英國倫敦在週末舉辦的田徑賽事中，跑者 Josh Kerr 以驚人的成績打破了維持長達27年的男子一英里室外世界紀錄。",
+      "埃及的考古學家在一具擁有1600年歷史的木乃伊包紮材料中，首次發現了古希臘史詩《荷馬史詩·伊利亞德》的莎草紙碎片。",
+      "印度政府為了減少野生動物因穿越馬路而發生的路殺碰撞，創新運用色彩心理學，在重要路段打造「紅路綠意」的特殊景觀。",
+      "美國科學家成功破解了百年鋼琴之謎，透過實驗證實演奏者的獨特觸鍵方式確實能實質改變鋼琴單個音符的音色與音質。"
+    ],
+    "inspiration": "美國科學家成功破解了百年鋼琴之謎，透過實驗證實演奏者的獨特觸鍵方式確實能實質改變鋼琴單個音符的音色與音質。",
+    "idea": "這是一幅採用蒸汽朋克風格與長卷全景構圖的畫作，在白底去背棚光下，一隻伸展著四肢的斑紋貓正伸爪按壓著齒輪，與多位齒輪工匠在巨大的機械鋼琴內部共同調整著琴弦。"
   }
 ]
