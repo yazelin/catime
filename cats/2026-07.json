@@ -8105,5 +8105,36 @@
     "comment_id": 5021814179,
     "number": 2571,
     "title": "向日葵海的微醺鈴聲"
+  },
+  {
+    "number": 2572,
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Butterfly Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "這隻神祕的黑貓潛入了密不透風的地下密室，四周被冰冷的鐵絲網密密麻麻地包圍。在蝴蝶光的投射下，牠正拍打著最後一個開啟寶藏的黃金零件，雙眼中閃爍著對未知科技的好奇。",
+    "news_inspiration": [],
+    "idea": "在超寫實動漫風格中，一隻黑貓在被黑色鐵絲網纏繞的奢華地下保險庫內，正用前爪專注地撥弄著地上一枚散發金色光芒的機械齒輪。",
+    "prompt": "A hyperrealistic anime portrait of a black cat in a luxurious underground vault, intimately framed in a near-object close-up. The cat is focused, patting a glowing mechanical gold gear on the floor with its front paw. The vault is wrapped in intricate, tangled black wire mesh with coiled and woven metal strands, creating a sculptural twisted-wire surface. Symmetrical butterfly lighting from an overhead key light casts dramatic spotlight illumination, emphasizing tactile details and gold accents against a deep black background. The style is a realistic-anime hybrid with a shallow depth of field, rendering the subject sharp against a creamy blurred background with soft bokeh. Stamped clearly in the corner is the English text '2026-07-20 13:44 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "title": "暗網中的黃金瞳",
+    "comment_id": 5022967356,
+    "avoid_list": [
+      "中國紅與明亮金色彩組合",
+      "博物館地板上的花生醬",
+      "側臉特寫與動態模糊",
+      "宇宙空靈星雲輝光",
+      "朱紅描金與留白",
+      "裝飾藝術與新藝術風格線條",
+      "三點打光與明暗對比",
+      "黑紅相間的對角線與鮮血紅",
+      "厚塗油彩肌理與半色調網點",
+      "用前爪撥弄金屬零件或玩具",
+      "中片幅攝影側臉特寫",
+      "古絹紋理與侘寂靜物風格"
+    ]
   }
 ]
