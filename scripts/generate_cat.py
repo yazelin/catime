@@ -172,18 +172,34 @@ def load_style_reference() -> dict:
         return {}
 
 
-def load_style_blocklist() -> set[str]:
-    """Load hard-excluded style names from style_blocklist.json.
+def load_style_blocklist() -> dict:
+    """Load hard-exclusion rules from style_blocklist.json.
 
-    A flat list of names (matched against each style's `en` or `zh`,
-    case-insensitively). Unlike the AI avoid_list, this is a permanent,
-    hand-maintained blocklist — add names here to never pick them.
+    Accepts a flat list (exact names) or an object with:
+      - "keywords": substrings; a style is blocked if any keyword appears in
+                    its en or zh (case-insensitive) — catches whole families
+                    like "美人"/"人像", including future FB-sourced additions.
+      - "names":    exact en/zh names to block (for one-offs no keyword fits).
+      - "keep":     exact en/zh names that override the above — never blocked
+                    (rescue cat-friendly styles a broad keyword swept up).
+    Returns {"keywords": list, "names": set, "keep": set}, all lowercased.
+    Unlike the AI avoid_list, this is permanent and hand-maintained.
     """
     path = Path(__file__).parent / "style_blocklist.json"
-    names = safe_load_json(path, [])
-    if not isinstance(names, list):
-        return set()
-    return {str(n).strip().lower() for n in names if str(n).strip()}
+    data = safe_load_json(path, {})
+    if isinstance(data, list):
+        data = {"names": data}
+    if not isinstance(data, dict):
+        data = {}
+
+    def norm(xs):
+        return [str(x).strip().lower() for x in xs if str(x).strip()] if isinstance(xs, list) else []
+
+    return {
+        "keywords": norm(data.get("keywords", [])),
+        "names": set(norm(data.get("names", []))),
+        "keep": set(norm(data.get("keep", []))),
+    }
 
 
 STYLE_FILTER_PROMPT = (
@@ -245,16 +261,18 @@ def pick_random_styles(avoid_list: list[str] | None = None) -> dict:
     if not styles:
         return {}
     excluded = _filter_styles_with_ai(styles, avoid_list) if avoid_list else {}
-    blocklist = load_style_blocklist()
+    bl = load_style_blocklist()
     picks = {}
     for category, entries in styles.items():
         excl = set(excluded.get(category, set()))
-        if blocklist:
-            excl |= {
-                i for i, e in enumerate(entries)
-                if e.get("en", "").strip().lower() in blocklist
-                or e.get("zh", "").strip().lower() in blocklist
-            }
+        for i, e in enumerate(entries):
+            en = e.get("en", "").strip().lower()
+            zh = e.get("zh", "").strip().lower()
+            if en in bl["keep"] or zh in bl["keep"]:
+                continue
+            if (en in bl["names"] or zh in bl["names"]
+                    or any(k in en or k in zh for k in bl["keywords"])):
+                excl.add(i)
         candidates = [e for i, e in enumerate(entries) if i not in excl] if excl else entries
         if not candidates:
             candidates = entries  # fallback if all filtered out

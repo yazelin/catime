@@ -259,18 +259,24 @@ class TestPickRandomStyles:
             assert "art_style" in result
             assert "empty_cat" not in result
 
-    def test_blocklist_excludes_by_name(self):
+    def test_blocklist_by_name_keyword_and_keep(self):
         fake_styles = {
             "art_style": [
-                {"zh": "耽美", "en": "Ornate Danmei Illustration", "prompt": "danmei"},
-                {"zh": "水彩", "en": "Watercolor", "prompt": "wc"},
+                {"zh": "華麗耽美插畫", "en": "Ornate Danmei Illustration", "prompt": "danmei"},
+                {"zh": "新中式少女插畫", "en": "Doll Illustration", "prompt": "girl"},
+                {"zh": "擬人動物肖像", "en": "Animal Portrait", "prompt": "cat in suit"},
+                {"zh": "水彩畫", "en": "Watercolor", "prompt": "wc"},
             ],
         }
+        blocklist = {
+            "names": {"ornate danmei illustration"},   # exact-name block
+            "keywords": ["少女", "肖像"],                # 少女 blocks #1, 肖像 would hit #2
+            "keep": {"擬人動物肖像"},                     # ...but keep rescues #2
+        }
         with mock.patch.object(generate_cat, "load_style_reference", return_value=fake_styles), \
-             mock.patch.object(generate_cat, "load_style_blocklist",
-                               return_value={"ornate danmei illustration"}):
-            for _ in range(20):  # blocked pick must never surface across many draws
-                assert generate_cat.pick_random_styles()["art_style"]["en"] == "Watercolor"
+             mock.patch.object(generate_cat, "load_style_blocklist", return_value=blocklist):
+            survivors = {generate_cat.pick_random_styles()["art_style"]["en"] for _ in range(50)}
+            assert survivors == {"Animal Portrait", "Watercolor"}  # danmei + 少女 gone; portrait kept
 
 
 # ── GitHub Issue Routing ──
