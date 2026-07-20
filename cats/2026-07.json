@@ -8167,5 +8167,41 @@
     "title": "螢光古卷的守護者",
     "inspiration": "original",
     "news_inspiration": []
+  },
+  {
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Miniature Diorama",
+      "lighting": "Fluorescent Lighting",
+      "texture": "3D Render",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "avoid_list": [
+      "中國紅與明亮金色彩組合",
+      "博物館地板上的花生醬",
+      "側臉特寫與動態模糊",
+      "宇宙空靈星雲輝光",
+      "朱紅描金與留白",
+      "裝飾藝術與新藝術風格線條",
+      "三點打光與明暗對比",
+      "黑紅相間的對角線與鮮血紅",
+      "厚塗油彩肌理與半色調網點",
+      "用前爪撥弄金屬零件或玩具",
+      "中片幅攝影側臉特寫",
+      "古絹紋理與侘寂靜物風格"
+    ],
+    "number": 2574,
+    "inspiration": "芬蘭南部小鎮波爾奈寧正測試利用數千噸的「沙子」來儲存綠色能源，未來可望為當地的學校與圖書館提供暖氣。",
+    "news_inspiration": [
+      "美國威斯康辛州海沃德舉辦的年度伐木工世界錦標賽中，女性選手成功刷新了三項新的世界紀錄。",
+      "芬蘭南部小鎮波爾奈寧正測試利用數千噸的「沙子」來儲存綠色能源，未來可望為當地的學校與圖書館提供暖氣。",
+      "澳洲昆士蘭大學的科學家在原住民採收數千年的本土通道小米（channel millet）DNA中，發現了有助於在乾旱引發的大自然景氣循環中生存的獨特遺傳特徵。",
+      "荷蘭阿姆斯特丹宣布自今年夏天起，市有資產上將全面禁止刊登肉類和化石燃料的廣告，成為全球第一個實施此禁令的首都。"
+    ],
+    "title": "沙晶之中的冬日餘溫",
+    "prompt": "An atompunk illustration and polished 3D render of a miniature diorama with a tilt-shift effect, depicting a toy-like scale model of a green energy factory. A ginger cat is lying prone next to a massive sand battery thermal storage tank, curiously staring at flowing, glowing blue cooling pipes. The scene features retro-futuristic atomic age aesthetics, sleek chrome lines, and 1950s futuristic technology with clean geometry and smooth materials. Overhead fluorescent lighting at neutral white 5000K provides institutional flat illumination with soft global illumination. The color palette is a vivid blue and yellow complementary palette, contrasting cool blue and warm yellow for bold balanced energy. Displayed clearly in a sleek, retro-futuristic digital display on the side of the tank is the text '2026-07-20 17:18 UTC' in crisp English lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在充滿原子龐克美學的微縮立體模型中，一隻橘貓正趴在巨大的沙能蓄熱槽旁，好奇地盯著流動的發光藍色冷卻管線。",
+    "story": "這座位於芬蘭小鎮的微型綠能工廠裡，數千噸的沙子正靜靜儲存著未來的溫暖。機械手臂在螢光燈下規律運作，而這隻四腳著地的貓咪則把蓄熱槽當成了最完美的巨大暖爐，在藍黃互補的科技線條間享受著乾旱冬日裡的科技餘溫。",
+    "comment_id": 5025107609
   }
 ]
