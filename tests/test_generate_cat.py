@@ -259,6 +259,19 @@ class TestPickRandomStyles:
             assert "art_style" in result
             assert "empty_cat" not in result
 
+    def test_blocklist_excludes_by_name(self):
+        fake_styles = {
+            "art_style": [
+                {"zh": "耽美", "en": "Ornate Danmei Illustration", "prompt": "danmei"},
+                {"zh": "水彩", "en": "Watercolor", "prompt": "wc"},
+            ],
+        }
+        with mock.patch.object(generate_cat, "load_style_reference", return_value=fake_styles), \
+             mock.patch.object(generate_cat, "load_style_blocklist",
+                               return_value={"ornate danmei illustration"}):
+            for _ in range(20):  # blocked pick must never surface across many draws
+                assert generate_cat.pick_random_styles()["art_style"]["en"] == "Watercolor"
+
 
 # ── GitHub Issue Routing ──
 

@@ -172,6 +172,20 @@ def load_style_reference() -> dict:
         return {}
 
 
+def load_style_blocklist() -> set[str]:
+    """Load hard-excluded style names from style_blocklist.json.
+
+    A flat list of names (matched against each style's `en` or `zh`,
+    case-insensitively). Unlike the AI avoid_list, this is a permanent,
+    hand-maintained blocklist — add names here to never pick them.
+    """
+    path = Path(__file__).parent / "style_blocklist.json"
+    names = safe_load_json(path, [])
+    if not isinstance(names, list):
+        return set()
+    return {str(n).strip().lower() for n in names if str(n).strip()}
+
+
 STYLE_FILTER_PROMPT = (
     "You are filtering style options for an AI cat image generator.\n\n"
     "AVOID LIST (overused themes to skip):\n{avoid_list}\n\n"
@@ -231,9 +245,16 @@ def pick_random_styles(avoid_list: list[str] | None = None) -> dict:
     if not styles:
         return {}
     excluded = _filter_styles_with_ai(styles, avoid_list) if avoid_list else {}
+    blocklist = load_style_blocklist()
     picks = {}
     for category, entries in styles.items():
-        excl = excluded.get(category, set())
+        excl = set(excluded.get(category, set()))
+        if blocklist:
+            excl |= {
+                i for i, e in enumerate(entries)
+                if e.get("en", "").strip().lower() in blocklist
+                or e.get("zh", "").strip().lower() in blocklist
+            }
         candidates = [e for i, e in enumerate(entries) if i not in excl] if excl else entries
         if not candidates:
             candidates = entries  # fallback if all filtered out
