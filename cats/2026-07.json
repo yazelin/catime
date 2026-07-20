@@ -8344,5 +8344,36 @@
       "color_palette": "Retro Faded Tones"
     },
     "story": "在倫敦塔護城河轉型為綠色生態教室的冰雪日裡，一隻穿著膨脹絎縫羽絨馬甲的橘貓正俯身在冰面邊緣，好奇地用爪子撥弄水中優游的寒帶紅鯿魚。畫面充滿復古褪色色調，展現出古蹟建築與野趣生物的和諧共生。"
+  },
+  {
+    "idea": "這幅巴洛克風格作品以正交投影呈現一隻躺在製圖桌上的貓，正用前爪拍打翻倒的墨水瓶，水下焦散光波紋映照在朱紅留白的立體花卉貼花畫布上。",
+    "number": 2579,
+    "prompt": "Baroque art style illustration in an orthographic projection with no perspective distortion, depicting a British Shorthair cat lying on a drafting table, curiously pawing at an overturned vermilion ink bottle. The scene features underwater caustic lighting with rippling light patterns, a blue-green aquatic glow, and deep shadows paired with dramatic chiaroscuro. The underlying canvas displays three-dimensional floral appliqué textures with layered petal relief against a minimalist vermilion and white palette. In the corner of the technical illustration, the text '2026-07-20 23:50 UTC' is clearly and visibly displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "朱紅光影間的流墨",
+    "story": "寂靜的宮廷畫室裡，一隻英短貓悄悄爬上宮廷畫師的桌案， curiosity 驅使牠伸爪打翻了朱紅色的墨水瓶。濃稠的墨汁沿著精緻的花卉貼花絹布蔓延開來，水下般的斑駁光影在畫布上緩緩流動，宛如一場無聲的藝術意外。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "黑貓撥弄金色齒輪",
+      "霓虹螢光色彩與燭光交織",
+      "文字必須使用繁體中文或英文",
+      "地下保險庫與密室",
+      "前爪輕觸或拍打散落零件",
+      "裝飾藝術與新藝術風格",
+      "日期時間字樣顯示於角落",
+      "中世紀或古老宅邸背景",
+      "微縮立體模型與原子龐克",
+      "側臉特寫與鏡像異我構圖",
+      "蝴蝶光與環形燈照明",
+      "博物館與修道院地板場景"
+    ],
+    "comment_id": 5028511445,
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Orthographic Projection",
+      "lighting": "Underwater Caustics",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Vermilion and White"
+    },
+    "inspiration": "original"
   }
 ]
