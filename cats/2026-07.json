@@ -8307,5 +8307,42 @@
     "prompt": "A bird's-eye view, long exposure light painting photograph of a cat on the black leather roof of a cable car during a heavy snowstorm. Looking straight down, the cat with a distinct genuine leather texture coat and rich grain pattern is sniffing a luxurious metallic gold compass resting on the snow-covered surface. The text '2026-07-20 21:58 UTC' is clearly and visibly displayed on the scene. Swirling luminous gold trails and glowing ribbons are drawn around the subject from the long exposure. The environment is dark black with painted light streaks, a snowstorm atmospheric lighting creates a heavy falling snow veil, with visibility obscured by flurries. Gold and black color scheme with opulent mood, shot with a 35mm lens, f/2.8, shallow depth of field, authentic film grain, capturing a candid, real photograph look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2577,
     "inspiration": "original"
+  },
+  {
+    "inspiration": "英國倫敦（London, UK）：倫敦塔計劃將歷史悠久的護城河改造成「綠色戶外教室」，結合古蹟與生態教育。",
+    "title": "雪護城河畔的捕魚課程",
+    "prompt": "Architectural visualization render in a perfectly isometric photography angle with no miniature effect, capturing a snowstorm blurred scene at the Tower of London moat transformed into a green eco-pond. An orange cat wearing a puffy quilted down vest with inflated padded segments leans over the icy edge, curiously poking at a cold-water red bream swimming below the ice. Atmospheric lighting with heavy falling snow veil, fogged distance, muted diffused daylight, clean global illumination, cold blue-white tones mixed with a retro faded color palette, washed-out vintage warmth, low contrast. The text '2026-07-20 22:56 UTC' is clearly and visually displayed in the corner of the image in crisp English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "黑貓撥弄金色齒輪",
+      "霓虹螢光色彩與燭光交織",
+      "文字必須使用繁體中文或英文",
+      "地下保險庫與密室",
+      "前爪輕觸或拍打散落零件",
+      "裝飾藝術與新藝術風格",
+      "日期時間字樣顯示於角落",
+      "中世紀或古老宅邸背景",
+      "微縮立體模型與原子龐克",
+      "側臉特寫與鏡像異我構圖",
+      "蝴蝶光與環形燈照明",
+      "博物館與修道院地板場景"
+    ],
+    "idea": "這是一組採用建築視覺化渲染風格的創作，以等距攝影呈現暴風雪朦朧包圍下的綠色護城河生態生態池場景。",
+    "number": 2578,
+    "news_inspiration": [
+      "西班牙馬德里（Madrid, Spain）：數百萬名球迷湧入首都街頭熱烈慶祝國家隊奪得2026世界盃足球賽冠軍。",
+      "丹麥奧爾堡（Aalborg, Denmark）：來自世界各地的聖誕老人齊聚一堂，參加年度夏季「世界聖誕老人大會」散播歡樂。",
+      "美國紐約（New York, USA）：美食界盛事「納森吃熱狗大賽」盛大登場，知名選手喬伊·切斯納（Joey Chestnut）再次奪冠。",
+      "英國倫敦（London, UK）：倫敦塔計劃將歷史悠久的護城河改造成「綠色戶外教室」，結合古蹟與生態教育。",
+      "澳洲布里斯本（Brisbane, Australia）：一名母親意外順利產下機率僅一千五百萬分之一的同卵四胞胎，為家庭增添超大驚喜。"
+    ],
+    "comment_id": 5028083814,
+    "style_picks": {
+      "art_style": "Architectural Visualization Render",
+      "composition": "Isometric Photography",
+      "lighting": "Snowstorm Haze",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "在倫敦塔護城河轉型為綠色生態教室的冰雪日裡，一隻穿著膨脹絎縫羽絨馬甲的橘貓正俯身在冰面邊緣，好奇地用爪子撥弄水中優游的寒帶紅鯿魚。畫面充滿復古褪色色調，展現出古蹟建築與野趣生物的和諧共生。"
   }
 ]
