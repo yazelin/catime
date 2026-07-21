@@ -8713,5 +8713,41 @@
       "繁體中文或英文文字限制"
     ],
     "comment_id": 5039446157
+  },
+  {
+    "inspiration": "西非幾內亞灣的海洋研究團隊運用水下無人機與聲納技術，重新探索到一片原先被認定已死亡的深海珊瑚礁，並證實該區域正重新展現勃勃生機。",
+    "comment_id": 5039832363,
+    "number": 2590,
+    "story": "古老的海底遺蹟在時隔數百年後重新煥發生機，珊瑚巨獸隨之甦醒。守護這片蔚藍靈脈的神獸巨貓輕輕巡視著海底花園，每一次溫柔的呼吸都點亮了微光閃爍的水下世界。",
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Cinematic Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "A 3D isometric Oriental fantasy poster crafted in a glossy plastic toy texture and vinyl figure aesthetic, featuring smooth high-shine surfaces with subtle reflections. A giant calico cat rests atop a glass palace roof in an ancient coral reef deep within the Gulf of Guinea. The calico cat delicately sniffs a reawakening crystal coral bud that glows with a bright orange radiance. The scene incorporates traditional Chinese ink cloud ornaments, vertical calligraphy panels, red seal stamps, and gold leaf accents on a deep black background. Palette of earth tones, terracotta, olive green, and warm brown creates natural organic harmony, illuminated by cinematic lighting with volumetric light rays, dramatic shadows, and high dynamic range for a film-quality mood. Clean geometric forms and soft pastel highlights enhance the playful rendering. Prominently displayed in stylish typography near the corner is the text '2026-07-21 22:43 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "幾何學家與歷史學家在位於瓜地馬拉的古瑪雅遺跡「徐爾屯」（Xultun）中，發現了一處西元781年由古瑪雅數學家「白胸狐」刻下的天文算式，成為歷史上已知首位具名的瑪雅數學家。",
+      "西非幾內亞灣的海洋研究團隊運用水下無人機與聲納技術，重新探索到一片原先被認定已死亡的深海珊瑚礁，並證實該區域正重新展現勃勃生機。",
+      "美國科羅拉多州的櫻桃溪學區推行綠能轉型，將全新的電動校車轉化為行動儲能電站，在夜晚停泊時可為當地電網反向供電。",
+      "澳洲南極考察隊宣布其位於南極洲的「戴維斯科考站」基礎設施升級計畫已正式通過環境評估，將在嚴格保護當地企鵝與極地生態的前提下更新綠色能源與水資源系統。"
+    ],
+    "idea": "這是一幅結合等距3D插圖與亮面塑膠質感的東方奇幻海報，一隻巨大的三花貓正伏臥在西非幾內亞灣深海古老珊瑚礁的琉璃宮殿頂端，用靈巧的鼻子嗅聞著逐漸復甦、散發亮橘光芒的水晶珊瑚花苞。",
+    "title": "海蔚深處的神木甦醒",
+    "avoid_list": [
+      "貓爪撥弄/觸摸物體",
+      "前爪延伸動作",
+      "特定時間戳記格式",
+      "低角度仰視構圖",
+      "碎紙拼貼風格",
+      "馬賽克拼貼風格",
+      "青花瓷與齒輪元素",
+      "硬光日照與高對比",
+      "極低角度仰角視角",
+      "莫蘭迪色調搭配潑濺質感",
+      "傳統字體與語言限定約束",
+      "月夜靛藍與光影氛圍"
+    ]
   }
 ]
