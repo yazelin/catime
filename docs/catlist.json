@@ -24097,5 +24097,18 @@
     "title": "月光下的搖滾狂想曲",
     "timestamp": "2026-07-21 01:26 UTC",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-21_0457_UTC.webp",
+    "is_seasonal": true,
+    "timestamp": "2026-07-21 04:57 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "season": "summer",
+    "number": 2581,
+    "inspiration": "在瓜地馬拉的古瑪雅遺跡，考古學家發現了西元 781 年古瑪雅數學家「白胸狐」將金星與火星運行規律寫成的數學公式紀錄。",
+    "title": "夏夜竹蓆上的星空算卷",
+    "character_name": "墨墨",
+    "status": "success",
+    "character": "momo"
   }
 ]
