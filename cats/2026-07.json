@@ -8749,5 +8749,41 @@
       "傳統字體與語言限定約束",
       "月夜靛藍與光影氛圍"
     ]
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Miniature Diorama",
+      "lighting": "Snowstorm Haze",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "在一間宛如微縮建築的古老天文觀測所內，黑貓「夜墨」輕盈地踩在漆黑的銅質齒輪邊緣，好奇地垂頭觀測底下墨流紋理中徐徐擴散的黃金光輝。暴風雪般的霧氣在周圍飄散，金點如細雪落於其黑亮的毛髮上，將這場秘境中的流體實驗襯託得格外優雅神秘。",
+    "number": 2591,
+    "idea": "在黑金奢華調性的微縮立體模型中，一隻黑色長毛貓正低頭凝視並舔舐著漂浮於墨流波紋上的水墨極光，呈現出暴風雪朦朧美感與金箔潑點肌理。",
+    "avoid_list": [
+      "貓爪撥弄/觸摸物體",
+      "前爪延伸動作",
+      "特定時間戳記格式",
+      "低角度仰視構圖",
+      "碎紙拼貼風格",
+      "馬賽克拼貼風格",
+      "青花瓷與齒輪元素",
+      "硬光日照與高對比",
+      "極低角度仰角視角",
+      "莫蘭迪色調搭配潑濺質感",
+      "傳統字體與語言限定約束",
+      "月夜靛藍與光影氛圍"
+    ],
+    "comment_id": 5040242146,
+    "title": "墨極雪影的夜詠",
+    "prompt": "A miniature diorama in a luxurious gold and black color scheme featuring a long-haired black cat perched atop a dark copper gear. The cat is bending its head down, curiosity piqued, intently watching and licking floating concentric ink patterns of a shimmering golden aurora drifting over ink marble ripples (suminagashi). A heavy falling snow veil creates a fogged distance and painterly weather mood, with scattered metallic gold leaf shards and glinting gilded specks dusted over the cat's fur and dark environment. Tilt-shift effect emphasizes the tiny toy-like scale model world, illuminated by snowstorm atmospheric lighting. Deep black background with rich opulent metallic accents. Discreetly and clearly rendered in elegant white typography at the bottom corner of the image is the text: '2026-07-21 23:46 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "奧地利維也納：科學家紀錄到一隻名為 Veronika 的母牛竟然會使用多功能工具，打破了人類對牛類智商的傳統認知。",
+      "英國愛丁堡：蘇格蘭正式通過新法規，要求所有新建住宅必須安裝「雨燕磚」（Swift Bricks），為野生雨燕提供築巢空間以保護生態。",
+      "荷蘭阿姆斯特丹：阿姆斯特丹市政府正式實施新規定，禁止在公共空間刊登肉類製品與化石燃料相關的廣告，創下全球首都先例。",
+      "美國華盛頓：美印聯合衛星傳回最新的南極資料，科學家在冰川數據中意外發現了形似 hummingbird（蜂鳥）的特殊圖案地形。"
+    ]
   }
 ]
