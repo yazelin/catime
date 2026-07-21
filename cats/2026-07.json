@@ -8684,5 +8684,34 @@
     "character_name": "麻糬",
     "character": "mochi",
     "title": "麵包香裡的午後瞌睡"
+  },
+  {
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Moonlit Indigo"
+    },
+    "prompt": "A creative vertical poster composition depicting a ceramic cat sculpted with cloud motifs, leaning forward with its paw delicately adjusting the gears of an antique blue-and-white porcelain clock inside an elegant workshop. Made of sculpted clay with a handmade ceramic texture and a white glazed base featuring fine cobalt blue floral motifs and delicate crackle glaze. Surrounding elements include a side vertical calligraphy panel with traditional Chinese characters, ornamental border elements, and red seal stamp accents. The date and time '2026-07-21 21:53 UTC' is clearly rendered on the image in clean typography. A rich moonlit indigo palette with deep night-blue, dark dreamy violet tones, and cool silvery highlights creates a serene night atmosphere. lit by soft diffused natural light with even illumination, soft tones, and multi-layered visual depth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夜幕低垂，月光透過格子窗灑進陶瓷工坊，映照出青花瓷貓專注的姿態。它輕輕推動著青花瓷齒輪，讓時間在清脆的瓷器碰撞聲中悄然轉動。整幅畫面沉浸在月夜靛藍與自然漫射光的寧靜氛圍中，宛如傳承百年的東方藝術名作。",
+    "title": "青花瓷韻的流年機芯",
+    "number": 2589,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "idea": "在一座典雅的青花瓷工坊內，一隻雕刻著祥雲紋飾的瓷貓正俯身用爪子調校古老青花時鐘的齒輪，展現出獨特的黏土/陶瓷質感與直式書法海報構圖。",
+    "avoid_list": [
+      "暴風雪朦朧",
+      "貼紙拼貼邊框",
+      "朱紅留白",
+      "馬賽克風格",
+      "彩飾手抄本風格",
+      "極低角度仰拍",
+      "時間戳記標籤",
+      "水下焦散光波紋",
+      "雙色調調色盤",
+      "繁體中文或英文文字限制"
+    ],
+    "comment_id": 5039446157
   }
 ]
