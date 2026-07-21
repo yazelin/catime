@@ -8648,5 +8648,41 @@
       "color_palette": "Blue and Yellow Complementary"
     },
     "prompt": "A miniature diorama rendered in the Song dynasty jie hua style and traditional Chinese panoramic scroll aesthetic, featuring meticulous architectural line work on aged silk. Inside a rustic wooden mill workshop, a tabby cat crouches beside a wooden windmill mechanism, curiously reaching out a paw to nudge rotating gears draped in Shibori resist-dyed indigo blue and warm yellow patterned textiles. An oblique aerial perspective with a tilt-shift effect highlights the toy-like scale model world. Dappled light and soft mottled shadow patterns filter through a wooden window, casting a vivid blue and yellow complementary palette across the serene scene. Visually displayed in the image is the clear text '2026-07-21 18:07 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "prompt": "A Studio Ghibli inspired anime illustration featuring soft watercolor backgrounds, warm pastoral scenery, and an intimate still-life mood with calm uncluttered framing. Inside an old-fashioned street bakery, a chubby spherical shorthair cat named Mochi lounges by a dark wooden window ledge. The cat has a white base coat, amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle patch on its upper back, a white left front paw, and a solid orange patch covering its right half-face and right ear while its left face is pure white. With its solid orange right front mitten paw, the cat reaches greedily toward freshly baked peanut mochi bread inside an vintage glass display case. Soft, gentle window daylight with warm amber color grading and golden fall shadows illuminates the scene, casting classic Vermeer-like illumination over the warm autumn palette of golden yellows and burnt orange. On the wooden counter, the date and time '2026-07-21 20:11 UTC' is visually stamped in crisp English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在吉卜力風格與琥珀秋日暖色調下，肥嘟嘟的橘白貓麻糬窩在老街麵包店的木頭窗檯邊，伸出右邊那隻像戴了橘色手套的前爪，貪吃地扒拉著老式玻璃櫃裡剛出爐的花生麻糬麵包。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Negative Space Composition",
+      "lighting": "Window Light",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 2588,
+    "avoid_list": [
+      "暴風雪朦朧",
+      "貼紙拼貼邊框",
+      "朱紅留白",
+      "馬賽克風格",
+      "彩飾手抄本風格",
+      "極低角度仰拍",
+      "時間戳記標籤",
+      "水下焦散光波紋",
+      "雙色調調色盤",
+      "繁體中文或英文文字限制"
+    ],
+    "story": "剛出爐的烤麵包香氣漫延在老街巷弄，麻糬早已憑著敏銳的嗅覺佔據了採光最好的窗邊座位。窗外溫暖的柔光灑落在牠圓滾滾的身軀上，牠一邊打著瞌睡，一邊忍不住伸出前爪去摸那顆長得跟自己簡直一模一樣的花生麵包。麵包店老闆笑著搖搖頭，拿出特別為牠準備的貓咪無鹽小點心，麻糬立刻睜大雙眼，露出呆萌又滿足的表情。",
+    "comment_id": 5038603699,
+    "news_inspiration": [
+      "澳洲昆士蘭大學的研究團隊最新發現，人類皮膚的神經細胞能同時感應冷熱變化，打破了長期以來認為冷熱由不同神經分別偵測的傳統觀念。",
+      "美國紐約大學與數學家團隊利用玩具灑水器成功解開了困擾物理學界數十年的「費曼噴水器謎題」，揭示了逆向旋轉的流體力學機制。",
+      "丹麥哥本哈根的「真人圖書館」花園持續營運，提供民眾「借閱」不同背景的真人進行面對面交流，促進社會理解與共融。",
+      "幾內亞灣（西非）的科學家利用聲納與水下無人機，重新發現了一座原本被認為已經死亡、如今卻充滿生機的深海珊瑚礁生態系。"
+    ],
+    "character_name": "麻糬",
+    "character": "mochi",
+    "title": "麵包香裡的午後瞌睡"
   }
 ]

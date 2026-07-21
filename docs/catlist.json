@@ -24170,5 +24170,16 @@
     "timestamp": "2026-07-21 18:07 UTC",
     "number": 2587,
     "inspiration": "original"
+  },
+  {
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-21_2011_UTC.webp",
+    "number": 2588,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-07-21 20:11 UTC",
+    "character_name": "麻糬",
+    "character": "mochi",
+    "status": "success",
+    "title": "麵包香裡的午後瞌睡"
   }
 ]
