@@ -8375,5 +8375,36 @@
       "color_palette": "Vermilion and White"
     },
     "inspiration": "original"
+  },
+  {
+    "news_inspiration": [],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Watercolor Storybook Illustration",
+      "composition": "Extreme Low Angle",
+      "lighting": "Moonlight",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "number": 2580,
+    "story": "夜幕低垂，皎潔的月光灑落在迷你露天音樂會的舞台上。三花貓踏著優雅卻狂野的步伐撥弄著琴弦，柔焦霧面的氛圍將整場音樂會渲染得如同夢境一般溫馨。",
+    "title": "月光下的搖滾狂想曲",
+    "comment_id": 5029231653,
+    "idea": "這幅童話水彩繪本風格的作品，以極低角度捕捉一隻三花貓正用後腳站立前爪緊抓著迷你搖滾樂團的電吉他弦，在透著朱紅描金細節的夜間戶外舞台上狂歡。",
+    "avoid_list": [
+      "黑貓撥弄金色齒輪",
+      "霓虹螢光色彩與燭光交織",
+      "文字必須使用繁體中文或英文",
+      "地下保險庫與密室",
+      "前爪輕觸或拍打散落零件",
+      "裝飾藝術與新藝術風格",
+      "日期時間字樣顯示於角落",
+      "中世紀或古老宅邸背景",
+      "微縮立體模型與原子龐克",
+      "側臉特寫與鏡像異我構圖",
+      "蝴蝶光與環形燈照明",
+      "博物館與修道院地板場景"
+    ],
+    "prompt": "A calico cat standing on its hind legs, enthusiastically gripping and playing the strings of a miniature rock band's electric guitar on a tiny outdoor stage at night, watercolor storybook illustration, gentle childlike scene, soft transparent washes, whimsical characters, warm picture-book charm, healing fairytale mood. Extreme low angle shot looking up at the cat with a dramatic towering perspective. Lit by soft moonlight illumination with cool blue tones and a gentle silvery glow in a quiet nighttime atmosphere. Soft-focus matte haze, dreamy diffused blur, low-contrast ethereal finish, and hazy atmospheric softness. Color accents in a vermilion and gilt palette, featuring refined cinnabar red with metallic gold outlines and elegant lacquer-like richness. The text '2026-07-21 01:26 UTC' is clearly and visually displayed in the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
