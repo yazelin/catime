@@ -24130,5 +24130,18 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-21_1012_UTC.webp",
     "number": 2583
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "timestamp": "2026-07-21 12:17 UTC",
+    "number": 2584,
+    "is_seasonal": true,
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-21_1217_UTC.webp",
+    "character": "lingling",
+    "title": "陽光葵田裡的叮鈴小探險",
+    "season": "summer",
+    "status": "success"
   }
 ]

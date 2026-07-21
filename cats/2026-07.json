@@ -8521,5 +8521,45 @@
     "prompt": "A tabby cat with mottled glossy fur reaching its hind paw to scratch at a glowing firefly depicted in a giant mural, rendered in a mosaic art style with a duotone color treatment using two contrasting colors. The entire wall surface features an ornate beaded rhinestone embellishment texture, encrusted with glittering faceted stones, pearls, and grouted small colored tiles inspired by a ancient Byzantine aesthetic. The scene incorporates knolling photography composition elements, with a cold blue-white atmospheric lighting reminiscent of a snowstorm light diffusion. On a subtle plate or digital timestamp overlay within the scene, the text '2026-07-21 10:12 UTC' is clearly displayed in a crisp font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2583,
     "story": "在南唐斯國家公園外的冰封研究站裡，工作人員將剛發育完畢的幼蟲發光塗層排列成整齊的圖案。這隻好奇的貓咪在暴風雪朦朧的光線中，小心翼翼地用前爪撥弄著排列好的微型觀察箱，試圖捕捉那些閃爍著幽微螢光的點點小蟲。"
+  },
+  {
+    "comment_id": 5033943283,
+    "inspiration": "original",
+    "story": "剛從花店偷溜出來的鈴鈴，頂著小草帽在如海洋般遼闊的向日葵田裡探險。陽光穿透薄透紗網般的雲層，她踩著粉紅肉掌一路追趕蝴蝶，結果一個煞車不及撞上了粗壯的花莖，頭上的太陽花搖搖晃晃，發出清脆叮鈴聲。",
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Extreme Low Angle",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Vermilion and White"
+    },
+    "avoid_list": [
+      "黑貓撥弄金色齒輪",
+      "霓虹螢光色彩與燭光交織",
+      "文字必須使用繁體中文或英文",
+      "地下保險庫與密室",
+      "前爪輕觸或拍打散落零件",
+      "裝飾藝術與新藝術風格",
+      "日期時間字樣顯示於角落",
+      "中世紀或古老宅邸背景",
+      "微縮立體模型與原子龐克",
+      "側臉特寫與鏡像異我構圖",
+      "蝴蝶光與環形燈照明",
+      "博物館與修道院地板場景"
+    ],
+    "number": 2584,
+    "is_seasonal": true,
+    "prompt": "Illuminated manuscript style artwork featuring Lingling, a literal fluffy longhair cat with pure white fur (#FFFFFF), huge round sapphire-blue eyes (#0F52BA), a pale pink nose, and a visible pink ribbon bow collar with a centered golden bell beneath the knot. Lingling is wearing a tiny straw hat adorned with a small sunflower while wearing her signature bow bell collar, playfully chasing a colorful butterfly in the center of a dense golden sunflower field. Extreme low angle shot looking up at the subject with dramatic towering sunflowers. Illuminated manuscript style with intricate calligraphy borders, rich jewel-tone colors, gold leaf accents, ornate medieval book art borders, and sheer gauze mesh texture. Harsh midday sunlight creating hard edge shadows and high contrast. Visually display the date and time text '2026-07-21 12:17 UTC' neatly integrated into the border design in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在彩飾手抄本風格的畫卷中，極低角度呈現穿戴迷你草帽與太陽花的布偶貓鈴鈴，於硬光日照的金色向日葵田中央興奮追逐彩蝶。",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "美國研究團隊成功利用玻璃管重建太空環境微粒，在實驗室中首度人工合成出富含碳元素的「宇宙星塵」，為探索地球生命起源邁出重大一步。",
+      "西班牙國家足球隊在2026年世界盃足球賽決賽的加時賽中擊敗阿根廷，成功奪得冠軍寶座。",
+      "紐西蘭基督城即將舉辦「WORD Christchurch」年度大型文學節，邀請各界作家與藝術家共襄盛舉，帶來多元的新書發布與文化交流活動。",
+      "澳大利亞的利物浦礁（Liverpool Reef）於退潮期間短暫露出海面，形成每日僅出現三小時的「幽靈礁」自然奇觀，吸引眾多海洋愛好者與遊客前來朝聖。"
+    ],
+    "character": "lingling",
+    "title": "陽光葵田裡的叮鈴小探險",
+    "season": "summer"
   }
 ]
