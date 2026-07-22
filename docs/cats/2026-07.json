@@ -8785,5 +8785,41 @@
       "荷蘭阿姆斯特丹：阿姆斯特丹市政府正式實施新規定，禁止在公共空間刊登肉類製品與化石燃料相關的廣告，創下全球首都先例。",
       "美國華盛頓：美印聯合衛星傳回最新的南極資料，科學家在冰川數據中意外發現了形似 hummingbird（蜂鳥）的特殊圖案地形。"
     ]
+  },
+  {
+    "comment_id": 5040812561,
+    "avoid_list": [
+      "貓爪撥弄/觸摸物體",
+      "前爪延伸動作",
+      "特定時間戳記格式",
+      "低角度仰視構圖",
+      "碎紙拼貼風格",
+      "馬賽克拼貼風格",
+      "青花瓷與齒輪元素",
+      "硬光日照與高對比",
+      "極低角度仰角視角",
+      "莫蘭迪色調搭配潑濺質感",
+      "傳統字體與語言限定約束",
+      "月夜靛藍與光影氛圍"
+    ],
+    "idea": "在瑪雅遺跡風格的幾何建築中，一隻三色貓側臥於裝飾藝術風格的星相圓盤上，尾巴自然捲曲，周圍環繞著以粉彩色系壓花植物疊層構成的金星與火星幾何軌道。",
+    "prompt": "A miniature diorama in Art Deco style, featuring a calico cat reclining on a complex astrological chart disc within Mayan-style geometric architecture, tail curling naturally. Surrounded by geometric orbits of Venus and Mars crafted from layered pressed botanical specimens, dried flowers, and delicate translucent leaves. Displayed with white seamless studio lighting on a pure white background, giving an evenly lit, clean, shadowless product look with a subtle tilt-shift effect. Soft pastel color palette featuring gentle pink, lavender, mint, baby blue, gold, and black. Visually displaying the date and time '2026-07-22 01:24 UTC' integrated cleanly into the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國明尼蘇達州的盧韋恩（Luverne, USA）近日正式揭幕一座高耸的胡桃鉗雕像「愛國者韋恩」，成功拿下世界上最高胡桃鉗的全新紀錄。",
+      "芬蘭波爾納伊寧（Pornainen, Finland）小鎮啟用大規模沙子電池技術，利用數千噸沙子儲存熱能為學校和市立設施供暖，邁向無石油供暖城鎮。",
+      "考古學家在危地馬拉蘇爾頓（Xultun, Guatemala）的瑪雅遺跡中，發現了公元781年由名為「白胸狐狸」的古代學者署名留下的金星與火星運算公式。",
+      "印尼（Indonesia）政府為了保育珍稀的印尼人猿及保護熱帶雨林，宣佈撤銷蘇門答臘人猿主要棲息地內的多項採礦與伐木許可。"
+    ],
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Miniature Diorama",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "星軌上的瑪雅印記",
+    "story": "古代學者「白胸狐狸」在幾何牆面上刻下天體運行公式，而好奇的石虎貓則悠閒地盤鋸在繁複的星像刻圖中央。白底去背棚光照亮了微縮立體模型般精緻的石刻與乾燥花瓣層次，彷彿將千年前對宇宙的浪漫遐想凝固於一瞬。",
+    "inspiration": "考古學家在危地馬拉蘇爾頓（Xultun, Guatemala）的瑪雅遺跡中，發現了公元781年由名為「白胸狐狸」的古代學者署名留下的金星與火星運算公式。",
+    "number": 2592
   }
 ]

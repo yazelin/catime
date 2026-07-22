@@ -24208,5 +24208,14 @@
     "number": 2591,
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "title": "墨極雪影的夜詠"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-22_0124_UTC.webp",
+    "timestamp": "2026-07-22 01:24 UTC",
+    "number": 2592,
+    "title": "星軌上的瑪雅印記",
+    "status": "success",
+    "inspiration": "考古學家在危地馬拉蘇爾頓（Xultun, Guatemala）的瑪雅遺跡中，發現了公元781年由名為「白胸狐狸」的古代學者署名留下的金星與火星運算公式。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
