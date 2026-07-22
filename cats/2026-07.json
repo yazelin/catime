@@ -9183,5 +9183,41 @@
       "texture": "Sand Texture",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "prompt": "A dreamy digital oil painting in a top-down, bird's-eye flat-lay composition, featuring a white cat with scattered gold foil flecks and shimmering metallic splatter texture across its fur. The cat is reclining amidst a dense sea of floating nutcracker flower blossoms, extending its front paw to curiously fiddle with the intricate joint structure and wooden mouth of a giant nutcracker puppet. The scene is illuminated by aquatic blue-green underwater caustic lighting, with rippling light patterns and refracted sun shafts dancing across the subject. Soft painterly brush strokes, mixed impasto texture, and a desaturated cool blue-teal palette with icy undertones create a serene, dreamlike atmosphere. The date and time '2026-07-22 23:53 UTC' is visually displayed in clean text within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "嗅聞發光植物/生物",
+      "三花貓與幾何/星像圖案",
+      "微縮立體模型/diorama",
+      "深海與生物發光",
+      "竹影翠綠色調",
+      "霓虹螢光色調",
+      "白底去背棚光/鏡面水池",
+      "撕紙拼貼/雙分切割畫面",
+      "深色背景與高對比聚光燈",
+      "頭肩特寫與眼平視角",
+      "黑金奢華質感與金箔點綴",
+      "帶有時間戳記的英文/繁體中文文字"
+    ],
+    "style_picks": {
+      "art_style": "Dreamy Digital Oil",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Underwater Caustics",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 2604,
+    "news_inspiration": [
+      "美國明尼蘇達州拉韋恩（Luverne）揭幕了一座高達20公尺的巨型「胡桃鉗」雕像，創下全球最高胡桃鉗的紀錄。",
+      "中國大連的研究團隊發現了一種全新的量子穿隧機制，能大幅提升太陽能電池與催化反應中的能量轉移效率。",
+      "瑞士日內瓦的歐洲核子研究組織（CERN）舉辦「未來探險家」科學節，邀請宇航員與科學家與大眾近距離分享前沿知識。",
+      "葡萄牙佩尼謝（Peniche）因獨特海岸地形與極佳風浪條件，成為2026年夏季全球運動旅遊與衝浪愛好者的熱門聖地。"
+    ],
+    "comment_id": 5052822794,
+    "story": "巨大如巨塔般的胡桃鉗雕像矗立在夢幻的冰藍花海中，無數細小的機關在光影下流轉。白貓輕盈地躺在交織的花枝頂端，好奇地伸爪輕觸那堅固又精巧的木偶嘴唇，彷彿要從中找出解開巨大機械謎題的鑰匙。",
+    "title": "高塔巨偶的花海綺夢",
+    "idea": "在藍青色調的水下焦散光影中，一隻毛髮沾著金箔潑點肌理的白貓，以夢幻數位油畫風格俯瞰俯臥在浮動的胡桃鉗木偶花海間，伸出前爪專注地撥弄著巨大胡桃鉗的神奇關節結構。",
+    "inspiration": "美國明尼蘇達州拉韋恩（Luverne）揭幕了一座高達20公尺的巨型「胡桃鉗」雕像，創下全球最高胡桃鉗的紀錄。"
   }
 ]
