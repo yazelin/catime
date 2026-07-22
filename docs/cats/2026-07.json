@@ -8980,5 +8980,35 @@
       "texture": "Mirror Water Reflection",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "title": "靛藍深潛的微光探索",
+    "inspiration": "original",
+    "number": 2598,
+    "news_inspiration": [],
+    "story": "在月夜靛藍的深海艙內，幾何撕紙層層堆疊出海底世界與潛艇內部。貓咪輕巧地蹲伏在儀表板旁，散發著生物發光微光的蕾絲鏤空水母正貼著舷窗游過，將神秘柔和的藍光映照在貓咪專注的側臉上。",
+    "prompt": "A torn paper collage artwork in mixed media with layered textures, visible paper edges, and notebook lines, utilizing a split view composition separated by a sharp vertical cut line where the left side features rich paper cutouts and the right side displays a wireframe diagram. Inside a deep-sea submersible cabin bathed in a moonlit indigo palette of deep night-blue, violet, and cool silvery highlights, a cat crouches by the control panel, curiously sniffing a glowing bioluminescent seaweed sample. Soft bioluminescent lighting and deep blue-green radiance illuminate the scene as translucent lace openwork jellyfish swim past the porthole. On a monitor within the control panel, the text '2026-07-22 16:12 UTC' is clearly displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一副撕紙拼貼效果的創作，採用分割畫面展示一隻貓咪在深海探測潛水艇控制台上，用鼻子好奇地嗅聞發光海藻樣本。",
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Split View",
+      "lighting": "Bioluminescence",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5048628628,
+    "avoid_list": [
+      "前爪撥弄/觸碰裝置",
+      "微縮立體模型/雙重比例",
+      "齒輪/機械結構",
+      "古老/微縮工坊場景",
+      "傳統東方藝術/工筆/青花瓷",
+      "條紋/斑駁光影穿透",
+      "亮面塑膠/玩具質感",
+      "黑膠/時鐘/星相圓盤",
+      "百葉窗/高對比硬光陰影",
+      "琥珀秋日暖色調",
+      "照片角落時間戳記 stamp"
+    ]
   }
 ]
