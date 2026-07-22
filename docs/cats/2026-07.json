@@ -9116,5 +9116,36 @@
     "inspiration": "original",
     "number": 2601,
     "character": "captain"
+  },
+  {
+    "comment_id": 5052063161,
+    "story": "淹沒於水底的百年前客廳裡，光線透過水面折射出瀲灩的焦散光紋。貓咪優雅地踏在雕花矮櫃上，好奇地用前爪撥弄著劃過古典畫框的影子。柔焦霧面質感將這幕奇幻的尋寶瞬間，凝結成複數連續的故事畫格。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "嗅聞發光植物/生物",
+      "三花貓與幾何/星像圖案",
+      "微縮立體模型/diorama",
+      "深海與生物發光",
+      "竹影翠綠色調",
+      "霓虹螢光色調",
+      "白底去背棚光/鏡面水池",
+      "撕紙拼貼/雙分切割畫面",
+      "深色背景與高對比聚光燈",
+      "頭肩特寫與眼平視角",
+      "黑金奢華質感與金箔點綴",
+      "帶有時間戳記的英文/繁體中文文字"
+    ],
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Underwater Caustics",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Teal and Orange"
+    },
+    "idea": "採用青橙電影色調的剪影藝術與分格插畫呈現，隻身在沉沒的古老洋樓走廊中，一隻橘貓正伸爪試圖捕捉於水下焦散光中穿梭的光影游魚。",
+    "prompt": "Illustrated storybook page layout with multiple irregular comic panels in a shoujo manga narrative flow, featuring silhouette art with clean defined edges against underwater caustic lighting. In a submerged, hundred-year-old ancient mansion hallway, a lone orange cat is perched elegantly on a carved low cabinet, reaching out its front paw to catch shimmering shadow fish darting through rippling light patterns and dancing over classical picture frames. Decorative title banner at the top displaying the text '2026-07-22 21:54 UTC' in clear English typography. Dreamy submerged atmosphere with soft-focus matte haze, diffused blur, blue-green aquatic glow, and refracted sun shafts. Cinematic teal and orange color grading with cool blue-green shadows and warm highlights, low-contrast ethereal finish. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "title": "水底洋樓的游光遊戲",
+    "number": 2602
   }
 ]
