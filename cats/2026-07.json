@@ -9045,5 +9045,36 @@
       "texture": "Silk",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "avoid_list": [
+      "嗅聞發光植物/生物",
+      "三花貓與幾何/星像圖案",
+      "微縮立體模型/diorama",
+      "深海與生物發光",
+      "竹影翠綠色調",
+      "霓虹螢光色調",
+      "白底去背棚光/鏡面水池",
+      "撕紙拼貼/雙分切割畫面",
+      "深色背景與高對比聚光燈",
+      "頭肩特寫與眼平視角",
+      "黑金奢華質感與金箔點綴",
+      "帶有時間戳記的英文/繁體中文文字"
+    ],
+    "news_inspiration": [],
+    "inspiration": "original",
+    "prompt": "An Art Nouveau illustration featuring an orange cat perched atop a vintage wooden cabinet, stretching its front paw downward toward a hanging geometric brass ornament. The piece showcases flowing organic curves, ornamental floral motifs, Mucha-inspired decorative elements, and dynamic forced perspective, with the paw thrust toward the viewer in exaggerated foreshortening. Rendered with natural wood grain textures, rich warm tones, dynamic direct flash-like lighting effects, and a retro faded color palette reminiscent of nostalgic vintage artwork. The date and time '2026-07-22 19:23 UTC' is visually displayed in elegant Traditional Chinese or English typography near the bottom corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以新藝術風格繪製，一隻橘貓正伸長前爪從復古木櫃頂端探向懸掛的幾何吊飾，畫面採用強制透視伸手視角與閃光燈直打效果，呈現木紋質感與復古褪色色調。",
+    "title": "木香裡的伸展探尋",
+    "story": "午後的舊書房裡，微塵在淡黃色的日光中飄蕩。老木櫃頂端的橘貓伸長了手臂般的爪子，試圖抓取那懸掛已久的雕花黃銅吊飾。閃光燈照亮了木紋的細緻紋路，將這瞬間的淘氣定格成一幅優雅的圖畫。",
+    "comment_id": 5050520317,
+    "number": 2600,
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Direct Flash",
+      "texture": "Wood Grain",
+      "color_palette": "Retro Faded Tones"
+    }
   }
 ]
