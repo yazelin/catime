@@ -8915,5 +8915,35 @@
       "照片角落時間戳記 stamp"
     ],
     "title": "竹夜螢光下的凝視"
+  },
+  {
+    "idea": "以粉彩海濱插畫風格呈現，在自然漫射光下以極低角度仰視，一隻具備細緻絨毛皮草質感的長毛貓正壓低身體，在充滿霓虹螢光色調的復古海濱步道沙灘上追逐被海風吹散的彩色海膽泡沫。",
+    "inspiration": "original",
+    "number": 2596,
+    "prompt": "Pastel seaside illustration style, extreme low angle shot looking up at a detailed long-haired cat with soft fuzzy fur and fluffy tactile pile texture. The cat is crouching low on a wet neon-colored beach boardwalk sand, playfully chasing colorful sea urchin foam bubbles blown by the breeze. Breezy coastal scene with soft gradient pastels, bright neon fluorescent colors like electric pink, lime green, and hot cyan glowing throughout the scenery. Soft diffused natural light under an overcast sky creating gentle, even illumination without harsh shadows. Visually display the text '2026-07-22 12:20 UTC' clearly in the image scene in clean English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "前爪撥弄/觸碰裝置",
+      "微縮立體模型/雙重比例",
+      "齒輪/機械結構",
+      "古老/微縮工坊場景",
+      "傳統東方藝術/工筆/青花瓷",
+      "條紋/斑駁光影穿透",
+      "亮面塑膠/玩具質感",
+      "黑膠/時鐘/星相圓盤",
+      "百葉窗/高對比硬光陰影",
+      "琥珀秋日暖色調",
+      "照片角落時間戳記 stamp"
+    ],
+    "style_picks": {
+      "art_style": "Pastel Seaside Illustration",
+      "composition": "Extreme Low Angle",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 5045713183,
+    "title": "霓虹浪花邊的追逐者",
+    "news_inspiration": [],
+    "story": "潮汐將海岸染上一層奇幻的螢光色彩，長毛貓俯臥在濕潤的沙灘上，目光緊盯著迎面滾來的彩色氣泡。每當浪花輕撫過牠的爪邊，牠便興奮地抖動鬍鬚，準備捕獲這片海濱夏日最絢麗的瞬息。"
   }
 ]
