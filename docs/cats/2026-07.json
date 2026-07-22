@@ -9076,5 +9076,45 @@
       "texture": "Wood Grain",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "prompt": "A high top-down overhead bird's-eye view polished 3D render in a Cinema 4D aesthetic with clean geometry and soft global illumination. The scene features a retro-futuristic 1950s atompunk harbor breakwater in harsh midday sunlight with hard-edge shadows, featuring sleek chrome lines and retro metallic waves below in a vibrant vermilion cinnabar red and clean negative-space white color palette. A literal large stocky four-legged brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes and scruffy untidy fur is reclining prone on top of the white breakwater, wearing a summer straw hat, holding a fishing rod beneath its front paw. The cat's LEFT eye is completely covered by a natural dark fur patch (#2B1B0E) with no straps or eye patch, while its RIGHT eye is a single piercing emerald green (#50C878). The cat has a V-shaped notch on its left ear, a faded red (#CD5C5C) bandana around its neck, a white chest bib, white mitten paws, and an M-mark on its forehead. Inscribed clearly in crisp English typography in the corner of the frame is the text '2026-07-22 20:53 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5051441811,
+    "season": "summer",
+    "character_name": "船長",
+    "idea": "在融合 1950 年代未來科技感的原子龐克風格中，壯碩的虎斑貓船長戴著草帽俯臥在防波堤上，以高空俯瞰視角釣魚，畫面展現朱紅與潔白交織的 3D 渲染質感。",
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Harsh Midday Sun",
+      "texture": "3D Render",
+      "color_palette": "Vermilion and White"
+    },
+    "is_seasonal": true,
+    "title": "防波堤上的夏日釣客",
+    "story": "陽光烈得發白，烈日下的港口防波堤被照得通亮。獨眼的船長壓低草帽，神情肅穆地趴在防波堤頂端，利落地用爪子按住釣竿，凝視著下方泛著復古金屬光澤的波浪。即使身處充滿原子能艇與懷舊機械的夏季碼頭，牠依然是這片海域最威風沉穩的守護者。",
+    "news_inspiration": [
+      "美國聖地牙哥（San Diego, United States）：聖地牙哥野生動物園成功誕生了一對極為罕見的針鼴雙胞胎幼崽。",
+      "奧地利維也納（Vienna, Austria）：維也納獸醫醫學大學的研究團隊發現一頭名為 Veronika 的母牛具有罕見的多用途工具使用能力，顛覆了過往對家畜智慧的認知。",
+      "瓜地馬拉蘇爾通（Xultun, Guatemala）：考古學家在蘇爾通瑪雅遺址中發現千年前古瑪雅數學家「白胸狐」所留下的金星與火星天體週期計算公式。",
+      "英國劍橋（Cambridge, United Kingdom）：天文學家於距離地球約 72 光年外的太空深處，發現了可能是人類史上首顆獲證實的「太陽系外衛星」。"
+    ],
+    "avoid_list": [
+      "嗅聞發光植物/生物",
+      "三花貓與幾何/星像圖案",
+      "微縮立體模型/diorama",
+      "深海與生物發光",
+      "竹影翠綠色調",
+      "霓虹螢光色調",
+      "白底去背棚光/鏡面水池",
+      "撕紙拼貼/雙分切割畫面",
+      "深色背景與高對比聚光燈",
+      "頭肩特寫與眼平視角",
+      "黑金奢華質感與金箔點綴",
+      "帶有時間戳記的英文/繁體中文文字"
+    ],
+    "inspiration": "original",
+    "number": 2601,
+    "character": "captain"
   }
 ]
