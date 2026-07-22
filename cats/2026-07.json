@@ -8945,5 +8945,40 @@
     "title": "霓虹浪花邊的追逐者",
     "news_inspiration": [],
     "story": "潮汐將海岸染上一層奇幻的螢光色彩，長毛貓俯臥在濕潤的沙灘上，目光緊盯著迎面滾來的彩色氣泡。每當浪花輕撫過牠的爪邊，牠便興奮地抖動鬍鬚，準備捕獲這片海濱夏日最絢麗的瞬息。"
+  },
+  {
+    "title": "鏡花水月中的尋芳客",
+    "inspiration": "original",
+    "avoid_list": [
+      "前爪撥弄/觸碰裝置",
+      "微縮立體模型/雙重比例",
+      "齒輪/機械結構",
+      "古老/微縮工坊場景",
+      "傳統東方藝術/工筆/青花瓷",
+      "條紋/斑駁光影穿透",
+      "亮面塑膠/玩具質感",
+      "黑膠/時鐘/星相圓盤",
+      "百葉窗/高對比硬光陰影",
+      "琥珀秋日暖色調",
+      "照片角落時間戳記 stamp"
+    ],
+    "comment_id": 5047826874,
+    "story": "在白底去背棚光照射的夢幻高飽和水庭中，繽紛的花瓣與鏡面水池相互映襯。玳瑁貓輕盈地趴伏在水面花叢之上，與微小的昆蟲進行著無聲而優雅的夏日對話。",
+    "idea": "採用超寫實動漫風格，呈現一隻玳瑁貓俯臥在漂浮於鏡面水池的鮮豔花海中，正專注地用鼻子嗅聞花叢間的一隻閃耀彩虹光澤的巨大金龜子。",
+    "number": 2597,
+    "news_inspiration": [
+      "美國明尼蘇達州路韋恩市打造了一座高達65英尺（約20公尺）的巨大胡桃鉗木偶「巨星弗恩」，正式獲頒金氏世界紀錄全球最高胡桃鉗。",
+      "巴西里約熱內盧海岸近期觀測到大批大翅鯨回遊躍出海面的壯觀景象，在當地引發了一股賞鯨旅遊與拍照熱潮。",
+      "澳洲首都坎培拉的大聲公鎮號官（Town Crier）以高達122.4分貝的分貝值，獲得金氏世界紀錄認證為全球喊話聲音最大聲的人。",
+      "瑞士每年舉辦的傳統約德爾調歌唱節因高溫炎熱，參賽者們紛紛跳進噴泉中泡水合唱，形成別具特色又消暑的音樂奇觀。"
+    ],
+    "prompt": "A hyperrealistic-anime hybrid digital illustration in a top-down flat-lay framing, showing an overhead view of a tortoiseshell cat reclining in a dense sea of vibrant floating blossoms on a glassy mirror-like water pool. The cat is closely sniffing a giant scarab beetle with a shimmering rainbow iridescent sheen. Bright white seamless studio cyclorama lighting creates a high-key, shadowless look with serene mirror reflections on the still water. High saturation, vivid energetic colors with bold contrast. Visually displaying the English text '2026-07-22 14:53 UTC' in the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
