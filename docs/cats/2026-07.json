@@ -8852,5 +8852,38 @@
       "月夜靛藍與光影氛圍"
     ],
     "number": 2593
+  },
+  {
+    "story": "在高朗明亮的大修復室裡，墨墨靜靜伏在高處的珍本古籍旁。牠大而圓的金琥珀色眼睛凝視著書頁，左耳的金環在如翠竹般的明亮光影中爍爍生輝，彷彿正以無聲的優雅專注閱讀。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "貓爪撥弄/觸摸物體",
+      "前爪延伸動作",
+      "特定時間戳記格式",
+      "低角度仰視構圖",
+      "碎紙拼貼風格",
+      "馬賽克拼貼風格",
+      "青花瓷與齒輪元素",
+      "硬光日照與高對比",
+      "極低角度仰角視角",
+      "莫蘭迪色調搭配潑濺質感",
+      "傳統字體與語言限定約束",
+      "月夜靛藍與光影氛圍"
+    ],
+    "character": "momo",
+    "number": 2594,
+    "character_name": "墨墨",
+    "idea": "採用新中式珠寶工筆插畫風格與竹影翠綠色調，呈頭肩特寫，捕捉墨墨在明亮清透的高調光線下，悠然審視一本展開的古籍，其身影與立體摺紙質感的竹葉相互交融。",
+    "inspiration": "original",
+    "title": "翠竹明窗讀古書",
+    "comment_id": 5043212061,
+    "prompt": "A neo-Chinese jeweled gongbi illustration in head-and-shoulders portrait crop, intimate eye-level shot filling the frame. A sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat named Momo with satin-sheen fur, large luminous golden-amber (#D4A017) eyes, long white whiskers, a tiny natural white locket tuft (#FFFFFF) on the ventral chest, a single dark-grey (#696969) ring on the tail tip, and a single small gold hoop earring (#FFD700) on its LEFT ear (viewer perspective). Momo is calmly looking down and attentively examining an open ancient book on a high surface. Incorporating 3D origami paper sculpture bamboo leaves with clean geometric creases and sharp angular folds overlapping with the cat. Meticulous fine-line gongbi technique adorned with ornate decorative jewelry details, gold accents, and a bamboo jade-green palette of fresh emerald and malachite tones. High-key bright lighting creates a soft, luminous, airy atmosphere with minimal shadows. Prominently displayed in the image is the precise date and time text '2026-07-22 07:29 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Neo-Chinese Jeweled Gongbi Illustration",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Origami",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
