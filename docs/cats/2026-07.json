@@ -9255,5 +9255,40 @@
       "texture": "Cotton Candy Clouds",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "number": 2606,
+    "avoid_list": [
+      "伸爪撥弄或捕捉",
+      "近距離嗅聞物品",
+      "頂視俯瞰鏡面水池",
+      "水下焦散光影",
+      "霓虹螢光配色",
+      "黑光燈與螢光植物",
+      "鋸齒或裂紋紙張拼貼風格",
+      "霧面紙玻璃質感",
+      "古典復古木櫃",
+      "深海潛艇或艙內空間",
+      "時間戳記文字呈現",
+      "限定繁體中文或英文文本"
+    ],
+    "idea": "採用彩色石版印刷風格與黑白單色調，展現超廣角鏡頭下貓咪於水晶大廳中專注修復巨型齒輪鐘錶的極致場面。",
+    "story": "在幽暗的水晶大廳中央，無數反射著燭光的琉璃構件相互交錯。一隻四腳踩在水晶平台上的黑貓，正伸出舌頭與小爪仔細撥動著機械鐘內精密的晶體齒輪，讓沉寂已久的音律在光影斑駁間再次迴盪。",
+    "prompt": "Chromolithograph style artwork featuring an ornate Victorian-era poster composition with vibrant saturated colors and rich multi-layered decorative elements, combined with a dramatic black and white monochrome high contrast background. Inside a sprawling, crystal hall captured through an ultra-wide angle 12-18mm lens with dramatic perspective distortion, a black cat stands on a transparent crystalline platform, focused on meticulously repairing a massive gear clockwork with its small paw and tongue interacting with delicate prismatic crystal gears. Intimate candlelight with a warm orange flickering glow creates dancing shadows, light refractions, and crystalline clarity across the transparent glass materials. Prominently and visually displayed within the scene is the date and time text '2026-07-23 05:13 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Chromolithography",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Candlelight",
+      "texture": "Glass / Crystal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 5054745299,
+    "inspiration": "original",
+    "title": "燭影下的水晶鐘手",
+    "news_inspiration": [
+      "奧地利維也納的大學研究發現，一頭名為 Veronika 的乳牛展現出罕見的工具使用能力，成為首例被證實能多用途使用工具的牛隻。",
+      "泰國素叻他尼推出結合竹筏漂流與夜間生態探索的微冒險水上旅遊，成為近期吸引各國年輕遊客熱門的綠色輕旅行勝地。",
+      "蘇格蘭正式通過新法案，規定所有新建住宅皆必須安裝供雨燕築巢的「雨燕磚」，為都市野生保育邁出重要一步。"
+    ]
   }
 ]
