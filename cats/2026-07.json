@@ -9219,5 +9219,41 @@
     "title": "高塔巨偶的花海綺夢",
     "idea": "在藍青色調的水下焦散光影中，一隻毛髮沾著金箔潑點肌理的白貓，以夢幻數位油畫風格俯瞰俯臥在浮動的胡桃鉗木偶花海間，伸出前爪專注地撥弄著巨大胡桃鉗的神奇關節結構。",
     "inspiration": "美國明尼蘇達州拉韋恩（Luverne）揭幕了一座高達20公尺的巨型「胡桃鉗」雕像，創下全球最高胡桃鉗的紀錄。"
+  },
+  {
+    "comment_id": 5053440089,
+    "title": "藍圖裡的對話花園",
+    "story": "在哥本哈根真人圖書館的開放式花園棚架下，花貓正與花匠一起設計專屬的交流對話空間。柔和的自然漫射光透光灑落，將圖紙上的藍圖刻線與遠方如棉花糖般的雲朵融為一體。",
+    "news_inspiration": [
+      "在奧地利維也納，科學家發現一頭名為 Veronika 的乳牛竟然懂得主動使用工具，這是首次在靈長類以外的家畜身上觀察到如此複雜的工具使用行為。",
+      "在丹麥哥本哈根，「真人圖書館」推出特別的閱讀花園體驗，讓民眾可以向圖書館借閱一位真人進行對話，促進不同背景文化間的理解與交流。",
+      "在美國北卡羅來納州，全球最瀕危的紅狼物種迎來復甦曙光，保育計畫團隊宣布今年已順利誕生了四窩健康的紅狼幼崽。",
+      "在澳洲凱恩斯外海的大堡堡礁，公民科學家團隊意外發現一塊面積近半個足球場大（約 3,973 平方公尺）的巨大巨孔珊瑚群落，其壽命已生長數百年。"
+    ],
+    "prompt": "A tabbied cat stretching its four paws while laying on a massive architectural garden blueprint, pushing an eraser with its claws to modify drawn lines, set under an open garden pergola. The scene uses an architectural blueprint style featuring white technical lines on a blue background, precise measurements, annotations, ornamental borders, red seal accents, and a vertical Chinese poster composition with a side calligraphy panel. The upper section features dreamy cotton candy cloud textures with fluffy pastel pink and blue cumulus puffs. Soft diffused natural light creates gentle, even illumination without harsh shadows. Rendered in a desaturated Morandi muted color palette with dusty grey undertones. Visually displaying the date and time text '2026-07-23 01:44 UTC' clearly within the technical annotations. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "一隻斑紋花貓正伸長四隻腳趴在一張巨大如建築藍圖般的花園設計圖紙上，用爪子推動橡皮擦修飾線條；整幅畫面採用建築藍圖風格與莫蘭迪色調，結合直式書法海報構圖與棉花糖雲朵般的質感。",
+    "number": 2605,
+    "inspiration": "在丹麥哥本哈根，「真人圖書館」推出特別的閱讀花園體驗，讓民眾可以向圖書館借閱一位真人進行對話，促進不同背景文化間的理解與交流。",
+    "avoid_list": [
+      "伸爪撥弄或捕捉",
+      "近距離嗅聞物品",
+      "頂視俯瞰鏡面水池",
+      "水下焦散光影",
+      "霓虹螢光配色",
+      "黑光燈與螢光植物",
+      "鋸齒或裂紋紙張拼貼風格",
+      "霧面紙玻璃質感",
+      "古典復古木櫃",
+      "深海潛艇或艙內空間",
+      "時間戳記文字呈現",
+      "限定繁體中文或英文文本"
+    ],
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]

@@ -24331,5 +24331,14 @@
     "title": "高塔巨偶的花海綺夢",
     "timestamp": "2026-07-22 23:53 UTC",
     "inspiration": "美國明尼蘇達州拉韋恩（Luverne）揭幕了一座高達20公尺的巨型「胡桃鉗」雕像，創下全球最高胡桃鉗的紀錄。"
+  },
+  {
+    "title": "藍圖裡的對話花園",
+    "timestamp": "2026-07-23 01:44 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2605,
+    "inspiration": "在丹麥哥本哈根，「真人圖書館」推出特別的閱讀花園體驗，讓民眾可以向圖書館借閱一位真人進行對話，促進不同背景文化間的理解與交流。",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-23_0144_UTC.webp"
   }
 ]
