@@ -9490,5 +9490,40 @@
       "古老建築/洋樓走廊場景",
       "夢幻柔焦與霧面質感"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Patchwork Cubist Figure Sculpture",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "prompt": "Tilt-shift photography of a calico cat designed as a handcrafted patchwork cubist figure sculpture, composed of stitched fabric with angular geometric planes, mismatched textile patches, and a vermilion and gilt palette featuring cinnabar red with metallic gold outlines. The sculpture cat attentively holds in its mouth a long strip of aged papyrus paper written with ancient Greek script, stuffing it into a rusted, weathered ceramic container with oxidized patina, peeling paint layers, and warm orange-brown corrosion. Miniature toy-like effect with a selective focus band and blurred foreground and background. Shot on a tilt-shift lens with crisp commercial clarity in a studio on a pure white seamless cyclorama backdrop with shadowless high-key lighting. Visually displayed clearly on the image is the text '2026-07-23 20:06 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "古老的木乃伊層裡隱藏著千年的史詩，而這隻貓咪正將寫有《伊利亞德》片段的紙草紙視為完美的藏寶遊戲。它輕盈地穿梭於展台間，把古老的文字收進屬於它自己的鐵鏽秘密盒中。",
+    "avoid_list": [
+      "伸手/伸前爪撥弄物件",
+      "2026-07-XX 時間戳記標籤",
+      "水下焦散光影效果",
+      "繁體中文或英文文字限制說明",
+      "高空俯瞰/鳥瞰視角",
+      "藍青/青橙色調搭配",
+      "四腳踩踏或趴臥於特定物件",
+      "建築藍圖/設計圖風格",
+      "極致細節與限定顏色代碼描述",
+      "古老建築/洋樓走廊場景",
+      "夢幻柔焦與霧面質感"
+    ],
+    "idea": "採用拼布立體派人偶雕塑風格，一隻花貓正專注地用嘴巴叼起一長條寫滿古希臘文字的帕普魯斯草紙，並將其塞入一個鐵鏽舊化的陶瓷容器中。",
+    "inspiration": "埃及考古學家在一具擁有 1,600 年歷史的古埃及木乃伊包紮層中，驚喜發現了寫有荷馬史詩《伊利亞德》片段的古老帕普魯斯紙草紙。",
+    "comment_id": 5062874309,
+    "number": 2613,
+    "news_inspiration": [
+      "澳洲考古學家在凱恩斯（Cairns）外海的珊瑚礁中，發現了一片面積近 4,000 平方公尺的巨型柱狀珊瑚（Pavona clavus），相當於半個足球場大小，創下歷史上記錄最大的巨型珊瑚之一。",
+      "紐西蘭宣布在南島周邊成立 5 個全新的海洋保護區，全力守護當地的海豚生態與珍貴的海藻林環境。",
+      "奧地利維也納獸醫大學的研究團隊發現，一隻名為 Veronika 的母牛竟然會使用工具，成為科學界首次記錄到具備多功能工具使用能力的大型反芻動物。",
+      "埃及考古學家在一具擁有 1,600 年歷史的古埃及木乃伊包紮層中，驚喜發現了寫有荷馬史詩《伊利亞德》片段的古老帕普魯斯紙草紙。"
+    ],
+    "title": "羊皮紙與千年的吟誦"
   }
 ]

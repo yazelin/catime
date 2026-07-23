@@ -24409,5 +24409,14 @@
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-23_1806_UTC.webp",
     "number": 2612
+  },
+  {
+    "timestamp": "2026-07-23 20:06 UTC",
+    "title": "羊皮紙與千年的吟誦",
+    "inspiration": "埃及考古學家在一具擁有 1,600 年歷史的古埃及木乃伊包紮層中，驚喜發現了寫有荷馬史詩《伊利亞德》片段的古老帕普魯斯紙草紙。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2613,
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-23_2006_UTC.webp"
   }
 ]
