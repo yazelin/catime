@@ -9290,5 +9290,36 @@
       "泰國素叻他尼推出結合竹筏漂流與夜間生態探索的微冒險水上旅遊，成為近期吸引各國年輕遊客熱門的綠色輕旅行勝地。",
       "蘇格蘭正式通過新法案，規定所有新建住宅皆必須安裝供雨燕築巢的「雨燕磚」，為都市野生保育邁出重要一步。"
     ]
+  },
+  {
+    "story": "夜色下的古老水港熙熙攘攘，靛藍色的江面映照著兩岸燈火。這隻黑白斑紋貓如熟練的港口巡視員般，輕盈地在連綿的舟楫與晾魚架間踱步跳躍。船伕們早已習慣它的存在，時不時投去新鮮的魚蝦，共同織就這幅寧靜而生動的深夜畫卷。",
+    "prompt": "A Chinese panoramic scroll painting in the Song dynasty jie hua style with meticulous line work and muted pigments on aged silk featuring a textured paper surface with visible fiber grain. The image uses a panoramic, oblique aerial ultra-wide-angle perspective, capturing an expansive night scene at an ancient water port. In the foreground, a tabbied four-legged cat steps along a dock's wooden oars, supervising night-sailing boatmen unloading cargo. The scene is illuminated by gentle ring light, casting soft frontal illumination with a circular catchlight visible in the cat's eyes. The color palette features moonlit indigo, deep night-blue, and cool silvery nocturnal tones. Visually displayed in clean elegant text near the corner of the image is the date and time: '2026-07-23 08:08 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Chinese Panoramic Scroll Painting",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Ring Light",
+      "texture": "Paper Texture",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5056027848,
+    "title": "月下江港巡夜圖",
+    "number": 2607,
+    "avoid_list": [
+      "伸爪撥弄或捕捉",
+      "近距離嗅聞物品",
+      "頂視俯瞰鏡面水池",
+      "水下焦散光影",
+      "霓虹螢光配色",
+      "黑光燈與螢光植物",
+      "鋸齒或裂紋紙張拼貼風格",
+      "霧面紙玻璃質感",
+      "古典復古木櫃",
+      "深海潛艇或艙內空間",
+      "時間戳記文字呈現",
+      "限定繁體中文或英文文本"
+    ],
+    "inspiration": "original",
+    "idea": "採用清明上河圖式的長卷超廣角構圖與紙質肌理，在月夜靛藍的冷調氛圍中，一隻四腳斑紋貓正踏著渡口排槳，於環形燈光的柔和籠罩下監督著夜航船伕卸貨。",
+    "news_inspiration": []
   }
 ]
