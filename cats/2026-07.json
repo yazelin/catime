@@ -9321,5 +9321,43 @@
     "inspiration": "original",
     "idea": "採用清明上河圖式的長卷超廣角構圖與紙質肌理，在月夜靛藍的冷調氛圍中，一隻四腳斑紋貓正踏著渡口排槳，於環形燈光的柔和籠罩下監督著夜航船伕卸貨。",
     "news_inspiration": []
+  },
+  {
+    "number": 2608,
+    "style_picks": {
+      "art_style": "Dreamy Product Photography",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Volumetric Light",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "character": "lingling",
+    "title": "星夜珠寶盒的微光冒險",
+    "idea": "這幅夢幻商品攝影作品展現了布偶貓風格的白毛貓鈴鈴，在奢華的金黑色精品櫥窗內興奮跳躍，不小心將裝滿閃耀珠飾水鑽與瑪雅天文圖騰的珠寶盒打破，璀璨的小物件灑落一地。",
+    "avoid_list": [
+      "伸爪撥弄或捕捉",
+      "近距離嗅聞物品",
+      "頂視俯瞰鏡面水池",
+      "水下焦散光影",
+      "霓虹螢光配色",
+      "黑光燈與螢光植物",
+      "鋸齒或裂紋紙張拼貼風格",
+      "霧面紙玻璃質感",
+      "古典復古木櫃",
+      "深海潛艇或艙內空間",
+      "時間戳記文字呈現",
+      "限定繁體中文或英文文本"
+    ],
+    "character_name": "鈴鈴",
+    "comment_id": 5057652697,
+    "story": "對亮晶晶物品毫無抵抗力的鈴鈴，在花店陽台發現了精緻的瑪雅星空主題珠寶盒。她好奇地用爪子拍打，結果小盒子翻倒，散落滿地的閃耀水鑽與寶石，嚇得她雙眼睜得大大的、耳朵粉紅尖端微微豎起，在體積光照射下宛如被星星包圍的小棉花糖。",
+    "prompt": "A dreamy commercial product photograph of a four-legged extremely fluffy pure white longhair Ragdoll-like cat excitedly leaping inside a luxurious gold and black boutique display window. The cat has pure white cloud-like fur, huge round sapphire-blue eyes, pale pink nose and inner ears, an enormous feathery white plume tail, and wears a pink ribbon bow collar with a centered small golden bell beneath the bow knot. She mid-air knocks over an ornate Maya astronomy-themed jewelry box, spilling faceted glittering gems, beaded rhinestone embellishments, and pearls across glossy dark reflections. Dramatic volumetric lighting with god rays and visible dust particles catches the light against a deep black background with metallic gold accents. Text reading '2026-07-23 10:57 UTC' is visible in sleek clean lettering in the corner. Shot with a 35mm lens, f/1.8, shallow depth of field, polished commercial still life, crisp real photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "考古學家在瓜地馬拉古瑪雅遺跡徐爾屯（Xultun）的壁畫中，發現了算出金星與火星運行規律的天文公式，並首次確認了古瑪雅數學家「白胸狐狸」的署名。",
+    "news_inspiration": [
+      "美國明尼蘇達州路韋恩（Luverne）揭幕了一座高達20公尺的巨型胡桃鉗雕像，成功打破世界紀錄成為全球最高的胡桃鉗標誌。",
+      "研究人員在西非幾內亞灣（Gulf of Guinea）海域利用水下探測技術，重新發現了一座原本被認為已死亡、如今卻生機盎然的深海珊瑚礁。",
+      "考古學家在瓜地馬拉古瑪雅遺跡徐爾屯（Xultun）的壁畫中，發現了算出金星與火星運行規律的天文公式，並首次確認了古瑪雅數學家「白胸狐狸」的署名。",
+      "津巴布韋（Zimbabwe）農民推動社區種子庫計畫復育傳統抗旱作物，以在地智慧提升極端氣候下的糧食安全與在地文化傳承。"
+    ]
   }
 ]
