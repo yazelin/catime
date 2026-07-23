@@ -9359,5 +9359,44 @@
       "考古學家在瓜地馬拉古瑪雅遺跡徐爾屯（Xultun）的壁畫中，發現了算出金星與火星運行規律的天文公式，並首次確認了古瑪雅數學家「白胸狐狸」的署名。",
       "津巴布韋（Zimbabwe）農民推動社區種子庫計畫復育傳統抗旱作物，以在地智慧提升極端氣候下的糧食安全與在地文化傳承。"
     ]
+  },
+  {
+    "story": "麻糬巡邏到老街新建的青藍色磚牆下，對著牆上專為雨燕留出的特製巢洞充滿好奇。正當中午刺眼的日光灑落，這顆胖乎乎的花生麻糬探著頭、眼睛放大兩倍，正認真觀察著飛進飛出的雨燕夥伴。",
+    "avoid_list": [
+      "伸爪撥弄或捕捉",
+      "近距離嗅聞物品",
+      "頂視俯瞰鏡面水池",
+      "水下焦散光影",
+      "霓虹螢光配色",
+      "黑光燈與螢光植物",
+      "鋸齒或裂紋紙張拼貼風格",
+      "霧面紙玻璃質感",
+      "古典復古木櫃",
+      "深海潛艇或艙內空間",
+      "時間戳記文字呈現",
+      "限定繁體中文或英文文本"
+    ],
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 2609,
+    "comment_id": 5058336616,
+    "idea": "這是一幅水彩畫作品，採用服裝多視角展示的構圖，描繪橘白貓麻糬在硬光日照下，窩在老街雨燕磚專用磚塊旁試圖「品嚐」飛過的小蟲，呈現冷色調（藍青）的輕透氛圍與絨毛皮草的細緻質感。",
+    "prompt": "A watercolor painting on paper texture using wet-on-wet technique, soft transparent pigments, bleeding edges, presented in a multi-view product showcase and fashion design sheet format with front, back, side, and detail close-up panels. The scene features a four-legged cat named Mochi, a chubby rounded shorthair with a spherical torso and short stubby legs, crouching near a blue-teal brick wall on an old street next to custom swift-nesting brick cavities, attempting to taste small insects flying past. Visual details of Mochi: white #FFFFFF base coat, right half-face (viewer perspective) orange #FF8C00 mask extending from nose bridge to right ear while left face is pure white, heart-shaped orange #FF8C00 saddle on upper back, solid orange #FF8C00 mitten on right front paw, pure white #FFFFFF left front paw, white belly, large round amber #FFBF00 eyes, pink #FFB6C1 nose with a tiny orange center dot, orange-and-white ringed tail, solid orange patches with no tabby stripes. The environment features gritty urban realism under harsh midday sunlight with hard-edge shadows, strong directional sun, high contrast daylight, unforgiving illumination, and a cool blue-teal color grading with icy undertones creating a crisp, serene atmosphere. Soft fuzzy fur texture catching light in close-up panels. On a clean studio backdrop panel, the text '2026-07-23 12:20 UTC' is clearly and visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "蘇格蘭正式通過新法規，規定全國所有新建房屋都必須安裝供雨燕使用的特製「雨燕磚（swift brick）」，成為全球首個為保護此鳥類而專門立法的國家。",
+    "character_name": "麻糬",
+    "title": "青磚雨燕與橘麻糬",
+    "news_inspiration": [
+      "美國明尼蘇達州盧韋恩市揭幕了一座高達數公尺的大型胡桃鉗雕像，正式創下獲得認證的世界最高胡桃鉗雕像紀錄。",
+      "蘇格蘭正式通過新法規，規定全國所有新建房屋都必須安裝供雨燕使用的特製「雨燕磚（swift brick）」，成為全球首個為保護此鳥類而專門立法的國家。",
+      "奧地利科學家在動物行為研究中發現，一隻名為韋羅妮卡（Veronika）的乳牛展現了罕見的工具使用能力，打破了人們對牛類智力的傳統認知。",
+      "荷蘭阿姆斯特丹宣佈啟動新環保政策，成為全球首個在市政公共空間全面禁止刊登肉類食品與化石燃料廣告的首都城市。",
+      "美國威斯康辛州海沃德舉辦了年度伐木工人世界錦標賽，多名女性選手在「Jill and Jill」雙人鋸木等競賽項目中一舉刷新了三項世界紀錄。"
+    ],
+    "character": "mochi"
   }
 ]
