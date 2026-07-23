@@ -9525,5 +9525,40 @@
       "埃及考古學家在一具擁有 1,600 年歷史的古埃及木乃伊包紮層中，驚喜發現了寫有荷馬史詩《伊利亞德》片段的古老帕普魯斯紙草紙。"
     ],
     "title": "羊皮紙與千年的吟誦"
+  },
+  {
+    "comment_id": 5063951432,
+    "avoid_list": [
+      "伸手/伸前爪撥弄物件",
+      "2026-07-XX 時間戳記標籤",
+      "水下焦散光影效果",
+      "繁體中文或英文文字限制說明",
+      "高空俯瞰/鳥瞰視角",
+      "藍青/青橙色調搭配",
+      "四腳踩踏或趴臥於特定物件",
+      "建築藍圖/設計圖風格",
+      "極致細節與限定顏色代碼描述",
+      "古老建築/洋樓走廊場景",
+      "夢幻柔焦與霧面質感"
+    ],
+    "number": 2614,
+    "title": "月下林莽重生的方陣",
+    "story": "當採礦與伐木機器轟鳴聲退去，雨林在月色中重獲寧靜。花貓穿梭在被丟棄的鐵器與新生幼苗之間，用敏銳的嗅覺記錄著這片棲地重新回歸自然的奇蹟moment。",
+    "idea": "這是一幅採用扁平向量插圖風格呈現的 Knolling 排列畫面，一隻花貓正在印尼蘇門答臘的茂密熱帶雨林邊緣專注地嗅聞一塊苔蘚木頭，周圍整齊擺放著採礦設備零件與復甦的植物幼苗，整體呈現朱紅描金的色彩搭配與細緻的鑄鐵雕花鏤空紋理，並沐浴在冷潔柔和的月光下。",
+    "prompt": "A flat vector illustration in a Knolling flat lay overhead view, featuring objects neatly arranged at 90-degree angles in an organized grid layout. A calico cat is intently sniffing a mossy piece of wood at the edge of a lush Sumatran tropical rainforest. Surrounding the scene are neatly arranged mining equipment parts, wrought iron filigree with ornate cast iron lace openwork patterns, and flourishing plant seedlings. The image features a refined vermilion and gilt palette with cinnabar red and metallic gold outlines, illuminated by cool blue moonlight with a gentle silvery glow. The text '2026-07-23 21:55 UTC' is visually displayed clearly in the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在印度尼西亞蘇門答臘（Sumatra, Indonesia），政府為保護瀕危的珍稀紅毛猩猩棲息地，正式撤銷並收回當地數十家企業的採礦與伐木許可。",
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Knolling Photography",
+      "lighting": "Moonlight",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "news_inspiration": [
+      "在美國明尼蘇達州路韋恩（Luverne, Minnesota, USA），鎮上揭幕一座名為「愛國者韋恩」的巨型胡桃鉗雕像，正式奪下世界最大胡桃鉗的頭銜。",
+      "在阿根廷布宜諾斯艾利斯（Buenos Aires, Argentina），一名遛狗員為他帶領的 13 隻狗狗全換上國家隊球衣，組成超萌汪汪加油團走上街頭支持世界盃賽事。",
+      "在美國加州聖地牙哥（San Diego, California, USA），聖地牙哥野生動物園喜迎一對非常罕見的雙胞胎針鼴幼獸（Puggles），吸引眾多動物愛好者的目光。",
+      "在印度尼西亞蘇門答臘（Sumatra, Indonesia），政府為保護瀕危的珍稀紅毛猩猩棲息地，正式撤銷並收回當地數十家企業的採礦與伐木許可。"
+    ]
   }
 ]
