@@ -9460,5 +9460,35 @@
     "character_name": "墨墨",
     "comment_id": 5060893285,
     "number": 2611
+  },
+  {
+    "idea": "以像素藝術風格呈現，一隻三花貓在深夜自助洗衣店裡專注凝視著旋轉烘衣機內飛舞的螢光襪子。畫面採用直式書法海報構圖與閃光燈直打效果，融合古絹絹本質理與霓虹螢光色調。",
+    "news_inspiration": [],
+    "number": 2612,
+    "comment_id": 5061765426,
+    "prompt": "A pixel art style vertical poster composition depicting a calico cat sitting in a late-night laundromat, staring intently at glowing fluorescent socks spinning inside a tumble dryer. East Asian movie poster framing featuring a side calligraphy panel with Traditional Chinese characters, ornamental border elements, and red seal accents. Crisp blocky pixel art texture combined with retro 8-bit style, multi-layered depth, and a harsh direct on-camera flash effect with blown-out highlights and hard shadows. Vibrant neon fluorescent colors including electric pink, lime green, and hot cyan glowing against a dark background, all set upon an aged silk scroll surface with warm sepia patina, visible silk weave, weathered paper stains, and delicate crease lines. The text '2026-07-23 18:06 UTC' is visually displayed on the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Direct Flash",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "深夜的自助洗衣店內發出陣陣微熱與嗡嗡聲響。貓咪蹲坐在滾筒前，雙眼緊盯著被光束照亮的衣物不停旋轉，沉浸在屬於它的寂靜劇場中。",
+    "title": "深夜洗衣店的螢光輪迴",
+    "avoid_list": [
+      "伸手/伸前爪撥弄物件",
+      "2026-07-XX 時間戳記標籤",
+      "水下焦散光影效果",
+      "繁體中文或英文文字限制說明",
+      "高空俯瞰/鳥瞰視角",
+      "藍青/青橙色調搭配",
+      "四腳踩踏或趴臥於特定物件",
+      "建築藍圖/設計圖風格",
+      "極致細節與限定顏色代碼描述",
+      "古老建築/洋樓走廊場景",
+      "夢幻柔焦與霧面質感"
+    ]
   }
 ]
