@@ -9428,5 +9428,37 @@
       "texture": "Concrete",
       "color_palette": "Crimson and Black"
     }
+  },
+  {
+    "idea": "在後末日療癒動畫風格的廢棄音樂廳中，黑色貓咪墨墨靜靜端坐在光溜的大理石鏡面上，反射出另一個泛著微光的生物發光幻影，映照著溫和沉靜的莫蘭迪色調空間。",
+    "character": "momo",
+    "prompt": "A post-apocalyptic cozy animation scene in a ruined abandoned concert hall reclaimed by nature, lush green moss and vine foliage covering weathered pillars. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen black fur, large luminous golden-amber eyes, long prominent white whiskers, a single small gold hoop earring on its LEFT ear, and a tiny natural white locket tuft on its chest sits gracefully on a slick, mirror-like marble floor covered in shallow water. In the floor reflection, a glowing, bioluminescent organic ghostly duplicate phantom of the cat is reflected back in a surreal twin framing composition. Bioluminescent lighting emits a deep blue-green radiance from living moss, combined with soft atmospheric light. The scene uses a Morandi muted color palette with desaturated soft pastels, dusty grey undertones, and serene melancholic mood. Soft anime background painting art style with rich textures. Visually displayed clearly in the corner of the image is the date and time text '2026-07-23 16:26 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "story": "寂靜的舊音樂廳已被微光苔蘚與蔓藤所覆蓋，墨墨優雅地佇立在如鏡面般積水的地面上。牠微微傾頭，凝視著水倒影中與自己動作完全一致的螢光虛影，彷彿在與另一個時空的自己無聲對話。金色耳環與胸前宛如領結的白毛在生物發光下閃爍著沉穩的光芒，為這座廢墟帶來一股溫柔而寧靜的生命力。",
+    "avoid_list": [
+      "伸手/伸前爪撥弄物件",
+      "2026-07-XX 時間戳記標籤",
+      "水下焦散光影效果",
+      "繁體中文或英文文字限制說明",
+      "高空俯瞰/鳥瞰視角",
+      "藍青/青橙色調搭配",
+      "四腳踩踏或趴臥於特定物件",
+      "建築藍圖/設計圖風格",
+      "極致細節與限定顏色代碼描述",
+      "古老建築/洋樓走廊場景",
+      "夢幻柔焦與霧面質感"
+    ],
+    "style_picks": {
+      "art_style": "Post-Apocalyptic Cozy Animation Scene",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "鏡界微光",
+    "news_inspiration": [],
+    "character_name": "墨墨",
+    "comment_id": 5060893285,
+    "number": 2611
   }
 ]
