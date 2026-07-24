@@ -24458,5 +24458,14 @@
     "title": "夏日防波堤的釣魚船長",
     "is_seasonal": true,
     "status": "success"
+  },
+  {
+    "title": "霓虹流金之夜",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "number": 2618,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-24_0458_UTC.webp",
+    "timestamp": "2026-07-24 04:58 UTC"
   }
 ]
