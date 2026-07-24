@@ -24445,5 +24445,18 @@
     "timestamp": "2026-07-23 23:49 UTC",
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-07-24 01:29 UTC",
+    "number": 2617,
+    "character": "captain",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-24_0129_UTC.webp",
+    "season": "summer",
+    "inspiration": "original",
+    "title": "夏日防波堤的釣魚船長",
+    "is_seasonal": true,
+    "status": "success"
   }
 ]
