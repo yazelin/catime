@@ -9833,5 +9833,36 @@
     },
     "number": 2622,
     "prompt": "A fashion editorial photograph shot from a perfectly isometric angle showing a tabby cat's paw turning fragile papyrus scroll fragments covered in Ancient Greek script. The scene features a low-poly geometric environment with polygon mesh facets and flat-shaded triangular faces on a digital origami landscape. Illuminated by soft diffused natural light paired with vibrant neon fluorescent electric pink, lime green, and hot cyan accents glowing against a dark background. Visible on a subtle sleek sign in the corner, the date and time '2026-07-24 14:42 UTC' is cleanly displayed in crisp English typography. High-end styling, magazine-quality lighting, 50mm lens, f/2.8, subtle film grain, real captured photography feel with no miniature effect. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "百葉窗條紋光",
+      "鑄鐵雕花欄杆",
+      "朱紅與金色調",
+      "蛇鱗肌理質感",
+      "生物發光螢光效果",
+      "德羅斯特效應鏡像",
+      "長卷全景構圖",
+      "莫蘭迪淡雅色調",
+      "混凝土現代建築背景",
+      "冷藍月光與夜光植物",
+      "歲月痕跡皮革質感",
+      "強制繁體中文與日期時間標記"
+    ],
+    "prompt": "A real photograph taken from a perfectly isometric angle showing a focused cat in a remote polar weather station. The anthropomorphic cat, dressed in a tailored wool suit with couture styling, is carefully turning the knob of an vintage analog radio transmitter with its paw. Sunlight is absent, and cold blue and gentle silvery glow moonlight streams in from the side, casting a long silhouette across the room. Outside the window, delicate frost patterns, ice crystal formations, and translucent ice shards cover the glass. Displayed visually in clear typography on a digital display unit within the frame is '2026-07-24 18:09 UTC'. Wes Anderson aesthetic, whimsical surreal mood, shot on a 35mm lens, f/2.8, duotone color treatment featuring cool blue tones and stark silver, subtle film grain, realistic studio lighting, quiet nighttime atmosphere, crisp details, zero miniature effect. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Anthropomorphic Animal Portrait",
+      "composition": "Isometric Photography",
+      "lighting": "Moonlight",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    },
+    "idea": "採用擬人動物肖像風格與等距攝影構圖，呈現一隻貓咪在極地氣象站內專注撥動無線電發射器旋鈕的畫面，整體融合冰霜結晶質感與雙色調月光照耀。",
+    "title": "冰霜極夜的電波傳訊",
+    "number": 2623,
+    "comment_id": 5073040450,
+    "news_inspiration": [],
+    "story": "寂靜的極夜裡，寒風吹拂著氣象站外牆，玻璃窗上結滿了細緻的冰霜結晶。這隻毛髮濃密的貓咪正用前爪輕輕拍打並旋轉古老的無線電發射器旋鈕，試圖將收集到的微弱訊號傳遞出去。冷冽的藍銀雙色月光斜斜照進室內，將牠沉穩而專注的身影拉得很長。",
+    "inspiration": "original"
   }
 ]
