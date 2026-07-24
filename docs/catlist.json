@@ -24514,5 +24514,16 @@
     "timestamp": "2026-07-24 18:09 UTC",
     "status": "success",
     "inspiration": "original"
+  },
+  {
+    "inspiration": "original",
+    "status": "success",
+    "number": 2624,
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-24_2008_UTC.webp",
+    "title": "市場裡的香腸大盜",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-07-24 20:08 UTC",
+    "character_name": "麻糬"
   }
 ]
