@@ -9897,5 +9897,41 @@
       "強制繁體中文與日期時間標記"
     ],
     "idea": "在以普普藝術與大理石質感打造的等距3D傳統市場攤位中，圓滾滾的橘白貓「麻糬」正伸長前爪，貪吃地伸手偷抓掛在攤位前的香腸。"
+  },
+  {
+    "inspiration": "在中國北京的天問一號火星探測器成功拍下近距離掠過火星的星際彗星 3I/ATLAS，為天文學家帶來太陽系外的珍貴影像。",
+    "story": "天問一號探測器傳回彗星 3I/ATLAS 的近距離影像時，航天中心的貓咪特派員正聚精會神地趴在控制台上。它用蒲公英般軟軟的肉墊輕輕點擊軌道修正鍵，彷彿這顆來自太陽系外的神祕訪客是由它一手引航。深邃的微光映照在它炯炯有神的雙眼裡，捕捉下了宇宙深處最動人的瞬間。",
+    "idea": "在以交叉沖洗風格呈現的深夜太空控制室中，一隻橘貓正伸出前爪專注按壓光學儀器的按鈕，背景融入了絞染質感的星雲圖譜與生物發光的螢光數據螢幕。",
+    "avoid_list": [
+      "等距攝影構圖",
+      "百葉窗條紋光",
+      "多格角色拼貼",
+      "粉紅與淡藍配色",
+      "蝴蝶與花朵互動",
+      "大理石檯面質感",
+      "復古霓虹燈光",
+      "奢華金黑配色",
+      "斑駁光影質感",
+      "冷藍與銀白雙色調",
+      "極致伸展跳躍姿態",
+      "底片顆粒質感"
+    ],
+    "news_inspiration": [
+      "在中國北京的天問一號火星探測器成功拍下近距離掠過火星的星際彗星 3I/ATLAS，為天文學家帶來太陽系外的珍貴影像。",
+      "香港特別行政區舉辦的青年足球夏令營邀請前曼聯球星薩哈（Louis Saha）擔任特邀嘉賓，親自帶領 300 多名青少年進行大師班培訓與文化交流。",
+      "美國佛羅里達州啟動生態廊道計畫，將公路兩旁閒置的路肩轉化為原生乳草花園，為蝴蝶與授粉昆蟲打造專屬棲息地。",
+      "瑞典烏普薩拉的科學家最新發表研究，正在編目本國稀土礦產以研發綠色永續磁鐵技術，期許提升歐洲綠能自主性。"
+    ],
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Bioluminescence",
+      "texture": "Shibori Textile",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 5074799780,
+    "title": "星海深處的微光掌舵者",
+    "number": 2625,
+    "prompt": "A candid photography shot of an orange tabby cat in a late-night space control room, reaching its front paw to press a glowing button on an optical instrument console. On a monitor in the panel, the date and time '2026-07-24 21:53 UTC' is visually displayed in small orange text. The shot features cross processing film effects with experimental color shifts, unpredictable color casts, high contrast, and retro vintage feel. In the background, bioluminescent screens display organic deep blue-green radiance mixed with Shibori-style indigo blue resist-dyed patterns resembling celestial nebulae. Captured on a 35mm lens, f/1.8 aperture, shallow depth of field, authentic film grain, soft lens flare, low-angle perspective. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
