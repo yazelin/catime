@@ -9765,5 +9765,38 @@
     "number": 2620,
     "comment_id": 5068640335,
     "prompt": "A multi-panel character montage of a black cat in several poses across a comic-style grid, shot on Kodak Portra 400. The black cat, wearing a refined metallic bell, excitedly pushes a giant pink longevity peach bun taller than itself across fine sand texture with wind-sculpted patterns. Warm film tones, subtle grain, soft focus, dreamy nostalgic atmosphere, cohesive collage layout. Visual lighting features dappled light and soft mottled shadow patterns. Luxurious gold and black color scheme with metallic gold accents against deep obsidian tones. Candid shot, 35mm lens, f/1.8, natural light, shallow depth of field. The date and time '2026-07-24 10:05 UTC' is visually displayed in small text on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "idea": "採用雜誌封面排版風格，呈現在溫室大理石平台上以 Knolling 平鋪排列攝影展現的畫面：蓬鬆如雲朵的白貓鈴鈴正用毛茸茸的粉紅肉掌伸向一隻斑斕蝴蝶，周圍精緻地整齊排列著花苞與亮晶晶的裝飾品，背光輪廓線在青橙電影調下熠熠生輝。",
+    "character": "lingling",
+    "number": 2621,
+    "prompt": "A photography magazine cover mockup featuring an overhead Knolling flat lay on a polished white marble surface in a sunlit glass greenhouse. In a neatly arranged 90-degree grid layout, crisp flower buds and sparkling crystal decorations are organized alongside Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur, a small round face, huge round sapphire-blue eyes, pale pink nose and inner ears, and an enormous feathery white plume tail. Lingling wears a pink ribbon bow collar with a centered golden bell clearly visible beneath the bow knot. Lingling is playfully reaching one fluffy paw with pink paw pads toward a vibrant colorful butterfly hovering nearby. Warm sunlight streams in, creating rim light backlight that illuminates Lingling's fluffy silhouette edges. Teal and orange cinematic color grading with cool shadows and warm light highlights. Graphic layout includes bold vertical typography overlay, issue details, a barcode, and prominently visible text reading '2026-07-24 12:11 UTC' in crisp typography. Shot on 35mm lens, f/2.8, shallow depth of field, natural lighting, candid photo aesthetic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "百葉窗條紋光",
+      "鑄鐵雕花欄杆",
+      "朱紅與金色調",
+      "蛇鱗肌理質感",
+      "生物發光螢光效果",
+      "德羅斯特效應鏡像",
+      "長卷全景構圖",
+      "莫蘭迪淡雅色調",
+      "混凝土現代建築背景",
+      "冷藍月光與夜光植物",
+      "歲月痕跡皮革質感",
+      "強制繁體中文與日期時間標記"
+    ],
+    "character_name": "鈴鈴",
+    "news_inspiration": [],
+    "story": "陽光透射進玻璃溫室，在大理石檯面上映照出清澈的光影。鈴鈴興奮地追著飛舞的蝴蝶，脖子上的粉紅鈴鐺發出清脆叮鈴聲，讓她忍不住往前猛地一撲。雖然差點撞上排列整齊的花卉樣品，她隨即開心地趴倒翻肚，向一旁的花店老闆撒嬌求摸頭。",
+    "inspiration": "original",
+    "title": "玻璃溫室裡的雀躍旋律",
+    "comment_id": 5069747364,
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Knolling Photography",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Marble",
+      "color_palette": "Teal and Orange"
+    }
   }
 ]
