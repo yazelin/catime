@@ -9698,5 +9698,36 @@
     "number": 2618,
     "story": "夜幕低垂，復古遊樂園的霓虹燈光將整座長卷長廊染上金黑相間的光彩。貓咪踏著輕盈的身姿，在柔焦霧面的璀璨金球上靈活滾動，引得路過的雜技演員與圍觀群眾紛紛駐足驚嘆。",
     "comment_id": 5066380124
+  },
+  {
+    "style_picks": {
+      "art_style": "Dance Movement Photography",
+      "composition": "Centered Subject Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "3D Render",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "正午強烈的陽光將粉紅與淡藍色的幾何建築切割出銳利的陰影，一隻橘貓為了捕捉掠過的蝴蝶，在半空中展現出如芭蕾舞者般的優雅肢體張力。乾淨俐落的3D幾何線條與貓咪極致伸展的身姿完美居中對齊，捕捉了力與美交織的瞬間。",
+    "idea": "採用舞蹈肢體攝影風格，呈現一隻四腳貓咪在硬光日照下於粉彩色系的中世紀包浩斯建築頂樓凍結於空中跳躍瞬間的3D渲染畫面。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "avoid_list": [
+      "直式書法海報構圖",
+      "朱紅描金色彩搭配",
+      "莫蘭迪色調與灰調底色",
+      "黑白單色對比背景",
+      "高調明亮極簡光影",
+      "生物發光與倒影雙生",
+      "超廣角極致透視",
+      "古絹紙質肌理與卷軸",
+      "冷藍月光與銀白夜色",
+      "四腳貓咪專注修復或互動",
+      "微型移軸與拼布立體派風格",
+      "極致繁複圖騰與金屬細節"
+    ],
+    "prompt": "A polished 3D render in Cinema 4D aesthetic depicting an orange cat frozen mid-air in a graceful, ballet-like leap trying to catch a butterfly. The scene takes place on the rooftop of medieval Bauhaus architectural buildings with smooth materials and clean geometry. Centered subject composition with single focal point dead center and balanced symmetrical framing. Harsh midday sunlight creates strong directional lighting with high contrast hard-edge shadows paired with soft global illumination. Soft pastel color palette composed of gentle pink, baby blue, lavender, and mint. Dance movement photography style capturing kinetic energy and dynamic lines. The timestamp '2026-07-24 07:29 UTC' is visually and clearly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2619,
+    "title": "幾何天空下的躍動",
+    "comment_id": 5067332604
   }
 ]
