@@ -9798,5 +9798,40 @@
       "texture": "Marble",
       "color_palette": "Teal and Orange"
     }
+  },
+  {
+    "idea": "這是一組採用時尚編輯攝影風格的影像，一隻斑紋貓爪子正忙著翻動寫滿古希臘文字的紙莎草紙，場景呈現等距攝影的低多邊形結構，並籠罩在自然漫射光與閃耀的霓虹螢光色彩中。",
+    "inspiration": "埃及：考古學家在一具擁有 1,600 年歷史的古埃及木乃伊包紮層中，驚喜發現了古希臘史詩《伊利亞德》的珍貴紙莎草紙殘片。",
+    "title": "莎草紙上的神話印記",
+    "avoid_list": [
+      "百葉窗條紋光",
+      "鑄鐵雕花欄杆",
+      "朱紅與金色調",
+      "蛇鱗肌理質感",
+      "生物發光螢光效果",
+      "德羅斯特效應鏡像",
+      "長卷全景構圖",
+      "莫蘭迪淡雅色調",
+      "混凝土現代建築背景",
+      "冷藍月光與夜光植物",
+      "歲月痕跡皮革質感",
+      "強制繁體中文與日期時間標記"
+    ],
+    "comment_id": 5071123764,
+    "story": "在發光的低多邊形展廳深處，一隻好奇的貓咪低頭嗅聞著剛出土的古老文獻。牠偶爾用爪子輕輕撥動那幾頁記錄著古希臘史詩《伊利亞德》的紙莎草紙殘片，彷彿自己也是這場跨越千年的考古傳奇參與者。",
+    "news_inspiration": [
+      "英國格拉斯哥：印度輪椅籃球國手伊倫巴姆·里圖·查努（Irengbam Ritu Chanu）在大聯邦運動會期間於機場克服恐懼順利登上自動步道，其溫馨互動影片在網路上引發熱烈迴響。",
+      "埃及：考古學家在一具擁有 1,600 年歷史的古埃及木乃伊包紮層中，驚喜發現了古希臘史詩《伊利亞德》的珍貴紙莎草紙殘片。",
+      "美國劍橋：物理學與數學研究團隊使用充滿趣味的「滑稽噴水器」進行實驗，成功解開了困擾科學界數十年的「費曼噴水器」謎題。"
+    ],
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Isometric Photography",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Low Poly",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 2622,
+    "prompt": "A fashion editorial photograph shot from a perfectly isometric angle showing a tabby cat's paw turning fragile papyrus scroll fragments covered in Ancient Greek script. The scene features a low-poly geometric environment with polygon mesh facets and flat-shaded triangular faces on a digital origami landscape. Illuminated by soft diffused natural light paired with vibrant neon fluorescent electric pink, lime green, and hot cyan accents glowing against a dark background. Visible on a subtle sleek sign in the corner, the date and time '2026-07-24 14:42 UTC' is cleanly displayed in crisp English typography. High-end styling, magazine-quality lighting, 50mm lens, f/2.8, subtle film grain, real captured photography feel with no miniature effect. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
