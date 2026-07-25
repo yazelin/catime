@@ -10210,5 +10210,36 @@
     "title": "霓虹地下城巡視者",
     "comment_id": 5078427007,
     "idea": "採用撕紙拼貼效果與分割畫面，呈現一隻黑金斑紋貓咪穿梭於高雄車站地下街動漫展櫃間，試圖捕抓玻璃後方的機械公仔模型。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Leading Lines Composition",
+      "lighting": "Direct Flash",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5078851263,
+    "story": "深夜的裁縫老鋪裡，月夜靛藍的布匹上撒滿了閃爍的金箔潑點肌理。這隻斑紋貓正專心致志地用牙齒拉扯著穿過針孔的粗線，硬是在佈滿長針與線軸的狹窄檯面上開闢出自己的遊樂場。",
+    "inspiration": "original",
+    "number": 2634,
+    "idea": "這是一組採用微距攝影與閃光燈直打的視覺作品，畫面運用兩側並排的縫紉針線延伸出引導線構圖，聚焦於一隻貓咪正在用嘴啃咬並拉扯一根粗棉線。",
+    "news_inspiration": [],
+    "title": "靛藍夜裡的布縫遊戲",
+    "prompt": "A macro photograph capturing an extreme close-up, raw candid snapshot of a tabby cat using its teeth to bite and tug on a thick cotton thread running through a needle eye. The composition features leading lines created by parallel rows of long sewing needles and thread spools on both sides, creating a converging perspective that guides the eye straight to the cat on the narrow tailor table. In the background, fabric in a moonlit indigo palette with deep night-blue and violet tones is textured with scattered metallic gold leaf shards, gold foil flecks, and glinting gilded specks. Lit by harsh direct on-camera flash, producing blown-out highlights, hard shadows, sharp detail, fine textures, and a shallow depth of field. Embedded in the corner of the photograph, the date and time '2026-07-25 14:25 UTC' is visually displayed in clear text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用前爪觸碰或撥動物件",
+      "生物發光微光與星雲圖譜",
+      "等距攝影構圖與低多邊形",
+      "時間戳記與繁體中文限制說明",
+      "沙丘或火星地形微縮模型",
+      "金屬齒輪與指針工坊",
+      "柯達底片與膠卷質感",
+      "巴洛克強烈明暗對比光影",
+      "哥本哈根真人圖書館與金屬書",
+      "普普藝術與大理石質感攤位",
+      "青橙電影調與背光輪廓線",
+      "金屬鈴鐺與粉紅肉掌"
+    ]
   }
 ]
