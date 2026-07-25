@@ -10488,5 +10488,41 @@
     "inspiration": "在美國西雅圖的華埠國際區，一場港式點心晚宴成功創下健尼斯世界紀錄，吸引了數百人共聚一堂並手工製作了3,600個點心。",
     "story": "在剛創下世界紀錄的港式點心晚宴現場，廚房一角堆滿了現做的燒賣與點心。一隻店貓趁著大廚不注意，好奇地悄悄伸出貓爪，興致勃勃地研究起剛剛包好的第3601個蒸餃。",
     "comment_id": 5080891632
+  },
+  {
+    "title": "雪原借閱室的溫暖話語",
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Snowstorm Haze",
+      "texture": "Low Poly",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "news_inspiration": [
+      "美國史丹佛大學的研究團隊發現了一種可抑制食慾且副作用更少的新型天然分子，為體重管理帶來新突破。",
+      "丹麥哥本哈根推出了創新的「真人圖書館」服務，讓民眾可以借閱不同背景的人來聊天交流而非借閱書本。",
+      "葡萄牙波多正式實行公共交通免費政策，大幅提升市民與旅客綠色出行的便利度。",
+      "辛巴威的社區種子庫成功復育多種抗旱傳統作物，有效幫助當地農民應對極端氣候變化。"
+    ],
+    "number": 2642,
+    "avoid_list": [
+      "倫勃朗光",
+      "朱紅與留白配色",
+      "黑金奢華配色",
+      "月夜靛藍色調",
+      "貓爪伸出勾抓物件",
+      "貓低姿伏臥凝視",
+      "微縮移軸效果",
+      "透明樹脂封存肌理",
+      "35mm 底片風格",
+      "角落繪製 Traditional Chinese 或 English 時間戳記",
+      "引導線透視構圖",
+      "隨拍/自拍鏡頭構圖"
+    ],
+    "prompt": "A four-panel comic strip layout in a low-poly style with polygon mesh facets and flat shaded triangular faces, creating a digital origami aesthetic. The cohesive collage layout features a multi-panel character montage of a chubby orange cat in several poses—curled at readers' feet for warmth and licking falling snowflakes. The scene is set inside a polar library where people gather around to talk with human companions instead of reading books. Snowstorm atmospheric lighting with heavy falling snow veil, muted diffused daylight, fogged distance, and visibility obscured by flurries. Color palette dominated by bamboo jade-green, fresh emerald, malachite tones, and cold blue-white hues. In the corner of the comic layout, the text '2026-07-25 23:49 UTC' is clearly rendered. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在寒冷的極地圖書館中，民眾不借圖書，而是借閱不同背景的夥伴圍坐交談。一隻胖嘟嘟的橘貓在低多邊形積雪間穿梭，時而趴在讀者腳邊取暖，時而輕舔雪花，為冰天雪地裡的真摯對話添上一抹療癒的綠意。",
+    "idea": "這是一組採用低多邊形（Low Poly）質感與竹影翠綠色調的四格漫畫，透過暴風雪朦朧的光影與多格角色拼貼構圖，講述一隻橘貓在冰雪圖書館裡陪伴民眾借閱「真人夥伴」聊天的溫馨過程。",
+    "comment_id": 5081102572,
+    "inspiration": "丹麥哥本哈根推出了創新的「真人圖書館」服務，讓民眾可以借閱不同背景的人來聊天交流而非借閱書本。"
   }
 ]
