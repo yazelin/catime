@@ -10036,5 +10036,43 @@
       "texture": "Metallic Surface",
       "color_palette": "Bamboo Jade Green"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Leather",
+      "color_palette": "Festive Red and Gold"
+    },
+    "story": "剛從港口巡邏完的船長踱步至防波堤最高處，烈日灑在牠褪色的紅色頭巾與粗糙的皮毛上。牠銳利的翠綠獨眼緊盯著眼前擺放的種子，雖然海風帶來了新鮮魚肉的誘惑，牠依然展現老大沉穩的霸氣，默默以龐大的身軀為這批遠道而來、能對抗旱災的珍貴種子擋住海浪飛濺的水花。",
+    "prompt": "Baroque illustration and design moodboard aesthetic. A large, stocky brown classic tabby cat named Captain, featuring bold black stripes, scruffy untidy coarse fur, a white chest bib, and white mitten paws on all four feet. The cat's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch covering the eye socket—explicitly a fur marking, not a fabric eye patch, with no straps. Its right eye is a single piercing emerald green. Its left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. The cat sits atop a grand Baroque-style seaside breakwater, pressing a front white-gloved paw down on a heap of dried drought-resistant traditional crop seed packets to protect them from ocean spray. The background glows with harsh midday sunlight, dramatic chiaroscuro, high-contrast hard-edge shadows, deep shadows, and intense golden highlights reminiscent of a Chinese red and gold palette. Text rendering: the date and time '2026-07-25 04:54 UTC' is visually displayed in clear English text in the composition. Rich genuine leather texture with visible grain pattern and suppleness. The artwork is framed by vertical color palette swatch bars on both sides in a portfolio presentation layout with a Korean illustrator signature style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國（United States）北卡羅來納州近期成功誕生並撫育四窩極度瀕危的紅狼幼崽，為該物種的野外復育帶來重大曙光。",
+      "英國（United Kingdom）近期公布「年度樹木」決選名單，多棵曾奇蹟般挺過墜機事件與歷史戰爭的古老樹木紛紛入選。",
+      "辛巴威（Zimbabwe）透過推廣社區種子庫計畫，成功協助當地農家復育抗旱的傳統作物，有效提升應對氣候變遷的糧食安全。",
+      "考古學家在瓜地馬拉（Guatemala）的蘇爾頓古城遺跡中，發現西元 781 年古瑪雅數學家「白胸狐」所留下的金星與火星軌道計算公式。"
+    ],
+    "number": 2629,
+    "idea": "在巴洛克風格的宏偉海邊防波堤上，粗壯的虎斑貓「船長」正伸出戴著白手套的前爪，專注地按壓著一堆剛曬好的抗旱傳統作物種子包，背景以硬光日照呈現出如中國紅金般的耀眼光輝與強烈皮革質感。",
+    "character_name": "船長",
+    "title": "防波堤上的赤金守望",
+    "character": "captain",
+    "comment_id": 5077031618,
+    "avoid_list": [
+      "等距攝影構圖",
+      "百葉窗條紋光",
+      "多格角色拼貼",
+      "粉紅與淡藍配色",
+      "蝴蝶與花朵互動",
+      "大理石檯面質感",
+      "復古霓虹燈光",
+      "奢華金黑配色",
+      "斑駁光影質感",
+      "冷藍與銀白雙色調",
+      "極致伸展跳躍姿態",
+      "底片顆粒質感"
+    ],
+    "inspiration": "辛巴威（Zimbabwe）透過推廣社區種子庫計畫，成功協助當地農家復育抗旱的傳統作物，有效提升應對氣候變遷的糧食安全。"
   }
 ]
