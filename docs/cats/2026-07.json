@@ -10000,5 +10000,41 @@
     "inspiration": "中國天問一號火星探測器在火星軌道上成功拍攝到星際彗星 3I/ATLAS 飛掠火星的珍貴影像，為天文學家探索太陽系外天體提供了寶貴資料。",
     "comment_id": 5075673316,
     "title": "火星軌道上的秋日探索者"
+  },
+  {
+    "avoid_list": [
+      "等距攝影構圖",
+      "百葉窗條紋光",
+      "多格角色拼貼",
+      "粉紅與淡藍配色",
+      "蝴蝶與花朵互動",
+      "大理石檯面質感",
+      "復古霓虹燈光",
+      "奢華金黑配色",
+      "斑駁光影質感",
+      "冷藍與銀白雙色調",
+      "極致伸展跳躍姿態",
+      "底片顆粒質感"
+    ],
+    "idea": "這是一副採童話水彩繪本風格創作的畫作，一隻貓咪以竹影翠綠為主調的貼紙拼貼邊框環繞中，在深夜的哥本哈根真人圖書館花園裡，專心用前爪撫摸著一本發出生物發光微光的金屬質感金屬頁大書。",
+    "inspiration": "在丹麥哥本哈根，獨特的「真人圖書館」花園提供特別的「借閱真人」服務，讓民眾能與不同背景的人面對面對話交流以增進理解。",
+    "prompt": "A watercolor storybook illustration with a gentle, childlike style and soft transparent washes, featuring a cat sitting in the midnight garden of the Copenhagen Human Library. The cat is intently touching a large book with brushed metal pages emitting a soft bioluminescent deep blue-green radiance with its front paw. The composition uses a die-cut sticker collage style with a white outline border around the central cat, decorated with whimsical floating props. The color palette centers on bamboo jade-green, fresh emerald, and malachite tones creating cool verdant serenity with subtle ethereal natural lighting. Visually displayed in clean typography in a corner of the image is the text '2026-07-25 01:28 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5076082716,
+    "title": "竹影深夜的借閱時光",
+    "number": 2628,
+    "story": "深夜的真人圖書館花園萬籟俱寂，各種背景的「活圖書館」人們正围坐低語。一隻花貓輕盈地踱步於竹林光影間，趴在一本沉甸甸的金屬繪本前，好奇地用爪子按壓著頁面上微微發光的生物光斑，彷彿也在細細閱讀著人與人之間的理解故事。",
+    "news_inspiration": [
+      "在美國舊金山，一隻小狗在舊金山灣奮力游泳數英里後被救援人員與無人機小組成功救起，最終與家人溫馨重聚。",
+      "在巴西發生的一起輕微車禍中，受害車主沒有選擇憤怒爭吵，反而給予對方一個溫暖的擁抱以包容方式化解衝突。",
+      "在肯亞蒙巴薩舉行的國際「我們的海洋」會議順利閉幕，全球政府與企業共同籌集了 64 億美元資金用於加速保護海洋生態。",
+      "在丹麥哥本哈根，獨特的「真人圖書館」花園提供特別的「借閱真人」服務，讓民眾能與不同背景的人面對面對話交流以增進理解。"
+    ],
+    "style_picks": {
+      "art_style": "Watercolor Storybook Illustration",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Bioluminescence",
+      "texture": "Metallic Surface",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
