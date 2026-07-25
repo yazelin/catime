@@ -10452,5 +10452,41 @@
     ],
     "number": 2640,
     "title": "夜市巷弄的噴水狂想曲"
+  },
+  {
+    "idea": "這是一幅採用極低角度與粉彩光點繪畫風格的創作，一隻橘貓正以趴臥姿態伸展前爪撥弄著一顆剛包好的蝦餃，百葉窗條紋光透過窗櫞灑落，在暖色調（琥珀/秋日）的空間裡映照出帶有細微沙質紋理的點心蒸籠與熱氣。",
+    "prompt": "An extreme low-angle pastel bokeh illustration featuring an orange cat lying down and reaching out its paw to playfully nudge a freshly wrapped shrimp dumpling. The scene is set inside a dim, cozy kitchen with steam gently rising from fine sand-textured bamboo dim sum steamers. Venetian blind striped lighting casts dramatic parallel light-and-shadow bands across the subject, highlighting heavy colorful light dots and a dreamy amber autumn palette with warm golden yellows and burnt orange tones. The text '2026-07-25 22:41 UTC' is visually displayed in clear, clean typography in a corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在美國水牛城，一個來自水管工程團隊的意外善舉，成功從下水道中尋獲並歸還了一枚失蹤長達10年的白金結婚鑽戒。",
+      "在大洋洲的聖赫勒拿島，被健尼斯世界紀錄認證為全球現存最長壽的陸棲動物——巨型陸龜「喬納森」（Jonathan）順利度過第194個年頭。",
+      "在澳洲凱恩斯的巨型堡礁海域，公民科學家團隊成功發現了一座面積達3,973平方公尺（相當於半個足球場大）的巨型珊瑚群落落。",
+      "在美國西雅圖的華埠國際區，一場港式點心晚宴成功創下健尼斯世界紀錄，吸引了數百人共聚一堂並手工製作了3,600個點心。"
+    ],
+    "title": "點心盛宴的小偷",
+    "number": 2641,
+    "avoid_list": [
+      "倫勃朗光",
+      "朱紅與留白配色",
+      "黑金奢華配色",
+      "月夜靛藍色調",
+      "貓爪伸出勾抓物件",
+      "貓低姿伏臥凝視",
+      "微縮移軸效果",
+      "透明樹脂封存肌理",
+      "35mm 底片風格",
+      "角落繪製 Traditional Chinese 或 English 時間戳記",
+      "引導線透視構圖",
+      "隨拍/自拍鏡頭構圖"
+    ],
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Extreme Low Angle",
+      "lighting": "Venetian Blind Light",
+      "texture": "Sand Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "在美國西雅圖的華埠國際區，一場港式點心晚宴成功創下健尼斯世界紀錄，吸引了數百人共聚一堂並手工製作了3,600個點心。",
+    "story": "在剛創下世界紀錄的港式點心晚宴現場，廚房一角堆滿了現做的燒賣與點心。一隻店貓趁著大廚不注意，好奇地悄悄伸出貓爪，興致勃勃地研究起剛剛包好的第3601個蒸餃。",
+    "comment_id": 5080891632
   }
 ]
