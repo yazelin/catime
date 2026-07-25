@@ -10414,5 +10414,43 @@
       "texture": "Sand Texture",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "character": "mochi",
+    "idea": "採用高飽和鮮豔色的扁平向量插圖，以分割畫面展現橘白胖貓「麻糬」在夜市章魚燒攤位偷拿噴水器澆花，並疊加線框透明質感與背光輪廓光。",
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Split View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wireframe Overlay",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "Flat vector illustration with high saturation vivid colors and energetic palette, split view composition with a sharp vertical cut line where the left half is an illustration and the right half is a wireframe diagram with glowing geometric mesh lines and translucent technical grid, creating a futuristic see-through structure digital blueprint feel. At a night market octopus balls (takoyaki) stall, a chubby rounded shorthair cat named Mochi—featuring a pure white body, amber eyes, a solid orange mask on the right half-face (left side white), an orange mitten on the right front paw (left paw white), a white belly, and an orange heart-shaped saddle on the upper back—is using its right orange mitten front paw to playfully push a toy water sprayer to water plants. People at the stall are laughing. Bright backlighting with glowing rim light and luminous silhouette edges outlines the cat and spraying water droplets against the vibrant neon stall glow. Display the text '2026-07-25 21:42 UTC' clearly visible in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "倫勃朗光",
+      "朱紅與留白配色",
+      "黑金奢華配色",
+      "月夜靛藍色調",
+      "貓爪伸出勾抓物件",
+      "貓低姿伏臥凝視",
+      "微縮移軸效果",
+      "透明樹脂封存肌理",
+      "35mm 底片風格",
+      "角落繪製 Traditional Chinese 或 English 時間戳記",
+      "引導線透視構圖",
+      "隨拍/自拍鏡頭構圖"
+    ],
+    "inspiration": "英國紐卡索的大學團隊利用「玩具噴水器」進行物理實驗，成功解開了困擾物理學界數十年的費曼噴水器旋轉謎題。",
+    "comment_id": 5080709029,
+    "character_name": "麻糬",
+    "story": "麻糬巡邏到夜市章魚燒攤，看到老闆用玩具噴水器清潔鐵板，立刻好奇地用右前腳橘色手套推動水槍玩耍。攤販與顧客都被這顆圓滾滾的橘白花生麻糬逗得哈哈大笑，噴出的水花在霓虹燈背光下閃耀著璀璨光芒。",
+    "news_inspiration": [
+      "奧地利維也納大學的科學家首次記錄到乳牛能將物體當作多用途工具使用，顛覆了人類過去對家畜智力的認知。",
+      "美國加州大學洛杉磯分校（UCLA）團隊研發出一款新型氧化鋅防曬凝膠，能有效防護紫外線且不會在皮膚上留下白色痕跡。",
+      "丹麥哥本哈根推廣「真人圖書館」閱讀花園，讓民眾可以像借閱圖書一樣「借閱」不同背景的人進行深度交流。",
+      "英國紐卡索的大學團隊利用「玩具噴水器」進行物理實驗，成功解開了困擾物理學界數十年的費曼噴水器旋轉謎題。"
+    ],
+    "number": 2640,
+    "title": "夜市巷弄的噴水狂想曲"
   }
 ]
