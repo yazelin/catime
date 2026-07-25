@@ -10174,5 +10174,41 @@
       "美國北卡羅萊納州的紅狼復育計劃迎來喜訊，今年已有 4 窩珍貴的瀕危紅狼幼崽順利出生，為全球最瀕危的狼種帶來復甦希望。"
     ],
     "story": "深夜的古董店閣樓裡，墨墨跳上了一座精緻的摺紙沙盤，這裡正展演著遠方的神秘海洋生態。牠優雅地收起四肢趴在朱紅色的紙雕岩礁上，閃耀著金琥珀色光芒的大眼睛靜靜俯瞰著下方漂浮的白色紙雕巨藻與海豚。背後微弱的光線勾勒出牠如絨毛般的輪廓與亮白鬍鬚，在這片安靜的紙雕夜花森林裡，牠宛如守護著這片汪洋的深夜領主。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Split View",
+      "lighting": "Volumetric Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 2633,
+    "prompt": "A mixed media torn paper collage with layered textures, visible paper edges, and notebook lines, depicting a split view composition. The top section shows a black and gold striped cat crouched on all fours, intently staring down through a storefront glass inside the Kaohsiung Main Station underground anime shopping district. The bottom section shows a translucent resin cabinet with embedded mechanical figure models, displaying glossy smooth surfaces and amber-like clarity. Dramatic volumetric lighting with visible god rays and dust particles illuminates the scene. Opulent gold and black color scheme with metallic gold accents against a deep black background. In the corner, the text '2026-07-25 12:03 UTC' is visually displayed in clear English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "臺灣高雄市的高雄車站地下街引進了超過 50 間動漫與電玩店家正式開幕，打造出超過 2,300 坪的全新次文化購物天堂。",
+    "news_inspiration": [
+      "美國芝加哥的謝德水族館（Shedd Aquarium）順利迎來從加拿大安大略省救援出來的 4 隻白鯨，為牠們提供全新的專業照護環境。",
+      "紐西蘭政府在南島周邊海域新設立了 5 個海洋保護區，以全力保護當地的海豚生態與巨型海藻森林。",
+      "西非幾內亞灣的研究團隊利用水深聲納與水下無人機，驚喜重新發現了一片原本被認為已經死亡且恢復生機的珍貴珊瑚礁群。",
+      "臺灣高雄市的高雄車站地下街引進了超過 50 間動漫與電玩店家正式開幕，打造出超過 2,300 坪的全新次文化購物天堂。"
+    ],
+    "story": "次文化的地下王國沉浸在黑色與金色的奢華質感中，無數紙屑層疊出繁華的店舖角落。分割畫面下方是透明樹脂封存的珍貴收藏，上方則是一隻四腳著地的貓咪正專注伏臥，瞳孔反射著穿透天窗落下的璀璨體積光。",
+    "avoid_list": [
+      "貓用前爪觸碰或撥動物件",
+      "生物發光微光與星雲圖譜",
+      "等距攝影構圖與低多邊形",
+      "時間戳記與繁體中文限制說明",
+      "沙丘或火星地形微縮模型",
+      "金屬齒輪與指針工坊",
+      "柯達底片與膠卷質感",
+      "巴洛克強烈明暗對比光影",
+      "哥本哈根真人圖書館與金屬書",
+      "普普藝術與大理石質感攤位",
+      "青橙電影調與背光輪廓線",
+      "金屬鈴鐺與粉紅肉掌"
+    ],
+    "title": "霓虹地下城巡視者",
+    "comment_id": 5078427007,
+    "idea": "採用撕紙拼貼效果與分割畫面，呈現一隻黑金斑紋貓咪穿梭於高雄車站地下街動漫展櫃間，試圖捕抓玻璃後方的機械公仔模型。"
   }
 ]
