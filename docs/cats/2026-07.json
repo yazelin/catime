@@ -10310,5 +10310,42 @@
       "color_palette": "Bamboo Jade Green"
     },
     "inspiration": "西非幾內亞灣的科學家透過聲納與水下無人機，重新發現了一片原本被認為已經死亡、如今卻繁衍著豐富生態的深海珊瑚礁。"
+  },
+  {
+    "comment_id": 5079669988,
+    "style_picks": {
+      "art_style": "Japanese Film Photography",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Ring Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Vermilion and White"
+    },
+    "story": "海洋生物學家在幾內亞灣成功重新定位了繁茂的深海珊瑚礁，船艙內的儀器傳回珍貴的探測數據。隨船的貓咪「珊瑚」踏著無聲的步履踏上儀器台，用溫熱的鼻尖輕碰顯像畫面上的紅色訊號點，彷彿也在為這片復甦的海洋致意。",
+    "inspiration": "西非幾內亞灣的科學團隊透過水下無人機與聲納，重新發現了一片原本被認定已經死亡、如今卻繁衍著豐富生物的深海珊瑚礁。",
+    "avoid_list": [
+      "貓爪按壓按鈕或齒輪",
+      "月夜靛藍色調",
+      "生物發光微光",
+      "刺繡與樹脂浮島",
+      "琥珀色調與黑光螢光",
+      "移軸微縮透視",
+      "強烈硬光與黑光對比",
+      "微距攝影極端特寫",
+      "金箔與金屬質感肌理",
+      "四腳伏臥凝視對象",
+      "分割畫面與撕紙拼貼",
+      "引導線透視構圖"
+    ],
+    "news_inspiration": [
+      "美國北卡羅來納州瀕危的紅狼計畫傳出捷報，野生保護區成功迎來四窩新生的紅狼幼崽，為全球最稀有的狼種復育帶來曙光。",
+      "西非幾內亞灣的科學團隊透過水下無人機與聲納，重新發現了一片原本被認定已經死亡、如今卻繁衍著豐富生物的深海珊瑚礁。",
+      "津巴布韋的在地農夫發起社群種子庫計畫，重新推廣抗旱的傳統作物，以原住民智慧提昇糧食安全與氣候韌性。",
+      "古生物學家在危地馬拉的瑪雅古城遺跡中，發現千年前瑪雅數學家「白胸狐」計算金星與火星轨道的數學公式與落款。",
+      "美國科羅拉多州的學區引進新款電動校車，在夜間停放時可作為備用電池，為當地電網反向供電。"
+    ],
+    "prompt": "A candid Japanese film photograph featuring a calico cat inside a research vessel cabin in the Gulf of Guinea. The cat leans forward curious, pressing its pink nose against a glowing display screen showing thermal imaging of deep-sea coral reefs. Softly overlaid on the corner of the image is the precise timestamp text '2026-07-25 17:48 UTC' in crisp typography. Vermilion red and negative-space white dominate the scene's color palette. Shot on a 35mm camera, vintage film grain, airy soft muted tones, natural interior lighting with soft ambient glow from the monitor, nostalgic understated mood, shallow depth of field, sharp focus on the cat's nose touching the screen. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用日系底片攝影風格與朱紅留白配色，捕捉一隻三色貓在幾內亞灣研究船艙內，好奇地用鼻子湊近觸碰水下無人機傳回的深海珊瑚礁熱感應圖像螢幕。",
+    "number": 2637,
+    "title": "幾內亞灣的深海探測"
   }
 ]
