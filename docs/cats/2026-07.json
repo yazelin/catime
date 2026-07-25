@@ -10378,5 +10378,41 @@
     "comment_id": 5080114755,
     "number": 2638,
     "title": "光影間的滑板追逐"
+  },
+  {
+    "idea": "這是一幅3D Q版盲盒風格的作品，一隻小花貓正趴在沙雕展覽場的化石模型前，伸出前爪專注地拿著小刷子清掃著沙質紋理的恐龍骨骼。畫面採用鏡子自拍構圖與沉穩的大地色系，搭配溫暖的倫勃朗光，營造出充滿童趣的考古探險氛圍。",
+    "avoid_list": [
+      "貓爪按壓按鈕或齒輪",
+      "月夜靛藍色調",
+      "生物發光微光",
+      "刺繡與樹脂浮島",
+      "琥珀色調與黑光螢光",
+      "移軸微縮透視",
+      "強烈硬光與黑光對比",
+      "微距攝影極端特寫",
+      "金箔與金屬質感肌理",
+      "四腳伏臥凝視對象",
+      "分割畫面與撕紙拼貼",
+      "引導線透視構圖"
+    ],
+    "prompt": "A 3D chibi blind box character in C4D render style featuring a cute Q-version calico kitten lying in front of a dinosaur fossil model at a sand sculpture exhibition. The kitten holds a tiny brush with its front paw, attentively brushing sandy-textured dinosaur bones. Mirror selfie composition with casual framing, visible reflection, and an intimate close-up perspective. Dramatic Rembrandt lighting from a single light source at 45 degrees, creating a signature triangle of light on the shadowed cheek with dramatic chiaroscuro. Detailed fine sand textures, desert dune ripples, warm golden granules, and wind-sculpted patterns. An earth tone palette dominated by terracotta, olive green, and warm brown for a natural organic harmony. The text '2026-07-25 20:04 UTC' is visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "深夜的小小考古家",
+    "number": 2639,
+    "comment_id": 5080380464,
+    "inspiration": "中國重慶市自然博物館舉辦了跨區域青少年夏令營，來自不同地區的孩子們一起搭帳棚露營並探索恐龍化石展覽，展開一場寓教於樂的奇妙博物館之夜。",
+    "news_inspiration": [
+      "美國史丹佛大學的研究團隊開發出一款新型無氟凝膠，能幫助修復與再生受損的牙齒琺瑯質。",
+      "墨西哥城舉辦的星際大戰與漫威系列電影首映會紅毯上，女星贊達亞（Zendaya）面對影迷突如其來的熱情求婚，以幽默一句「你來晚了！」引爆全場笑聲與網路熱議。",
+      "中國重慶市自然博物館舉辦了跨區域青少年夏令營，來自不同地區的孩子們一起搭帳棚露營並探索恐龍化石展覽，展開一場寓教於樂的奇妙博物館之夜。",
+      "英國倫敦的大學團隊與國際運動科學機構共同慶祝全球首屆「世界運動科學家日」（World Sport Scientist Day），旨在推廣運動科學對大眾健康與競技體育的正面影響。"
+    ],
+    "story": "深夜的博物館裡，小花貓趁著夏令營的孩子們入睡後悄悄溜進展廳。牠有模有樣地拿著特製小刷子，細心拂去恐龍化石上的沙粒，彷彿自己也是今晚最出色的古生物學家。展櫃玻璃折射出牠專注的神情，記錄下這場屬於小貓的奇妙博物館之夜。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
