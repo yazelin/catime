@@ -10704,5 +10704,39 @@
       "微縮立體模型 / 移軸效果",
       "細微沙質紋理"
     ]
+  },
+  {
+    "title": "月夜竹蓆上的墨影",
+    "character_name": "墨墨",
+    "comment_id": 5083569786,
+    "story": "炎夏的深夜，墨墨優雅地趴在舊老宅的竹蓆上納涼，金琥珀色的眼睛在月色下微微發光。他那帶有金色耳環的左耳輕動，尾巴尖端的深灰環紋隨性舒展，胸前的白毛領結襯著周圍鋪開的皮革古籍，享受著屬於夏夜的寧靜與高雅。",
+    "news_inspiration": [],
+    "character": "momo",
+    "avoid_list": [
+      "前爪撥弄/伸手",
+      "繁體中文與英文限定警語",
+      "時間戳記 'YYYY-MM-DD HH:MM UTC'",
+      "倫勃朗光 / 45度角光源",
+      "深海珊瑚礁 / 深海珊瑚",
+      "35mm底片質感 / 攝影風格",
+      "竹影翠綠 / 翠綠溫室",
+      "復古錄音帶 / 磁帶",
+      "故事插畫分格排版",
+      "微縮立體模型 / 移軸效果",
+      "細微沙質紋理"
+    ],
+    "season": "summer",
+    "idea": "在融合彼岸花與仙鶴繁飾風格的畫面中，以俯瞰視角呈現墨墨橫臥於老宅客廳的涼爽竹蓆上，月夜靛藍的光影透過花窗散射出斑駁光痕，落在他純黑緞面般的毛髮與皮革書卷上。",
+    "number": 2648,
+    "inspiration": "original",
+    "prompt": "在融合彼岸花與仙鶴繁飾風格的畫面中，以俯瞰視角呈現墨墨橫臥於老宅客廳的涼爽竹蓆上，月夜靛藍的光影透過花窗散射出斑駁光痕，落在他純黑緞面般的毛髮與皮革書卷上。. The date and time '2026-07-26 12:54 UTC' is visually displayed in the image. spider-lily and crane ornamental illustration, red higanbana and white cranes weaving around the figure, dense decorative floral lattice, elegant melancholic oriental fantasy, bird's-eye view, top-down perspective, looking straight down, miniature world effect, dappled light, scattered patches of sunlight filtered through leaves, soft mottled shadow patterns, gentle organic light play, serene natural mood, genuine leather texture, rich grain pattern, warm aged patina, supple creased surface, artisanal craftsmanship, moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, mysterious nocturnal mood, dark dreamy blue dominance\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Momo — a sleek, slender solid-black #0A0A0A Bombay-style shorthair with satin-sheen fur revealing warm brown undertones in direct light. Athletic proportions with visible muscle definition and a slight upward curl at the tail tip. LEFT ear (viewer perspective): single small gold hoop earring #FFD700 (3mm) positioned at the mid-ear edge — the only earring. Ventral chest: tiny natural white locket tuft #FFFFFF (fur only, NOT a collar). Tail tip: single dark-grey #696969 ring. Eyes: large luminous golden-amber #D4A017 like polished amber gems. Long prominent white whiskers. Expression: calm and attentive. [HARD CONSTRAINTS] 1) Solid black fur ONLY — no other body patches or stripes. 2) LEFT ear gold hoop ONLY; NEVER on right ear. 3) White chest locket tuft is the sole white marking. 4) Golden-amber #D4A017 eyes ONLY — NEVER blue or green. 5) Shorthair satin-sheen texture, NEVER long or fluffy. 6) No collar, bandana, or necklace. End.\nNEGATIVE CONSTRAINTS (must not appear): two earrings, right ear earring, earring on both ears, blue eyes, green eyes, longhair, fluffy coat, white patches on legs, white belly, white paws, collar, necklace, bandana, grey fur, brown cat, tabby stripes, spotted pattern, heterochromia, orange eyes, missing earring, calico, tuxedo full bib, large white chest, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: summer - the cat should be dressed/styled appropriately for summer.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Spider-Lily and Crane Ornamental Illustration",
+      "composition": "Bird's-Eye View",
+      "lighting": "Dappled Light",
+      "texture": "Leather",
+      "color_palette": "Moonlit Indigo"
+    },
+    "is_seasonal": true
   }
 ]

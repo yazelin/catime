@@ -24744,5 +24744,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "title": "鐵軌上的單色霓裳",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-26_1153_UTC.webp"
+  },
+  {
+    "title": "月夜竹蓆上的墨影",
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-26_1254_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "momo",
+    "timestamp": "2026-07-26 12:54 UTC",
+    "status": "success",
+    "season": "summer",
+    "number": 2648,
+    "inspiration": "original",
+    "is_seasonal": true
   }
 ]
