@@ -10669,5 +10669,40 @@
     "idea": "採用傳統魚拓藝術風格，描繪一隻墨色斑紋貓咪正俯身專注研究一具不斷反向旋轉的玻璃噴水器，四周環繞著大理石紋理與貼紙拼貼邊框。",
     "inspiration": "美國麻省理工學院與劍橋團隊利用幽默的「搞笑噴水器」實驗，成功破解了困擾物理學界數十年的費曼噴水器旋轉謎題。",
     "prompt": "A Gyotaku style direct ink impression print and die-cut sticker collage depicting an ink-patterned cat leaning down intently to inspect a counter-rotating glass sprinkler on an MIT laboratory desk. Polished marble texture background with natural vein patterns. Central character framed with white outline sticker borders, decorated scrapbook-style with floating props. Ethereal nebula cosmic glow, starry illumination, and otherworldly radiance in a moonlit indigo, deep night-blue, and violet palette with cool silvery highlights. The text '2026-07-26 10:27 UTC' is clearly displayed in clean English lettering within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "inspiration": "瑞士創新地在鐵軌隙縫鋪設太陽能板，成功將全國火車軌道轉化為新一代綠色發電廠。",
+    "news_inspiration": [
+      "美國史丹佛大學的研究團隊發現了一種天然人體分子，能像減肥藥 Ozempic 般抑制食慾並減輕體重，且幾乎沒有顯著副作用。",
+      "日本研究人員在宇佐市安心院地區發現的古老化石中，成功鑑定出距今約 350 萬年前的新種巨型娃娃魚（大鯢）。",
+      "瑞士創新地在鐵軌隙縫鋪設太陽能板，成功將全國火車軌道轉化為新一代綠色發電廠。",
+      "考古學家在瓜地馬拉敘爾吞遺址中，發現了距今約 1200 年前由署名「白胸狐狸」的瑪雅數學家所留下的金星與火星軌道運行計算公式。"
+    ],
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Dappled Light",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "這隻名為奧斯卡的貓咪將穿梭軌道視為每日的特技走秀。牠優雅地沿著閃耀的太陽能板邊緣漫步，黑白相間的身影在單色調的極簡風景中成了最引人注目的時尚焦點。",
+    "comment_id": 5083359035,
+    "number": 2647,
+    "title": "鐵軌上的單色霓裳",
+    "prompt": "Fashion editorial photography of an elegant long-haired tuxedo cat lithely navigating between the metallic geometric structures of a Swiss alpine railway track, looking down over an expansive green-energy track array with solar panels. The photo features a dramatic pose with high-end styling, magazine-quality lighting, and a spiral vortex composition with a circular structure coiling around the subject, strong rotational perspective, a centered vanishing point, and a dizzying sense of depth from a cinematic low angle. Dappled light with scattered patches of sunlight and soft mottled shadow patterns create a gentle organic light play and serene natural mood. Prismatic rainbow flare texture and refracted spectral light spots scatter across the image with iridescent lens-glow streaks and dreamy chromatic highlights. Set in high-contrast black and white monochrome with a rich tonal range and dramatic shadows and highlights. Shot on a 35mm lens, f/1.8, natural light, shallow depth of field, subtle film grain, looking like a genuine photograph. The text '2026-07-26 11:53 UTC' is visually displayed sharply in a clean font in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用時尚編輯攝影風格，一隻黑白相間的高雅長毛貓正在瑞士高山鐵路軌道的金屬幾何結構間俐落穿梭，俯瞰整片延伸的綠能軌道陣列。",
+    "avoid_list": [
+      "前爪撥弄/伸手",
+      "繁體中文與英文限定警語",
+      "時間戳記 'YYYY-MM-DD HH:MM UTC'",
+      "倫勃朗光 / 45度角光源",
+      "深海珊瑚礁 / 深海珊瑚",
+      "35mm底片質感 / 攝影風格",
+      "竹影翠綠 / 翠綠溫室",
+      "復古錄音帶 / 磁帶",
+      "故事插畫分格排版",
+      "微縮立體模型 / 移軸效果",
+      "細微沙質紋理"
+    ]
   }
 ]
