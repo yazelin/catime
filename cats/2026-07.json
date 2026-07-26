@@ -10635,5 +10635,39 @@
     "comment_id": 5082657055,
     "idea": "採用侘寂靜物攝影風格，隻身於嚴寒廢墟中的流浪貓正俯身緊盯並用嘴叼取剛破殼的熟蛋包飯，畫面透過木質長廊的深邃縱向引導線，在暴風雪朦朧的光影與雙色調調性下呈現極簡靜謐感。",
     "inspiration": "日本東京的知名美食「日式蛋包飯」（Omurice）因極具巧勁的滑蛋切開技巧在社群媒體引發全球模仿熱潮，吸引許多外國料理愛好者挑戰製作。"
+  },
+  {
+    "story": "這隻好奇的貓咪蹲坐在麻省理工學院的實驗室案頭上，用鼻子輕嗅著運轉中的幽默噴水裝置。在月夜靛藍與星雲輝光的幽微照耀下，牠試圖用最本能的物理感官，解開困擾人類數十年的旋轉謎題。",
+    "title": "星雲下的反轉噴泉",
+    "avoid_list": [
+      "前爪撥弄/伸手",
+      "繁體中文與英文限定警語",
+      "時間戳記 'YYYY-MM-DD HH:MM UTC'",
+      "倫勃朗光 / 45度角光源",
+      "深海珊瑚礁 / 深海珊瑚",
+      "35mm底片質感 / 攝影風格",
+      "竹影翠綠 / 翠綠溫室",
+      "復古錄音帶 / 磁帶",
+      "故事插畫分格排版",
+      "微縮立體模型 / 移軸效果",
+      "細微沙質紋理"
+    ],
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Marble",
+      "color_palette": "Moonlit Indigo"
+    },
+    "news_inspiration": [
+      "美國麻省理工學院與劍橋團隊利用幽默的「搞笑噴水器」實驗，成功破解了困擾物理學界數十年的費曼噴水器旋轉謎題。",
+      "日本東京與韓國首爾受惠於流行文化與美食魅力加持，成為本夏季全球旅遊成長最顯著的頂尖熱門目的地。",
+      "英國倫敦在2026年7月迎來首屆「世界運動科學家日」，全球專家共同慶祝運動科學在提升全民健康與體育競技上的重大突破。"
+    ],
+    "comment_id": 5083094385,
+    "number": 2646,
+    "idea": "採用傳統魚拓藝術風格，描繪一隻墨色斑紋貓咪正俯身專注研究一具不斷反向旋轉的玻璃噴水器，四周環繞著大理石紋理與貼紙拼貼邊框。",
+    "inspiration": "美國麻省理工學院與劍橋團隊利用幽默的「搞笑噴水器」實驗，成功破解了困擾物理學界數十年的費曼噴水器旋轉謎題。",
+    "prompt": "A Gyotaku style direct ink impression print and die-cut sticker collage depicting an ink-patterned cat leaning down intently to inspect a counter-rotating glass sprinkler on an MIT laboratory desk. Polished marble texture background with natural vein patterns. Central character framed with white outline sticker borders, decorated scrapbook-style with floating props. Ethereal nebula cosmic glow, starry illumination, and otherworldly radiance in a moonlit indigo, deep night-blue, and violet palette with cool silvery highlights. The text '2026-07-26 10:27 UTC' is clearly displayed in clean English lettering within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
