@@ -11005,5 +11005,36 @@
     ],
     "inspiration": "original",
     "idea": "這幅馬賽克藝術風格作品捕捉了一隻四腳立於大理石檯面上的玳瑁貓，牠正好奇地用鼻尖湊近並嗅聞一台古董咖啡機，周圍環繞著配色條邊框與竹影翠綠色調。"
+  },
+  {
+    "number": 2657,
+    "style_picks": {
+      "art_style": "Kaiju Scale Composite",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "在黑白單色調與螢光燈照射下，一隻巨型貓咪以巨人尺寸合成風格俯瞰並用爪子撥動繁忙的貨櫃碼頭起重機。",
+    "inspiration": "original",
+    "story": "巨型貓咪盤踞在港口邊緣，冷冽的日光燈照射出牠與貨櫃間懸殊的體型對比。粗糙的鐵絲網纏繞在前端碼頭圍欄上，襯託出牠探出爪子好奇撥弄高空起重機的專注姿態。",
+    "news_inspiration": [],
+    "title": "巨爪下的港灣晨昏",
+    "comment_id": 5085996494,
+    "avoid_list": [
+      "強烈狹窄聚光燈",
+      "斑駁光影與光痕",
+      "月夜靛藍與星雲輝光",
+      "35mm鏡頭與微小景深",
+      "廢墟或廢棄建築場景",
+      "貼紙拼貼與白邊邊框",
+      "前爪輕觸或推擠物件",
+      "底片顆粒與復古質感",
+      "液態金屬或水窪倒影",
+      "繁體中文與英文時間戳記",
+      "居中構圖與深邃縱向引導線",
+      "紅金相間的吉祥配色"
+    ],
+    "prompt": "A monochrome black and white photography scene in massive scale composite photography style with impossible proportions, reminiscent of an Attack on Titan aesthetic. A giant cat in realistic scale composite style is perched at the edge of a busy container port, peering down and curiously batting at a high-altitude crane with its paw. The foreground features a tangled wire mesh texture and coiled metal strands on a码頭 fence, rendered in intimate near-object framing with a shallow depth of field and soft bokeh, making the cat and nearby details sharp against a blurred industrial backdrop. Photorealistic VFX compositing shows tiny port machinery for extreme scale contrast. Flat overhead fluorescent lighting creates a neutral white high-contrast monochrome tone with a rich tonal range. Stamped clearly in the corner of the image in a clean sans-serif font is the text '2026-07-26 23:50 UTC'. Shot on a 35mm lens, f/2.8, realistic grain, photorealistic detail. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
