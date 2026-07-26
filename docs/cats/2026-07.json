@@ -10943,5 +10943,36 @@
     "story": "夏日午後的懷旧復古冰果室裡，小貓一頭鑽進了剛剛洗淨的大玻璃杯中，圓滾滾的身軀正好填滿容器。鮮豔的黃色檸檬片與藍色蘇達冰沙在周圍襯托，閃光燈直打下呈現出細緻的底片顆粒，紀錄下這份清涼又療癒的奇妙瞬間。",
     "inspiration": "original",
     "idea": "採用療癒寵物寫真風格與玻璃容器置入構圖，一隻黃白相間的唐貓好奇地蜷縮在大號透明冷飲玻璃杯中，透過杯壁向外探頭。"
+  },
+  {
+    "idea": "在交叉沖洗風格的亮麗色彩下，一隻三花貓正在等距攝影角度的現代混凝土建築天台上，伸出爪子追逐一部運行中的微型掃地機器人。",
+    "number": 2655,
+    "title": "陽台上的幾何追逐",
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Isometric Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Concrete",
+      "color_palette": "Vermilion and White"
+    },
+    "prompt": "A real captured photograph taken at a perfectly isometric angle showing a calico cat crouched on a modern raw concrete roof terrace, extending a paw to chase a tiny vermilion red robotic vacuum cleaner operating on the clean white floor surface. Dramatic volumetric lighting and visible god rays stream through high-rise gaps with dust particles catching light, creating deep contrast across the rough aggregate brutalist concrete texture. Experimental cross processing style with vivid vintage color shifts, unpredictable hues, and heightened contrast. The date and time '2026-07-26 21:47 UTC' is visually displayed in crisp text in the image. Shot with a 35mm lens, sharp focus, natural atmosphere, architectural photography feel, candid timing, subtle photo grain, crisp graphic elegance with a cinnabar red and white palette. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "comment_id": 5085555664,
+    "story": "陽光穿透高樓間隙形成一道道濃厚的體積光，照射在簡約的混凝土平台上。鮮紅色的微型掃地機器人沿著潔白無瑕的地面移動，吸引著三花貓趴伏著身體，隨時準備躍起撲向眼前這個運轉的小物件。",
+    "avoid_list": [
+      "強烈狹窄聚光燈",
+      "斑駁光影與光痕",
+      "月夜靛藍與星雲輝光",
+      "35mm鏡頭與微小景深",
+      "廢墟或廢棄建築場景",
+      "貼紙拼貼與白邊邊框",
+      "前爪輕觸或推擠物件",
+      "底片顆粒與復古質感",
+      "液態金屬或水窪倒影",
+      "繁體中文與英文時間戳記",
+      "居中構圖與深邃縱向引導線",
+      "紅金相間的吉祥配色"
+    ],
+    "inspiration": "original"
   }
 ]
