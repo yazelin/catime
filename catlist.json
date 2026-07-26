@@ -24704,5 +24704,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "number": 2643,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-26_0142_UTC.webp"
+  },
+  {
+    "number": 2644,
+    "character": "captain",
+    "is_seasonal": true,
+    "character_name": "船長",
+    "title": "夏日防波堤上的老釣手",
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-26_0519_UTC.webp",
+    "status": "success",
+    "inspiration": "original",
+    "timestamp": "2026-07-26 05:19 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]

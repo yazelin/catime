@@ -10560,5 +10560,45 @@
     "number": 2643,
     "idea": "在一座由磨砂金屬打造的採礦太空站觀察窗前，一隻三色貓正用前爪撥弄並玩耍著懸浮在內部的光點，全景呈現出新印象派點描法特有的彩點質感。",
     "inspiration": "original"
+  },
+  {
+    "story": "夏日的烈日灑在防波堤上，粗壯沉穩的船長戴著編織草帽，綠色的右眼緊盯著浮標，左眼眼罩下的戰痕絲毫不減其威嚴。牠熟練地用白掌穩住魚竿，下巴的白色毛髮與長鬍鬚隨海風飄揚，享受著專屬於港口老大的悠閒午後。",
+    "prompt": "A coloring book line art and illustrated story page layout with clean uniform black outlines on white, ready-to-color aesthetic, and a decorative title banner at the top. The scene features Captain, a large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a broad muscular build, a white chest bib, and white mitten paws. Captain wears a woven straw hat and a faded red bandana tied loosely around his neck. His left ear has a prominent V-shaped notch, and his left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric patch. His right eye is a piercing emerald green. He is sitting on top of a sea wall breakwater, holding a fishing rod with his white paws and focused on fishing in a relaxing summer harbor setting. In the style of a storybook composition with integrated dialogue bubbles and irregular panel layouts, the background is infused with iridescent holographic rainbow shifts, festive auspicious Chinese red and gold palette accents, and underwater caustic lighting with blue-green rippling patterns and refracted sun shafts glowing through the water. Visually displayed clearly in traditional text within the image layout is '2026-07-26 05:19 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國加州：消防員與無人機團隊展開搜救行動，成功救起一隻在舊金山灣奮力游泳數英里的小型犬，讓牠與家人溫馨團聚。",
+      "格陵蘭東北部：海洋生物學家在格陵蘭東北國家公園的深海峽灣中，首次紀錄到極地短尾烏賊及其產卵包囊，展現出極地深海生命驚人的韌性。",
+      "巴西聖保羅：在一場交通碰撞意外中，被撞的車主並未生氣發火，反而給予肇事司機一個溫暖的擁抱，溫馨畫面感動無數網友。",
+      "德國杜塞道夫：科學家在與德國航空航天中心的合作研究中，成功利用簡單的硬體解決了過去被視為不可能的量子力學計算難題。"
+    ],
+    "number": 2644,
+    "character": "captain",
+    "is_seasonal": true,
+    "comment_id": 5082188255,
+    "style_picks": {
+      "art_style": "Coloring Book Line Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Underwater Caustics",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Festive Red and Gold"
+    },
+    "title": "夏日防波堤上的老釣手",
+    "season": "summer",
+    "avoid_list": [
+      "倫勃朗光",
+      "朱紅與留白配色",
+      "黑金奢華配色",
+      "月夜靛藍色調",
+      "貓爪伸出勾抓物件",
+      "貓低姿伏臥凝視",
+      "微縮移軸效果",
+      "透明樹脂封存肌理",
+      "35mm 底片風格",
+      "角落繪製 Traditional Chinese 或 English 時間戳記",
+      "引導線透視構圖",
+      "隨拍/自拍鏡頭構圖"
+    ],
+    "inspiration": "original",
+    "idea": "採用線描著色本插畫風格與故事插畫分格排版，呈現大隻的虎斑貓船長戴著草帽、坐在防波堤頂端專注釣魚的夏日場景，背景融入虹彩全息質感與璀璨的中國紅金色彩，並由水下焦散光透出迷幻光芒。",
+    "character_name": "船長"
   }
 ]
