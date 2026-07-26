@@ -10524,5 +10524,41 @@
     "idea": "這是一組採用低多邊形（Low Poly）質感與竹影翠綠色調的四格漫畫，透過暴風雪朦朧的光影與多格角色拼貼構圖，講述一隻橘貓在冰雪圖書館裡陪伴民眾借閱「真人夥伴」聊天的溫馨過程。",
     "comment_id": 5081102572,
     "inspiration": "丹麥哥本哈根推出了創新的「真人圖書館」服務，讓民眾可以借閱不同背景的人來聊天交流而非借閱書本。"
+  },
+  {
+    "title": "星軌間的點彩躍動",
+    "avoid_list": [
+      "倫勃朗光",
+      "朱紅與留白配色",
+      "黑金奢華配色",
+      "月夜靛藍色調",
+      "貓爪伸出勾抓物件",
+      "貓低姿伏臥凝視",
+      "微縮移軸效果",
+      "透明樹脂封存肌理",
+      "35mm 底片風格",
+      "角落繪製 Traditional Chinese 或 English 時間戳記",
+      "引導線透視構圖",
+      "隨拍/自拍鏡頭構圖"
+    ],
+    "story": "這隻名叫「星屑」的貓咪隨著探險隊生活在近地軌道上，最喜歡的遊戲就是追逐無重力艙內漂浮的微光粒子。透過站內的重型氣閘圓框望去，遠方絢爛的氣體星雲將牠金屬般光滑的毛髮與周遭機組照耀得一片明亮。",
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Frame Within a Frame",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Metallic Surface",
+      "color_palette": "Teal and Orange"
+    },
+    "comment_id": 5081450165,
+    "news_inspiration": [
+      "澳洲柯恩斯（Cairns）大堡礁的公民科學計畫研究員發現了一座面積廣達 3,973 平方公尺的巨型柱狀珊瑚礁巨頭，相當於半個足球場大且充滿生機。",
+      "奧地利威尼斯獸醫醫學大學的研究團隊發現，在當地山區村莊有一頭名叫維羅妮卡（Veronika）的母牛，學會了主動使用掃帚與木棍等工具來替自己刷背抓癢。",
+      "美國北卡羅萊納州（North Carolina）的野生動物保護團隊傳來捷報，極度瀕危的紅狼今年已成功迎來四窩新生幼崽，為該物種的復育帶來曙光。",
+      "葡萄牙波多（Porto）市政府正式推出了全市免費公共運輸服務，積極推動綠色綠能出行並提升市民與旅客的生活便利度。"
+    ],
+    "prompt": "A Neo-Impressionist Pointillism painting crafted with tiny dabs of pure color and a systematic dot technique to achieve optical color mixing on a luminous surface. A calico cat inside a brushed metal mining space station reaches out with its front paws, playfully batting at floating particles of light suspended in zero-gravity. The scene is framed using a frame-within-a-frame composition through a circular observation window. In the background, a brilliant nebula casts an ethereal purple and blue cosmic glow with galactic haze, illuminating the brushed metal surroundings with sharp reflections. The digital HUD interface on the station window clearly displays the timestamp '2026-07-26 01:42 UTC'. Enhanced with teal and orange color grading, warm fur highlights against cool blue-green shadows, and punchy balanced contrast. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2643,
+    "idea": "在一座由磨砂金屬打造的採礦太空站觀察窗前，一隻三色貓正用前爪撥弄並玩耍著懸浮在內部的光點，全景呈現出新印象派點描法特有的彩點質感。",
+    "inspiration": "original"
   }
 ]
