@@ -10738,5 +10738,35 @@
       "color_palette": "Moonlit Indigo"
     },
     "is_seasonal": true
+  },
+  {
+    "avoid_list": [
+      "前爪撥弄/伸手",
+      "繁體中文與英文限定警語",
+      "時間戳記 'YYYY-MM-DD HH:MM UTC'",
+      "倫勃朗光 / 45度角光源",
+      "深海珊瑚礁 / 深海珊瑚",
+      "35mm底片質感 / 攝影風格",
+      "竹影翠綠 / 翠綠溫室",
+      "復古錄音帶 / 磁帶",
+      "故事插畫分格排版",
+      "微縮立體模型 / 移軸效果",
+      "細微沙質紋理"
+    ],
+    "prompt": "A long exposure light painting photograph shot on a 35mm lens with shallow depth of field, capturing an adventurous orange cat mid-air, frozen while jumping toward light. The composition features a centered subject framing, placing the cat dead center in a retro interior apartment. Glowing ribbons and swirling luminous light trails follow the cat's dynamic leap, creating neon kinetic streaks around its body. Sunlight pours through venetian blinds, casting sharp parallel striped light and shadow bands across the cat and floor. Scattered prismatic rainbow flare textures and dreamy chromatic highlights shimmer in the dark environment. Styled with a retro faded color palette with nostalgic film-era warmth and gentle grain. The timestamp '2026-07-26 14:22 UTC' is visually displayed in the corner of the photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Centered Subject Composition",
+      "lighting": "Venetian Blind Light",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Retro Faded Tones"
+    },
+    "idea": "採用光繪攝影風格與居中主體構圖，一隻橘貓正專注地追逐並跳躍捕捉穿透百葉窗的彩色光帶。",
+    "news_inspiration": [],
+    "comment_id": 5083885481,
+    "inspiration": "original",
+    "number": 2649,
+    "story": "老舊公寓裡，午後的百葉窗條紋光灑落在客房地板上。一隻探險心切的四腳橘貓看準光芒的軌跡，在空氣中劃出一道亮麗的動態光軌，並在稜鏡彩虹光斑與復古褪色色調的映襯下躍向空中。",
+    "title": "光影間的捕光者"
   }
 ]
