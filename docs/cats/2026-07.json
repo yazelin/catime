@@ -10600,5 +10600,40 @@
     "inspiration": "original",
     "idea": "採用線描著色本插畫風格與故事插畫分格排版，呈現大隻的虎斑貓船長戴著草帽、坐在防波堤頂端專注釣魚的夏日場景，背景融入虹彩全息質感與璀璨的中國紅金色彩，並由水下焦散光透出迷幻光芒。",
     "character_name": "船長"
+  },
+  {
+    "story": "寂靜無人的日式木造廢墟中，漫天風雪透出朦朧的白光。一隻花貓靜靜地穿梭在帶有歲月痕跡的木紋穿廊間，正專注地品嚐著剛切開、散發微熱蒸汽的極致蛋包飯。這場暴風雪中的意外溫暖，成了歲月斑駁空間裡最動人的寂靜片段。",
+    "news_inspiration": [
+      "日本東京的知名美食「日式蛋包飯」（Omurice）因極具巧勁的滑蛋切開技巧在社群媒體引發全球模仿熱潮，吸引許多外國料理愛好者挑戰製作。",
+      "英國拉夫堡大學學生參加源自日本的「撿垃圾運動」（SpoGomi）競賽，在短短一下午內於市區合力清除了高達 281 公斤的垃圾。",
+      "美國科學研究發現，在虛擬實境（VR）中學習使用「虛擬翅膀」飛行的參與者，其大腦結構產生了重塑並開始將翅膀視為身體的一部分。",
+      "印尼雅加達與多個城市興起復古潮流，許多年輕人透過跳繩和底片相機等底片時代的實體趣味愛好重新建立社群連結。"
+    ],
+    "title": "雪寂長廊的溫存",
+    "prompt": "A wabi-sabi still life photograph of a single stray cat crouched in an icy, abandoned Japanese wooden corridor, gently biting into a freshly cracked hot omurice with subtle steam rising. Deep converging perspective lines of textured, aged wood grain lead the eye along the longitudinal hallway toward the subject. Atmospheric snowstorm lighting pours in, creating a heavy falling snow veil, fogged distance, and muted diffused daylight. Shot on 35mm lens, f/1.8, natural light, shallow depth of field, subtle film grain, candid shot. Duotone color treatment featuring a cold blue-white palette contrasted with rich warm wood tones. Clear, crisp text reading '2026-07-26 08:04 UTC' is visually overlayed in the corner of the photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2645,
+    "avoid_list": [
+      "前爪撥弄/伸手",
+      "繁體中文與英文限定警語",
+      "時間戳記 'YYYY-MM-DD HH:MM UTC'",
+      "倫勃朗光 / 45度角光源",
+      "深海珊瑚礁 / 深海珊瑚",
+      "35mm底片質感 / 攝影風格",
+      "竹影翠綠 / 翠綠溫室",
+      "復古錄音帶 / 磁帶",
+      "故事插畫分格排版",
+      "微縮立體模型 / 移軸效果",
+      "細微沙質紋理"
+    ],
+    "style_picks": {
+      "art_style": "Wabi-Sabi Still Life Photography",
+      "composition": "Leading Lines Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Wood Grain",
+      "color_palette": "Duotone"
+    },
+    "comment_id": 5082657055,
+    "idea": "採用侘寂靜物攝影風格，隻身於嚴寒廢墟中的流浪貓正俯身緊盯並用嘴叼取剛破殼的熟蛋包飯，畫面透過木質長廊的深邃縱向引導線，在暴風雪朦朧的光影與雙色調調性下呈現極簡靜謐感。",
+    "inspiration": "日本東京的知名美食「日式蛋包飯」（Omurice）因極具巧勁的滑蛋切開技巧在社群媒體引發全球模仿熱潮，吸引許多外國料理愛好者挑戰製作。"
   }
 ]
