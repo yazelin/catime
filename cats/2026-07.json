@@ -10800,5 +10800,42 @@
     ],
     "idea": "這幅超寫實動漫風格的作品採用直式書法海報構圖，描繪一隻四腳踏在液態金屬水窪上的橘貓，在深夜的廢棄築地市場中專注地用前爪拍打散發霓虹螢光色的光學飛蛾，全景被清冷的月光照亮。",
     "story": "深夜的舊市場空無一人，清冽的月光透過天井傾瀉而下。四腳踩在如液態金屬般水窪上的橘貓突然繃緊神經，正敏捷地伸手按壓從縫隙中竄出的霓虹螢光飛蛾。水花與光痕在海報般的視覺縱深中激盪出極致的動態美感。"
+  },
+  {
+    "inspiration": "考古學家在危地馬拉敘爾吞的古瑪雅遺跡中，發現了一組精密的行星運行推算公式，並首次確認該數學公式是由一位名為「白胸狐」（White-Chested Fox）的古代學者所著述。",
+    "idea": "採用非洲未來主義與3D渲染風格，一隻花貓正躍上銅製發電機上方，用前腳輕拍那組由瑪雅學者「白胸狐」推演出的行星運行光束矩陣，整體呈現移軸微縮效果與環形燈光感。",
+    "comment_id": 5084440157,
+    "avoid_list": [
+      "百葉窗條紋光",
+      "暴風雪朦朧光影",
+      "月夜靛藍與星雲輝光",
+      "斑駁光痕與沉靜自然氛圍",
+      "稜鏡彩虹光斑與色散高光",
+      "低角度與粉彩光點風格",
+      "低多邊形積雪風格",
+      "新印象派點描法風格",
+      "侘寂靜物攝影風格",
+      "時尚編輯攝影風格",
+      "光繪攝影風格",
+      "前爪撥弄與伸展玩耍姿態",
+      "繁體中文與英文文字排版聲明"
+    ],
+    "title": "星軌間的獵光者",
+    "number": 2651,
+    "prompt": "A polished 3D render in Afrofuturism style with Cinema 4D aesthetics, showing a calico cat mid-leap on top of a copper generator, playfully tapping its front paw against a matrix of glowing planetary orbit light beams derived from ancient Mayan scholar mathematical formulas. Tilt-shift photography effect with a shallow depth of field and selective focus band, creating a miniature toy-like scale focused tightly on the cat and instrument panel with blurred background deep inside a ancient pyramid tech control room. Lit with circular ring light illumination and soft global illumination. Vibrant festive red and bright gold color palette infused with cosmic imagery and subtle African cultural symbolism. Prominently displayed overlaid on the corner or integrated into the digital interface display within the image is the clear text '2026-07-26 16:44 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在古老瑪雅金字塔深處的科技控制室裡，地上的光軌排列成古代學者白胸狐所創的算術公式。這隻花貓把流轉的行星算式當成了雷射光點，興致勃勃地在紅金相間的儀器盤間跳躍追逐，無意間啟動了千年前的星圖計算。這幕奇景被巧妙地聚焦於機台中央，宛如一座燦爛精緻的迷你科技模型。",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Ring Light",
+      "texture": "3D Render",
+      "color_palette": "Festive Red and Gold"
+    },
+    "news_inspiration": [
+      "奧地利維也納的動物行為科學家研究發現，一頭名為維羅妮卡（Veronika）的乳牛具備罕見的工具使用能力，成為首例被記錄會使用多用途工具的乳牛。",
+      "津巴布韋卡里巴地區的社區衛生工作者組成「單車護士隊」，騎乘自行車穿梭於偏遠村落之間，為當地女孩提供基層醫療與疫苗接種服務。",
+      "美國科羅拉多州的學校引進最新型的電動校車，並將其與電力系統連線，讓校車在夜間停放時能充當社區備用蓄電池服務電網。",
+      "考古學家在危地馬拉敘爾吞的古瑪雅遺跡中，發現了一組精密的行星運行推算公式，並首次確認該數學公式是由一位名為「白胸狐」（White-Chested Fox）的古代學者所著述。"
+    ]
   }
 ]
