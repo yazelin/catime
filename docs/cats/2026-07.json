@@ -11213,5 +11213,43 @@
       "texture": "Aged Silk Scroll",
       "color_palette": "Festive Red and Gold"
     }
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [
+      "在美國佛羅里達州傑克遜維爾（Jacksonville, USA），一名11歲男孩持續為收容所的流浪動物朗讀書籍，累積志工時數達100小時，創下該收容所計畫的紀錄。",
+      "在巴西（Brazil），一場原本可能引發爭執的輕微交通事故，因兩名車主下車後選擇以溫暖擁抱替代怒罵而感動無數網友。",
+      "瑞士（Switzerland）開創性地利用現有鐵道，在軌道枕木之間鋪設太陽能發電系統，將鐵路線轉化為清潔能源發電廠。",
+      "在日本大阪（Osaka, Japan），大阪大學的研究團隊利用人工智慧模型，成功破解了超冷水在微觀結構變化上的長期科學謎團。"
+    ],
+    "idea": "在銀河星空下的古老石造燈塔頂端，一具澄澈的玻璃巨型天體望遠鏡呈對稱構圖矗立，隻眼戴著深色眼罩、圍著褪色紅頭巾的大型虎斑船長貓正端坐在望遠鏡旁，凝視著浩瀚星海。",
+    "avoid_list": [
+      "貓用前爪輕觸或撥弄物件",
+      "聚光燈與深色背景影落",
+      "體積光與塵埃粒子",
+      "35mm鏡頭與f/2.8光圈",
+      "底片顆粒與復古質感",
+      "繁複蕾絲與刺繡紋理",
+      "俯瞰與頂視 perspective",
+      "低彩度黑白單色調",
+      "異國或古代文明建築元素",
+      "雙色調與高對比光影",
+      "液態金屬與金屬反射質感",
+      "微縮與移軸攝影效果"
+    ],
+    "character": "captain",
+    "comment_id": 5094627740,
+    "title": "星海邊境的舵手",
+    "prompt": "Photographs shot on 35mm lens, f/1.8, long-exposure astrophotography with shallow depth of field. Perfectly symmetrical architectural composition framing a giant transparent glass celestial telescope with prismatic light reflections and crystalline clarity centered atop an ancient stone lighthouse observation deck. A large stocky brown classic tabby cat with bold black stripes, scruffy untidy coarse fur, white chest bib, and white mitten paws sits on four legs beside the telescope, staring at the night sky. The cat's left eye from viewer perspective is concealed by a dark brown natural fur patch with no straps or fabric patch, right eye is a piercing emerald green, left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. Overhead, a dense starfield with a vivid Milky Way arches across deep cosmic blues and purples. Classic three-point lighting with key light creating soft shadows and subtle rim light separation. Earth tone palette of terracotta, olive green, and warm brown. The date and time '2026-07-27 17:27 UTC' is clearly displayed in clean text in the image frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2663,
+    "style_picks": {
+      "art_style": "Astrophotography",
+      "composition": "Symmetrical Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Earth Tones"
+    },
+    "character_name": "船長",
+    "story": "身為碼頭老大的船長趴在燈塔最高的觀景台，任由清涼的海風拂過牠蓬亂粗糙的毛髮。今夜天空無雲，閃耀的銀河橫跨天際，船長收起平時粗獷的威嚴，像一位老練的航海家般平靜守護著整座漁港的夜空。"
   }
 ]
