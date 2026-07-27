@@ -11146,5 +11146,41 @@
     ],
     "idea": "這是一張以手機隨拍風格呈現的影像，畫面採用朱紅留白與衍紙藝術質感，捕捉一隻橘貓在海邊水產實驗室裡用雙爪與喙狀夾具小心調整水質檢測儀的瞬間，並透過鏡像異我構圖與環形燈光展現出雙重倒影。",
     "comment_id": 5089664863
+  },
+  {
+    "story": "在夜光閃耀的大堡礁巨型珊瑚群落深處，橘貓穿梭在如巴洛克建築般華麗的摺紙珊瑚之間。牠用靈敏的鼻子引導市民科學團隊，專注地用嘴叼住繩結，為這座廣達幾千平方公尺的蔚藍生機繫上專屬的保育標記。",
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Origami",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "prompt": "An intricate origami paper sculpture illustration featuring an ginger cat in a steady quadruped stance weaving through massive, ornate origami paper corals inside a Baroque-style deep-sea garden. The cat is carefully tying a node on a conservation tag with its mouth. The entire scene is set within a Mucha-style arched frame composition with decorative Art Nouveau panel framing and floral motifs. Illumination is provided by a dramatic blacklight UV glow, making vibrant fluorescent neon pigments shine against a dark backdrop alongside a subtle bamboo jade-green palette, rich emerald, and malachite tones. Sharply visible in the image is the clear text string '2026-07-27 12:48 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "澳洲柯恩斯（Cairns）外海的市民科學團隊在大堡礁發現一座面積近4,000平方公尺的巨型珊瑚群落，比半個足球場還大且生機盎然。",
+    "title": "翠綠螢光下的海底築夢貓",
+    "comment_id": 5091537892,
+    "idea": "在巴洛克風格的巨型紙藝海底花園中，一隻橘貓正以沉穩的四足姿勢穿梭於摺紙珊瑚間，替保育標籤打結，畫面融合竹影翠綠色調、黑光螢光螢光效應與穆夏式拱框構圖。",
+    "number": 2661,
+    "news_inspiration": [
+      "澳洲柯恩斯（Cairns）外海的市民科學團隊在大堡礁發現一座面積近4,000平方公尺的巨型珊瑚群落，比半個足球場還大且生機盎然。",
+      "丹麥哥本哈根（Copenhagen）的真人圖書館花園推出特別體驗，讓民眾可以「借閱」不同背景的真人志工進行面對面交流與故事分享。",
+      "美洲瓜地馬拉（Xultun）的瑪雅遺址發現千年前數學家「白胸狐」的壁畫手稿，成為已知史上最早在天象計算公式上記名的瑪雅學者。",
+      "辛巴威哈拉雷（Harare）等農村地區發起「單車疫苗隊」計畫，社區衛生工作者騎著單車深入偏遠村落為偏鄉女孩施打HPV疫苗。"
+    ],
+    "avoid_list": [
+      "貓用前爪輕觸或撥弄物件",
+      "聚光燈與深色背景影落",
+      "體積光與塵埃粒子",
+      "35mm鏡頭與f/2.8光圈",
+      "底片顆粒與復古質感",
+      "繁複蕾絲與刺繡紋理",
+      "俯瞰與頂視 perspective",
+      "低彩度黑白單色調",
+      "異國或古代文明建築元素",
+      "雙色調與高對比光影",
+      "液態金屬與金屬反射質感",
+      "微縮與移軸攝影效果"
+    ]
   }
 ]
