@@ -11072,5 +11072,43 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "story": "蘇格蘭新法規要求住宅嵌入雨燕磚後，這隻好奇的貓咪便成了屋頂工程的秘密設計師。牠在溫馨的燭光下，穿梭於藍青色調的藍圖與鳥巢模型之間，認真測量著每一個適合鳥兒棲息的隙縫。"
+  },
+  {
+    "character_name": "鈴鈴",
+    "idea": "在雙色調與黃金時刻的夕照下，這張分割畫面作品以超現實主義呈現：蓬鬆如棉花糖的長毛白貓鈴鈴正靈巧地踩著幾塊低碳公車票卡，在大地色系的立體刺繡盤花花園中愉快滑行。",
+    "character": "lingling",
+    "style_picks": {
+      "art_style": "Surrealism",
+      "composition": "Split View",
+      "lighting": "Golden Hour",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Duotone"
+    },
+    "title": "花叢間的無碳漫遊",
+    "comment_id": 5087682565,
+    "story": "鈴鈴在充滿立體花卉刺繡的大陸陽台上追逐黃昏的微風，她那寶石藍般的眼睛閃閃發光，頸上的粉紅鈴鐺叮叮作響。她歡快地踏著市府發放的免費乘車券，將花園走廊當成了自己的低碳專屬跑道。",
+    "avoid_list": [
+      "強烈狹窄聚光燈",
+      "斑駁光影與光痕",
+      "月夜靛藍與星雲輝光",
+      "35mm鏡頭與微小景深",
+      "廢墟或廢棄建築場景",
+      "貼紙拼貼與白邊邊框",
+      "前爪輕觸或推擠物件",
+      "底片顆粒與復古質感",
+      "液態金屬或水窪倒影",
+      "繁體中文與英文時間戳記",
+      "居中構圖與深邃縱向引導線",
+      "紅金相間的吉祥配色"
+    ],
+    "news_inspiration": [
+      "在美國密西根州，最新通過的法案正式允許兒童無須申請許可證或繳納手續費即可營運檸檬汁攤位，讓小朋友們能安心體驗創業樂趣。",
+      "在印度班加羅爾，一名網約車司機因特地繞路將乘客遺失的錢包完好歸還而獲得網路一片讚譽，展現了溫暖的城市人情味。",
+      "在奧地利維也納，動物行為科學家記錄到一頭名為 Veronika 的母牛罕見地使用工具清理環境，刷新了人們對家畜智慧的認知。",
+      "在葡萄牙波爾圖，當地政府正式面向全體市民與遊客推出免費公共交通服務，鼓勵大家更多採用低碳環保的出行方式。"
+    ],
+    "prompt": "A surrealist split view composition featuring Lingling, an extremely fluffy pure white (#FFFFFF) longhair cat with voluminous cloud-like fur, a small round face nearly hidden in fur, huge round sapphire-blue (#0F52BA) eyes occupying 1/3 of face with a gentle sparkle, pale pink (#FFB6C1) nose and inner ears, wearing a pink (#FF69B4) ribbon bow collar with a small golden (#FFD700) bell clearly visible and centered beneath the bow knot, and an enormous feathery white plume tail. Lingling is gracefully surfing on several low-carbon bus pass cards across a terrace garden made of raised embroidered coiled-flower texture, three-dimensional satin-stitch blossoms, dense thread relief, tactile gold-couched petals, and ornate textile surface in earth tones. Dalí-inspired dreamlike impossible scene with uncanny juxtapositions. Split view composition: left half photorealistic, right half wireframe diagram, separated by a sharp vertical cut line. Warm sunset glow during golden hour lighting, with long soft shadows, a golden rim light on the cat, and a duotone color treatment with two contrasting colors for a bold graphic impact. The timestamp text '2026-07-27 05:37 UTC' is visually displayed in the corner of the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2659,
+    "inspiration": "在葡萄牙波爾圖，當地政府正式面向全體市民與遊客推出免費公共交通服務，鼓勵大家更多採用低碳環保的出行方式。"
   }
 ]
