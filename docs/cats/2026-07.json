@@ -11324,5 +11324,38 @@
     },
     "idea": "這是一幅擬人動物肖像風格的創作，一隻優雅的長毛貓身處古老的大埃及博物館修復室內，用濕潤的鼻子與輕柔的前爪審視著剛追回的古埃及黃金神像。在超廣角構圖與大地色系的鋪陳下，百葉窗條紋光斜照在古物上，映照出細緻的發光絲流質感。",
     "story": "剛從休士頓跨國運回的珍貴古物靜靜躺在木案上，四件沉睡千年的埃及珍寶散發著淡淡歲月氣息。貓咪身為博物館最資深的「首席文物巡視員」，正屏息凝神地俯身檢查每一處紋路，確保這批重獲新生的歷史遺跡無懈可擊。"
+  },
+  {
+    "character": "momo",
+    "avoid_list": [
+      "體積光與耶穌光",
+      "大理石或混凝土材質天台",
+      "玻璃容器與巨型球體構圖",
+      "貓咪前爪撥弄模型或設備",
+      "黑光螢光與螢光色彩",
+      "古絹絹本與手繪圖騰質感",
+      "雙色調與黃金時刻夕照",
+      "朱紅留白與鮮紅配色",
+      "竹影翠綠與孔雀石色調",
+      "時間戳記與西元日期文字",
+      "側臉特寫嗅聞物品姿態",
+      "35mm鏡頭與淺景深深空攝影"
+    ],
+    "comment_id": 5097491476,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Patchwork Cubist Figure Sculpture",
+      "composition": "Orthographic Projection",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "idea": "採用拼布立體派人偶風格與正交投影構圖，展現黑貓墨墨在覆滿苔蘚的古董琴房中，輕輕踩著黃色琴鍵挑選封面書籍的幾何解構畫面。",
+    "story": "深夜的靜謐古董店裡，沉積的藍色陰影與耀眼的黃色光束交織。墨墨優雅地穿梭於綠苔蔓延的舊鋼琴與書堆間，在輪廓光的映照下，牠微微瞇起琥珀色雙眼，專注地用前爪撥開一本帶有歲月痕跡的皮革典籍。",
+    "prompt": "Orthographic projection artwork in a patchwork cubist figure sculpture style with stitched fabric doll aesthetics and faceted geometric planes. A sleek, slender solid-black cat named Momo, possessing satin-sheen fur, a tiny natural white locket tuft on its ventral chest, a single dark-grey ring at its tail tip, large luminous golden-amber eyes, long prominent white whiskers, and a single small gold hoop earring on its LEFT ear edge (viewer perspective). The cat stands gracefully on all four legs inside a moss-covered antique piano room, gently stepping on bright yellow piano keys while using its front paw to inspect a leather-bound book. Soft living moss and lush green overgrowth cover the old piano and surrounding book stacks. Technical illustration flat rendering with backlighting and rim light, casting glowing silhouette edges around the subject against a vibrant cool blue shadow atmosphere and warm yellow highlighting. The date and time '2026-07-27 22:09 UTC' is clearly visually displayed in clean typography in the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "number": 2666,
+    "character_name": "墨墨",
+    "title": "藍調苔痕下的幾何墨影"
   }
 ]
