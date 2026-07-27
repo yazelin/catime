@@ -11110,5 +11110,41 @@
     "prompt": "A surrealist split view composition featuring Lingling, an extremely fluffy pure white (#FFFFFF) longhair cat with voluminous cloud-like fur, a small round face nearly hidden in fur, huge round sapphire-blue (#0F52BA) eyes occupying 1/3 of face with a gentle sparkle, pale pink (#FFB6C1) nose and inner ears, wearing a pink (#FF69B4) ribbon bow collar with a small golden (#FFD700) bell clearly visible and centered beneath the bow knot, and an enormous feathery white plume tail. Lingling is gracefully surfing on several low-carbon bus pass cards across a terrace garden made of raised embroidered coiled-flower texture, three-dimensional satin-stitch blossoms, dense thread relief, tactile gold-couched petals, and ornate textile surface in earth tones. Dalí-inspired dreamlike impossible scene with uncanny juxtapositions. Split view composition: left half photorealistic, right half wireframe diagram, separated by a sharp vertical cut line. Warm sunset glow during golden hour lighting, with long soft shadows, a golden rim light on the cat, and a duotone color treatment with two contrasting colors for a bold graphic impact. The timestamp text '2026-07-27 05:37 UTC' is visually displayed in the corner of the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2659,
     "inspiration": "在葡萄牙波爾圖，當地政府正式面向全體市民與遊客推出免費公共交通服務，鼓勵大家更多採用低碳環保的出行方式。"
+  },
+  {
+    "inspiration": "在澳大利亞凱恩斯附近的次區域，公民科學家於大堡礁發現了一片面積近 4,000 平方公尺的超大型柱狀珊瑚群，為當地海洋生態帶來蓬勃生機與希望。",
+    "title": "珊瑚海邊的鏡中採集",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Ring Light",
+      "texture": "Paper Quilling",
+      "color_palette": "Vermilion and White"
+    },
+    "story": "在大堡礁附近的海洋研究站裡，這隻名叫小斑的四腳橘貓正低頭專注地用爪子推進浮游生物採樣瓶。環形燈的圓弧光暈映射在兩側對立的觀察鏡面上，將牠忙碌的身影重疊成如衍紙般層次分明的藝術畫面。",
+    "prompt": "A candid smartphone snapshot capturing an orange tabby cat inside a seaside marine biology laboratory. The cat is carefully adjusting a water quality testing device using its paws and small beak-like mechanical clamps. In the background, the timestamp '2026-07-27 09:25 UTC' is visually displayed on a digital monitor in crisp text. The scene incorporates paper quilling art textures with intricate coiled paper strips and delicate curling loops forming 3D dimensional ornaments. Features a surreal doppelganger mirror composition with the cat reflected facing itself in an uncanny twin framing. Illuminated by a bright ring light creating circular catchlights in the cat's eyes with clean frontal lighting. The color scheme is a bold vermilion and white palette, featuring vivid cinnabar red set against clean negative-space white for a minimalist graphic elegance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2660,
+    "avoid_list": [
+      "貓用前爪輕觸或撥弄物件",
+      "聚光燈與深色背景影落",
+      "體積光與塵埃粒子",
+      "35mm鏡頭與f/2.8光圈",
+      "底片顆粒與復古質感",
+      "繁複蕾絲與刺繡紋理",
+      "俯瞰與頂視 perspective",
+      "低彩度黑白單色調",
+      "異國或古代文明建築元素",
+      "雙色調與高對比光影",
+      "液態金屬與金屬反射質感",
+      "微縮與移軸攝影效果"
+    ],
+    "news_inspiration": [
+      "在奧地利維也納，科學家首次發現一隻名叫 Veronika 的母牛竟然會使用工具，打破了人們過去對牛類智力的傳統認知。",
+      "在澳大利亞凱恩斯附近的次區域，公民科學家於大堡礁發現了一片面積近 4,000 平方公尺的超大型柱狀珊瑚群，為當地海洋生態帶來蓬勃生機與希望。",
+      "在美國北卡羅萊納州，極度瀕危的紅狼家族順利迎來了四窩新生幼崽，為這個全世界最瀕危狼種的復育工作注入了強心針。",
+      "在辛巴威的卡里巴與胡倫威地區，社區衛生人員騎著單車深入偏遠村莊，為偏鄉女孩發放並施打 HPV 疫苗，守護青春期女性的健康。"
+    ],
+    "idea": "這是一張以手機隨拍風格呈現的影像，畫面採用朱紅留白與衍紙藝術質感，捕捉一隻橘貓在海邊水產實驗室裡用雙爪與喙狀夾具小心調整水質檢測儀的瞬間，並透過鏡像異我構圖與環形燈光展現出雙重倒影。",
+    "comment_id": 5089664863
   }
 ]
