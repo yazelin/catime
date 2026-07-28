@@ -11462,5 +11462,41 @@
     },
     "character": "mochi",
     "idea": "這是一幅結合洛可可風格與服裝多視角展示構圖的繪畫作品，展現橘白貓「麻糬」在清冷藍青調性的傳統市場海鮮攤位前，圓滾滾的身軀套著透亮的充氣 PVC 魚造型戲水圈，正探頭探腦試圖偷掏冰塊上的鮮魚。"
+  },
+  {
+    "prompt": "Dance movement photography, dynamic motion shot of a pure white Persian cat mid-air in a graceful balletic leap inside an antique art studio. The cat stretches its paw to tap the reflection of a white rhinoceros plaster statue in a large wall mirror, creating a unique mirror selfie composition with an intimate close-up perspective. Warm, gentle daylight streams from a side window, providing Vermeer-like soft illumination that freezes the kinetic energy while smooth shadows fall off into the background. The scene features rich velvet fabric drapes and glossy lacquer accents, styled in a vermilion and gilt palette with refined cinnabar red and gold details. Visually displayed on a small digital display clock in the corner of the room is the exact text '2026-07-28 07:30 UTC'. Shot on a 35mm lens, f/1.8 aperture, natural light, shallow depth of field, subtle film grain, candid photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2670,
+    "comment_id": 5101309525,
+    "idea": "採用舞蹈肢體攝影風格，一隻優雅躍起的純白波斯貓在充滿漆器與天鵝絨幔帳的畫室裡，側身伸展爪子拍打鏡中反射的白犀牛石膏像，構成獨特的鏡子自拍構圖。",
+    "avoid_list": [
+      "繁體中文 / 正體字文字提示",
+      "橘貓或虎斑貓主角",
+      "四足站立或趴臥姿勢",
+      "框中框構圖手法",
+      "生物發光與螢光效應",
+      "古典藝術風格融合",
+      "透明容器與玻璃球體",
+      "三點打光與輪廓光",
+      "精緻紋理與工藝質感",
+      "大地色與復古色調",
+      "迷你微縮世界構圖",
+      "擬人化職業場景"
+    ],
+    "story": "古老畫室的落地窗邊灑入一道陽光，白貓如芭蕾舞者般在空中定格躍動。它借由牆面大鏡子的反射，好奇地伸手觸碰鏡中剛雕琢完成的犀牛巨像，朱紅與描金的奢華色調在柔軟的天鵝絨背景襯托下熠熠生輝。",
+    "title": "鏡中重逢的飛躍",
+    "inspiration": "莫三比克齊納韋國家公園成功迎來 9 只白犀牛，重新建立起數十年來首個具有繁衍能力的白犀牛種群。",
+    "news_inspiration": [
+      "美國密西根州通過新法案，允許兒童經營檸檬水攤位且無需申請許可證或繳納費用，讓小朋友輕鬆體驗創業樂趣。",
+      "芬蘭首都赫爾辛基展現極佳的交通安全成果，創下了整整一年零交通死亡事故的輝煌紀錄。",
+      "莫三比克齊納韋國家公園成功迎來 9 只白犀牛，重新建立起數十年來首個具有繁衍能力的白犀牛種群。",
+      "德國科學家研究發現古老海洋蠕蟲擁有富含金屬離子的特殊生物牙齒，能提供超強強度，有望啟發新型材料開發。"
+    ],
+    "style_picks": {
+      "art_style": "Dance Movement Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Window Light",
+      "texture": "Velvet",
+      "color_palette": "Vermilion and Gilt"
+    }
   }
 ]
