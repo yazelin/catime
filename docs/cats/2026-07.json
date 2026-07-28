@@ -11610,5 +11610,41 @@
       "迷你微縮世界構圖",
       "擬人化職業場景"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Isometric Photography",
+      "lighting": "Venetian Blind Light",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "A white cat perched on a metal structure inside a serene weather observation station, curious paws reaching out to touch a spinning anemometer, presented in an isometric view. The style combines a flat vector illustration with clean geometric forms and an impasto oil texture featuring thick palette-knife strokes and raised paint ridges. Venetian blind striped lighting casts dramatic parallel light-and-shadow bands across the scene. The image uses a cool blue-teal color palette with icy undertones, creating a quiet film-noir atmosphere. Crisp digital display subtly reads '2026-07-28 17:17 UTC' in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用扁平向量插圖風格與冷色調藍青配色，呈現一隻全身雪白的貓咪在百葉窗條紋光照射的氣象觀測站中，用爪子撥動著旋轉中的風速計。整體構圖融合等距攝影視角與厚塗油彩肌理，創造俐落又具質感的視覺感。",
+    "comment_id": 5107448506,
+    "number": 2674,
+    "inspiration": "original",
+    "title": "暴風雨前夕的微風探針",
+    "news_inspiration": [
+      "法國巴黎 (Paris, France) 為了應對臭氧污染並鼓勵市民搭乘大眾運輸與低碳出行，於今日（2026年7月29日）全面免除住宅區的停車費用。",
+      "中美洲國家薩爾瓦多 (El Salvador) 近期成功消除了世界上導致傳染性失明的主要原因「沙眼」，達成了該國公共衛生的重大歷史里程碑。",
+      "科學家在剛果民主共和國 (Democratic Republic of Congo) 的剛果盆地發現了帶有獨特橘色面部斑塊的新品種「剛果疣猴」，這是非洲近75年來發現的第五種新靈長類動物。",
+      "日本東京 (Tokyo, Japan) 的三得利音樂廳於今日舉辦第20屆「首次古典音樂會」，由東京愛樂交響樂團帶領年輕學子與民眾輕鬆體驗古典樂之美。"
+    ],
+    "story": "藍青色的暴風雨前夕，高塔觀測站內靜謐無聲。白貓攀在鐵架邊緣，好奇地伸手碰觸旋轉不休的金屬風速杯，任憑百葉窗投射下的條紋光影在身上交錯流動。",
+    "avoid_list": [
+      "繁體中文 / 正體字文字提示",
+      "橘貓或虎斑貓主角",
+      "四足站立或趴臥姿勢",
+      "框中框構圖手法",
+      "生物發光與螢光效應",
+      "古典藝術風格融合",
+      "透明容器與玻璃球體",
+      "三點打光與輪廓光",
+      "精緻紋理與工藝質感",
+      "大地色與復古色調",
+      "迷你微縮世界構圖",
+      "擬人化職業場景"
+    ]
   }
 ]
