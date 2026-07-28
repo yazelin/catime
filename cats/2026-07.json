@@ -11723,5 +11723,41 @@
       "充氣 PVC 質感與光澤"
     ],
     "season": "summer"
+  },
+  {
+    "story": "維也納的農場實驗室裡，母牛 Verónika 沉穩地站立著，而牠忠實的貓咪夥伴正靈巧地維護著牠的智力輔助裝置。日光燈的冷光折射在金屬儀器與粗獷的抽象背景上，記錄下這場跨越物種的科技合作。兩者之間的無聲默契，重新定義了人類對動物智慧與工藝的想像。",
+    "title": "金屬光影下的智者默契",
+    "comment_id": 5110126202,
+    "number": 2677,
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Morandi Color Palette"
+    },
+    "prompt": "A head-and-shoulders portrait painting in Abstract Expressionism style featuring a focused grey tabby cat with its face filling the frame in an intimate eye-level connection. The cat is holding a tool in its mouth, diligently adjusting a glowing luminous weather instrument attached to the horn of a large cow. The scene is reflected against a brushed metallic surface with sharp industrial reflections, rendered with high contrast gestural brushwork, large bold color fields, and a Morandi muted color palette of desaturated soft pastels and dusty grey undertones. Lit by overhead fluorescent lighting emitting neutral white 5000K institutional flat illumination. The text '2026-07-28 21:56 UTC' is clearly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在抽象表現主義的狂野筆觸與莫蘭迪低飽和色調交織下，一隻灰斑貓咪的頭肩特寫被映照在冷硬的金屬牆面上，牠正聚精會神地用嘴叼住工具，幫一頭大母牛調整牛角上的發光氣象儀器，上方日光燈管發出微弱而均勻的螢光。",
+    "inspiration": "奧地利維也納獸醫醫學大學的研究團隊首次發現母牛 Verónika 能夠靈活使用工具，刷新了科學界對家畜智力的認識。",
+    "news_inspiration": [
+      "瑞士聯邦鐵路宣布在其鐵路軌道上試行可拆卸式太陽能電池板，將交通基建轉化為可再生能源發電廠。",
+      "丹麥哥本哈根啟動了「真人圖書館」計畫，允許民眾像借閱圖書一樣「借閱」不同背景的人進行深度交流。",
+      "奧地利維也納獸醫醫學大學的研究團隊首次發現母牛 Verónika 能夠靈活使用工具，刷新了科學界對家畜智力的認識。",
+      "辛巴威卡里巴區的志願者組成「疫苗單車隊」，騎車穿梭於偏遠村莊，為無法前往醫院的女孩提供HPV疫苗接問服務。"
+    ],
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "冷色調藍青配色",
+      "前爪輕觸或拍打物件",
+      "框中框構圖",
+      "條紋光與光斑照射",
+      "極致蓬鬆白貓",
+      "厚塗油彩與幾何質感結合",
+      "立體派與拼布人偶風格",
+      "古董琴房或舊畫室場景",
+      "等距攝影與俯瞰視角",
+      "文字與時間戳記規範",
+      "充氣 PVC 質感與光澤"
+    ]
   }
 ]
