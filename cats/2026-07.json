@@ -11498,5 +11498,41 @@
       "texture": "Velvet",
       "color_palette": "Vermilion and Gilt"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Minimalist Architecture Photography",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Spotlight",
+      "texture": "Translucent Resin",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 2671,
+    "news_inspiration": [
+      "位於新加坡的特色雞尾酒吧 FURA 因推出水母馬丁尼與永續調酒概念，榮獲 2026 年世界最佳酒吧大獎。",
+      "烏干達當局成功將數隻長頸鹿遷移至保護區內的新棲息地，以保護牠們免受油氣探勘工程的影響。",
+      "美國北卡羅來納州迎來四窩極危物種「紅狼」幼崽的誕生，為該物種的野外復育帶來重大曙光。",
+      "穿越瑞士阿爾卑斯山脈的百年蒸氣觀光鐵路於近期舉辦盛大慶典，歡慶開行 100 週年。"
+    ],
+    "idea": "採用極簡建築攝影風格，一隻純白短毛貓在霓虹螢光色調的巨型混凝土弧形建築邊緣，用前爪輕輕拍打並試圖抓取上方投射而下的聚光燈影。",
+    "title": "霓彩弧光下的捕影者",
+    "comment_id": 5102949166,
+    "story": "寂靜無人的幾何建築群中，流線型的柱體在霓虹燈光下宛如透明樹脂般透亮。白貓在傾斜的巨大牆面頂端敏捷地移動，好奇地追逐著光影變化，將肅穆的現代建築轉化為專屬於牠的幾何遊樂場。",
+    "avoid_list": [
+      "繁體中文 / 正體字文字提示",
+      "橘貓或虎斑貓主角",
+      "四足站立或趴臥姿勢",
+      "框中框構圖手法",
+      "生物發光與螢光效應",
+      "古典藝術風格融合",
+      "透明容器與玻璃球體",
+      "三點打光與輪廓光",
+      "精緻紋理與工藝質感",
+      "大地色與復古色調",
+      "迷你微縮世界構圖",
+      "擬人化職業場景"
+    ],
+    "inspiration": "original",
+    "prompt": "Minimalist architecture photography of a pure white short-haired cat on the edge of a massive curved concrete building in a calm graphic composition. The cat is lightly tapping with its front paw, attempting to catch a bright narrow beam spotlight cast from above. Clean geometric building lines with dense edge-to-edge detail, full-bleed frame-filling composition, and bold negative space. Shot on 35mm lens, f/2.8, with sharp high-contrast lighting creating deep darkness falloff. Neon fluorescent colors with electric pink, lime green, and hot cyan glowing against the sleek translucent resin-like concrete facade. Crisp visual details captured in real photographic texture with subtle film grain. The date and time '2026-07-28 10:21 UTC' is visually displayed in glowing digital text on the concrete wall in clear English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
