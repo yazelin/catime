@@ -11570,5 +11570,45 @@
       "考古學家在英國（UK）出土了一塊距今約 50 萬年前的象骨，證實古人類當時已懂得將珍貴骨骼製成可重複使用的打磨鎚來修整石器。"
     ],
     "comment_id": 5104178599
+  },
+  {
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Venetian Blind Light",
+      "texture": "Leather",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "season": "summer",
+    "story": "鈴鈴戴著小巧的草帽在藍青色的向日葵田中追尋蝴蝶，一不小心被花莖絆倒，順勢趴在花叢裡翻開粉紅肉掌露出肚子撒嬌。百葉窗條紋般的陽光灑在她皮革質感的迷你草帽與綿密白毛上，脖子上的粉紅鈴鐺發出清脆響聲，將夏日探險變成了一場歡樂的慶典。",
+    "idea": "採用Q版新年插畫風格與俯臥花海俯瞰構圖，展現極致蓬鬆的白貓鈴鈴戴著迷你草帽與太陽花，在冷色調藍青色的向日葵花海中翻滾撒嬌的萌趣瞬間。",
+    "inspiration": "original",
+    "number": 2673,
+    "title": "夏日藍海的花間翻滾",
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "comment_id": 5105988351,
+    "is_seasonal": true,
+    "news_inspiration": [
+      "在美國西雅圖，一隻患有罕見脊椎畸形、外形獨特的可愛小浣熊「Jimothy」在網路上爆紅，吸引了數百萬網友的關注。",
+      "在南非，兩名年輕學生憑藉著以人本連結與環保為主軸的社區重塑設計，榮獲2026年聖戈班建築學生競賽的全球首獎。",
+      "在美國北卡羅來納州，瀕臨絕種的紅狼保育計畫迎來好消息，今年已成功誕生了四窩紅狼幼犬，為物種復育帶來曙光。",
+      "在埃及休士頓的埃及領事館與觀光文物部合作下，美國成功向埃及歸還了四件流落海外的不同時期珍貴古代文物。"
+    ],
+    "prompt": "A cute Q-version chibi Lunar New Year style illustration, bird's-eye top-down view looking directly down at Lingling, an extremely fluffy pure white (#FFFFFF) longhair cat with cloud-like fur. Lingling has huge round sapphire-blue (#0F52BA) eyes occupying 1/3 of her small round face, pale pink (#FFB6C1) nose and inner ears, and a pink (#FF69B4) ribbon bow collar around her neck featuring a clearly visible, centered small golden (#FFD700) bell beneath the bow knot. Lingling is wearing a miniature genuine leather straw hat decorated with a small sunflower, lying playfully on her back in a vast sea of blue-teal sunflowers, rolling over and showing her soft pink paw pads to the viewer. Dramatic venetian-blind parallel light and shadow stripes fall across her fluffy white body, creating a striking graphic shadow pattern. Festive elements, red lanterns, and floral ornaments frame the dense sea of blossoms. Cool blue-teal color grading with serene icy undertones. Summer dynamic atmosphere. Visually integrated in the corner, the date and time '2026-07-28 15:09 UTC' is neatly rendered in crisp clear English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文 / 正體字文字提示",
+      "橘貓或虎斑貓主角",
+      "四足站立或趴臥姿勢",
+      "框中框構圖手法",
+      "生物發光與螢光效應",
+      "古典藝術風格融合",
+      "透明容器與玻璃球體",
+      "三點打光與輪廓光",
+      "精緻紋理與工藝質感",
+      "大地色與復古色調",
+      "迷你微縮世界構圖",
+      "擬人化職業場景"
+    ]
   }
 ]
