@@ -24972,5 +24972,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-28_1021_UTC.webp",
     "inspiration": "original",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-28_1229_UTC.webp",
+    "timestamp": "2026-07-28 12:29 UTC",
+    "number": 2672,
+    "status": "success",
+    "title": "翠竹影下的深湖彈跳捕手",
+    "inspiration": "科學家在馬拉威（Malawi）的馬拉威湖研究發現，一種湖蠅幼蟲能利用體內的橡膠狀蛋白質調節氣囊，每天潛入超過 200 公尺深的湖底以躲避天敵。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
