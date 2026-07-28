@@ -11683,5 +11683,45 @@
       "充氣 PVC 質感與光澤"
     ],
     "story": "在凱恩斯廣袤的無重力海底世界中，貓咪優雅地划過如繁花盛開的巨大巨型珊瑚礁草原。冷冽的螢光燈穿透清澈水體，映照出流動的植物藤蔓線條與迷幻的漩渦水波，每一滴水珠都在牠身旁凝結成美麗的藝術篇章。"
+  },
+  {
+    "story": "身為碼頭的老大，船長在炎炎夏日最喜歡站在防波堤最高處吹海風。雖然身軀壯碩、戴著眼罩且表情堅毅，但只要看到釣竿末端傳來震動、發現魚影，牠那份沉穩威嚴就會瞬間被想吃魚的渴望給融化。",
+    "style_picks": {
+      "art_style": "Dreamy Pastel Editorial",
+      "composition": "Orthographic Projection",
+      "lighting": "Spotlight",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "character_name": "船長",
+    "news_inspiration": [
+      "美國三藩市的救援人員與無人機團隊合作，成功救出一隻在三藩市灣奮力游泳數英里的小型犬，並讓牠與家人溫馨重聚。",
+      "奧地利維也納獸醫大學的科學家發現一頭名為 Veronika 的母牛竟然會靈活操作工具，打破了人類對牛隻智商的傳統認知。",
+      "芬蘭研究團隊發現，進行 30 分鐘的桑拿浴並搭配短暫冷水澡，能有效迅速提升人體的各類白血球與免疫細胞功能。",
+      "巴西的一起輕微車禍現場，兩位駕駛並沒有發生爭執或口角，反而選擇互相擁抱安慰對方，溫馨畫面在網路引發熱烈迴響。"
+    ],
+    "number": 2676,
+    "idea": "這是一幅採用夢幻粉彩編輯攝影風格的創作，以正交投影視角呈現大型虎斑貓「船長」坐在港口防波堤頂端，戴著草帽並用嘴咬著一支木製釣竿，釣線垂落入底下泛著黃昏琥珀色光芒的海面。",
+    "title": "防波堤上的夏日垂釣",
+    "is_seasonal": true,
+    "character": "captain",
+    "comment_id": 5109612635,
+    "prompt": "A dreamy pastel editorial photograph in orthographic projection with straight-on flat rendering. A large, stocky brown classic tabby cat named Captain, featuring bold black stripes, scruffy coarse fur, a faded red bandana around its neck, a prominent V-shaped notch on its left ear, a white chest bib, and white mitten paws on all four feet. Its left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric, and its right eye is piercing emerald green. The cat is wearing a straw hat and holding a small wooden fishing rod in its mouth, sitting on top of a concrete harbor breakwater. The fishing line dangles down into the calm ocean water glowing with warm amber golden light from a summer sunset dusk. The atmosphere features a dreamy pastel cotton candy cloud backdrop with whimsical surreal styling and warm amber color grading. Clean digital overlay text displaying '2026-07-28 20:56 UTC' in crisp white typography is visually rendered in the corner of the photograph. Captured on a 35mm lens, f/1.8, high-key directional lighting, soft subtle grain, realistic photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "冷色調藍青配色",
+      "前爪輕觸或拍打物件",
+      "框中框構圖",
+      "條紋光與光斑照射",
+      "極致蓬鬆白貓",
+      "厚塗油彩與幾何質感結合",
+      "立體派與拼布人偶風格",
+      "古董琴房或舊畫室場景",
+      "等距攝影與俯瞰視角",
+      "文字與時間戳記規範",
+      "充氣 PVC 質感與光澤"
+    ],
+    "season": "summer"
   }
 ]

@@ -25012,5 +25012,18 @@
     "status": "success",
     "title": "深海草原的流光流轉",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-28_1903_UTC.webp"
+  },
+  {
+    "character_name": "船長",
+    "number": 2676,
+    "status": "success",
+    "title": "防波堤上的夏日垂釣",
+    "is_seasonal": true,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "captain",
+    "timestamp": "2026-07-28 20:56 UTC",
+    "inspiration": "original",
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-28_2056_UTC.webp"
   }
 ]
