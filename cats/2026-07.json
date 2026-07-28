@@ -11759,5 +11759,43 @@
       "文字與時間戳記規範",
       "充氣 PVC 質感與光澤"
     ]
+  },
+  {
+    "story": "失竊多年的畢卡索真跡畫作重見天日，被精心展示於充滿秋日琥珀光采的美術館中。墨墨佇立於鏡面展台前，優雅地凝視著畫中的抽象線條，彷彿在與鏡像中的異我對話，為這場藝術盛宴增添了一抹神秘而肅穆的氣息。",
+    "inspiration": "法國警方於巴黎近郊查獲毒品案件時，意外找回一幅價值高達1200萬歐元且失竊已久畢卡索真跡畫作，並即將歸還給原所有人。",
+    "character": "momo",
+    "character_name": "墨墨",
+    "number": 2678,
+    "news_inspiration": [
+      "法國警方於巴黎近郊查獲毒品案件時，意外找回一幅價值高達1200萬歐元且失竊已久畢卡索真跡畫作，並即將歸還給原所有人。",
+      "法國古蹟考古團隊於多爾多涅省的豐德歌姆洞穴（Font-de-Gaume）中，首次從岩畫黑色顏料內檢測出木炭成分，透過碳14測定順利揭開這批史前壁畫的確切年代。",
+      "德國一名樂高迷在紐倫堡發揮極致創意，使用超過65,000塊積木拼湊出一支長達2公尺的超大巴伐利亞香腸，成功打破金氏世界紀錄。",
+      "研究人員在馬拉威湖發現一種搖蚊幼蟲具有極佳的深海適應力，其體內彈性蛋白能透過酸鹼值變化伸縮氣囊，每天可潛入超過200公尺深的水下躲避天敵。"
+    ],
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "comment_id": 5110534887,
+    "prompt": "Museum gallery installation view of Momo, a sleek slender solid-black (#0A0A0A) Bombay-style shorthair cat with satin-sheen fur, a tiny natural white locket tuft (#FFFFFF) on ventral chest, long prominent white whiskers, large luminous golden-amber (#D4A017) eyes, a single dark-grey (#696969) ring at the tail tip, and a single small gold hoop earring (#FFD700) on its LEFT ear. Momo stands on a glossy reflection surface, gracefully gazing at a famous abstract Picasso painting framed inside a glass display cabinet. Doppelganger mirror composition with uncanny symmetry and conceptual self-encounter, glossy plastic toy texture, smooth high-shine vinyl figure aesthetic with subtle reflections. Track lighting and volumetric light rays piercing through atmospheric dust particles creating dramatic god rays. Cozy nostalgic warmth with a warm amber color grading, autumn palette of golden yellows and burnt orange. Clean white walls and polished floors in a contemporary exhibition space. Visually displayed in clean crisp typography in the bottom corner of the image is the exact date and time text '2026-07-28 22:51 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "冷色調藍青配色",
+      "前爪輕觸或拍打物件",
+      "框中框構圖",
+      "條紋光與光斑照射",
+      "極致蓬鬆白貓",
+      "厚塗油彩與幾何質感結合",
+      "立體派與拼布人偶風格",
+      "古董琴房或舊畫室場景",
+      "等距攝影與俯瞰視角",
+      "文字與時間戳記規範",
+      "充氣 PVC 質感與光澤"
+    ],
+    "idea": "在美術館展場的藝廊空間中，採用鏡像異我構圖與亮面塑膠質感，呈現墨墨優雅地凝視展櫃內失竊多年後剛被尋回的畢卡索名畫。",
+    "title": "琥珀鏡像下的尋回"
   }
 ]
