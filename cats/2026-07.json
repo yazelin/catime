@@ -11868,5 +11868,37 @@
     },
     "idea": "這是一幅採用時尚設計草圖風格與長卷全景構圖的手稿，隻身於暴風雪朦朧中的高彩橘貓正在鐵絲網纏繞的巨型冰雕上專注地刷塗防腐醬汁。",
     "prompt": "Fashion croquis sketch style, designer sketchbook aesthetic with loose pencil and marker lines, stylized elongated figures, and vibrant color swatches. Extreme wide handscroll continuous panoramic composition with a right-to-left reading flow and an oblique bird's-eye angle. A high-saturation, vivid orange cat stands alone on the edge of a giant fish-shaped ice sculpture wrapped in coiled tangled wire mesh and industrial netting, focused on brushing preservative sauce onto the surface. Harsh polar snowstorm atmospheric lighting with cold blue-white palette, heavy falling snow veil, and fogged distance creating a painterly weather mood. The text '2026-07-29 01:24 UTC' is clearly and visually displayed in the corner of the sketchbook paper as an artist note. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "comment_id": 5113486929,
+    "character_name": "麻糬",
+    "title": "深夜超商試吃員",
+    "prompt": "這是一張Q版貼圖角色集風格的創作，設定在深夜便利商店的莫蘭迪色調浮島場景中，伴隨著微微冷冽的螢光燈光影與柔焦霧面質感。. The date and time '2026-07-29 04:57 UTC' is visually displayed in the image. chibi sticker character set, multiple cute Q-version poses, die-cut white outlines, playful expressions, kawaii sticker-pack layout, bright flat colors, floating island in the sky, miniature landscape on a levitating platform, white clouds, aerial perspective, overhead fluorescent lighting, neutral white 5000K, institutional flat illumination, no shadows, soft-focus matte haze, dreamy diffused blur, gentle glowing veil over the image, hazy atmospheric softness, low-contrast ethereal finish, Morandi muted color palette, desaturated soft pastels, dusty grey undertones, quiet elegance\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Mochi — chubby rounded shorthair with a white #FFFFFF base coat and bright orange #FF8C00 patches. RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Dorsal: heart-shaped orange #FF8C00 saddle centered on the upper back. RIGHT front paw: solid orange #FF8C00 mitten to the wrist. LEFT front paw: pure white #FFFFFF. Eyes: large round amber #FFBF00. Nose: pink #FFB6C1 with a tiny orange center dot. Tail: orange-and-white ringed bands. Body: short stubby legs and spherical torso. [HARD CONSTRAINTS] 1) RIGHT half-face orange mask ONLY — LEFT face MUST be white. 2) Heart-shaped orange saddle present on dorsal back. 3) RIGHT front paw orange mitten, LEFT front paw white — NEVER reversed. 4) White belly ALWAYS. 5) Amber #FFBF00 eyes ONLY — NEVER blue or green. 6) Shorthair ONLY — NEVER fluffy or long. 7) Orange patches solid — NO tabby stripes within patches. End.\nNEGATIVE CONSTRAINTS (must not appear): left face orange, left paw orange, fully orange cat, tabby stripes, striped markings, mackerel pattern, longhair, fluffy coat, orange belly, both paws orange, both paws white, missing back patch, no heart saddle, slender build, skinny cat, green eyes, blue eyes, symmetrical face markings, even face split, grey patches, black patches, calico tricolor, tortoiseshell, missing nose dot, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文（正體字）",
+      "百葉窗條紋光影",
+      "藍青色調",
+      "朱紅與描金配色",
+      "螺旋漩渦構圖",
+      "伸爪觸碰或拍打",
+      "戴草帽",
+      "鏡面反射與鏡像構圖",
+      "具備特定名字與外觀特徵的貓",
+      "用嘴咬或叼住物品",
+      "單爪點擊或記錄數據"
+    ],
+    "news_inspiration": [],
+    "idea": "這是一張Q版貼圖角色集風格的創作，設定在深夜便利商店的莫蘭迪色調浮島場景中，伴隨著微微冷冽的螢光燈光影與柔焦霧面質感。",
+    "number": 2681,
+    "character": "mochi",
+    "inspiration": "original",
+    "story": "圓滾滾的橘白貓麻糬悄悄爬進便利商店的關東煮加熱台旁邊，正目不轉睛地盯著高湯裡滾動的花生麻糬串與貢丸。牠的小胖爪緊貼著壓克力防塵罩，嘴邊泛著口水，肚子隨呼吸輕輕晃動，將深夜的便利商店變成了牠專屬的試吃天堂。",
+    "style_picks": {
+      "art_style": "Chibi Sticker Character Set",
+      "composition": "Floating Island Scene",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
