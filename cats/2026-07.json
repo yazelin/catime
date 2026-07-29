@@ -11900,5 +11900,40 @@
       "texture": "Soft-Focus Matte Haze",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "prompt": "A transparent glass Christmas bauble diorama capturing an overhead knolling flat lay view of a tiny detailed urban planning scene. In an organized grid layout at 90-degree angles, folded paper origami architecture models, green landscape textures, and precise blue print sketches are neatly arranged. A delicate origami calico cat made of paper sculpture with sharp geometric creases leans forward, walking carefully through the paper cityscape. Rembrandt lighting from a single light source at 45 degrees creates dramatic chiaroscuro with deep shadows and warm highlights. Cinematic reflections glow on the glass sphere with a cozy warm amber and autumn color palette of burnt orange and golden yellow. Visually displayed clearly on one of the paper blueprints inside the scene is the exact text '2026-07-29 07:38 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5114704219,
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Knolling Photography",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Origami",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "在琥珀色秋日光澤的聖誕裝飾球微縮模型中，一隻精緻的摺紙三花貓俯身在俯視排開的都市藍圖與永續建築模型間，以倫勃朗光影細緻穿梭於紙雕街區。",
+    "inspiration": "南非約翰尼斯堡的兩位建築系學生憑藉兼具環保與社區連結的創新都市設計，榮獲 2026 年全球最大型學生建築大獎。",
+    "avoid_list": [
+      "繁體中文（正體字）",
+      "百葉窗條紋光影",
+      "藍青色調",
+      "朱紅與描金配色",
+      "螺旋漩渦構圖",
+      "伸爪觸碰或拍打",
+      "戴草帽",
+      "鏡面反射與鏡像構圖",
+      "具備特定名字與外觀特徵的貓",
+      "用嘴咬或叼住物品",
+      "單爪點擊或記錄數據"
+    ],
+    "title": "秋色微光中的理想城",
+    "news_inspiration": [
+      "美國休士頓與埃及政府合作，成功將四件流失海外的珍貴古埃及文物安全歸還至埃及開羅。",
+      "南非約翰尼斯堡的兩位建築系學生憑藉兼具環保與社區連結的創新都市設計，榮獲 2026 年全球最大型學生建築大獎。",
+      "匈牙利布達佩斯著名的「胖警察」青銅雕像因象徵幸運與財運，吸引無數國際觀光客排隊撫摸其光亮的大肚腩祈福。",
+      "新加坡於濱海灣金沙會展中心盛大舉辦 2026 年寵物節，匯集超過 300 家參展商與公益領養活動，成為熱門文化話題。"
+    ],
+    "number": 2682,
+    "story": "這隻敏捷的三花貓在排列整齊的微型建築模型間踱步，時而湊近嗅聞以環保素材疊成的綠植造景，時而輕踏於精密的草圖之間。這座由南非學生設計的夢幻綠色城市，在牠的巡視下彷彿擁有了生命，展現出人與自然和諧共生的動人願景。"
   }
 ]
