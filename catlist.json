@@ -25092,5 +25092,14 @@
     "number": 2683,
     "title": "星雲下的調焦時刻",
     "inspiration": "original"
+  },
+  {
+    "timestamp": "2026-07-29 12:54 UTC",
+    "title": "星雲纖維與貓爪的強透視交會",
+    "inspiration": "美國密西根州與加拿大蒙特婁的研究團隊發表詹姆斯·韋伯太空望遠鏡（JWST）最新影像，首度清晰捕捉到超大質量黑洞如何藉由冷氣體纖維餵養自身的過程。",
+    "number": 2684,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-29_1254_UTC.webp",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
