@@ -12397,5 +12397,41 @@
     "news_inspiration": [],
     "prompt": "Grand Theft Auto art style bold cel-shaded illustration with a dramatic tilt-shift miniature composition. A streetwise orange cat on all fours carefully steps on a rotating sausage grilling machine at a bustling Chinese night market stall. Narrow selective focus with blurred foreground and background creating a toy-like miniature effect. A high-contrast narrow beam spotlight sharply illuminates the cat and grill against deep dark falloff. Shimmering liquid metal heat distortion ripples through the scene. Vibrant palette dominated by festive Chinese red and rich gold accents with high color saturation and an aggressive urban attitude. The date and time '2026-07-30 12:22 UTC' is visibly displayed in clear English text in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2696
+  },
+  {
+    "inspiration": "在索羅門群島，藝術家於十年前因海平面上升而沉沒的凱爾島原址設立了一座沉沒雕塑，將其轉化為珊瑚與海洋生物的新家園。",
+    "prompt": "Cyanotype print illustration on sun-exposed paper with deep Prussian blue monochrome tones, blueprint aesthetic, and watercolor splatter ink-spray texture. A dynamic tabby cat leaps powerfully off the head of a submerged, coral-encrusted geometric colossal sculpture underwater to catch swarming tropical fish. Forced perspective composition with exaggerated foreshortening, featuring the cat's paw thrusting directly toward the camera lens in dynamic confrontational framing. Detailed with refined vermilion red and metallic gold gilt outlines, scattered fluid stains, and dripping pigment. The text '2026-07-30 15:00 UTC' is clearly visually displayed in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在美國蒙大拿州的黃石河，一名青少年憑藉熟練的牛仔套繩技巧，成功救起了一名落水溺水的男子。",
+      "在索羅門群島，藝術家於十年前因海平面上升而沉沒的凱爾島原址設立了一座沉沒雕塑，將其轉化為珊瑚與海洋生物的新家園。",
+      "波蘭一名男子在森林採摘漿果時，意外發現了二戰時期英國皇家空軍蘭開斯特轟炸機的殘骸歷史遺跡。",
+      "科學家在厄瓜多的加拉巴哥群島發現，當地的巨型雛菊為了適應高溫氣候，演化出了獨特的耐熱葉片形狀。"
+    ],
+    "title": "沉寂海床上的飛躍",
+    "avoid_list": [
+      "貓咪用爪子伸向物體",
+      "用嘴叼著工具或物品",
+      "透明玻璃容器或魚缸內景",
+      "深色背景搭金箔與金線勾勒",
+      "雙色調與青橙對比調色",
+      "熱成像與紅外線視覺風格",
+      "平視對稱與俯瞰對角線構圖",
+      "極簡大面積留白負空間",
+      "3D C4D 盲盒與低多邊形質感",
+      "柔和漫射光與百葉窗條紋光影",
+      "帶有立體貼花與紙藝質感的貓咪毛髮",
+      "角落標註 UTC 時間戳記"
+    ],
+    "idea": "採用藍曬法呈現，一隻斑紋貓在沉沒於海底的幾何雕塑巨像頭頂發起強力的躍擊，利用強制透視伸手構圖，讓貓爪彷彿從畫面深處直衝鏡頭前方。",
+    "comment_id": 5132549946,
+    "story": "在水下雕塑遺跡中，斑紋貓正輕盈地在生滿珊瑚的石雕鼻尖上跳躍，試圖抓取周圍穿梭的熱帶小魚。深海的神秘氛圍被藍曬獨特的深藍與朱紅描金細節巧妙地揉合，水彩潑濺墨點更為海浪的流動感增添了藝術張力。",
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Window Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "number": 2697
   }
 ]
