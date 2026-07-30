@@ -12265,5 +12265,37 @@
     "prompt": "Chromolithograph style illustration with vibrant saturated colors, multi-layered printing, and ornate Victorian poster composition. Shallow depth-of-field close-up of a black cat inside a moody interior woodworking shop with polished carbon fiber weave details. The black cat holds a small crafted wooden broom in its mouth, handing it through a window to a friendly dairy cow waiting outside. Venetian blind striped lighting creates dramatic parallel light and shadow bands across the subject. Elegant color palette of cinnabar vermilion red with fine metallic gold gilt outlines and lacquer richness. Soft background bokeh and detailed tactile textures. Prominently displayed in clear legible text in the image is '2026-07-30 01:18 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5125241631,
     "story": "午後的條紋光影灑落在朱紅與金漆交輝的碳纖維工作檯上，黑貓趴在檯前，嘴裡叼著一把輕巧的細木掃帚。窗外名叫維羅妮卡的乳牛伸長了脖子，接過掃帚準備為自己抓癢，兩者在靜謐的工坊窗前展現了出乎意料的默契。"
+  },
+  {
+    "prompt": "Rococo style art illustration, flamboyant pastel colors, flowing ornamental curves, elaborate decorative detail, light playful elegance. A calico cat holding a chisel in its mouth, attentively embedding a specialized swiftlet brick into a high-ceilinged wall inside a luxurious grand palace wall panel. Composition features expansive negative space with minimalist breathing room and an off-center placement, framing the small subject in peaceful emptiness. Warm orange flickering candlelight creates an intimate atmosphere with soft dancing shadows. Fine black brush lines edged with metallic gold outline the detailed feather textures on the wall and wings with a gilded ink outline texture and lustrous gilt contours against a dark ground. High saturation vivid colors, bold vibrant hues, and energetic palette with eye-catching contrast. Embedded elegantly into a subtle corner ornamental plaque, the text reading '2026-07-30 04:45 UTC' is visually displayed in clear English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "燭光宮牆上的雨燕築巢曲",
+    "number": 2693,
+    "story": "為了讓遠道而來的遷徙雨燕能在雕樑畫棟的宮殿中安心繁衍，優雅的花貓穿梭於燭光搖曳的長廊，細心地將一塊塊雨燕磚嵌進壁畫之間。暖黃的光暈映照著它專注的側影，金線勾勒的羽毛紋理在夜色中爍爍生輝。",
+    "inspiration": "蘇格蘭實施最新建築法規，要求所有新建住宅皆須安裝專用「雨燕磚」，為遠道而來的遷徙鳥類提供築巢與繁殖空間。",
+    "comment_id": 5126630697,
+    "avoid_list": [
+      "貓咪伸爪觸碰物件",
+      "極致俯視與鳥瞰構圖",
+      "透明玻璃容器微縮世界",
+      "發光氣泡與微粒流光",
+      "夢幻柔焦與粉彩莫蘭迪色調",
+      "藍黃/藍橘高對比互補配色",
+      "強烈視覺質感疊層肌理",
+      "帶有繁體中文與時間戳記註記"
+    ],
+    "idea": "採用華麗璀璨的洛可可藝術風格，一隻花貓正以嘴咬著鑿刀，專注地在豪華宮殿的挑高牆面內嵌專用磚塊，畫面運用廣闊的留白負空間構圖，並以精細的描金墨線勾勒出高飽和鮮豔色的羽翼細節。",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Negative Space Composition",
+      "lighting": "Candlelight",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [
+      "美國北卡羅萊納州傳出野生動物保育佳音，極度瀕危的紅狼今年成功迎來四窩新生的幼崽，為物種復育帶來曙光。",
+      "蘇格蘭實施最新建築法規，要求所有新建住宅皆須安裝專用「雨燕磚」，為遠道而來的遷徙鳥類提供築巢與繁殖空間。",
+      "印度阿薩姆邦的野生動物專家成功救助了一隻與母熊走失且輕微骨折的五個月大懶熊幼崽，目前正進行康復照護。",
+      "埃及開羅政府與美國執法部門合作，成功追回並運回四件流失海外且年代悠久珍貴的古埃及文物。"
+    ]
   }
 ]
