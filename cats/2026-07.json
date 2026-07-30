@@ -12233,5 +12233,37 @@
       "texture": "Low Poly",
       "color_palette": "Teal and Orange"
     }
+  },
+  {
+    "number": 2692,
+    "inspiration": "奧地利維也納的研究人員發現鄉間一頭名為「維羅妮卡」的乳牛能熟練使用棍棒與掃帚給自己抓癢，成為首個被記錄會靈活使用工具的乳牛（奧地利，維也納）。",
+    "title": "朱閣條影下的贈帚禮",
+    "style_picks": {
+      "art_style": "Chromolithography",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Venetian Blind Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "news_inspiration": [
+      "奧地利維也納的研究人員發現鄉間一頭名為「維羅妮卡」的乳牛能熟練使用棍棒與掃帚給自己抓癢，成為首個被記錄會靈活使用工具的乳牛（奧地利，維也納）。",
+      "埃及政府與美國合作成功追回四件流失海外的珍貴古埃及文物，並順利運回國內進行展出與保護（埃及，開羅）。",
+      "澳洲凱恩斯的公民科學團隊在大堡礁附近發現了一片面積達 3,973 平方公尺的巨型珊瑚群落，規模相當於半個足球場大（澳洲，凱恩斯）。",
+      "印尼政府為保護瀕危的蘇門答臘猩猩棲息地，宣佈撤銷蘇門答臘島上數十家企業的採礦與伐木許可（印尼，蘇門答臘）。"
+    ],
+    "idea": "這幅彩色石版印刷風格的作品採用淺景深特寫，呈現一隻黑貓在鑲有碳纖維材質的木工坊內，於百葉窗條紋光與朱紅描金色調的交織下，用嘴叼著小柄掃帚遞給窗外的乳牛。",
+    "avoid_list": [
+      "貓咪伸爪觸碰物件",
+      "極致俯視與鳥瞰構圖",
+      "透明玻璃容器微縮世界",
+      "發光氣泡與微粒流光",
+      "夢幻柔焦與粉彩莫蘭迪色調",
+      "藍黃/藍橘高對比互補配色",
+      "強烈視覺質感疊層肌理",
+      "帶有繁體中文與時間戳記註記"
+    ],
+    "prompt": "Chromolithograph style illustration with vibrant saturated colors, multi-layered printing, and ornate Victorian poster composition. Shallow depth-of-field close-up of a black cat inside a moody interior woodworking shop with polished carbon fiber weave details. The black cat holds a small crafted wooden broom in its mouth, handing it through a window to a friendly dairy cow waiting outside. Venetian blind striped lighting creates dramatic parallel light and shadow bands across the subject. Elegant color palette of cinnabar vermilion red with fine metallic gold gilt outlines and lacquer richness. Soft background bokeh and detailed tactile textures. Prominently displayed in clear legible text in the image is '2026-07-30 01:18 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5125241631,
+    "story": "午後的條紋光影灑落在朱紅與金漆交輝的碳纖維工作檯上，黑貓趴在檯前，嘴裡叼著一把輕巧的細木掃帚。窗外名叫維羅妮卡的乳牛伸長了脖子，接過掃帚準備為自己抓癢，兩者在靜謐的工坊窗前展現了出乎意料的默契。"
   }
 ]
