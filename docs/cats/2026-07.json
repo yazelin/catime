@@ -12562,5 +12562,41 @@
       "條紋光影與百葉窗折射",
       "中國紅金主色調搭配"
     ]
+  },
+  {
+    "idea": "在一座舊式的公共電車車廂內，一隻三花貓一腳輕踏著散開的市區地圖，正好奇地俯身凝視鏡面水光中映射的黃藍交錯景色，整體展現溫馨的吉卜力風格。",
+    "story": "葡萄牙波多的免費公車正式啟航，這隻習慣搭便車的街貓也興高采烈地踏上旅途。牠在靠窗的水窪倒影邊來回晃盪，隨著黃色車廂與藍天掠過窗外，專心地用爪子摸索著專屬於牠的城市冒險路線。",
+    "inspiration": "葡萄牙波多正式實施免費公共交通政策，針對當地居民提供免付費的大眾運輸服務以推廣綠色出行。",
+    "news_inspiration": [
+      "在印度阿薩姆邦，野生動物專家成功救起一隻與母親走失且腿部輕微骨折的瀕危懶熊幼崽，目前在專業照顧下恢復狀況良好。",
+      "葡萄牙波多正式實施免費公共交通政策，針對當地居民提供免付費的大眾運輸服務以推廣綠色出行。",
+      "美國北卡羅萊納州迎來多窩極度瀕危紅狼幼崽的誕生與健康成長，創下近年野外生態復育的重要里程碑。",
+      "埃及文化部門與駐外領事館合作，成功從美國休士頓追回四件流失海外的珍貴古埃及歷史文物並送回開羅。"
+    ],
+    "number": 2702,
+    "avoid_list": [
+      "繁體中文與英文文字要求",
+      "朱紅與金漆描金線條",
+      "星雲輝光與藍紫色彩",
+      "極低角度與強制透視構圖",
+      "洛可可與雙色調極簡風格",
+      "擺放精密零件的Knolling平鋪排列",
+      "貓咪用嘴叼著物體",
+      "四腳踩踏或凝視特殊儀器設備",
+      "帶有 timestamp 視覺時間戳記",
+      "古老溫室與舊書店角落",
+      "條紋光影與百葉窗折射",
+      "中國紅金主色調搭配"
+    ],
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "comment_id": 5137161078,
+    "prompt": "Studio Ghibli anime style illustration of a curious calico cat inside an old-style yellow public tram. The cat gently rests one paw on a spread-out city map, curiously leaning down to gaze into a glassy water puddle reflecting a vibrant mix of the yellow carriage and blue sky outside the window. Soft watercolor background, warm pastoral atmosphere, gentle character design, and a serene reflective surface with subtle ripples. Intimate close-up framing, soft even illumination, and a striking blue and yellow complementary color palette. The timestamp text '2026-07-30 22:59 UTC' is clearly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "藍黃電車的漫遊乘客"
   }
 ]
