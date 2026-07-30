@@ -12333,5 +12333,38 @@
     ],
     "prompt": "A minimalist surreal fine art portrait with a duotone color treatment using two contrasting muted tones. In the vast empty space, an entire large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a broad muscular build, a white chest bib, and white mitten paws is centered in a tall vertical frame. The cat sits quietly on top of a massive seawall block by the quiet coast. The cat's left eye (viewer perspective) is covered by a natural dark-pigmented fur patch with no straps or fabric eye patch, while its right eye is a piercing emerald green. Its left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. A tiny custom straw hat sits slightly tilted on its head. The cat holds a miniature bamboo fishing pole with its front paw, angling into the calm water. Butterfly overhead lighting casts a soft, symmetrical shadow under its nose. A timestamp text reading '2026-07-30 07:25 UTC' is visually displayed in the corner of the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "original"
+  },
+  {
+    "avoid_list": [
+      "貓咪用爪子伸向物體",
+      "用嘴叼著工具或物品",
+      "透明玻璃容器或魚缸內景",
+      "深色背景搭金箔與金線勾勒",
+      "雙色調與青橙對比調色",
+      "熱成像與紅外線視覺風格",
+      "平視對稱與俯瞰對角線構圖",
+      "極簡大面積留白負空間",
+      "3D C4D 盲盒與低多邊形質感",
+      "柔和漫射光與百葉窗條紋光影",
+      "帶有立體貼花與紙藝質感的貓咪毛髮",
+      "角落標註 UTC 時間戳記"
+    ],
+    "character": "mochi",
+    "prompt": "An illustration in Rococo style featuring an extreme low angle shot looking up at Mochi, a chubby spherical shorthair cat with short stubby legs, a pure white base coat, and bright orange patches. The cat has an orange mask over the right half of its face from nose to right ear while the left side remains white, round amber eyes with circular ring light catchlights, a pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, and a pure white left front paw. The cat is playfully squeezing its short orange right front paw into a glossy, bright blue inflatable PVC peanut mochi packaging bag inside a traditional Taiwanese old street bakery shop. The bag has a high-gloss, balloon-like puffy surface under air-filled tension. The composition uses dramatic towering perspective with flowing ornamental curves and elaborate Rococo decorative detail. Illuminated by even frontal ring light and surrounded by a moonlit indigo palette with deep night-blue and violet tones, dark dreamy blue ambiance, and cool silvery nocturnal highlights. Visible in the corner of the image is text rendered clearly in English displaying the timestamp '2026-07-30 10:10 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2695,
+    "character_name": "麻糬",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Extreme Low Angle",
+      "lighting": "Ring Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Moonlit Indigo"
+    },
+    "idea": "這是一幅結合洛可可風格與月夜靛藍色調的極低角度作品，圓滾滾的橘白貓麻糬正伸長短粗的右橘色前腳，興奮地擠進老街傳統糕餅店裡一個滿溢著環形燈光澤的亮藍色充氣PVC花生麻糬包裝袋中。",
+    "story": "夜幕低垂，老街糕餅店剛出爐了一批巨型充氣質感的花生麻糬飾品。麻糬貓巡邏至此，看到那個尺寸剛好能卡住自己肥嘟嘟身軀的亮藍色PVC袋子，眼睛頓時放大兩倍，二話不說便以蠢萌的姿勢硬是把自己塞了進去，享受著被緊緊包裹的幸福感。",
+    "title": "月夜下的花生麻糬塞塞樂",
+    "comment_id": 5129532592,
+    "inspiration": "original"
   }
 ]
