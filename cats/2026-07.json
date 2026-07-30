@@ -12464,5 +12464,41 @@
     "prompt": "Documentary photography, candid moment on a night intercity bus. A stray calico cat sitting on a puffy, padded brown quilted down jacket by a seat window, looking out through the metal frame gap of the seat back in front, frame within a frame composition. Overhead fluorescent neutral white 5000K lighting, institutional flat illumination inside the bus interior. Rain-streaked window overlooking blurred highway streetlights outside. Earth tone palette featuring terracotta, olive green, and warm brown. Shot on 35mm lens, f/2.0, natural grain, shallow depth of field, layered foreground border. Imprinted in the bottom corner of the photo is the date and time string '2026-07-30 16:27 UTC' in clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5133579931,
     "title": "深夜巴士的途經者"
+  },
+  {
+    "news_inspiration": [
+      "【南極洲危險群島】科學家透過衛星影像發現，當地的阿德利企鵝因大量食用磷蝦，其排泄物將島嶼染成粉紅色，讓研究人員得以從太空監測企鵝的飲食與生態變化。",
+      "【奧地利維也納】獸醫科學團隊首次記錄到一頭名為 Veronika 的母牛能自主使用工具，刷新了科學界對家畜認知能力的傳統印象。",
+      "【印度德拉敦】印度太空研究組織（ISRO）在此舉辦航太青年培訓營，集結全國優秀學子進行衛星遙測與太空科學的實務操作體驗。",
+      "【美國華盛頓特區】美國國家植物園特別推出慶祝建國 250 周年的全美州花特展，邀請民眾透過花卉景觀探索各州的文化與自然特色。"
+    ],
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Knolling Photography",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "貓咪用爪子伸向物體",
+      "用嘴叼著工具或物品",
+      "透明玻璃容器或魚缸內景",
+      "深色背景搭金箔與金線勾勒",
+      "雙色調與青橙對比調色",
+      "熱成像與紅外線視覺風格",
+      "平視對稱與俯瞰對角線構圖",
+      "極簡大面積留白負空間",
+      "3D C4D 盲盒與低多邊形質感",
+      "柔和漫射光與百葉窗條紋光影",
+      "帶有立體貼花與紙藝質感的貓咪毛髮",
+      "角落標註 UTC 時間戳記"
+    ],
+    "number": 2699,
+    "story": "來自各地的航太青年學子在德拉敦培訓營進行衛星實務操作，而實驗室裡的機敏花貓則在夜深人靜時踩著輕盈的步伐走過工作檯。牠輕輕用吻部觸碰光學遙測零件，在『星雲輝光』與『中國紅金』配色交織的光影下，彷彿正透過纏繞著『鐵絲網纏繞』質感纜線的儀器，向遙遠的太空傳送屬於貓族的星際訊號。",
+    "prompt": "A vintage poster art illustration with mid-century modern design and bold typography, presented in a Knolling photography style flat lay overhead view. Objects are neatly arranged at 90-degree angles in an organized grid layout on a clean background. In an interstellar telemetry laboratory, a cat on all fours intently rubs its nose against an optical frequency wave meter on a table, surrounded by precisely laid out satellite parts and delicate instruments. Text visually displayed in the image includes the timestamp '2026-07-30 18:08 UTC' in crisp English typography. The scene features a tangled wire mesh texture with coiled metal strands around the equipment. Lighting combines a nebula cosmic glow with ethereal purple and blue space light, glowing particles, and galactic haze. The color scheme is a festive red and gold palette with auspicious Chinese red dominance and bright gold accents, creating an otherworldly radiance and celebratory warmth. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "【印度德拉敦】印度太空研究組織（ISRO）在此舉辦航太青年培訓營，集結全國優秀學子進行衛星遙測與太空科學的實務操作體驗。",
+    "comment_id": 5134606028,
+    "title": "星軌間的晨光通訊",
+    "idea": "在以『復古海報』風格呈現的星際遙測實驗室中，一隻四腳著地的貓咪正專注地用鼻子蹭動桌上的光學頻波儀，整組精密的儀器與衛星零件皆以『Knolling 排列攝影』式的嚴謹幾何格局平鋪展示。"
   }
 ]
