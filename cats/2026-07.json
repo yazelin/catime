@@ -12433,5 +12433,36 @@
       "color_palette": "Vermilion and Gilt"
     },
     "number": 2697
+  },
+  {
+    "number": 2698,
+    "inspiration": "original",
+    "idea": "這是一幅採用框中框構圖與大地色系調色的紀實攝影照片，一隻流浪三花貓正蹲坐在長途巴士車窗前的膨脹絎縫羽絨外套上，透過斑駁的防護欄框架凝視著窗外。",
+    "style_picks": {
+      "art_style": "Documentary Photography",
+      "composition": "Frame Within a Frame",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Earth Tones"
+    },
+    "story": "夜班長途巴士在雨後的國道上默默前行，車廂內亮著略顯刺眼的螢光燈。一位乘客將厚重的棕色羽絨外套墊在座位旁，熟睡的三花貓則縮在衣褶間，透過前座座椅靠背的金屬框架隙縫，靜靜看著沿途後退的公路路燈。",
+    "avoid_list": [
+      "貓咪用爪子伸向物體",
+      "用嘴叼著工具或物品",
+      "透明玻璃容器或魚缸內景",
+      "深色背景搭金箔與金線勾勒",
+      "雙色調與青橙對比調色",
+      "熱成像與紅外線視覺風格",
+      "平視對稱與俯瞰對角線構圖",
+      "極簡大面積留白負空間",
+      "3D C4D 盲盒與低多邊形質感",
+      "柔和漫射光與百葉窗條紋光影",
+      "帶有立體貼花與紙藝質感的貓咪毛髮",
+      "角落標註 UTC 時間戳記"
+    ],
+    "news_inspiration": [],
+    "prompt": "Documentary photography, candid moment on a night intercity bus. A stray calico cat sitting on a puffy, padded brown quilted down jacket by a seat window, looking out through the metal frame gap of the seat back in front, frame within a frame composition. Overhead fluorescent neutral white 5000K lighting, institutional flat illumination inside the bus interior. Rain-streaked window overlooking blurred highway streetlights outside. Earth tone palette featuring terracotta, olive green, and warm brown. Shot on 35mm lens, f/2.0, natural grain, shallow depth of field, layered foreground border. Imprinted in the bottom corner of the photo is the date and time string '2026-07-30 16:27 UTC' in clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5133579931,
+    "title": "深夜巴士的途經者"
   }
 ]
