@@ -12297,5 +12297,41 @@
       "印度阿薩姆邦的野生動物專家成功救助了一隻與母熊走失且輕微骨折的五個月大懶熊幼崽，目前正進行康復照護。",
       "埃及開羅政府與美國執法部門合作，成功追回並運回四件流失海外且年代悠久珍貴的古埃及文物。"
     ]
+  },
+  {
+    "title": "防波堤上的夏日釣客",
+    "number": 2694,
+    "season": "summer",
+    "is_seasonal": true,
+    "idea": "採用極簡超現實風格，在大面積雙色調的海邊防波堤上，一隻大骨架且戴著深色眼罩的虎斑老貓正安靜地伏坐在水泥塊頂端，用前爪輕叩著一根特製的迷你草帽竹竿準備釣魚。",
+    "character_name": "船長",
+    "news_inspiration": [
+      "美國亞利桑那州鳳凰城的一家小型郵局內，一名郵政員工迅速施救，成功拯救了一名突然停止呼吸的8個月大嬰兒。",
+      "奧地利維也納獸醫醫學大學的科學家發表研究指出，一頭名為 Veronika 的乳牛被記錄到具備罕見的使用工具能力，顛覆了過往對大型家畜智力的認知。",
+      "澳洲凱恩斯外海的大堡礁發現了一片面積近4,000平方公尺的巨型珊瑚群落（Pavona clavus），其規模相當於半個足球場大，為海洋保育帶來極大希望。",
+      "馬拉威湖的科學研究發現，當地的湖蠅幼蟲每天會潜入超過200公尺的水下深處以躲避天敵，其體內的特殊彈性蛋白能在極大水壓下安全伸縮。"
+    ],
+    "story": "船長戴著頂有點歪斜的小草帽，沉穩地蹲踞在防波堤最高處。就算海風肆意吹亂牠蓬粗的毛髮，牠依然定睛凝視著海面，展現出昔日海盜般的硬派帥氣。這不只是夏日消暑的消遣，更是這位碼頭老老大對大海永不退色的堅持。",
+    "style_picks": {
+      "art_style": "Minimalist Surreal Scene",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Butterfly Lighting",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Duotone"
+    },
+    "character": "captain",
+    "comment_id": 5127951451,
+    "avoid_list": [
+      "貓咪伸爪觸碰物件",
+      "極致俯視與鳥瞰構圖",
+      "透明玻璃容器微縮世界",
+      "發光氣泡與微粒流光",
+      "夢幻柔焦與粉彩莫蘭迪色調",
+      "藍黃/藍橘高對比互補配色",
+      "強烈視覺質感疊層肌理",
+      "帶有繁體中文與時間戳記註記"
+    ],
+    "prompt": "A minimalist surreal fine art portrait with a duotone color treatment using two contrasting muted tones. In the vast empty space, an entire large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a broad muscular build, a white chest bib, and white mitten paws is centered in a tall vertical frame. The cat sits quietly on top of a massive seawall block by the quiet coast. The cat's left eye (viewer perspective) is covered by a natural dark-pigmented fur patch with no straps or fabric eye patch, while its right eye is a piercing emerald green. Its left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. A tiny custom straw hat sits slightly tilted on its head. The cat holds a miniature bamboo fishing pole with its front paw, angling into the calm water. Butterfly overhead lighting casts a soft, symmetrical shadow under its nose. A timestamp text reading '2026-07-30 07:25 UTC' is visually displayed in the corner of the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original"
   }
 ]
