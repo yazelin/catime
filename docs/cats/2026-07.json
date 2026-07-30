@@ -12366,5 +12366,36 @@
     "title": "月夜下的花生麻糬塞塞樂",
     "comment_id": 5129532592,
     "inspiration": "original"
+  },
+  {
+    "comment_id": 5130781122,
+    "idea": "這是一副採 GTA 遊戲插畫風格與移軸微縮構圖的畫面，一隻四腳踏地的橘貓正在喧鬧的中式夜市攤位前專注地踩著滾動的烤香腸機，全景沉浸在液態金屬般流動的熱氣與中國紅金的主色調中，聚光燈般的街燈精準照亮貓咪與烤架。",
+    "story": "深夜的紅金霓虹燈下，夥計們正在忙著擺攤，而這隻街頭霸王貓正踏著流暢的四肢步伐，在旋轉的香腸架上記錄著牠的夜市巡視。聚光燈穿過熱氣騰騰的油煙，將牠矯健的身影與周圍微縮模型的街景交織成一張張充滿戲劇張力的幫派封面。",
+    "inspiration": "original",
+    "title": "熱浪霓虹夜巡圖",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Spotlight",
+      "texture": "Liquid Metal",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "貓咪用爪子伸向物體",
+      "用嘴叼著工具或物品",
+      "透明玻璃容器或魚缸內景",
+      "深色背景搭金箔與金線勾勒",
+      "雙色調與青橙對比調色",
+      "熱成像與紅外線視覺風格",
+      "平視對稱與俯瞰對角線構圖",
+      "極簡大面積留白負空間",
+      "3D C4D 盲盒與低多邊形質感",
+      "柔和漫射光與百葉窗條紋光影",
+      "帶有立體貼花與紙藝質感的貓咪毛髮",
+      "角落標註 UTC 時間戳記"
+    ],
+    "news_inspiration": [],
+    "prompt": "Grand Theft Auto art style bold cel-shaded illustration with a dramatic tilt-shift miniature composition. A streetwise orange cat on all fours carefully steps on a rotating sausage grilling machine at a bustling Chinese night market stall. Narrow selective focus with blurred foreground and background creating a toy-like miniature effect. A high-contrast narrow beam spotlight sharply illuminates the cat and grill against deep dark falloff. Shimmering liquid metal heat distortion ripples through the scene. Vibrant palette dominated by festive Chinese red and rich gold accents with high color saturation and an aggressive urban attitude. The date and time '2026-07-30 12:22 UTC' is visibly displayed in clear English text in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2696
   }
 ]
