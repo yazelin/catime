@@ -12746,5 +12746,36 @@
     "inspiration": "original",
     "character_name": "船長",
     "character": "captain"
+  },
+  {
+    "title": "緋紅紡車旁的墨絲",
+    "inspiration": "original",
+    "avoid_list": [
+      "繁體中文或英文文字限制聲明",
+      "時間戳記標籤",
+      "框中框構圖",
+      "前爪撥弄或伸手動作",
+      "蝴蝶光 lighting",
+      "沉沒水底或積水遺跡",
+      "藍黃互補色調",
+      "中國紅金配色",
+      "亮藍色充氣或PVC材質",
+      "玻璃容器內部構圖",
+      "四腳著地姿勢",
+      "盲盒黏土質感"
+    ],
+    "story": "在高光照耀的紅黑工坊中，黏土塑成的黑貓如絲綢般滑順流暢。牠伸展著身軀專注於紡車旁，隨著輪軸旋轉，將緋紅色的線繩一圈圈纏繞。整個空間充滿了手工動畫特有的溫潤質感與獨特節奏。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Silk",
+      "color_palette": "Crimson and Black"
+    },
+    "number": 2707,
+    "comment_id": 5142295008,
+    "idea": "這是一幅黏土動畫風格的全身居中直幅作品，描繞一隻身披絲綢紋理毛髮的黑貓正在緋紅與烏黑對比的工坊裡，靈巧地用後腳站立前爪推動高調明亮光下的陶瓷紡車輪軸。",
+    "prompt": "Claymation style, stop-motion aesthetic with sculpted clay characters showing subtle visible fingerprint textures. A full-body vertical portrait of a black cat with smooth, silk-textured fur, standing nimbly on its hind legs and using its front paws to push the porcelain axle of a spinning wheel. The entire cat is centered in a tall frame with head-to-toe framing inside a contrast workshop with a crimson and black palette of deep blood-red against jet black. High-key bright lighting with soft even illumination, luminous clean atmosphere, delicate light reflections, and minimal shadows. The date and time '2026-07-31 11:16 UTC' is clearly visually displayed in clean text within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": []
   }
 ]
