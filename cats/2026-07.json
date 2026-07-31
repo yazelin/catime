@@ -12598,5 +12598,41 @@
     "comment_id": 5137161078,
     "prompt": "Studio Ghibli anime style illustration of a curious calico cat inside an old-style yellow public tram. The cat gently rests one paw on a spread-out city map, curiously leaning down to gaze into a glassy water puddle reflecting a vibrant mix of the yellow carriage and blue sky outside the window. Soft watercolor background, warm pastoral atmosphere, gentle character design, and a serene reflective surface with subtle ripples. Intimate close-up framing, soft even illumination, and a striking blue and yellow complementary color palette. The timestamp text '2026-07-30 22:59 UTC' is clearly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "藍黃電車的漫遊乘客"
+  },
+  {
+    "story": "斯波特魯普的中世紀格鬥大賽熱鬧非凡，而喵星人鐵匠也不甘示弱，在專屬的玻璃工作坊裡準備自己的秘密裝備。牠神情專注地踩在軟木墊上，用兩隻前爪努力推動迷你鐵錘，將光芒萬丈的甲片打磨得鋒利無比。隨著蝴蝶光亮起，整座玻璃容器照耀出如歷史盛事般熱血而迷人的光彩。",
+    "news_inspiration": [
+      "在丹麥斯波特魯普（Spottrup, Denmark），來自 30 個國家的選手身穿全套鐵甲並手持傳統武器，舉行了熱鬧非凡的國際中世紀格鬥世界錦標賽。",
+      "美國明尼蘇達州路韋恩（Luverne, USA）正式揭幕了一座高達 65 英尺（約 20 公尺）的巨大雕像，創下世界上最高胡桃鉗雕像的紀錄。",
+      "巴西里約熱內盧（Rio de Janeiro, Brazil）沿海的大翅鯨目擊數量近期大幅攀升，帶動了當地熱門的賞鯨觀光活動。",
+      "澳洲塔斯馬尼亞（Tasmania, Australia）一隻體重達 2,200 磅的明星象鼻海豹「尼爾」再度重返出生地海岸，吸引眾多居民圍觀拍照。"
+    ],
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "這是一幅採用90年代底片風格拍攝的畫面，一隻橘貓身穿微型鍛造鐵甲，在透明玻璃罐內部奮力用前爪推動比自己還大的鑄鐵錘，進行獨特的兵器打磨作業。場面融合高飽和鮮豔色與蝴蝶光照射，玻璃表面還散落著璀璨的金箔潑點肌理。",
+    "prompt": "A 1990s 35mm film photograph of an orange tabby cat wearing miniature forged iron armor inside a transparent glass jar workshop. The cat is standing on a cork mat, using both front paws to strenuously push a heavy cast-iron hammer larger than itself to polish shiny armor pieces. Inside-the-glass-vessel composition with a refractive glass border surrounding the scene. Overhead key light creating butterfly lighting with soft symmetrical shadows, glinting off scattered metallic gold leaf shards and gold foil flecks on the inner glass surface. High saturation vivid colors with an energetic bold palette and nostalgic film grain glow. Stamped clearly in yellow retro timestamp font in the bottom corner of the photo is the date and time '2026-07-31 00:00 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在丹麥斯波特魯普（Spottrup, Denmark），來自 30 個國家的選手身穿全套鐵甲並手持傳統武器，舉行了熱鬧非凡的國際中世紀格鬥世界錦標賽。",
+    "title": "罐中微型鐵匠的榮耀",
+    "comment_id": 5137551189,
+    "number": 2703,
+    "avoid_list": [
+      "繁體中文與英文文字要求",
+      "朱紅與金漆描金線條",
+      "星雲輝光與藍紫色彩",
+      "極低角度與強制透視構圖",
+      "洛可可與雙色調極簡風格",
+      "擺放精密零件的Knolling平鋪排列",
+      "貓咪用嘴叼著物體",
+      "四腳踩踏或凝視特殊儀器設備",
+      "帶有 timestamp 視覺時間戳記",
+      "古老溫室與舊書店角落",
+      "條紋光影與百葉窗折射",
+      "中國紅金主色調搭配"
+    ]
   }
 ]
