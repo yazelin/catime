@@ -12672,5 +12672,41 @@
     },
     "story": "花店的夏日熱浪來襲，老闆特地為鈴鈴打造了一間充滿冰塊的小型蝴蝶園。鈴鈴頂著蓬鬆如棉花糖的白毛與粉紅蝴蝶結，趴在藍黃交織的涼爽冰塊前，大大的寶石藍眼睛好奇地看著凍在冰塊裡的亮晶晶小花瓣，被冷到打個噴嚏後可愛地往後彈了一下。",
     "comment_id": 5138779010
+  },
+  {
+    "story": "維也納郊外的晨光透過高窗打在老舊的牧場工具庫中，經典的三點打光讓木架上覆蓋的苔蘚質感格外清晰。黑貓專注地運用爪子掌握刷子的角度，展現出驚人的工具使用智慧，彷彿與古老農場的寧靜歷史融為一體。",
+    "number": 2705,
+    "idea": "這是一組採用雙重曝光與雙色調的等距攝影作品，一隻全黑的貓咪側臥在奧地利維也納古老農莊的木架上，靈巧地用後腳爪抓著一支硬毛刷為自己梳理背毛。",
+    "inspiration": "奧地利維也納（Vienna, Austria）的生物學家發現一隻名為韋羅妮卡的母牛能靈活使用刷子等工具清潔身體，刷新了科學界對家畜認知能力的瞭解。",
+    "news_inspiration": [
+      "瑞士（Switzerland）創新地將太陽能電池板鋪設於全國鐵線軌道之間，成功將鐵路線轉型為綠能發電廠。",
+      "奧地利維也納（Vienna, Austria）的生物學家發現一隻名為韋羅妮卡的母牛能靈活使用刷子等工具清潔身體，刷新了科學界對家畜認知能力的瞭解。",
+      "津巴布韋黑拉爾（Harare, Zimbabwe）與偏遠鄉村民間推行「疫苗單車手」計畫，衛生志工騎乘單車穿梭村莊，成功幫助偏遠地區女孩接種疫苗。",
+      "澳大利亞凱恩斯（Cairns, Australia）的海域研究團隊發現了一個面積接近 4,000 平方公尺的巨型珊瑚群落，成為目前全球已知最大型的珊瑚之一。"
+    ],
+    "title": "維也納的自理晨光",
+    "avoid_list": [
+      "繁體中文或英文文字限制聲明",
+      "時間戳記標籤",
+      "框中框構圖",
+      "前爪撥弄或伸手動作",
+      "蝴蝶光 lighting",
+      "沉沒水底或積水遺跡",
+      "藍黃互補色調",
+      "中國紅金配色",
+      "亮藍色充氣或PVC材質",
+      "玻璃容器內部構圖",
+      "四腳著地姿勢",
+      "盲盒黏土質感"
+    ],
+    "prompt": "A real captured photo with an isometric angle showing a black cat lying on its side on a moss-covered wooden shelf in an ancient Austrian farmhouse in Vienna, dexterously holding a stiff bristle brush with its hind paw to groom its back fur. Double exposure effect blending the cat's silhouette with a landscape, duotone color treatment using only two contrasting colors. Classic three-point lighting setup with key light, soft shadows, fill light, and subtle rim light separation highlighting the damp forest aesthetic and lush green moss texture. The text '2026-07-31 05:55 UTC' is visually displayed in the corner of the image in clear typography. Shot on 35mm lens, f/2.8, natural light, realistic photography, no miniature effect. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5139809739,
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Isometric Photography",
+      "lighting": "Three-Point Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Duotone"
+    }
   }
 ]
