@@ -12882,5 +12882,41 @@
       "柔軟的毛髮肌理細節"
     ],
     "number": 2710
+  },
+  {
+    "title": "百年前的密室訪客",
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Vermilion and White"
+    },
+    "prompt": "An architectural blueprint style illustration featuring a white lines on blue background technical drawing aesthetic, complete with precise measurements and annotations. In the scene, an orange cat stretches its front paw out, pouncing towards a hundred-year-old ancient book falling from a crack in a brick chimney wall. The image features a doppelganger mirror composition with uncanny surreal twin framing, showing the cat facing its mirrored self. Illuminated with vivid neon lighting and overlaid with a prismatic rainbow flare texture of refracted spectral light spots. The dominant visual tone incorporates a bold vermilion and white minimalist oriental balance, with crisp cinnabar red highlights on clean negative-space white backgrounds. Visually displayed clearly in technical annotation font within the drawing is the text '2026-07-31 19:04 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用建築藍圖風格，一隻橘貓正伸出前爪撲向煙囪磚牆裂縫中掉出的百年古書，畫面上雙貓對立呈鏡像異我構圖，輔以朱紅留白基調、霓虹燈光與稜鏡彩虹光斑。",
+    "avoid_list": [
+      "繁體中文/正體字與英文文字約束",
+      "日期時間戳記標籤",
+      "時間戳記文字呈現",
+      "後腳/前爪操作科技或機械設備",
+      "懸浮羅盤/儀表板裝置",
+      "經典三點打光/體積光/閃閃發光的燈光效果",
+      "非洲未來主義風格",
+      "幾何圖案與霓虹螢光色彩",
+      "底片風格與年代復古質感",
+      "玻璃容器/框中框構圖",
+      "鏡面/水窪倒影",
+      "柔軟的毛髮肌理細節"
+    ],
+    "number": 2711,
+    "story": "老屋翻修的工地上，這隻好奇的貓咪意外踏破了封閉百年的煙囪壁爐。一本沉睡百年的古書從牆縫摔落，光線穿透塵埃，在藍圖線條上記述著這場超越時空的奇妙遭遇。",
+    "inspiration": "澳大利亞基亞瑪（Kiama）的一間公共圖書館最近收到一本延遲約 150 年才歸還的書籍，該書是屋主在整修房屋時於封閉的煙囪磚牆內意外發現的。",
+    "news_inspiration": [
+      "澳大利亞基亞瑪（Kiama）的一間公共圖書館最近收到一本延遲約 150 年才歸還的書籍，該書是屋主在整修房屋時於封閉的煙囪磚牆內意外發現的。",
+      "芬蘭波爾奈寧（Pornainen）成功啟用世界上最大的砂石電池儲存熱能，為當地城鎮減少了高達七成的供暖碳排放。",
+      "在英國蘇格蘭格拉斯哥（Glasgow）舉辦的英聯邦運動會上，一名清潔人員在擦地維護時隨著音樂大秀舞蹈與高難度劈腿，意外成為全場亮點與網路熱話。",
+      "中國一名青少年自行開發了一款 AI 提醒工具，專門用來定時提醒祖父按時服用藥物，溫馨舉動在網路吸引許多關注。"
+    ],
+    "comment_id": 5146535295
   }
 ]

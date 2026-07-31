@@ -25351,5 +25351,14 @@
     "character": "momo",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-31_1716_UTC.webp",
     "status": "success"
+  },
+  {
+    "title": "百年前的密室訪客",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2711,
+    "inspiration": "澳大利亞基亞瑪（Kiama）的一間公共圖書館最近收到一本延遲約 150 年才歸還的書籍，該書是屋主在整修房屋時於封閉的煙囪磚牆內意外發現的。",
+    "timestamp": "2026-07-31 19:04 UTC",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-31_1904_UTC.webp"
   }
 ]
