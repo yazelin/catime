@@ -12708,5 +12708,43 @@
       "texture": "Moss Overgrowth",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "prompt": "Majestic landscape photography of a large stocky brown classic tabby cat with bold black stripes, scruffy untidy coarse fur, sitting firmly on the highest black rock of a seaside breakwater on a stormy night. The cat has a distinctive natural dark-pigmented fur patch permanently concealing its left eye with no straps or eyepatch, one piercing emerald green right eye, a prominent V-shaped notch on its left ear, a faded red bandana tied loosely around its neck, a white chest bib, white mitten paws, and a thick sturdy tail. Eye-level frontal composition, straight-on symmetrical view with the cat facing camera directly, looking majestic amidst crashing dark sea waves. Glowing fluorescent UV luminescence on the ocean foam and sea spray under blacklight illumination, mixed with a teal and orange color grading, deep depth of field, grand sense of scale. Crisp night lighting with vibrant contrast. In the lower corner, the text '2026-07-31 08:30 UTC' is clearly and visibly displayed in a simple clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "太空人在國際太空站拍下絕美的滿月照並公開分享，吸引全球網友讚歎（美國/國際太空站）。",
+      "巴西成功推動大食蟻獸的野外重引入計畫，首批野放個體已在當地生態保護區順利繁衍下一代（巴西潘塔納爾濕地）。",
+      "荷蘭阿姆斯特丹市正式推行新政策，成為全球首個在市政公共場所禁止肉類及化石燃料廣告的首都（荷蘭阿姆斯特丹）。",
+      "中國浙江省杭州市邀請東南亞旅遊達人體驗古裝穿搭與AI數位景區，結合傳統文化與現代科技推廣當地觀光（中國杭州）。"
+    ],
+    "comment_id": 5140954891,
+    "story": "暴風雨即將來臨的海邊防波堤上，船長微啟銳利的翠綠色右眼，迎著海風佇立在最高點，守護著整座漁港的安寧。夜光海浪撞擊著黑色的礁石，飛濺起帶有暗夜螢光的浪花，襯託出牠如老船長般堅毅粗獷的身影。即使風浪再大，只要看見牠那穩如船舵的粗壯尾巴與不屈的姿態，港口的所有小貓便能感到無比安心。",
+    "avoid_list": [
+      "繁體中文或英文文字限制聲明",
+      "時間戳記標籤",
+      "框中框構圖",
+      "前爪撥弄或伸手動作",
+      "蝴蝶光 lighting",
+      "沉沒水底或積水遺跡",
+      "藍黃互補色調",
+      "中國紅金配色",
+      "亮藍色充氣或PVC材質",
+      "玻璃容器內部構圖",
+      "四腳著地姿勢",
+      "盲盒黏土質感"
+    ],
+    "idea": "採用壯麗自然風景攝影風格，描繪在暗夜海邊防波堤上，一隻結實壯碩、左眼戴深色眼罩且戴著紅色頭巾的虎斑貓「船長」，正威嚴地佇立在巨大礁石最高處，凝視著遠方燈塔與巨浪翻湧的海面；全景融入黑光螢光與青橙電影調，呈現出浪花點點螢光與橘青交織的極致壯闊細節。",
+    "style_picks": {
+      "art_style": "Majestic Landscape Photography",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "風暴夜的暗浪航標",
+    "number": 2706,
+    "inspiration": "original",
+    "character_name": "船長",
+    "character": "captain"
   }
 ]
