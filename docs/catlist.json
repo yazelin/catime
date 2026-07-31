@@ -25360,5 +25360,16 @@
     "timestamp": "2026-07-31 19:04 UTC",
     "status": "success",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-31_1904_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-31_2051_UTC.webp",
+    "character": "mochi",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "number": 2712,
+    "title": "陽光下的麻糬漫遊",
+    "timestamp": "2026-07-31 20:51 UTC"
   }
 ]
