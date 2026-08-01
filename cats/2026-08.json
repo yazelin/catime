@@ -367,5 +367,39 @@
     ],
     "prompt": "Crayon drawing style with childlike hand-drawn look, featuring a multi-panel character montage in a comic-style grid frame collage layout. A black cat on all fours趴姿 on a cliffside in front of an ancient, old library, intensely chasing a windblown 150-year-old aged manuscript page. An owl and an elderly figure stand beside watching quietly. Features a polished 3D render with Cinema 4D aesthetic, smooth materials, luxury gold and black color scheme with metallic gold accents against a deep black background. Lit by soft, diffused natural light from an overcast sky with gentle tones and no harsh shadows. Clear text visually displayed on a corner of the paper or frame reading '2026-08-01 18:51 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "古老圖書館的門縫裡突然捲起一陣狂風，將一本沉寂了一百五十年的黃褐色古書頁吹向天空。黑貓輕盈地躍上石階，雙眼緊盯著空中飄盪的金色字跡，試圖用利爪捕捉那段跨越一世紀的時光殘影。佇立在一旁的貓頭鷹與長者靜靜注視著，任由這場古老的閱讀傳承在黑金色彩間優雅延續。"
+  },
+  {
+    "story": "巨大沙子電池運作時的微弱震動激發了貓咪的獵食本能，牠在幾何狀的玻璃通道間四足飛奔。巨大的加熱沙池散發著溫暖的大地色調，而相機以極速追焦捕捉下牠奔跑時專注且動態感十足的瞬間。",
+    "number": 2727,
+    "prompt": "A sports panning photography shot capturing an orange cat sprinting at top speed along a transparent glass maintenance corridor at the Pornainen sand battery heating plant in Finland. The cat is intensely chasing a rolling crystal ball. Shot with a fisheye wide-angle lens featuring strong barrel distortion, an exaggerated foreground, and a 360-degree dramatic perspective. The background shows massive earth-tone heated sand vats stretching out with heavy motion blur while the fast-moving cat remains sharply in focus. Ring light illumination creates even frontal lighting, subtle prismatic reflections through the glass, and a circular catchlight in the cat's eyes. Terracotta, warm brown, and olive green natural color tones. Photographed with a high shutter speed action camera, dynamic energy, light refraction through clear glass. In the bottom corner, the timestamp '2026-08-01 20:09 UTC' is clearly displayed in sharp digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5153215930,
+    "news_inspiration": [
+      "奧地利維也納（Vienna, Austria）的研究團隊發現一隻名為維羅妮卡（Veronika）的乳牛能熟練使用木棍與掃帚進行自我抓癢，成為首例被記錄能多用途使用工具的乳牛。",
+      "烏干達阿賈伊（Ajai, Uganda）野生動物保護團隊成功完成 12 隻瀕危努比亞長頸鹿的跨區轉移計畫，為牠們提供更安全穩定的棲息環境。",
+      "芬蘭波爾奈寧（Pornainen, Finland）鎮正式啟用全球最大的沙子電池，利用兩千噸加熱沙子成功為當地區域供暖系統降低七成的碳排放。",
+      "美國帕薩迪納（Pasadena, United States）的 NASA 團隊宣布好奇號探測器傳回最新照片，於火星谷地發現了極為罕見且規律的蜂窩狀多邊形地貌。"
+    ],
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Earth Tones"
+    },
+    "inspiration": "芬蘭波爾奈寧（Pornainen, Finland）鎮正式啟用全球最大的沙子電池，利用兩千噸加熱沙子成功為當地區域供暖系統降低七成的碳排放。",
+    "idea": "在芬蘭波爾奈寧沙子電池供暖廠的玻璃維修廊道上，一隻橘貓正以運動追焦風格被記錄下來，牠在環形燈的照射下全速疾奔追趕滾動的水晶球，魚眼鏡頭拉伸出滿滿大地色系加熱沙槽的壯觀背景。",
+    "title": "暖沙長廊的疾跑者",
+    "avoid_list": [
+      "前爪輕觸物件",
+      "稜鏡彩虹光斑",
+      "冷冽月光照明",
+      "時間戳記標註",
+      "雙色/朱紅留白基調",
+      "遞迴與鏡像構圖",
+      "日系底片/黑白影調",
+      "傳統與奇幻場所結合",
+      "幾何圖騰與光影",
+      "高飽和色彩與金邊勾勒"
+    ]
   }
 ]
