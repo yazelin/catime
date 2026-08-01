@@ -297,5 +297,41 @@
     "story": "在高聳入雲的竹林深處，一隻花貓正專注地追逐著滑板在石板路上滑行。烈日穿透密集的竹葉，打下強烈的硬光與深邃陰影，交織出一幅動態十足的夏日景象。",
     "idea": "這是一幅以竹影翠綠為主色調的3D渲染作品，採用空拍視角呈現貓咪在陽光下活動的場景。",
     "news_inspiration": []
+  },
+  {
+    "story": "深夜的古董書店裡，螢光燈管發出微弱的嗡嗡聲。墨墨輕盈無聲地伏在幾本皮面古籍頂端，金琥珀色的眼睛在冷光中亮如寶石，靜靜居高臨下審視著這片屬於牠的文字王國。",
+    "news_inspiration": [
+      "美國紐約州長島一家幼稚園操場上發現落單的黃頂夜鷺幼鳥，經救援人員移至陰涼處後順利與親鳥團聚。",
+      "英國自然英格蘭潛水團隊在康沃爾郡海底進行調查時，成功發現了一種對科學界全新的微型紅藻物種。",
+      "澳大利亞伯斯的達靈嶺野生動物庇護所舉辦線上野生動物主題藝術拍賣會，集結藝術家作品為救援動物籌措基金。",
+      "日本東京的日本航空自 2026 年 8 月 1 日起增加東京成田往返美國聖地牙哥的直飛航班至每日一班，為雙邊旅遊與文化交流帶來更多便利。"
+    ],
+    "style_picks": {
+      "art_style": "Limited Palette Editorial Illustration",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Crimson and Black"
+    },
+    "inspiration": "original",
+    "number": 2725,
+    "title": "冷光下的緋紅書室",
+    "avoid_list": [
+      "前爪輕觸物件",
+      "稜鏡彩虹光斑",
+      "冷冽月光照明",
+      "時間戳記標註",
+      "雙色/朱紅留白基調",
+      "遞迴與鏡像構圖",
+      "日系底片/黑白影調",
+      "傳統與奇幻場所結合",
+      "幾何圖騰與光影",
+      "高飽和色彩與金邊勾勒"
+    ],
+    "character_name": "墨墨",
+    "comment_id": 5152681815,
+    "idea": "採用限色編輯插畫風格，以滿版特寫展現墨墨趴在舊書店古董玻璃展櫃頂層的優雅姿態。在冷調螢光燈下，烏黑的毛髮與緋紅背景形成強烈對比，細緻的冰霜結晶紋理覆蓋於畫面細節中。",
+    "prompt": "A limited palette editorial illustration in the style of Carson Ellis and New Yorker picture book aesthetic, featuring full-bleed frame-filling composition with subject cropped to edges and dense edge-to-edge detail. Solid black ink line work on warm paper background using a dramatic high-contrast deep blood-red crimson and jet-black palette. The scene shows Momo, a sleek slender solid-black Bombay-style shorthair cat with satin-sheen fur, lying elegantly atop an antique glass display cabinet in a vintage bookstore, resting on old leather-bound books. Momo has large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring at the tail tip, and a single small gold hoop earring positioned on the edge of her left ear (viewer perspective). Delicate translucent ice crystal formations and frost patterns cover the surface details. Illuminated by neutral white 5000K institutional overhead fluorescent flat lighting with no heavy shadows. Visually displayed clearly in English in the image is the timestamp text '2026-08-01 17:50 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "momo"
   }
 ]
