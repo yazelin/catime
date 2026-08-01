@@ -437,5 +437,34 @@
       "color_palette": "Bamboo Jade Green"
     },
     "number": 2728
+  },
+  {
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Neon Fluorescent"
+    },
+    "number": 2729,
+    "prompt": "Art Nouveau style clay ceramic handscroll banner with flowing organic curves and Mucha-inspired floral motifs, extreme wide continuous panoramic narrative, right-to-left reading flow, oblique bird's-eye angle. A vibrant fluorescent striped cat leans down intently chasing and sniffing a row of glowing neon earthworms wriggling through rich greenhouse soil. Sculpted clay texture with a handmade ceramic feel and matte surface. Soft diffused natural light creates even illumination with no harsh shadows. Warm earthy tones contrasted with electric pink, lime green, and hot cyan neon fluorescent accents. In the corner of the banner, the text '2026-08-01 22:42 UTC' is visibly displayed in a fine, elegant style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "前爪輕觸物件",
+      "稜鏡彩虹光斑",
+      "冷冽月光照明",
+      "時間戳記標註",
+      "雙色/朱紅留白基調",
+      "遞迴與鏡像構圖",
+      "日系底片/黑白影調",
+      "傳統與奇幻場所結合",
+      "幾何圖騰與光影",
+      "高飽和色彩與金邊勾勒"
+    ],
+    "story": "在充滿蔓藤與琉璃花卉的玻璃溫室深處，貓咪巡視著每一寸溫潤的土丘。它輕盈地踏過柔軟的黏土，好奇地追蹤著土裡探出頭的亮光生命。自然光線透過玻璃均勻漫射，將這場小小的探索映照得猶如一幅流動的螢光繪卷。",
+    "title": "霓彩溫室裡的流光探索",
+    "comment_id": 5153824772,
+    "inspiration": "original",
+    "idea": "這幅新藝術風格的黏土陶瓷橫幅長卷中，一隻鮮豔螢光色的斑紋貓咪正俯身專注地追逐並用鼻尖嗅聞一排在溫室泥土間蠕動的螢光蚯蚓，整體呈現出如軟泥般流暢的有機線條。"
   }
 ]
