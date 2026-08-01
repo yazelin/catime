@@ -401,5 +401,41 @@
       "幾何圖騰與光影",
       "高飽和色彩與金邊勾勒"
     ]
+  },
+  {
+    "title": "午後便利店的試吃員",
+    "news_inspiration": [
+      "台灣超馬好手陳彥博在瑞士策馬特（Zermatt）舉行的 200 公里阿爾卑斯山極地超級馬拉松賽事中勇奪冠軍。",
+      "美國加州洛杉磯地標「瓦茨塔」（Watts Towers）獲撥款 2200 萬美元進行園區擴建，以迎接 2028 年洛杉磯夏季奧運的各國遊客。",
+      "英國拉夫堡大學（Loughborough）的運動社團舉辦淨街拾荒競賽，學生們在一個下午內合作清理了城鎮中多達 281 公斤的廢棄垃圾。",
+      "科學家在南極洲內陸觀測站記錄到華氏 -119.4 度（約攝氏 -84.1 度）的極端低溫，刷新了當地十多年來的最低氣溫紀錄。"
+    ],
+    "prompt": "1990s film photography of a miniature diorama low-poly convenience store interior, low-poly polygon mesh facets, geometric crystalline surfaces, bamboo jade-green and emerald color palette, illuminated by dramatic venetian blind light-and-shadow bands. A chubby rounded shorthair cat with short stubby legs, spherical torso, and amber eyes is leaning towards a steaming hot oden machine, sniffing the steam. The cat has a white base coat, a solid bright orange mask on the right half of its face while the left side of its face is pure white, a heart-shaped orange saddle patch on its upper back, a solid orange right front mitten paw resting on the counter, and a pure white left front paw. Green bottled drinks line the shelf nearby. In the corner of the frame, a camera date stamp visually displays '2026-08-01 21:42 UTC' in retro orange digital font. 35mm lens, tilt-shift effect, muted warm tones, visible film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "idea": "採用90年代底片風格與低多邊形質感，打造微縮立體模型般的懷舊便利商店場景，呈現被百葉窗條紋光照射的竹影翠綠色調。",
+    "avoid_list": [
+      "前爪輕觸物件",
+      "稜鏡彩虹光斑",
+      "冷冽月光照明",
+      "時間戳記標註",
+      "雙色/朱紅留白基調",
+      "遞迴與鏡像構圖",
+      "日系底片/黑白影調",
+      "傳統與奇幻場所結合",
+      "幾何圖騰與光影",
+      "高飽和色彩與金邊勾勒"
+    ],
+    "inspiration": "original",
+    "story": "圓滾滾的麻糬貓咪正趴在熱騰騰的關東煮機旁，用鼻子湊近專注地嗅著蒸氣中的柴魚香氣，右前腳像戴了橘色手套般踩在檯面上。兩旁陳列著綠色包裝的飲料瓶，百葉窗投射出的光影在牠橘白相間的胖嘟嘟身體上劃下一道道條紋。",
+    "comment_id": 5153585297,
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Miniature Diorama",
+      "lighting": "Venetian Blind Light",
+      "texture": "Low Poly",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "number": 2728
   }
 ]
