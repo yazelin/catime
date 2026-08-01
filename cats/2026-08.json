@@ -137,5 +137,39 @@
     "character_name": "船長",
     "news_inspiration": [],
     "comment_id": 5150956459
+  },
+  {
+    "story": "澳洲凱恩斯外海深處，這座歷經千年的巨型珊瑚王國剛被探險家發現，而貓咪早已是這片壯麗景致的忠實巡視者。在螢光燈淡藍與中國紅金交織的光影下，牠俯瞰著色彩斑斕的珊瑚海床，每一次緩慢踏步，都像是印刻在海底紀元裡的軟萌足跡。",
+    "inspiration": "澳洲凱恩斯外海的巨堡礁發現了一片面積高達3,973平方公尺的巨大珊瑚群，相當於半個足球場大小，是目前已知最大的珊瑚體之一。",
+    "title": "深海巨礁的喵爪巡視",
+    "news_inspiration": [
+      "英國巨石陣（Stonehenge）將於8月推出限量特別活動，讓幸運遊客可以在營業時間外單獨走入巨石陣內部，近距離觀察千年古蹟與罕見地衣。",
+      "澳洲凱恩斯外海的巨堡礁發現了一片面積高達3,973平方公尺的巨大珊瑚群，相當於半個足球場大小，是目前已知最大的珊瑚體之一。",
+      "印度新德里等各大城市於8月初喜迎一年一度的「好友日」（Friendship Day），民眾透過互相贈送手繩與聚會交流來慶祝溫馨節日。",
+      "巴西亞馬遜地區最新的環境數據顯示，熱帶雨林的伐木與森林砍伐率已顯著下降至近十年來的最低點，保育工作展現重大成果。"
+    ],
+    "avoid_list": [
+      "前爪輕觸物件",
+      "稜鏡彩虹光斑",
+      "冷冽月光照明",
+      "時間戳記標註",
+      "雙色/朱紅留白基調",
+      "遞迴與鏡像構圖",
+      "日系底片/黑白影調",
+      "傳統與奇幻場所結合",
+      "幾何圖騰與光影",
+      "高飽和色彩與金邊勾勒"
+    ],
+    "comment_id": 5151209596,
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Festive Red and Gold"
+    },
+    "idea": "在黏土動畫風格的場景中，一隻橘貓正以四足優雅姿態踏在巨大的珊瑚頂端，這片廣袤珊瑚群如同半個足球場般橫亙眼前，畫面採直式書法海報構圖，並以描金墨線勾勒出濃厚的大陸與海洋邊界。",
+    "number": 2720,
+    "prompt": "Claymation style vertical movie poster composition featuring sculpted clay characters with visible fingerprint textures and stop-motion aesthetic. A ginger cat walks gracefully on all fours atop a massive coral reef spanning a vast area. East Asian movie poster framing with a side calligraphy panel, ornamental border elements, and red seal accents. Multi-layered depth with a photorealistic central focal point. Gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, and ornamental hand-drawn detailing on a dark background. Festive red and gold color palette dominated by auspicious Chinese red with bright gold accents. Overhead fluorescent lighting, neutral white 5000K, flat institutional illumination with minimal shadows. The text '2026-08-01 11:17 UTC' is clearly and visually displayed in Traditional Chinese or English within the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
