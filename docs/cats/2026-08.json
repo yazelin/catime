@@ -171,5 +171,39 @@
     "idea": "在黏土動畫風格的場景中，一隻橘貓正以四足優雅姿態踏在巨大的珊瑚頂端，這片廣袤珊瑚群如同半個足球場般橫亙眼前，畫面採直式書法海報構圖，並以描金墨線勾勒出濃厚的大陸與海洋邊界。",
     "number": 2720,
     "prompt": "Claymation style vertical movie poster composition featuring sculpted clay characters with visible fingerprint textures and stop-motion aesthetic. A ginger cat walks gracefully on all fours atop a massive coral reef spanning a vast area. East Asian movie poster framing with a side calligraphy panel, ornamental border elements, and red seal accents. Multi-layered depth with a photorealistic central focal point. Gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, and ornamental hand-drawn detailing on a dark background. Festive red and gold color palette dominated by auspicious Chinese red with bright gold accents. Overhead fluorescent lighting, neutral white 5000K, flat institutional illumination with minimal shadows. The text '2026-08-01 11:17 UTC' is clearly and visually displayed in Traditional Chinese or English within the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "style_picks": {
+      "art_style": "Oriental Floral Still Life",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Underwater Caustics",
+      "texture": "Glass / Crystal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "折射的波光在幾何結晶與浮雕花瓣間沉浮，貓兒悄然穿梭於瓶底的水下花園。這分格插畫記錄了牠追逐沈默氣泡的瞬間，將時間凝結在如透明琉璃般的幽靜水底。",
+    "prompt": "A monochrome oriental floral still life illustration featuring a spotted cat curled up beside a crystalline underwater glass vase, gently touching its nose to a submerged aquatic peony. Water caustics and rippling light patterns dance over the cat's fur and fine gongbi-style botanical details, casting dramatic shadows and highlights in a high-contrast black and white palette. Refracted sun shafts pierce through the transparent glass, creating prismatic reflections in a submerged dreamlike atmosphere. Arranged as an illustrated story page layout with multiple irregular panels, featuring a decorative title banner at the top and integrated dialogue bubbles. In the corner of the image, the date and time '2026-08-01 12:52 UTC' is visibly displayed in fine text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用東方花卉靜物風格與黑白單色調，一隻蜷縮在水下水晶花瓶旁的花貓，正用鼻尖輕嗅被水下焦散光照亮的水生牡丹。",
+    "avoid_list": [
+      "前爪輕觸物件",
+      "稜鏡彩虹光斑",
+      "冷冽月光照明",
+      "時間戳記標註",
+      "雙色/朱紅留白基調",
+      "遞迴與鏡像構圖",
+      "日系底片/黑白影調",
+      "傳統與奇幻場所結合",
+      "幾何圖騰與光影",
+      "高飽和色彩與金邊勾勒"
+    ],
+    "comment_id": 5151529903,
+    "title": "水底水晶花園的嗅嗅貓",
+    "inspiration": "肯亞蒙巴薩：於蒙巴薩閉幕的「我們的海洋」國際會議成功籌集64億美元資助承諾，以加速推進全球海洋生態保護行動。",
+    "number": 2721,
+    "news_inspiration": [
+      "瑞典斯德哥爾摩：瑞典政府宣布計畫禁止在衣物、化妝品等日常消費品中使用「永久化學物質」（PFAS），成為歐洲推動健康與無毒環境的領先國家。",
+      "肯亞蒙巴薩：於蒙巴薩閉幕的「我們的海洋」國際會議成功籌集64億美元資助承諾，以加速推進全球海洋生態保護行動。",
+      "哥倫比亞波哥大：哥倫比亞通過全新法律，明令禁止因牛肉養殖而砍伐雨林，規定所有牛肉銷售與出口皆須提供未毀林之證明。",
+      "美國史丹佛：史丹佛大學研究團隊開發出一款新型AI系統，僅需分析受試者一晚的睡眠腦波與生理數據，即可提前評估超過130種疾病的潛在風險。"
+    ]
   }
 ]
