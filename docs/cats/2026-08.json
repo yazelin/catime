@@ -105,5 +105,37 @@
       "color_palette": "Monochrome / Black and White"
     },
     "story": "一隻巨大的斑紋貓正用雙頭輕輕頂著一顆懸掛的透明玻璃圓球，凝視著裡面被紗網薄透肌理包裹的微型城鎮。柔和的燭光從球體內部透出，在黑白單色調的光影下，映照出貓咪鬍鬚與毛髮的細緻輪廓。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Centered Subject Composition",
+      "lighting": "Moonlight",
+      "texture": "Wood Grain",
+      "color_palette": "Festive Red and Gold"
+    },
+    "character": "captain",
+    "idea": "採用合成波風格與居中主體構圖，展現大骨架的虎斑貓「船長」獨眼帶著堅毅神情，正蹲坐在燈塔頂端的舊木紋甲板上，用前爪輕叩並凝視著前方微微擺動的銅製海事指南針。",
+    "story": "深夜的港口被冷冽的月光籠罩，褪色紅頭巾在海風中微揚，船長默默守護著這片平靜的水域。紅金相間的合成波光軌在海面上拉出絢麗線條，牠那隻翠綠色的右眼宛如暗夜中的另一座燈塔，沉穩而堅定。",
+    "inspiration": "original",
+    "number": 2719,
+    "avoid_list": [
+      "用前爪輕觸或按壓物件",
+      "雨燕與雨燕磚建築牆面",
+      "稜鏡彩虹光斑與折射光",
+      "強烈的青橙電影色調",
+      "繁體中文與英文文字規範",
+      "遞迴德羅斯特效應畫中畫",
+      "螢光與黑光海浪夜光效果",
+      "黑貓在特殊工坊或研究室作業",
+      "立體浮雕與撕紙拼貼質感",
+      "幾何圖騰與曼陀羅風格",
+      "建築藍圖與對角線鏡像構圖"
+    ],
+    "title": "月光燈塔的航向",
+    "prompt": "Centered subject composition in synthwave illustration style, 1980s retro-futuristic nostalgia. Dead center in the frame sits a large stocky brown classic tabby cat with bold black stripes, broad muscular build, scruffy untidy coarse fur, a faded red bandana tied around his neck, a white chest bib, white mitten paws, and a prominent V-shaped notch on his left ear. His left eye is completely concealed by a natural dark brown fur patch covering the socket without any straps or fabric patch, and his single right eye is a piercing emerald green. The cat is crouched on an old wood grain deck at the top of a lighthouse, gently tapping a brass maritime compass with its front paw while gazing at it. The surrounding environment features a neon grid landscape under cool blue moonlight, a gentle silvery glow, and faint red and gold light trails across the harbor water. Visually displayed in clean chrome typography near the edge of the frame is the text '2026-08-01 10:00 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "船長",
+    "news_inspiration": [],
+    "comment_id": 5150956459
   }
 ]
