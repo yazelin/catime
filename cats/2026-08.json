@@ -661,5 +661,34 @@
     "title": "糖霜光影裡的微醺午後",
     "comment_id": 5157710861,
     "inspiration": "original"
+  },
+  {
+    "inspiration": "original",
+    "title": "粉彩荒漠的懸浮微雕",
+    "news_inspiration": [],
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "鳥瞰俯瞰視角",
+      "專注追逐或撥弄小物件",
+      "環形燈光與圓形 catchlight",
+      "溫室玻璃花窗場景",
+      "古老地圖或古籍文獻",
+      "極致細節冰霜結晶",
+      "低多邊形或 3D 渲染質感",
+      "特定 ISO/UTC 時間戳記文字",
+      "繁體中文與英文限定警語"
+    ],
+    "idea": "這是一幅結合極簡超現實場景與微縮立體模型的作品，一隻橘貓趴在粉彩色系的掌心大小加油站頂棚上，用前爪撥弄懸浮在半空中的粉紅幾何小球。畫面透出古絹絹本的細緻紋理，並以直打閃光燈捕捉離奇而純粹的超現實瞬間。",
+    "comment_id": 5158027615,
+    "story": "這座位於微縮荒漠中央的迷你加油站早已停業，卻成了橘貓的祕密 base。牠靜靜伏在平整的屋頂上，看著眼前憑空漂浮的粉彩幾何體，偶爾伸爪試探，讓寂靜無聲的空間盪開一絲微弱的光影漣漪。",
+    "style_picks": {
+      "art_style": "Minimalist Surreal Scene",
+      "composition": "Miniature Diorama",
+      "lighting": "Direct Flash",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "A minimalist surreal miniature diorama featuring an orange cat resting on the pastel roof of a palm-sized model gas station in a vast empty desert. The cat swats at floating pink geometric spheres suspended in mid-air. The entire image has the visual style of an antique silk scroll with visible silk weave texture, aged sepia patina, delicate creases, and soft pastel tones of gentle pink, lavender, and mint. Harsh direct on-camera flash creates hard shadows and blown-out highlights with a raw snapshot feel. In the bottom corner, the text '2026-08-02 12:54 UTC' is clearly displayed in a clean, legible font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2736
   }
 ]
