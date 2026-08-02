@@ -821,5 +821,36 @@
       "朱紅描金與漆器質感"
     ],
     "title": "月下齒輪與琥珀"
+  },
+  {
+    "title": "燭光下的航線圖",
+    "story": "夜深人靜的船艙裡，微微晃動的燭光將貓咪側臉的輪廓拓印在牆上。牠伏在木桌上，聚精會神地用爪子按住地圖一角，並用嘴撕咬著標有未知海域的航線圖。冷調的網點顆粒與特殊紋理，交織出這隻航海家伴侶獨特的夜間冒險。",
+    "idea": "這是一幅採用半色調網點與側臉特寫構圖的視覺畫作，描繪一隻帶有蛇鱗肌理質感的高冷貓咪，在冷藍與青色調的燭光映照下，專注地用牙齒咬住並拉扯一張展開的古老航海圖。",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Side Profile Portrait",
+      "lighting": "Candlelight",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "維梅爾式窗邊柔光",
+      "青橙電影調色",
+      "鐵絲網與螺旋纏繞構圖",
+      "微縮模型與掌心場景",
+      "鳥瞰俯瞰視角",
+      "粉彩夢幻色調",
+      "蓬鬆如雲朵的貓毛",
+      "倫勃朗光與明暗對比",
+      "螢光真菌與發光元素",
+      "平視正面對稱構圖",
+      "朱紅描金與漆器質感"
+    ],
+    "prompt": "A halftone dot pattern graphic art piece depicting a side profile特寫 of a aloof cat with glossy snake scale textured fur. In a cool blue-teal color palette with flickering candlelight casting soft shadows, the cat bites and pulls at an expanded ancient nautical map with its teeth. The text '2026-08-02 18:52 UTC' is visibly displayed on the image. CMYK print aesthetic, retro newspaper print effect, graphic texture, clean silhouette, elegant lateral framing. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2741,
+    "news_inspiration": [],
+    "comment_id": 5159842746,
+    "inspiration": "original"
   }
 ]
