@@ -883,5 +883,41 @@
       "color_palette": "Warm Tones (Amber / Autumn)"
     },
     "inspiration": "original"
+  },
+  {
+    "comment_id": 5160487166,
+    "title": "百年逾期的時光解構",
+    "prompt": "A patchwork cubist figure sculpture of a cat, made of stitched fabric patches and angular geometric planes, silently disassembling an antique leather-bound book that is a century overdue. Head-and-shoulders portrait crop, face filling the frame with an intimate eye-level connection and tight framing. Black and white monochrome palette with high contrast, rich tonal range, dramatic shadows, and volumetric lighting with visible god rays cutting through dust particles. Prismatic rainbow flare texture and refracted spectral iridescent lens-glow spots scattered across the image. Incorporate the text '2026-08-02 21:43 UTC' visually displayed cleanly within the image composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Patchwork Cubist Figure Sculpture",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "number": 2743,
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "維梅爾式窗邊柔光",
+      "青橙電影調色",
+      "鐵絲網與螺旋纏繞構圖",
+      "微縮模型與掌心場景",
+      "鳥瞰俯瞰視角",
+      "粉彩夢幻色調",
+      "蓬鬆如雲朵的貓毛",
+      "倫勃朗光與明暗對比",
+      "螢光真菌與發光元素",
+      "平視正面對稱構圖",
+      "朱紅描金與漆器質感"
+    ],
+    "news_inspiration": [
+      "在美國加州的帕西菲卡（Pacifica），年度「世界狗狗衝浪錦標賽」熱鬧登場，吸引大批民眾前來觀賞各式體型的狗狗在浪尖展現英姿。",
+      "瑞典政府宣佈將領先歐盟在日常消費品中全面禁用「永久化學物質」（PFAS），以促進大眾健康與環境永續。",
+      "巴西的 Xokleng 原住民部落發起重新種植瀕危聖樹「巴西松」的行動，期望透過生態復育傳承族群文化。",
+      "一本被借出長達 150 年的古籍近日被意外歸還給澳洲的圖書館，引發大眾對這項超長逾期紀錄的热烈討論。"
+    ],
+    "idea": "採用拼布立體派人偶風格與黑白單色調，一隻幾何幾何塊面拼接的貓咪正在沉靜地拆解一本逾期一個世紀的皮革古籍，稜鏡彩虹光斑與強烈的體積光在頭肩特寫的構圖中折射出歲月痕跡。",
+    "inspiration": "一本被借出長達 150 年的古籍近日被意外歸還給澳洲的圖書館，引發大眾對這項超長逾期紀錄的热烈討論。",
+    "story": "這隻由幾何皮革與布塊拼接而成的貓咪，靜靜伏在圖書館深處的案頭，用前爪輕輕撥開那本失蹤了整整一個半世紀的古老文獻。光線穿過高窗，將幾何堆疊的幾何光影與彩虹斑紋映照在它稜角分明的臉龐上，彷彿時間在這張頭肩特寫裡凝固成永恆的傳奇。"
   }
 ]
