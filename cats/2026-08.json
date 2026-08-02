@@ -690,5 +690,34 @@
     },
     "prompt": "A minimalist surreal miniature diorama featuring an orange cat resting on the pastel roof of a palm-sized model gas station in a vast empty desert. The cat swats at floating pink geometric spheres suspended in mid-air. The entire image has the visual style of an antique silk scroll with visible silk weave texture, aged sepia patina, delicate creases, and soft pastel tones of gentle pink, lavender, and mint. Harsh direct on-camera flash creates hard shadows and blown-out highlights with a raw snapshot feel. In the bottom corner, the text '2026-08-02 12:54 UTC' is clearly displayed in a clean, legible font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2736
+  },
+  {
+    "number": 2737,
+    "title": "漆案金絲光影凝",
+    "comment_id": 5158507933,
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "鳥瞰俯瞰視角",
+      "專注追逐或撥弄小物件",
+      "環形燈光與圓形 catchlight",
+      "溫室玻璃花窗場景",
+      "古老地圖或古籍文獻",
+      "極致細節冰霜結晶",
+      "低多邊形或 3D 渲染質感",
+      "特定 ISO/UTC 時間戳記文字",
+      "繁體中文與英文限定警語"
+    ],
+    "inspiration": "original",
+    "idea": "在融合夢幻商品攝影質感的微型中式漆器工坊中，一隻橘貓正伸出前爪輕輕撥弄一枚懸掛的純金雕花懸針。畫面採用淺景深特寫，倫勃朗光投射出沉穩的光影，背景隱約可見鐵絲網纏繞的骨架與朱紅描金的精細光澤。",
+    "style_picks": {
+      "art_style": "Dreamy Product Photography",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "story": "深夜的漆器案頭前，工匠剛歇息，橘貓便悄悄溜上工作台。它好奇地用爪子擺弄著尚未定型的金箔絲與雕花配件，在深邃的倫勃朗光下，宛如一位正在嚴謹檢視珍寶的微型藝術家。",
+    "news_inspiration": [],
+    "prompt": "Close-up product photography of an orange cat on a miniature dark lacquer workbench, reaching its front paw out to gently tap a suspended carved gold hanging needle. Shot on 85mm macro lens, f/2.8, shallow depth of field, sharp focus on the cat's paw and gold ornament. Rembrandt lighting with a single light source at 45 degrees creates rich highlights and deep chiaroscuro shadows. Background features soft bokeh with glossy reflections, vermilion red cinnabar lacquer, gold outlines, and industrial tangled wire mesh textures. Displayed clearly in the corner of the image is the text '2026-08-02 14:22 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
