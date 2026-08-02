@@ -783,5 +783,43 @@
       "繁體中文與英文限定警語"
     ],
     "story": "在高聳入雲的巴西松樹林深處，部落的少年正細心栽培著瀕危的幼苗。隻身巡邏的部落三花貓穿梭在林床間，被一顆古老松果上奇特發光的真菌吸引了注意。貓咪好奇地伸出雙爪試探，靜靜參與這場默默進行的生態復育奇蹟。"
+  },
+  {
+    "character_name": "墨墨",
+    "inspiration": "original",
+    "comment_id": 5159612841,
+    "news_inspiration": [
+      "美國加州史丹佛大學研究團隊研發出一款新型 AI 系統，能透過單晚的睡眠生理數據評估並預測未來超過 130 種疾病的罹患風險。",
+      "瑞典斯德哥爾摩當局宣佈將領先歐盟，計畫最早於 2028 年起禁止在服飾與廚具等日常消費品中使用 PFAS「永久化學物質」。",
+      "印度新德里政府啟動全國性的草原地圖繪製與生態復育計畫，邁出保護原生草地與稀樹草原生態的重要一步。",
+      "肯亞蒙巴薩成功舉辦非洲首屆「我們的海洋」國際會議，全球各國共籌集了超過 64 億美元資金承諾投入海洋保護。"
+    ],
+    "prompt": "A digital art illustration with a Mucha-style arched frame composition set in a quiet antique cafe at night. Enclosed within an ornamental rounded Art Nouveau arch with integrated floral decorative motifs, a sleek slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, large luminous golden-amber eyes, long white whiskers, a tiny natural white chest locket tuft, a single dark-grey ring at the tail tip, and a single small gold hoop earring on its left ear is gracefully lying down, resting its chin near the glowing amber mechanical skeleton and palm of a semi-finished humanoid robot with low-poly crystalline geometric facets and intricate hard-surface details. The scene blends low-poly polygon mesh elements with photorealistic sci-fi concept textures, illuminated by cool silvery moonlight contrasting with warm amber light from the robot's inner chassis. Earth tone palette featuring terracotta, olive green, and warm brown hues. Visually displayed clearly on a decorative plaque or panel at the bottom edge is the text '2026-08-02 17:51 UTC' in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在融合低多邊形切面與寫實人形機器人質感的古董咖啡廳裡，墨墨優雅地趴在亮著琥珀光芒的機械骨架旁，以穆夏式拱框構圖呈現月光照射下的大地色系畫面。",
+    "character": "momo",
+    "story": "深夜的古董咖啡廳裡，半完成的人形機器人靜靜坐在鋼琴旁，金屬骨架在月光下泛著大地色的冷輝。墨墨無聲地踱步至高處的機械臂彎，配戴金色耳環的輕盈身軀微躬，將下巴輕靠在機械掌心上挑選著適合小憩的位置。大而圓的金琥珀色眼睛凝視著齒輪微幅運轉，彷彿在與這位沉默的新朋友進行一場安靜的對話。",
+    "style_picks": {
+      "art_style": "Photorealistic Sci-Fi Robot Concept",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Moonlight",
+      "texture": "Low Poly",
+      "color_palette": "Earth Tones"
+    },
+    "number": 2740,
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "維梅爾式窗邊柔光",
+      "青橙電影調色",
+      "鐵絲網與螺旋纏繞構圖",
+      "微縮模型與掌心場景",
+      "鳥瞰俯瞰視角",
+      "粉彩夢幻色調",
+      "蓬鬆如雲朵的貓毛",
+      "倫勃朗光與明暗對比",
+      "螢光真菌與發光元素",
+      "平視正面對稱構圖",
+      "朱紅描金與漆器質感"
+    ],
+    "title": "月下齒輪與琥珀"
   }
 ]
