@@ -1272,5 +1272,41 @@
     "comment_id": 5171614822,
     "prompt": "An inflatable PVC cat standing in a classic four-legged posture, heroically surfing on a high-tech air-cushion board through ocean waves filled with bamboo shadows. Rendered in a Neo-Impressionism Pointillism style using a systematic dot technique, tiny dabs of pure color, and optical color mixing to create a luminous surface. Composition uses orthographic projection with no perspective distortion and a straight-on flat technical illustration feel. Illuminated by a classic three-point lighting setup featuring a key light with soft shadows, fill light, and a subtle rim light separation. The cat features a high-gloss balloon-like surface with puffy rounded forms and air-filled tension. A bamboo jade-green palette dominates with fresh emerald and malachite tones for a cool verdant serenity and elegant oriental green harmony. Visually displayed clearly in the image is the text '2026-08-03 20:52 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "一隻充氣 PVC 材質的貓咪正踏著高科技氣墊板，在滿是竹影翠綠色調的浪花中英勇衝浪，整體以新印象派點描法與正交投影視角呈現，並搭配俐落的三點打光。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Frame Within a Frame",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Rust / Weathered",
+      "color_palette": "Moonlit Indigo"
+    },
+    "news_inspiration": [
+      "在美國西雅圖，一隻名為 Jimothy 的網紅浣熊引發當地企業與民眾熱烈響應，成功為當地食物銀行籌集了超過 5.8 萬美元善款。",
+      "愛沙尼亞在拆除帕爾努河上的辛迪大壩並進行河流生態修復後，成功吸引絕跡多年的魚鷹重新回到該國西部棲息。",
+      "科學家研究發現，位於馬拉威的馬拉威湖中，湖蠅幼蟲能利用體內的微型氣囊深潛至 200 公尺深的水下以巧妙躲避捕食者。",
+      "在澳大利亞，數百萬隻健康的蜜蜂搭乘特製的「蜂鳴卡車」進行跨州遠征，前往南澳大利亞州協助杏仁樹進行季節性授粉。"
+    ],
+    "prompt": "A candid street photography shot of a tortoiseshell farm cat leaning forward to reach a paw toward a piece of wind-blown rope hanging from tied beehives. Captured through the rusted, weathered rear window of an old truck, creating a striking frame within a frame composition with layered foreground borders. Strong directional, harsh midday sunlight casts hard-edge shadows and high-contrast natural daylight across the scene. The cat's coat blends moonlit indigo and deep night-blue tones with cool silvery highlights, setting off the warm orange-brown corrosion, oxidized patina, and peeling paint layers on the aged truck frame. Shot on a 35mm lens, f/2.8, shallow depth of field, natural light, rich film grain, gritty realistic texture. Visually displayed in the corner of the frame is the text '2026-08-03 21:56 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "鐵鏽車窗裡的伏擊",
+    "story": "在南澳大利亞烈日下停靠的蜂鳴卡車旁，這隻農場貓正專注地撲向綑綁蜂箱的麻繩。硬光日照在牠一身月夜靛藍的毛髮與卡車鏽痕上投下銳利的陰影，遠處是蜂群嗡嗡作響的杏仁果園。",
+    "avoid_list": [
+      "繁體中文與英文文字限制標籤",
+      "半完成人形機器人與齒輪骨架",
+      "幾何低多邊形切面與低多邊形貓咪",
+      "Knolling 平面俯視排版與 90 度角排列",
+      "古老與逾期書籍文獻拆解",
+      "藍青色調霓虹燈光與夜間濕潤反射",
+      "條碼標籤貼紙與資產盤點",
+      "貼紙拼貼與白色邊框貼圖",
+      "琥珀色暖調光影與金黃秋日",
+      "立體刺繡與盤花貼花肌理",
+      "追逐黃銅機械昆蟲或摺紙蝴蝶",
+      "時間戳記 UTC Visually Displayed"
+    ],
+    "number": 2754,
+    "comment_id": 5172203030,
+    "idea": "這是一幅採用街頭攝影風格的畫面，一隻斑駁的花貓伸出前爪抓取被風吹動的繩角，透過老舊卡車鐵鏽斑駁的後車窗形成框中框構圖。",
+    "inspiration": "在澳大利亞，數百萬隻健康的蜜蜂搭乘特製的「蜂鳴卡車」進行跨州遠征，前往南澳大利亞州協助杏仁樹進行季節性授粉。"
   }
 ]
