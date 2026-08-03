@@ -1308,5 +1308,36 @@
     "comment_id": 5172203030,
     "idea": "這是一幅採用街頭攝影風格的畫面，一隻斑駁的花貓伸出前爪抓取被風吹動的繩角，透過老舊卡車鐵鏽斑駁的後車窗形成框中框構圖。",
     "inspiration": "在澳大利亞，數百萬隻健康的蜜蜂搭乘特製的「蜂鳴卡車」進行跨州遠征，前往南澳大利亞州協助杏仁樹進行季節性授粉。"
+  },
+  {
+    "title": "鏡中燭影微光",
+    "inspiration": "original",
+    "story": "古老劇院後台的鏡子前，燭光將空氣中的微塵染成如棉花糖雲朵般柔和的質感。貓咪正靜靜趴在梳妝台上，伸出前爪輕敲著復古鏡面與化妝盒，鏡中映照出長曝光下牠輕微晃動的虛幻輪廓與專注神情。",
+    "avoid_list": [
+      "繁體中文與英文文字標籤限制",
+      "霓虹燈光與濕滑地面倒影",
+      "四足踩踏水泵或機關裝置",
+      "伸爪觸碰發光物或繩索",
+      "正交投影與無透視扁平構圖",
+      "藍黃互補色調",
+      "竹影與翡翠綠調性",
+      "點點微光與夢幻散景背景",
+      "條碼與圖案貼紙邊框",
+      "金箔祥雲與傳統裝飾紋樣",
+      "低角度仰視貓咪姿態",
+      "框中框視覺構圖"
+    ],
+    "comment_id": 5172625615,
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Earth Tones"
+    },
+    "prompt": "A candid long exposure photograph shot on a 35mm lens, f/1.8, with shallow depth of field and soft film grain. In an antique retro dressing room with warm earth tones, a cat crouches on a wooden vanity, reaching out with its paw to play with a fallen powder puff. The scene uses a mirror selfie composition, capturing both the cat and its visible subtle motion-blurred ghost reflection in the mirror face. Soft flickering candlelight creates warm orange light, gentle dancing shadows, and highlights cotton candy-like dusty cloud textures in the air. Natural organic palette featuring terracotta, olive green, and warm brown hues. The text '2026-08-03 22:54 UTC' is clearly rendered in subtle digital timestamp font in the bottom corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用長曝光攝影與鏡子自拍構圖，描繪一隻貓咪在溫暖燭光與大地色系的古董復古化妝間裡，低頭用 paw 擺弄鏡前掉落的粉撲。",
+    "number": 2755,
+    "news_inspiration": []
   }
 ]
