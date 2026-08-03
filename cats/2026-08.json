@@ -1055,5 +1055,41 @@
     "character": "lingling",
     "title": "霓虹夜園的撞牆序曲",
     "news_inspiration": []
+  },
+  {
+    "inspiration": "美國愛荷華州迪爾斯維爾（Dyersville）迎來大聯盟「夢幻成真」棒球賽，讓球迷在經典的玉米田球場中感受濃厚的棒球情懷。",
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "prompt": "Medium format photography of a calico cat crouched on home plate in a vast cornfield baseball field in Dyersville, Iowa, intently gazing at a baseball tossed high overhead. The scene features butterfly lighting with an overhead key light creating a soft, symmetrical shadow under the nose, illuminating the cat and field details with smooth rendering and extraordinary tonal range. Hasselblad aesthetic with a creamy shallow depth of field. Scrapbook-style overlay incorporating die-cut sticker collage composition with white outline borders around floating props, layered on a textured kraft paper surface with visible fiber grain. Blue and yellow complementary palette creating vivid contrast and striking graphic vibrancy. The date and time '2026-08-03 08:58 UTC' is subtly and visually displayed in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "法國巴黎隆重舉辦2026年歐洲水上運動錦標賽，來自歐洲各國的水上好手齊聚一堂，展現游泳與花式游泳的精彩競技與活力。",
+      "日本東京熱烈展開世界女子袋棍球錦標賽，吸引全球多國頂尖隊伍同台較勁，帶來充滿熱情的國際體育文化交流。",
+      "美國愛荷華州迪爾斯維爾（Dyersville）迎來大聯盟「夢幻成真」棒球賽，讓球迷在經典的玉米田球場中感受濃厚的棒球情懷。",
+      "澳大利亞雪梨盛大籌備年度雪梨馬拉松，預計吸引來自全球數萬名跑者在雪梨歌劇院與港灣大橋的明媚風光下熱力奔馳。"
+    ],
+    "avoid_list": [
+      "貓咪伸爪輕撥物件",
+      "伸出前爪觸碰/撥弄",
+      "琥珀色暖調光影",
+      "薄荷綠與粉紅粉彩色調",
+      "幾何與立體塊面拼接",
+      "微型立體模型/Diorama",
+      "古董/復古機械零件與齒輪",
+      "螢光與亮粉發光質感",
+      "半透明與透明材質光澤",
+      "古典光影與體積光線",
+      "傳統中式漆器與朱紅描金",
+      "建築視覺化與縱深引導線"
+    ],
+    "comment_id": 5164342470,
+    "story": "迪爾斯維爾的玉米田球場迎來了大聯盟的夢幻對決，但本壘板上最搶眼的防守員卻是一隻在地花貓。當棒球高高拋起，牠豎起耳朵並微微壓低身軀，用最純粹的獵手本能凝視著球的落點。全場觀眾摒息以待，在這片綠意深處交織出熱血又溫馨的傳奇時刻。",
+    "idea": "這幅中片幅攝影作品描繪了一隻花貓蹲坐在愛荷華州迪爾斯維爾廣袤的玉米田球場本壘板上，正專注地凝視著高高拋起並落下的棒球；畫面採用蝴蝶光照亮貓咪與球場細節，並揉合紙質肌理、藍黃互補色調與貼紙拼貼邊框。",
+    "title": "玉米田裡的夢幻投手",
+    "number": 2748
   }
 ]
