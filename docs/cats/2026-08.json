@@ -1198,5 +1198,43 @@
     },
     "character_name": "船長",
     "number": 2751
+  },
+  {
+    "character_name": "墨墨",
+    "character": "momo",
+    "number": 2752,
+    "avoid_list": [
+      "繁體中文與英文文字限制標籤",
+      "半完成人形機器人與齒輪骨架",
+      "幾何低多邊形切面與低多邊形貓咪",
+      "Knolling 平面俯視排版與 90 度角排列",
+      "古老與逾期書籍文獻拆解",
+      "藍青色調霓虹燈光與夜間濕潤反射",
+      "條碼標籤貼紙與資產盤點",
+      "貼紙拼貼與白色邊框貼圖",
+      "琥珀色暖調光影與金黃秋日",
+      "立體刺繡與盤花貼花肌理",
+      "追逐黃銅機械昆蟲或摺紙蝴蝶",
+      "時間戳記 UTC Visually Displayed"
+    ],
+    "comment_id": 5170739157,
+    "news_inspiration": [
+      "南非比勒陀利亞：南非總統府與研究所於8月4日聯合舉辦「國際權力肖像」展覽，由當地藝術家繪製肖像以表彰全球傑出女性領袖的貢獻。",
+      "美國洛杉磯：為迎接2028年夏季奧運會，知名藝術地標「瓦茨塔」（Watts Towers）宣佈啟動2,200萬美元的園區擴建與保護計畫。",
+      "印尼雅加達：連接東南亞最大清真寺與天主教堂的「友好隧道」成為熱門文化地標，以地底通路展現跨宗教和諧與共榮精神。",
+      "剛果民主共和國：生物學家在剛果密林深處發現了一種全新猴類物種，為全球野生動物研究與雨林保育帶來重大新發現。"
+    ],
+    "style_picks": {
+      "art_style": "Chinese Shadow Puppetry",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Concrete",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "影縫裡的螢光私語",
+    "inspiration": "original",
+    "story": "墨墨在舊書店最隱密的古董地下室裡找到了新玩具。牠趴在冰冷的混凝土結構旁，用優雅的身姿凝視著暗處熠熠生輝的發光植物，並用細長的白色鬍鬚與爪子輕觸那點點螢光。宛如皮影戲幕布般的剪影與青橙光影交織，將牠這隻優雅貓咪的傲嬌好奇心展現無遺。",
+    "prompt": "A Chinese shadow puppetry style artwork featuring orthographic projection with straight-on flat rendering and no perspective distortion. In a dark antique bookstore basement with raw concrete aggregate wall textures, a sleek, slender solid-black Bombay-style shorthair cat named Momo, with satin-sheen fur, is crouched low, playfully touching a faint bioluminescent exotic fungal strain glowing deep blue-green in a wall crack. Momo has large luminous golden-amber eyes, a tiny white chest locket tuft of fur, long prominent white whiskers, a single dark-grey ring at the tail tip, and a single small gold hoop earring on its left ear edge. The scene utilizes backlit translucent leather puppets, intricate perforated silhouettes, jointed figures, and a warm glowing screen effect. Dramatic teal and orange color grading with punchy contrast, warm screen accents against cool blue-green shadows. Crisp text '2026-08-03 19:16 UTC' is visually displayed in clear modern font in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用皮影戲藝術風格與正交投影構圖，展現墨墨趴在舊書店地下室的混凝土牆邊，伸爪輕輕撥弄牆縫中發出微弱生物發光異國菌株的奇幻畫面，整體呈現鮮明的青橙電影色調。"
   }
 ]
