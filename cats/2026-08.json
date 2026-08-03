@@ -986,5 +986,41 @@
       "texture": "Three-Dimensional Floral Appliqué",
       "color_palette": "Vermilion and White"
     }
+  },
+  {
+    "avoid_list": [
+      "貓咪伸爪輕撥物件",
+      "伸出前爪觸碰/撥弄",
+      "琥珀色暖調光影",
+      "薄荷綠與粉紅粉彩色調",
+      "幾何與立體塊面拼接",
+      "微型立體模型/Diorama",
+      "古董/復古機械零件與齒輪",
+      "螢光與亮粉發光質感",
+      "半透明與透明材質光澤",
+      "古典光影與體積光線",
+      "傳統中式漆器與朱紅描金",
+      "建築視覺化與縱深引導線"
+    ],
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Extreme Low Angle",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Low Poly",
+      "color_palette": "Crimson and Black"
+    },
+    "idea": "採用命令列終端機風格與緋紅烏黑調性，一隻低多邊形貓咪以極低角度仰視，正在將條碼貼紙一張張黏在龐大的巨型綠色珊瑚群落頂端。",
+    "number": 2746,
+    "inspiration": "澳大利亞凱恩斯附近的公民科學家在海域中發現了一座廣達 3,973 平方公尺的巨型珊瑚群落，呈現出如水下綠色草原般的壯麗景觀。",
+    "title": "深海終端機的珊瑚盤點",
+    "news_inspiration": [
+      "奧地利維也納的科學家發現一頭名為 Veronika 的母牛能自主使用多用途工具，創下人類首次記錄到牛隻具備工具使用能力的科學新發現。",
+      "澳大利亞凱恩斯附近的公民科學家在海域中發現了一座廣達 3,973 平方公尺的巨型珊瑚群落，呈現出如水下綠色草原般的壯麗景觀。",
+      "印度各地民眾於 8 月盛大慶祝「好友節」（Friendship Day），社群媒體上充斥著各式幽默迷因與感人祝福，展現深厚友誼。",
+      "津巴布韋胡倫韋（Hurungwe）的單車醫療志工騎車深入偏遠村莊，親自到府為無法前往醫院的女孩接種疫苗，傳遞溫暖的醫療關懷。"
+    ],
+    "story": "這隻默默無聞的黑貓穿梭於深海巨型綠色草原之間，專注地執行著這片廣袤水下生態的資產盤點任務。在暗黑的背景與輪廓光映照下，牠熟練地用爪子扣緊設備，將條碼標籤精準貼在每一座龐大的珊瑚頂端。",
+    "comment_id": 5161488223,
+    "prompt": "Low-poly digital illustration with a retro command line terminal aesthetic and black console background. Features scrolling log lines with monospace bitmap text output, green CJK system font glyphs, and a blinking cursor displaying '2026-08-03 01:44 UTC'. Extreme low angle shot looking up at a low-poly cat made of geometric crystalline facets and flat-shaded triangular faces, carefully applying barcode stickers onto the tops of a massive green coral reef colony. Dramatic backlighting creates intense rim light along glowing silhouette edges. Deep crimson and jet black color palette creating a dramatic high-contrast, digital origami visual style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
