@@ -25713,5 +25713,16 @@
     "timestamp": "2026-08-03 08:58 UTC",
     "title": "玉米田裡的夢幻投手",
     "number": 2748
+  },
+  {
+    "inspiration": "original",
+    "timestamp": "2026-08-03 12:20 UTC",
+    "number": 2749,
+    "status": "success",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-03_1220_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "夜市裏的金箔麻糬巡禮"
   }
 ]

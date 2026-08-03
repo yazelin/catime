@@ -1091,5 +1091,38 @@
     "idea": "這幅中片幅攝影作品描繪了一隻花貓蹲坐在愛荷華州迪爾斯維爾廣袤的玉米田球場本壘板上，正專注地凝視著高高拋起並落下的棒球；畫面採用蝴蝶光照亮貓咪與球場細節，並揉合紙質肌理、藍黃互補色調與貼紙拼貼邊框。",
     "title": "玉米田裡的夢幻投手",
     "number": 2748
+  },
+  {
+    "prompt": "A pop art style artwork with Knolling flat lay overhead photography composition, featuring a chubby orange and white shorthair cat named Mochi sniffing a freshly steamed gold-leaf peanut mochi on a black marble tabletop. The cat is rendered with a raised embroidered coiled-flower texture, three-dimensional satin-stitch blossoms, dense thread relief, and tactile gold-couched petals. Mochi has large round amber eyes (#FFBF00), a pink nose with a tiny orange center dot, a white (#FFFFFF) body base, an orange (#FF8C00) mask on its right half-face with a pure white left face, a heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, an orange-and-white ringed tail, and a white belly. Arranged at neat 90-degree angles around the tabletop are glittering night market snacks and vibrant neon glowing signs with moody urban night lighting. The visual aesthetic incorporates bold primary colors, Warhol-inspired repetition, thick outlines, and Ben-Day dots against a opulent gold and black color scheme with deep black background and metallic gold accents. The Traditional Chinese text and exact timestamp '2026-08-03 12:20 UTC' is visually displayed seamlessly within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "story": "麻糬巡邏到夜市最奢華的點心攤位，被滿桌剛出爐的奢華金箔點心深深吸引。牠肚子微微晃動，圓滾滾的橘白身軀趴在黑色檯面上，琥珀色的大眼睛瞬間放大兩倍，正忍不住湊上去仔細聞著飄散著花生香氣的極品麻糬。",
+    "number": 2749,
+    "character": "mochi",
+    "idea": "這幅普普藝術風格的作品採用 Knolling 平面排版攝影構圖，將橘白家貓「麻糬」以立體刺繡盤花肌理細緻呈現，圓滾滾的身軀正專注地用鼻子湊近一顆剛蒸好的金箔花生麻糬，整座黑色大理石檯面上環繞排列著金光閃閃的夜市小吃與霓虹燈牌。",
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Knolling Photography",
+      "lighting": "Neon Lighting",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "character_name": "麻糬",
+    "avoid_list": [
+      "貓咪伸爪輕撥物件",
+      "伸出前爪觸碰/撥弄",
+      "琥珀色暖調光影",
+      "薄荷綠與粉紅粉彩色調",
+      "幾何與立體塊面拼接",
+      "微型立體模型/Diorama",
+      "古董/復古機械零件與齒輪",
+      "螢光與亮粉發光質感",
+      "半透明與透明材質光澤",
+      "古典光影與體積光線",
+      "傳統中式漆器與朱紅描金",
+      "建築視覺化與縱深引導線"
+    ],
+    "title": "夜市裏的金箔麻糬巡禮",
+    "comment_id": 5166276496
   }
 ]
