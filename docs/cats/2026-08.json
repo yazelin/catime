@@ -1022,5 +1022,38 @@
     "story": "這隻默默無聞的黑貓穿梭於深海巨型綠色草原之間，專注地執行著這片廣袤水下生態的資產盤點任務。在暗黑的背景與輪廓光映照下，牠熟練地用爪子扣緊設備，將條碼標籤精準貼在每一座龐大的珊瑚頂端。",
     "comment_id": 5161488223,
     "prompt": "Low-poly digital illustration with a retro command line terminal aesthetic and black console background. Features scrolling log lines with monospace bitmap text output, green CJK system font glyphs, and a blinking cursor displaying '2026-08-03 01:44 UTC'. Extreme low angle shot looking up at a low-poly cat made of geometric crystalline facets and flat-shaded triangular faces, carefully applying barcode stickers onto the tops of a massive green coral reef colony. Dramatic backlighting creates intense rim light along glowing silhouette edges. Deep crimson and jet black color palette creating a dramatic high-contrast, digital origami visual style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "character_name": "鈴鈴",
+    "story": "夜幕降臨，花店附近的室內蝴蝶園亮起藍青色的霓虹燈光，氣氛迷離而夢幻。最愛亮晶晶物件的鈴鈴戴著粉紅鈴鐺項圈，在長幅全景空間裡奮力追逐懸掛著的藍色摺紙蝶影，結果因為太過專注，整隻像棉花糖般直接趴上了透明玻璃牆。遠處散景微光點點，她那大大的寶石藍眼睛裡滿是驚訝，微小的打噴嚏動作讓她差點往後彈開。",
+    "inspiration": "original",
+    "avoid_list": [
+      "貓咪伸爪輕撥物件",
+      "伸出前爪觸碰/撥弄",
+      "琥珀色暖調光影",
+      "薄荷綠與粉紅粉彩色調",
+      "幾何與立體塊面拼接",
+      "微型立體模型/Diorama",
+      "古董/復古機械零件與齒輪",
+      "螢光與亮粉發光質感",
+      "半透明與透明材質光澤",
+      "古典光影與體積光線",
+      "傳統中式漆器與朱紅描金",
+      "建築視覺化與縱深引導線"
+    ],
+    "idea": "採用單眼人像散景與長卷全景構圖，呈現超蓬鬆白色布偶貓鈴鈴在冷色霓虹燈光映照下的夜間蝴蝶園中，追逐摺紙藝術風格裝飾物時意外撞上玻璃牆的滑稽瞬間。",
+    "number": 2747,
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Neon Lighting",
+      "texture": "Origami",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "DSLR portrait, 85mm f/1.4 lens, creamy bokeh background, sharp focus on subject. Continuous extreme wide handscroll composition, continuous panoramic narrative, layered foreground middleground background, oblique bird's-eye angle, right-to-left reading flow. A funny, candid, high-speed photography shot of an extremely fluffy pure white longhair Ragdoll-like cat named Lingling with voluminous cloud-like fur, a small round face, huge round sapphire-blue eyes full of surprise, and a pale pink nose. She wears a pink ribbon bow collar with a golden bell clearly visible and centered beneath the bow knot. Lingling is humorously squished face-first against a clear, transparent glass wall while chasing dangling blue origami-style folded paper art butterflies in an indoor nocturnal butterfly garden. The background features moody neon lighting with cool blue-teal color grading, icy undertones, reflections on wet surfaces, and colorful glowing signs with a moody urban night atmosphere. Visually displayed clearly in crisp text in the image is the timestamp '2026-08-03 05:29 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5162688896,
+    "character": "lingling",
+    "title": "霓虹夜園的撞牆序曲",
+    "news_inspiration": []
   }
 ]
