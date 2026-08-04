@@ -1511,5 +1511,41 @@
     ],
     "story": "這隻體型靈巧的貓咪穿梭在充滿藍黃充氣PVC材質障礙物的螺旋管道中，牠正全神貫注地追逐一顆滾動的黃色高爾夫球。攝影鏡頭以精準的橫向追焦橫掃過場景，將貓咪凌空跨步的瞬間與周遭變形的塑膠充氣管線拉出一道道俐落的動感流線。",
     "idea": "在藍黃互補色調與極簡白底去背棚光下，一隻三色貓於螺旋漩渦構圖的環形極速跑道上奮力奔跑，展現運動追焦的動態拉伸線條。"
+  },
+  {
+    "number": 2761,
+    "character_name": "鈴鈴",
+    "style_picks": {
+      "art_style": "Healing Pet Portrait",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "這是一幅『療癒寵物寫真』風格的黑白頭肩特寫，呈現白毛蓬鬆如綿綿雲朵的布偶貓『鈴鈴』在滿是百合與玫瑰的花店陽台上，對著一隻停在花瓣上的閃亮蝴蝶好奇地追逐，結果小巧圓臉不小心輕輕撞上花盆牆面的逗趣瞬間。",
+    "prompt": "A close-up head-and-shoulders candid photograph of Lingling, an extremely fluffy pure white (#FFFFFF) longhair cat with voluminous cloud-like fur, a small round face, and huge round sapphire-blue (#0F52BA) eyes filled with innocent curiosity. She wears a prominent pink (#FF69B4) ribbon bow collar with a small golden (#FFD700) bell clearly visible and centered beneath the bow knot. Captured in a humorous, clumsy moment on a flower shop balcony surrounded by lilies and roses, her face gently bumps into a terracotta planter wall after playfully chasing a sparkling butterfly resting on a flower petal. Shot on a 35mm lens, f/1.8, creating a shallow depth of field with a dreamy bokeh background. The image is rendered in high-contrast monochrome black and white with a rich tonal range, utilizing soft diffused overcast light to eliminate harsh shadows while introducing subtle sparkle glitter accents and shimmering star highlights. Displayed visibly on the photo in a clean timestamp overlay format is the text '2026-08-04 13:43 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "花店裡清脆的鈴聲剛響起，毛茸茸的鈴鈴又因為追逐蝴蝶而一頭撞上了花棚牆壁。她被嚇了一跳，整隻像粉撲一樣往後彈開，脖子上的粉紅蝴蝶結鈴鐺發出叮叮噹噹的聲響。雖然撞得有點懵，但那雙寶石般的圓眼睛裡依然滿是純真與好奇，隨時準備發起下一次黏人的討摸摸攻擊。",
+    "comment_id": 5179946415,
+    "character": "lingling",
+    "avoid_list": [
+      "貓咪伸爪按壓或撥弄機關物件",
+      "2026-08-03/04的時間戳記文字",
+      "正交投影與無透視畸變構圖",
+      "生物發光植物與異國菌株微光",
+      "35mm鏡頭與f/1.8淺景深長曝光",
+      "斑駁光影與樹葉過濾的斑駁日光",
+      "傳統金箔祥雲紋與華麗邊框飾紋",
+      "大地色系與雙色調電影感調色",
+      "手作廢料與鑄鐵鏤空機關裝置",
+      "繁體中文與英文限定字體標示"
+    ],
+    "news_inspiration": [
+      "科學家在台灣的高山山脈深處發現了一片棲息著數百棵巨型台灣杉的隱密森林，宛如一片保存完好的遺失世界。",
+      "芬蘭波爾奈寧（Pornainen）啟用全球最大的「沙子電池」高熱儲能系統，成功利用再生能源為全鎮 5,000 名居民提供清潔供暖。",
+      "公民科學家在澳洲凱恩斯（Cairns）外海的大堡礁發現一座面積近 4,000 平方公尺的巨大柱狀珊瑚群落，規模相當於半個足球場大小。",
+      "美國南達科他州雷皮德城（Rapid City）正規劃成立全美首間原住民醫學院，旨在培育更多原住民醫師並提升基層醫療服務品質。"
+    ],
+    "inspiration": "original",
+    "title": "花影下的叮鈴旋律"
   }
 ]
