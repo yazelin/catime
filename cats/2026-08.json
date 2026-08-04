@@ -1644,5 +1644,36 @@
     "title": "熱能雙生的泥沼沉思",
     "story": "三花貓優雅地踏入威爾斯沼澤的淺水區，低頭凝視著水中那尊與自己呈現鏡像鏡面姿態的奇特倒影。四周壓花植物與斑駁的熱訊號交織，彷彿整片濕地都在為這場神秘的自我對話發出繽紛的熱能光彩。",
     "number": 2764
+  },
+  {
+    "character_name": "船長",
+    "inspiration": "original",
+    "comment_id": 5185213415,
+    "prompt": "A voxel art miniature scene inside a clear glass jar, capturing a blocky fishing port made of Minecraft-style cubic blocks. Perched on top of the voxel breakwater is a large stocky brown cat with bold black stripes, scruffy coarse fur, a notched left ear, a faded red bandana loosely tied around its neck, a white chest bib, and white mitten paws. A natural dark-pigmented fur patch completely covers its left eye socket with no fabric or straps, while its right eye is a single piercing emerald green. The cat stands on four paws looking out over the voxel ocean. The scene is illuminated by golden hour sunset lighting, casting long soft shadows and a golden rim light. The blocky water surface reflects a liquid metal molten mirror finish in a dreamy soft pastel color palette of gentle pink, lavender, and mint. Displayed clearly in clean English text in the corner of the frame is the text '2026-08-04 22:02 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Golden Hour",
+      "texture": "Liquid Metal",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "在以體素風格建構的玻璃瓶微縮漁港中，粗獷的「船長」站在防波堤頂端俯瞰全景，夕陽黃金時刻的光線灑落，將方塊海面折射出如液態金屬般的流光與夢幻粉彩調。",
+    "number": 2765,
+    "news_inspiration": [],
+    "character": "captain",
+    "story": "老船長將粗壯的身軀佇立於微縮瓶中的方塊碼頭最高處，右眼銳利的翠綠眼眸凝視著泛著液態金屬光澤的柔粉色波浪。儘管身處精緻可愛的粉彩體素世界，牠那缺角左耳與深色眼罩依然展現出港口霸氣老大不容侵犯的沉穩威嚴。",
+    "title": "玻璃瓶裡的港灣守望",
+    "avoid_list": [
+      "貓咪伸爪按壓或撥弄機關物件",
+      "2026-08-03/04的時間戳記文字",
+      "正交投影與無透視畸變構圖",
+      "生物發光植物與異國菌株微光",
+      "35mm鏡頭與f/1.8淺景深長曝光",
+      "斑駁光影與樹葉過濾的斑駁日光",
+      "傳統金箔祥雲紋與華麗邊框飾紋",
+      "大地色系與雙色調電影感調色",
+      "手作廢料與鑄鐵鏤空機關裝置",
+      "繁體中文與英文限定字體標示"
+    ]
   }
 ]
