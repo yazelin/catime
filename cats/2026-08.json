@@ -1675,5 +1675,39 @@
       "手作廢料與鑄鐵鏤空機關裝置",
       "繁體中文與英文限定字體標示"
     ]
+  },
+  {
+    "prompt": "Tilt-shift photography of a miniature street scene featuring a cat crouching on all fours, sneaking through a maze of vibrant, inflatable PVC neon lanterns. Mid-shot, eye-level perspective with a selective focus band, sharp on the cat while the foreground and background are softly blurred for a toy-like miniature effect. The lanterns cast an intense backlit glow, blending Chinese shadow puppetry aesthetic with translucent textures, jointed silhouetted shadows, and dark perforated outlines on warm glowing surfaces. Atmospheric lighting with saturated neon hues, warm amber tones, deep burnt oranges, and glossy golden reflections on a damp cobblestone street. High-gloss balloon-like air-filled forms frame the narrow path. Prominently displayed in clear, clean typography in the scene is the date and time text '2026-08-04 23:53 UTC'. 50mm lens, f/2.8, shallow depth of field, subtle film grain, urban night photography style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5185911744,
+    "title": "霓彩影燈下的夜巡",
+    "idea": "在融合皮影戲質感的移軸微縮街道上，一隻貓咪以四足匍匐穿梭於充氣PVC打造的霓虹燈籠陣之中，宛如夏日祭典裡的神秘巡邏員。",
+    "number": 2766,
+    "story": "夜幕降臨，巨大的炫彩燈籠在街頭逐一亮起，將整個小鎮映照得斑斕流金。貓咪穿過層層透光的充氣巨偶與影子戲台，用敏銳的鼻子嗅聞著空氣中歡慶的氣息與微熱的光影。它輕盈地踏過琥珀色霓虹映照的石板路，成為這場夜間嘉年華中最靈動的暗夜精靈。",
+    "inspiration": "日本青森市（Aomori, Japan）於8月初盛大舉辦一年一度的「青森睡魔祭」，數十座巨型炫彩燈籠浮屠巡遊街頭，吸引全球遊客前來感受夏日慶典氛圍。",
+    "news_inspiration": [
+      "日本青森市（Aomori, Japan）於8月初盛大舉辦一年一度的「青森睡魔祭」，數十座巨型炫彩燈籠浮屠巡遊街頭，吸引全球遊客前來感受夏日慶典氛圍。",
+      "英國愛丁堡（Edinburgh, UK）迎來全球規模最大的藝術盛事「愛丁堡藝穗節」，數千名藝術家與表演者齊聚一堂呈獻豐富多元的喜劇與戲劇演出。",
+      "美國奧克蘭（Oakland, USA）近期成立了一座免費的「體育器材借用圖書館」，讓當地家庭與兒童能隨時借用各式運動裝備，推廣全民健身與社區連結。",
+      "澳洲達爾文（Darwin, Australia）於8月5日揭幕「達爾文藝術節」，結合露天音樂、馬戲表演與原住民當代舞蹈，打造星空下的文化嘉年華。"
+    ],
+    "avoid_list": [
+      "貓咪伸爪按壓或撥弄機關物件",
+      "2026-08-03/04的時間戳記文字",
+      "正交投影與無透視畸變構圖",
+      "生物發光植物與異國菌株微光",
+      "35mm鏡頭與f/1.8淺景深長曝光",
+      "斑駁光影與樹葉過濾的斑駁日光",
+      "傳統金箔祥雲紋與華麗邊框飾紋",
+      "大地色系與雙色調電影感調色",
+      "手作廢料與鑄鐵鏤空機關裝置",
+      "繁體中文與英文限定字體標示"
+    ],
+    "style_picks": {
+      "art_style": "Chinese Shadow Puppetry",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Neon Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
