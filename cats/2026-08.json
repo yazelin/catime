@@ -1370,5 +1370,41 @@
     "news_inspiration": [],
     "prompt": "A claymation style floating island in the sky, featuring a sculpted clay tabby cat meticulously pruning levitating miniature bonsai plants with its front paws in a sky garden. The floating platform has a polished marble texture with natural vein patterns and a smooth stone finish. Shot from an aerial perspective amidst white clouds, with a duotone color treatment featuring two bold contrasting colors. Gentle dappled sunlight filters through leaves, casting soft mottled shadow patterns in a serene natural mood, with visible fingerprint textures and a stop-motion aesthetic. Visually displayed clearly in the image is the text '2026-08-03 23:58 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "original"
+  },
+  {
+    "prompt": "A vertical monochrome poster combining chibi Lunar New Year illustration style with East Asian poster framing, rendered in high-contrast black and white. In the central focal point under a narrow, dramatic beam spotlight, an adorable Q-version four-legged cat sits inside a bicycle's front basket, curiously sniffing a clear crystalline refrigerated cooler box that casts prismatic light refractions and reflections. The vertical layout features ornamental border elements, a side calligraphy panel in Traditional Chinese, delicate red seal accents, and deep darkness falloff. The text '2026-08-04 02:12 UTC' is visibly displayed on the poster frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Spotlight",
+      "texture": "Glass / Crystal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "inspiration": "在津巴布韋的偏遠鄉村，衛生工作者組成「疫苗單車隊」騎車深入各家各戶，為偏遠地區的兒童提供醫療與健康服務。",
+    "story": "疫苗單車隊穿梭在偏遠鄉村的小路上，為孩童們帶來健康的希望。隨行的貓咪趴在車籃前，好奇地用鼻子蹭著冰涼晶瑩的水晶冷藏箱。",
+    "title": "車籃裡的冷光旅程",
+    "comment_id": 5173824437,
+    "idea": "這是一幅採用Q版新年插畫風格與直式書法海報構圖的單色作品。在一道聚焦的黑白聚光燈下，一隻四足小貓趴在單車車籃裡，好奇地嗅著車載水晶冷藏箱透出的折射光澤。",
+    "number": 2757,
+    "news_inspiration": [
+      "聯合國教科文組織（UNESCO）第48屆世界遺產委員會於南韓釜山順利閉幕，宣佈全球共新增25處世界遺產名錄景點。",
+      "隨著夏季熱浪襲來，英國倫敦附近的海岸沙灘上近日出現數百隻被稱為「外星水母」的神秘藍色水母奇景。",
+      "巴西的 Xokleng 原住民族群發起聖樹復育計畫，透過大量種植瀕危的巴西松來守護自然與傳承部落文化。",
+      "在津巴布韋的偏遠鄉村，衛生工作者組成「疫苗單車隊」騎車深入各家各戶，為偏遠地區的兒童提供醫療與健康服務。"
+    ],
+    "avoid_list": [
+      "繁體中文與英文文字標籤限制",
+      "霓虹燈光與濕滑地面倒影",
+      "四足踩踏水泵或機關裝置",
+      "伸爪觸碰發光物或繩索",
+      "正交投影與無透視扁平構圖",
+      "藍黃互補色調",
+      "竹影與翡翠綠調性",
+      "點點微光與夢幻散景背景",
+      "條碼與圖案貼紙邊框",
+      "金箔祥雲與傳統裝飾紋樣",
+      "低角度仰視貓咪姿態",
+      "框中框視覺構圖"
+    ]
   }
 ]
