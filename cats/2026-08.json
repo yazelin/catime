@@ -1339,5 +1339,36 @@
     "idea": "採用長曝光攝影與鏡子自拍構圖，描繪一隻貓咪在溫暖燭光與大地色系的古董復古化妝間裡，低頭用 paw 擺弄鏡前掉落的粉撲。",
     "number": 2755,
     "news_inspiration": []
+  },
+  {
+    "story": "這座漂浮在半空的石雕花園不受重力束縛，陽光透過樹葉灑下斑駁光影。貓咪輕巧地踩在大理石基座上，仔細照顧著每一株懸浮的花草。在雙色調的黏土質感呈現下，整座浮島彷彿定格在奇幻童話的微縮瞬間。",
+    "number": 2756,
+    "avoid_list": [
+      "繁體中文與英文文字標籤限制",
+      "霓虹燈光與濕滑地面倒影",
+      "四足踩踏水泵或機關裝置",
+      "伸爪觸碰發光物或繩索",
+      "正交投影與無透視扁平構圖",
+      "藍黃互補色調",
+      "竹影與翡翠綠調性",
+      "點點微光與夢幻散景背景",
+      "條碼與圖案貼紙邊框",
+      "金箔祥雲與傳統裝飾紋樣",
+      "低角度仰視貓咪姿態",
+      "框中框視覺構圖"
+    ],
+    "title": "石島花園的修剪時光",
+    "idea": "這是一幅雙色調的黏土動畫風浮島場景，一隻斑紋貓在大理石紋理築成的浮空空中花園裡，聚精會神地用前爪撥弄並修剪著懸空微型盆栽。",
+    "comment_id": 5173012758,
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Floating Island Scene",
+      "lighting": "Dappled Light",
+      "texture": "Marble",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [],
+    "prompt": "A claymation style floating island in the sky, featuring a sculpted clay tabby cat meticulously pruning levitating miniature bonsai plants with its front paws in a sky garden. The floating platform has a polished marble texture with natural vein patterns and a smooth stone finish. Shot from an aerial perspective amidst white clouds, with a duotone color treatment featuring two bold contrasting colors. Gentle dappled sunlight filters through leaves, casting soft mottled shadow patterns in a serene natural mood, with visible fingerprint textures and a stop-motion aesthetic. Visually displayed clearly in the image is the text '2026-08-03 23:58 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original"
   }
 ]
