@@ -1406,5 +1406,40 @@
       "低角度仰視貓咪姿態",
       "框中框視覺構圖"
     ]
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文文字標籤限制",
+      "霓虹燈光與濕滑地面倒影",
+      "四足踩踏水泵或機關裝置",
+      "伸爪觸碰發光物或繩索",
+      "正交投影與無透視扁平構圖",
+      "藍黃互補色調",
+      "竹影與翡翠綠調性",
+      "點點微光與夢幻散景背景",
+      "條碼與圖案貼紙邊框",
+      "金箔祥雲與傳統裝飾紋樣",
+      "低角度仰視貓咪姿態",
+      "框中框視覺構圖"
+    ],
+    "idea": "這是一幅結合分割畫面與X光透視風格的藝術構圖，呈現隻花貓在巨大沙子電池內部的皂石堆上興奮地挖掘穴道的景象。",
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Split View",
+      "lighting": "Golden Hour",
+      "texture": "Paper Quilling",
+      "color_palette": "Earth Tones"
+    },
+    "story": "在高溫儲能的沙子電池深處，四足花貓好奇地用前爪推開溫熱的碎皂石，尋找底下隱藏的微小能量起伏。透過X光的解剖視野，貓咪柔軟的骨骼線條與內部交織的管道在黃金時刻的大地色調中交相輝映，展現出科幻與自然交融的異樣生機。",
+    "news_inspiration": [
+      "芬蘭波爾奈寧（Pornainen, Finland）建造了世界上最大的「沙子電池」，利用 2,000 噸碎皂石儲存再生能源，成功將當地城鎮供暖系統的碳排放量大幅降低 70%。",
+      "烏干達（Uganda）環保團隊成功將 12 隻稀有長頸鹿安全搬遷至阿賈伊野生動物保護區（Ajai Wildlife Reserve），協助牠們避開石油鑽探區域以維護野生族群。",
+      "英國薩里（Surrey, United Kingdom）的研究團隊發現只需在鈉離子電池內部留存微量水分，就能使其輸出功率翻倍並帶動海水淡化新技術。"
+    ],
+    "comment_id": 5175085356,
+    "number": 2758,
+    "inspiration": "芬蘭波爾奈寧（Pornainen, Finland）建造了世界上最大的「沙子電池」，利用 2,000 噸碎皂石儲存再生能源，成功將當地城鎮供暖系統的碳排放量大幅降低 70%。",
+    "prompt": "A split-view artwork of an excited calico cat digging a burrow into a pile of soapstone inside a giant sand battery. The left half features realistic rendering under golden hour lighting with warm sunset glow and long soft shadows. The right half transitions past a sharp vertical cut line into an X-ray radiograph and wireframe diagram view, revealing a translucent skeletal structure and complex internal piping. The scene incorporates intricate paper quilling art with coiled paper loops and 3D textures in an earth tone palette of terracotta, olive green, and warm brown. The text '2026-08-04 05:37 UTC' is visually displayed in the corner in crisp English lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "熱能沙丘下的微光探險"
   }
 ]
