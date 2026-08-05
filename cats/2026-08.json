@@ -1906,5 +1906,38 @@
       "texture": "Wrought Iron Filigree",
       "color_palette": "Duotone"
     }
+  },
+  {
+    "story": "寂靜的午後咖啡廳裡，細雪在窗外漫天飛舞，墨墨輕盈地跳上古董唱片機旁。牠優雅地伸出前爪微調唱針，當復古的爵士樂曲流淌而出，這隻帶著金色耳環與白領結的黑貓便滿意地瞇起金琥珀色的大眼睛，俯瞰著沉浸在音樂中的咖啡廳客人。",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Snowstorm Haze",
+      "texture": "Metallic Surface",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "number": 2773,
+    "comment_id": 5194992956,
+    "prompt": "Whiteboard marker drawing on glass with slightly faded ink and a casual hand-drawn line art feel. A full-bleed, frame-filling extreme close-up composition cropped tightly to the edges with dense edge-to-edge detail. Sleek, slender solid-black Bombay shorthair cat named Momo with satin-sheen fur, prominent white whiskers, and large luminous golden-amber eyes. Momo has a single small gold hoop earring on its left ear only, a tiny natural white locket tuft on its ventral chest, and a dark-grey ring at its tail tip. The cat is using its paw to gently place the tone arm needle of an antique record player precisely onto a spinning vinyl record. Set in an antique music cafe corner with metallic surfaces, brushed polished metal, sharp reflections, vermilion red hues, and metallic gold outlines. Snowstorm atmospheric lighting with heavy falling snow flurries outside the window, muted diffused cold blue-white daylight, and fogged distance. Visually displayed clearly in the image is the timestamp '2026-08-05 17:17 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "momo",
+    "idea": "白板記號筆畫風格下，滿版特寫畫面呈現純黑貓墨墨以爪子輕輕踩踏古董黑膠唱片機的抬針，使其精準落於旋轉中的唱片之上。暴風雪朦朧的室內光線透入，朱紅與描金線條交織出帶有金屬感質光的古董音樂咖啡廳 corner。",
+    "title": "雪夜唱片機與黑貓",
+    "character_name": "墨墨",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "avoid_list": [
+      "充氣PVC材質",
+      "藍黃互補色調",
+      "螺旋管道構圖",
+      "粉彩色系調性",
+      "黃金時刻光影",
+      "高調明亮光",
+      "魚眼鏡頭超廣角",
+      "羊毛氈手作工藝",
+      "時間戳記標籤",
+      "軟萌粉紅蝴蝶結",
+      "微縮視覺場景",
+      "繁體中文與英文限定"
+    ]
   }
 ]
