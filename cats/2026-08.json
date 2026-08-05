@@ -1832,5 +1832,41 @@
     "comment_id": 5190575427,
     "inspiration": "original",
     "number": 2770
+  },
+  {
+    "comment_id": 5191925792,
+    "number": 2771,
+    "news_inspiration": [
+      "中國科學家在青藏高原與橫斷山脈地區發現了一種能捕捉並消化昆蟲的高山野花（Saxifraga candelabrum），確認其為該植物目中首個被證實的食肉植物。",
+      "義大利普利亞大區（Puglia, Italy）的一名女子不慎將中頭獎的 100 萬歐元彩券丟入垃圾桶，幸運地在當地清潔工人的熱心協助下從垃圾車中完好尋回。",
+      "天文學家利用位於智利（Chile）的特大望遠鏡捕捉到小行星（44）Nysa 的清晰影像，發現其具有獨特的「三頭」形狀，成為太陽系中已知首個三裂片小行星。",
+      "澳大利亞塔斯馬尼亞州（Tasmania, Australia）一隻重約 1 公噸的明星象鼻海豹「尼爾」於換毛期回歸小鎮，因經常靠在民眾的汽車與籬笆上蹭癢而成為當地的逗趣話題。"
+    ],
+    "inspiration": "original",
+    "story": "古老的神殿裡隱藏著不可思議的秘密，這隻龐大的黑貓日夜守護著這片方塊世界。當它的爪子輕輕觸碰刻有精細木紋的烏木齒輪時，緋紅色的光芒便會在暗黑的磚石間幽幽流轉。冒險者們遠遠看著，無不敬畏這尊掌控神殿機關的方塊巨獸。",
+    "idea": "在以體素風格構建的古老神殿深處，一隻巨大的黑貓伸出前爪，小心翼翼地撥動懸掛於正交投影視角下的烏木機關，場景融合木紋質感與鮮明的緋紅烏黑調性。",
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Orthographic Projection",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Wood Grain",
+      "color_palette": "Crimson and Black"
+    },
+    "title": "烏木機關的守護者",
+    "prompt": "A voxel art scene set deep inside an ancient blocky temple, built from pixelated cubes in a Minecraft-style 3D render. A massive jet-black cat extends its front paw, carefully adjusting a detailed ebony mechanical gear featuring visible organic natural wood grain textures with warm knots and lines. The scene is rendered in a strict orthographic projection with no perspective distortion, presenting a straight-on flat technical illustration style. Clean, soft diffused natural light gently illuminates the scene with overcast evening tones and no harsh shadows. The color palette features a dramatic high-contrast crimson and black scheme, with deep blood-red lighting flowing subtly between jet-black stone bricks, creating a seductive sinister mood. The text '2026-08-05 12:45 UTC' is clearly and visually displayed in the corner of the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "充氣PVC材質",
+      "藍黃互補色調",
+      "螺旋管道構圖",
+      "粉彩色系調性",
+      "黃金時刻光影",
+      "高調明亮光",
+      "魚眼鏡頭超廣角",
+      "羊毛氈手作工藝",
+      "時間戳記標籤",
+      "軟萌粉紅蝴蝶結",
+      "微縮視覺場景",
+      "繁體中文與英文限定"
+    ]
   }
 ]
