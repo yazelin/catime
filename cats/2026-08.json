@@ -1709,5 +1709,34 @@
       "texture": "Inflatable PVC",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "avoid_list": [
+      "貓咪伸爪按壓或撥弄機關物件",
+      "2026-08-03/04的時間戳記文字",
+      "正交投影與無透視畸變構圖",
+      "生物發光植物與異國菌株微光",
+      "35mm鏡頭與f/1.8淺景深長曝光",
+      "斑駁光影與樹葉過濾的斑駁日光",
+      "傳統金箔祥雲紋與華麗邊框飾紋",
+      "大地色系與雙色調電影感調色",
+      "手作廢料與鑄鐵鏤空機關裝置",
+      "繁體中文與英文限定字體標示"
+    ],
+    "prompt": "A cute cat with the date and time '2026-08-05 01:25 UTC' displayed in the image, high quality, detailed",
+    "inspiration": "original",
+    "number": 2767,
+    "news_inspiration": [],
+    "comment_id": 5186537147,
+    "title": "貓咪日常",
+    "style_picks": {
+      "art_style": "Op Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Dappled Light",
+      "texture": "Metallic Surface",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "",
+    "story": "一隻可愛的貓咪正在享受美好的一天。"
   }
 ]
