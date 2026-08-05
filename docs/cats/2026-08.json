@@ -1868,5 +1868,43 @@
       "微縮視覺場景",
       "繁體中文與英文限定"
     ]
+  },
+  {
+    "character_name": "麻糬",
+    "title": "燭光下的麻糬試吃會",
+    "comment_id": 5193553817,
+    "story": "深夜的老街傳統糕餅舖裡，一盞微弱的燭光照亮了鑄鐵雕花托盤。麻糬剛巡邏完小吃攤，憑著貪吃的本能鑽進廚房，正趴在一整盤如花海般綻放的花生麻糬旁，眼睛放大了兩倍，忍不住伸出牠那像戴了橘手套的右腳悄悄出擊。",
+    "avoid_list": [
+      "充氣PVC材質",
+      "藍黃互補色調",
+      "螺旋管道構圖",
+      "粉彩色系調性",
+      "黃金時刻光影",
+      "高調明亮光",
+      "魚眼鏡頭超廣角",
+      "羊毛氈手作工藝",
+      "時間戳記標籤",
+      "軟萌粉紅蝴蝶結",
+      "微縮視覺場景",
+      "繁體中文與英文限定"
+    ],
+    "prompt": "A minimalist line drawing doodle style illustration from a top-down flat-lay overhead view. A chubby rounded shorthair cat named Mochi lies reclining, surrounded by dense antique plate decorative patterns resembling a sea of blossoms and floral snacks. Mochi has a white #FFFFFF body with a solid orange #FF8C00 mask covering the right side of its face and right ear, while the left face is entirely white. On its back is a heart-shaped orange saddle. Its right front paw is a solid orange #FF8C00 mitten, while its left front paw is pure white. Its eyes are large, round, and amber #FFBF00. The cat reaches its short, stubby orange right front paw toward pastries on an ornate black wrought iron filigree cast iron lace tray. Scene illuminated by warm orange flickering candlelight with intimate atmosphere, duotone color treatment in black ink and two contrasting warm tones, soft dancing shadows, hand-drawn feel with loose playful black ink strokes. Text visibly written in clean English typography in the corner: '2026-08-05 15:06 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2772,
+    "news_inspiration": [
+      "澳洲達爾文（Darwin, Australia）盛大舉辦第七屆國家原住民網球嘉年華，吸引逾160位第一民族青少年參與結合體育賽事與原住民文化的盛會。",
+      "尼泊爾（Nepal）公布最新動物保育成果，當地的野生老虎數量迎來顯著增長，成為全球野生生態復育的極佳典範。",
+      "奧地利（Austria）科學家最新研究指出，山區一頭名為維羅妮卡（Veronika）的母牛能靈活使用掃帚與樹枝替自己搔癢，創下牛隻具備使用工具能力的首例紀錄。",
+      "美國（USA）太空總署（NASA）的好奇號火星車在火星谷底拍下綿延不絕的「蜂巢狀」多邊形裂隙地貌，為火星地質研究帶來全新發現。"
+    ],
+    "idea": "採用極簡塗鴉線條畫風格，描繪貓咪麻糬俯臥在花海般的古董盤飾紋樣間，在昏黃燭光與雙色調的光影下，牠伸出短粗的右橘色前爪探向盤中的食物點心。",
+    "character": "mochi",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Candlelight",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Duotone"
+    }
   }
 ]
