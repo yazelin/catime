@@ -1975,5 +1975,40 @@
       "英國愛丁堡：蘇格蘭推行新法規，要求所有新建住宅均須安裝專用的「雨燕磚」，為遠道而來的遷徙候鳥提供棲息巢穴。"
     ],
     "idea": "一張帶有獨特拍立得質感的影像，展現浮島般的漂浮雲朵場景，隻黑貓在聚光燈照射下的磨砂玻璃平台上，正伸出前爪拍打一團捕捉到負時間現象的光束，整體呈現月夜靛藍色調。"
+  },
+  {
+    "news_inspiration": [
+      "日本千葉縣（Chiba, Japan）的明星小猴「Punch」迎來 1 歲生日，收到來自世界各地數千名粉絲的熱烈祝賀與祝福。",
+      "巴西巴西利亞（Brasília, Brazil）的國會園區近日闖入了一群悠閒的水豚，可愛又溫馨的畫面吸引許多民眾注目。",
+      "德國哈爾伯施塔特（Halberstadt, Germany）一座教堂的風琴正在演奏作曲家約翰·凱吉（John Cage）的曲目，這場號稱世界最慢的音樂會預計將一路彈奏至 2640 年。",
+      "美國明尼蘇達州拉文（Luverne, Minnesota, USA）小鎮打造了一尊高達 66 英尺（約 20 公尺）的胡桃鉗雕像，成功創下世界最高胡桃鉗的紀錄。"
+    ],
+    "avoid_list": [
+      "體素風格微縮場景",
+      "磨砂玻璃與懸浮平台",
+      "古董機關與齒輪撥動",
+      "時間戳記與繁體中文限制說明",
+      "暴風雪與冷藍白光影",
+      "魚眼鏡頭與強烈桶形失真",
+      "中框構圖與過渡前景",
+      "羊毛氈手作質感",
+      "貓爪伸手撥弄或觸碰特定物件",
+      "夕陽黃金時刻與液態金屬光澤",
+      "黑金奢華光繪與植物圖騰"
+    ],
+    "style_picks": {
+      "art_style": "Nostalgic Aged Photograph",
+      "composition": "Fisheye Lens",
+      "lighting": "Underwater Caustics",
+      "texture": "Rust / Weathered",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 2775,
+    "idea": "這是一張懷舊泛黃老照片，呈現魚眼鏡頭下的微凸視角，貓咪正趴在德國哈爾伯施塔特古老教堂的風琴鍵盤上，踩著其中幾個木質琴鍵，身側籠罩著水下焦散光班。",
+    "comment_id": 5197255125,
+    "inspiration": "德國哈爾伯施塔特（Halberstadt, Germany）一座教堂的風琴正在演奏作曲家約翰·凱吉（John Cage）的曲目，這場號稱世界最慢的音樂會預計將一路彈奏至 2640 年。",
+    "prompt": "A nostalgic aged photograph with a yellowed faded antique print effect, captured through a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground. A stray cat with a mottled tabby pattern is lying on the wooden organ keys of an ancient church organ in Halberstadt, stepping on a few keys. The scene is illuminated by underwater caustic lighting, with rippling light patterns and refracted aquatic glow dancing over the cat and the weathered organ. Soft blur, subtle scratches, and a warm sepia patina give a vintage early-century snapshot feel. In the corner of the photograph, the date and time '2026-08-05 20:55 UTC' is visually stamped in clear, vintage digital text. Shot on 35mm lens, candid shot, heavy film grain, natural light. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這座教堂正進行著一場將持續數百年的世界上最慢音樂會。一隻擁有斑駁花紋的浪貓無意間遛了進來，踩在沉重的管風琴鍵上，讓長達數月的低鳴音符悄悄多了一絲屬於貓咪的隨性律動。",
+    "title": "長世紀的踏音者"
   }
 ]
