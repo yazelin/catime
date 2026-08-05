@@ -2010,5 +2010,40 @@
     "prompt": "A nostalgic aged photograph with a yellowed faded antique print effect, captured through a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground. A stray cat with a mottled tabby pattern is lying on the wooden organ keys of an ancient church organ in Halberstadt, stepping on a few keys. The scene is illuminated by underwater caustic lighting, with rippling light patterns and refracted aquatic glow dancing over the cat and the weathered organ. Soft blur, subtle scratches, and a warm sepia patina give a vintage early-century snapshot feel. In the corner of the photograph, the date and time '2026-08-05 20:55 UTC' is visually stamped in clear, vintage digital text. Shot on 35mm lens, candid shot, heavy film grain, natural light. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "這座教堂正進行著一場將持續數百年的世界上最慢音樂會。一隻擁有斑駁花紋的浪貓無意間遛了進來，踩在沉重的管風琴鍵上，讓長達數月的低鳴音符悄悄多了一絲屬於貓咪的隨性律動。",
     "title": "長世紀的踏音者"
+  },
+  {
+    "title": "林間鏡頭下的追尋",
+    "comment_id": 5197937758,
+    "avoid_list": [
+      "體素風格微縮場景",
+      "磨砂玻璃與懸浮平台",
+      "古董機關與齒輪撥動",
+      "時間戳記與繁體中文限制說明",
+      "暴風雪與冷藍白光影",
+      "魚眼鏡頭與強烈桶形失真",
+      "中框構圖與過渡前景",
+      "羊毛氈手作質感",
+      "貓爪伸手撥弄或觸碰特定物件",
+      "夕陽黃金時刻與液態金屬光澤",
+      "黑金奢華光繪與植物圖騰"
+    ],
+    "story": "雲南深山的保護區內，巡護隊正透過監測設備記錄著亞洲象群的繁衍軌跡。這隻性格好奇的貓咪一路跟著保育員踏青，趁人不注意時趴在濕潤的苔蘚上，聚精會神地研究這台拍下巨獸腳步的相機。",
+    "number": 2776,
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Extreme Low Angle",
+      "lighting": "Volumetric Light",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "prompt": "A real 1990s 35mm film photograph taken from an extreme low angle shot looking up at a ginger cat with extremely fluffy, soft tactile fur. The cat is reaching out its paw to press and fiddle with a trail camera lens among forest foliage. Visible in the lower corner of the camera view is the timestamp '2026-08-05 22:04 UTC' in clear retro digital font. Dramatic volumetric lighting and god rays pierce through the leafy branches, with dust particles catching the light. Shot on a 35mm lens with direct flash, nostalgic glow, slightly muted warm tones, and film grain. The background features a festive red and gold palette with rich Chinese red tones complemented by bright gold light accents. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "中國雲南：最新報告顯示，透過加強棲地保護與科學管理，當地的野生亞洲象種群數量實現了穩定增長。",
+    "idea": "在濃烈中國紅金對比襯托下，一隻擁有極其蓬鬆絨毛皮草的橘貓正伸爪按壓並撥弄著樹叢間的追蹤相機鏡頭，整幅畫面採用極低角度由地面向上仰拍，並帶有強烈的 90 年代底片風格與穿透枝葉的金色體積光。",
+    "news_inspiration": [
+      "中國雲南：最新報告顯示，透過加強棲地保護與科學管理，當地的野生亞洲象種群數量實現了穩定增長。",
+      "愛沙尼亞西部：隨著河流生態獲得修復與棲地改善，保育類鳥類魚鷹已重新回到當地順利築巢繁殖。",
+      "美國拉皮德城：南達科他州拉皮德城宣佈籌建全國首座原住民醫學院，旨在大幅提升美洲原住民醫師的比例。",
+      "印尼雅加達：印尼成功從過去接收糧食援助轉型為聯合國世界糧食計劃署的全球捐助國，並積極分享氣候韌性與糧食安全經驗。"
+    ]
   }
 ]
