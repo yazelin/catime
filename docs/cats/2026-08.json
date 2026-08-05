@@ -1801,5 +1801,36 @@
     "story": "南義陽光下的回收後勤站裡，清潔人員正焦急地在垃圾車堆積物中尋找一張被誤扔的百萬歐元彩券。駐站的三花貓舒服地躺在溫暖的羽絨外套上，好奇地凝視著大家翻動紙箱與塑膠袋的動作。當完好無損的彩券被奇蹟般找回時，貓咪只是慵懶地翻了個身，繼續享受午後的平靜。",
     "prompt": "A candid 35mm photography shot using a frame-within-a-frame composition through a garbage truck door frame, capturing an orange and white tabby cat curled up comfortably beside a sanitation worker wearing an inflated, puffy quilted down jacket. In the hazy, atmospheric light of a heavy snowstorm, the cat attentively watches people rummaging through trash piles in the background. Mediterranean dreamy beverage photography style, retro faded color palette with washed-out vintage tones, muted diffused daylight, cold blue-white palette, layered foreground border, depth and focus emphasis, low contrast, natural film grain, f/2.8 aperture, shallow depth of field. The timestamp '2026-08-05 07:31 UTC' is visually printed clearly in the bottom corner of the image in a clean retro font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2769
+  },
+  {
+    "title": "金輝夜影下的巡航",
+    "prompt": "A light painting photograph taken from an extreme low-angle shot, capturing a black cat leaping into the air inside a white seamless cyclorama studio setup. Swirling luminous trails of metallic gold and pressed botanical plant specimen patterns float around the cat, resembling a glowing fly-moth made of light. The image features crisp, high-key white background studio lighting combined with long exposure kinetic gold light streaks around the sleek black cat, creating a high-contrast luxury aesthetic. Shot with a 35mm lens at f/2.8, fast shutter freeze on the action with visible long-exposure light trails, sharp focus, natural cat fur texture, professional commercial photography. The text '2026-08-05 10:22 UTC' is visually displayed in clean typography in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Extreme Low Angle",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "充氣PVC材質",
+      "藍黃互補色調",
+      "螺旋管道構圖",
+      "粉彩色系調性",
+      "黃金時刻光影",
+      "高調明亮光",
+      "魚眼鏡頭超廣角",
+      "羊毛氈手作工藝",
+      "時間戳記標籤",
+      "軟萌粉紅蝴蝶結",
+      "微縮視覺場景",
+      "繁體中文與英文限定"
+    ],
+    "news_inspiration": [],
+    "story": "深夜的攝影棚裡，璀璨的金光在黑貓身旁劃出如閃耀植物脈絡般的流光曲線。黑貓保持著四足獵手的專注姿態，在白底去背光影與黑金奢華調性中，試圖抓取那道瞬息即逝的光軌。",
+    "idea": "這幅光繪攝影作品以極低角度捕捉一隻黑貓在影棚純白背景前，躍起撲向空中由金色光線與壓花植物圖騰疊加出的飛蛾，呈現金色與黑色交織的奢華視覺。",
+    "comment_id": 5190575427,
+    "inspiration": "original",
+    "number": 2770
   }
 ]
