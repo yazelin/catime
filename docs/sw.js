@@ -38,7 +38,9 @@ self.addEventListener("activate", (event) => {
     caches.keys().then((keys) =>
       // drop old static caches; KEEP the cats cache so viewed images survive updates
       Promise.all(keys
-        .filter((k) => k !== STATIC_CACHE && k !== CATS_CACHE)
+        // only catime-*: CacheStorage is per-origin and every yazelin.github.io project
+        // shares it — an unprefixed sweep wipes other sites' offline bundles silently
+        .filter((k) => k.startsWith("catime-") && k !== STATIC_CACHE && k !== CATS_CACHE)
         .map((k) => caches.delete(k)))
     ).then(() => self.clients.claim())
   );
