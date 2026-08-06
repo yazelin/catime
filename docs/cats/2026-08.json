@@ -2328,5 +2328,40 @@
     ],
     "inspiration": "original",
     "story": "在高聳的植物園展覽館最高處，墨墨優雅地趴伏在繁花叢中俯瞰著下方穿梭的人群。牠金色琥珀般的眼睛微微瞇起，胸前白毛襯托出緞面黑毛的光澤，左耳金環在日光下閃耀。在這片藍與黃交織的燦爛花海裡，牠宛如一張靜止而典雅的古典藝術海報。"
+  },
+  {
+    "idea": "在白板記號筆畫風格下，一隻純黑貓咪從俯瞰視角昂首俯視著滿地滑順如絲綢般的緋紅緞帶，同時在火星採集蜂窩狀幾何岩塊，體積光穿透隙縫照亮其專注的神情。",
+    "number": 2785,
+    "title": "蜂窩荒漠的赤紅踏查",
+    "news_inspiration": [
+      "地點：溫哥華，加拿大。加拿大積極推進洛磯山脈跨國野生動物廊道計畫，透過打造專用穿越道連結棲地並保護行車安全。",
+      "地點：塔林，愛沙尼亞。隨著當地河川生態與棲地復育成功，保育類鳥類魚鷹已重新返回愛沙尼亞西部築巢繁衍。",
+      "地點：東京，日本。日本工程團隊成功突破回收技術，能從廢棄電動車電池中提取高達 90% 的鋰金屬資源。",
+      "地點：華盛頓特區，美國。美國國家航空暨太空總署（NASA）的「好奇號」火星探測車在火星表面傳回最新影像，發現了廣闊且奇特的蜂窩狀幾何裂紋地貌。"
+    ],
+    "story": "好奇心旺盛的貓咪踏上了赤紅的異星荒漠，專心致志地將一塊塊呈現奇特蜂窩裂紋的沉積岩按規律排列。穿透雲層的體積光映照在它絲綢般滑順的毛髮上，這場孤獨卻偉大的地質調查正悄然進行。",
+    "avoid_list": [
+      "水下焦散光",
+      "霓虹螢光色彩",
+      "窗邊柔光照射",
+      "閃光亮粉效果",
+      "朱紅描金配色",
+      "藍黃互補配色",
+      "時間戳記標籤",
+      "極低角度俯仰拍",
+      "平視俯拍排列構圖",
+      "貓咪伸爪按壓觸碰",
+      "繁體中文與英文限定"
+    ],
+    "inspiration": "地點：華盛頓特區，美國。美國國家航空暨太空總署（NASA）的「好奇號」火星探測車在火星表面傳回最新影像，發現了廣闊且奇特的蜂窩狀幾何裂紋地貌。",
+    "prompt": "A whiteboard marker drawing on glass with a casual sketch feel and slightly faded hand-drawn line art, captured from a bird's-eye view, top-down perspective looking straight down. A pure jet-black cat with a luminous smooth coat stands in a miniature world setting, curiously gathering honeycomb-patterned geometric rock blocks on the surface of Mars. The ground is draped in smooth, silk-like crimson ribbons featuring a luxurious sheen and flowing drape. Volumetric light rays and god rays penetrate narrow crevices, illuminated with dust particles catching light, casting dynamic beams that highlight the cat's focused expression. A dramatic high-contrast crimson and black color palette blends deep blood-red with jet black, creating a seductive, sinister mood with dramatic depth. The text '2026-08-06 23:47 UTC' is clearly and visually displayed in the corner of the image in crisp hand-drawn marker text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Bird's-Eye View",
+      "lighting": "Volumetric Light",
+      "texture": "Silk",
+      "color_palette": "Crimson and Black"
+    },
+    "comment_id": 5210061662
   }
 ]
