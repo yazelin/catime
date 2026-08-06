@@ -1,4 +1,4 @@
-const STATIC_CACHE = "catime-static-v9";   // html/css/js/icons — network-first, cache is offline fallback
+const STATIC_CACHE = "catime-static-v10";   // html/css/js/icons — network-first, cache is offline fallback
 const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
