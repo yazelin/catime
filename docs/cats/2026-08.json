@@ -2152,5 +2152,43 @@
     "idea": "這是一幅以鮮豔中國紅與華麗金黃為主調的油畫作品，採用完美的平視俯拍 Knolling 排列攝影構圖。畫面中央是整齊擺放著各種閃耀著閃光亮粉效果的精緻晶亮小飾品與亮片，蓬鬆如白色綿羊般的布偶貓「鈴鈴」趴在側邊，在窗邊柔光的照耀下伸手試圖撈取其中一顆金屬珠子。",
     "story": "鈴鈴跟著花店老闆參加粉紅與紅金主題的年節市集展覽，卻被攤位上排列得井井有條的亮晶晶飾品深深吸引。窗外透進來的柔和光線灑在亮粉上發出刺眼光芒，讓天真好奇的她忍不住伸出粉紅肉掌，把剛排好的精緻物件搞得一團亂。脖子上的粉紅鈴鐺發出清脆的叮叮聲，讓正要發火的老闆看到她呆萌的模樣也只能笑著揉揉她的頭。",
     "comment_id": 5200546268
+  },
+  {
+    "idea": "採用命令列終端機風格與正交投影構圖，展現體型壯碩的虎斑貓「船長」戴著草帽，正用粗壯的爪子按壓固定竿身，在黃金時刻的海邊防波堤上享受獨自釣魚的暑假時光。",
+    "title": "防波堤上的夏日釣客",
+    "number": 2780,
+    "inspiration": "original",
+    "character": "captain",
+    "season": "summer",
+    "story": "身為碼頭老大的船長戴上了遮陽草帽，在夕陽灑落的黃金時刻獨自盤坐在防波堤頂端。牠專注地監視著海面上的浮標，粗壯的尾巴如船舵般安穩地停在身後，就連陣陣清涼的海風吹拂著毛髮，也動搖不了這位老航海家對鮮魚的渴望。",
+    "avoid_list": [
+      "伸手觸碰或撥動物件",
+      "時間戳記與繁體字/英文限制指令",
+      "極低角度仰拍視角",
+      "中國紅與黃金奢華配色",
+      "水下焦散光影效果",
+      "黑貓與微光/金光強烈對比",
+      "俯視平拍/ Knolling 排列構圖",
+      "異材質結合貓咪質感 (體素/皮革/塗鴉)",
+      "古董/復古風格載體 (唱片機/風琴/相機)",
+      "微光/燭光/月光的深色幽暗氛圍"
+    ],
+    "is_seasonal": true,
+    "prompt": "A retro CLI screen aesthetic with an orthographic projection and technical illustration style, showcasing a command line terminal on a black console background with green and white monospace bitmap text and scrolling log lines. At the center is a large, stocky brown classic tabby cat named Captain, featuring bold black stripes, scruffy untidy fur, a broad muscular build, a white chest bib, and white mitten paws on all four feet. His left eye is permanently concealed by a natural dark-pigmented fur patch, his right eye is piercing emerald green, and his left ear has a prominent V-shaped notch. He wears a faded red bandana loosely tied around his neck and a woven straw hat on his head for summer. Positioned on a coastal breakwater during golden hour, the cat sits in an orthographic view, holding down a fishing rod with his thick, muscular paw, watching a buoy on the ocean surface. The scene features warm sunset glow, long soft shadows, and a blue and yellow complementary palette blended with delicate translucent pressed botanical layers and flattened herbarium textures. Monospace bitmap CJK system text output in Traditional Chinese and English displays system logs along the terminal border, with the exact timestamp '2026-08-06 07:31 UTC' clearly visible in green text at the top corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "日本市川市動植物園曾因緊抱猩猩玩偶而爆紅的小猴子 Punch 迎來了 1 歲生日，收到來自全球粉絲的數千條溫馨祝福。",
+      "捷克布拉格動物園為了協助園內動物應對歐洲夏季酷暑，特別運來數噸的大冰塊供北極熊等動物冰鎮消暑。",
+      "澳大利亞凱亞馬的一本希臘古物書籍在被封在壁爐磚牆內長達約 150 年後，終於被重新發現並歸還給當地公共圖書館。",
+      "美國加州帕西菲卡舉行了一年一度的世界狗狗衝浪錦標賽，多隻狗狗選手在海浪上踩著衝浪板展現高超平衡技藝。"
+    ],
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Orthographic Projection",
+      "lighting": "Golden Hour",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "comment_id": 5201760317,
+    "character_name": "船長"
   }
 ]
