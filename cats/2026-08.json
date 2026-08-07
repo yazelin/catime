@@ -2671,5 +2671,35 @@
     "title": "深夜碼頭的冷光守護者",
     "character": "captain",
     "comment_id": 5218071833
+  },
+  {
+    "story": "在深夜的沉靜工房裡，這隻貓咪專注地在攤開的羊皮紙上記錄著屬於牠的秘密航程。燭光在藍青色的絞染紋理間閃爍搖曳，將現實與幻境融為一體。每一次筆尖的停頓，都為這座迷幻都市添上一抹神秘的符號。",
+    "news_inspiration": [],
+    "comment_id": 5219118824,
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Candlelight",
+      "texture": "Shibori Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "這是一幅迷幻風格的全身居中直幅作品，描繪一隻貓咪正在古老的紙藝工作坊內用嘴叼著沾水筆繪製地圖，全身圍繞著絞染質感的藍青色冷色調圖騰，並在暖黃燭光下映照出奇幻的視覺效果。",
+    "inspiration": "original",
+    "number": 2795,
+    "avoid_list": [
+      "體積光與束狀光芒",
+      "斑駁樹影與光斑",
+      "伸出前爪撥弄物品",
+      "濕潤平面的鏡面倒影",
+      "細密凝結的水珠質感",
+      "微縮景觀與玻璃容器",
+      "高對比紅黑配色",
+      "霓虹螢光雙色調",
+      "倫勃朗光影效果",
+      "角落時間戳記標籤",
+      "奇幻肌理與特異毛髮"
+    ],
+    "title": "藍夜燭光下的航圖",
+    "prompt": "Psychedelic art style full-body vertical portrait featuring a cat centered in a tall frame, head-to-toe, holding a dip pen in its mouth and drawing a map on parchment inside an ancient paper-making workshop. The cat is surrounded by flowing Shibori resist-dyed indigo blue and cool blue-teal organic patterns, with a crisp atmosphere and icy undertones. Illuminated by warm flickering candlelight casting soft dancing shadows and an orange glow, creating an intimate and serene atmosphere with subtle melting distorted swirling forms. The text '2026-08-07 15:42 UTC' is visually displayed in clear Traditional Chinese or English typography within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
