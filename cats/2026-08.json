@@ -2633,5 +2633,43 @@
       "經典藝術與復古繪畫風格翻玩",
       "時間戳記角落標示"
     ]
+  },
+  {
+    "inspiration": "original",
+    "number": 2794,
+    "character_name": "船長",
+    "idea": "採用單眼人像散景與魚眼鏡頭視角，呈現隻身鎮守在冷冽藍黃螢光燈光下的魚市場、渾身沾滿海鹽水珠的虎斑老船長貓咪。",
+    "news_inspiration": [
+      "美國芝加哥於芝加哥河舉辦一年一度的黃色小鴨競賽，投放超過九萬隻橡皮鴨下水奔馳，為特奧會籌集善款。",
+      "德國堡辛的一家超市意外遭約五十隻羊群走失闖入，在走道間穿梭尋寶讓店員手忙腳亂。",
+      "中國雲南省透過生態修復與預警系統，成功讓野生亞洲象種群數量獲得妥善保護並穩定增長。",
+      "愛沙尼亞西部受惠於河流整治與環境修復，受保護的野生魚鷹睽違多年後重新回到當地築巢繁衍。"
+    ],
+    "story": "剛經歷了一場暴風雨巡邏，船長威嚴地蹲坐在深夜魚市場最頂層的冰塊集散箱上，翠綠色的單眼透出銳利光芒。即便毛髮被雨水與海風沾濕成點點水珠，牠依然挺直寬胸，靜靜凝視著底下湧入揀貨的人群與鮮魚。",
+    "avoid_list": [
+      "繁體中文與英文限定警語",
+      "黃金時刻柔光與長陰影",
+      "35mm鏡頭淺景深拍攝",
+      "黑光與螢光雙色調霓虹燈光",
+      "極簡留白與負空間構圖",
+      "斑駁陽光與樹影光斑",
+      "玻璃與晶體通透質感",
+      "鳥瞰俯視視角構圖",
+      "微型世界與容器包覆場景",
+      "專注於微小物件的特定肢體動作",
+      "經典藝術與復古繪畫風格翻玩",
+      "時間戳記角落標示"
+    ],
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Fisheye Lens",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "prompt": "A DSLR portrait of a literal four-legged large stocky brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes and scruffy untidy coarse fur, crouching authoritatively on top of an ice box in a late-night fish market. The cat's left eye (viewer perspective) is entirely concealed by a natural dark-pigmented fur patch (#2B1B0E) with no straps or fabric patch, while its right eye is a single piercing emerald green (#50C878). Its left ear features a prominent V-shaped notch, and a faded red (#CD5C5C) bandana is loosely tied around its neck. It has a white (#FFFFFF) chest bib and white mitten paws on all four feet. Glistening beads of sea salt water droplets cling to its wet fur texture with reflective micro-highlights. In the background, workers sort fresh fish under overhead fluorescent lighting with a vivid contrast of cool blue and warm yellow tones. Shot with a wide-angle fisheye lens effect, strong barrel distortion, exaggerated foreground, and sharp focus on the cat with creamy background bokeh. Stamped clearly in the corner of the photograph is the timestamp text '2026-08-07 14:03 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "深夜碼頭的冷光守護者",
+    "character": "captain",
+    "comment_id": 5218071833
   }
 ]
