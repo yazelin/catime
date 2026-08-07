@@ -2904,5 +2904,41 @@
     },
     "comment_id": 5222187206,
     "story": "陽光灑在波蘭巡迴賽的賽道終點，這隻貓咪在歡慶勝利的混亂啤酒與飲料冰桶間穿梭。牠靈巧地踩在纏繞著鐵絲網的冷飲架上，縱身享受那一抹屬於夏日冠軍的冰涼酸甜。"
+  },
+  {
+    "title": "霓虹月下俯瞰聖誕",
+    "character": "momo",
+    "idea": "在充滿合成波風格與霓虹螢光色彩的舊書店頂層閣樓中，墨墨趴在延伸至窗邊的皮革大書架邊緣，以引導線構圖穿透幾何光影，居高臨下俯瞰著下方窗外正舉行聖誕老人大會的歡樂遊行，背光與輪廓光勾勒出牠極致優雅的黑貓輪廓。",
+    "number": 2802,
+    "avoid_list": [
+      "螺旋漩渦構圖",
+      "黃銅星盤與望遠鏡",
+      "前爪輕撥或觸碰設備",
+      "藍青冷色調",
+      "搖曳燭光與暖橙光影",
+      "魚眼視角與強烈桶形失真",
+      "立體刺繡與盤花肌理",
+      "古老天文台與星圖",
+      "熱感應與生物發光雨林",
+      "3D Q版盲盒風格"
+    ],
+    "comment_id": 5222793456,
+    "story": "墨墨挑了一本精裝皮革古籍趴著，金色耳環在冷紫與金黃霓虹螢光中閃爍著微光。儘管窗外仲夏的世界聖誕老人遊行熱鬧非凡，這隻黑貓依然保持著高冷的優雅，只偶爾瞇起金琥珀色的雙眸，高高在上地享受著屬於牠的安靜視角。",
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Leading Lines Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Leather",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [
+      "美國芝加哥的芝加哥河投放了超過9萬隻黃色橡膠鴨進行年度競賽，為伊利諾州特殊奧運會籌集善款。",
+      "丹麥奧爾堡舉辦了年度世界聖誕老人大會，來自全球的聖誕老人與助手們在仲夏時節齊聚一堂散播歡樂。",
+      "澳洲凱恩斯外海的大堡礁發現了一座面積將近4,000平方公尺的巨型珊瑚群落，相當於半個足球場大小。",
+      "日本東京的工程團隊成功開發出能從廢棄電動車電池中回收高達90%鋰金屬的新技術，為全球綠色能源循環帶來重大突破。"
+    ],
+    "character_name": "墨墨",
+    "prompt": "A synthwave digital art illustration set in a high-angle retro-futuristic old bookstore attic. The subject is Momo, a literal four-legged sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat with satin-sheen fur, athletic proportions, a single small gold hoop earring (#FFD700) on her left ear mid-edge only, a tiny natural white locket tuft (#FFFFFF) on her ventral chest, a single dark-grey (#696969) ring on her tail tip with a slight upward curl, large luminous golden-amber (#D4A017) eyes, and long prominent white whiskers, displaying a calm and attentive expression. Momo is lying atop the edge of a towering artisanal genuine leather bookshelf with rich grain texture, supple creased surface, and warm aged patina. Leading lines composition with converging perspective lines and architectural path-driven framing guide the eye through dramatic geometric shadow and light toward the window. Looking down from above, through the window, a lively summer Santa Claus parade festival is happening on the street below. Strong backlighting with glowing rim light outlines Momo's dark silhouette with electric fluorescent neon colors—electric pink, lime green, and hot cyan—against a dark background with a 1980s sci-fi nostalgia and neon grid aesthetic. Crisp text overlaid in the image visibly reads '2026-08-07 22:23 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "丹麥奧爾堡舉辦了年度世界聖誕老人大會，來自全球的聖誕老人與助手們在仲夏時節齊聚一堂散播歡樂。"
   }
 ]
