@@ -2363,5 +2363,35 @@
       "color_palette": "Crimson and Black"
     },
     "comment_id": 5210061662
+  },
+  {
+    "style_picks": {
+      "art_style": "Mediterranean Dreamy Beverage Photography",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A candid 35mm photograph of a calico cat on a dark, wet frosted glass bar top at a night-time Mediterranean open-air terrace. The cat is stretching its body, leaning forward to sniff a freshly poured iced cocktail glistening with water droplets and condensation. Shot on a 35mm lens at f/1.8 with a shallow depth of field, featuring a doppelganger mirror composition where a mirrored twin reflection of the same cat creates an uncanny surreal symmetry, facing itself on the reflective surface. Lit with blacklight UV illumination, fluorescent pigments, and glowing ultraviolet luminescence, casting a vibrant duotone neon color scheme across the scene. The date and time '2026-08-07 02:02 UTC' is visually displayed in clear, subtle text overlay in the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "idea": "這是一組採用地中海夢幻飲品攝影風格的作品，一隻花貓在深夜的海邊露天露台特調酒吧桌上，伸長身軀用鼻子嗅聞一杯剛調好的冷飲，背景則是鏡像異我構圖映照出的分身。",
+    "number": 2786,
+    "title": "鏡夜裡的沁涼凝視",
+    "story": "夜幕下的地中海露台酒吧泛著黑光螢光的紫外光澤，花貓趴在濕潤且佈滿水珠的磨砂桌面上，好奇地打量著玻璃杯中的冰鎮飲品。雙色調的光影交織出奇幻的氣氛，折射在鏡面桌板上，彷彿另一個平行時空的牠也在同時凝視著這杯特調。",
+    "inspiration": "original",
+    "comment_id": 5211218624,
+    "avoid_list": [
+      "水下焦散光",
+      "霓虹螢光色彩",
+      "窗邊柔光照射",
+      "閃光亮粉效果",
+      "朱紅描金配色",
+      "藍黃互補配色",
+      "時間戳記標籤",
+      "極低角度俯仰拍",
+      "平視俯拍排列構圖",
+      "貓咪伸爪按壓觸碰",
+      "繁體中文與英文限定"
+    ]
   }
 ]
