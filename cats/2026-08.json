@@ -2736,5 +2736,35 @@
       "color_palette": "Blue and Yellow Complementary"
     },
     "number": 2796
+  },
+  {
+    "idea": "這是一幅等距3D插圖風格作品，展現一隻四腳貓咪在雪夜的舊式天文台裡，用鼻子推動黃銅望遠鏡，整體呈現立體刺繡盤花肌理與燭光映照下的冷色調（藍青）微光。",
+    "inspiration": "original",
+    "title": "雪夜觀星的藍青之歌",
+    "avoid_list": [
+      "體積光與束狀光芒",
+      "斑駁樹影與光斑",
+      "伸出前爪撥弄物品",
+      "濕潤平面的鏡面倒影",
+      "細密凝結的水珠質感",
+      "微縮景觀與玻璃容器",
+      "高對比紅黑配色",
+      "霓虹螢光雙色調",
+      "倫勃朗光影效果",
+      "角落時間戳記標籤",
+      "奇幻肌理與特異毛髮"
+    ],
+    "news_inspiration": [],
+    "number": 2797,
+    "story": "在高聳的石造天文台頂樓，貓咪輕巧地邁著四足，將濕潤的鼻尖湊向沉重的黃銅望遠鏡下緣，微調著觀測角度。桌上數支燭火搖曳，將藍青色的夜空與星圖刻劃成層層疊疊的刺繡線條，映照出這場獨自進行的星空探索。",
+    "prompt": "A 3D isometric illustration of a four-legged cat inside an old stone observatory on a snowy night, gently pushing the lower rim of a heavy brass telescope with its nose. The artwork features a distinct tactile texture with raised embroidered coiled-flower patterns, three-dimensional satin-stitch blossoms, dense thread relief, and tactile gold-couched petals detailing the star charts and surroundings. Warm orange flickering candlelight from a nearby table creates soft dancing shadows, contrasting beautifully against a cool blue-teal color grading with serene icy undertones. Clean geometric forms define the architecture. The text '2026-08-07 17:38 UTC' is visually displayed on an open celestial chart on the desk. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Studio Ghibli Style",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Candlelight",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 5220247859
   }
 ]
