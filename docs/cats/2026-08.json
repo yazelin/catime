@@ -2530,5 +2530,41 @@
     },
     "news_inspiration": [],
     "idea": "這是一幅採用色鉛筆畫繪製的沉浸式作品，隻貓咪在苔蘚覆蓋的古老樹洞天文台裡，用前掌旋轉大型黃銅星盤觀察星象。"
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文限定警語",
+      "黃金時刻柔光與長陰影",
+      "35mm鏡頭淺景深拍攝",
+      "黑光與螢光雙色調霓虹燈光",
+      "極簡留白與負空間構圖",
+      "斑駁陽光與樹影光斑",
+      "玻璃與晶體通透質感",
+      "鳥瞰俯視視角構圖",
+      "微型世界與容器包覆場景",
+      "專注於微小物件的特定肢體動作",
+      "經典藝術與復古繪畫風格翻玩",
+      "時間戳記角落標示"
+    ],
+    "comment_id": 5216010448,
+    "title": "熱林象影下的微光守護",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Bioluminescence",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "story": "林地間巡邏的野象群緩步通過修復後的棲地，微小的四腳貓咪匍匐在紅金色調的熱感光芒中， curiosity 地觀察著預警系統的微弱閃光。牠甩動著細緻鱗紋的尾巴，輕踩著發光苔蘚，在龐大象群的腳步旁築起屬於自己的小巧冒險。",
+    "number": 2791,
+    "prompt": "A tilt-shift photograph capturing a miniature scene deep within a tropical rainforest. A cat featuring smooth, iridescent snake-scale texture patterns on its fur reaches out one front paw to gently pat an electronic tracking device located near the foot of a wild Asian elephant. The environment glows with vibrant bioluminescent lighting from phosphorescent moss and tropical plants. The thermal imaging thermal heatmap color gradient dominates the visual tone, emphasizing a festive red and gold palette across the landscape. Photographed with a selective focus band creating blurred foreground and background elements, 50mm lens, shallow depth of field, vivid saturated colors. Digitally overlaid in a crisp, small font in the bottom right corner of the frame is the English text string: '2026-08-07 10:40 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在以熱成像風格與生物發光呈現的雲南熱帶雨林深處，一隻全身帶有蛇鱗肌理斑紋的貓咪正伸出前爪，小心翼翼地撥弄野生大象腳邊的發光追蹤設備，整體畫面呈現紅金雙色的移軸微縮景致。",
+    "inspiration": "中國於雲南省持續擴大野象保護措施，透過棲地修復與預警系統促成亞洲野象種群數量穩定成長。",
+    "news_inspiration": [
+      "日本團隊成功開發出採用水溶性外殼的「環保煙火」，有效減少煙火施放後留下的垃圾與環境污染。",
+      "中國於雲南省持續擴大野象保護措施，透過棲地修復與預警系統促成亞洲野象種群數量穩定成長。",
+      "愛沙尼亞西部隨著河流生態修復有成，受保護的魚鷹成功重返當地築巢繁殖。",
+      "加拿大與美國團隊共同推動「黃石至育空」保護計畫，打造橫跨洛磯山脈的超大型野生動物安全廊道。"
+    ]
   }
 ]
