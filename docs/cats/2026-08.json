@@ -2460,5 +2460,44 @@
     "comment_id": 5213121659,
     "idea": "採用通透標本雕塑風格與留白負空間構圖，呈現蓬鬆白貓鈴鈴在日光斑駁的花園陽台上，試圖捕捉一隻停留在立體花卉貼花植栽上的琉璃蝴蝶。",
     "news_inspiration": []
+  },
+  {
+    "idea": "這是一幅後末日療癒動畫風格的創作，設定在巨大玻璃瓶容器內，呈現黑白單色與木紋質感。隻身穿著迷你浮水衣的橘白胖貓麻糬，在暴風雪朦朧的寒冬瓶中，趴在浮於水面的一塊木頭上津津有味地吃著西瓜。",
+    "inspiration": "original",
+    "season": "summer",
+    "story": "世界沉寂於雪白廢墟之中，麻糬卻在遺留下來的溫室玻璃瓶中找到了屬於自己的夏日天地。穿著可愛迷你浮水衣的牠，慵懶地漂在小水窪上享用著香甜西瓜，連嚴寒的暴風雪也無法阻擋這顆花生麻糬對美食的熱情。",
+    "avoid_list": [
+      "水下焦散光",
+      "霓虹螢光色彩",
+      "窗邊柔光照射",
+      "閃光亮粉效果",
+      "朱紅描金配色",
+      "藍黃互補配色",
+      "時間戳記標籤",
+      "極低角度俯仰拍",
+      "平視俯拍排列構圖",
+      "貓咪伸爪按壓觸碰",
+      "繁體中文與英文限定"
+    ],
+    "news_inspiration": [
+      "太平洋島國諾魯（Nauru）近期正式將國名拼寫更名為傳統名稱「拿魯共和國」（Republic of Naoero），展現對本土文化的尊重。",
+      "加拿大聖瑪麗斯（St. Mary's, Canada）政府動工清理一座廢棄二十年、裝有數萬加侖發酵魚醬臭味的大型設施，讓困擾多年的居民終於能呼吸新鮮空氣。",
+      "考古學家在巴西（Brazil）西南部的亞馬遜雨林進行空中探測時，驚喜發現了400多個可追溯至公元前600年的巨大幾何地圖圖騰。",
+      "在韓國釜山（Busan, South Korea）舉辦的第48屆聯合國教科文組織世界遺產委員會會議圓滿落幕，全球共有25處新景點順利獲選登錄為世界遺產。"
+    ],
+    "comment_id": 5214272449,
+    "character": "mochi",
+    "prompt": "Post-apocalyptic cozy anime style background painting inside a large transparent glass vessel composition, featuring a contained miniature world framing. A chubby orange and white shorthair cat named Mochi wearing a tiny mini swim vest floats on a piece of wood in a puddle inside the fogged glass jar, happily eating watermelon slices during a hazy winter snowstorm. The cat is a four-legged cat with a spherical body, white belly, and short legs, featuring a distinct orange mask on the right side of its face with a pure white left side, large round amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw mitten, a pure white left front paw, and an orange-and-white ringed tail. Natural wood grain texture with rich warm tones, knots, and lines is prominent under the vessel. Cold blue-white palette with muted diffused daylight and heavy falling snow flurries outside the jar, juxtaposed with warm hopeful light inside. Rendered in a black and white monochrome aesthetic with subtle rich tonal contrast and dramatic shadows alongside painterly weather moods. High up in the top corner of the frame, the text '2026-08-07 08:05 UTC' is visually displayed in a clean, legible font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "玻璃瓶裡的夏日雪景",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "Post-Apocalyptic Cozy Animation Scene",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Wood Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character_name": "麻糬",
+    "number": 2789
   }
 ]

@@ -26097,5 +26097,18 @@
     "title": "玻璃花園的叮鈴響聲",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-07_0603_UTC.webp",
     "timestamp": "2026-08-07 06:03 UTC"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-07_0805_UTC.webp",
+    "status": "success",
+    "inspiration": "original",
+    "season": "summer",
+    "character": "mochi",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "玻璃瓶裡的夏日雪景",
+    "is_seasonal": true,
+    "number": 2789,
+    "character_name": "麻糬",
+    "timestamp": "2026-08-07 08:05 UTC"
   }
 ]
