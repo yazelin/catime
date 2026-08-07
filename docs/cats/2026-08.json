@@ -2940,5 +2940,39 @@
     "character_name": "墨墨",
     "prompt": "A synthwave digital art illustration set in a high-angle retro-futuristic old bookstore attic. The subject is Momo, a literal four-legged sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat with satin-sheen fur, athletic proportions, a single small gold hoop earring (#FFD700) on her left ear mid-edge only, a tiny natural white locket tuft (#FFFFFF) on her ventral chest, a single dark-grey (#696969) ring on her tail tip with a slight upward curl, large luminous golden-amber (#D4A017) eyes, and long prominent white whiskers, displaying a calm and attentive expression. Momo is lying atop the edge of a towering artisanal genuine leather bookshelf with rich grain texture, supple creased surface, and warm aged patina. Leading lines composition with converging perspective lines and architectural path-driven framing guide the eye through dramatic geometric shadow and light toward the window. Looking down from above, through the window, a lively summer Santa Claus parade festival is happening on the street below. Strong backlighting with glowing rim light outlines Momo's dark silhouette with electric fluorescent neon colors—electric pink, lime green, and hot cyan—against a dark background with a 1980s sci-fi nostalgia and neon grid aesthetic. Crisp text overlaid in the image visibly reads '2026-08-07 22:23 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "丹麥奧爾堡舉辦了年度世界聖誕老人大會，來自全球的聖誕老人與助手們在仲夏時節齊聚一堂散播歡樂。"
+  },
+  {
+    "avoid_list": [
+      "螺旋漩渦構圖",
+      "黃銅星盤與望遠鏡",
+      "前爪輕撥或觸碰設備",
+      "藍青冷色調",
+      "搖曳燭光與暖橙光影",
+      "魚眼視角與強烈桶形失真",
+      "立體刺繡與盤花肌理",
+      "古老天文台與星圖",
+      "熱感應與生物發光雨林",
+      "3D Q版盲盒風格"
+    ],
+    "title": "紅金流光中的尋鋰之貓",
+    "inspiration": "日本（Japan）：日本工程團隊成功研發出新技術，能從廢棄電動車電池中回收高達90%的鋰金屬，為新能源循環帶來突破。",
+    "idea": "採用米提拉畫風格，在極低角度仰視下，一隻塗滿金色紋飾的四腳貓咪正於金屬製的精密回收裝置旁用雙爪撥弄鋰電池顆粒，整幅畫作呈現鮮明的中國紅金配色與電影感光影。",
+    "number": 2803,
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Extreme Low Angle",
+      "lighting": "Cinematic Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Festive Red and Gold"
+    },
+    "news_inspiration": [
+      "愛沙尼亞（Estonia）：隨著當地河流生態恢復與棲地復育成功，瀕危受保護的魚鷹已重新回到愛沙尼亞西部築巢繁衍。",
+      "日本（Japan）：日本工程團隊成功研發出新技術，能從廢棄電動車電池中回收高達90%的鋰金屬，為新能源循環帶來突破。",
+      "馬爾地夫（Maldives）：研究發現鸚哥魚的排泄物能持續提供大量細沙，成為保護馬爾地夫美麗海岸線與沙灘的重要自然功臣。",
+      "美國羅德島州（Rhode Island, USA）：一家人的農場手工小攤在開幕第一天遭竊後，一對熱心的陌生父子主動出資並動手為他們驚喜打造了一座全新攤位。"
+    ],
+    "prompt": "Madhubani painting style illustration, extreme low angle shot looking up at a ginger cat with golden decorative patterns, using both paws to play with lithium battery granules beside a precision metal recycling device. Intricate geometric and floral folk art patterns, symmetrical composition, industrial premium brushed metallic surfaces with sharp reflections. Cinematic volumetric light rays creating dramatic shadows and film-quality mood. Vibrant festive Chinese red and bright gold color palette. Visually displayed text in subtle sharp font reading '2026-08-07 23:23 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5223179148,
+    "story": "日本工程團隊從廢棄電動車電池中提煉出璀璨的鋰金屬，好奇的薑黃貓巡視著工廠角落，好奇地伸出前爪輕碰那些閃耀著紅金光澤的金屬微粒。璀璨的燈光與傳統筆觸交織，記錄下科技與貓咪日常奇妙相遇的一刻。"
   }
 ]
