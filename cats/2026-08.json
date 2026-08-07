@@ -2836,5 +2836,39 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "title": "廢壘裡的藍色光波"
+  },
+  {
+    "news_inspiration": [
+      "日本研究團隊成功開發出採用水溶性外殼的「環保煙火」，能大幅減少大型煙火慶典後所產生的垃圾殘留。",
+      "土耳其沿海地方社區與環保團體攜手合作，成功將該國長達 300 英里海岸線的海洋保護區面積擴大至原本的三倍。",
+      "烏拉圭足球傳奇巨星佛蘭（Diego Forlán）於蒙特維多正式獲任命，回歸接任烏拉圭國家足球隊及 U20 青年隊總教練。",
+      "美國一位長期扮演聖誕老人的熱心男子將自己的腎臟捐贈給器官衰竭患者，送出了一份溫暖人心且珍貴的生命大禮。"
+    ],
+    "number": 2800,
+    "comment_id": 5221711643,
+    "avoid_list": [
+      "螺旋漩渦構圖",
+      "黃銅星盤與望遠鏡",
+      "前爪輕撥或觸碰設備",
+      "藍青冷色調",
+      "搖曳燭光與暖橙光影",
+      "魚眼視角與強烈桶形失真",
+      "立體刺繡與盤花肌理",
+      "古老天文台與星圖",
+      "熱感應與生物發光雨林",
+      "3D Q版盲盒風格"
+    ],
+    "title": "蔚藍海岸的潛水日誌",
+    "inspiration": "土耳其沿海地方社區與環保團體攜手合作，成功將該國長達 300 英里海岸線的海洋保護區面積擴大至原本的三倍。",
+    "story": "這隻溫暖的針扎羊毛氈貓咪陪伴著志工潛水員，一同沉入土耳其沿海湛藍的水中。隨著保護區面積劃定擴大，牠輕撫著閃爍金屬光澤的新地界牌，記錄下這片蔚藍大海重獲新生的一刻。",
+    "idea": "採用羊毛氈工藝風格呈現，一隻藍黃互補色毛料編織的貓咪趴在海岸水下潛艇的護欄上，好奇地用鼻子湊近觸碰潛水員身旁浮現金屬質感的全新保護區界碑；鏡子自拍構圖視角下，背景透出陽光穿透水面照耀海岸線的斑駁光影。",
+    "prompt": "A needle-felted wool craft cat with soft fuzzy fiber texture, handmade plush character style, made of blue and yellow complementary wool fibers. The cat is crouching on the guardrail of an underwater submarine near the coast, curiously reaching its nose out to touch a metal-textured new sanctuary boundary marker beside a scuba diver. The boundary marker has metallic surface with brushed metal reflections and sharp industrial texture. Mirror selfie composition perspective, casual framing with visible reflection, intimate close-up angle. Background shows dappled light and scattered patches of sunlight filtering through the ocean surface, illuminating the coastline with gentle organic mottled shadow patterns. Crisp text overlaying the scene in a sleek corner reads '2026-08-07 20:27 UTC', whimsical artisanal figurine style, vivid contrasting cool blue and warm yellow color palette. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Needle-Felted Wool Craft",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Dappled Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Blue and Yellow Complementary"
+    }
   }
 ]
