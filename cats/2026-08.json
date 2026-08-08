@@ -3414,5 +3414,41 @@
       "水下焦散光波光",
       "綠色點雲或終端機數據"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Food Surrealism",
+      "composition": "Orthographic Projection",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Sand Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [
+      "愛沙尼亞（Estonia）西部因河流生態改善與棲地復育成功，保育類珍禽魚鷹已順利重返當地築巢繁殖。",
+      "日本（Japan）回收設施工程師開發出突破性技術，能從廢棄電動車電池中回收高達90%的鋰金屬。",
+      "美國新罕布夏州（United States）城市特地建造專屬地下隧道，成功幫助保育類斑點鈍口螈安全穿過公路遷徙。",
+      "尼泊爾（Nepal）長期推動野生動物保護計畫，境內的野生老虎數量自2010年以來增長了近四倍，總數達到429隻。"
+    ],
+    "story": "在高濃度的黑巧大地與金箔沙地之間，小貓好奇地打量著專為糖果蜥蜴打造的地下隧道。牠伸出鼻子嗅聞著空氣中濃郁的香草味，護送著這群珍貴的甜點生物安全遷徙。",
+    "comment_id": 5226737804,
+    "number": 2817,
+    "prompt": "A close-up surreal food photograph capturing a golden-furred four-legged calico cat standing atop a miniature diorama highway tunnel built from dark gold-accented chocolate blocks, looking down at a group of spotty axolotls made of nuts and frosting sliding across below. Styled as playful conceptual still life food surrealism with whimsical scale play. Shot in orthographic projection with no perspective distortion, technical illustration style flat rendering. Illuminated by harsh midday sunlight creating hard edge shadows, high contrast natural daylight, and strong directional sun. Detailed fine sand texture with desert dune ripples and warm golden granules surrounds the scene. Luxurious color scheme featuring opulent gold and black metallic accents. Discretely printed in clean typography on the bottom corner of the image is the text '2026-08-08 15:18 UTC'. Shot on a 50mm macro lens, f/8 aperture, razor-sharp focus throughout, natural lighting, highly realistic photographic texture. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "黑金隧道的甜蜜遷徙",
+    "idea": "一隻金黃毛色的四足花貓正踏在由黑金巧克力塊築成的微型擬物公路隧道上，俯瞰著下方成群由堅果與糖霜構成的斑點鈍口螈滑行 crossing。整體畫面呈現食物超現實擬物風格，結合正交投影與沙質紋理，在硬光日照下散發著金色與黑色的奢華質感。",
+    "avoid_list": [
+      "朱紅描金",
+      "古老航海圖",
+      "月夜靛藍色調",
+      "留白負空間構圖",
+      "低多邊形質感",
+      "伸出爪子觸碰或按壓",
+      "斑駁光影與彩虹光斑",
+      "強烈硬光與硬邊陰影",
+      "平視正面對稱構圖",
+      "蕾絲或織物鏤空質感",
+      "水下焦散光波光",
+      "綠色點雲或終端機數據"
+    ],
+    "inspiration": "美國新罕布夏州（United States）城市特地建造專屬地下隧道，成功幫助保育類斑點鈍口螈安全穿過公路遷徙。"
   }
 ]
