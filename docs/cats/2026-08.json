@@ -3381,5 +3381,38 @@
       "英國布萊德福一隻命懸一線的流浪幼貓，在接受一隻名為「胡蘿蔔」的失明貓咪捐血後成功獲救並逐漸康復。"
     ],
     "number": 2815
+  },
+  {
+    "story": "浪花在腳下炸開，港口邊的微風夾雜著鹹鹹的海味，船長奮力一躍，身姿宛如精緻的舞者般矯健。縱使歲月在牠的眼罩與耳角留下刻痕，那一眼翠綠依然凝視著遠方，堅毅地守護著這片屬於牠的碼頭。",
+    "character": "captain",
+    "comment_id": 5226523523,
+    "news_inspiration": [],
+    "number": 2816,
+    "idea": "在融合舞蹈肢體攝影動態感與發光絲流質感的港口防波堤上，船長躍起跨過浪花飛濺的石隙，霓虹燈光映照出牠頭肩特寫的柔美粉彩色調與頑強身姿。",
+    "inspiration": "original",
+    "prompt": "A dance movement photography shot freezing a dynamic cat mid-air as it leaps over splashing wave gaps on a harbor breakwater at night. The subject is Captain, a large stocky brown classic tabby cat with bold black stripes, scruffy coarse fur, a white chest bib, and white mitten paws. A natural dark-pigmented fur patch covers its left eye socket completely with no fabric or straps, while its right eye is a piercing emerald green. Its left ear features a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. Tight head-and-shoulders portrait crop with face filling the frame, capturing a determined expression. Neon harbor lighting and glowing filament flow textures reflect off the wet rock surfaces, highlighting radiant light strands, soft neon glow trails, and gentle pastel tones of pink, lavender, and mint. In the corner, the timestamp '2026-08-08 14:21 UTC' is visually rendered in crisp white text. Captured on 35mm lens, f/1.8, high-speed shutter freezing motion, shallow depth of field, subtle film grain, candid photograph, authentic camera shot. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "船長",
+    "title": "浪尖上的堅毅飛躍",
+    "style_picks": {
+      "art_style": "Dance Movement Photography",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Neon Lighting",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "朱紅描金",
+      "古老航海圖",
+      "月夜靛藍色調",
+      "留白負空間構圖",
+      "低多邊形質感",
+      "伸出爪子觸碰或按壓",
+      "斑駁光影與彩虹光斑",
+      "強烈硬光與硬邊陰影",
+      "平視正面對稱構圖",
+      "蕾絲或織物鏤空質感",
+      "水下焦散光波光",
+      "綠色點雲或終端機數據"
+    ]
   }
 ]
