@@ -3582,5 +3582,39 @@
       "奧地利維也納（Vienna, Austria）的研究團隊發現一隻名為維羅妮卡（Veronika）的母牛具備靈活使用工具的能力，打破了科學界過去對牛隻智力的傳統認知。"
     ],
     "inspiration": "original"
+  },
+  {
+    "news_inspiration": [
+      "根據最新公布的生態調查，尼泊爾（Nepal）的野生老虎數量自2010年以來已成長近四倍，總數達到429隻，成為全球野生動物保育的成功典範。",
+      "奧地利維也納（Vienna, Austria）的獸醫團隊研究發現，一隻名為 Veronika 的母牛能夠熟練地使用工具，成為歷史上首次被科學界記錄到會使用工具的家牛。",
+      "巴西（Brazil）政府成功完成了亞馬遜雨林內未接觸原住民部落的領地地圖繪製，為保護當地傳統文化與雨林生態邁出重大一步。",
+      "美國喬治亞州（Georgia, USA）的研究團隊成功組裝出首具精確的「帝王鱷」（Deinosuchus）骨骼複製品，完美還原這隻史前巨鱷的雄偉姿態。"
+    ],
+    "avoid_list": [
+      "強烈的引導線構圖",
+      "四足貓咪俯身或伏臥姿勢",
+      "貓咪用鼻子細細嗅聞微小物件",
+      "霓虹螢光色與亮麗粉彩色調",
+      "液態金屬與玻璃折射質感",
+      "微型擬物與德羅斯特遞迴結構",
+      "聚光燈與硬光日照等高對比光影",
+      "帶有舊化與氧化質感的古老機械",
+      "文字標註與時間戳記擺放",
+      "傳統書法與直式海報構圖"
+    ],
+    "comment_id": 5227944007,
+    "prompt": "Flat vector illustration, full-bleed frame-filling macro composition with dense edge-to-edge detail and subject cropped to edges. A cat with exotic snake scale texture featuring overlapping iridescent reptilian scales and a glossy patterned surface, using its front paw to gently flip a thick ancient muddy Amazon rainforest map resting on a deposited sandstone platform. Gold and black color scheme with luxurious metallic gold accents and a deep black background. Clean lines, geometric forms, minimal shading. Dramatic atmospheric volumetric lighting with golden god rays, visible light rays through atmosphere, and glowing dust particles catching light. The text '2026-08-08 20:15 UTC' is visually and clearly displayed in delicate lettering along the corner of the map. Opulent and immersive mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "巴西（Brazil）政府成功完成了亞馬遜雨林內未接觸原住民部落的領地地圖繪製，為保護當地傳統文化與雨林生態邁出重大一步。",
+    "number": 2822,
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Volumetric Light",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "在採用金色與黑色奢華配色及滿版特寫構圖的扁平向量插圖中，一隻披著蛇鱗肌理斑紋的貓咪正在沉積的砂岩平臺上，用前爪輕輕翻動著一張厚重古老的泥質亞馬遜雨林地圖，四周透出金色微光的體積光。",
+    "story": "貓咪的爪尖循著古老的地圖線條滑動，仔細尋找著林海深處未被劃過的神秘領地。這張鋪滿平臺的圖卷不僅標註著雨林的河流脈絡，更紀錄了古老文明與自然相處的最後避難所。",
+    "title": "雨林圖卷的金色印記"
   }
 ]
