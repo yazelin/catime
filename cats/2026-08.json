@@ -3519,5 +3519,34 @@
     "title": "瓶中水晶蝶語",
     "inspiration": "original",
     "news_inspiration": []
+  },
+  {
+    "inspiration": "original",
+    "prompt": "Cubism style artwork featuring a dynamic diagonal composition of a dark observatory interior. A four-legged cat stands on an observation platform, reaching out its paw to nudge a swinging instrument pendulum. Geometric fragmented forms, abstract angular planes, and multiple simultaneous perspectives give the scene kinetic visual flow. Illuminated by cool moonlight with a gentle silvery glow and deep moonlit indigo palette of night-blue and violet tones. Overlaid with a delicate wireframe texture and translucent technical grid lines, creating a glowing blueprint feel. Prominently overlaid on the image in a clear, modern digital font is the text '2026-08-08 18:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "強烈的引導線構圖",
+      "四足貓咪俯身或伏臥姿勢",
+      "貓咪用鼻子細細嗅聞微小物件",
+      "霓虹螢光色與亮麗粉彩色調",
+      "液態金屬與玻璃折射質感",
+      "微型擬物與德羅斯特遞迴結構",
+      "聚光燈與硬光日照等高對比光影",
+      "帶有舊化與氧化質感的古老機械",
+      "文字標註與時間戳記擺放",
+      "傳統書法與直式海報構圖"
+    ],
+    "news_inspiration": [],
+    "title": "月夜折角下的探索",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Diagonal Composition",
+      "lighting": "Moonlight",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Moonlit Indigo"
+    },
+    "number": 2820,
+    "comment_id": 5227484713,
+    "story": "深夜的高山天文觀測站裡，清冷的月光斜斜透入窗格，將空間切割成多重幾何色塊。貓咪巡視至高處，伸出前爪輕撥斜對角懸掛的精密幾何單擺。在虛實交錯的線框與深藍陰影中，貓咪的動作凝結成一幅充滿幾何美感的動態瞬間。",
+    "idea": "在以立體主義呈現的幽暗天文台中，月夜靛藍色調與對角線構圖交織出幾何光影，一隻四足貓咪正踩在觀測檯上伸爪撥動懸掛的儀器單擺，畫面疊加著精細的線框透明質感與沉靜月光。"
   }
 ]
