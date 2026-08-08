@@ -3345,5 +3345,41 @@
     "idea": "這是一幅結合超現實主義與留白負空間構圖的作品，以暖色調琥珀與秋日色彩為主軸，並運用聚光燈強調主角。",
     "title": "時光齒輪間的星塵探尋",
     "comment_id": 5226091538
+  },
+  {
+    "avoid_list": [
+      "朱紅描金",
+      "古老航海圖",
+      "月夜靛藍色調",
+      "留白負空間構圖",
+      "低多邊形質感",
+      "伸出爪子觸碰或按壓",
+      "斑駁光影與彩虹光斑",
+      "強烈硬光與硬邊陰影",
+      "平視正面對稱構圖",
+      "蕾絲或織物鏤空質感",
+      "水下焦散光波光",
+      "綠色點雲或終端機數據"
+    ],
+    "inspiration": "美國夏威夷州的丹尼爾·井上太陽望遠鏡捕捉到太陽表面極微小的電漿渦旋，幫助科學家進一步揭開太陽磁場與能量釋放的奧秘。",
+    "story": "這隻歷經滄桑的流浪貓穿梭於工業遺跡之間，意外闖入了秘密運作的太陽磁場模擬實驗室。霓虹燈光沿著高聳的鐵管道與鋼架延伸，將牠引向核心，牠屏息觀看著如微型太陽般旋轉的電漿光渦。",
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Leading Lines Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "霓光漩渦中的凝望",
+    "idea": "在浮世繪風格呈現的廢棄工廠內，一隻浪貓正趴在生銹舊化的鋼樑上，伸長脖子凝視著微型電漿渦旋在機械裝置間迸發出霓虹螢光色的耀眼光芒。",
+    "prompt": "A Japanese ukiyo-e woodblock print illustration depicting a weathered stray cat perched on a rusted, oxidized steel beam inside an abandoned factory, stretching its neck to gaze at a miniature plasma vortex bursting with brilliant neon fluorescent light between mechanical devices. The scene features flat color areas, bold outlines, wave patterns, and a leading lines composition with strong converging perspective lines guiding the eye toward the center. Mood: moody urban night atmosphere with vibrant electric pink, lime green, and hot cyan neon glow contrasting against dark backgrounds and warm orange-brown peeling paint corrosion. Subtly displayed on a colorful glowing sign in the background is the text '2026-08-08 13:37 UTC' in Traditional Chinese and English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5226351967,
+    "news_inspiration": [
+      "美國夏威夷州的丹尼爾·井上太陽望遠鏡捕捉到太陽表面極微小的電漿渦旋，幫助科學家進一步揭開太陽磁場與能量釋放的奧秘。",
+      "尼泊爾透過多年的生態保護努力，野生老虎數量自2010年以來大幅成長近四倍，總數已達到429隻。",
+      "比利時政府正式通過一項計畫，預計於2037年前全面結束全國的海豚圈養與商業表演。",
+      "英國布萊德福一隻命懸一線的流浪幼貓，在接受一隻名為「胡蘿蔔」的失明貓咪捐血後成功獲救並逐漸康復。"
+    ],
+    "number": 2815
   }
 ]
