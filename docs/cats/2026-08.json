@@ -3044,5 +3044,41 @@
       "愛沙尼亞西部因河流生態環境顯著改善與修復，成功吸引保育類魚鷹重新返回當地築巢繁衍。"
     ],
     "story": "烈日如火般灼燒著漆金與朱紅交織的宮殿屋頂，多邊形稜角分明的瓦片在硬光下閃爍著刺眼光芒。這隻玳瑁貓盤踞於高聳的檐角俯瞰整座京城，正專心致志地用前爪撥弄著圖騰間那枚不斷旋轉的銅質羅盤。"
+  },
+  {
+    "idea": "這是一幅採用建築藍圖風格與低多邊形質感的長卷全景畫作，描繪一隻貓咪在瀕危魚鷹棲地復育的溪谷綠洲中，踏著河岸石礫巡視河流床位的景象。",
+    "inspiration": "愛沙尼亞西部（Western Estonia）得益於河流棲地復育成功，瀕危的魚鷹（Osprey）已重新返回當地築巢繁衍。",
+    "story": "愛沙尼亞西部的溪流經過多年整治，水流重新煥發活力。這隻斑紋貓沿著復育後的河岸輕盈走動，昂首昂尾地觀察著低空掠過的魚鷹影痕與繁茂水草，彷彿是這片重生棲地的巡視員。",
+    "title": "水脈重生的蔚藍藍圖",
+    "comment_id": 5224419111,
+    "news_inspiration": [
+      "美國羅德島州（Rhode Island）一對父子在得知一位女性的農場攤位在開業首日遭竊後，主動自製並贈送給她一座全新的農場小攤。",
+      "日本的研究團隊成功開發出高效回收技術，能夠從廢棄的電動車電池中回收高達 90% 的鋰金屬。",
+      "澳洲凱恩斯（Cairns）外海的海洋保護團隊發現了一座面積近 4,000 平方公尺的巨型珊瑚群落，是目前已知最大的珊瑚之一。",
+      "愛沙尼亞西部（Western Estonia）得益於河流棲地復育成功，瀕危的魚鷹（Osprey）已重新返回當地築巢繁衍。"
+    ],
+    "prompt": "An extreme wide handscroll panoramic architectural blueprint technical drawing combined with low-poly polygon mesh textures, depicting a restored stream valley oasis in western Estonia. A tabby cat proudly walks along river gravel and pebbles, inspecting the riverbed. White technical blueprint lines, precise measurements, and annotations overlay a classic blue background combined with flat-shaded triangular low-poly facets in an earth tone palette of terracotta, olive green, and warm brown. Oblique bird's-eye view with continuous narrative composition showing osprey silhouettes gliding low above lush aquatic vegetation and clear stream water. Dappled light filters through leaves, casting soft mottled shadow patterns. Clean technical text annotated in the margin reads '2026-08-08 04:02 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2806,
+    "avoid_list": [
+      "時間戳記 2026-08-07 / 2026-08-08 UTC",
+      "冷色調藍青色與暖黃燭光對比",
+      "繁體中文與英文限定標籤指令",
+      "四腳貓咪與金屬回收/電池模組組合",
+      "魚眼或極低角度仰視構圖",
+      "極致生物朋克與幾丁質甲殼質感",
+      "刺繡與盤花肌理立體質感",
+      "透明標本與樹脂雕塑視覺",
+      "霓虹螢光輪廓光與背光效應",
+      "幾何鏡像對稱與雙生對峙構圖",
+      "微距貓爪撥弄/觸碰物體姿態",
+      "鮮明青橙或藍黃互補對比色調"
+    ],
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Dappled Light",
+      "texture": "Low Poly",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
