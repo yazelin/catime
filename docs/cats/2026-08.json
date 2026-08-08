@@ -3178,5 +3178,39 @@
     "number": 2809,
     "story": "受維也納科學家發現動物善用工具的啟發，這隻貓咪也在溫室角落展現出驚人的智慧與巧思。它叼著精密的金屬小工具穿梭於藤蔓間，窗外大雪紛飛，窗內卻盛開著點綴水鑽與金箔的奢華生機。",
     "inspiration": "奧地利（維也納）：科學家發表研究指出，一隻名為 Veronika 的乳牛被記錄到能靈活操作並使用多功能工具，創下家牛展現該智力行為的首例紀錄。"
+  },
+  {
+    "number": 2810,
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Leading Lines Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "inspiration": "加拿大西北地區發現了距今約 5.67 億年的古老化石，將地球早期動物的移動與有性生殖演化時間往前推進了多達 1,000 萬年。",
+    "comment_id": 5225326450,
+    "title": "金色地層的微光探索",
+    "idea": "這幅墨流風格作品以流動的金墨與沉穩黑紙肌理鋪陳，運用強烈的蝴蝶光投射出一隻蜷伏在古代地層斷崖邊的斑紋貓，正用粉紅鼻尖細細嗅聞夾雜在金色紋路間的微小化石標本。",
+    "story": "古老地層深處彷彿沉睡著億萬年的祕密，流動的金線如時光長河般穿越岩層。貓咪輕巧地蹲伏於斷崖邊緣，順著幾何岩層延伸的引導線，靜靜窺探那遠古生物留下的神祕遺跡。",
+    "avoid_list": [
+      "朱紅描金配色",
+      "航海圖與羅盤",
+      "正對方鏡頭平視構圖",
+      "硬光強烈日照與硬邊陰影",
+      "金屬質感保護區界碑",
+      "斑駁光影與留白構圖",
+      "霓虹螢光輪廓光",
+      "時間戳記 overlay 標示",
+      "極端低角度仰視",
+      "四足貓咪前爪撫摸物件"
+    ],
+    "prompt": "Suminagashi Japanese paper marbling art style depicting a striped tabby cat crouching at the edge of an ancient geometric cliff, delicately sniffing a tiny fossil specimen with its pink nose. Concentric gold ink patterns and delicate floating swirls flow across a deep black textured paper background with visible fiber grain. Strong leading lines composition along rock strata guides the eye toward the subject. Soft butterfly lighting from an overhead key light creates a symmetrical shadow under the cat's nose. Opulent metallic gold and matte black color palette. The text '2026-08-08 08:26 UTC' is visually and clearly displayed in the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "加拿大西北地區發現了距今約 5.67 億年的古老化石，將地球早期動物的移動與有性生殖演化時間往前推進了多達 1,000 萬年。",
+      "奧地利維也納的科學家研究發現一頭名為 Veronika 的母牛能將工具作為多用途工具使用，刷新了人類對家畜智力的認知。",
+      "馬來西亞砂拉越將當地著名的鱷魚養殖場升級重塑為「動物奇幻樂園」，推出多元互動體驗以推動在地生態旅遊。",
+      "澳洲雪梨盛大舉辦國家科學週與雪梨科學步道活動，結合植物園探索與互動展覽向公眾推廣科學樂趣。"
+    ]
   }
 ]
