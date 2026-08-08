@@ -3080,5 +3080,36 @@
       "texture": "Low Poly",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "comment_id": 5224759356,
+    "news_inspiration": [],
+    "story": "夜幕下的圖書館寂靜無聲，月夜靛藍的光芒透過彩色玻璃花窗折射入內。斑駁光影與稜鏡彩虹光斑撒落在古老的航海圖上，花貓輕觸著地圖上的航線，彷彿正透過光斑閱讀著遙遠大海的秘密。",
+    "prompt": "A serene calico cat resting its paw on the pages of an ancient nautical atlas in a quiet church library, depicted in a stained glass window style with bold black outlines and translucent jewel-toned segments. Frontal eye-level composition, straight-on symmetrical view, subject facing camera directly in a neutral honest perspective. Lit by a backlit glow with dappled light, soft mottled shadows, prismatic rainbow flare texture, refracted spectral light spots, and iridescent lens-glow streaks across the image. Palette features a moonlit indigo theme with deep night-blue and violet tones, cool silvery highlights, and a mysterious nocturnal mood. The text '2026-08-08 05:34 UTC' is clearly visually displayed in crisp English near the bottom edge. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "月夜地圖的彩色光斑",
+    "inspiration": "original",
+    "number": 2807,
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Dappled Light",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Moonlit Indigo"
+    },
+    "avoid_list": [
+      "時間戳記 2026-08-07 / 2026-08-08 UTC",
+      "冷色調藍青色與暖黃燭光對比",
+      "繁體中文與英文限定標籤指令",
+      "四腳貓咪與金屬回收/電池模組組合",
+      "魚眼或極低角度仰視構圖",
+      "極致生物朋克與幾丁質甲殼質感",
+      "刺繡與盤花肌理立體質感",
+      "透明標本與樹脂雕塑視覺",
+      "霓虹螢光輪廓光與背光效應",
+      "幾何鏡像對稱與雙生對峙構圖",
+      "微距貓爪撥弄/觸碰物體姿態",
+      "鮮明青橙或藍黃互補對比色調"
+    ],
+    "idea": "採用彩色玻璃風格與平視正面構圖，展現一隻花貓在幽靜教堂圖書館內，用爪子撫過古老地圖集集頁的沉靜畫面。"
   }
 ]
