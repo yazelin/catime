@@ -3282,5 +3282,39 @@
     "idea": "採用賽璐璐著色風格與月夜靛藍色調，呈現橘白短毛家貓「麻糬」在愛丁堡藝穗節夜市巷弄的微型劇場盒中，蜷縮於摺紙質感的劇院模型內好奇探頭試吃的德羅斯特遞迴畫面，帶有古典倫勃朗光影展現圓滾滾的身型。",
     "prompt": "Cel-shaded illustration using flat color areas, bold outlines, and toon shadow edges. In a moonlit indigo palette of deep night-blue and violet tones, a chubby, spherical-bodied shorthair cat named Mochi peeks curiously out of a tiny origami folded-paper theater box set in a dark Edinburgh Fringe Festival night market alley. The cat features an authentic literal feline body with short stubby legs: a white base coat, a solid orange mask covering its right half-face and right ear while its left face is pure white, large round amber eyes, a pink nose with a tiny orange center dot, a heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, and a pure white left front paw. The cat is reaching its orange right front paw out to taste a miniature prop peanut mochi snack in front of the recursive Droste-effect origami stage that infinitely repeats pictures within pictures. Dramatic Rembrandt chiaroscuro lighting at 45 degrees illuminates the scene, casting a signature triangle of light on the shadowed cheek. Crisp digital folded paper sculpture details and cool silvery highlights complete the mysterious nocturnal aesthetic. The text '2026-08-08 10:19 UTC' is visually displayed clearly in clean English font in a corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "全球最大的藝術節「愛丁堡藝穗節」於英國愛丁堡正式揭幕，吸引來自全球74個國家的創作者帶來超過4,000場精采藝術演出。"
+  },
+  {
+    "inspiration": "台灣科研團隊透過光達（LiDAR）遙測技術，在中央山脈偏遠山區成功尋獲並記錄了壯觀的臺灣杉巨木群森林。",
+    "story": "在中央山脈偏遠的高山觀測站內，貓咪靜靜蹲坐在溫熱的伺服器旁，好奇地伸出前爪輕碰畫面上記錄著臺灣杉巨木群的綠色點雲。光達掃描的林冠數據在綠黑雙色調的螢幕上如符號瀑布般流淌，與窗外漫進的晨霧交織出山林深處的未知密碼。",
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Window Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "台灣科研團隊透過光達（LiDAR）遙測技術，在中央山脈偏遠山區成功尋獲並記錄了壯觀的臺灣杉巨木群森林。",
+      "丹麥哥本哈根積極推廣「真人圖書館」活動，讓民眾可以像借閱書籍一樣「借閱」不同背景的人並聆聽其生命故事。",
+      "馬爾地夫的最新海洋生態研究顯示，當地鸚哥魚所排放的砂質排泄物在補充海岸沙灘與維持島嶼地形方面發揮了重要作用。",
+      "科學家在巴西發現距今約8000萬年的古蛇化石，並透過現代3D腦部重建技術揭開了早期蛇類多元演化的秘密。"
+    ],
+    "avoid_list": [
+      "朱紅描金配色",
+      "航海圖與羅盤",
+      "正對方鏡頭平視構圖",
+      "硬光強烈日照與硬邊陰影",
+      "金屬質感保護區界碑",
+      "斑駁光影與留白構圖",
+      "霓虹螢光輪廓光",
+      "時間戳記 overlay 標示",
+      "極端低角度仰視",
+      "四足貓咪前爪撫摸物件"
+    ],
+    "idea": "命令列終端機風格下的超廣角畫面，隻身於研究站窗口的四足貓咪正凝視著光達點雲螢幕上的樹冠數據，窗邊柔光灑落於帶有蕾絲鏤空質感的雙色調陣列終端。",
+    "prompt": "Ultra wide angle 12-18mm lens shot, dramatic perspective distortion, retro CLI command line terminal style photo, black console screen background displaying 2026-08-08 11:18 UTC and Taiwanese Taiwania tree canopy LiDAR point cloud data in green monospace bitmap text and scrolling log lines with CJK system font rendering and a blinking cursor. On a four-legged cat sitting on all fours on a desk inside a remote mountain research station, staring curiously at the lidar monitor, touching the screen with its paw. Soft window daylight streaming from a side window creating gentle falloff into shadows, classic Vermeer-like illumination on a duotone array terminal featuring delicate lace openwork texture and intricate floral cutout patterns, candid shot, fine film grain, natural light. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2813,
+    "comment_id": 5225880365,
+    "title": "綠陣巨木尋蹤記錄"
   }
 ]
