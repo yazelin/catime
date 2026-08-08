@@ -3548,5 +3548,39 @@
     "comment_id": 5227484713,
     "story": "深夜的高山天文觀測站裡，清冷的月光斜斜透入窗格，將空間切割成多重幾何色塊。貓咪巡視至高處，伸出前爪輕撥斜對角懸掛的精密幾何單擺。在虛實交錯的線框與深藍陰影中，貓咪的動作凝結成一幅充滿幾何美感的動態瞬間。",
     "idea": "在以立體主義呈現的幽暗天文台中，月夜靛藍色調與對角線構圖交織出幾何光影，一隻四足貓咪正踩在觀測檯上伸爪撥動懸掛的儀器單擺，畫面疊加著精細的線框透明質感與沉靜月光。"
+  },
+  {
+    "idea": "這是一組採用羊毛氈工藝製作的正交投影微縮景觀，一隻藍青冷色調的毛茸茸貓咪正用前爪推著一顆巨大、帶有絲綢光澤的毛線球，滑過一片點綴著生物發光海葵的深海花園。",
+    "avoid_list": [
+      "強烈的引導線構圖",
+      "四足貓咪俯身或伏臥姿勢",
+      "貓咪用鼻子細細嗅聞微小物件",
+      "霓虹螢光色與亮麗粉彩色調",
+      "液態金屬與玻璃折射質感",
+      "微型擬物與德羅斯特遞迴結構",
+      "聚光燈與硬光日照等高對比光影",
+      "帶有舊化與氧化質感的古老機械",
+      "文字標註與時間戳記擺放",
+      "傳統書法與直式海報構圖"
+    ],
+    "comment_id": 5227717497,
+    "story": "在藍綠色的深海羊毛王國裡，貓咪巡視員每天都會推著寶貴的絲綢毛線球，在微光發光的珊瑚海葵間穿梭。海葵散發著幽幽藍光，將毛茸茸的質感襯托得極其柔和，彷彿一場發生在大陸棚邊緣的寧靜夢境。",
+    "prompt": "Orthographic projection technical illustration of an underwater deep-sea garden scene made entirely of needle-felted wool craft. A soft fuzzy fiber textured cat in cool blue-teal tones uses its front paws to push a large wool yarn ball with luxurious silk sheen and luminous smooth surface across the ocean floor. The surrounding garden features felted bioluminescent sea anemones glowing with an organic deep blue-green radiance and underwater phosphorescence. Straight-on flat rendering with no perspective distortion, warm studio lighting combined with ethereal natural light highlights the cozy tactile surface of the plush characters and delicate light reflections. Text stating '2026-08-08 19:20 UTC' is cleanly displayed in crisp English font in the image frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "微光深海的絨毛巡航",
+    "number": 2821,
+    "style_picks": {
+      "art_style": "Needle-Felted Wool Craft",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Silk",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "考古學家在土耳其薩爾迪斯（Sardis, Turkey）的古代遺跡中，出土了一座距今約2,500年、高約7英尺的罕見巨型大理石雕像，手中還握著一顆榅桲果實。",
+      "公民科學家在澳大利亞凱恩斯（Cairns, Australia）外海的大堡礁發現了一片面積近4,000平方公尺的巨型珊瑚群，規模相當於半個足球場。",
+      "美國安克拉治（Anchorage, United States）的一家購物中心遭一隻黑熊闖入，牠不僅逛進理髮店，還順手偷走一顆桃子後才返回森林。",
+      "奧地利維也納（Vienna, Austria）的研究團隊發現一隻名為維羅妮卡（Veronika）的母牛具備靈活使用工具的能力，打破了科學界過去對牛隻智力的傳統認知。"
+    ],
+    "inspiration": "original"
   }
 ]
