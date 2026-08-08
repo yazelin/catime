@@ -3008,5 +3008,41 @@
     "comment_id": 5223643728,
     "inspiration": "丹麥斯波特魯普（Spottrup, Denmark）的古堡舉辦了國際中世紀格鬥錦標賽，來自全球 30 個國家的選手身穿全套盔甲展開激烈對決。",
     "story": "古堡地下正進行著一場基因重組的生物武裝格鬥。黑貓壓低身軀，在帶有微顆粒沙質紋理的擂台上伺機而動，鏡像另一端的複製體也同步做出完全相同的襲擊準備，朱紅色的霓虹光影在廣袤的留白空間中劃開一道血色割痕。"
+  },
+  {
+    "inspiration": "original",
+    "idea": "採用超寫實動漫風格，呈現一隻玳瑁貓在古老宮殿頂樓的朱紅琉璃瓦間穿梭，伸出爪子試圖按壓那張鋪展於屋頂上的巨型古老航海圖。",
+    "avoid_list": [
+      "時間戳記 2026-08-07 / 2026-08-08 UTC",
+      "冷色調藍青色與暖黃燭光對比",
+      "繁體中文與英文限定標籤指令",
+      "四腳貓咪與金屬回收/電池模組組合",
+      "魚眼或極低角度仰視構圖",
+      "極致生物朋克與幾丁質甲殼質感",
+      "刺繡與盤花肌理立體質感",
+      "透明標本與樹脂雕塑視覺",
+      "霓虹螢光輪廓光與背光效應",
+      "幾何鏡像對稱與雙生對峙構圖",
+      "微距貓爪撥弄/觸碰物體姿態",
+      "鮮明青橙或藍黃互補對比色調"
+    ],
+    "comment_id": 5224157810,
+    "title": "朱瓦驕陽下的航圖",
+    "prompt": "A hyperrealistic anime style illustration in a top-down bird's-eye perspective looking straight down. On an ancient palace roof made of low-poly crystalline vermilion glazed tiles with metallic gold outlines, a tortoiseshell cat reaches its paw out onto a giant ancient nautical chart spread over the tiles, interacting with a spinning brass compass on the map. The scene is illuminated by harsh midday sunlight with hard-edge shadows, high contrast natural daylight, strong directional lighting, and a miniature world effect. The color palette features elegant cinnabar red, rich lacquer vermilion, and metallic gilt. Overlaid clearly in the corner of the image is the English text reading '2026-08-08 02:48 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2805,
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Bird's-Eye View",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Low Poly",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "news_inspiration": [
+      "美國芝加哥於8月6日舉行一年一度的「芝加哥鴨子賽跑」（Chicago Duck Derby），將超過9萬隻黃色橡皮鴨傾倒入芝加哥河中，為特殊奧運會籌集善款。",
+      "西班牙等歐洲國家即將於8月中旬迎來百年來首場日全蝕盛況，屆時還將伴隨六星連珠與英仙座流星雨等罕見的天文奇觀。",
+      "日本回收設施工程師成功研發最新技術，能從廢棄電動車電池中提煉並回收高達90%的鋰金屬，為綠色能源帶來重大突破。",
+      "愛沙尼亞西部因河流生態環境顯著改善與修復，成功吸引保育類魚鷹重新返回當地築巢繁衍。"
+    ],
+    "story": "烈日如火般灼燒著漆金與朱紅交織的宮殿屋頂，多邊形稜角分明的瓦片在硬光下閃爍著刺眼光芒。這隻玳瑁貓盤踞於高聳的檐角俯瞰整座京城，正專心致志地用前爪撥弄著圖騰間那枚不斷旋轉的銅質羅盤。"
   }
 ]
