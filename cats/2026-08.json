@@ -3715,5 +3715,43 @@
       "琥珀色與金黃背光輪廓光",
       "四足伏臥或伸手伸爪姿勢"
     ]
+  },
+  {
+    "avoid_list": [
+      "正交投影無透視",
+      "前爪推動或撥動物件",
+      "2026-08-08 時間戳記",
+      "滿版特寫與邊緣裁切構圖",
+      "繁體中文與英文限定標示",
+      "霓虹螢光色彩搭配",
+      "高調明亮光暈與柔光",
+      "金色與黑色奢華配色",
+      "微型擬物或容器置入世界",
+      "羊毛氈或幾何低多邊形紋理",
+      "琥珀色與金黃背光輪廓光",
+      "四足伏臥或伸手伸爪姿勢"
+    ],
+    "comment_id": 5229063415,
+    "idea": "採用裝飾藝術風格與摺紙質感的分割畫面構圖，墨墨優雅地佇立於古董店的鋼琴頂端，用輕柔的步伐精準踩踏琴鍵，彈奏著低沉的旋律。",
+    "prompt": "Art Deco style, origami folded paper art illustration with clean geometric creases and sharp angular folds. Split view composition divided by a sharp vertical cut line. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, a tiny white chest locket tuft, a single small gold hoop earring on its left ear, a dark-grey ring at its tail tip, long white whiskers, and large luminous golden-amber eyes. The cat walks with gentle, precise steps across the keys of a vintage piano atop which it stands, inside a quiet antique shop. Golden hour lighting filters through the window, casting a warm sunset glow, long soft shadows, and a golden rim light on the cat. Geometric patterns, a gold and black duotone color treatment, bold graphic impact, and 1920s luxury symmetry. The date and time '2026-08-09 00:49 UTC' is visually displayed in clear English text in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "中國雲南省最新發布的報告顯示，透過棲地區域修復與早期預警系統，當地的野生亞洲象種群數量已實現穩定增長。",
+      "愛沙尼亞西部受惠於河流生態改善與棲地復育，保育類鳥類魚鷹（Osprey）成功重返當地築巢。",
+      "美國喬治亞州海岸的赤蠵龜築巢數量打破 37 年來的最高紀錄，顯示海洋生態保育政策取得顯著成果。",
+      "肯亞奈洛比舉辦的「我們的海洋大會」（Our Ocean Conference）圓滿落幕，在全球各界努力下共募集到超過 64 億美元的海洋保護承諾資金。"
+    ],
+    "story": "古董店外的黃金時刻光影透入窗戶，將空間分為明暗交織的雙色調分割畫面。墨墨優雅地在鋼琴鍵盤上記錄著專屬牠的音符，享受著俯瞰整座寂靜店面與沉浸於音樂中的悠閒時光。",
+    "inspiration": "original",
+    "number": 2826,
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Split View",
+      "lighting": "Golden Hour",
+      "texture": "Origami",
+      "color_palette": "Duotone"
+    },
+    "title": "黑鍵上的雙色琴韻",
+    "character": "momo"
   }
 ]
