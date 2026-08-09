@@ -4405,5 +4405,36 @@
     "story": "深夜無人的海洋生物研究所裡，強烈的閃光燈投射出銳利的藍青色光影。一隻英短貓佇立於金屬實驗檯上，俯瞰著下方的衍紙質感標本與解剖工具，正專注地伸爪輕撥冷冽的金屬剪刀。這片被冷色調包覆的寂靜空間，記錄下了牠探索未知世界的奇幻 لحظ。",
     "comment_id": 5233910933,
     "news_inspiration": []
+  },
+  {
+    "comment_id": 5234197017,
+    "number": 2846,
+    "story": "在高聳入雲的幾何摩天大樓頂端，夜空被沉靜的暗黑與耀眼的流金線條切割。黑貓雙前腳輕壓在光感腳踏板上，每一次微小的踩踏都讓周圍的立體邊框迸發出律動的金光。這場獨自掌控的頂樓電音演奏，正透過閃光燈的瞬間捕捉，定格成幾何世界裡最尊貴的夜行傳奇。",
+    "news_inspiration": [],
+    "idea": "採用合成波與低多邊形風格，一隻黑貓在金色與黑色奢華調性的數位高樓天台中央，透過閃光燈直打與對稱構圖，專注地踩踏並滑動著一塊閃耀金光的電子腳踏板。",
+    "prompt": "A low-poly geometric illustration featuring a black cat in the center of a luxury high-rise digital rooftop, focused on stepping and sliding its front paws on a glowing golden electronic foot pedal. Synthwave aesthetic, retro-futuristic mood, digital origami visual style with flat-shaded triangular polygon mesh facets and crystalline surfaces. Perfectly symmetrical composition, centered subject, architectural framing with geometric skyscraper silhouettes. Dramatic direct on-camera flash style lighting with blown-out highlights and hard shadows. Opulent gold and black color scheme with deep black backdrop and bright metallic gold accents. In the corner of the frame, the date and time text '2026-08-09 22:17 UTC' is clearly visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "金夜天台的電音律動",
+    "inspiration": "original",
+    "avoid_list": [
+      "伸出前爪/用爪子撥弄",
+      "黃色橡皮鴨",
+      "暴風雪朦朧光霧",
+      "螢光霓虹色彩",
+      "日期時間字樣",
+      "四腳著地的貓咪",
+      "頂棚/溫室光影透射",
+      "微型與巨型尺寸對比",
+      "傳統繁體中文或英文文字限制",
+      "多格拼貼 layout",
+      "撕紙拼貼與質感疊層",
+      "高飽和鮮豔色彩配景"
+    ],
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Symmetrical Composition",
+      "lighting": "Direct Flash",
+      "texture": "Low Poly",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
