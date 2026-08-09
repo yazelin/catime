@@ -4026,5 +4026,41 @@
       "多格分鏡與拼貼構圖",
       "極細緻線框與透明網格"
     ]
+  },
+  {
+    "number": 2835,
+    "inspiration": "original",
+    "title": "星軌間的黃金齒輪",
+    "idea": "在彩飾手抄本的典雅風格下，一隻黑貓伸出前爪在羊皮紙頁上細緻地轉動金屬指針，專注修復著古老的天體儀。",
+    "avoid_list": [
+      "繁體中文 / 正體字規範聲明",
+      "硬光日照與強烈陰影",
+      "低多邊形與幾何質感",
+      "古老廢棄或寂靜空間場景",
+      "水彩與墨點潑濺質感",
+      "貓咪低頭嗅聞特定物件",
+      "傳統手織品與紋理展品",
+      "雙色調與高對比色調調性",
+      "月夜靛藍與冷色調光線",
+      "日期時間戳記標註",
+      "多格分鏡與長卷構圖",
+      "珠飾水鑽與細節裝飾貓咪"
+    ],
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 5231248839,
+    "story": "羊皮紙上記錄著星體運行的軌跡，閃爍著宛如金箔與璀璨亮粉的光芒。黑貓用肉墊輕輕撥動微型的金色齒輪，在自然漫射光的映照下，專注於重現宇宙運轉的精密的秩序。",
+    "news_inspiration": [
+      "日本研發出全新的電池回收技術，能夠從廢棄電動車電池中回收高達 90% 的鋰金屬，為綠能循環注入新動能。",
+      "愛沙尼亞（Estonia）西部隨著河流生態與水質顯著改善，消失多年的保育類野生魚鷹已重新回到當地築巢定居。",
+      "肯亞（Kenya）奈洛比舉辦的「我們的海洋大會」圓滿落幕，全球產官學界共籌集了 64 億美元資金投入海洋保育。",
+      "澳洲（Australia）凱恩斯近海發現了一座面積達 3,973 平方公尺的巨型珊瑚群落，為大堡礁生態帶來希望。"
+    ],
+    "prompt": "An illuminated manuscript style illustration featuring a black cat extending its front paw to delicately turn a metal needle on a parchment page, attentively repairing an ancient celestial armillary sphere. The parchment page details celestial orbit tracks shimmering with gold leaf accents and brilliant glitter overlays. The artwork is framed in a design moodboard aesthetic with vertical color palette swatch bars on both sides, arranged in a portfolio presentation format with stacked color blocks revealing the palette. Styled with ornate medieval manuscript borders, intricate calligraphy, and soft diffused natural light creating an even, gentle illumination. Dreamy star-shaped highlights, sparkling particles, and magical glow dust decorate the scene. The palette is a luxurious gold and deep black color scheme with rich jewel-tone accents. The text '2026-08-09 11:19 UTC' is elegantly written along the manuscript border in traditional calligraphy. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
