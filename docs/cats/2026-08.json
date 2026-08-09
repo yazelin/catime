@@ -3991,5 +3991,40 @@
       "多格分鏡與拼貼構圖",
       "極細緻線框與透明網格"
     ]
+  },
+  {
+    "title": "紅土星際的行者",
+    "idea": "以日系底片攝影風格呈現，一隻橘貓正笨拙地用後腿橫跨兩台縮小版探測車，於炙熱硬光日照下的砂石廢棄廠房中央漫步。",
+    "story": "老舊廢廠的大理石地面碎裂如紅土，這隻貓將地上的玩具探測器當成踏腳石，一步步翻越長達數十公尺的障礙。日光穿透屋頂洞口照亮牠身上的珠飾水鑽貼紙，閃爍著宛如征服外星荒漠的英雄光芒。",
+    "news_inspiration": [
+      "美國加州（California, USA）：美國國家航太總署（NASA）的「毅力號」火星探測車累計行駛里程接近 45 公里，即將刷新火星表面行駛距離的歷史紀錄。",
+      "尼泊爾（Nepal）：最新野生動物調查顯示，當地的野生老虎數量已顯著成長至 429 隻，自 2010 年以來已增加近四倍。",
+      "比利時布魯塞爾（Brussels, Belgium）：比利時政府正式批准一項法案，預計將於 2037 年前全面結束國內的海豚人工圈養與表演活動。",
+      "英國布萊德福（Bradford, UK）：一隻名為「Carrots」的失明貓咪成功進行捐血，順利救活了一隻在街頭被發現的重病流浪小貓。"
+    ],
+    "number": 2834,
+    "prompt": "35mm photo of an orange cat awkwardly straddling two miniature rover toys with its back legs, walking through the center of an abandoned dusty gravel factory. Shot on Japanese film photography, retro faded color palette, gentle muted tones with fine grain, nostalgic film-era warmth. Harsh midday sunlight streams down through open gaps in the roof, creating high contrast strong directional sun and hard edge shadows. The cat's coat is decorated with beaded rhinestone embellishments, sparkling pearls, and faceted stones reflecting light like a heroic explorer. Full-body vertical portrait, head-to-toe framing with entire figure centered in the tall frame, showing gritty urban environmental context. In the bottom corner, the timestamp '2026-08-09 10:21 UTC' is visually displayed in classic yellow film camera date stamp font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Japanese Film Photography",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Retro Faded Tones"
+    },
+    "inspiration": "美國加州（California, USA）：美國國家航太總署（NASA）的「毅力號」火星探測車累計行駛里程接近 45 公里，即將刷新火星表面行駛距離的歷史紀錄。",
+    "comment_id": 5231012120,
+    "avoid_list": [
+      "微弱生物發光",
+      "前爪輕觸或撥動物件",
+      "滿版特寫構圖",
+      "冷色調藍青色",
+      "金色與黑色奢華配色",
+      "琥珀色暖陽光束",
+      "繁體中文與英文限定警示語",
+      "液態或金屬質感肌理",
+      "德羅斯特遞迴視覺效果",
+      "多格分鏡與拼貼構圖",
+      "極細緻線框與透明網格"
+    ]
   }
 ]
