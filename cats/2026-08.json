@@ -4374,5 +4374,36 @@
       "哥斯大黎加：生物學家在哥斯大黎加發現了一種夜行性新種青蛙，並將其命名為「咖啡樹蛙」。",
       "南非：研究人員在南非發現距今逾6萬年前的鴕鳥蛋殼雕刻，揭示早期人類已具備複雜的幾何圖案創作能力。"
     ]
+  },
+  {
+    "avoid_list": [
+      "伸出前爪/用爪子撥弄",
+      "黃色橡皮鴨",
+      "暴風雪朦朧光霧",
+      "螢光霓虹色彩",
+      "日期時間字樣",
+      "四腳著地的貓咪",
+      "頂棚/溫室光影透射",
+      "微型與巨型尺寸對比",
+      "傳統繁體中文或英文文字限制",
+      "多格拼貼 layout",
+      "撕紙拼貼與質感疊層",
+      "高飽和鮮豔色彩配景"
+    ],
+    "prompt": "A bird's-eye view documentary photograph taken with a 35mm lens, direct on-camera flash, hard shadows, blown-out highlights, f/8, raw candid snapshot look. A British Shorthair cat stands on a metal laboratory table, looking straight down and gently nudging a metallic pair of dissecting scissors with its paw. The scene incorporates paper quilling art textures, featuring delicate coiled paper strips and 3D dimensional rolled paper ornaments forming marine specimen shapes around the table. Cool blue-teal color grading with icy undertones and a serene atmosphere. In the corner of the photograph, a yellow camera timestamp reads '2026-08-09 21:20 UTC' in crisp digital text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一組融合衍紙藝術質感的鳥瞰紀實攝影作品，以冷淡的藍青色調與直打閃光燈，記錄一隻貓咪在深夜解剖實驗室裡撥弄與凝視解剖剪刀的畫面。",
+    "number": 2845,
+    "style_picks": {
+      "art_style": "Documentary Photography",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Paper Quilling",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "藍調夜巡者的剖析",
+    "inspiration": "original",
+    "story": "深夜無人的海洋生物研究所裡，強烈的閃光燈投射出銳利的藍青色光影。一隻英短貓佇立於金屬實驗檯上，俯瞰著下方的衍紙質感標本與解剖工具，正專注地伸爪輕撥冷冽的金屬剪刀。這片被冷色調包覆的寂靜空間，記錄下了牠探索未知世界的奇幻 لحظ。",
+    "comment_id": 5233910933,
+    "news_inspiration": []
   }
 ]
