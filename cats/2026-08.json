@@ -4136,5 +4136,45 @@
       "珠飾水鑽與細節裝飾貓咪"
     ],
     "title": "竹池裡的黃鴨賽跑"
+  },
+  {
+    "number": 2838,
+    "idea": "這是一幅誇張漫畫風格的故事插畫，巨大的虎斑老船長「船長」蹲坐在粉彩色調的夏日防波堤上，戴著略顯小巧的草帽與深色單眼罩，粗壯的白手套前爪穩穩地扶著一支小釣竿。",
+    "character_name": "船長",
+    "season": "summer",
+    "comment_id": 5232014369,
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Frosted Glass",
+      "color_palette": "Pastel Colors"
+    },
+    "character": "captain",
+    "story": "浪花在防波堤邊漾開柔和的光芒，頂著草帽的船長正專注盯著海面上的浮標。突然水面泛起巨響，釣鉤上竟然鉤住了一塊巨大如海島般的柱狀珊瑚，讓這位見過大風大浪的老海狗也看傻了眼。",
+    "news_inspiration": [
+      "越南歸仁市（Quy Nhon, Vietnam）：越南於歸仁市舉行國際傳統武術節，並宣佈將平定傳統武術正式向聯合國教科文組織申報為人類非物質文化遺產。",
+      "美國羅德島州（Rhode Island, USA）：美國羅德島州一家人的自製麵包攤在開幕首日遭竊，隨後在熱心陌生父子的協助下免費獲贈了一座全新攤位。",
+      "英國蘇格蘭（Scotland, UK）：英國蘇格蘭通過法規，要求所有新建住宅均須安裝專用「雨燕磚」，為每年遠道遷徙而來的雨燕提供棲身築巢空間。",
+      "澳洲凱恩斯（Cairns, Australia）：公民科學團隊在澳洲凱恩斯外海的大堡礁區域，發現了一片面積近 4,000 平方公尺且保存完好的巨大柱狀珊瑚群落。"
+    ],
+    "title": "夏日防波堤的意外大撈",
+    "prompt": "A caricature style storybook illustration page in an editorial cartoon aesthetic with multiple irregular panels. In the main panel, a large stocky brown classic tabby cat named Captain, with bold black stripes, scruffy untidy fur, white mitten paws, and a faded red bandana loosely tied around his neck, squats on a soft pastel summer breakwater. His left eye is completely concealed by a natural dark-pigmented fur patch with no straps or fabric, while his right eye is a piercing emerald green. His left ear has a prominent V-shaped notch. The cat wears a small straw hat and holds a tiny fishing rod in his front white mitten paws. On the hook, a massive, island-sized columnar coral erupts from the ocean, shocking the cat. Soft pastel color palette featuring gentle pink, lavender, mint, and baby blue dreamy tones, mixed with ethereal purple and blue space light, glowing particles, and a soft colorful starfield haze. Visible frosted glass textures and translucent matte surfaces throughout. Printed clearly in the corner of the layout is the exact text '2026-08-09 14:22 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "澳洲凱恩斯（Cairns, Australia）：公民科學團隊在澳洲凱恩斯外海的大堡礁區域，發現了一片面積近 4,000 平方公尺且保存完好的巨大柱狀珊瑚群落。",
+    "is_seasonal": true,
+    "avoid_list": [
+      "繁體中文 / 正體字規範聲明",
+      "硬光日照與強烈陰影",
+      "低多邊形與幾何質感",
+      "古老廢棄或寂靜空間場景",
+      "水彩與墨點潑濺質感",
+      "貓咪低頭嗅聞特定物件",
+      "傳統手織品與紋理展品",
+      "雙色調與高對比色調調性",
+      "月夜靛藍與冷色調光線",
+      "日期時間戳記標註",
+      "多格分鏡與長卷構圖",
+      "珠飾水鑽與細節裝飾貓咪"
+    ]
   }
 ]
