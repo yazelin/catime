@@ -3891,5 +3891,40 @@
     "idea": "以雙色調的新印象派點描法呈現，故事插畫分格內展示正午硬光直射的溫室地面，一隻四腳橘貓伏在地板的大型航海圖上，凝視著爬過圖紙的甲蟲，地面散落著蛇鱗肌理的陰影。",
     "news_inspiration": [],
     "number": 2830
+  },
+  {
+    "inspiration": "澳洲凱恩斯（Cairns, Australia）外海的公民科學計畫中，志工與研究人員發現了一座面積廣達3,973平方公尺的巨型珊瑚群落，宛如蔚藍海底的綿延草原。",
+    "comment_id": 5230426487,
+    "story": "在凱恩斯蔚藍深海的綿延巨型珊瑚草原中，貓咪化身為敏捷的海底獵手，踩著紅金交織的珊瑚枝椏優雅潛行。牠緊盯著前方巡航的小魚，隨時準備發動一場天真爛漫的珊瑚礁大冒險。熱情的紅金色調與潑濺水彩為這片沉靜的大海注入了勃勃生機。",
+    "prompt": "這是一幅採用蠟筆兒童畫風格的等距攝影視角畫作，描繪一隻虎斑貓正蜷縮在巨大的喜慶海底珊瑚之上，準備撲向優游的花斑魚群，畫面融入水彩潑濺墨點、環形燈柔光與中國紅金配色。. The date and time '2026-08-09 07:43 UTC' is visually displayed in the image. crayon drawing style, childlike hand-drawn look, bright cheerful colors, warm paper background, perfectly isometric photography, real captured photo with isometric angle, no miniature effect, ring light illumination, circular catchlight in eyes, even frontal lighting, beauty portrait quality, watercolor splatter and ink-spray texture, dripping pigment, scattered dots and splashes, organic fluid stains, expressive spontaneous marks on paper, festive red and gold palette, auspicious Chinese red dominance with bright gold accents, celebratory warmth, lucky vivid contrast IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Isometric Photography",
+      "lighting": "Ring Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Festive Red and Gold"
+    },
+    "news_inspiration": [
+      "愛爾蘭（Ireland）的野生保育團隊傳出捷報，曾一度在當地絕跡的白腹海鵰復育計畫持續取得重大突破，並成功孵化出罕見的新幼鳥。",
+      "尼泊爾（Nepal）最新的野生動物調查報告指出，透過多年的生態保護努力，當地的野生老虎數量已自2010年以來成長近四倍，達429隻。",
+      "美國羅德島州（Rhode Island, United States）一戶人家的自製麵包攤開張首日不幸遭竊，隨後在熱心父子與社區鄰居的慷慨協助下迅速重建了全新攤位。",
+      "澳洲凱恩斯（Cairns, Australia）外海的公民科學計畫中，志工與研究人員發現了一座面積廣達3,973平方公尺的巨型珊瑚群落，宛如蔚藍海底的綿延草原。"
+    ],
+    "avoid_list": [
+      "微弱生物發光",
+      "前爪輕觸或撥動物件",
+      "滿版特寫構圖",
+      "冷色調藍青色",
+      "金色與黑色奢華配色",
+      "琥珀色暖陽光束",
+      "繁體中文與英文限定警示語",
+      "液態或金屬質感肌理",
+      "德羅斯特遞迴視覺效果",
+      "多格分鏡與拼貼構圖",
+      "極細緻線框與透明網格"
+    ],
+    "number": 2831,
+    "idea": "這是一幅採用蠟筆兒童畫風格的等距攝影視角畫作，描繪一隻虎斑貓正蜷縮在巨大的喜慶海底珊瑚之上，準備撲向優游的花斑魚群，畫面融入水彩潑濺墨點、環形燈柔光與中國紅金配色。",
+    "title": "紅金珊瑚礁的海底冒險"
   }
 ]
