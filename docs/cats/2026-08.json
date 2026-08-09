@@ -4100,5 +4100,41 @@
       "澳洲昆士蘭外海的無人機攝影團隊捕捉到極為罕見的精彩畫面，紀錄了一頭座頭鯨在海洋中分娩的溫馨時刻。",
       "日本長野縣佐久市的兒科醫師發起「教教我！醫生」衛教計畫，透過繪本與數位工具協助家長輕鬆掌握兒童健康知識"
     ]
+  },
+  {
+    "number": 2837,
+    "style_picks": {
+      "art_style": "Healing Pet Portrait",
+      "composition": "Negative Space Composition",
+      "lighting": "Underwater Caustics",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "prompt": "A healing pet portrait candid photograph of a fluffy orange cat perched on a stone step inside a lush bamboo garden greenhouse, extending its paw to gently tap a yellow rubber duck floating in a bamboo water trough surrounded by dozens of floating ducks. The scene features underwater caustic light patterns dancing across the water, with sunbeams filtering through the greenhouse roof creating a soft warm glow and dreamy bokeh. Off-center composition with generous negative space, minimalist breathing room, and an elegant bamboo jade-green palette. The date and time '2026-08-09 13:40 UTC' is visually displayed in small, clean English text in the corner. Shot on 35mm lens, f/1.8 aperture, natural light, shallow depth of field, cozy lifestyle photography style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "美國芝加哥（Chicago, United States）：芝加哥河傾瀉了逾九萬隻黃色橡皮鴨展開年度競速賽，為伊利諾州特殊奧運會籌集善款。",
+    "news_inspiration": [
+      "美國芝加哥（Chicago, United States）：芝加哥河傾瀉了逾九萬隻黃色橡皮鴨展開年度競速賽，為伊利諾州特殊奧運會籌集善款。",
+      "英國薩里（Surrey, United Kingdom）：科學研究團隊發現，在鈉離子電池內部保留微量水分能使其輸出功率大幅提升近一倍。",
+      "墨西哥墨西哥城（Mexico City, Mexico）：一隻名為麥林（Merlin）的寵物鴨在總統新聞發布會上記者會現場意外現身，成為全場焦點。",
+      "中國（China）：兩名在 37 年前出生時被意外抱錯的女子，近期驚喜發現彼此竟一直在相距僅約四公里的社區長大。"
+    ],
+    "comment_id": 5231826677,
+    "story": "陽光穿過溫室頂棚，在竹影翠綠的池面上折射出波光粼粼的水下焦散光。橘貓趴在石階上，專注地看著幾十隻黃色橡皮鴨順著水流競速，時不時伸出前爪輕輕點擊鴨身，為這場迷你賽鴨會注入純真又療癒的活力。",
+    "idea": "採用療癒寵物寫真風格，一隻橘貓在綠意盎然的竹林庭園溫室中，用爪子撥弄著漂浮在竹製水槽裡的黃色橡皮鴨。",
+    "avoid_list": [
+      "繁體中文 / 正體字規範聲明",
+      "硬光日照與強烈陰影",
+      "低多邊形與幾何質感",
+      "古老廢棄或寂靜空間場景",
+      "水彩與墨點潑濺質感",
+      "貓咪低頭嗅聞特定物件",
+      "傳統手織品與紋理展品",
+      "雙色調與高對比色調調性",
+      "月夜靛藍與冷色調光線",
+      "日期時間戳記標註",
+      "多格分鏡與長卷構圖",
+      "珠飾水鑽與細節裝飾貓咪"
+    ],
+    "title": "竹池裡的黃鴨賽跑"
   }
 ]
