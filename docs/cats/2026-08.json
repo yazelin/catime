@@ -3926,5 +3926,40 @@
     "number": 2831,
     "idea": "這是一幅採用蠟筆兒童畫風格的等距攝影視角畫作，描繪一隻虎斑貓正蜷縮在巨大的喜慶海底珊瑚之上，準備撲向優游的花斑魚群，畫面融入水彩潑濺墨點、環形燈柔光與中國紅金配色。",
     "title": "紅金珊瑚礁的海底冒險"
+  },
+  {
+    "idea": "這是一幅水彩動漫插畫，呈現隻橘斑貓於昏暗的木造老舊圖書館角落，用嘴巴叼著一支長竹竿試圖撥動高處懸掛的燭台。",
+    "news_inspiration": [
+      "加拿大渥太華（Ottawa, Canada）：渥太華大學研究團隊成功直接利用自然陽光產生量子糾纏，為低能耗的量子衛星與加密通訊技術開闢了全新方向。",
+      "日本（Japan）：工程團隊突破電池回收技術，成功從廢棄電動車電池中提煉出高達 90% 的鋰金屬，為綠色能源帶來重大循環突破。",
+      "愛沙尼亞（Estonia）：隨著當地河流生態與棲地順利復育，受保護的保育類鳥類魚鷹相隔多年後重新回到愛沙尼亞西部築巢繁衍。",
+      "巴西（Brazil）：為響應世界原住民日，巴西原住民青年透過音樂、舞蹈與數位社群平台展現傳統文化，以創意方式推廣氣候保育意識。"
+    ],
+    "number": 2832,
+    "prompt": "A watercolor anime illustration with soft transparent washes, gentle pastel bleeding edges, and visible paper texture, capturing a healing slice-of-life mood. In a dim, ancient wooden library corner, an orange tabby cat holds a long bamboo pole in its mouth, carefully reaching up to nudge a high hanging candlestick. The pole accidentally bumps a water bottle, triggering a dynamic water splash with bursting droplets and crystalline liquid arcs frozen mid-motion. A copper mirror mounted on the wall reflects the cat's focused expression. The scene is bathed in candlelight with a warm orange flickering glow and soft dancing shadows, using an earth tone palette of terracotta, olive green, and warm brown. Visually displayed clearly in the image is the text '2026-08-09 08:28 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5230595118,
+    "inspiration": "original",
+    "avoid_list": [
+      "微弱生物發光",
+      "前爪輕觸或撥動物件",
+      "滿版特寫構圖",
+      "冷色調藍青色",
+      "金色與黑色奢華配色",
+      "琥珀色暖陽光束",
+      "繁體中文與英文限定警示語",
+      "液態或金屬質感肌理",
+      "德羅斯特遞迴視覺效果",
+      "多格分鏡與拼貼構圖",
+      "極細緻線框與透明網格"
+    ],
+    "title": "燭光下的試探",
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Earth Tones"
+    },
+    "story": "古老書庫裡瀰漫著濃厚的墨香與大地色系的大氣質感，一隻好奇的橘斑貓探著脖子、小心翼翼地拿竹竿輕挑燭台。牆上的銅鏡映照出牠專注的表情，而竹竿碰撞水瓶時濺起靈動的水花飛濺，將寂靜的夜點綴得活力十足。"
   }
 ]
