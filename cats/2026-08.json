@@ -4472,5 +4472,43 @@
     "story": "藝術節的狂歡夜剛剛落幕，歡呼聲隨著清晨的霧氣悄然散去。這隻街角的小貓巡視著空無一人的舞台，對喜劇演員遺留下來的道具和文宣進行獨特的例行檢查。在柔焦霧面質感下，它靜靜享受著屬於自己的幕後時光。",
     "prompt": "A flat vector illustration with clean lines and geometric forms depicting an orange-and-white cat nuzzling scattered show posters on a comedy open-air stage in an Edinburgh cobblestone alleyway. Incorporate a classic three-point lighting setup featuring a key light with soft shadows, a fill light, and a subtle rim light separation. The scene is rendered in a Morandi muted color palette with desaturated soft pastels and dusty grey undertones, creating a low-contrast quiet elegance. Styled with tilt-shift miniature micro-scale focus, a selective focus band, and blurred foreground and background. A soft-focus matte haze provides a dreamy diffused blur with a gentle glowing veil. Visually displayed clearly on one of the posters or stage signs is the text '2026-08-09 23:18 UTC' in crisp digital lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "幕落時分的巡視"
+  },
+  {
+    "idea": "在融合朱紅留白色彩與生物發光微弱幽光的古董圖書館高處，採用微距攝影與移軸微縮效果，捕捉漆黑如墨的墨墨靜靜趴臥在剛從壁爐磚牆挖掘出的百年古書封面上的細緻畫面。",
+    "comment_id": 5234777694,
+    "story": "古老圖書館的幽暗角落裡，這本失蹤逾百年的古籍被小心翼翼地擺放在高處書架上。墨墨以優雅輕盈的姿態輕躍其上，修長的黑色身軀緊貼著充滿歲月質感的封面，一雙金琥珀色的眼睛在微微發光的生物螢光襯託下熠熠生輝，彷彿正獨自品讀著這段被封存了一個半世紀的時光。",
+    "avoid_list": [
+      "伸出前爪/用爪子撥弄",
+      "黃色橡皮鴨",
+      "暴風雪朦朧光霧",
+      "螢光霓虹色彩",
+      "日期時間字樣",
+      "四腳著地的貓咪",
+      "頂棚/溫室光影透射",
+      "微型與巨型尺寸對比",
+      "傳統繁體中文或英文文字限制",
+      "多格拼貼 layout",
+      "撕紙拼貼與質感疊層",
+      "高飽和鮮豔色彩配景"
+    ],
+    "character_name": "墨墨",
+    "prompt": "A macro photograph with tilt-shift miniature effect, selective focus band, shallow depth of field, 50mm f/1.4 lens, crisp details, natural lighting with organic dark blue-green bioluminescent radiance and deep vermilion accent lighting. A sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur named Momo is lying quietly atop the cover of an ancient antique book, recently dug out from a brick fireplace wall high up in a vintage library. Momo has a tiny natural white fur locket tuft on the ventral chest, a single dark-grey ring at the tail tip, long prominent white whiskers, and large luminous golden-amber eyes. A single small gold hoop earring is worn on Momo's left ear at the mid-ear edge. The date and time '2026-08-10 00:51 UTC' is visibly displayed on a small brass tag on the bookshelf in Traditional Chinese and English digits. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "momo",
+    "title": "百年塵封的讀者",
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Bioluminescence",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "news_inspiration": [
+      "美國芝加哥：超過 9 萬隻黃色橡皮鴨被放入芝加哥河展開年度競速，為伊利諾州特殊奧林匹克運動會籌集慈善基金。",
+      "日本市川市：在日本千葉縣市川市動植物園因抱著紅猩猩玩偶而爆紅的小猴子 Punch 迎來 1 歲生日，收到來自全球數千條熱烈祝福。",
+      "丹麥斯波特魯普：國際中世紀格鬥聯會世界錦標賽於斯波特魯普城堡熱鬧登場，來自 30 個國家的選手身穿重型裝甲手持劍盾展開復古競技。",
+      "澳洲基亞瑪：一本講述希臘古物的書籍在被封在壁爐磚牆內多年後重見天日，並於逾期約 150 年後被正式歸還給當地的公共圖書館。"
+    ],
+    "number": 2848,
+    "inspiration": "澳洲基亞瑪：一本講述希臘古物的書籍在被封在壁爐磚牆內多年後重見天日，並於逾期約 150 年後被正式歸還給當地的公共圖書館。"
   }
 ]
