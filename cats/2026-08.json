@@ -4783,5 +4783,36 @@
       "頂層或高處場景設置",
       "強制透視極致構圖"
     ]
+  },
+  {
+    "comment_id": 5242606235,
+    "title": "福貓算歲迎新春",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Venetian Blind Light",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Festive Red and Gold"
+    },
+    "number": 2857,
+    "prompt": "A chibi Lunar New Year illustration in head-and-shoulders portrait crop, featuring an adorable plump chubby orange cat with pink paw pads diligently pushing miniature abacus beads on a vintage wooden desk, face filling the frame with an intimate eye-level connection. The visual style features gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, and ornamental hand-drawn detailing on a dark ground. Lighting consists of dramatic venetian blind striped lighting, creating hard parallel light-and-shadow bands across the subject. A festive red and gold palette dominates, with auspicious Chinese red and bright gold accents. Clear English text reading '2026-08-10 15:47 UTC' is subtly and visually displayed in the corner of the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "avoid_list": [
+      "貓咪推撥或踩踏物品動作",
+      "黑金奢華調性",
+      "直打閃光燈與硬影",
+      "柔焦霧面質感",
+      "金箔祥雲紋飾與傳統東方元素",
+      "虹彩全息質感",
+      "移軸微縮與選擇性對焦",
+      "斑駁光影與雕花窗櫺",
+      "大地色系與極簡莫蘭迪色調",
+      "幾何與低多邊形風格",
+      "頂層或高處場景設置",
+      "強制透視極致構圖"
+    ],
+    "idea": "採用Q版新年插畫風格，一隻肥嘟嘟的橘貓以頭肩特寫姿態趴在復古木桌上，正用粉紅肉墊仔細推按著一部微型算盤，整幅作品以繽紛的中國紅金為主色，並融合精緻的描金墨線與百葉窗條紋光影。",
+    "story": "除夕夜的算房裡，年味濃郁。這隻小福貓正全神貫注地幫主人「盤點」新一年的好運與財富，撥動算珠時的認真模樣令人會心一笑。"
   }
 ]
