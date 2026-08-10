@@ -4814,5 +4814,38 @@
     ],
     "idea": "採用Q版新年插畫風格，一隻肥嘟嘟的橘貓以頭肩特寫姿態趴在復古木桌上，正用粉紅肉墊仔細推按著一部微型算盤，整幅作品以繽紛的中國紅金為主色，並融合精緻的描金墨線與百葉窗條紋光影。",
     "story": "除夕夜的算房裡，年味濃郁。這隻小福貓正全神貫注地幫主人「盤點」新一年的好運與財富，撥動算珠時的認真模樣令人會心一笑。"
+  },
+  {
+    "story": "麻糬巡邏到老街麵包店的後廚，被剛出爐的起司香氣深深吸引。牠耐心地蹲伏在木質料理檯旁，湊近剛淋上亮晶晶濃郁奶油的麵包，忍不住瞇起眼睛伸出舌頭偷嚐一口。這溫馨的一幕被繪製成連環插畫，定格了這隻胖乎乎花生麻糬最貪吃的幸福瞬間。",
+    "prompt": "A torn paper collage and layered mixed media illustration featuring story panels arranged on a notebook page layout with visible paper edges and lines, a decorative title banner at the top, and integrated dialogue bubbles. The main subject is Mochi, a chubby, spherical, four-legged shorthair cat featuring a white base coat, large round amber eyes, a pink nose with a tiny orange dot, and short stubby legs. Mochi has a distinct asymmetric orange mask on the right half-face extending across the right cheek to the right ear while the left face is pure white, a heart-shaped orange saddle on the upper back, a solid orange mitten on the right front paw, a pure white left front paw, and an orange-and-white ringed tail. In a cozy old-town bakery kitchen, Mochi crouches four-legged on a wooden prep table, stretching its neck forward with eyes squinted in delight, curiously licking hot, freshly baked bread dripping with liquid metal reflective cream cheese that glistens like molten chrome and mercury. Scene bathed in an underwater caustic lighting effect with rippling light patterns dancing across surfaces, an aquatic blue-green glow, and refracted sun shafts creating a dreamlike atmosphere. Colored in a bamboo jade-green palette featuring fresh emerald and malachite tones. Prominently rendered in a clear corner on the scene, the text '2026-08-10 16:41 UTC' is visually displayed in clean white typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2858,
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "idea": "這是一幅採用撕紙拼貼效果與故事插畫分格構成的作品，描繪橘白貓麻糬在老街麵包店後廚，四腳著地伸長脖子好奇地舔舐著剛出爐、宛如液態金屬般光亮微融的奶油起司，整體渲染著竹影翠綠色調與夢幻的水下焦散光波。",
+    "title": "綠波起司的誘惑",
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Underwater Caustics",
+      "texture": "Liquid Metal",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "comment_id": 5243232745,
+    "character": "mochi",
+    "avoid_list": [
+      "貓咪推撥或踩踏物品動作",
+      "黑金奢華調性",
+      "直打閃光燈與硬影",
+      "柔焦霧面質感",
+      "金箔祥雲紋飾與傳統東方元素",
+      "虹彩全息質感",
+      "移軸微縮與選擇性對焦",
+      "斑駁光影與雕花窗櫺",
+      "大地色系與極簡莫蘭迪色調",
+      "幾何與低多邊形風格",
+      "頂層或高處場景設置",
+      "強制透視極致構圖"
+    ],
+    "news_inspiration": []
   }
 ]
