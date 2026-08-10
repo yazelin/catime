@@ -4747,5 +4747,41 @@
     ],
     "number": 2855,
     "news_inspiration": []
+  },
+  {
+    "news_inspiration": [
+      "英國布拉德福德（Bradford, UK）的一家清真寺每週為50歲以上男性舉辦皮拉提斯健身課，其溫馨有趣的課堂影片在網路爆紅並吸引全球數百萬人觀看。",
+      "奧地利維也納（Vienna, Austria）的獸醫醫學大學團隊發現一頭名為「維羅妮卡」的母牛能靈活操作工具，成為科學界首次記錄到的牛隻多用途使用工具行為。",
+      "澳洲凱恩斯（Cairns, Australia）外海的公民科學團隊在大堡礁發現一座面積近4,000平方公尺的巨型珊瑚群落，規模相當於半個足球場大小。",
+      "美國新罕布夏州（New Hampshire, USA）的小鎮特別為春季遷徙的蠑螈建造了專屬地下隧道，成功幫助無數微小兩棲生物安全穿過公路。"
+    ],
+    "idea": "這是一幅黏土動畫風格的滿版特寫畫面，一隻身軀纏繞著細緻鐵絲網的沉靜花貓正專注地用爪子推進一頭小泥牛模型，整座地下隧道在月夜靛藍色調與冷冽螢光燈照射下呈現獨特的沉浸感。",
+    "title": "月夜地道的小小工程師",
+    "story": "為了讓春季遷徙的兩棲夥伴順利通行，花貓化身為隧道裡的工程指揮官，正細心地測試專用小通道的安全性。牠用粉紅色的鼻尖撫平黏土路面，並輕輕推送著牛隻模型驗證空間大小，確保每隻蠑螈都能平安過馬路。",
+    "inspiration": "美國新罕布夏州（New Hampshire, USA）的小鎮特別為春季遷徙的蠑螈建造了專屬地下隧道，成功幫助無數微小兩棲生物安全穿過公路。",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Moonlit Indigo"
+    },
+    "prompt": "Claymation style, sculpted clay characters with visible fingerprint textures, stop-motion aesthetic, full-bleed frame-filling composition with subject cropped to edges, dense edge-to-edge detail. A calm calico cat with intricate coiled and woven metal wire mesh wrapped around its body is focused on pushing a small clay ox model with its paw inside a dark underground tunnel. The date and time '2026-08-10 14:11 UTC' is visually displayed in the corner of the image in clean typography. Immersive moonlit indigo palette dominated by deep night-blue and violet tones with cool silvery highlights, lit by neutral white 5000K overhead fluorescent lighting creating an institutional flat illumination. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2856,
+    "comment_id": 5241455995,
+    "avoid_list": [
+      "貓咪推撥或踩踏物品動作",
+      "黑金奢華調性",
+      "直打閃光燈與硬影",
+      "柔焦霧面質感",
+      "金箔祥雲紋飾與傳統東方元素",
+      "虹彩全息質感",
+      "移軸微縮與選擇性對焦",
+      "斑駁光影與雕花窗櫺",
+      "大地色系與極簡莫蘭迪色調",
+      "幾何與低多邊形風格",
+      "頂層或高處場景設置",
+      "強制透視極致構圖"
+    ]
   }
 ]
