@@ -4510,5 +4510,36 @@
     ],
     "number": 2848,
     "inspiration": "澳洲基亞瑪：一本講述希臘古物的書籍在被封在壁爐磚牆內多年後重見天日，並於逾期約 150 年後被正式歸還給當地的公共圖書館。"
+  },
+  {
+    "avoid_list": [
+      "伸出前爪/用爪子撥弄",
+      "黃色橡皮鴨",
+      "暴風雪朦朧光霧",
+      "螢光霓虹色彩",
+      "日期時間字樣",
+      "四腳著地的貓咪",
+      "頂棚/溫室光影透射",
+      "微型與巨型尺寸對比",
+      "傳統繁體中文或英文文字限制",
+      "多格拼貼 layout",
+      "撕紙拼貼與質感疊層",
+      "高飽和鮮豔色彩配景"
+    ],
+    "idea": "這是一組採用東方奇幻海報風格的分割畫面，展現一隻充氣 PVC 材質質感的貓咪在舊式茶室的棋盤前，伸出後腳蹬著棋子，整體呈現藍黃互補色與百葉窗條紋光的交錯光影。",
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Split View",
+      "lighting": "Venetian Blind Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "inspiration": "original",
+    "prompt": "A split-view oriental mythic poster composition, featuring a high-gloss inflatable PVC cat with a balloon-like surface and puffy rounded forms in a moody, traditional Chinese teahouse. On the left side, the photorealistic cat stretches its hind leg to kick a chess piece on a blue Go board set upon old dark wood. Sunlight filters through venetian blinds, casting hard parallel striped light and dramatic graphic shadow patterns across the scene. On the right side, traditional Chinese ink cloud ornaments, gold leaf accents on deep black, vertical calligraphy panels in Traditional Chinese, and red seal stamps blend with vibrant blue cloud mist. The color palette is a bold blue and yellow complementary contrast. Subtle text displaying '2026-08-10 03:05 UTC' is visually integrated into the margin in a clean font. Oriental fantasy poster art style, film-noir cinematic lighting. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5235430995,
+    "story": "茶室裡古木沉香，百葉窗投下斑駁的斜陽條紋，一隻半透明如黃色充氣 PVC 的奇幻貓咪趴在藍色棋盤邊緣。牠正專注地用後腳小心翼翼地把一枚棋子推向局中，彷彿在與無形的仙人對弈。分割畫面的另一側，則映照出棋盤上翻湧的湛藍雲氣與金色光芒，將現實與奇幻完美融合。",
+    "title": "茶室棋局仙蹤",
+    "number": 2849,
+    "news_inspiration": []
   }
 ]
