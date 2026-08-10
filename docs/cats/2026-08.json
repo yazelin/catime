@@ -4940,5 +4940,43 @@
     ],
     "title": "極夜裡的冰晶飛躍",
     "story": "風暴席捲著極地氣象站，室內儀器上凝結著層層冰霜結晶。貓咪站在四足著地的預備姿態後猛然前撲，伸出的爪子在復古褪色色調中形成強烈的透視張力。"
+  },
+  {
+    "title": "浪尖上的鋼鐵舵手",
+    "number": 2862,
+    "story": "狂風巨浪掀起白沫，碼頭老大船長矗立在防波堤最高處，翠綠色的獨眼透出無畏的光芒。面對突如其來的暴風雨，牠一隻前腳緊緊踩住石縫，另一隻前爪以強烈透視感伸向畫面最前線，奮力勾住打滑的鎖鍊以守護身後的巡邏艦隊。即使左耳帶傷、毛髮蓬亂，牠那褪色的紅頭巾與威風的大白鬚依然在亮粉點綴的海浪中展現出不屈的霸氣。",
+    "character_name": "船長",
+    "news_inspiration": [
+      "中國上海即將於8月下旬舉辦首屆「NBA上海籃球節」，由NBA G聯盟聯合隊對決CBA上海大鯊魚隊並搭配熱鬧的球迷嘉年華活動。",
+      "冰島雷克雅維克等北部地區即將於8月12日迎來罕見的日全食與英仙座流星雨奇景，吸引全球無數天文愛好者前往觀賞。",
+      "澳大利亞大堡礁的科研團隊發現一座已默默生長數百年且體積巨大的珊瑚體，為全球海洋生態保護帶來令人振奮的好消息。",
+      "津巴布韋胡倫韋地區的社區衛生人員發起「疫苗單車手」計畫，騎單車穿梭偏遠村莊為少女提供預防接種，展現溫暖的人情關懷。"
+    ],
+    "avoid_list": [
+      "貓用鼻子嗅聞或爪子撥弄物體",
+      "長卷全景構圖",
+      "斑駁光影與柔焦霧面質感",
+      "金箔祥雲紋飾與傳統圖騰",
+      "黏土動畫與指紋肌理質感",
+      "全像投影與虹彩全息質感",
+      "溫室玻璃與植物園場景",
+      "大地色系與深色背景點綴",
+      "Q版貼圖與白邊剪裁設計",
+      "鋼筆淡彩與畫板邊框呈現",
+      "液態金屬與微融質感",
+      "時間戳記文字標記"
+    ],
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Three-Point Lighting",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "character": "captain",
+    "comment_id": 5245636075,
+    "prompt": "Illustration in CMYK halftone dot pattern and retro newspaper print effect with graphic texture. Forced perspective composition featuring a large stocky brown classic tabby cat captain with bold black stripes, scruffy untidy coarse fur, a white chest bib, and white mitten paws on all four feet. The cat has a distinctive M-mark on its forehead, a prominent V-shaped notch in its left ear, a faded red bandana tied loosely around its neck, a single piercing emerald green right eye, and a natural dark-pigmented dark brown fur patch permanently concealing its left eye socket with no fabric or straps. Exaggerated foreshortening with the cat's white-mitten right front paw reaching powerfully toward the foreground camera, gripping a heavy sliding ship anchor chain on a breakwater amidst stormy ocean waves and white foam. Classic three-point lighting setup with vermilion and metallic gold outlines, sparkling shimmer glitter particles, star-shaped highlights, and magical twinkle embellishments. On the breakwater surface, the text '2026-08-10 20:29 UTC' is visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "idea": "採用半色調網點與強制透視伸手構圖，呈現大骨架虎斑貓船長伸出白手套右前爪，在朱紅描金與閃光亮粉交織的三點打光下，力挽防波堤上險些滑落的巨大沉船錨鍊。"
   }
 ]
