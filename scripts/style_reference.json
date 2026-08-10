@@ -1009,6 +1009,26 @@
       "zh": "斑駁金箔花卉混媒",
       "en": "Distressed Gold-Leaf Floral Mixed-Media",
       "prompt": "distressed gold-leaf floral mixed-media, mottled metallic gilding over painted blossoms, layered collage with weathered patina and cracked foil, ornate decorative artwork, opulent textured surface"
+    },
+    {
+      "zh": "寫實武俠角色設計",
+      "en": "Photorealistic Wuxia Character Design",
+      "prompt": "photorealistic wuxia character design, martial hero in weathered ancient Chinese robes, sword and battle-worn leather details, gritty jianghu atmosphere, cinematic full-body concept render with fine material detail"
+    },
+    {
+      "zh": "花卉融合人像插畫",
+      "en": "Floral-Fused Portrait Illustration",
+      "prompt": "floral-fused portrait illustration, face and hair dissolving into blooming petals and leaves, botanical growth merging seamlessly with the figure, delicate painterly render, surreal romantic beauty"
+    },
+    {
+      "zh": "星河水彩美男插畫",
+      "en": "Galaxy Watercolor Bishounen Illustration",
+      "prompt": "galaxy watercolor bishounen illustration, refined young man rendered in flowing translucent washes, cosmic nebula hues bleeding through hair and robes, scattered starlight specks, dreamy ethereal anime portrait"
+    },
+    {
+      "zh": "夜光療癒風景插畫",
+      "en": "Luminous Nocturnal Landscape Illustration",
+      "prompt": "luminous nocturnal landscape illustration, glowing lights scattered across a quiet night scene, romantic starry sky above deep blue gradients, soft ambient bloom, healing peaceful storybook mood"
     }
   ],
   "composition": [
@@ -1620,6 +1640,11 @@
       "zh": "發光絲流",
       "en": "Glowing Filament Flow",
       "prompt": "glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, ethereal energy filaments"
+    },
+    {
+      "zh": "星雲星塵肌理",
+      "en": "Nebula Stardust Texture",
+      "prompt": "nebula stardust texture, swirling cosmic clouds of violet and deep blue pigment, scattered white star specks, galactic shimmer suffusing the surface, dreamy deep-space material"
     }
   ],
   "color_palette": [
@@ -1717,6 +1742,11 @@
       "zh": "藍黃互補色",
       "en": "Blue and Yellow Complementary",
       "prompt": "blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy, striking graphic vibrancy"
+    },
+    {
+      "zh": "青花藍白",
+      "en": "Porcelain Blue and White",
+      "prompt": "porcelain blue and white palette, cobalt indigo brushwork on a clean white ground, crisp two-tone oriental elegance, calm scholarly restraint"
     }
   ]
 }
