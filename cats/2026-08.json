@@ -4613,5 +4613,41 @@
       "color_palette": "High Saturation Vivid"
     },
     "idea": "在充滿蛇鱗肌理質感與高飽和鮮豔色的扁平向量插圖中，一隻斑紋貓在明亮的窗邊柔光下，忙著用鼻子與爪子將亮彩色塊塊推入龐大的迷宮盒中，四周圍繞著貼紙拼貼邊框的繽紛圖案。"
+  },
+  {
+    "avoid_list": [
+      "貓咪伸爪撥弄物件",
+      "移軸微縮效果",
+      "鳥瞰俯視視角",
+      "暴風雪朦朧光影",
+      "直打閃光燈硬影",
+      "撕紙拼貼質感",
+      "藍青與青橙調色",
+      "三點打光配置",
+      "生物發光幽光",
+      "合成波與低多邊形風格",
+      "時間戳記文字標註",
+      "僅限繁體中文與英文指示"
+    ],
+    "style_picks": {
+      "art_style": "Chibi Sticker Character Set",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Neon Lighting",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Earth Tones"
+    },
+    "title": "捕捉太陽的微型漩渦",
+    "comment_id": 5238147231,
+    "idea": "這是一組Q版貼圖角色集，隻見一隻圓滾滾的四腳小花貓在充滿強烈前後落差的強制透視伸手構圖下，向鏡頭伸出巨大的小爪爪，試圖捕捉眼前由虹彩全息質感構成的太陽等離子體漩渦。",
+    "news_inspiration": [
+      "美國夏威夷的研究人員利用全球最大的太陽望遠鏡，首次捕捉到太陽表面直徑僅約 20 公里的微型等離子體漩渦，有助揭開太陽能量釋放的奧秘。",
+      "紐西蘭坎特伯雷地區因一名飛釣愛好者意外拍下照片，讓生態學家成功重新發現已在當地消失逾 50 年的瀕危坎特伯雷斑點石龍子。",
+      "奧地利維也納的獸醫醫學大學團隊發現一頭名為維羅妮卡（Veronika）的母牛能靈活使用工具，刷新了科學界對家畜認知能力的想像。",
+      "中國雲南省透過棲地修復與科學管理，成功推動野生亞洲象種群數量實現穩定增長，展現人象和諧共存的保育成果。"
+    ],
+    "prompt": "A chibi sticker character set featuring a chubby, round four-legged calico cat in a kawaii sticker-pack layout with die-cut white outlines. The main sticker features a dramatic forced perspective composition with exaggerated foreshortening, as the cat thrusts a giant, cute paw directly toward the camera, attempting to catch a swirling solar plasma vortex made of iridescent holographic material and rainbow color-shifting transparent film. The background subtly hints at a dark Hawaiian telescope observatory room illuminated by dynamic neon lighting contrasting against a warm earth tone palette of terracotta, olive green, and warm brown. Digital illustration in a vibrant anime sticker style with flat bright colors, pastel prismatic reflections, and dynamic framing. Visually displayed clearly in the image overlay is the text '2026-08-10 09:05 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "美國夏威夷的研究人員利用全球最大的太陽望遠鏡，首次捕捉到太陽表面直徑僅約 20 公里的微型等離子體漩渦，有助揭開太陽能量釋放的奧秘。",
+    "story": "夏威夷的望遠鏡觀測站裡，研究人員剛捕捉到太陽表面的微型等離子體漩渦，貓咪便興奮地撲向投影屏。在霓虹燈光與沉穩大地色系的碰撞下，這隻活潑的小傢伙將神祕的宇宙能量玩弄於掌爪之間。",
+    "number": 2852
   }
 ]
