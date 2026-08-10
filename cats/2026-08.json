@@ -4541,5 +4541,41 @@
     "title": "茶室棋局仙蹤",
     "number": 2849,
     "news_inspiration": []
+  },
+  {
+    "title": "高空羽巢的巡視者",
+    "idea": "在一座專為遷徙鳥類設計的大樓頂層溫室裡，一隻虎斑貓正俯身趴在結構樑上，專注地用鼻子嗅聞嵌入膨脹絎縫羽絨建築磚中的雨燕巢穴；全像投影的光線將畫面渲染成連綿的長卷全景構圖。",
+    "number": 2850,
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Earth Tones"
+    },
+    "story": "陽光穿透高空的溫室玻璃，硬光日照在大地色系的羽絨材質上投下深銳的陰影。貓咪輕巧地走過連綿不絕的橫樑，巡視著專為雨燕留出的每一個溫暖巢穴。這座城市將建築與自然交織在一起，而牠則是這片高空庇護所裡最忠誠的巡視者。",
+    "news_inspiration": [
+      "澳洲凱恩斯：科學家與公民志工在凱恩斯外海發現一片面積將近4,000平方公尺的超大型珊瑚群，成為大堡礁已知紀錄中最大的珊瑚之一。",
+      "尼泊爾加德滿都：最新保育報告顯示，尼泊爾的野生虎數量自2010年至今已大幅成長接近四倍，成功復育至420隻以上。",
+      "蘇格蘭愛丁堡：蘇格蘭政府頒布最新法規，規定所有新建造的房屋都必須嵌入供雨燕築巢的專用建築磚，為遷徙鳥類提供安全棲所。",
+      "黃石國家公園，美國：美國林務局推動高山生態復育計畫，成功於黃石國家公園內大量栽種具備強大抗病力的高山白皮松樹苗。"
+    ],
+    "inspiration": "蘇格蘭愛丁堡：蘇格蘭政府頒布最新法規，規定所有新建造的房屋都必須嵌入供雨燕築巢的專用建築磚，為遷徙鳥類提供安全棲所。",
+    "avoid_list": [
+      "貓咪伸爪撥弄物件",
+      "移軸微縮效果",
+      "鳥瞰俯視視角",
+      "暴風雪朦朧光影",
+      "直打閃光燈硬影",
+      "撕紙拼貼質感",
+      "藍青與青橙調色",
+      "三點打光配置",
+      "生物發光幽光",
+      "合成波與低多邊形風格",
+      "時間戳記文字標註",
+      "僅限繁體中文與英文指示"
+    ],
+    "comment_id": 5236186769,
+    "prompt": "An extreme wide handscroll composition and continuous panoramic narrative featuring an oblique bird's-eye angle with right-to-left reading flow. On the top-floor greenhouse of a skyscraper designed for migratory birds, a tabby cat crouches low on a structural beam, intently sniffing a swift's nest embedded directly into puffy quilted down architectural bricks with soft bulging stitched channels and a glossy puffer-jacket surface. A blue-cyan light emission holographic projection effect with translucent glowing digital scan lines renders the scene into a layered visual style, juxtaposed with harsh midday sunlight casting hard edge shadows and high contrast natural daylight across an earth tone palette of terracotta, olive green, and warm brown. In the corner of the frame, the text '2026-08-10 05:14 UTC' is clearly rendered in a crisp sans-serif font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
