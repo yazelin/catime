@@ -4878,5 +4878,36 @@
       "頂層或高處場景設置",
       "強制透視極致構圖"
     ]
+  },
+  {
+    "comment_id": 5244478769,
+    "title": "霓光齒輪的守護者",
+    "inspiration": "original",
+    "idea": "這幅裝飾藝術風格作品採平視正面構圖，一隻貓咪正在雄偉的混凝土壁爐前，用後腿按壓轉動雕刻著幾何線條的龐大紅金色鐘錶齒輪，整座空間被奪目的極簡霓虹燈光渲染得輝煌奪目。",
+    "number": 2860,
+    "story": "在高聳的裝飾藝術風格大廳中央，貓咪正專注地調整著巨型時鐘的運轉齒輪。耀眼的紅金配色與冷峻的混凝土建築結構交相輝映，管風琴般的管線在霓虹燈光照射下流露出一種典雅而神秘的秩序感。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Concrete",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "貓用鼻子嗅聞或爪子撥弄物體",
+      "長卷全景構圖",
+      "斑駁光影與柔焦霧面質感",
+      "金箔祥雲紋飾與傳統圖騰",
+      "黏土動畫與指紋肌理質感",
+      "全像投影與虹彩全息質感",
+      "溫室玻璃與植物園場景",
+      "大地色系與深色背景點綴",
+      "Q版貼圖與白邊剪裁設計",
+      "鋼筆淡彩與畫板邊框呈現",
+      "液態金屬與微融質感",
+      "時間戳記文字標記"
+    ],
+    "prompt": "An Art Deco illustration with a brutalist aesthetic, featuring an eye-level frontal composition and straight-on symmetrical view. In the center of a grand hall, a cat stands on its hind legs, actively pressing and turning a massive red and gold clockwork gear carved with intricate geometric lines in front of a towering raw concrete fireplace. Organ-like pipes line the background under glowing neon lighting, creating reflections and a moody, mysterious atmosphere. The scene features a festive red and gold palette with polished metallic gold accents set against dark, industrial aggregate concrete surfaces. The date and time '2026-08-10 18:40 UTC' is visually displayed in glowing English digital text near the top center of the clockwork. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
