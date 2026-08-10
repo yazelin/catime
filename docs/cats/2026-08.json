@@ -4978,5 +4978,41 @@
     "prompt": "Illustration in CMYK halftone dot pattern and retro newspaper print effect with graphic texture. Forced perspective composition featuring a large stocky brown classic tabby cat captain with bold black stripes, scruffy untidy coarse fur, a white chest bib, and white mitten paws on all four feet. The cat has a distinctive M-mark on its forehead, a prominent V-shaped notch in its left ear, a faded red bandana tied loosely around its neck, a single piercing emerald green right eye, and a natural dark-pigmented dark brown fur patch permanently concealing its left eye socket with no fabric or straps. Exaggerated foreshortening with the cat's white-mitten right front paw reaching powerfully toward the foreground camera, gripping a heavy sliding ship anchor chain on a breakwater amidst stormy ocean waves and white foam. Classic three-point lighting setup with vermilion and metallic gold outlines, sparkling shimmer glitter particles, star-shaped highlights, and magical twinkle embellishments. On the breakwater surface, the text '2026-08-10 20:29 UTC' is visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "original",
     "idea": "採用半色調網點與強制透視伸手構圖，呈現大骨架虎斑貓船長伸出白手套右前爪，在朱紅描金與閃光亮粉交織的三點打光下，力挽防波堤上險些滑落的巨大沉船錨鍊。"
+  },
+  {
+    "avoid_list": [
+      "貓用鼻子嗅聞或爪子撥弄物體",
+      "長卷全景構圖",
+      "斑駁光影與柔焦霧面質感",
+      "金箔祥雲紋飾與傳統圖騰",
+      "黏土動畫與指紋肌理質感",
+      "全像投影與虹彩全息質感",
+      "溫室玻璃與植物園場景",
+      "大地色系與深色背景點綴",
+      "Q版貼圖與白邊剪裁設計",
+      "鋼筆淡彩與畫板邊框呈現",
+      "液態金屬與微融質感",
+      "時間戳記文字標記"
+    ],
+    "comment_id": 5246284410,
+    "number": 2863,
+    "inspiration": "美國：美國國家航空暨太空總署（NASA）工程師透過遠端關閉非必要硬體，成功為已在太空運作近半個世紀的「航海家二號」探測器延長了運作壽命。",
+    "story": "為了解決老舊太空探測器因電力耗盡即將失聯的危機，這隻隨艦巡邏貓在關鍵時刻一腳踏上主控台，切斷了航海家號上的非必要電源系統。這一按成功為儀器節省了最後的珍貴能源，讓它在遠古星雲的耀眼彩光中繼續航行數十年。",
+    "news_inspiration": [
+      "美國：美國國家航空暨太空總署（NASA）工程師透過遠端關閉非必要硬體，成功為已在太空運作近半個世紀的「航海家二號」探測器延長了運作壽命。",
+      "中國：中國發布最新野生亞洲象保護報告，顯示透過棲地保護與生態修復，雲南等地的野生亞洲象種群數量正穩定增長。",
+      "宏都拉斯：宏都拉斯研究團隊經歷長達八年的努力，正式確認全國擁有多達 227 種原生哺乳類動物，為該國生物多樣性寫下新頁。",
+      "義大利：義大利考古團隊在西西里島沿海的古老沉船遺址中，成功發現了保存完好的古羅馬時期陶器。"
+    ],
+    "title": "星雲深處的掌舵者",
+    "style_picks": {
+      "art_style": "Atompunk",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Velvet",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "Atompunk retro-futuristic illustration in a curved spaceship cockpit with sleek chrome lines and 1950s atomic age technology. Mirror selfie composition showing a visible reflection from a high-reflection metallic surface, framing an intimate close-up perspective. A velvet-textured four-legged cat steps on the dashboard, reaching out its front paw in mid-air to press down the spaceship emergency frequency switch. Illuminated by a soft colorful nebula cosmic glow, ethereal purple and blue space light, glowing particles, and galactic haze. Vibrant energetic color palette with high color saturation and bold contrast. Digital digital interface on the dashboard clearly displays the text '2026-08-10 21:30 UTC' in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在充滿原子龐克復古未來感的弧形指揮艙內，一隻天鵝絨質感的四腳貓咪踩在儀表板上，伸出前爪懸空壓下太空船的緊急調頻開關；整張畫面透過船艙高反射金屬鏡面呈現鏡子自拍構圖，將貓咪與背後浩瀚璀璨的星雲輝光一同呈現在高飽和鮮豔色彩中。"
   }
 ]
