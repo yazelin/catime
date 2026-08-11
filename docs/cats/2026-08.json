@@ -5365,5 +5365,41 @@
     "story": "原住民長老在雨林深處栽下第十萬株樹苗，而隨行的農莊三花貓則躍上古老樹幹，巡視著這片重獲新生的土地。聚光燈般的光芒穿透林蔭，將貓咪專注嗅聞嫩芽的姿態與祥雲般交織的金箔花卉揉合在一起。",
     "idea": "採用斑駁金箔花卉混媒風格，滿版特寫一隻三花貓趴在巨型巴拉那松樹幹上，用鼻子專注地嗅聞著剛萌發的嫩芽，畫面輔以金箔祥雲紋理與聚光燈照射下的朱紅留白色調。",
     "title": "松林深處的春訊"
+  },
+  {
+    "title": "燭光雕痕中的小幫手",
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Candlelight",
+      "texture": "Concrete",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 5252670602,
+    "number": 2874,
+    "news_inspiration": [
+      "日本種子島航天中心於2026年8月11日成功利用 H3 火箭將「導引7號」（Michibiki 7）導航衛星送入預定軌道，展現了亞洲航太科技的新突破。",
+      "奧地利維也納獸醫醫學大學的研究團隊紀錄到一頭名為維羅妮卡（Veronika）的母牛能靈活使用多用途工具，打破了科學界對牛隻智商的傳統認知。",
+      "澳洲凱恩斯附近的公民科學團隊在大堡礁發現一座面積廣達 3,973 平方公尺的巨型珊瑚群，成為全球已知最大且保存完好的巨型珊瑚之一。",
+      "美國馬里蘭州弗雷德里克市於2026年8月10日迎來「非裔美國人遺產中心」的隆重開幕，透過豐富展覽保存並傳承當地的非裔文化與歷史。"
+    ],
+    "avoid_list": [
+      "伸出前爪/爪子輕觸",
+      "微縮立體模型/造景",
+      "繁體中文/英文文字限制指示",
+      "強制透視/伸手構圖",
+      "斑駁光影/樹影光斑",
+      "空靈紫藍色宇宙輝光",
+      "三點打光/蝴蝶光",
+      "幾何智力謎題/齒輪機關",
+      "朱紅與純黑/金屬金配色",
+      "復古褪色/半色調網點質感",
+      "透光磨砂玻璃/水下焦散光影",
+      "移軸柔焦/淺景深微縮效果"
+    ],
+    "story": "這隻活潑的花貓闖入了老雕刻師的混凝土工作坊，好奇地在巨型雕像上跳躍攀爬。它俯身撥弄著工具，燭光將它與雕像的輪廓深刻地印刻在刻版之上。雕刻師在一旁微笑著看著這位意料之外的小幫手，記錄下這溫馨的一刻。",
+    "inspiration": "奧地利維也納獸醫醫學大學的研究團隊紀錄到一頭名為維羅妮卡（Veronika）的母牛能靈活使用多用途工具，打破了科學界對牛隻智商的傳統認知。",
+    "idea": "這幅木刻版畫呈現全身居中直幅構圖，描繪一隻花貓蹲伏於粗糙混凝土雕像頭頂，用爪子撥弄工具箱裡的刷子與刮刀，周圍環繞著溫暖的燭光與中國紅金配色。",
+    "prompt": "Woodcut print style, full-body vertical portrait, centered head-to-toe framing. A calico cat crouching atop a large, rough aggregate concrete statue head in an industrial workshop, curiosity poking at brushes and scrapers inside an open toolbox with its paws. Bold carved lines, high contrast black and white with rough wood grain texture. Illuminated by a warm orange flickering candlelight, creating an intimate atmosphere and soft dancing shadows. Rich festive palette of auspicious Chinese red and bright gold accents contrasted against brutalist raw concrete textures. The text '2026-08-11 11:35 UTC' is clearly and visibly displayed carved into the bottom frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
