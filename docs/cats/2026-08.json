@@ -5537,5 +5537,41 @@
     "character": "mochi",
     "story": "老街市場鮮魚攤的活魚突地躍出水槽，帶起滿天飛濺的晶瑩水滴。平時慵懶的花生麻糬眼睛瞬間放大兩倍，爆發力十足地向前撲咬這份送上門的美味。電影般的雙色墨影凝固了麻糬與躍魚交鋒的震撼瞬間。",
     "idea": "以雙色調的傳統魚拓藝術風格呈現，圓滾滾的橘白貓「麻糬」在老街鮮魚攤前以平視正面構圖登場，畫面融入電影感打光與靈動飛濺的水花。"
+  },
+  {
+    "news_inspiration": [
+      "美國猶他州利海市（Lehi, Utah, USA）：一名 13 歲少年投入近 300 小時，利用 3D 列印技術為一名 21 個月大的女童精心打造了一張包含客製化配件的專屬輪椅。",
+      "奧地利維也納（Vienna, Austria）：維也納大學研究團隊透過腦部掃瞄發現，狗狗能精準解讀人類微笑，並能有效區分恐懼、悲傷與憤怒等不同的面部表情。",
+      "日本鹿兒島縣種子島（Tanegashima, Japan）：日本宇宙航空研究開發機構（JAXA）於種子島宇宙中心成功發射 H3 火箭，順利將「準天頂」導航衛星送入預定軌道。",
+      "英國（United Kingdom）：年度天文盛事英仙座流星雨於本週迎來極大期，預計每小時可觀察到上百顆流星劃過夜空。"
+    ],
+    "style_picks": {
+      "art_style": "Mosaic",
+      "composition": "Extreme Low Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "title": "翠光中的微光車床",
+    "number": 2879,
+    "prompt": "Mosaic art made of small colored tiles with an ancient Byzantine aesthetic and visible grouted texture, depicting an orange cat focused on tuning a miniature geometric wheelchair on tracks formed by glowing filament flow texture. Extreme low angle shot looking up at the subject with a dramatic towering perspective. Rembrandt lighting with a single light source at 45 degrees, casting a signature triangle of light on the cat's shadowed cheek in dramatic chiaroscuro. Bamboo jade-green palette with fresh emerald and malachite tones, cool verdant serenity, and luminous threads streaming across the surface. The text '2026-08-11 17:46 UTC' is visibly integrated into the image composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夜幕降臨的地下工坊裡，橘貓用前爪輕輕固定著懸浮的零組件，為無法行走的小夥伴打造專屬的移動座駕。極低角度下，無數璀璨的馬賽克磁磚映照出光芒，記錄著這場深夜裡的溫暖奇蹟。",
+    "inspiration": "美國猶他州利海市（Lehi, Utah, USA）：一名 13 歲少年投入近 300 小時，利用 3D 列印技術為一名 21 個月大的女童精心打造了一張包含客製化配件的專屬輪椅。",
+    "idea": "在竹影翠綠色調的馬賽克圖騰中，一隻橘貓正踩在由發光絲流組成的軌道上，低頭專注地調校著組裝中的微型幾何輪椅，倫勃朗光在其輪廓上投下深邃光影。",
+    "comment_id": 5256812205,
+    "avoid_list": [
+      "貓爪伸出輕碰或撥弄物件",
+      "貓用鼻子專注嗅聞或推動",
+      "狹窄聚光燈與強烈高對比光影",
+      "青橙色調與深藍綠陰影配色",
+      "多格角色拼貼構圖",
+      "金箔祥雲與極致裝飾紋理",
+      "古老天文與星雲幾何圖騰",
+      "水下焦散光與透光磨砂玻璃",
+      "奧地利農場與母牛工具合作",
+      "移軸微縮與極淺景深效果",
+      "微縮立體模型場景",
+      "混媒刺繡與木刻版畫風格"
+    ]
   }
 ]
