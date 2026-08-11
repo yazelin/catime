@@ -5190,5 +5190,36 @@
       "texture": "Soft-Focus Matte Haze",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "idea": "採用Q版新年插畫風格與多格角色拼貼構圖，描繪一隻四腳躺在黑絨織品上的貓咪用爪子輕拍星雲輝光流轉的宇宙幾何圖騰。",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Fabric / Textile",
+      "color_palette": "Crimson and Black"
+    },
+    "avoid_list": [
+      "強烈透視伸手構圖",
+      "復古褪色色調",
+      "極地氣象站",
+      "生物發光與發光植物",
+      "古老玻璃溫室",
+      "朱紅與金黃配色",
+      "鏡面自拍構圖",
+      "水下焦散光影效果",
+      "強制透視極限縮放",
+      "平視正面構圖",
+      "網點與印刷質感",
+      "微縮造景與平鋪排版"
+    ],
+    "comment_id": 5249458432,
+    "inspiration": "original",
+    "title": "星雲織光迎新春",
+    "prompt": "A Q-version Lunar New Year multi-panel character montage collage illustration. A cute chibi cat lies on its back across deep jet-black woven fabric with visible textile threads, tapping its front paws on glowing cosmic geometric patterns emitting vibrant nebula haze. The composition features comic-style grid panels showcasing the same adorable cat in playful festive poses, chasing floating New Year red ribbons. Soft colorful starfield, ethereal purple, blue, and deep blood-red lighting create an otherworldly radiance with glowing particles. Crimson and black dramatic high-contrast palette, decorated with red lanterns and gold ornaments for a festive atmosphere. The date and time '2026-08-11 05:45 UTC' is clearly and visually displayed in crisp digital typography in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "緋紅與烏黑的布料鋪展成 cosmic 舞臺，貓咪在拼貼畫格間好奇地追逐著飄動的年節絲帶。牠伸出雙前爪捕捉星光的軌跡，為歡慶新年增添了幾分俏皮與神秘。",
+    "number": 2869,
+    "news_inspiration": []
   }
 ]
