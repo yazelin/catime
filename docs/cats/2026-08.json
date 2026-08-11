@@ -5329,5 +5329,41 @@
     },
     "number": 2872,
     "story": "維也納鄉間的晨光穿透農舍隙縫，將苔蘚與木屑鍍上一層橙藍交織的奇幻光彩。母牛 Veronika 熟練地用吻部推動軸承，而虎斑貓則精準地將最後一塊木楔推進機關中，兩隻動物在無聲的默契下完成了跨物種的合作。牆上的鏡子層層反射著牠們專注的身影，將這幕驚人的智慧協奏無限延伸至空間深處。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Distressed Gold-Leaf Floral Mixed-Media",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Spotlight",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Vermilion and White"
+    },
+    "number": 2873,
+    "avoid_list": [
+      "伸出前爪/爪子輕觸",
+      "微縮立體模型/造景",
+      "繁體中文/英文文字限制指示",
+      "強制透視/伸手構圖",
+      "斑駁光影/樹影光斑",
+      "空靈紫藍色宇宙輝光",
+      "三點打光/蝴蝶光",
+      "幾何智力謎題/齒輪機關",
+      "朱紅與純黑/金屬金配色",
+      "復古褪色/半色調網點質感",
+      "透光磨砂玻璃/水下焦散光影",
+      "移軸柔焦/淺景深微縮效果"
+    ],
+    "comment_id": 5252098822,
+    "inspiration": "巴西南部原住民社群共同推動山林復育，在當地成功栽種了 10 萬株瀕危的巴拉那松幼苗。",
+    "prompt": "Distressed gold-leaf floral mixed-media, layered collage with weathered patina and cracked foil, ornate decorative artwork. Full-bleed frame-filling composition with subject cropped to edges and dense edge-to-edge detail. A close-up view of a calico cat perched on a massive Araucaria angustifolia trunk, intently sniffing a freshly sprouted young leaf with its nose. Illuminated by a narrow beam spotlight with dramatic high-contrast, sharp light edges, and deep darkness falloff. Adorned with gold leaf ornamental clouds featuring traditional East Asian auspicious cloud motifs in an embossed metallic finish with intricate curling swirl patterns. Bold vermilion cinnabar red and clean negative-space white color palette. The date and time '2026-08-11 10:40 UTC' is visually displayed in small crisp white typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "中國雲南省透過棲地修復與科技預警系統擴大保護措施，使當地的野生亞洲象族群數量實現穩定增長。",
+      "紐西蘭宣佈設立五座全新海洋保護區，創下該國十多年來最大規模的海洋生態保護擴張紀錄。",
+      "愛沙尼亞帕爾努拆除舊水壩並完成水體修復後，成功吸引消失已久的魚鷹重返當地河流棲地繁衍。",
+      "巴西南部原住民社群共同推動山林復育，在當地成功栽種了 10 萬株瀕危的巴拉那松幼苗。"
+    ],
+    "story": "原住民長老在雨林深處栽下第十萬株樹苗，而隨行的農莊三花貓則躍上古老樹幹，巡視著這片重獲新生的土地。聚光燈般的光芒穿透林蔭，將貓咪專注嗅聞嫩芽的姿態與祥雲般交織的金箔花卉揉合在一起。",
+    "idea": "採用斑駁金箔花卉混媒風格，滿版特寫一隻三花貓趴在巨型巴拉那松樹幹上，用鼻子專注地嗅聞著剛萌發的嫩芽，畫面輔以金箔祥雲紋理與聚光燈照射下的朱紅留白色調。",
+    "title": "松林深處的春訊"
   }
 ]
