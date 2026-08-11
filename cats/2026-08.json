@@ -5759,5 +5759,41 @@
     ],
     "title": "夏日花園的黃銅蝶影",
     "number": 2884
+  },
+  {
+    "comment_id": 5260056740,
+    "number": 2885,
+    "idea": "在莫蘭迪色調的滿版特寫畫面中，一隻誇張漫畫風格的灰貓正以四腳趴伏的姿態，用力推擠著一顆由棉花糖雲朵構成的巨大的翻車魚，背景呈現潔淨無瑕的白底去背棚光。",
+    "story": "這隻臉頰膨大的灰貓正賣力地用雙爪與頭部前頂，試圖在雲端分食由柔和莫蘭迪色系織成的浮空翻車魚。牠的眼睛被誇張地拉大，渾圓的軀體與鬆軟如棉花糖的雲朵質感完美融為一體，展現出歡樂又滑稽的捕食奇觀。",
+    "news_inspiration": [
+      "2026年8月12日全球矚目的日全食天文奇景掠過冰島雷克雅維克，吸引大量遊客前來觀賞難得一見的極北日食景象。",
+      "海洋生物學家在墨西哥加利福尼亞灣首度拍攝並記錄到虎鯨團隊合作分食巨大翻車魚的罕見生態行為。",
+      "洪都拉斯研究團隊經長達八年的生態調查，於特古西加爾巴正式確認全國擁有多達 227 種原生哺乳類動物。",
+      "美國加州史丹佛的大學研究人員發現扁蟲體內存在一種特殊免疫細胞，能在數分鐘內自我爆炸以迅速殲滅周圍的敵對細菌。"
+    ],
+    "avoid_list": [
+      "繁體中文/正體字排他約束",
+      "月夜靛藍色調",
+      "竹影翠綠色調",
+      "高飽和鮮豔色",
+      "科幻/微光環形燈",
+      "雙色調/魚拓/水墨長卷風格",
+      "時間戳記標記 (2026-08-11)",
+      "極低角度仰拍/俯瞰視角",
+      "微縮模型/移軸質感",
+      "輪廓光與戲劇性打光",
+      "專注注視/爪子前伸撲抓動作",
+      "異色瞳/鏡像水窪倒影"
+    ],
+    "prompt": "A caricature style image with exaggerated proportions and comical distortion of a grey cat with puffed cheeks, in a full-bleed frame-filling composition, using its paws and head to forcefully push a giant ocean sunfish made of soft marshmallow-like cotton candy clouds. The subject is evenly lit with white seamless studio lighting on a pure white background, creating a bright high-key, shadowless look. The image features a Morandi muted color palette with desaturated soft pastels, fluffy pastel cumulus textures, and dusty grey undertones. In discrete Traditional Chinese or English text, the timestamp '2026-08-11 23:28 UTC' is visually displayed in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "海洋生物學家在墨西哥加利福尼亞灣首度拍攝並記錄到虎鯨團隊合作分食巨大翻車魚的罕見生態行為。",
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "棉花糖雲海的捕食者"
   }
 ]
