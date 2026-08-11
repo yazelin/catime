@@ -5257,5 +5257,41 @@
       "中國最新發布的保育報告顯示，透過棲息地修復與科技預警系統，當地的野外亞洲象種群數量呈現穩步成長。"
     ],
     "comment_id": 5249937095
+  },
+  {
+    "idea": "這幅冷色調的水彩畫結合多格角色拼貼與3D渲染質感，在戲劇化的聚光燈下呈現維也納研究農場的穀倉，一隻灰藍色長毛貓正用鼻子推動木棍，專注觀看旁邊的母牛靈巧地運用工具夾取高處草料。",
+    "avoid_list": [
+      "伸出前爪/爪子輕觸",
+      "微縮立體模型/造景",
+      "繁體中文/英文文字限制指示",
+      "強制透視/伸手構圖",
+      "斑駁光影/樹影光斑",
+      "空靈紫藍色宇宙輝光",
+      "三點打光/蝴蝶光",
+      "幾何智力謎題/齒輪機關",
+      "朱紅與純黑/金屬金配色",
+      "復古褪色/半色調網點質感",
+      "透光磨砂玻璃/水下焦散光影",
+      "移軸柔焦/淺景深微縮效果"
+    ],
+    "news_inspiration": [
+      "科學家在美國科羅拉多州歐雷（Ouray）發現一段距今1.5億年的巨型恐龍足跡，完整記錄了牠轉圈迴旋並疑似跛行的罕見行走軌跡。",
+      "奧地利維也納的研究團隊首次記錄到母牛能主動將工具作為多功能用途使用，刷新了人們對家畜智力的認知。",
+      "巴西的原住民社群攜手種植了10萬株巴拉那松幼苗，致力於復育當地的原生森林生態。",
+      "津巴布韋胡倫格（Hurungwe）的社區衛生員騎著單車深入偏遠鄉村，為無法前往醫院的女孩們親自送達健康疫苗與醫療協助。"
+    ],
+    "number": 2871,
+    "prompt": "A multi-panel character montage collage displaying a long-haired grey-blue cat pushing a wooden stick with its nose, intently observing a cow expertly using a tool to reach high fodder inside a barn at a Vienna research farm. Blended art style combining watercolor painting with soft transparent pigments, bleeding edges, wet-on-wet technique, and subtle paper texture, merged with a polished 3D render aesthetic featuring smooth materials, clean geometry, and soft Cinema 4D global illumination. The composition uses comic-style grid cells in a cohesive collage layout depicting different character poses and expressions. Dramatic high-contrast lighting with a narrow beam spotlight, sharp light edges, and deep darkness falloff. Cool blue-teal color grading with icy undertones and a serene, quiet mood. The text '2026-08-11 08:01 UTC' is visually displayed clearly in English text within the artwork. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Spotlight",
+      "texture": "3D Render",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "深夜的穀倉被冷清的藍青色光線籠罩，多個分鏡畫面記錄著貓咪與母牛的奇妙互動。灰貓用身體圍繞著木棍打轉，好奇地注視著母牛如何將簡單工具化為多功能武器。這場安靜的深夜觀察，刻畫出動物世界中出乎意料的智力與默契。",
+    "comment_id": 5250592331,
+    "title": "穀倉裡的靈巧對話",
+    "inspiration": "奧地利維也納的研究團隊首次記錄到母牛能主動將工具作為多功能用途使用，刷新了人們對家畜智力的認知。"
   }
 ]
