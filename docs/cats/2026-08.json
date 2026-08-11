@@ -5293,5 +5293,41 @@
     "comment_id": 5250592331,
     "title": "穀倉裡的靈巧對話",
     "inspiration": "奧地利維也納的研究團隊首次記錄到母牛能主動將工具作為多功能用途使用，刷新了人們對家畜智力的認知。"
+  },
+  {
+    "prompt": "A candid 35mm photography shot inside a moss-covered Austrian wooden farmhouse. A tabby cat uses its mouth and front paws to carefully transport small wooden machinery parts, collaborating with a cow to assemble a complex mechanical tool with a recursive mirror Droste effect design. Styled in infrared photography with teal and orange color grading, featuring warm orange highlights against deep cool blue-green shadows. Backlighting with rim light creates glowing golden silhouette edges around the animals. The text '2026-08-11 09:49 UTC' is visibly displayed on the wall in the image. Shot on a 35mm lens at f/1.8, shallow depth of field, natural dust particles, authentic film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在一座覆滿苔蘚的奧地利木造農舍內，採用青橙調的紅外線攝影風格，記錄一隻虎斑貓正專注地用嘴巴與前腳搬運小型木頭零件，與母牛共同組裝具備遞迴鏡面設計的機械工具，背景光線從後方灑落形成鮮明的金黃輪廓光。",
+    "news_inspiration": [
+      "美國一名13歲少年 Zac Waters 投入近300小時利用3D列印技術，為一名身障幼童量身打造專屬輪椅，展現動人善舉（美國）。",
+      "奧地利維也納研究團隊發表最新研究，記錄了一隻名為 Veronika 的母牛能靈巧地使用多用途工具，刷新了科學界對家畜智慧的認知（奧地利維也納）。",
+      "中國雲南省透過持續的棲地修復與數位預警系統，成功促成當地野生亞洲象種群數量的穩定成長（中國雲南）。",
+      "宏都拉斯生態研究團隊歷經長達八年的調查，於近日正式確認全國境內擁有高達227種原生哺乳動物物種（宏都拉斯）。"
+    ],
+    "inspiration": "奧地利維也納研究團隊發表最新研究，記錄了一隻名為 Veronika 的母牛能靈巧地使用多用途工具，刷新了科學界對家畜智慧的認知（奧地利維也納）。",
+    "avoid_list": [
+      "伸出前爪/爪子輕觸",
+      "微縮立體模型/造景",
+      "繁體中文/英文文字限制指示",
+      "強制透視/伸手構圖",
+      "斑駁光影/樹影光斑",
+      "空靈紫藍色宇宙輝光",
+      "三點打光/蝴蝶光",
+      "幾何智力謎題/齒輪機關",
+      "朱紅與純黑/金屬金配色",
+      "復古褪色/半色調網點質感",
+      "透光磨砂玻璃/水下焦散光影",
+      "移軸柔焦/淺景深微縮效果"
+    ],
+    "comment_id": 5251598961,
+    "title": "鏡中迴廊的智慧協奏",
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Teal and Orange"
+    },
+    "number": 2872,
+    "story": "維也納鄉間的晨光穿透農舍隙縫，將苔蘚與木屑鍍上一層橙藍交織的奇幻光彩。母牛 Veronika 熟練地用吻部推動軸承，而虎斑貓則精準地將最後一塊木楔推進機關中，兩隻動物在無聲的默契下完成了跨物種的合作。牆上的鏡子層層反射著牠們專注的身影，將這幕驚人的智慧協奏無限延伸至空間深處。"
   }
 ]
