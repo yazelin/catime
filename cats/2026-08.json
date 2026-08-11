@@ -5432,5 +5432,41 @@
     "prompt": "A colored pencil storybook page with an illustrated story layout and multiple panels, depicting a cat resting on a high-tech carbon fiber bicycle frame in a bike workshop. The cat is an orange and white tabby attentively watching a spinning bicycle wheel. Styled with visible pencil grain, layered hues, rough sketchbook paper texture, decorative title banner at top, and subtle integrated speech bubbles. Lit by an even circular ring light creating soft, frontal illumination and circular catchlights in the cat's eyes. Colored in a moonlit indigo palette of deep night-blue and violet tones with cool silvery highlights. Modern industrial aesthetic featuring carbon fiber weave patterns and glossy finishes. Visually displaying the date and time text '2026-08-11 12:37 UTC' clearly within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "在充滿月夜靛藍色調的高科技自行車工作室中，一隻橘白花貓伏在輕盈的碳纖維賽車架上，專注注視著旋轉的車輪，畫面採用色鉛筆畫風格與故事插畫分格呈現，並以環形燈均勻照亮細節。",
     "inspiration": "original"
+  },
+  {
+    "style_picks": {
+      "art_style": "Pen-and-Wash Illustration",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "這是一幅高飽和鮮豔色的鋼筆淡彩插畫，描繪一隻橘貓正以四腳趴伏姿態專注舔舐一塊從天花板隕石洞落下的古老鹽結晶，畫面採用鏡像異我構圖，透過右側水窪反射出貓咪眼中閃爍著胺基酸微光的異色倒影。",
+    "story": "深夜的舊書房裡，隕石無聲貫穿了屋頂，散落滿地的古老鹽晶與星際塵埃。貓咪優雅地湊上前去，舌尖輕觸那來自億萬年前的鹹味，水窪中的倒影彷彿正與另一個時空的自己對視。",
+    "inspiration": "美國紐澤西州霍普韋爾的一戶住宅此前遭隕石擊穿屋頂，科學家近期分析該隕石發現其含有古代鹽水與胺基酸，為探索生命起源提供了關鍵線索。",
+    "title": "星鹽倒影下的窺探",
+    "comment_id": 5254337771,
+    "number": 2876,
+    "news_inspiration": [
+      "奧地利維也納的獸醫學研究團隊發現一頭名為維羅妮卡（Veronika）的母牛能靈活將物件當作多用途工具使用，這是科學家首次記錄到牛隻具備此項智慧行為。",
+      "美國紐澤西州霍普韋爾的一戶住宅此前遭隕石擊穿屋頂，科學家近期分析該隕石發現其含有古代鹽水與胺基酸，為探索生命起源提供了關鍵線索。",
+      "英國蘇格蘭愛丁堡盛大舉行年度愛丁堡藝穗節，匯聚全球藝術家帶來涵蓋魔術、喜劇與創新劇目的豐富文化盛宴。",
+      "澳洲凱恩斯外海的大堡礁發現一座面積約3,973平方公尺的巨型珊瑚群落，其規模相當於半個足球場，呈現宛如海底綠色草原的壯麗景觀。"
+    ],
+    "prompt": "Pen-and-wash illustration featuring fine black ink line work with high saturation vivid colors and light watercolor tint, depicting a ginger cat crouched on all fours, intently licking an ancient salt crystal that fell from a meteorite hole in the ceiling. The scene utilizes a doppelganger mirror composition, reflecting the cat's异色 heterochromia eyes in a right-side puddle with a faint glowing amino acid shimmer. Features delicate healing illustrative feel, loose airy sketch work, fine black brush lines edged with metallic gilded ink outlines, and a moody night atmosphere inside an old study. The timestamp '2026-08-11 14:10 UTC' is visually displayed in standard typography in the corner of the artwork. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓爪伸出輕碰或撥弄物件",
+      "貓用鼻子專注嗅聞或推動",
+      "狹窄聚光燈與強烈高對比光影",
+      "青橙色調與深藍綠陰影配色",
+      "多格角色拼貼構圖",
+      "金箔祥雲與極致裝飾紋理",
+      "古老天文與星雲幾何圖騰",
+      "水下焦散光與透光磨砂玻璃",
+      "奧地利農場與母牛工具合作",
+      "移軸微縮與極淺景深效果",
+      "微縮立體模型場景",
+      "混媒刺繡與木刻版畫風格"
+    ]
   }
 ]
