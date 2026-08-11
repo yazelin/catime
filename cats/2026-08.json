@@ -5720,5 +5720,44 @@
     "title": "月夜玻璃瓶中的溫柔港灣",
     "inspiration": "中國上海動物園的長臂猿被研究人員觀察到溫柔照顧誤入園區的小老鼠，這項發現促使科學家展開靈長類跨物種友誼與互利行為的大規模研究。",
     "character_name": "船長"
+  },
+  {
+    "season": "summer",
+    "character_name": "鈴鈴",
+    "story": "陽光灑在滿是銅齒輪與向日葵的夏日花園裡，脖子上戴著粉紅蝴蝶結鈴鐺的鈴鈴，正邊發出叮鈴聲邊好奇地追撲一隻發光的黃銅蝴蝶。她看得太入迷，一頭撞上了蒸氣溫室的銅牆，脖子上的鈴鐺響個不停，引得旁邊的小鎮居民與微型工人紛紛轉頭會心一笑。雖然撞得有點暈，但她一邊打著噴嚏往後彈，一邊又被牆角亮晶晶的黃銅零件吸引了目光。",
+    "idea": "在蒸汽朋克風格的向日葵田小鎮微縮模型中，一隻毛量極為蓬鬆、像會移動的白色棉花糖布偶貓鈴鈴，正戴著迷你草帽與太陽花，天真地追逐著帶著光芒的機械金屬蝴蝶，卻不小心撞上了一座由銅管與微型蒸氣機構成的花園矮牆，呈現出移軸微縮與厚塗油彩肌理的視覺質感。",
+    "is_seasonal": true,
+    "comment_id": 5259627877,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Candlelight",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Neon Fluorescent"
+    },
+    "character": "lingling",
+    "news_inspiration": [
+      "在澳大利亞昆士蘭，科學家嘗試給野生喜鵲裝上小型 GPS 追蹤器，結果喜鵲們展現出驚人的社交合作能力，主動幫同伴拆除身上的裝備。",
+      "美國科羅拉多州發現一條長達95公尺且繞行一圈的1.5億年前恐龍化石足跡，其兩腳步長不一的特徵揭示了蜥腳類恐龍當時可能正在跛行。",
+      "立陶宛考那斯的「科學島」近期揭幕，其建築亮點為懸浮於半空中的250公噸巨型金屬碟構件，成為融合科學展覽與建築奇觀的新地標。"
+    ],
+    "prompt": "A summer miniature steampunk sunflower town scene rendered with impasto oil texture, featuring thick palette-knife strokes, raised three-dimensional paint ridges, and visible brush gestures. An extremely fluffy pure white longhair Ragdoll-like cat named Lingling, with cloud-like pure white #FFFFFF fur, a small round face, huge round sapphire-blue #0F52BA eyes, and pale pink nose and inner ears, wears a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell centered beneath the bow knot, alongside a miniature straw hat adorned with a small sunflower. The cat playfully stumbles and bumps into a miniature garden low wall constructed from copper pipes and micro steam engines while chasing a glowing brass mechanical butterfly. Victorian-era machinery, brass gears, cogs, and steam-powered mechanisms pepper the lush sunflower field. Tilt-shift photography style creates a selective focus band and miniature toy-like effect with blurred foreground and background. Warm flickering candlelight and orange glow cast soft dancing shadows over rich tactile painterly surfaces and vibrant saturated colors. Prominently overlaid on the image in clean, elegant white typography is the timestamp '2026-08-11 22:30 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "母牛合作與工具使用",
+      "冰島懸崖與奧地利農舍",
+      "百葉窗與條紋光影",
+      "竹影翠綠色調",
+      "雙色調與魚拓藝術",
+      "金箔祥雲與雙色墨影",
+      "微型輪椅與機械組裝",
+      "黑光紫外螢光",
+      "倫勃朗光與聚光燈束",
+      "隕石與古老鹽晶",
+      "微型幾何與遞迴鏡面設計",
+      "碳纖維車架與車輪"
+    ],
+    "title": "夏日花園的黃銅蝶影",
+    "number": 2884
   }
 ]
