@@ -5504,5 +5504,38 @@
     "prompt": "A vertical East Asian movie poster styled image featuring a cat on a tent top atop an Icelandic cliff, leaping to catch Arctic terns startled by a total solar eclipse. The artwork is rendered in a surreal floral-coral sculpture and biomorphic art style, combined with watercolor splatter and ink-spray texture, dripping pigment, and expressive fluid marks. Dramatic venetian blind striped lighting casts hard parallel shadow bands across the cat and scene. The color palette features bamboo jade-green, fresh emerald, and cool malachite tones. Decorated with side calligraphy panels, red seal accents, ornamental border elements, and multi-layered depth. Brightly and legibly rendered in elegant typography on the side of the poster is the date and time: '2026-08-11 15:48 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2877,
     "inspiration": "冰島與西班牙：2026年8月12日即將迎來罕見的日全食天文奇景，本影區將橫跨冰島與西班牙，吸引大量天文愛好者與遊客前去觀賞。"
+  },
+  {
+    "comment_id": 5256134722,
+    "avoid_list": [
+      "貓爪伸出輕碰或撥弄物件",
+      "貓用鼻子專注嗅聞或推動",
+      "狹窄聚光燈與強烈高對比光影",
+      "青橙色調與深藍綠陰影配色",
+      "多格角色拼貼構圖",
+      "金箔祥雲與極致裝飾紋理",
+      "古老天文與星雲幾何圖騰",
+      "水下焦散光與透光磨砂玻璃",
+      "奧地利農場與母牛工具合作",
+      "移軸微縮與極淺景深效果",
+      "微縮立體模型場景",
+      "混媒刺繡與木刻版畫風格"
+    ],
+    "character_name": "麻糬",
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Duotone"
+    },
+    "prompt": "A gyotaku direct ink impression print style artwork in a duotone color treatment with two contrasting colors only, depicting a chubby spherical shorthair cat named Mochi in front of an old street fresh fish stall. Eye-level frontal composition, straight-on symmetrical view, neutral honest perspective facing camera directly. Mochi has a white base coat, amber eyes, a pink nose with a tiny orange dot, a white left face, an orange mask covering only his right half-face and right ear, a heart-shaped orange saddle on his upper back, a solid orange right front paw mitten, a pure white left front paw, and a ringed tail. A live fish leaps out of a water tank, causing dynamic water splashes with bursting droplets and crystalline liquid arcs frozen mid-motion around Mochi as he lunges forward. Cinematic lighting with volumetric light rays, dramatic shadows, textured relief surface, and traditional Japanese traditional monochrome contact print aesthetic. The text '2026-08-11 16:44 UTC' is visually displayed in Traditional Chinese or English within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2878,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "title": "墨影躍魚圖",
+    "character": "mochi",
+    "story": "老街市場鮮魚攤的活魚突地躍出水槽，帶起滿天飛濺的晶瑩水滴。平時慵懶的花生麻糬眼睛瞬間放大兩倍，爆發力十足地向前撲咬這份送上門的美味。電影般的雙色墨影凝固了麻糬與躍魚交鋒的震撼瞬間。",
+    "idea": "以雙色調的傳統魚拓藝術風格呈現，圓滾滾的橘白貓「麻糬」在老街鮮魚攤前以平視正面構圖登場，畫面融入電影感打光與靈動飛濺的水花。"
   }
 ]
