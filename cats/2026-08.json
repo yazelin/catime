@@ -5221,5 +5221,41 @@
     "story": "緋紅與烏黑的布料鋪展成 cosmic 舞臺，貓咪在拼貼畫格間好奇地追逐著飄動的年節絲帶。牠伸出雙前爪捕捉星光的軌跡，為歡慶新年增添了幾分俏皮與神秘。",
     "number": 2869,
     "news_inspiration": []
+  },
+  {
+    "inspiration": "志願者在澳洲凱恩斯近海發現了一座面積近 4,000 平方公尺的超大型珊瑚群落，為大堡礁生態保育帶來重大新發現。",
+    "prompt": "Close-up candid photo taken with a 50mm lens at f/1.8, shallow depth of field. A tabby cat in a dark modern museum gallery is closely sniffing and pushing a monochromatic black-and-white paper quilling coral reef sculpture with its nose. The artwork consists of tightly coiled paper strips and layered paper textures. Under ultraviolet blacklight illumination in the dim room, fluorescent pigments on the black and white paper sculptures emit a vivid neon luminescence. The cat is crisp and sharp while the surrounding exhibition space melts into soft bokeh background blur. Prominently and clearly displayed on a clean digital gallery wall display in the background is the text '2026-08-11 06:44 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這座展廳正展出以大堡礁為靈感的黑白單色衍紙珊瑚礁，在紫外燈下映照出奇幻的螢光線條。貓咪以為自己闖入了巨大的立體迷宮，正專注地探索著每一處紙藝紋理的細節。",
+    "title": "螢光紙礁的漫遊者",
+    "number": 2870,
+    "idea": "在美術館展場中，一隻斑紋貓穿梭於黑光螢光照射下的衍紙藝術黑白雕塑群間，仔細嗅聞並用鼻子推動紙捲結構。",
+    "avoid_list": [
+      "伸出前爪/爪子輕觸",
+      "微縮立體模型/造景",
+      "繁體中文/英文文字限制指示",
+      "強制透視/伸手構圖",
+      "斑駁光影/樹影光斑",
+      "空靈紫藍色宇宙輝光",
+      "三點打光/蝴蝶光",
+      "幾何智力謎題/齒輪機關",
+      "朱紅與純黑/金屬金配色",
+      "復古褪色/半色調網點質感",
+      "透光磨砂玻璃/水下焦散光影",
+      "移軸柔焦/淺景深微縮效果"
+    ],
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Paper Quilling",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "news_inspiration": [
+      "英國倫敦舉辦了年度「世界洗窗世界盃」，來自全球的專業清潔高手同場競技，爭奪洗窗冠軍的頭銜。",
+      "志願者在澳洲凱恩斯近海發現了一座面積近 4,000 平方公尺的超大型珊瑚群落，為大堡礁生態保育帶來重大新發現。",
+      "巴西原住民社群發起森林復育計畫，成功在當地生態區栽種了 10 萬株南洋杉幼苗。",
+      "中國最新發布的保育報告顯示，透過棲息地修復與科技預警系統，當地的野外亞洲象種群數量呈現穩步成長。"
+    ],
+    "comment_id": 5249937095
   }
 ]
