@@ -5159,5 +5159,36 @@
       "texture": "Impasto Oil Texture",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "inspiration": "original",
+    "idea": "採用長曝光攝影與移軸微縮效果，呈現在斑駁光影及柔焦霧面質感下，一隻三花貓在大地色系的傳統手工麵包坊內，用爪子撥弄盤中麵粉的溫馨畫面。",
+    "prompt": "A long exposure photograph with a tilt-shift selective focus effect capturing a calico cat poking its paw into a plate of flour on a warm brown wooden counter inside a traditional artisan bakery. Dappled light filters through a wooden window, creating soft mottled shadow patterns across terracotta and olive green details. Motion blur and soft light trails in the background show a baker moving softly. The image has a gentle soft-focus matte haze with a shallow depth of field, blurred foreground, and a miniature look. The text '2026-08-11 04:16 UTC' is visually displayed in clear English text in the corner. Shot on a 45mm tilt-shift lens, f/2.8, long exposure, candid shot, natural lighting. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "陽光穿過木格窗在麵包檯上灑落斑駁光影，麵包師正在後方忙碌地揉製麵團。這隻敏捷的三花貓跳上沉靜的大地色木檯，好奇地伸手撥弄剛篩好的麵粉，過往客人的移動線條在長曝光下化作柔和的光軌。",
+    "news_inspiration": [],
+    "comment_id": 5248933577,
+    "title": "晨光麵香裡的貓蹤",
+    "number": 2868,
+    "avoid_list": [
+      "強烈透視伸手構圖",
+      "復古褪色色調",
+      "極地氣象站",
+      "生物發光與發光植物",
+      "古老玻璃溫室",
+      "朱紅與金黃配色",
+      "鏡面自拍構圖",
+      "水下焦散光影效果",
+      "強制透視極限縮放",
+      "平視正面構圖",
+      "網點與印刷質感",
+      "微縮造景與平鋪排版"
+    ],
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Dappled Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
