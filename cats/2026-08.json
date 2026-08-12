@@ -5795,5 +5795,40 @@
       "color_palette": "Morandi Color Palette"
     },
     "title": "棉花糖雲海的捕食者"
+  },
+  {
+    "character_name": "墨墨",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "comment_id": 5260839028,
+    "title": "竹蓆上的螢光的旋律",
+    "story": "盛夏午後，老宅長廊下鋪著涼爽的竹蓆，墨墨悄悄趴在上面納涼。牠伸出修長優雅的黑爪輕輕旋轉著黑膠唱片，眼睛在螢光綠與霓虹粉交織的字元代碼光芒中閃爍著金琥珀色的光彩。滿室立體花卉貼花般的立體質感與生物發光氣氛，讓這場靜謐的夏日午後顯得既神秘又前衛。",
+    "number": 2886,
+    "season": "summer",
+    "character": "momo",
+    "news_inspiration": [],
+    "idea": "在老宅的竹蓆上，純黑貓墨墨正優雅地以爪子撥弄擺在蓆間的復古黑膠唱片，整幅畫面以命令列終端機風格呈現，配合對角線構圖與霓虹螢光配色。",
+    "prompt": "A command line terminal aesthetic retro CLI screen depicting a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, lying on a woven bamboo mat under a traditional old house porch in a summer afternoon setting. The cat has a single small gold hoop earring at its left ear mid-edge, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on its ventral chest, and a single dark-grey ring at its tail tip. The cat is gracefully touching and rotating a vintage vinyl record on the mat with its front paw. Diagonal composition with dynamic slanted lines and off-axis tension. Monospace bitmap text output overlaid across a black console background with scrolling log lines in CJK system font rendering, white and glowing lime green glyphs, and a blinking cursor prompt. In the terminal header, the date and time '2026-08-12 00:57 UTC' is clearly rendered in crisp monospace font. Bioluminescent lighting with intense neon fluorescent colors including electric pink, lime green, and hot cyan glowing against the dark background, combined with ornate three-dimensional sculpted floral appliqué textures. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文/正體字排他約束",
+      "月夜靛藍色調",
+      "竹影翠綠色調",
+      "高飽和鮮豔色",
+      "科幻/微光環形燈",
+      "雙色調/魚拓/水墨長卷風格",
+      "時間戳記標記 (2026-08-11)",
+      "極低角度仰拍/俯瞰視角",
+      "微縮模型/移軸質感",
+      "輪廓光與戲劇性打光",
+      "專注注視/爪子前伸撲抓動作",
+      "異色瞳/鏡像水窪倒影"
+    ],
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Diagonal Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
