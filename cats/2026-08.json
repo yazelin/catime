@@ -6374,5 +6374,41 @@
     "title": "霓彩溫室的紙雕奇遇",
     "number": 2902,
     "story": "在高飽和鮮豔色紙材剪裁出的溫室紙雕層次中，幾何切面的三花貓正伸長爪子，頑皮地拉扯剛發芽的螢光植物。溫室外的框架形成了巧妙的框中框構圖，將這幕被絢麗霓虹燈光照亮的花園惡作劇完美定格。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Neo-Chinese Blue-Green Landscape",
+      "composition": "Frame Within a Frame",
+      "lighting": "Underwater Caustics",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [
+      "土耳其（Turkey）阿斯潘多斯（Aspendos）考古團隊發現了一座距今約 2,400 年前的古墓，墓主人身旁伴隨多枚印有角力圖案的古代硬幣，研判可能屬於一位古代角力選手。",
+      "立陶宛（Lithuania）考那斯（Kaunas）科學島打造了一座重達 250 公噸、彷彿懸浮於半空中的巨型金屬圓盤地標，將現代建築工程與科學探索相結合。",
+      "美國（United States）科羅拉多州（Colorado）的研究人員分析了一條長達 95.5 公尺的蜥腳類恐龍化石足跡，發現這隻 1.5 億年前的巨獸曾在此轉了一個大圈，且步幅顯示牠當時可能跛著腳走路。",
+      "丹麥（Denmark）寄出的一張明信片在歷經長達 26 年的漫長郵遞旅程後，終於在最近送達美國收件人手中，為其帶來來自已故父母的意外溫馨回憶。"
+    ],
+    "comment_id": 5274017076,
+    "story": "古老的山窟裡積滿了清澈泉水，一隻黑貓在古墓遺址間優雅跳躍， curiosity 驅使牠伸爪拍打著歲月斑駁的角力圖案金幣。激起的水花在光影折射下如金粉般飄散，彷彿甦醒了兩千年前角力士的勇猛傳奇。",
+    "idea": "這幅新中式青綠山水風格的作品，以黑金奢華調描繪一隻長毛黑貓在古老山澗石洞中，用前爪撥弄著古墓硬幣，水下焦散光透光灑落，透過石窟洞口形成框中框構圖，伴隨靈動水花飛濺。",
+    "avoid_list": [
+      "巨型金屬圓盤",
+      "鐵絲網圍欄",
+      "四腳伏臥姿勢",
+      "色板邊框設計",
+      "月夜靛藍色調",
+      "磨砂玻璃容器",
+      "黃金時刻光線",
+      "硬光強烈陰影",
+      "專注凝視或撥弄",
+      "頂視俯瞰構圖",
+      "全身居中直幅",
+      "標註時間戳記"
+    ],
+    "title": "石窟角力之印",
+    "prompt": "A neo-Chinese blue-green landscape painting in modern qinglv shanshui style using decorative mineral pigments, malachite and azurite tones, and gold-outlined accents. A long-haired black cat inside an ancient cavern reaches out its front paw to play with an ancient gold tomb coin in clear spring water. Energetic water splash with crystalline liquid arcs and frozen bursting droplets around the coin. Frame-within-a-frame composition viewed through an ancient cavern stone arch opening. Dynamic underwater caustic lighting casts rippling light patterns and refracted sun shafts through the water. Luxurious gold and black color scheme with deep black background and opulent metallic gold highlights. The text '2026-08-12 23:28 UTC' is visibly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "土耳其（Turkey）阿斯潘多斯（Aspendos）考古團隊發現了一座距今約 2,400 年前的古墓，墓主人身旁伴隨多枚印有角力圖案的古代硬幣，研判可能屬於一位古代角力選手。",
+    "number": 2903
   }
 ]
