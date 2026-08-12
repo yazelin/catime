@@ -6271,5 +6271,41 @@
       "繁體中文與英文文字規範"
     ],
     "comment_id": 5272129133
+  },
+  {
+    "title": "鏡中霧語的律動",
+    "comment_id": 5272488797,
+    "number": 2900,
+    "idea": "在一間充滿陽光的溫室植物園裡，一隻三花貓正在用爪子輕輕撥弄微型水滴噴霧器，整張畫面融入了數位脈衝感的故障藝術風格。",
+    "prompt": "A calico cat in a sunlit greenhouse botanical garden, gently touching a miniature water droplet sprayer with its paw, surrounded by rare tropical ferns. The image features a glitch art aesthetic with digital distortion, RGB channel shift, scan line artifacts, and fragmented visuals. Embedded within a recursive Droste effect, the soft-focus scene repeats infinitely in a self-referential loop. High-contrast venetian blind striped lighting casts hard parallel light-and-shadow bands across the subject. A dreamy, soft-focus matte haze creates a hazy atmospheric softness over a soft pastel color palette of gentle pink, lavender, mint, and baby blue. Visually displaying the date and time '2026-08-12 20:31 UTC' overlaid on the image in crisp text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在英國薩里，薩里大學的研究人員發現只要在鈉離子電池內保留微量水分，就能使其電量提升將近一倍，大幅突破綠能技術。",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Venetian Blind Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "巨型金屬圓盤",
+      "鐵絲網圍欄",
+      "四腳伏臥姿勢",
+      "色板邊框設計",
+      "月夜靛藍色調",
+      "磨砂玻璃容器",
+      "黃金時刻光線",
+      "硬光強烈陰影",
+      "專注凝視或撥弄",
+      "頂視俯瞰構圖",
+      "全身居中直幅",
+      "標註時間戳記"
+    ],
+    "story": "這隻好奇的三花貓穿梭在罕見的熱帶蕨類植物之間，專注地研究著氣霧噴嘴微小變化帶來的清涼感。隨著牠每一次好奇的探觸，四周柔焦霧面的綠葉與粉彩色調的景致彷彿在層層遞進的畫面中無限重複延伸。",
+    "news_inspiration": [
+      "在西班牙馬德里與周邊城鎮，數以百萬計的觀光客與天文迷盛大聚集，共同觀賞罕見的日全食與英仙座流星雨雨夜聯袂出現的天空奇景。",
+      "在美國加州，史丹佛大學的研究團隊發現扁蟲體內有一種特殊的免疫細胞，能在數分鐘內如「微型炸彈」般自我爆炸以迅速消滅周遭的有害細菌。",
+      "在日本大阪，大阪大學的科學家成功運用人工智慧模型，破解了水在超冷狀態下微觀結構變化的世紀物理謎團。",
+      "在英國薩里，薩里大學的研究人員發現只要在鈉離子電池內保留微量水分，就能使其電量提升將近一倍，大幅突破綠能技術。"
+    ]
   }
 ]
