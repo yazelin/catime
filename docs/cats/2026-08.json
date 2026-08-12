@@ -6237,5 +6237,39 @@
       "貓咪專注凝視或撥弄特定物件",
       "繁體中文與英文文字規範"
     ]
+  },
+  {
+    "story": "這隻老車庫的大花貓總喜歡在傍晚黃金時刻陪著老黑手修理骨董車。畫面細緻呈現牠趴在佈滿沙質紋理的地面上，好奇地用爪子滾動金屬扳手的畫面，將日常工作化為逗趣的角色生活拼貼。",
+    "idea": "採用青花瓷藝術風格呈現的多格角色拼貼，記錄一隻花貓在黃金時刻的沙質紋理老車庫裡，認真以四腳伸展撥動油污扳手的靈動瞬間。",
+    "number": 2899,
+    "news_inspiration": [
+      "美國科羅拉多州（Colorado, USA）古生物學家研究發現一條距今1.5億年的恐龍足跡化石，完整紀錄了一頭巨大蜥腳類恐龍轉圈繞行的罕見步態。",
+      "加拿大（Canada）一個小鎮正式通過《世界樹木權利宣言》，成為全球第一個立法賦予樹木基本權利保障的市政當局。",
+      "英國布拉德福德（Bradford, UK）一間清真寺為50歲以上長者開設皮拉提斯健身課程，溫馨歡樂的課堂影片在網路上吸引了數百萬人次觀看。",
+      "印度孟買（Mumbai, India）一名計程車司機將乘客遺失的高價手機完好歸還，獲得溫馨報酬並贏得廣大網友的讚揚。"
+    ],
+    "prompt": "A multi-panel character montage grid in traditional blue and white porcelain art style, depicting a playful calico cat stretched out on four paws in an old vintage garage, curiously nudging a greasy metal wrench with its paws. The composition features comic-style cells in a cohesive collage layout showing the single character in several lively poses and expressions across the grid. The illustration combines a white glazed base, cobalt blue floral motifs, and a delicate crackle texture with warm golden hour lighting, creating a warm sunset glow, long soft shadows, and golden rim light on the cat. The garage floor shows fine sand texture with desert dune ripples and warm golden granules. High saturation vivid colors with an energetic palette of deep cobalt blue and warm gold. Visually displayed clearly in sleek English typography within the image is the timestamp '2026-08-12 19:54 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "黃昏車庫的青花爪痕",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Golden Hour",
+      "texture": "Sand Texture",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "考那斯科學島巨型圓盤建築",
+      "莫蘭迪色調",
+      "生物發光微光",
+      "全身居中直幅構圖",
+      "蝴蝶光/體積光照耀",
+      "時間戳記標籤",
+      "復古底片質感與粒子",
+      "極低角度或對角線構圖",
+      "貓咪專注凝視或撥弄特定物件",
+      "繁體中文與英文文字規範"
+    ],
+    "comment_id": 5272129133
   }
 ]
