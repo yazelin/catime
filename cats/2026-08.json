@@ -6009,5 +6009,40 @@
       "復古底片與相機風格質感",
       "時間戳記與Traditional Chinese標註"
     ]
+  },
+  {
+    "story": "在瑞士巴塞爾的深夜實驗室裡，科學家正透過光線探測極為罕見的量子運動。一隻四腳著地的三花貓趴在實驗檯前，透過磨砂玻璃觀察著光束微粒的跳躍，神情專注如同在守護這項微觀世界的奇蹟。",
+    "prompt": "A full-body vertical portrait, candid photograph shot on a 50mm lens at f/1.8 with shallow depth of field and subtle film grain. A calico cat stands on all fours on a laboratory table inside a Basel underground lab, staring intently at glowing light particles dancing inside a translucent frosted glass container. The entire figure is centered in a tall frame with head-to-toe framing in a dreamy product photography style. The scene is illuminated by warm orange flickering candlelight, creating an intimate atmosphere with soft dancing shadows and diffused light transmission through the matte frosted glass surface. Warm amber color grading featuring an autumn color scheme of golden yellows and burnt orange, hero object on a soft gradient backdrop with glossy reflections and polished commercial still life aesthetic. The text '2026-08-12 11:37 UTC' is visually displayed clearly in the corner in crisp English digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓爪觸碰或撥弄物體",
+      "前爪延伸/試圖爪抓",
+      "藍黃/青藍 complementary 對比色調",
+      "生物發光與微光擴散光效",
+      "紙質/宣紙/肌理畫質質感",
+      "體積光與耶穌光束",
+      "輪廓光與背光邊緣發光",
+      "微縮模型/移軸視覺效果",
+      "滿版/對角線與強烈透視構圖",
+      "復古底片與相機風格質感",
+      "時間戳記與Traditional Chinese標註"
+    ],
+    "comment_id": 5266307274,
+    "news_inspiration": [
+      "在冰島雷克雅維克與西班牙等多地，2026年8月12日迎來極為罕見的日全食與英仙座流星雨交織的夜空奇觀，掀起全球天文愛好者的觀星熱潮。",
+      "美國西雅圖一名大學生在華盛頓湖參加節慶活動時，機警發現並及時救起三名瀕臨溺水的女孩，暖心義舉獲得當地民眾讚揚。",
+      "瑞士巴塞爾的大學研究團隊成功利用光線探測極為罕見的「維格納晶體」，首度揭開內部電子的集體量子運動現象。",
+      "中國廣東省清遠市兩名因醫院抱錯而分開37年的女子，經DNA檢測發現真相後相認，驚覺兩人多年來竟一直生活在距離僅4公里的同一個城市。"
+    ],
+    "title": "琥珀光裡的微觀守護",
+    "number": 2892,
+    "inspiration": "瑞士巴塞爾的大學研究團隊成功利用光線探測極為罕見的「維格納晶體」，首度揭開內部電子的集體量子運動現象。",
+    "style_picks": {
+      "art_style": "Dreamy Product Photography",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Candlelight",
+      "texture": "Frosted Glass",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "這是一組採用夢幻商品攝影風格的全身居中直幅作品，描繪一隻貓咪在充滿秋日琥珀色調與燭光照耀的巴塞爾地下實驗室中，緊盯著磨砂玻璃容器內的光線微粒變化。"
   }
 ]
