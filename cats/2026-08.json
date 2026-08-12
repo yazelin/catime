@@ -6338,5 +6338,41 @@
     "number": 2901,
     "comment_id": 5273062632,
     "news_inspiration": []
+  },
+  {
+    "comment_id": 5273544886,
+    "news_inspiration": [
+      "根據最新科學發現，在美國科羅拉多州烏雷（Ouray），科學家研究了具有1.5億年歷史的罕見恐龍足跡，發現一隻巨大的蜥腳類恐龍曾在此走了一個完整的圈，且步伐顯示牠當時可能正跛腳前行。",
+      "在印度孟買，一名網約車司機拾金不昧地將乘客遺留在車上的iPhone 16送還，並獲得了乘客給予的2500盧比獎勵，成為近日一則溫暖人心的生活佳話。",
+      "在澳洲新南威爾斯州的偏遠城鎮奧倫（Oallen），警方原本為了一個疑似裝有遺體的遭棄置行李箱而嚴陣以待地啟動調查，最終卻發現裡面只是一個極度逼真的洋娃娃，引發了一場啼笑皆非的烏龍。",
+      "英國薩里（Surrey）的科學團隊近期在實驗中意外發現，只需將水分保留在鈉離子電池內部便能使其電力幾乎倍增，為未來的綠能發展與海水淡化技術帶來了驚喜的科學突破。"
+    ],
+    "avoid_list": [
+      "巨型金屬圓盤",
+      "鐵絲網圍欄",
+      "四腳伏臥姿勢",
+      "色板邊框設計",
+      "月夜靛藍色調",
+      "磨砂玻璃容器",
+      "黃金時刻光線",
+      "硬光強烈陰影",
+      "專注凝視或撥弄",
+      "頂視俯瞰構圖",
+      "全身居中直幅",
+      "標註時間戳記"
+    ],
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Frame Within a Frame",
+      "lighting": "Neon Lighting",
+      "texture": "Origami",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A paper diorama scene of a miniature greenhouse crafted from three-dimensional layered paper sculpture. A calico origami cat with clean geometric creases and sharp angular folds is playfully pulling and biting a glowing neon pink plant seedling suspended in mid-air. High saturation vivid colors with an energetic palette of bold vibrant hues throughout the folded paper art. Frame within a frame composition, viewing the mischievous scene through an arching window opening of the greenhouse structure. Neon lighting casts colorful glowing light through translucent paper layers. In the bottom corner, the text '2026-08-12 22:28 UTC' is cleanly displayed in crisp English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "idea": "這是一座採用立體紙藝景風格打造的微型溫室，運用摺紙質感與高飽和鮮豔色的紙材層層堆疊，一隻幾何造型的摺紙三花貓正張口咬住並拉扯著吊掛在半空中的螢光粉紅植物幼苗。",
+    "title": "霓彩溫室的紙雕奇遇",
+    "number": 2902,
+    "story": "在高飽和鮮豔色紙材剪裁出的溫室紙雕層次中，幾何切面的三花貓正伸長爪子，頑皮地拉扯剛發芽的螢光植物。溫室外的框架形成了巧妙的框中框構圖，將這幕被絢麗霓虹燈光照亮的花園惡作劇完美定格。"
   }
 ]
