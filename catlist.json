@@ -27027,5 +27027,14 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "is_seasonal": true,
     "character": "momo"
+  },
+  {
+    "inspiration": "科學家與公民志工在澳大利亞凱恩斯附近的巨堡礁，發現一座面積廣達近4,000平方公尺的巨型珊瑚群，為當地海洋生態帶來令人振奮的新發現。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "timestamp": "2026-08-12 03:20 UTC",
+    "number": 2887,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-12_0320_UTC.webp",
+    "title": "珊瑚暗夜的深海探針"
   }
 ]

@@ -5830,5 +5830,41 @@
       "texture": "Three-Dimensional Floral Appliqué",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "inspiration": "科學家與公民志工在澳大利亞凱恩斯附近的巨堡礁，發現一座面積廣達近4,000平方公尺的巨型珊瑚群，為當地海洋生態帶來令人振奮的新發現。",
+    "comment_id": 5261895211,
+    "idea": "採用黑色電影風格與紙質肌理，呈現一隻玳瑁貓在墨色海床間用前爪撥弄著如火山噴發般微光的巨型珊瑚，朱紅與留白的視覺強烈交織出深海謎團。",
+    "prompt": "Film noir style illustration on textured watercolor paper with visible fiber grain. High contrast monochrome with a bold vermilion red and clean negative-space white palette, minimalist oriental balance. Forced perspective composition with dynamic foreshortening showing a tortoiseshell cat crouching on a ancient giant coral reef in the deep sea, reaching its front paw forward to touch large glowing bioluminescent coral branches. Dramatic deep shadows, mysterious atmosphere, deep blue-green radiance and vermilion light spreading outwards like ink on paper from the organism's organic glow upon contact. Clean graphic elegance. Plain text displaying '2026-08-12 03:20 UTC' clearly written in crisp white English typography in the lower corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Bioluminescence",
+      "texture": "Paper Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "story": "夜色潛入大堡礁深處，貓咪蹲伏於沉積萬年的巨型珊瑚岩層上，凝視著枝椏間明滅不定的生物發光體。每一次爪尖輕觸，微光便如朱砂般在宣紙肌理的海底擴散開來，悄然揭開這片未知水域的沉寂古話。",
+    "number": 2887,
+    "news_inspiration": [
+      "2026年8月12日，罕見的日全食景觀橫跨北半球，並在西班牙阿科魯尼亞與馬略卡島等地上演壯麗的「日落日全食」，吸引全球無數天文迷與旅遊者聚集觀賞。",
+      "科學家與公民志工在澳大利亞凱恩斯附近的巨堡礁，發現一座面積廣達近4,000平方公尺的巨型珊瑚群，為當地海洋生態帶來令人振奮的新發現。",
+      "英國伯明罕大學的研究團隊推出名為 fuelsync 的檢測技術，協助耐力型運動員精準調配運動中的個體化碳水化合物補給量。",
+      "年度天象盛事英仙座流星雨於8月12日夜晚迎來極大期，在無月光干擾的優質條件下，於全球北半球多個國家引發夜間觀星熱潮。"
+    ],
+    "title": "珊瑚暗夜的深海探針",
+    "avoid_list": [
+      "繁體中文/正體字排他約束",
+      "月夜靛藍色調",
+      "竹影翠綠色調",
+      "高飽和鮮豔色",
+      "科幻/微光環形燈",
+      "雙色調/魚拓/水墨長卷風格",
+      "時間戳記標記 (2026-08-11)",
+      "極低角度仰拍/俯瞰視角",
+      "微縮模型/移軸質感",
+      "輪廓光與戲劇性打光",
+      "專注注視/爪子前伸撲抓動作",
+      "異色瞳/鏡像水窪倒影"
+    ]
   }
 ]
