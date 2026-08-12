@@ -5902,5 +5902,41 @@
     ],
     "title": "貓咪日常",
     "idea": ""
+  },
+  {
+    "news_inspiration": [
+      "加拿大多倫多（Toronto, Canada）：多倫多動物園喜迎瀕危矮河馬寶寶誕生，其可愛的照片與影片迅速吸引全球關注。",
+      "澳大利亞凱恩斯（Cairns, Australia）：公民科學團隊在凱恩斯外海發現了一座面積近4,000平方公尺的巨型珊瑚群落，相當於半個足球場大小。",
+      "英國倫敦（London, UK）：倫敦大學學院最新發表研究指出，每天只要將15分鐘的久坐或睡眠替換為身體活動，就能降低2%罹患癌症的風險。",
+      "丹麥哥本哈根（Copenhagen, Denmark）：當地推廣創新的「真人圖書館」活動，讓民眾可以像借閱書籍一樣「借閱」不同背景的真人並聆聽彼此的人生故事。"
+    ],
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Leading Lines Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Wood Grain",
+      "color_palette": "Festive Red and Gold"
+    },
+    "title": "書廊裡的時光借閱",
+    "idea": "這是一幅採用90年代底片風格拍攝的作品，一隻三花貓趴在老圖書館的木紋長桌上撥弄著舊照片。兩側高聳書架形成自然的引導線構圖，穿透高窗的體積光將中國紅金的溫暖色調灑滿整座閱覽室。",
+    "number": 2889,
+    "prompt": "1990s camera style photography, 35mm lens, candid shot, nostalgic film grain, direct flash feeling. A calico cat lying on a natural wood grain texture table with visible knots, gently nudging old photo albums with its paw in an old traditional library reading room. High towering bookshelves on both sides create a leading lines composition with converging perspective lines guiding the eye toward the cat. Afternoon golden light streaming through high windows forming volumetric lighting, visible light rays, god rays, and glowing dust particles catching light. Dominant warm festive palette featuring auspicious Chinese red and bright gold accents. Displayed visually in the corner as orange film timestamp date and time text: '2026-08-12 07:05 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5263489647,
+    "story": "在創新的真人圖書館閱覽室裡，貓咪趴在溫潤的木質案頭，專注地用爪子踩按著一本記載不同人生故事的影集。午後的金色光束穿透窗櫺，如體積光般照亮空氣中的微塵，讓紅金相間的古老長廊沉浸在歲月的溫柔記憶中。",
+    "inspiration": "丹麥哥本哈根（Copenhagen, Denmark）：當地推廣創新的「真人圖書館」活動，讓民眾可以像借閱書籍一樣「借閱」不同背景的真人並聆聽彼此的人生故事。",
+    "avoid_list": [
+      "繁體中文/正體字排他約束",
+      "月夜靛藍色調",
+      "竹影翠綠色調",
+      "高飽和鮮豔色",
+      "科幻/微光環形燈",
+      "雙色調/魚拓/水墨長卷風格",
+      "時間戳記標記 (2026-08-11)",
+      "極低角度仰拍/俯瞰視角",
+      "微縮模型/移軸質感",
+      "輪廓光與戲劇性打光",
+      "專注注視/爪子前伸撲抓動作",
+      "異色瞳/鏡像水窪倒影"
+    ]
   }
 ]
