@@ -5938,5 +5938,40 @@
       "專注注視/爪子前伸撲抓動作",
       "異色瞳/鏡像水窪倒影"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5264624071,
+    "story": "考那斯半空中懸掛著巨大的金屬巨盤科學館，夜幕下的靛藍月光透過紗網薄透肌理籠罩著庭園。貓咪巧妙地躲開保安，熟練地跳上光學台，以優雅的姿勢為鏡頭抹上一層微濕的痕跡，彷彿在為星空塗抹專屬的痕跡。",
+    "number": 2890,
+    "title": "金屬盤下的星夜凝視",
+    "news_inspiration": [
+      "在立陶宛考那斯，全新的「科學島」展出了一座重達250噸、宛如懸浮於半空的金屬巨盤建築，搭配先進的天文館成為極具視覺震撼的科學文化地標。",
+      "美國馬里蘭州弗雷德里克正式舉行「非裔美國人遺產中心」的開幕典禮，透過豐富的社區文史展示保存並致敬當地的非裔文化歷史。",
+      "肯亞成功舉辦了首度在非洲登場的「我們的海洋大會」，並促成全球各界承諾投入64億美元用於促進全球海洋保育與永續發展。",
+      "尼泊爾的全國野生虎保育計畫展現卓越成效，最新數據顯示其野生虎總數已大幅成長至429隻，達到2010年數量的近四倍。"
+    ],
+    "idea": "在融合米提拉畫風與月夜靛藍色調的畫幅中，一隻斑紋貓伏臥於懸浮金屬巨盤下方的機械觀測台，專注地舔舐著鍍銀天文望遠鏡的鏡頭，整副構圖由配色條邊框精緻包覆。",
+    "prompt": "A Mithila and Madhubani folk art style illustration featuring a tabby cat lying on a mechanical observation platform beneath a giant floating metal disc, intently licking the silver-plated lens of an astronomical telescope. Intricate geometric and floral patterns decorate the scene with sheer gauze mesh textures and gossamer transparency. Lit by a deep moonlit indigo palette with night-blue, violet tones, cool silvery highlights, and dramatic chiaroscuro Rembrandt lighting. The composition is framed on both sides by vertical color palette swatch bars in a design moodboard aesthetic. Visible text reading '2026-08-12 08:58 UTC' is cleanly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在立陶宛考那斯，全新的「科學島」展出了一座重達250噸、宛如懸浮於半空的金屬巨盤建築，搭配先進的天文館成為極具視覺震撼的科學文化地標。",
+    "avoid_list": [
+      "貓爪觸碰或撥弄物體",
+      "前爪延伸/試圖爪抓",
+      "藍黃/青藍 complementary 對比色調",
+      "生物發光與微光擴散光效",
+      "紙質/宣紙/肌理畫質質感",
+      "體積光與耶穌光束",
+      "輪廓光與背光邊緣發光",
+      "微縮模型/移軸視覺效果",
+      "滿版/對角線與強烈透視構圖",
+      "復古底片與相機風格質感",
+      "時間戳記與Traditional Chinese標註"
+    ]
   }
 ]
