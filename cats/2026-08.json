@@ -5973,5 +5973,41 @@
       "復古底片與相機風格質感",
       "時間戳記與Traditional Chinese標註"
     ]
+  },
+  {
+    "news_inspiration": [
+      "在西班牙與冰島，2026年8月12日迎來本世紀歐洲的首場日全食奇景，吸引全球無數天文迷與研究團隊前來觀賞。",
+      "在立陶宛考納斯，全新登場的「科學島」展出一個重達250公噸且彷彿懸浮於半空的巨型金屬圓盤，成為極具視覺震撼的科學設計新地標。",
+      "在英國蘇格蘭，政府通過最新保育法規，強制規定所有新建住宅均須埋設專用的「雨燕磚」巢箱，幫助遠程遷徙的鳥類安家。",
+      "在奧地利維也納，學者研究發現一頭名為Veronika的母牛竟然懂得操縱與使用工具，成為人類史上首例被記錄到具備多功能工具使用能力的大型家畜。",
+      "在美國弗雷德里克，全新的非裔美國人文化遺產中心隆重盛大開幕，透過豐富展覽保存並傳承當地深厚的歷史文化。"
+    ],
+    "number": 2891,
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Extreme Low Angle",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "在烈日照射下，一隻貓咪靜靜趴在新建屋頂上，目不轉睛地看著剛搬入「雨燕磚」的遷徙鳥類穿梭。強烈的野獸派線條與柔和莫蘭迪色彩交織，勾勒出貓咪與自然和諧共存的午後景象。",
+    "comment_id": 5265234522,
+    "prompt": "A Fauvism art illustration captured from an extreme low-angle perspective, looking up at a tabby cat crouched intently on the low eaves of a Scottish new-build home. Birds soar around a swift brick nest box embedded in the exterior wall. Features bold non-naturalistic colors, textured impasto brushwork, and simplified forms. Harsh midday sunlight casts strong, hard-edged shadows alongside shimmering iridescent holographic textures across the scene, blending soft desaturated Morandi pastel tones with dusty grey undertones. Visually displaying the date and time '2026-08-12 10:00 UTC' stamped in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以野獸派風格呈現，一隻斑紋貓伏在蘇格蘭新建住宅的極低角度屋簷邊，凝視雨燕磚巢箱周圍飛翔的鳥群，畫面上硬光日照映射出虹彩全息質感與莫蘭迪色調。",
+    "title": "屋檐下的遠方訪客",
+    "inspiration": "在英國蘇格蘭，政府通過最新保育法規，強制規定所有新建住宅均須埋設專用的「雨燕磚」巢箱，幫助遠程遷徙的鳥類安家。",
+    "avoid_list": [
+      "貓爪觸碰或撥弄物體",
+      "前爪延伸/試圖爪抓",
+      "藍黃/青藍 complementary 對比色調",
+      "生物發光與微光擴散光效",
+      "紙質/宣紙/肌理畫質質感",
+      "體積光與耶穌光束",
+      "輪廓光與背光邊緣發光",
+      "微縮模型/移軸視覺效果",
+      "滿版/對角線與強烈透視構圖",
+      "復古底片與相機風格質感",
+      "時間戳記與Traditional Chinese標註"
+    ]
   }
 ]
