@@ -27108,5 +27108,16 @@
     "title": "星系與舌尖的重疊",
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-12_1644_UTC.webp",
+    "character": "mochi",
+    "timestamp": "2026-08-12 16:44 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "title": "麵包香裡的橘手套",
+    "number": 2896,
+    "character_name": "麻糬"
   }
 ]
