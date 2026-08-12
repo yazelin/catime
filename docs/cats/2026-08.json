@@ -6044,5 +6044,40 @@
       "color_palette": "Warm Tones (Amber / Autumn)"
     },
     "idea": "這是一組採用夢幻商品攝影風格的全身居中直幅作品，描繪一隻貓咪在充滿秋日琥珀色調與燭光照耀的巴塞爾地下實驗室中，緊盯著磨砂玻璃容器內的光線微粒變化。"
+  },
+  {
+    "comment_id": 5266961159,
+    "inspiration": "立陶宛考那斯（Kaunas, Lithuania）的「科學島」打造了一座重達250公噸、彷彿懸浮於半空的巨型金屬圓盤建築，並結合波羅的海地區最先進的天文館開放民眾探索科學奧秘。",
+    "number": 2893,
+    "idea": "採用運動追焦攝影風格，一隻橘貓在立陶宛考那斯「科學島」巨型圓盤建築旁的鐵絲網圍欄邊高速奔馳，全身居中呈現於直幅畫面的霓虹燈光與青橙電影調光影中。",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Neon Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "霓虹極速下的巡夜者",
+    "news_inspiration": [
+      "西班牙馬德里（Madrid, Spain）與北部多個城市於2026年8月12日迎來難得一見的日全食盛況，吸引數百萬名來自世界各地的天文愛好者與遊客前來共同見證這場壯麗的自然奇觀。",
+      "立陶宛考那斯（Kaunas, Lithuania）的「科學島」打造了一座重達250公噸、彷彿懸浮於半空的巨型金屬圓盤建築，並結合波羅的海地區最先進的天文館開放民眾探索科學奧秘。",
+      "美國馬里蘭州弗雷德里克（Frederick, USA）於近日隆重舉行非裔美國人遺產中心的開幕典禮，透過珍貴歷史文物與社區合作，慶祝並保存在地豐富的非裔文化與歷史。",
+      "瑞士巴塞爾（Basel, Switzerland）的大學研究團隊成功利用極低溫光學技術揭開了「維格納晶體」中電子的集體運動規律，為量子物理研究領域帶來突破性的全新發現。"
+    ],
+    "avoid_list": [
+      "貓爪觸碰或撥弄物體",
+      "前爪延伸/試圖爪抓",
+      "藍黃/青藍 complementary 對比色調",
+      "生物發光與微光擴散光效",
+      "紙質/宣紙/肌理畫質質感",
+      "體積光與耶穌光束",
+      "輪廓光與背光邊緣發光",
+      "微縮模型/移軸視覺效果",
+      "滿版/對角線與強烈透視構圖",
+      "復古底片與相機風格質感",
+      "時間戳記與Traditional Chinese標註"
+    ],
+    "story": "夜幕降臨於科學島，這隻巡視領地的橘貓在炫目的青橙霓虹燈光下疾速穿梭。高速追焦鏡頭捕捉到牠越過纏繞鐵絲網時那敏捷躍動的全身姿態，流暢的動態模糊背景更襯托出牠專注眼神中的野性魅力。",
+    "prompt": "Sports panning photograph of a full-body orange cat sprinting at high speed beside a tangled chain-link wire mesh fence next to the giant disc building of Science Island in Kaunas, Lithuania. Vertical portrait, entire cat centered in a tall frame from head to toe. Frozen subject with motion-blurred background, dynamic high shutter speed action capture shot on 35mm lens, f/2.8, shallow depth of field, subtle film grain. Moody night atmosphere with vibrant neon lighting and reflections on wet ground. Cinematic teal and orange color grading with cool blue-green shadows and warm orange highlights. The text '2026-08-12 12:40 UTC' is visually displayed in the corner of the frame in clean English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
