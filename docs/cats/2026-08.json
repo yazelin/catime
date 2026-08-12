@@ -6109,5 +6109,39 @@
     "idea": "這是一張採用街頭攝影風格的照片，一隻橘貓正蹲坐在老舊港口咖啡館的拱門木框下，專注地凝視著剛進港的漁船與卸貨漁夫；畫面融入穆夏式拱框構圖與蝴蝶光，呈現出帶有描金墨線線條與復古褪色色調的街頭日常。",
     "inspiration": "original",
     "number": 2894
+  },
+  {
+    "comment_id": 5269147935,
+    "news_inspiration": [
+      "立陶宛考納斯的「科學島」展示了一座重達250公噸且看似懸浮在半空的巨型金屬圓盤建築，為新開幕的科技館增添視覺奇觀。",
+      "美國馬里蘭州弗雷德里克盛大成立「非裔美國人遺產中心」，透過豐富的展覽保存並珍視當地社區的歷史文化。",
+      "澳大利亞墨奇森的 ASKAP 無線電望遠鏡順利完成深空氫氣巡天計畫，成功探索數十億光年外的遠古星系。",
+      "津巴布韋卡里巴的「疫苗單車隊」衛生人員騎著自行車深入偏遠村莊，將健康防護直接送到偏遠地區的青少年家中。"
+    ],
+    "inspiration": "澳大利亞墨奇森的 ASKAP 無線電望遠鏡順利完成深空氫氣巡天計畫，成功探索數十億光年外的遠古星系。",
+    "avoid_list": [
+      "考那斯科學島巨型圓盤建築",
+      "莫蘭迪色調",
+      "生物發光微光",
+      "全身居中直幅構圖",
+      "蝴蝶光/體積光照耀",
+      "時間戳記標籤",
+      "復古底片質感與粒子",
+      "極低角度或對角線構圖",
+      "貓咪專注凝視或撥弄特定物件",
+      "繁體中文與英文文字規範"
+    ],
+    "number": 2895,
+    "story": "在澳大利亞深空的電波監測站旁，這隻黑貓無意間在科研人員的儀器盤上翻倒了餐盤。夜色中，無垠宇宙的氫氣星系軌跡透過透亮的透明樹脂材質映照在牠的身軀上，與漫射的柔光交織成一幅遙遠星空與當下生命的奇妙重疊。",
+    "title": "星系與舌尖的重疊",
+    "idea": "這是一幅採用雙重曝光風格的作品，一隻深色貓咪正低頭舔舐著鑲嵌於金屬圓塊上的奶油，其軀幹與古老深空星系的影像自然重疊，整體以配色條邊框呈現出奢華的金色與黑色調。",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "A double exposure illustration framed by vertical color palette swatch bars on both sides in a portfolio presentation format and Korean illustrator signature layout. A dark cat is lowered, licking cream off a metallic circular disc. Its body seamlessly blends with a overlapping dark deep space galaxy, showing hydrogen galaxy trails. Soft diffused natural light creates gentle tones and translucent resin material with embedded elements visible inside an amber-like clarity. Color palette features a luxurious metallic gold accents and a deep black background, creating an opulent mood. Modern, clean typography clearly displays the timestamp text '2026-08-12 15:47 UTC' in English near the bottom corner of the image layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
