@@ -6179,5 +6179,34 @@
     "story": "老街麵包店的大理石檯面上，剛出爐的肉桂捲散發著濃郁肉桂與黑糖香氣。肚皮圓滾滾的麻糬禁不起誘惑，悄悄探出頭，睜大兩倍大的琥珀色圓眼，伸出那隻招牌橘色手套前腳準備「試吃」。",
     "character_name": "麻糬",
     "idea": "採用鋼筆淡彩插畫與頭肩特寫構圖，白底去背棚光照亮麻糬的大理石質感餐檯，展現牠在大地色系老街麵包店裡，好奇地伸出橘色手套前腳偷蹭剛出爐肉桂捲的呆萌瞬間。"
+  },
+  {
+    "avoid_list": [
+      "考那斯科學島巨型圓盤建築",
+      "莫蘭迪色調",
+      "生物發光微光",
+      "全身居中直幅構圖",
+      "蝴蝶光/體積光照耀",
+      "時間戳記標籤",
+      "復古底片質感與粒子",
+      "極低角度或對角線構圖",
+      "貓咪專注凝視或撥弄特定物件",
+      "繁體中文與英文文字規範"
+    ],
+    "inspiration": "original",
+    "story": "在廢棄溫室殘破的鐵鏽支架下，花貓正伸出前爪專注地撥弄一塊卡在花叢間的古老黃銅齒輪。頂上強烈的陽光穿透破裂玻璃，將藍調的影痕與鮮明的光斑一同刻畫在繁花與貓咪斑紋之上。",
+    "title": "藍調鋼鐵與花之夢",
+    "idea": "這是一副建築視覺化渲染風格的畫面，一隻花貓俯臥在滿布鐵鏽舊化斑駁金屬片與殘破花海中，於硬光日照下投射出強烈陰影，整體籠罩在月夜靛藍的色彩基調裡。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Architectural Visualization Render",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Rust / Weathered",
+      "color_palette": "Moonlit Indigo"
+    },
+    "number": 2897,
+    "comment_id": 5270475689,
+    "prompt": "Architectural visualization render in a top-down bird's-eye flat-lay composition. Under the rusted, oxidized metal frame of a ruined greenhouse, a calico cat lies prone, extending its front paw to play with an ancient brass gear entangled in a dense bed of broken blossoms. Harsh direct sunlight streams through shattered glass, casting sharp, hard-edge shadows and bright light spots across the scene. The color scheme is dominated by a moonlit indigo palette with deep night-blue, violet tones, and warm orange-brown corrosion textures. Photoreal CGI quality with clean global illumination. The text '2026-08-12 17:48 UTC' is cleanly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
