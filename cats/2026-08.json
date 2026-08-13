@@ -6688,5 +6688,39 @@
     "story": "盛夏午後，老宅的竹蓆上映著從高處灑下的蝴蝶光，帶來一絲優雅的清涼。墨墨伸展著純黑流暢的軀體，金琥珀色的眼睛被眼前精巧的紅色輪椅機構吸引，悄悄伸出輕盈的黑爪探向細緻的細節。金箔潑點在朱紅與大理石留白間微微閃爍，宛如這座靜謐宅邸中一幅兼具時尚感與溫度的現代藝術品。",
     "inspiration": "美國華盛頓州一名13歲少年耗費300小時利用3D列印技術，為一名肢體不便的幼童量身打造了一台客製化輪椅。",
     "character": "momo"
+  },
+  {
+    "number": 2912,
+    "prompt": "這幅賽璐璐著色風格的作品採用居中主體構圖，描繪一隻橘貓正趴伏在懸浮金屬圓盤頂端，好奇地用前腳勾伸下方垂掛的織品天幕，整座建築在濃厚的朱紅描金調性與斜照的體積光中熠熠生輝。. The date and time '2026-08-13 14:13 UTC' is visually displayed in the image. Cel shaded art, flat color areas with bold outlines, toon shading, sharp shadow edges, cartoon rendering, anime game look, centered subject composition, single focal point dead center, balanced symmetrical framing, clean surrounding space, direct iconic presentation, volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, dramatic depth, woven fabric texture, visible threads, linen or cotton weave pattern, tactile soft appearance, vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, ornate restrained warmth IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "金穹下的雲端抓痕",
+    "idea": "這幅賽璐璐著色風格的作品採用居中主體構圖，描繪一隻橘貓正趴伏在懸浮金屬圓盤頂端，好奇地用前腳勾伸下方垂掛的織品天幕，整座建築在濃厚的朱紅描金調性與斜照的體積光中熠熠生輝。",
+    "avoid_list": [
+      "三花貓與植物園",
+      "框中框構圖",
+      "復古黑膠唱片行",
+      "低多邊形風格",
+      "古老山洞與硬幣",
+      "青橙電影調",
+      "玻璃容器置入構圖",
+      "螢光霓虹色彩",
+      "時間戳記文字",
+      "繁體中文與英文文字限制"
+    ],
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Centered Subject Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Fabric / Textile",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "news_inspiration": [
+      "美國劍橋的研究團隊利用韋伯太空望遠鏡，在早期宇宙中發現一種大小相當於整個太陽系、散發璀璨紅光的全新天體「黑洞星」。",
+      "考古學家在土耳其薩爾迪斯古城遺址中，挖掘出一尊高約2.1公尺、擁有2500年歷史且身著罕見服飾的巨型大理石雕像。",
+      "立陶宛考納斯迎來「科學島」的新地標，其特色是一座懸浮於半空中重達250公噸的金屬圓盤建築，內設波羅的海地區最先進的天文館。",
+      "位於澳洲墨奇森的天文台利用射電望遠鏡完成跨時代的深空巡天計畫，成功捕捉到數百億光年外遠古星系中的氫氣雲團與黑洞訊號。"
+    ],
+    "inspiration": "立陶宛考納斯迎來「科學島」的新地標，其特色是一座懸浮於半空中重達250公噸的金屬圓盤建築，內設波羅的海地區最先進的天文館。",
+    "comment_id": 5281615979,
+    "story": "考納斯地平線上懸浮的巨大圓盤內，投影著百億光年外的星空。貓咪將天窗外鋪設的防塵布織品當成了龐大的玩具，爪子每牽動一次布條，就在閃耀的金光中為天文館打下一片獨特的陰影。"
   }
 ]
