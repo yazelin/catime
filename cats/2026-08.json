@@ -6510,5 +6510,42 @@
       "color_palette": "Teal and Orange"
     },
     "inspiration": "original"
+  },
+  {
+    "comment_id": 5277207077,
+    "story": "鈴鈴脖子上的粉紅鈴鐺發出叮鈴清響，在鋪滿朱紅與描金花紋的屏風前追著一隻亮晶晶的蝴蝶。輕盈的紗網肌理與背光輪廓讓她那如白色羽毛撢子般的尾巴與蓬鬆白毛散發柔光，一不小心撞上屏風時，甚至在兩邊留下了如靈動魚拓般的反差影子。",
+    "inspiration": "original",
+    "number": 2907,
+    "avoid_list": [
+      "伸爪撥弄/偷蹭物件",
+      "三花貓 / 花貓",
+      "溫室植物園場景",
+      "純英文時間戳記文字",
+      "框中框構圖 (Frame-within-a-frame)",
+      "黑金奢華配色與金屬質感",
+      "多格/多視角拼貼 (Multi-panel grid)",
+      "透明樹脂/琥珀質感",
+      "硬光照耀與強烈陰影 (Hard shadows)",
+      "俯瞰視角/平鋪構圖 (Top-down flat-lay)",
+      "繁體中文與英文限制提示詞"
+    ],
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "character_name": "鈴鈴",
+    "idea": "這是一幅結合朱紅描金與魚拓印藝風格的鏡像異我構圖作品，超蓬鬆如棉花糖般的純白布偶貓「鈴鈴」，在極具東方韻味的薄紗屏風前跳躍追逐蝴蝶，屏風兩側映照出如夢似幻的鏡像輪廓。",
+    "news_inspiration": [
+      "澳洲凱恩斯（Cairns, Australia）：研究人員在大堡礁外海發現了一個面積達3,973平方公尺、約相當於半個足球場大小的超大型巨型珊瑚群落。",
+      "美國西雅圖（Seattle, USA）：一名13歲少年在暑假期間投入近300小時，利用3D列印技術為行動不便的幼童製作了專屬的客製化輪椅。",
+      "立陶宛考納斯（Kaunas, Lithuania）：新落成的科學島展出了一座重達250公噸、看似懸浮於半空中的巨型金屬圓盤建築，吸引許多民眾前來體驗科學樂趣。",
+      "津巴布韋胡倫格（Hurungwe, Zimbabwe）：社區衛生工作者騎乘自行車深入偏遠村莊，為孤兒與幼童提供HPV疫苗接種服務，解決偏鄉醫療交通不便的問題。"
+    ],
+    "character": "lingling",
+    "prompt": "A traditional Japanese Gyotaku artistic illustration with a surreal doppelganger mirror composition. Extremely fluffy pure white longhair Ragdoll-like cat named Lingling, featuring voluminous cloud-like white fur (#FFFFFF) with no colored patches, a small round face with huge round sapphire-blue eyes (#0F52BA), a pale pink nose and inner ears (#FFB6C1), and an enormous feathery white plume tail. Centered on her neck is a pink ribbon bow collar (#FF69B4) with a small, clearly visible golden bell (#FFD700). Lingling is dynamically leaping and chasing a sparkling butterfly in front of a delicate sheer gauze mesh screen with fine translucent netting texture. The screen reflects her shadow in a dark, textured relief Gyotaku direct ink impression style, creating an uncanny symmetrical twin framing. Rich vermilion red and metallic gold outlines create an ornate, lacquer-like warmth with gossamer layered transparency. Backlighting creates glowing silhouette edges and rim light around her fluffy white fur. Beautifully rendered in Traditional Chinese art accents, with the text '2026-08-13 07:08 UTC' visually displayed cleanly in a corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "鏡影清鈴雙蝶舞"
   }
 ]
