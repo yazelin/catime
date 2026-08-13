@@ -6547,5 +6547,40 @@
     "character": "lingling",
     "prompt": "A traditional Japanese Gyotaku artistic illustration with a surreal doppelganger mirror composition. Extremely fluffy pure white longhair Ragdoll-like cat named Lingling, featuring voluminous cloud-like white fur (#FFFFFF) with no colored patches, a small round face with huge round sapphire-blue eyes (#0F52BA), a pale pink nose and inner ears (#FFB6C1), and an enormous feathery white plume tail. Centered on her neck is a pink ribbon bow collar (#FF69B4) with a small, clearly visible golden bell (#FFD700). Lingling is dynamically leaping and chasing a sparkling butterfly in front of a delicate sheer gauze mesh screen with fine translucent netting texture. The screen reflects her shadow in a dark, textured relief Gyotaku direct ink impression style, creating an uncanny symmetrical twin framing. Rich vermilion red and metallic gold outlines create an ornate, lacquer-like warmth with gossamer layered transparency. Backlighting creates glowing silhouette edges and rim light around her fluffy white fur. Beautifully rendered in Traditional Chinese art accents, with the text '2026-08-13 07:08 UTC' visually displayed cleanly in a corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "鏡影清鈴雙蝶舞"
+  },
+  {
+    "title": "巨木脈動的微光絮語",
+    "style_picks": {
+      "art_style": "Renaissance",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Low Poly",
+      "color_palette": "Neon Fluorescent"
+    },
+    "idea": "在融合文藝復興風格的古老市政廣場中央，一隻橘貓正將耳朵貼在千年巨樹的樹幹上傾聽木質脈動；畫面採用螺旋漩渦構圖與低多邊形質感呈現，在自然的漫射光線中投射出迷幻的霓虹螢光色彩。",
+    "avoid_list": [
+      "伸爪撥弄/偷蹭物件",
+      "三花貓 / 花貓",
+      "溫室植物園場景",
+      "純英文時間戳記文字",
+      "框中框構圖 (Frame-within-a-frame)",
+      "黑金奢華配色與金屬質感",
+      "多格/多視角拼貼 (Multi-panel grid)",
+      "透明樹脂/琥珀質感",
+      "硬光照耀與強烈陰影 (Hard shadows)",
+      "俯瞰視角/平鋪構圖 (Top-down flat-lay)",
+      "繁體中文與英文限制提示詞"
+    ],
+    "news_inspiration": [
+      "在美國伊利諾州的芝加哥，志工們將超過九萬隻黃色橡皮鴨倒入芝加哥河中，舉行一年一度的歡樂橡皮鴨大賽，為特奧會募集善款。",
+      "在加泰隆尼亞的巴塞隆納，一位知名點心師歷時四個月精心製作出重達 500 公斤且綴滿數萬朵糖漿花瓣的超巨型婚禮蛋糕。",
+      "在馬來西亞的吉隆坡，一位馬來西亞公主與英國賽車手舉辦了一場融合傳統與現代風情的盛大婚禮，吸引眾多民眾關注。",
+      "在加拿大的魁北克，當地市議會通過一項具開創性的地方宣言，成為全球首個正式宣布並賦予「樹木基本權利」的自治市。"
+    ],
+    "number": 2908,
+    "inspiration": "在加拿大的魁北克，當地市議會通過一項具開創性的地方宣言，成為全球首個正式宣布並賦予「樹木基本權利」的自治市。",
+    "prompt": "A ginger cat pressing its ear against the trunk of a giant ancient tree in the center of an old Renaissance-style municipal plaza, listening intently. The image incorporates a dynamic spiral vortex composition with circular architectural structures coiling around the central scene, framed from a cinematic low angle with a centered vanishing point creating a dizzying sense of depth. Rendered in a low-poly geometric style with crystalline surface polygon mesh facets and flat-shaded triangular faces, inspired by a digital origami aesthetic combined with classical sfumato light blending. Soft, diffused natural light from an overcast sky creates gentle tones without harsh shadows, while vibrant neon fluorescent colors—electric pink, lime green, and hot cyan—glow brilliantly against the dark background. The text '2026-08-13 09:00 UTC' is clearly and visually displayed in the corner of the image in a clean English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "當這棵古樹正式被賦予基本公民權利後，城裡的貓咪成為了第一個發現它微弱心跳的造訪者。牠靜靜伏在錯綜複雜的根系上，感受著年輪深處流淌的大地律動，彷彿在與古老的自然歲月進行一場無聲的對話。",
+    "comment_id": 5278267595
   }
 ]
