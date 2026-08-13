@@ -6480,5 +6480,35 @@
       "繁體中文與英文限制提示詞"
     ],
     "prompt": "A low-poly art illustration of a Scottish Fold cat leaping through the air beside a classical statue inside the nighttime Louvre museum, reaching to catch a tiny steampunk mechanical moth built with brass gears and cogs. The composition is framed in a Mucha-style ornamental arched border with symmetrical Art Nouveau panels and decorative line art. The architectural environment consists of low-poly polygon mesh facets, geometric crystalline surfaces, and flat shaded triangular faces. Rendered in a high-contrast black and white monochrome palette with subtle cool blue-gray tones and soft silvery moonlight illumination casting dramatic shadows. The date and time text '2026-08-13 03:25 UTC' is visually displayed clearly on a small decorative plate integrated into the bottom frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "comment_id": 5276362843,
+    "idea": "這幅手繪信息圖風格的作品採用青橙電影調與故事插畫分格，描繪一隻黑貓蹲坐在燈塔工作室的絲綢航海圖上，專注凝視著風向儀與氣壓計的數據變化。窗邊柔光輕撫過桌上的繪圖儀器與海浪圖表，展現出獨特的視覺資訊美學。",
+    "number": 2906,
+    "prompt": "這幅手繪信息圖風格的作品採用青橙電影調與故事插畫分格，描繪一隻黑貓蹲坐在燈塔工作室的絲綢航海圖上，專注凝視著風向儀與氣壓計的數據變化。窗邊柔光輕撫過桌上的繪圖儀器與海浪圖表，展現出獨特的視覺資訊美學。. The date and time '2026-08-13 05:26 UTC' is visually displayed in the image. hand-drawn infographic style, paper texture background, calligraphy brush strokes, warm rustic aesthetic, illustrated story page layout, decorative title banner at top, multiple irregular panels arranged on one page, integrated dialogue bubbles, shoujo manga narrative flow, slice-of-life storybook composition, soft window light, gentle directional daylight from a side window, smooth falloff into shadow, intimate still-life mood, classic Vermeer-like illumination, silk fabric texture, luminous smooth surface, delicate light reflections, flowing drape, luxurious sheen, teal and orange color grading, warm skin tones against cool blue-green shadows, complementary cinematic palette, blockbuster film look, punchy balanced contrast IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "title": "潮汐與風的航海誌",
+    "story": "老燈塔員去檢查大燈時，黑貓總會巡視這張鋪著青橙色絲綢的航海圖。牠輕踩著風向軌跡，用銳利的雙眼捕捉氣壓計微小的跳動，彷彿獨自掌管著整片海域的氣象變化。這些記錄在分格圖解裡的數據，成了航海人與貓咪之間不言語的默契。",
+    "avoid_list": [
+      "伸爪撥弄/偷蹭物件",
+      "三花貓 / 花貓",
+      "溫室植物園場景",
+      "純英文時間戳記文字",
+      "框中框構圖 (Frame-within-a-frame)",
+      "黑金奢華配色與金屬質感",
+      "多格/多視角拼貼 (Multi-panel grid)",
+      "透明樹脂/琥珀質感",
+      "硬光照耀與強烈陰影 (Hard shadows)",
+      "俯瞰視角/平鋪構圖 (Top-down flat-lay)",
+      "繁體中文與英文限制提示詞"
+    ],
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Window Light",
+      "texture": "Silk",
+      "color_palette": "Teal and Orange"
+    },
+    "inspiration": "original"
   }
 ]
