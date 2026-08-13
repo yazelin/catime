@@ -6446,5 +6446,39 @@
     ],
     "prompt": "A digital art multi-view fashion design sheet and lookbook reference guide with vaporwave aesthetic, arranged in clean grid panels with labeled views showing front view, back view, side view, and detail close-up. In the primary panel, a calico cat is crouched gracefully on a vintage storage cabinet with tactile woven fabric linen texture and visible threads, playfully batting its paw at pastel pink and cyan duotone rubber ducks floating in a dreamy stream. Pastel pink and cyan gradients, retro 80s digital elements, overhead fluorescent neutral lighting with flat institutional illumination. Displays the text '2026-08-13 00:59 UTC' cleanly printed on the studio backdrop. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2904
+  },
+  {
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Moonlight",
+      "texture": "Low Poly",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "number": 2905,
+    "idea": "在黑白低多邊形與蒸汽朋克風格交融的夜間羅浮宮中，一隻貓咪正在雕像旁躍起追逐機械飛蛾，畫面呈現穆夏式的精美拱框構圖與冷冽月光照耀。",
+    "news_inspiration": [
+      "法國巴黎羅浮宮宣佈推出夜間星空導覽活動，讓遊客能在特別燈光下體驗歷史名畫與古典雕塑的獨特魅力。",
+      "日本京都老字號甜點店引進人工智能機器人助手，能根據顧客的即時情緒推薦最適合的抹茶點心。",
+      "巴西里約熱內盧在知名海灘舉辦一年一度的國際沙雕藝術節，吸引超過數十位各國頂尖創作者同場競技。"
+    ],
+    "inspiration": "法國巴黎羅浮宮宣佈推出夜間星空導覽活動，讓遊客能在特別燈光下體驗歷史名畫與古典雕塑的獨特魅力。",
+    "story": "夜幕降臨，羅浮宮開放了神秘的星空夜間導覽。一隻摺耳貓穿梭於棱角分明的古典雕塑之間，專注地捕捉一隻由黃銅齒輪與蒸氣驅動的微型機械蛾，在低多邊形的冷光幾何線條中劃出一道優雅弧線。",
+    "comment_id": 5275601885,
+    "title": "月下齒輪與夜行之影",
+    "avoid_list": [
+      "伸爪撥弄/偷蹭物件",
+      "三花貓 / 花貓",
+      "溫室植物園場景",
+      "純英文時間戳記文字",
+      "框中框構圖 (Frame-within-a-frame)",
+      "黑金奢華配色與金屬質感",
+      "多格/多視角拼貼 (Multi-panel grid)",
+      "透明樹脂/琥珀質感",
+      "硬光照耀與強烈陰影 (Hard shadows)",
+      "俯瞰視角/平鋪構圖 (Top-down flat-lay)",
+      "繁體中文與英文限制提示詞"
+    ],
+    "prompt": "A low-poly art illustration of a Scottish Fold cat leaping through the air beside a classical statue inside the nighttime Louvre museum, reaching to catch a tiny steampunk mechanical moth built with brass gears and cogs. The composition is framed in a Mucha-style ornamental arched border with symmetrical Art Nouveau panels and decorative line art. The architectural environment consists of low-poly polygon mesh facets, geometric crystalline surfaces, and flat shaded triangular faces. Rendered in a high-contrast black and white monochrome palette with subtle cool blue-gray tones and soft silvery moonlight illumination casting dramatic shadows. The date and time text '2026-08-13 03:25 UTC' is visually displayed clearly on a small decorative plate integrated into the bottom frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
