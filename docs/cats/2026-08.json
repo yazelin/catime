@@ -6650,5 +6650,43 @@
     "idea": "採用地中海夢幻飲品攝影風格，一隻橘貓沿著對角線構圖斜臥在陽台木桌上，伸手撥弄杯邊裝飾的充氣 PVC 材質檸檬片。百葉窗條紋光透過斜陽灑落，與復古褪色色調共同營造出沉靜又清爽的夏日氛圍。",
     "inspiration": "original",
     "news_inspiration": []
+  },
+  {
+    "season": "summer",
+    "character_name": "墨墨",
+    "comment_id": 5280578411,
+    "news_inspiration": [
+      "美國華盛頓州一名13歲少年耗費300小時利用3D列印技術，為一名肢體不便的幼童量身打造了一台客製化輪椅。",
+      "立陶宛考那斯的科學島亮相了一座重達250公噸、看似懸浮在半空中的金屬圓盤建築，成為展示科學與設計極限的新地標。",
+      "科學家在澳洲大堡礁發現了一座生長數百年且歷經多次海洋變遷依然存活的巨大珊瑚群落。",
+      "津巴布韋胡倫韋地區的醫療志工騎乘單車深入偏遠村莊，為偏遠家庭的兒童提供疫苗接種與醫療服務。"
+    ],
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Negative Space Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Vermilion and White"
+    },
+    "title": "老宅竹影與紅輪",
+    "idea": "採用時尚編輯攝影與朱紅留白配色，優雅的墨墨趴在老宅簡潔的大理石與竹蓆交界處，正好奇地用爪子輕碰一部為行動不便幼童客製化的3D列印亮朱紅色小型輪椅裝置。",
+    "prompt": "A 35mm lens fashion editorial photography shot of a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on its ventral chest, a single dark-grey ring at its tail tip, and a single small gold hoop earring at the mid-ear edge of its left ear. The cat is lying gracefully stretched out on a traditional summer bamboo mat where it meets clean white marble floor in a quiet old house. Curious and attentive, the cat gently reaches out a light black paw to touch a custom 3D-printed bright vermilion-red mini wheelchair device designed for toddlers with mobility needs. High-end styling with dramatic pose and negative space composition, placing the cat off-center in expansive minimalist breathing room. Soft, calm uncluttered framing illuminated by overhead butterfly key light, creating a delicate, symmetrical shadow under the nose. Bold cinnabar red and clean white negative-space palette with scattered metallic gold leaf shards and glinting gilded specks hand-applied across the scene. Photographed with f/2.8 aperture, natural sunlight filter, shallow depth of field, subtle film grain, candid shot. In the corner, the text '2026-08-13 12:41 UTC' is visually displayed in clean white font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2911,
+    "avoid_list": [
+      "三花貓與植物園",
+      "框中框構圖",
+      "復古黑膠唱片行",
+      "低多邊形風格",
+      "古老山洞與硬幣",
+      "青橙電影調",
+      "玻璃容器置入構圖",
+      "螢光霓虹色彩",
+      "時間戳記文字",
+      "繁體中文與英文文字限制"
+    ],
+    "is_seasonal": true,
+    "story": "盛夏午後，老宅的竹蓆上映著從高處灑下的蝴蝶光，帶來一絲優雅的清涼。墨墨伸展著純黑流暢的軀體，金琥珀色的眼睛被眼前精巧的紅色輪椅機構吸引，悄悄伸出輕盈的黑爪探向細緻的細節。金箔潑點在朱紅與大理石留白間微微閃爍，宛如這座靜謐宅邸中一幅兼具時尚感與溫度的現代藝術品。",
+    "inspiration": "美國華盛頓州一名13歲少年耗費300小時利用3D列印技術，為一名肢體不便的幼童量身打造了一台客製化輪椅。",
+    "character": "momo"
   }
 ]
