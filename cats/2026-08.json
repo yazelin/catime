@@ -6582,5 +6582,44 @@
     "prompt": "A ginger cat pressing its ear against the trunk of a giant ancient tree in the center of an old Renaissance-style municipal plaza, listening intently. The image incorporates a dynamic spiral vortex composition with circular architectural structures coiling around the central scene, framed from a cinematic low angle with a centered vanishing point creating a dizzying sense of depth. Rendered in a low-poly geometric style with crystalline surface polygon mesh facets and flat-shaded triangular faces, inspired by a digital origami aesthetic combined with classical sfumato light blending. Soft, diffused natural light from an overcast sky creates gentle tones without harsh shadows, while vibrant neon fluorescent colors—electric pink, lime green, and hot cyan—glow brilliantly against the dark background. The text '2026-08-13 09:00 UTC' is clearly and visually displayed in the corner of the image in a clean English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "當這棵古樹正式被賦予基本公民權利後，城裡的貓咪成為了第一個發現它微弱心跳的造訪者。牠靜靜伏在錯綜複雜的根系上，感受著年輪深處流淌的大地律動，彷彿在與古老的自然歲月進行一場無聲的對話。",
     "comment_id": 5278267595
+  },
+  {
+    "character_name": "船長",
+    "avoid_list": [
+      "伸爪撥弄/偷蹭物件",
+      "三花貓 / 花貓",
+      "溫室植物園場景",
+      "純英文時間戳記文字",
+      "框中框構圖 (Frame-within-a-frame)",
+      "黑金奢華配色與金屬質感",
+      "多格/多視角拼貼 (Multi-panel grid)",
+      "透明樹脂/琥珀質感",
+      "硬光照耀與強烈陰影 (Hard shadows)",
+      "俯瞰視角/平鋪構圖 (Top-down flat-lay)",
+      "繁體中文與英文限制提示詞"
+    ],
+    "character": "captain",
+    "title": "玻璃防波堤上的垂釣者",
+    "season": "summer",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Direct Flash",
+      "texture": "3D Render",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "number": 2909,
+    "inspiration": "original",
+    "prompt": "A cute Q-version 3D render inside-the-glass-vessel illustration in high-contrast black and white monochrome, showcasing a large, stocky brown classic tabby cat with bold black stripes, scruffy coarse fur texture, a dark fur patch permanently covering its left eye socket (no fabric eye patch or strap), a single piercing emerald green right eye, a prominent V-shaped notch on its left ear, an M-mark on its forehead, a white chest bib, four white mitten paws, and a faded red bandana tied loosely around its neck. The cat is wearing a slightly small straw hat, sitting on a miniature breakwater inside a transparent glass jar containing a small body of water, intently fishing with a rod while its thick tail hangs in the air. Summer theme, harsh direct on-camera flash lighting creating hard shadows, blown-out highlights, raw candid snapshot feel, Cinema 4D aesthetic with smooth material render, refractive glass border, and refractive light reflections. The text '2026-08-13 10:50 UTC' is visually stamped in clear digits in the bottom corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一幅採用 Q 版新年插畫風格與 3D 渲染質感的黑白單色作品，運用玻璃容器置入構圖與閃光燈直打效果，展現船長這隻大型壯碩的棕黑虎斑家貓，戴著草帽趴在瓶內防波堤上釣魚的逗趣畫面。",
+    "story": "船長戴著稍微偏小的草帽，穩穩地位於精緻玻璃瓶內的防波堤上，粗壯的尾巴懸在半空，專注地盯著瓶底小水域裡的魚影。儘管單色黑白的視效讓牠左眼的暗色眼罩與白手套對比更顯鮮明，牠那長長的白鬍鬚依然隨著防波堤的海風微顫，展現出剛柔並濟的大哥風範。",
+    "news_inspiration": [
+      "西班牙瓦倫西亞等多地民眾於2026年8月12日共同迎接27年來首次登場的日全食天文奇景。",
+      "公民科學家在澳洲凱恩斯外海的大堡礁發現一座面積近半個足球場大的巨型珊瑚群落。",
+      "日本東京星巴克特別推出品牌首款扭蛋商品，將經典拿鐵與星冰樂化身為掌上微縮吊飾。",
+      "美國韋科市的貝勒大學發表最新研究指出，與他人共同觀賞天文奇景能顯著增強幸福感與人際連結。"
+    ],
+    "comment_id": 5279471698
   }
 ]
