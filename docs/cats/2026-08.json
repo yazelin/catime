@@ -7490,5 +7490,40 @@
       "研究人員在義大利阿爾卑斯山區出土的「冰人奧茨」（Ötzi）遺骸表面與體內，意外發現跨越 5,300 年依然共存的奇特微生態菌群。",
       "科學家在非洲馬拉威的馬拉威湖發現一種特殊湖蠅幼蟲，其體內演化出具橡膠彈性的微型氣囊，每天能潛入超過 200 公尺的深水區躲避掠食者。"
     ]
+  },
+  {
+    "comment_id": 5297447984,
+    "idea": "在暴風雪朦朧中，一隻披著朱紅描金天鵝絨斗篷的純白長毛貓，正踩在塞納河畔冰封的欄杆上凝視著雪中泳客，畫面採用紅外線攝影與留白負空間構圖呈顯極致靜謐。",
+    "inspiration": "法國巴黎（Paris, France）在歷經水質整治後重新開放塞納河供民眾戲水游泳，百年來首次重現河畔暢游的夏日生活風貌。",
+    "news_inspiration": [
+      "法國巴黎（Paris, France）在歷經水質整治後重新開放塞納河供民眾戲水游泳，百年來首次重現河畔暢游的夏日生活風貌。",
+      "印度阿魯納查邦（Arunachal Pradesh, India）的保育團隊最新發現亞洲象群成功向高海拔山林拓展棲息地，展現出野生動物令人驚豔的環境適應力。",
+      "巴西（Brazil）古生物學家最新發表了八千萬年前保存極為完好的蛇類化石腦部重建研究，揭示了古代爬蟲類演化超乎預期的多樣性。",
+      "澳洲（Australia）科研團隊透過最新核磁共振造影實驗，證實寵物犬能夠敏銳分辨人類恐懼與悲傷的細微情緒變化，為人寵深厚情感提供了科學依據。"
+    ],
+    "story": "巴黎百年來首次重開塞納河泳區，卻不巧遇上罕見的夏日驟雪。河畔這隻高貴的白貓優雅地踏過積雪欄杆，冷眼旁觀著漫天雪花下依然熱情下水的歡樂人群。",
+    "prompt": "Infrared photography shot on a 50mm lens, f/2.8, shallow depth of field, natural lighting, subtle film grain. A pure white long-haired cat wearing a rich vermilion velvet cloak with metallic gold trim is perched on a frozen iron railing along the Seine River during a heavy blizzard, looking down at blurred swimmers in the water. Negative space composition with off-center placement and expansive emptiness. Heavy falling snow veil obscuring the fogged distance, surreal dark skies, cold blue-white tones, matte tactile velvet texture. Visually displayed in clean white text at the bottom corner is the timestamp '2026-08-14 19:40 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Infrared Photography",
+      "composition": "Negative Space Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Velvet",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "title": "雪下塞納河畔的守望",
+    "number": 2936,
+    "avoid_list": [
+      "斑紋貓咪",
+      "撥弄樂器與琴弦",
+      "前爪推移或擺弄物件",
+      "黑白單色與電影感光影",
+      "蛇鱗肌理與質感",
+      "粉筆畫風格",
+      "多格拼貼構圖",
+      "居中對稱構圖",
+      "液態金屬與高反射質感",
+      "繁體中文與英文文字規範",
+      "體積光與明暗對比"
+    ]
   }
 ]
