@@ -7585,5 +7585,40 @@
       "繁體中文與英文文字規範",
       "體積光與明暗對比"
     ]
+  },
+  {
+    "prompt": "An artistic illustration set inside an elegant Rococo style greenhouse, featuring a golden-furred cat extending its front paw toward a falling leaf in a forced perspective composition with exaggerated foreshortening. The room is decorated with flowing ornamental curves and elaborate decorative detail. Glowing bioluminescent plants emit a subtle organic radiance around the scene, casting soft, magical light. The image features a rich leather texture with a warm aged patina, blended with a warm amber color grading, dynamic golden yellows, and cozy autumn tones. In the bottom corner, the text '2026-08-14 22:10 UTC' is visually displayed in a clean, legible font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Bioluminescence",
+      "texture": "Leather",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "琥珀微光中的探尋",
+    "news_inspiration": [
+      "奧地利：維也納獸醫大學的科學家發現一隻名為 Veronika 的母牛能靈活使用掃帚和耙子等工具幫自己搔癢，創下牛隻具備多用途工具使用能力的罕見科學記錄。",
+      "美國：美國華盛頓州一名 13 歲少年 Zac Waters 投入近 300 小時利用 3D 列印技術，為一名行動不便的幼童量身打造專屬輪椅。",
+      "丹麥：哥本哈根推行特色的「真人圖書館」花園計畫，讓民眾能向圖書館借閱各類背景的真人進行對話，促進跨文化溝通與理解。",
+      "澳洲：大堡礁的公民科學計畫在凱恩斯外海發現了一片佔地高達 3,973 平方公尺的巨型珊瑚群落，成為有記錄以來最大型的珊瑚之一。"
+    ],
+    "inspiration": "original",
+    "avoid_list": [
+      "斑紋貓咪",
+      "撥弄樂器與琴弦",
+      "前爪推移或擺弄物件",
+      "黑白單色與電影感光影",
+      "蛇鱗肌理與質感",
+      "粉筆畫風格",
+      "多格拼貼構圖",
+      "居中對稱構圖",
+      "液態金屬與高反射質感",
+      "繁體中文與英文文字規範",
+      "體積光與明暗對比"
+    ],
+    "idea": "在一座優雅精緻的洛可可風格溫室中，一隻毛色金黃的貓咪伸出前爪抓向飄落的葉片，畫面採用強制透視伸手構圖，展現出皮革質感的暖琥珀色調與奇幻的生物發光微光。",
+    "number": 2939,
+    "story": "這隻溫室中的貓咪正好奇地探尋著周圍散發著柔和微光的植物，每次輕觸都伴隨著秋日般的暖色光芒溢散。牠在細緻雕琢的優雅空間裡踏著優雅步伐，為這片靜謐的植物天堂添上一抹靈動與生機。",
+    "comment_id": 5298677550
   }
 ]
