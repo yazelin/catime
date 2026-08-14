@@ -7189,5 +7189,38 @@
       "texture": "Water Droplets on Skin",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "character_name": "鈴鈴",
+    "number": 2927,
+    "style_picks": {
+      "art_style": "Post-Apocalyptic Cozy Animation Scene",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "廢墟陽台的時光齒輪",
+    "story": "寂靜的末日陽台早已被植物蔓延，清脆的「叮鈴」聲打破了歲月的沉寂。鈴鈴戴著她那招牌的粉紅蝴蝶結鈴鐺，正趴在陽台上專注地擺弄著一個微小的機械齒輪，大大的藍寶石般圓眼充滿了對新奇世界的好奇與執著。",
+    "news_inspiration": [],
+    "comment_id": 5291972289,
+    "inspiration": "original",
+    "character": "lingling",
+    "avoid_list": [
+      "新藝術風格動漫插畫",
+      "由上而下鳥瞰俯視構圖",
+      "青橙電影感調色",
+      "月夜深靛藍冷色調",
+      "35mm鏡頭淺景深拍攝",
+      "半透明磨砂玻璃質感",
+      "俯臥於繁茂花海中",
+      "立體浮雕花卉刺繡肌理",
+      "帶有歲月光澤的皮革配件",
+      "高調明亮無陰影棚拍光",
+      "水下玻璃折射焦散光影",
+      "雙色調特殊色彩處理"
+    ],
+    "idea": "在這幅後末日療癒動畫風格的作品中，以貼紙拼貼邊框為構圖，呈現全身純白蓬鬆如棉花糖的布偶貓鈴鈴，在廢棄花園陽台上好奇地用前爪撥弄舊機械鐘錶齒輪的黑白單色畫面。",
+    "prompt": "A black and white monochrome post-apocalyptic cozy anime illustration featuring a die-cut sticker collage composition with white outline borders, scrapbook-style overlays, floating props, and pressed botanical layers decorating the frame. In the center, Lingling, a literal four-legged extremely fluffy pure white (#FFFFFF) longhair cat resembling a cloud-like Ragdoll with a feathery plume tail, pink nose, and huge round sapphire-blue (#0F52BA) eyes, curious and focused on an overgrown, abandoned garden balcony. She wears her mandatory pink (#FF69B4) ribbon bow collar with a small golden (#FFD700) bell clearly visible and centered beneath the bow knot. Lingling is lying on the balcony, curiously patting and fiddling with a tiny old mechanical clockwork gear with her front paw. Nature reclaims the ruins around her with lush greenery and vines crawling over vintage structures, rendered in soft anime background painting style with gentle tones and even illumination under an overcast sky. In the corner of the image, the date and time '2026-08-14 09:51 UTC' is visually displayed in clean text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
