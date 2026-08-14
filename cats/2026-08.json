@@ -7052,5 +7052,40 @@
       "極光與生物發光",
       "居中構圖或對稱畫框"
     ]
+  },
+  {
+    "title": "仿生花海中的淨白偶遇",
+    "news_inspiration": [
+      "尼泊爾政府宣布經過多年持續的保育努力，當地的野生老虎數量已從2010年的121隻顯著成長至429隻，為全球瀕危物種復育樹立了典範。",
+      "立陶宛考那斯的「考那斯科學島」正式亮相，其建築特色為一枚彷彿懸浮於半空中、重達250公噸的巨型金屬圓盤，內設波羅的海地區最先進的天文館與上百項互動展覽。",
+      "澳洲凱恩斯外海的大堡礁區域由公民科學家發現了一株面積達3,973平方公尺的巨型珊瑚群落，相當於半個足球場大，為全球已知最大的珊瑚之一。",
+      "美國馬里蘭州弗雷德里克成立了非裔美國人文化遺產中心，透過多年的歷史研究與社區合作，展示並保存豐富的在地非裔歷史與文化。"
+    ],
+    "prompt": "A photorealistic top-down, bird's-eye view photograph of a Ragdoll cat reclining in a dense sea of vibrant vermilion flowers on a pure white background. The cat is attentively licking its front paw, with delicate metallic gold foil flecks scattered across its fur. Surrounding the scene are sleek, realistic humanoid robots with vermilion and white hard-surface designs, observing the cat. Overlaid on the image in a clean modern English font is the date and time '2026-08-14 03:22 UTC'. Shot on a 50mm lens at f/2.8 with bright white seamless studio lighting, creating a high-key, clean, shadowless commercial photography look with sharp details and luxurious gold accents against a minimalist background. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5289066235,
+    "number": 2923,
+    "story": "在高科技實驗室的白淨展台上，一隻活生生的布偶貓正悠哉地位於仿生花海中央整理毛髮。圍繞在她身旁的是幾具身披朱紅與純白塗裝的寫實人形機器人，正靜靜透過感測器紀錄著這隻真貓最原始、優雅的生物本能。",
+    "style_picks": {
+      "art_style": "Photorealistic Sci-Fi Robot Concept",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Vermilion and White"
+    },
+    "avoid_list": [
+      "懸浮金屬圓盤",
+      "充氣 PVC 材質",
+      "朱紅與金色調性",
+      "伸出爪子觸碰或撥弄物件",
+      "復古褪色色調與低對比",
+      "賽璐璐著色與粗輪廓",
+      "蝴蝶光與斜照體積光",
+      "35mm 鏡頭與淺景深拍攝",
+      "時間戳記 2026-08-13",
+      "極光與生物發光",
+      "居中構圖或對稱畫框"
+    ],
+    "idea": "採用寫實人形機器人概念風格，呈現一隻布偶貓俯臥於白色底座的鮮紅花海中，專注地舔拭前腳，身上散落著精緻的金箔潑點肌理與白底去背棚光交織出極簡氛圍。",
+    "inspiration": "original"
   }
 ]
