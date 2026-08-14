@@ -27522,5 +27522,18 @@
     "timestamp": "2026-08-14 22:10 UTC",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-14_2210_UTC.webp"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-14_2310_UTC.webp",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "character": "momo",
+    "season": "summer",
+    "status": "success",
+    "timestamp": "2026-08-14 23:10 UTC",
+    "number": 2940,
+    "title": "竹蓆上的日光漫舞"
   }
 ]
