@@ -7419,5 +7419,39 @@
       "美國舊金山（San Francisco, United States）的海洋生物學家團隊透過在金門大橋上的長期觀察，成功破解了港灣鼠海豚在當地海域交配與繁殖的行為之謎。"
     ],
     "inspiration": "立陶宛考那斯（Kaunas, Lithuania）的科學島全新打造一座重達250公噸的懸浮金屬巨盤建築，結合現代科學展覽與先進天象儀館吸引眾多遊客前來探索。"
+  },
+  {
+    "title": "竹林茶席間的伴讀時光",
+    "comment_id": 5296422188,
+    "story": "在東京這間隱密而溫馨的社區圖書館裡，孩童們每週末都能邀請貓咪成為專屬的朗讀夥伴。小女孩輕聲誦讀著書中的冒險故事，貓咪則趴在几案上專注凝視著頁面，偶爾伸出爪子撥弄書頁，彷彿正為她的精彩故事無聲點讚。",
+    "inspiration": "日本東京的圖書館與動物保護機構合作推出「貓咪伴讀」計畫，鼓勵學童透過向貓咪朗讀故事來提升閱讀自信與興趣。",
+    "number": 2934,
+    "news_inspiration": [
+      "美國加州的海洋生物團隊在深海探險中，意外發現並記錄到一種能發出璀璨藍光的罕見新種發光水母。",
+      "英國愛丁堡盛大舉辦一年一度的藝穗節，來自全球的表演藝術家與街頭藝人聚集在歷史街區呈現精彩多元的演出。",
+      "日本東京的圖書館與動物保護機構合作推出「貓咪伴讀」計畫，鼓勵學童透過向貓咪朗讀故事來提升閱讀自信與興趣。",
+      "澳洲雪梨的野生動物保育團隊成功將數百隻順利孵化的綠蠵龜幼龜放歸大海，為當地海洋生態復育寫下新頁。"
+    ],
+    "idea": "採用粉筆畫風格與正交投影構圖，一隻斑紋貓咪正側臥於古老竹林茶室的几案上，伸長爪子輕輕將一本開展的童話繪本推向身旁的小女孩；畫面呈現竹影翠綠色調，散發著如透明樹脂般晶瑩柔潤的光澤與電影感打光。",
+    "prompt": "A chalk art rendering on dark green slate featuring visible hatching strokes and a dusty matte texture, depicted in an orthographic projection with straight-on flat technical illustration style. On a low table inside an ancient bamboo forest tea house, a striped tabby cat lies on its side, gently stretching out its paw to push an open fairytale picture book toward a little girl sitting next to it. Cinematic lighting with volumetric light rays creates dramatic shadows and a glossy, translucent resin surface finish with amber-like clarity. The scene uses a bamboo jade-green palette filled with fresh emerald, malachite tones, and cool verdant serenity. Prominently and visually displayed in elegant, clear text on the corner of the image is '2026-08-14 17:42 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "前爪撥弄物件",
+      "立體花卉貼花肌理",
+      "月夜靛藍色調",
+      "霓虹螢光色彩",
+      "俯瞰鳥瞰視角",
+      "玻璃容器置入構圖",
+      "黑白單色風格",
+      "廢棄與末日場景",
+      "厚塗油彩肌理",
+      "倫勃朗光與側光"
+    ],
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Cinematic Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
