@@ -7289,5 +7289,34 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "inspiration": "在奧地利維也納，獸醫研究團隊發現一隻名為 Veronika 的乳牛懂得靈巧使用工具，成為科學界首度紀錄到能活用多用途工具的牛隻。"
+  },
+  {
+    "title": "大地紋理的搜集者",
+    "number": 2930,
+    "prompt": "A Knolling photography flat lay overhead view of an antique botanical specimen room. A cat is neatly arranging and sorting dried leaves on a clean wooden table alongside organized glass crystals and vintage plant collection tools laid out at precise 90-degree angles in a grid. Suspended above, floating concentric suminagashi ink patterns and ethereal marbled paper texture swirl throughout the tranquil atmosphere. Illuminated by a narrow beam spotlight creating dramatic high-contrast, deep dark shadows, and prismatic reflections through transparent glass. Earth tone color scheme of terracotta, olive green, and warm brown. Shot on a 35mm lens, f/2.8, detailed texture, real photograph. Clearly displaying the digital text '2026-08-14 12:37 UTC' overlaying the bottom corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "古老標本室的木桌上，貓咪以柔軟的四足輕踏在整齊排列的玻璃晶體與植物採集工具之間。聚光燈穿透結晶質地，照亮墨流浮紋般的斑駁歲月，貓咪輕輕嗅聞著乾草與礦物交織的溫暖大地氣息。",
+    "idea": "在墨流（Suminagashi）流動紋理與大地色系建構的沉穩空間中，一隻貓咪以 Knolling 排列攝影風格在古董植物標本室裡仔細擺弄與分類乾燥葉片。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "前爪撥弄物件",
+      "立體花卉貼花肌理",
+      "月夜靛藍色調",
+      "霓虹螢光色彩",
+      "俯瞰鳥瞰視角",
+      "玻璃容器置入構圖",
+      "黑白單色風格",
+      "廢棄與末日場景",
+      "厚塗油彩肌理",
+      "倫勃朗光與側光"
+    ],
+    "inspiration": "original",
+    "comment_id": 5293390197,
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Knolling Photography",
+      "lighting": "Spotlight",
+      "texture": "Glass / Crystal",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
