@@ -7525,5 +7525,35 @@
       "繁體中文與英文文字規範",
       "體積光與明暗對比"
     ]
+  },
+  {
+    "title": "溫室裡的黃昏漫想",
+    "avoid_list": [
+      "斑紋貓咪",
+      "撥弄樂器與琴弦",
+      "前爪推移或擺弄物件",
+      "黑白單色與電影感光影",
+      "蛇鱗肌理與質感",
+      "粉筆畫風格",
+      "多格拼貼構圖",
+      "居中對稱構圖",
+      "液態金屬與高反射質感",
+      "繁體中文與英文文字規範",
+      "體積光與明暗對比"
+    ],
+    "prompt": "A full-bleed macro photograph of a solid white long-haired cat without markings, gently sniffing a freshly bloomed bright yellow flower bud. Set inside a lush glasshouse greenhouse with blue and yellow complementary tones. Dappled sunlight filters through foliage, creating scattered light and soft mottled shadow patterns. In the background, soft-focus resist-dyed Shibori style fabric curtains hang with indigo blue flowing patterns. Captured with a 100mm macro lens, f/2.8, shallow depth of field, delicate floating bokeh particles, natural light, soft haze, and real photo film grain. A subtle, crisp timestamp reading '2026-08-14 20:20 UTC' is visually displayed in the lower corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Dreamy Pastel Macro",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Dappled Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "story": "陽光穿透溫室的玻璃天窗，撒下如金粉般斑駁的光影，照亮了這座充滿秘境氛圍的植物王國。白貓輕盈地踱步於層層疊疊的藍色花叢間，湊近一朵綻放的黃色花朵靜靜凝視與嗅聞，享受著屬於它的午後寧靜時光。",
+    "idea": "這是一幅採用夢幻粉彩微距風格的滿版特寫畫面，呈現一隻無斑紋的純白長毛貓在藍黃互補色調的綠室溫室中，用鼻子細細嗅聞著剛綻放的鮮黃花蕾，周圍散落著斑駁光影與絞染紋理的布簾。",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "comment_id": 5297803151,
+    "number": 2937
   }
 ]
