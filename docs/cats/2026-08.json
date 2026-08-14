@@ -7453,5 +7453,42 @@
       "texture": "Translucent Resin",
       "color_palette": "Bamboo Jade Green"
     }
+  },
+  {
+    "title": "風暴前夕的航標",
+    "idea": "在黑金奢華風格的鉛筆素描繪畫中，一隻名為「船長」的壯碩虎斑貓戴著深色眼罩與紅色頭巾，挺直前胸蹲坐在古老燈塔的銅製氣壓計旁，正目不轉睛地凝視著玻璃氣壓計內的指 your 指針變化。",
+    "comment_id": 5296911881,
+    "character": "captain",
+    "character_name": "船長",
+    "inspiration": "original",
+    "number": 2935,
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Butterfly Lighting",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "深夜的海浪撞擊著燈塔基石，船長靜靜佇立於最高處的觀測台，任由海風拂過牠粗糙的毛髮。牠正專注地觀察著測量儀器的指針，憑藉著多年的航海直覺預測即將到來的暴風雨。這座燈塔與這片水域，今夜依然由這位老盟主默默守護。",
+    "prompt": "A pencil sketch graphite on paper visual art with hatching and cross-hatching, featuring a full-body vertical portrait centered in a tall frame with head-to-toe framing. A large stocky brown classic tabby cat named Captain, featuring bold black stripes, scruffy untidy coarse fur, a distinct V-shaped notch on his left ear, a faded red bandana loosely tied around his neck, a white chest bib, and white mitten paws on all four feet. His left eye from the viewer's perspective is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric, while his right eye is a piercing emerald green. The cat is crouched upright on all four paws beside an antique brass barometer inside a dark lighthouse observation deck, intently staring at the barometer's glass needle. Butterfly lighting creates a symmetrical shadow under his nose with soft, soft global illumination. The atmosphere blends polished 3D render clean geometry with a gold and black color scheme, featuring opulent metallic gold accents against a deep black background. In the background, the text '2026-08-14 18:38 UTC' is visually displayed in clear typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "斑紋貓咪",
+      "撥弄樂器與琴弦",
+      "前爪推移或擺弄物件",
+      "黑白單色與電影感光影",
+      "蛇鱗肌理與質感",
+      "粉筆畫風格",
+      "多格拼貼構圖",
+      "居中對稱構圖",
+      "液態金屬與高反射質感",
+      "繁體中文與英文文字規範",
+      "體積光與明暗對比"
+    ],
+    "news_inspiration": [
+      "美國麻省理工學院（MIT）神經科學團隊發表最新研究，證實人類大腦的邏輯推理機制與語言中樞各自獨立運作，即使失去語言能力依然能順利解開複雜邏輯謎題。",
+      "考古學團隊在哥倫比亞發現規模龐大的古代水利系統遺址，證實當地史前原住民社會在沒有中央集權的架構下，便能高度協作完成大型工程。",
+      "研究人員在義大利阿爾卑斯山區出土的「冰人奧茨」（Ötzi）遺骸表面與體內，意外發現跨越 5,300 年依然共存的奇特微生態菌群。",
+      "科學家在非洲馬拉威的馬拉威湖發現一種特殊湖蠅幼蟲，其體內演化出具橡膠彈性的微型氣囊，每天能潛入超過 200 公尺的深水區躲避掠食者。"
+    ]
   }
 ]
