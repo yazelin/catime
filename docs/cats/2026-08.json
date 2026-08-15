@@ -8391,5 +8391,41 @@
     "prompt": "A calico cat lying on a vanity table, playfully touching a round ring light with its front paw, captured in a mirror selfie composition with a visible reflective framing and intimate close-up perspective. Cel shaded art style featuring flat color areas with bold outlines, sharp shadow edges, toon shading, and an anime game look. The scene takes place in a dressing room with frosted glass texture and a translucent matte surface transmitting diffused autumn sunlight. Illumination from the ring light creates a circular catchlight in the cat's curious amber eyes with even frontal lighting. Warm amber color grading, golden yellows, and burnt orange hues evoke cozy nostalgic warmth. Visually displayed in the corner of the image is the exact date and time text '2026-08-15 21:10 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "news_inspiration": [],
     "comment_id": 5304256308
+  },
+  {
+    "number": 2962,
+    "news_inspiration": [
+      "美洲黑犀牛在消失數十年後，於近期正式被重新引進至津巴布韋（辛巴威）的馬圖索多納國家公園，邁出野生動物保育的重要里程碑。",
+      "立陶宛考納斯科學島上全新亮點「不沉的金屬飛碟」巨型裝置正式亮相，搭配波羅的海地區最先進的天文館，吸引許多家庭與科學迷朝聖。",
+      "一家專門從事旱獺研究的科學團隊因聯邦資金短缺，在科羅拉多州（美國）發起創意募款「OnlyMarms」帳號，透過展示可愛土撥鼠生活照片成功拯救研究專案。",
+      "西班牙加泰隆尼亞的糕點大師Marc Suárez歷時四個月，在巴塞隆納（西班牙）打造出一座重達500公斤、手工飾有數萬片糖花瓣的超巨型婚禮蛋糕。"
+    ],
+    "title": "貓咪日常",
+    "avoid_list": [
+      "立陶宛科學島巨型金屬圓盤",
+      "全像投影虛擬地圖",
+      "黑金奢華風格與紅金節慶色彩",
+      "緋紅與烏黑強烈對比色調",
+      "伸出前爪踩踏或觸碰物體",
+      "倫勃朗光與硬光日照陰影",
+      "百葉窗與百葉條紋光影效果",
+      "液態金屬與充氣PVC質感",
+      "衍紙與刺繡手作藝術風格",
+      "宇宙星雲輝光與空靈光芒",
+      "繁體中文與英文文字規範提示",
+      "TIMESTAMP視覺文字標記"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Side Profile Portrait",
+      "lighting": "Snowstorm Haze",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Moonlit Indigo"
+    },
+    "idea": "",
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "prompt": "A cute cat with the date and time '2026-08-15 22:08 UTC' displayed in the image, high quality, detailed",
+    "comment_id": 5304509780
   }
 ]
