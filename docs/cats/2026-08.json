@@ -7966,5 +7966,45 @@
     ],
     "title": "時光輪廓下的凝視",
     "story": "老鐘錶師的手稿散落在工作檯上，貓偶微微傾頭，專注地盯著齒輪間穿梭的時針。透光蕾絲般的金屬雕花在暗處映射出細緻光影，彷彿時間在此刻凝聚成了永恆的潮玩藝術品。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Negative Space Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Vermilion and White"
+    },
+    "number": 2950,
+    "idea": "採用朱紅與純白對比的剪紙藝術風格，搭配壓花植物疊層與留白負空間構圖，展現蓬鬆如雲朵的布偶貓「鈴鈴」頭戴迷你草帽與太陽花，在紙藝雕琢的向日葵田間跳躍追逐新品種熱帶奇鳥。",
+    "prompt": "A papercut art illustration featuring Lingling, an extremely fluffy pure white longhair Ragdoll cat with cloud-like voluminous white fur, sapphire-blue eyes, pale pink nose and inner ears, and a pink ribbon bow collar with a centered golden bell. She wears a tiny straw hat adorned with a small sunflower, captured mid-air leaping playfully through a paper-carved sunflower field after a bright tropical bird with shimmering colorful feathers. Layered paper silhouettes, shadow depth, intricate cutout details, pressed botanical layers with delicate flattened plant specimens, and an off-center negative space composition. The color palette consists of striking vermilion and clean negative-space white for a bold, minimalist oriental balance. Soft diffused natural light creates gentle, even illumination without harsh shadows. The text '2026-08-15 10:11 UTC' is visually displayed in clear, elegant typography on the white negative space. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "水下焦散光照",
+      "斑紋短毛貓側臉特寫",
+      "前爪伸出擺弄/推動物件",
+      "霓虹螢光色彩 accents",
+      "中國紅金配色",
+      "35mm鏡頭 f/1.8大光圈",
+      "時間戳記 (2026-08-15 UTC)",
+      "粉彩光點/粉彩色系",
+      "全像/幾何折紙風格",
+      "莫蘭迪色調/大地色系",
+      "正交/俯瞰鳥瞰視角"
+    ],
+    "season": "summer",
+    "news_inspiration": [
+      "研究團隊在澳大利亞近海罕見記錄到野生海豚巧妙利用海螺殼作為捕食工具的珍貴畫面。",
+      "鳥類學家在巴西發現了一種擁有獨特羽色與鳴唱聲的全新鳥類物種，為熱帶生態多樣性再添新紀錄。",
+      "古生物學家在德國著名的侏儸紀化石層中發掘出一具保存極為完好的全新魚龍物種化石。",
+      "海洋生物學家在美國舊金山的金門大橋步道進行長期觀測，成功解開了港灣鼠海豚野生求偶與繁殖行為的生態謎團。"
+    ],
+    "title": "葵田下的鈴聲與彩羽",
+    "story": "鈴鈴戴著小草帽在向日葵田裡歡快探險，脖子上的粉紅鈴鐺發出清脆叮鈴聲。當一隻擁有璀璨彩羽的新種小鳥翩然飛過，好奇的鈴鈴興奮地起跳撲去，整隻毛絨絨的身軀撞進蓬鬆的花海中。熱帶的花香與鳥鳴圍繞著她，讓花店小貓的夏日旅程充滿驚喜。",
+    "inspiration": "鳥類學家在巴西發現了一種擁有獨特羽色與鳴唱聲的全新鳥類物種，為熱帶生態多樣性再添新紀錄。",
+    "character_name": "鈴鈴",
+    "is_seasonal": true,
+    "comment_id": 5301767461,
+    "character": "lingling"
   }
 ]
