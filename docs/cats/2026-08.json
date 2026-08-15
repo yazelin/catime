@@ -8427,5 +8427,43 @@
     "story": "一隻可愛的貓咪正在享受美好的一天。",
     "prompt": "A cute cat with the date and time '2026-08-15 22:08 UTC' displayed in the image, high quality, detailed",
     "comment_id": 5304509780
+  },
+  {
+    "idea": "這是一幅藍黃互補色調的水彩動漫插畫，以高調明亮光捕捉墨墨的頭肩特寫，展現牠絲滑的絨毛皮草質感。",
+    "comment_id": 5304678737,
+    "title": "高處的暖光遐想",
+    "prompt": "A high-key watercolor anime illustration with soft transparent washes and gentle bleeding edges on visible paper texture, capturing a head-and-shoulders portrait close-up of a sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat named Momo with satin-sheen fur catching light. Momo has large luminous golden-amber (#D4A017) eyes, a tiny natural white locket tuft (#FFFFFF) on the chest, a dark-grey (#696969) ring at the tail tip, and a single small gold hoop earring (#FFD700) on the left ear only (viewer's perspective). Momo rests its chin gently on the cover of a quiet deep blue antique book on a high shelf on the top floor of an antique shop, gazing out a bright sunlit window overlooking a bustling city street below. Airy, overexposed high-key lighting creates a luminous atmosphere and minimal shadows, set in a dreamy blue and warm yellow complementary color palette. Displayed clearly in fine traditional English typography in a corner of the image is the timestamp text '2026-08-15 23:10 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "墨墨",
+    "avoid_list": [
+      "立陶宛科學島巨型金屬圓盤",
+      "全像投影虛擬地圖",
+      "黑金奢華風格與紅金節慶色彩",
+      "緋紅與烏黑強烈對比色調",
+      "伸出前爪踩踏或觸碰物體",
+      "倫勃朗光與硬光日照陰影",
+      "百葉窗與百葉條紋光影效果",
+      "液態金屬與充氣PVC質感",
+      "衍紙與刺繡手作藝術風格",
+      "宇宙星雲輝光與空靈光芒",
+      "繁體中文與英文文字規範提示",
+      "TIMESTAMP視覺文字標記"
+    ],
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "number": 2963,
+    "news_inspiration": [
+      "美國加州（California, USA）：研究人員於美國加州發現高齡巨杉在經歷數次極端火災後，透過適度且可控的焚燒管理成功恢復了森林生態與繁衍活力。",
+      "津巴布韋馬圖索多納國家公園（Matusadona National Park, Zimbabwe）：黑犀牛在經歷數十年的保育努力後，近期成功重新引入並回歸其歷史棲息地。",
+      "日本東京（Tokyo, Japan）：隨著「體育與文化深度旅遊」成為全球熱潮，日本傳統相撲賽事吸引了大量國際旅客前往體驗在地飲食與傳統相撲文化。",
+      "美國佛羅里達州（Florida, USA）：科學家透過分析汪星人的腦部活動發現，狗能夠準確區分人類「恐懼」與「悲傷」的不同情緒反應。"
+    ],
+    "story": "墨墨靜靜地位於古董店頂樓的高架上，金琥珀色的雙眼凝視著窗外明亮耀眼的陽光。牠將下巴微抬，趴在一本沉靜的湛藍色古書封面上，優雅地俯瞰著底下穿梭的街景與歲月痕跡。",
+    "inspiration": "original"
   }
 ]
