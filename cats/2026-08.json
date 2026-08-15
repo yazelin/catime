@@ -7863,5 +7863,41 @@
     },
     "title": "水下螢光花園之歌",
     "inspiration": "澳洲凱恩斯：公民科學研究團隊在凱恩斯外海發現了一座面積近 4,000 平方公尺的罕見巨型珊瑚群落，景象宛如壯麗的海底草原。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Fine Art Black-and-White Photography",
+      "composition": "Side Profile Portrait",
+      "lighting": "Underwater Caustics",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "在立陶宛考納斯「科學島」那座重達250噸的懸浮前衛建築深處，這隻好奇的貓咪每天都會駐足於實驗室的玻璃水槽旁。當它專注地探頭凝視水面時，周圍顛覆重力與光學的建築設計彷彿為它披上了一層奇幻的水底光影。",
+    "title": "懸浮建築裡的光影探險",
+    "idea": "這幅美術黑白攝影呈現側臉特寫視角，一隻斑紋短毛貓正優雅地伸出舌頭舔舐金魚缸邊緣的水滴，光線透過水面映射出宛如水下焦散光的流動紋樣，貓咪身上則散發著細緻的虹彩全息質感與柔和粉彩色系的光芒。",
+    "inspiration": "立陶宛考納斯（Kaunas, Lithuania）的「科學島」展示了一座重達 250 噸、彷彿對抗重力般的懸浮前衛建築，以創新的工程美學激發訪客對科學的好奇心。",
+    "number": 2947,
+    "avoid_list": [
+      "伸出前爪觸碰或抓取物體",
+      "純白長毛貓",
+      "百葉窗條紋光影",
+      "中國紅與金黑奢華配色",
+      "俯瞰鳥瞰垂直視角",
+      "氣象實驗室與精密測量儀器",
+      "大片留白負空間構圖",
+      "溫室花房玻璃建築",
+      "水墨水洗與東方古典意境",
+      "幾何低多邊形或折紙造型",
+      "夢幻粉彩光斑與散景顆粒",
+      "角落清晰嵌入時間戳記"
+    ],
+    "prompt": "A fine art black-and-white side profile portrait of a striped domestic shorthair cat elegantly licking a water droplet off the rim of a goldfish bowl. Shot on a 35mm lens at f/1.8, shallow depth of field, natural lighting with rich tonal gradation, deep blacks, and luminous gallery-print highlights. Underwater caustic light patterns ripple across the cat, blending with subtle iridescent holographic textures and soft pastel color shifts of pink, lavender, and mint glinting off its fur. In the bottom corner, the text '2026-08-15 07:20 UTC' is clearly visually displayed in a clean sans-serif font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5301133324,
+    "news_inspiration": [
+      "太平洋島國諾魯（Naoero / Nauru）宣布正式將國名更名為「諾魯共和國」（Republic of Naoero），以符合當地語言的拼寫與發音，藉此傳承並榮耀本國的傳統文化。",
+      "尼泊爾（Nepal）最新野生動物調查顯示，在多年積極保育下，境內的野生孟加拉虎數量已從 2010 年的 121 隻成長逾三倍達到 429 隻，締造瀕危物種復育的亮眼里程碑。",
+      "立陶宛考納斯（Kaunas, Lithuania）的「科學島」展示了一座重達 250 噸、彷彿對抗重力般的懸浮前衛建築，以創新的工程美學激發訪客對科學的好奇心。",
+      "墨西哥（Mexico）研究團隊透過腦部掃描發現，狗狗不僅能辨識人類的不同情緒表情，且在看見人類的微笑時大腦獎勵區域會產生專屬的正面反應。"
+    ]
   }
 ]
