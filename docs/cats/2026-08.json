@@ -7760,5 +7760,41 @@
       "帶有 Traditional Chinese 或 English 限制提示詞"
     ],
     "prompt": "A pastel bokeh illustration in black and white monochrome with a high contrast rich tonal range. A stray cat inside an abandoned subterranean laboratory reaches out its front paw to play with a fluid experiment apparatus, inadvertently solving the Feynman reverse sprinkler puzzle. The scene features heavy colorful light dots scattered throughout, creating a dreamy, magical atmosphere within the monochrome palette. The composition uses a nested frame-within-a-frame structure, looking through a square viewfinder window with a layered foreground border to emphasize depth and focus. Overhead fluorescent lighting casts a neutral white 5000K institutional flat illumination across complex pipes adorned with snake scale texture and overlapping glossy reptilian scales. Displayed clearly in the corner of the image is the text '2026-08-15 03:32 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "title": "光軌雙舟賽",
+    "news_inspiration": [
+      "在美國芝加哥，超過9萬隻黃色小鴨被傾倒入芝加哥河展開年度競速賽，為特殊奧林匹克運動會熱鬧籌募善款。",
+      "在捷克布拉格，面對夏季豔陽高照，布拉格動物園特地為北極熊運來整座冰塊山消暑嬉戲，模樣十分可愛逗趣。",
+      "在澳洲凱阿馬，一本逾期長達約150年的歷史藏書《雅典古物》，近日終於被民眾完好歸還給當地圖書館。",
+      "在辛巴威卡里巴，一群被親切稱為「疫苗騎士」的社區志工騎著自行車翻山越嶺，挨家挨戶為偏遠山區的女孩們親手送達並接種防癌疫苗。"
+    ],
+    "prompt": "A bird's-eye view, top-down perspective looking straight down at a miniature world effect setting. A holographic projection tortoiseshell cat in a geometric origami style with clean geometric creases, sharp angular folds, and a translucent glowing figure aesthetic pushes a small golden folded paper origami boat with its front paw, racing along a liquid track illuminated by neon lighting. Colorful glowing signs cast vivid reflections on wet surfaces in a festive red and gold palette, featuring auspicious Chinese red dominance with bright gold accents and dark moody urban night atmosphere. Digital scan lines and a subtle glow hover over the translucent cat figure. Visually displayed clearly in neon text on the track is the date and time '2026-08-15 04:18 UTC' in English. Digital illustration art style with clean paper sculpture aesthetics. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夜幕降臨，城市地下的全像競技場燃起璀璨的紅金霓虹。數萬隻光影折紙小鴨在流光軌道中飛馳，玳瑁貓輕盈地踏在光軌邊緣，揮動前爪為自己的金舟撥弄光浪。",
+    "inspiration": "在美國芝加哥，超過9萬隻黃色小鴨被傾倒入芝加哥河展開年度競速賽，為特殊奧林匹克運動會熱鬧籌募善款。",
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Bird's-Eye View",
+      "lighting": "Neon Lighting",
+      "texture": "Origami",
+      "color_palette": "Festive Red and Gold"
+    },
+    "number": 2944,
+    "idea": "從鳥瞰角度俯瞰，一隻全像投影構成的幾何折紙風格玳瑁貓，正用前爪推著一艘金色折紙小舟，在充滿霓虹燈光的中國紅金調液體軌道上展開競速。",
+    "avoid_list": [
+      "純白長毛貓",
+      "斑紋虎斑貓",
+      "伸縮爪子嗅聞",
+      "後腿佇立姿勢",
+      "微距特寫與留白負空間",
+      "三點打光與體積光",
+      "墨流紋理與絞染布簾",
+      "竹影翠綠與琥珀色調",
+      "藍黃互補色調",
+      "古老溫室與仙島微縮景觀",
+      "樹脂光澤與皮革質感",
+      "帶有 Traditional Chinese 或 English 限制提示詞"
+    ],
+    "comment_id": 5300503598
   }
 ]
