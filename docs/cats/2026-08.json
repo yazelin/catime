@@ -8079,5 +8079,41 @@
       "正交/俯瞰鳥瞰視角"
     ],
     "number": 2952
+  },
+  {
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Butterfly Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "水下焦散光照",
+      "斑紋短毛貓側臉特寫",
+      "前爪伸出擺弄/推動物件",
+      "霓虹螢光色彩 accents",
+      "中國紅金配色",
+      "35mm鏡頭 f/1.8大光圈",
+      "時間戳記 (2026-08-15 UTC)",
+      "粉彩光點/粉彩色系",
+      "全像/幾何折紙風格",
+      "莫蘭迪色調/大地色系",
+      "正交/俯瞰鳥瞰視角"
+    ],
+    "idea": "這是一幅採用刺繡藝術風格的創作，以超廣角視角呈現一隻英短貓在立陶宛「科學島」的重型金屬巨盤下，神情專注地踩著懸浮儀器旋鈕的畫面。冷藍青色調的細緻線條與金屬質感的絲線交織，在蝴蝶光的垂直照射下綻放立體光澤。",
+    "story": "巨大沉穩的金屬圓盤宛如反重力般浮於考那斯夜空，閃爍著冷冽青藍的銀光。一隻四腳踩在精密測量儀上的貓咪，正用爪子輕碰前方的控制盤，微小的動靜讓絲線縫製的星空跟著閃耀變幻。整個科普廣場沉浸在充滿未來感的沉靜韻律中，彷彿宇宙的奧秘正被這隻好奇的小生靈解鎖。",
+    "news_inspiration": [
+      "太平洋島國諾魯（Nauru）宣布正式將國名變更為符合本國語言拼寫與發音的「諾耶羅共和國」（Republic of Naoero），以此深化本土文化傳承與國家認同。",
+      "立陶宛考那斯（Kaunas）的「科學島」落成一座重達250噸、彷彿反重力懸浮於空中的巨型金屬圓盤建築，並結合先進天文館推廣互動科普。",
+      "尼泊爾（Nepal）公布最新野生動物保育成果，境內野生虎數量成功由過去的百餘隻成長逾三倍至429隻，創下珍稀物種復育的重大里程碑。",
+      "美國（USA）一組面臨資金短缺的旱獺科研團隊，幽默推出名為「OnlyMarms」的超萌旱獺專屬訂閱計畫，成功在社群引發熱潮並籌得研究經費。"
+    ],
+    "prompt": "Embroidered illustration on linen fabric featuring visible needlework, satin stitch, and French knots. An British Shorthair cat stands with its paws attentively on a floating scientific instrument knob under the heavy metallic disc of Science Island in Lithuania. Ultra wide angle 12-18mm lens perspective with dramatic distortion and an expansive field of view. Handcrafted textile art showing brushed metallic surfaces with sharp reflections woven from metallic thread. Butterfly lighting creates overhead key light, symmetrical shadow, and soft, even illumination with a three-dimensional luster. Cool blue-teal color grading with icy undertones creates a serene and calm mood. The date and time '2026-08-15 13:21 UTC' is clearly and visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "浮盤下的星藍微調",
+    "inspiration": "立陶宛考那斯（Kaunas）的「科學島」落成一座重達250噸、彷彿反重力懸浮於空中的巨型金屬圓盤建築，並結合先進天文館推廣互動科普。",
+    "comment_id": 5302427479,
+    "number": 2953
   }
 ]
