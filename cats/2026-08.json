@@ -8006,5 +8006,41 @@
     "is_seasonal": true,
     "comment_id": 5301767461,
     "character": "lingling"
+  },
+  {
+    "number": 2951,
+    "comment_id": 5301959455,
+    "news_inspiration": [
+      "阿根廷盧漢（Luján）一座停業動物園啟動大規模跨國救援，將曾長期困在狹小籠舍內的30隻獅子與老虎安全裝箱，陸續送往南非及美國的自然庇護所展開新生活。",
+      "瑞士巴塞爾（Basel）的物理研究團隊成功利用光學探測技術，揭開極罕見量子態「維格納晶體」內部電子集體運動的微觀奧秘。",
+      "澳洲凱恩斯（Cairns）外海的大堡礁海域，公民科學家發現了一片面積廣達近4,000平方公尺且生長數百年的巨型珊瑚群落，外觀宛如壯麗的水下草原。",
+      "美國阿肯色州（Arkansas）一名高中美式足球員在訓練結束後，驚訝發現自己竟然在安全頭盔內藏有一條約60公分長活蛇的情況下完成了整場訓練。"
+    ],
+    "inspiration": "澳洲凱恩斯（Cairns）外海的大堡礁海域，公民科學家發現了一片面積廣達近4,000平方公尺且生長數百年的巨型珊瑚群落，外觀宛如壯麗的水下草原。",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "採用Q版新年插畫風格與多格角色拼貼構圖，一隻充氣PVC質感的光頭無毛貓在黑金奢華風格的深海溫室裡，專注地用鼻子蹭著浮動的巨型珊瑚苔蘚球。",
+    "story": "古老的水下草場深處，無毛貓正穿梭於如巨型晶體般綻放的珊瑚群落間。倫勃朗光透過沈船舷窗灑落，映照出牠圓滾滾的身軀與黑色漆皮般的奢華光澤。牠小心翼翼地循著微光尋寶，將海底奧秘凝結於一格格熱鬧的名畫剪影中。",
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "水下焦散光照",
+      "斑紋短毛貓側臉特寫",
+      "前爪伸出擺弄/推動物件",
+      "霓虹螢光色彩 accents",
+      "中國紅金配色",
+      "35mm鏡頭 f/1.8大光圈",
+      "時間戳記 (2026-08-15 UTC)",
+      "粉彩光點/粉彩色系",
+      "全像/幾何折紙風格",
+      "莫蘭迪色調/大地色系",
+      "正交/俯瞰鳥瞰視角"
+    ],
+    "title": "水下草原的金色新歲",
+    "prompt": "A Q-version Lunar New Year illustration with a multi-panel character comic collage layout featuring a hairless sphynx cat made of inflatable high-gloss black PVC material with balloon-like puffy forms. The cute sphynx cat is attentively nuzzling a floating giant coral moss ball with its nose inside a deep sea greenhouse. Styled in a luxurious black and gold color scheme with opulent metallic gold accents, deep black background, red lanterns, and festive celebratory ornaments in a cheerful auspicious mood. Illuminated with dramatic chiaroscuro Rembrandt lighting coming from a single light source at a 45-degree angle. Printed visibly in stylized elegant text on the image is the date and time '2026-08-15 11:08 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
