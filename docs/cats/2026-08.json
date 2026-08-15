@@ -8115,5 +8115,41 @@
     "inspiration": "立陶宛考那斯（Kaunas）的「科學島」落成一座重達250噸、彷彿反重力懸浮於空中的巨型金屬圓盤建築，並結合先進天文館推廣互動科普。",
     "comment_id": 5302427479,
     "number": 2953
+  },
+  {
+    "inspiration": "英國薩里郡薩里大學的科學家研究發現，在鈉離子電池中保留微量水分竟能使其電力效能提升近一倍，為新世代環保儲能技術帶來突破。",
+    "avoid_list": [
+      "百葉窗條紋光影",
+      "水下焦散光照",
+      "斑紋短毛貓側臉特寫",
+      "前爪伸出擺弄/推動物件",
+      "霓虹螢光色彩 accents",
+      "中國紅金配色",
+      "35mm鏡頭 f/1.8大光圈",
+      "時間戳記 (2026-08-15 UTC)",
+      "粉彩光點/粉彩色系",
+      "全像/幾何折紙風格",
+      "莫蘭迪色調/大地色系",
+      "正交/俯瞰鳥瞰視角"
+    ],
+    "number": 2954,
+    "story": "實驗室的日光燈冷冽而明亮，貓咪好奇地盯著剛完成測試的鈉離子電池結構。它輕巧地伏在分割台面上，趁著研究員不注意，專注地品嚐著電池表面微小水分帶來的奇妙觸感。那微小的水珠在暖色螢光下閃爍著亮粉般的光澤，彷彿藏著電力倍增的魔法祕密。",
+    "prompt": "A split-view macro photograph of a long-furred orange cat leaning over a glass sink in a University of Surrey laboratory, extending its tongue to lick condensation droplets off an experimental battery pack. Extreme close-up with sharp details on fine textures, showing fine amber fur and shimmering glitter overlay effects with anime shine accents. The left half of the composition is a photorealistic candid shot, while the right half transitions via a sharp vertical cut line into a wireframe diagram. Overhead fluorescent lighting creates a neutral white 5000K institutional illumination, balanced with warm amber color grading and an autumn palette of golden yellows and burnt orange. Shot with a 100mm macro lens, f/2.8, shallow depth of field, sharp focus, showing authentic photographic grain and star-shaped highlights. The exact text '2026-08-15 14:11 UTC' is clearly displayed in a crisp font in the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這幅分割畫面微距攝影捕捉了一隻長毛橘貓在薩里大學實驗室的玻璃水槽邊，伸出舌頭舔舐實驗用電池組上凝結的微細水珠，日光燈在琥珀色毛髮與閃光亮粉介質間折射出溫暖秋日光芒。",
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Split View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [
+      "在美國加州帕西菲卡舉辦的世界狗狗衝浪錦標賽熱鬧登場，由衝浪名犬蘿西（Rosie）領軍展現帥氣逐浪身手，為夏日海灘帶來滿滿歡笑與活力。",
+      "印尼熱帶雨林傳來振奮人心的生態喜訊，先前獲救並成功野放的紅毛猩猩順利在野外誕下幼崽，成功建立了生生不息的全新野生族群。",
+      "英國薩里郡薩里大學的科學家研究發現，在鈉離子電池中保留微量水分竟能使其電力效能提升近一倍，為新世代環保儲能技術帶來突破。",
+      "尼泊爾野生動物保護區的生態保育工作傳出佳績，全國野生老虎數量持續穩定增長，成為全球大型貓科動物復育的典範。"
+    ],
+    "title": "微水琥珀的微觀電能",
+    "comment_id": 5302614440
   }
 ]
