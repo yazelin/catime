@@ -7827,5 +7827,41 @@
     "comment_id": 5300696125,
     "prompt": "A detailed 35mm lens photograph featuring a wet, dark grey short-haired cat crouching on a cold, misty mountain rock, staring out towards a distant valley where faint neon lights flicker under a soft aurora sky. Tight head-and-shoulders portrait crop with the cat's face filling the frame, showing an intimate eye-level connection. Fresh wet sheen and glistening beads of water droplets on skin texture and fur. Majestic landscape photography backdrop with grand sense of scale, dusty grey undertones, and a Morandi muted color palette. The date and time '2026-08-15 05:15 UTC' is visually displayed in the corner of the image. Shot on 35mm film, f/1.8 aperture, natural light, subtle film grain, realistic camera texture. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "在寒冷的暴風雨過後，這隻流浪貓獨自爬上了陡峭的海岸山崖頂端。它駐足於水氣繚繞的冷冽風中，專注地舔舐著爪子上的雨水，遠處港口小鎮的霓虹燈火在雲霧與極光下泛著低調的莫蘭迪灰調色澤。"
+  },
+  {
+    "news_inspiration": [
+      "西班牙加泰隆尼亞：糕點師 Marc Suárez 耗時四個月，用數萬片手工糖霜花瓣打造出一座重達 500 公斤的夢幻巨型婚禮蛋糕。",
+      "中國：一名男子為了實現並紀念妻子的童年回憶，歷經多年親手打造出全球規模最大的蜀葵花海花園。",
+      "美國維吉尼亞州：維吉尼亞理工大學一名保全在每場校園活動中雕刻並免費分送特製迷你小雕像，暖心舉動讓他成為校園人氣明星。",
+      "澳洲凱恩斯：公民科學研究團隊在凱恩斯外海發現了一座面積近 4,000 平方公尺的罕見巨型珊瑚群落，景象宛如壯麗的海底草原。"
+    ],
+    "avoid_list": [
+      "伸出前爪觸碰或抓取物體",
+      "純白長毛貓",
+      "百葉窗條紋光影",
+      "中國紅與金黑奢華配色",
+      "俯瞰鳥瞰垂直視角",
+      "氣象實驗室與精密測量儀器",
+      "大片留白負空間構圖",
+      "溫室花房玻璃建築",
+      "水墨水洗與東方古典意境",
+      "幾何低多邊形或折紙造型",
+      "夢幻粉彩光斑與散景顆粒",
+      "角落清晰嵌入時間戳記"
+    ],
+    "idea": "這是一張採用雜誌封面排版風格的照片，展現一隻斑紋短毛貓正優雅地在深海微光中用前足推動一朵巨大的螢光珊瑚花，側臉特寫搭配璀璨的霓虹螢光色與水下焦散光照亮牠的毛髮與周圍細節。",
+    "story": "潛水員們在凱恩斯外海沉寂已久的海底花園中，驚喜地目睹一隻適應水下生活的水手貓。牠輕盈地游曳於巨型珊瑚群落之間，宛如海洋雜誌封面上的神秘巨星，點亮了這片絢爛的沉睡世界。",
+    "number": 2946,
+    "prompt": "Editorial magazine cover photography of a tabby shorthair cat in a side profile portrait, elegantly pushing a giant fluorescent coral flower with its front paw under deep sea twilight. Bold vertical typography overlay, issue number, barcode, and the visually displayed text '2026-08-15 06:17 UTC' in clean graphic design composition. Shot on 35mm lens, f/1.8, underwater caustic lighting with rippling light patterns dancing over its fur, refracted blue-green aquatic glow, and vibrant neon fluorescent accents of electric pink, lime green, and hot cyan against a dark submerged background, shallow depth of field. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5300911662,
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Side Profile Portrait",
+      "lighting": "Underwater Caustics",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "水下螢光花園之歌",
+    "inspiration": "澳洲凱恩斯：公民科學研究團隊在凱恩斯外海發現了一座面積近 4,000 平方公尺的罕見巨型珊瑚群落，景象宛如壯麗的海底草原。"
   }
 ]
