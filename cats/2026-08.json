@@ -7655,5 +7655,38 @@
     "prompt": "A dreamy digital oil painting in soft pastel color palette with soft painterly brush strokes and mixed impasto, bird's-eye view looking straight down. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, a tiny natural white locket tuft on its chest, a single dark-grey ring at its tail tip, and large luminous golden-amber eyes is lying gracefully on a bamboo mat inside a serene, summer Japanese old house. The cat rests its head near open antique book scrolls. Its left ear features a single small gold hoop earring at the mid-ear edge, shimmering softly under venetian blind striped lighting that casts dramatic parallel light-and-shadow bands across its sculpted clay-textured matte fur. Crisp overlay text displaying '2026-08-14 23:10 UTC' is visually rendered clearly in a corner. Soft pastel colors of gentle pink, lavender, mint, and baby blue create an ethereal, peaceful midsummer afternoon ambiance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 2940,
     "title": "竹蓆上的日光漫舞"
+  },
+  {
+    "inspiration": "original",
+    "number": 2941,
+    "avoid_list": [
+      "純白長毛貓",
+      "斑紋虎斑貓",
+      "伸縮爪子嗅聞",
+      "後腿佇立姿勢",
+      "微距特寫與留白負空間",
+      "三點打光與體積光",
+      "墨流紋理與絞染布簾",
+      "竹影翠綠與琥珀色調",
+      "藍黃互補色調",
+      "古老溫室與仙島微縮景觀",
+      "樹脂光澤與皮革質感",
+      "帶有 Traditional Chinese 或 English 限制提示詞"
+    ],
+    "prompt": "Orthographic projection Chinese ink wash painting with sumi-e minimalist brushwork on rice paper, flat straight-on rendering without perspective distortion. A chubby orange-and-white shorthair cat named Mochi with a spherical torso is stealthily reaching out its solid orange right front paw like a mitten toward a freshly baked peanut mochi bread inside a glass display cabinet of an old-street traditional bakery. The cat's left face is entirely white, while its right half-face features a bright orange mask extending from the nose bridge across the right cheek to the right ear. Its left front paw is pure white, its belly is white, its eyes are large round amber, and its short legs support its round body. Soft diffused natural light creates an even illumination without harsh shadows, highlighting high saturation vivid colors, bold vibrant hues, and energetic contrast. Overlaying the scene is a delicate sheer gauze mesh texture with gossamer translucent netting. The date and time '2026-08-15 00:34 UTC' is clearly and visually displayed in English text within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用正交投影的水墨畫風格，描述橘白貓麻糬在鮮豔高飽和色彩的老街傳統麵包店裡，正伸出右橘色前腳試圖拍打並偷偷勾走玻璃櫥櫃裡一顆剛烤好的花生麻糬麵包，整體呈現紗網薄透肌理與自然漫射光感。",
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Orthographic Projection",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "麵包櫥櫃前的花生大盜",
+    "comment_id": 5299544337,
+    "character_name": "麻糬",
+    "news_inspiration": [],
+    "character": "mochi",
+    "story": "市場裡的貪吃鬼麻糬又趁著老闆不注意，偷偷潛入老街麵包店的檯面前。牠圓滾滾的身軀緊貼著玻璃櫥櫃，伸出像戴了橘色手套的右前腳，眼睛放大兩倍死死盯著那顆散發濃郁花生香氣的花生麻糬麵包。附近的街坊鄰居路過看到這幕，都忍不住停下腳步低笑，看這顆『會走路的花生麻糬』今天能不能偷嘴成功。"
   }
 ]
