@@ -7796,5 +7796,36 @@
       "帶有 Traditional Chinese 或 English 限制提示詞"
     ],
     "comment_id": 5300503598
+  },
+  {
+    "title": "霧崖霓光中的凝望",
+    "idea": "這是一幅結合壯麗自然風景攝影風格與頭肩特寫的影像，隻全身濕漉且帶有水珠濕膚肌理的深灰色短毛貓正蹲坐在極光壟罩的深山岩石上，凝視著遠方山谷中閃爍的微弱霓虹燈光，整體呈現柔和寧靜的莫蘭迪色調。",
+    "avoid_list": [
+      "伸出前爪觸碰或抓取物體",
+      "純白長毛貓",
+      "百葉窗條紋光影",
+      "中國紅與金黑奢華配色",
+      "俯瞰鳥瞰垂直視角",
+      "氣象實驗室與精密測量儀器",
+      "大片留白負空間構圖",
+      "溫室花房玻璃建築",
+      "水墨水洗與東方古典意境",
+      "幾何低多邊形或折紙造型",
+      "夢幻粉彩光斑與散景顆粒",
+      "角落清晰嵌入時間戳記"
+    ],
+    "style_picks": {
+      "art_style": "Majestic Landscape Photography",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Neon Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Morandi Color Palette"
+    },
+    "news_inspiration": [],
+    "number": 2945,
+    "inspiration": "original",
+    "comment_id": 5300696125,
+    "prompt": "A detailed 35mm lens photograph featuring a wet, dark grey short-haired cat crouching on a cold, misty mountain rock, staring out towards a distant valley where faint neon lights flicker under a soft aurora sky. Tight head-and-shoulders portrait crop with the cat's face filling the frame, showing an intimate eye-level connection. Fresh wet sheen and glistening beads of water droplets on skin texture and fur. Majestic landscape photography backdrop with grand sense of scale, dusty grey undertones, and a Morandi muted color palette. The date and time '2026-08-15 05:15 UTC' is visually displayed in the corner of the image. Shot on 35mm film, f/1.8 aperture, natural light, subtle film grain, realistic camera texture. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在寒冷的暴風雨過後，這隻流浪貓獨自爬上了陡峭的海岸山崖頂端。它駐足於水氣繚繞的冷冽風中，專注地舔舐著爪子上的雨水，遠處港口小鎮的霓虹燈火在雲霧與極光下泛著低調的莫蘭迪灰調色澤。"
   }
 ]
