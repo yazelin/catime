@@ -7688,5 +7688,41 @@
     "news_inspiration": [],
     "character": "mochi",
     "story": "市場裡的貪吃鬼麻糬又趁著老闆不注意，偷偷潛入老街麵包店的檯面前。牠圓滾滾的身軀緊貼著玻璃櫥櫃，伸出像戴了橘色手套的右前腳，眼睛放大兩倍死死盯著那顆散發濃郁花生香氣的花生麻糬麵包。附近的街坊鄰居路過看到這幕，都忍不住停下腳步低笑，看這顆『會走路的花生麻糬』今天能不能偷嘴成功。"
+  },
+  {
+    "inspiration": "美國德拉瓦州（Delaware, US）的科學家團隊為鯊魚裝設監測傳感器，利用牠們在大西洋廣闊海域的游動，協助實時蒐集海洋數據以預測氣旋與颱風強度。",
+    "avoid_list": [
+      "純白長毛貓",
+      "斑紋虎斑貓",
+      "伸縮爪子嗅聞",
+      "後腿佇立姿勢",
+      "微距特寫與留白負空間",
+      "三點打光與體積光",
+      "墨流紋理與絞染布簾",
+      "竹影翠綠與琥珀色調",
+      "藍黃互補色調",
+      "古老溫室與仙島微縮景觀",
+      "樹脂光澤與皮革質感",
+      "帶有 Traditional Chinese 或 English 限制提示詞"
+    ],
+    "story": "這隻無海軍背景的氣象貓將小型傳感器固定於巡游的鯊魚背鰭上，細心監測大西洋的海流變化。伴隨著百葉窗下投射的光影，牠專注地用爪子調整儀器面板，為即將到來的氣旋警報做好萬全準備。",
+    "news_inspiration": [
+      "太平洋島國諾魯（Nauru）於近期正式將國名變更為「瑙魯共和國」（Republic of Naoero），以忠實反映並弘揚其本土語言與文化傳統。",
+      "科學家最新公佈的調查顯示，尼泊爾（Nepal）歷經數十年的保育努力，野生虎族群數量已從2010年的121隻成長突破至429隻。",
+      "立陶宛考那斯（Kaunas, Lithuania）的「科學島」博物館揭幕，其建築焦點為一枚重達250公噸、看似懸浮於半空的金屬巨圓盤，成功將科學與藝術設計相結合。",
+      "美國德拉瓦州（Delaware, US）的科學家團隊為鯊魚裝設監測傳感器，利用牠們在大西洋廣闊海域的游動，協助實時蒐集海洋數據以預測氣旋與颱風強度。"
+    ],
+    "number": 2942,
+    "idea": "在抽象表現主義風格下，一隻低多邊形質感的無毛貓正在光影斑駁的實驗室裡用爪子撥弄氣象儀器，畫幅外圍以中國紅金配色條邊框包覆，並透著百葉窗條紋光。",
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Venetian Blind Light",
+      "texture": "Low Poly",
+      "color_palette": "Festive Red and Gold"
+    },
+    "title": "風暴前的紅金律動",
+    "prompt": "An abstract expressionist illustration featuring a low-poly Sphynx cat with geometric crystalline facets and flat-shaded triangular faces, using its paw to adjust meteorological instruments in a shadowy, moody laboratory. The scene is illuminated by dramatic venetian blind striped lighting, casting sharp, parallel light-and-shadow bands across the cat and equipment, creating a film-noir atmosphere. Spontaneous, high-contrast gestural brushwork and bold color fields fill the room. The composition is framed on both side borders by vertical color palette swatch bars in a festive, auspicious Chinese red and bright gold palette, evocative of a design moodboard or portfolio presentation layout. Seamlessly integrated on the meteorological instrument display screen, the date and time '2026-08-15 02:07 UTC' is clearly rendered in crisp white typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5299998826
   }
 ]
