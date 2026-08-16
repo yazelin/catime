@@ -8642,5 +8642,41 @@
     },
     "comment_id": 5305878290,
     "prompt": "A 3D isometric illustration with a street photography style, featuring a long-haired pure white cat crouching attentively on the edge of a flower planter in a vibrant London green building sky garden. The cat is following and gently sniffing a rare honeybee collecting nectar among orchids. A narrow beam spotlight pierces through a soft-focus matte haze, creating dramatic high-contrast lighting with sharp light edges and vivid, high-saturation colors. Polished playful rendering with clean geometric forms and atmospheric softness. Prominently displayed text reading '2026-08-16 05:17 UTC' is clearly visible in a clean font in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "inspiration": "丹麥哥本哈根的「真人圖書館」推出花園特別活動，讓民眾可以透過借閱「真人」來傾聽彼此獨特的人生故事。",
+    "idea": "在以大理石雕砌而成的古老沉思神殿中，一隻雪白長毛貓正蜷坐在巨型書卷上，用鼻子輕撫一本開啓的「真人圖書館」活頁書，採用漫畫風格呈現。",
+    "news_inspiration": [
+      "奧地利維也納的大學研究人員發現一隻名叫韋羅妮卡（Veronika）的母牛學會使用多功能工具，成為科學界記錄到的第一起家牛具備工具使用能力的有趣發現。",
+      "英國紐卡斯爾的大學科學家將羊毛中提取的角蛋白轉化為全新材料，成功在動物實驗中幫助受損骨骼自然再生。",
+      "丹麥哥本哈根的「真人圖書館」推出花園特別活動，讓民眾可以透過借閱「真人」來傾聽彼此獨特的人生故事。",
+      "蘇格蘭法夫郡的農場迎來百萬朵向日葵盛開的壯觀景致，為造訪當地的遊客帶來繽紛的夏日視覺盛宴。"
+    ],
+    "prompt": "Manga style illustration with clean ink line art, subtle screentone shading, and dynamic panel aesthetics. In an ancient contemplative temple lined with grand, polished marble shelves featuring natural vein patterns, a fluffy white long-haired cat is curled up on a giant ancient scroll, gently nuzzling its nose against an open, glowing living memory book. Massive living books representing human souls stand quietly along the luxurious stone shelves. Ultra wide angle 12-18mm lens perspective with dramatic perspective distortion and expansive field of view. Rembrandt lighting with a single warm amber light source at 45 degrees, casting dramatic chiaroscuro and rich shadows across the cool smooth marble surfaces. Warm amber color grading with golden yellows and burnt orange hues evoking cozy nostalgic warmth. Discreetly rendered in fine ink text on the margin of the glowing page is the timestamp '2026-08-16 06:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "前爪伸出觸碰或扒拉物品",
+      "四足站立踩踏表面",
+      "星雲宇宙微光",
+      "紅金喜慶配色與點綴",
+      "鳥瞰俯視視角",
+      "紙質手繪紋理背景",
+      "描金墨線與金屬裝飾細節",
+      "古董工坊與懷舊室內場景",
+      "窗邊柔光與定向採光",
+      "穆夏式或裝飾藝術對稱拱框",
+      "三色貓與虎斑貓反覆出現"
+    ],
+    "story": "神殿內部映照著濃郁的琥珀色倫勃朗光，人們以書本形態靜佇於巨型大理石書架之間。超廣角視角捕捉到白貓細細嗅聞著其中一本發出微光的真人記憶，記錄著某個靈魂漫長而暖心的夏日故事。",
+    "title": "大理石殿堂的記憶聆聽者",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Marble",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 2969,
+    "comment_id": 5306103346
   }
 ]
