@@ -8928,5 +8928,41 @@
       "texture": "Liquid Metal",
       "color_palette": "Bamboo Jade Green"
     }
+  },
+  {
+    "comment_id": 5307867164,
+    "avoid_list": [
+      "伸出前爪碰觸物件",
+      "雨後濕潤花圃",
+      "魚眼廣角鏡頭變形",
+      "霓虹螢光光影",
+      "老街市場潮間帶",
+      "微距暗黑花卉風格",
+      "蝴蝶光照明",
+      "深邃星際外太空",
+      "體積光穿透晨霧",
+      "莫蘭迪低飽和色調",
+      "低多邊形油畫風格",
+      "懸浮金屬與天象儀"
+    ],
+    "news_inspiration": [
+      "奧地利維也納的大學研究團隊發現一隻名為 Veronika 的母牛能使用同一工具的不同端進行多用途操作，成為全球首次紀錄到牛隻具備工具使用能力的科學新發現。",
+      "英格蘭拉夫堡的大學體育俱樂部舉辦了一場結合運動與環保的拾荒競賽，多支隊伍在一下午內共同為當地社區清理了高達 281 公斤的垃圾。",
+      "英國古生物學者結合電腦 3D 模擬技術解開百萬年謎團，證實始祖鳥並非如現代鳥類般直接起飛，而是透過連續雙腳快速跳躍來獲得升力。",
+      "丹麥哥本哈根的「真人圖書館」花園提供特別的借閱服務，讓遊客與民眾可以不借圖書、改為借閱不同背景的「真人」進行深度對話與文化交流。"
+    ],
+    "story": "小貓在一座座懸浮於空中的花園小島間練習連續跳躍，每一次後足借力踩踏，都激起一陣金黃色的微光。牠專注地計算著浮島之間的距離，藉由連續彈跳的衝力在浮島間穿梭，彷彿在空中重現遠古羽翼起飛前的奇妙步伐。",
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Floating Island Scene",
+      "lighting": "Underwater Caustics",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "title": "浮島起躍之歌",
+    "idea": "在蠟筆兒童畫風格中，一隻毛茸茸的藍色條紋短毛貓正四腳著地、靈巧地在漂浮岩島的花壇與踏石間連續起跳追逐黃色蝴蝶，整座浮島籠罩在澄黃與寶藍交織的夢幻水下焦散光斑中。",
+    "prompt": "Crayon drawing style with a childlike hand-drawn look on a warm paper background, capturing a fluffy blue-striped short-haired cat with soft fuzzy fibers and plush tactile texture leaping deftly on all fours between flower beds and stepping stones on a floating island in the sky. The miniature levitating platform feature a vivid complementary palette of vibrant cool blue and warm yellow. The scene is enveloped in a submerged dreamlike atmosphere with underwater caustic lighting, rippling light patterns, blue-green aquatic glow, and refracted sun shafts dancing over the subject. Aerial perspective with white clouds in the background. Prominently displayed text reading '2026-08-16 14:11 UTC' appears visually in the image in sharp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2977,
+    "inspiration": "英國古生物學者結合電腦 3D 模擬技術解開百萬年謎團，證實始祖鳥並非如現代鳥類般直接起飛，而是透過連續雙腳快速跳躍來獲得升力。"
   }
 ]
