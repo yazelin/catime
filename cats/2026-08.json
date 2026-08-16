@@ -8819,5 +8819,42 @@
     "story": "鈴鈴脖子上的粉紅鈴鐺發出叮叮噹噹的清脆響聲，她在微藻花園的花叢間快樂地打轉。看到眼前閃爍著寶石般光澤的綠色微藻球體，她開心地瞪大寶石藍眼眸，瞬間趴下翻肚，準備伸出藏在白毛裡的粉紅肉球去抓那個亮晶晶的新玩具。",
     "idea": "採用低多邊形油畫風格與正交投影視角，描繪布偶貓鈴鈴在粉色系的京都微藻溫室花園裡，好奇地用粉紅肉掌撲向懸浮在空中、閃閃發光的微藻替代肉培養球體。",
     "character_name": "鈴鈴"
+  },
+  {
+    "style_picks": {
+      "art_style": "Fine Art Black-and-White Photography",
+      "composition": "Side Profile Portrait",
+      "lighting": "Butterfly Lighting",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 2974,
+    "inspiration": "立陶宛考那斯的科學島新建成一座重達250公噸的懸浮金屬巨盤建築，結合頂尖天象館與140個互動展覽，展現獨特的建築工藝與科學魅力。",
+    "title": "星軌上的側影",
+    "news_inspiration": [
+      "奧地利維也納的大學研究團隊發現一隻名為 Veronika 的乳牛竟然會靈活使用工具，創下全球首次記錄到乳牛具備多功能工具使用能力的科學發現。",
+      "辛巴威馬圖索多納國家公園成功重引進極度瀕危的黑犀牛，在當地部落領袖共同支持下完成這項具里程碑意義的野生動物保育成果。",
+      "尼泊爾加德滿都政府公布最新的野生老虎調查報告，顯示經過數十年努力，當地的野生老虎數量已從2010年的121隻大幅大幅成長三倍以上至429隻。",
+      "立陶宛考那斯的科學島新建成一座重達250公噸的懸浮金屬巨盤建築，結合頂尖天象館與140個互動展覽，展現獨特的建築工藝與科學魅力。",
+      "太平洋島國諾魯正名為「諾奧羅共和國（Republic of Naoero）」，以忠實呈現並珍視當地原住民語言與文化傳統。"
+    ],
+    "comment_id": 5307146930,
+    "idea": "在黑白高對比的美術攝影風格下，一隻黑白斑紋的貓咪站在懸浮金屬結構邊緣，伸出前爪試圖碰觸微調中的大型天象儀模型，背景呈現如冷色調墨點灑落般的深邃星空氛圍。",
+    "prompt": "Fine art black-and-white photography with subtle cool blue-teal color grading and scattered ink-spray splatter textures in the deep starry background. Side profile portrait of a black-and-white patterned cat standing on the edge of a suspended metallic platform, reaching out with its front paw to touch a large planetarium orrery mechanism. Butterfly lighting with an overhead key light creating rich tonal gradation, deep velvety blacks, luminous highlights on the metal, and a defined profile contour. Elegant lateral composition shot on an 85mm lens at f/2.8, shallow depth of field, fine film grain. Subtly inscribed on the metallic frame is the timestamp '2026-08-16 11:09 UTC' in clean minimalist typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這座充滿科學魅力的懸浮展館中，沉靜的貓咪成了夜晚唯一巡視星空的哲學家。在蝶形光影的照射下，牠優雅地側著頭，用爪子輕捏輪軸，記錄著獨屬於自己的宇宙軌跡。",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "琥珀色光芒",
+      "磨砂玻璃質感",
+      "互補色調",
+      "手繪資訊圖風格",
+      "魚眼鏡頭強烈彎曲",
+      "霓虹螢光色斑駁光影",
+      "強制透視伸手構圖",
+      "等距3D插圖",
+      "倫勃朗光影",
+      "大理石書架神殿",
+      "時間戳記標記"
+    ]
   }
 ]
