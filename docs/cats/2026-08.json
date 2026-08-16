@@ -8856,5 +8856,41 @@
       "大理石書架神殿",
       "時間戳記標記"
     ]
+  },
+  {
+    "inspiration": "美國紐約的布魯克黑文國家實驗室科學家發表最新物理研究，發現質子內部由膠子構成的「Y型接面」結構，挑戰了數十年來的教科書理論。",
+    "idea": "在布滿鐵鏽舊化斑駁的十八世紀宮廷天文台裡，一隻蓬鬆的波斯貓正全神貫注地伏在雕花黃銅星圖桌上，用粉嫩鼻尖嗅聞三叉狀的膠子力學模型，整幅畫面以高飽和鮮豔色與繁複華麗的洛可可裝飾呈現，百葉窗條紋光斜切過穆夏式拱框構圖。",
+    "story": "午後的斜陽穿透斑駁百葉窗，在老舊生鏽的實驗儀器上投下層層明暗相間的光影。老貓趴在散落著手繪公式的羊皮紙間，對科學家新拼組出的質子「Y型接面」三叉模型充滿好奇，輕輕湊近用鼻子辨識著微小黃銅零件的氣味。在極致繁複優雅的拱形花紋圍繞下，這場嚴謹微觀物理學的突破，在古老王室觀測所裡演變成一幅慵懶又絢麗的午後探索。",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Venetian Blind Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A fluffy Persian cat intently leaning over an intricately carved brass star chart desk, sniffing a Y-shaped three-pronged gluonic mechanics model with its pink nose, set inside a rusted, weathered, and oxidized 18th-century royal court observatory. The text '2026-08-16 12:15 UTC' is visually displayed in the image. Illustration in flamboyant Rococo style with flowing ornamental curves, elaborate decorative detail, and light playful elegance. Styled with a Mucha-style arched frame composition, symmetrical Art Nouveau panel framing with integrated floral motifs, and a decorative border halo. Lighting features venetian blind striped lighting with hard parallel light-and-shadow bands cutting across the scene, creating a dramatic graphic shadow pattern and moody interior amidst warm orange-brown rusted patina and peeling paint. Rendered in high saturation vivid colors, bold vibrant hues, and an energetic palette. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2975,
+    "avoid_list": [
+      "伸出前爪碰觸物件",
+      "雨後濕潤花圃",
+      "魚眼廣角鏡頭變形",
+      "霓虹螢光光影",
+      "老街市場潮間帶",
+      "微距暗黑花卉風格",
+      "蝴蝶光照明",
+      "深邃星際外太空",
+      "體積光穿透晨霧",
+      "莫蘭迪低飽和色調",
+      "低多邊形油畫風格",
+      "懸浮金屬與天象儀"
+    ],
+    "title": "微觀穹頂下的金曦",
+    "news_inspiration": [
+      "天文學家於冰島雷克雅維克觀察到罕見的「日落日蝕」天文奇景，月球陰影在黃昏時分掠過北極地區，吸引全球無數天文愛好者前往觀賞。",
+      "美國紐約的布魯克黑文國家實驗室科學家發表最新物理研究，發現質子內部由膠子構成的「Y型接面」結構，挑戰了數十年來的教科書理論。",
+      "法國巴黎主辦的歐洲水上運動錦標賽盛大開幕，來自歐洲各地的優秀運動員齊聚一堂，展開精采絕倫的游泳與高空跳水競技。",
+      "英國伯明罕迎來歐洲田徑錦標賽，多國頂尖田徑好手在賽場上同台較勁，為現場觀眾帶來熱血沸騰的體育盛宴。"
+    ],
+    "comment_id": 5307400809
   }
 ]
