@@ -9160,5 +9160,41 @@
       "texture": "Glowing Filament Flow",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "title": "灰調泥塑的守護者",
+    "story": "部落的陶藝師正以低彩度的莫蘭迪色土胚打造瀕危野獸的符騰，一隻四腳踩在拉坯機旁的斑紋貓伸出前爪輕撫塑型中的黑犀牛尾巴。在聚光燈的照射下，陶瓷質感的犀牛輪廓與貓咪撫慰的動作交織出部落保護生命的古老承諾。",
+    "comment_id": 5309694268,
+    "avoid_list": [
+      "伸爪碰觸精密儀器或齒輪",
+      "古董天文台與星空背景",
+      "懸浮空中浮島或平台",
+      "穆夏風裝飾拱框與花紋",
+      "絲綢布料質感與反光",
+      "稜鏡彩虹折射與光斑",
+      "強烈輪廓背光與邊緣光",
+      "藍青色與暖色互補調色",
+      "用鼻子嗅聞微小模型零件",
+      "水晶幾何切面與焦散光影",
+      "高調明亮柔和無陰影光照",
+      "工坊或茶室中的靜物特寫"
+    ],
+    "news_inspiration": [
+      "奧地利維也納的大學團隊最新研究發現，當狗狗看到人類露出一抹微笑時，腦部會出現獨特的快樂反應，證實人類的笑容對狗狗具有特別的情感意義。",
+      "太平洋島國諾魯正式將國名英文拼音改為「Naoero」（諾埃羅），以忠實傳承並尊重大洋洲當地的原住民語言與文化傳統。",
+      "辛巴威的馬圖索多納國家公園成功重新引進極度瀕危的黑犀牛，在當地部落領袖的共同支持下邁出野生動物保育的關鍵一步。",
+      "美國德州海灘成功將一隻迷航至英國威爾斯的罕見肯普氏龜「Rhossi」送回老家野放，完成跨越大西洋的溫馨救援任務。"
+    ],
+    "number": 2984,
+    "idea": "在莫蘭迪灰調的非洲未來主義陶藝工作坊中，一隻斑紋貓凝視著由黏土捏塑而成的黑犀牛雕像，畫面以分割畫面呈現聚光燈下的工藝細節。",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Split View",
+      "lighting": "Spotlight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "辛巴威的馬圖索多納國家公園成功重新引進極度瀕危的黑犀牛，在當地部落領袖的共同支持下邁出野生動物保育的關鍵一步。",
+    "prompt": "Afrofuturism illustration with split view composition, divided by a sharp vertical cut line. Left half shows photorealistic rendering, right half shows wireframe diagram. In a muted Morandi grey-toned futuristic ceramic workshop, a tabby cat standing beside a potter's wheel gently reaches out its front paw to touch the clay tail of a handcrafted black rhinoceros sculpture. Illumination provided by a narrow beam spotlight with dramatic high-contrast lighting, sharp light edges, and deep darkness falloff. Sculpted clay texture featuring a matte surface with subtle imperfections, warm earthy tones, desaturated soft pastels, and dusty grey undertones reflecting quiet elegance and ancient African cultural symbolism. The date and time '2026-08-16 21:09 UTC' is visually displayed in clear text within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
