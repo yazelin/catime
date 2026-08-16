@@ -8501,5 +8501,36 @@
     },
     "idea": "這是一幅採用手繪信息圖風格的圖解作品，融合穆夏式拱框構圖與黏土陶瓷質感，呈現一隻花貓在古老岩壁旁認真拿著放大鏡專注比對足跡圖譜的畫面。",
     "inspiration": "在美國科羅拉多州，古生物學家透過空拍分析發現一條長達 95 公尺的 1.5 億年前恐龍足跡迴圈，顯示這隻巨大的蜥腳類恐龍當時可能正一跛一跛地轉圈漫步。"
+  },
+  {
+    "title": "琥珀花夜的微觀巡禮",
+    "story": "深秋深夜的花圃沉浸在一片鬱暗的秋日色彩中，白貓穿梭於被雨水浸濕的絞染布藝花叢間，低頭專注地嗅聞一朵沾滿露珠的琥珀色花蕾。周圍彎曲的光影將花瓣紋理與貓咪柔軟的毛髮無限放大，勾勒出一幕神秘而深刻的植物夜行曲。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Dark Moody Floral Macro",
+      "composition": "Fisheye Lens",
+      "lighting": "Cinematic Lighting",
+      "texture": "Shibori Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "A close-up photograph of a pure white Persian cat crouched in a dark, wet autumn flowerbed after late-night rain, intently sniffing an amber-colored flowerbud covered in dew drops. Shot on a fisheye wide-angle lens with strong barrel distortion and exaggerated foreground depth. Dark moody macro photography featuring deep moody autumn floral surroundings with Shibori resist-dyed textile patterns in indigo blue and organic flowing designs integrated into the botanical textures. Dramatic low-key cinematic lighting, warm amber volumetric light rays, golden yellow and burnt orange autumn accents against rich saturated dark shadows. Clear visual overlay text reading '2026-08-16 02:14 UTC' seamlessly displayed in the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "number": 2965,
+    "idea": "在暗黑微距花卉風格下，一隻純白波斯貓伏在深夜雨後的濕潤秋日花圃中，透出魚眼鏡頭強烈的邊緣彎曲感與琥珀色電影感光影。",
+    "comment_id": 5305295618,
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "前爪伸出觸碰或扒拉物品",
+      "四足站立踩踏表面",
+      "星雲宇宙微光",
+      "紅金喜慶配色與點綴",
+      "鳥瞰俯視視角",
+      "紙質手繪紋理背景",
+      "描金墨線與金屬裝飾細節",
+      "古董工坊與懷舊室內場景",
+      "窗邊柔光與定向採光",
+      "穆夏式或裝飾藝術對稱拱框",
+      "三色貓與虎斑貓反覆出現"
+    ]
   }
 ]
