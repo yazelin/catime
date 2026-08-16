@@ -8606,5 +8606,41 @@
     "number": 2967,
     "story": "在沒有中央集權統治的古老森林深處，精密連結的灌溉水系仍在運作。身上飾有立體花卉貼花的寫實人形機械貓，凝神注視著潺潺流水，伸出鋼鐵爪子撥動石質閘門，延續著千年前先民自主合作設計的水利奇蹟。",
     "inspiration": "考古學家在哥倫比亞發現了龐大的古代水利工程網絡，證實當地先民在沒有中央集權的社會結構下，也能自主合作建造精密的灌溉系統。"
+  },
+  {
+    "news_inspiration": [
+      "奧地利維也納大學（Vienna, Austria）的最新腦部掃描研究證實，狗狗的大腦對人類的微笑表情具有顯著情感反應，能敏銳辨識主人的快樂神情。",
+      "一隻迷航在歐洲的極危物種甘氏巨龜搭乘專屬溫控客製貨機飛抵美國休士頓（Houston, United States），在動物園完成體檢後即將野放重回大海。",
+      "英國倫敦（London, United Kingdom）透過廣設綠建築屋頂打造空中綠洲，成功讓珍稀野生蜜蜂與蘭花在繁華都會區中繁衍茁壯。",
+      "澳洲新南威爾斯州（New South Wales, Australia）的國家公園保育計畫傳出捷報，曾瀕臨絕種的西部袋鼬與兔耳袋狸已成功在野外自然繁衍生息。"
+    ],
+    "idea": "這是一幅以街頭攝影風格 presented 的等距3D插圖構圖場景，高飽和鮮豔色的聚光燈穿透柔焦霧面，照亮一隻長毛純白貓咪在倫敦繁華街頭綠建築空中花園的花台邊緣，正專注地跟隨並用鼻子輕嗅一隻採蜜中的珍稀蜂群。",
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "前爪伸出觸碰或扒拉物品",
+      "四足站立踩踏表面",
+      "星雲宇宙微光",
+      "紅金喜慶配色與點綴",
+      "鳥瞰俯視視角",
+      "紙質手繪紋理背景",
+      "描金墨線與金屬裝飾細節",
+      "古董工坊與懷舊室內場景",
+      "窗邊柔光與定向採光",
+      "穆夏式或裝飾藝術對稱拱框",
+      "三色貓與虎斑貓反覆出現"
+    ],
+    "story": "在繁華都會區的綠建築空中綠洲裡，白貓靜靜蹲伏在花叢間，看著珍稀野生蜜蜂在蘭花間忙碌穿梭。聚光燈般的光束穿透迷霧照亮花園，牠微微動著鬍鬚，沉浸在這片屬於城市的空中奇蹟中。",
+    "title": "空中綠洲的訪客",
+    "number": 2968,
+    "inspiration": "英國倫敦（London, United Kingdom）透過廣設綠建築屋頂打造空中綠洲，成功讓珍稀野生蜜蜂與蘭花在繁華都會區中繁衍茁壯。",
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Spotlight",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 5305878290,
+    "prompt": "A 3D isometric illustration with a street photography style, featuring a long-haired pure white cat crouching attentively on the edge of a flower planter in a vibrant London green building sky garden. The cat is following and gently sniffing a rare honeybee collecting nectar among orchids. A narrow beam spotlight pierces through a soft-focus matte haze, creating dramatic high-contrast lighting with sharp light edges and vivid, high-saturation colors. Polished playful rendering with clean geometric forms and atmospheric softness. Prominently displayed text reading '2026-08-16 05:17 UTC' is clearly visible in a clean font in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
