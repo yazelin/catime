@@ -9031,5 +9031,36 @@
       "低多邊形油畫風格",
       "懸浮金屬與天象儀"
     ]
+  },
+  {
+    "prompt": "Oriental mythic poster art and illustrated story page layout with multiple irregular panels. An energetic black cat on top of an ancient seaside lighthouse during a snowstorm, holding tightly onto a thick rope and leaping with its full body weight to ring a massive warning bell, warning distant fishing boats of an approaching sea monster. Cinematic fantasy composition featuring photorealistic central subject merged with traditional Chinese ink cloud ornaments, vertical calligraphy panels in Traditional Chinese, red seal stamps, and gold leaf accents on deep black. Atmospheric lighting with heavy falling snow veil, cold blue-white palette, dynamic water splash texture with bursting droplets and flying spray frozen mid-motion. The text '2026-08-16 17:10 UTC' is visually displayed crisp and clear in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "海怒怒濤中的警鐘",
+    "story": "暴風雪朦朧的夜裡，巨浪挾著洶湧的水花飛濺狂湧而至。黑貓緊抓著粗繩躍起，用全身重量拉響巨鐘，向遠方的漁船發出海怪襲來的警訊。",
+    "avoid_list": [
+      "伸爪碰觸精密儀器或齒輪",
+      "古董天文台與星空背景",
+      "懸浮空中浮島或平台",
+      "穆夏風裝飾拱框與花紋",
+      "絲綢布料質感與反光",
+      "稜鏡彩虹折射與光斑",
+      "強烈輪廓背光與邊緣光",
+      "藍青色與暖色互補調色",
+      "用鼻子嗅聞微小模型零件",
+      "水晶幾何切面與焦散光影",
+      "高調明亮柔和無陰影光照",
+      "工坊或茶室中的靜物特寫"
+    ],
+    "inspiration": "original",
+    "comment_id": 5308644945,
+    "number": 2980,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Snowstorm Haze",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Duotone"
+    },
+    "idea": "這幅採用東方奇幻海報風格與故事插畫分格的作品，呈現一隻黑貓在古老海邊燈塔頂端奮力拉扯警示鐘繩索，迎接海怪巨浪的震撼畫面。"
   }
 ]
