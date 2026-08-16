@@ -8892,5 +8892,41 @@
       "英國伯明罕迎來歐洲田徑錦標賽，多國頂尖田徑好手在賽場上同台較勁，為現場觀眾帶來熱血沸騰的體育盛宴。"
     ],
     "comment_id": 5307400809
+  },
+  {
+    "inspiration": "烏克蘭與全球各地的天空愛好者在8月16日共同慶祝國際風箏日，人們透過施放各式彩繪風箏體驗這項悠久的戶外文化活動。",
+    "number": 2976,
+    "idea": "在傳統竹編風箏工坊的梳妝鏡前，一隻三花貓專注地用嘴叼著沾滿液態金屬塗料的風箏引線，呈現帶有竹影翠綠色調與強烈輪廓光的藍曬法鏡像自拍視角。",
+    "story": "工匠正忙著為國際風箏節趕製竹骨風箏，頑皮的貓兒湊近鏡台咬起發光的塗漆引線，好奇地望向鏡中倒映的自己。窗外透進的明亮日光勾勒出牠毛茸茸的背光剪影，與滿室翠綠的竹篾相映成趣。",
+    "prompt": "A cyanotype print and photogram styled photographic mirror selfie shot inside a traditional bamboo kite workshop. A calico cat is close up, focused, holding a kite string covered in dripping, molten liquid chrome in its mouth, reflection visible in a dressing mirror. Intimate close-up perspective, casual framing with Prussian blue monochrome tones contrasted against fresh emerald bamboo jade-green color accents. High contrast silhouettes illuminated by intense backlighting with glowing rim light along the cat's fur and outline. A blueprint aesthetic with a mercury-like reflective flow. Visible timestamp text '2026-08-16 13:22 UTC' cleanly rendered in English text in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5307658938,
+    "news_inspiration": [
+      "辛巴威的馬圖索多納國家公園時隔多年重新引進了極危物種黑犀牛，標誌著當地生態保育與動物復育的重要里程碑。",
+      "尼泊爾政府宣布全國野生虎數量已從早年的121隻成長至429隻，成功實現了野生虎族群數量翻倍的保育奇蹟。",
+      "太平洋島國諾魯正式將國家英文名稱更名為其本土語言拼音「Naoero」，以展現對自身傳統文化與語言認同的尊重。",
+      "烏克蘭與全球各地的天空愛好者在8月16日共同慶祝國際風箏日，人們透過施放各式彩繪風箏體驗這項悠久的戶外文化活動。"
+    ],
+    "avoid_list": [
+      "伸出前爪碰觸物件",
+      "雨後濕潤花圃",
+      "魚眼廣角鏡頭變形",
+      "霓虹螢光光影",
+      "老街市場潮間帶",
+      "微距暗黑花卉風格",
+      "蝴蝶光照明",
+      "深邃星際外太空",
+      "體積光穿透晨霧",
+      "莫蘭迪低飽和色調",
+      "低多邊形油畫風格",
+      "懸浮金屬與天象儀"
+    ],
+    "title": "鏡中引線之影",
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
