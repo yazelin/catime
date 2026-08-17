@@ -9307,5 +9307,40 @@
       "color_palette": "Vermilion and White"
     },
     "story": "溫室外流星劃過夜空，溫室內暖意融融。貓咪靈巧地運用棍子傳遞著友誼，黑牛則享受地閉上雙眼。朱紅與純白色彩在柔和漫射光下交織，譜出一段跨越物種的溫馨日常。"
+  },
+  {
+    "comment_id": 5311501169,
+    "number": 2989,
+    "title": "水底時光的遺骸",
+    "idea": "在深海水下洞穴的探險場景中，一隻橘白斑貓戴著潛水鏡、踩著浮力裝置，正好奇地俯瞰潛水員挖掘古巨獸骨骼，呈現交叉沖洗風格與青橙電影調的視覺對比。",
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Bioluminescence",
+      "texture": "3D Render",
+      "color_palette": "Teal and Orange"
+    },
+    "avoid_list": [
+      "強烈輪廓光",
+      "莫蘭迪色調",
+      "三花貓",
+      "爪子觸碰或撥弄微小物體",
+      "拱形花紋與裝飾邊框",
+      "聚光燈極致光影對比",
+      "微型機械與結構",
+      "新藝術風格飾邊",
+      "藍青色系調色",
+      "玻璃與晶體折射光斑",
+      "高飽和鮮豔色彩",
+      "條紋光與百葉窗陰影"
+    ],
+    "inspiration": "澳洲阿德萊德（Adelaide, Australia）的研究人員在南部水下洞穴中，發現了保存完好的古老巨型動物骨骼，透過獨特的水下沉積環境為揭開已滅絕巨型生物的生態謎團提供了關鍵線索。",
+    "prompt": "A polished 3D render with Cinema 4D aesthetic featuring smooth materials and clean geometry, depicting an adventurous orange-and-white tabby cat wearing tiny diving goggles and standing atop a buoyant underwater propulsion gadget in a deep underwater cave. The cat curiously peers down at human divers excavating a massive prehistoric beast skeleton from the sea floor sediment. Bioluminescent floating plankton emits an organic deep blue-green radiance, contrasting with warm underwater exploration lights. Experimental cross-processing aesthetic with teal and orange cinematic color grading, punchy balanced contrast, retro vintage shifts, and a surreal doppelganger mirror reflection composition across a calm water pocket surface. In the bottom corner, the text '2026-08-17 03:39 UTC' is clearly stamped in crisp digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國羅徹斯特（Rochester, USA）的科學團隊利用人工智慧成功量測出腦部「夜間清潔系統」的液體流速，發現其在腦深部與表面呈現不同速度，這項發現有助於未來提早檢測阿茲海默症等腦部疾病。",
+      "澳洲阿德萊德（Adelaide, Australia）的研究人員在南部水下洞穴中，發現了保存完好的古老巨型動物骨骼，透過獨特的水下沉積環境為揭開已滅絕巨型生物的生態謎團提供了關鍵線索。",
+      "英國倫敦（London, UK）啟動了涵蓋逾 14 萬人的大規模臨床測試，科學家透過單一血液檢測即成功在患者出現症狀前識別出高達 50 種癌症，為早期癌症篩檢帶來重大突破。"
+    ],
+    "story": "潛水團隊在阿德萊德的水下洞穴深處進行考古作業，這隻大膽的探險貓蜷縮在沈積物旁，目不轉睛地看著泥沙中顯露出來的古老巨型動物骨骼。周圍懸浮的生物發光微粒照亮了牠閃爍著好奇光芒的瞳孔，與洞穴外傳來的微光形成鏡像對稱。"
   }
 ]
