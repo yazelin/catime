@@ -9721,5 +9721,41 @@
       "texture": "Three-Dimensional Floral Appliqué",
       "color_palette": "Vermilion and White"
     }
+  },
+  {
+    "number": 3001,
+    "title": "貨架間的狂想曲",
+    "inspiration": "在德國布爾格辛，約 50 隻羊群意外溜進一家連鎖超市悠閒逛街並撞翻商品，讓店家與員工手忙腳亂地進行疏散與清理。",
+    "idea": "在表現主義風格下，一隻三色貓於喧囂的德國超市貨架間穿梭，伸出前爪追逐前方的羊群，背景融合穆夏式拱框構圖與斑駁光影。",
+    "avoid_list": [
+      "遞迴德羅斯特效應",
+      "繁體中文或英文文字限制規範",
+      "留白負空間構圖",
+      "竹影翠綠色調",
+      "漫天風雪氛圍光",
+      "前爪延伸動作構圖",
+      "日光燈均勻照明",
+      "微型模型與主體互動",
+      "傳統花卉靜物風格",
+      "微珠水滴肌理質感",
+      "慶典紅金配色",
+      "全像投影風格"
+    ],
+    "comment_id": 5317307187,
+    "prompt": "Expressionism painting of a calico cat darting through chaotic shelves of a bustling German supermarket, extending a front paw to chase a flock of sheep ahead. Composition framed within a Mucha-style ornamental rounded arch with decorative border halo and integrated floral motifs. The date and time '2026-08-17 15:14 UTC' is clearly rendered in clean English text overlaid in the corner. Art style features emotional intensity, bold distorted forms, vivid contrasting colors, and exaggerated gestural brushwork. Background filled with dappled light filtering through, creating soft mottled shadow patterns. Dynamic water splash texture frozen mid-motion with bursting droplets, set against a festive red and gold palette with deep Chinese red dominance and bright gold accents. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在美國加州的聖塔羅莎，一隻名為 Jinny Lu 的 6 歲八哥犬在歷經四次參賽後，於第 50 屆「世界最醜狗大賽」中脫穎而出奪得冠軍。",
+      "在德國布爾格辛，約 50 隻羊群意外溜進一家連鎖超市悠閒逛街並撞翻商品，讓店家與員工手忙腳亂地進行疏散與清理。",
+      "在丹麥哥本哈根，「真人圖書館」推出特別的借閱活動，讓民眾可以「借用」真人進行面對面交流，傾聽彼此的生活故事。",
+      "在英國洛夫堡，當地體育俱樂部舉辦了一場別開生面的淨城比賽，參賽者在短短一個下午內合力清理並分類了高達 281 公斤的街頭垃圾。"
+    ],
+    "story": "羊群溜進超市引發了一場荒誕的混亂，商品落地的碰撞聲激發了貓咪的捕獵本能。牠在斑駁光影中躍過傾倒的罐頭，濺起動感的水花，將這場意外變成了專屬於牠的冒險遊樂場。",
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Dappled Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Festive Red and Gold"
+    }
   }
 ]
