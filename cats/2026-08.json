@@ -9757,5 +9757,36 @@
       "texture": "Dynamic Water Splash",
       "color_palette": "Festive Red and Gold"
     }
+  },
+  {
+    "title": "透光標本館的巡禮",
+    "style_picks": {
+      "art_style": "Translucent Specimen Sculpture",
+      "composition": "Isometric Photography",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Paper Quilling",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "Isometric view of an attic botanical specimen restoration lab, featuring a cat with a translucent specimen sculpture appearance leaning down to sniff freshly pressed dried flower petals on a drying rack. In the background, the timestamp '2026-08-17 16:13 UTC' is prominently displayed. The scene incorporates paper quilling art with intricate coiled paper strips, delicate curling loops, and colorful rolled paper textures. Lit by harsh midday sunlight streaming through a glass skylight, creating hard edge shadows and high contrast natural daylight. Decorated in a soft pastel color palette of gentle pink, lavender, mint, and baby blue. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5317542053,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "avoid_list": [
+      "遞迴德羅斯特效應",
+      "繁體中文或英文文字限制規範",
+      "留白負空間構圖",
+      "竹影翠綠色調",
+      "漫天風雪氛圍光",
+      "前爪延伸動作構圖",
+      "日光燈均勻照明",
+      "微型模型與主體互動",
+      "傳統花卉靜物風格",
+      "微珠水滴肌理質感",
+      "慶典紅金配色",
+      "全像投影風格"
+    ],
+    "number": 3002,
+    "story": "正午的硬光日照穿透玻璃天窗，將貓咪半透明的身軀映照出如水晶般的幾何光影。它輕輕踏過排滿鑷子與紙捲的工作檯，專注地用鼻尖檢視著粉櫻與嫩綠的標本纖維。這座靜止的工作坊在粉彩折光中，化作一座凝固時光的微縮植物迷宮。",
+    "idea": "在頂樓的植物標本修復室中，一隻通透標本雕塑質感的貓咪正俯身嗅聞曬架上剛壓平的乾燥花瓣，全景以等距攝影呈現，並融合衍紙藝術細膩捲折的粉彩色系紋理。"
   }
 ]
