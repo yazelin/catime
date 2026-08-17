@@ -9375,5 +9375,41 @@
     "comment_id": 5311857687,
     "story": "深夜的古董書店裡，墨墨靜靜伏在散發綢緞光澤的朱紅金邊古籍之上，輕柔地清理著自己的黑色短毛。書封上的圖像層層嵌套著牠高居書架頂端的優雅身影，彷彿整個空間都隨著牠金琥珀色的眼眸無限延伸。澎湃如羽絨布料般厚重的紅色窗簾與電影感微光交織，將牠佇立於神秘循環時空中的剪影映照得無比尊貴。",
     "news_inspiration": []
+  },
+  {
+    "prompt": "Oriental floral still life painting, gongbi-fine botanical detail, meticulous blossoms and jewelry on silk. A tortoiseshell cat resting on a tea table covered in a lace openwork texture tablecloth, intently sniffing a full-bloomed pale pink peony with delicate floral cutout patterns and fine branches. The exact text '2026-08-17 05:25 UTC' is visually displayed in the image. Soft window light and classic Vermeer-like illumination streaming through high wooden lattice windows, casting gentle directional daylight with a smooth falloff into shadow. Retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. Negative space composition, small subject in expansive emptiness, off-center placement, calm uncluttered framing, refined decorative arrangement, minimalist breathing room, intimate still-life mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "陽光透過高高的木格窗灑下柔和的光芒，將花瓣與蕾絲的細膩紋理映照得分外清晰。貓咪輕輕擺動尾巴，在充滿歲月感的復古褪色色調中，享受著午後花香與留白空間帶來的寧靜時光。",
+    "inspiration": "original",
+    "idea": "在東方花卉靜物風格的幽靜客廳裡，一隻玳瑁貓趴在鋪著蕾絲鏤空桌巾的茶幾上，專注地用鼻尖嗅聞一盆滿開的淡粉色芍藥與細緻花枝。",
+    "comment_id": 5312211555,
+    "title": "窗前花影與靜謐午後",
+    "style_picks": {
+      "art_style": "Oriental Floral Still Life",
+      "composition": "Negative Space Composition",
+      "lighting": "Window Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "avoid_list": [
+      "強烈輪廓光",
+      "莫蘭迪色調",
+      "三花貓",
+      "爪子觸碰或撥弄微小物體",
+      "拱形花紋與裝飾邊框",
+      "聚光燈極致光影對比",
+      "微型機械與結構",
+      "新藝術風格飾邊",
+      "藍青色系調色",
+      "玻璃與晶體折射光斑",
+      "高飽和鮮豔色彩",
+      "條紋光與百葉窗陰影"
+    ],
+    "number": 2991,
+    "news_inspiration": [
+      "在立陶宛維爾紐斯（Vilnius），一年一度的國際柯基犬大賽熱鬧登場，吸引約 150 隻短腿萌犬齊聚進行趣味短跑與變裝造型競賽。",
+      "在辛巴威馬圖索多納國家公園（Matusadona National Park），一群極度瀕危的黑犀牛在保育團隊與當地社區多年努力下成功回歸棲息地，寫下生態復育新里程碑。",
+      "太平洋島國諾魯（Nauru）宣布正式將國名更名為符合本土語言發音與拼寫的「諾魯共和國（Republic of Naoero）」，以慶祝並傳承深厚的原住民文化傳統。",
+      "在尼泊爾（Nepal），政府與保育組織攜手合作有成，境內野生老虎數量成功從 2010 年的 121 隻大幅成長超過三倍至 429 隻。"
+    ]
   }
 ]
