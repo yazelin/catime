@@ -27974,5 +27974,13 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-17_0034_UTC.webp",
     "status": "success",
     "inspiration": "奧地利格拉茨附近山村的一隻名叫韋羅妮卡（Veronika）的母牛，因學會使用棍棒和掃帚為自己抓癢，成為首例被科學家記錄到會自主使用多功能工具的母牛。"
+  },
+  {
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno 111] Connection refused>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: All connection attempts failed",
+    "model": "all failed",
+    "status": "failed",
+    "url": null,
+    "number": null,
+    "timestamp": "2026-08-17 02:12 UTC"
   }
 ]
