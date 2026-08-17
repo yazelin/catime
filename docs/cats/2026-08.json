@@ -9447,5 +9447,45 @@
       "color_palette": "Earth Tones"
     },
     "comment_id": 5312654329
+  },
+  {
+    "number": 2993,
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "辛巴威（Zimbabwe）馬圖索多納國家公園成功重新引進極度瀕危的黑犀牛，為當地的生態復育寫下振奮人心的保育里程碑。",
+      "太平洋島國諾魯（Nauru）正式將國名依據原住民族母語的拼寫與發音更改為「諾埃羅共和國」（Republic of Naoero），以此傳承悠久的文化遺產與民族認同。",
+      "古生物學家在美國（USA）科羅拉多州發現超過130個距今1.5億年的蜥腳類恐龍足跡化石，揭示該巨大恐龍曾轉圈漫步的奇特步態。",
+      "英國（UK）皇家郵政在科爾徹斯特迎來旗下第9,000輛純電動配送車，寫下該國最大規模綠色物流車隊的全新紀錄。"
+    ],
+    "idea": "採用全像投影風格與螺旋漩渦構圖，展現穿著迷你浮水衣的圓滾滾橘白貓「麻糬」，在海邊朱紅與留白色調的夏日攤位前啃著西瓜。",
+    "comment_id": 5313250857,
+    "title": "夏海西瓜香",
+    "story": "麻糬塞在海邊老街小吃攤的木紋桌角，粉紅鼻頭沾滿了鮮甜汁液，邊嗑西瓜邊瞇眼打呼。海風吹過霓虹燈光閃爍的攤位，牠身上如花生麻糬般的橘白斑紋在光影漩渦中顯得格外萌趣。",
+    "season": "summer",
+    "prompt": "A holographic projection art style depicting Mochi, a chubby rounded shorthair cat with a white base coat and bright orange patches on its right half-face, a heart-shaped orange saddle on its upper back, a solid orange right front paw, a pure white left front paw, white belly, and large round amber eyes. Mochi is wearing a mini floating vest and eating a slice of watermelon in front of a seaside summer stall rendered in a bold vermilion red and clean white palette. The scene features a translucent glowing figure aesthetic with digital scan lines, blue-cyan light emission, and a sci-fi hologram effect. Spiral vortex composition with a strong rotational perspective, circular structure coiling around the central subject, and a dizzying sense of depth from a cinematic low angle. Neon lighting and colorful glowing signs reflect on wet surfaces, blending vibrant summer tones with a moody urban night vibe and natural wood grain textures. Visually displayed in the image is the date and time '2026-08-17 07:42 UTC' in clear text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Holographic Projection",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Neon Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Vermilion and White"
+    },
+    "avoid_list": [
+      "強烈輪廓光",
+      "莫蘭迪色調",
+      "三花貓",
+      "爪子觸碰或撥弄微小物體",
+      "拱形花紋與裝飾邊框",
+      "聚光燈極致光影對比",
+      "微型機械與結構",
+      "新藝術風格飾邊",
+      "藍青色系調色",
+      "玻璃與晶體折射光斑",
+      "高飽和鮮豔色彩",
+      "條紋光與百葉窗陰影"
+    ],
+    "inspiration": "original",
+    "character": "mochi"
   }
 ]

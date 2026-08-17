@@ -28020,5 +28020,18 @@
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "timestamp": "2026-08-17 06:30 UTC"
+  },
+  {
+    "number": 2993,
+    "is_seasonal": true,
+    "timestamp": "2026-08-17 07:42 UTC",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "夏海西瓜香",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-17_0742_UTC.webp",
+    "season": "summer",
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "character": "mochi"
   }
 ]
