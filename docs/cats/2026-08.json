@@ -9824,5 +9824,35 @@
       "全像投影風格"
     ],
     "comment_id": 5318116982
+  },
+  {
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Direct Flash",
+      "texture": "Frost Crystal",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "original",
+    "title": "霓虹夜市街機王",
+    "prompt": "Caricature style illustration with exaggerated comical proportions, depicting an expressive tabby cat with enlarged paws intently pressing glowing buttons on a retro arcade machine inside a cyberpunk night market stall. The scene is structured within a symmetrical Mucha-style ornamental arched frame featuring decorative Art Nouveau floral borders. Intricate frost patterns, delicate ice crystal formations, and translucent ice shards coat the arcade cabinet's surface. High-contrast lighting with harsh direct on-camera flash aesthetics, casting hard shadows alongside intense neon fluorescent glows in electric pink, lime green, and hot cyan against the dark night atmosphere. A digital timestamp clearly reads '2026-08-17 18:20 UTC' displayed in luminous digits on the corner of the arcade screen. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3004,
+    "idea": "採用誇張漫畫風格與穆夏式拱框構圖，一隻斑紋貓咪在霓虹螢光色彩濃烈的龐克夜市攤位上，專心用前腳按壓電玩街機按鈕。",
+    "story": "夜市的霓虹光影投射在滿是冰霜結晶的街機外殼上，直打閃光燈捕捉了貓咪專注遊戲的誇張神情。拱形裝飾框住了熱鬧的攤位後方，貓咪聚精會神地操縱機台，吸引了無數路人圍觀。",
+    "avoid_list": [
+      "遞迴德羅斯特效應",
+      "繁體中文或英文文字限制規範",
+      "留白負空間構圖",
+      "竹影翠綠色調",
+      "漫天風雪氛圍光",
+      "前爪延伸動作構圖",
+      "日光燈均勻照明",
+      "微型模型與主體互動",
+      "傳統花卉靜物風格",
+      "微珠水滴肌理質感",
+      "慶典紅金配色",
+      "全像投影風格"
+    ]
   }
 ]
