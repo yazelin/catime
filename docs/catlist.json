@@ -28033,5 +28033,14 @@
     "character_name": "麻糬",
     "inspiration": "original",
     "character": "mochi"
+  },
+  {
+    "title": "諾耶羅的雪中尋根誌",
+    "number": 2994,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "太平洋島國諾魯正式將國名更改為符合其本土語言發音與拼寫的「諾耶羅共和國」，以弘揚自身獨特的文化遺產與民族認同。",
+    "status": "success",
+    "timestamp": "2026-08-17 08:29 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-17_0829_UTC.webp"
   }
 ]
