@@ -9955,5 +9955,43 @@
     "number": 3007,
     "prompt": "Overhead top-down bird's-eye view of an orange cat with glossy plastic toy texture and smooth vinyl figure surface lying on its side, biting a measuring tape in a vibrant amber sunflower field. Abstract Expressionism style featuring gestural brushwork, large bold color fields, and raw emotional intensity. Cinematic side lighting casts dramatic shadows and volumetric light rays across the yellow, burnt orange, and golden autumn palette. In the corner of the image, the text '2026-08-17 21:14 UTC' is visually displayed in clean digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "一隻通體宛如亮面塑膠玩具質感的橘貓，正專注地咬住一卷量尺協助人類標註保育圍欄，以抽象表現主義的狂放筆觸由正上方俯瞰其側臥於滿地盛開的琥珀色向日葵花田中央，在強烈的電影感側光下展現秋日般的溫暖張力。"
+  },
+  {
+    "avoid_list": [
+      "貓咪伸前爪/肉球撥弄物件",
+      "穆夏式拱框構圖",
+      "斑駁光影與樹影/光斑 pattern",
+      "水下焦散光/波光粼粼效果",
+      "粉彩/夢幻色調配粉藍粉綠",
+      "慶典中國紅與金黃配色",
+      "繁體中文或英文文字限制提示",
+      "時間戳記 (2026-08-17 UTC)",
+      "深海/沉沒遺跡背景",
+      "發光線框/絲流脈絡紋理"
+    ],
+    "story": "盛夏午後，身經百戰的老船長伏在防波堤稜線上，背後是一輪宛如環形燈般明亮熾熱的緋紅落日。牠壓低身子穩如磐石，嘴裡叼著細竹釣竿垂向浪濤，銳利的翠綠獨眼緊盯著水下如黑星般熾烈翻騰的巨魚，威嚴中滿溢著對獵物的渴望。",
+    "news_inspiration": [
+      "麻省理工學院（MIT）神經科學團隊最新研究指出，人類大腦的邏輯推理與語言功能由完全獨立的系統運作，打破傳統認知。（美國波士頓）",
+      "最新發表於科學期刊的研究顯示，科學家首度在有6600萬年歷史的恐龍骨骼化石深處發現完整保存的膠原蛋白有機分子。（美國紐澤西州）",
+      "天文學家利用詹姆斯·韋伯太空望遠鏡（JWST）觀測到一顆被命名為「小紅點」的奇特黑星，其亮度達到普通恆星的1000億倍。（歐洲太空總署 / 跨國研究）",
+      "最新腦部掃描與行為實驗顯示，家犬能夠精準分辨人類面部表情所代表的「恐懼」與「悲傷」情緒。（英國倫敦）"
+    ],
+    "comment_id": 5320881910,
+    "season": "summer",
+    "number": 3008,
+    "inspiration": "天文學家利用詹姆斯·韋伯太空望遠鏡（JWST）觀測到一顆被命名為「小紅點」的奇特黑星，其亮度達到普通恆星的1000億倍。（歐洲太空總署 / 跨國研究）",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Orthographic Projection",
+      "lighting": "Ring Light",
+      "texture": "Origami",
+      "color_palette": "Crimson and Black"
+    },
+    "character": "captain",
+    "character_name": "船長",
+    "prompt": "Orthographic projection silhouette art with origami paper fold textures in a crimson and jet black color palette. A stocky brown classic tabby cat with bold black stripes, scruffy coarse fur, a V-shaped notch on his left ear, a faded red bandana around his neck, a white chest bib, white mitten paws, and a single piercing emerald green right eye, while his left eye area is completely covered by a natural dark-pigmented fur patch with no straps or eyepatch fabric. The cat is crouching on top of a summer breakwater with folded paper geometric creases, wearing a straw hat, holding a thin bamboo fishing rod in his mouth to catch a leaping deep-sea beast. Background features a dramatic crimson sunset shaped like a ring light creating circular catchlight illumination. Text reading '2026-08-17 22:12 UTC' is visually displayed in clear typography on the image. Clean defined edges, stark graphic technical illustration style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在正交投影視角的剪影藝術風格下，壯碩的虎斑貓「船長」頭戴草帽、繫著紅領巾與眼罩，蹲伏在緋紅與烏黑摺紙幾何質感的夏日防波堤頂端，專注垂釣海中躍動的深海異獸。",
+    "title": "赤潮堤上的老舵手"
   }
 ]
