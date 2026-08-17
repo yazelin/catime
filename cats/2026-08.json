@@ -9690,5 +9690,36 @@
     "number": 2999,
     "idea": "這幅水彩畫採用強制透視伸手構圖，呈現一隻玳瑁貓在蒙古戈壁沙漠的風暴中，用爪子撫平一株剛栽下的小幼苗；暴風雪朦朧的光線與水珠濕膚肌理交織，映襯出滿屏慶典氛圍的中國紅金色彩。",
     "comment_id": 5316754346
+  },
+  {
+    "number": 3000,
+    "title": "陽光下的打字貓",
+    "prompt": "A wet plate collodion monochrome vintage tintype photograph featuring a orange tabby cat intently pressing its front paws on the keys of an old vintage typewriter in an antique bookstore. Dappled sunlight filters through window frames onto the cat and typewriter, creating soft mottled shadow patterns and dark edges with silver-toned monochrome imperfections. Decorating the scene is a die-cut sticker collage composition frame with central character surrounded by layered sticker cutouts, white outline borders, and a three-dimensional floral appliqué texture with sculpted raised flowers. The composition features a bold vermilion and white color palette, combining cinnabar red with crisp negative-space white. The date and time '2026-08-17 14:16 UTC' is clearly rendered in a crisp sans-serif font across the bottom corner. Shot with a 35mm lens, f/1.8, shallow depth of field, subtle film grain, candid shot aesthetics. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "story": "在陽光灑落的古董書店一角，斑駁光影穿透窗櫞，映照著貓咪忙碌的爪尖。立體花卉貼花的紋理細致地蔓延在打字機旁，這隻小貓彷彿正為過往的顧客紀錄著未竟的故事。",
+    "comment_id": 5317008594,
+    "idea": "採用濕版攝影風格，一隻斑橘色的貓咪雙爪按著舊式打字機按鍵，專注地踏打紙張，畫面融合了貼紙拼貼邊框與朱紅留白的鮮明色彩。",
+    "inspiration": "original",
+    "avoid_list": [
+      "遞迴德羅斯特效應",
+      "繁體中文或英文文字限制規範",
+      "留白負空間構圖",
+      "竹影翠綠色調",
+      "漫天風雪氛圍光",
+      "前爪延伸動作構圖",
+      "日光燈均勻照明",
+      "微型模型與主體互動",
+      "傳統花卉靜物風格",
+      "微珠水滴肌理質感",
+      "慶典紅金配色",
+      "全像投影風格"
+    ],
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Dappled Light",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Vermilion and White"
+    }
   }
 ]
