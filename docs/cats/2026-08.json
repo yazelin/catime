@@ -9523,5 +9523,34 @@
     "idea": "這是一幅採用不透明水彩風格的作品，一隻四腳伏臥的黑貓正緊咬著墨水筆，在紛飛的大雪中於開滿鮮花的庭園裡專心替宣紙地圖劃下記號。",
     "inspiration": "太平洋島國諾魯正式將國名更改為符合其本土語言發音與拼寫的「諾耶羅共和國」，以弘揚自身獨特的文化遺產與民族認同。",
     "comment_id": 5313746629
+  },
+  {
+    "title": "青空軌跡的掌舵者",
+    "prompt": "Futurism digital illustration featuring a small tabby cat perched inside the high-altitude cockpit of a sleek flying jetcraft, gently tapping an illuminated aurora trajectory button on the control panel with its front right paw. A glowing digital display prominently shows the date and time '2026-08-17 09:28 UTC' on the dashboard. Minimalist negative space composition with expansive emptiness, calm uncluttered framing, and off-center placement. Fine gilded black ink brush lines edged with metallic gold outline the dynamic, angular kinetic structure of the jetcraft. Cool blue-teal color grading with icy undertones and crisp atmosphere, complemented by dappled mottled light and soft shadow patterns casting across the cat's fur as light beams pierce through high-altitude cloud layers, evoking a sense of velocity and energy. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5314287409,
+    "story": "在高空穿梭的未來駕駛艙內，貓咪警覺地凝視著前方漫天流動的青藍星塵。它輕輕伸出細長的右爪，按壓著控制台上記錄飛行航線的發光開關。隨著光束閃爍，整架噴射艇順著風脈劃開了一道極具速度感的炫目軌跡。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Futurism",
+      "composition": "Negative Space Composition",
+      "lighting": "Dappled Light",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [],
+    "idea": "這是一幅融合未來主義的作品，描述一隻斑紋貓咪正用前爪撥弄著飛行噴射艇面板上的極光軌跡按鈕。畫面採用留白負空間構圖，冷色調藍青光束穿透高空雲層，透過描金墨線勾勒出極速飛馳的動態結構，並在貓咪身上投下斑駁光影。",
+    "avoid_list": [
+      "遞迴德羅斯特效應",
+      "鏡像反射與異我構圖",
+      "清晰顯示的UTC時間戳記",
+      "莫蘭迪灰調工藝工作坊",
+      "全像投影與螺旋漩渦構圖",
+      "巨人尺寸合成與魚眼鏡頭",
+      "黑光UV照明與霓虹螢光",
+      "復古海報與層層嵌套畫面",
+      "東方花卉靜物與細膩蕾絲",
+      "不透明水彩與雪中花海"
+    ],
+    "number": 2995
   }
 ]
