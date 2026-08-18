@@ -10399,5 +10399,36 @@
     "number": 3020,
     "story": "大批綿羊突然湧入超市貨架之間，店裡頓時一片混亂。這隻黑貓熟練地踩著滑板在羊群腳下滑行，水下焦散光隨之晃動，宛如在紅黑相間的液體風暴中優雅地執行巡視任務。",
     "idea": "在德國超市貨架間，一隻低多邊形質感的黑貓正在流暢地踩著滑板穿梭，周圍環繞著流動的酒精墨水藝術紋理與緋紅烏黑的斑駁光影。"
+  },
+  {
+    "number": 3021,
+    "title": "齒輪時光的捉迷藏",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "avoid_list": [
+      "35mm底片質感",
+      "雙色調色彩處理",
+      "百葉窗條紋光影",
+      "生物發光與螢光",
+      "正交投影/俯視構圖",
+      "鏡面反射與重影",
+      "繁複刺繡與印花",
+      "強烈硬光與高對比陰影",
+      "體積光與閃耀光束",
+      "傳統工藝風格",
+      "原子龐克復古未來風",
+      "貓咪伸爪/撕咬專注動作"
+    ],
+    "prompt": "A vibrant photographic shot of an orange cat stretching its front paw to bat at a massive brass gear inside an intricate steampunk clockwork workshop filled with steam pipes and Victorian-era machinery. The image is taken with a fisheye wide-angle lens, creating a dramatic, exaggerated foreground with strong barrel distortion. Translucent sheer gauze mesh dust covers are scattered around the workspace. High saturation vivid colors with energetic, bold hues define the palette, illuminated by dappled light and mottled shadow patterns filtering through a lattice window. Placed clearly on a brass plaque mounted on the clockwork assembly, the date and time '2026-08-18 12:20 UTC' is sharply engraved and visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Fisheye Lens",
+      "lighting": "Dappled Light",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "古老鐘樓的蒸汽心臟正沉重地運轉，老鐘錶匠在沙發上昏昏欲睡。敏捷的橘貓踩在錯綜複雜的齒輪陣列上，專注地用爪子拍打著一顆鬆動的黃銅螺絲，試圖掌握這座城市時間流逝的祕密。",
+    "comment_id": 5328107989,
+    "idea": "在一座充滿黃銅齒輪與蒸汽管道的蒸汽朋克鐘錶工房中，一隻橘貓正以魚眼鏡頭誇張的彎曲視角伸出前爪撥弄著巨大的鐘錶零件，周圍散落著紗網薄透肌理的防塵覆布，高飽和鮮豔色的斑駁光影穿透漏窗灑滿全景。"
   }
 ]
