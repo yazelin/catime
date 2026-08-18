@@ -10540,5 +10540,42 @@
     "story": "深夜的舊木桌上，微弱的燭光搖曳，映照出斑駁的花卉與一隻昏昏欲睡的貓咪。牠伸出貓爪好奇地推按著那張被垃圾車司機自廢棄物中奇蹟找回的百萬彩券，彷彿那是牠專屬的玩具。室內漫著淡雅的花香與歲月感，記錄下這場巧合與幸運交織的溫柔時刻。",
     "title": "燭光下的幸運彩券",
     "idea": "在東方花卉靜物風格下，一隻擁有絨毛皮草質感的長毛貓正優雅地用爪子輕撥桌上的百萬歐元彩券，整體採用平視正面構圖與燭光照明，營造出復古褪色色調的溫馨氛圍。"
+  },
+  {
+    "avoid_list": [
+      "壓花植物疊加紋理",
+      "朱紅與描金配色",
+      "三點打光照明",
+      "魚眼鏡頭誇張視角",
+      "莫蘭迪色調",
+      "正體中文與英文文字限制標註",
+      "貓咪伸爪輕觸/撥弄物件",
+      "古老苔蘚與植物覆蓋質感",
+      "夕陽黃金時刻與光暈",
+      "星空銀河與幽藍光影",
+      "長卷全景與對角線構圖",
+      "復古褪色與底片質感"
+    ],
+    "comment_id": 5331032475,
+    "title": "極軌交會處的微光",
+    "prompt": "Watercolor anime illustration of a calico cat crouching on a rusted railroad switch mechanism along an Arctic cross-border track, intently licking an old iron bolt marked with fluorescent neon pink paint. High contrast natural daylight under harsh midday sunlight creates strong directional sun and hard edge shadows on oxidized patina, warm orange-brown corrosion, and peeled paint layers. Shallow depth-of-field close-up with an intimate near-object framing keeps the cat and bolt sharp against a soft, creamy blurred bokeh background. Soft transparent washes, gentle pastel bleeding edges, visible paper texture, and a healing slice-of-life mood. Visually displaying the date and time '2026-08-18 16:17 UTC' in clean typography within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "太平洋上的拉帕努伊（復活節島，智利），當地原住民取得佔地超過70萬平方公里的海洋保護區過半管理投票權，成為全球最大的原住民自主管理海洋保護區之一。",
+      "芬蘭赫爾辛基與瑞典之間的跨境鐵路在數十年後重新復駛，讓旅客得以完成從芬蘭北部一路搭火車抵達葡萄牙南部的超長途鐵路之旅。",
+      "津巴布韋的馬圖索多納國家公園成功重新引入極度瀕危的黑犀牛，在當地傳統領袖的推動下邁出野生動物保育的重要里程碑。",
+      "英國倫敦的皇家郵政宣佈旗下電動送貨貨車突破9,000輛大關，持續擴大全英最大規模的零排放郵政車隊。",
+      "南太平洋島國諾魯（Republic of Naoero）正式將國名拼寫及發音更名為原住民語言的「Naoero」，以尊重並弘揚其傳統文化與國家認同。"
+    ],
+    "story": "連接芬蘭與瑞典的邊境鐵路在數十年後重獲新生，正午刺眼的烈日將路軌上的鐵鏽舊化斑痕照得發亮。這隻長居邊境的貓咪守在轉轍器旁，將發出霓虹螢光綠與粉紅微光的反光標籤當作玩具，伴隨遠方傳來的汽笛聲，見證開往南歐的長途列車再次啟程。",
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "inspiration": "芬蘭赫爾辛基與瑞典之間的跨境鐵路在數十年後重新復駛，讓旅客得以完成從芬蘭北部一路搭火車抵達葡萄牙南部的超長途鐵路之旅。",
+    "idea": "在水彩動漫插畫風格下，一隻三花貓趴在北極圈跨境鐵軌的生鏽轉轍器上，在硬光日照的強烈直射中，專注地舔舐著塗有螢光粉紅防凍標記的舊鐵栓，背景虛化為淺景深特寫。",
+    "number": 3025
   }
 ]
