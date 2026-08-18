@@ -10577,5 +10577,41 @@
     "inspiration": "芬蘭赫爾辛基與瑞典之間的跨境鐵路在數十年後重新復駛，讓旅客得以完成從芬蘭北部一路搭火車抵達葡萄牙南部的超長途鐵路之旅。",
     "idea": "在水彩動漫插畫風格下，一隻三花貓趴在北極圈跨境鐵軌的生鏽轉轍器上，在硬光日照的強烈直射中，專注地舔舐著塗有螢光粉紅防凍標記的舊鐵栓，背景虛化為淺景深特寫。",
     "number": 3025
+  },
+  {
+    "story": "在費城街區改造為生態花園的工坊角落，這隻四腳著地的貓咪正沿著未完工的蜂箱邊緣仔細嗅探。工坊天花板的日光燈將木屑與木紋照得斑駁分明，牠在幾何碎面交錯的光影中守護著社區即將迎來的新訪客。",
+    "prompt": "A Cubism art style side profile portrait of a calico cat focused on sniffing and inspecting the edge of a wooden beehive, set in an old Philadelphia factory woodworking shop. The artwork features geometric fragmented forms, multiple simultaneous perspectives, abstract angular planes, and analytical decomposition, highlighting a clean silhouette of the cat's nose and chin with profile-defining contour in elegant lateral framing. The surface consists of a natural wood grain texture with rich warm tones, visible knots, lines, and an organic tactile surface, brought together with a warm amber color grading, autumn palette of golden yellows, and burnt orange. Institutional flat illumination is provided by overhead fluorescent lighting with a pale, direct light beam cut across the geometric collage. On the edge of the beehive, the date and time '2026-08-18 17:17 UTC' is clearly and visibly painted in crisp English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "英國切斯特（Chester）：研究團隊發現狗狗能透過人類面部表情感知情緒，當看到微笑時會活化腦部負責獎勵與高階處理的區域。",
+      "智利復活節島（Easter Island）：當地原住民拉帕努伊人（Rapa Nui）正式取得周邊廣達74萬平方公里海洋保護區的最高管理權，成為全球最大的原住民自主管理海洋保護區之一。",
+      "辛巴威馬圖索多納國家公園（Matusadona National Park）：在當地部落領袖與保育團體合作下，極危物種黑犀牛時隔多年成功重新引入該國家公園。",
+      "美國費城（Philadelphia）：在地居民與社區團體將熱島效應嚴重的老舊街區角落，成功改造為綠意盎然且生機勃勃的社區生態花園。"
+    ],
+    "idea": "以立體主義幾何解構的手法，呈現一隻三花貓在費城老舊工廠木工房中，專注嗅聞並低頭檢查木製蜂箱邊緣的俐落側臉特寫。畫面融合溫暖的琥珀秋日色調與清晰的木紋幾何拼貼，上方映照著略顯蒼白的直式日光燈光束。",
+    "number": 3026,
+    "comment_id": 5331668305,
+    "inspiration": "美國費城（Philadelphia）：在地居民與社區團體將熱島效應嚴重的老舊街區角落，成功改造為綠意盎然且生機勃勃的社區生態花園。",
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Side Profile Portrait",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "壓花植物疊加紋理",
+      "朱紅與描金配色",
+      "三點打光照明",
+      "魚眼鏡頭誇張視角",
+      "莫蘭迪色調",
+      "正體中文與英文文字限制標註",
+      "貓咪伸爪輕觸/撥弄物件",
+      "古老苔蘚與植物覆蓋質感",
+      "夕陽黃金時刻與光暈",
+      "星空銀河與幽藍光影",
+      "長卷全景與對角線構圖",
+      "復古褪色與底片質感"
+    ],
+    "title": "工坊裡的築巢守候"
   }
 ]
