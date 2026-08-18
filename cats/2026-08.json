@@ -10258,5 +10258,43 @@
     "character_name": "墨墨",
     "number": 3016,
     "season": "summer"
+  },
+  {
+    "inspiration": "original",
+    "story": "麻糬頂著像花生麻糬般圓滾滾的身軀穿梭在老街攤位間，右臉橘斑與橘色右前爪在朱紅金線的勾勒下格外鮮明。牠在香料攤前瞇眼端詳著堆成小山的金色粉末，圓滾肚皮貼著泛黃絹面微微起伏，享受著巡邏小歇的慵懶時光。",
+    "comment_id": 5325582568,
+    "prompt": "Madhubani painting and Indian folk art aesthetic featuring a multi-panel character montage collage layout with comic-style grid cells on an aged silk scroll surface, weathered paper texture, visible silk weave, and delicate crease lines. In a traditional old market herbal spice stall, a chubby round orange-and-white shorthair cat with short stubby legs and a spherical torso is shown in several poses across the panels. The cat has a white #FFFFFF base coat, a bright orange #FF8C00 mask on its RIGHT half-face (viewer perspective) extending across the right cheek to the right ear while its LEFT face remains entirely white, a heart-shaped orange #FF8C00 saddle on its upper back, a solid orange #FF8C00 mitten on its RIGHT front paw, a pure white #FFFFFF LEFT front paw, a white belly, large round amber #FFBF00 eyes, a pink nose with a tiny orange center dot, and an orange-and-white ringed tail. Solid orange patches with no tabby stripes. The cat curiously sniffs and gently touches a woven bamboo winnowing tray filled with dried turmeric and cinnamon, surrounded by piled mounds of golden herbal spice powders. Vermilion and gilt palette featuring cinnabar red with metallic gold outlines and warm sepia patina. Illumination provided by a classic three-point lighting setup with key light, soft shadows, fill light, and subtle rim light separation. Visually displayed clearly in the image is the text '2026-08-18 08:21 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Three-Point Lighting",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "avoid_list": [
+      "35mm底片質感",
+      "雙色調色彩處理",
+      "百葉窗條紋光影",
+      "生物發光與螢光",
+      "正交投影/俯視構圖",
+      "鏡面反射與重影",
+      "繁複刺繡與印花",
+      "強烈硬光與高對比陰影",
+      "體積光與閃耀光束",
+      "傳統工藝風格",
+      "原子龐克復古未來風",
+      "貓咪伸爪/撕咬專注動作"
+    ],
+    "idea": "在融合朱紅描金與古絹絹本質感的米提拉畫風格中，多格角色拼貼呈現圓滾滾的橘白貓麻糬在老街傳統市場的草本香料攤前，於溫潤的三點打光下好奇嗅聞並輕觸掛滿乾燥薑黃與肉桂的竹編簸箕。",
+    "character": "mochi",
+    "number": 3017,
+    "news_inspiration": [
+      "在尼泊爾，經過數十年的野生動物保育合作，當地的野生老虎數量從2010年的121隻大幅增長至429隻，成功實現大幅回升。",
+      "在英國科爾切斯特，皇家郵政宣佈第9000輛電動貨車正式上路，創下該國規模最大的零排放快遞車隊里程碑。",
+      "在摩洛哥拉巴特，喀麥隆女足隊於決賽中以3比0擊敗馬拉威隊，奪得隊史首座非洲女子國家盃足球賽冠軍。",
+      "在大洋洲的諾魯，政府正式將國家英文名稱由Nauru更名為Naoero，以更忠實地反映當地的原住民語言與文化傳統。"
+    ],
+    "title": "朱市香塵暖",
+    "character_name": "麻糬"
   }
 ]

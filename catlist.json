@@ -28250,5 +28250,16 @@
     "character_name": "墨墨",
     "number": 3016,
     "season": "summer"
+  },
+  {
+    "inspiration": "original",
+    "timestamp": "2026-08-18 08:21 UTC",
+    "character": "mochi",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3017,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-18_0821_UTC.webp",
+    "title": "朱市香塵暖",
+    "character_name": "麻糬",
+    "status": "success"
   }
 ]
