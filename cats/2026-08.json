@@ -10468,5 +10468,41 @@
     "inspiration": "在印度賈坎德邦的加爾瓦，一隻好奇的長尾葉猴溜進一家理髮店，並坐在椅子上認真照鏡子長達近兩小時，讓現場民眾大呼新奇。",
     "character_name": "鈴鈴",
     "title": "陽台上的意外相遇"
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [
+      "美國休士頓動物園的野生動物保護團隊將一隻罕見且瀕危的肯氏龜（Kemp's ridley sea turtle）放歸至德克薩斯州巴德爾島國家海岸的海域。",
+      "奧地利維也納獸醫大學的研究團隊發現一隻名為 Veronika 的母牛能靈活使用工具，刷新了科學界對家畜智力的認知。",
+      "丹麥哥本哈根的「真人圖書館」花園持續提供獨特的借閱體驗，讓民眾可以透過借閱「真人」進行深度對話與跨文化交流。",
+      "澳洲凱恩斯的公民科學計畫在大堡壘礁發現了一座面積將近半座足球場大的巨型珊瑚礁，成為至今記錄到最大的珊瑚群落之一。"
+    ],
+    "prompt": "A real photograph capturing a tabby cat using its front paws to gently push an ancient moss-covered astronomical telescope inside a dark botanical garden greenhouse under a Morandi muted color tone. The brass telescope is covered with lush green organic moss overgrowth and damp soft living patina. The scene uses an extreme wide handscroll panoramic composition, extreme wide long-exposure astrophotography style, displaying a vivid Milky Way arching through the glass roof with deep cosmic blues and purples, dense starfield, and long-exposure night-sky clarity. A narrow beam spotlight effect pierces through the glass roof with dramatic high-contrast and sharp light edges, illuminating the cat and telescope against deep darkness falloff. Shot on a 35mm lens, f/1.8, shallow depth of field, subtle film grain, layered foreground and background. In the corner of the frame, the text '2026-08-18 14:20 UTC' is crisp and visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Astrophotography",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Spotlight",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 5329551104,
+    "idea": "採用銀河星空攝影風格與長卷全景構圖，一隻斑紋貓在莫蘭迪色調的幽暗植物園溫室內，用前爪輕輕推動一台苔蘚覆蓋的古老天文望遠鏡，將鏡頭對準聚光燈般穿透玻璃頂棚的夜空璀璨星河。",
+    "title": "星海下的苔蘚觀星者",
+    "story": "夜幕低垂，溫室內古老的銅製望遠鏡早已佈滿厚厚苔蘚。貓咪踩著柔軟的綠意，細心調校著鏡筒的方向，彷彿在為溫室裡安靜呼吸的植物們指引遙遠星系的方向。聚光燈般的光束下，銀河與沉睡的植物在莫蘭迪色的灰調夜色中交織出和諧的樂章。",
+    "number": 3023,
+    "avoid_list": [
+      "35mm底片質感",
+      "雙色調色彩處理",
+      "百葉窗條紋光影",
+      "生物發光與螢光",
+      "正交投影/俯視構圖",
+      "鏡面反射與重影",
+      "繁複刺繡與印花",
+      "強烈硬光與高對比陰影",
+      "體積光與閃耀光束",
+      "傳統工藝風格",
+      "原子龐克復古未來風",
+      "貓咪伸爪/撕咬專注動作"
+    ]
   }
 ]
