@@ -10681,5 +10681,41 @@
       "長卷全景與對角線構圖",
       "復古褪色與底片質感"
     ]
+  },
+  {
+    "news_inspiration": [
+      "英國倫敦：劍橋與雷丁大學的科研團隊成功利用英國當地種塑的可可豆，調製出首款完全由英國本土生產的巧克力棒。",
+      "西班牙馬德里：歐洲多國民眾與遊客熱情聚集，透過自製遮光裝置與觀測眼鏡共同觀賞了風靡全歐的稀有日全食奇景。",
+      "烏干達坎帕拉：烏干達政府與聯合國教科文組織合作啟動全國體育發展聯盟，結合旅遊與文化推廣迎接2027年非洲國家盃足球賽。",
+      "越南河內：越南文化體育與旅遊部推出文化產業發展法案草案，力求結合傳統文化與數位科技以全面活絡青年創意經濟"
+    ],
+    "prompt": "DSLR portrait, 85mm f/1.4 lens, creamy bokeh background, sharp focus on subject, top-down perspective, looking straight down, bird's-eye view, photograph of an orange cat wearing tiny sunglasses and floating on a miniature kickboard in clear water over a translucent resin pool bottom showing bamboo jade-green tones, emerald and malachite aquatic reflections. Underwater caustic lighting and rippling light patterns dancing across the water, refracted sun shafts during a total solar eclipse shadow effect. A clean digital timestamp reading '2026-08-18 20:10 UTC' clearly visible printed in the corner of the frame, natural lighting, shallow depth of field, sharp photographic detail. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3029,
+    "story": "為了觀賞歐洲難得一見的奇景，這隻調皮的貓咪戴著特製小墨鏡浮在水面上，凝視著折射在池底的日全食陰影。遊客們在池畔歡呼圍觀，而牠則悠閒地在翠綠波光中漂浮，享受屬於自己的天文觀測派對。",
+    "idea": "這是一幅俯瞰視角的單眼人像散景作品，隻見一隻橘貓在透著竹影翠綠光澤的透明樹脂泳池底踩著迷你浮板划水，水面映照出水下焦散光。- art_style: 單眼人像（散景）",
+    "comment_id": 5333517608,
+    "inspiration": "西班牙馬德里：歐洲多國民眾與遊客熱情聚集，透過自製遮光裝置與觀測眼鏡共同觀賞了風靡全歐的稀有日全食奇景。",
+    "title": "翠池微波觀日食",
+    "avoid_list": [
+      "壓花植物疊加紋理",
+      "朱紅與描金配色",
+      "三點打光照明",
+      "魚眼鏡頭誇張視角",
+      "莫蘭迪色調",
+      "正體中文與英文文字限制標註",
+      "貓咪伸爪輕觸/撥弄物件",
+      "古老苔蘚與植物覆蓋質感",
+      "夕陽黃金時刻與光暈",
+      "星空銀河與幽藍光影",
+      "長卷全景與對角線構圖",
+      "復古褪色與底片質感"
+    ],
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Bird's-Eye View",
+      "lighting": "Underwater Caustics",
+      "texture": "Translucent Resin",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
