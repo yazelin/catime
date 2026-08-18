@@ -10644,5 +10644,42 @@
       "texture": "Glass / Crystal",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "comment_id": 5332950828,
+    "news_inspiration": [
+      "智利復活節島（Rapa Nui）成立了面積達74萬平方公里的海洋保護區，並由當地原住民代表佔多數的委員會共同管理，成為全球規模最大的原住民自主管理海洋保護區之一。",
+      "奧地利維也納獸醫大學的科學家發現，一頭名叫維羅妮卡（Veronika）的母牛展現出罕見的工具使用能力，成為科學史上首次記錄到具備多用途工具操作行為的牛隻。",
+      "津巴布韋馬圖索多納國家公園（Matusadona National Park）成功重新引進極度瀕危的極珍貴黑犀牛，為當地保育工作寫下重大里程碑。",
+      "澳洲凱恩斯（Cairns）外海的公民科學計畫研究人員，在大堡礁發現一座面積近4,000平方公尺（相當於半個足球場大）的巨大珊瑚群落，創下歷史記錄之一。",
+      "丹麥哥本哈根推出了特別的「真人圖書館 Reading Garden」，讓民眾不再是借閱書籍，而是可以「借閱」不同人生背景的志工真人來互動對話"
+    ],
+    "title": "月下閱覽生命之書",
+    "story": "夜幕低垂，冷冽的月光灑在哥本哈根閱讀花園的皮革長椅上。隻身巡視的花貓停佇在一本攤開的真人人生經驗講義前，正低頭細細研讀著另一種生命的傳奇故事。",
+    "idea": "這是一幅採用剪影藝術風格打造的畫面，邊框融入配色條邊框設計，描繪一隻花貓在深邃的大地色系光芒下，用鼻子輕嗅並細細閱讀一本巨大皮革封面「真人圖書館」書籍的專注姿態。",
+    "inspiration": "丹麥哥本哈根推出了特別的「真人圖書館 Reading Garden」，讓民眾不再是借閱書籍，而是可以「借閱」不同人生背景的志工真人來互動對話",
+    "number": 3028,
+    "prompt": "Silhouette art illustration in a Korean illustrator portfolio layout, framed by vertical color palette swatch bars on both sides featuring stacked color blocks in terracotta, olive green, and warm brown earth tones. A calico cat shown in a dramatic solid black silhouette profile with clean defined edges, attentively leaning down to sniff and read an oversized, open leather-bound 'Human Library' book with rich aged grain texture on a park bench. Stark graphic composition set under gentle silvery moonlight and cool blue nighttime atmosphere blended with deep earth-tone ambient glow. Clean typographic text displaying '2026-08-18 19:19 UTC' neatly integrated into the moodboard presentation margin. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Moonlight",
+      "texture": "Leather",
+      "color_palette": "Earth Tones"
+    },
+    "avoid_list": [
+      "壓花植物疊加紋理",
+      "朱紅與描金配色",
+      "三點打光照明",
+      "魚眼鏡頭誇張視角",
+      "莫蘭迪色調",
+      "正體中文與英文文字限制標註",
+      "貓咪伸爪輕觸/撥弄物件",
+      "古老苔蘚與植物覆蓋質感",
+      "夕陽黃金時刻與光暈",
+      "星空銀河與幽藍光影",
+      "長卷全景與對角線構圖",
+      "復古褪色與底片質感"
+    ]
   }
 ]
