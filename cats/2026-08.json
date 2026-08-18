@@ -10187,5 +10187,36 @@
     "idea": "這是一幅採用空拍俯視與框中框構圖的極致視覺作品，呈現隻身於夜間戶外巨型立體刺繡盤花地毯中央、正伸爪拍打並追逐微型機械昆蟲的橘貓。",
     "story": "月夜靛藍的幽暗夜色下，強烈的閃光燈直打照亮了地毯上繁複交織的刺繡花紋，將方正邊框內的纖維肌理銳利定格。橘貓以靈巧的四足姿態匍匐於圖騰核心，專注地捕捉著發光昆蟲在盤花邊界間劃出的動態軌跡。",
     "title": "月藍織錦邊界之獵"
+  },
+  {
+    "number": 3015,
+    "prompt": "Illustrated story page layout featuring an agile orange tabby cat leaping dynamically along a tightrope high above a circus, chasing flying script pages. Sports panning photography style with a sharply frozen subject against a motion-blurred background. Warm golden hour lighting with a sunset glow, long soft shadows, and golden rim light on the cat's fur. Composite of pressed botanical layers, flattened dried flowers, and delicate translucent leaves creating a natural herbarium texture. Rich vermilion and gilt palette with cinnabar red tones and decorative metallic gold outlines. Top section includes an ornate title banner with integrated story panels and speech bubbles in a shoujo manga narrative style. The date and time '2026-08-18 06:22 UTC' is visibly displayed on the page. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "idea": "這是一組採用運動追焦與故事插畫分格風格呈現的動態場面，一隻橘貓在夕陽西下的黃金時刻中，於高空鋼索上敏捷地奔跑追逐飛舞的彩紙，背景則層次分明地疊加了壓花植物與朱紅描金的斑駁質感。",
+    "comment_id": 5324540642,
+    "title": "夕照鋼索上的追光者",
+    "avoid_list": [
+      "35mm底片質感",
+      "雙色調色彩處理",
+      "百葉窗條紋光影",
+      "生物發光與螢光",
+      "正交投影/俯視構圖",
+      "鏡面反射與重影",
+      "繁複刺繡與印花",
+      "強烈硬光與高對比陰影",
+      "體積光與閃耀光束",
+      "傳統工藝風格",
+      "原子龐克復古未來風",
+      "貓咪伸爪/撕咬專注動作"
+    ],
+    "story": "在高空馬戲團的帳頂上，橘貓在夕陽餘暉下縱身一躍，精準地踩著鋼索追逐隨風飛散的表演劇本。下方的觀眾屏息凝視，而牠專注地伸出前腳撲向那抹金黃，將整個動態瞬間凝結在朱紅與燙金交織的插畫格律中。",
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Golden Hour",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Vermilion and Gilt"
+    }
   }
 ]
