@@ -28237,5 +28237,18 @@
     "timestamp": "2026-08-18 06:22 UTC",
     "status": "success",
     "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s) (fallback from codex: codex-image-service request failed: <urlopen error timed out>)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-18_0727_UTC.webp",
+    "character": "momo",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "竹蓆夜涼草木幽",
+    "timestamp": "2026-08-18 07:27 UTC",
+    "status": "success",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "number": 3016,
+    "season": "summer"
   }
 ]
