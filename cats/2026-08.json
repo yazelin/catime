@@ -10753,5 +10753,41 @@
     "title": "月下綠巡的領航爪",
     "idea": "以細膩粉筆畫勾勒的頭肩特寫中，一隻穿著特製膨脹絎縫羽絨防寒背心的虎斑貓，正在柯爾切斯特街道旁的綠色電動郵務車窗邊，用肉墊好奇撥弄導航螢幕上的派送路線圖，沉浸在冷冽藍青色的清澈月光中。",
     "number": 3030
+  },
+  {
+    "title": "風笛流蘇夜微光",
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Isometric Photography",
+      "lighting": "Candlelight",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "idea": "在蘇格蘭斯特靈的古堡石造大廳內，採用等距攝影與長曝光攝影手法，捕捉一隻身披絨毛皮草的厚毛虎斑貓正專注地伸出右爪撥弄懸掛的風笛流蘇，周遭數十盞溫暖燭光拉曳出柔和光軌，映襯著朱紅描金的傳統格紋布幔與金色徽章。",
+    "story": "剛結束喧鬧高地運動會的古堡夜裡，風笛手們將樂器整齊倚靠在石壁旁歇息。一隻長毛貓悄悄踏上厚實木桌，著迷於羊皮氣囊下垂晃的金色流蘇，用爪子輕輕撥動出細微的氣流低鳴。在搖曳燭火的長曝光映照下，牠的毛皮泛著朱紅與金箔般的暖光，宛如這座古老高地堡壘專屬的夜間守護者。",
+    "comment_id": 5334715010,
+    "inspiration": "英國蘇格蘭的斯特靈（Stirling）舉辦了盛大的傳統高地運動會（Highland Games），現場包含拋木樑、傳統風笛演奏與高地舞蹈等表演，吸引數千名遊客共襄盛舉。",
+    "prompt": "A long exposure photograph taken from a perfectly isometric angle inside a historic stone hall of Stirling Castle in Scotland. A fluffy, long-haired tabby cat with thick, velvety fur stands on a solid wooden table, intently reaching out its right front paw to pat at hanging golden bagpipe tassels. Dozens of flickering candles illuminate the scene, creating warm orange light trails, soft dancing shadows, and a time-lapse feel across the room. Vermilion cinnabar red drapery with metallic gold Highland tartan patterns and ornate golden crests hang on the stone wall. Prominently overlaid on the image in a clear, modern white font is the timestamp text '2026-08-18 22:11 UTC'. Captured on a 35mm lens, f/2.8, warm candlelight glow, subtle motion blur, authentic photo grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國太空總署（NASA）的毅力號火星探測器在火星耶澤羅撞擊坑（Jezero Crater）成功拍攝到地球緩緩隱沒於火星衛星火衛一（Phobos）後方的罕見奇景，寫下人類首次從其他行星表面記錄「地球食」的歷史紀錄。",
+      "香港旅遊發展局公佈最新數據，香港今年前七個月迎來超過 3,100 萬名旅客，較去年同期顯著成長 11%，穩居全球熱門旅遊城市前列。",
+      "英國蘇格蘭的斯特靈（Stirling）舉辦了盛大的傳統高地運動會（Highland Games），現場包含拋木樑、傳統風笛演奏與高地舞蹈等表演，吸引數千名遊客共襄盛舉。",
+      "科學家透過高解析度 CT 掃描渡渡鳥的頭骨化石，意外發現這款已滅絕的鳥類可能擁有遠比以往想像中更敏銳的嗅覺與極度敏感的喙部。"
+    ],
+    "avoid_list": [
+      "斑駁光影",
+      "水下焦散光",
+      "魚眼鏡頭",
+      "霓虹螢光",
+      "莫蘭迪色調",
+      "莫蘭迪色的灰調夜色",
+      "體積光",
+      "淺景深特寫",
+      "低角度俯瞰與仰拍構圖",
+      "古老溫室與植物園",
+      "幾何與剪影藝術風格",
+      "繁體中文標籤與日期時間戳記"
+    ],
+    "number": 3031
   }
 ]
