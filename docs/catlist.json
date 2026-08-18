@@ -28389,5 +28389,16 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "英國蘇格蘭的斯特靈（Stirling）舉辦了盛大的傳統高地運動會（Highland Games），現場包含拋木樑、傳統風笛演奏與高地舞蹈等表演，吸引數千名遊客共襄盛舉。",
     "number": 3031
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "紅金歲月裡的垂涎",
+    "character": "captain",
+    "character_name": "船長",
+    "status": "success",
+    "timestamp": "2026-08-18 23:11 UTC",
+    "number": 3032,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-18_2311_UTC.webp",
+    "inspiration": "original"
   }
 ]
