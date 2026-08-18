@@ -10058,5 +10058,41 @@
     "idea": "採用鉛筆素描繪製，一隻貓咪在繁茂的巨型珊瑚群落間專注地跟隨小魚優游，呈現淺景深特寫與水下焦散光的雙色調視覺感。",
     "story": "公民科學家在凱恩斯海底探險時，發現這隻擁有優雅身姿的貓咪正靈巧地穿越廣闊的珊瑚綠洲。牠在波光粼粼的水下焦散光中躍動，與繽紛的海洋生物共舞，彷彿棉花糖雲朵般夢幻而生機勃勃。",
     "prompt": "A pencil sketch artwork in graphite on paper using hatching and cross-hatching technique with visible pencil strokes. A cat is gracefully swimming underwater, intently following a small fish through a lush giant coral reef oasis. The image features an intimate near-object framing with a shallow depth-of-field close-up, keeping the subject sharp against a soft creamy blurred bokeh background. The lighting highlights underwater caustics, with rippling light patterns dancing over the cat's fur, refract sun shafts through water, and submerged dreamlike aquatic atmosphere with subtle cotton candy fluffy cloud textures. Designed in a duotone color treatment using two contrasting blue-green and pastel tones for a bold graphic impact. The date and time '2026-08-18 00:34 UTC' is clearly and visually displayed in the corner of the image in clean English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "news_inspiration": [
+      "美國紐澤西州的一戶人家屋頂日前遭罕見隕石擊穿，科學家分析後發現其中含有豐富的鹽分液體與胺基酸等生命起源關鍵成分。",
+      "奧地利維也納獸醫大學的科學家發表最新研究，紀錄到母牛使用工具的珍貴畫面，證實牠們具有比以往認知更高的認知能力。",
+      "台灣交通部觀光署於台中谷關等十九處溫泉區正式啟動四季溫泉旅遊推廣活動，結合部落健行與美食體驗邀請全球旅客享受療癒之旅。",
+      "澳大利亞紐卡斯爾的學校與大學合作成立了全新的科技與醫學教育學院，為當地青少年提供提前參與前沿科學研究的機會。"
+    ],
+    "number": 3011,
+    "inspiration": "台灣交通部觀光署於台中谷關等十九處溫泉區正式啟動四季溫泉旅遊推廣活動，結合部落健行與美食體驗邀請全球旅客享受療癒之旅。",
+    "story": "深夜的谷關山林溫泉區靜謐無聲，熱氣騰騰的泉水映照著微弱的蠟燭光芒。花貓踩在溫熱的木地板上，好奇地伸爪探向掛在一旁的絞染地圖，尋找著明晨部落健行步道的蹤跡。微風吹拂布簾，藍黃相間的瓷紋隨蒸氣晃動，宛如一幅流動的古老卷軸。",
+    "avoid_list": [
+      "穆夏式拱框構圖",
+      "斑駁光影與光斑",
+      "正午硬光與天窗",
+      "冰霜結晶紋理",
+      "雙面鏡與反射重影",
+      "35mm底片質感",
+      "鮮明繁體中文或英文時間戳記",
+      "青橙電影調強烈對比",
+      "深海與生物發光",
+      "貓咪專注爪按或銜物姿態",
+      "強烈側光與體積光beam",
+      "折紙與剪影幾何質感"
+    ],
+    "idea": "採用青花瓷風格繪製，一隻花貓在瀰漫著燭光與溫泉蒸氣的木桶旁，用前爪輕戳懸掛在絞染布簾上的部落健行路線圖；整體畫面以藍黃互補色呈現，並運用貼紙拼貼邊框構成視覺包覆。",
+    "prompt": "A calico cat poking its front paw at a Shibori resist-dyed fabric curtain displaying a tribal hiking trail map, set beside a steaming wooden hot spring tub in traditional blue and white porcelain style. Soft candlelight creates a warm flickering glow, contrasting vibrant cobalt blue and indigo patterns with warm yellow accents. Cobalt blue floral motifs and delicate crackle texture decorate the white glazed base. Formatted as a die-cut sticker collage composition with white outline borders, scrapbooking cutouts, chibi side props decorating the frame, and organic flowing designs. The text '2026-08-18 02:08 UTC' is visually displayed on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5322575868,
+    "title": "溫泉夜話地圖迷思",
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Candlelight",
+      "texture": "Shibori Textile",
+      "color_palette": "Blue and Yellow Complementary"
+    }
   }
 ]
