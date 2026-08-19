@@ -11037,5 +11037,38 @@
       "幾何與剪影藝術風格",
       "繁體中文標籤與日期時間戳記"
     ]
+  },
+  {
+    "number": 3039,
+    "story": "墨墨優雅地趴在展台最高處的一本金色古籍封面上，修長的身軀與深棕暖調的黑毛在直打閃光燈下折射出亮麗光澤。牠昂著頭，琥珀色的雙眼凝視著底下出價的賓客，像是一位挑剔的藝術品鑑定師正在親自審查這場拍賣。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "idea": "在中國紅與輝煌金色交織的古董拍賣會場中，採用超寫實動漫風格與留白負空間構圖，閃光燈直打出墨墨如緞面般的絨毛皮草質感與精緻細節。",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Negative Space Composition",
+      "lighting": "Direct Flash",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "斑駁光影",
+      "水下焦散光",
+      "魚眼鏡頭",
+      "霓虹螢光",
+      "莫蘭迪色調",
+      "莫蘭迪色的灰調夜色",
+      "體積光",
+      "淺景深特寫",
+      "低角度俯瞰與仰拍構圖",
+      "古老溫室與植物園",
+      "幾何與剪影藝術風格",
+      "繁體中文標籤與日期時間戳記"
+    ],
+    "character": "momo",
+    "prompt": "A hyperrealistic anime-style, realistic-anime hybrid illustration depicting Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen short fur showing subtle warm brown undertones under bright light. Momo has large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, a single small gold hoop earring on the left ear mid-ear edge (viewer perspective), and a subtle single dark-grey ring at the tail tip. Momo is posed elegantly as a literal four-legged cat lying atop an ornate golden antique book cover on a high auction display pedestal, gazing calmly downward at out-of-focus auction guests below. Minimalist negative space composition with the subject placed off-center, surrounded by expansive breathing room. Rich festive Chinese red background accented with luxurious bright gold trims. Harsh direct on-camera flash casting crisp hard shadows, blown-out specular highlights on the glossy velvet fur texture, and realistic fine hair details. Visually rendered in a clean corner overlay is the timestamp '2026-08-19 07:28 UTC' in crisp digital English lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "紅金展台上的鑑定家",
+    "comment_id": 5338928521
   }
 ]
