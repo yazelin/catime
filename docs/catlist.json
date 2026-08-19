@@ -28501,5 +28501,16 @@
     "inspiration": "數百名遊客因社群媒體熱潮擠爆位於法薩山谷（義大利）海拔2,300公尺的山頂小屋，只為排隊購買新鮮出爐的德式甜甜圈（Krapfen）。",
     "number": 3043,
     "title": "山巔的甜甜圈航線"
+  },
+  {
+    "character": "mochi",
+    "number": 3044,
+    "character_name": "麻糬",
+    "timestamp": "2026-08-19 12:20 UTC",
+    "title": "雪夜皮箱裡的無盡巡邏",
+    "inspiration": "泰國曼谷：生活風格飯店品牌 OZO 與泰國著名街頭藝術家 Benzilla 跨界合作，將旅行記憶轉化為獨特行李箱貼紙藝術，為旅客打造充滿在地文化色彩的紀念品。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-19_1220_UTC.webp",
+    "status": "success"
   }
 ]

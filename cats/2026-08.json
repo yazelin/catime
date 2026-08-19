@@ -11201,5 +11201,40 @@
     ],
     "story": "數百名遊客在山腳下排起長龍，全為了品嚐傳說中的現炸Krapfen。喵師兄踩在撕紙邊緣堆疊出的層疊岩壁上，神情專注地引導纜繩，紙質的金箔潑點肌理在餘暉下熠熠生輝。對牠來說，這不僅是維護隊秩序，更是一場守護甜品溫度的頂峰任務。",
     "prompt": "在融合青橙電影調的等距3D撕紙拼貼畫作中，一隻橘貓身穿浮力裝備，在夕陽黃金時刻的法薩山谷海拔2,300公尺山頂小屋屋頂上，叼著繩索協助拉起運送德式甜甜圈（Krapfen）的吊纜。. The date and time '2026-08-19 11:14 UTC' is visually displayed in the image. torn paper collage effect, layered textures, mixed media, visible paper edges and notebook lines, 3D isometric illustration, clean geometric forms, soft pastel colors, polished playful rendering, golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, gold foil flecks texture, scattered metallic gold leaf shards, glinting gilded specks, luxurious shimmering accents, hand-applied foil splatter, teal and orange color grading, warm skin tones against cool blue-green shadows, complementary cinematic palette, blockbuster film look, punchy balanced contrast IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "character": "mochi",
+    "story": "麻糬巡邏到老街邊緣的復古皮革小店，被空氣中混著花生香與舊皮革的味道吸引。牠圓滾滾的身軀擠進剛好塞得下的皮具工藝箱裡，頂著風雪朦朧的光線，邊瞇眼打呼邊試圖用粉紅帶橘點的小鼻頭探索那些帶有曼陀羅紋樣的皮雕貼紙。對麻糬來說，這個無限層疊的皮革迷宮簡直就像個巨大的花生麻糬工廠。",
+    "character_name": "麻糬",
+    "number": 3044,
+    "news_inspiration": [
+      "泰國曼谷：生活風格飯店品牌 OZO 與泰國著名街頭藝術家 Benzilla 跨界合作，將旅行記憶轉化為獨特行李箱貼紙藝術，為旅客打造充滿在地文化色彩的紀念品。",
+      "美國芝加哥：上千隻黃色橡皮鴨展開了一年一度的芝加哥河游水大賽，熱鬧吸引眾多民眾前來響應特奧會募款活動。",
+      "尼泊爾加德滿都：尼泊爾政府與聯合國教科文組織合作啟動社群非物質文化遺產工作坊，以深化當地傳統文化的保護與傳承。"
+    ],
+    "avoid_list": [
+      "貓用前爪撥弄物品",
+      "朱紅與金箔/描金配色",
+      "稜鏡彩虹光斑與折射光線",
+      "強烈硬光與高對比陰影",
+      "沉浸在月光/星雲輝光中",
+      "黑金奢華配色與幾何元素",
+      "等距俯瞰或超廣角透視",
+      "特寫貓咪肉墊或頭肩視角",
+      "在古老/歷史建物內探索",
+      "冷冽藍青色與清澈月光"
+    ],
+    "prompt": "Artistic illustration featuring Mochi, a chubby rounded shorthair cat with a white coat, a solid bright orange mask covering only the right half of its face from nose bridge to right ear while the left face remains pure white, large round amber eyes, a pink nose with a tiny orange center dot, short stubby legs, a white belly, a heart-shaped orange saddle patch on its back, a solid orange mitten on its right front paw, a pure white left front paw, and an orange-and-white ringed banded tail. Inside a vintage leather workshop visible through a snowstorm atmosphere with heavy falling snow flurries and cold diffused daylight, the cat curls on a rustic workbench, intently licking an embossed genuine leather luggage sticker detailed with complex circular mandala sacred geometry and intricate radial symmetry. The scene recedes into a recursive Droste effect, a picture-within-a-picture repeating infinitely in a self-referential loop with rich aged leather grain textures, supple creased surfaces, and washed-out retro vintage tones with nostalgic film-era warmth. Clearly stamped on a vintage workshop label in the corner is the text '2026-08-19 12:20 UTC' in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Snowstorm Haze",
+      "texture": "Leather",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 5342049737,
+    "title": "雪夜皮箱裡的無盡巡邏",
+    "inspiration": "泰國曼谷：生活風格飯店品牌 OZO 與泰國著名街頭藝術家 Benzilla 跨界合作，將旅行記憶轉化為獨特行李箱貼紙藝術，為旅客打造充滿在地文化色彩的紀念品。",
+    "idea": "在暴風雪朦朧的風雪中，橘白貓麻糬正窩在老街皮革工坊的桌上，專注地舔舐著一枚浮雕著曼陀羅藝術圖騰的皮革行李箱貼紙，畫面透過遞迴德羅斯特效應無限層層延伸。"
   }
 ]
