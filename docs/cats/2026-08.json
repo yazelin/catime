@@ -11305,5 +11305,36 @@
     "inspiration": "奧地利維也納的動物行為專家發現一隻名為 Veronika 的母牛能熟練地使用多種工具，創下全球首次記錄到牛類具備多用途工具使用能力的有趣科學發現。",
     "title": "星夜工具師的月下儀式",
     "idea": "在以銀河星空攝影風格呈现的夜色中，一隻橘白相間的母貓正叼著特製細枝，在海邊峭壁上靈巧地組裝組件，整體採用螺旋漩渦構圖與衍紙藝術紋理，呈顯朱紅留白色調與靜謐月光。"
+  },
+  {
+    "avoid_list": [
+      "貓爪撥弄物件",
+      "傳統植物標本與壓花",
+      "黃金時刻夕陽光暈",
+      "黑金奢華配色與金箔細節",
+      "稜鏡彩虹折射光斑",
+      "時間戳記標籤",
+      "等距3D插圖風格",
+      "大地色系與極簡留白",
+      "高對比硬光與深重陰影",
+      "復古皮革與曼陀羅圖騰",
+      "螢光與紫外光照耀",
+      "莫蘭迪色調與柔焦"
+    ],
+    "prompt": "A Chinese panoramic scroll painting in Song dynasty jie hua style, meticulously rendered on aged silk with muted traditional pigments using an oblique aerial perspective. An ancient, moss-covered watermill with lush green overgrowth and damp textures shows a nimble cat gracefully leaping between large operating wooden gears and spinning shafts to catch flying insects amid fine airborne dust. Illustrated story page layout featuring multiple panels arranged across the long scroll, decorated with a traditional Chinese title banner at the top and integrated speech or text bubbles containing Traditional Chinese script. The timestamp '2026-08-19 15:19 UTC' is visibly displayed on the image in crisp Traditional Chinese calligraphic lettering. Detailed architectural line work captures waterbirds perched by the riverside window, depicting a slice-of-life narrative with a soft living patina. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "comment_id": 5344253451,
+    "idea": "採用清明上河圖式長卷風貌，以故事插畫分格呈現一隻貓咪在苔蘚覆蓋的古老水力碾米廠中，穿梭於運轉的木製輪軸間捕抓飛蟲。",
+    "style_picks": {
+      "art_style": "Chinese Panoramic Scroll Painting",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Duotone"
+    },
+    "title": "苔痕水磨追光圖",
+    "news_inspiration": [],
+    "number": 3047,
+    "story": "古老的沿河磨坊早已布滿青苔，數隻水鳥在窗外棲息，長卷式的畫面紀錄著磨坊運作的各個角落。貓咪靈巧地四足並用，在巨大的木質齒輪與飛揚的麵粉細屑間輕盈跳躍，追逐著一道微小的光影。"
   }
 ]
