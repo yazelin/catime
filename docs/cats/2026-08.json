@@ -11104,5 +11104,34 @@
       "斯瓦巴群島，挪威：一名遊客因在當地鳴響郵輪汽笛打擾正沉睡的北極熊，遭挪威當局裁罰超過40萬法郎（或相應重罰）。",
       "班加羅爾，印度：一名工程師自製一套結合自動攝影機與AI的即時檢測系統，能主動捕捉道路坑洞並通報市政單位進行修補。"
     ]
+  },
+  {
+    "avoid_list": [
+      "貓用前爪撥弄物品",
+      "朱紅與金箔/描金配色",
+      "稜鏡彩虹光斑與折射光線",
+      "強烈硬光與高對比陰影",
+      "沉浸在月光/星雲輝光中",
+      "黑金奢華配色與幾何元素",
+      "等距俯瞰或超廣角透視",
+      "特寫貓咪肉墊或頭肩視角",
+      "在古老/歷史建物內探索",
+      "冷冽藍青色與清澈月光"
+    ],
+    "idea": "這幅新藝術風格的畫作採用莫蘭迪色調與柔焦霧面質感，描繪一隻長毛貓蹲坐在古典梳妝台前，透過對角擺放的雕花銅鏡呈現鏡子自拍構圖，頂部的蝴蝶光柔和地照亮牠的 facial 輪廓。",
+    "prompt": "Art Nouveau painting of a calico cat sitting in a sunlit botanical greenhouse, pedaling an antique metal sewing machine pedal with its hind paw amid scattered dried plant specimens. Mirror selfie composition showing an intimate reflection in an ornate, diagonally angled bronze circular mirror decorated with flowing organic curves, ornamental floral motifs, and Mucha-inspired vine borders. Soft overhead butterfly lighting casting gentle symmetrical shadows across its facial features. Soft-focus matte haze with a dreamy diffused blur, gentle glowing veil, and low-contrast atmospheric softness. Muted Morandi color palette featuring desaturated soft pastels, dusty sage greens, and warm grey undertones. The timestamp '2026-08-19 09:21 UTC' is delicately inscribed in vintage typography at the bottom corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5340143494,
+    "story": "淡雅柔和的溫室花房裡，一隻三花貓正用後腳靈巧地踩踏著一台老式金屬縫線機的腳踏板，協助主人整理散落的植物標本。牠透過前方的裝飾性圓鏡好奇注視著自己的倒影，蔓藤般流暢的新藝術線條與莫蘭迪灰綠色調交織出靜謐的午後時光。",
+    "number": 3041,
+    "news_inspiration": [],
+    "title": "鏡花午后的縫紉時光",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
