@@ -11579,5 +11579,39 @@
       "極簡負空間留白",
       "飛躍追逐微觀粒子"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Snowstorm Haze",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "伸手撥弄或抓取物件",
+      "側臉特寫或正面平視構圖",
+      "藍青色水下焦散光",
+      "紅金節慶色調",
+      "印有特定UTC時間戳記",
+      "必須使用繁體中文或英文",
+      "35mm鏡頭與f/2.8光圈設定",
+      "流光與生物發光微光",
+      "精密紋理與流線光澤肌理",
+      "古老或沉浸式建築場景"
+    ],
+    "idea": "在粗糙麻布與毛線織品所構成的雪景世界中，一隻斑紋貓以超廣角視角蹲伏在覆雪的田壟間，正用鼻子細細嗅聞著孩子們剛剛採收的冰凍蘿蔔，畫面呈鉛筆素描質感並籠罩在暴風雪的朦朧藍青色調中。",
+    "inspiration": "在印度那加蘭邦維斯威馬（Viswema），一所公立學校推行「校園菜園」計畫，讓學童親手翻土種植蔬菜並直接作為每日營養午餐的健康食材。",
+    "prompt": "A tabby cat crouches in snow-covered soil ridges, sniffing a frozen radish harvested by children, pencil sketch texture, graphite on paper with hatching and cross-hatching, visible pencil strokes. Ultra wide angle 12-18mm lens with dramatic perspective distortion and expansive field of view. The world is composed of rough burlap fabric and yarn textiles with visible woven thread patterns. Snowstorm atmospheric lighting with heavy falling snow veil, muted diffused daylight, fogged distance, painterly weather mood with visibility obscured by flurries. Cold blue-white and cool blue-teal color grading with icy undertones. The date and time '2026-08-19 23:12 UTC' is visibly displayed on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3055,
+    "news_inspiration": [
+      "在智利復活節島（拉帕努伊），當地原住民委員會正式取得周邊廣達74萬平方公里海洋保護區的管理主導權，成為全球由原住民治理的最大規模海洋生態保護區之一。",
+      "希臘透過環保行動「颱風計畫」成功清理多座島嶼的海岸線，累計清除超過千噸廢棄物，讓地中海沙灘重現純淨面貌。",
+      "在埃及勒克索的底比斯墓地，考古團隊最新發掘出一座橫跨數百年的大型古墓，其中罕見地發現了一具被精心製作保存的寵物犬木乃伊與多具遺骸。",
+      "在印度那加蘭邦維斯威馬（Viswema），一所公立學校推行「校園菜園」計畫，讓學童親手翻土種植蔬菜並直接作為每日營養午餐的健康食材。"
+    ],
+    "title": "雪原菜園的巡視者",
+    "story": "冰雪籠罩的小鎮邊緣，公立學校的孩子們在寒風中合力翻掘菜園裡的根莖作物。貓咪踩著厚重的布料雪層穿梭其間，好奇地檢視每顆剛出土的蔬菜，為這場嚴寒中的豐收增添了一絲溫暖的生命力。",
+    "comment_id": 5349136056
   }
 ]
