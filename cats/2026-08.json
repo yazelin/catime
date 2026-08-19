@@ -11444,5 +11444,42 @@
       "極簡負空間留白",
       "飛躍追逐微觀粒子"
     ]
+  },
+  {
+    "number": 3051,
+    "idea": "這幅彩色石版印刷作品採用淺景深特寫，呈現一隻黑貓在暴風雪朦朧的月夜靛藍光影下，伸出前爪專注地摸索一部配有鑄鐵雕花鏤空輪框的粗獷全地形越野輪椅。",
+    "inspiration": "美國猶他州錫安國家公園首度引進全地形電動輪椅供民眾免費租用，讓行動不便者也能輕鬆探索壯麗自然步道。",
+    "prompt": "Chromolithograph style, ornate Victorian-era decorative poster composition with multi-layered printing and vibrant saturated colors. A shallow depth-of-field close-up focusing sharply on a curious sleek black cat standing on a snow-covered tire, reaching out its front paw to touch the intricate cast iron filigree and openwork scrollwork wheel frame of a rugged all-terrain wheelchair. Set against a creamy blurred background of a snowstorm on a canyon trail under a hazy moonlit indigo palette, with deep night-blue, violet tones, cool silvery highlights, and swirling falling snow flurries. Elegant vintage typography subtly integrated into the bottom border reads '2026-08-19 19:16 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "雪徑輪跡的探險家",
+    "news_inspiration": [
+      "奧地利維也納的大腦掃描研究發現，當狗狗看到人類露出開心笑容時，大腦獎勵區域會顯著活化，證實牠們真的能看懂並喜歡人類的笑臉。",
+      "津巴布韋馬圖索多納國家公園成功重引入極度瀕危的黑犀牛，在當地傳統領袖支持下達成重大野生動物保育里程碑。",
+      "美國猶他州錫安國家公園首度引進全地形電動輪椅供民眾免費租用，讓行動不便者也能輕鬆探索壯麗自然步道。",
+      "希臘海域透過第七年的「颱風計畫」清理超過4800段海岸線線並清除逾1090噸海洋垃圾，讓多座島嶼海岸煥然一新。",
+      "芬蘭一項長達八年的追蹤研究顯示，適度使用螢幕的青少年在認知處理能力上表現更佳，打破了過往對螢幕時間的傳統認知。"
+    ],
+    "avoid_list": [
+      "螺旋漩渦構圖",
+      "朱紅留白色調",
+      "生物發光微光",
+      "壓花植物與乾燥花",
+      "撕紙拼貼與衍紙紋理",
+      "微距鏡頭專注伸爪舔舐",
+      "鏡面自拍與對角雕花銅鏡",
+      "古老工坊與復古齒輪迷宮",
+      "高調柔和擴散光",
+      "金箔潑點與青橙電影調",
+      "極簡負空間留白",
+      "飛躍追逐微觀粒子"
+    ],
+    "style_picks": {
+      "art_style": "Chromolithography",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Snowstorm Haze",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5346897522,
+    "story": "積雪覆蓋的壯麗峽谷步道上，行動不便的主人正停下腳步休憩。好奇的黑貓踩在覆雪的輪胎上，伸出爪子撥弄輪椅側邊精緻的金屬構件，在寒冷風雪中為這趟無障礙的探險之旅增添了一抹溫暖的動態。"
   }
 ]
