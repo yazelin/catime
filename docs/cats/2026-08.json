@@ -11070,5 +11070,39 @@
     "prompt": "A hyperrealistic anime-style, realistic-anime hybrid illustration depicting Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen short fur showing subtle warm brown undertones under bright light. Momo has large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, a single small gold hoop earring on the left ear mid-ear edge (viewer perspective), and a subtle single dark-grey ring at the tail tip. Momo is posed elegantly as a literal four-legged cat lying atop an ornate golden antique book cover on a high auction display pedestal, gazing calmly downward at out-of-focus auction guests below. Minimalist negative space composition with the subject placed off-center, surrounded by expansive breathing room. Rich festive Chinese red background accented with luxurious bright gold trims. Harsh direct on-camera flash casting crisp hard shadows, blown-out specular highlights on the glossy velvet fur texture, and realistic fine hair details. Visually rendered in a clean corner overlay is the timestamp '2026-08-19 07:28 UTC' in crisp digital English lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "紅金展台上的鑑定家",
     "comment_id": 5338928521
+  },
+  {
+    "avoid_list": [
+      "貓用前爪撥弄物品",
+      "朱紅與金箔/描金配色",
+      "稜鏡彩虹光斑與折射光線",
+      "強烈硬光與高對比陰影",
+      "沉浸在月光/星雲輝光中",
+      "黑金奢華配色與幾何元素",
+      "等距俯瞰或超廣角透視",
+      "特寫貓咪肉墊或頭肩視角",
+      "在古老/歷史建物內探索",
+      "冷冽藍青色與清澈月光"
+    ],
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Negative Space Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Paper Texture",
+      "color_palette": "Earth Tones"
+    },
+    "number": 3040,
+    "prompt": "A minimalist flat vector illustration featuring a tabby cat crouching beside a paper-textured sand pit, leaning down to sniff a newly hatched baby sea turtle crawling toward the ocean. The date and time '2026-08-19 08:22 UTC' is visually displayed in thin, clean English typography in one corner of the frame. Clean geometric forms, smooth vector lines, and subtle fiber grain textured watercolor paper surface create tactile warmth. Off-center composition with expansive negative space, large empty earth-tone areas, terracotta, warm brown, and olive green accents. Bright high-key white seamless studio lighting, shadowless pure white background, calm uncluttered framing. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在極簡的扁平向量插圖中，一隻斑紋貓伏在紙質肌理鋪展的沙坑旁，低頭湊近一隻新孵化的小海龜，四周以大面積大地色系留白與純白棚光營造寧靜氛圍。",
+    "story": "浪潮退去的廣闊沙灘上，大地色塊勾勒出純粹的海洋保護區邊界。四腳伏地的小貓輕輕嗅著剛破殼的小海龜，伴隨牠緩慢朝大海爬行。在無邊的留白空間裡，微小的生命正安靜展開一場宏大的守望。",
+    "title": "潮汐初生處",
+    "comment_id": 5339507622,
+    "inspiration": "復活節島，智利：智利政府與拉帕努伊原住民達成歷史性協議，將復活節島周邊高達74萬平方公里的太平洋海域劃設為全球最大的原住民自主管理海洋保護區。",
+    "news_inspiration": [
+      "復活節島，智利：智利政府與拉帕努伊原住民達成歷史性協議，將復活節島周邊高達74萬平方公里的太平洋海域劃設為全球最大的原住民自主管理海洋保護區。",
+      "馬圖索多納國家公園，辛巴威：瀕臨絕種的黑犀牛在經歷多年的保育努力後，成功被重新引進並放歸國家公園，成為辛巴威生態復育的重要里程碑。",
+      "斯瓦巴群島，挪威：一名遊客因在當地鳴響郵輪汽笛打擾正沉睡的北極熊，遭挪威當局裁罰超過40萬法郎（或相應重罰）。",
+      "班加羅爾，印度：一名工程師自製一套結合自動攝影機與AI的即時檢測系統，能主動捕捉道路坑洞並通報市政單位進行修補。"
+    ]
   }
 ]
