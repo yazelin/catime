@@ -11848,5 +11848,40 @@
       "黑光螢光與發光昆蟲",
       "菜園與採收作物場景"
     ]
+  },
+  {
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "鑄鐵雕花鏤空構件",
+      "印有UTC時間戳記",
+      "藍青與黃橙互補色調",
+      "斑紋虎斑貓主題",
+      "發光絲流與焦散光束",
+      "微縮與巨大物體對比",
+      "嚴格限定繁體中文或英文",
+      "藝術風格多格拼貼構圖",
+      "黑光螢光與發光昆蟲",
+      "菜園與採收作物場景"
+    ],
+    "title": "寒夜蝕影窺星靈",
+    "prompt": "Spider-lily and crane ornamental illustration style. A pure white long-haired cat crouches at a stone arched window in a remote town in Castile and León, Spain, peering intently into the eyepiece of a large mounted astronomical telescope. Frame within a frame composition, viewing through the arched opening with a layered foreground border. Red higanbana and white cranes weave around the subject with a dense decorative floral lattice. Snowstorm atmospheric lighting with a heavy falling snow veil, cold dark dreamy blue, deep night-blue, violet tones, and cool silvery highlights in a moonlit indigo palette. Beaded rhinestone embellishment with encrusted glittering gems, pearls, and faceted sparkling stones adding opulent couture detailing. Elegant melancholic oriental fantasy mood. Visually displaying the timestamp text '2026-08-20 08:23 UTC' overlaid cleanly in one corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Spider-Lily and Crane Ornamental Illustration",
+      "composition": "Frame Within a Frame",
+      "lighting": "Snowstorm Haze",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5353359609,
+    "inspiration": "西班牙卡斯提亞-雷昂的偏遠小鎮吸引了來自世界各地的天文迷聚會，共同觀賞並拍攝低於地平線的壯觀日全食景色。",
+    "idea": "在西班牙卡斯提亞-雷昂偏遠小鎮的石造拱窗邊，一隻純白長毛貓正俯身凝視著剛架設好的大型天文望遠鏡目鏡，整幅畫面採用彼岸花仙鶴繁飾插畫風格，以月夜靛藍與珠飾水鑽鑲嵌勾勒出暴風雪朦朧下的框中框構圖。",
+    "number": 3063,
+    "story": "小鎮的天文迷們在寒風中等待著沉入地平線的日食奇景，白貓則安靜地蹲伏在石窗台上，透過鏡筒窺探那抹隱沒於雪霧中的微光。窗櫺外飛舞的雪片與繁複的仙鶴羽紋交疊，宛如為這場寂靜的天體盛宴綴滿了閃爍的珠鑽。",
+    "news_inspiration": [
+      "美國加州舊金山的海洋生物學家在金門大橋步道上記錄並破解了港灣鼠海豚在海面上的獨特交配與社交行為模式。",
+      "西班牙卡斯提亞-雷昂的偏遠小鎮吸引了來自世界各地的天文迷聚會，共同觀賞並拍攝低於地平線的壯觀日全食景色。",
+      "法國宇航員索菲·亞狄諾（Sophie Adenot）在國際太空站成功完成太空漫步任務，成為歷史上首位執行太空漫步的法國女性。",
+      "美國太空總署（NASA）的毅力號火星車在火星表面拍下了地球隱沒在火衛一（Phobos）後方的罕見天文照片。"
+    ]
   }
 ]

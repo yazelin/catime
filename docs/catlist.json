@@ -28680,5 +28680,14 @@
     "title": "暗泉紅金追蝦圖",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success"
+  },
+  {
+    "title": "寒夜蝕影窺星靈",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-20_0823_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "西班牙卡斯提亞-雷昂的偏遠小鎮吸引了來自世界各地的天文迷聚會，共同觀賞並拍攝低於地平線的壯觀日全食景色。",
+    "timestamp": "2026-08-20 08:23 UTC",
+    "status": "success",
+    "number": 3063
   }
 ]
