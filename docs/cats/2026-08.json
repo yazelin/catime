@@ -11778,5 +11778,40 @@
       "諾魯（Naoero / Nauru）：這座太平洋島國正式推動將國名恢復為本土傳統語言名稱「瑙埃羅」（Naoero），以促進原住民語言與文化的復興。"
     ],
     "comment_id": 5351725782
+  },
+  {
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Direct Flash",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 3061,
+    "idea": "在印度部落風格的貢德畫畫卷中，一隻薑黃色花貓正笨拙地用後腿站定、前腳奮力踩踏著一輛古老的腳踏車輪軸；畫面透過德羅斯特效應無限遞迴，閃光燈直打出強烈對比，並伴隨著琥珀色的動態飛濺水花。",
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "鑄鐵雕花鏤空構件",
+      "印有UTC時間戳記",
+      "藍青與黃橙互補色調",
+      "斑紋虎斑貓主題",
+      "發光絲流與焦散光束",
+      "微縮與巨大物體對比",
+      "嚴格限定繁體中文或英文",
+      "藝術風格多格拼貼構圖",
+      "黑光螢光與發光昆蟲",
+      "菜園與採收作物場景"
+    ],
+    "news_inspiration": [
+      "在尼泊爾，近年來政府與保育團體的努力成果顯現，當地的野生老虎數量實現顯著增長，為全球生物多樣性帶來令人振奮的好消息。",
+      "在芬蘭黑帕蘭達與科拉里之間，鐵路公司重啟了停運數十年的跨國鐵路客運服務，讓旅客能一路搭乘火車橫跨歐洲漫遊至葡萄牙。",
+      "在美國加州帕薩迪納，加州理工學院的科學家成功在矽晶片上打造出超低損耗的光學路徑，未來有望顯著提升光纖晶片與雷射技術的效率。",
+      "在葡萄牙波多，市政府正式實施針對特定群體的免費大眾運輸政策，大幅降低居民日常出行的通勤成本與碳排放。"
+    ],
+    "story": "這隻薑黃貓以為自己踩動了跨國鐵路的開關，每一次奮力撥動輪軸，無數個層層疊疊的自己便在無盡的幾何畫軸中同步運轉。隨著琥珀色的閃耀水花四散飛濺，牠彷彿帶領著整條遠方的鐵路，橫跨漫長的秋日大地。",
+    "title": "輪軸裡的無限漫遊",
+    "prompt": "A ginger tabby cat awkwardly standing on its hind legs while pedaling the axle of an antique bicycle with its front paws, created in traditional Indian Gond painting folk art style. The composition features an infinite recursive Droste effect where the image repeats endlessly within itself. Textured with intricate dot and line patterns, mystical nature-inspired motifs, and bursting crystalline arcs of dynamic amber water splashes frozen mid-motion. Illuminated by a harsh direct on-camera flash with blown-out highlights and sharp, hard shadows. Autumn color palette of warm amber, deep burnt orange, and rich golden yellow. The text '2026-08-20 06:24 UTC' is clearly rendered in a clean corner timestamp. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在芬蘭黑帕蘭達與科拉里之間，鐵路公司重啟了停運數十年的跨國鐵路線客運服務，讓旅客能一路搭乘火車橫跨歐洲漫遊至葡萄牙。",
+    "comment_id": 5352245184
   }
 ]
