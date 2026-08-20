@@ -11714,5 +11714,34 @@
       "texture": "Inflatable PVC",
       "color_palette": "Blue and Yellow Complementary"
     }
+  },
+  {
+    "prompt": "Biopunk art illustration featuring a tabby cat with stretched limbs agilely climbing an ornate wrought iron filigree arched gate, intently hunting glowing genetically modified fluorescent insects. Mucha-style arched frame composition with symmetrical Art Nouveau panel framing and intricate black scrollwork. Visualized under blacklight UV illumination, featuring striking fluorescent blue and warm yellow complementary colors against a dark background. Muted mutated flora intertwined with Victorian cast iron lace details. The date and time '2026-08-20 04:24 UTC' is clearly rendered in a crisp sans-serif font integrated into the bottom corner of the decorative frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "一隻斑紋花貓正伸長四肢攀爬在鑄鐵雕花鏤空拱門上，專注地捕捉飛掠的基改熒光昆蟲，整體融合生物朋克風格與穆夏式拱框構圖。",
+    "inspiration": "original",
+    "avoid_list": [
+      "伸手撥弄或抓取物件",
+      "側臉特寫或正面平視構圖",
+      "藍青色水下焦散光",
+      "紅金節慶色調",
+      "印有特定UTC時間戳記",
+      "必須使用繁體中文或英文",
+      "35mm鏡頭與f/2.8光圈設定",
+      "流光與生物發光微光",
+      "精密紋理與流線光澤肌理",
+      "古老或沉浸式建築場景"
+    ],
+    "title": "拱門上的螢光狩獵",
+    "story": "在充斥著生物基因工程的未來都市裡，老舊的植物實驗室門口被鑄鐵雕花鏤空拱框所包覆。黑光螢光灑落在花貓斑紋上，反射出湛藍與燦黃的互補光澤，牠正敏捷地躍向拱頂，追逐著散發微光的基因昆蟲。",
+    "number": 3059,
+    "news_inspiration": [],
+    "comment_id": 5351353433,
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Blue and Yellow Complementary"
+    }
   }
 ]
