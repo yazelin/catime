@@ -11743,5 +11743,40 @@
       "texture": "Wrought Iron Filigree",
       "color_palette": "Blue and Yellow Complementary"
     }
+  },
+  {
+    "story": "蘇格蘭新法規推行後，許多建築牆面陸續嵌入了為雨燕設計的特殊巢磚。這隻駐守在工地的巡視員三花貓，正透過鏡面般的水窪倒影盯著那些新奇的石洞，百葉窗條紋光透過棚架格柵斜射在琥珀色的秋日光景裡。",
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "鑄鐵雕花鏤空構件",
+      "印有UTC時間戳記",
+      "藍青與黃橙互補色調",
+      "斑紋虎斑貓主題",
+      "發光絲流與焦散光束",
+      "微縮與巨大物體對比",
+      "嚴格限定繁體中文或英文",
+      "藝術風格多格拼貼構圖",
+      "黑光螢光與發光昆蟲",
+      "菜園與採收作物場景"
+    ],
+    "title": "新牆下的羽翼新鄰",
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Venetian Blind Light",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "英國蘇格蘭（Scotland, United Kingdom）：蘇格蘭正式推行新建築法規，強制要求境內所有新建房屋皆須嵌入供鳥類築巢的「雨燕磚」，以守護瀕危鳥類生態。",
+    "prompt": "A calico cat lying on wet puddle-covered concrete at an old construction site, reaching its paw curiously toward a swift nest brick hole embedded in a brick wall. Cel-shaded art style featuring flat color areas, bold outlines, sharp shadow edges, and anime game cartoon rendering. Venetian blind striped lighting casts hard parallel light-and-shadow bands through scaffold gratings onto the cat. Mirror water reflection on the glassy still surface creates a clear inverted image beneath the cat. Dynamic forced perspective composition with exaggerated foreshortening. Warm amber color grading, autumn palette with golden yellows and burnt orange. Clear text '2026-08-20 05:20 UTC' visually displayed on the image frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3060,
+    "idea": "這是一幅採用賽璐璐著色風格的創作，一隻三花貓正趴在老舊建築工地的積水水泥地上，好奇地將爪子伸向鑲嵌於磚牆中的小型鳥巢孔洞。",
+    "news_inspiration": [
+      "美國愛達荷州波夕（Boise, United States）：一群當地高中生將暑期爆紅的社群帳號轉化為公益力量，號召大量網友共同投入波夕河的河道清理行動。",
+      "英國蘇格蘭（Scotland, United Kingdom）：蘇格蘭正式推行新建築法規，強制要求境內所有新建房屋皆須嵌入供鳥類築巢的「雨燕磚」，以守護瀕危鳥類生態。",
+      "阿根廷（Argentina）：古生物學家在分析約 2.36 億年前的三疊紀化石時，證實早期哺乳動物祖先已發展出胎生特徵，將胎生演化歷史大幅提前。",
+      "諾魯（Naoero / Nauru）：這座太平洋島國正式推動將國名恢復為本土傳統語言名稱「瑙埃羅」（Naoero），以促進原住民語言與文化的復興。"
+    ],
+    "comment_id": 5351725782
   }
 ]
