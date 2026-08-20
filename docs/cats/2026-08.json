@@ -11642,5 +11642,43 @@
     "news_inspiration": [],
     "number": 3056,
     "title": "鏽罐裡的微觀盛宴"
+  },
+  {
+    "character": "captain",
+    "story": "深夜的海港被炫目的霓虹螢光照亮，老船長獨自坐在防波堤上，戴著微傾斜的草帽與深色眼罩，熟練地用爪子按住木質釣竿。多格畫面紀錄著牠從觀察海面微光、突然緊咬釣線，到成功釣起大魚時眼中閃爍的狂熱，展現出這位港口老大永不褪色的海上霸氣。",
+    "idea": "這是一幅結合霓虹燈光與竹影翠綠色調的多格角色拼貼油畫，展現大隻斑駁的虎斑貓船長戴著小草帽，在防波堤邊的夜間老漁港防波堤上專注釣魚的各種英姿。",
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Neon Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "title": "霓光防波堤上的老船長",
+    "comment_id": 5350353999,
+    "avoid_list": [
+      "伸手撥弄或抓取物件",
+      "側臉特寫或正面平視構圖",
+      "藍青色水下焦散光",
+      "紅金節慶色調",
+      "印有特定UTC時間戳記",
+      "必須使用繁體中文或英文",
+      "35mm鏡頭與f/2.8光圈設定",
+      "流光與生物發光微光",
+      "精密紋理與流線光澤肌理",
+      "古老或沉浸式建築場景"
+    ],
+    "number": 3057,
+    "news_inspiration": [
+      "在美國紐約的大都會藝術博物館，館方展出了極為罕見的古老荷馬史詩《奧德賽》莎草紙殘卷，當中甚至包含現代標準譯本未記載的珍貴詩句。",
+      "在墨西哥一處未開發的水下洞穴中，一名受困黑暗長達15天的漁民在搜救潛水員的堅持搜救下奇蹟般平安生還。",
+      "海洋科學家在西非外海進行探勘時，驚喜發現先前被推測已全數死亡的珊瑚礁群依然生機盎然且孕育著豐富的海洋生態。",
+      "在澳洲的一間圖書館，工作人員收到了一本被砌在壁爐磚牆內、逾期長達150年才終於物歸原主的古老藏書。"
+    ],
+    "prompt": "A multi-panel character montage oil painting of a single character shown in several poses across a grid collage layout. The character is a large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a prominent V-shaped notch on its left ear, a faded red bandana tied around its neck, a white chest bib, and white mitten paws, wearing a small straw hat tilted on its head. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric, while its right eye is a single piercing emerald green. In various comic-style cells, the cat captain is shown at a night sea harbor on a sea wall pier, focused on fishing with a wooden fishing rod held in its paws: watching the sea, biting the line, and excitedly catching a big fish. The style features thick impasto brushstrokes, rich color palette, visible canvas texture, subtle noise, and film grain. Vibrant neon lights and colorful glowing signs reflect off wet surfaces, creating a moody urban night atmosphere blended with a serene bamboo jade-green palette, emerald, and malachite tones. The text '2026-08-20 02:09 UTC' is visually displayed in the corner of the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "season": "summer"
   }
 ]

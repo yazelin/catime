@@ -28622,5 +28622,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-20_0034_UTC.webp",
     "title": "鏽罐裡的微觀盛宴",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "character": "captain",
+    "inspiration": "original",
+    "title": "霓光防波堤上的老船長",
+    "status": "success",
+    "number": 3057,
+    "character_name": "船長",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-20_0209_UTC.webp",
+    "timestamp": "2026-08-20 02:09 UTC",
+    "season": "summer"
   }
 ]
