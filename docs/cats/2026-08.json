@@ -11680,5 +11680,39 @@
     "is_seasonal": true,
     "inspiration": "original",
     "season": "summer"
+  },
+  {
+    "idea": "採用木刻版畫風格與藍黃互補色調，隻一隻充氣 PVC 材質的橘貓正用雙爪緊緊按住海灘上的浮木，仔細嗅聞著浮木縫隙間嵌著的巨大巨齒鯊牙齒化石，畫面邊緣則帶有配色條邊框與白底去背棚光效果。",
+    "comment_id": 5351058665,
+    "news_inspiration": [
+      "在美國紐澤西州的海灘上，一個家庭在岸邊撿拾貝殼時，意外發現了一枚保存完好且極為罕見的史前巨齒鯊牙齒化石。",
+      "在印度那加蘭邦的一所公立學校中，學生們親自在校園菜園裡耕種各類蔬菜，將親手採收的作物直接變成豐富的營養午餐。",
+      "智利復活節島周邊約74萬平方公里的廣闊海域已正式設立為海洋保護區，並將由島上的原住民拉帕努伊人主導管理。",
+      "辛巴威的馬圖薩多納國家公園成功重新引入了一群極度瀕危的黑犀牛，為當地的物種復育與生態保育寫下全新里程碑。"
+    ],
+    "story": "浪花退去的紐澤西海邊，充氣質感的橘貓在沙灘巡視時被一股遠古的氣息吸引。牠趴在被海水沖上岸的腐朽浮木上，好奇地湊近那枚堅硬如石的巨大尖牙，彷彿聽見了數百萬年前深海巨獸的咆哮。",
+    "inspiration": "在美國紐澤西州的海灘上，一個家庭在岸邊撿拾貝殼時，意外發現了一枚保存完好且極為罕見的史前巨齒鯊牙齒化石。",
+    "title": "海浪帶來的巨獸記憶",
+    "prompt": "Woodcut print style illustration of an inflatable PVC orange cat with a high-gloss, puffy, air-filled surface, pressing its front paws tightly onto a piece of beach driftwood. The cat curious sniffs a massive Megalodon shark tooth fossil embedded in the driftwood's crevices. High contrast wood grain texture and bold carved lines. Vibrant blue and yellow complementary color palette. White seamless studio lighting, evenly lit subject on a pure white cyclorama studio background. Vertical color palette swatch bars frame the left and right sides in a design moodboard aesthetic. Visible text displaying the exact date and time '2026-08-20 03:36 UTC' clearly rendered in sleek modern typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "伸手撥弄或抓取物件",
+      "側臉特寫或正面平視構圖",
+      "藍青色水下焦散光",
+      "紅金節慶色調",
+      "印有特定UTC時間戳記",
+      "必須使用繁體中文或英文",
+      "35mm鏡頭與f/2.8光圈設定",
+      "流光與生物發光微光",
+      "精密紋理與流線光澤肌理",
+      "古老或沉浸式建築場景"
+    ],
+    "number": 3058,
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Blue and Yellow Complementary"
+    }
   }
 ]
