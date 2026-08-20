@@ -12203,5 +12203,41 @@
     "title": "金色浮島的漫遊者",
     "prompt": "A healing pet photography shot of an elegant black cat playing on a luxury floating island levitating in mid-air. The cat is focused on pushing a folded gold geometric origami cube with its paw near the edge of the island. Constructed with black and gold paper sculpture elements featuring clean geometric creases and sharp angular folds, the miniature landscape rests against a deep black background with soft white clouds below. Shot with a 35mm lens, f/1.8, cinematic Rembrandt lighting at a 45-degree angle creating dramatic chiaroscuro, soft warm light, dreamy bokeh, and shallow depth of field. Cleanly overlaid in the corner of the image is the clear text timestamp '2026-08-20 17:18 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "在半空中懸浮的黑金奢華小島上，光線透過倫勃朗光的經典角度照射下來，勾勒出黑貓深邃的輪廓。小島由帶有摺紙質感的黑金色元素堆疊而成，黑貓悠然地在浮島邊緣玩耍，彷彿這座漂浮微缩世界是專屬於牠的秘密遊樂場。"
+  },
+  {
+    "idea": "這幅畫作採用霧面紙玻璃風格與服裝多視角展示構圖，呈現一隻布偶貓在透明溫室裡，用前爪輕輕撥弄與檢視剛採收的羽衣甘藍菜葉，搭配青橙電影調與高調明亮光，葉脈上附著著精細的冰霜結晶。",
+    "style_picks": {
+      "art_style": "Frosted Paper-Glass",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Teal and Orange"
+    },
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "日期時間戳記標籤",
+      "繁體中文與英文限定警語",
+      "硬光與高對比強烈陰影",
+      "琥珀色調與秋日色彩",
+      "特殊異國民俗藝術風格",
+      "潮濕岩石與水窪倒影",
+      "幾何光影與線框肌理",
+      "俯瞰與特殊透視構圖",
+      "傳統老宅與偏遠建築場景",
+      "具備精密齒輪與儀器",
+      "黑白高反差底片攝影"
+    ],
+    "number": 3073,
+    "story": "校園農場的晨霧尚未散去，貓咪隊長早已巡視完學生們細心呵護的蔬菜園。牠仔細端詳著採收籃裡的每一片嫩葉，確保午餐食材擁有最高品質。透光的紙玻璃視覺感讓這場晨間巡視顯得格外清新而專注。",
+    "prompt": "Fashion design sheet and multi-view lookbook showcase layout in a translucent frosted glass-paper art style. The composition is arranged in clean panels featuring a front view, side view, back view, and detail close-up view with English labeled views. A plush Ragdoll cat in a transparent greenhouse is lightly touching and inspecting freshly harvested kale leaves with its front paw. The kale leaf veins are covered in detailed ice crystal formations and delicate frost patterns with translucent ice shards. The scene features a teal and orange cinematic color grading with warm tones against cool blue-green shadows, set against a clean studio backdrop. High-key bright lighting, airy overexposed feel, soft even illumination, and minimal shadows create a luminous clean atmosphere. Visually displayed clearly in fine typography in the corner is the text '2026-08-20 18:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "溫室裡的菜葉巡視員",
+    "inspiration": "維斯維馬，印度：K Khel 政府中學推行「校園農場」計畫，讓 60 多名學生親自種植與採收午餐所需的蔬菜。",
+    "news_inspiration": [
+      "墨西加利，墨西哥：Chilangas FC 盲人女子足球隊正積極備戰，準備代表國家出戰在巴西舉行的首屆女子盲人足球美洲盃。",
+      "希臘海島地區，希臘：海灘清潔計畫「颱風計畫」邁入第七年，成功清掃了超過 4,800 條海岸線並清理逾 1,090 噸海洋垃圾。",
+      "維斯維馬，印度：K Khel 政府中學推行「校園農場」計畫，讓 60 多名學生親自種植與採收午餐所需的蔬菜。",
+      "維也納，奧地利：獸醫研究團隊發現名為 Veronika 的母牛能靈活使用工具，刷新了科學界對家畜智商的認知。"
+    ],
+    "comment_id": 5360001323
   }
 ]
