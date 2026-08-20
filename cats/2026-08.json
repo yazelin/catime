@@ -11883,5 +11883,40 @@
       "法國宇航員索菲·亞狄諾（Sophie Adenot）在國際太空站成功完成太空漫步任務，成為歷史上首位執行太空漫步的法國女性。",
       "美國太空總署（NASA）的毅力號火星車在火星表面拍下了地球隱沒在火衛一（Phobos）後方的罕見天文照片。"
     ]
+  },
+  {
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "鑄鐵雕花鏤空構件",
+      "印有UTC時間戳記",
+      "藍青與黃橙互補色調",
+      "斑紋虎斑貓主題",
+      "發光絲流與焦散光束",
+      "微縮與巨大物體對比",
+      "嚴格限定繁體中文或英文",
+      "藝術風格多格拼貼構圖",
+      "黑光螢光與發光昆蟲",
+      "菜園與採收作物場景"
+    ],
+    "title": "海域星盤的巡禮者",
+    "comment_id": 5353994343,
+    "news_inspiration": [
+      "墨西哥哥斯達黎加（Costa Rica / Mexico）潛水救援人員在經歷長達15天的搜救後，成功於水下洞穴深處救出一名奇蹟生還的漁民。",
+      "智利復活節島（Easter Island, Chile）的原住民社群正式取得周邊廣達74萬平方公里海洋保護區的自主管理控制權。",
+      "印度長治縣（Viswema, India）的一所中學推行校園農場計劃，讓學生親自種菜並直接作為每日營養午餐的食材。",
+      "希臘愛琴海群島（Aegean Islands, Greece）透過「颱風計畫」成功清理超過4800段海岸線，移除逾1090噸海洋垃圾。"
+    ],
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Knolling Photography",
+      "lighting": "Spotlight",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "A Knolling flat lay overhead view photography featuring a black and gold purebred cat sitting directly in the center, curiously bending down to sniff neatly arranged nautical instruments. The objects, including a golden astrolabe, hydrologic observation devices, a brass compass, and rolled parchment charts, are laid out in an organized grid at precise 90-degree angles on a dark obsidian tabletop within a grand Baroque maritime headquarters hall. Shot with a 50mm lens, f/2.8, overhead angle, shallow depth of field, sharp photographic detail, realistic textures, and natural film grain. A narrow, high-contrast spotlight beams down from above, creating dramatic chiaroscuro with deep shadows and sharp light edges, casting refracted spectral prismatic rainbow light spots and subtle lens flares across the composition. In the corner of the frame, the text '2026-08-20 09:22 UTC' is visibly displayed in a clean, sharp font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "智利復活節島（Easter Island, Chile）的原住民社群正式取得周邊廣達74萬平方公里海洋保護區的自主管理控制權。",
+    "idea": "在巴洛克風格的宏偉海事總部大廳中，一隻黑金雙色的純種貓端坐在Knolling排列的航海儀器、黃金羅盤與羊皮紙海圖正中央，聚光燈自頂部打下，折射出璀璨的稜鏡彩虹光斑。",
+    "number": 3064,
+    "story": "原住民守護隊正式接管了浩瀚海洋保護區的巡航指揮權，黑貓作為巡護船的隨行吉祥物，正低頭嗅聞甲板上井然有序整齊平鋪的水文觀測儀與金色星盤。戲劇性的巴洛克光影在黑曜石般的桌面流淌，預示著古老海域迎來尊榮而嚴謹的新航程。"
   }
 ]
