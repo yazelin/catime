@@ -28720,5 +28720,14 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "inspiration": "在印度那加蘭邦的一所中學裡，學生們每天在校園農場親自播種與採收蔬菜，並將這些新鮮食材直接做成自己的營養午餐。"
+  },
+  {
+    "timestamp": "2026-08-20 12:22 UTC",
+    "status": "success",
+    "number": 3067,
+    "title": "彩繪巴士上的光影偶戲",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-20_1222_UTC.webp",
+    "inspiration": "敘利亞伊德利卜地區推行「行動文化巴士」計畫，將繪有卡通圖案的彩繪巴士開進鄉村與營區，為當地兒童提供圖書借閱、偶戲表演與藝術工作坊。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
