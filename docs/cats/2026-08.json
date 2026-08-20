@@ -11613,5 +11613,34 @@
     "title": "雪原菜園的巡視者",
     "story": "冰雪籠罩的小鎮邊緣，公立學校的孩子們在寒風中合力翻掘菜園裡的根莖作物。貓咪踩著厚重的布料雪層穿梭其間，好奇地檢視每顆剛出土的蔬菜，為這場嚴寒中的豐收增添了一絲溫暖的生命力。",
     "comment_id": 5349136056
+  },
+  {
+    "style_picks": {
+      "art_style": "Food Surrealism",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "original",
+    "prompt": "Tilt-shift photography of a tabby cat carefully licking rich soup overflowing from a large rusted vintage tin can inside a surreal food miniature kitchen. The scene features oversized vegetables, aged industrial rusted cans with oxidized patina and peeling paint layers. Selective focus band creates a toy-like effect with soft blurred foreground and background. Styled with duotone warm orange-brown and pastel lighting, soft diffused natural light, overcast sky illumination, no harsh shadows. Captured on a 45mm tilt-shift lens, f/2.8, shallow depth of field, realistic food surrealism still life. Crisp digital overlay text in the corner reads '2026-08-20 00:34 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這座由巨大蔬果與生鏽金屬罐頭組成的迷你廚房裡，蒸氣正從小小的閥門溢出。老貓巡視著它的美食帝國，輕柔地踩在乾燥黃瓜切塊搭成的步道上，享用著剛剛沸騰的香氣。兩色調的自然漫射光灑落在微縮光影中，交織出溫暖而怪誕的午後時光。",
+    "idea": "在食物超現實擬物風格下，移軸微縮鏡頭捕捉一隻斑紋貓穿梭於鐵鏽舊化罐頭所構成的巨大蒸氣龐克廚房，專注地舔舐剛溢出的濃郁濃湯。",
+    "avoid_list": [
+      "伸手撥弄或抓取物件",
+      "側臉特寫或正面平視構圖",
+      "藍青色水下焦散光",
+      "紅金節慶色調",
+      "印有特定UTC時間戳記",
+      "必須使用繁體中文或英文",
+      "35mm鏡頭與f/2.8光圈設定",
+      "流光與生物發光微光",
+      "精密紋理與流線光澤肌理",
+      "古老或沉浸式建築場景"
+    ],
+    "comment_id": 5349721693,
+    "news_inspiration": [],
+    "number": 3056,
+    "title": "鏽罐裡的微觀盛宴"
   }
 ]
