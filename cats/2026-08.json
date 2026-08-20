@@ -12239,5 +12239,36 @@
       "維也納，奧地利：獸醫研究團隊發現名為 Veronika 的母牛能靈活使用工具，刷新了科學界對家畜智商的認知。"
     ],
     "comment_id": 5360001323
+  },
+  {
+    "story": "球館裡的歡呼聲此起彼落，三花貓悄悄溜上拋光的球道，用小巧的鼻頭精準推正滾動的紅球。在明亮柔和的三點光影下，它宛如這場深夜球賽最冷靜的計分員，只專注於球瓶倒下的清脆瞬間。",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Three-Point Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "日期時間戳記標籤",
+      "繁體中文與英文限定警語",
+      "硬光與高對比強烈陰影",
+      "琥珀色調與秋日色彩",
+      "特殊異國民俗藝術風格",
+      "潮濕岩石與水窪倒影",
+      "幾何光影與線框肌理",
+      "俯瞰與特殊透視構圖",
+      "傳統老宅與偏遠建築場景",
+      "具備精密齒輪與儀器",
+      "黑白高反差底片攝影"
+    ],
+    "prompt": "A calico cat meticulously pushing a bright red kid-sized bowling ball with its nose at the end of a busy bowling alley lane, full-bleed frame-filling composition with subject cropped to the edges, dense edge-to-edge detail. Traditional halftone dot pattern with a CMYK print aesthetic, visible dot matrix, retro newspaper print graphic texture. Classic three-point lighting setup featuring a key light with soft shadows, a soft fill light, and a subtle rim light for separation. The background showcases natural wood grain texture with rich warm tones, visible knots, and organic tactile surface. High saturation vivid colors with bold vibrant hues and eye-catching energetic palette. The date and time '2026-08-20 19:22 UTC' is clearly visually displayed in subtle retro typography at the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5360643667,
+    "inspiration": "original",
+    "title": "滾動的紅球記分員",
+    "idea": "在繁忙的保齡球館球道末端，一隻三花貓正專注地用鼻尖推動一顆鮮紅色的兒童保齡球，畫面以滿版特寫呈現，結合高飽和鮮豔色半色調網點與三點打光，透出球道底層細膩的木紋質感。",
+    "number": 3074,
+    "news_inspiration": []
   }
 ]
