@@ -12030,5 +12030,42 @@
       "中國上海市正式啟用100台具備生成專屬旅遊行程與即時翻譯功能的AI旅遊服務終端機，為大量湧入的暑期遊客提供更便利的智慧旅遊體驗。",
       "敘利亞伊德利卜地區推行「行動文化巴士」計畫，將繪有卡通圖案的彩繪巴士開進鄉村與營區，為當地兒童提供圖書借閱、偶戲表演與藝術工作坊。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "這是一張採用中片幅攝影風格的黑白照片，呈現平視正面構圖，一隻斑紋貓正伸出前爪拍打著沉入潛水隊浮標旁邊的沉木。在硬光日照下，陽光直射水面，貓咪濕透的毛髮與旁邊潛水員皮膚上的水珠濕膚肌理清晰可見。",
+    "avoid_list": [
+      "貓嗅聞物件",
+      "日期時間戳記標籤",
+      "配色條邊框",
+      "暴風雪朦朧光影",
+      "拱門與拱框構圖",
+      "德羅斯特無限遞迴效應",
+      "琥珀色與橘黃色調",
+      "滿版刺繡與珠飾肌理",
+      "微縮與移軸攝影質感",
+      "印度民俗藝術風格",
+      "超廣角與戲劇性透視",
+      "霓虹與螢光互補色光"
+    ],
+    "title": "水洞深處的波紋",
+    "news_inspiration": [
+      "墨西哥哥倫布海洞潛水團隊經過15天的艱辛搜尋，成功在未開發的地下水洞深處救出一名受困失蹤的漁民。",
+      "希臘的「颱風計劃」清潔船隊近期圓滿完成新一輪海岸清理行動，成功為希臘幾座離島的數百條海岸線清除超過千噸海洋垃圾。",
+      "津巴布韋馬圖索多納國家公園在當地多位傳統部落領袖與保育團體合作下，成功將極危物種黑犀牛重新引進回這片保護區。",
+      "美國加州勞倫斯利佛摩國家實驗室的科學家透過極限高壓實驗，成功解開了高壓下鑽石融化的二十年科學謎團，證實液態碳密度高於固態鑽石。",
+      "印度那加蘭邦一家中學實施「校園農場到餐桌」教育計畫，由學生親自栽種與採收有機蔬菜作為每日營養午餐的食材。"
+    ],
+    "prompt": "A medium format black and white photograph in Hasselblad aesthetic, shot at an eye-level frontal composition with a straight-on symmetrical view. A wet tabby cat reaches out its front paw to bat at a piece of driftwood submerged right next to a diving team's safety buoy at the exit of a cenote cave in Mexico. In the background, a diver rests, their skin textured with glistening beads of water clinging to the surface. Lit by harsh midday sunlight, strong directional sun creates hard edge shadows and high contrast natural daylight, highlighting the reflective micro-highlights on the cat's drenched fur. High contrast monochrome with an extraordinary, rich tonal range. The date and time '2026-08-20 13:37 UTC' is visually displayed stamped in the corner of the image. Captured on a 80mm lens, f/2.8, shallow depth of field, authentic photo grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5356680505,
+    "inspiration": "墨西哥哥倫布海洞潛水團隊經過15天的艱辛搜尋，成功在未開發的地下水洞深處救出一名受困失蹤的漁民。",
+    "story": "在墨西哥哥倫布海洞的地下水洞出口，救援潛水隊剛完成了艱辛的搜救任務。水陸兩棲的基地貓蹲守在浮標旁，好奇地伸爪撥動著水面上記錄搜尋路徑的漂浮繩結。日光直射而下，將水花與潛水員身上的每一滴水珠都刻畫得異常銳利。",
+    "number": 3068
   }
 ]
