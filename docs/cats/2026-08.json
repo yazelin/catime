@@ -12134,5 +12134,38 @@
     "comment_id": 5358044646,
     "number": 3070,
     "inspiration": "original"
+  },
+  {
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Volumetric Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "麻糬",
+    "character": "mochi",
+    "idea": "這是一張採用拍立得風格呈現的直式書法海報構圖照片，體積光穿過傳統市場麵包店的蒸氣，照亮正在趁老闆不注意偷叼剛出爐花生奶酥麵包的橘白胖貓麻糬，麵包表面包裝流淌著液態金屬般的油亮光澤，整體呈復古褪色色調。",
+    "prompt": "Polaroid instant photograph with a white border frame, vertical East Asian movie poster layout featuring a side calligraphy panel and red seal accents. High-angle candid shot taken with a 35mm lens at f/2.0. In an old traditional street market bakery in the late afternoon, a chubby spherical shorthair cat named Mochi is stealthily snatching a freshly baked peanut cream bread in a plastic wrapper off a wooden counter. Mochi has a white base coat with a distinct orange mask on his right half-face extending to his right ear while his left face is pure white, a heart-shaped orange saddle patch on his upper back, a solid orange mitten on his right front paw, a white left front paw, a white belly, and round amber eyes. The bread wrapper has a liquid metal, mercury-like reflective shine. Volumetric god rays and visible atmospheric dust pass through steam from the bakery. Faded vintage tones, washed-out nostalgic low-contrast film colors, shallow depth of field. In the bottom corner, the text '2026-08-20 16:20 UTC' is imprinted in a clean orange digital timestamp font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "日期時間戳記標籤",
+      "繁體中文與英文限定警語",
+      "硬光與高對比強烈陰影",
+      "琥珀色調與秋日色彩",
+      "特殊異國民俗藝術風格",
+      "潮濕岩石與水窪倒影",
+      "幾何光影與線框肌理",
+      "俯瞰與特殊透視構圖",
+      "傳統老宅與偏遠建築場景",
+      "具備精密齒輪與儀器",
+      "黑白高反差底片攝影"
+    ],
+    "comment_id": 5358711703,
+    "title": "老街麵包店的偷香小賊",
+    "number": 3071,
+    "story": "黃昏的傳統老街市場裡，剛出爐的奶酥香氣瀰漫四周。圓滾滾的麻糬憑著熟練的敏捷身手，悄悄伸長肚子貼在木檯上，一口咬住袋裝麵包的邊角準備溜之大吉。一旁正忙著找零的麵包店老闆回過頭來，只能無奈地看著這顆花生麻糬帶著戰利品消失在巷口。"
   }
 ]
