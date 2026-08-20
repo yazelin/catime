@@ -12372,5 +12372,41 @@
     ],
     "story": "寂靜的深夜裡，冷潔的月光灑落在高聳的摩艾石像與連綿的波濤之上。這隻守護海岸的三花貓繞著巨石邊界巡視，朱紅描金的線框透明光芒隨風在其毛髮與崖壁間隱隱浮現，記錄著這片廣達74萬平方公里海洋的重獲新生。",
     "comment_id": 5362670718
+  },
+  {
+    "story": "維也納的農場裡傳來突破性的科學消息，連乳牛都開始學會巧妙運用工具。溫室裡的貓咪也不甘示弱，牠叼起細竹枝穿梭於苔蘚植物之間，在電影感的沉穩光影下展現出驚人的工匠技巧。",
+    "avoid_list": [
+      "前爪撥動或推物",
+      "貓咪巡視食材或蔬菜",
+      "黃色聚光燈與高對比光影",
+      "滿版特寫構圖",
+      "浮島與懸浮景觀",
+      "低多邊形與幾何摺紙風格",
+      "黑色電影高對比硬光",
+      "35mm鏡頭拍攝寫實底片質感",
+      "標示時間戳記與英文字樣",
+      "透光紙玻璃與霧面質感",
+      "半色調網點與CMYK印刷質感",
+      "高飽和螢光色與紫外線燈光"
+    ],
+    "style_picks": {
+      "art_style": "Distressed Gold-Leaf Floral Mixed-Media",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Cinematic Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "comment_id": 5363229020,
+    "title": "鏡中疊翠的微觀工匠",
+    "inspiration": "奧地利維也納獸醫醫學大學的科學家紀錄到一隻名為 Veronika 的乳牛展現出使用工具的能力，創下牛隻具備多用途工具使用能力的首次科學紀錄。",
+    "news_inspiration": [
+      "美國太空總署（NASA）公佈，一段廢棄的 SpaceX 火箭推進器撞擊月球背面，留下了一個寬約 60 英呎的全新隕石坑。",
+      "澳洲昆士蘭凱恩斯外海的大堡堡礁，公民科學家發現了一座面積廣達 3,973 平方公尺（約半個足球場大）的巨型珊瑚群落。",
+      "奧地利維也納獸醫醫學大學的科學家紀錄到一隻名為 Veronika 的乳牛展現出使用工具的能力，創下牛隻具備多用途工具使用能力的首次科學紀錄。",
+      "丹麥哥本哈根推廣「真人圖書館（Human Library）」閱讀花園，讓民眾能「借閱」不同背景的真人志工進行對話，打破社會刻板印象"
+    ],
+    "idea": "在一座覆蓋著厚重苔蘚與斑駁金箔花卉的沉靜溫室中，一隻翠綠竹影色調的貓咪正低頭專注地用嘴叼著支架、替同伴架設小型植物支撐架，整副畫面透過牆上的鏡面反射出無限延伸的遞迴德羅斯特視覺效果。",
+    "number": 3078,
+    "prompt": "A mixed-media artwork of an emerald and jade-green toned cat carefully holding a miniature wooden stake in its mouth to build a plant support inside a serene greenhouse overgrown with thick, lush moss. Distressed gold-leaf floral patterns and mottled metallic gilding adorn the ornate surfaces with cracked foil texture and layered collage patina. The composition features a recursive Droste effect reflected across an antique wall mirror, creating an infinite picture-within-a-picture repeating loop. Atmospheric cinematic lighting with soft volumetric rays filtering through humid glass, casting dramatic shadows. In a subtle corner of the frame, the timestamp '2026-08-20 23:15 UTC' is legibly inscribed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
