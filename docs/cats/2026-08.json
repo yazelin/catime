@@ -11918,5 +11918,45 @@
     "idea": "在巴洛克風格的宏偉海事總部大廳中，一隻黑金雙色的純種貓端坐在Knolling排列的航海儀器、黃金羅盤與羊皮紙海圖正中央，聚光燈自頂部打下，折射出璀璨的稜鏡彩虹光斑。",
     "number": 3064,
     "story": "原住民守護隊正式接管了浩瀚海洋保護區的巡航指揮權，黑貓作為巡護船的隨行吉祥物，正低頭嗅聞甲板上井然有序整齊平鋪的水文觀測儀與金色星盤。戲劇性的巴洛克光影在黑曜石般的桌面流淌，預示著古老海域迎來尊榮而嚴謹的新航程。"
+  },
+  {
+    "news_inspiration": [
+      "美國紐約大都會藝術博物館展示了已知最古老的《奧德賽》手抄紙莎草殘片，吸引全球文學與歷史愛好者前往朝聖。",
+      "義大利米蘭警方在一間倉庫的紙箱中成功找回數月前被盜、總價值達千萬美元的塞尚與雷諾瓦等名家畫作。",
+      "斯里蘭卡雅拉國家公園的科學家最新研究指出，長尾葉猴與巨鬆鼠等野生動物間存在跨物種的社交與照顧行為。",
+      "希臘希俄斯島等數個島嶼的海灘在「颱風計畫」的號召下完成大規模清潔，至今已成功清除超過千噸海洋垃圾。"
+    ],
+    "prompt": "Digital artwork in translucent specimen sculpture and low-poly digital origami style, featuring low-poly polygon mesh facets and geometric crystalline surfaces with flat-shaded triangular faces. Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, warm brown undertones, athletic muscle definition, a slight upward curl at the tail tip, large luminous golden-amber eyes #D4A017, long prominent white whiskers, a tiny natural white locket tuft #FFFFFF on ventral chest, a single dark-grey #696969 ring at tail tip, and a single small gold hoop earring #FFD700 on her left ear (viewer perspective), lies gracefully in a diagonal composition across a cool dark-blue attic bamboo mat in an ancient traditional wooden house during summer. She is attentively gazing at an unrolled fragment of a Cézanne painting with visible brushstrokes. Dynamic slanted lines and tilted framing create off-axis kinetic tension. A narrow beam yellow spotlight casts a dramatic high-contrast glow over the artwork, creating sharp light edges and deep darkness falloff in a vivid cool blue and warm yellow complementary palette. The date and time '2026-08-20 10:18 UTC' is visually displayed in clear English text in the image corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3065,
+    "season": "summer",
+    "title": "夏席上的藝術鑑賞家",
+    "is_seasonal": true,
+    "character": "momo",
+    "story": "夏日的酷熱在老宅閣樓被隔絕在外，墨墨在涼爽的竹蓆上伸展身軀，享受著難得的靜謐。牠那如琥珀寶石般的雙眼盯著面前舒展開來的名畫殘卷，優雅地踩著爪子，彷彿正以老古董鑑定師的姿態細細品味著畫中的光影變化。",
+    "avoid_list": [
+      "貓嗅聞物件",
+      "日期時間戳記標籤",
+      "配色條邊框",
+      "暴風雪朦朧光影",
+      "拱門與拱框構圖",
+      "德羅斯特無限遞迴效應",
+      "琥珀色與橘黃色調",
+      "滿版刺繡與珠飾肌理",
+      "微縮與移軸攝影質感",
+      "印度民俗藝術風格",
+      "超廣角與戲劇性透視",
+      "霓虹與螢光互補色光"
+    ],
+    "inspiration": "義大利米蘭警方在一間倉庫的紙箱中成功找回數月前被盜、總價值達千萬美元的塞尚與雷諾瓦等名家畫作。",
+    "idea": "採用通透標本雕塑風格與低多邊形肌理，墨墨以對角線姿態優雅地趴伏在老宅閣樓深藍色竹蓆上，專注地凝視著一卷剛被警方尋回、以黃色聚光燈照射的塞尚名畫筆觸。",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Translucent Specimen Sculpture",
+      "composition": "Diagonal Composition",
+      "lighting": "Spotlight",
+      "texture": "Low Poly",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "comment_id": 5354585361
   }
 ]
