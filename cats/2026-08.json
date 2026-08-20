@@ -12067,5 +12067,36 @@
     "inspiration": "墨西哥哥倫布海洞潛水團隊經過15天的艱辛搜尋，成功在未開發的地下水洞深處救出一名受困失蹤的漁民。",
     "story": "在墨西哥哥倫布海洞的地下水洞出口，救援潛水隊剛完成了艱辛的搜救任務。水陸兩棲的基地貓蹲守在浮標旁，好奇地伸爪撥動著水面上記錄搜尋路徑的漂浮繩結。日光直射而下，將水花與潛水員身上的每一滴水珠都刻畫得異常銳利。",
     "number": 3068
+  },
+  {
+    "story": "這隻貓咪在精密的齒輪與槓桿間仔細巡視，輕輕用爪子探入機械內部微調關鍵部件。在閃光燈直打的強烈對比下，黑色皮質背景與閃耀的金屬細節交織出獨特的質感，宛如一幅奢華的機械設計手稿。",
+    "avoid_list": [
+      "貓嗅聞物件",
+      "日期時間戳記標籤",
+      "配色條邊框",
+      "暴風雪朦朧光影",
+      "拱門與拱框構圖",
+      "德羅斯特無限遞迴效應",
+      "琥珀色與橘黃色調",
+      "滿版刺繡與珠飾肌理",
+      "微縮與移軸攝影質感",
+      "印度民俗藝術風格",
+      "超廣角與戲劇性透視",
+      "霓虹與螢光互補色光"
+    ],
+    "comment_id": 5357254533,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Direct Flash",
+      "texture": "Leather",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "在建築藍圖風格的大寫意畫面中，一隻黑貓整隻趴在充滿皮革肌理的桌面上，伸出前爪專注地撥弄並調校著一座複雜的大型金屬齒輪鐘錶結構，呈現滿版特寫的視覺張力。",
+    "inspiration": "original",
+    "prompt": "A extreme full-bleed, edge-to-edge macro shot of a black cat lying flat on a rich, warm, aged leather surface with genuine creased texture. The cat stretches out its front paw, intently adjusting complex metallic clockwork gears and intricate gold mechanism parts. The composition is structured like an architectural blueprint with thin white technical lines, precise measurement markings, and annotations integrated into the background. The text '2026-08-20 14:23 UTC' is visually displayed in clear white technical font. Harsh direct on-camera flash creates blown-out highlights, hard shadows, and a raw candid snapshot aesthetic. Opulent gold and deep black color palette, combining high-end artisanal craftsmanship details with technical drawing elements, filling the frame completely with dense edge-to-edge detail. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3069,
+    "title": "金色齒輪與靜謐之爪"
   }
 ]
