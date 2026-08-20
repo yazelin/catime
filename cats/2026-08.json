@@ -11958,5 +11958,41 @@
       "color_palette": "Blue and Yellow Complementary"
     },
     "comment_id": 5354585361
+  },
+  {
+    "number": 3066,
+    "title": "竹影下的菜餚監督者",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Bird's-Eye View",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "prompt": "A candid 35mm photograph taken from a bird's-eye view looking straight down at an outdoor bamboo table in a high school farm in Nagaland, India. A striped tabby cat sits in the center, using its front paw to push fresh green vegetables across the surface. Midday harsh sunlight casts sharp, high-contrast hard-edge shadows through bamboo fences, creating wireframe-like geometric translucent grid light patterns across the scene. The lighting combines 1940s film noir high-contrast shadows with a cool bamboo jade-green color palette, rich in emerald and malachite tones. Printed clearly in the top corner of the photograph is the exact text '2026-08-20 11:16 UTC'. Shot on a 35mm lens, f/2.8, raw daylight photography, realistic film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓嗅聞物件",
+      "日期時間戳記標籤",
+      "配色條邊框",
+      "暴風雪朦朧光影",
+      "拱門與拱框構圖",
+      "德羅斯特無限遞迴效應",
+      "琥珀色與橘黃色調",
+      "滿版刺繡與珠飾肌理",
+      "微縮與移軸攝影質感",
+      "印度民俗藝術風格",
+      "超廣角與戲劇性透視",
+      "霓虹與螢光互補色光"
+    ],
+    "idea": "這是一組採用黑色電影風格與俯瞰視野的視覺創作，一隻斑紋貓在竹影翠綠色調的戶外餐桌上，用爪子撥動並挑選剛採收的鮮嫩蔬菜。",
+    "story": "在印度那加蘭邦的中學農場裡，午陽透過竹籬劃出銳利光影，為地面覆上一層如線框般的交錯透明質感。這隻學校養的斑紋四腳貓熟練地盤踞在餐桌中央，用前爪將剛摘下的青菜推向正在準備營養午餐的學生們，儼然是位嚴格的菜餚品質檢查員。",
+    "inspiration": "在印度那加蘭邦的一所中學裡，學生們每天在校園農場親自播種與採收蔬菜，並將這些新鮮食材直接做成自己的營養午餐。",
+    "news_inspiration": [
+      "在美國芝加哥，數萬隻黃色橡皮鴨被同時放入芝加哥河中，舉行一年一度的趣味競速比賽，為特殊奧林匹克運動會募款。",
+      "在英國坎布里亞，保護區團隊成功迎來自維多利亞時代以來首批在當地孵化的魚鷹幼鳥，創下野生動物復育的重大里程碑。",
+      "在智利復活節島，當地拉帕努伊原住民正與政府合作，將周邊廣達74萬平方公里的太平洋海域劃設為由原住民自主管理的海洋保護區。",
+      "在印度那加蘭邦的一所中學裡，學生們每天在校園農場親自播種與採收蔬菜，並將這些新鮮食材直接做成自己的營養午餐。"
+    ],
+    "comment_id": 5355148784
   }
 ]
