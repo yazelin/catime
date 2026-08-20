@@ -28671,5 +28671,14 @@
     "status": "success",
     "inspiration": "在芬蘭黑帕蘭達與科拉里之間，鐵路公司重啟了停運數十年的跨國鐵路線客運服務，讓旅客能一路搭乘火車橫跨歐洲漫遊至葡萄牙。",
     "timestamp": "2026-08-20 06:24 UTC"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-20_0731_UTC.webp",
+    "number": 3062,
+    "timestamp": "2026-08-20 07:31 UTC",
+    "inspiration": "日本研究團隊在地下水系統中發現了兩種完全沒有眼睛的新種蝦類甲殼動物，揭示了獨特的地下生態系統。",
+    "title": "暗泉紅金追蝦圖",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success"
   }
 ]

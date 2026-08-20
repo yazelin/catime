@@ -11813,5 +11813,40 @@
     "prompt": "A ginger tabby cat awkwardly standing on its hind legs while pedaling the axle of an antique bicycle with its front paws, created in traditional Indian Gond painting folk art style. The composition features an infinite recursive Droste effect where the image repeats endlessly within itself. Textured with intricate dot and line patterns, mystical nature-inspired motifs, and bursting crystalline arcs of dynamic amber water splashes frozen mid-motion. Illuminated by a harsh direct on-camera flash with blown-out highlights and sharp, hard shadows. Autumn color palette of warm amber, deep burnt orange, and rich golden yellow. The text '2026-08-20 06:24 UTC' is clearly rendered in a clean corner timestamp. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "在芬蘭黑帕蘭達與科拉里之間，鐵路公司重啟了停運數十年的跨國鐵路線客運服務，讓旅客能一路搭乘火車橫跨歐洲漫遊至葡萄牙。",
     "comment_id": 5352245184
+  },
+  {
+    "number": 3062,
+    "comment_id": 5352835767,
+    "idea": "採用米提拉畫風格，一隻四腳踩地的貓咪在深層無光的地底水道中，俯身探頭追逐著兩隻完全無眼的奇特甲殼新蝦；畫面邊緣圍繞著配色條邊框，配合背光輪廓線與立體刺繡盤花肌理，彰顯出慶典般的中國紅金色彩結構。",
+    "news_inspiration": [
+      "日本研究團隊在地下水系統中發現了兩種完全沒有眼睛的新種蝦類甲殼動物，揭示了獨特的地下生態系統。",
+      "奧地利維也納大學的最新腦部掃描研究證實，狗能精準識別人類微笑並激活大腦中的獎勵機制區域。",
+      "芬蘭鐵路公司重新啟用跨國鐵路連接，讓旅客現在能一路乘坐火車從芬蘭北部出發，經過多國轉乘直達葡萄牙南部。",
+      "美國太空總署（NASA）的毅力號火星探測車傳回歷史性影像，捕捉到地球在約1.95億英里外的火星衛星影子上空逐漸消失的奇觀。"
+    ],
+    "style_picks": {
+      "art_style": "Madhubani Painting",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "inspiration": "日本研究團隊在地下水系統中發現了兩種完全沒有眼睛的新種蝦類甲殼動物，揭示了獨特的地下生態系統。",
+    "story": "古老地底水脈的紅金色波光間，敏銳的貓咪踏著潮濕岩石，專注地追蹤著悄然游過的盲眼新種奇蝦。背光將牠的鬚毛與脊背勾勒出一道熠熠金邊，宛如刺繡般隆起於漆黑的水域之中。在這片被世人遺忘的地下王國裡，無聲的獵捕成了這幅民俗畫卷中最生動的章節。",
+    "prompt": "Madhubani painting style illustration, Indian folk art aesthetic. A quadrupedal cat crouching on damp rocks in a pitch-black subterranean waterway, leaning forward to chase two eyeless blind shrimp. Backlighting with rim light, glowing silhouette edges along the cat's fur and back. Deep three-dimensional satin-stitch blossoms, raised embroidered coiled-flower texture, tactile gold-couched petals on dark ornate textile surface. Festive red and gold palette, auspicious Chinese red dominance with bright gold accents. Symmetrical composition, flanked on both sides by vertical color palette swatch bars in portfolio presentation format. Visually displaying the date and time '2026-08-20 07:31 UTC' neatly integrated within the layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "暗泉紅金追蝦圖",
+    "avoid_list": [
+      "伸出前爪撥弄物件",
+      "鑄鐵雕花鏤空構件",
+      "印有UTC時間戳記",
+      "藍青與黃橙互補色調",
+      "斑紋虎斑貓主題",
+      "發光絲流與焦散光束",
+      "微縮與巨大物體對比",
+      "嚴格限定繁體中文或英文",
+      "藝術風格多格拼貼構圖",
+      "黑光螢光與發光昆蟲",
+      "菜園與採收作物場景"
+    ]
   }
 ]
