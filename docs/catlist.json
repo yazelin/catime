@@ -28984,5 +28984,16 @@
     "timestamp": "2026-08-21 16:18 UTC",
     "status": "success",
     "number": 3094
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-21_1718_UTC.webp",
+    "character_name": "麻糬",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3095,
+    "title": "霓光蒸氣夜巡記",
+    "inspiration": "original",
+    "timestamp": "2026-08-21 17:18 UTC",
+    "character": "mochi"
   }
 ]

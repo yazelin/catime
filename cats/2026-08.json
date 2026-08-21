@@ -12959,5 +12959,44 @@
     ],
     "prompt": "A retro vintage cross processing print photograph of an overturned truck on a Rhode Island highway during the surreal 'Squid Apocalypse'. A smooth tabby cat with a sculpted clay texture and handmade ceramic feel curiously pats a vibrant yellow squid on the deep cool blue asphalt with its pink paw pad. Golden squids are scattered across the road in a recursive Droste effect, repeating into an infinite self-referential loop. Dramatic backlighting with rim light, glowing silhouette edges outlining the cat. Experimental color shifts, unpredictable color casts, heightened contrasts, striking blue and yellow complementary tones. The date and time '2026-08-21 16:18 UTC' is visibly imprinted as a classic retro camera timestamp in the corner. Shot on 35mm lens, f/2.8, cross-processed film stock grain, sharp focus. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 3094
+  },
+  {
+    "idea": "在充滿合成波風格的復古街角便利商店中，畫面以分割畫面呈現：一側是麻糬蹲坐在發熱包子蒸籠頂端，另一側是百葉窗條紋光映照的藍黃互補色霓虹街道與流動的發光絲流。",
+    "avoid_list": [
+      "強制透視手部伸展",
+      "四足匍匐極限滑行",
+      "古董懷錶或齒輪零件",
+      "充氣膨脹質感場景",
+      "月光照射與銀白微光",
+      "環形燈與圓形 catchlight",
+      "交叉沖洗復古風格",
+      "酒精墨水或墨水擴散渲染",
+      "深海廢墟與發光珊瑚",
+      "溫室與花海背景",
+      "魚眼鏡頭強烈桶形失真",
+      "粉紫棉花糖雲朵與浮島"
+    ],
+    "comment_id": 5373058675,
+    "character_name": "麻糬",
+    "number": 3095,
+    "title": "霓光蒸氣夜巡記",
+    "prompt": "A synthwave illustration of a split view composition with a sharp vertical cut line. On the left, a chubby four-legged shorthair cat named Mochi sits atop a warm, glowing steamed bun display case inside a retro convenience store. The cat has a white base coat, amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange patch on its upper back, a distinct orange mask covering only the right side of its face while the left face remains pure white, an orange right front paw, and a pure white left front paw. The cat is staring intently at meat buns inside the glass case. The right side shows a blue and yellow complementary neon street outside, seen through venetian blind striped lighting with hard parallel light-and-shadow bands, luminous energy filaments, and glowing light strands streaming across the scene. A digital timestamp reading '2026-08-21 17:18 UTC' is visually displayed in glowing neon numbers in the corner. 1980s sci-fi nostalgia aesthetic with vivid contrasting cool blue and warm yellow hues. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [
+      "美國伊利諾州芝加哥市郊出現一隻極為罕見且同時擁有雌雄雙色羽毛的刺歌雀，吸引眾多鳥類愛好者前來觀賞。",
+      "丹麥哥本哈根推行了一座「真人圖書館」，讓民眾可以像借閱書籍一樣「借閱」不同背景的人進行深度聊天交流。",
+      "英國倫敦的大英博物館與學校合作舉辦競賽，邀請學童發揮創意為重現於世的百年貝葉掛毯設計想像中的最終結局。",
+      "科學家在澳大利亞凱恩斯附近的大堡堡礁，透過公民科學計畫發現了一片面積相當於半個足球場大的巨型珊瑚群落。",
+      "奧地利維也納的科學家發現一隻名為 Veronika 的母牛竟然會善用工具來清潔與犒賞自己，刷新了人類對家畜智商的認知。"
+    ],
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Split View",
+      "lighting": "Venetian Blind Light",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "character": "mochi",
+    "story": "圓滾滾的麻糬趁著店員補貨時，靈巧地跳上熱騰騰的包子保溫機頂端取暖兼盯梢。牠琥珀色的大眼睛直勾勾盯著透明玻璃裡的鮮肉包，肚皮微微貼著溫熱的機頂，享受著專屬於牠的深夜宵夜巡邏時光。"
   }
 ]
