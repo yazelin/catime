@@ -12998,5 +12998,42 @@
     },
     "character": "mochi",
     "story": "圓滾滾的麻糬趁著店員補貨時，靈巧地跳上熱騰騰的包子保溫機頂端取暖兼盯梢。牠琥珀色的大眼睛直勾勾盯著透明玻璃裡的鮮肉包，肚皮微微貼著溫熱的機頂，享受著專屬於牠的深夜宵夜巡邏時光。"
+  },
+  {
+    "number": 3096,
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Knolling Photography",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    },
+    "story": "靈感來自丹麥真人圖書館的奇想，這座極地故事館將每個人的人生打造成可借閱的實體故事盒。這隻擔任特聘管理員的貓咪，每日以平視視角細心將各項物件歸位，讓每位來訪者都能找到專屬於自己的真人生命繪卷。",
+    "news_inspiration": [
+      "在美國紐約州波夕河周邊，八名青少年利用他們在社群媒體上的影響力號召號召志工，成功發起並完成大規模的河川清潔活動。",
+      "丹麥一名男子意外收到一張遲到了 26 年的明信片，這是他已故父母當年旅遊時從哥本哈根寄出的珍貴寄語。",
+      "在墨西哥伊達爾戈州，一名失蹤於未開發水下洞穴長達 15 天的漁民，最終被專業潛水隊奇蹟般地平安救援出洞。",
+      "英國拉夫堡的體育俱樂部舉辦了一場趣味「淨街競速賽」，選手們在短時間內攜手清除並分類了城鎮中超過 280 公斤的垃圾。",
+      "丹麥哥本哈根推行了一項創新的「真人圖書館」計畫，讓民眾可以借閱「真人」並聆聽彼此獨特的生活故事以促進文化交流。"
+    ],
+    "avoid_list": [
+      "強制透視手部伸展",
+      "四足匍匐極限滑行",
+      "古董懷錶或齒輪零件",
+      "充氣膨脹質感場景",
+      "月光照射與銀白微光",
+      "環形燈與圓形 catchlight",
+      "交叉沖洗復古風格",
+      "酒精墨水或墨水擴散渲染",
+      "深海廢墟與發光珊瑚",
+      "溫室與花海背景",
+      "魚眼鏡頭強烈桶形失真",
+      "粉紫棉花糖雲朵與浮島"
+    ],
+    "inspiration": "丹麥哥本哈根推行了一項創新的「真人圖書館」計畫，讓民眾可以借閱「真人」並聆聽彼此獨特的生活故事以促進文化交流。",
+    "idea": "在雙色調與螢光燈照射下，呈現迷幻風格的 Knolling 平面排版攝影，一隻身上結著冰霜結晶的摺耳貓正認真地用爪子整理推開長廊上的各種古怪物件。",
+    "comment_id": 5373673021,
+    "prompt": "A knolling flat lay photograph shot from an overhead top-down perspective using a 50mm lens at f/8 for sharp focus. A Scottish Fold cat with delicate ice crystal formations and translucent frost patterns coating its fur is actively using its paw to push and organize odd, curious objects into a strict 90-degree grid layout across a long surface. Psychedelic swirling distorted accents meet clean institutional organization under flat overhead 5000K fluorescent lighting with minimal shadows. A bold duotone color treatment in high-contrast neon cyan and magenta dominates the scene. A small archival metal label neatly stamped with the English text '2026-08-21 18:20 UTC' is arranged alongside the knolled items. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "極夜借閱室的排列詩篇"
   }
 ]
