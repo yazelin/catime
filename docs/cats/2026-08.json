@@ -12792,5 +12792,38 @@
       "四足貓咪探索科技或科學實驗"
     ],
     "title": "月夜海深處的微光探索"
+  },
+  {
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Moonlight",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "墨墨",
+    "title": "月下時光陳列室",
+    "story": "深夜的古董店褪去了白日的喧囂，墨墨靜靜凝視著桌面上如同星盤般規整陳列的古董零件。月光灑落於牠緞面般的黑毛與左耳的金環上，一道道如絲線般流動的光繪光暈在復古褪色調的空間裡盤旋，彷彿時間正悄然為牠停駐。",
+    "news_inspiration": [],
+    "comment_id": 5369767835,
+    "prompt": "A overhead flat lay Knolling style photo in a quiet antique clockwork restoration workshop. Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, warm brown undertones, luminous golden-amber eyes, long white whiskers, a tiny white tuft on its chest, and a single small gold hoop earring on its left ear, sits elegantly at the exact center. Surrounding the cat are brass gears and sheer translucent gauze netting neatly arranged at 90-degree angles in an organized grid layout. Swirling light painting luminescence with glowing golden trails and ribbons of light circle around the subject, captured with a long exposure technique. The scene is illuminated by cool blue moonlight creating a gentle silvery glow, blended with a retro faded color palette and low contrast nostalgic warmth. Shot on a 35mm lens, f/2.8, with natural shutter blur on the light trails and subtle film grain. In the corner of the frame, the text '2026-08-21 12:21 UTC' is clearly and visibly displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "number": 3090,
+    "avoid_list": [
+      "前爪伸出伸手動作",
+      "四足匍匐低姿態",
+      "時間戳記文字標籤",
+      "繁體中文與英文限定指示",
+      "青橙電影調色",
+      "竹影翠綠色調",
+      "硬光強烈日照與硬影",
+      "魚眼超廣角透視 distortion",
+      "兩樣藝術風格融合 (Fusion of style)",
+      "微型機器人與水花互動",
+      "浮動墨水流動紋理",
+      "充氣蓬鬆羽絨質感"
+    ],
+    "idea": "在幽靜的古董鐘錶修復工坊裡，採用光繪攝影與俯視 Knolling 排列風格，黑貓墨墨優雅地端坐於整齊鋪排的黃銅齒輪與薄透紗網防塵布正中央，夜間長曝光的光繪光軌與清冷月光交織出流暢的金色線條。",
+    "character": "momo"
   }
 ]
