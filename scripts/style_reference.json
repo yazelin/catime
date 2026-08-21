@@ -1009,6 +1009,26 @@
       "zh": "斑駁金箔花卉混媒",
       "en": "Distressed Gold-Leaf Floral Mixed-Media",
       "prompt": "distressed gold-leaf floral mixed-media, mottled metallic gilding over painted blossoms, layered collage with weathered patina and cracked foil, ornate decorative artwork, opulent textured surface"
+    },
+    {
+      "zh": "繁飾水彩Q版娃娃插畫",
+      "en": "Ornate Watercolor Chibi Doll Illustration",
+      "prompt": "ornate watercolor chibi doll illustration, big-headed doll-like character in lavishly decorated costume, delicate transparent washes, intricate lace ribbons and floral trims, sweet Victorian fairytale charm"
+    },
+    {
+      "zh": "軍裝少女插畫",
+      "en": "Military Uniform Girl Illustration",
+      "prompt": "military uniform girl illustration, anime girl in ornate tailored military uniform, epaulettes braided cords and brass buttons, poised gallant stance, detailed regalia, polished character art"
+    },
+    {
+      "zh": "膠彩蓮池美人",
+      "en": "Nihonga Lotus Pond Beauty",
+      "prompt": "nihonga mineral-pigment painting, graceful beauty among a blooming lotus pond, flat layered opaque pigments, gold and malachite accents, serene classical East Asian elegance"
+    },
+    {
+      "zh": "粉彩生物形態幻獸",
+      "en": "Pastel Biomorphic Fantasy Creature",
+      "prompt": "pastel biomorphic fantasy creature, soft organic flowing forms, dreamy candy-toned gradients, whimsical otherworldly being, smooth sculptural rendering, gentle surreal charm"
     }
   ],
   "composition": [
@@ -1216,6 +1236,11 @@
       "zh": "玻璃容器置入構圖",
       "en": "Inside-the-Glass-Vessel Composition",
       "prompt": "inside-the-glass-vessel composition, tiny subject staged within a transparent jar or bottle, contained miniature world framing, refractive glass border"
+    },
+    {
+      "zh": "花簇環繞構圖",
+      "en": "Encircled-by-Blossoms Composition",
+      "prompt": "encircled-by-blossoms composition, subject framed on all sides by dense flower clusters, lush floral wreath border, blooms pressing into the frame, romantic botanical surround"
     }
   ],
   "lighting": [
@@ -1717,6 +1742,11 @@
       "zh": "藍黃互補色",
       "en": "Blue and Yellow Complementary",
       "prompt": "blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy, striking graphic vibrancy"
+    },
+    {
+      "zh": "靛藍緋紅白",
+      "en": "Navy Crimson and White",
+      "prompt": "navy, crimson and white palette, deep indigo grounds with vivid crimson accents and crisp white highlights, bold tricolor contrast, striking graphic harmony"
     }
   ]
 }
