@@ -12618,5 +12618,41 @@
       "color_palette": "Warm Tones (Amber / Autumn)"
     },
     "idea": "這是一幅採用彩色玻璃風格製作的作品，一隻母牛正伸長舌頭舔舐壓克力塊，一隻薑黃色斑紋貓則躍起爪子，好奇地抓取懸掛在天花板上的工具木尺。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Sports Panning Shot",
+      "composition": "Centered Subject Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Teal and Orange"
+    },
+    "comment_id": 5366732572,
+    "prompt": "Sports panning photography of an orange and white cat high-speed surfing on a wave using an orange inflatable PVC board. The background features dynamic motion blur of the Chilangas FC blind football team training on the beach. High shutter speed captures action with a frozen subject dead center, balanced symmetrical framing, and clean surrounding space. Inflatable PVC board has a high-gloss, balloon-like surface with air-filled tension and puffy rounded forms. Cinematic lighting with volumetric light rays and dramatic shadows. Teal and orange color grading with warm tones against cool blue-green shadows, blockbuster film look with punchy contrast. Shot on a 35mm lens, f/2.8, shallow depth of field, action photograph. Visually displaying the date and time '2026-08-21 07:33 UTC' overlay in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一副運動追焦風格作品，一隻橘白花色的貓咪踩著充氣 PVC 浮板在浪頭上高速滑行，背景則是墨西哥城 Chilangas FC 盲人足球隊在海邊沙灘訓練的動態 blur。",
+    "story": "浪花飛濺的海岸邊，貓咪敏捷地平衡於橘色 PVC 充氣板上，聚精會神地追逐著隊員腳下傳出的響鈴足球。教練與球員在青橙色調的日光與陰影間穿梭，海風與加油聲交織成一首充滿動感與溫情的夏日樂章。",
+    "number": 3085,
+    "news_inspiration": [
+      "墨西哥哥倫巴斯：一頭名為「韋羅妮卡」的母牛因被科學家拍攝到能熟練使用工具而震驚研究人員，成為史上首例被記錄會使用工具的牛隻。",
+      "墨西哥墨西哥城：當地成立了一支名為 Chilangas FC 的女子盲人足球隊，即將代表國家前往巴西參加美洲盃賽事，開創該國女子身障體育的新里程碑。",
+      "希臘雅典：透過「颱風計畫」的持續努力，志工與團隊已成功清理了數千條海岸線並清除上千噸海洋垃圾，讓多座島嶼的海灘煥然一新。",
+      "智利復活節島：當地原住民團體獲得了高達74萬平方公里海洋保護區的大部分管理投票權，創下全球由原住民自主管理規模最大的海洋保護區之一。"
+    ],
+    "avoid_list": [
+      "繁體中文與英文限定標籤",
+      "故事插畫分格佈局",
+      "模切貼紙拼貼風格",
+      "伸爪抓取懸掛物件或微型機器人",
+      "低頭專注嗅聞物件",
+      "朱紅與留白高對比配色",
+      "電影感光束與彩虹光斑",
+      "黑白畫意攝影融合厚塗油彩",
+      "歷史天文與核能控制室場景",
+      "微縮模型與移軸鏡頭效果",
+      "金箔與斑駁金屬肌理",
+      "四足貓咪探索科技或科學實驗"
+    ],
+    "inspiration": "墨西哥墨西哥城：當地成立了一支名為 Chilangas FC 的女子盲人足球隊，即將代表國家前往巴西參加美洲盃賽事，開創該國女子身障體育的新里程碑。",
+    "title": "浪尖上的追風者"
   }
 ]
