@@ -29031,5 +29031,18 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-21_2112_UTC.webp",
     "title": "瓷盤裡的雙重秋光",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "title": "貓咪日常",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "season": "summer",
+    "timestamp": "2026-08-21 22:11 UTC",
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-21_2211_UTC.webp",
+    "inspiration": "original",
+    "status": "success",
+    "is_seasonal": true,
+    "number": 3100,
+    "character": "lingling"
   }
 ]

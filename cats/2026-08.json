@@ -13134,5 +13134,40 @@
       "texture": "Sand Texture",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "comment_id": 5375945700,
+    "title": "貓咪日常",
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "style_picks": {
+      "art_style": "Dreamy Pastel Editorial",
+      "composition": "Side Profile Portrait",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Crimson and Black"
+    },
+    "avoid_list": [
+      "俯視 Knolling 平面排版",
+      "百葉窗條紋光影",
+      "貓用爪子撥弄推碰物件",
+      "工坊或修復工作檯場景",
+      "黃銅齒輪與發條零件",
+      "暖色調琥珀與秋日色彩",
+      "金色輪廓光與背光剪影",
+      "半透明紋理與鏤空質感",
+      "35mm 鏡頭復古底片顆粒",
+      "流動光繪光軌與發光絲流",
+      "藍黃互補色對比調色",
+      "復古褪色懷舊氛圍"
+    ],
+    "news_inspiration": [],
+    "season": "summer",
+    "prompt": "A cute cat with the date and time '2026-08-21 22:11 UTC' displayed in the image, high quality, detailed",
+    "character_name": "鈴鈴",
+    "idea": "",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "number": 3100,
+    "character": "lingling"
   }
 ]
