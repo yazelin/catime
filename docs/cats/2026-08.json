@@ -13103,5 +13103,36 @@
     "title": "琥珀光裡的裁縫絮語",
     "comment_id": 5374844878,
     "story": "晨曦穿透工作坊的百葉窗，強烈的體積光灑滿滿布琥珀與秋日褐色的空間。前景巧妙疊合著半透明的壓花植物標本與乾燥葉脈，模特兒在遠處安靜試衣，而貓咪專注撥弄飄落布條的優雅姿態成為構圖的核心焦點。"
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [],
+    "story": "古老的大宅裡，花貓靜靜地凝視著青花瓷盤裡的倒影，輪廓光將牠的毛髮鍍上一層金黃色的秋日暖意。倒影中的貓影彷彿擁有自己的意識，在粗糙如沙的釉面上輕輕回應著牠的觸碰。",
+    "avoid_list": [
+      "強制透視手部伸展",
+      "四足匍匐極限滑行",
+      "古董懷錶或齒輪零件",
+      "充氣膨脹質感場景",
+      "月光照射與銀白微光",
+      "環形燈與圓形 catchlight",
+      "交叉沖洗復古風格",
+      "酒精墨水或墨水擴散渲染",
+      "深海廢墟與發光珊瑚",
+      "溫室與花海背景",
+      "魚眼鏡頭強烈桶形失真",
+      "粉紫棉花糖雲朵與浮島"
+    ],
+    "number": 3099,
+    "comment_id": 5375487878,
+    "title": "瓷盤裡的雙重秋光",
+    "prompt": "Artistic illustration blending traditional blue and white porcelain craft with a surreal mirror composition. An amber calico cat nudges a delicate blue and white porcelain plate on an ancient rustic wooden table with its paw. The plate features cobalt blue floral motifs on a white glazed base with a delicate crackle texture. Reflected inside the plate is an uncanny doppelganger cat silhouette facing it, composed of fine sand texture and desert dune ripples. Strong warm backlighting with dramatic golden rim light outlines the subject, casting cozy nostalgic warmth with an autumn palette of burnt orange and golden yellows. Subtly inscribed in neat, elegant English typography in the lower corner is the text '2026-08-21 21:12 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一幅結合青花瓷工藝與鏡像異我構圖的視覺視覺創作，一隻琥珀色花貓正用前爪推撥著秋日古木桌上的瓷盤，盤中映照出另一個擁有沙質紋理與背光輪廓的異界貓影。",
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Sand Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
