@@ -12654,5 +12654,40 @@
     ],
     "inspiration": "墨西哥墨西哥城：當地成立了一支名為 Chilangas FC 的女子盲人足球隊，即將代表國家前往巴西參加美洲盃賽事，開創該國女子身障體育的新里程碑。",
     "title": "浪尖上的追風者"
+  },
+  {
+    "number": 3086,
+    "avoid_list": [
+      "繁體中文與英文限定標籤",
+      "故事插畫分格佈局",
+      "模切貼紙拼貼風格",
+      "伸爪抓取懸掛物件或微型機器人",
+      "低頭專注嗅聞物件",
+      "朱紅與留白高對比配色",
+      "電影感光束與彩虹光斑",
+      "黑白畫意攝影融合厚塗油彩",
+      "歷史天文與核能控制室場景",
+      "微縮模型與移軸鏡頭效果",
+      "金箔與斑駁金屬肌理",
+      "四足貓咪探索科技或科學實驗"
+    ],
+    "news_inspiration": [
+      "在美國辛辛那提舉行的網球大師賽中，義大利選手弗拉維奧·科博利在比賽途中向球場要了一包巧克力糖果吃，隨後成功逆轉擊敗對手晉級四強。",
+      "美國麻省理工學院（MIT）的神經科學研究團隊發表最新發現，證實人類大腦的邏輯推理系統與語言能力是獨立運作的，即使患有嚴重失語症的人也能進行邏輯思考。",
+      "美國宇航局（NASA）的「毅力號」火星車從約1.95億英里外的火星表面，拍攝到了地球隱沒在火星微小衛星「火衛一」後方的罕見奇景。"
+    ],
+    "prompt": "A watercolor anime illustration with soft transparent washes and gentle bleeding edges on visible paper texture, depicting a healing slice-of-life scene. An energetic four-legged cat is pushing a giant, glowing bag of neon fluorescent chocolate candy with its front paws across a sleek night tennis court featuring a subtle carbon fiber weave texture. Eye-level frontal composition, straight-on symmetrical view with the cat facing forward under cool blue moonlight illumination and a gentle silvery glow. Electric pink, lime green, and hot cyan fluorescent accents pop against the quiet nighttime setting. In the corner, the digital timestamp text '2026-08-21 08:24 UTC' is clearly displayed in a neat, modern font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5367405916,
+    "title": "月光下的甜點逆轉勝",
+    "story": "夜幕降臨的賽場靜悄悄的，唯有冷冽月光照亮了帶有碳纖維質感的硬地球場。這隻貓咪趁著比賽暫停的隙縫，踩著輕盈的四足步伐跑上球場，將專屬於牠的甜點轉化為逆轉局勢的秘密能量來源。",
+    "inspiration": "在美國辛辛那提舉行的網球大師賽中，義大利選手弗拉維奧·科博利在比賽途中向球場要了一包巧克力糖果吃，隨後成功逆轉擊敗對手晉級四強。",
+    "idea": "這是一幅採用水彩動漫插畫風格創作的作品，一隻四足貓咪在月光照射下的夜間網球場上，興奮地用前腳推著一包巨大的霓虹螢光色巧克力糖果。",
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Moonlight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
