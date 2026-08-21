@@ -12439,5 +12439,41 @@
       "高飽和螢光色與紫外線燈光"
     ],
     "idea": "在原子龐克風格的故事插畫分格中，一隻橘貓正伸長軀體翻越龐大的真空管運算機巨塔，試圖叼取夾在發光電路板之間的微型機械零件。"
+  },
+  {
+    "story": "機翼內部精巧的發條齒輪正緩緩咬合，四足黑貓機關偶低頭凝視著機腹下旋轉的小型衛星接收器。當客艙窗戶透出微弱暖光，貓偶背上的連動桿隨之輕跳，宛如在雲端航程中默默監控著穿梭天際的訊號。",
+    "title": "雲翼發條夜巡",
+    "inspiration": "卡達杜哈啟動夏日家庭旅遊季，卡達航空與當地觀光局推出孩童免費住宿與體驗活動，並首度為其波音787-9客機配備極速 Starlink 衛星網路服務。",
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Miniature Diorama",
+      "lighting": "Direct Flash",
+      "texture": "Film Grain",
+      "color_palette": "Vermilion and White"
+    },
+    "idea": "在以朱紅留白為基調的微縮立體模型中，一隻手工雕琢的手作機關偶黑貓蹲伏於微型客機機翼上，透過閃光燈直打與細緻的底片顆粒，展現木質齒輪運轉的質樸節奏。",
+    "prompt": "A candid 35mm photograph of a handmade mechanical black cat figurine crouching on the wing of a miniature airplane model. The cat figurine features intricate wooden and copper gears, visible springs, and soft pastel patina, gazing down at a small spinning satellite dish under the fuselage. The miniature diorama features a bold vermilion and clean white palette with crisp graphic balance and negative space. Harsh direct on-camera flash creates blown-out highlights and hard shadows, revealing detailed analog film grain and subtle noise texture. The date and time '2026-08-21 02:16 UTC' is displayed in bright red text in the bottom right corner of the photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3080,
+    "news_inspiration": [
+      "根據巴西國家太空研究院公佈的最新衛星數據，巴西亞馬遜地區的森林伐木警報降至13年來的歷史新低，展現出顯著的保育成效。",
+      "西班牙各地在日落時分觀測到罕見的「金色日全食」，由於太陽接近地平線且受到氣層濾光影響，使原本銀白色的日冕呈現出耀眼的金色光芒。",
+      "科學家利用大腦掃描研究發現，狗狗能敏銳分辨人類高興、恐懼與悲傷的表情，其大腦高級區域對快樂的人類面孔會有明顯的獎勵反應。",
+      "卡達杜哈啟動夏日家庭旅遊季，卡達航空與當地觀光局推出孩童免費住宿與體驗活動，並首度為其波音787-9客機配備極速 Starlink 衛星網路服務。"
+    ],
+    "avoid_list": [
+      "黑光螢光點亮",
+      "專注地用嘴/爪子推動或叼著",
+      "黑白畫意攝影",
+      "倫勃朗光影特寫",
+      "液態金屬光澤",
+      "三點打光與高飽和鮮豔色",
+      "原子龐克故事分格佈局",
+      "微縮移軸視覺與鏡面遞迴",
+      "透光紙玻璃視覺質感",
+      "懷舊復古褪色色調",
+      "三花貓與布偶貓特寫",
+      "時間戳記標籤"
+    ],
+    "comment_id": 5364393857
   }
 ]
