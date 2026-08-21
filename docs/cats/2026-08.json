@@ -13169,5 +13169,36 @@
     "is_seasonal": true,
     "number": 3100,
     "character": "lingling"
+  },
+  {
+    "comment_id": 5376355403,
+    "avoid_list": [
+      "俯視 Knolling 平面排版",
+      "百葉窗條紋光影",
+      "貓用爪子撥弄推碰物件",
+      "工坊或修復工作檯場景",
+      "黃銅齒輪與發條零件",
+      "暖色調琥珀與秋日色彩",
+      "金色輪廓光與背光剪影",
+      "半透明紋理與鏤空質感",
+      "35mm 鏡頭復古底片顆粒",
+      "流動光繪光軌與發光絲流",
+      "藍黃互補色對比調色",
+      "復古褪色懷舊氛圍"
+    ],
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Frosted Paper-Glass",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Three-Point Lighting",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "高空觀測站外的風暴如潮水般湧動，貓咪將四肢收攏在冰涼的窗框檯面上，耳朵偶爾隨風聲微微震動。它與駐守的氣象員一同凝望著氣壓表上的數據變化，在無邊極夜裡共享著這份沉靜。",
+    "inspiration": "original",
+    "title": "極夜冰霜的音符",
+    "number": 3101,
+    "prompt": "Full-bleed frame-filling composition, translucent frosted glass-paper style illustration of a silver-white Maine Coon cat crouched closely beside a frosty observation window inside a polar weather station. The cat gazes intently at churning cool blue-teal blizzard winds outside. Soft-focus matte haze with hazy atmospheric softness, low-contrast ethereal finish, and a dreamy diffused blur creating a serene and calm mood. Classic three-point lighting setup featuring key light with soft shadows, fill light, and subtle rim light separation highlighting the cat's fur. Cool blue-teal color grading with icy undertones against a clean white background. In the lower corner of the observation window, the text '2026-08-21 23:12 UTC' is subtle and visually displayed in crisp digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用滿版特寫與霧面紙玻璃風格，一隻銀白色的緬因貓貼伏在極地氣象站的冰霜觀察窗旁，凝視著外頭翻騰的藍青色極地風雪。三點打光搭配冷色調藍青光影，形塑出柔焦霧面的沉靜氣氛。"
   }
 ]
