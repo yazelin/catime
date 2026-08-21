@@ -12542,5 +12542,45 @@
     "prompt": "A torn paper collage effect art piece featuring a black cat with a glossy plastic toy texture and vinyl figure aesthetic, playfully tapping a huge armillary sphere with its paw inside an ancient observatory. Styled in a Mucha-style arched frame composition with a symmetrical Art Nouveau decorative border and integrated floral motifs. Illuminated by soft window light falling gently from a side window with Vermeer-like directional daylight and smooth falloff into shadows. Rich festive red and gold palette dominated by vivid Chinese red with bright gold accents. The date and time '2026-08-21 04:26 UTC' is clearly visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "這幅創作採用撕紙拼貼效果，融合穆夏式拱框構圖與窗邊柔光，呈現一隻玩具質感且帶有亮面塑膠光澤的黑貓正在古老天文台裡用爪子撥動巨大渾天儀的奇幻畫面，整體配色呈現熱烈的中國紅金。",
     "story": "古老天文台的拱窗透入晨曦柔光，將拱框內的黑貓與璀璨的紅金儀器映照得如玩具般精緻。黑貓好奇地伸出前爪輕撥渾天儀的齒輪，撕紙拼貼層層堆疊出星軌轉動的詩意節奏。那抹紅金光澤在窗邊流轉，彷彿整座宇宙的奧祕都在牠這一撥之間靜靜甦醒。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Leading Lines Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Teal and Orange"
+    },
+    "season": "summer",
+    "prompt": "Fusion of pixel art and paper quilling art techniques, featuring a large stocky brown tabby cat named Captain with bold black stripes, scruffy untidy coarse fur, wearing a straw hat. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric, while its right eye is a single piercing emerald green. Features a prominent V-shaped notch on the left ear, a faded red bandana tied loosely around the neck, a white chest bib, and white mitten paws. The cat is crouching on a wooden bench along a sunlit breakwater, extending a paw to hold down a fishing rod. In the shallow sea reef above the breakwater, a unique walking shark with four fins slowly swims and walks along the rocks. Detailed intricate coiled paper strips and delicate curling loops form 3D dimensional textures mixed with crisp blocky pixels. Leading lines composition with converging perspective lines guiding depth toward the scene. Butterfly lighting with soft even illumination. Teal and orange color grading with blockbuster film look. The date and time '2026-08-21 05:22 UTC' is clearly and visually displayed in English in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "浪花順著防波堤的線條向遠方延伸，戴著草帽與深色眼罩的船長正沉穩地守著釣竿，享受夏日海風吹拂。突然間，水下出現了一隻用四隻鰭在海底步行的奇怪小鯊魚，船長銳利的翠綠色右眼微微一亮，這場夏日釣魚之旅頓時變得妙趣橫生。",
+    "idea": "在像素藝術與衍紙工藝融合的陽光防波堤上，一隻大骨架虎斑貓「船長」戴著草帽正伏臥在木椅上伸出貓掌按住釣魚竿，防波堤上方恰好有一條會用四鰭在淺海礁石間「散步」的奇特行走鯊魚緩緩游過，展現獨特的青橙電影調與引導線構圖。",
+    "character": "captain",
+    "avoid_list": [
+      "黑光螢光點亮",
+      "專注地用嘴/爪子推動或叼著",
+      "黑白畫意攝影",
+      "倫勃朗光影特寫",
+      "液態金屬光澤",
+      "三點打光與高飽和鮮豔色",
+      "原子龐克故事分格佈局",
+      "微縮移軸視覺與鏡面遞迴",
+      "透光紙玻璃視覺質感",
+      "懷舊復古褪色色調",
+      "三花貓與布偶貓特寫",
+      "時間戳記標籤"
+    ],
+    "news_inspiration": [
+      "日本北海道：東洋大學研究團隊發現當地的長爪鼩鼱在寒冬中會將「鼻子變大」以幫助吸入的冷空氣加溫，展現了獨特的生物禦寒適應力。",
+      "巴西外海：國際海洋科研團隊在南大西洋中層深海區域進行探勘，透過先進水下攝影與基因技術一舉發現了31種全新的奇特海洋生物。",
+      "印度比哈爾邦：科學家依據社群短影音中的線索在地下水井展開搜索，成功鑑定出一種完全適應黑暗環境且雙眼退化的全新地下鰻魚物種。",
+      "巴布亞紐幾內亞米爾恩灣：生態學家在當地的淺水珊瑚礁區正式發表了一種能用四隻鰭在海床上緩慢「散步」的全新行走鯊魚物種。"
+    ],
+    "is_seasonal": true,
+    "number": 3083,
+    "comment_id": 5365560706,
+    "inspiration": "巴布亞紐幾內亞米爾恩灣：生態學家在當地的淺水珊瑚礁區正式發表了一種能用四隻鰭在海床上緩慢「散步」的全新行走鯊魚物種。",
+    "character_name": "船長",
+    "title": "夏日防波堤的奇妙遭遇"
   }
 ]
