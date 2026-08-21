@@ -12825,5 +12825,41 @@
     ],
     "idea": "在幽靜的古董鐘錶修復工坊裡，採用光繪攝影與俯視 Knolling 排列風格，黑貓墨墨優雅地端坐於整齊鋪排的黃銅齒輪與薄透紗網防塵布正中央，夜間長曝光的光繪光軌與清冷月光交織出流暢的金色線條。",
     "character": "momo"
+  },
+  {
+    "title": "糖霜花瓣裡的甜夢",
+    "inspiration": "在西班牙加泰隆尼亞，一名點心師耗時四個月製作出一座重達500公斤、帶有數萬朵糖漿花瓣的巨型婚禮蛋糕。",
+    "number": 3091,
+    "idea": "一隻斑紋貓穿梭於龐大的糖漿花瓣雕塑間，專注地舔舐著巨大的結婚蛋糕，整體呈現柯達 Portra 底片的細膩色調與朱紅留白色彩，並以極低角度捕捉星雲輝光穿透蕾絲鏤空質感細節的幻彩光影。",
+    "news_inspiration": [
+      "在立陶宛維爾紐斯，超過150隻柯基犬聚集參加國際柯基犬大賽，在賽道上短腿奔跑並比拼造型。",
+      "在美國芝加哥，超過九萬隻黃色橡皮鴨被倒入芝加哥河進行競賽，為特奧會進行趣味籌款。",
+      "在西班牙加泰隆尼亞，一名點心師耗時四個月製作出一座重達500公斤、帶有數萬朵糖漿花瓣的巨型婚禮蛋糕。",
+      "在日本，科學家在地下水中發現兩種完全沒有眼睛的新蝦類物種，展現奇特的地下生態演化。"
+    ],
+    "story": "在加泰隆尼亞的糕點工作坊裡，數萬朵由糖漿雕琢而成的鏤空花瓣交織成一座巨大的甜點城堡。貓咪優雅地踩在白瓷檯面上，昂頭細細品嚐著剛雕刻完成的朱紅花芯，任由星雲般的微光透過糖霜花瓣傾瀉而出。",
+    "avoid_list": [
+      "前爪伸出伸手動作",
+      "四足匍匐低姿態",
+      "時間戳記文字標籤",
+      "繁體中文與英文限定指示",
+      "青橙電影調色",
+      "竹影翠綠色調",
+      "硬光強烈日照與硬影",
+      "魚眼超廣角透視 distortion",
+      "兩樣藝術風格融合 (Fusion of style)",
+      "微型機器人與水花互動",
+      "浮動墨水流動紋理",
+      "充氣蓬鬆羽絨質感"
+    ],
+    "prompt": "An extreme low angle photo shot on Kodak Portra 400 with 35mm lens, f/1.8, warm film tones, subtle grain, soft focus, and dreamy nostalgic atmosphere. Looking up from a dramatic towering perspective, a tabby cat is licks a giant wedding cake, stepping around massive syrup petal sculptures with intricate lace openwork texture, delicate floral cutout patterns, and fine translucent filigree. Ethereal purple and blue space light, nebula cosmic glow, soft colorful starfield illumination, and glowing particles with galactic haze pass through the cake's translucent details, creating dynamic, translucent filigree highlights. Color scheme features a vermilion and white palette with bold cinnabar red against clean negative-space white for a minimalist oriental balance and crisp graphic elegance. In a corner of the frame, the text '2026-08-21 13:36 UTC' is visibly displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5370490241,
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Extreme Low Angle",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Vermilion and White"
+    }
   }
 ]
