@@ -12689,5 +12689,36 @@
       "texture": "Carbon Fiber",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文限定標籤",
+      "故事插畫分格佈局",
+      "模切貼紙拼貼風格",
+      "伸爪抓取懸掛物件或微型機器人",
+      "低頭專注嗅聞物件",
+      "朱紅與留白高對比配色",
+      "電影感光束與彩虹光斑",
+      "黑白畫意攝影融合厚塗油彩",
+      "歷史天文與核能控制室場景",
+      "微縮模型與移軸鏡頭效果",
+      "金箔與斑駁金屬肌理",
+      "四足貓咪探索科技或科學實驗"
+    ],
+    "title": "墨韻羽紋下的極速滑行",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Fisheye Lens",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Crimson and Black"
+    },
+    "number": 3087,
+    "prompt": "A dynamic cat in a low four-legged creeping pose powerfully sliding across a massive inflated padded ice rink made of glossy puffy quilted down texture with plump air-filled volume and soft bulging stitched channels. Captured in Suminagashi Japanese paper marbling art style featuring floating concentric ink patterns and delicate swirls. Fisheye wide-angle lens with strong barrel distortion creates an exaggerated foreground and an intense 360-degree feel. Lit by harsh midday sunlight casting dramatic hard edge shadows and high contrast visual intensity. Rendered in a strict crimson and black palette of deep blood-red against jet black. The date and time '2026-08-21 09:24 UTC' is clearly visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "story": "正午強烈的陽光穿透高空，將緋紅與烏黑的墨跡波紋投射在蓬鬆柔軟的羽絨面上。這隻貓咪緊繃著四肢，利用羽絨墊的反彈力道在曲面上滑行，極限伸展的身軀在魚眼鏡頭下呈現出張力十足的動態感。",
+    "comment_id": 5368063321,
+    "idea": "在浮動的墨流水印藝術風格下，一隻貓咪以四足匍匐的姿態，在膨脹絎縫羽絨製成的巨大充氣溜冰場上奮力滑行，魚眼鏡頭與硬光日照勾勒出極致的緋紅烏黑光影變化。"
   }
 ]
