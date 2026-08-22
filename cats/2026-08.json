@@ -13589,5 +13589,35 @@
       "texture": "Pressed Botanical Layers",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "title": "滾筒漩渦裡的追逐者",
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀透視",
+      "熱成像紅外線光譜風格",
+      "盲人足球與響鈴球互動",
+      "緋紅與烏黑高對比色調",
+      "奧地利農場與乳牛工具合作",
+      "羊毛氈與立體刺繡纖維質感",
+      "搖曳燭光與跳動陰影",
+      "極地與暴風雪漫天飛雪",
+      "貓咪前爪撥弄或推動工具",
+      "鏡面反射與虹彩全息倒影",
+      "墨西哥暗黑水域與洞穴探索"
+    ],
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Teal and Orange"
+    },
+    "number": 3113,
+    "story": "深夜的自助洗衣店瀰漫著洗滌劑的清香，冷冽的螢光燈將洗滌槽與滾筒映照得別具巴洛克式的光影重量感。三色貓蹲伏在運轉的烘衣機前，雙眼死死盯著漩渦般旋轉的衣物，伸出前爪試圖按壓玻璃上飛逝的橘色衣角。壓花植物的微小葉脈寄生於潮濕的空氣與玻璃霧氣中，交織出一場屬於都市夜晚的奇幻喜劇。",
+    "comment_id": 5380383544,
+    "inspiration": "original",
+    "idea": "在巴洛克藝術風格下，一隻流浪三色貓在充滿螢光燈冷光的二十四小時自助洗衣店內，正專注地用前爪捕抓旋轉烘衣機玻璃門上的滾動衣物，呈現出螺旋漩渦構圖。內部充滿壓花植物疊層的獨特視覺質感，並以極具戲劇張力的青橙電影調色彩渲染全景。",
+    "news_inspiration": [],
+    "prompt": "Baroque art style image, a stray calico cat crouched inside a 24-hour laundromat, intently reaching its front paw toward tumbling clothes visible through the circular glass door of a spinning dryer, creating a dramatic spiral vortex composition. Cinematic low angle with a centered vanishing point and dizzying sense of depth. Overhead fluorescent lighting casts a neutral white cold glow, creating dramatic chiaroscuro with deep shadows. The entire scene is layered with a pressed botanical herbarium texture of flattened dried flowers and translucent leaves woven into the foggy glass and humid air. Vibrant teal and orange color grading with cool blue-green shadows and rich warm highlights. Display the text '2026-08-22 12:15 UTC' clearly in a digital clock overlay on the wall. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
