@@ -13682,5 +13682,39 @@
     "idea": "融合米提拉畫細膩線條與衍紙藝術立體捲紋的視覺風格，從正上方俯瞰一隻橘白斑紋貓正俯臥在鋪滿乾燥藥草與繁花的香料研磨工坊中，專注地用下巴輕推碾磨石臼中的草藥碎屑，周圍沐浴在柔和的燭光與淡雅的莫蘭迪色調之中。",
     "inspiration": "original",
     "prompt": "A top-down overhead flat-lay view of an orange and white tabby cat crouching inside an apothecary spice workshop, gently nudging dried herb fragments in a stone mortar with its chin. The scene blends Madhubani painting style with paper quilling art, featuring intricate line work, geometric and floral patterns, and delicate 3D coiled paper textures. Soft, flickering candlelight casts gentle shadows across dense dried herbs and blossoms. Styled in a Morandi muted color palette with desaturated soft pastels and dusty grey undertones. Elegantly displayed in a corner of the image is the text '2026-08-22 14:10 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "news_inspiration": [
+      "在墨西哥墨西哥城，首支全盲女性足球隊「Chilas FC」正展開密集訓練，準備代表國家出戰女子盲人足球美洲盃。",
+      "在印度那加蘭邦的維斯威瑪，當地一所公立中學推行「校園農場」計畫，讓學生親手種菜並直接作為午餐食材。",
+      "在希臘雅典及周邊島嶼，推行多年的「颱風計畫」已成功清理超過 4,800 條海岸線並清除上千噸垃圾，大幅改善海洋環境。",
+      "在智利復活節島，當地原住民成功取得周邊廣達 74 萬平方公里海洋保護區的管理主導權，創下全球原住民海洋保育的里程碑。"
+    ],
+    "avoid_list": [
+      "熱成像風格",
+      "魚眼扭曲視角",
+      "巴洛克藝術風格",
+      "壓花植物疊層",
+      "貓爪伸向/觸碰物體",
+      "前腳踏著/踩著物件",
+      "螢光燈冷光/日光燈",
+      "深色背景與強烈光影對比",
+      "冷暖色調強烈互補",
+      "詳細時間戳記懸浮於畫面角落"
+    ],
+    "story": "志工們在雅典海岸奮力清理海洋垃圾，而棲息於港邊的花貓則把被浪花捲上岸的廢棄瓶蓋當成了專屬獵物。硬光日照下，牠躍動的身影與水彩潑濺墨點交織，在地中海秋日暖陽中繪出一幅充滿生命力的淨灘風景。",
+    "prompt": "A multi-view showcase layout and design sheet arranged in clean labeled panels featuring front view, side view, back view, and detail close-up of a nimble calico cat chasing a plastic bottle cap in splashing azure waves along a Greek coastline. Japanese Suminagashi paper marbling effect with floating concentric ink patterns and delicate swirls integrated into the water textures, expressive watercolor splatters, ink-spray drips, and organic fluid stains. Illuminated by harsh midday Mediterranean sunlight casting hard-edge shadows with high contrast. Warm amber color grading with an autumn palette of golden yellows and burnt orange. Clean studio-inspired backdrop combined with gritty coastal elements. The text '2026-08-22 15:09 UTC' is clearly rendered in a neat English typographic label at the bottom corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "海浪與浮花",
+    "number": 3116,
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "inspiration": "在希臘雅典及周邊島嶼，推行多年的「颱風計畫」已成功清理超過 4,800 條海岸線並清除上千噸垃圾，大幅改善海洋環境。",
+    "idea": "在希臘海岸線的湛藍浪花邊，一隻三色花貓正靈巧地踩著水花追逐被海浪沖上岸的塑膠瓶蓋，畫面融合墨流（Suminagashi）的流暢紋樣與服裝多視角展示的排版構成。",
+    "comment_id": 5381094482
   }
 ]
