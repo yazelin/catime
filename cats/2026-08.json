@@ -13489,5 +13489,40 @@
     "title": "牛棚裡的彩繡合作曲",
     "inspiration": "在奧地利維也納，維也納獸醫大學的科學家記錄下一頭乳牛能熟練使用多種工具的罕見行為，顛覆了學界對農場動物認知智力的既有印象。",
     "idea": "在飽和藍黃互補色調與鮮明普普藝術風格下的維也納露天農場，一隻滿身立體刺繡盤花肌理的橘貓正用前腳踩著特製小型推車，將水桶滑動送到一頭乳牛面前。"
+  },
+  {
+    "inspiration": "丹麥哥本哈根的「真人圖書館」花園吸引眾多遊客，讓民眾能在花園中借閱「真人」進行深度跨文化交流與對話",
+    "title": "霓虹雨夜的心靈借閱",
+    "number": 3110,
+    "news_inspiration": [
+      "美國科學家通過核磁共振研究發現，狗狗能精準分辨人類的各種情緒表情。",
+      "奧地利獸醫學者紀錄到一頭名為維羅妮卡的乳牛學會使用工具，創下牛隻具備多用途工具使用能力的歷史首例。",
+      "英國隆堡的大學運動社團舉辦清掃競賽，多支隊伍在半天內於市區合力清力了高達 281 公里的社區垃圾。",
+      "丹麥哥本哈根的「真人圖書館」花園吸引眾多遊客，讓民眾能在花園中借閱「真人」進行深度跨文化交流與對話"
+    ],
+    "prompt": "Multi-panel character montage in film noir comic style with cohesive collage layout and dramatic deep shadows. In a dark, rain-soaked Copenhagen Human Library garden at night, a glossy emerald-green inflatable PVC black cat with puffy rounded forms and high-gloss balloon surface is sniffing affectionately at the feet of two visitors conversing under glowing bamboo jade-green neon signs. Venetian blind light patterns slice through the rainy mist, reflecting vibrant cool verdant and malachite tones across wet cobblestone puddles. Comic grid panels show dynamic candid angles of the glossy cat and character interactions. Visually displayed in a crisp corner timestamp overlay in clean typography: '2026-08-22 09:16 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Neon Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "comment_id": 5379521687,
+    "idea": "黑色電影風格的多格角色拼貼畫面中，一隻翠綠色充氣PVC質感的黑貓正在漆黑雨夜的「真人圖書館」花園角落，低頭親暱地嗅聞兩位在霓虹燈光下對話的遊客腳邊。",
+    "story": "雨幕下的哥本哈根花園閃爍著竹影翠綠色的霓虹幽光，人們在這裡借閱彼此的人生故事。這隻黑貓如同冷酷偵探般穿梭於各個交流角落，在靜止的鏡頭拼貼中記錄著每一次跨文化的心靈交會。",
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀透視",
+      "熱成像紅外線光譜風格",
+      "盲人足球與響鈴球互動",
+      "緋紅與烏黑高對比色調",
+      "奧地利農場與乳牛工具合作",
+      "羊毛氈與立體刺繡纖維質感",
+      "搖曳燭光與跳動陰影",
+      "極地與暴風雪漫天飛雪",
+      "貓咪前爪撥弄或推動工具",
+      "鏡面反射與虹彩全息倒影",
+      "墨西哥暗黑水域與洞穴探索"
+    ]
   }
 ]
