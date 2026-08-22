@@ -13904,5 +13904,40 @@
       "英國倫敦國王學院的研究團隊開發出一種利用羊毛廢料促進骨骼再生修復的新型生物材料。",
       "巴西亞馬遜雨林最新衛星監測數據顯示，過去一年間的森林砍伐率降至十三年來的最低水準。"
     ]
+  },
+  {
+    "title": "無光之境的整備師",
+    "idea": "這是一幅棚拍人像風格的作品，以Knolling排列攝影呈現一隻英短貓正專注地用牙齒咬住拉繩，替隊友進行特製防護頭窺的緊固調校。",
+    "prompt": "A Knolling photography studio portrait taken from a flat lay overhead view. A British Shorthair cat is tightly biting a drawstring with its teeth to adjust a custom protective helmet for a teammate. The surrounding equipment, including inflatable PVC protective gear with a high-gloss surface and a sound football, is neatly arranged at 90-degree angles in an organized grid layout on a clean background. Venetian blind striped lighting casts dramatic, hard parallel light-and-shadow bands across the scene, creating a film-noir mood with a duotone color treatment using two contrasting colors. The date and time '2026-08-22 22:10 UTC' is crisp and visually displayed in a clean corner of the frame. Shot on a 35mm lens, f/2.8, professional studio lighting with sharp detail and subtle film grain, overhead camera angle. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5382883835,
+    "story": "在墨西哥城盲人女子足球隊「Chilangas FC」即將出征前夕，隊貓於工作室裡認真協助整備賽事器材。充氣PVC材質的特製護具、響鈴足球與裝備呈完美幾何排列，在百葉窗條紋光的照射下，形成對比強烈的雙色調光影。",
+    "number": 3123,
+    "avoid_list": [
+      "壓花植物與乾燥葉疊層",
+      "霓虹螢光色絲狀流光",
+      "俯瞰與手卷全景構圖",
+      "莫蘭迪與大紅金黃配色",
+      "巴洛克與畫意攝影風格",
+      "冷冽螢光燈與柔和燭光",
+      "繁體中文與英文限定標籤",
+      "TIMESTAMP 時間戳記標籤",
+      "前爪觸碰或前腳伸出動作",
+      "水彩潑濺與墨點噴灑質感"
+    ],
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Knolling Photography",
+      "lighting": "Venetian Blind Light",
+      "texture": "Inflatable PVC",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "在希臘，專門清除海洋垃圾的「颱風號計畫」（Typhoon Project）持續推進，已在愛琴海與愛奧尼亞海等數千公里海岸線成功清理超過1,000噸海洋廢棄物。",
+      "墨西哥城成立了首支盲人女子足球隊「Chilangas FC」，並即將前往巴西參加歷史上首屆女子盲人足球美洲盃賽事。",
+      "位於瑞士巴塞爾的科學家成功研發出微型量子引擎，利用光粒子與單一原子將原本會散失的廢熱轉化為有用能量。",
+      "澳大利亞凱恩斯外海的大堡堡礁公民科學計畫中，研究人員發現了一座面積接近半座足球場大的巨型珊瑚群落，創下當地紀錄。",
+      "美國國家航空暨太空總署（NASA）發布了毅力號火星車於火星表面拍攝的罕見影像，紀錄下地球自火星衛星「火衛一」後方漸漸消失的驚奇畫面。"
+    ],
+    "inspiration": "墨西哥城成立了首支盲人女子足球隊「Chilangas FC」，並即將前往巴西參加歷史上首屆女子盲人足球美洲盃賽事。"
   }
 ]
