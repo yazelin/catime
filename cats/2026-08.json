@@ -13619,5 +13619,39 @@
     "idea": "在巴洛克藝術風格下，一隻流浪三色貓在充滿螢光燈冷光的二十四小時自助洗衣店內，正專注地用前爪捕抓旋轉烘衣機玻璃門上的滾動衣物，呈現出螺旋漩渦構圖。內部充滿壓花植物疊層的獨特視覺質感，並以極具戲劇張力的青橙電影調色彩渲染全景。",
     "news_inspiration": [],
     "prompt": "Baroque art style image, a stray calico cat crouched inside a 24-hour laundromat, intently reaching its front paw toward tumbling clothes visible through the circular glass door of a spinning dryer, creating a dramatic spiral vortex composition. Cinematic low angle with a centered vanishing point and dizzying sense of depth. Overhead fluorescent lighting casts a neutral white cold glow, creating dramatic chiaroscuro with deep shadows. The entire scene is layered with a pressed botanical herbarium texture of flattened dried flowers and translucent leaves woven into the foggy glass and humid air. Vibrant teal and orange color grading with cool blue-green shadows and rich warm highlights. Display the text '2026-08-22 12:15 UTC' clearly in a digital clock overlay on the wall. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "character": "momo",
+    "number": 3114,
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Moonlight",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "inspiration": "original",
+    "season": "summer",
+    "character_name": "墨墨",
+    "story": "盛夏深夜的微風掠過老宅木廊，胸前綴著白色領結斑紋的墨墨微仰起頭，左耳的金環在清冷月色下微閃光澤。牠優雅地趴伏在攤開的古籍與竹蓆之間納涼，一邊半瞇起澄澈的金琥珀色眼眸，靜靜凝望著庭院裡隨風起落的初秋落葉。",
+    "is_seasonal": true,
+    "idea": "在融合洛可可繁複貝殼花紋與長卷全景構圖的百年老宅敞廳中，純黑貓咪墨墨側臥於編織細緻的清涼竹蓆上，月光自雕花格窗灑落，映照出朱紅描金屏風與空氣中水彩潑濺墨點般的微光塵暈。",
+    "news_inspiration": [],
+    "comment_id": 5380647884,
+    "prompt": "A solid black Bombay shorthair cat named Momo with satin-sheen fur, a tiny white tuft of fur on its chest, a dark grey ring on its tail tip, prominent white whiskers, and luminous golden-amber eyes, lying on a woven bamboo mat beside open ancient books inside a centennial traditional house. The cat has a single small gold hoop earring on its left ear only. Extreme wide handscroll composition, oblique bird's-eye panoramic perspective, blending Rococo ornamental curves with an ancient wooden architecture hall. Illuminated by moonlight with cool blue tones and a gentle silvery glow filtering through carved lattice windows, casting light on a red cinnabar and gilt screen behind. Watercolor splatter texture and fine ink-spray dots drift in the air. Clear English text displaying '2026-08-22 13:23 UTC' is visually rendered on a decorative wooden plaque on the wall. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "魚眼鏡頭與強烈桶狀透視",
+      "熱成像紅外線光譜風格",
+      "盲人足球與響鈴球互動",
+      "緋紅與烏黑高對比色調",
+      "奧地利農場與乳牛工具合作",
+      "羊毛氈與立體刺繡纖維質感",
+      "搖曳燭光與跳動陰影",
+      "極地與暴風雪漫天飛雪",
+      "貓咪前爪撥弄或推動工具",
+      "鏡面反射與虹彩全息倒影",
+      "墨西哥暗黑水域與洞穴探索"
+    ],
+    "title": "竹蓆月影凝金夜"
   }
 ]
