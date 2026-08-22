@@ -13716,5 +13716,34 @@
     "inspiration": "在希臘雅典及周邊島嶼，推行多年的「颱風計畫」已成功清理超過 4,800 條海岸線並清除上千噸垃圾，大幅改善海洋環境。",
     "idea": "在希臘海岸線的湛藍浪花邊，一隻三色花貓正靈巧地踩著水花追逐被海浪沖上岸的塑膠瓶蓋，畫面融合墨流（Suminagashi）的流暢紋樣與服裝多視角展示的排版構成。",
     "comment_id": 5381094482
+  },
+  {
+    "comment_id": 5381354974,
+    "story": "透光的皮影幕布上，螢光色的絲狀流光隨機穿梭於鏤空雕花之間，將貓咪追逐米蟲的瞬間躍然呈現在透光的窗前柔光中。拱形花框與極具現代感的霓虹色彩交織出新舊碰撞的奇幻戲劇感。",
+    "number": 3117,
+    "inspiration": "original",
+    "title": "戲棚米香裡的追逐",
+    "idea": "在皮革與剪紙構成的傳統皮影戲影窗內，一隻三花貓以經典穆夏拱框包覆，正蹲坐在台北傳統市場的米店大斗內，興奮地用後腳蹬踩著飄散的稻殼。",
+    "prompt": "A calico cat crouched inside a traditional wooden grain tub in a Taipei market, excitedly kicking up drifting rice husks with its hind legs. The scene is set inside a backlit translucent leather shadow puppetry window with intricate perforated silhouettes. The composition is framed by a symmetrical Mucha-style arched frame with ornamental decorative borders and floral motifs. Soft window light creates classic Vermeer-like illumination with a gentle directional daylight falloff. Luminous, soft neon fluorescent energy filaments in electric pink, lime green, and hot cyan flow across the surface, creating glowing filament trails against the dark background. The date and time '2026-08-22 16:10 UTC' is visually displayed in the image in crisp text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Chinese Shadow Puppetry",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Window Light",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Neon Fluorescent"
+    },
+    "avoid_list": [
+      "熱成像風格",
+      "魚眼扭曲視角",
+      "巴洛克藝術風格",
+      "壓花植物疊層",
+      "貓爪伸向/觸碰物體",
+      "前腳踏著/踩著物件",
+      "螢光燈冷光/日光燈",
+      "深色背景與強烈光影對比",
+      "冷暖色調強烈互補",
+      "詳細時間戳記懸浮於畫面角落"
+    ],
+    "news_inspiration": []
   }
 ]
