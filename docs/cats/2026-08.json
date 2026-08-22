@@ -13415,5 +13415,43 @@
       "texture": "Sparkle Glitter Accents",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "title": "熱泉礦穴的船長守望",
+    "idea": "在彩飾手抄本的魚眼扭曲視角與羊皮紙質肌理下，大型虎斑貓「船長」站在舊港口廢棄煤礦洞口的金屬管線上，用沾著泥水的大貓掌撥弄著持續湧出暖熱地熱水蒸氣的閥門。",
+    "news_inspiration": [
+      "美國芝加哥郊區近日發現一隻極罕見的「雌雄同體」特殊鳥類現蹤，其左右兩側羽色與性徵截然不同，吸引眾多鳥類學家與賞鳥愛好者熱烈討論。",
+      "英國薩里郡的大學研究團隊在一項實驗中意外發現，將水分子保留在鈉離子電池內部竟能使其儲能效能提升近一倍，為綠能科技帶來趣味且重大的突破。",
+      "智利阿塔卡瑪天文台的科學家透過分析高海拔大型電波望遠鏡陣列的數據，開闢了全新未探索的高頻無線電波段來搜尋深空訊號，拓展人類探索宇宙文明的視野。",
+      "加拿大卑詩省坎伯蘭鎮成功將廢棄百年煤礦坑內的積水轉化為地熱能源，打造出為社區建築提供冷暖氣的環保永續系統。"
+    ],
+    "style_picks": {
+      "art_style": "Illuminated Manuscript",
+      "composition": "Fisheye Lens",
+      "lighting": "Candlelight",
+      "texture": "Paper Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "prompt": "Illuminated manuscript art style with intricate calligraphy borders, rich jewel tones, and gold leaf accents on kraft watercolor textured paper with visible fiber grain. Extreme fisheye lens perspective with strong barrel distortion and an exaggerated foreground. A large stocky brown classic tabby cat named Captain, featuring bold black stripes, scruffy untidy fur texture, a white chest bib, and white mitten paws, with a faded red bandana loosely tied around its neck. The cat's left eye (viewer perspective) is fully concealed by a natural dark-pigmented fur patch with no straps or fabric, its right eye is a piercing emerald green, and its left ear has a distinct V-shaped notch. The four-legged cat stands on metal piping at an abandoned coal mine entrance in an old port, using a muddy paw to fiddle with a metal valve releasing swirling geothermal steam. Warm orange candlelight flickers, casting soft dancing shadows across a festive red and gold palette. Visually displayed in elegant script on a border banner is the text '2026-08-22 07:21 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5378998890,
+    "number": 3108,
+    "character": "captain",
+    "character_name": "船長",
+    "inspiration": "加拿大卑詩省坎伯蘭鎮成功將廢棄百年煤礦坑內的積水轉化為地熱能源，打造出為社區建築提供冷暖氣的環保永續系統。",
+    "story": "船長巡邏到這座由舊煤礦坑改造的港口地熱站，管線噴出的溫暖蒸氣讓牠在寒冷雨夜裡停下了腳步。牠踏著穩重的步伐踩上金屬閥門，右眼翠綠的光芒在燭光般的紅金輝映下顯得格外威嚴，巡視著這片為整個碼頭貓群帶來溫暖的祕密熱源。",
+    "avoid_list": [
+      "百葉窗條紋光",
+      "鏡像異我倒影",
+      "體積光與懸浮塵埃",
+      "極地氣象觀測站",
+      "貓咪用爪子撥弄推開物件",
+      "多角度分格排版海報",
+      "琥珀與秋日褐暖色調",
+      "螢光霓虹互補雙色調",
+      "工藝材質擬真質感",
+      "量子粒子光學實驗室",
+      "貓咪專注凝視倒影或微光",
+      "復古海報字體排版"
+    ]
   }
 ]
