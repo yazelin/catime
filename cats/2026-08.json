@@ -13841,5 +13841,34 @@
     "news_inspiration": [],
     "prompt": "A candid 35mm photo of an ginger cat with soft fuzzy fur and fluffy plush texture, leaning forward on a vintage Showa-style wooden ramen counter to smell and lightly lick the edge of a hot bowl of chashu pork. Nostalgic aged photograph style with a yellowed faded antique print effect, soft blur, light scratches, and a warm sepia patina. Centered subject composition with dramatic Rembrandt lighting casting a signature light triangle on the shadowed cheek, alongside high saturation vivid colors from nearby red lanterns reflecting on the fur. Visually display the date and time timestamp '2026-08-22 19:14 UTC' in the image corner. Shot on 35mm lens, f/1.8, shallow depth of field, natural vintage film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "在懷舊泛黃老照片風格下，一隻擁有絨毛皮草質感的橘貓正聚精會神地趴在昭和風格的拉麵店木質檯面上，低頭嗅聞並用舌頭輕舐碗邊熱騰騰的叉燒肉。"
+  },
+  {
+    "prompt": "A seated cat bending down and focused on licking scattered metal screws. Mixed media artistic illustration featuring torn paper collage effect with layered textures, visible paper edges, and subtle notebook lines. Straight-on frontal eye-level symmetrical composition, subject facing forward. Bright white seamless studio lighting on a pure white background with soft shadows. Intricate wrought iron filigree and ornate cast iron lace openwork patterns integrated into the background. Cool blue-teal color scheme with icy undertones and serene atmosphere. Inscribed clearly in the image in sharp typography: '2026-08-22 20:10 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "壓花植物與乾燥葉疊層",
+      "霓虹螢光色絲狀流光",
+      "俯瞰與手卷全景構圖",
+      "莫蘭迪與大紅金黃配色",
+      "巴洛克與畫意攝影風格",
+      "冷冽螢光燈與柔和燭光",
+      "繁體中文與英文限定標籤",
+      "TIMESTAMP 時間戳記標籤",
+      "前爪觸碰或前腳伸出動作",
+      "水彩潑濺與墨點噴灑質感"
+    ],
+    "number": 3121,
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 5382373763,
+    "news_inspiration": [],
+    "inspiration": "original",
+    "story": "古董製圖所的長桌上，四足伏臥的貓兒靜靜梳理著夾雜在鐵雕剪影間的金屬細線。深淺交錯的湛藍與青綠撕紙邊緣層層疊壓，勾勒出冷冽嚴謹的幾何世界。牠沉穩平靜的目光穿透繁複的鏤空鐵紋，為整座紙雕空間帶來凝鍊而純粹的生命力。",
+    "idea": "在純淨的白底去背棚光下，一隻端坐的貓咪正低頭專注舔舐著散落的螺絲零件，整幅畫面以平視正面構圖結合撕紙拼貼效果，襯托出冷冽的藍青色調與細膩的鑄鐵雕花鏤空紋理。",
+    "title": "霜青剪影之隙"
   }
 ]
