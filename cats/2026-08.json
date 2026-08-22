@@ -13308,5 +13308,40 @@
       "希臘透過「颱風計畫」出動清淤船清理了超過 4,800 條海岸線並清除逾 1,090 噸垃圾，成功恢復多座島嶼的海岸景觀。",
       "智利復活節島（Rapa Nui）附近的 74 萬平方公里海洋保護區，確定由當地原住民代表佔多數的理事會進行管理，成為全球規模最大的原住民自主管理海洋保護區之一。"
     ]
+  },
+  {
+    "number": 3105,
+    "inspiration": "奧地利維也納的科學家在一項研究中發現，當地農場一頭名為維羅妮卡（Veronika）的母牛具備罕見的多用途工具使用能力，打破了人們對牛隻智力的傳統認知。",
+    "story": "這隻名叫波波的黑貓目睹了母牛維羅妮卡靈巧運用工具的奇蹟，竟也忍不住撿起廢棄木棍，在皮革鞍具間若有所思地嘗試組裝自己的新玩具。環形燈的微光與光繪軌跡在低彩度的空間裡流轉，記錄下動物界又一次意想不到的智慧碰撞。",
+    "news_inspiration": [
+      "牙買加退役短跑巨星尤塞恩·博爾特（Usain Bolt）喜迎40歲生日，全球體育迷紛紛向這位男子100公尺與200公尺世界紀錄保持人送上祝福。",
+      "奧地利維也納的科學家在一項研究中發現，當地農場一頭名為維羅妮卡（Veronika）的母牛具備罕見的多用途工具使用能力，打破了人們對牛隻智力的傳統認知。",
+      "丹麥哥本哈根的「真人圖書館」閱讀花園持續推廣新型態閱讀，讓民眾可以直接「借閱」不同背景的人進行深度對話與文化交流。"
+    ],
+    "avoid_list": [
+      "百葉窗條紋光",
+      "鏡像異我倒影",
+      "體積光與懸浮塵埃",
+      "極地氣象觀測站",
+      "貓咪用爪子撥弄推開物件",
+      "多角度分格排版海報",
+      "琥珀與秋日褐暖色調",
+      "螢光霓虹互補雙色調",
+      "工藝材質擬真質感",
+      "量子粒子光學實驗室",
+      "貓咪專注凝視倒影或微光",
+      "復古海報字體排版"
+    ],
+    "comment_id": 5377850397,
+    "prompt": "Fisheye wide-angle lens photograph with strong barrel distortion and exaggerated foreground, capturing a black cat playfully batting with its paws and biting a long wooden stick inside an Austrian farm stable. Surrounding interior features artisan-crafted leather saddles with rich grain texture, warm aged patina, and creased surfaces, decorated in Morandi muted tones with desaturated soft pastels and dusty grey undertones. Long exposure light painting photography technique with swirling luminous trails and glowing ribbons drawn around the cat, illuminated with frontal ring light creating circular catchlights in the cat's eyes. Visually displayed stamped text reading '2026-08-22 04:21 UTC' in crisp typography in the corner. 8mm fisheye shot, shutter drag, authentic grain, candid animal action. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在莫蘭迪色調的奧地利農場皮革馬廄內，一隻黑貓正以爪子撥弄並咬著長木棍，透過魚眼鏡頭與環形燈光繪攝影呈現其靈動姿態。",
+    "title": "馬廄裡的智慧微光",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Leather",
+      "color_palette": "Morandi Color Palette"
+    }
   }
 ]
