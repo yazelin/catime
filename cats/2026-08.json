@@ -13870,5 +13870,39 @@
     "story": "古董製圖所的長桌上，四足伏臥的貓兒靜靜梳理著夾雜在鐵雕剪影間的金屬細線。深淺交錯的湛藍與青綠撕紙邊緣層層疊壓，勾勒出冷冽嚴謹的幾何世界。牠沉穩平靜的目光穿透繁複的鏤空鐵紋，為整座紙雕空間帶來凝鍊而純粹的生命力。",
     "idea": "在純淨的白底去背棚光下，一隻端坐的貓咪正低頭專注舔舐著散落的螺絲零件，整幅畫面以平視正面構圖結合撕紙拼貼效果，襯托出冷冽的藍青色調與細膩的鑄鐵雕花鏤空紋理。",
     "title": "霜青剪影之隙"
+  },
+  {
+    "number": 3122,
+    "avoid_list": [
+      "壓花植物與乾燥葉疊層",
+      "霓虹螢光色絲狀流光",
+      "俯瞰與手卷全景構圖",
+      "莫蘭迪與大紅金黃配色",
+      "巴洛克與畫意攝影風格",
+      "冷冽螢光燈與柔和燭光",
+      "繁體中文與英文限定標籤",
+      "TIMESTAMP 時間戳記標籤",
+      "前爪觸碰或前腳伸出動作",
+      "水彩潑濺與墨點噴灑質感"
+    ],
+    "story": "實驗台上方漂浮著如棉花糖雲朵般的羊毛修復聚合物，散發微弱光澤。研究員暫離的深夜，巡邏貓安靜巡視著骨骼再生樣本與剪貼紙片堆疊的精密儀器。牠輕巧穿梭在幾何陰影間，守護著這項將廢棄毛料化為再生希望的科學秘密。",
+    "title": "青藍織骨之夜",
+    "prompt": "Orthographic projection technical illustration with a layered torn paper collage effect, featuring a four-legged calico cat leaning down to sniff fluffy fibers next to a test tube rack in a cool blue-teal biomaterial laboratory. Floating cotton candy cloud textures in pastel pink and blue hover gently as wool restoration polymers. The composition is rendered with straight-on flat mixed media art, visible torn paper edges, and notebook lines. Dramatic Rembrandt lighting creates a strong 45-degree single light source with chiaroscuro geometric shadows across the scene. The timestamp '2026-08-22 21:10 UTC' is clearly displayed in sharp English text on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在正交投影的冷青色調生物材料實驗室中，一隻四足花貓正低頭嗅聞試管架旁的蓬鬆纖維，全景以立體層次的撕紙拼貼效果呈現，並灑落鮮明的倫勃朗光。",
+    "style_picks": {
+      "art_style": "Torn Paper Collage",
+      "composition": "Orthographic Projection",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "inspiration": "英國倫敦國王學院的研究團隊開發出一種利用羊毛廢料促進骨骼再生修復的新型生物材料。",
+    "comment_id": 5382627070,
+    "news_inspiration": [
+      "哈薩克於阿斯塔納附近的自然保護區野放了首批西伯利亞虎，標誌著該國在滅絕七十年後成功重引進老虎生態。",
+      "美國佛羅里達州西棕櫚灘海岸的赤蠵龜迎來歷史新高的產卵季，保育紀錄打破歷年紀錄。",
+      "英國倫敦國王學院的研究團隊開發出一種利用羊毛廢料促進骨骼再生修復的新型生物材料。",
+      "巴西亞馬遜雨林最新衛星監測數據顯示，過去一年間的森林砍伐率降至十三年來的最低水準。"
+    ]
   }
 ]
