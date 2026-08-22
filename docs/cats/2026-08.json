@@ -13272,5 +13272,41 @@
     ],
     "title": "深藍鏡界之凝",
     "idea": "這幅復古海報風格作品描繪了一隻黑貓伏在阿爾卑斯山頂量子光學實驗室的鏡面地表，月夜靛藍的冷冽體積光穿透天窗，映照出貓咪與鏡中帶有虹彩全息質感的異我倒影。"
+  },
+  {
+    "avoid_list": [
+      "俯視 Knolling 平面排版",
+      "百葉窗條紋光影",
+      "貓用爪子撥弄推碰物件",
+      "工坊或修復工作檯場景",
+      "黃銅齒輪與發條零件",
+      "暖色調琥珀與秋日色彩",
+      "金色輪廓光與背光剪影",
+      "半透明紋理與鏤空質感",
+      "35mm 鏡頭復古底片顆粒",
+      "流動光繪光軌與發光絲流",
+      "藍黃互補色對比調色",
+      "復古褪色懷舊氛圍"
+    ],
+    "comment_id": 5377641255,
+    "inspiration": "墨西哥哥倫利亞的黑瞎子女子足球隊（Chilangas FC）成為墨西哥首支前往巴西參加女子盲人足球美洲盃賽事的國家代表隊。",
+    "idea": "以羊毛氈工藝打造的四足小貓正趴在冰冷的大理石展示台上啃咬著一顆螢光粉紅色的特製盲人足球，周圍以多角度鏡面展示其身上的螢光綠運動小背心，並在搖曳的燭光映照下散發獨特纖維質感。",
+    "style_picks": {
+      "art_style": "Needle-Felted Wool Craft",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Candlelight",
+      "texture": "Marble",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A four-legged needle-felted wool craft cat with soft fuzzy fiber texture laying on a cold, polished marble display surface, chewing on a bright neon fluorescent pink blind football. The cat is wearing a neon fluorescent lime green sports vest. Multi-view product showcase layout with front view, back view, side view, and detail close-up arranged in labeled panels like a lookbook reference guide. Illuminated by flickering candlelight with a warm orange glow and soft dancing shadows, highlighting the cozy tactile surface of the handmade plush character. The text '2026-08-22 03:32 UTC' is visually displayed on the image in a clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "小貓跟隨著球體滾動時發出的清脆鈴鐺聲一路追逐，最後在神聖的賽前祈福儀式上霸佔了這顆特製足球。即便周圍點滿莊嚴的祈願蠟燭，牠依然自顧自地磨牙護球，成了球隊遠征巴西前最古怪又吸睛的毛茸茸守護神。",
+    "title": "幽光裡的綠茵鈴音",
+    "number": 3104,
+    "news_inspiration": [
+      "墨西哥哥倫利亞的黑瞎子女子足球隊（Chilangas FC）成為墨西哥首支前往巴西參加女子盲人足球美洲盃賽事的國家代表隊。",
+      "印度長納加蘭邦的 K Khel 政府中學將校園菜園融入教育，讓 60 多名學童親自種植蔬菜並直接成為他們的營養午餐。",
+      "希臘透過「颱風計畫」出動清淤船清理了超過 4,800 條海岸線並清除逾 1,090 噸垃圾，成功恢復多座島嶼的海岸景觀。",
+      "智利復活節島（Rapa Nui）附近的 74 萬平方公里海洋保護區，確定由當地原住民代表佔多數的理事會進行管理，成為全球規模最大的原住民自主管理海洋保護區之一。"
+    ]
   }
 ]
