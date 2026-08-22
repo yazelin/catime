@@ -13812,5 +13812,34 @@
       "color_palette": "Neon Fluorescent"
     },
     "story": "老街市場的明星貓麻糬穿上了專屬的迷你浮水衣，滿心歡喜地趴在清涼的沙灘攤位前。面對眼前鮮紅多汁的切片西瓜，牠興奮地瞇起雙眼、湊近大快朵頤，整隻貓像顆浸潤在夏日夢幻氣泡裡的甜美花生麻糬。"
+  },
+  {
+    "comment_id": 5382135167,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Nostalgic Aged Photograph",
+      "composition": "Centered Subject Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "深夜的東京巷弄裡，老舊拉麵店揮發著濃郁的豬骨湯香氣。四腳著地的橘貓順利溜上高腳椅，趁著店主轉身煮麵的空檔，探出頭來仔細盤算著碗裡的美味佳餚。倫勃朗光透過竹簾傾瀉而下，高飽和鮮豔色的紅燈籠光影映照在牠柔軟的毛髮上，勾勒出極具生活氣息的溫馨瞬間。",
+    "avoid_list": [
+      "壓花植物與乾燥葉疊層",
+      "霓虹螢光色絲狀流光",
+      "俯瞰與手卷全景構圖",
+      "莫蘭迪與大紅金黃配色",
+      "巴洛克與畫意攝影風格",
+      "冷冽螢光燈與柔和燭光",
+      "繁體中文與英文限定標籤",
+      "TIMESTAMP 時間戳記標籤",
+      "前爪觸碰或前腳伸出動作",
+      "水彩潑濺與墨點噴灑質感"
+    ],
+    "number": 3120,
+    "title": "深夜拉麵店的偷歡",
+    "news_inspiration": [],
+    "prompt": "A candid 35mm photo of an ginger cat with soft fuzzy fur and fluffy plush texture, leaning forward on a vintage Showa-style wooden ramen counter to smell and lightly lick the edge of a hot bowl of chashu pork. Nostalgic aged photograph style with a yellowed faded antique print effect, soft blur, light scratches, and a warm sepia patina. Centered subject composition with dramatic Rembrandt lighting casting a signature light triangle on the shadowed cheek, alongside high saturation vivid colors from nearby red lanterns reflecting on the fur. Visually display the date and time timestamp '2026-08-22 19:14 UTC' in the image corner. Shot on 35mm lens, f/1.8, shallow depth of field, natural vintage film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在懷舊泛黃老照片風格下，一隻擁有絨毛皮草質感的橘貓正聚精會神地趴在昭和風格的拉麵店木質檯面上，低頭嗅聞並用舌頭輕舐碗邊熱騰騰的叉燒肉。"
   }
 ]
