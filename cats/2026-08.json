@@ -13343,5 +13343,41 @@
       "texture": "Leather",
       "color_palette": "Morandi Color Palette"
     }
+  },
+  {
+    "idea": "這是一組採用熱成像風格與緋紅烏黑調的魚眼鏡頭畫面，隻身出現在墨西哥黑暗洞穴水域的貓咪，正在奮力滑動四肢游向受困者，激起靈動水花飛濺並穿透斑駁光影。",
+    "comment_id": 5378159047,
+    "number": 3106,
+    "title": "熱能深潛救援",
+    "inspiration": "墨西哥的特遣潛水員歷經堅持不懈的搜救，成功在黑暗未知的水下洞穴中救出一名受困長達 15 天且奇蹟生還的漁民。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Fisheye Lens",
+      "lighting": "Dappled Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Crimson and Black"
+    },
+    "prompt": "Thermal imaging camera photography, infrared vision footage of a glowing warm cat vigorously swimming through flooded dark underwater Mexican cave caverns toward a trapped figure, holding a rescue rope in its mouth. Ultra-wide fisheye lens with strong barrel distortion and exaggerated foreground depth. Dramatic high-contrast crimson and jet-black thermal spectrum with heat map gradients visualizing temperature, contrasting the warm feline silhouette against freezing dark waters. Bursting water spray droplets and frozen liquid splash arcs illuminated by dappled light filtering through rock fissures. Visible on-screen digital camera HUD display showing the timestamp '2026-08-22 05:16 UTC' in clear white text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "潛水救援隊在黑闇沉寂的水下洞窟深處搜尋，一隻全身散發著溫熱紅光的貓咪奮力划水前行，將求生繩索叼給受困多日的漁民。魚眼的扭曲視角記錄下這震撼一幕，水花在熱能對比下綻放如耀眼的緋紅星火。",
+    "avoid_list": [
+      "百葉窗條紋光",
+      "鏡像異我倒影",
+      "體積光與懸浮塵埃",
+      "極地氣象觀測站",
+      "貓咪用爪子撥弄推開物件",
+      "多角度分格排版海報",
+      "琥珀與秋日褐暖色調",
+      "螢光霓虹互補雙色調",
+      "工藝材質擬真質感",
+      "量子粒子光學實驗室",
+      "貓咪專注凝視倒影或微光",
+      "復古海報字體排版"
+    ],
+    "news_inspiration": [
+      "美國紐澤西州的一家人在沙灘度假時，意外在岩石中發現了一顆保存完好的巨齒鯊巨型化石牙齒。",
+      "墨西哥的特遣潛水員歷經堅持不懈的搜救，成功在黑暗未知的水下洞穴中救出一名受困長達 15 天且奇蹟生還的漁民。",
+      "日本東京科學大學與東北大學的科學團隊利用超快雷射光學技術，成功捕捉到物質在短短 30 飛秒內形成的全新隱藏電子狀態。",
+      "澳洲凱恩斯外海的大堡堡礁公民科學計畫中，志工探險者發現了一座面積廣達 3,973 平方公尺的巨型珊瑚群落。"
+    ]
   }
 ]
