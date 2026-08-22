@@ -13200,5 +13200,41 @@
     "number": 3101,
     "prompt": "Full-bleed frame-filling composition, translucent frosted glass-paper style illustration of a silver-white Maine Coon cat crouched closely beside a frosty observation window inside a polar weather station. The cat gazes intently at churning cool blue-teal blizzard winds outside. Soft-focus matte haze with hazy atmospheric softness, low-contrast ethereal finish, and a dreamy diffused blur creating a serene and calm mood. Classic three-point lighting setup featuring key light with soft shadows, fill light, and subtle rim light separation highlighting the cat's fur. Cool blue-teal color grading with icy undertones against a clean white background. In the lower corner of the observation window, the text '2026-08-21 23:12 UTC' is subtle and visually displayed in crisp digital font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "採用滿版特寫與霧面紙玻璃風格，一隻銀白色的緬因貓貼伏在極地氣象站的冰霜觀察窗旁，凝視著外頭翻騰的藍青色極地風雪。三點打光搭配冷色調藍青光影，形塑出柔焦霧面的沉靜氣氛。"
+  },
+  {
+    "comment_id": 5376807812,
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Fisheye Lens",
+      "lighting": "Butterfly Lighting",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Crimson and Black"
+    },
+    "avoid_list": [
+      "俯視 Knolling 平面排版",
+      "百葉窗條紋光影",
+      "貓用爪子撥弄推碰物件",
+      "工坊或修復工作檯場景",
+      "黃銅齒輪與發條零件",
+      "暖色調琥珀與秋日色彩",
+      "金色輪廓光與背光剪影",
+      "半透明紋理與鏤空質感",
+      "35mm 鏡頭復古底片顆粒",
+      "流動光繪光軌與發光絲流",
+      "藍黃互補色對比調色",
+      "復古褪色懷舊氛圍"
+    ],
+    "story": "在拉帕努伊族人掌控的廣袤海洋保護區邊陲，貓咪將濕潤的鼻子湊近海藻，感受潮汐帶來的海洋氣息。頂上高懸的蝴蝶光將牠極具絨毛質感的皮草照得層次分明，數位故障訊號則將浪花撕裂成帶有前衛感的 Crimson 與 Black 色塊。",
+    "title": "海潮噪點中的巨石守候",
+    "number": 3102,
+    "idea": "一隻緋紅與烏黑毛色交織的貓咪正蜷縮在智利復活節島巨石陣旁，在故障藝術數位噪點與魚眼鏡頭的強烈透視下，專注地嗅聞剛採集上岸的海洋保護區藻類。",
+    "news_inspiration": [
+      "墨西哥哥倫比亞特區（墨西哥城）：墨西哥首支盲人女子足球隊「Chilangas FC」即將前往巴西參加美洲盃錦標賽，透過體育運動展現自信並打破社會障礙。",
+      "希臘雅典：希臘海洋保護計畫「颱風計畫」（Typhoon Project）持續推進，至今已成功清理超過 4,800 處海岸線並清除逾 1,090 噸海洋垃圾，讓多座島嶼的沙灘重現美麗原貌。",
+      "印度科希馬：位於那加蘭邦的一所公立中學推行「校園農場」教育，讓學生親自種植與採收蔬菜，並直接作為日常免費午餐的食材原料。",
+      "智利復活節島：拉帕努伊原住民獲得當地廣達 74 萬平方公里海洋保護區的主導管理權，成立全球最大由原住民維護與治理的海洋生態保護區之一。"
+    ],
+    "inspiration": "智利復活節島：拉帕努伊原住民獲得當地廣達 74 萬平方公里海洋保護區的主導管理權，成立全球最大由原住民維護與治理的海洋生態保護區之一。",
+    "prompt": "A crimson and jet-black furred cat curled beside Easter Island moai monolithic statues in Chile, carefully sniffing fresh marine reserve seaweed. Glitch art digital distortion aesthetic, scan line artifacts, fragmented visuals, and subtle RGB channel shift. Shot with a fisheye wide-angle lens creating strong barrel distortion and an exaggerated foreground perspective. Butterfly overhead key lighting casting soft symmetrical illumination across the cat's detailed fluffy plush fur texture and soft velvety fibers. Dramatic high-contrast crimson and black color palette, dark moody atmosphere. Visually integrated digital text displaying '2026-08-22 00:33 UTC' in crisp digital typography in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
