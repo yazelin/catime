@@ -13973,5 +13973,42 @@
     "story": "奧地利科學家剛證實了乳牛的工具使用天賦，而這隻敏銳的斑紋貓也不甘示弱，在時裝設計工作室的草稿桌上親自示範木條滾動的技巧。聚光燈下，牠優雅地運用身體槓桿調節木條角度，將這場智力與動作的實驗轉化為一幅充滿動態美的時尚速寫。",
     "prompt": "A fashion croquis sketch on black and white monochrome paper, depicting a tabby cat's paw pressing onto a thick wooden stick, focused on rolling it forward. The main scene is captured in black and white monochrome with high contrast, rich tonal range, dramatic shadows, loose pencil and marker lines, stylized design sketchbook aesthetic, highlighting the natural wood grain texture with visible knots and lines. Surrounding the central drawing is a scrapbook-style die-cut sticker collage frame filled with layered sticker cutouts, white outline borders, chibi side characters, vibrant color swatches, and colored pencils as visible props. Illuminating the cat's focused pose and organic tactile wood surface is a narrow dramatic high-contrast spotlight with sharp light edges and deep darkness falloff. In the corner, the timestamp '2026-08-22 23:09 UTC' is visibly displayed in clear text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5383092553
+  },
+  {
+    "number": 3125,
+    "news_inspiration": [
+      "在立陶宛維爾紐斯，一年一度的柯基犬大賽熱鬧登場，來自各地的柯基犬穿著可愛裝扮在跑道上奮力奔跑爭奪榮耀。",
+      "瑞士巴塞爾的大學研究人員成功研發出微型量子引擎，能將微觀狀態下的廢熱轉化為有用能量，為未來潔淨能源開創新契機。",
+      "在希臘愛琴海群島，「颱風計畫」環保團隊持續推進海岸清理工作，已成功清理超過4800段海岸線並移除上千噸海洋垃圾。",
+      "在墨西哥城，當地成立了首支盲人女子足球隊「Chilangas FC」，選手們正積極備戰即將於巴西舉行的美洲盃賽事。"
+    ],
+    "avoid_list": [
+      "倫勃朗光",
+      "撕紙拼貼效果",
+      "撕紙邊緣",
+      "純淨白底去背棚光",
+      "雙色調光影",
+      "正交投影",
+      "條紋百葉窗光影",
+      "手稿時裝速寫風",
+      "幾何影窗邊框",
+      "乾燥藥草與花卉組合",
+      "透光皮革與金屬雕花",
+      "霓虹螢光色系",
+      "香料與藥草工坊"
+    ],
+    "title": "金瓦鈴音晚晴天",
+    "inspiration": "original",
+    "prompt": "A bird's-eye view, top-down perspective miniature diorama photography shot with a 35mm macro lens, f/2.8, tilt-shift lens effect, shallow depth of field, and natural directional light. Looking straight down at a tiny handcrafted resin scene featuring a playful calico cat cleverly weaving between tiny traditional Chinese temple red tile roofs, reaching out its paw to tap a miniature lace openwork wind chime hanging from a golden eaves. Shot during golden hour lighting with a warm sunset glow, creating long soft shadows and a golden rim light on the cat's fur. The scene uses an auspicious red dominance with bright gold accents palette. A subtle digital date and time stamp '2026-08-23 00:36 UTC' is overlayed in simple sans-serif typography in the lower right corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以微縮造景攝影呈現，從俯瞰視角捕捉一隻小三花貓在傳統宮廟紅瓦屋頂的微縮模型間靈巧穿梭，正伸出肉墊撥弄掛在金色屋簷下的微型蕾絲鏤空風鈴。",
+    "story": "夕陽的黃金時刻灑落整座袖珍廟宇，將硃砂紅牆與鎏金翹角染上一層溫暖光暈。小貓踩著四隻小爪在瓦礫間巡視，好奇地輕撲被微風吹動的鏤空蕾絲飾品，金紅色的光影在牠柔軟的毛髮間跳躍流轉。",
+    "style_picks": {
+      "art_style": "Miniature Diorama Photography",
+      "composition": "Bird's-Eye View",
+      "lighting": "Golden Hour",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 5383411107
   }
 ]
