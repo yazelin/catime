@@ -14376,5 +14376,41 @@
       "texture": "Raised Embroidered Coiled-Flower Texture",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "story": "這隻由木頭與黏土雕琢的定格黑貓在海底森林微縮模型中潛行，用靈敏的鼻尖嗅探著層疊如骨骼般的朱紅枝枒。它正依循水流的細微震顫，四爪踏過細白沙礫，巡視這座奇蹟般甦醒的深海群落。",
+    "title": "朱紅珊瑚間的信使",
+    "idea": "在純白無垠的影棚光下，一隻覆蓋著粗糙沙質紋理的哥德定格木偶四足黑貓，正專注地在巨大的朱紅色微縮珊瑚礁叢間穿梭攀爬，畫面帶有極淺景深的移軸微縮效果。",
+    "inspiration": "凱恩斯（澳大利亞）：志工與科學家在大堡礁發現一座面積近4,000平方公尺的巨型珊瑚群落，創下當地紀錄並為海洋生態帶來曙光。",
+    "avoid_list": [
+      "微型量子引擎",
+      "盲人女子足球隊",
+      "鳥瞰俯瞰視角",
+      "多視角設計展示圖",
+      "月夜靛藍色調",
+      "螢光與紫外黑光燈效果",
+      "微型蕾絲鏤空風鈴",
+      "前爪輕碰或撥弄物件",
+      "黃金時刻與金邊輪廓光",
+      "燭光與透光紗網肌理",
+      "繁體中文與英文文字規範指令",
+      "時間戳記 overlay"
+    ],
+    "style_picks": {
+      "art_style": "Gothic Stop-Motion Puppet",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Sand Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "news_inspiration": [
+      "墨西加利（墨西哥）：盲人女子足球隊 Chilangas FC 首度成軍，將前往巴西參加美洲盃賽事，展現堅韌的運動精神。",
+      "凱恩斯（澳大利亞）：志工與科學家在大堡礁發現一座面積近4,000平方公尺的巨型珊瑚群落，創下當地紀錄並為海洋生態帶來曙光。",
+      "巴塞爾（瑞士）：科學家成功運用單一原子與光子開發出微型量子引擎，成功從廢熱中提取可用能量。",
+      "阿姆斯特丹（荷蘭）：市政府正式通過新規定，成為全球首個全面禁止在公共空間刊登肉類與化石燃料廣告的首都。"
+    ],
+    "prompt": "A gothic stop-motion quadruped black cat puppet, sculpted with a rough coarse sand texture and hand-crafted armature details, carefully climbing and navigating through a massive cluster of intricate, bone-like vibrant vermilion red miniature coral reefs. Tilt-shift macro photography, ultra-shallow depth of field with selective focus band creating a miniature toy-like scale, blurred foreground and background. Shot against a pure white seamless cyclorama backdrop with bright high-key white studio lighting, clean soft shadows, tactile handmade set aesthetic, vivid cinnabar red and stark white graphic balance. Visible overlay text reading '2026-08-23 12:16 UTC' in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5385957497,
+    "number": 3136
   }
 ]
