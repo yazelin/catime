@@ -14577,5 +14577,37 @@
       "color_palette": "Teal and Orange"
     },
     "title": "霓虹泡沫夜巡曲"
+  },
+  {
+    "character": "mochi",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Needle-Felted Wool Craft",
+      "composition": "Diagonal Composition",
+      "lighting": "Ring Light",
+      "texture": "Origami",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [],
+    "avoid_list": [
+      "巨齒鯊牙齒化石",
+      "盲人女子足球隊",
+      "量子熱機",
+      "微縮模型與移軸效果",
+      "多視角服裝設計圖展示",
+      "淺景深特寫鏡頭",
+      "極低角度與俯瞰視角",
+      "時間戳記與繁體中文規範",
+      "朱紅與純白對比配色",
+      "緋紅與烏黑強烈光影",
+      "手作機關與黏土定格動畫"
+    ],
+    "character_name": "麻糬",
+    "number": 3142,
+    "title": "霓光夜市的偷香小賊",
+    "prompt": "A diagonal composition capturing Mochi, a chubby spherical shorthair cat with a pure white #FFFFFF base, a bright orange #FF8C00 mask on the RIGHT half of its face (LEFT face entirely white), a heart-shaped orange #FF8C00 saddle patch on its back, a solid orange #FF8C00 mitten on its RIGHT front paw, a pure white LEFT front paw, a white belly, and large round amber #FFBF00 eyes. Mochi is moving dynamic across paper sculpture origami style market stalls with sharp angular folds and geometric creases, reaching its orange right paw to snag a hanging sausage. Needle-felted wool craft texture with soft fuzzy fibers and cozy tactile surfaces. Lit with neon fluorescent colors including electric pink, lime green, and hot cyan glowing against a dark background, along with ring light illumination creating circular catchlights in Mochi's eyes. Visually displaying the date and time '2026-08-23 18:12 UTC' on the image in crisp text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夜市的霓虹燈光灑在麻糬圓滾滾的橘白毛軀上，將牠襯托得像一顆閃耀的花生麻糬。牠憑著對美味的執著，憑藉敏銳嗅覺鎖定了攤位上散發香氣的肉串，趁老闆不注意時偷偷伸出爪子。周圍顧客看著這隻肚子微晃的胖貓，都被牠大圓眼中閃爍的呆萌眼神融化，根本捨不得阻止。",
+    "idea": "在霓虹螢光色彩濃烈的羊毛氈老街夜市中，橘白貓麻糬正以對角線構圖穿梭於摺紙質感的攤位間，伸出橘色套袖般的右前腳悄悄勾取高掛的香腸。",
+    "comment_id": 5387667673
   }
 ]
