@@ -14231,5 +14231,41 @@
       "texture": "Wood Grain",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Dreamy Digital Oil",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Cinematic Lighting",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Neon Fluorescent"
+    },
+    "idea": "在充滿霓虹螢光色彩的夢幻數位油畫風格中，一隻毛髮極具絨毛質感的橘貓正專注地用嘴叼著小氣球，替盲人女子足球隊的練習球場佈置邊界線。",
+    "title": "綠場上的螢光追逐",
+    "prompt": "Dreamy digital oil painting in a multi-view character and costume design sheet format, featuring panels of front view, side view, back view, and detail close-ups. A fluffy orange cat with soft fuzzy fibers and rich plush tactile texture is shown diligently carrying a glowing mini balloon in its mouth to decorate the boundary line of a grass football pitch for a blind women's soccer team. The cat wears a custom neon fluorescent training vest with electric pink, lime green, and hot cyan accents. Soft painterly brushstrokes, mixed impasto texture, ethereal light bokeh, cinematic volumetric lighting rays, dramatic shadows, and glowing highlights against a dark moody atmosphere. In the corner, clear typography reads '2026-08-23 08:16 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "為慶祝盲人女足隊首度出征國際賽事，橘貓在充滿電影感打光的綠蔭場地邊忙碌奔走，將螢光汽球一一固定於草坪邊線。多視角服裝展示的構圖將牠身上特製的螢光訓練背心細節呈露無遺，散發出動人而歡樂的氛圍。",
+    "number": 3132,
+    "comment_id": 5385024980,
+    "news_inspiration": [
+      "美國華盛頓特區史密森尼國家動物園宣佈，園區內的保育研究所今年喜迎三隻可愛的紅貓熊幼崽誕生。",
+      "芬蘭奧盧大學最新發佈的研究顯示，習慣規律飲用咖啡的人群往往具備較低體脂與較高肌肉量的健康體態。",
+      "墨西哥盲人女子足球隊「Chilangas FC」即將代表國家歷史性地首度出征在巴西舉行的美洲盃賽事。",
+      "希臘的海灘清掃志願專案「颱風計畫」已順利清理超過 4,800 段海岸線並清除逾千噸海洋垃圾，讓多個島嶼海岸煥然一新。"
+    ],
+    "avoid_list": [
+      "伸出前爪觸碰或撥動物件",
+      "倫勃朗光與三角形陰影",
+      "時間戳記2026-08-22/23",
+      "撕紙拼貼與筆記本線條",
+      "冷青色與湛藍色調",
+      "繁體中文與英文文字限定規範",
+      "極致強烈聚光燈與深邃陰影",
+      "鳥瞰俯視構圖視角",
+      "蕾絲鏤空與鐵雕花紋",
+      "傳統宮廟與紅瓦屋頂微縮模型",
+      "黃金時刻夕陽餘暉與金邊光",
+      "四足踩踏於細緻基座"
+    ],
+    "inspiration": "墨西哥盲人女子足球隊「Chilangas FC」即將代表國家歷史性地首度出征在巴西舉行的美洲盃賽事。"
   }
 ]
