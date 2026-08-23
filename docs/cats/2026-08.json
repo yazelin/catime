@@ -14710,5 +14710,42 @@
       "texture": "Sheer Gauze Mesh",
       "color_palette": "Crimson and Black"
     }
+  },
+  {
+    "title": "黑金星夜下的海岸守護者",
+    "style_picks": {
+      "art_style": "Astrophotography",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "在銀河星空攝影風格下，呈現以金色與黑色奢華調為主的多格角色拼貼，記錄一隻擁有細緻絨毛皮草的流浪貓在希臘海岸清潔船上專注咬住海浪帶來的海岸廢棄物件，呈現無背景淨色去背般的極致對比。",
+    "prompt": "35mm lens, f/2.8, astrophotography shot of a stray cat with detailed soft fuzzy fur and tactile plush pile texture, working on a clean-up ship off the Greek coast. Multi-panel character montage grid showing the cat in various focused poses using its mouth and front paws to bite and sort golden buoys and black fishing line coils among ocean debris. Astrophotography dark sky background with deep cosmic blues, purples, and a vivid Milky Way, contrasted against white seamless high-key studio lighting on the subject. Luxurious gold and black color scheme with metallic accents. Timestamp '2026-08-23 22:10 UTC' clearly overlaid in crisp white text in the bottom corner, real photograph style, natural shot clarity, candid composition IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "巨齒鯊牙齒化石",
+      "微縮生態島與珊瑚礁",
+      "魚眼鏡頭超廣角扭曲",
+      "環形燈光與眼神光",
+      "復古褪色與網點質感",
+      "前爪撥弄或撥拉動作",
+      "立體刺繡與花卉貼花肌理",
+      "水下焦散與波光打光",
+      "洛可可與衍紙藝術風格",
+      "時間戳記 Traditional Chinese",
+      "黏土與羊毛氈手作質感",
+      "廢棄或古董場所微縮模型"
+    ],
+    "inspiration": "希臘雅典：希臘透過「颱風計畫」持續推動海岸清潔行動，已成功清理超過 4,800 段海岸線並清除逾 1,090 噸海洋垃圾，讓美麗沙灘重現煥然一新的面貌。",
+    "number": 3146,
+    "news_inspiration": [
+      "日本東京：科學家在分析古代 Jomon 人類的 DNA 時，發現了一套隱藏的冰河時期生存基因組，揭示了古人適應極端寒冷氣候的獨特演化機制。",
+      "塞爾維亞貝爾格勒：考古學家在博物館的庫房整理中發現意外驚喜，重新鑑定出一件擁有 6,500 年歷史、由人類牙齒製成的古老飾品佩飾。",
+      "墨西哥墨西哥城：墨西哥成立了首支盲人女子足球隊 Chilangas FC，並將首度代表國家出征在巴西舉行的女子盲人足球美洲盃賽事。",
+      "希臘雅典：希臘透過「颱風計畫」持續推動海岸清潔行動，已成功清理超過 4,800 段海岸線並清除逾 1,090 噸海洋垃圾，讓美麗沙灘重現煥然一新的面貌。",
+      "澳洲雪梨：科學家在澳洲近海拍到野生海豚利用海螺殼作為工具捕食的罕見畫面，為海洋哺乳動物的聰明智慧再添一項趣味實證。"
+    ],
+    "comment_id": 5388750394,
+    "story": "志工們在「颱風計畫」的清潔船上忙著收攏噸級的海岸廢棄物，而貓咪「金曜」則巡視著剛撈起的海洋廢棄塑膠碎片與螺殼。拼貼畫面補捉了牠用牙齒與前腳小心翼翼分類亮金色浮標與黑色線圈的專注神情。星空下的海面上，牠宛如這座移動清潔基地最稱職的夜間小巡視員。"
   }
 ]
