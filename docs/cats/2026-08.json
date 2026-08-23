@@ -14123,5 +14123,43 @@
       "texture": "Leather",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Spotlight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Teal and Orange"
+    },
+    "story": "失蹤多年的老漁船沉落在墨西哥哥倫利亞的水下洞穴深處，水質卻奇蹟般保持清澈。這隻性格頑強的花貓穿梭在鏽蝕的管線之間，伸出前爪拍打著運轉中的古老海水淡化泵浦，為機艙角落裡棲息的幼小水母群帶來純淨的水流。",
+    "avoid_list": [
+      "倫勃朗光",
+      "撕紙拼貼效果",
+      "撕紙邊緣",
+      "純淨白底去背棚光",
+      "雙色調光影",
+      "正交投影",
+      "條紋百葉窗光影",
+      "手稿時裝速寫風",
+      "幾何影窗邊框",
+      "乾燥藥草與花卉組合",
+      "透光皮革與金屬雕花",
+      "霓虹螢光色系",
+      "香料與藥草工坊"
+    ],
+    "prompt": "A cinematic storyboard keyframe with an extreme wide handscroll composition depicting a continuous panoramic underwater narrative. Inside the submerged, rusted engine room of an old sunken vessel, a determined calico cat navigates oxidized industrial pipes and presses its front paw firmly onto the activation button of a mechanical seawater desalination pump, sending clear water toward a cluster of small jellyfish nestled in the corner. Oblique bird's-eye camera angle, layered depth across foreground and background, dramatic high-contrast narrow beam spotlight with sharp light edges and deep shadows. Punchy teal and orange cinematic color grading featuring warm orange-brown corrosion and peeling metal textures against cool blue-green aquatic depths. A sleek digital on-screen display in the lower corner shows the text '2026-08-23 05:18 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "深海洞穴的微光幫浦",
+    "news_inspiration": [
+      "墨西哥哥倫利亞：一名失蹤 15 天的漁夫在墨西哥的深層水下洞穴中被救援潛水員奇蹟般生還救出。",
+      "希臘薩摩斯島：希臘「颱風計劃」清潔船隊持續清理離島海岸線，累積已清理逾 4,800 個海岸區段並移除超過 1,090 噸海洋垃圾。",
+      "英國吉爾福德：薩里大學的研究人員發現，在鈉離子電池中保留微量水份能使其發電功率提升近一倍，同時有助於海水淡化技術。",
+      "墨西哥墨西哥城：墨西哥首支由視障女性組成的盲人足球隊「Chilangas FC」即將前往巴西參加首屆盲人女子足球美洲盃。",
+      "澳洲大堡礁：澳洲大堡礁的管理模式迎來重大突破，當地原住民傳統擁有人（Traditional Owners）獲准扮演更大角色的聯合管理與生態保育任務。"
+    ],
+    "comment_id": 5384391052,
+    "idea": "這幅採用電影分鏡與長卷全景構圖的作品，展現一隻花貓在鏽跡斑斑的沉船機艙內用爪子按壓海水淡化機按鈕，強烈的聚光燈投射出青橙電影調的深海微光。",
+    "inspiration": "墨西哥哥倫利亞：一名失蹤 15 天的漁夫在墨西哥的深層水下洞穴中被救援潛水員奇蹟般生還救出。",
+    "number": 3129
   }
 ]
