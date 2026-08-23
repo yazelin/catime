@@ -14443,5 +14443,43 @@
       "時間戳記 overlay"
     ],
     "story": "華麗細緻的紙捲紋理勾勒出繁複的宮廷桌椅，貓咪乘著主人不注意時躍上茶桌，正好奇地品嚐剛倒好的紅茶。直打的強烈閃光燈瞬間凝結了細微的液體飛沫，將這場小巧的茶會意外現場捕捉成永恆的宮廷日常。"
+  },
+  {
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Miniature Diorama",
+      "lighting": "Cinematic Lighting",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "story": "墨墨這天在古董店的最底層櫃檯發現了新到貨的神秘古物，那一枚比牠頭還大的巨齒鯊化石散發著歲月的氣息。牠優雅地伸長脖子，長長白鬍鬚微微顫動，用濕潤的鼻子輕輕碰了碰粗糙的化石表面，彷彿在與億萬年前的深海巨獸進行無聲對話。金琥珀色的雙眼在藍與黃的強烈對比色彩中閃爍著智慧的光芒，成了整座精緻微縮模型中最奪目的主角。",
+    "idea": "在藍黃互補色與普普藝術風格的微縮立體模型中，墨墨以描金墨線勾勒出修長身姿，在古董店鋪的櫥窗深處，專注地用鼻子探觸一枚巨大的史前巨齒鯊牙齒化石，全景佐以電影感打光。",
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "在美國新澤西州的海洋城海灘，一名11歲男孩在與家人撿拾貝殼時，意外發現了一枚極為罕見且保存完好的史前巨齒鯊牙齒化石。",
+      "在克羅埃西亞的斯普利特，歐洲最大的青少年業餘體育賽事「青年運動會」盛大慶祝成立30週年，吸引了來自巴爾幹地區數十萬名青少年熱烈參與。",
+      "在墨西哥的墨西哥城，當地成立了首支盲人女子足球隊「Chilangas FC」，並準備代表國家前往巴西參加美洲盃盲人女子足球錦標賽。",
+      "在瑞士的巴塞爾，巴塞爾大學的研究團隊成功研發出由單一原子與光子組成的微型量子引擎，為未來從廢熱中提取可用能源帶來重大突破。"
+    ],
+    "inspiration": "在美國新澤西州的海洋城海灘，一名11歲男孩在與家人撿拾貝殼時，意外發現了一枚極為罕見且保存完好的史前巨齒鯊牙齒化石。",
+    "title": "深海記憶的鼻尖對話",
+    "avoid_list": [
+      "微型量子引擎",
+      "盲人女子足球隊",
+      "鳥瞰俯瞰視角",
+      "多視角設計展示圖",
+      "月夜靛藍色調",
+      "螢光與紫外黑光燈效果",
+      "微型蕾絲鏤空風鈴",
+      "前爪輕碰或撥弄物件",
+      "黃金時刻與金邊輪廓光",
+      "燭光與透光紗網肌理",
+      "繁體中文與英文文字規範指令",
+      "時間戳記 overlay"
+    ],
+    "number": 3138,
+    "prompt": "Pop art miniature diorama of a quaint antique shop window display in a tiny detailed scale model with tilt-shift effect and bold graphic vibrancy. Momo, a sleek slender four-legged solid black Bombay shorthair cat with satin-sheen fur, visible muscle definition, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft of fur on the ventral chest, a single dark-grey ring at the tail tip, and a single small gold hoop earring on the left ear (viewer perspective), is stretching forward gracefully, gently touching its wet nose to an enormous prehistoric megalodon shark tooth fossil resting on a low wooden counter. The cat is rendered with gilded ink outline textures, fine black brush lines edged with lustrous metallic gold contours. The scene features pop art aesthetic with subtle Ben-Day dots, Warhol-inspired repetition in the background curios, and a vivid contrasting complementary palette of rich cobalt blue and vibrant golden yellow. Dramatic cinematic lighting with volumetric light rays and high dynamic range casting crisp shadows across the miniature set. Clearly printed on a vintage brass label on the display case in crisp English text is '2026-08-23 14:12 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5386456952
   }
 ]
