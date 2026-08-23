@@ -14198,5 +14198,38 @@
       "texture": "Sheer Gauze Mesh",
       "color_palette": "Vermilion and White"
     }
+  },
+  {
+    "story": "老船長矗立於以大地色系為主的木雕機關場景中，伴隨著環形燈的勻稱照射，展現出身上深棕粗條紋與左眼深色眼罩的威嚴。牠的足趾輕壓著連動齒輪，轉動著後方海浪形狀的木質機關，彷彿仍在碼頭守護著這片水域。",
+    "character": "captain",
+    "title": "木輪上的港灣守護者",
+    "number": 3131,
+    "comment_id": 5384831043,
+    "character_name": "船長",
+    "news_inspiration": [],
+    "idea": "在手作機關偶風格的設計展示圖中，大型虎斑貓「船長」踏在刻有木紋的手搖齒輪基座上，身旁以服裝多視角展示呈現牠專屬的褪色紅頭巾細節。",
+    "inspiration": "original",
+    "avoid_list": [
+      "伸出前爪觸碰或撥動物件",
+      "倫勃朗光與三角形陰影",
+      "時間戳記2026-08-22/23",
+      "撕紙拼貼與筆記本線條",
+      "冷青色與湛藍色調",
+      "繁體中文與英文文字限定規範",
+      "極致強烈聚光燈與深邃陰影",
+      "鳥瞰俯視構圖視角",
+      "蕾絲鏤空與鐵雕花紋",
+      "傳統宮廟與紅瓦屋頂微縮模型",
+      "黃金時刻夕陽餘暉與金邊光",
+      "四足踩踏於細緻基座"
+    ],
+    "prompt": "A clean multi-view design sheet and lookbook layout photograph showcasing a handmade mechanical cat figurine automaton. In the primary panel, Captain, a large stocky classic brown tabby cat with coarse scruffy fur, bold black stripes, white chest bib, and four white mitten paws, rests all four paws on a hand-cranked wooden gear pedestal. His left ear features a distinct V-shaped notch, his left eye socket is completely covered by a natural dark fur marking patch with no fabric or straps, and his right eye is a piercing emerald green. Around his neck is loosely tied a faded red bandana. One front paw rests atop interlocking aged copper and brass gears linked to carved wooden ocean wave mechanisms. Side panels display multi-view product details including front view, back view, and close-ups of the faded red bandana and brass linkage. Studio ring light illumination with circular catchlights, shallow depth of field, sharp 50mm macro lens focus, neutral earth tone studio backdrop with terracotta and warm wood accents. Discrete label printed in corner reading '2026-08-23 07:23 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Ring Light",
+      "texture": "Wood Grain",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
