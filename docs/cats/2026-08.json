@@ -14609,5 +14609,41 @@
     "story": "夜市的霓虹燈光灑在麻糬圓滾滾的橘白毛軀上，將牠襯托得像一顆閃耀的花生麻糬。牠憑著對美味的執著，憑藉敏銳嗅覺鎖定了攤位上散發香氣的肉串，趁老闆不注意時偷偷伸出爪子。周圍顧客看著這隻肚子微晃的胖貓，都被牠大圓眼中閃爍的呆萌眼神融化，根本捨不得阻止。",
     "idea": "在霓虹螢光色彩濃烈的羊毛氈老街夜市中，橘白貓麻糬正以對角線構圖穿梭於摺紙質感的攤位間，伸出橘色套袖般的右前腳悄悄勾取高掛的香腸。",
     "comment_id": 5387667673
+  },
+  {
+    "avoid_list": [
+      "巨齒鯊牙齒化石",
+      "盲人女子足球隊",
+      "量子熱機",
+      "微縮模型與移軸效果",
+      "多視角服裝設計圖展示",
+      "淺景深特寫鏡頭",
+      "極低角度與俯瞰視角",
+      "時間戳記與繁體中文規範",
+      "朱紅與純白對比配色",
+      "緋紅與烏黑強烈光影",
+      "手作機關與黏土定格動畫"
+    ],
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Orthographic Projection",
+      "lighting": "Underwater Caustics",
+      "texture": "Marble",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "哈薩克斯坦烏利套（Ulytau）：哈薩克斯坦政府歷經逾十年的準備與保育，成功將阿姆河虎放歸至當地的自然保護區，這是該地區睽違70年後首次迎來老虎回歸野生環境。",
+      "英國拉夫堡（Loughborough）：當地大學舉辦了一場結合體育與環保的「拾荒運動」（SpoGomi）競賽，參賽學生在一下午內合力清理了城鎮中多達281公斤的垃圾。",
+      "澳洲凱恩斯（Cairns）：公民科學家在豪宅礁附近的哥倫堡礁發現了一座面積廣達3,973平方公尺的巨型柱狀微孔珊瑚，成為大堡礁已知紀錄中規模最大的珊瑚體之一。",
+      "希臘基克拉澤斯群島（Cyclades）：第二階段「颱風計畫」（Typhoon Project）環保海岸清理行動順利展開，研究團隊已巡迴多個島嶼並從海岸線累計清除超過1,090公噸的海洋廢棄物。",
+      "墨西哥墨西哥城（Mexico City）：當地女子盲人足球隊「Chilangas FC」積極展開集訓，準備代表國家出征首屆於巴西舉辦的女子盲人足球美洲盃賽事。"
+    ],
+    "comment_id": 5387967653,
+    "prompt": "A Neo-Impressionist Pointillism painting using a systematic dot technique with tiny dabs of pure color and optical color mixing to create a luminous surface. Orthographic projection with a straight-on flat technical illustration style and no perspective distortion. On a polished marble temple base with natural vein patterns and classical elegance, a cat is actively pawing at drifting fragments of massive Porites coral submerged underwater. The scene is illuminated by underwater caustic lighting, rippling light patterns dancing over the subject, blue-green aquatic glow, and refracted sun shafts through water. Warm earth tone palette featuring terracotta, olive green, warm brown, and natural organic harmony in a submerged dreamlike atmosphere. The date and time '2026-08-23 19:14 UTC' is visually displayed in clear English text in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "古老的大理石神殿遺跡沉睡於海底，這隻貓咪優雅地佇立在巨大的微孔珊瑚旁，用敏銳的貓爪輕輕推動流經腳邊的珊瑚碎屑。水面折射出的焦散光影點點斑駁，以精密而細致的彩點層層交織，將這個平行的沉靜海底世界鋪陳得莊嚴而詩意。",
+    "number": 3143,
+    "inspiration": "澳洲凱恩斯（Cairns）：公民科學家在豪宅礁附近的哥倫堡礁發現了一座面積廣達3,973平方公尺的巨型柱狀微孔珊瑚，成為大堡礁已知紀錄中規模最大的珊瑚體之一。",
+    "idea": "這幅新印象派點描風格的作品，以正交投影的平行視角呈現大理石神殿基座上，一隻貓咪正在用爪子撥動著飄落的巨型微孔珊瑚碎屑，整座空間沉浸在波光粼粼的水下焦散光與溫暖的大地色系中。",
+    "title": "珊瑚神殿的平行點滴"
   }
 ]
