@@ -14303,5 +14303,42 @@
     ],
     "inspiration": "墨西哥哥倫比亞城成立了首支全盲女子足球隊 Chilangas FC，即將代表國家出戰美洲盃賽事。",
     "story": "首支全盲女子足球隊正在粗糙的混凝土球場上進行夜間特訓，隨隊的黏土橘貓專注地用小頭與身體幫忙控住那顆發出螢光綠與亮紫色的響鈴足球。在黑光燈的照射下，球員們靠著清脆的鈴聲與貓咪精準的護球軌跡默契配合，為即將到來的賽事做足準備。"
+  },
+  {
+    "news_inspiration": [
+      "在哈薩克的伊犁-巴爾喀什自然保護區，保育團隊成功將一隻名為「希望」的東北虎釋放至野外，這是該地區睽違70年後再次迎來老虎奔跑。",
+      "瑞士巴塞爾大學的物理學家成功開發出一種由單一原子與光子構成的微型量子引擎，成功從微小的「廢熱」中提取出有用能量。",
+      "墨西哥哥倫比亞城（墨西哥城）的「奇蘭加斯足球俱樂部」成立了該國首支盲人女子足球隊，並即將代表國家前往巴西參加美洲盃錦標賽。",
+      "希臘的「颱風計畫」環保團隊在希臘多座島嶼的海岸線展開大規模清理行動，至今已清除超過1090公噸的海灘垃圾與海洋廢棄物。",
+      "美國華盛頓特區的史密森尼國家保育生物學研究所宣佈，園區內於今年順利誕生了三隻極其珍貴的小小紅貓熊（小貓熊）寶寶。"
+    ],
+    "avoid_list": [
+      "伸出前爪觸碰或撥動物件",
+      "倫勃朗光與三角形陰影",
+      "時間戳記2026-08-22/23",
+      "撕紙拼貼與筆記本線條",
+      "冷青色與湛藍色調",
+      "繁體中文與英文文字限定規範",
+      "極致強烈聚光燈與深邃陰影",
+      "鳥瞰俯視構圖視角",
+      "蕾絲鏤空與鐵雕花紋",
+      "傳統宮廟與紅瓦屋頂微縮模型",
+      "黃金時刻夕陽餘暉與金邊光",
+      "四足踩踏於細緻基座"
+    ],
+    "idea": "這幅採用賽璐璐著色風格的作品，描繪一隻橘貓正以淺景深特寫視角盯著一部廢棄的蒸汽金屬引擎運作，窗邊柔光映照著雙色調的金屬質感。",
+    "inspiration": "瑞士巴塞爾大學的物理學家成功開發出一種由單一原子與光子構成的微型量子引擎，成功從微小的「廢熱」中提取出有用能量。",
+    "comment_id": 5385471908,
+    "story": "在古老的機械工作坊中，這隻貓咪好奇地湊近那台剛修復好的微型量子熱能裝置。窗外透過的柔柔微光，將金屬機具的冷冽與貓咪身上的溫暖色彩交織成別緻的景象。",
+    "number": 3134,
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Window Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Duotone"
+    },
+    "prompt": "Cel-shaded anime illustration of a curious ginger cat in a shallow depth-of-field close-up, staring intently at an intricate abandoned miniature steam metal engine in an old workshop. Flat color areas with crisp bold outlines, toon shading, and sharp shadow edges. Soft gentle daylight streaming through a side window creates classic directional illumination, highlighting the brushed and polished metallic surfaces with sharp reflections. Duotone graphic color scheme contrasting warm ginger tones with cool industrial metal. The text '2026-08-23 10:12 UTC' is clearly stamped in crisp digital typography in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "微光中的量子之脈"
   }
 ]
