@@ -14924,5 +14924,36 @@
       "置中對稱機關構圖",
       "深夜海面光影定格"
     ]
+  },
+  {
+    "news_inspiration": [],
+    "title": "藍圖裡的地下迷宮",
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "這是一副建築藍圖風格的設計圖，描繪一隻虎斑貓在地圖桌上記錄舊地鐵線路，畫面融合了服裝多視角展示的構圖與紗網薄透肌理。",
+    "avoid_list": [
+      "前爪撥弄齒輪與按鈕",
+      "廢棄天文台望遠鏡",
+      "魚眼鏡頭桶狀畸變",
+      "環形燈眼部圓形反光",
+      "竹影翠綠色調",
+      "穿透隙縫的體積光束",
+      "雨夜霓虹與濕地倒影",
+      "海岸防波堤清理廢棄物",
+      "多格角色拼貼版面",
+      "手作樹脂與陶瓷偶材質",
+      "置中對稱機關構圖",
+      "深夜海面光影定格"
+    ],
+    "prompt": "An architectural blueprint style illustration of a tabby cat recording old subway lines on a map table. The layout is arranged as a multi-view fashion design sheet and lookbook reference guide, featuring front view, back view, side view, and detail close-up panels with labeled views, precise measurements, and technical annotations. Fine white lines on a traditional blueprint aesthetic, layered over an earth tone palette of terracotta, olive green, and warm brown. Sheer gauze mesh texture and translucent netting create delicate gossamer shadows. Dramatic Rembrandt lighting with a single 45-degree light source creating chiaroscuro. Visually displayed clearly on the blueprint annotations in clean text is the exact timestamp: '2026-08-24 05:28 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3152,
+    "story": "深夜的工程事務所裡，老虎斑貓優雅地踏過鋪滿幾何線條的藍圖，爪子劃過標註的地鐵軌道。倫勃朗光透過透光的紗網窗簾，在大地色系的圖紙上記錄下牠專注探索地下迷宮的每一個視角。",
+    "inspiration": "original",
+    "comment_id": 5391125342
   }
 ]
