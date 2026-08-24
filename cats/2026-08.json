@@ -15466,5 +15466,39 @@
     ],
     "title": "鏡像裏的胡蘿蔔",
     "number": 3167
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文文字限制標註",
+      "UTC 時間戳記與日期顯示",
+      "貼紙拼貼與紙藝邊框",
+      "極簡主義展示與白底空間",
+      "青藍與橘紅對比色調",
+      "黑光螢光與霓虹發光效果",
+      "柔焦霧面與大光圈淺景深",
+      "貓咪俯瞰或凝視微型模型",
+      "35mm鏡頭拍攝視角",
+      "古董機械與齒輪工坊"
+    ],
+    "news_inspiration": [
+      "泰國：生物學家在泰國發現一種全身呈黃褐色的新型山角蜥蜴，並將其命名為「Syrax」以致敬知名奇幻劇集中的巨龍。",
+      "特里尼達和多巴哥：第39屆多巴哥傳統文化節在肖公園綜合體盛大開幕，透過傳統戲劇與民俗表演展示豐富的非洲裔文化遺產。",
+      "紐西蘭：位於奧特亞羅瓦的五個全新海洋保護區正式生效，開創由政府與毛利人凱塔胡部落共同管理的保育新模式。",
+      "美國：科學家成功開發出一款微型的「晶片彩虹」光子元件，能同時產生多個高頻訊號，預計將大幅提升未來6G通訊網路的傳輸速度。"
+    ],
+    "comment_id": 5401518733,
+    "number": 3168,
+    "prompt": "A dreamy pastel editorial photography shot from a top-down flat-lay framing and overhead high-angle bird's-eye view. A long-haired warm amber cat reclines in a sea of dense autumn blossoms, curiously reaching out its right paw to pat a small yellowish-brown lizard resting on a plant stem. Playful high-key mood with soft, even illumination, bright airy overexposed feel, clean luminous atmosphere, and minimal shadows. Autumn color palette filled with golden yellows, cozy burnt orange, and warm nostalgic warmth. The text '2026-08-24 21:17 UTC' is subtle yet clearly visually displayed on the image. Shot on a 35mm lens, f/1.8 aperture, shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Dreamy Pastel Editorial",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "採用夢幻粉彩編輯攝影風格，一隻溫潤琥珀色的長毛貓俯臥在盛開的秋日花海之中，正伸出右爪好奇地拍打一隻棲息在植物莖稈上的黃褐色蜥蜴。",
+    "story": "在泰國山林交界處的花田深處，生物學家剛發現的黃褐色山角蜥蜴正靜靜躺在溫暖的光影裡。長毛貓輕巧地穿梭於滿滿的暖色花叢間，以高角度的視角俯瞰這隻宛如微型小龍的新朋友，並用粉嫩的肉墊探尋著自然界的奇妙相遇。",
+    "inspiration": "泰國：生物學家在泰國發現一種全身呈黃褐色的新型山角蜥蜴，並將其命名為「Syrax」以致敬知名奇幻劇集中的巨龍。",
+    "title": "花海中的琥珀微光"
   }
 ]
