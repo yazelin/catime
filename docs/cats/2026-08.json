@@ -14991,5 +14991,43 @@
       "深夜海面光影定格"
     ],
     "story": "羊群闖入公車的新聞讓城市鬧劇連連，而這隻公車總站的巡邏貓卻在休息室電梯裡自顧自地保養。牠站在貼滿通告的鏡子前趴著，試圖用爪子勾住化妝包裡那張柔軟的天鵝絨面紙。日光燈照亮了牠認真的表情，彷彿正透過鏡頭為這場混亂的日常留下完美的視角紀錄。"
+  },
+  {
+    "idea": "採用貢德畫風格與正交投影構圖，結合生物發光與柔焦霧面質感，以中國紅金為主色調，壯碩的虎斑貓「船長」正趴在漁港防波堤上，全神貫注地盯著一隻散發藍光的小生物。",
+    "character_name": "船長",
+    "news_inspiration": [
+      "泰國：科學家在泰國的高海拔森林中發現了一種小型黃色樹蜥新品種，並以熱門影集中的飛龍命名為「敘拉克斯角蜥」（Acanthosaura syrax）。",
+      "美國：美國車手 Kyle Kirkwood 在華盛頓特區國家廣場舉辦的印第賽車 Freedom 250 大獎賽中奪得冠軍。",
+      "英國：英國與歐洲多地迎來特別的天文奇觀，月球於黎明前進入地球陰影呈現獨特的古銅紅色月偏食現象。",
+      "奧地利：維也納獸醫醫學大學的科學家發表研究，首次記錄到一隻名為 Veronika 的乳牛展現出罕見的工具使用能力。"
+    ],
+    "story": "在古銅紅月輝映的港口邊，這位平日威風凜凜的碼頭老大正微微弓起背，雙眼放光地盯著奇異的發光小魚，瞬間失去了平時的嚴肅神情。牠粗糙的尾巴在身後興奮地擺動著，守護著這片被紅金色彩渲染的海域。",
+    "number": 3154,
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Orthographic Projection",
+      "lighting": "Bioluminescence",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Festive Red and Gold"
+    },
+    "prompt": "Gond painting illustration with intricate dot and line patterns, nature-inspired motifs, and orthographic projection layout without perspective distortion. Festive Chinese red and bright gold color palette dominating the scene with deep blue-green bioluminescent radiance. A large, stocky, muscular brown classic tabby cat named Captain, featuring coarse scruffy fur texture, bold black stripes, white chest bib, white mitten paws, and a faded red bandana tied around his neck. His right eye is piercing emerald green, his left ear has a prominent V-shaped notch, and his left eye is permanently hidden by a natural dark-pigmented fur patch with no straps or fabric. The cat is crouched on a fishing port breakwater, intensely watching a tiny glowing bioluminescent blue sea creature. Soft-focus matte haze and low-contrast dreamy diffused atmospheric blur over the scene. The timestamp '2026-08-24 07:48 UTC' is visually displayed in the corner of the image in clear typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5392238972,
+    "avoid_list": [
+      "前爪撥弄齒輪與按鈕",
+      "廢棄天文台望遠鏡",
+      "魚眼鏡頭桶狀畸變",
+      "環形燈眼部圓形反光",
+      "竹影翠綠色調",
+      "穿透隙縫的體積光束",
+      "雨夜霓虹與濕地倒影",
+      "海岸防波堤清理廢棄物",
+      "多格角色拼貼版面",
+      "手作樹脂與陶瓷偶材質",
+      "置中對稱機關構圖",
+      "深夜海面光影定格"
+    ],
+    "inspiration": "英國：英國與歐洲多地迎來特別的天文奇觀，月球於黎明前進入地球陰影呈現獨特的古銅紅色月偏食現象。",
+    "title": "赤月港的凝視",
+    "character": "captain"
   }
 ]
