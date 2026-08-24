@@ -15365,5 +15365,43 @@
       "texture": "Shibori Textile",
       "color_palette": "Crimson and Black"
     }
+  },
+  {
+    "comment_id": 5399547686,
+    "number": 3165,
+    "style_picks": {
+      "art_style": "Dreamy Pastel Editorial",
+      "composition": "Knolling Photography",
+      "lighting": "Cinematic Lighting",
+      "texture": "3D Render",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "title": "夏日海灘西瓜宴",
+    "character_name": "麻糬",
+    "character": "mochi",
+    "idea": "在融合金色與黑色奢華質感的海岸特設冰店前，橘白貓麻糬穿著迷你浮水衣，以夢幻粉彩編輯攝影風格與 Knolling 整齊排列的西瓜切片及夏季海灘道具和諧呈獻。",
+    "prompt": "Dreamy pastel editorial Knolling flat lay photography featuring Mochi, a chubby, short-legged orange and white shorthair cat, lying on a peanut-pink beach mat in front of a luxury beachside ice cream stand decorated with sleek black and metallic gold accents. The cat has a white base coat, amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw mitten, a pure white left front paw, and a distinctive orange mask covering only the right side of its face while the left side remains pure white. Mochi wears a tiny, custom-fitted mini flotation vest while napping with a satisfied expression. Arranged in a neat 90-degree grid layout around the cat are crisp watermelon slices and summer beach props, framed against a clean background with soft volumetric lighting, dramatic shadows, and a whimsical cotton-candy cloud backdrop. Photographed on a 35mm lens at f/2.8 with shallow depth of field and soft natural lighting. In the corner, the text '2026-08-24 18:22 UTC' is visibly displayed in a clean sans-serif font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在英國湖區的赫爾威林峰，一隻走失長達三週的寵物犬奇蹟般在一處陡峭峽谷中被搜救志工平安尋獲。",
+      "在美國的一家加油站，業者推出「跳舞換油價折扣」的趣味活動，吸引大量民眾在鏡頭前大秀舞技並在社群上引發熱潮。",
+      "在千里達及托貝哥的肖公園，第39屆托貝哥傳統文化節正式開幕，透過大型歷史舞台劇生動呈現島嶼的傳統民俗與加勒比海文化遺產。",
+      "在日本，科學家於地下水生態系中發現了兩種全新且沒有眼睛的微小端足類生物，為地下深處的生物多樣性研究帶來全新突破。"
+    ],
+    "avoid_list": [
+      "繁體中文與英文文字限制標註",
+      "UTC 時間戳記與日期顯示",
+      "貼紙拼貼與紙藝邊框",
+      "極簡主義展示與白底空間",
+      "青藍與橘紅對比色調",
+      "黑光螢光與霓虹發光效果",
+      "柔焦霧面與大光圈淺景深",
+      "貓咪俯瞰或凝視微型模型",
+      "35mm鏡頭拍攝視角",
+      "古董機械與齒輪工坊"
+    ],
+    "is_seasonal": true,
+    "season": "summer",
+    "story": "圓滾滾的麻糬在海邊擺滿西瓜切片的攤位前湊熱鬧，穿著量身打造的迷你浮水衣，看到鮮紅消暑的西瓜頓時圓眼放大。就算四肢短粗，牠依然滿足地趴在整齊排列的花生粉色沙灘墊上，瞇著眼一邊打呼，一邊享受微風吹拂的夏日午後。",
+    "inspiration": "original"
   }
 ]
