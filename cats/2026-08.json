@@ -15291,5 +15291,41 @@
     "story": "純白無瑕的空間裡，現實與夢境的界線變得模糊。這隻貓小心翼翼地沿著懸空階梯探索，被眼前那抹鮮豔的黃色深深吸引。牠停下腳步，靜靜觀察著這個不合常理卻又無比寧靜的奇妙世界。",
     "number": 3162,
     "title": "懸浮階梯上的貓"
+  },
+  {
+    "number": 3163,
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Centered Subject Composition",
+      "lighting": "Underwater Caustics",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "avoid_list": [
+      "時間戳記標註",
+      "青橙電影調",
+      "貼紙拼貼邊框",
+      "大地色系",
+      "高調明亮光",
+      "棉花糖霜雪",
+      "繁體中文或英文限制指令",
+      "微型機器人與模型",
+      "生物發光與螢光",
+      "俯瞰與扁平擺拍構圖",
+      "前爪伸出與拍打動作",
+      "蠟筆與水彩藝術風格"
+    ],
+    "idea": "這幅手繪信息圖以居中主體構圖呈現一隻穿梭於玻璃展缸前的斑紋貓，牠伸出後腳踮立、前爪懸空地追逐悠游的水母，背景則以藍黃互補色與金箔祥雲紋樣裝飾，水下焦散光隨之波光粼粼。",
+    "title": "水晶宮裡的巡視者",
+    "prompt": "A hand-drawn infographic illustration featuring a tabby cat balancing on its hind legs and reaching out with its front paws to chase swimming jellyfish in a glass aquarium tank, with '2026-08-24 16:22 UTC' cleanly rendered as text in the image. Centered subject composition with a single focal point dead center, balanced symmetrical framing, and clean surrounding space. Paper texture background, calligraphy brush strokes, and warm rustic aesthetic. Underwater caustic lighting creates rippling light patterns dancing over the subject in a blue-green aquatic glow with a submerged dreamlike atmosphere. Background decorated with gold leaf ornamental clouds and traditional East Asian auspicious cloud motifs featuring intricate curling swirl patterns and embossed metallic finish. Blue and yellow complementary color palette with vivid contrasting cool blue and warm yellow. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在東京水母館的透明長廊中，任命不久的「首席貓咪官」正認真執行巡視任務。牠駐足於巨型展缸前，凝視著擺動觸手的藍色水母，並用俐落的圖解箭頭與備忘標註上記錄下這群幽靈般顧客的游動軌跡。",
+    "comment_id": 5398156563,
+    "inspiration": "在日本東京，全球首座完全致力於呈現水母奇觀的展示館掀起觀展熱潮，吸引大量遊客前來感受水母悠游的療癒魅力。",
+    "news_inspiration": [
+      "在美國波士頓，美式餐飲品牌 Dunkin' 與寵物品牌 BARK 合作推出了專為狗狗設計的汽車取餐服務（Dog Drive-Thru）與限定玩具，吸引許多飼主帶愛犬體驗。",
+      "在立陶宛維爾紐斯，一年一度的柯基犬大賽（Corgi Race Vilnius 2026）熱鬧登場，吸引數十隻可愛的柯基犬在賽道上奔跑開路與較勁。",
+      "在印度孟買，當地的地鐵公司特別任命了一隻人氣流浪橘貓為「首席貓咪官」（Chief Feline Officer），可愛的舉動引發網友熱烈討論。",
+      "在日本東京，全球首座完全致力於呈現水母奇觀的展示館掀起觀展熱潮，吸引大量遊客前來感受水母悠游的療癒魅力。"
+    ]
   }
 ]
