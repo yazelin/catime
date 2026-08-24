@@ -15500,5 +15500,34 @@
     "story": "在泰國山林交界處的花田深處，生物學家剛發現的黃褐色山角蜥蜴正靜靜躺在溫暖的光影裡。長毛貓輕巧地穿梭於滿滿的暖色花叢間，以高角度的視角俯瞰這隻宛如微型小龍的新朋友，並用粉嫩的肉墊探尋著自然界的奇妙相遇。",
     "inspiration": "泰國：生物學家在泰國發現一種全身呈黃褐色的新型山角蜥蜴，並將其命名為「Syrax」以致敬知名奇幻劇集中的巨龍。",
     "title": "花海中的琥珀微光"
+  },
+  {
+    "inspiration": "original",
+    "story": "陶藝師剛轉身去取陶土，好奇的貓兒便悄悄湊上前，伸出肉球輕碰旋轉的泥胚。飛濺的赭石與陶土色澤在工坊中凝結，將這一刻的專注定格於剔透溫潤的玻璃拼嵌之中。",
+    "avoid_list": [
+      "繁體中文與英文文字限制標註",
+      "UTC 時間戳記與日期顯示",
+      "貼紙拼貼與紙藝邊框",
+      "極簡主義展示與白底空間",
+      "青藍與橘紅對比色調",
+      "黑光螢光與霓虹發光效果",
+      "柔焦霧面與大光圈淺景深",
+      "貓咪俯瞰或凝視微型模型",
+      "35mm鏡頭拍攝視角",
+      "古董機械與齒輪工坊"
+    ],
+    "idea": "一隻三花貓在傳統陶藝工坊裡專注地用前爪撥動旋轉中的拉坯機，整體以大地色系的彩色玻璃嵌板拼貼呈現，結合側臉特寫視角、白底去背棚光及細膩的線框透明質感。",
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Side Profile Portrait",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Earth Tones"
+    },
+    "title": "泥胚轉動時",
+    "news_inspiration": [],
+    "prompt": "A calico cat focused on touching a spinning pottery wheel with its front paw inside a traditional ceramic studio, rendered in a stained glass window style with translucent jewel-toned segments and bold black outlines. Side profile portrait showing an elegant lateral framing, clean silhouette, and profile-defining contours. White seamless studio lighting creates an evenly lit subject on a pure white cyclorama with a bright high-key backdrop and crisp commercial clarity. Features a wireframe overlay texture with glowing geometric mesh lines over the form, creating a translucent technical grid. Natural organic harmony color scheme dominated by an earth tone palette of terracotta, olive green, and warm brown. The date and time '2026-08-24 22:13 UTC' is visually displayed in clear text on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5402158559,
+    "number": 3169
   }
 ]
