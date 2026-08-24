@@ -15403,5 +15403,39 @@
     "season": "summer",
     "story": "圓滾滾的麻糬在海邊擺滿西瓜切片的攤位前湊熱鬧，穿著量身打造的迷你浮水衣，看到鮮紅消暑的西瓜頓時圓眼放大。就算四肢短粗，牠依然滿足地趴在整齊排列的花生粉色沙灘墊上，瞇著眼一邊打呼，一邊享受微風吹拂的夏日午後。",
     "inspiration": "original"
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文文字限制標註",
+      "UTC 時間戳記與日期顯示",
+      "貼紙拼貼與紙藝邊框",
+      "極簡主義展示與白底空間",
+      "青藍與橘紅對比色調",
+      "黑光螢光與霓虹發光效果",
+      "柔焦霧面與大光圈淺景深",
+      "貓咪俯瞰或凝視微型模型",
+      "35mm鏡頭拍攝視角",
+      "古董機械與齒輪工坊"
+    ],
+    "prompt": "A duotone watercolor painting featuring a cat extending its paw to pat at splashing water by an old stone fountain. Wet-on-wet technique with soft transparent pigments, bleeding edges, and visible paper texture. Frame-within-a-frame composition using the stone fountain archway to frame the action. Ring light illumination creates a distinct circular halo effect and smooth frontal lighting. Water droplets and spray are captured bursting mid-motion in dynamic liquid arcs. Rendered strictly in a two-color duotone palette for a bold graphic design feel. Visually displayed clearly in the image is the date and time string '2026-08-24 19:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "澳洲雪梨（Sydney, Australia）：研究人員發現當地的葵花鳳頭鸚鵡展現驚人適應力，在炎熱天氣下會成群耐心排隊使用市區公園的飲水機暢飲解渴。",
+    "news_inspiration": [
+      "泰國（Thailand）：生物學家在高海拔山區森林中發現了一種外觀奇特的黃色角蜥新物種，並以奇幻影集中的龍將其命名為「敘拉克斯角蜥」（Acanthosaura syrax）。",
+      "澳洲雪梨（Sydney, Australia）：研究人員發現當地的葵花鳳頭鸚鵡展現驚人適應力，在炎熱天氣下會成群耐心排隊使用市區公園的飲水機暢飲解渴。",
+      "加拿大卑詩省奧卡納干湖（Okanagan Lake, Canada）：研究團隊在當地淡水湖泊中確認了一種過去被誤認的全新本土螯蝦物種，為北美水生生態保育帶來新契機。",
+      "歐洲南方天文台／智利帕瑞納天文台（Paranal Observatory, Chile）：國際天文學家首次在銀河系外的遙遠星系周圍觀測到由球狀星團形成的微弱星流，為揭開宇宙暗物質之謎提供了關鍵新線索。"
+    ],
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Frame Within a Frame",
+      "lighting": "Ring Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Duotone"
+    },
+    "number": 3166,
+    "comment_id": 5400186781,
+    "title": "羽翼與飛濺的湧泉",
+    "story": "在炎熱的雪梨公園裡，市民們驚奇地看著一隻花貓湊在公共飲水機旁，好奇地看著葵花鳳頭鸚鵡們秩序井然地排隊喝水。牠忍不住伸出前爪輕叩水栓，看著清涼的水花四濺開來，順便為鳥兒們遞上一場酣暢淋漓的午後水舞。",
+    "idea": "這幅水彩畫採用雙色調呈現，以環形燈照射出獨特的圓形光暈，並利用古老噴泉石雕構築框中框構圖，捕捉一隻貓咪在噴泉邊伸出爪子撥弄靈動水花飛濺的生動瞬間。"
   }
 ]
