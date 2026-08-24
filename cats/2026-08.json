@@ -14886,5 +14886,43 @@
       "texture": "Dynamic Water Splash",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "character": "lingling",
+    "prompt": "A candid photography shot with IXUS point-and-shoot camera aesthetic, direct flash, slightly overexposed highlights, taken from a flat lay overhead Knolling view. Objects neatly arranged in an organized grid layout at 90-degree angles on a wooden table in a greenhouse garden balcony: rusted weathered metal flowerpots with oxidized patina and peeling paint, and neatly arranged colorful blooming flowers. At the center, Lingling, an extremely fluffy pure white #FFFFFF longhair cat resembling a Ragdoll with voluminous cloud-like pure white fur, pure white without any dark or colored patches, a small round face, huge round sapphire-blue #0F52BA eyes occupying one-third of the face, a pale pink #FFB6C1 nose, and a bright pink #FF69B4 ribbon bow collar with a centered small golden #FFD700 bell clearly visible. Lingling's pink paw pad curiosly presses on the control interface of a glowing miniature solar-powered robot. The scene is illuminated by soft window light and gentle directional daylight with smooth falloff into cool blue-green shadows, featuring a teal and orange cinematic color grading. In the corner of the photograph, the date and time '2026-08-24 04:33 UTC' is visually displayed in standard camera timestamp format. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "溫室陽台的光影尋寶",
+    "news_inspiration": [
+      "泰國（泰國西部達府）：科學家在湄翁國家公園的高山森林中發現了一種外型偏黃、體型小巧的新物種角蜥，並以奇幻影集《龍族前傳》中的巨龍「敘拉克斯」（Syrax）為其命名。",
+      "美國：科學團隊成功開發出由光能驅動的微米級微型機器人，能夠在液體中自主導航並精準捕捉、搬運細菌，為微觀生物醫學帶來嶄新突破。",
+      "尼泊爾：最新野生動物保育成果顯示，當地國家公園的野生孟加拉虎族群數量持續顯著增長，成為全球大型貓科動物復育的暖心典範。",
+      "牙買加（京斯敦）：聯合國推動的教育計畫運用客製化 AI 工具，成功協助當地患有學習障礙的兒童以自己的母語順利閱讀與理解繪本。"
+    ],
+    "inspiration": "美國：科學團隊成功開發出由光能驅動的微米級微型機器人，能夠在液體中自主導航並精準捕捉、搬運細菌，為微觀生物醫學帶來嶄新突破。",
+    "comment_id": 5390790883,
+    "idea": "在溫室花園陽台的木桌上，採用 IXUS 消費相機風格與 Knolling 排列攝影構圖，純白蓬鬆的布偶貓鈴鈴正用肉掌好奇地按壓一台光能微型機器人控制介面，周圍以鐵鏽舊化的金屬花盆與各色花卉齊整擺放，呈現青橙電影調與窗邊柔光。",
+    "character_name": "鈴鈴",
+    "story": "花店的溫室陽台上，陽光穿透窗戶灑在鏽跡斑斑的鐵藝架與齊整排列的花草植物間。鈴鈴叮鈴叮鈴地跑來，被桌上散發微光的新奇機器人吸引，正好奇地趴在木桌上伸出粉紅肉掌推擠著它。微型機器人在水盆裡滑動，讓這隻像棉花糖般的小貓看得大眼睛裡充滿了星星般的光芒。",
+    "number": 3151,
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Knolling Photography",
+      "lighting": "Window Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Teal and Orange"
+    },
+    "avoid_list": [
+      "前爪撥弄齒輪與按鈕",
+      "廢棄天文台望遠鏡",
+      "魚眼鏡頭桶狀畸變",
+      "環形燈眼部圓形反光",
+      "竹影翠綠色調",
+      "穿透隙縫的體積光束",
+      "雨夜霓虹與濕地倒影",
+      "海岸防波堤清理廢棄物",
+      "多格角色拼貼版面",
+      "手作樹脂與陶瓷偶材質",
+      "置中對稱機關構圖",
+      "深夜海面光影定格"
+    ]
   }
 ]
