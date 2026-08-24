@@ -14819,5 +14819,41 @@
     },
     "idea": "採用3D Q版盲盒風格，一隻透明樹脂質感的貓咪正趴在巨型天文望遠鏡頂端，用前腳輕輕踏擊按鈕調整鏡頭焦點，背景融合了朱紅留白色彩與星雲輝光的貼紙拼貼邊框。",
     "number": 3148
+  },
+  {
+    "news_inspiration": [
+      "英國惠特比（Whitby）：研究人員確認大西洋藍鰭金槍魚在絕跡約60年後首次重返英格蘭東北部海域，並成功進行生態標記研究。",
+      "日本：科學家在地下水源中發現了兩種全新未知的無眼微型甲殼類生物，為地下極限生態系統的研究帶來突破。",
+      "美國愛達荷州波夕（Boise）：8位青少年將在社群上爆紅的影響力轉化為實際環保行動，發起志工活動成功清理了波夕河。",
+      "塞爾維亞：研究人員在博物館庫房中意外解開多年謎團，確認一件歷史可追溯至6500年前、由人類牙齒雕琢而成的罕見古老吊墜。"
+    ],
+    "prompt": "A real photograph of a handmade mechanical cat figurine made of ceramic and aged brass pushing an underground gear with its front paws to activate a miniature water pump. Symmetrical composition centered on the subject inside an ornate cast iron filigree structure with Victorian wrought iron scrollwork. Shot on a 50mm lens, f/2.0, with volumetric light rays and cinematic lighting filtering through the metal openwork, casting geometric shadows across clear flowing water. Palette of bamboo jade-green, emerald, and malachite tones. The text '2026-08-24 02:15 UTC' is visually displayed in the image. Shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這座隱匿於地下盲區的精密機關由鑄鐵雕花鏤空構成，映照出竹影翠綠的沉靜光澤。貓咪偶輕踩轉軸，將清澈的水流引向發現全新微型甲殼類的極限生態棲地。電影感打光穿透鐵藝隙縫，在寂靜的地下水源上方折射出交織的幾何光影。",
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Symmetrical Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "comment_id": 5389957534,
+    "title": "翠影幽泉機關動",
+    "idea": "在竹影翠綠色調的對稱鏤空鑄鐵機關構造中，一隻手作機關偶質感的貓咪正專注地用前爪推動地下齒輪，啟動隱秘的微型水泵。",
+    "avoid_list": [
+      "巨齒鯊牙齒化石",
+      "微縮生態島與珊瑚礁",
+      "魚眼鏡頭超廣角扭曲",
+      "環形燈光與眼神光",
+      "復古褪色與網點質感",
+      "前爪撥弄或撥拉動作",
+      "立體刺繡與花卉貼花肌理",
+      "水下焦散與波光打光",
+      "洛可可與衍紙藝術風格",
+      "時間戳記 Traditional Chinese",
+      "黏土與羊毛氈手作質感",
+      "廢棄或古董場所微縮模型"
+    ],
+    "inspiration": "日本：科學家在地下水源中發現了兩種全新未知的無眼微型甲殼類生物，為地下極限生態系統的研究帶來突破。",
+    "number": 3149
   }
 ]
