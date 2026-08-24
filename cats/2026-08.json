@@ -15094,5 +15094,39 @@
     ],
     "idea": "採用壯麗自然風景攝影風格與長卷全景構圖，呈現一隻花貓在極地冰原觀測站上攀爬並凝視遠方冰川的畫面。",
     "number": 3156
+  },
+  {
+    "style_picks": {
+      "art_style": "Surreal Floral-Coral Sculpture",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "凍土深處的冰藍呼吸",
+    "number": 3157,
+    "news_inspiration": [
+      "義大利普利亞大區的清潔工人協助一位民眾從垃圾堆中成功尋回一張價值 150 萬美元且完好無損的中獎彩券。",
+      "科學家利用機器學習與基因分析發現，加拿大育空地區凍土中保存的冰河時期松鼠糞便揭示了古代生態系統的植物與動物細節。",
+      "最新天文觀測發現銀河系中心超大質量黑洞正吹出氣體風，此現象有助於科學家進一步破解該黑洞的自轉與演化之謎。"
+    ],
+    "avoid_list": [
+      "伸出前爪或用肉掌推按物件",
+      "被風吹亂的薄紗漁網與紗網肌理",
+      "竹影翠綠與大地色系配色",
+      "3D Q版盲盒樹脂質感",
+      "星空銀河與星雲輝光背景",
+      "時間戳記與繁體中文/英文限制語句",
+      "手作機關與齒輪構造",
+      "高飽和鮮艷花海與水花飛濺",
+      "俯瞰與鏡子自拍視角構圖",
+      "防波堤與海岸廢棄物/漁港場景",
+      "倫勃朗光與日光燈/硬光影打光"
+    ],
+    "idea": "在一座以黑光螢光與冷藍青色調渲染的微型冰川洞穴中，一隻冰藍色斑紋貓正匍匐於棉花糖般的雲朵霜雪上，用鼻子小心翼翼地嗅聞冰封在岩壁裡的古代松鼠遺骸，展現出立體花卉渲生雕塑的夢幻視覺與移軸微縮效果。",
+    "story": "古老凍土的深處隱藏著數萬年前的生命印記。四足伏地的貓咪凝視著被冰層完美保存的古代小生物，眼眸在冷光中映照出遙遠冰河時期的神秘氣息。它的每一次呼吸都在棉花糖般軟綿的雲霜上印下微小的痕跡，如同一場跨越時空的無聲對話。",
+    "prompt": "Tilt-shift macro photography of a miniature glacier cave scene, selective focus band with blurred foreground and background creating a toy-like diorama effect. An ice-blue tabby cat crouches on fluffy marshmallow-like cotton candy snow clouds, delicately sniffing the ancient fossil of a squirrel frozen inside translucent crystalline ice walls. Surreal biomorphic floral-coral sculptures and glossy databent growths emerge organically from the icy rock. Blacklight UV illumination and fluorescent neon pigments glowing against deep shadows, cool blue-teal color grading with crisp icy undertones and soft studio rim light. Subtly embossed in the corner is the timestamp text '2026-08-24 10:26 UTC' in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5393958370,
+    "inspiration": "科學家利用機器學習與基因分析發現，加拿大育空地區凍土中保存的冰河時期松鼠糞便揭示了古代生態系統的植物與動物細節。"
   }
 ]
