@@ -16163,5 +16163,40 @@
     "prompt": "Isometric top-down view of Momo, a sleek solid-black Bombay shorthair cat with satin-sheen fur, a tiny white chest locket tuft, golden-amber eyes, long white whiskers, and a single small gold hoop earring on its left ear. The cat is crouching on an ornate cinnabar-red book with metallic gold leaf scrollwork, reaching out a paw to touch a delicate black wrought iron filigree quantum instrument with a glowing floating photon inside. Set in an antique atmospheric astronomy bookstore attic during a fogged blue-white snowstorm visible through large windows. Palekh miniature painting style with vivid vermilion and gilt colors on a black lacquer background, Russian folkloric detailed artwork, gold leaf accents, cold blue-white atmospheric lighting with heavy falling snow flurries obscuring the distance. In the corner, the text '2026-08-25 17:21 UTC' is clearly rendered in crisp English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "微光機芯與墨影",
     "character_name": "墨墨"
+  },
+  {
+    "idea": "採用畫意攝影風格，一隻花貓正用前爪撥弄並踏上由瑞士研發的Hyperloop超高速列車測試模型，強烈的硬光日照透過車站頂棚的蕾絲鏤空鋼構投下網狀陰影，引導線構成的幾何軌道延伸向遠方。",
+    "prompt": "35mm lens photography of a calico cat curiosity-driven, tapping its front paw on a miniature Swiss Hyperloop test train on a track. Setting is a Zurich science festival exhibition hall under a lace openwork steel roof structure. High contrast natural daylight with strong midday sunlight casts complex grid mesh, lace-patterned hard edge shadows across the scene. Converging perspective lines and geometric rails form a strong leading lines composition, guiding the eye toward the cat and train. Retro faded color palette with washed-out vintage tones and faint film grain. Soft focus, atmospheric painterly effects, early fine art pictorialism photography aesthetic. Text '2026-08-25 18:21 UTC' visually displayed on the side frame of the display station in clear English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "瑞士蘇黎世（Zurich）舉辦了歷來規模最大的「Scientifica」科學節，聚集上千位研究人員展示自製的無人機秀、氫動力飛機與Hyperloop超高速列車測試。",
+    "news_inspiration": [
+      "澳洲阿德雷得（Adelaide）的科研團隊成功研發出一款能高效反射太陽光與熱輻射的「紫色涼感布料」，讓人在酷暑中穿著彩色服飾也能享受比普通棉質衣物低高達6.2°C的降溫效果。",
+      "瑞士蘇黎世（Zurich）舉辦了歷來規模最大的「Scientifica」科學節，聚集上千位研究人員展示自製的無人機秀、氫動力飛機與Hyperloop超高速列車測試。",
+      "美國國家公園管理局為慶祝成立110週年，宣布全美所有國家公園實施免費入場日，邀請民眾一同走入大自然體驗戶外之美。",
+      "日本名古屋（Nagoya）正全力籌備即將登場的第20屆亞洲運動會，屆時將有來自全亞近15,000名頂尖運動員齊聚一堂展開多達41項運動賽事的角逐。"
+    ],
+    "number": 3188,
+    "comment_id": 5414842638,
+    "avoid_list": [
+      "莫蘭迪低彩度色調",
+      "環形燈正面照明",
+      "用鼻子輕觸嗅聞推動物體",
+      "番茄節與鮮紅液體潑濺",
+      "35mm鏡頭淺景深膠卷感",
+      "鏡像對稱與無盡倒影",
+      "青橙互補色發光調色",
+      "流體墨水與水彩噴濺肌理",
+      "微縮立體模型與玩具視角",
+      "蓬鬆充氣羽絨材質質感",
+      "維梅爾式側窗柔和採光"
+    ],
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Leading Lines Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "蘇黎世科學節的展示大廳裡，這隻闖入的流浪貓把剛完成測試的超高速列車當成了新玩具。牠順著無限延伸的鐵軌緩緩前行，在復古褪色色調的光影間，好奇地探索著人類邁向未來的速度結晶。",
+    "title": "光軌上的好奇踏痕"
   }
 ]
