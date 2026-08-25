@@ -16198,5 +16198,42 @@
     },
     "story": "蘇黎世科學節的展示大廳裡，這隻闖入的流浪貓把剛完成測試的超高速列車當成了新玩具。牠順著無限延伸的鐵軌緩緩前行，在復古褪色色調的光影間，好奇地探索著人類邁向未來的速度結晶。",
     "title": "光軌上的好奇踏痕"
+  },
+  {
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Direct Flash",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "老街夜市巡邏記",
+    "avoid_list": [
+      "莫蘭迪低彩度色調",
+      "環形燈正面照明",
+      "用鼻子輕觸嗅聞推動物體",
+      "番茄節與鮮紅液體潑濺",
+      "35mm鏡頭淺景深膠卷感",
+      "鏡像對稱與無盡倒影",
+      "青橙互補色發光調色",
+      "流體墨水與水彩噴濺肌理",
+      "微縮立體模型與玩具視角",
+      "蓬鬆充氣羽絨材質質感",
+      "維梅爾式側窗柔和採光"
+    ],
+    "story": "夜市剛開張，麻糬就熟門熟路地開始牠的巡邏試吃之旅。閃光燈照亮了牠白底右橘的手套前腳與粉紅鼻頭上的橘斑，牠伸出爪子輕搭在小吃攤木椅邊緣，眼神裡全是對美食的極致渴望。攤位老闆看著這顆會走路的花生麻糬，笑著切下一小塊無調味肉丁遞到了牠面前。",
+    "news_inspiration": [
+      "挪威朗伊爾城：科學家成功利用鋪設在海底的網路光纖纜線，透過水流微小壓力變化精準追蹤默默游過的藍鯨。",
+      "加拿大蒙特婁：古生物學家在博物館館藏中發現一具擁有4.5億年歷史的棘皮動物化石，並罕見地完整保存了極難留存的軟體組織。",
+      "特立尼達和多巴哥斯卡伯勒：第39屆多巴哥傳統文化節隆重開幕，透過民俗歌舞戲劇重現當地豐富的非洲裔歷史文化與傳統。",
+      "紐西蘭威靈頓：紐西蘭政府與毛利人部落合作設立五座全新的海洋保護區，開啟原住民共同管理海洋生態的新里程碑。"
+    ],
+    "prompt": "A multi-panel character montage grid in raw street photography style with high contrast black and white monochrome, showcasing a specific four-legged chubby orange-and-white shorthair cat named Mochi across several candid poses at a night market stall. Mochi has a spherical torso, short stubby legs, a white belly, large round amber eyes, a pink nose with a tiny orange center dot, and an orange-and-white ringed tail. Mochi's facial marking features a solid orange mask covering only the right half-face (viewer perspective) while the left face is entirely white. Dorsal back has a distinct heart-shaped orange saddle. The right front paw is a solid orange mitten to the wrist, while the left front paw is pure white. In panels, Mochi creeps four paws on the ground stretching its neck near an iron griddle, its belly low, staring intently at sizzling food. Harsh direct on-camera flash, blown-out highlights, hard shadows, candid snapshot look with visible aged silk scroll texture, visible silk weave, weathered paper stains, and warm sepia patina overlay. Shot on 35mm lens, f/2.8, raw grain. Printed timestamp displaying '2026-08-25 19:21 UTC' in the bottom corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5415565511,
+    "idea": "這是一組採用街頭攝影風格與黑白單色調的多格角色拼貼作品，利用閃光燈直打突顯古絹絹本質感的粗糙紋理。圓滾滾的橘白貓麻糬正穿梭在老街夜市攤位間，四隻腳著地伸長脖子湊近鐵板麵攤，肚子貼著地面晃動，大圓眼緊盯著熱氣騰騰的香腸。",
+    "number": 3189,
+    "character": "mochi"
   }
 ]
