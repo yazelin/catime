@@ -15983,5 +15983,41 @@
       "【特里尼達和多巴哥·肖公園】第 39 屆多巴哥文化遺產節正式開幕，透過歷史劇場與民俗表演展示豐富的傳統與文化認同。",
       "【英國·英格蘭】保護團隊傳出捷報，英國極其罕見的猛禽蒙塔古鷂（Montagu's Harrier）今年在秘密繁殖地成功孵化並撫育了六隻幼鳥。"
     ]
+  },
+  {
+    "news_inspiration": [
+      "日本東京上野動物園為園內大熊貓準備了特製的巨型水果冰磚，吸引大批遊客前來觀賞牠們消暑進食的可愛模樣。",
+      "西班牙瓦倫西亞地區的布尼奧爾小鎮迎來一年一度的「番茄大戰」狂歡季，成千上萬名遊客湧入街頭進行熱鬧的番茄互擲派對。",
+      "英國愛丁堡國際藝穗節進入尾聲，來自全球數千名街頭藝人與喜劇演員在舊城區街道上呈現精彩的即興表演與文化交流。",
+      "智利阿塔卡馬沙漠受罕見的冬末水氣滋潤，多種耐旱花卉提前綻放，形成壯麗的「沙漠花海」自然奇觀。"
+    ],
+    "title": "番茄狂想曲",
+    "avoid_list": [
+      "描金墨線勾勒輪廓",
+      "金箔潑點肌理",
+      "蝴蝶光與對稱影子",
+      "酒精墨水流體藝術",
+      "體素與我的世界風格",
+      "濕版銀鹽攝影風格",
+      "微縮模型與移軸鏡頭效果",
+      "穆夏式拱框構圖",
+      "伸爪撥弄或觸碰特定物件",
+      "四腳趴伏姿態",
+      "霓虹螢光與深色背景對比",
+      "微觀視角巡視微縮場景"
+    ],
+    "number": 3183,
+    "idea": "採用普普藝術風格，一隻橘貓正以腳掌踩踏並滾動一顆鮮紅的大番茄，置身於瓦倫西亞街道風格的微縮立體模型中，並透過環形燈渲染出紅金相間的水彩潑濺墨點質感。",
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Miniature Diorama",
+      "lighting": "Ring Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 5411265444,
+    "inspiration": "西班牙瓦倫西亞地區的布尼奧爾小鎮迎來一年一度的「番茄大戰」狂歡季，成千上萬名遊客湧入街頭進行熱鬧的番茄互擲派對。",
+    "prompt": "A pop art style miniature diorama of an orange cat stepping on and rolling a large bright red tomato along a Valencia-style street. Featuring bold primary colors, thick outlines, and subtle Ben-Day dot details with a tilt-shift effect on a toy-like scale model. Ring light illumination creates even frontal lighting and glowing circular highlights. Expressive watercolor splatter and ink-spray textures with dripping pigments and organic fluid stains fill the background in a festive red and gold palette. Visually displaying the date and time text '2026-08-25 13:39 UTC' clearly within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "狂歡節的喧鬧響徹小鎮，這隻貓咪正快樂地在滿街的番茄浪潮中踩著番茄滾動前行。環形燈光的照射下，鮮紅液體與金色點綴如墨點般四濺，記錄下這場獨一無二的節慶盛事。"
   }
 ]
