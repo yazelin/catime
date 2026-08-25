@@ -15627,5 +15627,39 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "number": 3172
+  },
+  {
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Frame Within a Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Teal and Orange"
+    },
+    "avoid_list": [
+      "橘貓專注伸爪",
+      "35mm鏡頭與淺景深",
+      "莫蘭迪與柔和粉彩色調",
+      "夢幻粉彩編輯攝影風格",
+      "白底去背棚光與高調照明",
+      "傳統手工藝與古樸工坊",
+      "鏡面與水花動態瞬間",
+      "細膩線框與幾何網格紋理",
+      "滿滿秋日與植物花叢",
+      "極簡超現實與懸空物件"
+    ],
+    "news_inspiration": [
+      "英國倫敦的自然歷史博物館將自第二次世界大戰以來封閉的隱藏畫廊重新向公眾開放展出。",
+      "美國倫敦地區的醫療團隊成功利用電化學療法治癒一條名為茱蒂佛斯特（Jodie Foster）的15英尺巨蟒，使其成為全球首例康復的罹癌蛇類。",
+      "奧地利維也納的獸醫團隊研究發現，一頭名叫維羅妮卡（Veronika）的乳牛展現了罕見的多用途工具使用能力，打破科學界對家畜智慧的既有認知。",
+      "巴西巴西利亞發布最新衛星監測數據，顯示亞馬遜熱帶雨林的砍伐率降至十三年來的歷史新低。"
+    ],
+    "idea": "採用體素與我的世界風格，一隻穿著膨脹絎縫羽絨馬甲的貓咪正趴在巨蟒背上幫牠敷電極片，透過玻璃觀察窗呈現青橙電影調的框中框構圖與頂部蝴蝶光。",
+    "comment_id": 5404779719,
+    "prompt": "A Minecraft-style voxel art scene viewed through a rectangular protective glass window, creating a layered frame-within-a-frame composition. Inside a high-tech clinic, a blocky cat wearing a puffy quilted down jacket with inflated padded segments is lying on the back of a large blocky python, carefully applying electrode pads to its scales. Overhead butterfly key light casts soft, even illumination directly from above, creating symmetrical shadows. The scene features a punchy teal and orange cinematic color grading, with warm orange highlights and cool blue-green shadow tones. Pixelated cubic textures and clean 3D render styling throughout. In a corner of the glass window, the text '2026-08-25 03:38 UTC' is visibly displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3173,
+    "inspiration": "美國倫敦地區的醫療團隊成功利用電化學療法治癒一條名為茱蒂佛斯特（Jodie Foster）的15英尺巨蟒，使其成為全球首例康復的罹癌蛇類。",
+    "title": "方塊診所的蟒蛇奇蹟",
+    "story": "維也納頂尖診所內，這隻貓咪助手中診嚴重的巨蟒，俐落地用爪子調整電化學療法的儀器。透過防護玻璃看去，立體方塊構成的醫療儀器泛著青橙光芒，寫下動物醫學史上最特別的一幕。"
   }
 ]
