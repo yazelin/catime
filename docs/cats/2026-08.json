@@ -15875,5 +15875,41 @@
       "好奇探查微型物品"
     ],
     "idea": "採用濕版攝影風格，呈現船長佇立在大堡礁凱恩斯海邊防波堤上的沉穩姿態，背景結合穆夏式拱框構圖與鏡面水反射，透出深藍與耀眼金黃的互補色星雲輝光。"
+  },
+  {
+    "comment_id": 5409033432,
+    "story": "專程跨州長途奔波的卡車內，滿載著千萬隻準備為杏仁樹授粉的健康蜜蜂。貓咪悄悄溜進暖色調的光影裡，凝視著這群小精靈，感受著空氣中微弱的振動與秋日的甜香。",
+    "title": "長途蜂鳴的琥珀夜",
+    "idea": "在琥珀色黑光下的黑夜花園中，一隻貓咪以剪影藝術呈現，低頭用鼻尖細嗅車上嗡嗡作響的蜂巢，背景帶有立體刺繡盤花肌理與淺景深效果。",
+    "inspiration": "澳洲西澳州透過特製的「嗡嗡卡車」長途運送數百萬隻健康蜜蜂前往南澳州，跨州支援當地杏仁樹的生態授粉計畫。",
+    "avoid_list": [
+      "描金墨線勾勒輪廓",
+      "金箔潑點肌理",
+      "蝴蝶光與對稱影子",
+      "酒精墨水流體藝術",
+      "體素與我的世界風格",
+      "濕版銀鹽攝影風格",
+      "微縮模型與移軸鏡頭效果",
+      "穆夏式拱框構圖",
+      "伸爪撥弄或觸碰特定物件",
+      "四腳趴伏姿態",
+      "霓虹螢光與深色背景對比",
+      "微觀視角巡視微縮場景"
+    ],
+    "number": 3180,
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "Silhouette art of a cat leaning down to sniff a buzzing beehive on a truck, dramatic profile outline with clean defined edges against a stark graphic composition. Dark night garden atmosphere rendered with blacklight UV illumination and glowing fluorescent accents, combined with a warm amber color grading. Background features raised embroidered coiled-flower texture with three-dimensional satin-stitch blossoms and tactile gold-couched petals, softened by a shallow depth-of-field close-up with soft creamy bokeh. The text '2026-08-25 10:20 UTC' is visually displayed in the corner of the image in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國西雅圖一隻在社群網路爆紅的小浣熊「吉莫西」（Jimothy）吸引眾多企業與民眾響應，成功為當地食物銀行募得超過5.8萬美元的愛心善款。",
+      "義大利佛羅倫斯正式啟用全國首座「數位成癮中心」，為過度依賴科技與網路世界的年輕人提供專業心理引導與生活重整方案。",
+      "澳洲西澳州透過特製的「嗡嗡卡車」長途運送數百萬隻健康蜜蜂前往南澳州，跨州支援當地杏仁樹的生態授粉計畫。",
+      "巴西國家太空研究院最新監測數據顯示，巴西亞馬遜雨林的砍伐警報面積已降至近13年來的歷史新低，展現森林保育的顯著成效。"
+    ]
   }
 ]
