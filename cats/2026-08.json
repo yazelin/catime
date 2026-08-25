@@ -15947,5 +15947,41 @@
     "title": "鏡界鐵道的無盡漫遊",
     "prompt": "A close-up shot inside a vintage Nordic passenger train carriage, featuring mosaic art with small black and white monochrome tiles on the interior walls and grouted texture seating. A calico cat with lush green moss-covered surface and damp organic overgrowth covering its body is intently nuzzling a spread-out vintage railway map with its nose. Soft directional daylight streams through the side train window with a gentle falloff into shadows, evoking a Vermeer-like illumination. In the background, opposing carriage mirrors reflect an infinite recursive Droste effect, creating a repeating picture-within-a-picture corridor of the scene. In the corner of the railway map, the text '2026-08-25 11:15 UTC' is clearly stamped in crisp English typography. Shot on 35mm lens, f/2.8, shallow depth of field, natural lighting, candid composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5409600614
+  },
+  {
+    "comment_id": 5410355439,
+    "avoid_list": [
+      "描金墨線勾勒輪廓",
+      "金箔潑點肌理",
+      "蝴蝶光與對稱影子",
+      "酒精墨水流體藝術",
+      "體素與我的世界風格",
+      "濕版銀鹽攝影風格",
+      "微縮模型與移軸鏡頭效果",
+      "穆夏式拱框構圖",
+      "伸爪撥弄或觸碰特定物件",
+      "四腳趴伏姿態",
+      "霓虹螢光與深色背景對比",
+      "微觀視角巡視微縮場景"
+    ],
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Ring Light",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "在莫蘭迪色調的等距3D黑色電影視覺中，一隻全身包覆著膨脹絎縫羽絨護具的貓咪，正於陰暗而沉靜的地下檔案室裡用鼻子推動沉重的古老巨齒鯊化石牙齒。",
+    "number": 3182,
+    "story": "雨夜的地下室裡，冷冽的環形燈光投射出層層遞進的幾何影子。貓咪專注地在散落的泥沙與古老文獻間踱步，試圖用濕潤的鼻尖挪動那塊在石頭中沉睡了百萬年、比自己爪子還要巨大的古巨鯊牙齒。陰暗的影調與柔和低彩度的莫蘭迪配色相交織，彷彿一場發生在迷霧角落裡的神秘調查。",
+    "prompt": "在莫蘭迪色調的等距3D黑色電影視覺中，一隻全身包覆著膨脹絎縫羽絨護具的貓咪，正於陰暗而沉靜的地下檔案室裡用鼻子推動沉重的古老巨齒鯊化石牙齒。. The date and time '2026-08-25 12:23 UTC' is visually displayed in the image. Film noir style, high contrast monochrome, dramatic deep shadows, 1940s cinematic mood, venetian blind light patterns, mysterious atmosphere, 3D isometric illustration, clean geometric forms, soft pastel colors, polished playful rendering, ring light illumination, circular catchlight in eyes, even frontal lighting, beauty portrait quality, puffy quilted down texture, inflated padded segments, soft bulging stitched channels, glossy puffer-jacket surface, plump air-filled volume, Morandi muted color palette, desaturated soft pastels, dusty grey undertones, quiet elegance IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "石中巨齒的沉默調查",
+    "inspiration": "【美國·紐澤西州】一個家庭在海灘散步時，意外在一塊石頭內部發現了一顆完整且罕見的巨齒鯊化石牙齒。",
+    "news_inspiration": [
+      "【奧地利·維也納】科學家觀察到一隻名為維羅妮卡（Veronika）的母牛展現出罕見的工具使用能力，打破了人們對農場動物聰明程度的傳統認知。",
+      "【美國·紐澤西州】一個家庭在海灘散步時，意外在一塊石頭內部發現了一顆完整且罕見的巨齒鯊化石牙齒。",
+      "【特里尼達和多巴哥·肖公園】第 39 屆多巴哥文化遺產節正式開幕，透過歷史劇場與民俗表演展示豐富的傳統與文化認同。",
+      "【英國·英格蘭】保護團隊傳出捷報，英國極其罕見的猛禽蒙塔古鷂（Montagu's Harrier）今年在秘密繁殖地成功孵化並撫育了六隻幼鳥。"
+    ]
   }
 ]
