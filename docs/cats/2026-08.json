@@ -15558,5 +15558,39 @@
       "texture": "Gilded Ink Outline",
       "color_palette": "Bamboo Jade Green"
     }
+  },
+  {
+    "number": 3171,
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "inspiration": "印度的林業保護志工與生態學者經過27年的長期努力，成功清除外來入侵物種，讓位於尼爾吉里丘陵的朗伍德肖拉（Longwood Shola）原生森林煥發生機。",
+    "idea": "這是一幅以油畫風格呈現的作品，朱紅與描金的濃烈色彩交織，一隻三色貓正在半透明的液態金屬玻璃瓶容器內，專注地用爪子撥弄並追逐裡面流動的金色細砂與光點，頂部照下的蝴蝶光更襯托出光影的層次感。",
+    "prompt": "An oil painting with thick impasto brushstrokes and visible canvas texture, depicting a calico cat inside a translucent liquid-metal glass vessel. The cat is intently pawing and chasing swirling streams of glowing golden sand and shimmering light specks within the contained miniature world. Featuring a refractive glass border and mercury-like reflective chrome flows. Illuminated by overhead butterfly lighting with soft even illumination and symmetrical shadows. Ornate vermilion and gilt palette with rich cinnabar red and metallic gold outlines. The text '2026-08-25 00:35 UTC' is visually displayed on the glass container. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "橘貓專注伸爪",
+      "35mm鏡頭與淺景深",
+      "莫蘭迪與柔和粉彩色調",
+      "夢幻粉彩編輯攝影風格",
+      "白底去背棚光與高調照明",
+      "傳統手工藝與古樸工坊",
+      "鏡面與水花動態瞬間",
+      "細膩線框與幾何網格紋理",
+      "滿滿秋日與植物花叢",
+      "極簡超現實與懸空物件"
+    ],
+    "comment_id": 5403376368,
+    "story": "古老樹林深處的林業保育志工們經過多年努力，終於在玻璃密封瓶內成功培育出象徵原生森林生機的微型生態體系。敏銳的貓咪鑽入這座透明的生態觀測容器中， curiosity 地探查著新生的金色光點與植物孢子。這份細心呵護的生命力，在流動的金屬光澤下綻放出永恆的璀璨。",
+    "title": "金液涵瓶中的生靈",
+    "news_inspiration": [
+      "特立尼達和多巴哥的肖派克（Shaw Park）舉行了第39屆多巴哥遺產節開幕式，透過文化戲劇與民俗表演展示豐富的非裔傳統與在地自豪感。",
+      "芬蘭一項長達八年的追蹤研究發現，適度使用螢幕的青少年在認知處理能力上展現出優異表現，為科技與兒童發展帶來新視角。",
+      "紐西蘭（Aotearoa）正式實施全新的海洋保護區管理模式，由毛利族原住民 Kai Tahu 與政府部門共同維護新建的海洋保護區。",
+      "印度的林業保護志工與生態學者經過27年的長期努力，成功清除外來入侵物種，讓位於尼爾吉里丘陵的朗伍德肖拉（Longwood Shola）原生森林煥發生機。"
+    ]
   }
 ]
