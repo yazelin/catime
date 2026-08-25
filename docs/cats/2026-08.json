@@ -15690,5 +15690,43 @@
       "texture": "Gold Foil Flecks",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "number": 3175,
+    "avoid_list": [
+      "伸出爪子撥弄",
+      "三花貓與花貓",
+      "頂部蝴蝶光照明",
+      "框中框構圖",
+      "金箔潑點與描金質感",
+      "微縮移軸模型風格",
+      "夢幻粉彩編輯攝影",
+      "螢光與黑光霓虹光暈",
+      "趴臥或四腳趴伏姿態",
+      "35mm淺景深鏡頭",
+      "浮水衣或羽絨背心穿著",
+      "好奇探查微型物品"
+    ],
+    "character": "lingling",
+    "prompt": "Hand-drawn infographic style illustration, orthographic projection with straight-on flat technical rendering, paper texture background with expressive calligraphy brush strokes. An extremely fluffy pure white #FFFFFF longhair Ragdoll cat named Lingling, featuring voluminous cloud-like white fur, a small round face, huge round sapphire-blue #0F52BA eyes occupying one third of her face, pale pink nose and inner ears, an enormous feathery white plume tail, and wearing a vibrant pink #FF69B4 ribbon bow collar with a prominent centered small golden #FFD700 bell. The cat is captured mid-motion playfully leaping upward to chase a tiny micro mechanical butterfly made of transparent crystalline glass with prismatic reflections and light refraction. Setting is a futuristic robotics exhibition hall in a clean technical schematic aesthetic. Dramatic backlighting with rim light creates glowing silhouette edges around the white feline silhouette. A muted Morandi color palette with desaturated soft pastels, dusty grey undertones, and warm rustic aesthetic. The text '2026-08-25 05:22 UTC' is clearly rendered in a clean corner caption using Traditional Chinese and English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "泰國：生物學家在南部山區發現一種全身黃褐色、造型酷似知名奇幻美劇龍族的角蜥新物種，並將其正式命名為「敘拉克斯龍蜥」。",
+      "中國北京：2026世界機器人大會在北京閉幕，現場展出了超過三,千款機器人產品，包括會踢足球、打拳擊和表演舞蹈的各類人形機器人。",
+      "特立尼達和多巴哥：位於多巴哥島的肖公園展演中心盛大舉辦第39屆多巴哥傳統文化節，透過音樂與民俗戲劇展現濃厚的加勒比海傳統文化與活力。",
+      "紐西蘭：政府與毛利人凱塔胡部落（Kāi Tahu）合作開設了五座全新海洋保護區，開創原住民與政府共同營護海洋生態的新模式。"
+    ],
+    "comment_id": 5405868833,
+    "idea": "這是一幅採用莫蘭迪色調與正交投影視角的「手繪信息圖」，描拜極致蓬鬆的白色布偶貓「鈴鈴」在充滿玻璃水晶光澤的機器人展會中，背著強烈輪廓光追逐一台微型機械蝴蝶。",
+    "story": "在北京機器人大會的喧囂展廳裡，身型蓬鬆如棉花糖的鈴鈴好奇地闖入機器人舞蹈區。她脖子上的粉紅鈴鐺發出叮鈴清響，尾巴高高豎起如巨大羽毛撢子，正奮力往後躍起，追逐一隻精準翩翩飛舞的晶瑩玻璃蝶形機器人。",
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Orthographic Projection",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "title": "極光機械與粉紅叮鈴",
+    "inspiration": "中國北京：2026世界機器人大會在北京閉幕，現場展出了超過三,千款機器人產品，包括會踢足球、打拳擊和表演舞蹈的各類人形機器人。"
   }
 ]
