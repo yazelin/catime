@@ -16055,5 +16055,40 @@
       "霓虹螢光與深色背景對比",
       "微觀視角巡視微縮場景"
     ]
+  },
+  {
+    "prompt": "在一幅以CRT掃描線風格呈獻的長卷全景畫作中，一隻披著絞染布紋的橘貓正沿著古老懸崖岩畫撫弄古老色素，整片畫面沉浸於秋日琥珀色的生物發光微光中。. The date and time '2026-08-25 15:32 UTC' is visually displayed in the image. CRT monitor aesthetic, visible scan lines, phosphor glow, retro screen curvature, vintage display artifacts, extreme wide handscroll composition, continuous panoramic narrative, layered foreground middleground background, multiple focal points spread horizontally, oblique bird's-eye angle, right-to-left reading flow, bioluminescent lighting, organic glow from living organisms, deep blue-green radiance, underwater phosphorescence, ethereal natural light, Shibori style, resist-dyed textile patterns, indigo blue palette, organic flowing designs, Japanese artisan dye technique, warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "美國史密森尼學會公佈最新研究指出，中國古老岩畫能歷經近兩千年仍保持鮮豔紅色，關鍵秘密可能在於當時使用了血液作為色素成分。",
+    "style_picks": {
+      "art_style": "CRT Scanline",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Bioluminescence",
+      "texture": "Shibori Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [
+      "奧地利維也納的大學研究人員透過分析數千種動物基因組發現，染色體演化並非隨機，而是遵循一套固定的「演化高速公路」路徑。",
+      "美國史密森尼學會公佈最新研究指出，中國古老岩畫能歷經近兩千年仍保持鮮豔紅色，關鍵秘密可能在於當時使用了血液作為色素成分。",
+      "美國俄亥俄州辛辛那提舉行的網球大師賽圓滿落幕，法國好手阿蒂爾·菲斯（Arthur Fils）擊敗對手奪得職業生涯首座大師賽冠軍。",
+      "日本科學研究團隊在長壽研究中發現，年滿110歲以上的超百歲人瑞體內擁有異於常人的特殊殺手級免疫細胞（CD4 cytotoxic T cells），能有效應對長期免疫威脅。"
+    ],
+    "comment_id": 5412835314,
+    "idea": "在一幅以CRT掃描線風格呈獻的長卷全景畫作中，一隻披著絞染布紋的橘貓正沿著古老懸崖岩畫撫弄古老色素，整片畫面沉浸於秋日琥珀色的生物發光微光中。",
+    "avoid_list": [
+      "莫蘭迪低彩度色調",
+      "環形燈正面照明",
+      "用鼻子輕觸嗅聞推動物體",
+      "番茄節與鮮紅液體潑濺",
+      "35mm鏡頭淺景深膠卷感",
+      "鏡像對稱與無盡倒影",
+      "青橙互補色發光調色",
+      "流體墨水與水彩噴濺肌理",
+      "微縮立體模型與玩具視角",
+      "蓬鬆充氣羽絨材質質感",
+      "維梅爾式側窗柔和採光"
+    ],
+    "story": "這隻敏捷的橘貓踩在狹窄的石壁邊緣，伸出前爪輕輕撫弄著千年間不曾褪色的鮮紅岩畫，彷彿能感知其中流淌的古老血液記憶。沿著長卷般的岩壁展開，周遭微弱的秋日發光苔蘚將牠躍動的身影與掃描線紋理完美融為一體。",
+    "number": 3185,
+    "title": "琥珀岩壁的古老痕跡"
   }
 ]
