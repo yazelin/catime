@@ -15836,5 +15836,44 @@
       "texture": "Low Poly",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "character": "captain",
+    "prompt": "A photograph in wet plate collodion style with dark edges and silver-toned monochrome tintype texture, featuring a large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a prominent V-shaped notch on its left ear, a dark-pigmented fur patch concealing its left eye socket without straps or fabric, a single piercing emerald green right eye, a faded red bandana tied loosely around its neck, a white chest bib, and white mitten paws. The cat stands proudly atop a breakwater on a Great Barrier Reef cairns sea front, looking towards a gold-tinted sunset ocean, with a group of cats gathered behind it. Framed by a Mucha-style ornamental rounded arch composition with integrated floral motifs and nebula space light glowing softly in vivid blue and yellow complementary tones. A glassy mirror water reflection at the base shows the cat's inverted silhouette. Visually printed in the corner is the date and time text '2026-08-25 09:23 UTC'. Shot on a 35mm lens, f/1.8, natural light, shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "浪花拍打著防波堤，船長佇立在海邊最高處吹著海風，右眼翠綠色的光芒盯著遠方被夕陽染成金黃的大海。這隻老港口老大默默用寬厚的背影守護著後方群聚的貓群，水面上映照出牠戴著眼罩的堅毅倒影，散發出獨一無二的沉穩與霸氣。",
+    "inspiration": "在大堡礁的凱恩斯（澳大利亞）外海，公民科學家團隊發現一座面積將近半座足球場大的巨型珊瑚群落，創下當地海洋生態紀錄。",
+    "style_picks": {
+      "art_style": "Wet Plate Collodion",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "character_name": "船長",
+    "number": 3179,
+    "title": "浪潮邊陲的守航者",
+    "news_inspiration": [
+      "科學家在維也納（奧地利）的研究中，首次記錄到一隻名為 Veronika 的母牛能熟練使用工具，突破了人類對家畜智力的傳統認知。",
+      "北加州金門大橋（美國舊金山）的海洋生物學家透過橋上步道進行長期觀察，成功解開了港灣鼠海豚多年來的繁殖行為謎團。",
+      "在大堡礁的凱恩斯（澳大利亞）外海，公民科學家團隊發現一座面積將近半座足球場大的巨型珊瑚群落，創下當地海洋生態紀錄。",
+      "哥本哈根（丹麥）推廣極具特色的「真人圖書館」活動，讓民眾可以像借閱圖書一樣「借閱」不同背景的人並進行深度交流。",
+      "津巴布韋的卡里巴（津巴布韋）偏遠村落推行「疫苗單車手」計畫，志工騎車深入偏鄉為孩童提供醫療服務，獲得當地社區熱烈好評。"
+    ],
+    "comment_id": 5408316263,
+    "avoid_list": [
+      "伸出爪子撥弄",
+      "三花貓與花貓",
+      "頂部蝴蝶光照明",
+      "框中框構圖",
+      "金箔潑點與描金質感",
+      "微縮移軸模型風格",
+      "夢幻粉彩編輯攝影",
+      "螢光與黑光霓虹光暈",
+      "趴臥或四腳趴伏姿態",
+      "35mm淺景深鏡頭",
+      "浮水衣或羽絨背心穿著",
+      "好奇探查微型物品"
+    ],
+    "idea": "採用濕版攝影風格，呈現船長佇立在大堡礁凱恩斯海邊防波堤上的沉穩姿態，背景結合穆夏式拱框構圖與鏡面水反射，透出深藍與耀眼金黃的互補色星雲輝光。"
   }
 ]
