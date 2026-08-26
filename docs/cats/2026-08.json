@@ -16853,5 +16853,41 @@
     "story": "在高溫濕潤的溫室頂端，玳瑁貓敏捷地踏過光滑的鋼樑，前端身體緊貼著溫室天窗。強烈的背光穿透天窗與植物葉片，在貓咪如絲綢般柔滑的毛髮邊緣勾勒出一道耀眼的輪廓光，將整片熱帶綠意與光影融為一體。",
     "title": "熱帶溫室的光影獵手",
     "news_inspiration": []
+  },
+  {
+    "style_picks": {
+      "art_style": "Japanese Yokai Mask Illustration",
+      "composition": "Miniature Diorama",
+      "lighting": "Direct Flash",
+      "texture": "Frost Crystal",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "日期時間字樣標記",
+      "前爪輕撥或拍打物件",
+      "百葉窗條紋光影",
+      "Knolling平鋪矩陣排列",
+      "霓虹螢光色彩點綴",
+      "水銀般液態金屬質感",
+      "古典深紅色與金色調組合",
+      "復古褪色色調與舊化質感",
+      "極端鳥瞰俯視角構圖",
+      "淺景深與鏡頭聚光燈打光",
+      "裝飾性線條與精細紋理肌理"
+    ],
+    "comment_id": 5427848968,
+    "inspiration": "美國佛羅里達州的甘迺迪太空中心已完成羅曼太空望遠鏡的最後封裝，預計將尋找數千顆潛在的系外行星並探索宇宙暗物質。",
+    "idea": "在一座嚴寒的微縮展示櫃中，一隻披著冰霜結晶毛髮的貓咪正專注地用鼻子蹭著一顆模擬系外行星的玻璃圓珠，全景呈現出雙色調且帶有和風妖怪面具插畫風格的強烈視覺效果。",
+    "story": "夜深人靜的展館裡，剛封裝完畢的望遠鏡模型發出微弱運轉聲。這隻駐守展區的貓咪踏著輕盈步履，在直打閃光燈的光影下巡視著無數顆微型星球，細細嗅聞暗物質的秘密。",
+    "prompt": "A frost-covered cat with delicate ice crystal hair focuses intently, nuzzling its nose against a tiny glass orb simulating an exoplanet, set inside a freezing cold miniature diorama display case. Japanese yokai mask illustration style merged with raw snapshot photography aesthetics. Detailed tilt-shift effect emphasizing a toy-like scale model. Captured with harsh direct on-camera flash, hard shadows, and blown-out highlights. Features bold ukiyo-inspired linework, folkloric spirit accents, eerie playful mood, and a striking two-color duotone palette of deep indigo and pale icy blue. In the corner of the image, the date and time '2026-08-26 16:08 UTC' is cleanly stamped in sharp white digital text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "霜凝星域巡航誌",
+    "news_inspiration": [
+      "美國科羅拉多州舉辦了首屆「胖旱獺週」投票活動，讓大眾票選當地最圓潤可愛的黃腹旱獺，同時推廣高海拔野生動物的冬眠科學知識。",
+      "英國倫敦的大英自然史博物館重新開放了一間自二戰以來關閉至今的「隱藏展覽館」，向公眾展示稀有的動物骨骼與新石器時代工具。",
+      "美國佛羅里達州的甘迺迪太空中心已完成羅曼太空望遠鏡的最後封裝，預計將尋找數千顆潛在的系外行星並探索宇宙暗物質。",
+      "日本石川縣備受喜愛的「寶可夢主題列車」正式恢復營運，吸引眾多遊客前往體驗鐵道觀光。"
+    ],
+    "number": 3208
   }
 ]
