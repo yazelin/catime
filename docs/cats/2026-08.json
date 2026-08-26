@@ -16927,5 +16927,43 @@
     "story": "墨墨靜靜趴在一座緋紅色的大型絎縫羽絨塑像頂端，優雅地俯瞰周圍。牠身上緞面般烏黑的短毛與金琥珀色的大眼，在極簡的白色背景下顯得格外分明，彷彿自身就是一件展出的Pop-Art當代藝術品。",
     "number": 3209,
     "inspiration": "original"
+  },
+  {
+    "character_name": "麻糬",
+    "title": "夏日冰磚上的麻糬",
+    "style_picks": {
+      "art_style": "Surreal Designer Art-Toy Figure",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Volumetric Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "news_inspiration": [
+      "西班牙布尼奧爾（Buñol）迎來一年一度的「番茄大戰」（La Tomatina），成千上萬名遊客在街頭投擲逾百噸熟成番茄，將整座小鎮染成鮮豔紅色。",
+      "日本東京上野動物園為大熊貓舉辦盛大的夏日消暑活動，特製的水果巨型冰磚讓熊貓玩得不亦樂乎，吸引大批民眾排隊搶看可愛模樣。",
+      "英國愛丁堡（Edinburgh）的邊緣藝術節（Edinburgh Festival Fringe）進入閉幕高潮，來自全球的街頭藝人與喜劇演員齊聚舊城區街頭展開馬拉松式歡樂演出。",
+      "澳洲雪梨（Sydney）著名的邦代海灘迎來早春暖陽，數百名衝浪愛好者裝扮成各種海洋生物下海衝浪，為海洋保育公益活動熱鬧揭開序幕。"
+    ],
+    "prompt": "A surreal designer art-toy collectible vinyl figure of Mochi, a chubby spherical orange-and-white shorthair cat. Mochi has a white base coat, a distinct orange mask on the right side of his face extending from nose bridge across right cheek to right ear while left face is pure white, a heart-shaped orange saddle on his upper back, solid orange mitten marking on right front paw, pure white left front paw, white belly, pink nose with a tiny orange dot, ringed orange-and-white tail, and large round amber eyes. Mochi is lying prone on top of a giant ice brick filled with vermilion tomato slices inside a vibrant street shaved-ice stall, his right orange-mitten paw resting on a cool tomato slice. Top-down flat-lay framing in a dreamy decorative bird's-eye composition, surrounded by a dense sea of crimson blossoms under a delicate lace openwork shade canopy. Dramatic volumetric god rays penetrate the perforated filigree fabric, catching airborne dust particles. Cinnabar red and clean white palette, glossy sculpted forms, studio product lighting, playfulness with crisp graphic elegance. The timestamp '2026-08-26 21:25 UTC' is visually displayed in clear, subtle white text in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "日本東京上野動物園為大熊貓舉辦盛大的夏日消暑活動，特製的水果巨型冰磚讓熊熊玩得不亦樂乎，吸引大批民眾排隊搶看可愛模樣。",
+    "comment_id": 5431329689,
+    "idea": "採用超現實潮玩人偶風格，圓滾滾的橘白貓「麻糬」俯臥在鋪滿朱紅番茄冰塊的花海攤位中，享受體積光穿透蕾絲鏤空遮陽棚灑下的光影。",
+    "character": "mochi",
+    "avoid_list": [
+      "貓用前爪輕戳/撥弄",
+      "液態金屬與水銀質感",
+      "百葉窗/樹蔭斑駁光影",
+      "強烈直打閃光燈與硬影",
+      "雙色調藍紫/藍青配色",
+      "微縮/等距攝影與傾斜微移特效",
+      "微型星球/黑洞星與宇宙元素",
+      "幾何矩陣與 Knolling 排列",
+      "復古/褪色色調與裝飾藝術風格",
+      "金屬網格與鋼樑結構",
+      "霜雪冰晶與冰封氛圍",
+      "極簡純白/無影棚拍背景"
+    ],
+    "number": 3210,
+    "story": "老街冰品攤前，麻糬趴在特製的巨型水果冰磚上，右前腳的橘色手套花紋壓著清涼的番茄片。大圓眼瞇成一條線，牠滿足地打著呼嚕，成為夏日市場裡最吸睛的潮玩主角。"
   }
 ]
