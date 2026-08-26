@@ -16475,5 +16475,40 @@
       "texture": "Low Poly",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "news_inspiration": [
+      "日本（筑波市）：日本科學家發現一種突破性且簡易的新方法，能從廢棄電動車電池中高效回收 90% 的鋰金屬，為綠能循環注入新動力。",
+      "奧地利（克恩頓州）：奧地利科學家首次記錄到一隻名為 Veronika 的乳牛具備使用工具的能力，打破了過去認為僅有靈長類等少數動物會使用工具的認知。",
+      "丹麥（哥本哈根）：丹麥「哥本哈根真人圖書館」持續推廣特色閱讀，讓民眾可以「借閱」不同背景的真人進行面對面交流，透過傾聽促進社區理解。",
+      "美國（西雅圖）：西雅圖一隻名為 Jimothy 的網絡熱門浣熊吸引廣大關注，成功激發多家企業與民眾踴躍響應，為當地食物銀行募集了超過 58,000 美元的善款。"
+    ],
+    "prompt": "Medium format photography shot on a Hasselblad system with creamy shallow depth of field and extraordinary tonal range. A ginger tabby cat navigates a pasture in Carinthia, holding a long wooden stick in its mouth, assisting a dairy cow named Veronika in building a wooden shelter frame. Blended with knolling flat lay elements neatly arranged at precise 90-degree angles on the ground, featuring tools and glossy translucent resin components with embedded elements. Venetian blind striped lighting casts dramatic parallel hard light and shadow bands across the scene. Vibrant neon fluorescent color accents in electric pink, lime green, and hot cyan highlight the translucent resin textures against a moody backdrop. The text '2026-08-26 04:28 UTC' is cleanly imprinted in crisp white modern typography in the lower corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "奧地利（克恩頓州）：奧地利科學家首次記錄到一隻名為 Veronika 的乳牛具備使用工具的能力，打破了過去認為僅有靈長類等少數動物會使用工具的認知。",
+    "avoid_list": [
+      "前爪撥弄或按壓物件",
+      "繁體中文與英文文字標籤",
+      "UTC時間戳記",
+      "厚塗油彩肌理",
+      "新藝術與細密畫風格",
+      "斑駁光影與網狀陰影",
+      "古老與量子科技融合場景",
+      "月光與螢光雙重照明",
+      "極致對角線與引導線構圖",
+      "四腳踩地伸長脖子姿態",
+      "懷舊復古與霓虹色彩混搭"
+    ],
+    "idea": "採用中片幅攝影，一隻橘貓正穿梭於克恩頓州牧場的草地上，低頭叼著一枝長木條幫乳牛Veronika搭建棚架。畫面融入Knolling排列攝影，將乳牛使用的工具與樹脂組件整齊陳列，並以霓虹螢光色調與百葉窗條紋光呈現細致的透明樹脂質感。",
+    "title": "草場上的智慧協奏曲",
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Venetian Blind Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 5420625728,
+    "number": 3197,
+    "story": "在奧地利的克恩頓州牧場，貓咪小橘成為了聰明乳牛Veronika最得力的現場助手。牠敏捷地挑選著最適合的木棍，將其俐落遞給正在組裝棚架的Veronika，展示了跨物種間驚人的協作默契。"
   }
 ]
