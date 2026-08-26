@@ -16510,5 +16510,35 @@
     "comment_id": 5420625728,
     "number": 3197,
     "story": "在奧地利的克恩頓州牧場，貓咪小橘成為了聰明乳牛Veronika最得力的現場助手。牠敏捷地挑選著最適合的木棍，將其俐落遞給正在組裝棚架的Veronika，展示了跨物種間驚人的協作默契。"
+  },
+  {
+    "number": 3198,
+    "style_picks": {
+      "art_style": "Documentary Photography",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Origami",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "prompt": "A storybook illustration featuring a storytelling page layout with an illustrated story page layout, decorative title banner at top, multiple irregular panels arranged on one page, and integrated dialogue bubbles with shoujo manga narrative flow. Midday documentary photography style capturing a candid moment of a cat crouching low with its head slightly tilted, intensely eyeing an origami moth decorated with metallic gold line accents fluttering near a vermilion wooden pillar in an ancient red-and-gold wooden hall. Shot through carved wooden windows under harsh midday sunlight with hard edge shadows and high-contrast natural daylight. Paper sculpture aesthetic with clean geometric creases and sharp angular folds. Color palette of refined vermilion cinnabar red and metallic gold outlines with lacquer-like richness. Display the text '2026-08-26 05:22 UTC' visually integrated onto the image using English characters. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5421007769,
+    "story": "正午的烈日透過雕花木窗灑落，在大廳中央投射出俐落的強烈光影。貓咪壓低身子並微微側頭，緊緊凝視著那隻以金箔線條綴飾、正在朱紅樑柱旁翩翩起舞的摺紙飛蛾。",
+    "idea": "這幅紀實攝影風格的作品採用故事插畫分格構圖，捕捉一隻貓咪在朱紅描金的古老木造大廳中，於硬光日照下專注地捕捉一隻摺紙飛蛾的瞬間。",
+    "news_inspiration": [],
+    "title": "陽光下的摺紙追逐",
+    "inspiration": "original",
+    "avoid_list": [
+      "前爪撥弄或按壓物件",
+      "繁體中文與英文文字標籤",
+      "UTC時間戳記",
+      "厚塗油彩肌理",
+      "新藝術與細密畫風格",
+      "斑駁光影與網狀陰影",
+      "古老與量子科技融合場景",
+      "月光與螢光雙重照明",
+      "極致對角線與引導線構圖",
+      "四腳踩地伸長脖子姿態",
+      "懷舊復古與霓虹色彩混搭"
+    ]
   }
 ]
