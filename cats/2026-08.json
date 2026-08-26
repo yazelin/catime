@@ -16889,5 +16889,43 @@
       "日本石川縣備受喜愛的「寶可夢主題列車」正式恢復營運，吸引眾多遊客前往體驗鐵道觀光。"
     ],
     "number": 3208
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "日期時間字樣標記",
+      "前爪輕撥或拍打物件",
+      "百葉窗條紋光影",
+      "Knolling平鋪矩陣排列",
+      "霓虹螢光色彩點綴",
+      "水銀般液態金屬質感",
+      "古典深紅色與金色調組合",
+      "復古褪色色調與舊化質感",
+      "極端鳥瞰俯視角構圖",
+      "淺景深與鏡頭聚光燈打光",
+      "裝飾性線條與精細紋理肌理"
+    ],
+    "title": "緋紅羽絨上的黑影",
+    "prompt": "A pop art style 3D art piece featuring Momo, a sleek slender solid-black shorthair cat with satin-sheen fur, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring on the tail tip, and a single small gold hoop earring on its left ear (viewer perspective). Momo is a literal cat lying gracefully atop a large crimson red puffy quilted down statue with inflated padded segments and soft bulging stitched channels. Centered subject composition with single focal point dead center in a pure white studio setup, illuminated by white seamless studio lighting with a bright high-key backdrop and clean shadowless commercial clarity. Deep blood-red and jet-black dramatic high-contrast palette. The date and time '2026-08-26 18:48 UTC' is visually displayed crisp and clear in simple modern English text near the bottom edge. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "中國北京舉辦世界人形機器人運動會，展示機器人進行跑步比賽與模擬工廠精密操作的技術。",
+      "美國加州在經歷溫暖春雨後，近日出現大規模且罕見的蜻蜓群飛過城鎮現象。",
+      "蘇格蘭愛丁堡的蘇格蘭水務公司率先導入全新技術，將實驗室產生的單次使用廢塑膠進行消毒與碎裂處理以供循環回收。",
+      "紐西蘭與毛利人部落合作，正式啟用五座新型海洋保護區，開創原住民共同管理的保護區新模式。"
+    ],
+    "character_name": "墨墨",
+    "character": "momo",
+    "idea": "這幅畫作採用普普藝術風格與居中主體構圖，並以白底去背棚光打亮整體。黑貓墨墨化身為膨脹絎縫羽絨質感的立體公仔，身處純白空間中，身著緋紅與烏黑強烈對比色彩，俐落又具現代藝術感。",
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Centered Subject Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Crimson and Black"
+    },
+    "comment_id": 5429679939,
+    "story": "墨墨靜靜趴在一座緋紅色的大型絎縫羽絨塑像頂端，優雅地俯瞰周圍。牠身上緞面般烏黑的短毛與金琥珀色的大眼，在極簡的白色背景下顯得格外分明，彷彿自身就是一件展出的Pop-Art當代藝術品。",
+    "number": 3209,
+    "inspiration": "original"
   }
 ]
