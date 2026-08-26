@@ -16756,5 +16756,40 @@
       "對角線與俯瞰構圖",
       "貓咪推動或凝視特定物件"
     ]
+  },
+  {
+    "is_seasonal": true,
+    "story": "暴風雪呼嘯過冷冽的港灣，海浪在凍結的堤岸邊凝結成青藍色的冰霜。戴著眼罩的船長將粗壯的身軀縮在褪色紅頭巾下，任憑飛雪打濕草帽，翠綠色的右眼仍死死釘著冰封水面下偶爾游過的魚影。",
+    "number": 3205,
+    "style_picks": {
+      "art_style": "Frosted Paper-Glass",
+      "composition": "Isometric Photography",
+      "lighting": "Snowstorm Haze",
+      "texture": "Metallic Surface",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "inspiration": "original",
+    "character": "captain",
+    "season": "summer",
+    "prompt": "採用等距攝影與霧面紙玻璃風格，呈現在暴風雪朦朧的極致藍青色調下，壯碩的虎斑貓「船長」蹲坐在防波堤的冰晶金屬網格上，靜靜守候著草帽旁的小釣竿。. The date and time '2026-08-26 12:25 UTC' is visually displayed in the image. translucent frosted glass-paper style, minimalist, soft cinematic lighting, clean white background, perfectly isometric photography, real captured photo with isometric angle, no miniature effect, snowstorm atmospheric lighting, heavy falling snow veil, muted diffused daylight, fogged distance, cold blue-white palette, painterly weather mood, visibility obscured by flurries, metallic surface, brushed or polished metal, sharp reflections, industrial premium feel, cool blue-teal color grading, icy undertones, crisp atmosphere, serene and calm mood\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Captain — a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. Fur texture: scruffy, untidy, slightly coarse with uneven lengths (NOT sleek). LEFT eye (viewer perspective): permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket — explicitly a fur marking, NOT a fabric or leather eye patch, NO straps. RIGHT eye: single piercing emerald green #50C878. LEFT ear: prominent V-shaped notch. Neck: faded red #CD5C5C bandana tied loosely and visible. White #FFFFFF chest bib and white mitten paws on all four feet. Distinctive M-mark on forehead. Tail: thick and sturdy. [HARD CONSTRAINTS] 1) LEFT eye MUST be hidden by dark fur patch — NEVER a fabric eye patch or strap. 2) RIGHT eye emerald #50C878 ONLY. 3) V-shaped left-ear notch always present. 4) Faded red bandana always present. 5) White chest bib and white mitten paws preserved. 6) Brown tabby with black stripes ONLY — NEVER orange or grey. 7) Scruffy coarse texture, NEVER groomed sleek coat. End.\nNEGATIVE CONSTRAINTS (must not appear): two visible eyes, both eyes open, fabric eye patch, leather eye patch, strap over eye, clean sleek fur, groomed coat, smooth glossy fur, no bandana, missing bandana, missing ear notch, intact left ear, orange tabby, grey tabby, blue eyes, longhair, small cat, slender build, kitten, symmetrical eyes, two green eyes, eye patch with string, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: summer - the cat should be dressed/styled appropriately for summer.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "character_name": "船長",
+    "comment_id": 5425300303,
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "日期時間字樣標記",
+      "前爪輕撥或拍打物件",
+      "百葉窗條紋光影",
+      "Knolling平鋪矩陣排列",
+      "霓虹螢光色彩點綴",
+      "水銀般液態金屬質感",
+      "古典深紅色與金色調組合",
+      "復古褪色色調與舊化質感",
+      "極端鳥瞰俯視角構圖",
+      "淺景深與鏡頭聚光燈打光",
+      "裝飾性線條與精細紋理肌理"
+    ],
+    "title": "暴風雪中的孤釣者",
+    "idea": "採用等距攝影與霧面紙玻璃風格，呈現在暴風雪朦朧的極致藍青色調下，壯碩的虎斑貓「船長」蹲坐在防波堤的冰晶金屬網格上，靜靜守候著草帽旁的小釣竿。"
   }
 ]
