@@ -16822,5 +16822,36 @@
       "裝飾性線條與精細紋理肌理"
     ],
     "inspiration": "original"
+  },
+  {
+    "number": 3207,
+    "idea": "這是一組融合雙重曝光與高飽和鮮豔色的等距3D插圖，呈現一隻玳瑁貓在熱帶溫室高處的溫室天窗鋼樑上追逐飛蛾的動態畫面。",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Silk",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A 3D isometric double-exposure illustration featuring a tortoiseshell cat dynamically chasing a moth high above on the steel beams of a tropical greenhouse skylight. The cat's sleek silhouette blends smoothly with an overlapping lush tropical landscape and glowing steel geometric forms. Dramatic backlighting creates vibrant rim light and glowing translucent edges around the cat's silk-like fur. Rendered in high saturation vivid colors with bold, energetic hues and polished, clean 3D art style. Near the top corner, the text '2026-08-26 14:33 UTC' is visually displayed in clear sans-serif typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5426910471,
+    "inspiration": "original",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "日期時間字樣標記",
+      "前爪輕撥或拍打物件",
+      "百葉窗條紋光影",
+      "Knolling平鋪矩陣排列",
+      "霓虹螢光色彩點綴",
+      "水銀般液態金屬質感",
+      "古典深紅色與金色調組合",
+      "復古褪色色調與舊化質感",
+      "極端鳥瞰俯視角構圖",
+      "淺景深與鏡頭聚光燈打光",
+      "裝飾性線條與精細紋理肌理"
+    ],
+    "story": "在高溫濕潤的溫室頂端，玳瑁貓敏捷地踏過光滑的鋼樑，前端身體緊貼著溫室天窗。強烈的背光穿透天窗與植物葉片，在貓咪如絲綢般柔滑的毛髮邊緣勾勒出一道耀眼的輪廓光，將整片熱帶綠意與光影融為一體。",
+    "title": "熱帶溫室的光影獵手",
+    "news_inspiration": []
   }
 ]
