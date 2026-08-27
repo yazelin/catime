@@ -17041,5 +17041,38 @@
     },
     "character_name": "船長",
     "inspiration": "original"
+  },
+  {
+    "title": "燭影刻痕的凝視",
+    "news_inspiration": [],
+    "character": "momo",
+    "comment_id": 5446384562,
+    "prompt": "Detailed illustration of Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, large luminous golden-amber eyes, long white whiskers, a tiny natural white locket tuft on its ventral chest, a dark-grey ring at its tail tip, and a single small gold hoop earring on its left ear. The cat is sitting in the exact center of a dark, ancient watch restoration workshop, intently watching a disassembled pocket watch with slowly turning gears set on an indigo blue Shibori resist-dyed textile cloth. Illuminated by the warm, flickering orange glow of a single candle, casting soft dancing shadows against a cool blue-teal and icy undertone background. Overlaid with retro CRT monitor aesthetics, including visible scan lines, phosphor glow, subtle screen curvature, and display artifacts. Symmetrical centered composition with clean surrounding space. Visually displaying the date and time '2026-08-27 23:19 UTC' in crisp digital text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "CRT Scanline",
+      "composition": "Centered Subject Composition",
+      "lighting": "Candlelight",
+      "texture": "Shibori Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "午夜的工坊只剩單芯蠟燭在冷藍暗影中跳動，墨墨端坐在工作檯正中，如寶石般的金琥珀色眼眸緊盯著機芯運轉的節奏。牠胸前的白色小領結在微光下隱隱發亮，彷彿正以無聲的威嚴監督著時間的修復。",
+    "number": 3213,
+    "avoid_list": [
+      "貓用前爪輕戳/撥弄",
+      "液態金屬與水銀質感",
+      "百葉窗/樹蔭斑駁光影",
+      "強烈直打閃光燈與硬影",
+      "雙色調藍紫/藍青配色",
+      "微縮/等距攝影與傾斜微移特效",
+      "微型星球/黑洞星與宇宙元素",
+      "幾何矩陣與 Knolling 排列",
+      "復古/褪色色調與裝飾藝術風格",
+      "金屬網格與鋼樑結構",
+      "霜雪冰晶與冰封氛圍",
+      "極簡純白/無影棚拍背景"
+    ],
+    "character_name": "墨墨",
+    "inspiration": "original",
+    "idea": "在幽暗古老的鐘錶修復工坊正中央，純黑的墨墨靜靜伏在一塊深藍絞染布上，專注凝視著身前被微弱燭光照亮、齒輪緩緩轉動的拆解懷錶，畫面覆蓋著細膩的CRT掃描線質感與幽藍色調。"
   }
 ]
