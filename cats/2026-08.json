@@ -17074,5 +17074,45 @@
     "character_name": "墨墨",
     "inspiration": "original",
     "idea": "在幽暗古老的鐘錶修復工坊正中央，純黑的墨墨靜靜伏在一塊深藍絞染布上，專注凝視著身前被微弱燭光照亮、齒輪緩緩轉動的拆解懷錶，畫面覆蓋著細膩的CRT掃描線質感與幽藍色調。"
+  },
+  {
+    "inspiration": "original",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "日本（京都市）：研究人員發現一種簡單的新技術，能從回收的電動車廢舊電池中有效提取出 90% 的高純度鋰資源。",
+      "美國（舊金山市）：海洋生物學家利用金門大橋步道的優勢視野，成功觀測並解開了海豚科港灣鼠海豚在灣區罕見的交配行為謎團。",
+      "哥本哈根（丹麥）：當地的「真人圖書館」花園推出了跨時代的特別借閱服務，民眾可以不借圖書而是「借閱一位真實的人」來面對面聆聽他們的人生故事。",
+      "紐西蘭（威靈頓）：紐西蘭政府正式宣布成立五個全新海洋保護區，創下該國近十年來最大的海洋生態保育擴建紀錄。"
+    ],
+    "avoid_list": [
+      "貓用前爪輕戳/撥弄",
+      "液態金屬與水銀質感",
+      "百葉窗/樹蔭斑駁光影",
+      "強烈直打閃光燈與硬影",
+      "雙色調藍紫/藍青配色",
+      "微縮/等距攝影與傾斜微移特效",
+      "微型星球/黑洞星與宇宙元素",
+      "幾何矩陣與 Knolling 排列",
+      "復古/褪色色調與裝飾藝術風格",
+      "金屬網格與鋼樑結構",
+      "霜雪冰晶與冰封氛圍",
+      "極簡純白/無影棚拍背景"
+    ],
+    "story": "夏日的陽光灑在老街旁的海灘上，圓滾滾的麻糬剛巡邏完小吃攤，就迫不及待戴上浮水衣鑽進西瓜堆裡。牠邊打著呼嚕邊瞇眼大口啃著甜美西瓜，發光的夜光海浪與金燦燦的亮粉閃耀著，記錄下這顆花生麻糬最滿足的避暑時光。",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Bioluminescence",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "idea": "3D Q版盲盒風格的橘白胖貓「麻糬」穿著迷你橘色浮水衣，在海灘小吃攤前趴著享用一顆大西瓜，周圍環繞著朱紅描金的閃光亮粉貼紙邊框與柔和的生物發光海浪。",
+    "season": "summer",
+    "prompt": "A 3D chibi blind box style digital artwork rendered in C4D with a smooth plastic toy texture, featuring Mochi, a chubby spherical shorthair orange-and-white cat, lying down happily on a summer beach in front of an old-fashioned beach snack stall, eating a large sweet watermelon. Mochi wears a tiny orange floating life vest. Mochi's unique coat features: a solid bright orange patch covering the right side of its face and right ear while the left side is pure white, large round amber eyes, a tiny pink nose with a tiny orange center dot, a heart-shaped bright orange saddle patch on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, and an orange-and-white ringed tail. In the background, soft bioluminescent blue-green waves glow gently against the sand under summer night light. The overall composition is a die-cut sticker collage with a white outline border, embellished with ornate vermilion red and metallic gilt gold sparkles, star-shaped glitter overlays, and magical shimmering dust. Visually displayed clearly on a decorative sign within the image is the text '2026-08-28 07:28 UTC' in a clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "麻糬",
+    "title": "夏日瓜香與海浪",
+    "number": 3214,
+    "character": "mochi",
+    "comment_id": 5449735632
   }
 ]

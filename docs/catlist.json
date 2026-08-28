@@ -30113,5 +30113,18 @@
     "character_name": "墨墨",
     "inspiration": "original",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-27_2319_UTC.webp"
+  },
+  {
+    "inspiration": "original",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-28_0728_UTC.webp",
+    "season": "summer",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "麻糬",
+    "title": "夏日瓜香與海浪",
+    "number": 3214,
+    "status": "success",
+    "character": "mochi",
+    "timestamp": "2026-08-28 07:28 UTC"
   }
 ]
