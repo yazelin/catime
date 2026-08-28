@@ -17114,5 +17114,45 @@
     "number": 3214,
     "character": "mochi",
     "comment_id": 5449735632
+  },
+  {
+    "character": "captain",
+    "avoid_list": [
+      "藍青冷色調與冰冷底色",
+      "微縮模型移軸攝影效果",
+      "無限遞迴德羅斯特效應",
+      "3D潮玩盲盒公仔質感",
+      "防波堤草帽釣魚場景",
+      "趴臥在巨型冰塊或水果上",
+      "深靛藍與淡藍雙色調",
+      "老街攤位夏日避暑情境",
+      "畫面角落壓印時間戳記",
+      "居中構圖與純色去背棚光",
+      "生物發光夜光波紋與流光",
+      "專注凝視微小物件或零件"
+    ],
+    "character_name": "船長",
+    "story": "夏日的陽光灑落港灣，老船長戴著微舊的草帽矗立在防波堤最高處。當浪花與魚兒一同騰空躍起時，牠憑藉著多年的海港直覺伸出白手套般的敏捷前爪，展現出不容置疑的碼頭霸主威嚴。",
+    "news_inspiration": [
+      "在哈薩克（Kazakhstan）的中央大草原上，成功誕生了兩百年來首匹於野外自然繁衍的普氏野馬幼崽，為這項野生動物重引入計畫帶來重大突破。",
+      "立陶宛維爾紐斯（Vilnius）舉辦了一場盛大的國際柯基犬賽跑大會，吸引了上百隻短腿萌犬同場競速與交流。",
+      "瑞士（Switzerland）的科學家為了研究土壤活性，邀請了上千名志願者將純棉內褲埋入土中進行有趣的生態實驗。",
+      "美國三藩市（San Francisco）的海洋生物學家透過金門大橋的步道觀察，成功解開了港灣鼠海豚多年來的繁殖行為之謎。"
+    ],
+    "season": "summer",
+    "idea": "這幅洛可可藝術風格的描繪中，壯碩的虎斑貓「船長」戴著草帽站在被海浪拍打的石造防波堤上，用前爪緊緊按住一隻咬住魚線躍出水面的巨魚，周圍飛濺著靈動的動態水花。",
+    "number": 3215,
+    "prompt": "A full-body vertical portrait in ornate Rococo art style featuring Captain, a large stocky brown tabby cat with bold black stripes, scruffy untidy coarse fur, a white chest bib, and white mitten paws on all four feet. His left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch with no fabric or straps, while his right eye is a single piercing emerald green; his left ear has a prominent V-shaped notch, an M-mark adorns his forehead, and a faded red bandana is loosely tied around his neck alongside a slightly weathered summer straw hat on his head. The literal four-legged cat stands atop a stone seawall breakwater, pressing his white front paws firmly down on a giant hooked fish leaping from ocean waves. Crystalline liquid arcs, dynamic splattering water spray, and bursting droplets are frozen mid-motion around them. The composition is centered head-to-toe against an overcast sky with soft diffused natural light, even illumination, and flowing ornamental curves, executed in a harmonious blend of Rococo pastel colors and natural earth tones including terracotta, olive green, and warm brown. The text '2026-08-28 19:43 UTC' is clearly rendered in crisp lettering in the lower corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "comment_id": 5457039107,
+    "title": "防波堤上的浪花狂想",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Earth Tones"
+    }
   }
 ]
