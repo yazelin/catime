@@ -17340,5 +17340,44 @@
     "character_name": "船長",
     "story": "即使身處充斥義體訊號的未來海灣，戴著眼罩的船長依然邁著老派甲板步巡邏這片水域。牠低頭凝視大理石水面的反射，在黑白的光影焦散中，倒影裡的另一個自己正警惕地注視著暗湧。直到一尾游過的機械全息魚打破平靜，這位沉穩的老港口領袖才忍不住伸爪輕拍水面。",
     "idea": "在黑白單色賽博龐克風格的沉沒港口廢墟中，壯碩的虎斑貓「船長」蹲伏在光滑的大理石碼頭邊緣，透過鏡像異我構圖凝視水中投射出截然不同數位義眼倒影的自己，四周泛著蕩漾的水下焦散光波。"
+  },
+  {
+    "number": 3221,
+    "idea": "以四格漫畫風格呈現，從鳥瞰視角俯視一隻橘色虎斑貓正在天津彩色太陽能板拼接的屋頂上，伸出前爪追逐著帶有蛇鱗肌理的發光蜥蜴，畫面充盈著青橙電影調與生物發光的幽微螢光。",
+    "avoid_list": [
+      "俯瞰花海構圖",
+      "無限遞迴德羅斯特效應",
+      "穿透天窗的體積光束",
+      "三點打光與輪廓光",
+      "微型亮粉與閃爍顆粒特效",
+      "深藍與冷青色調",
+      "朱紅與金箔色彩組合",
+      "純棉布埋入土壤",
+      "草帽與紅色頭巾搭配",
+      "繁體中文與英文限定警語",
+      "時間戳記文字標籤",
+      "古老修復工坊與機甲",
+      "西瓜與海灘小吃攤",
+      "穆夏式拱框裝飾邊框"
+    ],
+    "inspiration": "中國天津市將數千塊退役的太陽能電池板進行創意改造，成功轉化為兼具發電功能與視覺美感的彩色建築外牆與圍欄。",
+    "title": "彩瓦間的流光躍影",
+    "prompt": "A four-panel comic strip layout in a colorful manga page style, shot from a bird's-eye view, top-down perspective looking straight down onto a colorful rooftop made of天津 patterned solar panels in a twilight miniature world effect. In a frame-by-frame continuous action, an orange tabby cat stretches its front paw out to chase a bioluminescent glowing lizard with snake scale texture, glossy patterned surface, and overlapping iridescent reptilian scales. The scene features teal and orange color grading with warm tones against cool blue-green shadows, a deep blue-green radiance, and organic glow from living organisms creating an ethereal natural light. The text '2026-08-29 22:53 UTC' is visually displayed in clear English text in the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "退役太陽能板拼貼出的七彩屋頂在暮色中泛著青橘色調，一隻好奇的四腳家貓正從上方俯撲竄出的螢光小蜥蜴。牠踩過一片片排列整齊的幾何光伏瓦片，在四格畫框的連續動作中留下躍動的爪印與微光漣漪。",
+    "comment_id": 5465362388,
+    "news_inspiration": [
+      "在哈薩克的中部大草原上，科學家成功讓珍貴的普氏野馬（Przewalski's horse）時隔 200 年後再次順利誕生新幼崽，為野外物種復育帶來重大突破。",
+      "荷蘭的一群學生團隊研發出世界上第一輛太陽能救護車「Stella Juva」，配備 X 光與超音波設備，準備前往非洲缺乏醫療資源的偏遠地區投入服務。",
+      "英國研究人員透過對 18 萬名女性長期追蹤，證實接受賀爾蒙補充療法（HRT）可將患阿茲海默症的風險降低 16%，為預防失智症帶來新希望。",
+      "中國天津市將數千塊退役的太陽能電池板進行創意改造，成功轉化為兼具發電功能與視覺美感的彩色建築外牆與圍欄。",
+      "在美國約克郡（Yukon）發現的冰河時期冷凍松鼠糞便中，科學家透過 DNA 技術成功還原了萬年前古老生態系統的植物與動物細節。"
+    ],
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Bird's-Eye View",
+      "lighting": "Bioluminescence",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Teal and Orange"
+    }
   }
 ]
