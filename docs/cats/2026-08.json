@@ -17193,5 +17193,45 @@
       "專注凝視微小物件或零件"
     ],
     "inspiration": "original"
+  },
+  {
+    "idea": "這是一幅融合摺紙質感的粉筆畫作品，採用朱紅描金的強烈色彩與專業三點打光，從俯臥花海俯瞰的角度呈現橘白貓麻糬穿著迷你浮水衣，在海岸邊盛開的海濱花海中專注大口嗑西瓜的逗趣畫面。",
+    "news_inspiration": [
+      "荷蘭恩荷芬的學生團隊成功測試名為「Stella Juva」的全球首款太陽能救護車，未來將用於改善非洲偏遠地區的醫療服務。",
+      "哈薩克中部的草原上成功誕生了兩百年來第一匹在野外自然繁殖的普氏野馬幼崽，為瀕危物種復育帶來重大突破。",
+      "中國天津市將退役的太陽能電池板進行創意改造，轉化為色彩繽紛且兼具發電功能的建築外牆與圍籬。",
+      "韓國忠清南道錦山郡與韓國棒球委員會（KBO）聯合舉辦跨國樂樂棒球邀請賽，吸引來自韓、日、越、蒙四國約1500名青少年選手熱情參與。"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Three-Point Lighting",
+      "texture": "Origami",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "character_name": "麻糬",
+    "title": "花海繁金西瓜夏",
+    "is_seasonal": true,
+    "prompt": "A chalk art piece on dark slate with origami paper sculpture style and folded paper texture with clean geometric creases. Overhead bird's-eye view looking down at Mochi, a chubby spherical shorthair orange-and-white cat, reclining in a dense sea of blooming coastal flowers along the beach. Mochi wears a mini floating vest and happily munches on a juicy red watermelon slice. Mochi has a distinct white base coat with a bright orange mask covering only the right half of its face from nose to right ear (left face remains pure white), large round amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle patch on its upper back, a solid orange mitten on its right front paw, and a pure white left front paw. Vermilion cinnabar red and metallic gilt gold outlines palette. Illuminated with classic three-point lighting, featuring key light with soft shadows, fill light, and subtle rim lighting. Visible chalk hatching strokes and dusty matte surface texture. The text '2026-08-29 09:30 UTC' is clearly and visibly displayed in traditional English style within the image frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "圓滾滾的橘白貓麻糬右腳戴著招牌橘色手套，身穿專屬的迷你浮水衣，在充滿潮香的海邊花叢裡找到最佳據點。牠大大的琥珀色眼睛緊盯著紅潤汁多的西瓜切片，大口咬下的同時，肚子微微晃動，享受著屬於牠的夏日海邊美食巡禮。",
+    "number": 3217,
+    "character": "mochi",
+    "comment_id": 5461570610,
+    "avoid_list": [
+      "藍青冷色調與冰冷底色",
+      "微縮模型移軸攝影效果",
+      "無限遞迴德羅斯特效應",
+      "3D潮玩盲盒公仔質感",
+      "防波堤草帽釣魚場景",
+      "趴臥在巨型冰塊或水果上",
+      "深靛藍與淡藍雙色調",
+      "老街攤位夏日避暑情境",
+      "畫面角落壓印時間戳記",
+      "居中構圖與純色去背棚光",
+      "生物發光夜光波紋與流光",
+      "專注凝視微小物件或零件"
+    ],
+    "season": "summer"
   }
 ]
