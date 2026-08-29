@@ -17154,5 +17154,44 @@
       "texture": "Dynamic Water Splash",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "story": "墨墨習慣在陽光最烈時佔據這具沉睡在深紅花海中的老舊人形機甲，將散發微溫的金屬外殼當成專屬坐墊。當耀眼的晨曦光柱穿透殘破穹頂，牠微瞇起金色眼眸，安靜地俯瞰著滿室盛放的花草與沉寂的機械，如同守護著一段被時光封存的古老記憶。",
+    "character": "momo",
+    "number": 3216,
+    "comment_id": 5459817231,
+    "title": "緋紅花海中的機甲守望",
+    "idea": "在寫實人形機器人概念風格的古董機械修復溫室中，金琥珀色眼睛的純黑貓墨墨優雅俯臥在緋紅花海覆蓋的休眠人形機甲胸甲上，沐浴於穿透天窗的斜向體積光與斑駁紙質肌理間，正伸爪輕輕撥弄機器人指尖微露的發條線圈。",
+    "news_inspiration": [
+      "在美國紐約市，一群天主教修女將她們的大修道院房間出租給面臨住房危機的大學生，每個月僅收取象徵性的租金，為她們提供溫暖安全的求學環境。",
+      "在紐西蘭懷塔基（Waitaki），政府與當地毛利族部落 Kai Tahu 展開歷史性的合作，共同開設了五個全新的海洋保護區，攜手守護海洋生態。",
+      "在英國的雅芳郡（Avon），一處原本養植奶牛的舊農場被野化信託基金收購，正正式轉型為一座具備氣候韌性的野生動物自然保護區。",
+      "在印度的尼爾吉里丘陵（Nilgiris），當地生態學家與志工團體連續 27 年守護 Longwood Shola 原生森林，透過持續移除外來入侵物種，成功讓古老森林恢復活力。",
+      "在墨西哥的米卻肯州（Michoacán），最新保育調查顯示渡冬的帝王斑蝶數量較前年大幅增長了 64%，展現出驚人的生態復甦成果。"
+    ],
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Photorealistic Sci-Fi Robot Concept",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Volumetric Light",
+      "texture": "Paper Texture",
+      "color_palette": "Crimson and Black"
+    },
+    "prompt": "A photorealistic sci-fi concept flat-lay overhead view of Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen jet-black fur, large luminous golden-amber eyes, long white whiskers, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring at the tail tip, and a single small gold hoop earring at the mid-ear edge of its left ear. Momo is elegantly reclining on the chest armor of a dormant, intricate humanoid mech submerged in a dense sea of crimson blossoms inside an antique mechanical repair greenhouse. Momo extends a paw to gently touch the exposed clockwork wire coils near the mech's fingers. Cinematic studio lighting, volumetric light rays with floating dust particles penetrating broken skylights, textured paper surface with visible fiber grain. Deep crimson and jet black palette, high-contrast intensity, hard-surface sci-fi design, top-down bird's-eye composition. Digital display on the mecha chest armor clearly shows the date and time reading '2026-08-29 02:33 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "藍青冷色調與冰冷底色",
+      "微縮模型移軸攝影效果",
+      "無限遞迴德羅斯特效應",
+      "3D潮玩盲盒公仔質感",
+      "防波堤草帽釣魚場景",
+      "趴臥在巨型冰塊或水果上",
+      "深靛藍與淡藍雙色調",
+      "老街攤位夏日避暑情境",
+      "畫面角落壓印時間戳記",
+      "居中構圖與純色去背棚光",
+      "生物發光夜光波紋與流光",
+      "專注凝視微小物件或零件"
+    ],
+    "inspiration": "original"
   }
 ]
