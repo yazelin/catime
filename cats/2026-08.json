@@ -17379,5 +17379,42 @@
       "texture": "Snake Scale Texture",
       "color_palette": "Teal and Orange"
     }
+  },
+  {
+    "prompt": "A Q-version chibi Lunar New Year illustration of an extremely fluffy pure white longhair cat named Lingling, with cloud-like voluminous white fur, huge round sapphire-blue eyes, pink nose, and a visible pink ribbon bow collar centered with a small golden bell. Lingling is wearing a tiny straw hat adorned with a sunflower. In a summer glass greenhouse, the cat playfully pounces on low-lying, glowing metallic mechanical beetles arranged in a dramatic spiral vortex composition that coils around the center. The glasshouse is filled with sunflower-shaped brushed metal windmills. Underwater caustic lighting casts rippling blue-green aquatic glow and light patterns dancing over the scene, complementing a bold blue and yellow palette. In a discreet corner of the scene, the text '2026-08-30 00:52 UTC' is visibly rendered in a clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Underwater Caustics",
+      "texture": "Metallic Surface",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "title": "旋夏花影裡的藍星鈴",
+    "inspiration": "original",
+    "story": "脖子上的粉紅鈴鐺一路叮鈴作響，棉花糖般蓬鬆的鈴鈴正低伏四肢，好奇地撲向地面上一圈圈旋轉的金屬風車。頭頂水幕濾下波光粼粼的水下焦散光，映照著她寶石藍色的大眼睛，在澄黃花影與蔚藍光斑的交織中，不小心追得太急而一頭撞上了花盆架。",
+    "avoid_list": [
+      "俯瞰花海構圖",
+      "無限遞迴德羅斯特效應",
+      "穿透天窗的體積光束",
+      "三點打光與輪廓光",
+      "微型亮粉與閃爍顆粒特效",
+      "深藍與冷青色調",
+      "朱紅與金箔色彩組合",
+      "純棉布埋入土壤",
+      "草帽與紅色頭巾搭配",
+      "繁體中文與英文限定警語",
+      "時間戳記文字標籤",
+      "古老修復工坊與機甲",
+      "西瓜與海灘小吃攤",
+      "穆夏式拱框裝飾邊框"
+    ],
+    "is_seasonal": true,
+    "number": 3222,
+    "character_name": "鈴鈴",
+    "season": "summer",
+    "news_inspiration": [],
+    "idea": "以Q版新年插畫風格呈現，純白長毛貓鈴鈴頭戴迷你草帽與太陽花，在擺滿向日葵造型金屬風車的夏日玻璃花坊中，追逐沿著螺旋漩渦排列的發光機械甲蟲。",
+    "comment_id": 5465853708,
+    "character": "lingling"
   }
 ]
