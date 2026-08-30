@@ -17454,5 +17454,38 @@
     "title": "翠影聽讀時",
     "number": 3223,
     "inspiration": "【丹麥·哥本哈根】當地的「真人圖書館」花園持續營運，提供民眾不僅能借閱書籍，還能借閱不同背景的「真人」進行深度對話與文化交流。"
+  },
+  {
+    "number": 3224,
+    "news_inspiration": [],
+    "idea": "採用鮮豔的高飽和剪紙藝術與織品質感，以超廣角視角展現一隻花貓在染坊天井頂層躍過晾曬布條的瞬間。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Butterfly Lighting",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "Artistic layered papercut illustration with rich woven fabric textures, depicting a lively calico cat mid-air leaping across vibrant hanging dyed cloth strips on the top floor of a traditional dyehouse courtyard. Expansive ultra-wide angle view with dramatic perspective distortion, intricate cutout details, tactile linen and cotton weave patterns with visible threads. High saturation vivid colors and energetic palette of bold hanging dyed fabrics. Overhead butterfly lighting casting symmetrical shadow depth beneath the cat and soft illumination across the multi-layered scene. A delicate cutout timestamp displaying '2026-08-30 12:23 UTC' subtly integrated onto the corner of a hanging fabric banner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5468673584,
+    "title": "染坊彩布間的飛躍",
+    "story": "陽光從正上方照耀，形成俐落的蝴蝶光影，將染坊中交錯懸掛的飽和彩布映照得繽紛奪目。花貓踏著柔軟的織物紋理，在垂掛的各色染布間穿梭玩耍，靈巧地撲向風中飄揚的布角。",
+    "avoid_list": [
+      "俯瞰花海構圖",
+      "無限遞迴德羅斯特效應",
+      "穿透天窗的體積光束",
+      "三點打光與輪廓光",
+      "微型亮粉與閃爍顆粒特效",
+      "深藍與冷青色調",
+      "朱紅與金箔色彩組合",
+      "純棉布埋入土壤",
+      "草帽與紅色頭巾搭配",
+      "繁體中文與英文限定警語",
+      "時間戳記文字標籤",
+      "古老修復工坊與機甲",
+      "西瓜與海灘小吃攤",
+      "穆夏式拱框裝飾邊框"
+    ]
   }
 ]
