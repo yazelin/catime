@@ -17560,5 +17560,41 @@
     "character": "mochi",
     "story": "老街市場的熱氣在清晨升起，圓滾滾的麻糬憑著敏銳的嗅覺鑽進老字號麻糬攤。牠那戴著橘色手套的右前腳伸向竹籠，琥珀色的圓眼高興得放大雙倍，正偷偷伸出舌頭試吃熱騰騰的花生麻糬。周遭斑駁的光影隨風飄移，木攤位上的朱紅金漆與青苔交織出獨特的市場煙火氣。",
     "prompt": "Pastel bokeh illustration, painterly digital rendering with dreamy candy palette and heavy colorful light dots scattered across the scene. Centered subject composition with a balanced symmetrical framing. A chubby rounded shorthair cat named Mochi sits dead center on a traditional market wooden snack stall adorned with refined vermilion red lacquer and metallic gilt gold outlines, aged with lush green moss-covered surfaces and damp living patina. Mochi has a pure white #FFFFFF base coat, short stubby legs, a spherical torso, and solid orange #FF8C00 patches without any tabby stripes: an asymmetrical orange mask strictly on the right half of the face (viewer's right) extending from the nose bridge to the right ear while the left face remains completely pure white, large round amber #FFBF00 eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on the upper dorsal back, a pure white belly, a solid orange mitten right front paw, a pure white left front paw, and an orange-and-white ringed banded tail. Mochi joyfully extends its orange right front paw toward a steaming bamboo basket, sticking out its tiny pink tongue to sneak a taste of piping hot peanut mochi dusted with crushed peanuts. Beautiful dappled light and soft mottled shadow patterns filter from above. In the background, glowing market window lights create a magical, cozy atmosphere. Visually integrated clearly in elegant Traditional Chinese calligraphy or clean typography on a small wooden market sign near the bottom corner is the text '2026-08-30 20:13 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "三點打光",
+      "水下焦散光波",
+      "蝴蝶光影",
+      "體積光與塵埃",
+      "發光蜥蜴或甲蟲",
+      "爪子觸碰或輕拍",
+      "復古與老舊機械溫室",
+      "草帽與花海結合",
+      "頂視與鳥瞰構圖",
+      "滿版與滿框構圖",
+      "時間日期浮水印",
+      "傳統繁體中文約束"
+    ],
+    "idea": "在一座充滿金屬光澤與金漆紋樣的現代古蹟展廳中，一隻斑紋花貓正伸長後腿輕盈地攀爬在一座黃金造像之上，呈現野獸派烈火般大膽的彩繪線條與金色奢華感。",
+    "story": "剛出土的萬年石雕重現了古人騎獵豹的豪情，而展廳裡的貓咪似乎也不甘示弱。牠滑稽地躍上黃金豹雕像的後背，側臉迎著明亮的亮光，宛如穿越時空跨越一萬年的王者對決。",
+    "inspiration": "考古團隊在土耳其尚勒烏爾法省的卡拉漢特佩（Karahantepe）遺址，發掘出一座距今一萬一千年前、雕刻著人類騎乘在豹背上的獨特石雕藝術品。",
+    "news_inspiration": [
+      "考古團隊在土耳其尚勒烏爾法省的卡拉漢特佩（Karahantepe）遺址，發掘出一座距今一萬一千年前、雕刻著人類騎乘在豹背上的獨特石雕藝術品。",
+      "哈薩克的中央哈薩克草原成功迎接了兩百年來首匹在野外自然誕生的普氏野馬幼崽，為當地草原生態復育邁出重大里程碑。",
+      "芬蘭的洛維薩鎮（Loviisa）透過啟用全球最大的「沙子電池」儲能系統，成功將當地區域供暖系統的碳排放量大幅減少了百分之七十。",
+      "幾名荷蘭學生團隊研發出一款名為 Stella Juva 的全球首創太陽能行動救護車，配備 X 光機與醫療設備並完成測試，預計將協助提升非洲偏遠地區的醫療資源。"
+    ],
+    "title": "黃金背上的躍動王者",
+    "prompt": "Fauvism painting with textured impasto brushwork, bold non-naturalistic colors, and simplified forms depicting a patterned calico cat climbing onto a luxurious ancient golden leopard statue in a modern museum exhibition hall. The cat is stretching its hind leg in an agile climb, captured in a clean side profile portrait with an elegant lateral framing. The environment features shimmering gold lacquer patterns and metallic textures against a deep black background, infused with bold strokes of fiery and wildly vibrant colors. High-key bright lighting creates a luminous clean atmosphere with soft even illumination and minimal shadows, accented by analog texture, subtle noise, and organic photographic grain. Small traditional digital text in the corner reads '2026-08-30 22:59 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Side Profile Portrait",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 3227,
+    "comment_id": 5471798948
   }
 ]
