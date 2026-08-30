@@ -30245,5 +30245,16 @@
     "season": "summer",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-30_1702_UTC.webp",
     "character": "momo"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3226,
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-30_2013_UTC.webp",
+    "character_name": "麻糬",
+    "title": "老街巷弄的花生麻糬試吃員",
+    "character": "mochi",
+    "timestamp": "2026-08-30 20:13 UTC",
+    "status": "success"
   }
 ]

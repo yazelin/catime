@@ -17522,5 +17522,43 @@
     },
     "idea": "這幅等距3D插圖採用魚拓藝術風格，結合電影感打光，呈現純黑貓咪墨墨在老宅客廳中央的竹蓆上優雅地臥著，正用爪子輕輕翻動一本開卷古籍的畫面。",
     "news_inspiration": []
+  },
+  {
+    "news_inspiration": [
+      "哈薩克 Central Kazakhstan 大草原傳出喜訊，當地誕生了200年來首匹野生普氏野馬幼崽，成為復育當地草原生態系的重要里程碑。",
+      "瑞士志願者參與了一項趣味科學實驗，將上千條棉質內褲埋入全國各地的土壤中，透過內褲分解的速度來測量微生性活力。",
+      "荷蘭學生團隊研發出全球首款太陽能救護車「Stella Juva」，車頂與可折疊面板能隨時充電，並配備各類醫療設備以協助偏遠地區。",
+      "印度比哈爾邦政府宣布將在成績單上以「具備技能資格」取代「不及格」字眼，鼓勵學生多發掘自我潛能與專長。"
+    ],
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Centered Subject Composition",
+      "lighting": "Dappled Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "number": 3226,
+    "inspiration": "original",
+    "avoid_list": [
+      "三點打光",
+      "水下焦散光波",
+      "蝴蝶光影",
+      "體積光與塵埃",
+      "發光蜥蜴或甲蟲",
+      "爪子觸碰或輕拍",
+      "復古與老舊機械溫室",
+      "草帽與花海結合",
+      "頂視與鳥瞰構圖",
+      "滿版與滿框構圖",
+      "時間日期浮水印",
+      "傳統繁體中文約束"
+    ],
+    "character_name": "麻糬",
+    "title": "老街巷弄的花生麻糬試吃員",
+    "idea": "在融合朱紅描金細節與苔蘚覆蓋的傳統市場小吃攤前，以粉彩光點繪畫與居中主體構圖呈現斑駁光影下正專注偷嘗剛出爐熱氣騰騰花生麻糬的橘白貓麻糬。",
+    "comment_id": 5471013204,
+    "character": "mochi",
+    "story": "老街市場的熱氣在清晨升起，圓滾滾的麻糬憑著敏銳的嗅覺鑽進老字號麻糬攤。牠那戴著橘色手套的右前腳伸向竹籠，琥珀色的圓眼高興得放大雙倍，正偷偷伸出舌頭試吃熱騰騰的花生麻糬。周遭斑駁的光影隨風飄移，木攤位上的朱紅金漆與青苔交織出獨特的市場煙火氣。",
+    "prompt": "Pastel bokeh illustration, painterly digital rendering with dreamy candy palette and heavy colorful light dots scattered across the scene. Centered subject composition with a balanced symmetrical framing. A chubby rounded shorthair cat named Mochi sits dead center on a traditional market wooden snack stall adorned with refined vermilion red lacquer and metallic gilt gold outlines, aged with lush green moss-covered surfaces and damp living patina. Mochi has a pure white #FFFFFF base coat, short stubby legs, a spherical torso, and solid orange #FF8C00 patches without any tabby stripes: an asymmetrical orange mask strictly on the right half of the face (viewer's right) extending from the nose bridge to the right ear while the left face remains completely pure white, large round amber #FFBF00 eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on the upper dorsal back, a pure white belly, a solid orange mitten right front paw, a pure white left front paw, and an orange-and-white ringed banded tail. Mochi joyfully extends its orange right front paw toward a steaming bamboo basket, sticking out its tiny pink tongue to sneak a taste of piping hot peanut mochi dusted with crushed peanuts. Beautiful dappled light and soft mottled shadow patterns filter from above. In the background, glowing market window lights create a magical, cozy atmosphere. Visually integrated clearly in elegant Traditional Chinese calligraphy or clean typography on a small wooden market sign near the bottom corner is the text '2026-08-30 20:13 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
