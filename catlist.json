@@ -30232,5 +30232,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "title": "染坊彩布間的飛躍"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "status": "success",
+    "character_name": "墨墨",
+    "number": 3225,
+    "is_seasonal": true,
+    "title": "老宅竹蓆上的墨香夏日",
+    "timestamp": "2026-08-30 17:02 UTC",
+    "season": "summer",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-30_1702_UTC.webp",
+    "character": "momo"
   }
 ]

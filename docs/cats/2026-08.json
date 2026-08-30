@@ -17487,5 +17487,40 @@
       "西瓜與海灘小吃攤",
       "穆夏式拱框裝飾邊框"
     ]
+  },
+  {
+    "inspiration": "original",
+    "character_name": "墨墨",
+    "number": 3225,
+    "story": "炎炎夏日，墨墨尋得了舊老宅最涼爽的角落。牠俯臥在散發著天鵝絨般質感與竹香的蓆子上，金琥珀色的雙眼在紅金調的光影下閃爍，優雅地享受著專屬於牠的古風閱讀時光。",
+    "is_seasonal": true,
+    "title": "老宅竹蓆上的墨香夏日",
+    "character": "momo",
+    "comment_id": 5470075006,
+    "season": "summer",
+    "prompt": "這幅等距3D插圖採用魚拓藝術風格，結合電影感打光，呈現純黑貓咪墨墨在老宅客廳中央的竹蓆上優雅地臥著，正用爪子輕輕翻動一本開卷古籍的畫面。. The date and time '2026-08-30 17:02 UTC' is visually displayed in the image. Gyotaku style, direct ink impression print, textured relief surface, traditional Japanese art form, monochrome contact print aesthetic, 3D isometric illustration, clean geometric forms, soft pastel colors, polished playful rendering, cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, film-quality mood, velvet texture, deep pile softness, rich color saturation, light-absorbing matte surface, tactile luxury, festive red and gold palette, auspicious Chinese red dominance with bright gold accents, celebratory warmth, lucky vivid contrast\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Momo — a sleek, slender solid-black #0A0A0A Bombay-style shorthair with satin-sheen fur revealing warm brown undertones in direct light. Athletic proportions with visible muscle definition and a slight upward curl at the tail tip. LEFT ear (viewer perspective): single small gold hoop earring #FFD700 (3mm) positioned at the mid-ear edge — the only earring. Ventral chest: tiny natural white locket tuft #FFFFFF (fur only, NOT a collar). Tail tip: single dark-grey #696969 ring. Eyes: large luminous golden-amber #D4A017 like polished amber gems. Long prominent white whiskers. Expression: calm and attentive. [HARD CONSTRAINTS] 1) Solid black fur ONLY — no other body patches or stripes. 2) LEFT ear gold hoop ONLY; NEVER on right ear. 3) White chest locket tuft is the sole white marking. 4) Golden-amber #D4A017 eyes ONLY — NEVER blue or green. 5) Shorthair satin-sheen texture, NEVER long or fluffy. 6) No collar, bandana, or necklace. End.\nNEGATIVE CONSTRAINTS (must not appear): two earrings, right ear earring, earring on both ears, blue eyes, green eyes, longhair, fluffy coat, white patches on legs, white belly, white paws, collar, necklace, bandana, grey fur, brown cat, tabby stripes, spotted pattern, heterochromia, orange eyes, missing earring, calico, tuxedo full bib, large white chest, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: summer - the cat should be dressed/styled appropriately for summer.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "三點打光",
+      "水下焦散光波",
+      "蝴蝶光影",
+      "體積光與塵埃",
+      "發光蜥蜴或甲蟲",
+      "爪子觸碰或輕拍",
+      "復古與老舊機械溫室",
+      "草帽與花海結合",
+      "頂視與鳥瞰構圖",
+      "滿版與滿框構圖",
+      "時間日期浮水印",
+      "傳統繁體中文約束"
+    ],
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Cinematic Lighting",
+      "texture": "Velvet",
+      "color_palette": "Festive Red and Gold"
+    },
+    "idea": "這幅等距3D插圖採用魚拓藝術風格，結合電影感打光，呈現純黑貓咪墨墨在老宅客廳中央的竹蓆上優雅地臥著，正用爪子輕輕翻動一本開卷古籍的畫面。",
+    "news_inspiration": []
   }
 ]
