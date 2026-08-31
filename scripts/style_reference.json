@@ -1009,6 +1009,31 @@
       "zh": "斑駁金箔花卉混媒",
       "en": "Distressed Gold-Leaf Floral Mixed-Media",
       "prompt": "distressed gold-leaf floral mixed-media, mottled metallic gilding over painted blossoms, layered collage with weathered patina and cracked foil, ornate decorative artwork, opulent textured surface"
+    },
+    {
+      "zh": "幾何色塊新中式海報插畫",
+      "en": "Geometric Color-Block Neo-Chinese Poster Illustration",
+      "prompt": "geometric color-block neo-Chinese poster illustration, figure set against flat angular color planes, bold graphic shapes with fine gold linework, modern oriental poster layout, clean decorative minimalism"
+    },
+    {
+      "zh": "水墨流體禮服插畫",
+      "en": "Fluid Ink Gown Illustration",
+      "prompt": "fluid ink gown illustration, swirling liquid ink billowing into a flowing couture dress, feathered wash gradients dissolving at the hem, ink-motion drapery around a delicately rendered figure, elegant dynamic oriental fashion art"
+    },
+    {
+      "zh": "巴洛克宮廷禮服插畫",
+      "en": "Baroque Court Gown Illustration",
+      "prompt": "baroque court gown illustration, noble lady in an opulent corseted ball gown of layered brocade and lace, gilded palace hall with marble columns and chandeliers, dramatic chiaroscuro richness, ornate European aristocratic grandeur"
+    },
+    {
+      "zh": "都會街拍時尚插畫",
+      "en": "Urban Street-Style Fashion Illustration",
+      "prompt": "urban street-style fashion illustration, stylish figure striding through a modern city block, layered contemporary outfit with confident attitude, loose sketchy linework over flat color, editorial streetwear energy"
+    },
+    {
+      "zh": "韓服復古海報插畫",
+      "en": "Retro Hanbok Poster Illustration",
+      "prompt": "retro hanbok poster illustration, Korean beauty in jeogori and full chima with sweeping silhouette, vintage print texture and typographic border, muted nostalgic palette, refined traditional Korean elegance"
     }
   ],
   "composition": [
@@ -1216,6 +1241,21 @@
       "zh": "玻璃容器置入構圖",
       "en": "Inside-the-Glass-Vessel Composition",
       "prompt": "inside-the-glass-vessel composition, tiny subject staged within a transparent jar or bottle, contained miniature world framing, refractive glass border"
+    },
+    {
+      "zh": "幾何格線疊層構圖",
+      "en": "Geometric Grid Overlay Composition",
+      "prompt": "geometric grid overlay composition, thin ruled lines and rectangular color panels layered across the frame, subject partitioned by graphic blocks, structured modular layout, flat poster geometry"
+    },
+    {
+      "zh": "背影拖尾長裙構圖",
+      "en": "Back-View Trailing Gown Composition",
+      "prompt": "back-view trailing gown composition, figure turned away from the camera with a long skirt train sweeping across the floor, elegant receding silhouette, full-length vertical framing, graceful sense of departure"
+    },
+    {
+      "zh": "前景遮擋虛化構圖",
+      "en": "Blurred Foreground Occlusion",
+      "prompt": "blurred foreground occlusion composition, out-of-focus flowers and leaves partly covering the lens, subject glimpsed through a soft screen of foreground shapes, layered depth and intimate peeking view"
     }
   ],
   "lighting": [
@@ -1620,6 +1660,11 @@
       "zh": "發光絲流",
       "en": "Glowing Filament Flow",
       "prompt": "glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, ethereal energy filaments"
+    },
+    {
+      "zh": "絲質暈染墨紋",
+      "en": "Ink-Bleed on Silk",
+      "prompt": "ink-bleed on silk texture, ink diffusing and feathering into the woven fabric, soft blurred wash edges, tonal gradients seeping through the weave, delicate fluid staining"
     }
   ],
   "color_palette": [
@@ -1717,6 +1762,11 @@
       "zh": "藍黃互補色",
       "en": "Blue and Yellow Complementary",
       "prompt": "blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy, striking graphic vibrancy"
+    },
+    {
+      "zh": "緋紅冰藍",
+      "en": "Crimson and Ice Blue",
+      "prompt": "crimson and ice-blue palette, hot scarlet clashing against cold pale blue, high-tension complementary contrast, striking dual-tone drama"
     }
   ]
 }
