@@ -17667,5 +17667,43 @@
     ],
     "inspiration": "荷蘭恩荷芬的學生團隊研發出全球首款太陽能救護車「Stella Juva」，車頂配備可擴充的太陽能板並內建醫療設備，能為偏遠地區提供行動醫療服務。",
     "title": "日光擷取者"
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文文字標籤限制",
+      "水下焦散光波",
+      "野獸派狂野筆觸",
+      "太陽能板屋頂",
+      "伸出前爪輕拍/觸碰",
+      "電影感打光與高動態範圍",
+      "機械發光物件/甲蟲",
+      "黑白黑白色調與鮮豔色彩對比",
+      "傳統工藝與現代科技融合",
+      "等距3D/正交投影視角",
+      "琥珀色/寶石般大眼睛",
+      "鳥瞰俯視/超廣角視角"
+    ],
+    "idea": "在融合巴洛克風格的暗夜燈塔最高處，壯碩的虎斑家貓「船長」戴著眼罩與紅色頭巾，正迎著海風佇立於海域交界處，凝視著遠方如星雲輝光般閃耀的海上曙光。",
+    "inspiration": "original",
+    "title": "狂風中的港口領航者",
+    "story": "老船長踏上燈塔的最頂層，粗壯的尾巴如船舵般定住身形，長長的白鬍鬚在陣陣強風中飄揚。縱使左眼留下了昔日搏鬥的傷痕，牠那獨特的翠綠右眼依然銳利如初，在金色與黑色的奢華光影下，默默守護著這片牠誓死捍衛的碼頭與貓群。",
+    "character": "captain",
+    "prompt": "Art style painting of a large stocky brown classic tabby cat with bold black stripes, named Captain, standing on the high balcony of a baroque-style lighthouse. The cat has a muscular build, scruffy untidy fur, a prominent V-shaped notch on its left ear, a faded red bandana loosely tied around its neck, a white chest bib, and white mitten paws on its feet. The cat's left eye is permanently hidden by a natural dark brown fur patch covering the socket, with no straps or fabric eyepatch present, while its single right eye is a piercing emerald green. The cat stands at the junction of ocean waters, gazing toward a distant glowing sea dawn illuminated like a nebula starfield with ethereal purple, blue, and golden light. Baroque art style featuring dramatic chiaroscuro, deep shadows, luxurious metallic gold accents, and a deep black background. Tight classic portrait composition framing the face and upper body at eye level, soft-focus matte haze, hazy atmospheric softness, and glowing particles. In the corner of the image, the date and time '2026-08-31 15:37 UTC' is visually displayed in clean clear text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在哈薩克中央草原（Kazakhstan），保育團隊宣佈迎來200年來首隻在野外自然誕生的普氏野馬幼崽，為野生馬群復育邁出重大里程碑。",
+      "荷蘭恩荷芬（Eindhoven, Netherlands）的學生團隊研發出全球首款太陽能行動救護車，不僅能邊開邊充電，還配備醫療儀器以改善偏遠地區醫療。",
+      "澳洲昆士蘭州（Queensland, Australia）最新公布的研究顯示，經過多年的集水區管理與減少肥皂及泥沙流入，大堡堡礁周邊多條河流的水質正顯著改善。",
+      "印度比哈爾邦（Bihar, India）教育局宣布改革成績單評分體制，將把未達標學生的「不及格（Fail）」字樣改為「具備技能發展資格」，以鼓勵學生發掘多元天賦。"
+    ],
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 5480696938,
+    "number": 3230,
+    "character_name": "船長"
   }
 ]
