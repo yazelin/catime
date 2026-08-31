@@ -17705,5 +17705,45 @@
     "comment_id": 5480696938,
     "number": 3230,
     "character_name": "船長"
+  },
+  {
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "is_seasonal": true,
+    "idea": "這幅暗黑恐怖概念藝術作品採用全身居中直幅構圖，描述全身毛量蓬鬆的白貓鈴鈴戴著迷你草帽與粉紅鈴鐺，在深綠色的向日葵田廢墟中追逐光點，背景充斥著竹影翠綠色的星雲輝光與混凝土質感。",
+    "season": "summer",
+    "story": "鈴鈴頭頂著小巧的花朵草帽，一邊發出叮鈴聲一邊在詭異而高大的巨型向日葵陣中探險。當她伸出小腳好奇追逐飄浮的輝光孢子時，一聲微小的噴嚏讓她瞬間往後彈飛落入花叢。儘管週遭環境散發著混凝土廢墟般的陰森氣息，天真勇敢的她依然玩得不亦樂乎。",
+    "avoid_list": [
+      "繁體中文與英文文字標籤限制",
+      "水下焦散光波",
+      "野獸派狂野筆觸",
+      "太陽能板屋頂",
+      "伸出前爪輕拍/觸碰",
+      "電影感打光與高動態範圍",
+      "機械發光物件/甲蟲",
+      "黑白黑白色調與鮮豔色彩對比",
+      "傳統工藝與現代科技融合",
+      "等距3D/正交投影視角",
+      "琥珀色/寶石般大眼睛",
+      "鳥瞰俯視/超廣角視角"
+    ],
+    "style_picks": {
+      "art_style": "Dark Horror Concept Art",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Concrete",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "prompt": "這幅暗黑恐怖概念藝術作品採用全身居中直幅構圖，描述全身毛量蓬鬆的白貓鈴鈴戴著迷你草帽與粉紅鈴鐺，在深綠色的向日葵田廢墟中追逐光點，背景充斥著竹影翠綠色的星雲輝光與混凝土質感。. The date and time '2026-08-31 21:10 UTC' is visually displayed in the image. dark horror concept art, ominous creature or figure, deep shadows and eerie atmosphere, gothic dread, highly detailed digital painting, cinematic dread mood, full-body vertical portrait, entire figure centered in a tall frame, head-to-toe framing, environmental context, balanced standing composition, nebula cosmic glow, soft colorful starfield illumination, ethereal purple and blue space light, glowing particles and galactic haze, otherworldly radiance, raw concrete texture, brutalist aesthetic, rough aggregate surface, industrial minimalism, urban material, bamboo jade-green palette, fresh emerald and malachite tones, cool verdant serenity, elegant oriental green harmony\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Lingling — extremely fluffy pure white #FFFFFF longhair, Ragdoll-like with voluminous cloud-like fur. Small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of face) with gentle sparkle. Nose and inner ears: pale pink #FFB6C1. Neck: pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell — the bell must be clearly visible and centered beneath the bow knot. Tail: enormous feathery white plume. Pink paw pads occasionally visible through fur. [HARD CONSTRAINTS] 1) Pure white fur ONLY — no colored points or patches. 2) Pink bow collar with golden bell ALWAYS visible and centered. 3) Sapphire-blue #0F52BA eyes ONLY — NEVER amber, green, or gold. 4) Longhair extremely fluffy, NEVER shorthair. 5) Pink nose and inner ears. 6) No other accessories besides the bow bell collar. End.\nNEGATIVE CONSTRAINTS (must not appear): shorthair, flat coat, sleek fur, dark patches, cream fur, grey fur, yellow fur, amber eyes, green eyes, gold eyes, missing collar, no collar, missing bell, hidden bell, red collar, blue collar, no bow, plain collar, small eyes, calico markings, siamese points, colorpoint, thin tail, tabby markings, orange patches, dirty fur, matted fur, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: summer - the cat should be dressed/styled appropriately for summer.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3231,
+    "title": "翡翠向日葵廢墟探險",
+    "character": "lingling",
+    "news_inspiration": [
+      "【奧地利·韋爾芬】研究人員發現一隻名叫 Veronika 的母牛能靈活使用工具為自己抓癢，成為首例被證實會使用工具的牛隻。",
+      "【荷蘭·恩斯赫德】荷蘭大學生團隊研發出全球首款太陽能救護車「Stella Juva」，並成功於非洲偏遠地區進行醫療巡迴測試。",
+      "【哈薩克·阿克莫拉】哈薩克大草原迎來200年來首匹在野外自然誕生的普氏野馬幼崽，為生態復育邁出重大里程碑。",
+      "【美國·紐約】年度最後一項網球大滿貫賽事美國網球公開賽於紐約法拉盛公園正式開打。"
+    ],
+    "comment_id": 5484698552
   }
 ]
