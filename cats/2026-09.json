@@ -174,5 +174,36 @@
       "texture": "Frosted Glass",
       "color_palette": "Festive Red and Gold"
     }
+  },
+  {
+    "comment_id": 5500738688,
+    "inspiration": "original",
+    "title": "熱能獵場的深夜偷襲",
+    "story": "深夜的餐館燈火通明，廚師正忙著翻炒食材，沒注意到檯面角落有個敏捷的小賊。這隻街貓憑藉著對熱源的敏感本能，正精準地用前爪探向剛炸好、散發濃郁肉香的美味豬排。",
+    "prompt": "Thermal imaging style full shot of a cat standing on four paws on a stainless steel counter inside a bustling 1950s American retro diner, reaching out its claw to touch a freshly fried pork chop. Infrared vision heat map color gradient with intense high-saturation vivid red, vibrant yellow, and blue temperature visualization spectrum. Narrow beam spotlight lighting creating dramatic high-contrast and sharp light edges against deep darkness falloff. Frosted glass texture overlay with translucent matte surfaces and soft blurred background shapes. Styled as a die-cut sticker collage scrapbook composition with a central character surrounded by layered sticker cutouts, thin white outline borders, chibi side characters, and floating props decorating the frame. The date and time '2026-09-01 21:31 UTC' is clearly displayed on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "星雲輝光與宇宙微光",
+      "環形燈光與圓形眼神光",
+      "直式書法海報構圖與印章",
+      "緋紅與烏黑強烈對比",
+      "古書堆與古卷藏經閣",
+      "純黑貓墨墨左耳單金環",
+      "奢華金漆紋樣與金箔質感",
+      "居中對稱主體構圖",
+      "天鵝絨觸感與柔軟絨毛",
+      "傳統水墨絹本宣染",
+      "微型懸浮發光星體",
+      "廢墟混凝土與暗黑氛圍"
+    ],
+    "idea": "在一間充滿熱氣與嘈雜聲音的1950年代美式復古餐館內，一隻四腳踩在不銹鋼檯面上的花貓正伸出爪子撥弄剛出爐的炸豬排，全景透過熱成像風格呈現出高飽和度的紫紅與亮黃熱能對比。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Spotlight",
+      "texture": "Frosted Glass",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [],
+    "number": 3237
   }
 ]
