@@ -102,5 +102,41 @@
       "琥珀色/寶石般大眼睛",
       "鳥瞰俯視/超廣角視角"
     ]
+  },
+  {
+    "story": "古老的海底深處，這隻流淌著銀白光澤的貓咪重複著千百年來的儀式，將沉木推入無盡循環的紙雕珊瑚礁中。每當沉木定位，一層新的紙雕維度便在暴風雪般的冰冷水霧中悄然展開，衍生出永無止境的奇幻生態。",
+    "style_picks": {
+      "art_style": "Papercut Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Snowstorm Haze",
+      "texture": "Liquid Metal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "idea": "在黑白層次交疊的剪紙藝術風格中，一隻液態金屬質感的黑貓正用爪子在大堡礁的巨型珊瑚群落間推動一顆沉重沉木；畫面運用德羅斯特效應無限遞迴，並籠罩在暴風雪朦朧的寒白光影下。",
+    "prompt": "Artistic layered papercut silhouette style, high contrast black and white monochrome with rich tonal depth. A black cat with a liquid metal texture, chrome dripping sheen, and molten mercury finish is actively pushing a heavy piece of driftwood with its paws across giant paper-sculpted Great Barrier Reef coral colonies. Infinite Droste effect composition, displaying a recursive picture-within-a-picture repeating loop into the distance. Cold blue-white atmospheric snowstorm lighting with a heavy veil of falling snow, fogged distance, and muted diffused daylight. In the corner, the timestamp '2026-09-01 15:16 UTC' is clearly rendered in crisp clean text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3235,
+    "title": "無盡深海的循環巨礁",
+    "inspiration": "澳大利亞凱恩斯：公民科學家在知名的大堡壘礁發現了一片面積達近半個足球場大的巨型珊瑚群落，成為近年海底生態保育的一大新亮點。",
+    "news_inspiration": [
+      "吉爾吉斯比什凱克：第6屆世界遊牧民族運動會正式開幕，來自各國的選手齊聚一堂展示傳統遊牧體育項目與文化美學。",
+      "奧地利維也納：科學家研究發現一頭名為維羅妮卡（Veronika）的乳牛具備使用工具的能力，這是人類首次記錄到家牛展現此類高智商行為。",
+      "法國巴黎：政府自今日起對超快時尚商品徵收最高近20歐元的特別費用，成為全球首個立法遏止過度消費與紡織廢棄物的國家。",
+      "澳大利亞凱恩斯：公民科學家在知名的大堡壘礁發現了一片面積達近半個足球場大的巨型珊瑚群落，成為近年海底生態保育的一大新亮點。"
+    ],
+    "comment_id": 5496214857,
+    "avoid_list": [
+      "星雲輝光與宇宙微光",
+      "環形燈光與圓形眼神光",
+      "直式書法海報構圖與印章",
+      "緋紅與烏黑強烈對比",
+      "古書堆與古卷藏經閣",
+      "純黑貓墨墨左耳單金環",
+      "奢華金漆紋樣與金箔質感",
+      "居中對稱主體構圖",
+      "天鵝絨觸感與柔軟絨毛",
+      "傳統水墨絹本宣染",
+      "微型懸浮發光星體",
+      "廢墟混凝土與暗黑氛圍"
+    ]
   }
 ]
