@@ -30345,5 +30345,14 @@
     "inspiration": "澳大利亞凱恩斯：公民科學家在知名的大堡壘礁發現了一片面積達近半個足球場大的巨型珊瑚群落，成為近年海底生態保育的一大新亮點。",
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "number": 3236,
+    "status": "success",
+    "inspiration": "英國蘇格蘭（Scotland）通過全新法規，要求境內所有新建房屋皆須內嵌供雨燕築巢的專用「雨燕磚」，成為全球首個立法守護該瀕危候鳥棲地的地區。",
+    "title": "月下飛檐與棲羽石",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_1857_UTC.webp",
+    "timestamp": "2026-09-01 18:57 UTC"
   }
 ]
