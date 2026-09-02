@@ -308,5 +308,42 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "character_name": "麻糬",
+    "inspiration": "義大利特色餐館推廣傳統的「美好回憶餐盤」（Piatti del Buon Ricordo）文化，讓前往各地品嚐在地手路菜的饕客在享用完美食後，能直接將精美的陶瓷餐盤帶回家留作旅行紀念。",
+    "idea": "這是一座採用朱紅與純白雙色調的「聖誕裝飾球微縮模型」，以俯瞰視角呈現橘白貓麻糬正趴在義大利傳統餐館廚房中，伸頭舔拭剛出爐的「美好回憶陶瓷餐盤」上的醬汁，全景被柔和的螢光燈光照明，呈現細膩的絨毛皮草質感。",
+    "story": "圓滾滾的麻糬憑著靈敏的嗅覺鑽進了老街後巷的義式餐館，趴在低矮的備料檯上。看到精美陶瓷盤上剩餘的美味醬汁，這顆花生麻糬眼睛瞪得大大的，心滿意足地瞇起眼偷嚐鮮。店主看到牠那張帶著橘斑的呆萌臉龐與右腳橘色手套，笑著將這個帶有醬汁香氣的餐盤作為紀念送給了牠。",
+    "comment_id": 5509080577,
+    "title": "瓷盤上的甘甜記憶",
+    "news_inspiration": [
+      "瑞士研究團隊邀請了上千名志願者將純棉內褲埋入土壤中，透過布料被分解的速度來實地測試各地土壤的生物活躍度與健康狀況。",
+      "美國一位91歲的高齡長者歷經71次跌倒與挑戰，成功徒步完成全長達2,190英里（約3,525公里）的阿帕拉契小徑，創下完登該步道的最年長紀錄。",
+      "英國研究團隊利用古DNA與數位面部重建技術，成功還原了一尊於公元1079年前後埋葬於巴頓昂亨伯（Barton-upon-Humber）的千年前古人「征服者之人」（Conquest Man）的真實容貌。",
+      "義大利特色餐館推廣傳統的「美好回憶餐盤」（Piatti del Buon Ricordo）文化，讓前往各地品嚐在地手路菜的饕客在享用完美食後，能直接將精美的陶瓷餐盤帶回家留作旅行紀念。"
+    ],
+    "avoid_list": [
+      "繁體中文/正體字與英文文字約束",
+      "星雲輝光與宇宙空靈光學效果",
+      "德羅斯特效應無限遞迴構圖",
+      "伸出爪子撥弄或觸碰特定物件",
+      "磨砂玻璃質感與透光光影",
+      "蝴蝶光與環形燈光照射效果",
+      "高飽和度與螢光鮮豔色彩對比",
+      "東亞直式書法海報與印章邊框",
+      "四腳踩立或伏臥的動作姿態",
+      "低多邊形或紙雕幾何藝術風格",
+      "微型城市與建築視覺化容器構圖"
+    ],
+    "character": "mochi",
+    "prompt": "Top-down bird's-eye view photograph inside a tiny transparent glass Christmas bauble diorama of a mini Italian restaurant kitchen set in a bold vermilion red and clean white palette. Centered inside, a chubby rounded shorthair cat named Mochi with short stubby legs, a white base coat, bright solid orange patches, large round amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw mitten, a pure white left front paw, and an orange mask on the right half of its face while its left face and belly remain pure white, is leaning down on a low prep counter, enthusiastically licking sauce off an exquisite 'Sweet Memories' ceramic plate. Soft fuzzy velvet fibers and fine plush fur textures catch the light. Crisp graphic elegance, neutral white 5000K overhead fluorescent lighting, institutional flat illumination with cinematic reflections. Crisp timestamp text visually displayed in the corner reading '2026-09-02 11:49 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Bird's-Eye View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "number": 3241
   }
 ]
