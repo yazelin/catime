@@ -345,5 +345,43 @@
       "color_palette": "Vermilion and White"
     },
     "number": 3241
+  },
+  {
+    "news_inspiration": [
+      "美國：科學家在維吉尼亞州的古生物研究中，發現了一隻約4.15億年前、體長達1公尺且擁有巨大蟹鉗的遠古巨型陸生蠍子化石。",
+      "哈薩克：在哈薩克中部的阿斯塔納野生草原上，成功誕生了200年來首隻在野外自然受孕並出生普氏野馬幼崽。",
+      "埃及：開羅的農業團隊推動「光伏農業」新計畫，在農田上方鋪設太陽能板，同時實現潔淨發電與為農作物遮陽降溫。",
+      "荷蘭：阿姆斯特丹市正式實施新法規，成為全球首個全面禁止在公共空間投放肉類與化石燃料相關廣告的首都城市。",
+      "美國：高齡91歲的登山客成功完成長達2,190英里的阿巴拉契亞小徑徒步挑戰，創下完成該壯舉的最年長紀錄。"
+    ],
+    "prompt": "Dreamy pastel macro photography candid close-up of Momo, a sleek slender solid-black Bombay-style shorthair cat with satin-sheen fur revealing warm brown undertones in light, an athletic build, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, and a single small gold hoop earring at the mid-edge of its left ear (viewer left). Momo sits perched elegantly on a classical antique carved mirror frame in a dusty old bookstore corner, partially concealed behind a woven fabric drape with visible linen texture. A lyrical mirror selfie composition featuring a clear reflection of the cat peering at itself. Soft underwater caustic lighting patterns and refracted blue-green sun shafts dance over the satin black fur, mixed with muted pink and teal color grading and teal and orange cinematic shadow contrast. Ethereal floating bokeh particles, atmospheric haze, shallow depth of field, 35mm lens, f/1.8, natural light, subtle film grain. The date and time '2026-09-02 15:30 UTC' is visually displayed crisp and clear in the bottom corner of the image in clean English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3242,
+    "character_name": "墨墨",
+    "story": "墨墨習慣在午後爬上舊書店最高的古董雕花鏡架，將半個身軀隱於織品垂簾後面。牠微微瞇起雙眼凝視著鏡中的自己，細緻的粉彩光影與青橙色彩流轉於緞面黑毛之上，展現出貓咪特有的傲嬌與靈性。",
+    "style_picks": {
+      "art_style": "Dreamy Pastel Macro",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Underwater Caustics",
+      "texture": "Fabric / Textile",
+      "color_palette": "Teal and Orange"
+    },
+    "idea": "在夢幻粉彩微距風格下，優雅的黑色短毛貓墨墨正高踞在舊書店角落的古典鏡面框上，透過鏡面反射完成一張優雅的自我窺視構圖，金琥珀色的眼睛與水下焦散光斑相輝映。",
+    "title": "鏡邊的高雅窺視",
+    "avoid_list": [
+      "繁體中文/正體字與英文文字約束",
+      "星雲輝光與宇宙空靈光學效果",
+      "德羅斯特效應無限遞迴構圖",
+      "伸出爪子撥弄或觸碰特定物件",
+      "磨砂玻璃質感與透光光影",
+      "蝴蝶光與環形燈光照射效果",
+      "高飽和度與螢光鮮豔色彩對比",
+      "東亞直式書法海報與印章邊框",
+      "四腳踩立或伏臥的動作姿態",
+      "低多邊形或紙雕幾何藝術風格",
+      "微型城市與建築視覺化容器構圖"
+    ],
+    "character": "momo",
+    "comment_id": 5512189458,
+    "inspiration": "original"
   }
 ]
