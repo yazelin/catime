@@ -30423,5 +30423,16 @@
     "title": "藝廊裡的珠光回眸",
     "inspiration": "韓國首爾：年度當代藝術盛事「首爾弗里茲藝術博覽會」（Frieze Seoul）於 COEX 會展中心盛大開幕，匯聚來自全球 30 多個國家、超過 130 家藝廊參展，呈現多元藝文視野。",
     "status": "success"
+  },
+  {
+    "title": "月下怒濤的航海者",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "number": 3244,
+    "timestamp": "2026-09-02 22:05 UTC",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_2205_UTC.webp",
+    "character": "captain"
   }
 ]

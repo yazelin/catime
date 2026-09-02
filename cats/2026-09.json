@@ -421,5 +421,37 @@
       "color_palette": "Duotone"
     },
     "story": "鈴鈴好奇地鑽進了熱鬧的藝博會展間，看見展台上閃閃發光的珠寶雕塑便湊上前去，脖子上的粉紅鈴鐺叮叮作響。當她試圖嗅聞這顆亮晶晶的小玩意時，無意間被閃光燈和紫外燈照亮，那副睜大寶石藍圓眼的呆萌模樣，瞬間成為全場攝影師爭相定格的焦點作品。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Dark Horror Concept Art",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Moonlight",
+      "texture": "Liquid Metal",
+      "color_palette": "Duotone"
+    },
+    "title": "月下怒濤的航海者",
+    "prompt": "Dark horror concept art, digital painting in a fashion design sheet and lookbook reference layout with multiple labeled view panels including front view, back view, side profile, and detail close-up. The subject is a literal four-legged feline, Captain: a large, stocky, broad muscular brown #5C4033 classic tabby cat with bold black #1A1A1A stripes, uneven coarse scruffy fur texture, prominent forehead M-mark, white #FFFFFF chest bib, and four white mitten paws. A distinctive V-shaped notch is missing on its left ear. Around its neck is a loosely tied, faded red #CD5C5C bandana. One single piercing emerald green #50C878 right eye is visible; the left eye (viewer perspective) is fully concealed by a natural dark-pigmented fur patch #2B1B0E with no straps or fabric eyepatch. The cat stands firmly on a futuristic liquid metal lighthouse railing with chrome dripping texture and mercury-like reflective flow. Gothic dread and ominous atmosphere, illuminated by cool moonlight with a silvery glow in a strict duotone color treatment of deep midnight blue and black. Small neat technical text reads '2026-09-02 22:05 UTC' in the corner of the sheet layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5517106605,
+    "story": "暴風雨前夕，月光穿透黑雲照亮燈塔，船長穩重地站在積滿雨水的金屬欄杆上吹風。牠的右眼閃爍著翠綠銳光，左耳缺口與粗糙毛髮在冷色光影下宛如海盜傳奇，無聲守護著底下波濤洶湧的港口貓群。",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "number": 3244,
+    "character_name": "船長",
+    "idea": "採用暗黑恐怖概念藝術風格，展示一隻戴深色眼罩與紅色頭巾的龐大虎斑貓『船長』，以服裝多視角展示構圖站在寂靜燈塔頂端的液態金屬扶手上，於冷冽月光與深藍黑雙色調中巡視暗夜海面。",
+    "avoid_list": [
+      "繁體中文/正體字與英文文字約束",
+      "星雲輝光與宇宙空靈光學效果",
+      "德羅斯特效應無限遞迴構圖",
+      "伸出爪子撥弄或觸碰特定物件",
+      "磨砂玻璃質感與透光光影",
+      "蝴蝶光與環形燈光照射效果",
+      "高飽和度與螢光鮮豔色彩對比",
+      "東亞直式書法海報與印章邊框",
+      "四腳踩立或伏臥的動作姿態",
+      "低多邊形或紙雕幾何藝術風格",
+      "微型城市與建築視覺化容器構圖"
+    ],
+    "character": "captain"
   }
 ]
