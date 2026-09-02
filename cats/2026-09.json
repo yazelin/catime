@@ -242,5 +242,36 @@
     },
     "comment_id": 5502093051,
     "number": 3238
+  },
+  {
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Moonlight",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Duotone"
+    },
+    "title": "霓虹微縮夜遊記",
+    "avoid_list": [
+      "星雲輝光與宇宙微光",
+      "環形燈光與圓形眼神光",
+      "直式書法海報構圖與印章",
+      "緋紅與烏黑強烈對比",
+      "古書堆與古卷藏經閣",
+      "純黑貓墨墨左耳單金環",
+      "奢華金漆紋樣與金箔質感",
+      "居中對稱主體構圖",
+      "天鵝絨觸感與柔軟絨毛",
+      "傳統水墨絹本宣染",
+      "微型懸浮發光星體",
+      "廢墟混凝土與暗黑氛圍"
+    ],
+    "story": "銀月如鉤，冷冽的光芒穿透了高空薄霧，灑在貓咪身上露出一層精細如蕾絲鏤空的投影光斑。這隻四腳小獸靜靜蹲伏在高空軌道節點上，對著底下穿梭的微型飛艇伸出手爪，彷彿整座賽博龐克的夜城只是牠腳下的一場貓捉老鼠遊戲。",
+    "news_inspiration": [],
+    "prompt": "Tilt-shift photography, miniature toy-like effect, selective focus band with blurred foreground and background, 50mm lens, f/2.8. An orange domestic cat on all four paws crouches low on a dark cliff edge, gently batting with its paw at glowing fiber-optic cables of a tiny futuristic city below. Duotone color treatment dominated by deep navy blue and vibrant fluorescent purple neon. Cool silvery moonlight illuminates the cat from above, casting delicate lace openwork floral cutout shadows across its fur. Below, miniature skyscrapers and tiny neon airships resemble detailed plastic scale models in a rain-soaked cyberpunk setting. A subtle digital holographic timecode displaying the text '2026-09-02 01:47 UTC' is clearly visible in crisp font on a small terminal near the edge. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在賽博龐克風格的深藍與螢光紫雙色調夜色中，一隻踩著四隻腳的橘貓正俯身輕趴在懸崖邊緣，用爪子撥弄一座微型未來都市的光纖線路；移軸微縮效果讓底下的高樓建築與飛艇顯得如同精緻的模型玩具。",
+    "inspiration": "original",
+    "comment_id": 5503134893,
+    "number": 3239
   }
 ]
