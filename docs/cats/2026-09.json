@@ -453,5 +453,41 @@
       "微型城市與建築視覺化容器構圖"
     ],
     "character": "captain"
+  },
+  {
+    "comment_id": 5518629877,
+    "avoid_list": [
+      "液態金屬水銀滴流質感",
+      "前爪碰觸或撥弄物體",
+      "四腳站立或蹲伏於邊緣",
+      "冷冽月光銀色微光",
+      "雙色調極致對比色彩",
+      "磨砂玻璃半透明質感",
+      "微縮模型或景觀容器構圖",
+      "5000K頂置中性白螢光燈照明",
+      "多視角設計排版或分格拼貼",
+      "水鑽珠寶與微光細節裝飾",
+      "舊書店或復古餐館室內場景",
+      "純白手套腳與斑塊毛色特徵"
+    ],
+    "number": 3245,
+    "title": "紅海中的狂歡獵手",
+    "story": "布尼奧爾的番茄大戰狂歡正熱，街道早已被鮮紅的果汁淹沒。一隻好動的橘貓在紅海間跳躍，迎面撲向空中飛來的過熟番茄，把這場人類的節慶變成了牠獨屬的捕獵盛宴。",
+    "idea": "這幅畫作採用柯達 Portra 底片風格，以全身居中直幅構圖呈現一隻橘貓在滿是熟透番茄的西班牙小鎮街道上，正張大嘴巴奮力追逐並咬住一顆飛彈而來的番茄；百葉窗條紋光透過沿街建築的柵欄投射在貓咪身上，呈現出朱紅描金的色彩，並融入水彩潑濺墨點的藝術質感。",
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Venetian Blind Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "prompt": "Artistic mixed-media illustration with watercolor splatter and ink-spray texture, full-body vertical portrait centered in a tall frame. An energetic ginger cat leaps mid-air with wide-open mouth, biting into a ripe flying tomato on the tomato-strewn streets of Buñol. Striped shadow bands from venetian blinds cast dramatic graphic parallel light across the cat's body. Vermilion and gilt palette featuring cinnabar red with metallic gold line accents and organic fluid stains on paper. In the bottom corner, the text '2026-09-03 00:48 UTC' is neatly printed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "西班牙布尼奧爾舉辦了盛大的「蕃茄大戰」節慶，吸引了來自世界各地的遊客互相投擲過熟蕃茄，將街道染成一片紅海。",
+    "news_inspiration": [
+      "古生物學家最新研究發現，英國古老化石中揭露了一種體型相當於咖啡桌大小的巨型陸生蠍子，刷新了早期節肢動物演化史的紀錄。",
+      "西班牙布尼奧爾舉辦了盛大的「蕃茄大戰」節慶，吸引了來自世界各地的遊客互相投擲過熟蕃茄，將街道染成一片紅海。",
+      "美國明尼蘇達州的博覽會上，經典遊樂設施「Tilt-A-Whirl」正式迎來誕生100週年紀念，大批民眾前來乘坐慶祝。",
+      "丹麥哥本哈根推行新型「真人圖書館」體驗，民眾可以像借書一樣「借閱」不同背景的人進行深度對話，促進文化交流。"
+    ]
   }
 ]
