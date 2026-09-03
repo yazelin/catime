@@ -624,5 +624,40 @@
     "number": 3249,
     "prompt": "Art Deco architectural illustration combining brutalist raw concrete textures and minimalist graphic balance. A massive, sleek black cat is shown in a tight full-bleed, frame-filling close-up, cropped dramatically at the edges. The giant cat lazily presses and squashes a heavy, reflective photovoltaic solar panel with the back of its head, tilting the panel to cast a cool protective shadow over delicate green sprouting crops growing beneath. Monumental geometric concrete pillars and aggregate surfaces frame the space with luxurious 1920s geometric symmetry. High-contrast narrow-beam spotlight casting sharp-edged illumination across the glossy fur, with deep darkness falloff. Rich cinnabar vermilion red accents contrast against crisp negative-space white and deep black tones. Subtly embossed on the corner of the concrete frame, visible crisp text reads '2026-09-03 18:11 UTC' in elegant Art Deco typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "在充滿幾何混凝土構件與極致朱紅留白視覺的裝飾藝術風格空間中，一隻滿版特寫的巨型毛色黑貓正慵懶地用後頭部壓住並擠壓一塊沉重的太陽能電池板，試驗為底下的農作物遮陰。"
+  },
+  {
+    "idea": "在柯達 Portra 底片風格下，一隻玳瑁貓正將鼻子湊近水底剛出土的維京古銀幣仔細嗅聞，畫面以等距攝影視角捕捉暗處亮起的生物發光奇景。",
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "story": "北歐潮濕的庭院泥坑裡，屋主意外挖出了傳說中的古代寶藏。這隻膽大的家貓隨即溜進坑中，在暗紅與亮金交織的微光下，好奇地摸索著剛重見天日的千年銀器。",
+    "number": 3250,
+    "news_inspiration": [
+      "丹麥一名屋主在庭院挖掘時，意外發現該國史上規模最大的維京時代銀器寶藏。",
+      "美國紐約市餐廳將民眾吃剩的300萬個蠔殼回收再利用，成功重建當地受損的海底蠔礁生態 system。",
+      "英國蓋茨黑德將廢棄且積水的舊煤礦場轉化為地熱能源系統，成功為數百戶家庭提供綠色供暖。"
+    ],
+    "avoid_list": [
+      "液態金屬水銀滴流質感",
+      "前爪碰觸或撥弄物體",
+      "四腳站立或蹲伏於邊緣",
+      "冷冽月光銀色微光",
+      "雙色調極致對比色彩",
+      "磨砂玻璃半透明質感",
+      "微縮模型或景觀容器構圖",
+      "5000K頂置中性白螢光燈照明",
+      "多視角設計排版或分格拼貼",
+      "水鑽珠寶與微光細節裝飾",
+      "舊書店或復古餐館室內場景",
+      "純白手套腳與斑塊毛色特徵"
+    ],
+    "title": "泥穴中的千年微光",
+    "prompt": "A candid shot on Kodak Portra 400 film, 50mm lens, f/2.8, warm film tones with subtle grain and soft focus. A curious tortoiseshell cat lowers its nose to sniff an ancient excavated Viking silver coin resting in a shallow muddy pool. Perfectly isometric photography capturing a real full-scale perspective without miniature tilt-shift effect. Glistening beads of water cling to the wet texture of the cat's fur and the muddy ground, creating reflective micro-highlights. Underwater phosphorescence and bioluminescent lighting cast a deep blue-green radiance across the submerged coin, contrasting against rich vermilion red clay and metallic gold soil highlights. In the bottom corner, an amber digital camera date stamp clearly displays '2026-09-03 21:28 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5532401878,
+    "inspiration": "丹麥一名屋主在庭院挖掘時，意外發現該國史上規模最大的維京時代銀器寶藏。"
   }
 ]
