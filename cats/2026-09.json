@@ -489,5 +489,41 @@
       "美國明尼蘇達州的博覽會上，經典遊樂設施「Tilt-A-Whirl」正式迎來誕生100週年紀念，大批民眾前來乘坐慶祝。",
       "丹麥哥本哈根推行新型「真人圖書館」體驗，民眾可以像借書一樣「借閱」不同背景的人進行深度對話，促進文化交流。"
     ]
+  },
+  {
+    "number": 3246,
+    "inspiration": "哈薩克斯坦中部草原（Central Kazakhstan steppe）迎來200年來首匹在野外自然誕生的普氏野馬幼崽，為生態復育邁出重大里程碑。",
+    "style_picks": {
+      "art_style": "Kaiju Scale Composite",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Bioluminescence",
+      "texture": "Wood Grain",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5520893267,
+    "prompt": "Massive scale composite photography of a giant calico cat resting in the central Kazakh steppe. The colossal titan-sized cat is lying on its side, gently shielding a newborn Przewalski's horse foal from the night wind with its body and tail. Selective tilt-shift photography with a narrow focus band creates a miniature toy-like effect over the vast landscape. Biomorphic bioluminescent lighting softly glows from the cat's belly, illuminating the scene with an organic deep blue-green radiance. The background hills and cat fur feature a subtle natural wood grain texture visible under moonlit indigo lighting with deep night-blue tones and cool silvery highlights. Overlayed cleanly in the corner of the frame, the text '2026-09-03 05:17 UTC' is clearly displayed. Shot on 35mm lens, high contrast VFX compositing, dark mysterious nocturnal mood, shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "沉睡於哈薩克斯坦大草原上的巨貓緩緩蜷曲身軀，用巨大的尾巴在無垠夜色中圍出一片溫暖屏障。初生的普氏野馬幼崽在微光苔原間笨拙地站立，巨貓半睜著散發溫潤生物熒光的眼眸，呼出如微風般的氣息守護著這場奇蹟復育。整座草原在移軸鏡頭下恍如精緻盆景，巨大與微小在靛藍靜謐中共存。",
+    "news_inspiration": [
+      "英國蓋茨黑德（Gateshead）成功利用廢棄舊煤礦場內約150公尺深的淹水礦坑，透過地熱抽取技術為當地350戶家庭與藝術中心提供清潔綠能供暖。",
+      "哈薩克斯坦中部草原（Central Kazakhstan steppe）迎來200年來首匹在野外自然誕生的普氏野馬幼崽，為生態復育邁出重大里程碑。",
+      "埃及農民開始在農田上方加裝太陽能電池板，不僅能產生清潔電力，更能為農作物遮陰以減少水份蒸發並紓解高溫壓力。",
+      "義大利安齊奧（Anzio）一對雙胞胎兄弟將土地打造為永續實驗農場，透過打破傳統工業化農業規則，成功種植出兼具風味與生態價值的在地農產品。"
+    ],
+    "avoid_list": [
+      "液態金屬水銀滴流質感",
+      "前爪碰觸或撥弄物體",
+      "四腳站立或蹲伏於邊緣",
+      "冷冽月光銀色微光",
+      "雙色調極致對比色彩",
+      "磨砂玻璃半透明質感",
+      "微縮模型或景觀容器構圖",
+      "5000K頂置中性白螢光燈照明",
+      "多視角設計排版或分格拼貼",
+      "水鑽珠寶與微光細節裝飾",
+      "舊書店或復古餐館室內場景",
+      "純白手套腳與斑塊毛色特徵"
+    ],
+    "idea": "採巨人尺寸合成風格，一隻如泰坦般龐大的三花巨貓側躺於哈薩克斯坦中部草原上，以移軸微縮效果呈現下方宛如玩具般的廣袤原野，其腹部透出奇幻的生物發光，溫柔替剛誕生的普氏野馬幼崽遮擋夜風，背景的山丘與巨貓毛皮交織著深邃的木紋質感與月夜靛藍色調。",
+    "title": "原野長眠的靛藍守護"
   }
 ]
