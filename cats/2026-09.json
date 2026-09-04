@@ -843,5 +843,41 @@
       "舊書店或復古餐館室內場景",
       "純白手套腳與斑塊毛色特徵"
     ]
+  },
+  {
+    "news_inspiration": [
+      "芬蘭科學家成功突破技術限制，利用真菌菌絲體大規模量產具永續性的無塑素皮革，為全球時尚產業帶來環保新選擇。",
+      "丹麥一名屋主在自家後院進行園藝挖掘時，意外挖出該國歷史上規模最大的維京時代銀器寶藏。",
+      "美國科羅拉多州桑頓市成立了全美首座「自然圖書館」，除了書籍外更提供賞鳥工具包與雪鞋供民眾借用體驗大自然。",
+      "英國約克郡惠特比附近海域傳來喜訊，消失長達60年的大西洋藍鰭鮪魚群重新回歸該片海域。"
+    ],
+    "prompt": "Shallow depth of field close-up photography of a tabby cat lying on its side in an ancient Danish stone cellar, gently pushing with its hind paw and curiously sniffing an old thousand-year Viking carved silver arm ring that rolled out from a muddy clay pot. Soft directional window daylight illuminates the cat, smooth falloff into shadows with creamy bokeh. Oriental mythic poster design elements integrated into the composition, featuring vertical Traditional Chinese calligraphy panels, a red seal stamp, gold leaf ornamental clouds, and deep Chinese red carpet background. The date and time '2026-09-04 18:39 UTC' is visibly displayed on the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "液態金屬水銀滴流質感",
+      "前爪碰觸或撥弄物體",
+      "四腳站立或蹲伏於邊緣",
+      "冷冽月光銀色微光",
+      "雙色調極致對比色彩",
+      "磨砂玻璃半透明質感",
+      "微縮模型或景觀容器構圖",
+      "5000K頂置中性白螢光燈照明",
+      "多視角設計排版或分格拼貼",
+      "水鑽珠寶與微光細節裝飾",
+      "舊書店或復古餐館室內場景",
+      "純白手套腳與斑塊毛色特徵"
+    ],
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Window Light",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 5544998385,
+    "number": 3256,
+    "story": "庭院翻土挖出的地底秘庫驚動了宅邸的家貓，牠趁著人們奔走相告時溜入潮濕地窖。窗櫺灑落的柔和斜光穿透微塵，映照著周遭如金箔祥雲般騰躍的沉積微粒，濃郁的中國紅金地毯襯托著古老銀飾的幽冷寒意。",
+    "title": "窖藏歲月的拂觸",
+    "inspiration": "丹麥一名屋主在自家後院進行園藝挖掘時，意外挖出該國歷史上規模最大的維京時代銀器寶藏。",
+    "idea": "在融合東方奇幻海報風格的丹麥古老石造地窖中，以淺景深特寫一隻側臥的虎斑貓，正用後足輕蹬並好奇嗅聞剛從泥土陶甕翻滾出的千年維京雕花銀臂環。"
   }
 ]
