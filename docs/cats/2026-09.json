@@ -697,5 +697,46 @@
       "純白手套腳與斑塊毛色特徵"
     ],
     "number": 3251
+  },
+  {
+    "comment_id": 5534537451,
+    "is_seasonal": true,
+    "idea": "採用童話繪本油畫風格與等距3D插圖構圖，高調明亮光下呈現朱紅描金的色彩，並佐以金箔潑點肌理；壯碩的船長趴伏在燈塔頂端的露台上，左眼戴著深色眼罩、脖圍褪色紅頭巾，正專注用單隻右眼凝視著迎著夕陽躍出海面的大西洋藍芬鮪魚群。",
+    "inspiration": "英國惠特比：消失長達60年的大西洋藍芬鮪魚重返當地海域，科學家首次順利完成標記以推動海洋生態保育。",
+    "character_name": "船長",
+    "season": "autumn",
+    "avoid_list": [
+      "液態金屬水銀滴流質感",
+      "前爪碰觸或撥弄物體",
+      "四腳站立或蹲伏於邊緣",
+      "冷冽月光銀色微光",
+      "雙色調極致對比色彩",
+      "磨砂玻璃半透明質感",
+      "微縮模型或景觀容器構圖",
+      "5000K頂置中性白螢光燈照明",
+      "多視角設計排版或分格拼貼",
+      "水鑽珠寶與微光細節裝飾",
+      "舊書店或復古餐館室內場景",
+      "純白手套腳與斑塊毛色特徵"
+    ],
+    "style_picks": {
+      "art_style": "Whimsical Fairytale Painting",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "character": "captain",
+    "news_inspiration": [
+      "英國惠特比：消失長達60年的大西洋藍芬鮪魚重返當地海域，科學家首次順利完成標記以推動海洋生態保育。",
+      "美國桑頓：全美首座「自然圖書館」正式啟用，不僅由太陽能發電，民眾還能免費借用賞鳥工具箱與雪鞋等戶外裝備。",
+      "丹麥：一名屋主在自家的後花園進行挖掘時，意外挖出了該國歷史上規模最大的維京時代銀器寶藏。",
+      "智利阿塔卡瑪沙漠：身為地球上最乾燥地區之一的阿塔卡瑪沙漠罕見降下大雪，白雪覆蓋大地呈現出難得一見的奇觀。",
+      "英國葛茨黑德：當地成功利用廢棄舊煤礦場深處的地下水發展地熱供暖系統，為數百戶家庭與藝文中心提供清潔能源。"
+    ],
+    "story": "晚風吹過燈塔，帶起幾片飄過海面的楓紅。船長威風地盤坐在最高處，威嚴的雙眼在看到那群重返海域的大魚時瞬間亮起，不自覺吐出了粉嫩的小舌頭。縱使老漁夫已不再出海，港口的老大依然守護著這片閃耀著金箔般光芒的秋日海域。",
+    "prompt": "Whimsical fairytale storybook oil on canvas painting combined with a polished 3D isometric illustration perspective. A large stocky four-legged brown classic tabby cat with bold black stripes, scruffy untidy coarse fur, white chest bib, white mitten paws, and a prominent M-mark on its forehead lies perched on the balcony of a lighthouse top. The cat has a distinctive V-shaped notch on its left ear, wearing a faded red bandana loosely tied around its neck, with its tiny pink tongue playfully sticking out. Its left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch with no fabric or straps, while its single right eye is piercing emerald green, gazing intently at a school of Atlantic bluefin tuna leaping out of the sparkling autumn sea towards the golden sunset. Surrounding the lighthouse are crooked fairytale cottages on rolling hills, anthropomorphic celestial clouds, and red maple leaves drifting in the autumn breeze. High-key bright lighting, soft even illumination, airy overexposed atmosphere, with minimal shadows and a muted pastel dream palette contrasted by refined cinnabar red and vermilion lacquer tones, finished with delicate metallic gold outlines and glinting scattered gold foil flecks. The timestamp '2026-09-04 01:48 UTC' is neatly engraved in elegant typography on the weathered stone railing of the lighthouse balcony. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3252,
+    "title": "燈塔夕照與躍浪金鱗"
   }
 ]
