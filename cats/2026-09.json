@@ -912,5 +912,41 @@
       "texture": "Prismatic Rainbow Flare",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "avoid_list": [
+      "液態金屬水銀滴流質感",
+      "前爪碰觸或撥弄物體",
+      "四腳站立或蹲伏於邊緣",
+      "冷冽月光銀色微光",
+      "雙色調極致對比色彩",
+      "磨砂玻璃半透明質感",
+      "微縮模型或景觀容器構圖",
+      "5000K頂置中性白螢光燈照明",
+      "多視角設計排版或分格拼貼",
+      "水鑽珠寶與微光細節裝飾",
+      "舊書店或復古餐館室內場景",
+      "純白手套腳與斑塊毛色特徵"
+    ],
+    "comment_id": 5547649516,
+    "prompt": "Ornamental oriental fantasy illustration, intimate head-and-shoulders portrait crop of a cat with damp green moss overgrown across its fur, tilting its head to gnaw on damp woven textile half-buried in cool blue-teal soil. Surrounded by a dense decorative floral lattice of vibrant red higanbana spider lilies and flying white cranes weaving around the composition. Dramatic deep blue-teal volumetric lighting with visible god rays filtering through forest mist and dust particles catching the light. Crisp cool icy color grading with serene melancholic mood. Subtle clean typography in the corner displaying '2026-09-04 23:31 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "瑞士蘇黎世舉辦了搞笑諾貝爾獎頒獎典禮，科學家們因研究演化吻史及埋葬上千條內褲觀察土壤分解等奇特實驗而獲得殊榮。",
+    "idea": "採用彼岸花仙鶴繁飾插畫風格，一隻被苔蘚覆蓋毛髮的貓咪正側著頭啃咬埋在藍青色土壤中的濕潤織物，背景透出深邃的藍青色體積光。",
+    "style_picks": {
+      "art_style": "Spider-Lily and Crane Ornamental Illustration",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "古老森林深處，貓咪為了探尋大地分解的祕密，正細細舔舐埋藏多年的植物纖維。濃郁的藍青色體積光穿透樹冠，將四周的蜘蛛百合與仙鶴花紋映照得如夢似幻，陪伴著牠進行這場微觀的世界實驗。",
+    "news_inspiration": [
+      "瑞士蘇黎世舉辦了搞笑諾貝爾獎頒獎典禮，科學家們因研究演化吻史及埋葬上千條內褲觀察土壤分解等奇特實驗而獲得殊榮。",
+      "丹麥一名屋主在自家的後院花園進行掘土作業時，意外挖掘出該國歷史上規模最大的維京時代銀器寶藏。",
+      "美國科羅拉多州索恩頓開設了全美首座「自然圖書館」，民眾除了借閱圖書外，還能借用賞鳥套組與雪鞋等戶外裝備。",
+      "芬蘭的研究團隊成功透過工業化設備大批量產由真菌菌絲體製成的皮革，為全球提供永續且無動物成分的環保替代品。"
+    ],
+    "number": 3258,
+    "title": "青苔與土壤的微觀考察"
   }
 ]
