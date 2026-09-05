@@ -1009,6 +1009,26 @@
       "zh": "斑駁金箔花卉混媒",
       "en": "Distressed Gold-Leaf Floral Mixed-Media",
       "prompt": "distressed gold-leaf floral mixed-media, mottled metallic gilding over painted blossoms, layered collage with weathered patina and cracked foil, ornate decorative artwork, opulent textured surface"
+    },
+    {
+      "zh": "希臘女神厚塗插畫",
+      "en": "Classical Greek Goddess Painterly Illustration",
+      "prompt": "classical Greek goddess painterly illustration, thick-paint rendering of a mythic figure in flowing chiton drapery, laurel wreath and gold ornaments, marble-toned skin against a stormy sky, heroic idealized beauty, rich impasto brushwork"
+    },
+    {
+      "zh": "繁花線描美人插畫",
+      "en": "Ornate Fine-Line Floral Beauty Illustration",
+      "prompt": "ornate fine-line floral beauty illustration, delicate uniform ink linework tracing the figure, dense blossoms and vines woven through hair and garments, flat decorative color accents, intricate hand-drawn elegance"
+    },
+    {
+      "zh": "埃及豔后厚塗插畫",
+      "en": "Ancient Egyptian Queen Painterly Illustration",
+      "prompt": "ancient Egyptian queen painterly illustration, thick-paint portrait with kohl-lined eyes and a gold cobra headdress, lapis and turquoise jewelry, hieroglyph-carved sandstone backdrop, opulent regal grandeur"
+    },
+    {
+      "zh": "東方廢土巨構概念藝術",
+      "en": "Oriental Wasteland Megastructure Concept Art",
+      "prompt": "oriental wasteland megastructure concept art, colossal decaying East Asian architecture towering over ruins, pagoda tiers and dead neon signage fused into brutalist scale, dust-hazed apocalyptic atmosphere, cinematic matte painting detail"
     }
   ],
   "composition": [
@@ -1348,6 +1368,11 @@
       "zh": "白底去背棚光",
       "en": "White Seamless Studio Light",
       "prompt": "white seamless studio lighting, evenly lit subject on pure white cyclorama, clean shadowless product look, bright high-key backdrop, crisp commercial clarity"
+    },
+    {
+      "zh": "巨月輝映",
+      "en": "Giant Moon Glow",
+      "prompt": "giant moon glow, an enormous lunar disc filling the sky behind the subject, pale silver backlight rimming the silhouette, luminous halo and long cold shadows, epic nocturnal atmosphere"
     }
   ],
   "texture": [
@@ -1620,6 +1645,11 @@
       "zh": "發光絲流",
       "en": "Glowing Filament Flow",
       "prompt": "glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, ethereal energy filaments"
+    },
+    {
+      "zh": "斑駁做舊紙印",
+      "en": "Distressed Vintage Print",
+      "prompt": "distressed vintage print texture, mottled uneven ink coverage, cracked and flaking pigment, foxed yellowed paper stains, worn edges and misregistered layers, aged letterpress feel"
     }
   ],
   "color_palette": [
