@@ -983,5 +983,43 @@
     ],
     "character_name": "船長",
     "character": "captain"
+  },
+  {
+    "inspiration": "美國科羅拉多州桑頓市（Thornton）啟用了全美第一座「大自然圖書館」，館內不僅全面採用太陽能發電，還提供賞鳥工具包與雪鞋供民眾借閱探索戶外。",
+    "news_inspiration": [
+      "芬蘭的研究團隊成功研發出能透過工業設備進行大規模量產的「真菌皮革」，為時尚界提供環保、可生物分解且零動物殘害的永續材料新選擇。",
+      "在德國柏林舉辦的消費電子展（IFA）上，多家廠商展出了如會追蹤人體吹送涼風的空調以及專門為毛孩設計的寵物智慧型手機等奇特科技新品。",
+      "美國科羅拉多州桑頓市（Thornton）啟用了全美第一座「大自然圖書館」，館內不僅全面採用太陽能發電，還提供賞鳥工具包與雪鞋供民眾借閱探索戶外。",
+      "印度奧迪沙邦（Odisha）的村民與森林官員齊心協力展開溫馨救援行動，順利將一隻不慎跌入深井的小象救出並送回象群。"
+    ],
+    "idea": "這是一幅結合建築藍圖風格與穆夏式拱框構圖的藝術作品，展現墨墨佇立於全美首座大自然圖書館太陽能圓頂頂樓的優雅姿態。",
+    "character_name": "墨墨",
+    "avoid_list": [
+      "維京古銀幣與歷史文物",
+      "等距攝影與正交投影視角",
+      "莫蘭迪色調與粉彩調色",
+      "長卷全景與東方奇幻海報風格",
+      "朱紅描金與金箔祥雲紋樣",
+      "虹彩全息與折射彩虹光斑",
+      "生物發光與藍青色體積光",
+      "趴伏或四足嗅聞特定物品",
+      "深色眼罩與獨眼特徵貓咪",
+      "燈塔防波堤與秋日楓葉海景",
+      "繁體中文與英文限定文字標籤",
+      "時間戳記 UTC 浮水印"
+    ],
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "number": 3260,
+    "comment_id": 5549985040,
+    "title": "拱頂下的日光藍圖",
+    "story": "墨墨輕盈地爬上太陽能大自然圖書館的最頂層，在圓拱型結構與日照軌跡藍圖的包覆下，安靜地俯瞰著底下借閱戶外工具包的讀者。金色琥珀眼的牠優雅地瞇起雙眼，優雅地享受著陽光與高處的絕對寧靜。",
+    "character": "momo",
+    "prompt": "An artistic illustration combining architectural blueprint aesthetics with a Mucha-style arched frame composition. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring at the tail tip, and a single small gold hoop earring on its left ear sits elegantly atop the solar-dome top floor of America's first nature library. The cat is calmly squinting while enjoying the quiet, perched inside an ornamental rounded arch decorated with symmetrical Art Nouveau panel framing and integrated floral motifs. The background features fine white blueprint lines on a blue background, technical drawings, precise measurements, annotations, and sunshine trajectory diagrams. Below, library patrons are visible borrowing outdoor kits. The date and time '2026-09-05 06:27 UTC' is clearly and visibly displayed in clean text within the composition. Dramatic chiaroscuro Rembrandt lighting with a single light source casts a signature triangle of light on the cat's cheek. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
