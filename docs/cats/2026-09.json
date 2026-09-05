@@ -1090,5 +1090,40 @@
     "prompt": "Art Nouveau illustration in oriental floral still life style, featuring an ornamental Mucha-style arched frame with integrated botanical motifs and a decorative halo border. Inside a shaded agrivoltaic farm, a curious cat crouches among lush crops, stretching its front paw to bat at falling irrigation water droplets suspended beneath solar panels. Meticulous gongbi-fine botanical detail on silk, combined with rich impasto oil texture, visible palette-knife ridges, and painterly tactile strokes. Dappled light filtering through the panels casting soft mottled shadow patterns, illuminated in a cool blue-teal color grading with icy undertones and crisp, serene atmosphere. The date and time '2026-09-05 13:43 UTC' is elegantly written in fine English typography along the bottom decorative border. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "光電網下的水珠遊戲",
     "story": "在高溫烈日下的太陽能農田裡，遮蔭處格外涼爽宜人。貓咪蹲坐在綠意盎然的作物間，玩著遮陰網與太陽能板縫隙中滴落的水珠，享受著綠電農業帶來的沁涼時光。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Photorealistic Sci-Fi Robot Concept",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "瑞士蘇黎世的搞笑諾貝爾獎頒獎典禮上，研究團隊因將一千條內褲埋入不同國家土壤以測試土壤健康狀況而獲得獎項。",
+      "美國加州舊金山一名女子在整理後院花園時，意外挖掘出一尊重達150磅的神秘石雕頭像。",
+      "芬蘭赫爾辛基的研究團隊成功開發出一種利用蘑菇菌絲體製造的皮革替代品，並正式邁向大規模量產階段。"
+    ],
+    "comment_id": 5553160159,
+    "story": "這名精密的機器人正靜靜坐在長椅上進行自我系統修復，雙色調的冰冷光線穿透工作室的霧氣。貓咪跳上工作檯，好奇地研究著機器人內部透過鏤空金屬露出的微光與運轉組件。濃烈的體積光束照亮了這場冷酷科技與柔和生命力之間的安靜對話。",
+    "idea": "採用寫實人形機器人概念風格，在一間充滿金屬工藝的機修車間內，一隻優雅的貓咪伸出前爪輕輕拍打著機器人胸膛上的鑄鐵雕花鏤空齒輪。",
+    "prompt": "Photorealistic sci-fi concept art, full-body vertical portrait framed head-to-toe in a workshop environment. A sleek, highly detailed humanoid robot sits quietly on a metal workbench undergoing self-repair, featuring intricate hard-surface mechanical components beneath ornate wrought iron filigree and cast iron lace openwork patterns across its chest. A graceful cat rests on the bench, gently reaching out its front paw to touch the turning filigree gears exposed on the robot's chest. Intense volumetric lighting with visible god rays and illuminated floating dust particles pierces the misty air. A bold duotone color treatment balances cool cyan and deep amber tones for dramatic atmospheric contrast. The timestamp '2026-09-05 16:21 UTC' is sharply stenciled in clean industrial English typography across the metallic workshop wall in the background. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3263,
+    "avoid_list": [
+      "維京古銀幣與歷史文物",
+      "等距攝影與正交投影視角",
+      "莫蘭迪色調與粉彩調色",
+      "長卷全景與東方奇幻海報風格",
+      "朱紅描金與金箔祥雲紋樣",
+      "虹彩全息與折射彩虹光斑",
+      "生物發光與藍青色體積光",
+      "趴伏或四足嗅聞特定物品",
+      "深色眼罩與獨眼特徵貓咪",
+      "燈塔防波堤與秋日楓葉海景",
+      "繁體中文與英文限定文字標籤",
+      "時間戳記 UTC 浮水印"
+    ],
+    "title": "鑄鐵心臟與毛絨之爪",
+    "inspiration": "original"
   }
 ]
