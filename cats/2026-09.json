@@ -1161,5 +1161,41 @@
       "巴西里約熱內盧的植物園歷經五年悉心照顧，一株珍稀的巨大亞馬遜王蓮於本週末盛大綻放，夜間開花景象蔚為壯觀。",
       "澳洲墨爾本舉辦了一年一度的趣味「柯基犬短跑障礙賽」，上百隻盛裝打扮的短腿萌犬在草地上奔馳，為社區募集了豐厚的動物救援基金。"
     ]
+  },
+  {
+    "idea": "採用高飽和鮮豔色的像素藝術風格，一隻毛色斑斕的四隻腳花貓踩著懸浮的木質拼圖板塊，在漆黑的深海漂浮島場景中專注地追逐一群會發光的黃金珊瑚水母，背光/輪廓光將牠的身影勾勒得極其銳利。",
+    "story": "在漆黑無垠的像素深海裡，幾座帶有沉穩木紋質感的浮島正緩緩飄移。花貓靈巧地在島嶼邊緣踏躍，伸長脖子好奇注視著從深海巨溝竄出的發光黃金珊瑚群，將這片新發現的神秘生態當成了牠專屬的夜間獵場。",
+    "news_inspiration": [
+      "瑞士蘇黎世舉辦了第 36 屆搞笑諾貝爾獎頒獎典禮，科學家因研究埋藏內褲檢測土壤質量以及減少小便斗濺液的設計而獲獎。",
+      "聯合國大會通過一項倡議，鼓勵全球教育與科技機構停止使用放大高緯度國家的地圖，還原非洲大陸的真實巨大比例。",
+      "科學家在哥斯大黎加太平洋深海山脈發現一種會發光的「黃金珊瑚」，由於基因與結構極為獨特，特別為其創立了全新的科別 classification。",
+      "台灣台中和平區的松鶴部落記錄到一條瀕危百步蛇成功孵化 16 隻幼蛇，林業署發布紀錄片展現生動的自然生態景象。"
+    ],
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "科學家在哥斯大黎加太平洋深海山脈發現一種會發光的「黃金珊瑚」，由於基因與結構極為獨特，特別為其創立了全新的科別 classification。",
+    "avoid_list": [
+      "穆夏式拱框構圖",
+      "金箔祥雲紋樣裝飾",
+      "藍青色調體積光束",
+      "鑄鐵雕花鏤空金屬",
+      "前爪伸出輕觸或拍打",
+      "新中式珠寶工筆風格",
+      "太陽能綠能設施場景",
+      "稜鏡彩虹折射光斑",
+      "漂浮塵埃微粒光暈",
+      "中國紅與金明艷對比",
+      "夢幻商品微距攝影",
+      "深夜靜態探索嗅聞"
+    ],
+    "comment_id": 5554693190,
+    "prompt": "Pixel art illustration, retro 16-bit aesthetic with crisp blocky pixels and high saturation vivid colors. A colorful calico cat leaping and stepping across floating wooden jigsaw puzzle platforms featuring rich natural wood grain textures with visible knots and lines. The scene is set in an endless, pitch-black deep sea abyss where a swarm of luminescent golden coral jellyfish floats upward. Strong rim lighting and backlighting sharply outline the cat's silhouette with glowing edges against the dark waters, creating a dramatic mood and bold vibrant contrast. In the bottom corner, the text '2026-09-05 20:47 UTC' is rendered in clean digital pixel font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "深海浮島的黃金微光",
+    "number": 3265
   }
 ]
