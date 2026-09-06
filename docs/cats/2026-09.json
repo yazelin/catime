@@ -1269,5 +1269,38 @@
     },
     "prompt": "Pastel bokeh illustration and painterly digital rendering of a tiny kitten holding a custom mini diving umbrella with delicate lace openwork texture, intricate perforated fabric, and fine translucent filigree. The kitten is staged inside a giant transparent glass vessel forming a contained miniature world framing with refractive glass borders. Outside the jar, vivid glowing yellow tuna fish swim in deep blue water, creating a stark blue and yellow complementary palette. Heavy colorful light dots and pastel bokeh scatter across the scene with soft reflections on the glass surface, dramatic backlighting with rim light, and glowing silhouette edges around the kitten. The text '2026-09-06 00:20 UTC' is clearly and visually displayed in English in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "英國惠特比外海相隔約六十年後再度迎來大西洋藍鰭金槍魚的集體回歸，研究團隊已展開標記追蹤以協助海洋保育。"
+  },
+  {
+    "story": "漫天大雪模糊了老街的輪廓，空氣中瀰漫著古絹般泛黃而寧靜的氣息。肚腩微晃的「麻糬」凝視著風雪中微微搖曳的臘肉，琥珀色大眼在朱紅與留白的朦朧色調中閃爍著貪吃的光芒。牠頂著頭頂飄落的細雪，小心翼翼地抬起右前腳，為這座沈睡的寒冬市場注入了一絲溫暖的生機。",
+    "character": "mochi",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "title": "雪巷肉香探微",
+    "style_picks": {
+      "art_style": "Fine Art Black-and-White Photography",
+      "composition": "Side Profile Portrait",
+      "lighting": "Snowstorm Haze",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Vermilion and White"
+    },
+    "idea": "採用美術黑白攝影風格與側臉特寫構圖，捕捉橘白短毛家貓「麻糬」在暴風雪朦朧的傳統老街市場巷弄中，伸長圓滾滾的身軀與短粗右橘前腳，好奇勾取掛在老舊肉鋪攤位下臘肉繩結的瞬間。",
+    "prompt": "Fine art black-and-white photography with muted vermilion accents, side profile portrait shot with a 35mm lens, f/1.8, shallow depth of field, rich tonal gradation, deep blacks, luminous highlights, and gallery print quality. A side view capturing a chubby, spherical-torso shorthair cat named Mochi in an old traditional alleyway market during a heavy blizzard. Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches, a solid orange #FF8C00 mask strictly on the right half of his face (viewer perspective) extending across his right cheek and ear while his left face remains entirely white, large round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange dot, a heart-shaped orange #FF8C00 saddle on his upper back, a solid orange #FF8C00 mitten on his right front paw, a pure white #FFFFFF left front paw, and a white belly. Mochi stretches his rounded body and short stubby right orange front leg upward, curiously hooking a dangling butcher-shop cured meat knot beneath a weathered wooden stall. Falling snow flurries blur the background with cold blue-white atmospheric light and fogged distance, overlaid with an aged silk scroll texture with subtle yellowed tones, delicate creases, and weathered stains. Clean negative-space white background balance with cinnabar red details. Overlay the timestamp text '2026-09-06 05:15 UTC' visually displayed cleanly in the corner of the image in a crisp sans-serif font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "穆夏式拱框構圖",
+      "金箔祥雲紋樣裝飾",
+      "藍青色調體積光束",
+      "鑄鐵雕花鏤空金屬",
+      "前爪伸出輕觸或拍打",
+      "新中式珠寶工筆風格",
+      "太陽能綠能設施場景",
+      "稜鏡彩虹折射光斑",
+      "漂浮塵埃微粒光暈",
+      "中國紅與金明艷對比",
+      "夢幻商品微距攝影",
+      "深夜靜態探索嗅聞"
+    ],
+    "number": 3268,
+    "news_inspiration": [],
+    "comment_id": 5557145804
   }
 ]
