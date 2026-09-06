@@ -1462,5 +1462,39 @@
       "color_palette": "Bamboo Jade Green"
     },
     "title": "翠谷新橋試繩記"
+  },
+  {
+    "avoid_list": [
+      "穆夏式拱框構圖",
+      "鑄鐵雕花與鏤空圖案",
+      "雙色調光影與高對比色調",
+      "背光與輪廓光勾勒",
+      "高調明亮光與柔和漫射光",
+      "微型物體與巨型容器框景",
+      "四腳著地伸爪拍打或刨挖動作",
+      "古老建築與歷史遺跡場景",
+      "冷色調藍青與黃金/朱紅配色",
+      "自然藍圖與技術軌跡線條"
+    ],
+    "style_picks": {
+      "art_style": "Mediterranean Dreamy Beverage Photography",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Cinematic Lighting",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "idea": "採用地中海夢幻飲品攝影風格，隻身穿梭於漆黑無垠空間中的金黃斑紋貓咪，透過強制透視伸手朝著鏡頭前方覆滿立體花卉貼花的奢華金屬高腳杯爪下抓取。",
+    "prompt": "A candid photographic shot using a 35mm lens, f/1.8, with shallow depth of field and subtle film grain. A golden tabby cat moves through a deep black, pitch-dark space, reaching its paw forward toward the camera in a dynamic forced perspective composition with exaggerated foreshortening. In the immediate foreground, a luxury metallic goblet adorned with ornate three-dimensional golden floral appliqué texture and layered petal relief sits captured in focus. Cinematic lighting creates dramatic volumetric rays and deep contrast across the high dynamic range, black and gold color scheme scene. Displayed cleanly on the image surface in crisp white numbers is the timestamp text '2026-09-06 22:32 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "黑金夜色下的奢華特調",
+    "comment_id": 5562655153,
+    "story": "在夜幕低垂的海岸奢華吧檯上，一隻好奇的貓咪伸出前爪試圖探向晶瑩的金邊特調氣泡飲。杯身貼滿細緻的金黃立體花卉貼花，在濃烈黑金調的電影感光影下，交織出宛如夢境般的夏夜微醺氛圍。",
+    "news_inspiration": [
+      "挪威安訥訥斯（Andenes）宣布將於明年正式開放全新的鯨魚文化與科學體驗中心「The Whale」，透過藝術、聲學與建築帶領旅客走進抹香鯨的神秘世界。",
+      "芬蘭技術研究團隊成功研發出能利用現有工業設備大規模量產的「真菌菌絲體皮革」，為時尚界提供兼具環保、無動物成分且可完全生物降解的綠色新選擇。",
+      "印尼蘇門答臘的揚托（Jantho）松樹林自然保護區透過長達15年的救援與野放努力，成功讓一度在當地絕跡的紅毛猩猩繁衍出茁壯且穩定的野生新族群。",
+      "美國科羅拉多州桑頓（Thornton）啟用了全美首座「自然圖書館」，館內不僅全面採用屋頂太陽能供電，更免費提供望遠鏡、賞鳥包與雪鞋供民眾借閱探索大自然。"
+    ],
+    "inspiration": "original",
+    "number": 3274
   }
 ]
