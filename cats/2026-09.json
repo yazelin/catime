@@ -1666,5 +1666,45 @@
     "story": "在充滿千禧年科技感的復古音樂艙內，橘貓以趴姿凝視著轉動的復古唱盤，偶爾伸出前腳撫弄黑膠邊緣。俯瞰視角下，大地色的刺繡質感與流動的低調霓虹色澤交織出獨特的節奏氛圍。",
     "prompt": "A bird's-eye view, top-down perspective illustration of a ginger cat crouching in front of a miniature DJ setup, gently touching a spinning vinyl record with its paw. The art style features a rich three-dimensional raised embroidered coiled-flower texture with dense thread relief and tactile gold-couched petals across an ornate textile surface. A Y2K aesthetic permeates the scene through early-2000s playful design elements, subtle holographic textures, and low-key neon lighting casting colorful glow accents on the surface. The color scheme blends a warm earth tone palette of terracotta, olive green, and warm brown with soft pastel gradients. Visually displayed in a clear digital clock overlay in the corner of the image is the text '2026-09-07 20:15 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "千禧霓浪貓吟唱"
+  },
+  {
+    "character_name": "鈴鈴",
+    "is_seasonal": true,
+    "number": 3280,
+    "comment_id": 5576523598,
+    "avoid_list": [
+      "強烈的硬光日照",
+      "鳥瞰視角俯視",
+      "高調明亮光",
+      "前爪輕觸物件",
+      "古董或舊化質感",
+      "苔蘚與時間痕跡",
+      "復古甜點與餐飲場景",
+      "立體肌理與刺繡風格",
+      "霓虹與螢光色彩光影",
+      "高對比電影感光影",
+      "框中框與微縮模型構圖",
+      "極致細節與奢華金線"
+    ],
+    "idea": "採用童話繪本油畫風格與正交投影構圖，展現蓬鬆白貓鈴鈴身穿淡粉色小毛衣，在智利沙漠罕見綻放的紫色花海與紅葉堆中好奇追逐蝴蝶、歡快打滾的夢幻場景。",
+    "inspiration": "智利阿塔卡馬沙漠受罕見氣候條件影響，再次綻放成片絢麗的紫色花海，形成令人驚嘆的自然奇景。",
+    "story": "鈴鈴穿著細緻碳纖維編織質感的粉彩毛衣，在清冷月光照耀的紫色花海裡盡情翻滾，蓬鬆的白毛上沾滿了紅葉與花瓣。她脖子上的粉紅鈴鐺發出叮鈴響聲，正伸出粉紅肉掌好奇地撲向一隻低空飛舞的月光蝴蝶。",
+    "style_picks": {
+      "art_style": "Whimsical Fairytale Painting",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Pastel Colors"
+    },
+    "character": "lingling",
+    "prompt": "A whimsical fairytale storybook oil painting on canvas with an orthographic projection and naive childlike perspective, depicting a fluffy pure white cat named Lingling wearing an autumn pastel pink small sweater with a fine carbon fiber weave pattern texture. Lingling has voluminous cloud-like longhair fur, a small round face, huge round sapphire-blue eyes, pale pink nose, inner ears, and pink paw pads. Around her neck is a bright pink ribbon bow collar with a prominent golden bell centered beneath the bow knot. She is playfully rolling in an autumn field of rare blooming purple flowers and red leaves under cool blue moonlight in a Chilean desert setting, reaching her pink paw toward a low-flying glowing moonlight butterfly. Straight-on flat rendering technical illustration style, muted pastel dream palette, gentle silvery glow, and a quiet nighttime atmosphere in Daniel Merriam aesthetic. Visually displayed clearly in the corner of the image is the text '2026-09-07 23:07 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "season": "autumn",
+    "title": "月夜花海裡的叮鈴舞步",
+    "news_inspiration": [
+      "日本東京上野動物園為園內高齡大貓熊舉辦別開生面的竹子冰雕派對，吸引大批家庭與遊客前來同樂。",
+      "法國巴黎羅浮宮宣布將限期開放頂樓露天平台，供民眾在星空下品嚐可頌並俯瞰塞納河夜景。",
+      "澳洲雪梨海灘迎來一年一度的趣味狗狗衝浪錦標賽，數百隻盛裝打扮的毛小孩與主人一同在浪花中大展身手。",
+      "智利阿塔卡馬沙漠受罕見氣候條件影響，再次綻放成片絢麗的紫色花海，形成令人驚嘆的自然奇景。"
+    ]
   }
 ]
