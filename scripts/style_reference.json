@@ -1009,6 +1009,16 @@
       "zh": "斑駁金箔花卉混媒",
       "en": "Distressed Gold-Leaf Floral Mixed-Media",
       "prompt": "distressed gold-leaf floral mixed-media, mottled metallic gilding over painted blossoms, layered collage with weathered patina and cracked foil, ornate decorative artwork, opulent textured surface"
+    },
+    {
+      "zh": "幾何水彩拼貼人像",
+      "en": "Geometric Watercolor Collage Portrait",
+      "prompt": "geometric watercolor collage portrait, face assembled from angular torn-paper planes and translucent pigment washes, overlapping abstract shapes with visible edges, loose bleeding color blocks, contemporary mixed-media poster feel"
+    },
+    {
+      "zh": "紙雕花境仙裙人像",
+      "en": "Paper-Sculpture Floral Gown Portrait",
+      "prompt": "paper-sculpture floral gown portrait, figure wearing a couture dress built from hand-cut paper blossoms, layered petal reliefs surrounding her, matte textured cardstock craft, soft studio light, ethereal handmade elegance"
     }
   ],
   "composition": [
@@ -1717,6 +1727,21 @@
       "zh": "藍黃互補色",
       "en": "Blue and Yellow Complementary",
       "prompt": "blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy, striking graphic vibrancy"
+    },
+    {
+      "zh": "薰衣草紫粉",
+      "en": "Lavender and Pink",
+      "prompt": "lavender and pink palette, soft violet dominance with warm blush accents, gentle lilac gradients, dreamy romantic softness"
+    },
+    {
+      "zh": "橘紫互補色",
+      "en": "Orange and Violet Complementary",
+      "prompt": "orange and violet complementary palette, vivid warm orange against deep purple, bold dual-tone contrast, striking graphic energy"
+    },
+    {
+      "zh": "珊瑚粉靛藍",
+      "en": "Coral Pink and Prussian Blue",
+      "prompt": "coral pink and Prussian blue palette, warm salmon tones against deep inky blue, rich complementary depth, elegant editorial contrast"
     }
   ]
 }
