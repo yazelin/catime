@@ -1562,5 +1562,40 @@
     ],
     "character_name": "麻糬",
     "inspiration": "original"
+  },
+  {
+    "news_inspiration": [
+      "美國 NASA 科學家透過哈伯望遠鏡數據，在土星南極發現一個巨大的十邊形大氣結構，為這顆行星帶來了與著名的北極六邊形遙相呼應的新奇景觀。",
+      "德國布爾格辛的一家超市遭到了大約 50 只羊群的突襲闖入，牠們在貨架間漫步並弄翻商品，讓員工忙著清空走道與驅趕。",
+      "墨西哥與聯合國教科文組織在契亞帕斯州共同主辦國際識字日 60 週年慶典活動，邀請全球教育專家與學生一同推廣閱讀與永續發展。"
+    ],
+    "inspiration": "德國布爾格辛的一家超市遭到了大約 50 只羊群的突襲闖入，牠們在貨架間漫步並弄翻商品，讓員工忙著清空走道與驅趕。",
+    "number": 3277,
+    "style_picks": {
+      "art_style": "Neo-Chinese Jeweled Gongbi Illustration",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Silk",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "翠市巡芳踏雪圖",
+    "avoid_list": [
+      "漆黑無垠",
+      "朱紅與留白",
+      "背光/輪廓光",
+      "硬光日照/硬邊陰影",
+      "居中主體構圖/對稱構圖",
+      "透視前爪伸手/撥弄/爪擊",
+      "古老木質/竹編吊橋與繩結",
+      "繁體中文與簡體中文警語規範",
+      "黑金/黑白高對比色調",
+      "深海/水下與發光生物",
+      "巨型玻璃罐/微縮世界",
+      "細密畫/雙重曝光/紙藝風格"
+    ],
+    "comment_id": 5569603657,
+    "prompt": "Neo-Chinese jeweled gongbi illustration in a multi-view fashion lookbook reference guide format. A calico cat adorned with ornate jewel-encrusted harness straps walks gracefully across overturned supermarket refrigeration shelves surrounded by scattered fresh produce. The layout presents multi-view panels side-by-side, featuring front walking and side head-raised postures against a smooth silk fabric texture backdrop with a luxurious sheen. Fine meticulous gold line work and mineral pigments capture intricate fur detail and vibrant fruit textures. Overhead flat institutional fluorescent lighting reflects vivid high-saturation spots off glossy food packaging. Floating elegantly in clean script at the corner of the layout, the exact text '2026-09-07 10:56 UTC' is visibly displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以新中式珠寶工筆插畫風格描繪，一隻身披細緻珠翠飾帶的三花貓正踏過被綿羊撞翻的超市冷藏貨架，在絲綢光澤底布上以服裝多視角展示並列呈現其正面踱步與側面昂首的姿態。畫面充盈著冷白日光燈管反射在高飽和鮮豔生鮮包裝上的光斑，礦物顏料勾勒出毛絲與散落蔬果的細緻紋理。",
+    "story": "五十隻迷途綿羊突襲了德國鄉間超市，引發了貨架間的混亂倒塌，常駐店內的捕鼠花貓卻氣定神閒地巡視這片狼藉。牠沿著傾倒的蔬果堆敏捷攀行，專注地嗅聞一顆滾落到碎裂保鮮膜旁的甜椒，全然無視身旁倉皇四顧的羊群。工筆重彩的繁複金線與珠光寶氣，將這場荒誕的混亂定格為一幅光彩奪目的市井奇譚。"
   }
 ]
