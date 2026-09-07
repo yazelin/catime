@@ -1527,5 +1527,40 @@
     "title": "莓果塔上的微甜時光",
     "comment_id": 5563379253,
     "news_inspiration": []
+  },
+  {
+    "idea": "透過魚眼鏡頭與微距攝影視角，呈現橘白短毛胖貓麻糬圍著暖黃格紋圍巾，正伸著右邊的橘色手套前腳去碰觸烤番薯攤上帶有鐵鏽舊化質感的古董烤爐。畫面以青橙電影色調營造秋意，上方投射出柔和的蝴蝶光，突顯牠圓滾滾的花生麻糬體型與鼻頭上的微小橘斑。",
+    "comment_id": 5565488079,
+    "number": 3276,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Fisheye Lens",
+      "lighting": "Butterfly Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Teal and Orange"
+    },
+    "character": "mochi",
+    "title": "暖爐邊的花生麻糬",
+    "prompt": "A macro photography candid shot using a fisheye wide-angle lens with strong barrel distortion and exaggerated foreground perspective. The date and time '2026-09-07 05:24 UTC' is visually displayed in clear text on a small rustic sign near the corner. A chubby, spherical short-legged shorthair cat named Mochi wears a warm yellow checkered scarf wrapped around its neck for autumn. The cat has a white base coat with a solid orange mask on the right half of its face from the nose bridge to the right cheek and right ear, while the left face remains pure white. It has large round amber eyes, a pink nose with a tiny orange center dot, a heart-shaped orange saddle patch on its upper back, a pure white belly, and an orange-and-white ringed tail. Its right front paw is a solid orange mitten to the wrist, while its left front paw is pure white. The cat extends its right orange mitten front paw to touch an antique rusted metal roasted sweet potato oven with weathered oxidation patina, peeling paint layers, and warm orange-brown corrosion. Butterfly lighting casts an overhead key light with a symmetrical shadow under the nose, creating soft even illumination. The scene features a teal and orange cinematic color grading, punchy balanced contrast, crisp sharp details, and shallow depth of field. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "season": "autumn",
+    "is_seasonal": true,
+    "story": "涼爽的秋風吹過老街巷弄，麻糬裹著喜愛的格紋圍巾，憑著敏銳的嗅覺溜到了香氣四溢的烤番薯攤前。攤位上的鐵爐冒出陣陣熱氣，麻糬瞇起大圓眼、輕輕湊近古舊的烤爐取暖，肚子隨著滿足的呼吸微微晃動。老闆見狀忍不住笑著挪出最佳位置，讓這顆可愛的走動麻糬安心享用秋日裡的專屬溫暖。",
+    "avoid_list": [
+      "漆黑無垠",
+      "朱紅與留白",
+      "背光/輪廓光",
+      "硬光日照/硬邊陰影",
+      "居中主體構圖/對稱構圖",
+      "透視前爪伸手/撥弄/爪擊",
+      "古老木質/竹編吊橋與繩結",
+      "繁體中文與簡體中文警語規範",
+      "黑金/黑白高對比色調",
+      "深海/水下與發光生物",
+      "巨型玻璃罐/微縮世界",
+      "細密畫/雙重曝光/紙藝風格"
+    ],
+    "character_name": "麻糬",
+    "inspiration": "original"
   }
 ]
