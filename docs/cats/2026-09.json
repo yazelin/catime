@@ -1496,5 +1496,36 @@
     ],
     "inspiration": "original",
     "number": 3274
+  },
+  {
+    "number": 3275,
+    "idea": "這是一幅採用療癒寵物寫真風格的滿版特寫畫面，在滿溢高調明亮光的復古甜點店裡，暖橘色的貓隻正趴在亮白的大理石檯面上，伸出小小的粉紅舌頭舔舐著一碗剛擠好的草莓聖代。",
+    "inspiration": "original",
+    "story": "午後的甜點店洋溢著濃郁的奶香與莓果氣息，陽光透過玻璃窗將整座檯面照得剔透耀眼。這隻貪吃的小花貓乘著店員不注意，靜靜湊近玻璃碗邊緣，專注又滿足地享受著屬於牠的甜點冒險。",
+    "prompt": "這是一幅採用療癒寵物寫真風格的滿版特寫畫面，在滿溢高調明亮光的復古甜點店裡，暖橘色的貓隻正趴在亮白的大理石檯面上，伸出小小的粉紅舌頭舔舐著一碗剛擠好的草莓聖代。. The date and time '2026-09-07 00:27 UTC' is visually displayed in the image. healing pet portrait, adorable fluffy companion animal, soft warm light, dreamy bokeh, gentle heartwarming mood, cozy lifestyle photography, full-bleed frame-filling composition, subject cropped to edges, no empty margin, immersive overwhelming scale, dense edge-to-edge detail, high-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere, dreamy pastel mood, glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, ethereal energy filaments, vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, ornate restrained warmth IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "漆黑無垠",
+      "朱紅與留白",
+      "背光/輪廓光",
+      "硬光日照/硬邊陰影",
+      "居中主體構圖/對稱構圖",
+      "透視前爪伸手/撥弄/爪擊",
+      "古老木質/竹編吊橋與繩結",
+      "繁體中文與簡體中文警語規範",
+      "黑金/黑白高對比色調",
+      "深海/水下與發光生物",
+      "巨型玻璃罐/微縮世界",
+      "細密畫/雙重曝光/紙藝風格"
+    ],
+    "style_picks": {
+      "art_style": "Healing Pet Portrait",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "title": "莓果塔上的微甜時光",
+    "comment_id": 5563379253,
+    "news_inspiration": []
   }
 ]
