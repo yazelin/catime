@@ -1884,5 +1884,41 @@
       "繁體中文與英文限定警示標籤",
       "時間戳記與數位時鐘 Overlay"
     ]
+  },
+  {
+    "inspiration": "法國巴黎羅浮宮前廣場聚集了數百名麵包師傅，成功合力烘烤出一條打破世界紀錄的超長法式長棍麵包。",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Candlelight",
+      "texture": "Liquid Metal",
+      "color_palette": "Moonlit Indigo"
+    },
+    "avoid_list": [
+      "伸出前爪/手套腳觸碰物件",
+      "Y2K 風格與低調霓虹燈光",
+      "單色黑白與高對比光影",
+      "高調明亮光與無邊框滿版構圖",
+      "引導線與會聚透視構圖",
+      "新中式工筆與細緻金線勾勒",
+      "微縮模型與框中框構圖",
+      "特定角色「橘白短毛貓麻糬」與特殊面部花紋",
+      "獨眼虎斑貓船長與褪色紅頭巾",
+      "手作機關偶與顯露齒輪關節",
+      "繁體中文與英文限定警示標籤",
+      "時間戳記與數位時鐘 Overlay"
+    ],
+    "prompt": "A glossy black cat with liquid metal, mercury-like reflective flow fur bows its head to lick a giant french baguette under a candlelit and moonlit indigo palette of deep night-blue and violet tones with warm orange flickering glow. Designed using double exposure effect and Droste effect, creating a recursive image within a picture repeating infinitely where miniature Parisian bakery streetscapes and mille-feuille bread layers seamlessly flow inside the cat's silhouette and background. Intricate artistic illustration style showcasing surreal ethereal transparency, molten mirror finish textures, and soft dancing shadows. The text '2026-09-08 22:07 UTC' is visually displayed in clear, elegant English font in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5592546313,
+    "news_inspiration": [
+      "日本東京上野動物園為園內高齡大貓熊舉辦別開生面的冰雕竹葉慶生會，吸引大批熱情粉絲盛裝到場祝賀。",
+      "法國巴黎羅浮宮前廣場聚集了數百名麵包師傅，成功合力烘烤出一條打破世界紀錄的超長法式長棍麵包。",
+      "紐西蘭威靈頓舉辦年度「最受歡迎鳥類」投票活動，保育團體發揮創意為瀕危的黃眼企鵝展開幽默競選宣傳。",
+      "美國加州亨廷頓海灘迎來年度衝浪狗大賽，數十隻不同品種的毛小孩穿上救生衣在浪頭大展身手。"
+    ],
+    "idea": "在閃爍著燭光的月夜靛藍色氛圍中，一隻毛髮如液態金屬般流動的光澤黑貓正低頭凝視並舔舐著面前的巨型長棍麵包；透過雙重曝光與德羅斯特效應，貓咪體內與背景不斷遞迴沉浸著千層麵包與烘焙街景。",
+    "story": "幾百位麵包師傅剛在巴黎廣場完成創紀錄的法式長棍，黑貓便隨機潛入了這座香氣濃郁的麵包山脈。它每一次優雅地伸舌舔舐麵包碎屑，其身上的液態流光便層層映照出無窮無盡的微縮烘焙工場與夜色。",
+    "title": "月夜下的長棍遞迴",
+    "number": 3286
   }
 ]
