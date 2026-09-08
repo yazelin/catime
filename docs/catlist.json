@@ -30796,5 +30796,18 @@
     "timestamp": "2026-09-07 23:07 UTC",
     "title": "月夜花海裡的叮鈴舞步",
     "status": "success"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3281,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_0151_UTC.webp",
+    "season": "autumn",
+    "status": "success",
+    "is_seasonal": true,
+    "inspiration": "在美國科羅拉多州桑頓，全美首座「自然圖書館」正式開幕，民眾除了借閱書籍外，還能免費借用賞鳥工具包與雪鞋等戶外裝備。",
+    "character_name": "墨墨",
+    "timestamp": "2026-09-08 01:51 UTC",
+    "character": "momo",
+    "title": "幽光秋葉下的黑夜說書人"
   }
 ]
