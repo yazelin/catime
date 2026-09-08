@@ -1848,5 +1848,41 @@
     "title": "線軸與望遠鏡的輪轉",
     "comment_id": 5587760295,
     "number": 3284
+  },
+  {
+    "title": "極夜果香展覽誌",
+    "number": 3285,
+    "news_inspiration": [
+      "日本東京：上野動物園為新落成的熊貓自然活動園區舉行盛大揭幕儀式，吸引數千名遊客清晨排隊搶先體驗。",
+      "法國巴黎：羅浮宮正式推出夜間「星空藝術露天導覽」，讓藝術愛好者能在杜樂麗花園月色下聆聽文藝復興名作的解說。",
+      "巴西里約熱內盧：當地衝浪俱樂部舉辦年度「狗狗衝浪趣味大賽」，數十隻受訓犬隻身穿專屬救生衣在科帕卡瓦納海灘乘風破浪，場面溫馨逗趣。",
+      "冰島雷克雅維克：科學團隊在南部地熱溫室成功試種出高緯度熱帶芒果，為極地永續農業發展創下全新里程碑。"
+    ],
+    "story": "在高緯度極地的地熱溫室中，閃光燈瞬間照亮了整片濃烈的中國紅金配色展區。一隻身上帶著傳統絞染斑紋的斑貓踩在濕潤的泥土上，正低頭仔細嗅聞剛落下的熱帶芒果，將冰冷極地與熱帶果香交織成一場突兀而迷人的視覺裝置藝術。",
+    "inspiration": "冰島雷克雅維克：科學團隊在南部地熱溫室成功試種出高緯度熱帶芒果，為極地永續農業發展創下全新里程碑。",
+    "idea": "採用美術館展場風格，以極低角度與閃光燈直打視角，呈現一隻全身披覆絞染布料紋理的貓咪正在冰島地熱溫室裡好奇地踩踏並嗅聞滿地現採的熱帶芒果。",
+    "comment_id": 5590405750,
+    "prompt": "A candid photography shot from an extreme low angle, looking up at a full-body cat whose fur displays Shibori resist-dyed textile patterns. The cat is curiously stepping on and sniffing fresh tropical mangoes scattered across the damp soil inside an Icelandic geothermal greenhouse, styled like a contemporary museum gallery installation. Harsh direct on-camera flash creates blown-out highlights and hard shadows, capturing a raw snapshot look. The visual environment features clean white exhibition walls, polished wooden floors visible in the background, and track lighting, with a festive red and gold palette dominating the scene alongside rich gold accents. Photographed on a 35mm lens, f/8, crisp focus, candid flash photograph, realistic photographic texture. In the corner of the frame, the timestamp '2026-09-08 19:06 UTC' is visibly displayed in clear retro text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Extreme Low Angle",
+      "lighting": "Direct Flash",
+      "texture": "Shibori Textile",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "伸出前爪/手套腳觸碰物件",
+      "Y2K 風格與低調霓虹燈光",
+      "單色黑白與高對比光影",
+      "高調明亮光與無邊框滿版構圖",
+      "引導線與會聚透視構圖",
+      "新中式工筆與細緻金線勾勒",
+      "微縮模型與框中框構圖",
+      "特定角色「橘白短毛貓麻糬」與特殊面部花紋",
+      "獨眼虎斑貓船長與褪色紅頭巾",
+      "手作機關偶與顯露齒輪關節",
+      "繁體中文與英文限定警示標籤",
+      "時間戳記與數位時鐘 Overlay"
+    ]
   }
 ]
