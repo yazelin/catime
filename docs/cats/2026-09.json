@@ -1747,5 +1747,38 @@
     "character_name": "墨墨",
     "character": "momo",
     "title": "幽光秋葉下的黑夜說書人"
+  },
+  {
+    "character": "mochi",
+    "idea": "這幅白板記號筆畫以單色黑白與螢光黑光為調性，運用夜市走廊的弧形鐵捲門延伸出引導線構圖，展現胖橘白貓麻糬在深夜閉店攤位間尋寶的憨態，畫面更疊加了壓花植物的幾何葉脈紋理。",
+    "title": "深夜市場的秘密巡邏",
+    "prompt": "A whiteboard marker line drawing on glass, black and white monochrome base with vibrant blacklight fluorescent UV illumination. A chubby rounded shorthair cat named Mochi is stuck around its spherical torso in a wooden crate at a late-night night market stall, eyes wide as it discovers fish scraps. The cat has a white base coat, a solid orange mask covering its right half-face while the left face is pure white, a heart-shaped orange saddle patch on its back, a solid orange right front paw, a pure white left front paw, large round amber eyes, a pink nose with a tiny orange dot, and an orange-and-white ringed tail. Curved iron shutter doors of the market hallway form leading lines in a converging perspective, guiding the eye through dramatic contrast shadows toward the cat. Overlaying the scene are delicate flattened dried leaves and pressed botanical textures creating an organic, translucent herbarium layer. The text '2026-09-08 06:41 UTC' is clearly rendered in a crisp sans-serif font in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "強烈的硬光日照",
+      "鳥瞰視角俯視",
+      "高調明亮光",
+      "前爪輕觸物件",
+      "古董或舊化質感",
+      "苔蘚與時間痕跡",
+      "復古甜點與餐飲場景",
+      "立體肌理與刺繡風格",
+      "霓虹與螢光色彩光影",
+      "高對比電影感光影",
+      "框中框與微縮模型構圖",
+      "極致細節與奢華金線"
+    ],
+    "inspiration": "original",
+    "number": 3282,
+    "character_name": "麻糬",
+    "comment_id": 5580512108,
+    "news_inspiration": [],
+    "story": "深夜的老街攤位早已熄燈，麻糬這顆胖乎乎的花生麻糬憑著絕佳嗅覺，偷偷鑽進了剛好擠得下的魚丸攤木箱深處。牠雙眼因發現掉落的鮮魚碎塊而瞬間放大兩倍，即使肚子卡在木箱口微微晃動，也阻擋不了這隻貪吃貓貓的深夜巡邏大業。",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Leading Lines Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
