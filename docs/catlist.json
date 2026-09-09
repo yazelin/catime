@@ -30867,5 +30867,13 @@
     "timestamp": "2026-09-09 00:48 UTC",
     "number": 3287,
     "inspiration": "original"
+  },
+  {
+    "timestamp": "2026-09-09 05:29 UTC",
+    "status": "failed",
+    "number": null,
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno 111] Connection refused>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: All connection attempts failed",
+    "url": null,
+    "model": "all failed"
   }
 ]
