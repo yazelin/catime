@@ -2023,5 +2023,39 @@
       "黃金時刻與背光輪廓光",
       "繁體中文或英文文字規範條款"
     ]
+  },
+  {
+    "character": "captain",
+    "season": "autumn",
+    "idea": "採用雙重曝光手法，結合移軸微縮構圖與蝴蝶光照射，展現一隻戴著深色眼罩、圍著褪色紅頭巾的壯碩虎斑貓「船長」蹲伏在紅金配色燈塔頂端，正伸手試圖撈取隨秋風飄過海面的楓葉。",
+    "prompt": "A tilt-shift miniature visual art piece showcasing a large, stocky brown classic tabby cat named Captain, featuring bold black stripes and a scruffy, untidy coarse coat. The cat's left eye socket is completely covered by a natural dark-pigmented brown fur patch with no straps or fabric, while its single right eye shines piercing emerald green. Its left ear has a prominent V-shaped notch, a faded red bandana is loosely tied around its neck, and it sports a white chest bib and white mitten paws. The cat is crouching atop an ornate old lighthouse painted in a vermilion red and metallic gold palette. With a broad white mitten paw, it reaches down trying to catch a floating maple leaf that is intricately embellished with glittering beaded rhinestones, pearls, and faceted sparkling gems like opulent couture detailing. The autumn sea and sunset sky glow with refined cinnabar red and warm golden light. The entire scene features a double exposure effect blending the cat's detailed silhouette with a glowing sunset landscape, framed with selective focus blurring the foreground and background, and illuminated by overhead butterfly lighting creating a symmetrical subtle shadow. Etched neatly in clean typography near the bottom corner is the text '2026-09-09 18:07 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夕陽漸沉，紅金相間的光暈籠罩著老舊燈塔，獨眼老船長端坐在最高處吹著海風。一張經珠飾水鑽鑲嵌般精緻閃爍的紅楓隨著浪濤飄過，船長伸出白爪輕輕扣弄，眼底銳利的翠綠光芒頓時溫和了起來。",
+    "news_inspiration": [],
+    "comment_id": 5606557827,
+    "inspiration": "original",
+    "avoid_list": [
+      "Y2K千禧年風格",
+      "極低角度俯視/仰視構圖",
+      "液態金屬與汞流質感",
+      "生物發光光暈",
+      "分形幾何與德羅斯特遞迴效應",
+      "極致蓬鬆白貓「鈴鈴」與粉紅鈴鐺",
+      "純黑短毛貓「墨墨」與左耳金環",
+      "乾燥花與漂流木組合雕塑",
+      "正交投影與正交構圖",
+      "黃金時刻與背光輪廓光",
+      "繁體中文或英文文字規範條款"
+    ],
+    "character_name": "船長",
+    "number": 3291,
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Butterfly Lighting",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "is_seasonal": true,
+    "title": "燈塔夕照下的楓葉"
   }
 ]
