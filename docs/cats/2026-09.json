@@ -1993,5 +1993,35 @@
     "character_name": "墨墨",
     "is_seasonal": true,
     "title": "楓香幾何裡的墨影"
+  },
+  {
+    "prompt": "A full-body vertical portrait centered in a tall frame depicting a tortoiseshell cat crouched on four legs, attentively pressing down on the keys of an antique vintage typewriter with its front paw. The scene is rendered in an intricate Gond art illustration style, featuring fine dot and line patterns, nature-inspired tribal motifs, and mystical compositions. The background and surroundings are filled with delicate totem symbols and flowing drapes with a luxurious silk fabric texture, luminous smooth surfaces, and subtle reflections. Illuminated by even frontal ring light illumination that casts circular catchlights in the cat's eyes. Colored in vibrant neon fluorescent hues including electric pink, lime green, and hot cyan glowing against a dark background. The text '2026-09-09 14:52 UTC' is visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "number": 3290,
+    "title": "螢光印記下的打字者",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Ring Light",
+      "texture": "Silk",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "在絲綢質感的柔滑光澤下，環形燈均勻照亮了貓咪神聖般的專注神情。這隻四腳伏臥的玳瑁貓在滿室的圖騰符號間，隨著機械打字機的響聲，專心致志地探索著每一個按鍵的觸感。",
+    "comment_id": 5603950683,
+    "idea": "這幅呈現貢德畫風與霓虹螢光色彩的全身居中直幅作品中，一隻玳瑁貓正伸出前爪專注地按壓著舊式打字機的鍵盤。",
+    "avoid_list": [
+      "Y2K千禧年風格",
+      "極低角度俯視/仰視構圖",
+      "液態金屬與汞流質感",
+      "生物發光光暈",
+      "分形幾何與德羅斯特遞迴效應",
+      "極致蓬鬆白貓「鈴鈴」與粉紅鈴鐺",
+      "純黑短毛貓「墨墨」與左耳金環",
+      "乾燥花與漂流木組合雕塑",
+      "正交投影與正交構圖",
+      "黃金時刻與背光輪廓光",
+      "繁體中文或英文文字規範條款"
+    ]
   }
 ]
