@@ -30875,5 +30875,18 @@
     "error": "codex failed (codex-image-service request failed: <urlopen error [Errno 111] Connection refused>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: All connection attempts failed",
     "url": null,
     "model": "all failed"
+  },
+  {
+    "character": "momo",
+    "inspiration": "original",
+    "number": 3289,
+    "season": "autumn",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_1017_UTC.webp",
+    "is_seasonal": true,
+    "title": "楓香幾何裡的墨影",
+    "timestamp": "2026-09-09 10:17 UTC"
   }
 ]
