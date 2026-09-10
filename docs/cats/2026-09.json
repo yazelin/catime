@@ -2186,5 +2186,34 @@
     "prompt": "An illustration of a calico cat inside an ancient astronomical observatory, gently nudging fine-tuning brass gears on a massive telescope with its front paw. The scene is viewed through translucent frosted glass-paper and a layered arch window frame composition, revealing a deep blue night sky contrasted with warm golden ambient light. The style features a cool blue and yellow complementary palette, aged silk scroll texture, soft cinematic moonlight, and subtle weathered paper stains. The timestamp '2026-09-10 06:47 UTC' is delicately handwritten in clear English along the bottom border. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "original",
     "number": 3295
+  },
+  {
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Leading Lines Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Vermilion and White"
+    },
+    "title": "陽下溪邊弄茶香",
+    "avoid_list": [
+      "倫勃朗光與強烈明暗對比",
+      "極致扭曲視角與魚眼鏡頭",
+      "微縮立體模型與移軸效果",
+      "雙重曝光與德羅斯特效應",
+      "前爪伸出抓取或拉扯物件",
+      "帶有異質感官質理的貓咪毛髮",
+      "液態金屬與流光質感",
+      "秋日琥珀與紅金配色組合",
+      "角落顯眼的時間戳記標示",
+      " Traditional Chinese or English 限定警語"
+    ],
+    "news_inspiration": [],
+    "number": 3296,
+    "prompt": "Expressionism art style painting on an aged silk scroll surface with warm sepia patina, visible silk weave, and delicate crease lines. A striped tabby cat is crouched beside an old tea-picking bamboo basket by a stream, intently batting at fresh green tea leaves floating on the water's surface with its front paw. The background features a bamboo forest under harsh midday sunlight, creating heavy geometric hard-edge shadows and vertical intersecting reflections that form leading lines composition, guiding the eye toward the water's shimmering details. Bold exaggerated brushwork with a minimalist vermilion and white color palette, combining cinnabar red accents with clean negative space. The text '2026-09-10 11:56 UTC' is visually displayed in the corner of the image in a clear, subtle English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在強烈的硬光日照下，這幅畫作採用表現主義風格與古絹絹本質感，透過竹林間筆直交錯的倒影形成引導線構圖，將視線聚焦於朱紅留白之間的波光細節。",
+    "comment_id": 5618314082,
+    "story": "一隻斑紋花貓正伏在溪邊古老的採茶竹籃旁，專注地用前爪撥弄著漂浮在水面上的新鮮嫩芽。四周的竹林在酷陽照射下投射出沉重的幾何陰影，交織出一幅動靜相宜的茶園景象。",
+    "inspiration": "original"
   }
 ]
