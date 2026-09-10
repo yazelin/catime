@@ -30955,5 +30955,18 @@
     "number": 3296,
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "original"
+  },
+  {
+    "character": "lingling",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "鈴鈴",
+    "number": 3297,
+    "is_seasonal": true,
+    "title": "玻璃瓶裡的秋日叮噹",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_1532_UTC.webp",
+    "timestamp": "2026-09-10 15:32 UTC",
+    "season": "autumn"
   }
 ]

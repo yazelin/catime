@@ -2215,5 +2215,43 @@
     "comment_id": 5618314082,
     "story": "一隻斑紋花貓正伏在溪邊古老的採茶竹籃旁，專注地用前爪撥弄著漂浮在水面上的新鮮嫩芽。四周的竹林在酷陽照射下投射出沉重的幾何陰影，交織出一幅動靜相宜的茶園景象。",
     "inspiration": "original"
+  },
+  {
+    "character": "lingling",
+    "idea": "這是一幅採用Q版新年插畫風格與玻璃容器置入構圖的創作，繪製布偶貓風格的鈴鈴縮小身軀，正笨拙地在巨大水晶玻璃球中的落葉堆裡打滾追逐光斑。",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "comment_id": 5621271762,
+    "news_inspiration": [
+      "瑞士巴特（Buttes）地區率先測試在鐵軌間鋪設可拆卸式太陽能板，讓列車能直接從太陽能板上方駛過並同時發電。",
+      "考古團隊在波蘭（Poland）一座羅馬時代墓地進行挖掘時，意外發現了一條擁有5,000年歷史、由42顆動物牙齒串成的罕見古老項鍊。",
+      "印尼蘇門答臘（Sumatra, Indonesia）詹托松樹林自然保護區公佈最新成果，經過15年努力，成功利用救援與移置的紅毛猩猩重新建立起健康的野外族群。",
+      "埃及盧克索（Luxor, Egypt）的考古學家在清理清理清理洪水淤泥時，意外發現一座擁有3,000年歷史且壁畫保存完好的古埃及墓穴。"
+    ],
+    "character_name": "鈴鈴",
+    "number": 3297,
+    "avoid_list": [
+      "倫勃朗光與強烈明暗對比",
+      "極致扭曲視角與魚眼鏡頭",
+      "微縮立體模型與移軸效果",
+      "雙重曝光與德羅斯特效應",
+      "前爪伸出抓取或拉扯物件",
+      "帶有異質感官質理的貓咪毛髮",
+      "液態金屬與流光質感",
+      "秋日琥珀與紅金配色組合",
+      "角落顯眼的時間戳記標示",
+      " Traditional Chinese or English 限定警語"
+    ],
+    "is_seasonal": true,
+    "title": "玻璃瓶裡的秋日叮噹",
+    "inspiration": "original",
+    "prompt": "A chibi Lunar New Year illustration depicting a miniature world set inside a refractive crystal glass sphere. Inside, a fluffy pure white longhair Ragdoll cat (named Lingling) with a small round face, huge round sapphire-blue #0F52BA eyes, pale pink nose and inner ears, wearing an autumn cozy small sweater and a pink #FF69B4 ribbon bow collar with a centered golden #FFD700 bell, is clumsily rolling around and chasing glowing light spots among a pile of magical autumn leaves. The scene features contained miniature world framing with watercolor splatter and ink-spray texture. Illuminated by blacklight UV lighting, vibrant fluorescent pigments and glowing fallen leaves pop against a dark background, set in a cool blue-teal color palette with ethereal ultraviolet luminescence. The timestamp '2026-09-10 15:32 UTC' is visibly displayed in clear typography at the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "season": "autumn",
+    "story": "穿著小毛衣的鈴鈴好奇地溜進了玻璃容器花園，在冷青色螢光與水彩潑濺的魔法落葉堆裡瘋狂打滾。她滿身沾著彩色的紅葉與墨點，叮叮作響的粉紅鈴鐺與寶石藍的大眼睛在黑光燈下閃耀著天真又驚喜的光芒。"
   }
 ]
