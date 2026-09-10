@@ -2253,5 +2253,38 @@
     "prompt": "A chibi Lunar New Year illustration depicting a miniature world set inside a refractive crystal glass sphere. Inside, a fluffy pure white longhair Ragdoll cat (named Lingling) with a small round face, huge round sapphire-blue #0F52BA eyes, pale pink nose and inner ears, wearing an autumn cozy small sweater and a pink #FF69B4 ribbon bow collar with a centered golden #FFD700 bell, is clumsily rolling around and chasing glowing light spots among a pile of magical autumn leaves. The scene features contained miniature world framing with watercolor splatter and ink-spray texture. Illuminated by blacklight UV lighting, vibrant fluorescent pigments and glowing fallen leaves pop against a dark background, set in a cool blue-teal color palette with ethereal ultraviolet luminescence. The timestamp '2026-09-10 15:32 UTC' is visibly displayed in clear typography at the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "season": "autumn",
     "story": "穿著小毛衣的鈴鈴好奇地溜進了玻璃容器花園，在冷青色螢光與水彩潑濺的魔法落葉堆裡瘋狂打滾。她滿身沾著彩色的紅葉與墨點，叮叮作響的粉紅鈴鐺與寶石藍的大眼睛在黑光燈下閃耀著天真又驚喜的光芒。"
+  },
+  {
+    "avoid_list": [
+      "倫勃朗光與強烈明暗對比",
+      "極致扭曲視角與魚眼鏡頭",
+      "微縮立體模型與移軸效果",
+      "雙重曝光與德羅斯特效應",
+      "前爪伸出抓取或拉扯物件",
+      "帶有異質感官質理的貓咪毛髮",
+      "液態金屬與流光質感",
+      "秋日琥珀與紅金配色組合",
+      "角落顯眼的時間戳記標示",
+      " Traditional Chinese or English 限定警語"
+    ],
+    "prompt": "Neo-Impressionism painting executed with systematic pointillism and optical color mixing of tiny dabs of pure color creating a luminous surface, extreme low angle shot looking up at a four-legged cat on an old bookstore wooden floor. The cat is Momo, a sleek slender solid black Bombay-style shorthair with satin-sheen fur revealing subtle warm brown undertones under bright light, featuring large luminous golden-amber eyes, prominent long white whiskers, a tiny natural white locket tuft on its ventral chest, a single dark-grey ring at the tip of its tail, and a single small gold hoop earring positioned at the mid-ear edge of its left ear (viewer perspective, no earring on the right ear, no collar). The cat is resting its chin gently on a maple-leaf orange hardcover book while extending one front paw to tap a warm beam of sunlight filtered through a delicate lace openwork curtain with translucent floral cutout patterns casting filigree light across its black coat. Surrounding the floor are vintage books with maple-colored and terracotta covers. Earth tone palette featuring terracotta, olive green, warm brown, and soft pastel shades in high-key bright lighting with airy overexposed feel, soft even illumination, and minimal shadows. Clearly printed in crisp English typography in the bottom corner of the image is the timestamp text '2026-09-10 18:47 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5623803303,
+    "number": 3298,
+    "inspiration": "original",
+    "season": "autumn",
+    "is_seasonal": true,
+    "title": "點彩秋光裡的書香",
+    "idea": "在以新印象派點描法呈現的舊書店地板上，純黑貓墨墨以極低角度視角被拍下，牠伸出前爪輕輕撥弄一束從蕾絲鏤空窗簾透出的大地色系日光，周圍環繞著一本本楓葉色封面的古舊書籍。",
+    "character": "momo",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Extreme Low Angle",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Earth Tones"
+    },
+    "story": "在高調明亮的光線下，墨墨正將毛茸茸的下巴貼在精裝書上，琥珀色的眼睛專注地盯著點點光斑。微風吹過蕾絲窗簾，將細緻的花紋圖樣印在牠帶有緞面光澤的黑毛上，彷彿整座秋天的書店都在這片寧靜中悄然呼吸。",
+    "news_inspiration": []
   }
 ]
