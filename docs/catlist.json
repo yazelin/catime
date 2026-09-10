@@ -30981,5 +30981,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "character_name": "墨墨"
+  },
+  {
+    "number": 3299,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "title": "展場角落的烤番薯香",
+    "timestamp": "2026-09-10 21:17 UTC",
+    "season": "autumn",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_2117_UTC.webp"
   }
 ]

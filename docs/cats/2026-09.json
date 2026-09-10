@@ -2286,5 +2286,43 @@
     },
     "story": "在高調明亮的光線下，墨墨正將毛茸茸的下巴貼在精裝書上，琥珀色的眼睛專注地盯著點點光斑。微風吹過蕾絲窗簾，將細緻的花紋圖樣印在牠帶有緞面光澤的黑毛上，彷彿整座秋天的書店都在這片寧靜中悄然呼吸。",
     "news_inspiration": []
+  },
+  {
+    "number": 3299,
+    "news_inspiration": [
+      "美國普林斯頓的物理學家成功測試一套能在幾毫秒內預測並控制核融合電漿的AI系統，反應速度遠超人類極限。",
+      "波蘭比亞瓦-波德拉斯卡舉行第19屆波羅的海體育科學大會，聚焦運動科學與體育活動的最新趨勢。",
+      "南非約翰尼斯堡的國家橄欖球隊在精彩對決中以29:24擊敗紐西蘭隊，順利奪得系列賽領先地位。",
+      "印度各地盛大慶祝一年一度的教師節（Shikshak Divas），學生們以各式感恩活動向老師表達謝意。"
+    ],
+    "prompt": "在黑光螢光與青橙電影色調塗抹的美術館展場中，圓滾滾的橘白貓麻糬圍著格紋圍巾，正透過展區的大型金屬相框（框中框構圖）低頭舔舐烤番薯攤前掉落的紫薯甜點，身上的毛髮點綴著金箔潑點肌理。. The date and time '2026-09-10 21:17 UTC' is visually displayed in the image. museum gallery installation view, monumental artwork dominating the space, tiny human figures for scale contrast, polished wooden floors, track lighting, clean white walls, contemporary exhibition atmosphere, frame within a frame composition, subject seen through a window, arch or opening, layered foreground border, depth and focus emphasis, nested framing, Blacklight UV illumination, fluorescent pigments glowing, vibrant neon colors on dark background, ethereal ultraviolet luminescence, gold foil flecks texture, scattered metallic gold leaf shards, glinting gilded specks, luxurious shimmering accents, hand-applied foil splatter, teal and orange color grading, warm skin tones against cool blue-green shadows, complementary cinematic palette, blockbuster film look, punchy balanced contrast\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Mochi — chubby rounded shorthair with a white #FFFFFF base coat and bright orange #FF8C00 patches. RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Dorsal: heart-shaped orange #FF8C00 saddle centered on the upper back. RIGHT front paw: solid orange #FF8C00 mitten to the wrist. LEFT front paw: pure white #FFFFFF. Eyes: large round amber #FFBF00. Nose: pink #FFB6C1 with a tiny orange center dot. Tail: orange-and-white ringed bands. Body: short stubby legs and spherical torso. [HARD CONSTRAINTS] 1) RIGHT half-face orange mask ONLY — LEFT face MUST be white. 2) Heart-shaped orange saddle present on dorsal back. 3) RIGHT front paw orange mitten, LEFT front paw white — NEVER reversed. 4) White belly ALWAYS. 5) Amber #FFBF00 eyes ONLY — NEVER blue or green. 6) Shorthair ONLY — NEVER fluffy or long. 7) Orange patches solid — NO tabby stripes within patches. End.\nNEGATIVE CONSTRAINTS (must not appear): left face orange, left paw orange, fully orange cat, tabby stripes, striped markings, mackerel pattern, longhair, fluffy coat, orange belly, both paws orange, both paws white, missing back patch, no heart saddle, slender build, skinny cat, green eyes, blue eyes, symmetrical face markings, even face split, grey patches, black patches, calico tricolor, tortoiseshell, missing nose dot, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: autumn - the cat should be dressed/styled appropriately for autumn.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "展場角落的烤番薯香",
+    "season": "autumn",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "idea": "在黑光螢光與青橙電影色調塗抹的美術館展場中，圓滾滾的橘白貓麻糬圍著格紋圍巾，正透過展區的大型金屬相框（框中框構圖）低頭舔舐烤番薯攤前掉落的紫薯甜點，身上的毛髮點綴著金箔潑點肌理。",
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Frame Within a Frame",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Teal and Orange"
+    },
+    "comment_id": 5625589163,
+    "inspiration": "original",
+    "is_seasonal": true,
+    "avoid_list": [
+      "倫勃朗光與強烈明暗對比",
+      "極致扭曲視角與魚眼鏡頭",
+      "微縮立體模型與移軸效果",
+      "雙重曝光與德羅斯特效應",
+      "前爪伸出抓取或拉扯物件",
+      "帶有異質感官質理的貓咪毛髮",
+      "液態金屬與流光質感",
+      "秋日琥珀與紅金配色組合",
+      "角落顯眼的時間戳記標示",
+      " Traditional Chinese or English 限定警語"
+    ],
+    "story": "老街市場的「試吃大師」麻糬，帶著牠標誌性的右腳橘色手套與花生斑塊，穿梭在正舉辦前衛藝術展的舊市場攤位間。微冷秋日裡，牠圍著溫暖的格紋圍巾，被烤番薯攤傳來的陣陣甜香深深吸引，完全忽視了周遭閃耀著UV螢光的當代藝術裝置。麻糬瞇起大圓眼，肚子隨著飽足的呼嚕聲微微晃動，在這座化身為展覽空間的舊市場裡，享受著專屬於牠的秋日巡禮。"
   }
 ]
