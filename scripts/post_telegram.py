@@ -28,11 +28,10 @@ def get_last_posted_number() -> int | None:
     """Get the last posted cat number from state file."""
     if not STATE_FILE.exists():
         return None
-    try:
-        with STATE_FILE.open("r", encoding="utf-8") as f:
-            return json.load(f).get("last_posted_number")
-    except Exception:
-        return None
+    # 檔案存在卻讀不開(壞掉的 JSON、權限)就讓它炸,不要當成「沒發過」——
+    # 吞掉的話去重會失效,同一隻貓會每小時重發到頻道一次。
+    with STATE_FILE.open("r", encoding="utf-8") as f:
+        return json.load(f).get("last_posted_number")
 
 
 def save_last_posted_number(number: int) -> None:
@@ -148,7 +147,7 @@ def commit_and_push() -> None:
     subprocess.run(["git", "add", str(STATE_FILE)], check=True)
     subprocess.run(["git", "commit", "-m", "Update telegram posted state"], check=True)
     for attempt in range(3):
-        result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        result = subprocess.run(["git", "push"], capture_output=True, text=True, check=False)
         if result.returncode == 0:
             return
         print(f"Push failed (attempt {attempt + 1}), rebasing...")

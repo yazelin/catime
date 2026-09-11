@@ -1117,7 +1117,7 @@ def ensure_release_exists():
     """Create the 'cats' release if it doesn't exist."""
     result = subprocess.run(
         ["gh", "release", "view", RELEASE_TAG, "--repo", REPO],
-        capture_output=True, text=True,
+        capture_output=True, text=True, check=False,
     )
     if result.returncode != 0:
         subprocess.run(
@@ -1185,7 +1185,7 @@ query($owner: String!, $name: String!, $cursor: String) {
         if cursor:
             cmd.extend(["-f", f"cursor={cursor}"])
 
-        result = subprocess.run(cmd, capture_output=True, text=True)
+        result = subprocess.run(cmd, capture_output=True, text=True, check=False)
         if result.returncode != 0:
             raise RuntimeError(f"Failed to list GitHub issues via GraphQL: {result.stderr.strip()}")
 
@@ -1324,7 +1324,7 @@ def update_catlist_and_push(entry: dict) -> int:
 
     # Retry push with rebase in case of concurrent pushes
     for attempt in range(3):
-        result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        result = subprocess.run(["git", "push"], capture_output=True, text=True, check=False)
         if result.returncode == 0:
             break
         print(f"Push failed (attempt {attempt + 1}), rebasing...")

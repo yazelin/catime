@@ -9,7 +9,6 @@ Run by GitHub Actions hourly or manually.
 import json
 import re
 import subprocess
-import sys
 from pathlib import Path
 
 REPO = "yazelin/catime"
@@ -20,11 +19,12 @@ def gh_api(endpoint: str) -> list | dict:
     """Call gh api with pagination and return parsed JSON."""
     result = subprocess.run(
         ["gh", "api", "--paginate", endpoint],
-        capture_output=True, text=True,
+        capture_output=True, text=True, check=False,
     )
     if result.returncode != 0:
-        print(f"gh api error for {endpoint}: {result.stderr.strip()}", file=sys.stderr)
-        return []
+        # 這裡不能回空 list:回空的話 main 會把空的 likes.json / comment_map.json
+        # 寫回去,把所有讚數洗掉,而且 workflow 還是綠的。
+        raise RuntimeError(f"gh api failed for {endpoint}: {result.stderr.strip()}")
     # --paginate concatenates JSON arrays; handle both single and concatenated output
     text = result.stdout.strip()
     if not text:
