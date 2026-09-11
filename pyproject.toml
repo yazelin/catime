@@ -32,8 +32,24 @@ target-version = "py311"
 [tool.ruff.lint]
 # ponytail: 釘住規則集,新版 ruff 加預設規則不會讓 CI 無預警變紅
 select = ["E4", "E7", "E9", "F", "PLW1510"]
-# BLE001 沒開:scripts/ 那層的 except Exception 是刻意的降級,每個都有印出例外,
-# 開了只會換來十筆 noqa。真正會靜靜壞掉的那幾處已經個別修掉。
+# BLE001 沒開。判準是「壞掉了會不會沒人知道」,不是「有沒有寫 except Exception」。
+# 真的會靜靜壞掉的四處已在 #80 個別修掉(fetch_likes.gh_api 會洗掉讚數、
+# post_telegram.get_last_posted_number 會重發貓圖、cli.fetch_detail、utils/http.py 內層)。
+# 剩下 13 筆逐筆看過,都有印出例外而且降級是對的,開規則只會換來 13 筆 noqa:
+#   generate_cat.py:250   風格過濾 AI 失敗 → 不過濾
+#   generate_cat.py:661   創作筆記更新失敗 → 留舊的
+#   generate_cat.py:698   新聞抓取失敗(含重試) → 不用新聞
+#   generate_cat.py:800   只是印 finish_reason 的 debug 區塊
+#   generate_cat.py:819   Stage 1 解析失敗 → 重試後走 fallback
+#   generate_cat.py:875   Stage 2 解析失敗 → 用 idea 當 prompt
+#   generate_cat.py:904   WebP 轉檔失敗 → 退回 PNG
+#   generate_cat.py:1033  codex-image-service 請求失敗 → 回 status:failed,main 會 sys.exit(1)
+#   generate_cat.py:1055  圖片下載失敗 → 同上,workflow 會紅
+#   generate_cat.py:1427  issue 留言失敗 → 只少 comment_id,不該讓產好的圖掉
+#   post_telegram.py:105  送圖失敗 → 回 False,main 走 sys.exit(1)
+#   post_telegram.py:198  下載圖失敗 → 印 stderr 後 sys.exit(1)
+#   cli.py:182            CLI 最外層 catch-all,印錯誤後 sys.exit(1)
+# 行號會漂,對不上就跑 ruff check . --select BLE001 重列。
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
