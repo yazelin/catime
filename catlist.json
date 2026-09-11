@@ -30274,5 +30274,794 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-31_0106_UTC.webp",
     "inspiration": "美國佛羅里達州甘迺迪航天中心於8月30日成功發射「南茜·格蕾斯·羅曼」太空望遠鏡，預計將探索數萬顆新行星與暗物質的奧秘。",
     "number": 3228
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-31_0749_UTC.webp",
+    "timestamp": "2026-08-31 07:49 UTC",
+    "status": "success",
+    "number": 3229,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "荷蘭恩荷芬的學生團隊研發出全球首款太陽能救護車「Stella Juva」，車頂配備可擴充的太陽能板並內建醫療設備，能為偏遠地區提供行動醫療服務。",
+    "title": "日光擷取者"
+  },
+  {
+    "timestamp": "2026-08-31 15:37 UTC",
+    "title": "狂風中的港口領航者",
+    "inspiration": "original",
+    "character": "captain",
+    "status": "success",
+    "character_name": "船長",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-31_1537_UTC.webp",
+    "number": 3230
+  },
+  {
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "status": "success",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-08/cat_2026-08-31_2110_UTC.webp",
+    "timestamp": "2026-08-31 21:10 UTC",
+    "season": "summer",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3231,
+    "title": "翡翠向日葵廢墟探險",
+    "character": "lingling"
+  },
+  {
+    "status": "success",
+    "inspiration": "original",
+    "timestamp": "2026-09-01 00:52 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "朱閣銜金鑰",
+    "number": 3232,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_0052_UTC.webp"
+  },
+  {
+    "status": "success",
+    "title": "鏡界裡的無盡尋覓",
+    "character": "momo",
+    "character_name": "墨墨",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_0554_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3233,
+    "timestamp": "2026-09-01 05:54 UTC"
+  },
+  {
+    "status": "success",
+    "title": "大地脈動的飛躍",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "瑞士（蘇黎世）：科學家邀請上千名志工在全境土壤中埋入 2,000 件純棉內褲，透過兩個月後內褲的分解程度，以趣味方式評估土壤微生物的活性與肥沃度。",
+    "timestamp": "2026-09-01 10:41 UTC",
+    "number": 3234,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_1041_UTC.webp"
+  },
+  {
+    "timestamp": "2026-09-01 15:16 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_1516_UTC.webp",
+    "number": 3235,
+    "title": "無盡深海的循環巨礁",
+    "inspiration": "澳大利亞凱恩斯：公民科學家在知名的大堡壘礁發現了一片面積達近半個足球場大的巨型珊瑚群落，成為近年海底生態保育的一大新亮點。",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "number": 3236,
+    "status": "success",
+    "inspiration": "英國蘇格蘭（Scotland）通過全新法規，要求境內所有新建房屋皆須內嵌供雨燕築巢的專用「雨燕磚」，成為全球首個立法守護該瀕危候鳥棲地的地區。",
+    "title": "月下飛檐與棲羽石",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_1857_UTC.webp",
+    "timestamp": "2026-09-01 18:57 UTC"
+  },
+  {
+    "inspiration": "original",
+    "title": "熱能獵場的深夜偷襲",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_2131_UTC.webp",
+    "number": 3237,
+    "timestamp": "2026-09-01 21:31 UTC"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-01_2338_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "智利阿塔卡瑪（Atacama）：作為地球上最乾燥的地區之一，阿塔卡瑪沙漠近日因罕見的大型氣候系統迎來了極為罕見的積雪景觀。",
+    "title": "玻璃穹頂下的氣象員",
+    "timestamp": "2026-09-01 23:38 UTC",
+    "number": 3238
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_0147_UTC.webp",
+    "title": "霓虹微縮夜遊記",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "status": "success",
+    "timestamp": "2026-09-02 01:47 UTC",
+    "number": 3239
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_0634_UTC.webp",
+    "title": "螺旋管線的微光守護",
+    "number": 3240,
+    "inspiration": "科學家最新研究發現蛇類胚胎在發育初期會捲曲成右旋螺旋狀，原因是其身體長度生長速度遠快於腸道，進而在張力牽引下形成獨特的扭轉現象。",
+    "status": "success",
+    "timestamp": "2026-09-02 06:34 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "character_name": "麻糬",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "義大利特色餐館推廣傳統的「美好回憶餐盤」（Piatti del Buon Ricordo）文化，讓前往各地品嚐在地手路菜的饕客在享用完美食後，能直接將精美的陶瓷餐盤帶回家留作旅行紀念。",
+    "status": "success",
+    "title": "瓷盤上的甘甜記憶",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_1149_UTC.webp",
+    "timestamp": "2026-09-02 11:49 UTC",
+    "number": 3241
+  },
+  {
+    "number": 3242,
+    "character_name": "墨墨",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "鏡邊的高雅窺視",
+    "timestamp": "2026-09-02 15:30 UTC",
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_1530_UTC.webp",
+    "inspiration": "original",
+    "status": "success"
+  },
+  {
+    "number": 3243,
+    "character": "lingling",
+    "timestamp": "2026-09-02 19:02 UTC",
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_1902_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "藝廊裡的珠光回眸",
+    "inspiration": "韓國首爾：年度當代藝術盛事「首爾弗里茲藝術博覽會」（Frieze Seoul）於 COEX 會展中心盛大開幕，匯聚來自全球 30 多個國家、超過 130 家藝廊參展，呈現多元藝文視野。",
+    "status": "success"
+  },
+  {
+    "title": "月下怒濤的航海者",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "number": 3244,
+    "timestamp": "2026-09-02 22:05 UTC",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-02_2205_UTC.webp",
+    "character": "captain"
+  },
+  {
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service request failed: <urlopen error timed out>)",
+    "timestamp": "2026-09-03 00:48 UTC",
+    "status": "success",
+    "number": 3245,
+    "title": "紅海中的狂歡獵手",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_0048_UTC.webp",
+    "inspiration": "西班牙布尼奧爾舉辦了盛大的「蕃茄大戰」節慶，吸引了來自世界各地的遊客互相投擲過熟蕃茄，將街道染成一片紅海。"
+  },
+  {
+    "number": 3246,
+    "timestamp": "2026-09-03 05:17 UTC",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "哈薩克斯坦中部草原（Central Kazakhstan steppe）迎來200年來首匹在野外自然誕生的普氏野馬幼崽，為生態復育邁出重大里程碑。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_0517_UTC.webp",
+    "title": "原野長眠的靛藍守護"
+  },
+  {
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_1017_UTC.webp",
+    "status": "success",
+    "timestamp": "2026-09-03 10:17 UTC",
+    "title": "金閣鐘聲起",
+    "number": 3247,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "number": 3248,
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service job failed: Codex exited with code 1)",
+    "status": "success",
+    "title": "紅金弦上的飛躍",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_1446_UTC.webp",
+    "timestamp": "2026-09-03 14:46 UTC",
+    "inspiration": "original"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_1811_UTC.webp",
+    "status": "success",
+    "timestamp": "2026-09-03 18:11 UTC",
+    "inspiration": "埃及農夫開始試驗在太陽能電池板下方種長作物，不僅能產生清潔電力，還能為農作物遮陰並減少水分蒸發。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "烈日下的幾何陰涼",
+    "number": 3249
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_2128_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3250,
+    "title": "泥穴中的千年微光",
+    "timestamp": "2026-09-03 21:28 UTC",
+    "inspiration": "丹麥一名屋主在庭院挖掘時，意外發現該國史上規模最大的維京時代銀器寶藏。",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-09-03 23:38 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "character_name": "墨墨",
+    "title": "月下迷航的黑夜領航員",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-03_2338_UTC.webp",
+    "character": "momo",
+    "inspiration": "加拿大安大略省的湖泊中，一座曾神祕消失的漂浮小島近期再度奇蹟般地重現於湖面，吸引大量遊客與地質愛好者關注。",
+    "number": 3251
+  },
+  {
+    "title": "燈塔夕照與躍浪金鱗",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_0148_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "英國惠特比：消失長達60年的大西洋藍芬鮪魚重返當地海域，科學家首次順利完成標記以推動海洋生態保育。",
+    "character_name": "船長",
+    "season": "autumn",
+    "character": "captain",
+    "status": "success",
+    "timestamp": "2026-09-04 01:48 UTC",
+    "number": 3252
+  },
+  {
+    "title": "花庭晨光下的鈴響",
+    "character": "lingling",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_0640_UTC.webp",
+    "number": 3253,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "timestamp": "2026-09-04 06:40 UTC",
+    "character_name": "鈴鈴",
+    "inspiration": "original"
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_1151_UTC.webp",
+    "title": "草原晨曦的第一次凝視",
+    "timestamp": "2026-09-04 11:51 UTC",
+    "number": 3254,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "在哈薩克（Kazakhstan）的中央大草原，保育團隊喜迎 200 年來首隻野生的普氏野馬幼崽出生，成為當地原生草原生態系復育的重要里程碑。"
+  },
+  {
+    "status": "success",
+    "timestamp": "2026-09-04 15:20 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "霓虹軌道上的疾風",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_1520_UTC.webp",
+    "number": 3255
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_1839_UTC.webp",
+    "number": 3256,
+    "timestamp": "2026-09-04 18:39 UTC",
+    "title": "窖藏歲月的拂觸",
+    "inspiration": "丹麥一名屋主在自家後院進行園藝挖掘時，意外挖出該國歷史上規模最大的維京時代銀器寶藏。"
+  },
+  {
+    "inspiration": "original",
+    "character": "mochi",
+    "status": "success",
+    "timestamp": "2026-09-04 21:07 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_2107_UTC.webp",
+    "number": 3257,
+    "title": "深夜蒸籠旁的嗅覺巡禮",
+    "character_name": "麻糬"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-04_2331_UTC.webp",
+    "inspiration": "瑞士蘇黎世舉辦了搞笑諾貝爾獎頒獎典禮，科學家們因研究演化吻史及埋葬上千條內褲觀察土壤分解等奇特實驗而獲得殊榮。",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "青苔與土壤的微觀考察",
+    "number": 3258,
+    "timestamp": "2026-09-04 23:31 UTC"
+  },
+  {
+    "number": 3259,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-05 01:48 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_0148_UTC.webp",
+    "is_seasonal": true,
+    "season": "autumn",
+    "inspiration": "original",
+    "title": "夕照燈塔下的秋海巡航",
+    "character": "captain",
+    "status": "success",
+    "character_name": "船長"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_0627_UTC.webp",
+    "inspiration": "美國科羅拉多州桑頓市（Thornton）啟用了全美第一座「大自然圖書館」，館內不僅全面採用太陽能發電，還提供賞鳥工具包與雪鞋供民眾借閱探索戶外。",
+    "character_name": "墨墨",
+    "number": 3260,
+    "title": "拱頂下的日光藍圖",
+    "timestamp": "2026-09-05 06:27 UTC",
+    "character": "momo",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "number": 3261,
+    "status": "success",
+    "character": "lingling",
+    "inspiration": "original",
+    "title": "紅金花庭鈴響追蝶",
+    "timestamp": "2026-09-05 11:00 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_1100_UTC.webp",
+    "character_name": "鈴鈴"
+  },
+  {
+    "inspiration": "埃及推動太陽能農業試點計畫，農夫在覆蓋太陽能板的農田下種植作物，既能產生綠電，又能為農作物遮蔭省水。",
+    "timestamp": "2026-09-05 13:43 UTC",
+    "number": 3262,
+    "status": "success",
+    "title": "光電網下的水珠遊戲",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_1343_UTC.webp"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3263,
+    "timestamp": "2026-09-05 16:21 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_1621_UTC.webp",
+    "title": "鑄鐵心臟與毛絨之爪",
+    "inspiration": "original",
+    "status": "success"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "澳洲墨爾本舉辦了一年一度的趣味「柯基犬短跑障礙賽」，上百隻盛裝打扮的短腿萌犬在草地上奔馳，為社區募集了豐厚的動物救援基金。",
+    "number": 3264,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_1839_UTC.webp",
+    "timestamp": "2026-09-05 18:39 UTC",
+    "status": "success",
+    "title": "草地上的緋紅疾航"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_2047_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-05 20:47 UTC",
+    "inspiration": "科學家在哥斯大黎加太平洋深海山脈發現一種會發光的「黃金珊瑚」，由於基因與結構極為獨特，特別為其創立了全新的科別 classification。",
+    "title": "深海浮島的黃金微光",
+    "number": 3265,
+    "status": "success"
+  },
+  {
+    "status": "success",
+    "number": 3266,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-05_2226_UTC.webp",
+    "timestamp": "2026-09-05 22:26 UTC",
+    "title": "泥痕裡的維京古銀",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "丹麥哥本哈根：一名屋主在自家後院進行挖掘打理時，意外地挖掘出丹麥歷史上規模最大的維京時代銀器寶藏。"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_0020_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "玻璃罐裡的深海巡遊",
+    "number": 3267,
+    "status": "success",
+    "timestamp": "2026-09-06 00:20 UTC",
+    "inspiration": "英國惠特比外海相隔約六十年後再度迎來大西洋藍鰭金槍魚的集體回歸，研究團隊已展開標記追蹤以協助海洋保育。"
+  },
+  {
+    "character": "mochi",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_0515_UTC.webp",
+    "character_name": "麻糬",
+    "title": "雪巷肉香探微",
+    "timestamp": "2026-09-06 05:15 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3268,
+    "status": "success"
+  },
+  {
+    "title": "燈塔與歲月",
+    "status": "success",
+    "timestamp": "2026-09-06 09:50 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_0950_UTC.webp",
+    "inspiration": "original",
+    "number": 3269,
+    "character_name": "船長",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "captain"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_1315_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3270,
+    "timestamp": "2026-09-06 13:15 UTC",
+    "title": "霓光苔痕下的夜曲",
+    "status": "success",
+    "character": "momo",
+    "character_name": "墨墨",
+    "inspiration": "original"
+  },
+  {
+    "number": 3271,
+    "title": "陽光下的烈紅秩序",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_1632_UTC.webp",
+    "inspiration": "original",
+    "timestamp": "2026-09-06 16:32 UTC"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "title": "驚起漫天紙葉時",
+    "season": "autumn",
+    "timestamp": "2026-09-06 18:43 UTC",
+    "is_seasonal": true,
+    "character_name": "鈴鈴",
+    "character": "lingling",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_1843_UTC.webp",
+    "status": "success",
+    "number": 3272
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-06 20:55 UTC",
+    "status": "success",
+    "inspiration": "秘魯庫斯科地區的安地斯山村民依照古印加傳統工法，合力以編織草繩完成一年一度的歷史吊橋換新儀式。",
+    "number": 3273,
+    "title": "翠谷新橋試繩記",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_2055_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-06_2232_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "timestamp": "2026-09-06 22:32 UTC",
+    "title": "黑金夜色下的奢華特調",
+    "inspiration": "original",
+    "number": 3274
+  },
+  {
+    "number": 3275,
+    "status": "success",
+    "timestamp": "2026-09-07 00:27 UTC",
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "莓果塔上的微甜時光",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-07_0027_UTC.webp"
+  },
+  {
+    "timestamp": "2026-09-07 05:24 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-07_0524_UTC.webp",
+    "number": 3276,
+    "status": "success",
+    "character": "mochi",
+    "title": "暖爐邊的花生麻糬",
+    "season": "autumn",
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-07_1056_UTC.webp",
+    "status": "success",
+    "inspiration": "德國布爾格辛的一家超市遭到了大約 50 只羊群的突襲闖入，牠們在貨架間漫步並弄翻商品，讓員工忙著清空走道與驅趕。",
+    "number": 3277,
+    "timestamp": "2026-09-07 10:56 UTC",
+    "title": "翠市巡芳踏雪圖",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "title": "微縮燈塔下的守候",
+    "inspiration": "original",
+    "status": "success",
+    "character": "captain",
+    "number": 3278,
+    "timestamp": "2026-09-07 16:13 UTC",
+    "character_name": "船長",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-07_1613_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-07_2015_UTC.webp",
+    "number": 3279,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-07 20:15 UTC",
+    "inspiration": "original",
+    "status": "success",
+    "title": "千禧霓浪貓吟唱"
+  },
+  {
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-07_2307_UTC.webp",
+    "is_seasonal": true,
+    "number": 3280,
+    "inspiration": "智利阿塔卡馬沙漠受罕見氣候條件影響，再次綻放成片絢麗的紫色花海，形成令人驚嘆的自然奇景。",
+    "character": "lingling",
+    "season": "autumn",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-07 23:07 UTC",
+    "title": "月夜花海裡的叮鈴舞步",
+    "status": "success"
+  },
+  {
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3281,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_0151_UTC.webp",
+    "season": "autumn",
+    "status": "success",
+    "is_seasonal": true,
+    "inspiration": "在美國科羅拉多州桑頓，全美首座「自然圖書館」正式開幕，民眾除了借閱書籍外，還能免費借用賞鳥工具包與雪鞋等戶外裝備。",
+    "character_name": "墨墨",
+    "timestamp": "2026-09-08 01:51 UTC",
+    "character": "momo",
+    "title": "幽光秋葉下的黑夜說書人"
+  },
+  {
+    "character": "mochi",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-08 06:41 UTC",
+    "title": "深夜市場的秘密巡邏",
+    "inspiration": "original",
+    "number": 3282,
+    "status": "success",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_0641_UTC.webp"
+  },
+  {
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "number": 3283,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_1151_UTC.webp",
+    "timestamp": "2026-09-08 11:51 UTC",
+    "title": "翠竹陶韻伴貓凝"
+  },
+  {
+    "inspiration": "美國科羅拉多州桑頓市啟用全美首座「自然圖書館」，提供民眾借閱賞鳥套組與雪鞋等戶外裝備。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-08 15:34 UTC",
+    "title": "線軸與望遠鏡的輪轉",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_1534_UTC.webp",
+    "number": 3284,
+    "status": "success"
+  },
+  {
+    "title": "極夜果香展覽誌",
+    "number": 3285,
+    "inspiration": "冰島雷克雅維克：科學團隊在南部地熱溫室成功試種出高緯度熱帶芒果，為極地永續農業發展創下全新里程碑。",
+    "timestamp": "2026-09-08 19:06 UTC",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_1906_UTC.webp"
+  },
+  {
+    "inspiration": "法國巴黎羅浮宮前廣場聚集了數百名麵包師傅，成功合力烘烤出一條打破世界紀錄的超長法式長棍麵包。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-08_2207_UTC.webp",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-08 22:07 UTC",
+    "title": "月夜下的長棍遞迴",
+    "number": 3286
+  },
+  {
+    "title": "琥珀花語中的躍動鈴音",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_0048_UTC.webp",
+    "character_name": "鈴鈴",
+    "character": "lingling",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-09 00:48 UTC",
+    "number": 3287,
+    "inspiration": "original"
+  },
+  {
+    "timestamp": "2026-09-09 05:29 UTC",
+    "status": "failed",
+    "number": null,
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno 111] Connection refused>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: All connection attempts failed",
+    "url": null,
+    "model": "all failed"
+  },
+  {
+    "character": "momo",
+    "inspiration": "original",
+    "number": 3289,
+    "season": "autumn",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_1017_UTC.webp",
+    "is_seasonal": true,
+    "title": "楓香幾何裡的墨影",
+    "timestamp": "2026-09-09 10:17 UTC"
+  },
+  {
+    "inspiration": "original",
+    "number": 3290,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "螢光印記下的打字者",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_1452_UTC.webp",
+    "timestamp": "2026-09-09 14:52 UTC"
+  },
+  {
+    "character": "captain",
+    "season": "autumn",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-09 18:07 UTC",
+    "inspiration": "original",
+    "character_name": "船長",
+    "status": "success",
+    "number": 3291,
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_1807_UTC.webp",
+    "title": "燈塔夕照下的楓葉"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_2120_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3292,
+    "timestamp": "2026-09-09 21:20 UTC",
+    "title": "藍調水城邊緣的捉影者",
+    "status": "success",
+    "inspiration": "義大利威尼斯在傳統運河歷史划船節期間亮相全新修復的古老貢多拉船隊，水手們身穿傳統服飾重現中世紀的水上盛況。"
+  },
+  {
+    "status": "success",
+    "number": 3293,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "秋色打版桌上的線影",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-09_2338_UTC.webp",
+    "timestamp": "2026-09-09 23:38 UTC"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_0154_UTC.webp",
+    "inspiration": "original",
+    "status": "success",
+    "number": 3294,
+    "title": "玻璃溫室裡的木紋機關",
+    "timestamp": "2026-09-10 01:54 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "title": "月夜齒輪下的星軌",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_0647_UTC.webp",
+    "timestamp": "2026-09-10 06:47 UTC",
+    "inspiration": "original",
+    "number": 3295
+  },
+  {
+    "timestamp": "2026-09-10 11:56 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_1156_UTC.webp",
+    "title": "陽下溪邊弄茶香",
+    "status": "success",
+    "number": 3296,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original"
+  },
+  {
+    "character": "lingling",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "鈴鈴",
+    "number": 3297,
+    "is_seasonal": true,
+    "title": "玻璃瓶裡的秋日叮噹",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_1532_UTC.webp",
+    "timestamp": "2026-09-10 15:32 UTC",
+    "season": "autumn"
+  },
+  {
+    "timestamp": "2026-09-10 18:47 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_1847_UTC.webp",
+    "character": "momo",
+    "season": "autumn",
+    "number": 3298,
+    "inspiration": "original",
+    "is_seasonal": true,
+    "title": "點彩秋光裡的書香",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "character_name": "墨墨"
+  },
+  {
+    "number": 3299,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "title": "展場角落的烤番薯香",
+    "timestamp": "2026-09-10 21:17 UTC",
+    "season": "autumn",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_2117_UTC.webp"
+  },
+  {
+    "title": "螢光法老的貓咪巡禮",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-10_2331_UTC.webp",
+    "status": "success",
+    "inspiration": "埃及路克索（Luxor）：考古學家在清理清理防洪積石時，意外發現一座擁有3,000年歷史且保存完好的古埃及墓穴，壁畫精美如初。",
+    "number": 3300,
+    "timestamp": "2026-09-10 23:31 UTC"
+  },
+  {
+    "number": 3301,
+    "timestamp": "2026-09-11 01:52 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-11_0152_UTC.webp",
+    "status": "success",
+    "title": "溫室微光中的播種時光",
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-11_0646_UTC.webp",
+    "timestamp": "2026-09-11 06:46 UTC",
+    "inspiration": "在美國加州，研究人員利用可愛的「風車噴射器」進行趣味實驗，成功解開了困擾物理學界數十年的「費曼噴水池」旋轉謎題。",
+    "number": 3302,
+    "title": "水花與旋轉的夜色",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "timestamp": "2026-09-11 11:55 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3303,
+    "title": "水都夜光下的航向",
+    "status": "success",
+    "character_name": "船長",
+    "character": "captain",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-11_1155_UTC.webp",
+    "inspiration": "義大利威尼斯正式啟動歷史運河夜間燈光藝術季，以柔和投影與水面倒影打造出如夢似幻的浪漫水都漫遊體驗。"
+  },
+  {
+    "timestamp": "2026-09-11 15:26 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-11_1526_UTC.webp",
+    "inspiration": "original",
+    "title": "雪夜裡的緋紅詠嘆調",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3304
+  },
+  {
+    "timestamp": "2026-09-11 18:50 UTC",
+    "title": "面具下的晶螢追逐",
+    "inspiration": "original",
+    "number": 3305,
+    "character_name": "鈴鈴",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-11_1850_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "character": "lingling"
+  },
+  {
+    "inspiration": "泰國（Thailand）植物學家在通帕蓬國家公園發現了一種極為罕見、外觀如神秘黑魔鬼且完全生活在地下與蕈類共生的無葉開花新植物「魔鬼燈籠花」（Thismia daemona）。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-11_2125_UTC.webp",
+    "character_name": "墨墨",
+    "character": "momo",
+    "number": 3306,
+    "status": "success",
+    "title": "水鏡暗花紅金影",
+    "timestamp": "2026-09-11 21:25 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
