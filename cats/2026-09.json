@@ -2356,5 +2356,32 @@
       "color_palette": "Neon Fluorescent"
     },
     "story": "剛出土的古老法老墓穴中，斑駁的石牆在閃光燈直射下爆發出炫目的螢光色彩。這隻探險貓踏著輕盈的貓步，好奇地用鼻子湊近千年前的壁畫細節，將歷史的色彩收進牠閃爍的眼中。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "晨光透過溫室的玻璃窗灑落，空氣中彌漫著濕潤泥土與幼苗的清香。貓咪優雅地趴在播種機旁，好奇地盯著剛漏出的植物種子，偶爾伸出鼻子湊近嗅聞。在這個安靜的清晨，它陪伴著園丁開啟了一整天的播種工作。",
+    "news_inspiration": [],
+    "comment_id": 5628247984,
+    "prompt": "A cyanotype print with Prussian blue monochrome tones and sun-exposed blueprint aesthetics, rendered in soft pastel color palette with gentle pink, lavender, mint, and baby blue overtones. Soft-focus matte haze and low-contrast ethereal finish with a dreamy diffused blur. Full-body vertical portrait, tall frame with head-to-toe framing, entire cat centered in a balanced composition. A cat is resting on a wooden table inside a glass greenhouse, playfully rubbing its hind leg against an antique hand-cranked seeder machine. Soft diffused natural light creates an even illumination without harsh shadows. In the corner of the image, the date and time '2026-09-11 01:52 UTC' is clearly visually displayed in crisp text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3301,
+    "title": "溫室微光中的播種時光",
+    "inspiration": "original",
+    "avoid_list": [
+      "前爪伸出與互動動作",
+      "黑光螢光與黑光燈照明",
+      "青橙與藍青色調配色",
+      "相框與雙重曝光多層次構圖",
+      "微縮模型與玻璃容器置入",
+      "金箔潑點與珠飾鑲嵌肌理",
+      "古絹質感與古老紋理材質",
+      "秋日楓葉與琥珀色主題"
+    ],
+    "idea": "採用藍曬法風格與全身居中直幅構圖，貓咪正趴在玻璃溫室的木桌上用後腿蹭著一台古董手搖播種機，畫面籠罩在自然漫射光與柔焦霧面的粉彩色調中。"
   }
 ]
