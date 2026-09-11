@@ -1061,6 +1061,26 @@
       "prompt": "luminous nocturnal landscape illustration, glowing lights scattered across a quiet night scene, romantic starry sky above deep blue gradients, soft ambient bloom, healing peaceful storybook mood"
     },
     {
+      "zh": "繁飾水彩Q版娃娃插畫",
+      "en": "Ornate Watercolor Chibi Doll Illustration",
+      "prompt": "ornate watercolor chibi doll illustration, big-headed doll-like character in lavishly decorated costume, delicate transparent washes, intricate lace ribbons and floral trims, sweet Victorian fairytale charm"
+    },
+    {
+      "zh": "軍裝少女插畫",
+      "en": "Military Uniform Girl Illustration",
+      "prompt": "military uniform girl illustration, anime girl in ornate tailored military uniform, epaulettes braided cords and brass buttons, poised gallant stance, detailed regalia, polished character art"
+    },
+    {
+      "zh": "膠彩蓮池美人",
+      "en": "Nihonga Lotus Pond Beauty",
+      "prompt": "nihonga mineral-pigment painting, graceful beauty among a blooming lotus pond, flat layered opaque pigments, gold and malachite accents, serene classical East Asian elegance"
+    },
+    {
+      "zh": "粉彩生物形態幻獸",
+      "en": "Pastel Biomorphic Fantasy Creature",
+      "prompt": "pastel biomorphic fantasy creature, soft organic flowing forms, dreamy candy-toned gradients, whimsical otherworldly being, smooth sculptural rendering, gentle surreal charm"
+    },
+    {
       "zh": "希臘女神厚塗插畫",
       "en": "Classical Greek Goddess Painterly Illustration",
       "prompt": "classical Greek goddess painterly illustration, thick-paint rendering of a mythic figure in flowing chiton drapery, laurel wreath and gold ornaments, marble-toned skin against a stormy sky, heroic idealized beauty, rich impasto brushwork"
@@ -1296,6 +1316,11 @@
       "zh": "古地圖星圖疊底構圖",
       "en": "Antique Map and Star-Chart Underlay",
       "prompt": "antique map and star-chart underlay composition, subject layered over aged cartography and constellation diagrams, translucent parchment overlay, scholarly collage backdrop"
+    },
+    {
+      "zh": "花簇環繞構圖",
+      "en": "Encircled-by-Blossoms Composition",
+      "prompt": "encircled-by-blossoms composition, subject framed on all sides by dense flower clusters, lush floral wreath border, blooms pressing into the frame, romantic botanical surround"
     }
   ],
   "lighting": [
@@ -1827,6 +1852,11 @@
       "zh": "青花藍白",
       "en": "Porcelain Blue and White",
       "prompt": "porcelain blue and white palette, cobalt indigo brushwork on a clean white ground, crisp two-tone oriental elegance, calm scholarly restraint"
+    },
+    {
+      "zh": "靛藍緋紅白",
+      "en": "Navy Crimson and White",
+      "prompt": "navy, crimson and white palette, deep indigo grounds with vivid crimson accents and crisp white highlights, bold tricolor contrast, striking graphic harmony"
     }
   ]
 }
