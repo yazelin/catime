@@ -1124,6 +1124,16 @@
       "zh": "韓服復古海報插畫",
       "en": "Retro Hanbok Poster Illustration",
       "prompt": "retro hanbok poster illustration, Korean beauty in jeogori and full chima with sweeping silhouette, vintage print texture and typographic border, muted nostalgic palette, refined traditional Korean elegance"
+    },
+    {
+      "zh": "幾何水彩拼貼人像",
+      "en": "Geometric Watercolor Collage Portrait",
+      "prompt": "geometric watercolor collage portrait, face assembled from angular torn-paper planes and translucent pigment washes, overlapping abstract shapes with visible edges, loose bleeding color blocks, contemporary mixed-media poster feel"
+    },
+    {
+      "zh": "紙雕花境仙裙人像",
+      "en": "Paper-Sculpture Floral Gown Portrait",
+      "prompt": "paper-sculpture floral gown portrait, figure wearing a couture dress built from hand-cut paper blossoms, layered petal reliefs surrounding her, matte textured cardstock craft, soft studio light, ethereal handmade elegance"
     }
   ],
   "composition": [
@@ -1907,6 +1917,21 @@
       "zh": "緋紅冰藍",
       "en": "Crimson and Ice Blue",
       "prompt": "crimson and ice-blue palette, hot scarlet clashing against cold pale blue, high-tension complementary contrast, striking dual-tone drama"
+    },
+    {
+      "zh": "薰衣草紫粉",
+      "en": "Lavender and Pink",
+      "prompt": "lavender and pink palette, soft violet dominance with warm blush accents, gentle lilac gradients, dreamy romantic softness"
+    },
+    {
+      "zh": "橘紫互補色",
+      "en": "Orange and Violet Complementary",
+      "prompt": "orange and violet complementary palette, vivid warm orange against deep purple, bold dual-tone contrast, striking graphic energy"
+    },
+    {
+      "zh": "珊瑚粉靛藍",
+      "en": "Coral Pink and Prussian Blue",
+      "prompt": "coral pink and Prussian blue palette, warm salmon tones against deep inky blue, rich complementary depth, elegant editorial contrast"
     }
   ]
 }
