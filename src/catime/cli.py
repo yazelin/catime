@@ -7,6 +7,8 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+import httpx
+
 from catime.utils.http import safe_get_json
 
 # Data files are served by GitHub Pages (no anonymous rate limit);
@@ -31,8 +33,8 @@ def _fetch_json_with_fallback(pages_url: str, raw_url: str):
         result = safe_get_json(pages_url, timeout=10.0, max_retries=1, follow_redirects=True)
         if result is not None:
             return result
-    except Exception:
-        pass
+    except httpx.HTTPError:
+        pass  # Pages 掛了就換 raw,其他型別的錯照樣往上丟
     return safe_get_json(raw_url, timeout=10.0, max_retries=3, follow_redirects=True)
 
 
@@ -60,8 +62,9 @@ def fetch_detail(month: str, *, repo: str = DEFAULT_REPO, local: bool = False) -
             )
             if result is not None:
                 details = result
-        except Exception:
-            pass
+        except httpx.HTTPError as e:
+            # 抓不到月檔只是少了故事,不該讓整個指令死掉,但要講出來
+            print(f"Warning: failed to fetch details for {month}: {e}", file=sys.stderr)
     _detail_cache[month] = details
     return details
 

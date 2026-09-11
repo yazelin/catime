@@ -19,7 +19,7 @@ def safe_get_json(
             response.raise_for_status()
             try:
                 return response.json()
-            except Exception:
+            except ValueError:  # 回應不是 JSON,依 docstring 回 None
                 return None
         except (httpx.TimeoutException, httpx.HTTPError):
             if attempt == max_retries - 1:
