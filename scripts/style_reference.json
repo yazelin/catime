@@ -1039,6 +1039,26 @@
       "zh": "大地藝術",
       "en": "Land Art",
       "prompt": "land art installation, site-specific earthwork of arranged stones, sand and natural materials, vast open landscape setting, ephemeral geometric pattern on the ground, documentary wide shot"
+    },
+    {
+      "zh": "寫實武俠角色設計",
+      "en": "Photorealistic Wuxia Character Design",
+      "prompt": "photorealistic wuxia character design, martial hero in weathered ancient Chinese robes, sword and battle-worn leather details, gritty jianghu atmosphere, cinematic full-body concept render with fine material detail"
+    },
+    {
+      "zh": "花卉融合人像插畫",
+      "en": "Floral-Fused Portrait Illustration",
+      "prompt": "floral-fused portrait illustration, face and hair dissolving into blooming petals and leaves, botanical growth merging seamlessly with the figure, delicate painterly render, surreal romantic beauty"
+    },
+    {
+      "zh": "星河水彩美男插畫",
+      "en": "Galaxy Watercolor Bishounen Illustration",
+      "prompt": "galaxy watercolor bishounen illustration, refined young man rendered in flowing translucent washes, cosmic nebula hues bleeding through hair and robes, scattered starlight specks, dreamy ethereal anime portrait"
+    },
+    {
+      "zh": "夜光療癒風景插畫",
+      "en": "Luminous Nocturnal Landscape Illustration",
+      "prompt": "luminous nocturnal landscape illustration, glowing lights scattered across a quiet night scene, romantic starry sky above deep blue gradients, soft ambient bloom, healing peaceful storybook mood"
     }
   ],
   "composition": [
@@ -1665,6 +1685,11 @@
       "zh": "細密點刻肌理",
       "en": "Stippled Dot Texture",
       "prompt": "stippled dot texture, dense hand-inked stipple shading, fine engraved dot clusters building tone, meticulous pen-and-ink grain"
+    },
+    {
+      "zh": "星雲星塵肌理",
+      "en": "Nebula Stardust Texture",
+      "prompt": "nebula stardust texture, swirling cosmic clouds of violet and deep blue pigment, scattered white star specks, galactic shimmer suffusing the surface, dreamy deep-space material"
     }
   ],
   "color_palette": [
@@ -1767,6 +1792,11 @@
       "zh": "象牙描金",
       "en": "Ivory and Gold",
       "prompt": "ivory and gold palette, creamy off-white base with soft metallic gilding, gentle warm luminance, understated luxurious elegance"
+    },
+    {
+      "zh": "青花藍白",
+      "en": "Porcelain Blue and White",
+      "prompt": "porcelain blue and white palette, cobalt indigo brushwork on a clean white ground, crisp two-tone oriental elegance, calm scholarly restraint"
     }
   ]
 }
