@@ -1009,6 +1009,36 @@
       "zh": "斑駁金箔花卉混媒",
       "en": "Distressed Gold-Leaf Floral Mixed-Media",
       "prompt": "distressed gold-leaf floral mixed-media, mottled metallic gilding over painted blossoms, layered collage with weathered patina and cracked foil, ornate decorative artwork, opulent textured surface"
+    },
+    {
+      "zh": "大正浪漫繁花插畫",
+      "en": "Taisho Roman Floral Illustration",
+      "prompt": "Taisho-era Japanese romantic illustration, girl in kimono and hakama among dense blossoms, Art Nouveau ornamental curves, retro muted print colors, wistful nostalgic elegance"
+    },
+    {
+      "zh": "和風花蝶裝飾紋樣",
+      "en": "Japanese Floral-and-Butterfly Motif",
+      "prompt": "Japanese wagara decorative motif, stylized blossoms and butterflies in repeating ornamental arrangement, flat traditional palette with gilt accents, kimono-textile patterning, refined symmetrical craft feel"
+    },
+    {
+      "zh": "海濱高訂時尚寫真",
+      "en": "Seaside Couture Fashion Portrait",
+      "prompt": "seaside couture fashion portrait, model in flowing haute-couture gown on the shoreline, wind-swept fabric against ocean and sky, natural coastal light, high-end editorial glamour"
+    },
+    {
+      "zh": "編織纖維壁掛藝術",
+      "en": "Woven Fiber Wall Hanging",
+      "prompt": "woven fiber wall hanging art, hand-loomed yarn and macrame knots, layered tapestry fringe and raw natural threads, earthy artisanal textile, soft gallery wall lighting"
+    },
+    {
+      "zh": "描金掐絲琉璃人像",
+      "en": "Cloisonne Gilded Enamel Portrait",
+      "prompt": "cloisonne gilded enamel portrait, figure outlined in fine gold wire filigree, jewel-toned translucent enamel fills, lustrous lacquered surface, opulent oriental metalcraft"
+    },
+    {
+      "zh": "大地藝術",
+      "en": "Land Art",
+      "prompt": "land art installation, site-specific earthwork of arranged stones, sand and natural materials, vast open landscape setting, ephemeral geometric pattern on the ground, documentary wide shot"
     }
   ],
   "composition": [
@@ -1216,6 +1246,16 @@
       "zh": "玻璃容器置入構圖",
       "en": "Inside-the-Glass-Vessel Composition",
       "prompt": "inside-the-glass-vessel composition, tiny subject staged within a transparent jar or bottle, contained miniature world framing, refractive glass border"
+    },
+    {
+      "zh": "油紙傘背景框構圖",
+      "en": "Paper Parasol Backdrop Frame",
+      "prompt": "paper parasol backdrop framing, oiled-paper umbrella opened behind the subject as a radiating halo, ribbed circular backdrop, oriental portrait staging"
+    },
+    {
+      "zh": "古地圖星圖疊底構圖",
+      "en": "Antique Map and Star-Chart Underlay",
+      "prompt": "antique map and star-chart underlay composition, subject layered over aged cartography and constellation diagrams, translucent parchment overlay, scholarly collage backdrop"
     }
   ],
   "lighting": [
@@ -1620,6 +1660,11 @@
       "zh": "發光絲流",
       "en": "Glowing Filament Flow",
       "prompt": "glowing filament flow texture, luminous threads streaming across the surface, radiant light strands, soft neon glow trails, ethereal energy filaments"
+    },
+    {
+      "zh": "細密點刻肌理",
+      "en": "Stippled Dot Texture",
+      "prompt": "stippled dot texture, dense hand-inked stipple shading, fine engraved dot clusters building tone, meticulous pen-and-ink grain"
     }
   ],
   "color_palette": [
@@ -1717,6 +1762,11 @@
       "zh": "藍黃互補色",
       "en": "Blue and Yellow Complementary",
       "prompt": "blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy, striking graphic vibrancy"
+    },
+    {
+      "zh": "象牙描金",
+      "en": "Ivory and Gold",
+      "prompt": "ivory and gold palette, creamy off-white base with soft metallic gilding, gentle warm luminance, understated luxurious elegance"
     }
   ]
 }
