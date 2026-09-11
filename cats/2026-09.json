@@ -2476,5 +2476,38 @@
     "story": "狂風暴雪席捲了荒涼的哥德式廣場，黑貓以靈巧的四爪撫過覆蓋著冰霜的黑色琴鍵，奏響沉寂已久的樂章。暴風雪的朦朧霧氣與緋紅色的充氣PVC光澤交織，在廣袤的負空間中獨自上演著一場壯麗的巴洛克交響曲。",
     "prompt": "Baroque art style oil painting, a small black cat wearing a crimson inflatable PVC protective coat with a high-gloss balloon-like surface and puffy rounded forms, bowing its head to carefully press the keys of a giant piano in a desolate Gothic square. Negative space composition with a small subject in expansive emptiness, off-center placement, calm uncluttered framing. Snowstorm atmospheric lighting, heavy falling snow veil, fogged distance, cold blue-white palette contrasted with a deep blood-red and jet black palette, dramatic chiaroscuro, deep shadows and golden highlights, dramatic high-contrast intensity, seductive sinister mood, painterly weather mood. The text '2026-09-11 15:26 UTC' is subtly displayed in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 3304
+  },
+  {
+    "title": "面具下的晶螢追逐",
+    "style_picks": {
+      "art_style": "Japanese Yokai Mask Illustration",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 5639223677,
+    "inspiration": "original",
+    "number": 3305,
+    "news_inspiration": [],
+    "character_name": "鈴鈴",
+    "prompt": "A monochrome black and white head-and-shoulders close-up portrait of Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur, a small round face, huge round sapphire-blue eyes, a pale pink nose, and a pink bow collar with a centered golden bell beneath the knot. The cat wears a small Japanese fox yokai mask on her head and recoils back playfully in a shrine garden, reacting to glowing sparkling dust motes catching the light in front of her. Sculpted clay and handmade ceramic texture with matte surface and subtle imperfections, inspired by Japanese folkloric illustration and bold ukiyo-style linework. Eerie yet playful mood with dramatic volumetric lighting, god rays through the atmosphere, high contrast, rich tonal range, deep shadows, and bright highlights. The date and time '2026-09-11 18:50 UTC' is visually displayed in clean white text in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "lingling",
+    "idea": "採用和風妖怪面具插畫風格，在黑白黏土陶瓷質感下，捕捉白貓鈴鈴頭戴狐狸面具、於神社花園中追逐亮晶晶光點的頭肩特寫。",
+    "story": "鈴鈴好奇地戴上花園角落的小狐狸面具，微弱的體積光照亮了她蓬鬆如綿羊般的陶土毛髮。當她注意到面具前飄過的晶亮花粉時，瞬間嚇得往後彈了一下，脖子上的粉紅鈴鐺發出清脆響聲。",
+    "avoid_list": [
+      "角落呈現時間戳記",
+      "繁體中文或英文文字限制",
+      "黑光燈螢光色彩",
+      "前爪撥弄物體",
+      "舊物或古老器具互動",
+      "高對比電影或戲劇感色彩",
+      "低角度仰視構圖",
+      "古風或傳統質感材質",
+      "微距或極致光影細節",
+      "夢幻柔焦與漫射光照",
+      "邊框或窗框構圖",
+      "特定文字排版要求"
+    ]
   }
 ]
