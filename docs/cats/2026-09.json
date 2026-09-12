@@ -2799,5 +2799,41 @@
     "comment_id": 5648284457,
     "inspiration": "original",
     "character": "lingling"
+  },
+  {
+    "inspiration": "印度班加羅爾舉辦了首場《柏捷頓家族》主題舞會，吸引大量民眾穿著攝政時代服飾體驗宮廷社交舞蹈。",
+    "idea": "採用夢幻商品攝影風格，在充滿琥珀色與秋日暖色調的古董店視角中，透過對角線構圖呈現純黑貓咪墨墨坐在鏤空鑄鐵架高台上俯瞰的畫面。",
+    "character": "momo",
+    "avoid_list": [
+      "繁體中文/正體字與英文文字限制規範",
+      "右上角/角落顯示視覺時間戳記",
+      "緋紅與冰藍/烏黑高對比配色",
+      "漫射光與柔焦霧面夢幻質感",
+      "極簡/大面積留白負空間構圖",
+      "古董/復古機械與貓咪互動",
+      "多格漫畫/幾何拼貼分割畫面",
+      "水下焦散與水面光束折射",
+      "立體紋理/陶瓷黏土質感細節",
+      "極低角度仰視與俯視空拍角度"
+    ],
+    "title": "琥珀光裡的宮廷黑影",
+    "prompt": "A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, warm brown undertones, a small gold hoop earring on the left ear, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring at the tail tip, and large luminous golden-amber eyes. The cat is sitting on a high, ornate wrought iron filigree shelf, looking down with a calm and attentive expression. Below, an antique shop interior features an autumn palette with warm amber color grading, golden yellows, and burnt orange, displaying Regency-era court garments and accessories. Dreamy product photography style, diagonal composition with dynamic slanted lines, backlighting with rim light, glowing silhouette edges, glossy reflections, and floating props. The timestamp 2026-09-12 21:47 UTC is visually displayed in the image using Traditional Chinese characters and numbers. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5648919387,
+    "character_name": "墨墨",
+    "story": "墨墨輕盈地伏在古董店最高處的鑄鐵雕花架上，金琥珀色的雙眼在背光與輪廓光的映照下猶如閃爍寶石。下方的陳列台上靜靜展示著印度班加羅爾剛舉辦完《柏捷頓家族》舞會後空運前來的攝政時代宮廷服飾與優雅配件。墨墨維持著一貫的優雅與傲嬌，白鬍鬚在光影間抖動，宛如這座復古社交殿堂中最尊貴的黑夜守護者。",
+    "style_picks": {
+      "art_style": "Dreamy Product Photography",
+      "composition": "Diagonal Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 3314,
+    "news_inspiration": [
+      "美國古生物學家在北達科他州荒地發現了全球首個完全成年的霸王龍腳印化學蹤跡，提供寶貴的恐龍步態數據。",
+      "蒙古總統在公開活動中脫下外套並現場進行 100 公斤臥推，突顯活力形象並在網路引發熱烈討論。",
+      "英國牛津大學阿什莫林博物館正式同意歸還昔日掠奪的文物遺骨，讓那加族人於印度順利迎回祖先遺骸。",
+      "印度班加羅爾舉辦了首場《柏捷頓家族》主題舞會，吸引大量民眾穿著攝政時代服飾體驗宮廷社交舞蹈。"
+    ]
   }
 ]
