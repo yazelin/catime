@@ -2659,5 +2659,34 @@
       "特定文字排版要求"
     ],
     "title": "深海齒輪間的伸援"
+  },
+  {
+    "style_picks": {
+      "art_style": "Long Exposure Photography",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Three-Point Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "A candid long exposure photo of a calico cat actively slapping and playing with a garden sprinkler nozzle wrapped in tangled wire mesh, captured in a warm, cozy greenhouse. Motion blur creates light trails and silky smooth water trajectories around the cat's busy paws as water droplets splash through the wire grid. The composition is a full-bleed frame-filling close-up shot cropped tightly to the edges with dense edge-to-edge detail. Classic three-point lighting features a key light casting soft shadows, gentle fill light, and subtle rim light separating the subject from the background. Soft pastel tones with gentle pink, lavender, mint, and baby blue hues. Shot on a 35mm lens, f/2.8, shutter speed 1/2s, shallow depth of field. Displayed clearly in the corner is the timestamp '2026-09-12 11:21 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "水花與微光的交織",
+    "inspiration": "original",
+    "number": 3310,
+    "story": "主光、補光與輪廓光交織的三點打光完美勾勒出貓咪專注的側影，柔和的粉彩色彩讓流動的光軌呈現如夢似幻的質感。水珠在網格間飛濺迸發，記錄下這隻好奇小貓與庭園設施展開歡樂拉鋸戰的動態瞬間。",
+    "idea": "在溫馨滿版特寫的家庭溫室角落，一隻三花貓雙爪正頻繁撲捉並玩弄被鐵絲網纏繞的噴水器噴頭，透過長曝光攝影捕捉下水花與貓爪交織的動態軌跡。",
+    "avoid_list": [
+      "繁體中文/正體字與英文文字限制規範",
+      "右上角/角落顯示視覺時間戳記",
+      "緋紅與冰藍/烏黑高對比配色",
+      "漫射光與柔焦霧面夢幻質感",
+      "極簡/大面積留白負空間構圖",
+      "古董/復古機械與貓咪互動",
+      "多格漫畫/幾何拼貼分割畫面",
+      "水下焦散與水面光束折射",
+      "立體紋理/陶瓷黏土質感細節",
+      "極低角度仰視與俯視空拍角度"
+    ],
+    "comment_id": 5645583877,
+    "news_inspiration": []
   }
 ]
