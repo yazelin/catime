@@ -2583,5 +2583,45 @@
     ],
     "inspiration": "匈牙利：布達佩斯舉辦全新頂尖田徑賽事，引進發光標槍與擴增實境（AR）實時數據等創新科技，為運動賽事帶來新體驗。",
     "prompt": "Illustrated storybook page layout inspired by De Stijl neoplasticism and shoujo manga narrative flow, featuring a playful cat inside a modern Budapest track stadium styled as a geometric showroom. Multiple irregular panels and a decorative title banner frame the scene, with horizontal and vertical grid lines, horizontal divisions, and integrated speech bubbles. The cat leaps onto glowing augmented reality track lines, chasing the light trail of a luminescent javelin. The composition showcases dappled, mottled light filtering through, creating soft organic shadows on rich velvet-textured surfaces. Deep hot scarlet crimson clashes against pale ice-blue in a high-contrast dual-tone aesthetic. On the decorative banner at the top, the text '2026-09-11 23:39 UTC' is clearly and visually displayed in crisp English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "number": 3308,
+    "idea": "採用空拍視角，描繪穿戴格紋圍巾的橘白貓麻糬在老街烤番薯攤前，被發光烤爐下的古絹質感與藍黃互補光效映照出圓滾肚皮的畫面。",
+    "season": "autumn",
+    "news_inspiration": [
+      "埃及路克索（Luxor）附近的考古學家在進行防洪清障工程時，意外發現了一座擁有3000年歷史且保存完好的古埃及官員墓穴，牆上繪有極為鮮豔的壁畫。",
+      "芬蘭的金屬探測愛好者在他的家鄉地底幸運挖出了一批維京時代的珍貴銀器寶藏。",
+      "美國加州聖馬刁郡（San Mateo County）的自然保護區溪流中，研究人員在進行蛙類棲地保護工作時意外發現了一顆保存極為完整的太平洋滅絕乳齒象化石牙齒。",
+      "蒙古烏蘭巴托（Ulaanbaatar）的總統在公開場合輕鬆展現驚人體能，當場脫下外衣並完成100公斤的臥推，引發廣泛關注與討論。"
+    ],
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "prompt": "Drone aerial bird's-eye view looking down on a chubby orange-and-white shorthair cat named Mochi sitting in front of a street food stall with a glowing roasted sweet potato oven, on an autumn night. The date and time '2026-09-12 01:57 UTC' is visibly displayed in the corner. The cat wears a red and green plaid scarf around its neck and sits on an old street paved with stone. Artistic digital illustration on an aged silk scroll surface texture with visible silk weave, weathered paper stains, warm sepia patina, and delicate crease lines. Atmospheric blue and yellow complementary palette creating vivid contrasting cool blue night shadows and warm glowing yellow light from the embers of the oven, illuminating the cat's round white belly. Exact cat details: chubby spherical body, short stubby legs, white base coat, solid orange mask covering only the right half-face and right ear while the left half-face is pure white, large round amber eyes, pink nose with a tiny orange dot, heart-shaped solid orange saddle patch on the upper back, solid orange mitten on the right front paw, pure white left front paw, and orange-and-white ringed tail. No tabby stripes. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Bioluminescence",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "character": "mochi",
+    "comment_id": 5642716265,
+    "inspiration": "original",
+    "title": "秋夜番薯香",
+    "story": "麻糬緊緊蜷縮在秋風瑟瑟的老街角落，脖子上圍著紅綠格紋圍巾，呆萌地凝視著剛出爐的烤番薯。發光的炭火與暗藍夜色交織，將牠圓如花生麻糬的背影與搖曳的影子一同烙印在如古絹般細緻的街景畫卷中。",
+    "avoid_list": [
+      "角落呈現時間戳記",
+      "繁體中文或英文文字限制",
+      "黑光燈螢光色彩",
+      "前爪撥弄物體",
+      "舊物或古老器具互動",
+      "高對比電影或戲劇感色彩",
+      "低角度仰視構圖",
+      "古風或傳統質感材質",
+      "微距或極致光影細節",
+      "夢幻柔焦與漫射光照",
+      "邊框或窗框構圖",
+      "特定文字排版要求"
+    ]
   }
 ]
