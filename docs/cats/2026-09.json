@@ -2623,5 +2623,41 @@
       "邊框或窗框構圖",
       "特定文字排版要求"
     ]
+  },
+  {
+    "prompt": "A multi-panel character montage in a comic-style cell collage layout, showcasing a rusty, weathered ginger cat in several poses and expressions across a grid. In the central scene, the orange cat with an oxidized patina fur texture curious nudges its nose and presses a paw against a deep-sea diving suit engineer's brass wrench inside a submerged steampunk shipwreck machinery room. Detailed Victorian-era machinery, brass gears, steam-powered mechanisms, and rusted metal dominate the background. Dreamlike underwater caustic lighting with rippling light patterns and refracted sun shafts in a rich coral pink and Prussian blue color palette illuminates the scene. The timestamp '2026-09-12 06:47 UTC' is clearly visually displayed in a clean, legible font in the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3309,
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Underwater Caustics",
+      "texture": "Rust / Weathered",
+      "color_palette": "Coral Pink and Prussian Blue"
+    },
+    "comment_id": 5644298307,
+    "idea": "這是一組採用蒸汽朋克風格與多格角色拼貼構圖的作品，描繪一隻身上帶有鐵鏽舊化質感的橘貓，在光線交織著珊瑚粉與靛藍色的水下焦散光沉船機械室內，正專注地用鼻子蹭著並伸爪按壓深海潛水服工程師的銅製扳手。",
+    "story": "深海沉船的底艙裡，老舊的蒸汽齒輪在珊瑚粉與靛藍色的水底光影中緩緩轉動。這隻駐守船艙的四腳橘貓正輕巧地踏在生鏽的管道上，好奇地伸爪幫忙正在修復巨大挖掘機器的工程師，讓微弱的水下焦散光照亮牠濕潤的鼻尖。",
+    "inspiration": "在泰國，兩名正在當地度假的澳洲技工熱心伸出援手，協助當地工程人員成功修復了一台故障的大型重型挖掘機。",
+    "news_inspiration": [
+      "在不丹廷布，世界衛生組織本週宣布不丹透過長期疫苗接種計畫，成為東南亞首個成功消除由狗傳播狂犬病的國家。",
+      "在美國洛杉磯帕姆代爾，影星克里斯汀·貝爾經過18年的籌備，正式為手足兒童啟用了一座能讓兄弟姊妹免於拆散的 foster 養育村。",
+      "在英國多塞特郡，知名音樂節「End of the Road」熱鬧登場，來自紐約的新銳搖滾樂團 Geese 吸引大批年輕樂迷前往參與這場年度文化盛事。",
+      "在泰國，兩名正在當地度假的澳洲技工熱心伸出援手，協助當地工程人員成功修復了一台故障的大型重型挖掘機。"
+    ],
+    "avoid_list": [
+      "角落呈現時間戳記",
+      "繁體中文或英文文字限制",
+      "黑光燈螢光色彩",
+      "前爪撥弄物體",
+      "舊物或古老器具互動",
+      "高對比電影或戲劇感色彩",
+      "低角度仰視構圖",
+      "古風或傳統質感材質",
+      "微距或極致光影細節",
+      "夢幻柔焦與漫射光照",
+      "邊框或窗框構圖",
+      "特定文字排版要求"
+    ],
+    "title": "深海齒輪間的伸援"
   }
 ]
