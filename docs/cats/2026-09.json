@@ -2835,5 +2835,34 @@
       "英國牛津大學阿什莫林博物館正式同意歸還昔日掠奪的文物遺骨，讓那加族人於印度順利迎回祖先遺骸。",
       "印度班加羅爾舉辦了首場《柏捷頓家族》主題舞會，吸引大量民眾穿著攝政時代服飾體驗宮廷社交舞蹈。"
     ]
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Window Light",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "avoid_list": [
+      "白貓鈴鈴戴粉紅鈴鐺項圈與狐狸面具",
+      "黑貓墨墨配左耳單個金環耳環",
+      "極簡時尚草圖與留白負空間構圖",
+      "三點打光與背光輪廓光",
+      "低多邊形幾何切面與水彩混合風格",
+      "珊瑚粉與靛藍色/冰藍與緋紅雙色對比",
+      "受驚嚇向後彈開/嚇得往後彈",
+      "老街烤番薯攤與古絹畫卷質感",
+      "蒸汽朋克沉船機械室與焦散光影",
+      "鏡面水池/水中倒影與光影對話"
+    ],
+    "story": "這隻方塊組成的斑紋貓佇立在廣袤的全景長卷中央，身軀閃爍著宛如蛇鱗般的微光。當一隻螢光飛蛾掠過高塔時，牠輕盈地伸出前爪撲向空氣，朱紅色的光束與白亮的室內陰影在牠身後劃出一道動人的幾何軌跡。",
+    "idea": "在以體素風格構建的高空塔樓中，一隻鋪滿蛇鱗肌理斑紋的四腳花貓正在長卷全景畫幅中躍過窗台追逐飛蛾，沐浴在朱紅與留白交織的窗邊柔光下。",
+    "prompt": "Minecraft-style voxel art, extreme wide handscroll composition, continuous panoramic narrative of a blocky four-legged calico cat with overlapping iridescent reptilian snake scale texture leaping across a window sill to chase a glowing moth inside a high-rise tower. Oblique bird's-eye angle, layered foreground middleground background, soft window light with gentle directional daylight from a side window, smooth falloff into shadow, classic Vermeer-like illumination, bold cinnabar red and clean negative-space white palette with minimalist oriental balance, crisp graphic elegance. The text '2026-09-12 23:31 UTC' is visually displayed in Traditional Chinese within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3315,
+    "news_inspiration": [],
+    "comment_id": 5649419835,
+    "title": "朱白塔樓的方塊追光者"
   }
 ]
