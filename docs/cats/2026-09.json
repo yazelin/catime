@@ -2762,5 +2762,42 @@
     "comment_id": 5647534670,
     "prompt": "A monochrome watercolor painting combined with low-poly geometric facets depicting a calico cat pushing away piles of soil with its front paws to uncover ancient relics. The scene is viewed from an overhead top-down flat-lay angle, with the cat reclining in a dense sea of blossoms. The lighting is butterfly lighting, featuring soft even illumination, an overhead key light, and a symmetrical shadow under the nose, creating a dreamy decorative bird's-eye composition. The artistic style incorporates soft transparent pigments, bleeding edges, wet-on-wet technique, visible paper texture, polygon mesh facets, a geometric crystalline surface, flat shaded triangular faces, and a digital origami aesthetic. The color palette is black and white monochrome with high contrast, a rich tonal range, and dramatic shadows and highlights. The text '2026-09-12 17:30 UTC' is clearly displayed in the image using Traditional Chinese characters or English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "芬蘭（赫爾辛基）：一名金屬探測器愛好者在自家城鎮意外挖掘出重達10磅、擁有千年歷史的維京時代銀幣與古物，創下該國史上最大規模的銀幣發現紀錄。"
+  },
+  {
+    "news_inspiration": [
+      "芬蘭（赫爾辛基/波查）：一名金屬探測器愛好者在當地發掘出擁有千年歷史的維京時代銀幣寶藏，總重達10磅，創下該國史上最大規模的硬幣發現紀錄。",
+      "英國（倫敦）：大英圖書館即將舉辦特別展覽展出阿加莎·克里斯蒂的生平珍藏，其中包括她昔日使用的打字機以及在夏威夷衝浪的珍貴照片。",
+      "澳洲（金巴利地區）：被認為已在當地消失近50年的極危物種「矮岩袋鼠（Nabarlek）」重新被研究團隊尋獲蹤跡，為生態保育帶來好消息。",
+      "義大利（羅馬）：羅馬最大型的古羅馬壁畫與馬賽克建築群在經過2000年後正式向公眾開放，呈現一幅描繪神秘海上城市的巨幅畫作。",
+      "美國（紐約）：女童軍成立109年來首度推出專為寵物狗打造的狗狗專屬餅乾系列，引發愛寵人士熱烈討論。"
+    ],
+    "prompt": "Minimalist line drawing, doodle style with playful loose strokes and hand-drawn feel, featuring a literal fluffy white Ragdoll cat with voluminous cloud-like fur, huge round sapphire-blue eyes, pink nose and inner ears, wearing a pink ribbon bow collar with a centered small golden bell. The cat is startled and recoiling backward after bumping into a crystalline glass flower, scattering luminous crystal petals in a glowing fluorescent neon-colored garden under blacklight UV illumination. The scene incorporates an ivory and gold palette with vibrant neon pigments on a dark background, transparent glass material with light refraction and prismatic reflections. Visually displayed in the image is the text '2026-09-12 19:48 UTC' written in clear Traditional Chinese or English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Glass / Crystal",
+      "color_palette": "Ivory and Gold"
+    },
+    "number": 3313,
+    "idea": "採用極簡塗鴉線條畫與黑光螢光視覺表現，呈現布偶貓風格的白貓「鈴鈴」在滿是寶石與流光的花園裡追逐螢光蝴蝶，並撞上水晶花卉的俏皮畫面。",
+    "character_name": "鈴鈴",
+    "story": "鈴鈴配戴著標誌性的粉紅鈴鐺項圈，在流光溢彩的夜光花園中興奮地張大藍寶石大眼。她昂首跳躍追逐著熠熠生輝的螢光蝴蝶，一個不小心撞上雕琢精緻的水晶花朵，瞬間被嚇得向後彈開、灑下一片晶瑩花瓣。這個小意外讓這隻毛茸茸的棉花糖貓咪抖了抖身上的蓬鬆白毛，鈴鐺清脆響起，繼續在象牙描金的夢幻世界裡探險。",
+    "avoid_list": [
+      "繁體中文/正體字與英文文字限制規範",
+      "右上角/角落顯示視覺時間戳記",
+      "緋紅與冰藍/烏黑高對比配色",
+      "漫射光與柔焦霧面夢幻質感",
+      "極簡/大面積留白負空間構圖",
+      "古董/復古機械與貓咪互動",
+      "多格漫畫/幾何拼貼分割畫面",
+      "水下焦散與水面光束折射",
+      "立體紋理/陶瓷黏土質感細節",
+      "極低角度仰視與俯視空拍角度"
+    ],
+    "title": "水晶花園的螢光的響鈴",
+    "comment_id": 5648284457,
+    "inspiration": "original",
+    "character": "lingling"
   }
 ]
