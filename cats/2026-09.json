@@ -2926,5 +2926,39 @@
     "comment_id": 5651807709,
     "number": 3317,
     "idea": "採用夢幻數位油畫風格與魚眼鏡頭，描繪圍著格紋圍巾的橘白短毛胖貓「麻糬」，在大大的橘紫互補色烤番薯攤前前肢伏地、扭著胖屁股準備撲向剛出爐番薯的動感瞬間。"
+  },
+  {
+    "title": "微光魔鬼花的喃喃低語",
+    "number": 3318,
+    "news_inspiration": [
+      "法國巴黎：知名歌手席琳狄翁（Céline Dion）在克服多年健康挑戰後重返舞台，於巴黎舉辦睽違六年的首場大型現場演唱會。",
+      "泰國北碧府：植物學家在金碧府國家公園發現一種極為罕見、外觀酷似「小魔鬼」的新種黑花植物，命名為「蒂斯米亞魔鬼花」（Thismia daemona）。",
+      "義大利威尼斯：第83屆威尼斯影展隆重閉幕，丹麥導演梅爾·塔烏基（May el-Toukhy）執導的電影《Woman Unknown》榮獲最高榮譽金獅獎。",
+      "加拿大多倫多：第51屆多倫多國際影展盛大登場，展出多部備受矚目的全球首映電影與豐富文化活動。"
+    ],
+    "inspiration": "泰國北碧府：植物學家在金碧府國家公園發現一種極為罕見、外觀酷似「小魔鬼」的新種黑花植物，命名為「蒂斯米亞魔鬼花」（Thismia daemona）。",
+    "avoid_list": [
+      "白貓鈴鈴戴粉紅鈴鐺項圈與狐狸面具",
+      "黑貓墨墨配左耳單個金環耳環",
+      "極簡時尚草圖與留白負空間構圖",
+      "三點打光與背光輪廓光",
+      "低多邊形幾何切面與水彩混合風格",
+      "珊瑚粉與靛藍色/冰藍與緋紅雙色對比",
+      "受驚嚇向後彈開/嚇得往後彈",
+      "老街烤番薯攤與古絹畫卷質感",
+      "蒸汽朋克沉船機械室與焦散光影",
+      "鏡面水池/水中倒影與光影對話"
+    ],
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Orthographic Projection",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "植物學家貓咪穿梭於高聳的奇花異草之間，被眼前這朵如同小魔鬼般閃耀著螢光 Neon 的黑花深深吸引。它小心翼翼地伸出爪子觸碰瓣片，周圍的壓花植物疊層與正交投影空間隨之泛起陣陣星際微光。",
+    "idea": "採用扁平向量插圖風格，呈現一隻玳瑁貓在滿是奇異植物與光纖電路的宇宙溫室中，用前爪輕叩並細心研究一朵散發星雲輝光的「蒂斯米亞魔鬼花」。",
+    "comment_id": 5653267742,
+    "prompt": "A flat vector illustration in a technical illustration style with clean lines, geometric forms, and minimal shading against a white background. In an orthographic projection with no perspective distortion and a straight-on flat rendering, a tortie cat is shown using its front paw to tap and carefully study a glowing 'Thismia devil flower' radiating a nebula cosmic glow. The environment is a cosmic greenhouse filled with bizarre plants, fiber optic circuits, pressed botanical layers, flattened dried flowers, and delicate translucent plant specimens in a layered herbarium texture. The scene features soft colorful starfield illumination, ethereal purple and blue space light, glowing particles, galactic haze, and neon fluorescent colors of electric pink, lime green, and hot cyan glowing against a dark cosmic background. Visually displayed clearly in the image is the text '2026-09-13 12:26 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
