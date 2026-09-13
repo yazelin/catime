@@ -3058,5 +3058,33 @@
     ],
     "prompt": "Abstract Expressionism painting centered on a stocky, muscular brown classic tabby cat with bold black stripes, scruffy untidy coarse fur, white chest bib, and white mitten paws. The cat has a prominent V-shaped notch on its left ear, a faded red bandana loosely tied around its neck, a single piercing emerald green right eye, and its left eye permanently concealed by a natural dark brown fur marking patch directly on the fur without any straps or fabric patch. The cat is crouched on a sea wall, powerfully slapping a freshly caught fish high into the air with its paw. Composition is single focal point dead center with balanced symmetrical framing and clean surrounding space. Deep black background contrasting with luxurious metallic gold accents, dramatic high contrast gestural brushwork, and bold color fields. Rich visual textures feature dappled light, scattered patches of light, soft mottled shadow patterns, magical shimmering gold glitter particles, star-shaped highlights, and an opulent aesthetic. In lower corner, subtle clear typography visually displays '2026-09-13 21:53 UTC' in crisp white text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "金色浪潮中的港口老大"
+  },
+  {
+    "number": 3322,
+    "idea": "在手持慢門拍攝下的強烈硬光日照中，極簡的留白負空間構圖展現出一隻黑貓在漆黑的奢華展台上記錄動態，畫面呈現斑駁做舊紙印的質感。",
+    "avoid_list": [
+      "三花貓與長曝光光軌",
+      "傳統中國紅金點綴",
+      "溫室中的發光植物與貓爪",
+      "蝴蝶光與對角線構圖",
+      "扁平向量插圖與宇宙星雲",
+      "具備繁體中文時間戳的貓咪生成提示詞",
+      "鐵絲網與微縮場景交織",
+      "背光輪廓光與金黃夕陽",
+      "霓虹螢光與青花瓷色彩搭配"
+    ],
+    "title": "金幣旋轉的瞬間",
+    "inspiration": "original",
+    "comment_id": 5657133321,
+    "prompt": "A real handheld photography shot featuring a black cat rapidly pouncing on a rolling solid gold coin across a sleek black metallic display pedestal. Handheld slow shutter creates intentional motion blur, light streaks, flowing movement, and a dreamy time-passing effect on the cat's paw and the spinning coin. Minimalist negative space composition with a small subject in expansive emptiness, off-center placement, and calm uncluttered framing. Lighting is harsh midday sunlight with hard edge shadows, high contrast natural daylight, strong directional sun, and unforgiving illumination. Styled with a distressed vintage print texture featuring mottled uneven ink coverage, cracked and flaking pigment, foxed yellowed paper stains, worn edges, and an aged letterpress feel. Elegant gold and black color scheme with luxurious metallic gold accents against a deep black background. Inconspicuously stamped in classic typography in a corner of the frame is the exact text '2026-09-13 23:44 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "story": "中午時分的嚴苛陽光透過高窗直射，這隻黑貓正在黑色金屬桌面上快速追逐一枚翻滾的純金硬幣。慢速快門記錄下硬幣旋轉與貓爪撲擊的動態軌跡，在極致漆黑與金光的強烈對比下，留白空間顯得肅穆而優雅。",
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Negative Space Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
