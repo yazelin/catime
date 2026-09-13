@@ -2994,5 +2994,39 @@
     ],
     "story": "伊利諾州的科學家成功將廢棄塑膠與農渣轉化為可食用餅乾，這項創新被縮小成一座精緻的微縮實驗室。夕陽的黃金光線穿透蕾絲窗簾，映照著盛滿中國紅金雙色糖霜的小盤子，四腳著地的貓咪興奮地圍繞著剛印製完成的餅乾轉圈。伴隨著長曝光下的斑斕光線，廚房裡瀰漫著微甜的香草氣息與探索的歡樂。",
     "idea": "在微縮立體模型的復古小廚房中，一隻三色貓穿梭於蕾絲鏤空質感的迷你3D印表機間，透過長曝光攝影捕捉其追逐香草奶油光雕餅乾的動態軌跡。"
+  },
+  {
+    "idea": "這是一張採用居中主體構圖與電影分鏡風格的影像，一隻身上帶著玻璃水晶質感紋理的貓咪，正於白底去背棚光下，專注地用前爪撫弄並翻找著堆成小山般的千年古銀幣。整體色調以沉穩的大地色系為主，凸顯出歷史的沉積感。",
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Centered Subject Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Earth Tones"
+    },
+    "title": "千年銀幣下的探尋者",
+    "comment_id": 5655424662,
+    "avoid_list": [
+      "三花貓與長曝光光軌",
+      "傳統中國紅金點綴",
+      "溫室中的發光植物與貓爪",
+      "蝴蝶光與對角線構圖",
+      "扁平向量插圖與宇宙星雲",
+      "具備繁體中文時間戳的貓咪生成提示詞",
+      "鐵絲網與微縮場景交織",
+      "背光輪廓光與金黃夕陽",
+      "霓虹螢光與青花瓷色彩搭配"
+    ],
+    "inspiration": "芬蘭（赫爾辛基/波查）一位金屬探測器愛好者在自家家鄉意外挖掘出重達10磅、擁有1000年歷史的維京時代銀幣寶藏，創下該國史上最大規模的銀幣發現紀錄。",
+    "story": "這隻好奇的貓咪在赫爾辛基的土丘下無意間發現了維京時代遺落的寶藏。它踩在泥土與銀幣之間，用爪子輕輕撥動那些鐫刻著古老符號的硬幣，彷彿在探尋千年前的故事。白潔的背景將所有細節聚焦於貓咪與古老文物交織的奇幻瞬間。",
+    "news_inspiration": [
+      "芬蘭（赫爾辛基/波查）一位金屬探測器愛好者在自家家鄉意外挖掘出重達10磅、擁有1000年歷史的維京時代銀幣寶藏，創下該國史上最大規模的銀幣發現紀錄。",
+      "古羅馬時代最大規模的壁畫與馬賽克建築群在歷經2000年後，於義大利羅馬的特拉真浴場遺址正式開放大眾參觀。",
+      "澳洲昆士蘭研究團隊在偏遠山區重新發現消失長達50年的瀕危特有種動物「侏儒岩袋鼠」（Nabarlek）。",
+      "古生物學家在美國北達科他州的荒地遺址中，首次發現成年暴龍（T. rex）行走所留下的足跡化石痕跡。",
+      "英國倫敦的大英圖書館即將舉辦阿嘉莎·克莉絲蒂紀念特展，首次公開展出這位傳奇偵探小說家當年曾在夏威夷衝浪所使用的衝浪板。"
+    ],
+    "number": 3320,
+    "prompt": "A cinematic storyboard grid featuring a centered subject composition of a curious cat with transparent glass crystal texture body and prismatic light refractions, actively pawing and searching through a large pile of ancient Viking silver coins under white seamless studio lighting with a clean shadowless product look on a pure white cyclorama background, earth tone palette with warm brown and olive green accents, the text '2026-09-13 19:03 UTC' visually displayed in the frame IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
