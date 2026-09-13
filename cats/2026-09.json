@@ -2893,5 +2893,38 @@
       "color_palette": "Porcelain Blue and White"
     },
     "comment_id": 5650067777
+  },
+  {
+    "is_seasonal": true,
+    "character": "mochi",
+    "title": "烤番薯攤的秋日試吃員",
+    "style_picks": {
+      "art_style": "Dreamy Digital Oil",
+      "composition": "Fisheye Lens",
+      "lighting": "Butterfly Lighting",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "prompt": "Dreamy digital oil painting with soft painterly brush strokes and mixed impasto transitions, capturing a dynamic movement in autumn. A chubby rounded short-haired cat named Mochi, with short stubby legs and a spherical torso, is crouched with its front paws low and plump hindquarters wiggling, ready to pounce. The cat wears a plaid scarf. Strictly rendered with a white coat, a bright orange mask covering only the right side of its face while the left side remains pure white, large round amber eyes, a pink nose with a tiny orange center dot, an orange heart-shaped saddle on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, a white belly, and an orange-and-white ringed tail with solid patches and no tabby stripes. The cat is positioned in front of a large roasted sweet potato stall displaying steaming baked potatoes. Shot with a fisheye wide-angle lens featuring strong barrel distortion, exaggerated foreground perspective, and a 360-degree feel. Illuminated by butterfly lighting with an overhead key light creating a symmetrical shadow under the nose, amidst industrial coiled tangled wire mesh textures. Palette features a bold, desaturated dual-tone contrast of vivid warm orange against deep purple with ethereal light bokeh. Visually embedded in the image scene is the text '2026-09-13 06:56 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "avoid_list": [
+      "白貓鈴鈴戴粉紅鈴鐺項圈與狐狸面具",
+      "黑貓墨墨配左耳單個金環耳環",
+      "極簡時尚草圖與留白負空間構圖",
+      "三點打光與背光輪廓光",
+      "低多邊形幾何切面與水彩混合風格",
+      "珊瑚粉與靛藍色/冰藍與緋紅雙色對比",
+      "受驚嚇向後彈開/嚇得往後彈",
+      "老街烤番薯攤與古絹畫卷質感",
+      "蒸汽朋克沉船機械室與焦散光影",
+      "鏡面水池/水中倒影與光影對話"
+    ],
+    "character_name": "麻糬",
+    "season": "autumn",
+    "story": "涼爽的秋風吹過老街，麻糬裹著喜愛的格紋圍巾，熟門熟路地蹲點在蒸氣騰騰的烤番薯攤旁。看到剛烤好爆蜜的番薯，牠大大的琥珀色眼睛瞬間放大兩倍，在蝴蝶光照射與鐵絲網纏繞的攤位前，躍躍欲試地準備展開牠的秋季試吃大作戰。",
+    "inspiration": "original",
+    "comment_id": 5651807709,
+    "number": 3317,
+    "idea": "採用夢幻數位油畫風格與魚眼鏡頭，描繪圍著格紋圍巾的橘白短毛胖貓「麻糬」，在大大的橘紫互補色烤番薯攤前前肢伏地、扭著胖屁股準備撲向剛出爐番薯的動感瞬間。"
   }
 ]

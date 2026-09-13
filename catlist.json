@@ -31165,5 +31165,18 @@
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "timestamp": "2026-09-13 01:51 UTC"
+  },
+  {
+    "is_seasonal": true,
+    "character": "mochi",
+    "title": "烤番薯攤的秋日試吃員",
+    "timestamp": "2026-09-13 06:56 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-13_0656_UTC.webp",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "麻糬",
+    "season": "autumn",
+    "inspiration": "original",
+    "number": 3317
   }
 ]
