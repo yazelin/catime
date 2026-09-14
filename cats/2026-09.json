@@ -3151,5 +3151,40 @@
       "color_palette": "Moonlit Indigo"
     },
     "title": "夜行鐘聲"
+  },
+  {
+    "comment_id": 5666364720,
+    "style_picks": {
+      "art_style": "Classical Greek Goddess Painterly Illustration",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Venetian Blind Light",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "鏡台前的水箱與鋼剃刀映照出莫蘭迪色調的柔和光澤，百葉窗條紋光斜斜灑在斑駁做舊的牆紙上。貓咪眼神嚴肅地拍下這張鏡頭，將這場午後的小意外化為神聖而優雅的藝術創作。",
+    "title": "理髮鏡裏的指控",
+    "news_inspiration": [
+      "在西班牙馬德里進行的 2026 年一級方程式賽車（F1）西班牙大獎賽中，梅賽德斯車手安東內利（Kimi Antonelli）於全新的馬德里賽道奪得冠軍。",
+      "在西班牙格拉納達舉行的 2026 年環西班牙自行車賽第 21 站終點線前，西班牙本土名將恩里克·馬斯（Enric Mas）順利抱回個人生涯首座環西總冠軍。",
+      "韓國職業足球聯賽（K League）球員協會因應全球氣候變遷與夏季酷暑，於首爾倡議將聯賽賽程由現行的春秋制調整為與歐洲聯賽同步的跨年秋春制。",
+      "德國漢堡將於 9 月 16 日迎來年度音樂盛會「繩索街音樂節」（Reeperbahn Festival），吸引全球音樂創作者與產業代表齊聚一堂。"
+    ],
+    "idea": "以希臘女神厚塗插畫風格呈現，一隻三色貓蹲伏在老舊理髮店鏡台前，伸出前爪專注調整手機腳架，透過鏡子自拍紀錄自己打翻鬍鬚膏的混亂現場。",
+    "inspiration": "original",
+    "avoid_list": [
+      "貓爪撥弄或抓取物件",
+      "長卷全景畫幅",
+      "黑色與金色的奢華配色",
+      "微縮立體模型廚房與攤位",
+      "繁體中文時間戳記標記",
+      "復古鏤空與蕾絲紋理",
+      "霓虹與生物發光植物",
+      "極簡留白與去背棚燈構圖",
+      "電影分鏡與分鏡網格風格",
+      "柔和光束與體積光特效",
+      "魚眼與大廣角透視拉伸"
+    ],
+    "prompt": "A thick-paint painterly illustration in a classical Greek goddess style featuring a calico cat crouching intently before a vintage barbershop mirror table. The cat's front paw is carefully adjusting a smartphone tripod, capturing a mirror selfie of the chaotic scene where it has knocked over a tub of shaving cream. In the mirror's reflection, the cat appears with heroic, idealized beauty reminiscent of a mythic figure, adorned with subtle laurel wreath elements and gold ornaments with rich impasto brushwork. Venetians blind striped lighting casts hard, dramatic light-and-shadow bands across the distressed vintage wall paper and polished steel razors. The scene is rendered in a Morandi muted color palette of dusty grays, desaturated pastels, and soft earth tones, finished with a mottled aged paper texture, cracked pigment, and an intimate close-up perspective. Displayed clearly in the corner of the image as timestamp text is '2026-09-14 15:21 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3325
   }
 ]
