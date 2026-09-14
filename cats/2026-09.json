@@ -3221,5 +3221,40 @@
     "idea": "採用日系底片攝影風格，一隻花貓正以四腳著地伸爪探入黑爾辛基郊外濕漉漉的深色泥坑中，周圍以閃光燈直打出強烈對比，呈現朱紅與純白布料碎屑交織的服裝多視角展示與水珠濕膚肌理。",
     "inspiration": "芬蘭（黑爾辛基）：一名金屬探測愛好者在黑爾辛基北部意外掘出芬蘭歷史上規模最大的維京時代銀器寶藏，內含數千枚古錢幣與精美首飾。",
     "title": "泥坑裡的維京閃光"
+  },
+  {
+    "number": 3327,
+    "story": "保育團隊的奇蹟復育讓曾經瀕危的彩蛇重獲新生，牠們在雕塑般的花海深處蔓延棲息。巨貓俯下身來，用濕潤的鼻子輕輕觸碰新生的幼蛇，在粉彩色系的水下焦散光暈中，構築出一幅生命交融的穆夏式拱框盛景。",
+    "prompt": "A surreal floral-coral sculpture art piece featuring a giant fluffy cat with extreme plush fur texture, gently leaning in to smell a newly born tiny snake. The scene is set inside a Mucha-style arched frame composition with integrated decorative floral motifs, organic blossoms morphing into coral-like growths, and a symmetrical Art Nouveau panel framing. Underwater caustic lighting, rippling light patterns dancing over the subjects, a blue-green aquatic glow, and refracted sun shafts create a submerged dreamlike atmosphere. Soft pastel color palette featuring gentle pink, lavender, mint, and baby blue, with soft studio light highlighting the cozy velvety strands of the cat's fur. The date and time text '2026-09-14 22:59 UTC' is visibly displayed within the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5671974595,
+    "idea": "採用立體花卉渲生雕塑風格，一隻擁有極致絨毛皮草質感的巨型貓咪正沉浸在由繁花與珊瑚交織構成的拱形殿堂中，以身體貼近並溫柔地嗅聞著剛誕生的小蛇。",
+    "inspiration": "加勒比海地區的保育團隊經過多年努力，成功將當地曾經瀕臨滅絕的罕見蛇類數量從 1995 年僅存的 51 隻大幅提升並復育至超過 1,100 隻。",
+    "news_inspiration": [
+      "美國國家航空暨太空總署（NASA）位於馬里蘭州的哥達德太空飛行中心完成「南西·葛蕾絲·羅曼太空望遠鏡」的組裝與測試，其相機視野達到哈伯望遠鏡的百倍，預計將發射升空探索暗能量與外星行星。",
+      "加勒比海地區的保育團隊經過多年努力，成功將當地曾經瀕臨滅絕的罕見蛇類數量從 1995 年僅存的 51 隻大幅提升並復育至超過 1,100 隻。",
+      "英國牛津大學皮特河博物館正式同意歸還殖民時期收藏的祖先遺骸，印度那加蘭邦的龍族（Naga）民眾為此舉行慶祝活動。",
+      "美商博比麥基（Bob Mackie）等時尚與娛樂圈傳奇人物在美國紐約享譽盛名之際，各界紛紛致敬其橫跨數十年的經典設計與文化影響力。"
+    ],
+    "avoid_list": [
+      "貓爪撥弄或抓取物件",
+      "長卷全景畫幅",
+      "黑色與金色的奢華配色",
+      "微縮立體模型廚房與攤位",
+      "繁體中文時間戳記標記",
+      "復古鏤空與蕾絲紋理",
+      "霓虹與生物發光植物",
+      "極簡留白與去背棚燈構圖",
+      "電影分鏡與分鏡網格風格",
+      "柔和光束與體積光特效",
+      "魚眼與大廣角透視拉伸"
+    ],
+    "title": "花珊瑚與幼蛇的晨禱",
+    "style_picks": {
+      "art_style": "Surreal Floral-Coral Sculpture",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Underwater Caustics",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Pastel Colors"
+    }
   }
 ]
