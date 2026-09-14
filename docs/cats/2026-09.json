@@ -3086,5 +3086,37 @@
       "texture": "Distressed Vintage Print",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "avoid_list": [
+      "三花貓與長曝光光軌",
+      "傳統中國紅金點綴",
+      "溫室中的發光植物與貓爪",
+      "蝴蝶光與對角線構圖",
+      "扁平向量插圖與宇宙星雲",
+      "具備繁體中文時間戳的貓咪生成提示詞",
+      "鐵絲網與微縮場景交織",
+      "背光輪廓光與金黃夕陽",
+      "霓虹螢光與青花瓷色彩搭配"
+    ],
+    "news_inspiration": [
+      "在丹麥的奧登се（Odense），當地利用退役的風力發電機葉片改造為公共自行車車棚，展現了環保與資源再利用的創意。",
+      "在英國的倫敦（London），全球首棟完全以石材骨架支撐的高層建築已正式完工，成為建築與結構設計上的創新里程碑。",
+      "在不丹的廷布（Thimphu），世界衛生組織宣佈該國成功消滅犬隻傳播的狂犬病，成為東南亞地區首個達成此公衛成就的國家。"
+    ],
+    "style_picks": {
+      "art_style": "Retro Hanbok Poster Illustration",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Neon Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Lavender and Pink"
+    },
+    "title": "風之翼下的紫粉凝光",
+    "prompt": "Retro Hanbok poster illustration style with vintage print texture and a typographic border. An extreme wide handscroll composition in a continuous panoramic narrative, captured from an oblique bird's-eye angle. Inside a curved bicycle shelter repurposed from giant retired windmill blades, a calico cat reaches out its paws, stretching to catch glistening water droplets dripping through crevices between the smooth blades. Moody urban night atmosphere featuring colorful neon lighting with vivid reflections on wet surfaces. Water droplets on skin texture display glistening beads clinging to dewy surfaces with fresh wet sheen and reflective micro-highlights. Muted nostalgic palette dominated by a soft lavender and pink palette, soft violet tones, warm blush accents, and gentle lilac gradients. In a corner of the frame, the text '2026-09-14 02:08 UTC' is neatly integrated into the graphic design layout in clean English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在丹麥的奧登се（Odense），當地利用退役的風力發電機葉片改造為公共自行車車棚，展現了環保與資源再利用的創意。",
+    "idea": "採用韓服復古海報插畫風格，在一座由巨型退役風車葉片改建的弧形自行車車棚內，一隻三色貓正伸長爪子奮力抓取從葉片縫隙中滴落的水珠。畫面以長卷全景構圖展開，融入薰衣草紫粉色調與霓虹燈光，將水珠濕膚肌理淋漓展現。",
+    "story": "風車不再旋轉，卻在小鎮角落築起了一片溫柔的紫色庇護所。貓咪巡視著這座由龐大風力發電機葉片構成的新車棚，霓虹燈影與微風交織。當凝結的水滴從光滑的葉片邊緣滑落，牠跳上車架，用粉嫩的肉墊捕捉著流動的光影。",
+    "comment_id": 5658052519,
+    "number": 3323
   }
 ]
