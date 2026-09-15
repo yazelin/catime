@@ -3420,5 +3420,40 @@
       "texture": "Tangled Wire Mesh",
       "color_palette": "Blue and Yellow Complementary"
     }
+  },
+  {
+    "idea": "在希臘女神厚塗插畫風格下，一隻三色貓伏臥於盛開的橙色與紫色花海中，正好奇地伸出前足碰觸由英國電商無人機剛空投落地的包裹。",
+    "inspiration": "英國電商龍頭於達靈頓（Darlington）正式啟動無人機包裹遞送服務，吸引不少民眾前來圍觀。",
+    "number": 3333,
+    "title": "花海中的空投禮物",
+    "style_picks": {
+      "art_style": "Classical Greek Goddess Painterly Illustration",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Venetian Blind Light",
+      "texture": "Paper Quilling",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "avoid_list": [
+      "貓咪伸爪探入泥坑",
+      "黑爾辛基古銀幣",
+      "水珠濕膚肌理",
+      "玻璃水晶質感",
+      "紫粉色調與薰衣草色",
+      "鏡像異我與自拍構圖",
+      "斑駁光影與斑駁紙印質感",
+      "巨人尺寸與巨型貓咪",
+      "莫蘭迪色調",
+      "電影分鏡風格",
+      "傳統中文與英文排版限制"
+    ],
+    "prompt": "classical Greek goddess painterly illustration, a calico cat lying in a sea of blooming orange and purple flowers, reaching out a paw to touch a package dropped by a British delivery drone, overhead view, top-down flat-lay framing, venetian blind striped lighting with hard parallel light-and-shadow bands, rich impasto brushwork, thick-paint rendering, laurel wreath and gold ornaments, paper quilling art texture, vibrant warm orange and deep purple complementary palette, the text '2026-09-15 23:16 UTC' visually displayed in the image IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "古生物學家在美國北達科他州的荒地中，首度發現了由成年暴龍（T. rex）留下的足跡化石。",
+      "智利成功消除由犬隻傳播的狂犬病，成為南美洲第一個獲得世界衛生組織（WHO）此項認證的國家。",
+      "英國電商龍頭於達靈頓（Darlington）正式啟動無人機包裹遞送服務，吸引不少民眾前來圍觀。",
+      "英國牛津大學的博物館同意歸還印度的納加族（Naga）祖先遺骸，當地民眾舉辦文化活動盛大慶祝。"
+    ],
+    "story": "達靈頓花園的百葉窗光影如條紋般灑落，立體的衍紙花瓣在陽光下層層綻放。無人機嗡嗡升空，貓咪俯臥在橘紫交織的花叢深處，用鼻子仔細嗅聞著這個帶著微溫的新奇快遞。",
+    "comment_id": 5689443220
   }
 ]
