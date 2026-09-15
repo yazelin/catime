@@ -3286,5 +3286,44 @@
     "comment_id": 5673161130,
     "idea": "這是一幅採用巨人尺寸合成風格的藝術創作，一隻巨型花貓斜躺在紫粉色調的水晶溫室天窗上，透過淺景深特寫鏡頭與斑駁光影呈現巨大貓咪靜靜注視室內植物的震撼畫面。",
     "title": "水晶穹頂下的巨影"
+  },
+  {
+    "prompt": "A fashion croquis sketch in a designer sketchbook, rendered with loose pencil, marker lines, and colored pencils placed as props. The scene is a casual mirror selfie composition with a visible reflection and intimate close-up perspective. Mochi, a chubby spherical shorthair cat with short stubby legs, white belly, amber eyes (#FFBF00), pink nose with an orange center dot, an orange (#FF8C00) mask on the right half-face (left side entirely white), a heart-shaped orange saddle on its upper back, a solid orange right front mitten, a pure white left front paw, and ringed tail, is sitting snugly on a four-legged stance in front of an autumn roasted sweet potato stall, wearing a cozy plaid scarf for autumn. In the background behind the stall hangs a fitted teenage sportswear design sketch, contrasting Mochi's round body with sleek fashion lines. The atmosphere features a velvet texture with a deep pile, light-absorbing matte finish, enriched by a bamboo jade-green palette of fresh emerald and malachite tones. Soft colorful starfield illumination, nebula cosmic glow, and ethereal purple and blue space light emit a galactic haze with glowing particles. Visually displayed clearly in the image is the timestamp '2026-09-15 06:54 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Fashion Croquis Sketch",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Velvet",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "idea": "這幅時尚設計草圖以鏡子自拍構圖呈現，圓滾滾的橘白貓麻糬圍著格紋圍巾，坐在深秋烤番薯攤前，映照出天鵝絨質感的竹影翠綠色調與星雲輝光。",
+    "comment_id": 5676124917,
+    "title": "翠竹秋光番薯香",
+    "character_name": "麻糬",
+    "season": "autumn",
+    "number": 3329,
+    "news_inspiration": [
+      "美國加州大學舊金山分校研究團隊成功透過腦機介面（BCI），幫助重度癱瘓患者透過電腦虛擬化身同時恢復語音與手勢溝通能力。",
+      "莫三比克政府於盧熱拉區正式將著名的「馬布山」列為生態保護區，為當地超過200種蝴蝶及原生野生動物提供安全的棲息環境。",
+      "澳大利亞伍倫貢大學研究團隊於臥龍崗發布最新指引，呼籲將合身的運動內衣納入女童標準體育裝備，以顯著提升青少女參與體育活動的意願與表現。",
+      "莫三比克北部的馬布山區經過多年努力，正式成立全新保護區，守護這座擁有數百種獨特蝴蝶物種的「蝴蝶森林」。"
+    ],
+    "avoid_list": [
+      "貓爪撥弄或抓取物件",
+      "長卷全景畫幅",
+      "黑色與金色的奢華配色",
+      "微縮立體模型廚房與攤位",
+      "繁體中文時間戳記標記",
+      "復古鏤空與蕾絲紋理",
+      "霓虹與生物發光植物",
+      "極簡留白與去背棚燈構圖",
+      "電影分鏡與分鏡網格風格",
+      "柔和光束與體積光特效",
+      "魚眼與大廣角透視拉伸"
+    ],
+    "story": "麻糬巡邏到老街市場口的烤番薯攤，被熱騰騰的甜香深深吸引，忍不住湊過去取暖打呼。攤位後方高掛著為青少女設計的合身運動裝草圖，麻糬圓潤的花生身型與時尚設計線條形成有趣對比。",
+    "inspiration": "澳大利亞伍倫貢大學研究團隊於臥龍崗發布最新指引，呼籲將合身的運動內衣納入女童標準體育裝備，以顯著提升青少女參與體育活動的意願與表現。",
+    "character": "mochi",
+    "is_seasonal": true
   }
 ]
