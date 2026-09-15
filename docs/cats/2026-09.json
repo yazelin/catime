@@ -3256,5 +3256,35 @@
       "texture": "Fur / Plush Texture",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "number": 3328,
+    "news_inspiration": [],
+    "inspiration": "original",
+    "prompt": "Massive scale composite photography, a giant calico cat lying lazily across a transparent crystal greenhouse glass roof, peering down into the interior with a shallow depth-of-field close-up lens. Photorealistic VFX compositing, impossible proportions, tactile detail emphasis on the cat's fur and the glass structure. Dappled light filtering through the cat's body, scattered patches of sunlight, soft mottled shadow patterns, gentle organic light play. Lavender and pink palette, soft violet dominance with warm blush accents, gentle lilac gradients, dreamy romantic softness. The text '2026-09-15 01:11 UTC' is visibly rendered in the scene, 35mm lens, f/1.8, natural light, serene natural mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓爪撥弄或抓取物件",
+      "長卷全景畫幅",
+      "黑色與金色的奢華配色",
+      "微縮立體模型廚房與攤位",
+      "繁體中文時間戳記標記",
+      "復古鏤空與蕾絲紋理",
+      "霓虹與生物發光植物",
+      "極簡留白與去背棚燈構圖",
+      "電影分鏡與分鏡網格風格",
+      "柔和光束與體積光特效",
+      "魚眼與大廣角透視拉伸"
+    ],
+    "story": "巨大如山丘般的花貓趴伏在晶瑩剔透的水晶建築頂端，透過清透的玻璃天花板打量著底下的植物學家。斑駁的薰衣草紫與粉色日光透過貓咪的身軀折射而下，將整座溫室染上一層如夢似幻的龐大奇觀。",
+    "style_picks": {
+      "art_style": "Kaiju Scale Composite",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Dappled Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Lavender and Pink"
+    },
+    "comment_id": 5673161130,
+    "idea": "這是一幅採用巨人尺寸合成風格的藝術創作，一隻巨型花貓斜躺在紫粉色調的水晶溫室天窗上，透過淺景深特寫鏡頭與斑駁光影呈現巨大貓咪靜靜注視室內植物的震撼畫面。",
+    "title": "水晶穹頂下的巨影"
   }
 ]
