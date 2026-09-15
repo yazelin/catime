@@ -3325,5 +3325,35 @@
     "inspiration": "澳大利亞伍倫貢大學研究團隊於臥龍崗發布最新指引，呼籲將合身的運動內衣納入女童標準體育裝備，以顯著提升青少女參與體育活動的意願與表現。",
     "character": "mochi",
     "is_seasonal": true
+  },
+  {
+    "number": 3330,
+    "title": "墨閣雲起時",
+    "idea": "採用東方廢土巨構概念藝術風格與長卷全景構圖，一隻四腳斑紋貓在巍峨傾頹的墨色巨石樓閣柱頂間靈巧躍跳，穿梭於白芒芒的綿密棉花糖雲朵與體積光射入的黑白殘垣之間。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "prompt": "Oriental wasteland megastructure concept art in an extreme wide handscroll composition and oblique bird's-eye angle. A four-legged tabby cat leaps agilely between the tops of towering, decaying dark stone pagoda pillars and black-and-white ruins. Whimsical volumetric clouds with fluffy marshmallow and cotton candy textures float through the scene, pierced by dramatic volumetric god rays and dust-hazed apocalyptic atmosphere. Monochromatic high-contrast black and white palette with cinematic matte painting details, dramatic shadows, and rich tonal range. The text '2026-09-15 12:19 UTC' is visually displayed in the corner of the image in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "漫長歲月洗禮後的廢土巨構在沉寂中聳立，透著單色光影的蒼涼美感。斑紋貓輕盈踏過千年古木梁柱，追逐著雲層間穿透的體積光束，在廢墟之巔留下靈動的足跡。",
+    "avoid_list": [
+      "貓咪伸爪探入泥坑",
+      "黑爾辛基古銀幣",
+      "水珠濕膚肌理",
+      "玻璃水晶質感",
+      "紫粉色調與薰衣草色",
+      "鏡像異我與自拍構圖",
+      "斑駁光影與斑駁紙印質感",
+      "巨人尺寸與巨型貓咪",
+      "莫蘭迪色調",
+      "電影分鏡風格",
+      "傳統中文與英文排版限制"
+    ],
+    "style_picks": {
+      "art_style": "Oriental Wasteland Megastructure Concept Art",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Volumetric Light",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 5680075793
   }
 ]
