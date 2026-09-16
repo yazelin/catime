@@ -3592,5 +3592,35 @@
       "color_palette": "Crimson and Black"
     },
     "inspiration": "original"
+  },
+  {
+    "comment_id": 5704146538,
+    "number": 3338,
+    "prompt": "Cinematic storyboard grid, film keyframes, sequential shots, movie-quality composition, bird's-eye view, top-down perspective, looking straight down, miniature world effect, a calico cat batting and rolling a spinning porcelain plate in an antique porcelain workshop featuring porcelain blue and white palette, cobalt indigo brushwork on a clean white ground, gold leaf ornamental clouds, traditional East Asian auspicious cloud motifs, embossed metallic finish, intricate curling swirl patterns, luxurious gilt texture on dark ground, crisp two-tone oriental elegance, cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, film-quality mood, with the text '2026-09-16 20:34 UTC' visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用電影分鏡風格與俯瞰鳥瞰構圖，呈現一隻貓咪在青花藍白配色且飾有金箔祥雲紋樣的古董瓷器工作坊中，用爪子撥動與撥弄滾動瓷盤的畫面。",
+    "style_picks": {
+      "art_style": "Cinematic Storyboard",
+      "composition": "Bird's-Eye View",
+      "lighting": "Cinematic Lighting",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Porcelain Blue and White"
+    },
+    "avoid_list": [
+      "貓咪伸爪調整設備",
+      "莫蘭迪色調柔和光澤",
+      "百葉窗條紋光影",
+      "日系底片攝影風格",
+      "時間戳記浮水印",
+      "厚塗插畫風格",
+      "鏡子自拍構圖",
+      "精緻微縮立體模型",
+      "複合影像合成風格",
+      "幾何紋理分形視覺",
+      "故障藝術數位干擾"
+    ],
+    "inspiration": "original",
+    "story": "夜深人靜的釉藝工坊裡，一隻三花貓輕盈地跳上高處的展示台，好奇地用前腳撥弄著剛繪上青花圖騰的圓盤。電影感的光影從斜上方傾瀉而下，將漆黑中的瓷器釉光與金箔祥雲襯托得熠熠生輝。這場深夜的微觀冒險，被鏡頭如電影分鏡般精準記錄下來。",
+    "title": "青花釉光下的深夜探險",
+    "news_inspiration": []
   }
 ]
