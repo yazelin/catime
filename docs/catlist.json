@@ -31375,5 +31375,18 @@
     "inspiration": "original",
     "title": "青花釉光下的深夜探險",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "status": "success",
+    "number": 3339,
+    "inspiration": "芬蘭（赫爾辛基）：業餘尋寶者在芬蘭發現重達10磅的維京時期銀器寶藏，成為今年北歐考古界的重大驚喜。",
+    "season": "autumn",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-16_2321_UTC.webp",
+    "title": "燈塔下的金黃守望",
+    "is_seasonal": true,
+    "character": "captain",
+    "timestamp": "2026-09-16 23:21 UTC",
+    "character_name": "船長",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]

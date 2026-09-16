@@ -3622,5 +3622,45 @@
     "story": "夜深人靜的釉藝工坊裡，一隻三花貓輕盈地跳上高處的展示台，好奇地用前腳撥弄著剛繪上青花圖騰的圓盤。電影感的光影從斜上方傾瀉而下，將漆黑中的瓷器釉光與金箔祥雲襯托得熠熠生輝。這場深夜的微觀冒險，被鏡頭如電影分鏡般精準記錄下來。",
     "title": "青花釉光下的深夜探險",
     "news_inspiration": []
+  },
+  {
+    "number": 3339,
+    "inspiration": "芬蘭（赫爾辛基）：業餘尋寶者在芬蘭發現重達10磅的維京時期銀器寶藏，成為今年北歐考古界的重大驚喜。",
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Side Profile Portrait",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Ivory and Gold"
+    },
+    "season": "autumn",
+    "story": "夕陽將燈塔與海面染成象牙與金黃交織的抽象線條，秋風撫過船長粗糙蓬亂的毛髮與長白鬍鬚。牠緊抱著剛從防波堤下掏出的古老維京銀器寶藏，翠綠色的單眼透出沉穩的光芒，靜靜守護著這片屬於港口貓群的金色秋日。",
+    "title": "燈塔下的金黃守望",
+    "is_seasonal": true,
+    "avoid_list": [
+      "貓咪伸爪調整設備",
+      "莫蘭迪色調柔和光澤",
+      "百葉窗條紋光影",
+      "日系底片攝影風格",
+      "時間戳記浮水印",
+      "厚塗插畫風格",
+      "鏡子自拍構圖",
+      "精緻微縮立體模型",
+      "複合影像合成風格",
+      "幾何紋理分形視覺",
+      "故障藝術數位干擾"
+    ],
+    "character": "captain",
+    "news_inspiration": [
+      "不丹（廷布）：不丹正式成為東南亞首個消除由狗傳播之狂犬病的國家，達成歷史性的公共衛生里程碑。",
+      "莫三比克（盧熱拉）：莫三比克政府正式宣佈將著名的 Mount Mabu「蝴蝶森林」劃為保護區，保護超過200種珍稀蝴蝶及在地生態。",
+      "芬蘭（赫爾辛基）：業餘尋寶者在芬蘭發現重達10磅的維京時期銀器寶藏，成為今年北歐考古界的重大驚喜。",
+      "美國（德克薩斯州）：一隻原本棲息於中南美洲熱帶雨林的夜行性蜜熊突然現身餐廳後方，隨後在當地動物救援中心的幫助下獲救並安置。",
+      "英國（大不列顛島沿海）：一隻倉鴞在距離海岸70海里的海上意外飛落帆船，最終由英國軍人與野生動物救援團隊聯手接力送回陸地。"
+    ],
+    "character_name": "船長",
+    "prompt": "Side profile portrait of a large stocky brown classic tabby cat captain with bold black stripes, scruffy untidy coarse fur, white chest bib, and white mitten paws, closely embracing a Viking silver pillar with both front paws. The cat has a broad muscular build, a prominent V-shaped notch on its left ear, long white whiskers, and a faded red bandana loosely tied around its neck. Its left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric patch, while its right eye is a single piercing emerald green, gazing at maple leaves drifting over a golden sea. De Stijl art style with neoplasticism influences, geometric abstraction, and horizontal and vertical lines, alongside Rembrandt lighting creating a dramatic chiaroscuro with a 45-degree light source forming a signature triangle of light on the shadowed cheek. Near a moss-covered sunset lighthouse with a soft living patina of damp green organic overgrowth. Color scheme features an ivory and gold palette, creamy off-white base, soft metallic gilding, primary colors, and black and white elements. Visually displaying the date and time '2026-09-16 23:21 UTC' clearly in crisp English text within the autumn scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5705994331,
+    "idea": "採用風格派（De Stijl）幾何構圖與側臉特寫，展現結實的虎斑貓船長戴著深色眼罩、圍著褪色紅頭巾，在苔蘚覆蓋的夕陽燈塔旁，正用雙掌緊緊抱著一根維京銀器柱，凝視楓葉飄過金黃海面。"
   }
 ]
