@@ -3490,5 +3490,42 @@
       "電影分鏡風格",
       "傳統中文與英文排版限制"
     ]
+  },
+  {
+    "comment_id": 5694099159,
+    "news_inspiration": [
+      "肯亞奈洛比的 22 歲工程師研發出 3D 列印機器手，能將老師的口述課程即時翻譯成手語，幫助聽障學童學習科學與數學。",
+      "中國甘肅敦煌的野生馬保護計畫傳出捷報，曾於野外滅絕的普氏野馬經過 40 年復育，族群數量已突破 900 匹並實現自然繁殖。",
+      "美國德州古生物學家穿上潛水衣潛入充水的地下洞穴，成功發掘出冰河時期巨型地懶與巨龜等珍貴古生物化石。",
+      "日本科學家開創離奇微型工程技術，直接將死蚊子的針嘴作為 3D 列印機噴嘴，成功印製出微米等級的精密圖案"
+    ],
+    "avoid_list": [
+      "貓咪伸爪調整設備",
+      "莫蘭迪色調柔和光澤",
+      "百葉窗條紋光影",
+      "日系底片攝影風格",
+      "時間戳記浮水印",
+      "厚塗插畫風格",
+      "鏡子自拍構圖",
+      "精緻微縮立體模型",
+      "複合影像合成風格",
+      "幾何紋理分形視覺",
+      "故障藝術數位干擾"
+    ],
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Candlelight",
+      "texture": "Translucent Resin",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "prompt": "A colored pencil illustration with visible pencil grain, layered hues, and rough sketchbook paper texture, featuring a 3D isometric illustration style with clean geometric forms. A chubby rounded shorthair cat named Mochi, with a white base coat and bright orange patches, has an orange mask on the right half-face extending from the nose bridge across the right cheek to the right ear, while the left face remains entirely white. Mochi features a heart-shaped orange saddle on the dorsal upper back, a solid orange mitten on the right front paw up to the wrist, a pure white left front paw, large round amber eyes, a pink nose with a tiny orange center dot, and short stubby legs with a spherical torso. Mochi is in a traditional bakery at a night market, curiously pressing its right paw down onto a translucent resin-like peanut mochi bread that glows with a faint yellow candlelight. The text '2026-09-16 07:59 UTC' is visually displayed in the image in English. The overall color palette is a saturated blue and yellow complementary contrast, with a warm orange flickering glow, soft dancing shadows, an intimate atmosphere, amber-like clarity, glossy smooth surfaces, and vivid contrasting cool blue and warm yellow with bold balanced energy. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "夜市深夜的花生麻糬",
+    "idea": "這是一幅以色鉛筆畫創作的等距3D插圖，展示了肥嘟嘟的橘白貓麻糬在老街夜市的傳統麵包店裡，好奇地用右爪按壓透著淡黃色燭光、宛如透明樹脂般晶瑩剔透的花生麻糬麵包，整體色彩呈飽和的藍黃互補色對比。",
+    "character": "mochi",
+    "inspiration": "original",
+    "number": 3335,
+    "story": "夜市收攤後，店家點起微弱的燭光，麻糬這顆胖嘟嘟的花生麻糬貓便順利溜進了熟悉的麵包店。牠肚子貼著桌面，那隻亮橘色的「手套」右腳忍不住伸出去，輕輕戳著剛出爐、散發出藍黃光澤的樹脂感鮮奶麻糬皮，眼睛因為甜香而興奮地放大兩倍。",
+    "character_name": "麻糬"
   }
 ]
