@@ -3455,5 +3455,40 @@
     ],
     "story": "達靈頓花園的百葉窗光影如條紋般灑落，立體的衍紙花瓣在陽光下層層綻放。無人機嗡嗡升空，貓咪俯臥在橘紫交織的花叢深處，用鼻子仔細嗅聞著這個帶著微溫的新奇快遞。",
     "comment_id": 5689443220
+  },
+  {
+    "number": 3334,
+    "news_inspiration": [
+      "哥本哈根大學研究團隊於丹麥哥本哈根發表最新科學發現，發現湯加火山爆發產生的鹽分與陽光化學反應，能意外加速消除大氣中的溫室氣體甲烷。",
+      "美國北達科他州的高中科學老師在野外化石尋寶時，意外發現了全球首例成年霸王龍連續行走留下的完整足蹟。",
+      "印度班加羅爾的一名女子帶著父母前往 Google 辦公室進行特別的參觀體驗，溫馨溫暖的家庭互動影片在網路上吸引大量關注。",
+      "不丹正式獲得世界衛生組織認證，成為東南亞第一個成功消除狂犬病公共衛生威脅的國家。"
+    ],
+    "prompt": "A ginger cat intently adjusting a barometer inside a snow-covered weather observation tower. Korean retro hanbok poster illustration style, vintage print texture, typographic border, muted nostalgic palette with striking dual-tone crimson and ice-blue color harmony. Background features a hazy snowstorm night framed by cold blue-white atmospheric lighting and fogged distance, visibility partially obscured by flurries. Window frame crafted from high-gloss puffy inflated PVC material with frozen ice crystals on glass, reflecting warm silhouettes of the solitary observer and cat inside. Full-length vertical composition with refined traditional elegance. Prominently displays the text '2026-09-16 02:08 UTC' formatted in clean English typography integrated into the poster frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Retro Hanbok Poster Illustration",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Inflatable PVC",
+      "color_palette": "Crimson and Ice Blue"
+    },
+    "comment_id": 5690963960,
+    "idea": "採用韓服復古海報插畫風格，一隻橘貓正專注地在一座覆滿冰雪的氣象觀測塔內撥弄著氣壓計，身後是緋紅冰藍交織的暴風雪朦朧夜景。",
+    "inspiration": "original",
+    "title": "雪域測風記",
+    "story": "孤獨的觀測員在風雪中堅守，唯有靈巧的貓咪陪伴著記錄每一次氣壓的跳動。冰晶凝結在充氣PVC質感的窗櫺上，映照出一人一貓溫暖的剪影。",
+    "avoid_list": [
+      "貓咪伸爪探入泥坑",
+      "黑爾辛基古銀幣",
+      "水珠濕膚肌理",
+      "玻璃水晶質感",
+      "紫粉色調與薰衣草色",
+      "鏡像異我與自拍構圖",
+      "斑駁光影與斑駁紙印質感",
+      "巨人尺寸與巨型貓咪",
+      "莫蘭迪色調",
+      "電影分鏡風格",
+      "傳統中文與英文排版限制"
+    ]
   }
 ]
