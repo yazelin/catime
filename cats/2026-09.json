@@ -3838,5 +3838,45 @@
     ],
     "story": "麻糬在老街夜市攤位間巡邏，無意中觸發了攤位角落的星圖微光，浮現出一顆散發橘紫光芒的花生麻糬全像投影。牠睜大兩倍大的圓眼，嘴角掛著饞樣，肚子隨呼吸輕輕晃動，渾然不知這只是由冰霜結晶與月輝交織構成的光影幻象。",
     "news_inspiration": []
+  },
+  {
+    "idea": "以超寫實動漫風格呈現在古董書店角落，墨墨優雅地趴在亮橘與深紅相間的楓葉色封面古籍上，側頭用爪子輕碰一隻停棲在書籍旁的擬真紙藝蝴蝶，背景以細緻的大地色系衍紙藝術構成巨幅油紙傘光暈。",
+    "inspiration": "莫桑比克正式將盧蓋拉區的馬布山（Mount Mabu）指定為受保護的蝴蝶森林，為當地超過200種特有蝴蝶及珍貴野生動植物提供永久庇護。",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "花生麻糬",
+      "四腳踩地或站立貓咪",
+      "莫蘭迪與柔和粉彩配色",
+      "星雲輝光與宇宙光芒",
+      "曼陀羅與幾何圖騰",
+      "生物發光與螢光效果",
+      "夜市與老街場景",
+      "全息投影與科幻光束",
+      "電影感光影與強烈對比",
+      "微型滑板與運動追焦",
+      "青花瓷藍白配色與金箔祥雲"
+    ],
+    "character": "momo",
+    "character_name": "墨墨",
+    "news_inspiration": [
+      "莫桑比克正式將盧蓋拉區的馬布山（Mount Mabu）指定為受保護的蝴蝶森林，為當地超過200種特有蝴蝶及珍貴野生動植物提供永久庇護。",
+      "芬蘭出土了重達10磅的維京時期銀器，為斯堪地那維亞半島今年的考古寶藏發現再添一筆令人興奮的重大記錄。",
+      "日本北海道大學科學家研究發現，日本產的黑米與綠米含有獨特的健康脂肪與較慢消化的澱粉，有助於支持人體代謝健康。",
+      "不丹正式成為東南亞第一個消除犬隻傳播狂犬病的國家，世界衛生組織對此項長達十年的公共衛生成就表達高度肯定。"
+    ],
+    "is_seasonal": true,
+    "number": 3345,
+    "season": "autumn",
+    "story": "窗外微風拂過，秋意正濃。墨墨靜靜地蜷縮在沉穩的大地色系書堆頂端，修長的尾巴輕拂過亮橙色的書脊，金琥珀色的眼睛好奇地凝視著書頁間振翅般的紙雕蝴蝶，享受著專屬於牠與古書的靜謐午後。",
+    "comment_id": 5722475835,
+    "prompt": "Hyperrealistic anime portrait of a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, warm brown undertones in light, athletic build, and a slight upward curl at the tail tip. Large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring at the tail tip, and a single small gold hoop earring at the mid-ear edge of its left ear (viewer perspective). The cat rests gracefully in an antique bookstore corner atop an autumnal, deep-red and bright-orange maple leaf-patterned vintage book, gently tapping a lifelike paper art butterfly with its paw. Oriental portrait staging with a grand background halo formed by an opened oiled-paper umbrella made of intricate paper quilling art, featured with delicate coiled paper strips and curling loops in an earth tone palette of terracotta, olive green, and warm brown. Autumn setting, soft diffused natural lighting with gentle light and shadow play. Visually displayed in clean crisp text on the scene is the timestamp '2026-09-17 23:12 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "楓香古卷的影子",
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Paper Parasol Backdrop Frame",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Paper Quilling",
+      "color_palette": "Earth Tones"
+    }
   }
 ]

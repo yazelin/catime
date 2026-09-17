@@ -31439,5 +31439,18 @@
     "title": "星圖幻影下的麻糬巡邏",
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-17_2312_UTC.webp",
+    "timestamp": "2026-09-17 23:12 UTC",
+    "inspiration": "莫桑比克正式將盧蓋拉區的馬布山（Mount Mabu）指定為受保護的蝴蝶森林，為當地超過200種特有蝴蝶及珍貴野生動植物提供永久庇護。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "momo",
+    "character_name": "墨墨",
+    "is_seasonal": true,
+    "status": "success",
+    "number": 3345,
+    "title": "楓香古卷的影子",
+    "season": "autumn"
   }
 ]
