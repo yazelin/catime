@@ -3662,5 +3662,41 @@
     "prompt": "Side profile portrait of a large stocky brown classic tabby cat captain with bold black stripes, scruffy untidy coarse fur, white chest bib, and white mitten paws, closely embracing a Viking silver pillar with both front paws. The cat has a broad muscular build, a prominent V-shaped notch on its left ear, long white whiskers, and a faded red bandana loosely tied around its neck. Its left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric patch, while its right eye is a single piercing emerald green, gazing at maple leaves drifting over a golden sea. De Stijl art style with neoplasticism influences, geometric abstraction, and horizontal and vertical lines, alongside Rembrandt lighting creating a dramatic chiaroscuro with a 45-degree light source forming a signature triangle of light on the shadowed cheek. Near a moss-covered sunset lighthouse with a soft living patina of damp green organic overgrowth. Color scheme features an ivory and gold palette, creamy off-white base, soft metallic gilding, primary colors, and black and white elements. Visually displaying the date and time '2026-09-16 23:21 UTC' clearly in crisp English text within the autumn scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5705994331,
     "idea": "採用風格派（De Stijl）幾何構圖與側臉特寫，展現結實的虎斑貓船長戴著深色眼罩、圍著褪色紅頭巾，在苔蘚覆蓋的夕陽燈塔旁，正用雙掌緊緊抱著一根維京銀器柱，凝視楓葉飄過金黃海面。"
+  },
+  {
+    "story": "在懸浮於半空的紅金紙雕島嶼上，一隻擁有虹彩全息毛色的橘貓正專注地用前爪推開海邊的珊瑚礫石，為剛孵化的小海龜清理出一條通道。海灘上數以萬計的發光紙海龜順著牠劃開的痕跡，在陣陣發光浪花中奔向深藍色的夜航大海。",
+    "idea": "採用立體紙藝景風格，展現一隻浮島上的貓咪於夜間海灘運用發光爪印指引成千上萬隻發光紙雕海龜歸海的大陸登陸盛況。",
+    "prompt": "A three-dimensional layered paper sculpture style diorama of a floating island in the sky with white clouds, aerial perspective, featuring a ginger cat with iridescent holographic material, rainbow color shift on transparent PVC, pastel prismatic reflections, shimmering translucent surface, focused on its paws clearing a path in coral gravel. Thousands of glowing paper-sculpted sea turtles follow its glowing paw print path across the beach amidst bioluminescent lighting, deep blue-green radiance, and underwater phosphorescence. Backlit warm glow through translucent layers, pop-up book aesthetic, soft textured paper mountains, miniature handmade landscape, festive red and gold palette, auspicious Chinese red dominance with bright gold accents, celebratory warmth. The date and time text '2026-09-17 02:12 UTC' is visually displayed in Traditional Chinese characters as '2026年9月17日 02:12 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "紅金浮島的萬龜夜航",
+    "comment_id": 5707415989,
+    "news_inspiration": [
+      "在墨西哥瓦哈卡州的海灘上，超過33萬隻海龜展開年度大規模登陸產卵的壯觀自然奇景。",
+      "在坦尚尼亞，科學家發表了距今約2.4億年前的新古生物物種「Dinodontosaurus isiyavamanda」化石，有助於重新定義早期的恐龍演化時間軸。",
+      "在印度，第四年級的工科學生 Himaja Lingampally 發明了一款語音控制的點字列印機，成功榮獲 2026 年詹姆斯·戴森設計獎（James Dyson Award）印度區冠軍。",
+      "在日本佐野市，印度與日本板球隊將於9月22日舉行兩國歷史上首次的T20國際賽事，以此慶祝印日建交75週年紀念。"
+    ],
+    "number": 3340,
+    "avoid_list": [
+      "貓咪以爪子撥弄物體",
+      "UTC時間戳記文字",
+      "東方廢土巨構風格",
+      "微型立體模型場景",
+      "故障藝術數位干擾",
+      "青花藍白瓷器工坊",
+      "高對比互補色調",
+      "俯瞰鳥瞰構圖視角",
+      "色鉛筆畫等距插圖",
+      "運動追焦攝影風格",
+      "緋紅與烏黑交織",
+      "韓服復古海報插畫"
+    ],
+    "inspiration": "在墨西哥瓦哈卡州的海灘上，超過33萬隻海龜展開年度大規模登陸產卵的壯觀自然奇景。",
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Floating Island Scene",
+      "lighting": "Bioluminescence",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Festive Red and Gold"
+    }
   }
 ]
