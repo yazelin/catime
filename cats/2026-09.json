@@ -3698,5 +3698,45 @@
       "texture": "Iridescent Holographic",
       "color_palette": "Festive Red and Gold"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Symmetrical Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Ink-Bleed on Silk",
+      "color_palette": "High Saturation Vivid"
+    },
+    "season": "autumn",
+    "inspiration": "莫三比克的曼布山「蝴蝶森林」獲得政府正式設立為自然保護區，成功保護了當地超過200種珍貴的蝴蝶物種與特有生態。",
+    "idea": "採用交叉沖洗風格與對稱構圖，展現極具毛量的蓬鬆白貓鈴鈴正向後彈開的瞬間，背景為充滿星雲輝光的莫三比克曼布山「蝴蝶森林」自然保護區落葉花園。",
+    "story": "身著精細粉紅小毛衣的布偶貓鈴鈴正興奮地在落葉堆裡打滾，全身纏滿了緋紅與金黃的秋葉。當一隻珍稀的珍貴蝴蝶翩翩飛過，她忍不住上前嗅聞卻打了個大噴嚏，整隻毛茸茸如棉花糖般的身軀瞬間往後彈飛，脖子上的粉紅鈴鐺發出清脆響亮的叮鈴聲。",
+    "prompt": "A symmetrical composition illustration with cross processing print style and vivid color shifts. An extremely fluffy pure white Ragdoll cat named Lingling, wearing a delicate pink sweater and a pink ribbon bow collar with a golden bell clearly visible beneath the knot, recoils backward in surprise from a colorful butterfly in an autumn leaf garden within Mount Mabu Reserve. Fallen crimson and golden leaves fly around her puffy fur. Soft nebula cosmic glow and starfield illumination fill the backdrop with ethereal purple and blue space light and glowing particles. The entire scene has an ink-bleed on silk texture, with soft diffused washes and high contrast color gradients. In the bottom corner, the text '2026-09-17 08:05 UTC' is visually displayed in clear English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5711120113,
+    "avoid_list": [
+      "貓咪以爪子撥弄物體",
+      "UTC時間戳記文字",
+      "東方廢土巨構風格",
+      "微型立體模型場景",
+      "故障藝術數位干擾",
+      "青花藍白瓷器工坊",
+      "高對比互補色調",
+      "俯瞰鳥瞰構圖視角",
+      "色鉛筆畫等距插圖",
+      "運動追焦攝影風格",
+      "緋紅與烏黑交織",
+      "韓服復古海報插畫"
+    ],
+    "news_inspiration": [
+      "不丹王國正式宣佈成功在全國消除由犬隻傳播的狂犬病，成為東南亞首個達成此公共衛生里程碑的國家。",
+      "莫三比克的曼布山「蝴蝶森林」獲得政府正式設立為自然保護區，成功保護了當地超過200種珍貴的蝴蝶物種與特有生態。",
+      "科學家在研究中發現，運動前單純聞巧克力（尤其是黑巧克力）的香氣，能有效幫助男性在訓練中完成更多次數且不易感到疲勞。",
+      "澳洲科學家將新發現的昆蟲物種命名為「Swiftiephylus」，以此向知名歌手泰勒絲（Taylor Swift）致敬。"
+    ],
+    "title": "秋葉與鈴聲的交響曲",
+    "character": "lingling",
+    "is_seasonal": true,
+    "character_name": "鈴鈴",
+    "number": 3341
   }
 ]
