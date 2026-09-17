@@ -3769,5 +3769,41 @@
       "texture": "Silk",
       "color_palette": "Teal and Orange"
     }
+  },
+  {
+    "avoid_list": [
+      "貓咪以爪子撥弄物體",
+      "UTC時間戳記文字",
+      "東方廢土巨構風格",
+      "微型立體模型場景",
+      "故障藝術數位干擾",
+      "青花藍白瓷器工坊",
+      "高對比互補色調",
+      "俯瞰鳥瞰構圖視角",
+      "色鉛筆畫等距插圖",
+      "運動追焦攝影風格",
+      "緋紅與烏黑交織",
+      "韓服復古海報插畫"
+    ],
+    "style_picks": {
+      "art_style": "Dreamy Pastel Macro",
+      "composition": "Centered Subject Composition",
+      "lighting": "Direct Flash",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 3343,
+    "news_inspiration": [
+      "瑞士蘇黎世（ETH Zurich）：科學家發表最新研究指出，透過解析小腦的神經元信號，成功重現了老鼠視覺中的影像片段，為腦科學與視覺重建帶來趣味突破。",
+      "印度卡塔克（Cuttack）：一群聽障與語障的在地藝術家，運用250公斤的泥土合作雕塑出高達15英呎的半男半女象神像，展現驚人的藝術創意與堅韌毅力。",
+      "比利時布魯塞爾（Brussels）：一年一度的「漫畫節」於證券交易所一帶熱鬧登場，巨型氣球遊行與多元漫威動畫活動吸引眾多動漫迷共襄盛舉。",
+      "德國慕尼黑（Munich）：全球矚目的慕尼黑啤酒節（Oktoberfest）即將隆重揭幕，吸引來自世界各地的遊客前來體驗傳統巴伐利亞啤酒文化與歡樂慶典。"
+    ],
+    "prompt": "A macro photograph of a curious calico cat lying on a laboratory desk, intently licking a cool glass slide projecting a visual reconstruction of a mouse brain neural map. The scene features dreamy pastel macro photography, soft-focus close-up, muted pink and teal color grading, floating bokeh particles, ethereal shallow depth of field, atmospheric haze, centered composition, harsh direct on-camera flash, blown-out highlights, hard shadows, raw candid snapshot look, cotton candy cloud texture, fluffy pastel pink and blue cumulus puffs, marshmallow-like softness, Morandi muted color palette, desaturated soft pastels, dusty grey undertones, quiet elegance. The date and time 2026-09-17 17:49 UTC is visually displayed as text in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在莫蘭迪色調的沉靜背景下，一隻三花貓趴在試驗桌前，專注地舔舐著一塊投影出老鼠大腦神經元視覺重建圖譜的冰涼玻璃片，整幅畫面呈現夢幻粉彩微距與棉花糖雲朵般綿密的質感。",
+    "comment_id": 5718858866,
+    "title": "腦波重現的舌尖微光",
+    "story": "瑞士實驗室裡傳來機器運轉的微弱嗡鳴，老鼠腦海中的視覺畫面正被精準還原於微型螢幕上。這隻性格好奇的喵星人將其當成了最有趣的互動玩具，不斷用舌頭撫平螢幕上的光影波動。直打閃光燈捕捉到了那一瞬間凝結的極致專注與柔和的莫蘭迪粉彩。",
+    "inspiration": "瑞士蘇黎世（ETH Zurich）：科學家發表最新研究指出，透過解析小腦的神經元信號，成功重現了老鼠視覺中的影像片段，為腦科學與視覺重建帶來趣味突破。"
   }
 ]
