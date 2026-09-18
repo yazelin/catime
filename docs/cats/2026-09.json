@@ -3953,5 +3953,36 @@
       "texture": "Marble",
       "color_palette": "Gold and Black Luxury"
     }
+  },
+  {
+    "title": "客棧算盡江湖帳",
+    "idea": "這是一幅採用寫實武俠角色設計風格的鳥瞰視角畫面，融合倫勃朗光與朱紅留白配色，展示一隻穿戴著珠飾水鑽鑲嵌鞍具的橘貓在古樸客棧酒案上伏臥撥弄算盤的景象。",
+    "inspiration": "original",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "花生麻糬",
+      "四腳踩地或站立貓咪",
+      "莫蘭迪與柔和粉彩配色",
+      "星雲輝光與宇宙光芒",
+      "曼陀羅與幾何圖騰",
+      "生物發光與螢光效果",
+      "夜市與老街場景",
+      "全息投影與科幻光束",
+      "電影感光影與強烈對比",
+      "微型滑板與運動追焦",
+      "青花瓷藍白配色與金箔祥雲"
+    ],
+    "number": 3348,
+    "story": "寂靜的龍門客棧內，燭影搖紅，一位身穿朱紅與純白刺青錦袍的俠客正低頭擦拭長劍。桌案上的橘貓靜靜地伏於木頭上，偶爾伸出前爪輕輕撥弄著算盤珠，替主人清算著江湖恩怨的帳目。",
+    "prompt": "photorealistic wuxia character design, cinematic full-body concept render, top-down bird's-eye view of an orange cat wearing ornate jeweled saddle with beaded rhinestone embellishments, encrusted glittering gems and pearls, lying prone on an ancient rustic tavern wooden table and playfully pawing an abacus, gritty jianghu atmosphere, Rembrandt lighting, single light source at 45 degrees, signature triangle of light on shadowed cheek, dramatic chiaroscuro, vermilion and white palette, bold cinnabar red on clean negative-space white, minimalist oriental balance, crisp graphic elegance, the text '2026-09-18 12:26' is visually displayed IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5729980803,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Photorealistic Wuxia Character Design",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Vermilion and White"
+    }
   }
 ]
