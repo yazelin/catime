@@ -1134,6 +1134,26 @@
       "zh": "紙雕花境仙裙人像",
       "en": "Paper-Sculpture Floral Gown Portrait",
       "prompt": "paper-sculpture floral gown portrait, figure wearing a couture dress built from hand-cut paper blossoms, layered petal reliefs surrounding her, matte textured cardstock craft, soft studio light, ethereal handmade elegance"
+    },
+    {
+      "zh": "機車女郎厚塗插畫",
+      "en": "Painterly Biker Girl Illustration",
+      "prompt": "painterly biker girl illustration, confident woman in glossy leather riding gear posed with a motorcycle, bold impasto digital brushwork, sharp attitude and strong silhouette, semi-realistic poster rendering"
+    },
+    {
+      "zh": "獸耳美人插畫",
+      "en": "Beast-Eared Beauty Illustration",
+      "prompt": "beast-eared beauty illustration, alluring maiden with animal ears and fox-like tails, soft fur accents framing delicate skin, mystical spirit-fox aura, semi-realistic fantasy character art"
+    },
+    {
+      "zh": "獸伴幻境插畫",
+      "en": "Fantasy Beast Companion Illustration",
+      "prompt": "fantasy beast companion illustration, figure accompanied by a majestic mythical creature, bonded guardian-and-master pairing, epic otherworldly landscape, luminous magical atmosphere"
+    },
+    {
+      "zh": "苗族銀飾盛裝人像",
+      "en": "Miao Silver Regalia Portrait",
+      "prompt": "Miao silver regalia portrait, ethnic Chinese Miao beauty in full ceremonial headdress, layered engraved silver ornaments and tiered neck rings, indigo embroidered costume, solemn folk-heritage elegance"
     }
   ],
   "composition": [
@@ -1371,6 +1391,16 @@
       "zh": "前景遮擋虛化構圖",
       "en": "Blurred Foreground Occlusion",
       "prompt": "blurred foreground occlusion composition, out-of-focus flowers and leaves partly covering the lens, subject glimpsed through a soft screen of foreground shapes, layered depth and intimate peeking view"
+    },
+    {
+      "zh": "背影回眸構圖",
+      "en": "Over-the-Shoulder Look-Back",
+      "prompt": "over-the-shoulder look-back composition, subject seen from behind turning to glance at the camera, exposed back and sweeping hairline, intimate backward gaze, elegant rear-view framing"
+    },
+    {
+      "zh": "巨獸前景並置構圖",
+      "en": "Beast-Foreground Companion Composition",
+      "prompt": "beast-foreground companion composition, a huge creature looming in the near foreground beside the human subject, side-by-side scale pairing, layered depth between beast and figure, imposing dual-subject framing"
     }
   ],
   "lighting": [
@@ -1800,6 +1830,16 @@
       "zh": "絲質暈染墨紋",
       "en": "Ink-Bleed on Silk",
       "prompt": "ink-bleed on silk texture, ink diffusing and feathering into the woven fabric, soft blurred wash edges, tonal gradients seeping through the weave, delicate fluid staining"
+    },
+    {
+      "zh": "亮面漆皮肌理",
+      "en": "Patent Leather Texture",
+      "prompt": "patent leather texture, lacquered mirror-gloss hide with sharp specular highlights, wet-look glossy surface, taut reflective sheen, sleek high-shine fashion material"
+    },
+    {
+      "zh": "羽毛肌理",
+      "en": "Feather Texture",
+      "prompt": "feather texture, layered soft plumage with fine barbs, downy edges catching light, delicate overlapping quills, airy natural detail"
     }
   ],
   "color_palette": [
@@ -1932,6 +1972,21 @@
       "zh": "珊瑚粉靛藍",
       "en": "Coral Pink and Prussian Blue",
       "prompt": "coral pink and Prussian blue palette, warm salmon tones against deep inky blue, rich complementary depth, elegant editorial contrast"
+    },
+    {
+      "zh": "米白紅黑三色",
+      "en": "Ivory Red and Black Triad",
+      "prompt": "ivory, red and black triadic palette, warm off-white ground with bold red forms and jet-black accents, crisp three-tone graphic balance, restrained folk-poster contrast"
+    },
+    {
+      "zh": "孔雀藍描金",
+      "en": "Peacock Blue and Gold",
+      "prompt": "peacock blue and gold palette, deep teal-blue expanse traced with metallic gold outlines, jewel-toned oriental opulence, lustrous regal richness"
+    },
+    {
+      "zh": "緋紅蒼綠",
+      "en": "Crimson and Sage Green",
+      "prompt": "crimson and sage green palette, vivid deep red against muted grey-green, complementary red-green tension, antique decorative harmony"
     }
   ]
 }
