@@ -3984,5 +3984,45 @@
       "texture": "Beaded Rhinestone Embellishment",
       "color_palette": "Vermilion and White"
     }
+  },
+  {
+    "idea": "在橘紫互補色調的空靈夜花奇幻插畫中，一隻白色長毛布偶貓正穿著小毛衣在落葉堆裡打滾，毛上沾滿紅葉，運用細密點刻肌理與斑駁光影呈現淺景深特寫。",
+    "style_picks": {
+      "art_style": "Ethereal Nocturnal Fantasy Illustration",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Dappled Light",
+      "texture": "Stippled Dot Texture",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "inspiration": "original",
+    "title": "秋夜棉花糖",
+    "season": "autumn",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "日本（名古屋/愛知）：2026年第20屆亞洲運動會於9月19日在日本愛知縣與名古屋市隆重揭幕，展開為期多天的精彩體育賽事。",
+      "美國（夏威夷）：夏威夷研究團隊成功將回收的舊漁網與海洋廢棄塑料融入道路鋪設中，開創出可兼顧環保與耐用度的鋪路新技術。",
+      "丹麥（哥本哈根）：丹麥成功將退役的風力發電機葉片重新設計並轉化為公共自行車停放棚，為大型廢棄物的循環再利用樹立了創新典範。",
+      "不丹（廷布）：世界衛生組織（WHO）宣布不丹成為東南亞首個成功消除狂犬病的國家，展現了長期致力於動物疫苗接種與社區預防的重大成果。"
+    ],
+    "prompt": "ethereal nocturnal fantasy illustration of an extremely fluffy pure white longhair Ragdoll cat with huge round sapphire-blue eyes, wearing a small pink ribbon bow collar with a centered golden bell and a small autumn sweater, playfully rolling in a pile of autumn red leaves in a nocturnal garden, text '2026-09-18 16:46 UTC' displayed visually, dense hand-inked stipple shading, fine engraved dot clusters building tone, meticulous pen-and-ink grain, shallow depth-of-field close-up, subject sharp against creamy blurred background, soft bokeh, dappled light, soft mottled shadow patterns, orange and violet complementary palette, vivid warm orange against deep purple, bold dual-tone contrast, striking graphic energy IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5733226053,
+    "number": 3349,
+    "character": "lingling",
+    "is_seasonal": true,
+    "story": "秋夜的花園裡，蓬鬆如棉花糖的鈴鈴興奮地在落葉堆中翻滾，粉紅鈴鐺伴隨著清脆叮鈴聲響起。她一不小心打了個噴嚏往後彈，惹得周圍的夜花也跟著輕輕搖曳。",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "花生麻糬",
+      "四腳踩地或站立貓咪",
+      "莫蘭迪與柔和粉彩配色",
+      "星雲輝光與宇宙光芒",
+      "曼陀羅與幾何圖騰",
+      "生物發光與螢光效果",
+      "夜市與老街場景",
+      "全息投影與科幻光束",
+      "電影感光影與強烈對比",
+      "微型滑板與運動追焦",
+      "青花瓷藍白配色與金箔祥雲"
+    ]
   }
 ]
