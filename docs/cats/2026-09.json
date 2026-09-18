@@ -3918,5 +3918,40 @@
       "color_palette": "Bamboo Jade Green"
     },
     "character_name": "船長"
+  },
+  {
+    "idea": "在蒸氣波風格的金黑大理石宮殿中，一隻真實的四腳黑貓正專注地用爪子撥弄著一座古董座鐘的發條，整體構圖呈現迷幻的螺旋漩渦。高調明亮光灑落在大理石地面上，映襯出奢華的金色反光。",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "花生麻糬",
+      "四腳踩地或站立貓咪",
+      "莫蘭迪與柔和粉彩配色",
+      "星雲輝光與宇宙光芒",
+      "曼陀羅與幾何圖騰",
+      "生物發光與螢光效果",
+      "夜市與老街場景",
+      "全息投影與科幻光束",
+      "電影感光影與強烈對比",
+      "微型滑板與運動追焦",
+      "青花瓷藍白配色與金箔祥雲"
+    ],
+    "comment_id": 5726462467,
+    "news_inspiration": [
+      "奧地利維也納的一位有機農夫發現家中的母牛「維羅妮卡」（Veronika）竟能靈巧地使用工具，成為科學界首次記錄到的牛類使用工具案例。",
+      "莫三比克政府於盧熱拉區（Lugela）正式將擁有逾200種蝴蝶物種的馬布山（Mount Mabu）劃設為保護區，全力維護這片珍貴的生態棲地。",
+      "瑞士蘇黎世聯邦理工學院（ETH Zurich）發表最新研究，發現地球幾乎完全由太陽系內側物質形成，顛覆了過往對地球形成與水源來源的傳統認知。"
+    ],
+    "prompt": "A real photograph of a realistic four-legged black cat focused on gently batting at the winding key of an antique grandfather clock with its paw. Set inside a vaporwave aesthetic marble palace, the composition features a dizzying spiral vortex around the central subject with architectural circular structures coiling around, a strong rotational perspective, and a centered vanishing point from a cinematic low angle. High-key bright lighting creates an airy overexposed feel with soft even illumination, minimal shadows, and a luminous clean atmosphere. The interior displays polished black and gold marble textures with natural vein patterns and luxurious metallic gold accents against deep black stone surfaces. Soft pastel pink and cyan gradient highlights subtly intermingle with classical architectural elements. On the face of the antique clock, the text '2026-09-18 07:03 UTC' is clearly and visibly displayed. Shot on 35mm lens, f/1.8, natural light, shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "當時間的齒輪在黃金迴廊中倒轉，黑貓以它神祕而靜謐的步伐，輕輕撥動了歷史的脈搏。在光影交錯的螺旋世界裡，每一個瞬間都化為永恆的奢華記憶。",
+    "title": "黃金螺旋的時光迷宮",
+    "inspiration": "original",
+    "number": 3347,
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Marble",
+      "color_palette": "Gold and Black Luxury"
+    }
   }
 ]
