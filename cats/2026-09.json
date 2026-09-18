@@ -3878,5 +3878,45 @@
       "texture": "Paper Quilling",
       "color_palette": "Earth Tones"
     }
+  },
+  {
+    "season": "autumn",
+    "story": "夕陽將漁港外的燈塔染上金黃，幾片楓葉隨著海風飄過浪尖。船長巡邏完碼頭後登頂吹風，雖然眼神一如既往地堅毅沉穩，嘴裡叼著剛收穫的肥美鮮魚卻暴露了牠的小癖好。",
+    "character": "captain",
+    "news_inspiration": [
+      "德國博格辛（Burgsinn）的一間連鎖超市突遭約 50 只羊群誤闖巡視，在貨架走道間穿梭尋寶，讓店員與顧客啼笑皆非。",
+      "奧地利維也納獸醫大學的科學家發現一頭名為 Veronika 的母牛竟能熟練使用工具，顛覆了過往對牛隻智力的認知。",
+      "丹麥哥本哈根推行獨特的「真人圖書館」閱讀花園，讓民眾可以像借閱圖書一樣「借閱」不同背景的人進行深度交流與理解。",
+      "莫三比克政府正式宣佈將盧熱拉區（Lugela）棲息著超過 200 種蝴蝶的「馬布山蝴蝶森林」劃為國家自然保護區。"
+    ],
+    "title": "燈塔夕照下的秋日海風",
+    "comment_id": 5723946548,
+    "is_seasonal": true,
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "花生麻糬",
+      "四腳踩地或站立貓咪",
+      "莫蘭迪與柔和粉彩配色",
+      "星雲輝光與宇宙光芒",
+      "曼陀羅與幾何圖騰",
+      "生物發光與螢光效果",
+      "夜市與老街場景",
+      "全息投影與科幻光束",
+      "電影感光影與強烈對比",
+      "微型滑板與運動追焦",
+      "青花瓷藍白配色與金箔祥雲"
+    ],
+    "prompt": "A Q-version chibi sticker character set style illustration of Captain, a stocky brown classic tabby cat with bold black stripes, scruffy coarse untidy fur, a prominent V-shaped notch on his left ear, a faded red bandana tied around his neck, a white chest bib, and white mitten paws. His left eye is completely hidden by a natural dark brown fur patch covering the socket with no straps or fabric patch, while his right eye is a piercing emerald green. He has an autumn-themed look, lying flat on his belly on top of a wrought iron filigree lighthouse guardrail. He is holding a large fish in his mouth as prey. The background shows maple leaves drifting over the ocean during a golden sunset, framed with soft bamboo jade-green and emerald palette tones. The composition is an intimate shallow depth-of-field close-up with soft bokeh and a cute kawaii sticker-pack layout with die-cut white outlines. Bright flat colors with decorative Victorian architectural ironwork patterns. Superimposed crisp digital text displaying '2026-09-18 01:58 UTC' is visually displayed in the corner of the image in a clean font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用Q版貼圖角色集風格，左眼戴深色眼罩、脖圍褪色紅頭巾的虎斑貓船長，正趴在燈塔頂端的鑄鐵雕花護欄前，一邊看著落日下楓葉飄落海面，一邊叼著一條作為獵物的大魚，畫面呈現淺景深特寫與竹影翠綠色調。",
+    "number": 3346,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Chibi Sticker Character Set",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Direct Flash",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "character_name": "船長"
   }
 ]

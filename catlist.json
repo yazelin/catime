@@ -31452,5 +31452,18 @@
     "number": 3345,
     "title": "楓香古卷的影子",
     "season": "autumn"
+  },
+  {
+    "season": "autumn",
+    "character": "captain",
+    "status": "success",
+    "title": "燈塔夕照下的秋日海風",
+    "is_seasonal": true,
+    "character_name": "船長",
+    "inspiration": "original",
+    "number": 3346,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-09-18 01:58 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-18_0158_UTC.webp"
   }
 ]
