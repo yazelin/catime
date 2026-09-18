@@ -31505,5 +31505,13 @@
     "inspiration": "original",
     "title": "原子水底的鋼鐵巡視",
     "status": "success"
+  },
+  {
+    "number": null,
+    "status": "failed",
+    "timestamp": "2026-09-18 22:00 UTC",
+    "model": "all failed",
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno 111] Connection refused>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: All connection attempts failed",
+    "url": null
   }
 ]
