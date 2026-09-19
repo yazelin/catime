@@ -4304,5 +4304,40 @@
     "title": "紅緞機車繡夢靈",
     "number": 3358,
     "idea": "採用刺繡藝術風格與中國紅金配色，呈現一隻玳瑁貓正穿梭於滿佈經典機車刺繡圖案的布景中，伸爪細心梳理著機車皮衣車縫線的畫面。"
+  },
+  {
+    "idea": "在東方奇幻海報風格中，一隻身披立體刺繡盤花紋理的白貓，踏著朱紅與留白交織的雲紋巨塔，凝視著浮空展開的多視角華服解構圖卷。",
+    "title": "霓裳雲譜靈貓圖",
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "avoid_list": [
+      "貓用爪子撥弄物件",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "淺景深特寫與柔焦光影",
+      "橘紫互補配色調",
+      "繁體中文與英文文字標籤",
+      "古籍與紙藝蝴蝶組合",
+      "夜市攤位與小吃主題",
+      "雙色光影與發光特效",
+      "Q版貼圖與印花風格",
+      "黑貓與古董物件搭配"
+    ],
+    "prompt": "An oriental mythic poster art piece styled like a fashion design sheet and lookbook reference guide, featuring a majestic white cat covered in raised embroidered coiled-flower texture with three-dimensional satin-stitch blossoms and tactile gold-couched petals. The cat walks along a massive cloud-patterned tower painted in bold vermilion and clean negative-space white, gazing at a floating multi-view textile blueprint displaying front, back, side, and detail close-up panels. Surrounded by glowing silhouette edges and rim light from scattering light diagrams on a deep black background with gold leaf accents, vertical calligraphy panels, and red seal stamps. In the corner, the text '2026-09-19 23:44 UTC' is clearly visually displayed in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這隻守護靈獸漫步於神祕的神裁衣坊中，身側懸浮著無數道散發輪廓光的光芒圖譜。牠輕撫著細緻的刺繡布幔，將千年間世人織就的命運錦袍一一檢視與裁定。",
+    "news_inspiration": [
+      "日本北海道札幌市的科學家研究發現，黑米與綠米含有獨特的健康脂肪酸，有助於支援人體新陳代謝與血糖控制。",
+      "英國倫敦的學者研究指出，在英國小學推遲讓學童使用智慧型手機的計畫，有效提升了兒童的心理健康與睡眠品質。",
+      "德國慕尼黑的足球明星哈里·凱恩在德國足球甲級聯賽中創下歷史紀錄，以僅僅98場比賽成為德甲歷史上最快攻入100球的球員。"
+    ],
+    "comment_id": 5746202352,
+    "number": 3359,
+    "inspiration": "original"
   }
 ]
