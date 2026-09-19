@@ -4194,5 +4194,44 @@
     },
     "prompt": "Illustrated story page layout featuring a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, large luminous golden-amber eyes, and a single small gold hoop earring on its LEFT ear. Momo is perched gracefully on the edge of a fossilized dinosaur footprint cliff, looking down with a calm, proud expression at a massive glass tube filled with a cascading Mediterranean blue citrus sparkling drink. Bright Mediterranean dreamy beverage photography aesthetics integrated with shoujo manga storybook paneling: decorative top title banner, multiple irregular panels, and dialogue bubbles. Fluorescent UV dual-tone illumination with radiant neon colors against a dark background, contrasting azure sea hues and warm glowing accents. The timestamp '2026-09-19 13:32 UTC' is visibly displayed in clear typography at the corner of the layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5742315622
+  },
+  {
+    "news_inspiration": [
+      "世界衛生組織（WHO）宣布智利聖地牙哥成功消除由犬隻傳播狂犬病的公共衛生威脅，成為南美洲首個達成此歷史性里程碑的國家。",
+      "世界衛生組織（WHO）於今年九月驗證帝力，宣布東帝汶成功消除盲眼主要傳染病「沙眼」，代表世衛東南亞區域全面消除該疾病。",
+      "英國倫敦的大學研究發現閱讀能顯著增進認知與身體健康，全英青少年人類乳突病毒（HPV）疫苗接種率達九成並有效預防相關癌症。",
+      "奧地利維也納獸醫大學的科學家紀錄到一隻名為 Veronika 的母牛能靈活使用工具，打破過往僅在黑猩猩等少數靈長類動物觀察到的智慧行為紀錄。",
+      "澳洲凱恩斯外海的公民科學團隊在大堡礁發現一片面積達 3,973 平方公尺的巨型珊瑚群，為海洋生態保育帶來重要希望。"
+    ],
+    "avoid_list": [
+      "貓用爪子撥弄物件",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "淺景深特寫與柔焦光影",
+      "橘紫互補配色調",
+      "繁體中文與英文文字標籤",
+      "古籍與紙藝蝴蝶組合",
+      "夜市攤位與小吃主題",
+      "雙色光影與發光特效",
+      "Q版貼圖與印花風格",
+      "黑貓與古董物件搭配"
+    ],
+    "character_name": "鈴鈴",
+    "prompt": "A cute literal cat Lingling, an extremely fluffy pure white longhair Ragdoll cat with cloud-like fur, a small round face nearly hidden in fur, huge round sapphire-blue eyes with a gentle sparkle, pale pink nose and inner ears, wearing a pink ribbon bow collar with a centered small golden bell, and an enormous feathery white plume tail. Lingling is in a greenhouse corner, trying to push a dew bottle toward flower petals with her small paw pad. Chalk art on blackboard, dusty matte texture, colored chalk, visible hatching strokes on dark green slate, eye-level frontal composition, straight-on symmetrical view, subject facing camera directly, venetian blind striped lighting, hard parallel light-and-shadow bands across the subject, film-noir mood, dramatic graphic shadow pattern, moody interior, impasto oil texture, thick palette-knife strokes, raised three-dimensional paint ridges, visible brush gestures, rich tactile painterly surface, navy, crimson and white palette, deep indigo grounds with vivid crimson accents and crisp white highlights, bold tricolor contrast, striking graphic harmony. The text '2026-09-19 16:52 UTC' is visually displayed in the image in Traditional Chinese / English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "鈴鈴在陽光灑落的玻璃花園裡追逐著光影，一不小心打個噴嚏往後彈倒在花盆堆中，脖子上的粉紅鈴鐺發出清脆叮響。看到科學家紀錄母牛Veronika靈巧使用工具的新聞後，她似乎也下定決心，正傻乎乎地嘗試用小巧肉掌把露水瓶推向亮晶晶的花瓣。",
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Venetian Blind Light",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Navy Crimson and White"
+    },
+    "comment_id": 5743671829,
+    "inspiration": "奧地利維也納獸醫大學的科學家紀錄到一隻名為 Veronika 的母牛能靈活使用工具，打破過往僅在黑猩猩等少數靈長類動物觀察到的智慧行為紀錄。",
+    "title": "花園裡的叮噹光影",
+    "number": 3356,
+    "idea": "採用粉筆畫風格與厚塗油彩肌理，在平視正面構圖下呈現在溫室花園角落的鈴鈴；百葉窗條紋光映照在她白如棉花糖的蓬鬆長毛上，交織出靛藍、緋紅與白色的鮮明調性。",
+    "character": "lingling"
   }
 ]
