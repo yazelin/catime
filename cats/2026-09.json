@@ -4121,5 +4121,41 @@
       "美國俄亥俄州：俄亥俄州最高法院在針對一起消費者爭議進行判決時指出，標榜「無骨」的炸雞翅在法律上仍可能含有骨頭。",
       "加拿大安大略省：一個位於安大略省的巨型野生動物廊道保護計畫，成功入圍知名環保獎項「地球選擇獎」（Earthshot Prize）的最終決選。"
     ]
+  },
+  {
+    "idea": "在傳統市場小吃攤前，手持慢門下的緋紅與冰藍生物發光光軌交線，透過 Foreground 遮擋虛化的蒸籠縫隙，呈現麻糬偷叼魚丸的瞬間。",
+    "news_inspiration": [
+      "日本（Japan）厚生勞動省最新統計顯示，全國百歲以上的人口已超過10萬人，其中高達88%為女性。",
+      "玻利維亞（Bolivia）研究人員宣布發現了一種全新的野生貓科動物品種，這是全球一個多世紀以來首次記錄到的新野貓物種。",
+      "美國佛羅里達州（Florida, USA）救援人員成功將一對受傷的海牛媽媽與小海牛救出，並送往海洋世界進行專業照護。",
+      "澳大利亞布里斯本（Brisbane, Australia）確認將利用當地的天然鱷魚棲息地，作為2032年布里斯本奧運會的划船賽事場地。"
+    ],
+    "character": "mochi",
+    "comment_id": 5740881792,
+    "title": "夜市微光中的麻糬探險",
+    "character_name": "麻糬",
+    "number": 3354,
+    "story": "深夜的傳統市場攤位閃爍著冰藍與緋紅的生物發光微光，四肢粗短的麻糬正好奇地將粉紅鼻頭湊向熱氣騰騰的蒸籠。牠那像戴著橘色手套的右前腳正悄悄探向剛煮好的魚丸，圓滾滾的身軀在慢速快門下拖曳出可愛的晃動軌跡。",
+    "prompt": "A candid photography shot of a chubby rounded white shorthair cat with distinct bright orange patches, captured in a traditional night market stall. The cat features an asymmetric face with an orange mask covering only its right half-face and right ear while the left half-face is pure white, large round amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw like a mitten, and a pure white left front paw. The cat is sneaking its orange right paw toward a freshly cooked fish ball near a steaming bamboo steamer. Handheld slow shutter shot creates motion blur and flowing crimson and ice-blue bioluminescent light streaks around the motion. Blurred foreground occlusion composition shows camera peeking through a soft, out-of-focus gap in the steam and stall elements, creating layered depth. Crimson and ice-blue dual-tone lighting creates high-contrast radiance. A timestamp reading '2026-09-19 09:52 UTC' is visually displayed in clear text on the corner. 35mm lens, f/1.8, natural grain, shallow depth of field, real photograph look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文與英文文字限制",
+      "油紙傘與放射幾何光暈",
+      "莫蘭迪色調與棉花糖質感",
+      "橘紫互補色調配配色",
+      "珠飾鞍具與算盤互動",
+      "時間戳記2026年文字",
+      "點刻肌理與細密筆觸",
+      "極致蓬鬆布偶貓鈴鈴",
+      "秋葉打滾與往後彈飛",
+      "全像投影與古地圖星圖"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Blurred Foreground Occlusion",
+      "lighting": "Bioluminescence",
+      "texture": "Sand Texture",
+      "color_palette": "Crimson and Ice Blue"
+    }
   }
 ]
