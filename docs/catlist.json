@@ -31564,5 +31564,18 @@
     "title": "花園裡的叮噹光影",
     "number": 3356,
     "character": "lingling"
+  },
+  {
+    "character": "captain",
+    "title": "燈塔夕照下的航程記憶",
+    "number": 3357,
+    "season": "autumn",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-19_1902_UTC.webp",
+    "character_name": "船長",
+    "is_seasonal": true,
+    "timestamp": "2026-09-19 19:02 UTC",
+    "inspiration": "original",
+    "status": "success"
   }
 ]

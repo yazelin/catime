@@ -4233,5 +4233,40 @@
     "number": 3356,
     "idea": "採用粉筆畫風格與厚塗油彩肌理，在平視正面構圖下呈現在溫室花園角落的鈴鈴；百葉窗條紋光映照在她白如棉花糖的蓬鬆長毛上，交織出靛藍、緋紅與白色的鮮明調性。",
     "character": "lingling"
+  },
+  {
+    "character": "captain",
+    "story": "身穿白手套、戴著深色單眼罩的船長，威風地豎立於老舊燈塔的最高處，任憑秋雨後的海風吹拂牠長白如鬚的鬍子。海岸線邊緣渲染著青橙電影調的落日餘暉，飄落的楓葉隨海浪起伏，發出微弱如生物發光般的璀璨點點，宛如牠年輕時遠航冒險歲月裡難忘的星辰海岸。",
+    "style_picks": {
+      "art_style": "Nostalgic Aged Photograph",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Bioluminescence",
+      "texture": "Translucent Resin",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "燈塔夕照下的航程記憶",
+    "number": 3357,
+    "idea": "採用懷舊泛黃老照片風格與長卷全景構圖，呈現大隻斑駁的虎斑貓「船長」蹲坐在秋風徐徐的燈塔頂端觀景臺石欄上，凝視著夕陽西下時飄過海面的紅楓與帶有透明樹脂般質感的波光浪花。",
+    "prompt": "A nostalgic yellowed antique photograph capturing a weathered early-century snapshot with soft blur, subtle scratches, and a warm sepia patina. Extreme wide handscroll composition and continuous panoramic narrative from an oblique bird's-eye angle, showing a large stocky brown classic tabby cat named Captain crouching on the stone railing of a tall old lighthouse observation deck in an autumn sea breeze. The cat is a literal four-legged feline with a scruffy untidy coat, bold black stripes, a broad muscular build, an M-mark on forehead, a prominent V-shaped notch on his left ear, a faded red bandana loosely tied around his neck, a white chest bib, and white mitten paws. His left eye is permanently hidden by a dark natural fur patch with no fabric or straps, while his right eye is a single piercing emerald green. He gazes at sunset-lit waves translucent like amber resin, carrying drifting red autumn maple leaves with bioluminescent deep blue-green radiance beneath. Teal and orange cinematic color grading with warm skin tones against cool shadows. Visually displayed on the image in clean text: '2026-09-19 19:02 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "comment_id": 5744562915,
+    "season": "autumn",
+    "character_name": "船長",
+    "avoid_list": [
+      "貓用爪子撥弄物件",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "淺景深特寫與柔焦光影",
+      "橘紫互補配色調",
+      "繁體中文與英文文字標籤",
+      "古籍與紙藝蝴蝶組合",
+      "夜市攤位與小吃主題",
+      "雙色光影與發光特效",
+      "Q版貼圖與印花風格",
+      "黑貓與古董物件搭配"
+    ],
+    "inspiration": "original",
+    "is_seasonal": true
   }
 ]
