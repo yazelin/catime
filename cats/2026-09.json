@@ -4157,5 +4157,42 @@
       "texture": "Sand Texture",
       "color_palette": "Crimson and Ice Blue"
     }
+  },
+  {
+    "idea": "結合地中海夢幻飲品攝影風格與故事插畫分格排版，呈現黑貓墨墨踏著無聲步伐，在暴龍足跡化石巨坑旁俯瞰玻璃巨管中傾瀉而下的地中海藍柑橘氣泡特調。",
+    "character_name": "墨墨",
+    "character": "momo",
+    "number": 3355,
+    "title": "琥珀之眼與遠古特調",
+    "avoid_list": [
+      "貓用爪子撥弄物件",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "淺景深特寫與柔焦光影",
+      "橘紫互補配色調",
+      "繁體中文與英文文字標籤",
+      "古籍與紙藝蝴蝶組合",
+      "夜市攤位與小吃主題",
+      "雙色光影與發光特效",
+      "Q版貼圖與印花風格",
+      "黑貓與古董物件搭配"
+    ],
+    "story": "墨墨一身修長耀眼的黑色短毛，耳上的金環在螢光雙色光影下熠熠生輝。牠優雅地停留在高處的化石斷崖邊緣，琥珀色大眼凝視著古老腳印與現代特調交織的獨特景觀。儘管四周圍滿了屏息觀察的考古學者，墨墨依然展現傲嬌姿態，俯瞰這場穿越時空的迷人宴會。",
+    "news_inspiration": [
+      "美國北達科他州的一名高中科學老師在野外進行化石搜尋時，意外發現了一條保存完整的暴龍足跡化石，為科學界提供了罕見的研究新資料。",
+      "澳洲阿德雷得的一家知名蒸餾廠在經過數月的空間轉型後，近日宣佈重新對外開放，並將透過一系列充滿活力的品酒會與雞尾酒活動迎接民眾。",
+      "不丹王國正式獲得世界衛生組織確認，成功消除了由狗傳播的狂犬病，成為東南亞地區第一個達成此公衛里程碑的國家。"
+    ],
+    "inspiration": "美國北達科他州的一名高中科學老師在野外進行化石搜尋時，意外發現了一條保存完整的暴龍足跡化石，為科學界提供了罕見的研究新資料。",
+    "style_picks": {
+      "art_style": "Mediterranean Dreamy Beverage Photography",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Duotone"
+    },
+    "prompt": "Illustrated story page layout featuring a sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, large luminous golden-amber eyes, and a single small gold hoop earring on its LEFT ear. Momo is perched gracefully on the edge of a fossilized dinosaur footprint cliff, looking down with a calm, proud expression at a massive glass tube filled with a cascading Mediterranean blue citrus sparkling drink. Bright Mediterranean dreamy beverage photography aesthetics integrated with shoujo manga storybook paneling: decorative top title banner, multiple irregular panels, and dialogue bubbles. Fluorescent UV dual-tone illumination with radiant neon colors against a dark background, contrasting azure sea hues and warm glowing accents. The timestamp '2026-09-19 13:32 UTC' is visibly displayed in clear typography at the corner of the layout. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5742315622
   }
 ]
