@@ -4477,5 +4477,40 @@
       "透明玻璃飲品折射",
       "繁體中文與英文時間戳記"
     ]
+  },
+  {
+    "title": "紅嘴訪客的急救連線",
+    "news_inspiration": [
+      "日本（東京）：厚生勞動省公佈最新數據指出，日本百歲以上的高齡人口已正式突破10萬人，創下歷史新高紀錄。",
+      "玻利維亞（拉巴斯）：科學家在當地的森林中發表並確認了一種全新的野生貓科動物物種，這是全球超過一個世紀以來首次發現新種野生貓科動物。",
+      "美國（洛杉磯）：野生動物研究團隊在進行戶外調查時，一隻受到輕傷的大嘴紅嘴鵜鶘居然主動「敲門」走進研究室，成功獲得人員的緊急救治與照護。"
+    ],
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "Ivory and Gold"
+    },
+    "inspiration": "美國（洛杉磯）：野生動物研究團隊在進行戶外調查時，一隻受到輕傷的大嘴紅嘴鵜鶘居然主動「敲門」走進研究室，成功獲得人員的緊急救治與照護。",
+    "prompt": "Cel shaded art illustration featuring a tabby cat dynamically pressing an emergency button on a high-tech medical box inside a carbon fiber wildlife rescue clinic. Forced perspective composition with the cat's paw thrust toward the camera in exaggerated foreshortening. Dramatic Rembrandt lighting with a single warm light source at 45 degrees, throwing stark shadows across glossy carbon fiber weave patterns and ivory off-white medical equipment with soft metallic gold gilding. Toon shading with flat color areas, bold clean outlines, and anime game aesthetic. Overlay visual HUD element in the corner crisp text displaying '2026-09-20 19:09 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3364,
+    "idea": "採賽璐璐著色風格，一隻斑紋貓在碳纖維打造的高科技鳥類救護診所內，伸爪拍擊急救箱按鈕，倫勃朗光投射在象牙描金的醫療設備上記錄醫療過程。",
+    "avoid_list": [
+      "生物發光光軌與微光",
+      "地中海夢幻飲品攝影",
+      "長卷全景畫幅構圖",
+      "前爪延伸觸碰/撥弄物件",
+      "柔焦霧面與暈光質感",
+      "緋紅與冰藍雙色光影",
+      "立體刺繡與金絲刺繡肌理",
+      "退役風力發電機葉片建築",
+      "蓬鬆純白長毛布偶貓鈴鈴",
+      "琥珀色大眼與金屬飾品",
+      "透明玻璃飲品折射",
+      "繁體中文與英文時間戳記"
+    ],
+    "comment_id": 5751997147,
+    "story": "一隻好奇的大嘴紅嘴鵜鶘直接敲門走進了研究室，駐診的流浪貓隨即用前腳掌拍下緊急連線鈕通知人員。這隻貓平時負責監視診所環境，此刻以強制透視伸手拍擊的動態，成為救護第一線的敏捷助手。"
   }
 ]
