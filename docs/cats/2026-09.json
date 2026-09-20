@@ -4442,5 +4442,40 @@
     "number": 3362,
     "title": "發條雀鳥與工坊之夜",
     "idea": "採用彼岸花仙鶴繁飾插畫風格，一隻斑紋貓咪前爪壓著設計圖紙，正凝神盯著眼前組裝中的精密蒸汽齒輪鳥。"
+  },
+  {
+    "idea": "在一幅融入曼陀羅藝術與直式書法海報構圖的圖卷中，一隻大地色系斑紋貓蜷縮在由古老岩石組成的天文觀測台上，正用鼻子細細嗅聞著刻有地球起源密碼的隕石標本。",
+    "story": "夜空下湧動著星雲輝光，宛如宇宙初開時的壯麗景致。貓咪凝神端詳著散發金箔潑點肌理的星圖岩盤，靜靜守護這份揭示行星誕生奧秘的古老記憶。",
+    "number": 3363,
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Earth Tones"
+    },
+    "news_inspiration": [
+      "在不丹首都廷布（Thimphu），世界衛生組織宣部該國已正式成為東南亞第一個消除犬傳播狂犬病的國家。",
+      "在德國慕尼黑（Munich），英格蘭足球名將凱恩在德甲聯賽中以98場比賽攻入100球，成為該聯賽史上最快達成百球紀錄的球員。",
+      "在瑞士蘇黎世（Zurich），科學家透過一項最新研究發現地球幾乎完全由內太陽系物質組成，為地球起源帶來重大新解。"
+    ],
+    "prompt": "A vertical poster composition blending mandala art style and traditional East Asian framing. A photorealistic earth-tone tabby cat in warm brown and terracotta shades is curled up on an ancient stone astronomical observatory, gently sniffing a meteor specimen carved with ancient origin codes. In the background, a large mandala with complex circular design, radial symmetry, intricate concentric geometric patterns, and meditative sacred geometry forms a cosmic backdrop. A side calligraphy panel written in Traditional Chinese characters and marked with red seal accents runs down the edge. The date and time '2026-09-20 16:36 UTC' is clearly visually displayed in sleek typography on the lower border. Lighting features an ethereal purple and blue space glow, nebula radiance, soft starfield illumination, and glowing particles. Multi-layered depth with gold foil flecks texture, scattered metallic gold leaf shards, and glinting gilded specks across the star chart rock surface, set in a natural organic palette of olive green and warm terracotta. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5751143160,
+    "inspiration": "在瑞士蘇黎世（Zurich），科學家透過一項最新研究發現地球幾乎完全由內太陽系物質組成，為地球起源帶來重大新解。",
+    "title": "星塵岩盤上的凝視",
+    "avoid_list": [
+      "生物發光光軌與微光",
+      "地中海夢幻飲品攝影",
+      "長卷全景畫幅構圖",
+      "前爪延伸觸碰/撥弄物件",
+      "柔焦霧面與暈光質感",
+      "緋紅與冰藍雙色光影",
+      "立體刺繡與金絲刺繡肌理",
+      "退役風力發電機葉片建築",
+      "蓬鬆純白長毛布偶貓鈴鈴",
+      "琥珀色大眼與金屬飾品",
+      "透明玻璃飲品折射",
+      "繁體中文與英文時間戳記"
+    ]
   }
 ]
