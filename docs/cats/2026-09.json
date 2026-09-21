@@ -4650,5 +4650,43 @@
     "story": "這隻橘貓不小心把收音機的真空管當成逗貓棒撥弄，結果調頻轉盤竟傳出早已消逝的海浪聲。它歪著頭，似乎在研究聲音是怎麼從鐵殼子裡蹦出來的。",
     "inspiration": "original",
     "idea": "在採用新中式珠寶工筆插畫風格、魚眼鏡頭與白底棚光的畫面中，一隻橘貓正專注地用爪子拆解一台生鏽舊化的老式收音機，冷冽青橙色調突顯機械解構的張力。"
+  },
+  {
+    "number": 3370,
+    "character": "captain",
+    "character_name": "船長",
+    "title": "海風與甲板上的幻影",
+    "comment_id": 5767750137,
+    "avoid_list": [
+      "貓咪凝神端詳",
+      "霓虹燈光交織",
+      "金屬齒輪工坊",
+      "斑紋短毛貓",
+      "精密機械解構",
+      "幾何分形藝術",
+      "金箔潑點肌理",
+      "輪廓光與背光",
+      "古老天文觀測台",
+      "動態強制透視",
+      "青花藍白點彩",
+      "新中式海報插畫"
+    ],
+    "news_inspiration": [
+      "在中國上海，2026年世界技能大賽於9月22日隆重開幕，來自全球的青年好手同場競技，爭奪無人機與軟體測試等新興領域的最高榮譽。",
+      "在日本名古屋，第20屆亞洲運動會盛大登場，由於選手村房間供不應求，主辦單位安排了一艘豪華郵輪停靠碼頭，作為4000名選手與官員的特色海上宿舍。",
+      "在法國巴黎，著名足球員奧斯曼·登貝萊（Ousmane Dembélé）於全球矚目的頒獎典禮上首度榮獲金球獎，登上世界最佳男子足球員寶座。",
+      "在美國加州理工學院，科學家成功研發出能有效降低光損失的矽晶片光路新技術，為未來超高速運算與先進光纖通信帶來重大突破。"
+    ],
+    "idea": "在雙色調粉筆畫與3D渲染質感構成的德羅斯特效應無限迴廊中，一隻戴深色眼罩、圍紅色頭巾的龐大虎斑貓「船長」，正站在豪華郵輪頂層甲板最高處，以蝴蝶光映照出強烈影子的英姿，正用前掌拍打著一條剛跳上海上郵輪甲板的飛魚。",
+    "story": "名古屋碼頭停泊著巨大的亞運會特色郵輪宿舍，船長巡邏至郵輪頂層吹風時，一道跳躍的魚影打破了牠的沉穩威嚴。牠瞬間失去老大的架子，在層層疊疊的奇幻甲板畫廊中撲向鮮魚，展現出粗獷又俏皮的本能。",
+    "inspiration": "在日本名古屋，第20屆亞洲運動會盛大登場，由於選手村房間供不應求，主辦單位安排了一艘豪華郵輪停靠碼頭，作為4000名選手與官員的特色海上宿舍。",
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Butterfly Lighting",
+      "texture": "3D Render",
+      "color_palette": "Duotone"
+    },
+    "prompt": "在雙色調粉筆畫與3D渲染質感構成的德羅斯特效應無限迴廊中，一隻戴深色眼罩、圍紅色頭巾的龐大虎斑貓「船長」，正站在豪華郵輪頂層甲板最高處，以蝴蝶光映照出強烈影子的英姿，正用前掌拍打著一條剛跳上海上郵輪甲板的飛魚。. The date and time '2026-09-21 21:19 UTC' is visually displayed in the image. chalk art on blackboard, dusty matte texture, colored chalk, visible hatching strokes on dark green slate, recursive image, Droste effect, picture within a picture repeating infinitely, self-referential loop, butterfly lighting, overhead key light, symmetrical shadow under nose, glamour portrait lighting, soft even illumination, polished 3D render, smooth materials, clean geometry, soft global illumination, Cinema 4D aesthetic, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Captain — a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. Fur texture: scruffy, untidy, slightly coarse with uneven lengths (NOT sleek). LEFT eye (viewer perspective): permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket — explicitly a fur marking, NOT a fabric or leather eye patch, NO straps. RIGHT eye: single piercing emerald green #50C878. LEFT ear: prominent V-shaped notch. Neck: faded red #CD5C5C bandana tied loosely and visible. White #FFFFFF chest bib and white mitten paws on all four feet. Distinctive M-mark on forehead. Tail: thick and sturdy. [HARD CONSTRAINTS] 1) LEFT eye MUST be hidden by dark fur patch — NEVER a fabric eye patch or strap. 2) RIGHT eye emerald #50C878 ONLY. 3) V-shaped left-ear notch always present. 4) Faded red bandana always present. 5) White chest bib and white mitten paws preserved. 6) Brown tabby with black stripes ONLY — NEVER orange or grey. 7) Scruffy coarse texture, NEVER groomed sleek coat. End.\nNEGATIVE CONSTRAINTS (must not appear): two visible eyes, both eyes open, fabric eye patch, leather eye patch, strap over eye, clean sleek fur, groomed coat, smooth glossy fur, no bandana, missing bandana, missing ear notch, intact left ear, orange tabby, grey tabby, blue eyes, longhair, small cat, slender build, kitten, symmetrical eyes, two green eyes, eye patch with string, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
