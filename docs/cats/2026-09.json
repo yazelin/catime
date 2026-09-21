@@ -4614,5 +4614,41 @@
     "is_seasonal": true,
     "news_inspiration": [],
     "story": "秋意漸濃，舊書店的架上鋪滿了楓葉色調的古籍，墨墨挑選了其中一本封面，靜靜地趴在中央俯瞰整個房間。紫粉色的幾何光束與空氣中躍動的水花飛濺互相映襯，牠耳上的金環與金琥珀色眼睛在光影交錯間發出微光，沉浸在這片獨屬秋日的文字海洋中。"
+  },
+  {
+    "number": 3369,
+    "news_inspiration": [
+      "瑞士蘇黎世的科學家研究指出，地球的形成物質幾乎全部來自太陽系內部，顛覆了過往認為水元素主要來自木星以外天體的理論。",
+      "美國加州聖馬刁郡的一名地質學家在溪流中意外發現了一顆極為完整的冰河時期太平洋乳齒象臼齒，體積相當於一台小型烤箱。",
+      "土耳其的考古團隊挖掘出一幅精美古羅馬時代馬賽克鑲嵌畫，畫中特別銘刻並描繪了名為「翡翠」的貓與名為「海洋」的狗。",
+      "芬蘭一名金屬探測愛好者尋獲該國史上最大的維京時代銀器寶藏，包含數千枚古錢幣與精美銀飾。"
+    ],
+    "prompt": "在採用新中式珠寶工筆插畫風格、魚眼鏡頭與白底棚光的畫面中，一隻橘貓正專注地用爪子拆解一台生鏽舊化的老式收音機，冷冽青橙色調突顯機械解構的張力。. The date and time '2026-09-21 17:19 UTC' is visually displayed in the image. neo-Chinese jeweled gongbi illustration, meticulous fine-line beauty adorned with ornate jewelry and gems, rich decorative detail, gold accents, luxurious traditional craft feel, fisheye wide-angle lens, strong barrel distortion, exaggerated foreground, 360-degree feel, white seamless studio lighting, evenly lit subject on pure white cyclorama, clean shadowless product look, bright high-key backdrop, crisp commercial clarity, rusted weathered metal, oxidized patina, peeling paint layers, aged industrial decay, warm orange-brown corrosion, teal and orange color grading, warm skin tones against cool blue-green shadows, complementary cinematic palette, blockbuster film look, punchy balanced contrast IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "生物發光光軌與微光",
+      "地中海夢幻飲品攝影",
+      "長卷全景畫幅構圖",
+      "前爪延伸觸碰/撥弄物件",
+      "柔焦霧面與暈光質感",
+      "緋紅與冰藍雙色光影",
+      "立體刺繡與金絲刺繡肌理",
+      "退役風力發電機葉片建築",
+      "蓬鬆純白長毛布偶貓鈴鈴",
+      "琥珀色大眼與金屬飾品",
+      "透明玻璃飲品折射",
+      "繁體中文與英文時間戳記"
+    ],
+    "comment_id": 5764685238,
+    "style_picks": {
+      "art_style": "Neo-Chinese Jeweled Gongbi Illustration",
+      "composition": "Fisheye Lens",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "鐵箱浪潮",
+    "story": "這隻橘貓不小心把收音機的真空管當成逗貓棒撥弄，結果調頻轉盤竟傳出早已消逝的海浪聲。它歪著頭，似乎在研究聲音是怎麼從鐵殼子裡蹦出來的。",
+    "inspiration": "original",
+    "idea": "在採用新中式珠寶工筆插畫風格、魚眼鏡頭與白底棚光的畫面中，一隻橘貓正專注地用爪子拆解一台生鏽舊化的老式收音機，冷冽青橙色調突顯機械解構的張力。"
   }
 ]
