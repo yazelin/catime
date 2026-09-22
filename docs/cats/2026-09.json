@@ -4688,5 +4688,44 @@
       "color_palette": "Duotone"
     },
     "prompt": "在雙色調粉筆畫與3D渲染質感構成的德羅斯特效應無限迴廊中，一隻戴深色眼罩、圍紅色頭巾的龐大虎斑貓「船長」，正站在豪華郵輪頂層甲板最高處，以蝴蝶光映照出強烈影子的英姿，正用前掌拍打著一條剛跳上海上郵輪甲板的飛魚。. The date and time '2026-09-21 21:19 UTC' is visually displayed in the image. chalk art on blackboard, dusty matte texture, colored chalk, visible hatching strokes on dark green slate, recursive image, Droste effect, picture within a picture repeating infinitely, self-referential loop, butterfly lighting, overhead key light, symmetrical shadow under nose, glamour portrait lighting, soft even illumination, polished 3D render, smooth materials, clean geometry, soft global illumination, Cinema 4D aesthetic, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Captain — a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. Fur texture: scruffy, untidy, slightly coarse with uneven lengths (NOT sleek). LEFT eye (viewer perspective): permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket — explicitly a fur marking, NOT a fabric or leather eye patch, NO straps. RIGHT eye: single piercing emerald green #50C878. LEFT ear: prominent V-shaped notch. Neck: faded red #CD5C5C bandana tied loosely and visible. White #FFFFFF chest bib and white mitten paws on all four feet. Distinctive M-mark on forehead. Tail: thick and sturdy. [HARD CONSTRAINTS] 1) LEFT eye MUST be hidden by dark fur patch — NEVER a fabric eye patch or strap. 2) RIGHT eye emerald #50C878 ONLY. 3) V-shaped left-ear notch always present. 4) Faded red bandana always present. 5) White chest bib and white mitten paws preserved. 6) Brown tabby with black stripes ONLY — NEVER orange or grey. 7) Scruffy coarse texture, NEVER groomed sleek coat. End.\nNEGATIVE CONSTRAINTS (must not appear): two visible eyes, both eyes open, fabric eye patch, leather eye patch, strap over eye, clean sleek fur, groomed coat, smooth glossy fur, no bandana, missing bandana, missing ear notch, intact left ear, orange tabby, grey tabby, blue eyes, longhair, small cat, slender build, kitten, symmetrical eyes, two green eyes, eye patch with string, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "prompt": "psychedelic art, swirling patterns, vibrant clashing neon colors, melting distorted forms, an extremely fluffy pure white longhair Ragdoll cat named Lingling with voluminous cloud-like fur, a small round face nearly hidden in fur, huge round sapphire-blue eyes with gentle sparkle, a pale pink nose and inner ears, wearing a pink ribbon bow collar with a small golden bell centered beneath the bow knot, and an enormous feathery white plume tail, is eagerly pouncing on a fluttering butterfly glowing with an uncopyable, brilliant OLO new green light; the scene is set in a vibrant pink garden; framed elegantly in the background by a Chinese red and gold oiled-paper umbrella opened behind the subject as a radiating halo and ribbed circular backdrop, oriental portrait staging, the entire scene is bathed in a nebula cosmic glow, soft colorful starfield illumination, ethereal purple and blue space light, glowing particles and galactic haze, otherworldly radiance, frosted glass texture with translucent matte surface and diffused light transmission showing soft blurred shapes visible behind, festive red and gold palette with auspicious Chinese red dominance and bright gold accents, celebratory warmth, lucky vivid contrast, the date and time 2026-09-22 00:21 UTC is visibly displayed in the image in clean Traditional Chinese typography IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "美國加州大學柏克萊分校的科學家團隊成功發現了一種前所未見的新綠色「OLO」，其色彩強度高到連相機與印表機都無法複製。",
+      "貝南沉寂逾60年並曾被認為已經死亡的深海珊瑚礁，近期經科學家以海底攝影機證實依然展現出勃勃生機。",
+      "奧地利維也納獸醫大學的研究團隊首次記錄到牛隻展現出使用多用途工具的聰明行為，打破了過去對其智力的認知。",
+      "南非開普敦18歲女孩安柏蘿絲·貝瑞（Amber-Rose Berry）成功泳渡英吉利海峽，成為創下此壯舉的最年輕南非女性。",
+      "德國慕尼黑拜仁慕尼黑隊的前鋒哈里·凱恩（Harry Kane）在第98場德甲比賽中達成第100顆進球，刷新聯盟歷史最快紀錄。"
+    ],
+    "comment_id": 5769478792,
+    "character": "lingling",
+    "number": 3371,
+    "title": "新綠蝶影與緋紅傘夢",
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Paper Parasol Backdrop Frame",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Frosted Glass",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "貓咪凝神端詳",
+      "霓虹燈光交織",
+      "金屬齒輪工坊",
+      "斑紋短毛貓",
+      "精密機械解構",
+      "幾何分形藝術",
+      "金箔潑點肌理",
+      "輪廓光與背光",
+      "古老天文觀測台",
+      "動態強制透視",
+      "青花藍白點彩",
+      "新中式海報插畫"
+    ],
+    "idea": "在融合迷幻風格與磨砂玻璃質感的粉紅花園中，長毛布偶貓鈴鈴正撲向一隻閃耀著無法被複製的新綠色「OLO」光芒的蝴蝶，背景以中國紅金雙色的油紙傘優雅框構出畫面，並籠罩在夢幻的星雲輝光之中。",
+    "story": "花店裡突然飛進一隻散發著前所未見「OLO」極致新綠光彩的夢幻蝴蝶，讓好奇心爆棚的鈴鈴興奮地追著它到處亂竄。她脖子上的粉紅鈴鐺發出叮叮當響聲，毛蓬蓬的白色身軀在磨砂玻璃花園裡跳躍，結果一個不小心又追到往牆上撞了過去，引起一陣花瓣飛舞。",
+    "inspiration": "美國加州大學柏克萊分校的科學家團隊成功發現了一種前所未見的新綠色「OLO」，其色彩強度高到連相機與印表機都無法複製。"
   }
 ]
