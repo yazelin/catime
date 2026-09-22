@@ -4763,5 +4763,43 @@
       "青花藍白點彩",
       "新中式海報插畫"
     ]
+  },
+  {
+    "character_name": "麻糬",
+    "story": "圓滾滾的麻糬意外鑽進了一輛裝滿動物模型的貨車車軸下方，把這裡當成了最新奇的祕密基地。當巨大的月亮將天空染成一片紫橘交織的夢幻色彩時，這隻貪吃的小胖貓正舒服地打著呼嚕，全然不知自己正隨著車輪展開一場奇幻的夜間巡禮。",
+    "idea": "在超現實主義的古地圖星圖疊底構圖中，橘白胖貓麻糬正趴在一輛停泊於維也納郊外、載滿乳牛模型的復古貨車車軸上打盹，四周籠罩在巨月輝映的紫色與橘色互補色光暈下，呈現斑駁做舊紙印的質感。",
+    "character": "mochi",
+    "avoid_list": [
+      "貓咪凝神端詳",
+      "霓虹燈光交織",
+      "金屬齒輪工坊",
+      "斑紋短毛貓",
+      "精密機械解構",
+      "幾何分形藝術",
+      "金箔潑點肌理",
+      "輪廓光與背光",
+      "古老天文觀測台",
+      "動態強制透視",
+      "青花藍白點彩",
+      "新中式海報插畫"
+    ],
+    "inspiration": "在奧地利維也納，動物科學家記錄到一隻名為維羅妮卡（Veronika）的母牛能夠主動挑選並靈活使用工具，這是人類首次在牛隻身上發現此類高智商行為。",
+    "comment_id": 5774961076,
+    "prompt": "Surrealist vintage print illustration set against a translucent parchment backdrop of antique maps and celestial star charts. A chubby rounded shorthair cat, Mochi, is napping on the axle beneath a parked vintage truck filled with miniature cow models on the outskirts of Vienna. Mochi has a pure white #FFFFFF base coat with a solid bright orange #FF8C00 mask strictly on the right half of his face (viewer perspective) while the left face remains white, large round amber #FFBF00 eyes, a solid orange mitten on his right front paw, a pure white left front paw, and a distinct heart-shaped orange #FF8C00 saddle on his dorsal back. The scene is illuminated by an enormous glowing moon filling the sky, creating a vivid complementary palette of warm orange and deep violet with long cold shadows and a luminous halo backlight rimming the silhouettes. Distressed vintage print texture with mottled ink coverage, foxed yellowed paper stains, cracked pigment, and aged letterpress feel. The date and time '2026-09-22 10:29 UTC' is visually displayed in the corner of the image in a vintage scholarly typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3373,
+    "news_inspiration": [
+      "在西班牙休達，一名少年躲藏在客隊足球隊巴士的車軸處隨車跨海渡過直布羅陀海峽，車隊於途中的加油站聽到異常聲音時發現了這名毫發無傷的少年。",
+      "在奧地利維也納，動物科學家記錄到一隻名為維羅妮卡（Veronika）的母牛能夠主動挑選並靈活使用工具，這是人類首次在牛隻身上發現此類高智商行為。",
+      "在丹麥哥本哈根，當地的「真人圖書館」（Human Library）特別開放民眾「借閱」不同背景的人進行深度對話，體驗另類的交流與理解。",
+      "在蘇格蘭愛丁堡，政府立法規定所有新建造的房屋都必須內置適合雨燕棲息的特殊磚塊（Swift Bricks），以協助這種長期飛行的大陸鳥類繁衍。"
+    ],
+    "style_picks": {
+      "art_style": "Surrealism",
+      "composition": "Antique Map and Star-Chart Underlay",
+      "lighting": "Giant Moon Glow",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "title": "月光下的軸心夢"
   }
 ]
