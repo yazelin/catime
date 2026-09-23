@@ -5005,5 +5005,34 @@
       "精緻細膩的貓咪角色設定約束",
       "古舊紙張與復古地圖紋理疊加"
     ]
+  },
+  {
+    "avoid_list": [
+      "慕夏式拱框構圖",
+      "德羅斯特效應無限迴廊",
+      "正交投影視角",
+      "生物發光與霓虹色彩",
+      "貓咪用前爪撥弄物體",
+      "復古褪色色調與金箔點綴",
+      "磨砂玻璃質感的夢幻花園",
+      "半色調網點與大地色系",
+      "酒精墨水藝術風格",
+      "雙色調粉筆畫與3D渲染質感"
+    ],
+    "prompt": "Grand Theft Auto art style, bold cel-shaded illustration, perfectly symmetrical composition, a yellow and white cat crouching on the glossy plastic toy textured backrest of a vintage barbershop chair, gazing into the mirror at a customer draped in a haircut cape. Ivory and gold palette with creamy off-white base and soft metallic gilding, cinematic lighting, volumetric light rays, dramatic shadows, vinyl figure aesthetic. The date and time 2026-09-23 17:32 UTC is visually displayed in the image in Traditional Chinese characters or English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "金殿理髮師的視線",
+    "inspiration": "original",
+    "story": "陽光穿過理髮廳的落地窗，將整座店面映照得如同精緻的玩具模型。貓咪敏捷地跳上旋轉椅頂端，居高臨下地監督著理髮師的每一刀動作。這座象牙與金色交織的殿堂裡，牠才是真正掌握所有客人造型命脈的終極總監。",
+    "news_inspiration": [],
+    "idea": "採用 GTA 風格與對稱構圖，一隻黃白相間的貓咪蹲坐在極具亮面塑膠質感的復古理髮廳椅背上，凝視著鏡中被披上剪髮布的顧客，全景以象牙描金的奢華色調與電影感打光呈現。",
+    "number": 3380,
+    "comment_id": 5799805945,
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Symmetrical Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Ivory and Gold"
+    }
   }
 ]
