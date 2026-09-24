@@ -5209,5 +5209,39 @@
       "texture": "Pressed Botanical Layers",
       "color_palette": "Coral Pink and Prussian Blue"
     }
+  },
+  {
+    "title": "葉脈綠洲",
+    "prompt": "Paper diorama scene, three-dimensional layered paper sculpture aesthetic with pop-up book elements and laser-cut foliage silhouettes. A four-legged orange cat is carefully trimming a huge wind turbine blade inside an old vintage greenhouse. Ivory and gold palette with creamy off-white base, soft metallic gilding, and fine ivory wood grain textures with visible knots and lines. Gentle organic light play with dappled light and scattered patches of sunlight filtered through leaves casting soft mottled shadow patterns. Clear text overlay displaying '2026-09-24 17:44 UTC' in sleek English typography integrated into the miniature handmade landscape. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國橡樹嶺國家實驗室（Oak Ridge）的研究團隊透過高能中子成像技術，在世上最大的暴龍化石「Scotty」肋骨骨折處中，發現了隱藏 6,600 萬年且正在癒合的血管網絡結構。",
+      "瑞士蘇黎世舉辦了第 36 屆搞笑諾貝爾獎（Ig Nobel Prize），獲獎研究包含蟑螂母乳成分分析以及利用穿過的內褲埋入土壤來檢測土地健康狀況。",
+      "德國黑森邦的一名金屬探測愛好者在田野尋寶時，意外挖出大批保存完好的古羅馬時期銀幣寶藏。",
+      "丹麥哥本哈根將退役的巨大風力發電機葉片進行創意改裝，成功轉化為具備耐用特色與設計感的公共自行車遮雨棚。"
+    ],
+    "idea": "這是一幅以立體紙藝景風格呈現的場景，一隻四足橘貓正專注地在一座古老的溫室裡修剪巨大的風力發電機葉片，周圍滿佈象牙描金的木紋質感。",
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Dappled Light",
+      "texture": "Wood Grain",
+      "color_palette": "Ivory and Gold"
+    },
+    "number": 3386,
+    "story": "當巨型風車的葉片化為溫室中庇護植物的屋頂，橘貓輕巧地穿梭在層層紙雕紙藝之間。斑駁的光影灑落在細緻的葉脈與金線描繪的花草紋理上，紀錄著一段安靜而奇幻的午後時光。",
+    "inspiration": "丹麥哥本哈根將退役的巨大風力發電機葉片進行創意改裝，成功轉化為具備耐用特色與設計感的公共自行車遮雨棚。",
+    "avoid_list": [
+      "貓咪專注地用前爪撥弄",
+      "正交投影視角與金箔細節",
+      "慕夏式拱框構圖與繁花邊框",
+      "復古褪色色調與半色調網點",
+      "體積光照明與金箔祥雲紋理",
+      "金銀交織的奢華工作台",
+      "白底去背棚光的潔淨感",
+      "冷冽色調與交叉沖洗風格",
+      "鉛筆素描與黑光螢光照明",
+      "微縮移軸效果與蝴蝶光影"
+    ],
+    "comment_id": 5819238818
   }
 ]
