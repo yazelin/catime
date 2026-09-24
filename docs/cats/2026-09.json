@@ -5139,5 +5139,40 @@
       "color_palette": "Moonlit Indigo"
     },
     "prompt": "A candid 35mm photograph of a black cat leaning forward to sniff a dark underground 'devil's flower' reaching out of a carbon fiber beaker. The beaker rests near a car window, framed in an inside-the-glass-vessel composition with refractive glass borders and a visible glossy carbon fiber weave pattern. Sunlight and window light create classic Vermeer-like illumination with cool silvery highlights and smooth falloff into deep night-blue shadows. Cross-processing print style with experimental color shifts, heightened contrasts, retro vintage feel, and a dark dreamy moonlit indigo palette featuring deep night-blue and violet tones. Natural film grain, shallow depth of field, f/1.8 aperture. The date and time '2026-09-24 02:00 UTC' is visually displayed in clear English text in the corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Encircled-by-Blossoms Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Crimson and Ice Blue"
+    },
+    "comment_id": 5810155395,
+    "idea": "採用3D Q版盲盒風格，墨墨優雅地趴伏在一本巨大的古董地圖集上，細看著火山地熱溪流圖，周圍被鮮艷的花簇緊緊環繞，體積光穿透沉靜的色彩，襯托出金箔祥雲紋理與緋紅冰藍的強烈對比。",
+    "prompt": "A 3D chibi blind box character render in C4D style, featuring Momo, a cute Q-version sleek solid-black Bombay-style shorthair cat with satin-sheen fur, large luminous golden-amber eyes, and long prominent white whiskers. A single small gold hoop earring is visible on her left ear (viewer perspective), a tiny natural white locket tuft on her ventral chest, and a single dark-grey ring at her tail tip. Momo is elegantly crouching on a large open antique map book, intently studying a volcanic geothermal stream chart. Inscribed clearly and neatly on the margin of the antique map page is the exact text '2026-09-24 07:53 UTC' in crisp typography. Encircled-by-blossoms composition with dense, vibrant flower clusters pressing into the frame on all sides, forming a lush floral wreath border. Soft studio volumetric lighting sends visible god rays and shimmering dust particles through the atmospheric air. Incorporating traditional East Asian auspicious cloud motifs in gold leaf embossed metallic texture, contrasted against a high-tension palette of hot crimson and cold ice-blue. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "墨墨",
+    "number": 3384,
+    "avoid_list": [
+      "慕夏式拱框構圖",
+      "德羅斯特效應無限迴廊",
+      "正交投影視角",
+      "生物發光與霓虹色彩",
+      "貓咪用前爪撥弄物體",
+      "復古褪色色調與金箔點綴",
+      "磨砂玻璃質感的夢幻花園",
+      "半色調網點與大地色系",
+      "酒精墨水藝術風格",
+      "雙色調粉筆畫與3D渲染質感"
+    ],
+    "story": "在充滿歲月痕跡的古董店一角，墨墨趴在敞開的舊地圖上記錄地熱數據。溫暖的體積光傾瀉而下，將牠金琥珀色的雙眼映照得熠熠生輝，這隻獨特的黑色小貓宛如藝術精靈，正專注於研究神秘的火山生態。",
+    "inspiration": "科學家在美國加州拉森火山國家公園的地熱溪流中發現了一種名為「Incendiamoeba cascadensis」的新種變形蟲，創下了複雜生命耐熱與繁殖的高溫紀錄。",
+    "title": "熱泉圖輯的黑色精靈",
+    "character": "momo",
+    "news_inspiration": [
+      "科學家在美國加州拉森火山國家公園的地熱溪流中發現了一種名為「Incendiamoeba cascadensis」的新種變形蟲，創下了複雜生命耐熱與繁殖的高溫紀錄。",
+      "瑞士蘇黎世舉辦了搞笑諾貝爾獎頒獎典禮，這是該獎項首次移師美國境外舉行，表彰了研究土壤健康與昆蟲等幽默且富有想像力的科學成果。",
+      "不丹世界衛生組織團隊與志工透過全面推動犬隻疫苗接種與族群管理，正式成為東南亞第一個消除犬傳播狂犬病的國家。"
+    ]
   }
 ]
