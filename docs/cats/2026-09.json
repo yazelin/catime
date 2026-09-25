@@ -5407,5 +5407,41 @@
       "texture": "Fur / Plush Texture",
       "color_palette": "Teal and Orange"
     }
+  },
+  {
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "number": 3392,
+    "prompt": "A playful 3D voxel art illustration in a design moodboard aesthetic, framed by vertical color palette swatch bars on both sides in a portfolio presentation layout. A literal cat named Lingling—an extremely fluffy pure white #FFFFFF longhair with a voluminous cloud-like body, huge round sapphire-blue #0F52BA eyes, a small pale pink #FFB6C1 nose and inner ears, an enormous feathery white plume tail, and a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell clearly visible and centered beneath the bow knot—is awkwardly chasing a small wind-up mechanical butterfly across a voxel-style modernism building square inspired by Tashkent, Uzbekistan. The scene features Minecraft-style pixelated cubes, blocky textures, clean lighting, and a smooth glossy plastic toy vinyl figure texture. Bright underwater caustic lighting casts rippling blue-green light patterns and refracted sun shafts dancing over the white fluffy cat and environment, creating a submerged dreamlike atmosphere. The color scheme features deep navy, vivid crimson, and crisp white high-contrast tones. The date and time '2026-09-25 19:00 UTC' is clearly visually displayed in the image as a neat graphic text overlay. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "鈴鈴跟著花店老闆來到遠方的現代主義廣場，對著新鮮的建築模型好奇地搖晃著尾巴。當她一躍而起想抓住機械蝴蝶時，卻一不小心撞上了靛藍色的磚牆，引得周圍遊客一陣歡笑。",
+    "news_inspiration": [
+      "烏茲別克塔什干的10座現代主義建築群獲聯合國教科文組織（UNESCO）正式列入世界文化遺產名錄。",
+      "澳洲西澳大利亞金巴利地區的生態學家透過紅外線相機，時隔50年首次再次拍攝到極其罕見的迷你岩袋鼠（Nabarlek）。",
+      "巴西科學家於亞馬遜西部漫水森林中發現全新蛙類物種，命名為 Adenomera varcena。",
+      "沙烏地阿拉伯的阿拉伯羚羊經過多年的保育與野放計畫，保育等級歷史性地從「野外滅絕」成功改善提升至「易危」。"
+    ],
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Underwater Caustics",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Navy Crimson and White"
+    },
+    "avoid_list": [
+      "退役風力發動機葉片",
+      "碳纖維零件與組件",
+      "象牙描金配色",
+      "體積光與電影感打光",
+      "時間戳記 (2026-09-XX UTC)",
+      "修復懷錶或海圖細節",
+      "繁體中文與英文文字限制規範",
+      "微距與移軸微縮效果",
+      "貓咪用鼻子輕觸或凝視物件",
+      "金箔祥雲與紙雕質感"
+    ],
+    "inspiration": "烏茲別克塔什干的10座現代主義建築群獲聯合國教科文組織（UNESCO）正式列入世界文化遺產名錄。",
+    "idea": "在體素風格的烏茲別克塔什干現代主義建築群廣場上，純白長毛貓鈴鈴正笨拙地追逐著一隻發條蝴蝶，毛茸茸的棉花糖身軀在水下焦散光的藍白光影中顯得格外耀眼。",
+    "title": "藍影中的棉花糖",
+    "comment_id": 5838013793
   }
 ]
