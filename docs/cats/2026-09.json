@@ -5376,5 +5376,36 @@
     "prompt": "A low-poly isometric 3D illustration inside a transparent glass Christmas bauble diorama with a festive red and gold palette. A ginger cat is lying on a vintage loom, playing with a gold shuttle weaving through threads. Geometric crystalline surfaces, flat shaded triangular faces, digital origami aesthetic with clean geometric forms. Auspicious Chinese red dominance accented with bright gold. Warm magical glow, polished playful rendering, dappled light, soft mottled shadow patterns, serene natural mood, cinematic glass reflections. Visual text in English clearly displaying '2026-09-25 08:16 UTC' rendered on a neat, integrated element inside the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "在中國紅金配色的聖誕裝飾球微縮模型中，一隻橘貓正趴在老式織布機上撥弄著穿梭的金色梭子，呈現出低多邊形質感與斑駁光影的等距3D插圖。",
     "number": 3390
+  },
+  {
+    "title": "燭光與光影交織的夜曲",
+    "character_name": "墨墨",
+    "story": "深夜的古董書店裡，柔和的燭光映照出墨墨如緞面般的絨毛皮草質感與胸前精緻的白毛領結。牠伸出爪子撥弄懸掛在空中的長條光螢棒，在空氣中劃出一道道迷人的青橙電影調光軌，宛如在夜色中編織光影的藝術家。",
+    "prompt": "A long exposure photography shot of Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, warm brown undertones, long prominent white whiskers, a tiny natural white locket tuft of fur on the ventral chest, and large luminous golden-amber eyes. A single small gold hoop earring is visible on the edge of the cat's left ear. The cat is gracefully climbing up a slanted wooden ladder placed diagonally inside a dark, atmospheric antique bookstore during late night. Soft candlelight casts a warm orange flickering glow, illuminating the cat's plush fur texture and soft shadows. The cat's paw swiping at a long light stick leaves vibrant teal and orange cinematic luminous light trails and ribbons swirling through the air around it. Diagonal composition, dynamic slanted lines, off-axis tension, light painting photography. In a corner of the frame, the text '2026-09-25 14:15 UTC' is visually displayed in clear English. Shot on 35mm lens, f/1.8, long exposure capture, shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "退役風力發動機葉片",
+      "碳纖維零件與組件",
+      "象牙描金配色",
+      "體積光與電影感打光",
+      "時間戳記 (2026-09-XX UTC)",
+      "修復懷錶或海圖細節",
+      "繁體中文與英文文字限制規範",
+      "微距與移軸微縮效果",
+      "貓咪用鼻子輕觸或凝視物件",
+      "金箔祥雲與紙雕質感"
+    ],
+    "character": "momo",
+    "news_inspiration": [],
+    "comment_id": 5834005552,
+    "number": 3391,
+    "inspiration": "original",
+    "idea": "這是一組採用光繪攝影風格作品，墨墨這隻貓咪正沿著舊書店內斜放的木梯優雅地向上爬行，其動作在對角線構圖下顯得格外流暢動感。",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Diagonal Composition",
+      "lighting": "Candlelight",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Teal and Orange"
+    }
   }
 ]
