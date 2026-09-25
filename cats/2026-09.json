@@ -5342,5 +5342,39 @@
     "inspiration": "original",
     "idea": "在墨流風格的流動墨跡中，船長正低頭用粗糙的前爪細心修補一張泛黃的航海海圖，周圍渲染著高飽和鮮豔色與星雲星塵肌理。",
     "character": "captain"
+  },
+  {
+    "news_inspiration": [
+      "在玻利維亞的雲霧森林中，科學家發現了一種原本被誤認為流浪貓的新貓科物種。",
+      "紐西蘭南島的珍稀鳥類保育計畫傳出捷報，今年共有90隻幼鳥誕生，使該物種族群數量創下近年新高。",
+      "位於巴爾幹半島的科索沃歷經多年的努力，終於正式完成全境地雷與集束炸彈的清除工作。",
+      "澳洲一名女子使用由真菌菌絲體與麻類纖維製成的環保棺材進行葬禮，該棺材可在45天內自然分解並滋養土壤。"
+    ],
+    "avoid_list": [
+      "退役風力發動機葉片",
+      "碳纖維零件與組件",
+      "象牙描金配色",
+      "體積光與電影感打光",
+      "時間戳記 (2026-09-XX UTC)",
+      "修復懷錶或海圖細節",
+      "繁體中文與英文文字限制規範",
+      "微距與移軸微縮效果",
+      "貓咪用鼻子輕觸或凝視物件",
+      "金箔祥雲與紙雕質感"
+    ],
+    "inspiration": "original",
+    "title": "紅梭織冬",
+    "story": "紅金交織的微型工坊裡，橘貓專注地用前掌引導著絲線，彷彿在經緯之間織出冬日的暖意。這顆懸掛在窗櫺上的玻璃球，悄悄收藏了無數個歲月靜好的午後。",
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Dappled Light",
+      "texture": "Low Poly",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 5829243191,
+    "prompt": "A low-poly isometric 3D illustration inside a transparent glass Christmas bauble diorama with a festive red and gold palette. A ginger cat is lying on a vintage loom, playing with a gold shuttle weaving through threads. Geometric crystalline surfaces, flat shaded triangular faces, digital origami aesthetic with clean geometric forms. Auspicious Chinese red dominance accented with bright gold. Warm magical glow, polished playful rendering, dappled light, soft mottled shadow patterns, serene natural mood, cinematic glass reflections. Visual text in English clearly displaying '2026-09-25 08:16 UTC' rendered on a neat, integrated element inside the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在中國紅金配色的聖誕裝飾球微縮模型中，一隻橘貓正趴在老式織布機上撥弄著穿梭的金色梭子，呈現出低多邊形質感與斑駁光影的等距3D插圖。",
+    "number": 3390
   }
 ]
