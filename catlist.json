@@ -31915,5 +31915,13 @@
     "inspiration": "烏茲別克塔什干的10座現代主義建築群獲聯合國教科文組織（UNESCO）正式列入世界文化遺產名錄。",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-25_1900_UTC.webp",
     "title": "藍影中的棉花糖"
+  },
+  {
+    "status": "failed",
+    "number": null,
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno 111] Connection refused>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: All connection attempts failed",
+    "url": null,
+    "timestamp": "2026-09-25 22:01 UTC",
+    "model": "all failed"
   }
 ]
