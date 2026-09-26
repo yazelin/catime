@@ -5535,5 +5535,38 @@
       "沉浸式體素與焦散光影",
       "高對比互補色與質感拼貼"
     ]
+  },
+  {
+    "prompt": "A sleek solid-black Bombay shorthair cat with satin-sheen fur revealing warm brown undertones, a single small gold hoop earring on its left ear, a tiny white locket tuft on its ventral chest, a dark-grey ring at its tail tip, and large luminous golden-amber eyes, lying flat and looking down onto an open book cover. The cat is viewed through a frosted glass texture of a streamline display cabinet door, with an Art Nouveau style featuring flowing organic curves, ornamental borders, and floral motifs. The scene is lit by a harsh direct on-camera flash casting sharp shadows, set against a background of stacked autumn books in a festive red and gold palette. In the foreground, out-of-focus autumn maple leaves and book spines create a blurred occlusion composition. The text '2026-09-26 15:17 UTC' is visually displayed in Traditional Chinese and English characters within the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在以新藝術風格呈現的舊書店中，黑貓墨墨正俯趴在一本展開的書籍封面上，隔著帶有磨砂玻璃質感的流線型典藏櫃門，居高臨下地盯著底下展示的搞笑諾貝爾獎歷年論文；閃光燈直打的強烈對光在深紅與金色的秋日楓葉書堆間投下銳利陰影，前景虛化的楓紅書脊更襯托出墨墨靈動的身影。",
+    "avoid_list": [
+      "古董地圖與火山地熱",
+      "精密時間戳記渲染",
+      "動態光影與光繪攝影",
+      "斑駁光影與紙雕工藝",
+      "復古霓虹與幾何等距",
+      "貓咪專注互動與微縮場景",
+      "沉浸式體素與焦散光影",
+      "高對比互補色與質感拼貼"
+    ],
+    "news_inspiration": [
+      "美國麻州劍橋市的哈佛大學舉辦了第34屆搞笑諾貝爾獎頒獎典禮，吸引全球科學迷關注有趣的科學研究。"
+    ],
+    "number": 3397,
+    "comment_id": 5847419410,
+    "is_seasonal": true,
+    "title": "楓紅書塔上的琥珀凝視",
+    "inspiration": "美國麻州劍橋市的哈佛大學舉辦了第34屆搞笑諾貝爾獎頒獎典禮，吸引全球科學迷關注有趣的科學研究。",
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Art Nouveau",
+      "composition": "Blurred Foreground Occlusion",
+      "lighting": "Direct Flash",
+      "texture": "Frosted Glass",
+      "color_palette": "Festive Red and Gold"
+    },
+    "character_name": "墨墨",
+    "story": "墨墨悄悄溜進了舊書店頂層的典藏閣樓，圍繞著牠的是一圈圈如楓葉般濃烈紅金交織的二手書塔。牠趴在自己挑選的皮革書封上，透過磨砂玻璃花窗好奇地俯瞰著底下正為第34屆搞笑諾貝爾獎文獻舉辦特別展覽的人群。當攝影師的閃光燈亮起，墨墨眼中閃爍著琥珀般的光芒，宛如新藝術風格圖騰中最優雅的守護者。",
+    "season": "autumn"
   }
 ]
