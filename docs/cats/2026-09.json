@@ -5443,5 +5443,36 @@
     "idea": "在體素風格的烏茲別克塔什干現代主義建築群廣場上，純白長毛貓鈴鈴正笨拙地追逐著一隻發條蝴蝶，毛茸茸的棉花糖身軀在水下焦散光的藍白光影中顯得格外耀眼。",
     "title": "藍影中的棉花糖",
     "comment_id": 5838013793
+  },
+  {
+    "character_name": "麻糬",
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Snowstorm Haze",
+      "texture": "Shibori Textile",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "inspiration": "original",
+    "idea": "在充滿蒸氣波美學的復古霓虹保齡球館內，一隻橘白短毛貓「麻糬」正趴在軌道旁專注地看著發光的滾球，周圍籠罩在暴風雪朦朧的光影與橘紫互補色的迷幻氛圍中。",
+    "number": 3394,
+    "story": "老街市場的打烊時刻，麻糬溜進了這間霓虹閃爍的地下保齡球館，對會發光的保齡球充滿了無限好奇。它圓滾滾的身型在絞染布紋般的紫橘色光暈中微微晃動，享受著這場屬於它的魔幻深夜巡禮。",
+    "character": "mochi",
+    "avoid_list": [
+      "退役風力發動機葉片",
+      "碳纖維零件與組件",
+      "象牙描金配色",
+      "體積光與電影感打光",
+      "時間戳記 (2026-09-XX UTC)",
+      "修復懷錶或海圖細節",
+      "繁體中文與英文文字限制規範",
+      "微距與移軸微縮效果",
+      "貓咪用鼻子輕觸或凝視物件",
+      "金箔祥雲與紙雕質感"
+    ],
+    "news_inspiration": [],
+    "title": "霓虹球道上的小胖子",
+    "prompt": "A detailed illustration of a chubby, spherical shorthair cat named Mochi crouching beside a polished bowling lane in a retro vaporwave bowling alley. Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches, featuring an orange mask covering only the right side of its face while the left side is entirely white, a distinct heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, and large round amber #FFBF00 eyes. Mochi's focus is fixed on a glowing, rolling bowling ball moving down the lane. The scene features a heavy snowstorm veil with muted diffused flurries drifting indoors, surrounded by a vivid orange and violet complementary palette that creates a deep, surreal dual-tone contrast. Organic resist-dyed textile patterns in a Shibori style blend into the swirling mist, while pastel pink and cyan retro 80s digital elements and Greek statues line the background. In the bottom corner of the frame, the date and timestamp '2026-09-26 01:02 UTC' is visibly displayed in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5841782017
   }
 ]
