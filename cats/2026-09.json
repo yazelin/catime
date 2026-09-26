@@ -5600,5 +5600,40 @@
       "texture": "Dynamic Water Splash",
       "color_palette": "Pastel Colors"
     }
+  },
+  {
+    "avoid_list": [
+      "古董地圖與火山地熱",
+      "精密時間戳記渲染",
+      "動態光影與光繪攝影",
+      "斑駁光影與紙雕工藝",
+      "復古霓虹與幾何等距",
+      "貓咪專注互動與微縮場景",
+      "沉浸式體素與焦散光影",
+      "高對比互補色與質感拼貼"
+    ],
+    "character_name": "鈴鈴",
+    "number": 3399,
+    "story": "在塔什干幾何線條交錯的經典陽台上，好奇的鈴鈴被指針滴答聲吸引，一邊打著噴嚏一邊往後彈，身上的長毛像一團棉花糖般在粉彩光影中晃動。清脆的叮鈴聲在微風中迴盪，為這座中亞歷史建築增添了一抹純真而奇幻的生命力。",
+    "inspiration": "烏茲別克首都塔什干的10座經典現代主義建築群與都市複合體，因展現中亞獨特的近代建築與歷史轉型風格，正式獲選登錄為聯合國教科文組織（UNESCO）世界文化遺產。",
+    "character": "lingling",
+    "comment_id": 5850147432,
+    "prompt": "A lowbrow pop-surrealism mixed-media collage illustration in an orthographic projection featuring Lingling, an extremely fluffy pure white #FFFFFF longhair cat with voluminous cloud-like fur, a small round face, huge round sapphire-blue #0F52BA eyes, a pale pink #FFB6C1 nose and inner ears, and an enormous feathery white plume tail. Lingling wears a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell clearly visible and centered beneath the bow knot. Lingling is depicted as a giant fluffy cat on a modernist balcony in Tashkent, Uzbekistan, attentively batting at a wind-up clock with her front paw. The scene features Tashkent modernism architectural silhouettes with technical straight-on flat rendering, set in a silk fabric textured space under blacklight UV illumination. Glowing fluorescent pigments in a soft pastel color palette of pink, lavender, mint, and baby blue emit an ethereal ultraviolet luminescence against dark background tones. The date and time '2026-09-26 21:41 UTC' is visually displayed in clear English text in the image. Layered textured surfaces, eccentric whimsical character aesthetic, no perspective distortion. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用低俗藝術混媒插畫風格與正交投影構圖，呈現烏茲別克塔什干現代主義建築群的陽台剪影，黑光螢光照明下絲綢質感的粉彩色系空間中，白長毛貓鈴鈴正專注地用前爪撥弄著一座發條鐘。貓咪體型顯得蓬鬆巨大，脖子上的粉紅鈴鐺在紫外線下閃閃發光。",
+    "title": "霓虹建築與雲朵貓",
+    "style_picks": {
+      "art_style": "Lowbrow Mixed-Media Illustration",
+      "composition": "Orthographic Projection",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Silk",
+      "color_palette": "Pastel Colors"
+    },
+    "news_inspiration": [
+      "在沙烏地阿拉伯，一度被列為「野外滅絕」的阿拉伯羚羊，經由多年繁殖與野放復育計劃後成功恢復族群數量，正式被國際保育機構調降等級至「易危」受脅物種。",
+      "澳洲西部的金伯利地區傳出生態捷報，研究人員透過野外追蹤相機，時隔50年首次重新拍攝並確認到極為罕見的迷你袋鼠「Nabarlek」之野生蹤跡。",
+      "烏茲別克首都塔什干的10座經典現代主義建築群與都市複合體，因展現中亞獨特的近代建築與歷史轉型風格，正式獲選登錄為聯合國教科文組織（UNESCO）世界文化遺產。",
+      "巴西科學家在亞馬遜西部的季節性氾濫森林中，發現了一種隱藏於獨特生態系統中的全新蛙類物種「Adenomera varcena」，再次刷新該地區的生物多樣性紀錄。",
+      "加拿大多倫多正在興建的新社區「Ookwemin Minising」採用創新都市規劃，以綿延的線性綠地公園與徒步廣場取代傳統汽車道路，打造出全國最長且綠意盎然的無車步道區。"
+    ]
   }
 ]
