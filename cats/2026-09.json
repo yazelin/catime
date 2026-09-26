@@ -5568,5 +5568,37 @@
     "character_name": "墨墨",
     "story": "墨墨悄悄溜進了舊書店頂層的典藏閣樓，圍繞著牠的是一圈圈如楓葉般濃烈紅金交織的二手書塔。牠趴在自己挑選的皮革書封上，透過磨砂玻璃花窗好奇地俯瞰著底下正為第34屆搞笑諾貝爾獎文獻舉辦特別展覽的人群。當攝影師的閃光燈亮起，墨墨眼中閃爍著琥珀般的光芒，宛如新藝術風格圖騰中最優雅的守護者。",
     "season": "autumn"
+  },
+  {
+    "avoid_list": [
+      "古董地圖與火山地熱",
+      "精密時間戳記渲染",
+      "動態光影與光繪攝影",
+      "斑駁光影與紙雕工藝",
+      "復古霓虹與幾何等距",
+      "貓咪專注互動與微縮場景",
+      "沉浸式體素與焦散光影",
+      "高對比互補色與質感拼貼"
+    ],
+    "number": 3398,
+    "idea": "在夕陽餘暉的金色灑落中，一隻橘貓正專注地用前爪拍打著水面，激起一串靈動的水花飛濺，整體畫面呈現細膩的刺繡藝術風格。",
+    "inspiration": "玻利維亞科學家在雲霧森林中發現了一種先前被誤認成流浪貓的新型貓科物種，經 DNA 基因鑑定後證實為全新品種。",
+    "comment_id": 5848904759,
+    "news_inspiration": [
+      "澳洲科學家在西澳大利亞的金伯利地區，透過鏡頭紀錄到隱蔽半個世紀的超小型矮岩袋鼠（Nabarlek），這是近50年來首次發現其踪跡。",
+      "沙烏地阿拉伯經過多年嚴格的保護與野放計畫，成功將阿拉伯羚羊的瀕危等級從「野外滅絕」正式提升為「易危」，寫下物種復育歷史紀錄。",
+      "玻利維亞科學家在雲霧森林中發現了一種先前被誤認成流浪貓的新型貓科物種，經 DNA 基因鑑定後證實為全新品種。",
+      "烏茲別克首都塔什干的10座現代主義建築群正式獲選登錄為聯合國教科文組織（UNESCO）世界文化遺產。"
+    ],
+    "title": "雲霧水影",
+    "story": "夕陽將雲霧森林染成溫柔的粉彩色系，這隻好奇的小貓正在清澈的水窪旁嬉戲，濺起的水珠在光影中閃爍著耀眼的光芒。遠處的生態奇觀正悄悄展開，交織成一幅生動而寧靜的自然樂章。",
+    "prompt": "An embroidered illustration on linen fabric showcasing an orange cat leaning over a clear puddle, focused as it pats the water's surface with its front paw. Dynamic water splash texture with bursting droplets, flying spray frozen mid-motion, and crystalline liquid arcs scattering across the frame. Visible needlework featuring satin stitch and French knots creates a handcrafted textile art style. Dynamic slanted lines and diagonal composition create an off-axis kinetic visual flow. Lit by warm golden hour lighting, a gentle sunset glow, long soft shadows, and a golden rim light outlining the cat. Soft pastel color palette of gentle pink, lavender, mint, baby blue, and dreamy light tones. The text '2026-09-26 18:48 UTC' is visually displayed in clear, elegant lettering within the artwork. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Diagonal Composition",
+      "lighting": "Golden Hour",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Pastel Colors"
+    }
   }
 ]
