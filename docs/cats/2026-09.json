@@ -5474,5 +5474,37 @@
     "title": "霓虹球道上的小胖子",
     "prompt": "A detailed illustration of a chubby, spherical shorthair cat named Mochi crouching beside a polished bowling lane in a retro vaporwave bowling alley. Mochi has a white #FFFFFF base coat with bright orange #FF8C00 patches, featuring an orange mask covering only the right side of its face while the left side is entirely white, a distinct heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, and large round amber #FFBF00 eyes. Mochi's focus is fixed on a glowing, rolling bowling ball moving down the lane. The scene features a heavy snowstorm veil with muted diffused flurries drifting indoors, surrounded by a vivid orange and violet complementary palette that creates a deep, surreal dual-tone contrast. Organic resist-dyed textile patterns in a Shibori style blend into the swirling mist, while pastel pink and cyan retro 80s digital elements and Greek statues line the background. In the bottom corner of the frame, the date and timestamp '2026-09-26 01:02 UTC' is visibly displayed in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5841782017
+  },
+  {
+    "title": "金色中庭的墨斑尋蹤",
+    "idea": "採用侘寂靜物攝影風格，在一座以高飽和鮮豔色彩呈現的烏茲別克現代主義風格露天採光中庭內，一隻渾身披著墨點般獨特斑紋的新種貓咪，正從極低角度俯瞰的黃金時刻斜陽下，專注地用前爪撥弄著一塊水彩潑濺質感的新鮮苔蘚。",
+    "comment_id": 5844049287,
+    "number": 3395,
+    "inspiration": "玻利維亞：科學家在雲霧森林中發現了一種過去被誤認為是流浪貓的全新貓科物種。",
+    "news_inspiration": [
+      "玻利維亞：科學家在雲霧森林中發現了一種過去被誤認為是流浪貓的全新貓科物種。",
+      "澳洲：保育團隊透過鏡頭在西澳金伯利地區，時隔50年再次記錄到極其罕見的迷你岩袋鼠身影。",
+      "烏茲別克：塔什干一組獨具特色現代主義建築群正式獲評列入聯合國教科文組織世界遺產名錄。",
+      "英國：曼徹斯特大學醫療團隊成功研發出一款可透過非侵入性方式精準篩檢子宮頸癌的全新檢測技術。"
+    ],
+    "story": "在中亞雲霧與現代主義建築交會的古老中庭裡，科學家原以為這隻流浪貓只是常見的街角訪客。直到黃金時刻的餘暉照亮牠身上如水彩墨點般的斑紋，人們才驚覺這是一隻隱身於世多年的全新貓科物種。",
+    "prompt": "A wabi-sabi still life photograph of a new species of cat with unique ink-spot patterns, captured from an extreme low angle looking up at the subject under golden hour lighting with a warm sunset glow and long soft shadows. The cat is attentively playing with a fresh piece of moss featuring watercolor splatter and ink-spray texture, dripping pigment, and organic fluid stains. The setting is an open-air modernism atrium in Uzbekistan characterized by high saturation vivid colors, bold vibrant hues, and an energetic palette contrasted with textured aged surfaces, imperfect organic objects, and a quiet contemplative emptiness. Soft directional window light and golden rim light illuminate the scene. The date and time '2026-09-26 06:47 UTC' is visibly displayed in the image in Traditional Chinese characters, shot on 35mm lens, f/2.0, natural light, film grain, candid shot IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Wabi-Sabi Still Life Photography",
+      "composition": "Extreme Low Angle",
+      "lighting": "Golden Hour",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "古董地圖與火山地熱",
+      "精密時間戳記渲染",
+      "動態光影與光繪攝影",
+      "斑駁光影與紙雕工藝",
+      "復古霓虹與幾何等距",
+      "貓咪專注互動與微縮場景",
+      "沉浸式體素與焦散光影",
+      "高對比互補色與質感拼貼"
+    ]
   }
 ]
