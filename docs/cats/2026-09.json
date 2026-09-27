@@ -5710,5 +5710,43 @@
       "倫敦完成了世界上第一座僅依靠石製外骨骼支撐的高層建築。 (英國倫敦)"
     ],
     "idea": "採用3D Q版盲盒風格，圓滾滾的橘白貓麻糬在老街夜市的冰品攤前，興奮地伸出橘色右前腳拍打裝滿粉圓與刨冰的晶瑩玻璃碗，背景巧妙融入靛藍與緋紅交織的古地圖星圖疊底圖騰，在日光透過棚架灑下的斑駁光影中閃耀著水晶般的光澤。"
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [
+      "烏茲別克塔什干：當地十座獨特的現代主義風格建築與城市建築群正式獲選登錄為聯合國教科文組織（UNESCO）世界文化遺產。",
+      "澳洲金伯利地區：研究人員透過相機獵影捕捉到極為罕見且體型微小的納巴萊克岩壁企鵝，這是該物種近 50 年來首次被證實再次現蹤。",
+      "沙烏地阿拉伯利雅德：經過多年的野生動物復育與復育放流計劃，阿拉伯羚羊成功實現歷史性恢復，評級從「野外滅絕」正式提升改善為「易危」等級。",
+      "巴西瑪瑙斯：科學家在亞馬遜雨林季節性氾濫區發現一種名為 Adenomera varcena 的全新新種青蛙，展現出該地區豐富的生物多樣性。",
+      "加拿大多倫多：新興社區 Ookwemin Minising 採用無車化創新都市規劃，將傳統道路改建為大型線性公園與徒步廣場，打造全加拿大最長的無車生活空間。"
+    ],
+    "idea": "在秋日暖陽與柔焦霧面中，一隻英國短毛貓正專注地用前爪推動一台復古手搖磨豆機，背景採用居中主體構圖與三點打光，呈現手持慢門下的琥珀色調溫馨咖啡館日常。",
+    "prompt": "A candid photograph of a British Shorthair cat attentively pushing the handle of a vintage manual coffee grinder with its front paw on a wooden counter inside a cozy cafe. Styled with handheld slow shutter speed creating intentional motion blur and light streaks. Centered subject composition with single focal point dead center, balanced symmetrical framing. Classic three-point lighting setup with key light creating soft shadows, fill light, and subtle rim light separation. Soft-focus matte haze, dreamy diffused blur, hazy atmospheric softness, and warm amber color grading with autumn palette of golden yellows and burnt orange. Clear date and time '2026-09-27 10:16 UTC' subtle yet visible on the wooden counter surface. Shot on 35mm lens, f/1.8, shallow depth of field, natural film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Centered Subject Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "陽光透過霧面玻璃灑落，木質櫃檯上的磨豆機散發著歲月的香氣。小貓安靜地守在香氣四溢的角落，享受著屬於午後的靜謐時光。",
+    "title": "琥珀時光",
+    "number": 3402,
+    "comment_id": 5854976397,
+    "avoid_list": [
+      "烏茲別克塔什干現代主義建築",
+      "老船長與標誌性V型缺口左耳",
+      "黑貓墨墨與金色單耳環",
+      "純白長毛貓鈴鈴與粉紅鈴鐺蝴蝶結",
+      "橘白短毛貓麻糬",
+      "發光的發條玩具與機械蝴蝶",
+      "倫勃朗光與影側臉光三角",
+      "黑光螢光照明與紫外線彩光",
+      "光繪攝影與動態光軌",
+      "紅金配色的節慶氛圍",
+      "刺繡與刺繡紋理藝術風格",
+      "新藝術風格與磨砂玻璃門",
+      "水彩潑濺與墨滴紋理"
+    ]
   }
 ]
