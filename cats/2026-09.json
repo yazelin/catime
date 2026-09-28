@@ -5951,5 +5951,43 @@
     ],
     "character_name": "麻糬",
     "number": 3408
+  },
+  {
+    "idea": "採用黑白單色調與濃烈向量筆觸的 GTA 繪畫風格，捕捉船長在雨中燈塔頂端迎風傲立的威風身影。",
+    "character_name": "船長",
+    "story": "滂沱大雨洗刷著漆黑的漁港，船長屹立在燈塔觀景台最高處，任憑冷冽的海風吹拂著蓬亂毛髮。雨水順著牠厚實的頰毛與深色眼罩滑落，在強烈螢光燈管的照耀下，閃爍著如水珠濕膚般的光澤，那隻翠綠色的單眼依然銳利地凝視著遠方翻騰的大海。",
+    "prompt": "A bold cel-shaded illustration in black and white monochrome with high contrast and GTA art style, depicting Captain, a large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a prominent V-shaped notch on his left ear, a faded red bandana tied loosely around his neck, a white chest bib, and white mitten paws. Captain's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric eye patch, while his right eye is a piercing emerald green. The cat stands proudly on four legs at the peak of a lighthouse observation deck in a pouring rainstorm over a dark fishing port. Cool sea winds blow through his thick fur as water droplets cling to his dewy surface, creating glistening beads and reflective micro-highlights under overhead fluorescent lighting. Framed by a radiating, ribbed circular backdrop reminiscent of an opened paper umbrella in oriental portrait staging with dense vector line art and a rich tonal range. The date and time '2026-09-28 22:19 UTC' is visually displayed in clear English text in a corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "title": "狂風中的獨眼守望者",
+    "avoid_list": [
+      "貓前爪撥弄物件",
+      "Traditional Chinese 時間戳記",
+      "黃金時刻與金光輪廓",
+      "三點打光與柔和陰影",
+      "烏茲別克現代主義建築",
+      "黑貓帶單耳金環",
+      "粉彩薰衣草紫與粉色調",
+      "水彩潑濺與墨汁質感",
+      "舊書店與古老地圖",
+      "35mm鏡頭與底片顆粒",
+      "生物發光與螢光色彩",
+      "俯瞰視角與低角度仰拍"
+    ],
+    "number": 3409,
+    "comment_id": 5879802365,
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Paper Parasol Backdrop Frame",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character": "captain",
+    "news_inspiration": [
+      "在玻利維亞的熱帶雨林中，科學家發現了一種前所未見的全新野生貓科物種。",
+      "在中國上海舉辦的第48屆世界技能大賽中，來自印度卡納塔克邦的選手於烘焙等技術項目中勇奪銀牌與國家最佳表現獎。",
+      "丹麥為了推動風力發電材料的循環利用，將退役的風力發電機葉片巧手改造為市民公共單車車棚。",
+      "澳大利亞昆士蘭大學的最新研究顯示，特定頻率的音樂與聲響能促進植物生長並增強其防禦昆蟲襲擊的能力。"
+    ]
   }
 ]
