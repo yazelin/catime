@@ -5989,5 +5989,37 @@
       "丹麥為了推動風力發電材料的循環利用，將退役的風力發電機葉片巧手改造為市民公共單車車棚。",
       "澳大利亞昆士蘭大學的最新研究顯示，特定頻率的音樂與聲響能促進植物生長並增強其防禦昆蟲襲擊的能力。"
     ]
+  },
+  {
+    "number": 3410,
+    "news_inspiration": [
+      "烏茲別克塔什干的 10 座現代主義建築群正式獲選登錄為聯合國教科文組織（UNESCO）世界遺產，為中亞近代建築史帶來國際認可。",
+      "澳大利亞金伯利地區的保育人員透過追蹤攝影機，相隔 50 年後再度拍攝到極其罕見的野生小型沙袋鼠（Nabarlek）蹤跡。",
+      "希臘雅典正將舊機場改建為全歐洲最大的城市公園，並採用獨特散熱設計使周邊氣溫可降低約 4°C。",
+      "烏干達與斯里蘭卡的鐵路沿線開始試用新型地面震動與聲音感測器，成功防止高速列車碰撞穿越鐵軌的大象。"
+    ],
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "prompt": "A candid photography shot using a thermal imaging infrared camera capturing a realistic four-legged orange cat lying comfortably on a hard-edged modernist concrete rooftop in Tashkent, Uzbekistan. Digital timestamp displaying '2026-09-29 02:22 UTC' in crisp white text strictly in the corner of the frame. High contrast visual showing temperature visualization with red-yellow-blue heat map color gradient. The subject is completely encircled by a dense floral wreath composition of drought-tolerant desert blooms pressing into the frame. Shot on a 35mm lens with shallow depth of field, under harsh midday sunlight with strong directional sun, creating hard edge shadows and subtle sharp reflections on warm earth tone metallic and concrete surfaces. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在熱成像風格下，一隻真實的四足橘貓正趴在烏茲別克塔什干幾何線條堅硬的現代主義水泥屋頂上，金屬質感的地面在硬光日照下泛著大地色系的溫熱，四周則環繞著盛開的沙漠耐旱花簇。",
+    "story": "午後的烈日將老建築的輪廓烤得發燙，橘貓懶洋洋地趴在被列為世界遺產的混凝土邊緣俯瞰廣場。它全神貫注地盯著下方緩緩移動的影子，彷彿在守護這片剛寫入歷史的新地標。",
+    "title": "炙熱的遺產守望",
+    "inspiration": "烏茲別克塔什干的 10 座現代主義建築群正式獲選登錄為聯合國教科文組織（UNESCO）世界遺產，為中亞近代建築史帶來國際認可。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Encircled-by-Blossoms Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Metallic Surface",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 5882455451
   }
 ]
