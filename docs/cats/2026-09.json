@@ -6110,5 +6110,32 @@
     "title": "冰原科考站的巡航者",
     "news_inspiration": [],
     "number": 3413
+  },
+  {
+    "number": 3414,
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "idea": "這是一幅以印度傳統貢德畫（Gond Painting）風格繪製的畫面，一隻花貓穿梭於深海花園的古老沈船艙門間，呈現獨特的框中框構圖。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "title": "紫粉深海的沉船奇遇",
+    "prompt": "A Gond painting depicting a calico cat peering through the circular porthole of an ancient sunken shipwreck in a deep-sea garden, creating a frame within a frame composition. The cat leans forward, its nose gently touching a glowing jellyfish. Underwater caustic light patterns ripple across the scene, casting a blue-green aquatic glow. The cat is adorned with intricate snake scale textures, combining detailed dot and line patterns in a soft lavender and pink palette with warm blush accents and gentle lilac gradients. In a corner of the frame, the text '2026-09-30 00:50 UTC' is clearly and visually displayed. Indian tribal art style, nature-inspired motifs, mystical ocean folklore, submerged dreamlike atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5901915599,
+    "story": "花貓悠然佇立在沉船的圓形舷窗後，俯身凝視並用鼻尖輕觸一朵閃耀的光芒水母。水下焦散光在周圍映照出流動的斑紋，貓咪身上精緻的蛇鱗肌理紋樣與柔和的薰衣草紫粉色調交織，構築出一場魔幻而和諧的海洋夢境。",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Frame Within a Frame",
+      "lighting": "Underwater Caustics",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Lavender and Pink"
+    }
   }
 ]
