@@ -6251,5 +6251,36 @@
       "color_palette": "Coral Pink and Prussian Blue"
     },
     "inspiration": "日內瓦市（瑞士）推出專屬的手工製錶探索體驗，讓全球鐘錶迷能夠深入探索精細微機械工藝的世界。"
+  },
+  {
+    "title": "苔花金鈴賀新春",
+    "comment_id": 5920993271,
+    "idea": "這幅 Q 版新年插畫採用平鋪排列構圖，描繪一隻四腳伏地的胖萌白貓在古老溫室的苔蘚花台間，專注地用爪子拍打撥弄一隻復古金屬銅鈴，整體沉浸於水下焦散光與象牙描金的輝煌色調中。",
+    "news_inspiration": [],
+    "prompt": "A chibi Lunar New Year illustration featuring an adorable Q-version chubby white cat on all fours in an ancient greenhouse, focused on playing with an intricate vintage metal copper bell among moss-covered flower beds. The composition is a flat lay overhead view with objects neatly arranged in an organized grid layout. The scene is illuminated by underwater caustic lighting with rippling light patterns dancing over the subject, creating a blue-green aquatic glow and refracted sun shafts. The color palette features creamy off-white and soft metallic gilding with an ivory and gold tone. The date and time 2026-09-30 22:41 UTC is visually displayed in the image using English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "新春清晨的古老溫室裡，微光如水下焦散光般灑落，將苔蘚覆蓋的花台照得一片金翠。胖乎乎的白貓正興高采烈地用前爪撥弄著精緻的描金銅鈴，叮噹聲與精細排列的花卉一同織就了新年的祥瑞景象。",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Knolling Photography",
+      "lighting": "Underwater Caustics",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Ivory and Gold"
+    },
+    "inspiration": "original",
+    "number": 3418,
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ]
   }
 ]
