@@ -6137,5 +6137,46 @@
       "texture": "Snake Scale Texture",
       "color_palette": "Lavender and Pink"
     }
+  },
+  {
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Leading Lines Composition",
+      "lighting": "Ring Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Ivory and Gold"
+    },
+    "title": "楓書堆疊的影子閱讀者",
+    "is_seasonal": true,
+    "idea": "在柔焦霧面與剪影藝術風格下，透過環形燈照亮線條，優雅的純黑貓墨墨正高坐在舊書店的高聳木梯上，沿著斜線排列的楓葉色古籍引導線，用前爪輕輕翻開一本封面泛著金光的秋季書籍。",
+    "comment_id": 5905233868,
+    "season": "autumn",
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ],
+    "story": "秋意漸濃，舊書店裡散落著無數楓葉般深紅與琥珀色的舊書。墨墨一如往常爬上書架最高處，俯瞰著沉靜的角落，並挑選了一本自己最喜歡的暖色書冊，靜靜佇立在金黃的光輝中獨享午後閱讀時光。",
+    "character": "momo",
+    "number": 3415,
+    "prompt": "Illustration art style, soft-focus matte haze with a dreamy diffused blur and ethereal finish. Sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat named Momo with satin-sheen fur, warm brown undertones, athletic proportions, a tiny natural white locket tuft (#FFFFFF) on its ventral chest, a single dark-grey (#696969) ring at its tail tip, prominent long white whiskers, and luminous golden-amber (#D4A017) eyes. The cat wears a single small gold hoop earring (#FFD700) on its LEFT ear only (viewer perspective). Perched high on a tall wooden ladder in a cozy antique bookstore, the cat gently uses its front paw to flip open an autumn book with a shimmering golden cover. The ladder is flanked by diagonally arranged maple-colored vintage books creating strong converging perspective leading lines. Silhouette art aesthetic with clean defined edges and solid black shapes against light, framed in an ivory and gold palette with soft metallic gilding. Circular ring light illumination casts an even front glow and circular catchlights in the cat's attentive eyes. Visually displayed clearly on the image in crisp text: '2026-09-30 06:06 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [
+      "美國太空總署（NASA）的好奇號火星探測車順利迎來第 5000 個火星日，並傳回火星蓋爾撞擊坑晨昏交替的壯麗合成影像。",
+      "丹麥哥本哈根推廣特色的「真人圖書館」，讓民眾可以借閱不同背景的「真人」對談半小時，藉此促進跨文化理解與交流。",
+      "印度尼西亞當地推行以相機捕捉野生動物換取獎勵的計畫，成功將昔日的野生動物獵人轉變為保護森林珍貴物種的守護者。",
+      "法國農夫善用溫暖的氣候條件，成功在本土種築起溫室栽種出新鮮的熱帶水果，為當地農業開創出全新景象。",
+      "越南政府宣布迅速擴大保護區森林範圍，全力拯救世界上最瀕危的猴類物種及其珍貴棲地。"
+    ]
   }
 ]

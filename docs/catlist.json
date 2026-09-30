@@ -32132,5 +32132,18 @@
     "status": "success",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-30_0050_UTC.webp"
+  },
+  {
+    "character_name": "墨墨",
+    "is_seasonal": true,
+    "title": "楓書堆疊的影子閱讀者",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "season": "autumn",
+    "timestamp": "2026-09-30 06:06 UTC",
+    "character": "momo",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-09/cat_2026-09-30_0606_UTC.webp",
+    "number": 3415,
+    "inspiration": "original",
+    "status": "success"
   }
 ]
