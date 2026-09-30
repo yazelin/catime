@@ -6178,5 +6178,43 @@
       "法國農夫善用溫暖的氣候條件，成功在本土種築起溫室栽種出新鮮的熱帶水果，為當地農業開創出全新景象。",
       "越南政府宣布迅速擴大保護區森林範圍，全力拯救世界上最瀕危的猴類物種及其珍貴棲地。"
     ]
+  },
+  {
+    "character": "mochi",
+    "prompt": "A macro photograph of an orange and white shorthair cat named Mochi, with a chubby spherical torso and short stubby legs, captured in a traditional bakery window. Mochi has a pure white #FFFFFF base coat with bright orange #FF8C00 patches, a solid orange #FF8C00 mask on the right half of the face from the nose bridge to the right ear while the left face is entirely white, a heart-shaped orange saddle on the upper back, large round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange dot in the center, and a white belly. Mochi's solid orange #FF8C00 right front paw reaches out to lightly pat a freshly baked peanut mochi bread resting on a linen towel with visible woven fabric texture and threads, while the left front paw is pure white #FFFFFF. Soft window light and gentle directional daylight from a side window illuminate the scene with a smooth falloff into shadows. High saturation vivid colors, bold vibrant hues, extreme close-up, sharp detail, 85mm lens, f/2.8, shallow depth of field. Geometric grid overlay composition featuring thin ruled lines and rectangular color panels layered across the frame. The timestamp '2026-09-30 13:07 UTC' is clearly and visually displayed in crisp text in a corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在美國紐約，一名卡車司機耗費休閒時間，成功用超過80萬個微型模型結構打造出極其精細的紐約市全景模型。",
+      "在越南的森林保護區，保育團隊宣佈成功擴大保護棲地，為世界上最瀕危的靈長類物種之一提供安全的棲息家園。",
+      "在印尼，一項創新的保護計畫透過「拍照發放獎金」的方式，成功讓昔日的野生動物獵人轉型成為第一線的生態守護者。",
+      "在韓國，研發團隊展示了一款名為「Diden Spider」的攀爬機器人，它能靈活爬上鋼鐵外牆並在船艙內部完成高難度的焊接工作。"
+    ],
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Geometric Grid Overlay Composition",
+      "lighting": "Window Light",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "老街麵包店的大型玻璃窗前，陣陣剛出爐的花生香氣瀰漫開來。身材圓滾像顆麻糬的貓咪「麻糬」，看到滿桌圓潤飽滿的麻糬麵包，琥珀色大眼瞬間放大兩倍。牠忍不住伸出那隻像戴了橘色手套的右前腳，小心翼翼地觸碰著軟綿綿的布巾與麵包，肚子隨著興奮的呼吸輕輕晃動。",
+    "comment_id": 5911965999,
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ],
+    "idea": "採用微距攝影風格與高飽和鮮豔色調，捕捉橘白短毛家貓「麻糬」在日光透射的傳統麵包店窗邊，正好奇地用圓滾滾的橘色前腳輕拍剛出爐的花生麻糬麵包。畫面運用幾何格線疊層構圖，配合布料質感的麵包襯巾與窗邊柔光，呈現出垂涎欲滴的細膩微距質感。",
+    "title": "麵包窗邊的花生試吃員",
+    "inspiration": "original",
+    "number": 3416,
+    "character_name": "麻糬"
   }
 ]
