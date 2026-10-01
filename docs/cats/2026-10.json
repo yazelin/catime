@@ -63,5 +63,41 @@
       "color_palette": "Moonlit Indigo"
     },
     "comment_id": 5927273667
+  },
+  {
+    "news_inspiration": [
+      "在美國丹佛，剛建成的 Colorado 州最大野生動物跨越天橋成功降低了 Interstate-25 高速公路高達 91% 的動物碰撞事故。",
+      "在丹麥哥本哈根，著名的「真人圖書館」持續提倡借閱真實的人而非書籍，讓民眾透過與陌生人一對一交流來消弭偏見。",
+      "在哥倫比亞波哥大，政府正式通過新法案，強制要求所有牛肉銷售與出口均須提供無森林砍伐證明，以保護亞馬遜雨林生態。",
+      "在加拉巴哥群島（厄瓜多），科學家發現罕見的黃色綠海龜出乎意料地喜歡棲息在原地，打破了海龜慣於長途遷徙的傳統認知。"
+    ],
+    "avoid_list": [
+      "水下焦散光",
+      "日期時間戳記",
+      "繁體中文字體",
+      "花卉環繞構圖",
+      "復古金屬鈴鐺",
+      "溫室苔蘚花台",
+      "幾何線條堅硬",
+      "大地色系組合",
+      "玻璃容器微縮",
+      "橘貓專注撥弄"
+    ],
+    "style_picks": {
+      "art_style": "Neo-Chinese Jeweled Gongbi Illustration",
+      "composition": "Centered Subject Composition",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "3D Render",
+      "color_palette": "Ivory and Gold"
+    },
+    "character_name": "船長",
+    "prompt": "Neo-Chinese jeweled gongbi illustration fused with polished C4D 3D render, depicting a large stocky brown tabby cat standing on all fours on an ancient harbor lighthouse balcony, meticulously tapping and repairing a complex marine chronometer with its thick white mitten paw. The cat is a literal four-legged feline with a scruffy, untidy coarse coat of brown fur with bold black stripes, a muscular broad frame, a white chest bib, and a distinctive M-mark on its forehead. Its left eye is completely concealed by a natural dark-pigmented fur patch with no straps or fabric, while its right eye is a single piercing emerald green. Its left ear features a prominent V-shaped notch, and a faded red bandana is loosely tied around its neck. Engraved on the metallic bronze rim of the nautical chronometer is the text '2026-10-01 14:57 UTC'. Composition is centered with a single focal point, balanced symmetrical framing, and clean surrounding space. Set under high-key bright lighting with airy overexposed illumination, soft global lighting, and minimal shadows. Ivory and gold color palette featuring a creamy off-white base with soft metallic gilding, ornate jewelry accents, and delicate gold leaf line work, creating a luxurious traditional craft feel with smooth geometry and gentle warm luminance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5934096688,
+    "number": 3421,
+    "story": "儘管對魚類的誘惑毫無抵抗力，但老船長在面對這座守護港口多年的古老天文鐘時，展現出了無與倫比的沉穩與專注。海風吹拂著牠脖子上的紅色頭巾與粗白鬍鬚，牠以大骨架的身軀守護著這片水域的時間與歸途。",
+    "idea": "在象牙描金的高調明亮光下，融合新中式珠寶工筆插畫風格，身形壯碩的虎斑家貓「船長」戴著眼罩，正站在古老的漁港燈塔露臺上，用厚實的貓掌專注地撥動並修繕一座精密的航海天文鐘。",
+    "title": "燈塔與時間之錨",
+    "inspiration": "original",
+    "character": "captain"
   }
 ]

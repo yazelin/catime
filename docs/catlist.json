@@ -32192,5 +32192,16 @@
     "inspiration": "在印尼，政府成功推行「以攝影換現金」的保育計畫，讓原本的野生動物獵人轉型成為保護野生動物的巡守員與攝影師。",
     "timestamp": "2026-10-01 07:56 UTC",
     "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service job failed: Codex image_gen 額度已用完(429 usage_limit_reached),預計 2026-10-02 01:19 (+08:00) 重置)"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-10/cat_2026-10-01_1457_UTC.webp",
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service job failed: Codex image_gen 額度已用完(429 usage_limit_reached),預計 2026-10-02 01:19 (+08:00) 重置)",
+    "character_name": "船長",
+    "number": 3421,
+    "status": "success",
+    "title": "燈塔與時間之錨",
+    "inspiration": "original",
+    "timestamp": "2026-10-01 14:57 UTC",
+    "character": "captain"
   }
 ]
