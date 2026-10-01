@@ -32183,5 +32183,14 @@
     "title": "瓶中綠野",
     "timestamp": "2026-10-01 01:39 UTC",
     "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service job failed: Codex returned no image in the session rollout for /app/static/generated/img_0973b510740a9529cff4137c.png)"
+  },
+  {
+    "number": 3420,
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-10/cat_2026-10-01_0756_UTC.webp",
+    "title": "月夜下的鏡頭巡禮",
+    "inspiration": "在印尼，政府成功推行「以攝影換現金」的保育計畫，讓原本的野生動物獵人轉型成為保護野生動物的巡守員與攝影師。",
+    "timestamp": "2026-10-01 07:56 UTC",
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service job failed: Codex image_gen 額度已用完(429 usage_limit_reached),預計 2026-10-02 01:19 (+08:00) 重置)"
   }
 ]

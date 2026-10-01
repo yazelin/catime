@@ -29,5 +29,39 @@
       "color_palette": "Earth Tones"
     },
     "title": "瓶中綠野"
+  },
+  {
+    "number": 3420,
+    "avoid_list": [
+      "水下焦散光",
+      "日期時間戳記",
+      "繁體中文字體",
+      "花卉環繞構圖",
+      "復古金屬鈴鐺",
+      "溫室苔蘚花台",
+      "幾何線條堅硬",
+      "大地色系組合",
+      "玻璃容器微縮",
+      "橘貓專注撥弄"
+    ],
+    "title": "月夜下的鏡頭巡禮",
+    "prompt": "Expressionism art style, extreme wide handscroll composition, continuous panoramic narrative, right-to-left reading flow, oblique bird's-eye angle. A cat in expressionism style lying on an old leather suitcase, intently gazing at a former hunter turned wildlife ranger holding a camera to photograph nocturnal animals. Raw concrete texture, brutalist aesthetic, rough aggregate surface, moonlit indigo palette, deep night-blue and violet tones, cool silvery highlights, cinematic lighting, volumetric light rays, dramatic shadows. The date and time text '2026-10-01 07:56 UTC' is visibly displayed in the image using Traditional Chinese characters or English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在長卷全景構圖與月夜靛藍的粗糙混凝土空間中，一隻貓咪以表現主義風格趴在舊皮箱上，認真凝視著前獵人轉型的巡守員手握相機拍攝野生動物。",
+    "story": "寂靜的月夜下，老巡守員正舉起鏡頭捕捉夜行動物的姿態，身旁駐守的貓咪則專注地將爪子搭在攝影器材箱上記錄著這一切。曾經的獵槍變成了相機，這份安詳的守護也在冷冽的電影感打光下熠熠生輝。",
+    "inspiration": "在印尼，政府成功推行「以攝影換現金」的保育計畫，讓原本的野生動物獵人轉型成為保護野生動物的巡守員與攝影師。",
+    "news_inspiration": [
+      "在丹麥哥本哈根，當地的「真人圖書館」讓民眾可以借閱不同背景的人進行深度交流，透過面對面的對話促進社區理解與包容。",
+      "在日本，一項名為 SpoGomi 的撿垃圾競技比賽逐漸風靡全球，將環境清潔轉化為有趣的體育競賽活動。",
+      "在印尼，政府成功推行「以攝影換現金」的保育計畫，讓原本的野生動物獵人轉型成為保護野生動物的巡守員與攝影師。",
+      "在英國布萊德福德，一家在地清真寺每週為50歲以上的男士舉辦普拉提健身課，影片在網路上爆紅並成為促進社區團結的新典範。"
+    ],
+    "style_picks": {
+      "art_style": "Expressionism",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Cinematic Lighting",
+      "texture": "Concrete",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 5927273667
   }
 ]
