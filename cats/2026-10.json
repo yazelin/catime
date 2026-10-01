@@ -99,5 +99,38 @@
     "title": "燈塔與時間之錨",
     "inspiration": "original",
     "character": "captain"
+  },
+  {
+    "title": "橡膠與汽油的午後",
+    "news_inspiration": [
+      "不丹（Bhutan）成功消滅犬隻傳播狂犬病，成為東南亞首個達成此公衛成就的國家。",
+      "西非象牙海岸（Côte d'Ivoire）的泰國家公園迎來喜訊，被認為失蹤長達13年的迦納伯勞鳥再度現身。",
+      "美國亞利桑那州（Arizona）鳳凰城的一名12歲少年發起年度愛心尿布捐贈活動，成功為當地食物銀行募集並送達3萬片尿布。"
+    ],
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Symmetrical Composition",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Inflatable PVC",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "在琥珀色調的對稱加油站內，一隻充氣PVC材質的橘貓正以GTA風格的螢光燈照耀下，專注地舔舐著汽油幫浦的噴嘴。畫面充滿秋日暖意與獨特的玩具質感。",
+    "avoid_list": [
+      "水下焦散光",
+      "日期時間戳記",
+      "繁體中文字體",
+      "花卉環繞構圖",
+      "復古金屬鈴鐺",
+      "溫室苔蘚花台",
+      "幾何線條堅硬",
+      "大地色系組合",
+      "玻璃容器微縮",
+      "橘貓專注撥弄"
+    ],
+    "comment_id": 5939567010,
+    "number": 3422,
+    "inspiration": "original",
+    "story": "午後的無人加油站彷彿凝固在時光之中，充氣質感的橘貓對著金屬幫浦出神。它輕輕伸出舌頭，在刺眼的螢光燈下閃爍著滑稽而迷幻的光芒。",
+    "prompt": "Grand Theft Auto bold cel-shaded illustration of a giant inflatable PVC orange cat focused on licking a gas pump nozzle inside a perfectly symmetrical gas station. The cat features a high-gloss balloon-like surface, puffy rounded forms, and air-filled tension. Symmetrical centered composition with mirror-like balance and architectural framing. Overhead fluorescent lighting with neutral white 5000K institutional flat illumination and no shadows. Saturated color palette featuring warm amber color grading, golden yellows, and burnt orange autumn tones for cozy nostalgic warmth. Display the text '2026-10-01 20:02 UTC' clearly in a digital font stamped on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
