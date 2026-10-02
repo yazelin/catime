@@ -161,5 +161,41 @@
     "story": "午夜的保齡球館內空無一人，只有發出幽暗黑光螢光軌跡的球道與一隻身手矯健的黑貓。它用肉墊精準地撥動著最後一枚球瓶，彷彿正在進行一場無聲而神聖的深夜競賽。",
     "prompt": "A Morandi muted color palette embroidery storybook page layout with multiple irregular panels depicting a sleek black cat at a 1960s bowling alley service counter, carefully pushing down a pin with its paw. Handcrafted textile art featuring visible satin stitches, French knots on textured linen fabric, and a decorative title banner at the top with integrated dialogue bubbles. Midcentury vintage bowling center setting illuminated with glowing fluorescent UV blacklight neon accents against desaturated dusty grey pastels. A subtle translucent wireframe geometric mesh overlay accents the form. Printed clearly in neat typography on a small scoreboard banner in the scene is the exact timestamp text '2026-10-02 00:17 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5943191587
+  },
+  {
+    "character": "lingling",
+    "title": "星圖與雲朵的旋律",
+    "number": 3424,
+    "idea": "採用裝飾藝術與莫蘭迪色調風格，結合古地圖星圖疊底構圖、暴風雪朦朧光效及斑駁做舊紙印質感，描繪蓬鬆如棉花糖的白色布偶貓「鈴鈴」，在充滿裝飾藝術線條的氣象天文臺內，戴著粉紅蝴蝶結鈴鐺，趴在精緻的古典天球儀旁，笨拙地伸出粉紅肉掌去抓取飄落的雪花標本。",
+    "inspiration": "original",
+    "news_inspiration": [
+      "在印度德里舉行的一場趣味寵物活動中，來自豪茲哈斯（Hauz Khas）的狗狗 Gola 憑藉可愛討喜的體型奪得「德里最胖狗狗大賽」冠軍。",
+      "澳洲昆士蘭的昆蟲學家發表最新研究，發現了兩種大型竹節蟲新物種，其中一種還會產下帶有特殊「蓋子」形狀的卵，解開了數十年來昆蟲界的謎團。",
+      "美國 NASA 與 SpaceX 於佛羅里達州甘迺迪航天中心準備發射 Crew-13 任務，載人飛船將挑戰在 9 小時內抵達國際太空站，創下美國有史以來最快的太空對接紀錄。",
+      "沙烏地阿拉伯利雅德舉辦的文化交流活動中，由中國科技團隊帶來的機器人流暢表演了當地傳統的「沙烏地劍舞」，趣味十足的科技與文化融合場面驚豔全場。"
+    ],
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Antique Map and Star-Chart Underlay",
+      "lighting": "Snowstorm Haze",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "鈴鈴跟著花店主人來到這座復古的天文臺，被中央碩大且閃爍著幾何金屬光澤的天球儀深深吸引。當視線裡出現如同蝴蝶般翩翩起舞的冰晶時，她忍不住猛力一撲，結果不小心撞到了地圖架，脖子上的粉紅鈴鐺清脆迴響，整隻貓瞬間嚇得趴下翻肚。這張帶有斑駁星圖疊印與朦朧雪景效果的作品，捕捉了她既莽撞又純真討喜的可愛瞬間。",
+    "avoid_list": [
+      "水下焦散光",
+      "日期時間戳記",
+      "繁體中文字體",
+      "花卉環繞構圖",
+      "復古金屬鈴鐺",
+      "溫室苔蘚花台",
+      "幾何線條堅硬",
+      "大地色系組合",
+      "玻璃容器微縮",
+      "橘貓專注撥弄"
+    ],
+    "character_name": "鈴鈴",
+    "prompt": "Art Deco illustration style, luxurious symmetry, geometric patterns, gold and black palette, antique map and star-chart underlay composition with a translucent parchment overlay and distressed vintage print texture, mottled uneven ink coverage, foxed yellowed paper stains. An extremely fluffy pure white #FFFFFF longhair Ragdoll cat named Lingling with a small round face hidden in cloud-like fur, huge round sapphire-blue #0F52BA eyes, pale pink nose and inner ears, wearing a pink #FF69B4 ribbon bow collar with a small centered golden #FFD700 bell. The cat is inside an Art Deco meteorological observatory, lying next to an exquisite classical armillary sphere, awkwardly reaching out a pink paw pad to catch a falling snowflake specimen. Snowstorm atmospheric lighting, heavy falling snow veil, Morandi muted color palette with desaturated soft pastels, dusty grey undertones, cold blue-white palette, fogged distance. Visually displayed in the image is the text '2026-10-02 06:23 UTC' in Traditional Chinese and English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5946711202
   }
 ]
