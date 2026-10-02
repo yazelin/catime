@@ -197,5 +197,45 @@
     "character_name": "鈴鈴",
     "prompt": "Art Deco illustration style, luxurious symmetry, geometric patterns, gold and black palette, antique map and star-chart underlay composition with a translucent parchment overlay and distressed vintage print texture, mottled uneven ink coverage, foxed yellowed paper stains. An extremely fluffy pure white #FFFFFF longhair Ragdoll cat named Lingling with a small round face hidden in cloud-like fur, huge round sapphire-blue #0F52BA eyes, pale pink nose and inner ears, wearing a pink #FF69B4 ribbon bow collar with a small centered golden #FFD700 bell. The cat is inside an Art Deco meteorological observatory, lying next to an exquisite classical armillary sphere, awkwardly reaching out a pink paw pad to catch a falling snowflake specimen. Snowstorm atmospheric lighting, heavy falling snow veil, Morandi muted color palette with desaturated soft pastels, dusty grey undertones, cold blue-white palette, fogged distance. Visually displayed in the image is the text '2026-10-02 06:23 UTC' in Traditional Chinese and English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 5946711202
+  },
+  {
+    "number": 3425,
+    "prompt": "Photorealistic composite photography of Momo, a giant solid-black shorthair cat, crouching atop a massive landscape composed of piled, stacked maple-orange autumn books in a surreal giant-scale cityscape at night. Momo features sleek satin-sheen black fur (#0A0A0A), large luminous golden-amber eyes (#D4A017), a tiny natural white locket tuft on the ventral chest, a single dark-grey (#696969) ring at the tail tip, long prominent white whiskers, and a single small gold hoop earring (#FFD700) on the left ear. Shot with a 35mm lens, f/2.8 aperture, deep depth of field, showcasing impossible proportions inspired by Attack on Titan aesthetics, featuring tiny pedestrians below for scale contrast. Bold blue and yellow complementary lighting creates a vivid, contrasting atmosphere with cool blue shadows and warm yellow accents illuminated against the night sky. Visually display the text '2026-10-02 13:18 UTC' clearly rendered in a clean font at the bottom edge. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在藍黃互補色的強烈夜景中，一隻巨大的純黑短毛貓『墨墨』正低頭凝視著由無數本楓葉色書本堆疊而成的奇幻巨型地景，融合了巨人尺寸合成的視覺風格。",
+    "comment_id": 5953356835,
+    "character": "momo",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "在不丹首都廷布（Thimphu），世界衛生組織宣布該國正式成為東南亞第一個完全消除犬隻傳播狂犬病的國家。",
+      "在英國英格蘭北部（Northumberland），因遭砍伐而聞名的著名的「羅賓漢樹」遺址處長出了一圈高達3英尺的新嫩芽。",
+      "在菲律賓馬尼拉（Manila），一間零廢棄物補充商店成功透過推廣環裝補充模式，減少了當地超過一萬個塑膠容器進入掩埋場。",
+      "在美國洛杉磯（Los Angeles），好萊塢演員克里斯·伊凡（Chris Evans）透過社群分享可愛影片，順利協助一對相依為命的流浪狗順利找到認養家庭。"
+    ],
+    "style_picks": {
+      "art_style": "Kaiju Scale Composite",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "season": "autumn",
+    "story": "墨墨在如巨石般巨大的古籍書堆間輕巧地穿梭，金琥珀色的眼睛在黑暗中閃爍著微光。尾巴末端的深灰色環紋隨著牠優雅的步伐輕輕擺動，彷彿在審視這座由秋日落葉色澤交織而成的智慧迷宮。",
+    "character_name": "墨墨",
+    "avoid_list": [
+      "專注地用爪子撥弄",
+      "水下焦散光",
+      "象牙與描金",
+      "莫蘭迪色調",
+      "命令列終端機風格",
+      "幾何格線疊層構圖",
+      "四腳伏地/四腳著地",
+      "古老溫室/植物玻璃容器",
+      "時間戳記與日期顯示",
+      "復古金屬銅鈴與齒輪修繕",
+      "柔焦霧面與剪影藝術",
+      "琥珀色調與黃昏光影"
+    ],
+    "title": "秋葉巨書的凝視",
+    "inspiration": "original"
   }
 ]
