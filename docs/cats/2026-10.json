@@ -311,5 +311,43 @@
       "柔焦霧面與剪影藝術",
       "琥珀色調與黃昏光影"
     ]
+  },
+  {
+    "character": "mochi",
+    "idea": "採用星河水彩美男插畫風格，以藍黃互補色與滿版特寫展現「麻糬」的圓滾滾身影；聚光燈打在牠身上，稜鏡彩虹光斑隨意灑落，描繪這隻橘白胖貓在深夜老街夜市的胡椒餅攤位前，半瞇著圓眼、開心地用鼻子貼著剛出爐的酥皮大口偷聞香味。",
+    "story": "夜市攤位打烊後，聚光燈般的街燈打在鐵皮檯面上。麻糬這顆胖乎乎的花生麻糬鑽進空麵粉袋裡，露出圓嘟嘟的右半邊橘斑臉與粉紅鼻子，貪吃地盯著最後一顆剛出爐的胡椒餅打呼嚕。藍色夜幕與金黃餅皮交織成璀璨的星河色彩，夜市老闆笑著戳了戳牠右腳的橘色手套，捨不得將這隻試吃大隊長趕走。",
+    "number": 3428,
+    "avoid_list": [
+      "專注地用爪子撥弄",
+      "水下焦散光",
+      "象牙與描金",
+      "莫蘭迪色調",
+      "命令列終端機風格",
+      "幾何格線疊層構圖",
+      "四腳伏地/四腳著地",
+      "古老溫室/植物玻璃容器",
+      "時間戳記與日期顯示",
+      "復古金屬銅鈴與齒輪修繕",
+      "柔焦霧面與剪影藝術",
+      "琥珀色調與黃昏光影"
+    ],
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "comment_id": 5964186859,
+    "news_inspiration": [
+      "日本東京都的賽跑愛好者推廣新型態運動「Spogomi」，將撿垃圾與競技體育相結合，成為全球熱門的環保休閒活動。",
+      "丹麥哥本哈根推出獨特的「真人圖書館」，民眾可以像借閱書籍一樣，借用不同背景的人交流聊天 30 分鐘。",
+      "美國喬治亞州的考古學家在最新的古代陶器研究中，發現了密西西比河以東最早使用可可豆做成巧克力飲食的歷史痕跡。",
+      "英國布萊德福的一座清真寺為 50 歲以上的男性開辦普拉提健身課程，影片在社群網路上意外走紅並引起全球關注。"
+    ],
+    "prompt": "galaxy watercolor bishounen illustration, a chubby rounded shorthair cat named Mochi with a white base coat and bright orange patches, featuring an orange mask strictly on the right half-face, a heart-shaped orange saddle on the upper back, a solid orange mitten on the right front paw, pure white left front paw, large round amber eyes, a pink nose with a tiny orange center dot, and short stubby legs, sniffing a freshly baked flaky pepper pastry at a late-night old street night market stall; full-bleed frame-filling composition, subject cropped to edges, narrow beam spotlight with dramatic high-contrast and deep darkness falloff, scattered prismatic rainbow flare texture and refracted spectral light spots, vivid contrasting blue and yellow complementary palette with cosmic nebula hues bleeding through, scattered starlight specks; the text '2026-10-03 01:31 UTC' is visually displayed in the image in Traditional Chinese characters IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Galaxy Watercolor Bishounen Illustration",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Spotlight",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "title": "深夜攤位的花生麻糬"
   }
 ]
