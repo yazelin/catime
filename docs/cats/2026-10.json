@@ -349,5 +349,45 @@
       "color_palette": "Blue and Yellow Complementary"
     },
     "title": "深夜攤位的花生麻糬"
+  },
+  {
+    "story": "穿著小毛衣的鈴鈴正興奮地在落葉堆裡打滾，身上沾滿了鮮紅秋葉。當她好奇地用粉紅肉掌推開紅葉時，一隻巨大的竹節蟲突兀地冒了出來，嚇得她雙眼圓睜、脖子上的粉紅鈴鐺發出清響，整隻貓瞬間往後彈跳開來。",
+    "inspiration": "澳洲科學家發表最新的昆蟲學研究，發現了兩種大型竹節蟲新物種，其中一種甚至能產出極為罕見帶蓋子的特殊蟲卵。",
+    "number": 3429,
+    "news_inspiration": [
+      "越南河內舉辦第二屆世界文化節，來自 50 個國家的代表團於皇城展開「五大洲之彩」踩街遊行與音樂盛會。",
+      "澳洲科學家發表最新的昆蟲學研究，發現了兩種大型竹節蟲新物種，其中一種甚至能產出極為罕見帶蓋子的特殊蟲卵。",
+      "英國知名歷史古城哥本哈根推廣溫馨的「真人圖書館」花園計畫，民眾可向館方借閱真人並進行 30 分鐘的深度對話交流。",
+      "美國加州大學洛杉磯分校（UCLA）團隊研發出一款以光驅動的 AI 系統，能同時分析多支影片並以近 98% 的準確率識別深偽影片。"
+    ],
+    "character": "lingling",
+    "season": "autumn",
+    "title": "楓林驚飛羽",
+    "character_name": "鈴鈴",
+    "prompt": "An isometric photograph of an extremely fluffy pure white longhair cat with voluminous cloud-like fur and huge round sapphire-blue eyes, wearing a pink ribbon bow collar with a centered small golden bell, falling backward in panic in a realistic wuxia-style garden featuring a vermilion and white palette and raised embroidered coiled-flower textures, dodging a giant stick insect among scattered vibrant red autumn leaves, lit by butterfly lighting with soft even illumination, text displayed in the corner reading '2026-10-03 07:13 UTC' IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Photorealistic Wuxia Character Design",
+      "composition": "Isometric Photography",
+      "lighting": "Butterfly Lighting",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "is_seasonal": true,
+    "idea": "在融合朱紅留白色彩與立體刺繡盤花肌理的寫實武俠風格庭園中，採用等距攝影與蝴蝶光，呈現蓬鬆白貓鈴鈴正驚慌地往後翻躍、躲避滿地紅葉與竹節蟲的生動畫面。",
+    "comment_id": 5966682009,
+    "avoid_list": [
+      "專注地用爪子撥弄",
+      "水下焦散光",
+      "象牙與描金",
+      "莫蘭迪色調",
+      "命令列終端機風格",
+      "幾何格線疊層構圖",
+      "四腳伏地/四腳著地",
+      "古老溫室/植物玻璃容器",
+      "時間戳記與日期顯示",
+      "復古金屬銅鈴與齒輪修繕",
+      "柔焦霧面與剪影藝術",
+      "琥珀色調與黃昏光影"
+    ]
   }
 ]
