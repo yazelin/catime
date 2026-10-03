@@ -389,5 +389,36 @@
       "柔焦霧面與剪影藝術",
       "琥珀色調與黃昏光影"
     ]
+  },
+  {
+    "idea": "這幅作品以柯達 Portra 底片風格呈現，捕捉一隻踏在微縮模型列車上探頭窺視控制台的貓咪，搭配等距攝影的立體視角。",
+    "comment_id": 5969337616,
+    "news_inspiration": [],
+    "number": 3430,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Isometric Photography",
+      "lighting": "Window Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "A real captured photo with a precise isometric angle showing a curious cat stepping on a miniature model train and peeking into a control panel. The cat stretches out its front paw, playfully touching a tiny handbrake. The scene features a glossy plastic toy texture with smooth high-shine surfaces and slight reflections, illuminated by gentle directional daylight from a side window casting soft window light and a smooth falloff into shadow. Cool blue-teal color grading with icy undertones creates a serene and calm mood. The text '2026-10-03 12:48 UTC' is visually displayed in the image. Shot on Kodak Portra 400, warm film tones, subtle grain, soft focus, dreamy nostalgic atmosphere, intimate still-life mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "微縮軌道的晨曦探險",
+    "story": "藍青色的柔和窗光透進控制室，映照出亮面塑膠材質的微型軌道與開關。小貓伸出前爪好奇地撥動微型手煞車，彷彿自己正是這趟冷色調模型之旅的列車長。",
+    "avoid_list": [
+      "強調繁體中文或英文文字說明",
+      "時間戳記與UTC時間字樣",
+      "一邊眼睛蓋著深色毛髮斑塊與單眼綠眼",
+      "左耳V字型缺口與頸部紅色頭巾",
+      "虎斑貓船長角色設定",
+      "長卷全景構圖",
+      "粉紅蝴蝶結鈴鐺項圈與白色布偶貓",
+      "巨大尺寸貓咪與合成視覺效果",
+      "珠寶工筆與3D C4D融合風格",
+      "聚光燈與強烈藍黃互補光影",
+      "莫蘭迪色調與做舊紙張紋理",
+      "立體刺繡與盤花肌理藝展風格"
+    ]
   }
 ]
