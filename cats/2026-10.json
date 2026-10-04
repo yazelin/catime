@@ -668,5 +668,45 @@
     ],
     "prompt": "Abstract Expressionism, high contrast gestural brushwork, spontaneous raw emotional intensity, a calico cat squatting at a harbor pier, poking through marine debris in a floating mini trash bin, antique map and star-chart underlay composition, layered over aged cartography and constellation diagrams, snowstorm atmospheric lighting, heavy falling snow veil, water droplets on skin texture, glistening beads of water clinging to dewy surface, fresh wet sheen, black and white monochrome, rich tonal range, dramatic shadows and highlights, featuring visible text displaying 2026-10-04 18:26 UTC IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "在英國洛夫堡，當地大學生舉辦了一場別開生面的「撿垃圾體育競賽（SpoGomi）」，一舉從城鎮街道清理出超過 280 公斤的垃圾。"
+  },
+  {
+    "avoid_list": [
+      "油紙傘背景構圖",
+      "水彩動漫插畫風格",
+      "伸出前爪撥弄觸碰",
+      "雙色調與金箔潑點肌理",
+      "藍黃互補色調",
+      "黑色短毛貓墨墨",
+      "虎斑貓船長",
+      "等距攝影視角",
+      "生物發光與螢光細節",
+      "真人圖書館概念",
+      "巨型尺寸合成視覺",
+      "嚴格禁止簡體字指示"
+    ],
+    "character": "lingling",
+    "number": 3438,
+    "character_name": "鈴鈴",
+    "inspiration": "original",
+    "idea": "這幅時尚設計草圖以橘紫互補色調呈現側臉特寫，描金墨線勾勒出蓬鬆如棉花糖的白色布偶貓鈴鈴，在光影斑駁的秋日花園陽台上追逐蝴蝶卻一頭撞上精緻的微型花卉雕塑。",
+    "prompt": "fashion croquis sketch, loose pencil and marker lines, stylized elongated figure, vibrant color swatches and sketchy strokes, designer sketchbook aesthetic, colored pencils visible as props, side profile portrait, subject viewed from the side, clean silhouette of nose and chin, profile-defining contour, elegant lateral framing, Rembrandt lighting, single light source at 45 degrees, signature triangle of light on shadowed cheek, dramatic chiaroscuro, gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, ornamental hand-drawn detailing on dark ground, orange and violet complementary palette, vivid warm orange against deep purple, bold dual-tone contrast, striking graphic energy. A side profile of an extremely fluffy pure white Ragdoll cat with voluminous cloud-like fur, huge round sapphire-blue eyes, pale pink nose and inner ears, wearing a warm orange knit sweater and a pink ribbon bow collar with a small centered golden bell, chasing a glowing golden butterfly in a dappled autumn garden balcony with falling red and purple maple leaves, colliding with a delicate miniature floral sculpture. The text '2026-10-04 22:03 UTC' is visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "season": "autumn",
+    "title": "秋葉與撞牆的叮鈴聲",
+    "style_picks": {
+      "art_style": "Fashion Croquis Sketch",
+      "composition": "Side Profile Portrait",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "comment_id": 5984922612,
+    "story": "落葉紛飛的微涼秋季，鈴鈴穿著暖橘色的細針織小毛衣，身上沾黏著幾片絢麗的紫紅楓葉。她正瞪大藍寶石般的圓眼睛追逐一隻閃爍金光的蝴蝶，一不小心砰的一聲撞上了陽台上的雕花石柱，脖子上的粉紅鈴鐺發出清脆響亮的叮鈴聲。",
+    "news_inspiration": [
+      "美國俄克拉荷馬州：科學家重新解析阿姆斯隕石坑（Ames Crater）的鋯石晶體，發現該隕石撞擊事件發生於約3.7億年前，比過去預估的時間整整年輕了1億年。",
+      "加拉巴哥群島（厄瓜多）：科學家透過衛星追蹤發現，當地特有的黃色型態太平洋綠綠蠵龜並未進行長途洄遊，而是選擇長期定居在保護區附近海域。",
+      "丹麥哥本哈根：當地極具特色的「真人圖書館（Human Library）」持續營運，民眾可以像借閱圖書一樣「借閱」不同背景的志工，透過對話交流增進跨文化理解與包容。",
+      "澳大利亞：最新發布的第十屆電動車報告顯示，全澳電動車普及率大幅提升，平均每100秒即售出一輛電動車，占新車銷售比例已達四分之一。"
+    ]
   }
 ]
