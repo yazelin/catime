@@ -594,5 +594,43 @@
     "inspiration": "original",
     "number": 3435,
     "prompt": "minimalist surreal scene, full-bleed frame-filling composition, a soft grey cat closely nose-balancing a glowing inflatable PVC balloon, inflatable PVC material, high-gloss balloon-like surface, puffy rounded forms, air-filled tension, Morandi muted color palette, desaturated soft pastels, dusty grey undertones, quiet elegance, conceptual fine art, dreamlike impossible staging, muted refined palette, the text '2026-10-04 08:55 UTC' visually displayed in the scene in clean typography IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "comment_id": 5981086579,
+    "character_name": "麻糬",
+    "idea": "3D渲染擬人動物肖像風格的浮島場景中，麻糬圓滾滾地趴在懸浮於白底棚光中的老街綠豆湯攤位前，雙眼放大兩倍凝視著剛煮好的熱騰騰湯圓。",
+    "character": "mochi",
+    "prompt": "A 3D render of a chubby rounded shorthair cat named Mochi with a white base coat and bright orange patches, featuring an asymmetric orange mask on the right half-face, a heart-shaped orange saddle on its dorsal back, a solid orange mitten on its right front paw, a pure white left front paw, large round amber eyes, and a pink nose with a tiny orange center dot. The cat is lying down on a wooden table in front of a floating miniature traditional Taiwanese green soup stall on a levitating jade-green bamboo island against a seamless white studio background. The text '2026-10-04 14:29 UTC' is displayed in the image. Polished 3D render, smooth materials, clean geometry, soft global illumination, Cinema 4D aesthetic, bamboo jade-green palette, fresh emerald tones, cool verdant serenity, high-key studio lighting, crisp commercial clarity. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "老街市場的綠豆湯攤販化為一座漂浮在空中的竹影翠綠小島。麻糬頂著橘白相間的胖嘟嘟身軀，右爪戴著標誌性的橘色手套趴在木桌上，正為了即將到手的花生湯圓發出滿足的瞇眼打呼聲。",
+    "number": 3436,
+    "inspiration": "original",
+    "title": "翠綠浮島上的湯圓巡禮",
+    "news_inspiration": [
+      "在美國阿拉斯加州卡特邁國家公園舉辦的年度胖熊週（Fat Bear Week）中，一隻暱稱為「後背包」、編號89號的棕熊榮獲冠軍，展現了冬眠前的驚人實力。",
+      "歐洲太空總署（ESA）的 JUICE 探測器成功利用地球重力完成精準甩尾彈射，在不浪費過多燃料的情況下加速奔向木星系統。",
+      "丹麥哥本哈根推出了獨特的「真人圖書館」活動，讓民眾可以在閱覽花園中借閱真實的人，藉由對話交流分享不同的人生故事。",
+      "加拿大科學家利用 CHIME 射電望遠鏡經過多年的數據累積，成功解開了宇宙暗能量研究中的一項全新觀測突破。"
+    ],
+    "avoid_list": [
+      "油紙傘背景構圖",
+      "水彩動漫插畫風格",
+      "伸出前爪撥弄觸碰",
+      "雙色調與金箔潑點肌理",
+      "藍黃互補色調",
+      "黑色短毛貓墨墨",
+      "虎斑貓船長",
+      "等距攝影視角",
+      "生物發光與螢光細節",
+      "真人圖書館概念",
+      "巨型尺寸合成視覺",
+      "嚴格禁止簡體字指示"
+    ],
+    "style_picks": {
+      "art_style": "Anthropomorphic Animal Portrait",
+      "composition": "Floating Island Scene",
+      "lighting": "White Seamless Studio Light",
+      "texture": "3D Render",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
