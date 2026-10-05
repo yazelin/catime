@@ -780,5 +780,40 @@
     "story": "身經百戰的船長卸下當年的遠航風浪，如今在老燈塔的斑駁陽光中擔任著碼頭最可靠的工匠。牠用厚實的大掌與敏銳的翠綠右眼，一絲不苟地校準著每一顆可能迷失方向的螺絲。縱使歲月在左眼留下了眼罩與耳際的缺口，牠守護這片海洋與後輩的心意依然如同正午烈日般堅定不移。",
     "number": 3440,
     "character": "captain"
+  },
+  {
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Three-Point Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Moonlit Indigo"
+    },
+    "character": "mochi",
+    "story": "剛在夜市巡邏完的麻糬被水果攤新擺出的冰鎮花生湯吸引，牠湊近那散發著神秘霓虹光澤的透明樹脂保鮮櫃，琥珀色的圓眼睛瞬間放大了兩倍。攤販老闆看著這顆胖嘟嘟的花生麻糬趴在檯面上討吃，忍不住笑著舀了一匙特製花生碎當作今晚的巡邏獎勵。",
+    "avoid_list": [
+      "伸手觸碰或撥弄物件",
+      "傳統中文與英文文字標記",
+      "漂浮古籍與文獻堆",
+      "繁體中文與簡體中文警示語",
+      "油紙傘視覺框景",
+      "微型裝置與模型容器",
+      "竹影翠綠色調",
+      "黑白單色調風格"
+    ],
+    "news_inspiration": [
+      "在丹麥哥本哈根，當地的「真人圖書館」讓民眾不借書改為「借真人」，透過 30 分鐘的對話了解不同背景人士的人生故事。",
+      "在澳洲雪梨，雪梨公雞隊（Sydney Roosters）以 19 比 18 的緊迫比分戰勝紐卡索騎士隊，奪得全國橄欖球聯賽（NRL）總冠軍。",
+      "在美國聖路易，2026年年度狗狗攝影獎（Dog Photography Awards）揭曉，獲獎作品透過動人的狗狗肖像展現寵物與人類之間的溫馨連結。",
+      "在英國拉夫堡，結合「運動」與「撿垃圾」的「SpoGomi」比賽掀起熱潮，參賽學生團體在一個下午內清除了超過 280 公斤的市區垃圾。",
+      "在泰國曼谷，世界衛生組織正式宣佈該國成功消除風疹（德國麻疹），這項歷經數十年努力的公共衛生裡程碑為兒童帶來更健康的未來。"
+    ],
+    "prompt": "A retro-futuristic synthwave illustration of a chubby, rounded orange-and-white shorthair cat, Mochi, with a spherical torso and short stubby legs, peering curiously into a glowing, translucent resin refrigerated display cabinet at a late-night traditional night market stall. The cat features specific distinct markings: a solid orange mask covering only its right half-face and right ear while its left face is pure white, large round amber eyes, a pink nose with a tiny orange center dot, a heart-shaped solid orange saddle patch on its upper back, a solid orange mitten on its right front paw up to the wrist, a pure white left front paw, and an orange-and-white ringed tail. The transparent resin cabinet is glossy, smooth, and filled with ice-cold beverages and crushed peanuts, casting a soft neon light onto the cat. Framed by vertical color palette swatch bars on both sides in a design moodboard aesthetic and portfolio presentation layout. The background features synthwave neon grid elements, retro 1980s sci-fi nostalgia, and market stall signs. Lit by a classic three-point lighting setup with key light soft shadows, fill light, and a subtle rim light separation. The scene is enveloped in a moonlit indigo palette of deep night-blue and violet tones with cool silvery highlights. In the bottom corner, the text '2026-10-05 16:31 UTC' is visually displayed in clean white typography in English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "comment_id": 5998766338,
+    "character_name": "麻糬",
+    "number": 3441,
+    "idea": "在融合合成波風格的深夜傳統夜市攤位前，圓滾滾的橘白貓麻糬正好奇地凝視著如透明樹脂般璀璨發光的冰鎮飲料櫃，整張畫面被月夜靛藍的霓虹光影與三點打光包覆，邊緣則搭配精緻的配色條邊框。",
+    "title": "霓虹夜市的花生夢"
   }
 ]
