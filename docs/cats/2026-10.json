@@ -708,5 +708,43 @@
       "丹麥哥本哈根：當地極具特色的「真人圖書館（Human Library）」持續營運，民眾可以像借閱圖書一樣「借閱」不同背景的志工，透過對話交流增進跨文化理解與包容。",
       "澳大利亞：最新發布的第十屆電動車報告顯示，全澳電動車普及率大幅提升，平均每100秒即售出一輛電動車，占新車銷售比例已達四分之一。"
     ]
+  },
+  {
+    "news_inspiration": [
+      "在英國布拉福（Bradford），一座清真寺每週末舉辦專為50歲以上男性設計的皮拉提斯健身課，因充滿溫馨與活力在社群平台上吸引數百萬人次觀看。",
+      "在美國科羅拉多州（Colorado），新建成的跨越25號州際公路大型野生動物專用橋樑運作良好，成功將當地車輛與野生動物相撞的事故減少了91%。",
+      "在菲律賓（Philippines），一家名為 Tingi Station 的零廢棄物加水與清潔劑補充站，成功協助當地減少使用超過1萬個一次性塑膠瓶罐。",
+      "在中國東北部（China），古生物學家發現了一具保存極為完好的羽毛恐龍化石，為研究古代生物如何演化出飛行能力提供了全新的關鍵線索。"
+    ],
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Blurred Foreground Occlusion",
+      "lighting": "Dappled Light",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "number": 3439,
+    "character_name": "墨墨",
+    "story": "古物館的幽暗高處，墨墨輕盈地趴在古老文獻堆上，琥珀般的目光緊盯著展櫃中那具栩鳥骨骼化石。它優雅地伸出爪子隔著玻璃輕撫著歲月留下的痕跡，宛如在與億萬年前的羽毛飛行者進行跨越時空的無聲對話。",
+    "character": "momo",
+    "prompt": "Impasto oil painting in monochrome black and white with high contrast, rich tonal range, and dramatic shadows and highlights. A sleek, slender solid-black Bombay-style shorthair cat named Momo with golden-amber eyes, long prominent white whiskers, a tiny white tuft on its chest, a dark-grey ring on its tail tip, and a single small gold hoop earring on its left ear, crouching on an ancient document stack with a calm, attentive expression, staring at a translucent skeletal view of an ancient feathered dinosaur fossil behind a display case, gently touching the glass with one paw. Composition viewed through a blurred foreground occlusion of a geometric wooden bookshelf, creating a layered depth and intimate peeking view. Natural dappled light filters through, casting soft mottled shadows and gentle organic light play across the scene. Thick palette-knife strokes, raised three-dimensional paint ridges, and a rich tactile painterly surface combine with an X-ray radiograph aesthetic. The text '2026-10-05 01:21 UTC' is visually displayed in clear English text in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "油紙傘背景構圖",
+      "水彩動漫插畫風格",
+      "伸出前爪撥弄觸碰",
+      "雙色調與金箔潑點肌理",
+      "藍黃互補色調",
+      "黑色短毛貓墨墨",
+      "虎斑貓船長",
+      "等距攝影視角",
+      "生物發光與螢光細節",
+      "真人圖書館概念",
+      "巨型尺寸合成視覺",
+      "嚴格禁止簡體字指示"
+    ],
+    "idea": "採用X光透視風格與單色黑白調，透過前景幾何書架的模糊遮擋，呈現在斑駁光影下黑貓墨墨正凝神俯瞰古代羽毛恐龍骨骼化石的厚塗油彩畫面。",
+    "inspiration": "在中國東北部（China），古生物學家發現了一具保存極為完好的羽毛恐龍化石，為研究古代生物如何演化出飛行能力提供了全新的關鍵線索。",
+    "comment_id": 5986580902,
+    "title": "時光骨骼與影"
   }
 ]
