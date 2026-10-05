@@ -746,5 +746,39 @@
     "inspiration": "在中國東北部（China），古生物學家發現了一具保存極為完好的羽毛恐龍化石，為研究古代生物如何演化出飛行能力提供了全新的關鍵線索。",
     "comment_id": 5986580902,
     "title": "時光骨骼與影"
+  },
+  {
+    "avoid_list": [
+      "伸手觸碰或撥弄物件",
+      "傳統中文與英文文字標記",
+      "漂浮古籍與文獻堆",
+      "繁體中文與簡體中文警示語",
+      "油紙傘視覺框景",
+      "微型裝置與模型容器",
+      "竹影翠綠色調",
+      "黑白單色調風格"
+    ],
+    "title": "燈塔工匠",
+    "comment_id": 5990380394,
+    "idea": "採用彩色石版印刷風格，結合斑駁做舊紙印與高飽和鮮豔色，以魚眼鏡頭捕捉漁港老燈塔的強烈硬光日照下，棕黑色虎斑大貓「船長」正咬著一根老舊黃銅導航尺，專注地在一張散落著漁網與海圖的木製工作桌上修補一盞破舊的航海羅盤。",
+    "prompt": "A vibrant chromolithograph style print featuring a large, stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a white chest bib, white mitten paws, a visible faded red bandana around its neck, a prominent V-shaped notch on its left ear, a single piercing emerald green right eye, and a natural dark brown fur patch permanently covering its left eye socket with no fabric or straps. The cat is clenching a vintage worn brass navigation ruler in its jaws while meticulously repairing a weathered nautical compass at a wooden workbench scattered with fishing nets and sea charts. Shot with a fisheye wide-angle lens creating strong barrel distortion, an exaggerated foreground, and a 360-degree feel. Set inside an old harbor lighthouse illuminated by harsh midday sunlight, casting hard-edge, high-contrast shadows. The visual aesthetic features distressed vintage print texture, mottled uneven ink, foxed yellowed paper stains, worn edges, misregistered multi-layered printing, decorative Victorian-era poster elements, and high-saturation vivid colors with bold vibrant hues. Clear Traditional Chinese text in small elegant lettering displaying '2026-10-05 07:50 UTC' is subtly printed on the edge of the sea chart. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國奧克拉荷馬州：科學家研究發現埋藏於當地地下的隕石坑形成年代比原先預期年輕了近一億年。",
+      "丹麥哥本哈根：當地設立了一座「真人圖書館」，民眾可以像借閱書籍一樣「借閱」不同背景的人進行交流與分享。",
+      "法國巴黎：第35屆科學節於全市盛大展開，污水下水道博物館等特色場館特別開放免費參觀與互動體驗。",
+      "哥倫比亞卡普爾加納：政府正式將六萬三千公頃的海域劃為保護區，攜手在地社群共同守護珊瑚礁與海龜棲地。"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Chromolithography",
+      "composition": "Fisheye Lens",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "High Saturation Vivid"
+    },
+    "character_name": "船長",
+    "story": "身經百戰的船長卸下當年的遠航風浪，如今在老燈塔的斑駁陽光中擔任著碼頭最可靠的工匠。牠用厚實的大掌與敏銳的翠綠右眼，一絲不苟地校準著每一顆可能迷失方向的螺絲。縱使歲月在左眼留下了眼罩與耳際的缺口，牠守護這片海洋與後輩的心意依然如同正午烈日般堅定不移。",
+    "number": 3440,
+    "character": "captain"
   }
 ]
