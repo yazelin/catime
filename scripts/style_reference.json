@@ -1134,6 +1134,31 @@
       "zh": "紙雕花境仙裙人像",
       "en": "Paper-Sculpture Floral Gown Portrait",
       "prompt": "paper-sculpture floral gown portrait, figure wearing a couture dress built from hand-cut paper blossoms, layered petal reliefs surrounding her, matte textured cardstock craft, soft studio light, ethereal handmade elegance"
+    },
+    {
+      "zh": "韓漫寫實男性插畫",
+      "en": "Semi-Realistic Manhwa Illustration",
+      "prompt": "semi-realistic Korean manhwa illustration, sharp handsome male character with refined facial anatomy, crisp clean line art and glossy digital cel-plus-airbrush shading, cool urban mood, polished webtoon cover rendering"
+    },
+    {
+      "zh": "花田蕾絲波西米亞人像",
+      "en": "Boho Lace Wildflower Meadow Portrait",
+      "prompt": "bohemian wildflower meadow portrait, model in flowing white lace dress amid tall grasses and blooms, flower crown and loose wavy hair, soft natural sunlight, airy free-spirited romantic editorial"
+    },
+    {
+      "zh": "閃粉珠飾美妝特寫",
+      "en": "Glitter Jewel Beauty Close-up",
+      "prompt": "glitter jewel beauty close-up, macro makeup shot of eyes and lips adorned with rhinestones, pearls and shimmering glitter, flawless retouched skin, editorial beauty campaign lighting, high-detail cosmetic artistry"
+    },
+    {
+      "zh": "暗黑哥德時裝寫真",
+      "en": "Dark Gothic Fashion Photography",
+      "prompt": "dark gothic fashion photography, model in black lace and corseted gothic or lolita attire, misty forest or lakeside setting, desaturated moody tones, melancholic haunting atmosphere, cinematic editorial portrait"
+    },
+    {
+      "zh": "錦鯉水下超寫實人像",
+      "en": "Underwater Koi Hyperreal Portrait",
+      "prompt": "hyperreal underwater portrait, submerged figure with billowing hair and floating fabric surrounded by swirling koi fish, rippling light and air bubbles, serene suspended stillness, ethereal aquatic fantasy"
     }
   ],
   "composition": [
@@ -1508,6 +1533,11 @@
       "zh": "巨月輝映",
       "en": "Giant Moon Glow",
       "prompt": "giant moon glow, an enormous lunar disc filling the sky behind the subject, pale silver backlight rimming the silhouette, luminous halo and long cold shadows, epic nocturnal atmosphere"
+    },
+    {
+      "zh": "閃電電光",
+      "en": "Lightning Strike Glow",
+      "prompt": "lightning strike glow, crackling electric bolts illuminating the subject, harsh blue-white flashes and arcing energy, stark high-contrast storm light, charged dramatic atmosphere"
     }
   ],
   "texture": [
@@ -1932,6 +1962,16 @@
       "zh": "珊瑚粉靛藍",
       "en": "Coral Pink and Prussian Blue",
       "prompt": "coral pink and Prussian blue palette, warm salmon tones against deep inky blue, rich complementary depth, elegant editorial contrast"
+    },
+    {
+      "zh": "鈷藍象牙鏽橙",
+      "en": "Cobalt Blue, Ivory and Rust Orange",
+      "prompt": "cobalt blue, ivory and rust orange palette, saturated deep blue fields balanced by creamy off-white and earthy burnt-orange accents, bold yet refined tri-tone contrast"
+    },
+    {
+      "zh": "薰衣草紫山林綠",
+      "en": "Lavender and Mountain Green",
+      "prompt": "lavender and mountain green palette, soft violet blooms against deep forest and hillside greens, fresh cool natural harmony, pastoral dreamy calm"
     }
   ]
 }
