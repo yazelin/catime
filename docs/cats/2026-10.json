@@ -815,5 +815,32 @@
     "number": 3441,
     "idea": "在融合合成波風格的深夜傳統夜市攤位前，圓滾滾的橘白貓麻糬正好奇地凝視著如透明樹脂般璀璨發光的冰鎮飲料櫃，整張畫面被月夜靛藍的霓虹光影與三點打光包覆，邊緣則搭配精緻的配色條邊框。",
     "title": "霓虹夜市的花生夢"
+  },
+  {
+    "comment_id": 6004957247,
+    "story": "狂風暴雨席捲著深藍色的海面，燈塔頂部的巨大透鏡投射出耀眼而均勻的環形光芒。貓咪輕盈地踏在冰冷的金屬台座上，用山貓般敏銳的眼神盯著天球儀上旋轉的星宿金屬環，彷彿正獨自指引著遠方船隻的航向。",
+    "news_inspiration": [],
+    "idea": "這是一幅融合巴洛克戲劇光影與藍青冷色調的長卷全景 3D 渲染畫作，一隻貓咪正在深夜的海邊燈塔頂樓專注地用爪子滾動龐大的黃銅航海天球儀。",
+    "style_picks": {
+      "art_style": "Baroque",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Ring Light",
+      "texture": "3D Render",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "prompt": "Continuous panoramic wide-angle 3D render of a cat on the top floor of a stormy ocean lighthouse at night, diligently rolling a massive brass nautical celestial sphere with its paws. Deep blue-teal color grading with icy undertones and crisp atmosphere. Baroque dramatic chiaroscuro combined with soft global illumination and Cinema 4D aesthetic, featuring polished metals, smooth surfaces, and rich ornate details. Ring light illumination casting ring catchlights in the cat's sharp lynx-like eyes, surrounded by layered foreground and background narrative elements. Oblique bird's-eye angle and right-to-left visual flow. The text '2026-10-05 22:58 UTC' is clearly rendered in clean digital display text in the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "avoid_list": [
+      "伸手觸碰或撥弄物件",
+      "傳統中文與英文文字標記",
+      "漂浮古籍與文獻堆",
+      "繁體中文與簡體中文警示語",
+      "油紙傘視覺框景",
+      "微型裝置與模型容器",
+      "竹影翠綠色調",
+      "黑白單色調風格"
+    ],
+    "number": 3442,
+    "title": "風暴燈塔的星軌導航"
   }
 ]
