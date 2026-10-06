@@ -933,5 +933,41 @@
     "news_inspiration": [],
     "title": "貓咪日常",
     "comment_id": 6020807429
+  },
+  {
+    "news_inspiration": [
+      "丹麥哥本哈根的「真人圖書館」推出特別的閱覽花園，讓民眾能「借閱」不同背景的志工進行30分鐘的對話互動。",
+      "英國布拉德福德的一所清真寺為50歲以上男性舉辦健身皮拉提斯課程，影片在社群平台上吸引數百萬人次觀看與熱烈迴響。",
+      "哥倫比亞的保育團隊成功將一隻救務並野化的孤兒黑掌蜘蛛猴放歸森林，並喜悅記錄下牠升格為母親的歷史性時刻。",
+      "日本東京的運動科技團隊與大會合作，為頂尖網球賽事導入AI自動發球機，展現體育與前沿科技結合的新體驗。"
+    ],
+    "avoid_list": [
+      "莫蘭迪色調與充氣 PVC 材質",
+      "老街綠豆湯攤位",
+      "古地圖星圖疊底",
+      "光影斑駁的秋日花園陽台",
+      "羽毛恐龍骨骼化石",
+      "漁港老燈塔的強烈硬光日照",
+      "冰鎮花生湯與透明樹脂保鮮櫃",
+      "海邊燈塔頂樓專注地用爪子滾動龐大的黃銅航海天球儀",
+      "立體主義風格的冷色調花園花溫室",
+      "裝飾藝術風格的港口海邊防波堤"
+    ],
+    "title": "霓虹島的試打員",
+    "inspiration": "日本東京的運動科技團隊與大會合作，為頂尖網球賽事導入AI自動發球機，展現體育與前沿科技結合的新體驗。",
+    "number": 3446,
+    "story": "深夜的便利商店浮島迎來了一位圓滾滾的毛茸茸訪客，麻糬對店內新引進的自動發球機充滿好奇，每一次拍打都伴隨著清脆的機械聲與彈跳的黃色網球。這顆貪吃的麻糬在霓虹光影中盡情探索，為孤單的夜班時光添上了無限生趣。",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "prompt": "A translucent frosted glass-paper minimalist scene featuring a chubby rounded orange-and-white shorthair cat named Mochi on a floating island in the sky. The cat has a white base coat with a bright orange mask covering only the right half-face and right ear while the left face is entirely white, large round amber eyes, a pink nose with a small orange center dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw, a pure white left front paw, and an orange-and-white ringed tail. Mochi is pressing a button on an automatic tennis ball machine with its single orange right front paw inside a futuristic neon convenience store on a levitating platform with white clouds. Glossy plastic toy texture and vinyl figure aesthetic with blue and yellow complementary light glowing on wet reflective surfaces under a moody night sky. A digital clock sign in the store visually displays the date and time '2026-10-06 21:20 UTC'. Aerial perspective, clean miniature landscape. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Frosted Paper-Glass",
+      "composition": "Floating Island Scene",
+      "lighting": "Neon Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "idea": "在浮島造型的未來霓虹便利商店中，橘白相間的胖貓麻糬正用單掌好奇地拍打一台自動發球機的按鈕，藍黃互補的霓虹燈光映照著霧面紙玻璃質感的玩具般場景。",
+    "comment_id": 6025718170
   }
 ]
