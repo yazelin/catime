@@ -1039,5 +1039,34 @@
     "story": "深夜的古董圖書館裡，強烈的五彩霓虹燈光穿透窗櫟，在墨墨緞面般的純黑毛髮與水珠凝結的玻璃框上折射出絢爛光芒。牠慵懶地趴在一本鋪滿金箔花卉紋樣的皮革古籍上，琥珀色的雙眼在幽暗高處俯瞰著下方如迷宮般的書海，宛如這座寂靜知識王國的優雅守護者。",
     "character_name": "墨墨",
     "inspiration": "original"
+  },
+  {
+    "avoid_list": [
+      "莫蘭迪色調與充氣 PVC 材質",
+      "老街綠豆湯攤位",
+      "古地圖星圖疊底",
+      "光影斑駁的秋日花園陽台",
+      "羽毛恐龍骨骼化石",
+      "漁港老燈塔的強烈硬光日照",
+      "冰鎮花生湯與透明樹脂保鮮櫃",
+      "海邊燈塔頂樓專注地用爪子滾動龐大的黃銅航海天球儀",
+      "立體主義風格的冷色調花園花溫室",
+      "裝飾藝術風格的港口海邊防波堤"
+    ],
+    "comment_id": 6040652377,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Patchwork Cubist Figure Sculpture",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 3449,
+    "prompt": "採用拼布立體派人偶風格的全高直幅畫面，一隻琥珀暖色調的絨毛皮草橘貓正在1950年代的復古美式餐館內，用爪子專注地調整著一台發光的老式點唱機。. The date and time '2026-10-07 14:51 UTC' is visually displayed in the image. patchwork cubist figure sculpture, stitched fabric doll with angular geometric planes, mismatched textile patches, faceted cubist form, handcrafted soft-sculpture art object, full-body vertical portrait, entire figure centered in a tall frame, head-to-toe framing, environmental context, balanced standing composition, high-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere, dreamy pastel mood, fur and plush texture, soft fuzzy fibers, fluffy tactile pile, cozy velvety strands catching light, huggable soft-surface detail, warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用拼布立體派人偶風格的全高直幅畫面，一隻琥珀暖色調的絨毛皮草橘貓正在1950年代的復古美式餐館內，用爪子專注地調整著一台發光的老式點唱機。",
+    "story": "午后的陽光透過餐館的大片玻璃窗灑落，空氣中彷彿還迴盪著上個世紀的黑膠爵士樂。橘貓輕輕撥動金屬按鍵，似乎在為整間空無一人的復古小店挑選下一首浪漫的旋律。",
+    "title": "琥珀時光唱片行",
+    "news_inspiration": []
   }
 ]
