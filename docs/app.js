@@ -42,6 +42,27 @@
     applyTheme(current === "dark" ? "light" : "dark");
   });
 
+  // ── Background music toggle ──
+  const bgm = document.getElementById("bgm");
+  const bgmToggle = document.getElementById("bgm-toggle");
+  bgm.volume = 0.4;
+  function setBgmUi(on) {
+    bgmToggle.setAttribute("aria-pressed", on ? "true" : "false");
+    bgmToggle.classList.toggle("is-on", on);
+  }
+  function bgmPlay() { return bgm.play().then(() => setBgmUi(true)); }
+  bgmToggle.addEventListener("click", () => {
+    if (bgm.paused) {
+      bgmPlay().then(() => localStorage.setItem("catime-bgm", "on")).catch(() => {});
+    } else {
+      bgm.pause(); setBgmUi(false); localStorage.setItem("catime-bgm", "off");
+    }
+  });
+  // ponytail: browsers block autoplay without a gesture; a remembered "on" resumes at the first tap
+  if (localStorage.getItem("catime-bgm") === "on") {
+    bgmPlay().catch(() => document.addEventListener("pointerdown", () => bgmPlay().catch(() => {}), { once: true }));
+  }
+
   const gallery = document.getElementById("gallery");
   const endMsg = document.getElementById("end-msg");
   const modelSelect = document.getElementById("model-filter");

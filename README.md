@@ -50,7 +50,7 @@ uvx catime latest
 | **圖片存放** | GitHub Release assets |
 | **貓咪圖庫** | 每月 GitHub issue（自動建立） |
 | **元資料** | repo 中的 `catlist.json` |
-| **網頁圖庫** | [GitHub Pages](https://yazelin.github.io/catime/) 瀑布流排版 |
+| **網頁圖庫** | [GitHub Pages](https://yazelin.github.io/catime/) 瀑布流排版，右上角有背景音樂開關（`docs/bgm.mp3`，gemini-web Lyria 生成，預設關、記住選擇） |
 | **排程** | GitHub Actions cron，每小時執行 |
 
 ## 角色
