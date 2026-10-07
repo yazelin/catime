@@ -969,5 +969,39 @@
     },
     "idea": "在浮島造型的未來霓虹便利商店中，橘白相間的胖貓麻糬正用單掌好奇地拍打一台自動發球機的按鈕，藍黃互補的霓虹燈光映照著霧面紙玻璃質感的玩具般場景。",
     "comment_id": 6025718170
+  },
+  {
+    "avoid_list": [
+      "莫蘭迪色調與充氣 PVC 材質",
+      "老街綠豆湯攤位",
+      "古地圖星圖疊底",
+      "光影斑駁的秋日花園陽台",
+      "羽毛恐龍骨骼化石",
+      "漁港老燈塔的強烈硬光日照",
+      "冰鎮花生湯與透明樹脂保鮮櫃",
+      "海邊燈塔頂樓專注地用爪子滾動龐大的黃銅航海天球儀",
+      "立體主義風格的冷色調花園花溫室",
+      "裝飾藝術風格的港口海邊防波堤"
+    ],
+    "number": 3447,
+    "news_inspiration": [
+      "在剛果民主共和國的野外保護區，一隻曾受孤兒救助並成功重返大自然的大猩猩順利產下寶寶，締造歷史性的保育成果。",
+      "哥倫比亞的安第斯高地村落成功轉型，當地居民從過去的獵捕者轉變為保護者，攜手為瀕危的安第斯神鷹打造出安全棲息地。",
+      "美國加州水族館設有特別的瀕危蛙類保育室，細心照料數百隻山地黃腿蛙蝌蚪直到牠們能順利野放回到自然水域。",
+      "丹麥哥本哈根推廣特色的「真人圖書館」體驗，讓民眾能「借閱」不同背景的志工真人交流，促進社會包容與理解。"
+    ],
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Underwater Caustics",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "Lavender and Pink"
+    },
+    "idea": "在一座專門照料蝌蚪的溫室水族箱前，一隻四腳踩在木檯上的花貓正伸出前爪專注地輕拍玻璃，好奇地追逐水箱內游動的蝌蚪；畫面結合特林吉特圖騰藝術的幾何線條，呈現滿版特寫的視覺衝擊。",
+    "prompt": "Tlingit art style illustration using bold formline design with ovoids and U-shapes in a Pacific Northwest indigenous totem visual language, depicting a colorful calico cat perched on a wooden stand with its front paws tapping on a greenhouse tadpole aquarium, intently following swimming tadpoles. Full-bleed frame-filling composition where the subject is cropped close to the edges with dense edge-to-edge detail and no empty margins. Underwater caustic light patterns and blue-green aquatic glow ripple over the cat's fur, blending with distressed vintage print texture, mottled uneven ink, cracked pigment, and an aged letterpress paper aesthetic. Color scheme dominated by soft lavender and violet with warm pink and blush accents. The exact text '2026-10-07 01:05 UTC' is clearly rendered in English in a corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "細緻的薰衣草紫粉色調與斑駁做舊紙印質感交織，讓水族箱折射出的水下焦散光波在貓咪毛皮上流動。牠屏息凝視著小小的生命在水草間游曳，每一次爪子的輕觸都像是在與水中的新夥伴進行無聲的遊戲。",
+    "comment_id": 6028676895,
+    "title": "紫光水箱下的探求",
+    "inspiration": "美國加州水族館設有特別的瀕危蛙類保育室，細心照料數百隻山地黃腿蛙蝌蚪直到牠們能順利野放回到自然水域。"
   }
 ]
