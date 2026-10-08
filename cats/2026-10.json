@@ -1187,5 +1187,42 @@
     "story": "船長不只守護港口，這次牠潛入冰冷沉靜的克拉約夸特灣，幫忙海獺夥伴維持海洋生態平衡。緋紅色的星雲輝光穿透海帶林，將船長那不修邊幅的粗獷輪廓與蕾絲鏤空般的光影交織在一起，定格成震撼的封面瞬間。",
     "prompt": "A magazine cover mockup featuring bold vertical typography overlay, issue number and barcode, editorial fashion photography base, and clean graphic design composition. The date '2026-10-08 06:46 UTC' is visually displayed in clear Traditional Chinese typography. A large stocky brown classic tabby cat with bold black stripes and a broad, muscular build, scruffy and untidy fur texture, a natural dark-pigmented fur patch covering the left eye socket with no fabric patch or strap, a single piercing emerald green right eye, a prominent V-shaped notch on the left ear, a faded red bandana tied loosely around the neck, and a white chest bib with white mitten paws. The cat is crouching in deep-sea giant kelp forests amid ice-blue water currents, stretching out a paw to protect a family of sea otters fighting sea urchins. A crimson nebula cosmic glow penetrates the kelp forest, creating lace openwork texture, delicate floral cutout patterns, intricate perforated fabric, and fine translucent filigree light effects. High-tension complementary contrast with a crimson and ice-blue palette, negative space composition, small subject in expansive emptiness, minimalist breathing room, off-center placement, calm uncluttered framing. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "character_name": "船長"
+  },
+  {
+    "prompt": "A cute cat with the date and time '2026-10-08 14:08 UTC' displayed in the image, high quality, detailed",
+    "season": "autumn",
+    "number": 3453,
+    "avoid_list": [
+      "港口海邊燈塔",
+      "斑駁做舊紙印質感",
+      "強烈硬光日照",
+      "霓虹光影包覆",
+      "三點打光",
+      "巴洛克戲劇光影",
+      "倫勃朗光",
+      "穆夏式拱框構圖",
+      "裝飾藝術風格拱門",
+      "全息質感金屬",
+      "金箔花卉混媒風格",
+      "強烈引導線縱深",
+      "拼布立體派人偶",
+      "爪子專注地調整或修補機關"
+    ],
+    "inspiration": "original",
+    "is_seasonal": true,
+    "character_name": "鈴鈴",
+    "idea": "",
+    "style_picks": {
+      "art_style": "Lowbrow Mixed-Media Illustration",
+      "composition": "Negative Space Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "comment_id": 6061965516,
+    "title": "貓咪日常",
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "news_inspiration": [],
+    "character": "lingling"
   }
 ]
