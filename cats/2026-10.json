@@ -1105,5 +1105,47 @@
     },
     "number": 3450,
     "comment_id": 6046083691
+  },
+  {
+    "number": 3451,
+    "inspiration": "original",
+    "character": "mochi",
+    "prompt": "An extreme wide handscroll panoramic illustration of Mochi, a chubby rounded shorthair cat with a white base coat and bright orange patches featuring an asymmetric right-face orange mask, a heart-shaped orange dorsal saddle, a solid orange right front mitten paw, a pure white left front paw, large round amber eyes, and a plaid scarf, sitting in front of a rustic old-street roasted sweet potato stall, gazing intently at freshly baked hot honey sweet potatoes, blending ancient Egyptian queen painterly illustration style with thick-paint portraiture, kohl-lined eyes aesthetic details, hierarchical carved sandstone backdrop elements, continuous panoramic narrative with layered foreground, middleground, and background, oblique bird's-eye angle and right-to-left reading flow, soft dappled light and gentle organic light play, vermilion and white color palette, crisp graphic elegance. Visually displayed text in the image: '2026-10-08 00:31 UTC' in clean Traditional Chinese typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "season": "autumn",
+    "style_picks": {
+      "art_style": "Ancient Egyptian Queen Painterly Illustration",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Dappled Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Vermilion and White"
+    },
+    "avoid_list": [
+      "港口海邊燈塔",
+      "斑駁做舊紙印質感",
+      "強烈硬光日照",
+      "霓虹光影包覆",
+      "三點打光",
+      "巴洛克戲劇光影",
+      "倫勃朗光",
+      "穆夏式拱框構圖",
+      "裝飾藝術風格拱門",
+      "全息質感金屬",
+      "金箔花卉混媒風格",
+      "強烈引導線縱深",
+      "拼布立體派人偶",
+      "爪子專注地調整或修補機關"
+    ],
+    "idea": "採用埃及豔后厚塗插畫風格與長卷全景構圖，圍著格紋圍巾的橘白貓麻糬在古樸老街的烤番薯攤前，正目不轉睛地盯著剛出爐、冒著熱氣的蜜番薯。",
+    "is_seasonal": true,
+    "title": "秋巷薯香暖麻糬",
+    "story": "深秋的老街巷弄裡透著涼意，圓滾滾的麻糬緊緊蜷縮在木質烤番薯爐旁取暖，脖子上的格紋圍巾襯得牠格外嬌憨。當攤販老闆掀開鐵蓋，那琥珀色的圓眼睛瞬間放大兩倍，肚子隨之微微晃動，滿心期待著今晚的美味試吃。",
+    "character_name": "麻糬",
+    "news_inspiration": [
+      "在美國史丹佛（Stanford, United States），諾貝爾生醫獎得主 Karl Deisseroth 在家中向孩子們宣布獲獎喜訊，溫馨雀躍的家庭反應影片在網路暴紅，隨後他還親自為孩子準備學校午餐。",
+      "在新加坡（Singapore），一名熟食攤販駕駛勞斯萊斯跑車宣傳自己的美食攤位，奇特的行銷奇招在社群媒體上引發熱議並讓營業額翻倍。",
+      "在加拿大克雷克特灣（Clayoquot Sound, Canada），原住民社群與保育團體合作建立大規模大型海藻育苗場，至今已成功復育相當於三個半奧林匹克泳池面積的海藻森林。",
+      "在哥倫比亞（Colombia），當地山區村落居民從過往的獵捕者轉變為保護者，成功為瀕危的安地斯神鷹打造出安全的棲息樂園。"
+    ],
+    "comment_id": 6049712037
   }
 ]
