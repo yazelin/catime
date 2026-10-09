@@ -1364,5 +1364,41 @@
     ],
     "story": "暮色漸濃，秋風將泛著耀眼螢光色彩的楓葉吹向海面。船長站在帶有鐵鏽舊化質感的金屬燈塔高台，右眼閃爍著銳利綠光，沉穩地守衛著海港，凝視著隨浪起伏的點點秋意。",
     "title": "燈塔秋夕的港灣守望"
+  },
+  {
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "單爪撥弄按鈕或發條機械",
+      "緋紅與冰藍雙色互補光影",
+      "深色眼罩與褪色紅頭巾標誌性配件",
+      "浮島與未來霓虹便利商店",
+      "特林吉特圖騰與幾何藝術風格",
+      "斑駁金箔花卉與復古混媒質感",
+      "拼布立體派人偶與絨毛皮草質感",
+      "朱紅與留白 chalk art 對稱構圖",
+      "埃及豔后厚塗與長卷全景構圖",
+      "巨型海帶森林與深海生態救援",
+      "文藝復興油畫與絲絨織錦背景"
+    ],
+    "prompt": "Hand-drawn infographic style illustration, paper texture background, calligraphy brush strokes, multi-view product showcase layout arranged in panels with labeled views and hand-drawn charts. An orange cat attentively adjusting a weather vane next to precision instruments at a high-altitude mountain weather station. Glossy plastic toy texture, smooth high-shine surface, vinyl figure aesthetic. Rembrandt lighting, single light source at 45 degrees, warm rustic aesthetic, warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth. Text visibly displayed in the image: 2026-10-09 19:11 UTC IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在高海拔的氣象觀測站裡，這隻認真的貓咪正用前爪輕輕推動著金屬轉輪，記錄著秋日山谷中吹過的每一道微風。周圍散落著手繪的風向圖表與標註箭頭，彷彿正在進行一場嚴謹而可愛的科學探索。",
+    "comment_id": 6087588271,
+    "news_inspiration": [
+      "在挪威，世界上規模最大的冰川考古隊成功於融化的冰層中回收了 48 支石器時代的箭頭與箭軸，為人類歷史研究帶來突破性發現。",
+      "在中國，最新科學研究證實沙漠地區設置的太陽能光電板能顯著減少風沙擴散，展現出綠能開發防沙的意外效益。",
+      "在美國加州，約書亞樹國家公園正式開工建造兩座專屬美洲獅的野生動物跨越通道，以減少車禍碰撞並保護生態。",
+      "在澳洲墨爾本，維多利亞州政府宣佈成立 3 座全新的國家公園，全力保護滑翔袋鼯與鴞鳥等珍貴原生野生動物。"
+    ],
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "山巔的氣象學家",
+    "number": 3458,
+    "idea": "這是一幅採用手繪信息圖風格的場景，一隻橘貓正專注地在一座高山氣象站的精密儀器旁調整風向儀，溫暖的琥珀光線灑滿了整個玩具質感的微縮模型世界。",
+    "inspiration": "original"
   }
 ]
