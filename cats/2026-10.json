@@ -1259,5 +1259,38 @@
     "character": "momo",
     "comment_id": 6068323228,
     "number": 3454
+  },
+  {
+    "title": "老街巷弄的花生麻糬",
+    "inspiration": "original",
+    "prompt": "A close-up photograph of a chubby, spherical shorthair cat named Mochi on a wooden market stall top in an old Taiwanese street market at early dawn. The cat has a white base coat with bright orange patches, a distinct right half-face orange mask extending across its right cheek and right ear while the left face is entirely white, large round amber eyes, a pink nose with a tiny orange dot, and a solid orange mitten on its right front paw while the left front paw is pure white. The cat is reaching its right orange-mitten front paw along a dynamic diagonal composition toward soft, bioluminescent cooling peanut mochi that emits a gentle blue-green organic glow. The ambient lighting features a soft porcelain blue and white porcelain glow reminiscent of cobalt indigo tones. Captured on a 35mm macro lens, f/1.8, with shallow depth of field, subtle atmospheric haze, soft-focus bokeh, and natural film grain with analog texture. Stamped clearly in the corner of the frame is the text '2026-10-09 00:46 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "mochi",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "單爪撥弄按鈕或發條機械",
+      "緋紅與冰藍雙色互補光影",
+      "深色眼罩與褪色紅頭巾標誌性配件",
+      "浮島與未來霓虹便利商店",
+      "特林吉特圖騰與幾何藝術風格",
+      "斑駁金箔花卉與復古混媒質感",
+      "拼布立體派人偶與絨毛皮草質感",
+      "朱紅與留白 chalk art 對稱構圖",
+      "埃及豔后厚塗與長卷全景構圖",
+      "巨型海帶森林與深海生態救援",
+      "文藝復興油畫與絲絨織錦背景"
+    ],
+    "comment_id": 6071968979,
+    "style_picks": {
+      "art_style": "Dreamy Pastel Macro",
+      "composition": "Diagonal Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Film Grain",
+      "color_palette": "Porcelain Blue and White"
+    },
+    "number": 3455,
+    "character_name": "麻糬",
+    "story": "天剛亮的老街攤位上，剛出爐的花生麻糬散發著誘人的淡淡藍白微光。這顆會走路的橘白麻糬循著香氣爬上木頭檯面，大圓眼瞬間放大兩倍，伸出橘色手套爪子偷按了一下軟糯的麻糬。",
+    "idea": "在清晨充滿青花藍白幽光的台灣老街市場裡，圓滾滾的橘白貓麻糬正以對角線姿態伸出右橘手套前腳，好奇地探向攤位上發著柔和生物發光色澤的冰鎮花生麻糬，呈現夢幻粉彩微距的底片顆粒質感。",
+    "news_inspiration": []
   }
 ]
