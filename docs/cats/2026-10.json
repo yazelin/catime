@@ -1323,5 +1323,46 @@
     "prompt": "A 3D isometric illustration of a sleek black cat perched at the top of a soaring botanical greenhouse, eagerly adjusting and stepping on the brass fine-tuning knobs of an antique astronomical telescope pointed at star trails visible through the glass dome. The scene incorporates Art Nouveau style elements, with flowing organic curves, Mucha-inspired geometric vine-like floral patterns, crimson flower buds, and jet-black leaf veins. The cat's fur features a tactile raised embroidered coiled-flower texture and dense three-dimensional satin-stitch thread relief. The composition uses high-key bright lighting, soft even illumination, and an airy overexposed feel with minimal shadows, rendered in a striking crimson and black color palette of deep blood-red contrasted against rich jet black. The date and time '2026-10-09 06:54 UTC' is visually displayed in stylish, clear typography in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 3456,
     "title": "玻璃穹頂的星軌漫步"
+  },
+  {
+    "season": "autumn",
+    "character": "captain",
+    "prompt": "Afrofuturism illustration, full-bleed frame-filling close-up shot with dense edge-to-edge detail and immersive overwhelming scale, cropped to edges. A large stocky four-legged brown (#5C4033) classic tabby cat captain with bold black (#1A1A1A) stripes, scruffy coarse coat, a faded red (#CD5C5C) bandana around its neck, a white (#FFFFFF) chest bib, and white mitten paws. Its left eye is completely concealed by a natural dark-pigmented fur patch (#2B1B0E) with no straps or fabric, its right eye is a single piercing emerald green (#50C878), and its left ear has a prominent V-shaped notch. The cat is atop an ancient metal lighthouse platform featuring rusted weathered metal, oxidized patina, and warm orange-brown corrosion. With its white paw, the cat carefully touches floating glowing fluorescent neon autumn maple leaves drifting on the ocean surface below. Sunset setting with warm atmospheric volumetric lighting, dramatic god rays, dust particles catching light, and cosmic elements mixed with vibrant vibrant electric pink, lime green, and hot cyan fluorescent accents. Digital illustration with visible artist technique and expressive linework. The timestamp text '2026-10-09 13:57 UTC' is clearly and visually displayed on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Volumetric Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Neon Fluorescent"
+    },
+    "comment_id": 6082426093,
+    "number": 3457,
+    "news_inspiration": [
+      "在哥倫比亞的托利馬，當地的鄉村社區成功轉變了以往與安地斯神鷹的對立關係，轉而建立保育區共同守護這種瀕危珍禽。",
+      "在日本京都，研究人員最新發表的科學研究發現，在沙漠地區大規模建設太陽能發電廠能顯著抑制風沙，進而改善下風處城市的空氣品質。",
+      "在英國的洛夫堡，當地大學生熱情參與了結合運動與撿垃圾的「SpoGomi」競賽，在短短一下午內就清除了超過280公斤的社區垃圾。",
+      "在美國的加州約書亞樹國家公園，為了保護野生美洲獅並減少路殺事件，專門為野生動物打造的全新跨越陸橋工程正式動工。",
+      "在丹麥哥本哈根的「真人圖書館」，民眾可以像借書一樣「借用」真人志工，透過半小時的面對面交流分享不同的人生故事。"
+    ],
+    "idea": "這幅滿版特寫作品採用非洲未來主義風格，捕捉船長在夕陽灑落的古老金屬燈塔頂端，正用一雙白爪小心翼翼地撥弄著幾條漂浮海面的螢光楓葉，體積光透光傳遞強烈氣勢。",
+    "is_seasonal": true,
+    "character_name": "船長",
+    "inspiration": "original",
+    "avoid_list": [
+      "繁體中文與英文文字規範",
+      "單爪撥弄按鈕或發條機械",
+      "緋紅與冰藍雙色互補光影",
+      "深色眼罩與褪色紅頭巾標誌性配件",
+      "浮島與未來霓虹便利商店",
+      "特林吉特圖騰與幾何藝術風格",
+      "斑駁金箔花卉與復古混媒質感",
+      "拼布立體派人偶與絨毛皮草質感",
+      "朱紅與留白 chalk art 對稱構圖",
+      "埃及豔后厚塗與長卷全景構圖",
+      "巨型海帶森林與深海生態救援",
+      "文藝復興油畫與絲絨織錦背景"
+    ],
+    "story": "暮色漸濃，秋風將泛著耀眼螢光色彩的楓葉吹向海面。船長站在帶有鐵鏽舊化質感的金屬燈塔高台，右眼閃爍著銳利綠光，沉穩地守衛著海港，凝視著隨浪起伏的點點秋意。",
+    "title": "燈塔秋夕的港灣守望"
   }
 ]
