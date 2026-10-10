@@ -1478,5 +1478,46 @@
     "character": "mochi",
     "character_name": "麻糬",
     "idea": "在象牙描金與粉彩光點交織的暴風雪朦朧氣氛下，頭肩特寫紀錄著貓咪麻糬被卡在狹窄塑膠奶箱裡、僅露出一雙大眼盯著冷藏櫃的呆萌瞬間。"
+  },
+  {
+    "character": "momo",
+    "news_inspiration": [
+      "在義大利倫巴底，2026年環倫巴底單車賽（Il Lombardia）於本日盛大登場，頂尖車手們在美麗的丘陵與湖光山色間展開激烈角逐。",
+      "在丹麥哥本哈根，當地的「真人圖書館」持續開放讓民眾借閱具備豐富人生經歷的「真人」，透過半小時的對話促進不同文化間的理解與包容。",
+      "在中國青島，2026年世界海岸划船錦標賽正熱烈舉行，來自世界各地的划船好手在美麗海岸線旁展現高超的航海與划船技巧。",
+      "在美國長島，天文學家透過哈伯太空望遠鏡數據發現了一顆白矮星周圍異常高濃度的鈮元素，推測可能存在一顆在恆星死亡後才誕生的罕見行星。"
+    ],
+    "idea": "在融合侘寂靜物攝影風格與雙色調調性的舊書店一隅，聚光燈照射著古樸的黏土陶瓷質感場景；純黑色的貓咪墨墨優雅地趴在一面由楓葉色古籍構成的「真人圖書館」展架前，平視正面構圖下，牠宛如一本深奧的典籍，正凝神注視著前來借閱的訪客。",
+    "number": 3461,
+    "story": "墨墨靜靜地位於舊書店特設的『真人圖書館』專區，圍繞著無數暖楓葉色封面的古老書冊。牠如黑色寶石般亮起金琥珀色雙眼，挑選著最溫暖的封面趴著，以平靜無聲的姿態傾聽著人間的對話與故事。那一刻，這隻優雅的黑貓彷彿也成了一本蘊含時光祕密的真人圖書，等待著懂牠的人來閱讀。",
+    "season": "autumn",
+    "character_name": "墨墨",
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "Wabi-Sabi Still Life Photography",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Spotlight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Duotone"
+    },
+    "prompt": "wabi-sabi still life photography, imperfect organic objects, muted earthy palette, soft directional window light, quiet contemplative emptiness, textured aged surfaces, eye-level frontal composition, straight-on symmetrical view, subject facing camera directly, neutral honest perspective, confrontational balance, narrow beam spotlight, dramatic high-contrast, sharp light edges, deep darkness falloff, sculpted clay texture, handmade ceramic feel, matte surface with subtle imperfections, warm earthy tones, duotone color treatment, two contrasting colors only, bold graphic impact, modern design feel. A corner of an old bookstore with a special 'Human Library' section, featuring a sculpted clay ceramic texture scene under a narrow beam spotlight. A sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on its chest, a single small gold hoop earring on its left ear, and a single dark-grey ring at its tail tip, lying gracefully and attentively straight-on facing the camera in front of a display shelf made of maple leaf-colored ancient books. Displayed clearly in the scene is the date and time 2026-10-10 10:11 UTC in Traditional Chinese typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "傳統中文時間戳記標籤",
+      "緋紅與冰藍雙色調",
+      "橘白貓麻糬",
+      "幾何苔蘚覆蓋",
+      "穆夏風格裝飾構圖",
+      "前爪輕碰或撥弄物件",
+      "滿版特寫與極致細節",
+      "老街木質攤位",
+      "圓滾滾或肥胖短毛貓",
+      "繁複花紋與刺繡肌理",
+      "手繪資訊圖表與多視角排版",
+      "高山或頂樓觀測站",
+      "溫室與落葉秋意"
+    ],
+    "comment_id": 6096458172,
+    "title": "楓書堆裡的靜默閱卷",
+    "inspiration": "在丹麥哥本哈根，當地的「真人圖書館」持續開放讓民眾借閱具備豐富人生經歷的「真人」，透過半小時的對話促進不同文化間的理解與包容。"
   }
 ]
