@@ -1519,5 +1519,42 @@
     "comment_id": 6096458172,
     "title": "楓書堆裡的靜默閱卷",
     "inspiration": "在丹麥哥本哈根，當地的「真人圖書館」持續開放讓民眾借閱具備豐富人生經歷的「真人」，透過半小時的對話促進不同文化間的理解與包容。"
+  },
+  {
+    "avoid_list": [
+      "傳統中文時間戳記標籤",
+      "緋紅與冰藍雙色調",
+      "橘白貓麻糬",
+      "幾何苔蘚覆蓋",
+      "穆夏風格裝飾構圖",
+      "前爪輕碰或撥弄物件",
+      "滿版特寫與極致細節",
+      "老街木質攤位",
+      "圓滾滾或肥胖短毛貓",
+      "繁複花紋與刺繡肌理",
+      "手繪資訊圖表與多視角排版",
+      "高山或頂樓觀測站",
+      "溫室與落葉秋意"
+    ],
+    "prompt": "A cyanotype print with Prussian blue monochrome tones combined with high saturation vivid neon glowing signs, inside-the-glass-vessel composition showing a giant transparent glass bottle, a sleek black cat riding a tiny carbon fiber skateboard on the inner curved bottom surface, refractive glass border, moody urban night atmosphere with reflections, the text '2026-10-10 15:58 UTC' clearly visible, high contrast silhouette, photogram style blueprint aesthetic IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "High Saturation Vivid"
+    },
+    "title": "玻璃曲面上的夜行特技",
+    "news_inspiration": [
+      "日本東京都的化學家宗家憲昭在超市購物時接獲獲得諾貝爾化學獎的喜訊，其研究成果極大地推動了現代藥物開發。",
+      "美國紐約市的公園局延長了多個足球場的深夜開放時間，專為夜班工作者提供專屬的運動與放鬆空間。",
+      "紐西蘭的保育團隊透過人工繁育成功將極危物種「巨型威塔蟋蟀」放歸野外，野外種群數量迎來顯著增長。",
+      "英國洛夫堡的大學生發起「SpoGomi」撿垃圾體育競賽，一天內便清理了城鎮中超過280公斤的廢棄物。"
+    ],
+    "idea": "高飽和鮮豔霓虹燈光反射於巨大的玻璃酒瓶內，一隻黑貓踩著微型碳纖維滑板在瓶底的弧形曲面上順暢滑行，呈現典雅而前衛的藍曬法藝術風格。",
+    "inspiration": "美國紐約市的公園局延長了多個足球場的深夜開放時間，專為夜班工作者提供專屬的運動與放鬆空間。",
+    "comment_id": 6099423509,
+    "story": "夜班工作者剛從紐約深夜開放的球場散場，發現場邊散落的玻璃空瓶裡藏著驚喜。一隻敏捷的黑貓利用踏板在狹窄的玻璃曲線間飛馳，將原本靜止的空間轉化為專屬於牠的極限運動場。",
+    "number": 3462
   }
 ]
