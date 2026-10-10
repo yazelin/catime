@@ -1440,5 +1440,43 @@
     "comment_id": 6091147069,
     "idea": "在月夜靛藍的色調與金箔潑點肌理中，穆夏式拱框構圖勾勒出即棄相機風格的畫面：白色長毛貓鈴鈴穿著一件溫暖的小毛衣，正笨拙又努力地在一座鋪滿落葉的溫室中挖土，毛上沾滿了紅葉。",
     "title": "秋夜落葉棉花糖"
+  },
+  {
+    "news_inspiration": [
+      "中國科學家進行的一項研究顯示，位於戈壁沙漠的太陽能發電板能有效阻擋沙塵暴擴散，為改善沙漠周邊城市空氣品質帶來意外助益。",
+      "加拿大卑詩省克拉闊灣（Clayoquot Sound）的一項大型海藻復育計畫，成功種植了超過4,200平方公尺的新海藻棲地，有助恢復當地海洋生態。",
+      "美國加州約書亞樹國家公園（Joshua Tree National Park）正積極推動興建專為美洲獅設計的野生動物專用通道，以減少動物路殺並保護當地生態。"
+    ],
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Snowstorm Haze",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Ivory and Gold"
+    },
+    "story": "剛巡邏完便利商店的麻糬發現了一座剛卸貨的牛奶箱，忍不住一屁股鑽了進去，結果圓滾滾的身型硬生生卡在裡面。即便外面大雪紛飛，牠依然在暖氣微弱的店家一角瞇著眼打呼，盡情享受這份剛好塞滿的安全感。",
+    "avoid_list": [
+      "傳統中文時間戳記標籤",
+      "緋紅與冰藍雙色調",
+      "橘白貓麻糬",
+      "幾何苔蘚覆蓋",
+      "穆夏風格裝飾構圖",
+      "前爪輕碰或撥弄物件",
+      "滿版特寫與極致細節",
+      "老街木質攤位",
+      "圓滾滾或肥胖短毛貓",
+      "繁複花紋與刺繡肌理",
+      "手繪資訊圖表與多視角排版",
+      "高山或頂樓觀測站",
+      "溫室與落葉秋意"
+    ],
+    "number": 3460,
+    "prompt": "Illustration in pastel bokeh and gilded ink outline texture, fine black brush lines edged with metallic gold contours. An intimate head-and-shoulders portrait, tight framing on expression of Mochi, a chubby rounded shorthair cat stuck inside a narrow plastic milk crate, peeking out with large round amber #FFBF00 eyes staring at a store display. Specific character markings: right half-face (viewer perspective) has a solid orange #FF8C00 mask extending from the nose bridge to the right cheek and ear, while the left face remains pure white #FFFFFF; pink nose with a tiny orange center dot; short stubby legs; white base coat. Atmospheric snowstorm setting with heavy falling snow veil, muted diffused daylight, fogged background, and a cold blue-white palette mixed with ivory and gold palette warm luminance. Heavy colorful light dots and pastel bokeh scattered around the dark ground of a dimly lit store corner. Overlay text reading '2026-10-10 03:08 UTC' is visually displayed in the corner of the image in a clean sans-serif font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 6093172376,
+    "title": "雪夜裡的卡箱麻糬",
+    "inspiration": "original",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "idea": "在象牙描金與粉彩光點交織的暴風雪朦朧氣氛下，頭肩特寫紀錄著貓咪麻糬被卡在狹窄塑膠奶箱裡、僅露出一雙大眼盯著冷藏櫃的呆萌瞬間。"
   }
 ]
