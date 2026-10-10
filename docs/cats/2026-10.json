@@ -1595,5 +1595,42 @@
     "idea": "在蒸汽朋克風格的沉船機關酒吧內，一隻左眼戴眼罩、四爪穿白靴的龐大虎斑貓船長，正穩重地站在船舵高處，凝視著由摺紙工藝雕琢而成、散發著黑光螢光紫藍微光的紙雕黃腿蛙蝌蚪群。",
     "character": "captain",
     "character_name": "船長"
+  },
+  {
+    "idea": "這是一張以「棚拍人像」呈現的作品，一隻優雅的長毛黑貓正伸長前肢優雅地劃動著，參與一場專為貓咪設計的室內普拉提課程；畫面採用「遞迴/德羅斯特效應」鏡頭構圖，搭配閃耀的「霓虹燈光」、富質感的「底片顆粒」與熱烈的「中國紅金」色彩，層層映照出無盡的運動空間。",
+    "story": "在璀璨的紅金霓虹燈光下，黑貓心無旁騖地在特製墊子上伸展肢體，身旁許多高齡學員也正認真地跟著指導放鬆肌肉。鏡頭中的多重鏡像將這個溫馨又奇妙的健身瞬間無限延伸，記錄下牠專注而流暢的每一次呼吸與伸展。",
+    "avoid_list": [
+      "傳統中文時間戳記標籤",
+      "緋紅與冰藍雙色調",
+      "橘白貓麻糬",
+      "幾何苔蘚覆蓋",
+      "穆夏風格裝飾構圖",
+      "前爪輕碰或撥弄物件",
+      "滿版特寫與極致細節",
+      "老街木質攤位",
+      "圓滾滾或肥胖短毛貓",
+      "繁複花紋與刺繡肌理",
+      "手繪資訊圖表與多視角排版",
+      "高山或頂樓觀測站",
+      "溫室與落葉秋意"
+    ],
+    "title": "鏡中流光伸展記",
+    "news_inspiration": [
+      "在美國科羅拉多州的極限運動場中，一隻野生駝鹿不小心跌入滑板場的水池窪地，最終在野生動物保護人員的協助下順利獲救並重返大自然。",
+      "在英國的布萊德福，一堂專為50歲以上男性舉辦的清真寺普拉提健身課在短影音平台上意外走紅，吸引了數百萬網友觀看。",
+      "在阿根廷的馬德普拉塔海溝，研究團隊利用深海機器人探索近兩千公尺深的海底，成功發現了57種全新的海洋物種。",
+      "在剛果民主共和國的熱帶雨林中，一隻早期被野放的東部低地大猩猩順利產下健康寶寶，為瀕危物種的保育帶來重大希望。"
+    ],
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Neon Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Festive Red and Gold"
+    },
+    "inspiration": "在英國的布萊德福，一堂專為50歲以上男性舉辦的清真寺普拉提健身課在短影音平台上意外走紅，吸引了數百萬網友觀看。",
+    "comment_id": 6103137779,
+    "prompt": "A studio portrait photo taken with a 35mm lens at f/1.8 showcasing an elegant long-haired black cat stretching its front paws while participating in an indoor Pilates class. The scene uses a Droste effect recursive composition with pictures repeating infinitely in a self-referential loop. Vibrant neon lighting casts reflections alongside a celebratory Chinese red and gold color scheme. Visible film grain and subtle analog noise add photographic texture. The current date and time '2026-10-10 23:02 UTC' is clearly rendered as a small timestamp text in the bottom corner of the image. Natural studio lighting with shallow depth of field captures the candid moment. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3464
   }
 ]
