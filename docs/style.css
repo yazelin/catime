@@ -283,6 +283,10 @@ button svg, .date-picker-btn svg { vertical-align: -0.15em; }
   outline: 2px solid var(--pink);
   outline-offset: 2px;
 }
+.bgm-toggle.is-on { border-color: var(--pink); color: var(--pink); }
+.bgm-toggle.is-on svg { animation: bgm-bob 1s ease-in-out infinite; }
+@keyframes bgm-bob { 50% { transform: translateY(-2px) rotate(-8deg); } }
+@media (prefers-reduced-motion: reduce) { .bgm-toggle.is-on svg { animation: none; } }
 
 /* GitHub link */
 .github-link {

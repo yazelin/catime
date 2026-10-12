@@ -5881,5 +5881,406 @@
     ],
     "story": "深夜的山頂天文台裡，歲月斑駁的黃銅望遠鏡正對準浩瀚的銀河。橘貓輕巧地踩在圓頂平台的木質踏階上，伸出前爪輕撫著帶有天鵝絨質感的遮光布，眼睛裡閃爍著電影感打光折射出的星海倒影。",
     "inspiration": "original"
+  },
+  {
+    "comment_id": 5865795053,
+    "prompt": "studio portrait, split view composition, left half showing photorealistic rusted weathered metal, oxidized patina, peeling paint layers, aged industrial decay, warm orange-brown corrosion on old train car steel; right half focused in front of vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, ornate restrained warmth, a tabby cat stretching its neck to gaze and sniff a ground vibration sensing device; three-point lighting, clean background, professional headshot quality, soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones; digital clock overlay visually displaying the text '2026-09-28 07:52 UTC' IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3407,
+    "idea": "採用棚拍人像風格與分割畫面構圖，左側展現老舊車廂鋼鐵上的鐵鏽舊化質感，右側則聚焦於朱紅描金飾條前，一隻斑紋花貓正伸長脖子凝視並輕嗅著地面震動感測設備。",
+    "inspiration": "在斯里蘭卡科倫坡，當局引進地面震動與聲音感測系統，預防高速列車撞擊穿越鐵軌的大象。",
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Split View",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "avoid_list": [
+      "貓前爪撥弄物件",
+      "Traditional Chinese 時間戳記",
+      "黃金時刻與金光輪廓",
+      "三點打光與柔和陰影",
+      "烏茲別克現代主義建築",
+      "黑貓帶單耳金環",
+      "粉彩薰衣草紫與粉色調",
+      "水彩潑濺與墨汁質感",
+      "舊書店與古老地圖",
+      "35mm鏡頭與底片顆粒",
+      "生物發光與螢光色彩",
+      "俯瞰視角與低角度仰拍"
+    ],
+    "news_inspiration": [
+      "在希臘雅典，當地政府正將廢棄舊機場改造為歐洲最大的公園之一，並透過特殊設計讓該區域氣溫預計降溫攝氏4度。",
+      "在智利聖地牙哥，世界衛生組織正式認證該國消除由犬隻傳播的狂犬病，成為南美洲第一個達成此公共衛生里程碑的國家。",
+      "在斯里蘭卡科倫坡，當局引進地面震動與聲音感測系統，預防高速列車撞擊穿越鐵軌的大象。",
+      "在加拿大聖亞伯特，一座社區花園中意外培育出一株造型獨特且多面開花的巨型變異向日葵，引發網路熱議。",
+      "在丹麥哥本哈根，當局將退休退役的風力發動機葉片再利用改造為公共自行車棚，展示廢棄材料的永續可能性"
+    ],
+    "story": "科倫坡鐵道旁的控制小屋裡，花貓日常的工作就是巡視這些特殊的感測器。每當遠方傳來大象靠近的微幅震動，它總能比設備更早一步豎起耳朵。在朱紅與暗金交織的光影下，這隻小警衛靜靜守護著鋼鐵列車與荒野巨獸的平安相遇。",
+    "title": "震幅裡的守護者"
+  },
+  {
+    "inspiration": "original",
+    "prompt": "A cute cat with the date and time '2026-09-28 16:10 UTC' displayed in the image, high quality, detailed",
+    "comment_id": 5874140933,
+    "news_inspiration": [],
+    "character": "mochi",
+    "idea": "",
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "style_picks": {
+      "art_style": "Limited Palette Editorial Illustration",
+      "composition": "Bird's-Eye View",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "貓咪日常",
+    "avoid_list": [
+      "貓前爪撥弄物件",
+      "Traditional Chinese 時間戳記",
+      "黃金時刻與金光輪廓",
+      "三點打光與柔和陰影",
+      "烏茲別克現代主義建築",
+      "黑貓帶單耳金環",
+      "粉彩薰衣草紫與粉色調",
+      "水彩潑濺與墨汁質感",
+      "舊書店與古老地圖",
+      "35mm鏡頭與底片顆粒",
+      "生物發光與螢光色彩",
+      "俯瞰視角與低角度仰拍"
+    ],
+    "character_name": "麻糬",
+    "number": 3408
+  },
+  {
+    "idea": "採用黑白單色調與濃烈向量筆觸的 GTA 繪畫風格，捕捉船長在雨中燈塔頂端迎風傲立的威風身影。",
+    "character_name": "船長",
+    "story": "滂沱大雨洗刷著漆黑的漁港，船長屹立在燈塔觀景台最高處，任憑冷冽的海風吹拂著蓬亂毛髮。雨水順著牠厚實的頰毛與深色眼罩滑落，在強烈螢光燈管的照耀下，閃爍著如水珠濕膚般的光澤，那隻翠綠色的單眼依然銳利地凝視著遠方翻騰的大海。",
+    "prompt": "A bold cel-shaded illustration in black and white monochrome with high contrast and GTA art style, depicting Captain, a large stocky brown classic tabby cat with bold black stripes, scruffy untidy fur, a prominent V-shaped notch on his left ear, a faded red bandana tied loosely around his neck, a white chest bib, and white mitten paws. Captain's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric eye patch, while his right eye is a piercing emerald green. The cat stands proudly on four legs at the peak of a lighthouse observation deck in a pouring rainstorm over a dark fishing port. Cool sea winds blow through his thick fur as water droplets cling to his dewy surface, creating glistening beads and reflective micro-highlights under overhead fluorescent lighting. Framed by a radiating, ribbed circular backdrop reminiscent of an opened paper umbrella in oriental portrait staging with dense vector line art and a rich tonal range. The date and time '2026-09-28 22:19 UTC' is visually displayed in clear English text in a corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "title": "狂風中的獨眼守望者",
+    "avoid_list": [
+      "貓前爪撥弄物件",
+      "Traditional Chinese 時間戳記",
+      "黃金時刻與金光輪廓",
+      "三點打光與柔和陰影",
+      "烏茲別克現代主義建築",
+      "黑貓帶單耳金環",
+      "粉彩薰衣草紫與粉色調",
+      "水彩潑濺與墨汁質感",
+      "舊書店與古老地圖",
+      "35mm鏡頭與底片顆粒",
+      "生物發光與螢光色彩",
+      "俯瞰視角與低角度仰拍"
+    ],
+    "number": 3409,
+    "comment_id": 5879802365,
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Paper Parasol Backdrop Frame",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character": "captain",
+    "news_inspiration": [
+      "在玻利維亞的熱帶雨林中，科學家發現了一種前所未見的全新野生貓科物種。",
+      "在中國上海舉辦的第48屆世界技能大賽中，來自印度卡納塔克邦的選手於烘焙等技術項目中勇奪銀牌與國家最佳表現獎。",
+      "丹麥為了推動風力發電材料的循環利用，將退役的風力發電機葉片巧手改造為市民公共單車車棚。",
+      "澳大利亞昆士蘭大學的最新研究顯示，特定頻率的音樂與聲響能促進植物生長並增強其防禦昆蟲襲擊的能力。"
+    ]
+  },
+  {
+    "number": 3410,
+    "news_inspiration": [
+      "烏茲別克塔什干的 10 座現代主義建築群正式獲選登錄為聯合國教科文組織（UNESCO）世界遺產，為中亞近代建築史帶來國際認可。",
+      "澳大利亞金伯利地區的保育人員透過追蹤攝影機，相隔 50 年後再度拍攝到極其罕見的野生小型沙袋鼠（Nabarlek）蹤跡。",
+      "希臘雅典正將舊機場改建為全歐洲最大的城市公園，並採用獨特散熱設計使周邊氣溫可降低約 4°C。",
+      "烏干達與斯里蘭卡的鐵路沿線開始試用新型地面震動與聲音感測器，成功防止高速列車碰撞穿越鐵軌的大象。"
+    ],
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "prompt": "A candid photography shot using a thermal imaging infrared camera capturing a realistic four-legged orange cat lying comfortably on a hard-edged modernist concrete rooftop in Tashkent, Uzbekistan. Digital timestamp displaying '2026-09-29 02:22 UTC' in crisp white text strictly in the corner of the frame. High contrast visual showing temperature visualization with red-yellow-blue heat map color gradient. The subject is completely encircled by a dense floral wreath composition of drought-tolerant desert blooms pressing into the frame. Shot on a 35mm lens with shallow depth of field, under harsh midday sunlight with strong directional sun, creating hard edge shadows and subtle sharp reflections on warm earth tone metallic and concrete surfaces. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在熱成像風格下，一隻真實的四足橘貓正趴在烏茲別克塔什干幾何線條堅硬的現代主義水泥屋頂上，金屬質感的地面在硬光日照下泛著大地色系的溫熱，四周則環繞著盛開的沙漠耐旱花簇。",
+    "story": "午後的烈日將老建築的輪廓烤得發燙，橘貓懶洋洋地趴在被列為世界遺產的混凝土邊緣俯瞰廣場。它全神貫注地盯著下方緩緩移動的影子，彷彿在守護這片剛寫入歷史的新地標。",
+    "title": "炙熱的遺產守望",
+    "inspiration": "烏茲別克塔什干的 10 座現代主義建築群正式獲選登錄為聯合國教科文組織（UNESCO）世界遺產，為中亞近代建築史帶來國際認可。",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Encircled-by-Blossoms Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Metallic Surface",
+      "color_palette": "Earth Tones"
+    },
+    "comment_id": 5882455451
+  },
+  {
+    "title": "大地與棉花糖的豐收",
+    "prompt": "在巨人尺寸合成的微縮世界中，純白長毛貓鈴鈴正專注地推著一輛裝滿新鮮馬鈴薯與粗陶器皿的復古農用手推車，身處由大地色系與立體花卉貼花交織而成的中世紀農場市集，整體採用正交投影構圖與高調明亮光照明。. The date and time '2026-09-29 09:12 UTC' is visually displayed in the image. massive scale composite photography, giant figure peering over real cityscape, tiny pedestrians for contrast, photorealistic VFX compositing, impossible proportions, Attack on Titan aesthetic, aerial urban backdrop, orthographic projection, no perspective distortion, straight-on flat rendering, technical illustration style, high-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere, dreamy pastel mood, three-dimensional floral appliqué texture, sculpted raised flowers applied to the surface, layered petal relief, ornate dimensional bloom decoration, earth tone palette, terracotta, olive green, warm brown, natural organic harmony\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Lingling — extremely fluffy pure white #FFFFFF longhair, Ragdoll-like with voluminous cloud-like fur. Small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes (occupying ~1/3 of face) with gentle sparkle. Nose and inner ears: pale pink #FFB6C1. Neck: pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell — the bell must be clearly visible and centered beneath the bow knot. Tail: enormous feathery white plume. Pink paw pads occasionally visible through fur. [HARD CONSTRAINTS] 1) Pure white fur ONLY — no colored points or patches. 2) Pink bow collar with golden bell ALWAYS visible and centered. 3) Sapphire-blue #0F52BA eyes ONLY — NEVER amber, green, or gold. 4) Longhair extremely fluffy, NEVER shorthair. 5) Pink nose and inner ears. 6) No other accessories besides the bow bell collar. End.\nNEGATIVE CONSTRAINTS (must not appear): shorthair, flat coat, sleek fur, dark patches, cream fur, grey fur, yellow fur, amber eyes, green eyes, gold eyes, missing collar, no collar, missing bell, hidden bell, red collar, blue collar, no bow, plain collar, small eyes, calico markings, siamese points, colorpoint, thin tail, tabby markings, orange patches, dirty fur, matted fur, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "story": "鈴鈴好奇地用粉紅鼻尖嗅著粗陶罐的邊緣，清脆的鈴鐺聲在溫暖的泥土香氣中迴盪。雖然不小心把幾片乾草黏在了蓬鬆的白毛上，她還是踩著輕快的步伐，繼續探索這座充滿大地氣息的豐收市集。",
+    "idea": "在巨人尺寸合成的微縮世界中，純白長毛貓鈴鈴正專注地推著一輛裝滿新鮮馬鈴薯與粗陶器皿的復古農用手推車，身處由大地色系與立體花卉貼花交織而成的中世紀農場市集，整體採用正交投影構圖與高調明亮光照明。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Kaiju Scale Composite",
+      "composition": "Orthographic Projection",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Earth Tones"
+    },
+    "character_name": "鈴鈴",
+    "news_inspiration": [],
+    "comment_id": 5887271852,
+    "number": 3411,
+    "character": "lingling"
+  },
+  {
+    "story": "巨大而具設計感的廢棄風車葉片被橫臥成停放棚，黑貓正從棚頂優雅地縱身跳躍，追逐著空中閃爍的光影痕跡。長時間曝光的光繪將牠跳躍的軌跡化為一道緋紅流光，在烏黑背景與金黃雲霞間劃開震撼的視覺弧線。",
+    "title": "風之痕跡的躍動",
+    "news_inspiration": [
+      "在英國愛丁堡，當地的電動自行車租賃計劃大受歡迎，早高峰通勤時段的自行車數量歷史性地首次超過了汽車數量。",
+      "在象牙海岸的泰伊國家公園，研究團隊重新發現了消失超過13年、被認為極其罕見的加納鵑鵙鳥類。",
+      "在韓國，工程師研發出一款名為「Diden Spider」的壁蜥機器人，能夠輕鬆攀爬鋼鐵牆面並在船艙內部進行精準焊接作業。",
+      "在丹麥，為了推動綠色循環利用，當地將退役的風力發電機葉片巧思改造為兼具設計感與實用性的自行車停放棚。",
+      "在澳洲，當地首次啟用由真菌菌絲體與麻類纖維製成的生物環保棺木，能在45天內自然分解並滋養土壤。"
+    ],
+    "number": 3412,
+    "inspiration": "在丹麥，為了推動綠色循環利用，當地將退役的風力發電機葉片巧思改造為兼具設計感與實用性的自行車停放棚。",
+    "style_picks": {
+      "art_style": "Light Painting Photography",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Golden Hour",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Crimson and Black"
+    },
+    "idea": "這是一組滿版特寫的光繪攝影，在緋紅烏黑的強烈色彩下，一隻黑貓佇立於丹麥舊風力發電機葉片改造的自行車停放棚頂，夕陽黃金時刻的餘暉與棉花糖雲朵將其襯托得宛如夢境標本。",
+    "comment_id": 5894220167,
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "prompt": "這是一組滿版特寫的光繪攝影，在緋紅烏黑的強烈色彩下，一隻黑貓佇立於丹麥舊風力發電機葉片改造的自行車停放棚頂，夕陽黃金時刻的餘暉與棉花糖雲朵將其襯托得宛如夢境標本。. The date and time '2026-09-29 16:11 UTC' is visually displayed in the image. light painting photography, swirling luminous trails drawn around subject, long exposure capture of moving LED or sparkler, glowing halos and ribbons, dark environment with painted light streaks, kinetic neon calligraphy, full-bleed frame-filling composition, subject cropped to edges, no empty margin, immersive overwhelming scale, dense edge-to-edge detail, golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, cotton candy cloud texture, fluffy pastel pink and blue cumulus puffs, marshmallow-like softness, dreamy sky material, whimsical volumetric clouds, crimson and black palette, deep blood-red against jet black, dramatic high-contrast intensity, seductive sinister mood IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "prompt": "Medium format photography with Hasselblad aesthetic, centered subject composition and single focal point dead center. In a cryogenic lab aboard a polar research vessel, a calico cat stands on a frost-covered workbench, leaning down to sniff and delicately lick a miniature metal meteorological probe hanging from an ice rack. The environment shows subtle visible film grain, analog texture, and classic three-point lighting with key light producing soft shadows and subtle rim light separation. Morandi muted color palette with desaturated soft pastels and dusty grey undertones. Creamy shallow depth of field, 80mm lens, f/2.8 aperture, natural cool polar illumination. Stenciled clearly in white digital camera metadata text at the bottom corner of the image is '2026-09-29 21:07 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在零下三十度的科考船艙裡，研究員正記錄著氣候數據，而這隻船貓則對新安裝的氣象儀器產生了濃厚興趣。牠優雅地踏在滿是冰霜的工作台上，為寂靜嚴寒的極地研究帶來了一絲溫暖而活潑的生機。",
+    "idea": "中片幅攝影風格下，一隻三花貓正在極地科考船的低溫實驗室內，低頭嗅聞並用舌頭輕舔懸掛在冰架上的微型金屬氣象探針。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Centered Subject Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Morandi Color Palette"
+    },
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "comment_id": 5898957119,
+    "title": "冰原科考站的巡航者",
+    "news_inspiration": [],
+    "number": 3413
+  },
+  {
+    "number": 3414,
+    "avoid_list": [
+      "伸出前爪或雙爪觸碰物件",
+      "日期與時間文字渲染",
+      "繁體中文與英文文字規定",
+      "朱紅描金與漆器質感",
+      "斑駁光影與窗櫞灑落",
+      "古舊書局與書店場景",
+      "玻璃沙漏與透視結構",
+      "雙色調霓虹與海濱插畫"
+    ],
+    "idea": "這是一幅以印度傳統貢德畫（Gond Painting）風格繪製的畫面，一隻花貓穿梭於深海花園的古老沈船艙門間，呈現獨特的框中框構圖。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "title": "紫粉深海的沉船奇遇",
+    "prompt": "A Gond painting depicting a calico cat peering through the circular porthole of an ancient sunken shipwreck in a deep-sea garden, creating a frame within a frame composition. The cat leans forward, its nose gently touching a glowing jellyfish. Underwater caustic light patterns ripple across the scene, casting a blue-green aquatic glow. The cat is adorned with intricate snake scale textures, combining detailed dot and line patterns in a soft lavender and pink palette with warm blush accents and gentle lilac gradients. In a corner of the frame, the text '2026-09-30 00:50 UTC' is clearly and visually displayed. Indian tribal art style, nature-inspired motifs, mystical ocean folklore, submerged dreamlike atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 5901915599,
+    "story": "花貓悠然佇立在沉船的圓形舷窗後，俯身凝視並用鼻尖輕觸一朵閃耀的光芒水母。水下焦散光在周圍映照出流動的斑紋，貓咪身上精緻的蛇鱗肌理紋樣與柔和的薰衣草紫粉色調交織，構築出一場魔幻而和諧的海洋夢境。",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Frame Within a Frame",
+      "lighting": "Underwater Caustics",
+      "texture": "Snake Scale Texture",
+      "color_palette": "Lavender and Pink"
+    }
+  },
+  {
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Leading Lines Composition",
+      "lighting": "Ring Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Ivory and Gold"
+    },
+    "title": "楓書堆疊的影子閱讀者",
+    "is_seasonal": true,
+    "idea": "在柔焦霧面與剪影藝術風格下，透過環形燈照亮線條，優雅的純黑貓墨墨正高坐在舊書店的高聳木梯上，沿著斜線排列的楓葉色古籍引導線，用前爪輕輕翻開一本封面泛著金光的秋季書籍。",
+    "comment_id": 5905233868,
+    "season": "autumn",
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ],
+    "story": "秋意漸濃，舊書店裡散落著無數楓葉般深紅與琥珀色的舊書。墨墨一如往常爬上書架最高處，俯瞰著沉靜的角落，並挑選了一本自己最喜歡的暖色書冊，靜靜佇立在金黃的光輝中獨享午後閱讀時光。",
+    "character": "momo",
+    "number": 3415,
+    "prompt": "Illustration art style, soft-focus matte haze with a dreamy diffused blur and ethereal finish. Sleek, slender solid-black (#0A0A0A) Bombay-style shorthair cat named Momo with satin-sheen fur, warm brown undertones, athletic proportions, a tiny natural white locket tuft (#FFFFFF) on its ventral chest, a single dark-grey (#696969) ring at its tail tip, prominent long white whiskers, and luminous golden-amber (#D4A017) eyes. The cat wears a single small gold hoop earring (#FFD700) on its LEFT ear only (viewer perspective). Perched high on a tall wooden ladder in a cozy antique bookstore, the cat gently uses its front paw to flip open an autumn book with a shimmering golden cover. The ladder is flanked by diagonally arranged maple-colored vintage books creating strong converging perspective leading lines. Silhouette art aesthetic with clean defined edges and solid black shapes against light, framed in an ivory and gold palette with soft metallic gilding. Circular ring light illumination casts an even front glow and circular catchlights in the cat's attentive eyes. Visually displayed clearly on the image in crisp text: '2026-09-30 06:06 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "news_inspiration": [
+      "美國太空總署（NASA）的好奇號火星探測車順利迎來第 5000 個火星日，並傳回火星蓋爾撞擊坑晨昏交替的壯麗合成影像。",
+      "丹麥哥本哈根推廣特色的「真人圖書館」，讓民眾可以借閱不同背景的「真人」對談半小時，藉此促進跨文化理解與交流。",
+      "印度尼西亞當地推行以相機捕捉野生動物換取獎勵的計畫，成功將昔日的野生動物獵人轉變為保護森林珍貴物種的守護者。",
+      "法國農夫善用溫暖的氣候條件，成功在本土種築起溫室栽種出新鮮的熱帶水果，為當地農業開創出全新景象。",
+      "越南政府宣布迅速擴大保護區森林範圍，全力拯救世界上最瀕危的猴類物種及其珍貴棲地。"
+    ]
+  },
+  {
+    "character": "mochi",
+    "prompt": "A macro photograph of an orange and white shorthair cat named Mochi, with a chubby spherical torso and short stubby legs, captured in a traditional bakery window. Mochi has a pure white #FFFFFF base coat with bright orange #FF8C00 patches, a solid orange #FF8C00 mask on the right half of the face from the nose bridge to the right ear while the left face is entirely white, a heart-shaped orange saddle on the upper back, large round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange dot in the center, and a white belly. Mochi's solid orange #FF8C00 right front paw reaches out to lightly pat a freshly baked peanut mochi bread resting on a linen towel with visible woven fabric texture and threads, while the left front paw is pure white #FFFFFF. Soft window light and gentle directional daylight from a side window illuminate the scene with a smooth falloff into shadows. High saturation vivid colors, bold vibrant hues, extreme close-up, sharp detail, 85mm lens, f/2.8, shallow depth of field. Geometric grid overlay composition featuring thin ruled lines and rectangular color panels layered across the frame. The timestamp '2026-09-30 13:07 UTC' is clearly and visually displayed in crisp text in a corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在美國紐約，一名卡車司機耗費休閒時間，成功用超過80萬個微型模型結構打造出極其精細的紐約市全景模型。",
+      "在越南的森林保護區，保育團隊宣佈成功擴大保護棲地，為世界上最瀕危的靈長類物種之一提供安全的棲息家園。",
+      "在印尼，一項創新的保護計畫透過「拍照發放獎金」的方式，成功讓昔日的野生動物獵人轉型成為第一線的生態守護者。",
+      "在韓國，研發團隊展示了一款名為「Diden Spider」的攀爬機器人，它能靈活爬上鋼鐵外牆並在船艙內部完成高難度的焊接工作。"
+    ],
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Geometric Grid Overlay Composition",
+      "lighting": "Window Light",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "story": "老街麵包店的大型玻璃窗前，陣陣剛出爐的花生香氣瀰漫開來。身材圓滾像顆麻糬的貓咪「麻糬」，看到滿桌圓潤飽滿的麻糬麵包，琥珀色大眼瞬間放大兩倍。牠忍不住伸出那隻像戴了橘色手套的右前腳，小心翼翼地觸碰著軟綿綿的布巾與麵包，肚子隨著興奮的呼吸輕輕晃動。",
+    "comment_id": 5911965999,
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ],
+    "idea": "採用微距攝影風格與高飽和鮮豔色調，捕捉橘白短毛家貓「麻糬」在日光透射的傳統麵包店窗邊，正好奇地用圓滾滾的橘色前腳輕拍剛出爐的花生麻糬麵包。畫面運用幾何格線疊層構圖，配合布料質感的麵包襯巾與窗邊柔光，呈現出垂涎欲滴的細膩微距質感。",
+    "title": "麵包窗邊的花生試吃員",
+    "inspiration": "original",
+    "number": 3416,
+    "character_name": "麻糬"
+  },
+  {
+    "prompt": "A crystal glass cat precisely adjusting a miniature watch gear on a workshop workbench, framed inside a retro command line terminal screen with a black console background, monospace bitmap text output, scrolling log lines, and the date and time 2026-09-30 18:39 UTC displayed in the terminal. The screen is encircled by a dense floral wreath border of blossoms pressing into the frame in a romantic botanical surround. Harsh midday sunlight casts hard edge shadows with strong directional illumination, creating prismatic reflections and light refraction through the transparent glass material. Coral pink and Prussian blue palette featuring warm salmon tones against a deep inky blue background, gritty urban realism, high contrast natural daylight, CJK system font rendering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "愛丁堡市（英國蘇格蘭）在繁忙的通勤尖峰時段首次記錄到單車數量超越汽車，歸功於電動單車租賃計畫的大受歡迎。",
+      "日內瓦市（瑞士）推出專屬的手工製錶探索體驗，讓全球鐘錶迷能夠深入探索精細微機械工藝的世界。",
+      "蘇瓦市（斐濟）宣布引進特殊無障礙設備，大幅改善海灘與海洋體驗設施，讓行動不便的遊客也能輕鬆親近海洋。"
+    ],
+    "idea": "在命令列終端機風格與珊瑚粉靛藍交織的像素螢幕中，一隻水晶般剔透的貓咪於硬光日照下穿梭於花簇環繞構圖中，專注地用爪子調校精細的齒輪軸承。",
+    "title": "光晶微齒輪之歌",
+    "story": "這隻由光學水晶凝結而成的貓咪，正伏身在日內瓦工坊的鐘錶工作臺上，仔細撥動著微型手工齒輪。高懸的烈日透過玻璃天窗灑下硬朗光影，將終端機文字與花卉邊框映照得絢麗奪目。",
+    "comment_id": 5917535285,
+    "number": 3417,
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ],
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Encircled-by-Blossoms Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Glass / Crystal",
+      "color_palette": "Coral Pink and Prussian Blue"
+    },
+    "inspiration": "日內瓦市（瑞士）推出專屬的手工製錶探索體驗，讓全球鐘錶迷能夠深入探索精細微機械工藝的世界。"
+  },
+  {
+    "title": "苔花金鈴賀新春",
+    "comment_id": 5920993271,
+    "idea": "這幅 Q 版新年插畫採用平鋪排列構圖，描繪一隻四腳伏地的胖萌白貓在古老溫室的苔蘚花台間，專注地用爪子拍打撥弄一隻復古金屬銅鈴，整體沉浸於水下焦散光與象牙描金的輝煌色調中。",
+    "news_inspiration": [],
+    "prompt": "A chibi Lunar New Year illustration featuring an adorable Q-version chubby white cat on all fours in an ancient greenhouse, focused on playing with an intricate vintage metal copper bell among moss-covered flower beds. The composition is a flat lay overhead view with objects neatly arranged in an organized grid layout. The scene is illuminated by underwater caustic lighting with rippling light patterns dancing over the subject, creating a blue-green aquatic glow and refracted sun shafts. The color palette features creamy off-white and soft metallic gilding with an ivory and gold tone. The date and time 2026-09-30 22:41 UTC is visually displayed in the image using English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "新春清晨的古老溫室裡，微光如水下焦散光般灑落，將苔蘚覆蓋的花台照得一片金翠。胖乎乎的白貓正興高采烈地用前爪撥弄著精緻的描金銅鈴，叮噹聲與精細排列的花卉一同織就了新年的祥瑞景象。",
+    "style_picks": {
+      "art_style": "Chibi Lunar New Year Illustration",
+      "composition": "Knolling Photography",
+      "lighting": "Underwater Caustics",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Ivory and Gold"
+    },
+    "inspiration": "original",
+    "number": 3418,
+    "avoid_list": [
+      "強烈的傳統中文或英文文字時間戳記約束",
+      "貓咪俯身凝視或輕嗅設備與物件",
+      "特殊構圖框線（穆夏拱框、框中框、分割畫面）",
+      "銀河與天體星空攝影背景",
+      "朱紅與暗金雙色調搭配",
+      "滿版特寫與極致邊緣填充構圖",
+      "極地與低溫實驗室氣象場景",
+      "立體貼花與三維紋理質感",
+      "微縮世界與不合常理的尺寸合成",
+      "熱成像色彩與硬邊幾何建築背景",
+      "廢棄工業或舊化鋼鐵質感",
+      "印度貢德畫（Gond painting）傳統圖騰風格"
+    ]
   }
 ]
