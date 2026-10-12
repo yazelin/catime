@@ -1154,6 +1154,46 @@
       "zh": "苗族銀飾盛裝人像",
       "en": "Miao Silver Regalia Portrait",
       "prompt": "Miao silver regalia portrait, ethnic Chinese Miao beauty in full ceremonial headdress, layered engraved silver ornaments and tiered neck rings, indigo embroidered costume, solemn folk-heritage elegance"
+    },
+    {
+      "zh": "機能廢土街頭少女插畫",
+      "en": "Post-Apocalyptic Techwear Girl Illustration",
+      "prompt": "post-apocalyptic techwear girl illustration, tough street girl in layered utility gear with straps, pouches and patched jackets, gas mask or goggles as accessories, gritty ruined urban backdrop, crisp anime-influenced linework with muted industrial tones"
+    },
+    {
+      "zh": "日系清新少年插畫",
+      "en": "Fresh Japanese Youth Illustration",
+      "prompt": "fresh Japanese youth illustration, clean-cut teenage boy with soft tousled hair and clear eyes, airy summer daylight and bright sky, crisp light linework with transparent pastel coloring, refreshing coming-of-age anime mood"
+    },
+    {
+      "zh": "紅葉逆光唯美人像",
+      "en": "Backlit Autumn Maple Portrait",
+      "prompt": "backlit autumn maple portrait, subject framed by glowing red and orange maple leaves, low sun shining through foliage from behind, warm translucent leaf glow and soft hair rim light, dreamy shallow-focus seasonal photography"
+    },
+    {
+      "zh": "民族織錦盛裝厚塗人像",
+      "en": "Ethnic Brocade Regalia Painterly Portrait",
+      "prompt": "ethnic brocade regalia painterly portrait, figure in richly patterned woven folk textiles with embroidered headdress, beaded and feathered ceremonial ornaments, dense traditional motifs rendered in bold impasto digital brushwork, proud heritage presence"
+    },
+    {
+      "zh": "復古繁花時裝貓伴肖像",
+      "en": "Vintage Floral Couture Portrait with Cat",
+      "prompt": "vintage floral couture portrait with cat, elegantly dressed figure in retro flower-printed fashion posed alongside a pet cat, lush blooms filling the backdrop, soft nostalgic painterly finish, charming editorial storybook mood"
+    },
+    {
+      "zh": "克林姆金彩裝飾人像",
+      "en": "Klimt-Inspired Gilded Ornamental Portrait",
+      "prompt": "Klimt-inspired gilded ornamental portrait, figure enveloped in flat gold-leaf patterned robes, mosaic spirals, eyes and geometric motifs, naturalistic face against dense decorative surface, Vienna Secession opulence"
+    },
+    {
+      "zh": "暗底粉彩幽靈插畫",
+      "en": "Pastel Ghost Illustration on Dark Ground",
+      "prompt": "pastel ghost illustration on dark ground, cute translucent spirits in soft candy colors floating against a deep black background, gentle glowing edges, whimsical spooky-cute pastel-goth mood"
+    },
+    {
+      "zh": "中式節慶美食海報",
+      "en": "Chinese Festive Food Poster",
+      "prompt": "Chinese festive food poster, abundant holiday dishes and flaky pastries arranged with lanterns and auspicious decorations, warm appetizing lighting, bold celebratory title typography, rich red-and-gold commercial layout"
     }
   ],
   "composition": [
@@ -1840,6 +1880,16 @@
       "zh": "羽毛肌理",
       "en": "Feather Texture",
       "prompt": "feather texture, layered soft plumage with fine barbs, downy edges catching light, delicate overlapping quills, airy natural detail"
+    },
+    {
+      "zh": "徽章補丁拼縫",
+      "en": "Stitched Patch-and-Badge Patchwork",
+      "prompt": "stitched patch-and-badge patchwork texture, embroidered emblems and fabric patches sewn onto garments, visible topstitching and frayed edges, mismatched textile scraps layered together, customized DIY streetwear detail"
+    },
+    {
+      "zh": "粉彩顆粒肌理",
+      "en": "Chalky Soft-Pastel Grain",
+      "prompt": "chalky soft-pastel grain texture, powdery pigment dragged over toothy paper, broken granular strokes revealing the paper grain, soft smudged blending, matte velvety crayon finish"
     }
   ],
   "color_palette": [
@@ -1987,6 +2037,11 @@
       "zh": "緋紅蒼綠",
       "en": "Crimson and Sage Green",
       "prompt": "crimson and sage green palette, vivid deep red against muted grey-green, complementary red-green tension, antique decorative harmony"
+    },
+    {
+      "zh": "鼠尾草綠象牙白",
+      "en": "Sage Green and Ivory",
+      "prompt": "sage green and ivory palette, soft muted grey-green paired with warm creamy off-white, calm natural low-contrast harmony, serene botanical elegance"
     }
   ]
 }
