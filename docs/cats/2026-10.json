@@ -1837,5 +1837,41 @@
       "texture": "Concrete",
       "color_palette": "Porcelain Blue and White"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Chinese Shadow Puppetry",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Cinematic Lighting",
+      "texture": "Shibori Textile",
+      "color_palette": "Duotone"
+    },
+    "title": "廢園石影的探尋",
+    "prompt": "Vertical poster composition combining traditional Chinese shadow puppetry aesthetic with a central photorealistic focal point. Inside an English vintage junkyard with weathered iron shelves, a dark tortoiseshell cat weaves through rusty scrap metal and reaches out its paw to gently touch the nose of an ancient lost Roman water deity sculpture. Shibori resist-dyed textile texture background with organic flowing patterns in a duotone palette of indigo blue and ink black. Cinematic backlighting creates silhouette shapes like backlit translucent leather puppets, with dramatic volumetric light rays and deep shadows, giving a folk theater atmosphere. A narrow vertical side panel contains elegant vertical calligraphy and a red seal stamp accent. On the image, the date and time '2026-10-12 16:15 UTC' is clearly and visually displayed in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "古老的水神雕塑在遙遠的異鄉塵封多年，直到這隻流浪貓在廢品堆疊的幽暗角落裡尋獲了它。在如影子戲台般沉靜的光影中，貓咪用細柔的爪尖探尋著石雕上的歲月痕跡，靜靜喚醒了這段跨越時空的藝術傳奇。",
+    "idea": "這是一幅結合皮影戲與直式書法海報構圖的視覺創作，採用indigo與墨黑的雙色調及絞染布料質感，在電影感打光下呈現一隻深色花貓正在英式舊物回收場的斑駁鐵架間穿梭，伸出貓爪輕輕撥弄一座失落已久的古老羅馬雕塑神像鼻尖。",
+    "news_inspiration": [
+      "美洲（美國阿拉斯加）：在阿拉斯加州卡特邁國家公園舉辦的2026年「胖熊週」（Fat Bear Week）票選中，名為「背包」（Backpack）的棕熊成功奪得冠軍。",
+      "歐洲（英國）：一件由義大利羅馬許願池雕刻家皮耶特羅·布拉奇（Pietro Bracci）所創作的失傳雕塑作品，在英國的一處廢品回收場花園裝飾品中被發現。",
+      "南美洲（阿根廷）：海洋科學家在阿根廷馬德普拉塔深海峽谷的探險報告中，確認發現了57種全新的深海物種。",
+      "亞洲（印度）：曾被巨星朱莉婭·羅勃茲（Julia Roberts）命名的救援懶熊，在印度脫離虐待後於自然保護區健康茁壯生活。"
+    ],
+    "avoid_list": [
+      "碳纖維材質",
+      "玻璃容器內構圖",
+      "雙層磨砂玻璃",
+      "黑光螢光紫藍微光",
+      "曼陀羅幾何圖騰",
+      "綠眼獨眼貓船長",
+      "橘白貓麻糬",
+      "紅金霓虹燈光",
+      "真人圖書館專區",
+      "象牙描金與粉彩光點",
+      "編織纖維壁掛風格",
+      "羊毛氈工藝風格"
+    ],
+    "inspiration": "歐洲（英國）：一件由義大利羅馬許願池雕刻家皮耶特羅·布拉奇（Pietro Bracci）所創作的失傳雕塑作品，在英國的一處廢品回收場花園裝飾品中被發現。",
+    "comment_id": 6128179751,
+    "number": 3471
   }
 ]
