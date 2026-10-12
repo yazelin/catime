@@ -1,19 +1,19 @@
 # <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime
 
-**AI 生成的每小時貓咪圖片，每小時誕生一隻新貓！** 🐱
+**AI 生成的每小時貓咪圖片，每小時誕生一隻新貓！**
 
-每小時，GitHub Actions 會透過 Google Gemini 自動生成一張獨特的貓咪圖片，上傳到 GitHub Release，並發佈到月度 issue。103+ 種藝術風格——從浮世繪到賽博龐克到刺繡微縮模型。每隻貓都有自己的故事。
+每小時，GitHub Actions 會透過 Google Gemini 自動生成一張獨特的貓咪圖片，上傳到 GitHub Release，並發佈到月度 issue。247+ 種藝術風格，包含浮世繪、賽博龐克和刺繡微縮模型。每隻貓都有自己的故事。
 
-🌐 **圖庫：** [yazelin.github.io/catime](https://yazelin.github.io/catime/)
-📲 **Telegram：** [@catime_yaze](https://t.me/catime_yaze) — 每小時自動發圖
-📦 **PyPI：** [catime](https://pypi.org/project/catime/)
-🧩 **OpenClaw 技能：** `clawhub install catime`
+**圖庫：** [yazelin.github.io/catime](https://yazelin.github.io/catime/)
+**Telegram：** [@catime_yaze](https://t.me/catime_yaze) — 每小時自動發圖
+**PyPI：** [catime](https://pypi.org/project/catime/)
+**OpenClaw 技能：** `clawhub install catime`
 
-> 📖 其他語言：[English](README.en.md) | [日本語](README.ja.md)
+> 其他語言：[English](README.en.md) | [日本語](README.ja.md)
 
 ## 贊助
 
-如果你喜歡 catime，歡迎透過 [Buy Me a Coffee](https://buymeacoffee.com/yazelin) 贊助本專案 ☕
+如果你喜歡 catime，歡迎透過 [Buy Me a Coffee](https://buymeacoffee.com/yazelin) 贊助本專案。
 
 所有贊助收入將用於 API 費用、運算資源與專案維護。詳見 [SPONSORS.md](SPONSORS.md)。
 
