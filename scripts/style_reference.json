@@ -1136,6 +1136,91 @@
       "prompt": "paper-sculpture floral gown portrait, figure wearing a couture dress built from hand-cut paper blossoms, layered petal reliefs surrounding her, matte textured cardstock craft, soft studio light, ethereal handmade elegance"
     },
     {
+      "zh": "機車女郎厚塗插畫",
+      "en": "Painterly Biker Girl Illustration",
+      "prompt": "painterly biker girl illustration, confident woman in glossy leather riding gear posed with a motorcycle, bold impasto digital brushwork, sharp attitude and strong silhouette, semi-realistic poster rendering"
+    },
+    {
+      "zh": "獸耳美人插畫",
+      "en": "Beast-Eared Beauty Illustration",
+      "prompt": "beast-eared beauty illustration, alluring maiden with animal ears and fox-like tails, soft fur accents framing delicate skin, mystical spirit-fox aura, semi-realistic fantasy character art"
+    },
+    {
+      "zh": "獸伴幻境插畫",
+      "en": "Fantasy Beast Companion Illustration",
+      "prompt": "fantasy beast companion illustration, figure accompanied by a majestic mythical creature, bonded guardian-and-master pairing, epic otherworldly landscape, luminous magical atmosphere"
+    },
+    {
+      "zh": "苗族銀飾盛裝人像",
+      "en": "Miao Silver Regalia Portrait",
+      "prompt": "Miao silver regalia portrait, ethnic Chinese Miao beauty in full ceremonial headdress, layered engraved silver ornaments and tiered neck rings, indigo embroidered costume, solemn folk-heritage elegance"
+    },
+    {
+      "zh": "機能廢土街頭少女插畫",
+      "en": "Post-Apocalyptic Techwear Girl Illustration",
+      "prompt": "post-apocalyptic techwear girl illustration, tough street girl in layered utility gear with straps, pouches and patched jackets, gas mask or goggles as accessories, gritty ruined urban backdrop, crisp anime-influenced linework with muted industrial tones"
+    },
+    {
+      "zh": "日系清新少年插畫",
+      "en": "Fresh Japanese Youth Illustration",
+      "prompt": "fresh Japanese youth illustration, clean-cut teenage boy with soft tousled hair and clear eyes, airy summer daylight and bright sky, crisp light linework with transparent pastel coloring, refreshing coming-of-age anime mood"
+    },
+    {
+      "zh": "紅葉逆光唯美人像",
+      "en": "Backlit Autumn Maple Portrait",
+      "prompt": "backlit autumn maple portrait, subject framed by glowing red and orange maple leaves, low sun shining through foliage from behind, warm translucent leaf glow and soft hair rim light, dreamy shallow-focus seasonal photography"
+    },
+    {
+      "zh": "民族織錦盛裝厚塗人像",
+      "en": "Ethnic Brocade Regalia Painterly Portrait",
+      "prompt": "ethnic brocade regalia painterly portrait, figure in richly patterned woven folk textiles with embroidered headdress, beaded and feathered ceremonial ornaments, dense traditional motifs rendered in bold impasto digital brushwork, proud heritage presence"
+    },
+    {
+      "zh": "復古繁花時裝貓伴肖像",
+      "en": "Vintage Floral Couture Portrait with Cat",
+      "prompt": "vintage floral couture portrait with cat, elegantly dressed figure in retro flower-printed fashion posed alongside a pet cat, lush blooms filling the backdrop, soft nostalgic painterly finish, charming editorial storybook mood"
+    },
+    {
+      "zh": "克林姆金彩裝飾人像",
+      "en": "Klimt-Inspired Gilded Ornamental Portrait",
+      "prompt": "Klimt-inspired gilded ornamental portrait, figure enveloped in flat gold-leaf patterned robes, mosaic spirals, eyes and geometric motifs, naturalistic face against dense decorative surface, Vienna Secession opulence"
+    },
+    {
+      "zh": "暗底粉彩幽靈插畫",
+      "en": "Pastel Ghost Illustration on Dark Ground",
+      "prompt": "pastel ghost illustration on dark ground, cute translucent spirits in soft candy colors floating against a deep black background, gentle glowing edges, whimsical spooky-cute pastel-goth mood"
+    },
+    {
+      "zh": "中式節慶美食海報",
+      "en": "Chinese Festive Food Poster",
+      "prompt": "Chinese festive food poster, abundant holiday dishes and flaky pastries arranged with lanterns and auspicious decorations, warm appetizing lighting, bold celebratory title typography, rich red-and-gold commercial layout"
+    },
+    {
+      "zh": "韓漫寫實男性插畫",
+      "en": "Semi-Realistic Manhwa Illustration",
+      "prompt": "semi-realistic Korean manhwa illustration, sharp handsome male character with refined facial anatomy, crisp clean line art and glossy digital cel-plus-airbrush shading, cool urban mood, polished webtoon cover rendering"
+    },
+    {
+      "zh": "花田蕾絲波西米亞人像",
+      "en": "Boho Lace Wildflower Meadow Portrait",
+      "prompt": "bohemian wildflower meadow portrait, model in flowing white lace dress amid tall grasses and blooms, flower crown and loose wavy hair, soft natural sunlight, airy free-spirited romantic editorial"
+    },
+    {
+      "zh": "閃粉珠飾美妝特寫",
+      "en": "Glitter Jewel Beauty Close-up",
+      "prompt": "glitter jewel beauty close-up, macro makeup shot of eyes and lips adorned with rhinestones, pearls and shimmering glitter, flawless retouched skin, editorial beauty campaign lighting, high-detail cosmetic artistry"
+    },
+    {
+      "zh": "暗黑哥德時裝寫真",
+      "en": "Dark Gothic Fashion Photography",
+      "prompt": "dark gothic fashion photography, model in black lace and corseted gothic or lolita attire, misty forest or lakeside setting, desaturated moody tones, melancholic haunting atmosphere, cinematic editorial portrait"
+    },
+    {
+      "zh": "錦鯉水下超寫實人像",
+      "en": "Underwater Koi Hyperreal Portrait",
+      "prompt": "hyperreal underwater portrait, submerged figure with billowing hair and floating fabric surrounded by swirling koi fish, rippling light and air bubbles, serene suspended stillness, ethereal aquatic fantasy"
+    },
+    {
       "zh": "花境印花禮服寫真",
       "en": "Bloom-Matched Print Gown Portrait",
       "prompt": "fashion portrait of a model in a floral-print gown whose pattern echoes the surrounding flower field, dress blending into blossoms, lush garden setting, editorial styling"
@@ -1388,6 +1473,16 @@
       "prompt": "blurred foreground occlusion composition, out-of-focus flowers and leaves partly covering the lens, subject glimpsed through a soft screen of foreground shapes, layered depth and intimate peeking view"
     },
     {
+      "zh": "背影回眸構圖",
+      "en": "Over-the-Shoulder Look-Back",
+      "prompt": "over-the-shoulder look-back composition, subject seen from behind turning to glance at the camera, exposed back and sweeping hairline, intimate backward gaze, elegant rear-view framing"
+    },
+    {
+      "zh": "巨獸前景並置構圖",
+      "en": "Beast-Foreground Companion Composition",
+      "prompt": "beast-foreground companion composition, a huge creature looming in the near foreground beside the human subject, side-by-side scale pairing, layered depth between beast and figure, imposing dual-subject framing"
+    },
+    {
       "zh": "多層相片疊拼構圖",
       "en": "Layered Photo Overlap Composition",
       "prompt": "composition of multiple overlapping photographs stacked in layers, offset edges and partial transparency, scrapbook-like depth"
@@ -1528,6 +1623,11 @@
       "zh": "巨月輝映",
       "en": "Giant Moon Glow",
       "prompt": "giant moon glow, an enormous lunar disc filling the sky behind the subject, pale silver backlight rimming the silhouette, luminous halo and long cold shadows, epic nocturnal atmosphere"
+    },
+    {
+      "zh": "閃電電光",
+      "en": "Lightning Strike Glow",
+      "prompt": "lightning strike glow, crackling electric bolts illuminating the subject, harsh blue-white flashes and arcing energy, stark high-contrast storm light, charged dramatic atmosphere"
     }
   ],
   "texture": [
@@ -1820,6 +1920,26 @@
       "zh": "絲質暈染墨紋",
       "en": "Ink-Bleed on Silk",
       "prompt": "ink-bleed on silk texture, ink diffusing and feathering into the woven fabric, soft blurred wash edges, tonal gradients seeping through the weave, delicate fluid staining"
+    },
+    {
+      "zh": "亮面漆皮肌理",
+      "en": "Patent Leather Texture",
+      "prompt": "patent leather texture, lacquered mirror-gloss hide with sharp specular highlights, wet-look glossy surface, taut reflective sheen, sleek high-shine fashion material"
+    },
+    {
+      "zh": "羽毛肌理",
+      "en": "Feather Texture",
+      "prompt": "feather texture, layered soft plumage with fine barbs, downy edges catching light, delicate overlapping quills, airy natural detail"
+    },
+    {
+      "zh": "徽章補丁拼縫",
+      "en": "Stitched Patch-and-Badge Patchwork",
+      "prompt": "stitched patch-and-badge patchwork texture, embroidered emblems and fabric patches sewn onto garments, visible topstitching and frayed edges, mismatched textile scraps layered together, customized DIY streetwear detail"
+    },
+    {
+      "zh": "粉彩顆粒肌理",
+      "en": "Chalky Soft-Pastel Grain",
+      "prompt": "chalky soft-pastel grain texture, powdery pigment dragged over toothy paper, broken granular strokes revealing the paper grain, soft smudged blending, matte velvety crayon finish"
     }
   ],
   "color_palette": [
@@ -1954,6 +2074,36 @@
       "prompt": "coral pink and Prussian blue palette, warm salmon tones against deep inky blue, rich complementary depth, elegant editorial contrast"
     },
     {
+      "zh": "米白紅黑三色",
+      "en": "Ivory Red and Black Triad",
+      "prompt": "ivory, red and black triadic palette, warm off-white ground with bold red forms and jet-black accents, crisp three-tone graphic balance, restrained folk-poster contrast"
+    },
+    {
+      "zh": "孔雀藍描金",
+      "en": "Peacock Blue and Gold",
+      "prompt": "peacock blue and gold palette, deep teal-blue expanse traced with metallic gold outlines, jewel-toned oriental opulence, lustrous regal richness"
+    },
+    {
+      "zh": "緋紅蒼綠",
+      "en": "Crimson and Sage Green",
+      "prompt": "crimson and sage green palette, vivid deep red against muted grey-green, complementary red-green tension, antique decorative harmony"
+    },
+    {
+      "zh": "鼠尾草綠象牙白",
+      "en": "Sage Green and Ivory",
+      "prompt": "sage green and ivory palette, soft muted grey-green paired with warm creamy off-white, calm natural low-contrast harmony, serene botanical elegance"
+    },
+    {
+      "zh": "鈷藍象牙鏽橙",
+      "en": "Cobalt Blue, Ivory and Rust Orange",
+      "prompt": "cobalt blue, ivory and rust orange palette, saturated deep blue fields balanced by creamy off-white and earthy burnt-orange accents, bold yet refined tri-tone contrast"
+    },
+    {
+      "zh": "薰衣草紫山林綠",
+      "en": "Lavender and Mountain Green",
+      "prompt": "lavender and mountain green palette, soft violet blooms against deep forest and hillside greens, fresh cool natural harmony, pastoral dreamy calm"
+    },
+    {
       "zh": "長春花藍象牙白",
       "en": "Periwinkle Blue and Ivory",
       "prompt": "color palette of soft periwinkle blue and warm ivory white, serene blue-violet tones with creamy highlights"
@@ -1962,11 +2112,6 @@
       "zh": "烏黑灰粉玫瑰",
       "en": "Black and Dusty Rose",
       "prompt": "color palette of deep jet black and muted dusty rose pink, moody contrast with soft grey-pink accents"
-    },
-    {
-      "zh": "鼠尾草綠象牙白",
-      "en": "Sage Green and Ivory",
-      "prompt": "color palette of soft sage green and creamy ivory, muted grey-green tones with gentle blush accents"
     }
   ]
 }
