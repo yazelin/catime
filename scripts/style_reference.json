@@ -1134,6 +1134,21 @@
       "zh": "紙雕花境仙裙人像",
       "en": "Paper-Sculpture Floral Gown Portrait",
       "prompt": "paper-sculpture floral gown portrait, figure wearing a couture dress built from hand-cut paper blossoms, layered petal reliefs surrounding her, matte textured cardstock craft, soft studio light, ethereal handmade elegance"
+    },
+    {
+      "zh": "花境印花禮服寫真",
+      "en": "Bloom-Matched Print Gown Portrait",
+      "prompt": "fashion portrait of a model in a floral-print gown whose pattern echoes the surrounding flower field, dress blending into blossoms, lush garden setting, editorial styling"
+    },
+    {
+      "zh": "冰雪女王奇幻人像",
+      "en": "Ice Queen Fantasy Portrait",
+      "prompt": "fantasy portrait of an ice queen, frost crystal crown, pale glacial gown, swirling snow and ice shards, cold regal atmosphere"
+    },
+    {
+      "zh": "巨花道具時尚人像",
+      "en": "Oversized Floral Prop Fashion Portrait",
+      "prompt": "high-fashion portrait with oversized giant flowers as props, model dwarfed by or holding huge blooms, surreal scale, bold editorial styling"
     }
   ],
   "composition": [
@@ -1371,6 +1386,11 @@
       "zh": "前景遮擋虛化構圖",
       "en": "Blurred Foreground Occlusion",
       "prompt": "blurred foreground occlusion composition, out-of-focus flowers and leaves partly covering the lens, subject glimpsed through a soft screen of foreground shapes, layered depth and intimate peeking view"
+    },
+    {
+      "zh": "多層相片疊拼構圖",
+      "en": "Layered Photo Overlap Composition",
+      "prompt": "composition of multiple overlapping photographs stacked in layers, offset edges and partial transparency, scrapbook-like depth"
     }
   ],
   "lighting": [
@@ -1932,6 +1952,21 @@
       "zh": "珊瑚粉靛藍",
       "en": "Coral Pink and Prussian Blue",
       "prompt": "coral pink and Prussian blue palette, warm salmon tones against deep inky blue, rich complementary depth, elegant editorial contrast"
+    },
+    {
+      "zh": "長春花藍象牙白",
+      "en": "Periwinkle Blue and Ivory",
+      "prompt": "color palette of soft periwinkle blue and warm ivory white, serene blue-violet tones with creamy highlights"
+    },
+    {
+      "zh": "烏黑灰粉玫瑰",
+      "en": "Black and Dusty Rose",
+      "prompt": "color palette of deep jet black and muted dusty rose pink, moody contrast with soft grey-pink accents"
+    },
+    {
+      "zh": "鼠尾草綠象牙白",
+      "en": "Sage Green and Ivory",
+      "prompt": "color palette of soft sage green and creamy ivory, muted grey-green tones with gentle blush accents"
     }
   ]
 }
