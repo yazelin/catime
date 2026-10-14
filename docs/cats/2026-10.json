@@ -2162,5 +2162,34 @@
     "idea": "在月夜靛藍的色調中，一隻橘貓正專注地在一座充滿東方花卉的靜物工作室裡，細心修理著一座古董座鐘。整體畫面採用平視正面構圖與星雲星塵肌理，並以環形燈均勻柔和地打光。",
     "story": "夜深人靜的工坊裡，時間彷彿放慢了腳步。橘貓輕輕撥弄著齒輪，與周圍盛開的牡丹和蘭花相互輝映，彷彿在守護著歲月的流轉。",
     "comment_id": 6176108047
+  },
+  {
+    "idea": "採用棚拍人像藝術風格，一隻四腳著地的布偶貓正專注地在一座水下古羅馬神殿廢墟中檢修古老的青銅日晷，全身泛著生物發光的水母藍綠色螢光與液態金屬流動感。直式書法海報構圖與高飽和鮮豔色的奇幻對比，完美捕捉了神祕而生動的瞬間。",
+    "news_inspiration": [],
+    "number": 3481,
+    "avoid_list": [
+      "用爪子撥動",
+      "日期時間戳記渲染",
+      "消費相機風格閃光",
+      "閃電劃破天際",
+      "微縮造景攝影",
+      "低多邊形立體切面",
+      "浮世繪金箔祥雲",
+      "電影感打光體積光",
+      "暗黑微距花卉世界",
+      "廢棄場景與花海交織"
+    ],
+    "title": "深海司時者",
+    "comment_id": 6180229925,
+    "inspiration": "original",
+    "prompt": "採用棚拍人像藝術風格，一隻四腳著地的布偶貓正專注地在一座水下古羅馬神殿廢墟中檢修古老的青銅日晷，全身泛著生物發光的水母藍綠色螢光與液態金屬流動感。直式書法海報構圖與高飽和鮮豔色的奇幻對比，完美捕捉了神祕而生動的瞬間。. The date and time '2026-10-14 22:47 UTC' is visually displayed in the image. studio portrait, three-point lighting, clean background, professional headshot quality, vertical poster composition, side calligraphy panel, photorealistic central focal point, ornamental border elements, red seal accents, multi-layered depth, East Asian movie poster framing, bioluminescent lighting, organic glow from living organisms, deep blue-green radiance, underwater phosphorescence, ethereal natural light, liquid metal surface, mercury-like reflective flow, chrome dripping texture, molten mirror finish, futuristic material, high saturation vivid colors, bold vibrant hues, eye-catching contrast, energetic palette IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "深藍色的海底廢墟中，神祕的螢光彷彿在訴說著古老的時光秘密。四腳穩穩立於斑駁石柱上的貓咪，正用好奇的目光凝視著那座永不歇息的水下計時器。時間在此刻凝結，只留下流光溢彩的深海傳說。",
+    "style_picks": {
+      "art_style": "Studio Portrait",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Bioluminescence",
+      "texture": "Liquid Metal",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
