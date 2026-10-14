@@ -2037,5 +2037,39 @@
       "color_palette": "Neon Fluorescent"
     },
     "title": "微觀實驗室的夜行者"
+  },
+  {
+    "story": "夜幕低垂，暴風雨席捲了這座廢棄多年的高山氣象站。棲息於此的野貓敏捷地踏過滿是苔蘚的屋頂，對著發光的儀器伸出好奇的爪子，一道閃電撕裂夜空，記錄下這如夢似幻的瞬間。",
+    "prompt": "A point-and-shoot compact digital camera flash photography of a tortoiseshell cat on the roof of an old mountain weather station, stretching its front paw toward a moss-covered lightning rod collector. A sudden dramatic lightning strike flashes across the night sky, brightly illuminating the centered subject with a harsh direct flash and casting a coral pink and Prussian blue glow over the scene. The image features a candid snapshot aesthetic with a date stamp of 2026-10-14 02:31 UTC visible in the corner, slight digital noise, high contrast storm lighting, and lush green moss textures reclaiming the weathered roof. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "強烈硬光與日照對比",
+      "過度使用傳統工藝風格 (如浮世繪、曼陀羅、皮影戲)",
+      "貓咪回眸凝望視角",
+      "飄浮島嶼與雲海場景",
+      "精密機械或星盤互動姿態",
+      "磨砂玻璃與透明容器邊界",
+      "藍黃/紅藍雙色對比調性",
+      "繁體中文與 UTC 時間戳記標註",
+      "詳細描述貓咪左右兩側與部位特徵",
+      "古老街景與老酒吧角落"
+    ],
+    "inspiration": "original",
+    "news_inspiration": [
+      "在南韓仁川的一家無人冰淇淋店，一名女子為了給手機充電拔掉了冰櫃插頭，隨後未插回即離去，導致全店冰淇淋全部融化，引發網路熱議與關注。",
+      "古生物學家在津巴布韋卡里巴地區發現了距今2.1億年的全新恐龍化石，揭示了古非洲獨特的古氣候環境與未曾知曉的史前生態系統。",
+      "美國蘋果公司董事長庫克前往中國北京清華大學，出席經濟管理學院顧問委員會2026年年度會議並與師生進行交流。",
+      "不列顛哥倫比亞大學的科學團隊在加拿大溫哥華發表最新研究，發現人類眼睛內部藏有一套過去從未被知曉的隱形清理系統，有助於深化眼睛健康研究。"
+    ],
+    "idea": "採用 IXUS 消費相機風格，呈現一隻玳瑁貓在深山古老氣象站屋頂上，前爪正伸向一座被綠色苔蘚覆蓋的閃電針收集器，突如其來的夜空閃電電光瞬間照亮居中主體構圖，映照出珊瑚粉與靛藍交織的璀璨夜色。",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Centered Subject Composition",
+      "lighting": "Lightning Strike Glow",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Coral Pink and Prussian Blue"
+    },
+    "title": "夜空下的苔蘚電光",
+    "number": 3477,
+    "comment_id": 6159588406
   }
 ]
