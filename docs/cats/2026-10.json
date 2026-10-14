@@ -2071,5 +2071,36 @@
     "title": "夜空下的苔蘚電光",
     "number": 3477,
     "comment_id": 6159588406
+  },
+  {
+    "character_name": "船長",
+    "idea": "以IXUS消費相機風格捕捉船長在黃金時刻的水珠濕膚肌理黑白畫面，牠正伸出大爪將防波堤邊的一艘微型玩具木船穩穩推向浪尖。",
+    "inspiration": "original",
+    "story": "夕陽將海港染成一片蒼茫的黑白光影，浪花拍打著濕潤的防波堤。老貓船長蹲在石塊上，用粗糙的大掌小心翼翼地撥動著那艘承載著漁港記憶的漂流木船，眼神裡滿是對遠方海域的無聲眷戀。",
+    "style_picks": {
+      "art_style": "Point-and-Shoot Camera Aesthetic",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Golden Hour",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "comment_id": 6163906462,
+    "news_inspiration": [],
+    "number": 3478,
+    "title": "浪尖上的老舵手",
+    "avoid_list": [
+      "強烈硬光與日照對比",
+      "過度使用傳統工藝風格 (如浮世繪、曼陀羅、皮影戲)",
+      "貓咪回眸凝望視角",
+      "飄浮島嶼與雲海場景",
+      "精密機械或星盤互動姿態",
+      "磨砂玻璃與透明容器邊界",
+      "藍黃/紅藍雙色對比調性",
+      "繁體中文與 UTC 時間戳記標註",
+      "詳細描述貓咪左右兩側與部位特徵",
+      "古老街景與老酒吧角落"
+    ],
+    "prompt": "以IXUS消費相機風格捕捉船長在黃金時刻的水珠濕膚肌理黑白畫面，牠正伸出大爪將防波堤邊的一艘微型玩具木船穩穩推向浪尖。. The date and time '2026-10-14 08:07 UTC' is visually displayed in the image. point-and-shoot camera aesthetic, direct flash, slightly overexposed highlights, casual candid feel, forced perspective composition, hand or object thrust toward camera, exaggerated foreshortening, subject engaging the viewer, dynamic confrontational framing, golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, water droplets on skin texture, glistening beads of water clinging to dewy surface, fresh wet sheen, reflective micro-highlights, hydrated luminous detail, black and white monochrome, high contrast, rich tonal range, dramatic shadows and highlights\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Captain — a large stocky brown #5C4033 classic tabby with bold black #1A1A1A stripes and a broad, muscular build. Fur texture: scruffy, untidy, slightly coarse with uneven lengths (NOT sleek). LEFT eye (viewer perspective): permanently concealed by a NATURAL dark-pigmented fur patch #2B1B0E that covers the eye socket — explicitly a fur marking, NOT a fabric or leather eye patch, NO straps. RIGHT eye: single piercing emerald green #50C878. LEFT ear: prominent V-shaped notch. Neck: faded red #CD5C5C bandana tied loosely and visible. White #FFFFFF chest bib and white mitten paws on all four feet. Distinctive M-mark on forehead. Tail: thick and sturdy. [HARD CONSTRAINTS] 1) LEFT eye MUST be hidden by dark fur patch — NEVER a fabric eye patch or strap. 2) RIGHT eye emerald #50C878 ONLY. 3) V-shaped left-ear notch always present. 4) Faded red bandana always present. 5) White chest bib and white mitten paws preserved. 6) Brown tabby with black stripes ONLY — NEVER orange or grey. 7) Scruffy coarse texture, NEVER groomed sleek coat. End.\nNEGATIVE CONSTRAINTS (must not appear): two visible eyes, both eyes open, fabric eye patch, leather eye patch, strap over eye, clean sleek fur, groomed coat, smooth glossy fur, no bandana, missing bandana, missing ear notch, intact left ear, orange tabby, grey tabby, blue eyes, longhair, small cat, slender build, kitten, symmetrical eyes, two green eyes, eye patch with string, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "captain"
   }
 ]
