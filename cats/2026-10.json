@@ -2315,5 +2315,42 @@
     "comment_id": 6198220071,
     "title": "夜市光影裡的章魚燒",
     "idea": "在霓虹螢光閃爍的深夜傳統夜市攤位前，以全像投影呈現一隻橘白短毛胖貓「麻糬」，透過小吃攤頂棚懸掛的鐵架形成框中框構圖。"
+  },
+  {
+    "style_picks": {
+      "art_style": "CRT Scanline",
+      "composition": "Over-the-Shoulder Look-Back",
+      "lighting": "Underwater Caustics",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Coral Pink and Prussian Blue"
+    },
+    "character_name": "船長",
+    "character": "captain",
+    "avoid_list": [
+      "修復古董座鐘",
+      "生物發光藍綠螢光",
+      "閃電電光瞬間照亮",
+      "IXUS消費相機風格",
+      "平視正面構圖",
+      "微縮造景與立體模型",
+      "棚拍人像風格",
+      "微型發光管線與星盤",
+      "孔雀藍與金屬金描邊",
+      "竹影翠綠與藍青色調",
+      "紙質肌理與手作質感",
+      "繁體中文與英文文字限制標籤"
+    ],
+    "prompt": "A cat standing on a moss-covered wet lighthouse terrace overlooking a distant harbor fish market at night, captured in retro CRT monitor aesthetic with visible scan lines, phosphor glow, retro screen curvature, and vintage display artifacts. The character is Captain, a large stocky brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes, scruffy coarse fur, a white (#FFFFFF) chest bib, white mitten paws, and a faded red (#CD5C5C) bandana around its neck. The cat is shown from behind in an over-the-shoulder look-back composition, turning its head to glance backward with a single piercing emerald green (#50C878) right eye; its left eye socket is permanently concealed by a natural dark-pigmented fur patch (#2B1B0E) with no fabric, straps, or eyepatch, and its left ear has a prominent V-shaped notch. Underwater caustic lighting and rippling light patterns dance over the damp moss terrace and structure, illuminated by a vivid coral pink and Prussian blue color palette with warm salmon highlights against deep inky blue. In the lower corner of the CRT screen display, digital text reading '2026-10-15 20:38 UTC' is visually displayed in glowing phosphor numbers. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3486,
+    "title": "燈塔頂端的海岸守望",
+    "news_inspiration": [
+      "塞內加爾達卡將迎來2026年青年奧運會，並已正式公開融合非洲文化特色與現代設計的志工制服。",
+      "英國倫敦慈濟與環保團體正積極推動綠色邊界計畫，透過串聯城市周邊林地來提升生物多樣性並為市民降溫。",
+      "美國麻薩諸塞州有研究人員利用創新科技復育當地生態，為全球環境保育注入嶄新活力。"
+    ],
+    "story": "為慶祝遠方港口即將到來的體育盛事，老船長踏上潮濕苔蘚蔓延的燈塔高處。海浪折射出的水下焦散光灑滿塔頂，牠在風中回眸凝視著遠方魚市場的熱鬧燈火，堅毅的獨眼流露出守候港灣的威嚴與深情。",
+    "inspiration": "塞內加爾達卡將迎來2026年青年奧運會，並已正式公開融合非洲文化特色與現代設計的志工制服。",
+    "comment_id": 6201851266,
+    "idea": "在融合塞內加爾鮮豔色彩與非洲文化幾何圖騰的燈塔頂端，船長以背影回眸的姿態佇立在苔蘚覆蓋的露台上，透過CRT掃描線視覺質感，展現珊瑚粉與靛藍交織的光影奇觀。"
   }
 ]
