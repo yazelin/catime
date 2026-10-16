@@ -2563,5 +2563,41 @@
       "在日本名古屋舉辦的亞運賽事期間，韓國體育與奧林匹克委員會特別設立的「韓國館」吸引了超過1.8萬名訪客體驗多元的韓國文化與美食。",
       "在大西洋聖赫勒拿島上，科學家成功完成了估計為世界上最長壽陸生動物——194歲巨龜「強納森」（Jonathan）的基因組測序，以探索極致長壽的奧秘。"
     ]
+  },
+  {
+    "idea": "這幅童話繪本油畫描繪了一隻毛髮極具絨毛皮草質感的巨型斑紋貓咪，伏身於清澈的溪谷石灘上，輕輕用嘴喙含著一根嫩枝，仔細探查眼前沉睡的巨型淡水小龍蝦。畫面採用故事插畫分格的構圖，搭配柔和的長春花藍象牙白調與穿透水面的水下焦散光束。",
+    "comment_id": 6226374740,
+    "title": "溪谷深處的巨蝦探秘",
+    "prompt": "A whimsical fairytale storybook painting in oil on canvas texture with naive childlike perspective, featuring an illustrated story page layout with multiple irregular panels arranged on one page, a decorative title banner at top, integrated dialogue bubbles, and shoujo manga narrative flow. A giant tiger-striped cat with fluffy fuzzy fibers, plush tactile fur, and cozy velvety strands catching light leans down over a clear riverbed valley littered with stones. The giant cat gently holds a tender twig in its mouth, carefully inspecting a giant sleeping freshwater crayfish in front of it. Refracted sun shafts and underwater caustic lighting create rippling light patterns dancing over the scene with a blue-green aquatic glow and submerged dreamlike atmosphere. The color palette consists of soft periwinkle blue and warm ivory white, serene blue-violet tones with creamy highlights, inspired by a Daniel Merriam aesthetic. Integrated neatly within the storybook layout, the date and time '2026-10-16 23:05 UTC' is visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國田納西州的科學家在大自然搜尋中發現了破紀錄的巨型淡水小龍蝦，揭開了水生生物生長極限的神秘面紗。",
+      "西班牙網球名將卡洛斯·阿爾卡拉斯在近期賽事中引領新時尚，讓精緻短鬚風格在體育界與流行文化中掀起熱潮。",
+      "英國牛津大學的物理學家成功在實驗室重現奇特的量子效應，讓粒子能在不接觸磁場的情況下對其產生反應。"
+    ],
+    "number": 3493,
+    "inspiration": "美國田納西州的科學家在大自然搜尋中發現了破紀錄的巨型淡水小龍蝦，揭開了水生生物生長極限的神秘面紗。",
+    "avoid_list": [
+      "修復古董座鐘",
+      "生物發光藍綠螢光",
+      "液態金屬流動感",
+      "棚拍人像藝術風格",
+      "環形燈均勻柔和打光",
+      "星雲星塵肌理",
+      "三點打光三維立體感",
+      "莫蘭迪柔和色調",
+      "平視正面構圖",
+      "背影回眸或背光構圖",
+      "伸出前爪抓捕或撥弄",
+      "水下廢墟或古老設施",
+      "時間戳記聲明字樣"
+    ],
+    "style_picks": {
+      "art_style": "Whimsical Fairytale Painting",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Underwater Caustics",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Periwinkle Blue and Ivory"
+    },
+    "story": "深山溪谷中傳說著巨蝦的秘密，貓咪巡視者穿過晨霧來到隱密的清泉深處。當水面泛起耀眼的光斑，牠靜靜俯瞰著這隻沉睡的龐然大物，探索著大自然最不可思議的生長奇蹟。"
   }
 ]
