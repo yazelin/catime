@@ -2460,5 +2460,39 @@
       "color_palette": "Morandi Color Palette"
     },
     "idea": "這是一張採新藝術動漫插畫風格呈現的畫作，描述一隻流浪貓在雪梨歌劇院旁的戶外咖啡館餐桌上，伸出前爪追逐並撲向紛飛巨蛾的生動瞬間。畫面運用油紙傘背景框構圖，以半開的炭纖維骨架油紙傘作為自然後景，搭配莫蘭迪色調的柔和煙粉與灰藍色澤，並讓體積光穿透傘面縫隙照亮貓咪與蛾群。"
+  },
+  {
+    "news_inspiration": [],
+    "character_name": "鈴鈴",
+    "prompt": "Paper diorama scene and three-dimensional layered paper sculpture aesthetic. A full-bleed frame-filling close-up shot with dense edge-to-edge detail showing Lingling, an extremely fluffy pure white #FFFFFF longhair cat with voluminous cloud-like fur, a small round face, huge round sapphire-blue #0F52BA eyes with gentle sparkle, a pale pink #FFB6C1 nose and inner ears, and an enormous feathery white plume tail. Lingling wears a pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell clearly visible and centered beneath the bow knot. The cat is intently pawing at rotating metallic gear flowers inside an intricate mechanical garden built with brushed metal textures, peacock blue #005F73, and polished gold #FFD700 accents. Venetian blind striped lighting casts hard parallel light-and-shadow bands across the subject, creating a moody film-noir shadow pattern. The date and time '2026-10-16 12:47 UTC' is clearly and visually displayed in the corner of the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "藍金機械花園",
+    "story": "花店裡總是充滿各種奇妙的聲響，鈴鈴今天不追蝴蝶了，改對老闆剛修好的金屬機械花園起了濃厚興趣。它那毛茸茸的大頭湊近閃爍著金光的齒輪，一不小心打了个噴嚏，整隻貓向後彈開，頸上的粉紅鈴鐺清脆地響了起來。",
+    "idea": "在立體紙藝景風格中，一隻蓬鬆的白色布偶貓鈴鈴正專注地在一座以孔雀藍描金與金屬質感打造的精緻機械花園裡，好奇地撥弄著會旋轉的齒輪花朵，斑駁的百葉窗條紋光灑落滿版特寫的畫面。",
+    "number": 3490,
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Venetian Blind Light",
+      "texture": "Metallic Surface",
+      "color_palette": "Peacock Blue and Gold"
+    },
+    "inspiration": "original",
+    "avoid_list": [
+      "修復古董座鐘",
+      "生物發光藍綠螢光",
+      "液態金屬流動感",
+      "棚拍人像藝術風格",
+      "環形燈均勻柔和打光",
+      "星雲星塵肌理",
+      "三點打光三維立體感",
+      "莫蘭迪柔和色調",
+      "平視正面構圖",
+      "背影回眸或背光構圖",
+      "伸出前爪抓捕或撥弄",
+      "水下廢墟或古老設施",
+      "時間戳記聲明字樣"
+    ],
+    "character": "lingling",
+    "comment_id": 6215883416
   }
 ]
