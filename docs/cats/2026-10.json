@@ -2389,5 +2389,40 @@
       "紙質肌理與手作質感",
       "繁體中文與英文文字限制標籤"
     ]
+  },
+  {
+    "prompt": "A watercolor painting using soft transparent pigments, bleeding edges, and wet-on-wet technique on textured paper. A four-legged orange cat is resting peacefully on top of the illuminated wings of a large butterfly light installation in the Garden of Lights in Warsaw at night. The scene features a back-view trailing gown composition with the glowing silhouette edges of the cat casting a long, graceful projection onto the grass. The atmospheric background shows a duotone color treatment with dramatic backlighting and rim light, highlighting whimsical cotton candy cloud textures made of fluffy pastel pink and blue cumulus puffs with marshmallow-like softness. In clean English text, the timestamp '2026-10-16 02:02 UTC' is visibly displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "華沙的冬夜裡，光影植物與大型蝴蝶裝置散發著溫柔的光芒。橘貓安靜地趴在發光的蝶翼上，背影拖尾長裙般的投影在草地上延伸，彷彿正守護著這座城市的奇幻夢境。",
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Duotone"
+    },
+    "news_inspiration": [
+      "波蘭華沙在斯維托克日斯基公園（Świętokrzyski Park）正式開放全新光之花園，設有光影植物與大型蝴蝶裝置，並提供能與遊客互動的沉浸式燈光投影。",
+      "研究人員對位於英國聖赫勒拿島（St. Helena）世界上最長壽的陸生動物——現年194歲的大陸龜強納森（Jonathan）進行DNA分析，發現其基因修復機制可能有助於解開人類延緩衰老的秘密。",
+      "美國加州柏克萊的研究團隊發表最新太空研究，美國國家航空暨太空總署（NASA）新一代的羅曼太空望遠鏡每天將向網路傳送高達1.4TB的宇宙數據，邀請全球公民科學家共同探索暗物質與外行星。"
+    ],
+    "idea": "水彩畫風格，一隻四足橘貓正趴在華沙光之花園的大型蝴蝶裝置翅膀上，以背光與雙色調勾勒出夢幻的棉花糖雲朵質感。",
+    "avoid_list": [
+      "修復古董座鐘",
+      "生物發光藍綠螢光",
+      "閃電電光瞬間照亮",
+      "IXUS消費相機風格",
+      "平視正面構圖",
+      "微縮造景與立體模型",
+      "棚拍人像風格",
+      "微型發光管線與星盤",
+      "孔雀藍與金屬金描邊",
+      "竹影翠綠與藍青色調",
+      "紙質肌理與手作質感",
+      "繁體中文與英文文字限制標籤"
+    ],
+    "title": "蝶影微光",
+    "comment_id": 6206394378,
+    "number": 3488,
+    "inspiration": "波蘭華沙在斯維托克日斯基公園（Świętokrzyski Park）正式開放全新光之花園，設有光影植物與大型蝴蝶裝置，並提供能與遊客互動的沉浸式燈光投影。"
   }
 ]
