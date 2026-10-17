@@ -2738,5 +2738,36 @@
       "color_palette": "Gold and Black Luxury"
     },
     "prompt": "A pop art style illustration in eye-level frontal composition, straight-on symmetrical view. A chubby rounded shorthair cat named Mochi sits on a vintage golden scale at a night market stall with a black and gold luxurious color scheme, dark black background, and opulent mood. The cat features a white (#FFFFFF) base coat with bright orange (#FF8C00) patches: an orange mask covering only its right half-face (viewer right), pure white left face, large round amber (#FFBF00) eyes, pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, and a white belly. The cat emits a subtle bioluminescent organic glow with deep blue-green radiance. The pop art visual style includes bold primary colors, Ben-Day dots, thick black outlines, soft-focus matte atmospheric haze, and dreamy diffused low-contrast finish. The text '2026-10-17 14:34 UTC' is visually rendered clearly in clean English font in a corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "news_inspiration": [],
+    "idea": "在融合歐普藝術視覺錯視的漁港燈塔機房內，大骨架的虎斑貓「船長」以油紙傘背景框構圖被聚焦，牠正趴在轉動的齒輪旁用爪子按壓航行海圖，整座空間在日光燈與閃光亮粉效果下交織出月夜靛藍的迷幻氛圍。",
+    "character": "captain",
+    "character_name": "船長",
+    "comment_id": 6237809795,
+    "number": 3498,
+    "prompt": "A large, stocky brown classic tabby cat named Captain with bold black stripes, scruffy coarse untidy fur, and a broad muscular build, resting on a nautical map pressed down by his white mitten paw near rotating metal gears inside a lighthouse control room. His left eye is completely concealed by a natural dark-pigmented brown fur patch covering the socket with no straps or fabric, while his right eye shines with a piercing single emerald green glare. His left ear has a prominent V-shaped notch, a faded red bandana is loosely tied around his neck, and he has a white chest bib and a distinctive M-mark on his forehead. Behind the cat, an opened oiled-paper umbrella creates a radiating circular backdrop and halo effect, framed against lighthouse walls covered in Op Art visual illusion patterns and abstract high-contrast geometric lines. Illumination comes from overhead neutral white 5000K fluorescent lighting creating flat institutional light, complemented by a sparkling glitter overlay, shimmering particles, star-shaped highlights, and a mystical moonlit indigo palette of deep night-blue and violet tones. Displayed clearly in clean English typography near the edge of the image is the timestamp text '2026-10-17 17:35 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "船長戴著深色眼罩與紅色頭巾，沉穩地蹲坐在高處的燈塔轉軸邊，用貓爪穩穩壓住海風吹動的航海圖。機房內刺眼的螢光燈映照著牆上的幾何視覺錯視線條，牠那右眼銳利的翠綠光芒與亮粉般閃爍的點點海風微粒交織，展示著老航海家不凡的霸氣。",
+    "inspiration": "original",
+    "title": "燈塔裡的靛藍航圖",
+    "avoid_list": [
+      "直打閃光燈高對比質感",
+      "背影回眸或伏身構圖",
+      "水下焦散光與折射光束",
+      "傳統繁體中文與英文文字標籤限制",
+      "莫蘭迪與雙色調柔和配色",
+      "絨毛皮草與質感細節",
+      "頂視俯拍對角線構圖",
+      "全像投影與光影藝術",
+      "幾何圖騰與分形結構",
+      "立體景深與紙藝風格"
+    ],
+    "style_picks": {
+      "art_style": "Op Art",
+      "composition": "Paper Parasol Backdrop Frame",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Moonlit Indigo"
+    }
   }
 ]
