@@ -2769,5 +2769,43 @@
       "texture": "Sparkle Glitter Accents",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Negative Space Composition",
+      "lighting": "Moonlight",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Ivory Red and Black Triad"
+    },
+    "character_name": "鈴鈴",
+    "prompt": "Architectural blueprint style illustration, white lines on deep blue background with precise technical annotations and measurements, negative space composition, minimalist breathing room with off-center placement, calm uncluttered framing. A tiny super-fluffy pure white longhair cat named Lingling with voluminous cloud-like fur, enormous round sapphire-blue eyes, pale pink nose and inner ears, wearing a pink ribbon bow collar with a centered golden bell and a small cozy autumn sweater, is caught in a playful moment bouncing backwards in surprise after sneezing while chasing autumn leaves among geometric floral balcony outlines under moonlight illumination. Cool blue tones with a gentle silvery glow, quiet nighttime atmosphere, ivory, red, and black triadic palette with bold red falling leaves and jet-black accents. The text '2026-10-17 19:47 UTC' is clearly displayed in the image in clean technical font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "月下藍圖與彈跳的紅葉",
+    "character": "lingling",
+    "is_seasonal": true,
+    "comment_id": 6239938346,
+    "story": "秋夜的月光穿透花店陽台，將花架與落葉輪廓映照成精密清晰的工程藍圖。穿著小毛衣的布偶貓鈴鈴正開心地在紅葉堆裡打滾，毛上沾滿紅葉，卻因打了個噴嚏而整隻往後彈開，脖子上的粉紅鈴鐺清脆作響。",
+    "inspiration": "original",
+    "season": "autumn",
+    "news_inspiration": [
+      "在中國上海舉辦的2026年UCI場地自由車世界錦標賽中，義大利名將強納森·米蘭（Jonathan Milan）以優異成績刷新了自己保持的男子個人追逐賽世界紀錄。",
+      "英國威爾斯的一名男子內森·戴維斯（Nathan Davies）在短短一分鐘內吞下15根魚條，成功獲得金氏世界紀錄認證。",
+      "英國倫敦自然史博物館舉辦的第62屆「年度野生動物攝影師」大賽公佈獲獎作品，吸引了全球來自121個國家、超過6.5萬件攝影作品參賽。",
+      "墨西哥墨西哥城推動由女性主導的永續農業轉型，不少女性接手並維護阿茲特克時代流傳至今的「奇南帕」浮島農田，保護當地獨特生態環境。"
+    ],
+    "avoid_list": [
+      "直打閃光燈高對比質感",
+      "背影回眸或伏身構圖",
+      "水下焦散光與折射光束",
+      "傳統繁體中文與英文文字標籤限制",
+      "莫蘭迪與雙色調柔和配色",
+      "絨毛皮草與質感細節",
+      "頂視俯拍對角線構圖",
+      "全像投影與光影藝術",
+      "幾何圖騰與分形結構",
+      "立體景深與紙藝風格"
+    ],
+    "idea": "採用建築藍圖風格與留白負空間構圖，描繪一隻著小毛衣的超蓬鬆白貓鈴鈴，在月光下於花店陽台的幾何輪廓間追逐落葉並意外往後彈起的逗趣瞬間。",
+    "number": 3499
   }
 ]
