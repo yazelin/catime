@@ -2934,5 +2934,38 @@
     "story": "這隻名為珍珠的貓咪悄悄潛入這座復古大劇院，在聚光燈的聚焦下好奇地探索舞者留下的蕾絲羽毛扇。紫粉色的光影映照在她柔軟的毛髮上，每一次輕觸都彷彿在為夜晚的獨奏曲拉開序幕。",
     "prompt": "A close-up illustration in Art Deco style set in an ornate theater box. In a full-bleed frame-filling composition with dense edge-to-edge detail and soft violet and warm blush lavender and pink palette, a cat named Pearl uses her front paw to play with a lace openwork feather fan featuring delicate floral cutout patterns and translucent filigree under a narrow beam spotlight with dramatic high-contrast and sharp light edges. The date and time '2026-10-18 06:48 UTC' is visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 3503
+  },
+  {
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Marble",
+      "color_palette": "Periwinkle Blue and Ivory"
+    },
+    "idea": "採用誇張漫畫風格，以服裝多視角展示的構圖，呈現純黑貓墨墨在白底去背棚光下，踩著大理石質感的典雅腳踏凳，以優雅姿勢開箱並優雅地「閱讀」長春花藍與象牙白色的古籍書本卡面。",
+    "title": "藍白印記下的靈貓解構",
+    "prompt": "A caricature style multi-view product showcase layout with exaggerated proportions and humorous expressive features, set against a clean white seamless studio background with high-key lighting. The scene features Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, large luminous golden-amber eyes, a tiny white fur locket tuft on the ventral chest, a single dark-grey ring at the tail tip, long prominent white whiskers, and a single small gold hoop earring on its left ear. Momo is gracefully perched on an elegant polished marble footstool, using its paw to unbox and gently touch the pages of an antique book card. The color palette features soft periwinkle blue and warm ivory white. The panel composition includes front view, back view, side view, and detail close-up panels. Visually displayed clearly in the image is the date and time text '2026-10-18 11:51 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3504,
+    "avoid_list": [
+      "強烈直打閃光燈",
+      "頂視俯拍對角線構圖",
+      "轉動的金屬齒輪",
+      "米白紅黑三色調",
+      "打噴嚏整隻貓往後彈開",
+      "硬光百葉窗條紋光影",
+      "歐普藝術視覺錯視",
+      "巨型南瓜與幾何刻痕",
+      "時間戳記2026-10",
+      "簡體字禁令警示語",
+      "蓬鬆長毛白貓鈴鈴",
+      "水下焦散與水波光束"
+    ],
+    "comment_id": 6249591825,
+    "inspiration": "original",
+    "story": "墨墨這隻修長優雅的純黑 Bombay 貓，在靜謐的大理石展台上轉動著靈動的大眼睛。牠伸出輕盈的黑爪，輕柔地按壓在象牙白色的古董書頁上，像是一位正認真品味時尚與文學的黑衣評論家。長而直的白鬚在長春花藍與象牙白調的襯托下更顯亮眼，展現出獨特的傲嬌與睿智。",
+    "character": "momo",
+    "character_name": "墨墨",
+    "news_inspiration": []
   }
 ]
