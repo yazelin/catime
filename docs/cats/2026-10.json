@@ -3004,5 +3004,37 @@
       "滿版/滿框緊湊特寫構圖",
       "古典/古董物件與機具互動"
     ]
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "前爪/肉墊撥弄輕觸物件",
+      "前掌溫柔撥弄浮萍/水道",
+      "月光/月夜照明氛圍",
+      "繁體中文與英文文字限制規範",
+      "薰衣草紫與柔粉/山林綠色調",
+      "象牙白與紅黑三色調組合",
+      "暖琥珀與秋日色調",
+      "幾何/花卉雕塑與自然景觀融合",
+      "時間戳記/日期時間文字標示",
+      "透光紗網/蕾絲羽毛質感細節",
+      "生物發光/全息虹彩奇幻微光",
+      "滿版/滿框緊湊特寫構圖",
+      "古典/古董物件與機具互動"
+    ],
+    "prompt": "An embroidered illustration on textured linen fabric featuring a side profile portrait of a black cat crouched over a submerged aged leather nautical map, recording sea routes. Handcrafted textile art executed with visible needlework, satin stitch, and French knots. The composition showcases an elegant lateral framing and a clean silhouette of the cat's nose and chin. Ambient underwater caustic light displays rippling light patterns, blue-green aquatic glow, and refracted sun shafts dancing over the supple creased surface and rich grain pattern of the genuine leather map. Dramatic color palette dominated by deep jet black and muted dusty rose pink, featuring soft grey-pink accents. Intricately rendered into the embroidery fabric at the corner is the crisp text reading '2026-10-18 18:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這幅刺繡藝術作品以側臉特寫捕捉了一隻黑色貓咪的姿態，牠蹲伏於沉沒於海底的舊式皮革航海圖上記錄航道，周圍瀰漫著水下焦散光與烏黑灰粉玫瑰的優雅色調。",
+    "news_inspiration": [],
+    "number": 3506,
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Side Profile Portrait",
+      "lighting": "Underwater Caustics",
+      "texture": "Leather",
+      "color_palette": "Black and Dusty Rose"
+    },
+    "comment_id": 6253472182,
+    "story": "沉入海底的古老沉船廢墟中，黑貓靈巧地穿梭於沉積多時的革質航海地圖間。波光透過水面折射出斑駁的水下焦散光影，將烏黑毛髮與粉玫瑰色的刺繡線條交織成一幅神祕的深海冒險圖景。",
+    "title": "深海圖誌的尋蹤者"
   }
 ]
