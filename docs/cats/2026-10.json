@@ -2967,5 +2967,42 @@
     "character": "momo",
     "character_name": "墨墨",
     "news_inspiration": []
+  },
+  {
+    "prompt": "Majestic landscape photography, sweeping natural vista, dramatic sky and light, deep depth of field, grand sense of scale, fine art outdoor scenery. A ginger tabby cat standing on a snow-covered high mountain peak, looking down intently, licking and inspecting a set of custom-fitted liquid metal bright silver prosthetic paws. Venetian blind striped lighting, hard parallel light-and-shadow bands across the subject, dramatic graphic shadow pattern. Mercury-like reflective flow, chrome dripping texture, molten mirror finish, futuristic material, porcelain blue and white palette, cobalt indigo highlights on clean white snow. The text '2026-10-18 15:01 UTC' is visually displayed in the image. Captured on 35mm lens, f/8, crisp outdoor natural lighting, fine film grain, candid shot. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這隻曾歷經險境的小貓在配戴上客製化的液態金屬義肢後，重新擁有了征服險峻山嶺的能力。百葉窗條紋般的日光穿過高空雲層，折射出青花藍白的清冽光影，照亮牠在峰頂傲然挺立的姿態。",
+    "inspiration": "在印度，醫療團隊成功為失去前爪的懶熊 Baloo 裝上了客製化的義肢，使其成為世界上首隻成功裝上義肢爪子的熊。",
+    "number": 3505,
+    "title": "雪峰之巔的鋼鐵足跡",
+    "news_inspiration": [
+      "在比利時布魯塞爾，科學家研究發現雌性與雄性小鼠的皮膚幹細胞在修復與再生時運作機制不同，且雌性小鼠的皮膚細胞展現出驚人的同步化現象，使傷口癒合速度更快。",
+      "在日本東京的神社，當地舉辦了傳統的神社護身及感謝儀式，專門供奉與祈福民眾家中珍藏的舊人形人形偶。",
+      "在印度，醫療團隊成功為失去前爪的懶熊 Baloo 裝上了客製化的義肢，使其成為世界上首隻成功裝上義肢爪子的熊。",
+      "在丹麥哥本哈根，當地的「真人圖書館」讓民眾可以借閱真實的人物並進行交流溝通，創造跨越偏見的文化對話體驗。"
+    ],
+    "style_picks": {
+      "art_style": "Majestic Landscape Photography",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Venetian Blind Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Porcelain Blue and White"
+    },
+    "comment_id": 6251434856,
+    "idea": "採用壯麗自然風景攝影風格，一隻花貓站在被冰雪覆蓋的高山頂峰，低頭專注地用舌頭舔舐並檢視一組專為牠量身打造的液態金屬亮銀色義肢腳爪。",
+    "avoid_list": [
+      "前爪/肉墊撥弄輕觸物件",
+      "前掌溫柔撥弄浮萍/水道",
+      "月光/月夜照明氛圍",
+      "繁體中文與英文文字限制規範",
+      "薰衣草紫與柔粉/山林綠色調",
+      "象牙白與紅黑三色調組合",
+      "暖琥珀與秋日色調",
+      "幾何/花卉雕塑與自然景觀融合",
+      "時間戳記/日期時間文字標示",
+      "透光紗網/蕾絲羽毛質感細節",
+      "生物發光/全息虹彩奇幻微光",
+      "滿版/滿框緊湊特寫構圖",
+      "古典/古董物件與機具互動"
+    ]
   }
 ]
