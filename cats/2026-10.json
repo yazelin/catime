@@ -3068,5 +3068,44 @@
     "title": "深海星圖下的航向",
     "comment_id": 6255198742,
     "inspiration": "original"
+  },
+  {
+    "news_inspiration": [
+      "在美國加州史丹佛大學，科學家成功研發出一項實驗室新技術，能在短短七週內以歷史最快速度逆轉珊瑚白化並恢復其健康。",
+      "在墨西哥墨西哥市，越來越多女性積極買下並經營傳承自阿茲特克時代的傳統島嶼農場「奇南帕（chinampas）」，為永續農業與生態保護注入新活力。",
+      "在英國布里斯托，環保人士與志工團體在城市港口成功打造浮動花園生態走廊，為都市中心增添豐富的生物多樣性。",
+      "在臺灣新北市深坑區，當地透過百年石砌梯田結合智慧滴灌與土壤感測器，成功推動百年茶園的復育與氣候調適。"
+    ],
+    "comment_id": 6256689543,
+    "title": "雪夜紅金咖啡館",
+    "character": "lingling",
+    "character_name": "鈴鈴",
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Snowstorm Haze",
+      "texture": "Sand Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "prompt": "A 3D isometric illustration in a thermal imaging style with a festive red and gold palette, heat map color gradients, infrared vision, and light temperature visualization on clean geometric forms. In a cold snowstorm atmospheric lighting scene with a heavy falling snow veil, soft muted diffused daylight, and foggy distant winter street market, a literal fluffy longhair cat named Lingling is depicted. Lingling has pure white #FFFFFF extremely fluffy cloud-like fur, a small round face, huge round sapphire-blue #0F52BA eyes, a pale pink #FFB6C1 nose, and an enormous feathery white plume tail. Centered around her neck is a pink #FF69B4 ribbon bow collar with a prominent golden #FFD700 bell. The cat is fully engaged, using her pink nose to push the steam valve on a vintage retro steam coffee machine to craft latte art. Visible text displayed in the image reads '2026-10-18 23:46 UTC' in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3508,
+    "avoid_list": [
+      "前爪/肉墊撥弄輕觸物件",
+      "前掌溫柔撥弄浮萍/水道",
+      "月光/月夜照明氛圍",
+      "繁體中文與英文文字限制規範",
+      "薰衣草紫與柔粉/山林綠色調",
+      "象牙白與紅黑三色調組合",
+      "暖琥珀與秋日色調",
+      "幾何/花卉雕塑與自然景觀融合",
+      "時間戳記/日期時間文字標示",
+      "透光紗網/蕾絲羽毛質感細節",
+      "生物發光/全息虹彩奇幻微光",
+      "滿版/滿框緊湊特寫構圖",
+      "古典/古董物件與機具互動"
+    ],
+    "inspiration": "original",
+    "idea": "在中國紅金交織的熱成像風格等距3D插圖中，暴風雪朦朧的光影下，白色長毛貓鈴鈴正全神貫注地操作著復古蒸汽咖啡機，為寒冬街市拉花。",
+    "story": "鈴鈴雖然有點笨手笨腳，但為了做出完美的拿鐵，正努力地用鼻子推動蒸汽閥門。脖子上的粉紅鈴鐺伴隨著蒸氣聲清脆作響，吸引了窗外行人的目光。"
   }
 ]
