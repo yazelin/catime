@@ -3036,5 +3036,37 @@
     "comment_id": 6253472182,
     "story": "沉入海底的古老沉船廢墟中，黑貓靈巧地穿梭於沉積多時的革質航海地圖間。波光透過水面折射出斑駁的水下焦散光影，將烏黑毛髮與粉玫瑰色的刺繡線條交織成一幅神祕的深海冒險圖景。",
     "title": "深海圖誌的尋蹤者"
+  },
+  {
+    "news_inspiration": [],
+    "idea": "在建築視覺化渲染風格的未來深海地質採樣站中，一隻玳瑁貓正將整個身體趴趴地盤在珊瑚粉與靛藍色的碳纖維儀器控盤上，用爪子試圖按壓滑動中的三維海床數據與星圖疊底視覺投影。",
+    "number": 3507,
+    "style_picks": {
+      "art_style": "Architectural Visualization Render",
+      "composition": "Antique Map and Star-Chart Underlay",
+      "lighting": "Three-Point Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "Coral Pink and Prussian Blue"
+    },
+    "story": "這座沉於三千米深海的探測站正默默紀錄著海底熱泉的脈動。點亮的珊瑚粉色警示光與靛藍色冷光形成強烈對比，三點打光精準勾勒出控盤上碳纖維的銳利紋理。即便四周迴盪著龐大的機械聲響，貓咪依然專注地盯著古地圖與星圖圖層疊加的奇異儀幕，爪子輕抓著溫熱的螢幕邊緣。",
+    "avoid_list": [
+      "前爪/肉墊撥弄輕觸物件",
+      "前掌溫柔撥弄浮萍/水道",
+      "月光/月夜照明氛圍",
+      "繁體中文與英文文字限制規範",
+      "薰衣草紫與柔粉/山林綠色調",
+      "象牙白與紅黑三色調組合",
+      "暖琥珀與秋日色調",
+      "幾何/花卉雕塑與自然景觀融合",
+      "時間戳記/日期時間文字標示",
+      "透光紗網/蕾絲羽毛質感細節",
+      "生物發光/全息虹彩奇幻微光",
+      "滿版/滿框緊湊特寫構圖",
+      "古典/古董物件與機具互動"
+    ],
+    "prompt": "An architectural visualization render of a futuristic deep-sea geological sampling station, featuring a hawksbill cat lounging flat on a coral pink and Prussian blue carbon fiber instrument console, pawing at a sliding 3D seafloor data and star-chart underlay visual projection. The scene incorporates an antique map and star-chart underlay composition, a translucent parchment overlay, and a scholarly collage backdrop. Classic three-point lighting setup with soft shadows, fill light, and subtle rim light separation illuminates the carbon fiber weave pattern with a glossy clear coat finish. The color palette features warm salmon tones against deep inky blue with elegant editorial contrast. The date and time '2026-10-18 21:09 UTC' is visually displayed in the image using English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "深海星圖下的航向",
+    "comment_id": 6255198742,
+    "inspiration": "original"
   }
 ]
