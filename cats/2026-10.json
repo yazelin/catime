@@ -3177,5 +3177,39 @@
       "color_palette": "Crimson and Sage Green"
     },
     "title": "老街肉圓的祕密調味"
+  },
+  {
+    "idea": "在一座充滿水彩潑濺墨點與深淺交織的浮動港口花園中，一隻緋紅與冰藍色線條交錯刺繡而成的貓咪正低頭專注地叼著剛摘下的嫩芽，透過正交投影的視角與環形燈光源呈現絕妙細節。",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Orthographic Projection",
+      "lighting": "Ring Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Crimson and Ice Blue"
+    },
+    "title": "浮島花園的緋藍巡視者",
+    "comment_id": 6271522805,
+    "news_inspiration": [
+      "美國加州史丹佛大學的研究團隊發表最新突破，成功以創紀錄的速度逆轉珊瑚白化現象，讓白化的珊瑚在7週內完全恢復健康。",
+      "英國布里斯托的環保人士與志工在城市港口打造了浮動花園，成功在繁忙都市中建立起生態廊道並大幅提升生物多樣性。",
+      "希臘加夫羅斯島（Gyaros）從過去的荒涼監獄島正式被政府發布法令指定為海洋保護區，成為地中海僧海豹與稀有鳥類的繁衍天堂。",
+      "墨西哥墨西哥哥城的女性農民積極接手傳統的阿茲特克浮島農場（Chinampas），透過永續耕作方式賦予古老農業生態新生命。"
+    ],
+    "number": 3511,
+    "inspiration": "英國布里斯托的環保人士與志工在城市港口打造了浮動花園，成功在繁忙都市中建立起生態廊道並大幅提升生物多樣性。",
+    "story": "志工們在繁忙港口建構的浮動綠洲裡，這隻貓咪正輕快地在植物浮島間穿梭，為新栽種的生態廊道巡視檢查。它用嘴輕輕叼起掉落的植株幼苗，準備將它放到最適合生長的花盆旁邊。",
+    "avoid_list": [
+      "強調Traditional Chinese與English文字規範",
+      "顯示UTC日期時間文字標記",
+      "貓咪前爪撫摸或按壓特定物件",
+      "雙色極致色調搭配",
+      "熱成像與紅外線視覺風格",
+      "高調明亮與漫射光影",
+      "質感對比與繁複細節設計",
+      "超現實擬物與透光介質質感",
+      "遠景與全景大氣氛圍構圖",
+      "復古與特殊材質結合"
+    ],
+    "prompt": "A handcrafted textile art illustration of an embroidered cat with visible needlework on linen fabric, utilizing satin stitch and French knots, depicted in an orthographic projection with straight-on flat rendering and no perspective distortion. The cat features a striking crimson and ice-blue dual-tone palette with high-tension complementary contrast, scarlet clashing against cold pale blue, and is depicted bowing its head to tenderly hold a newly picked tender shoot in its mouth. The scene is set in a floating harbor garden infused with watercolor splatter and ink-spray texture, dripping pigment, scattered dots, organic fluid stains, and expressive spontaneous marks on paper. Illuminated by ring light illumination with circular catchlights in the eyes and even frontal lighting delivering beauty portrait quality. The text '2026-10-19 15:58 UTC' is visually displayed within the image in clean typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
