@@ -3146,5 +3146,36 @@
     ],
     "inspiration": "希臘加夫羅斯島（Gyaros）從過去的廢棄監獄離島正式透過法案轉型為海洋保護區，成為地中海僧海豹與海鳥的自然生態天堂。",
     "prompt": "Pixel art, retro 8-bit style, limited color palette, crisp blocky pixels, illustration framed by vertical color palette swatch bars on both sides, design moodboard aesthetic, stacked color blocks revealing the work's palette, portfolio presentation format, golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, mirror water reflection, glassy still surface mirroring the subject, symmetrical inverted image, subtle ripples, serene reflective sheen, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. A large stocky brown classic tabby cat with bold black stripes and a broad, muscular build, scruffy untidy coarse fur, sitting on a weathered wooden crate on a breakwater pier in Gavdos Island, Greece. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric, right eye is a single piercing emerald green, left ear features a prominent V-shaped notch, a faded red bandana is tied loosely around its neck, and it has a white chest bib and white mitten paws. The cat gazes down at a glassy marine sanctuary water surface where a monk seal leaps in the distance. The text '2026-10-19 02:13 UTC' is clearly and neatly displayed in the image using Traditional Chinese digits or standard English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "強調Traditional Chinese與English文字規範",
+      "顯示UTC日期時間文字標記",
+      "貓咪前爪撫摸或按壓特定物件",
+      "雙色極致色調搭配",
+      "熱成像與紅外線視覺風格",
+      "高調明亮與漫射光影",
+      "質感對比與繁複細節設計",
+      "超現實擬物與透光介質質感",
+      "遠景與全景大氣氛圍構圖",
+      "復古與特殊材質結合"
+    ],
+    "character_name": "麻糬",
+    "story": "老街的攤販們總是拿這隻貪吃的小胖貓沒轍，每當夜幕低垂，麻糬就會霸佔調味台認真地為顧客的肉圓「加料」。吃飽喝足後，牠便滿足地瞇起雙眼打呼，繼續當牠的老街巡邏員。",
+    "news_inspiration": [],
+    "prompt": "A bold cel-shaded illustration in the Grand Theft Auto art style depicting Mochi, a spherical chubby cat pressing its paw on a sweet chili sauce bottle at a vintage Taiwanese street food stall. Mochi is a four-legged, short-legged, spherical-bodied shorthair cat with pure white #FFFFFF fur and solid orange #FF8C00 patches without tabby stripes. Its RIGHT half-face (viewer perspective) has an orange #FF8C00 mask over the right cheek and right ear, while its LEFT face is completely white #FFFFFF. Its RIGHT front paw is a solid orange #FF8C00 mitten, and its LEFT front paw is pure white #FFFFFF, pressing on the condiment squeeze bottle. Its eyes are large round amber #FFBF00, nose is pink #FFB6C1 with a tiny orange dot, and belly is white. On its dorsal back is a distinct heart-shaped orange #FF8C00 saddle patch. Dramatic backlighting and rim light outline the cat's plump silhouette. Urban attitude moodboard design aesthetic, framed by vertical color palette swatch bars on both sides with crimson and sage green stacked color blocks. The scene features antique red and grey-green tones with light refraction from transparent glass jars. The text '2026-10-19 08:13 UTC' is visually displayed in clear typography on the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3510,
+    "comment_id": 6262778041,
+    "character": "mochi",
+    "idea": "在緋紅與蒼綠交織的復古街邊小吃攤前，圓滾滾的橘白貓麻糬正嚴肅地用肉墊按壓著一管剛擠出的甜辣醬，GTA寫實美術風格下輪廓光勾勒出牠圓球般的體態。",
+    "style_picks": {
+      "art_style": "GTA Style",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Crimson and Sage Green"
+    },
+    "title": "老街肉圓的祕密調味"
   }
 ]
