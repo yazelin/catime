@@ -3107,5 +3107,44 @@
     "inspiration": "original",
     "idea": "在中國紅金交織的熱成像風格等距3D插圖中，暴風雪朦朧的光影下，白色長毛貓鈴鈴正全神貫注地操作著復古蒸汽咖啡機，為寒冬街市拉花。",
     "story": "鈴鈴雖然有點笨手笨腳，但為了做出完美的拿鐵，正努力地用鼻子推動蒸汽閥門。脖子上的粉紅鈴鐺伴隨著蒸氣聲清脆作響，吸引了窗外行人的目光。"
+  },
+  {
+    "story": "昔日的港口老大「船長」威嚴地站在高處吹著海風，左眼戴著深色眼罩，右眼銳利地掃視著轉型為海洋保護區的新家園。夕陽的餘暉灑在鏡面般的海面上，遠處有僧海豹躍出水面，船長默默在防波堤上記錄著這片水域的寧靜與新生的生命。",
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Golden Hour",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "船長",
+    "idea": "在夕陽照耀的希臘加夫羅斯島碼頭防波堤上，一隻雄壯的虎斑獨眼老貓「船長」蹲坐在舊木箱頂端，正凝視著下方的海洋保護區水域，這是一幅採用像素藝術風格與黃金時刻光影呈現的畫面。",
+    "number": 3509,
+    "title": "加夫羅斯島的日落巡航",
+    "comment_id": 6258217925,
+    "news_inspiration": [
+      "美國加州史丹佛大學的研究團隊成功研發出一種新方法，能在短短七週內以創紀錄的速度逆轉白化珊瑚的健康狀態。",
+      "希臘加夫羅斯島（Gyaros）從過去的廢棄監獄離島正式透過法案轉型為海洋保護區，成為地中海僧海豹與海鳥的自然生態天堂。",
+      "墨西哥城當地的女性農夫逐漸打破傳統由男性接管的習俗，大量買下並修復源自阿茲特克時代的浮島農場（Chinampas），推動永續農業生態。",
+      "臺灣深坑茶園結合歷史悠久的石砌梯田與現代滴灌技術及土壤感測器，透過科技與文化遺產復育成功推動在地茶產業的氣候轉型。"
+    ],
+    "character": "captain",
+    "avoid_list": [
+      "前爪/肉墊撥弄輕觸物件",
+      "前掌溫柔撥弄浮萍/水道",
+      "月光/月夜照明氛圍",
+      "繁體中文與英文文字限制規範",
+      "薰衣草紫與柔粉/山林綠色調",
+      "象牙白與紅黑三色調組合",
+      "暖琥珀與秋日色調",
+      "幾何/花卉雕塑與自然景觀融合",
+      "時間戳記/日期時間文字標示",
+      "透光紗網/蕾絲羽毛質感細節",
+      "生物發光/全息虹彩奇幻微光",
+      "滿版/滿框緊湊特寫構圖",
+      "古典/古董物件與機具互動"
+    ],
+    "inspiration": "希臘加夫羅斯島（Gyaros）從過去的廢棄監獄離島正式透過法案轉型為海洋保護區，成為地中海僧海豹與海鳥的自然生態天堂。",
+    "prompt": "Pixel art, retro 8-bit style, limited color palette, crisp blocky pixels, illustration framed by vertical color palette swatch bars on both sides, design moodboard aesthetic, stacked color blocks revealing the work's palette, portfolio presentation format, golden hour lighting, warm sunset glow, long soft shadows, golden rim light on subject, mirror water reflection, glassy still surface mirroring the subject, symmetrical inverted image, subtle ripples, serene reflective sheen, retro faded color palette, washed-out vintage tones, low contrast, nostalgic film-era warmth. A large stocky brown classic tabby cat with bold black stripes and a broad, muscular build, scruffy untidy coarse fur, sitting on a weathered wooden crate on a breakwater pier in Gavdos Island, Greece. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch with no straps or fabric, right eye is a single piercing emerald green, left ear features a prominent V-shaped notch, a faded red bandana is tied loosely around its neck, and it has a white chest bib and white mitten paws. The cat gazes down at a glassy marine sanctuary water surface where a monk seal leaps in the distance. The text '2026-10-19 02:13 UTC' is clearly and neatly displayed in the image using Traditional Chinese digits or standard English font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
