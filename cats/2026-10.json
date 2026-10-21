@@ -3476,5 +3476,40 @@
       "貓咪低頭注視或爪子按壓動作",
       "液態金屬與蛇鱗奇幻肌理"
     ]
+  },
+  {
+    "idea": "這是一張使用即棄相機風格拍攝的照片，畫面中一隻虎斑貓正試圖用爪子撥弄一個在蘇格蘭高地海岸邊擱淺、鏽跡斑斑且掛滿海藻的加拿大海岸警衛隊海上標誌浮標。構圖上運用了大量的留白負空間，背景是空曠的大海與天空，整體呈現朱紅留白配色，並帶有環形燈的光影效果及古絹絹本的紋理。",
+    "number": 3520,
+    "inspiration": "加拿大海岸警衛隊的一具海上標誌浮標在失蹤後，意外漂流跨越了大西洋並在蘇格蘭的高地海岸被民眾發現。",
+    "title": "跨洋的紅浮標與貓",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Negative Space Composition",
+      "lighting": "Ring Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Vermilion and White"
+    },
+    "news_inspiration": [
+      "英國曼徹斯特大學的研究團隊宣布在懷俄明州發現了距今 1.6 億年前、史上最胖且形狀像木桶的侏儸紀烏賊近親化石。",
+      "加拿大海岸警衛隊的一具海上標誌浮標在失蹤後，意外漂流跨越了大西洋並在蘇格蘭的高地海岸被民眾發現。",
+      "英國倫敦的一隻貓咪因為連續幾天偷溜進鄰居家中搶吃狗狗的晚餐，逗趣畫面被監視器全程捕捉而引發熱議。"
+    ],
+    "prompt": "A casual disposable camera photograph with low-quality charm and light leaks. In an expanse of calm ocean and sky, a tabby cat curously reaches out its paw to touch a rusty, seaweed-draped Canadian Coast Guard maritime navigational buoy stranded on a Scottish Highland beach. The red buoy retains faded vermilion paint with weathered 'CANADA' text. Composition uses generous white negative space and minimalist off-center placement. Even frontal illumination features a distinct circular ring light catchlight in the cat's eyes. Overlaid on the snapshot is an aged silk scroll texture with warm sepia patina and delicate weave lines. Visible in the corner of the photograph, the timestamp '2026-10-21 06:43 UTC' is visually displayed. Shot on a 35mm lens, f/8, direct flash snapshot. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 6309871833,
+    "avoid_list": [
+      "繁體中文/正體字/English文字規範",
+      "2026年時間戳記標記",
+      "阿姆斯特丹運河與氣泡垃圾回收系統",
+      "廢棄茶館與苔蘚茶具",
+      "黑光燈紫外線螢光照明",
+      "緋紅與蒼綠配色組合",
+      "水彩潑濺與墨點噴灑質感",
+      "正交投影無透視視角",
+      "故事繪本多格分格版面",
+      "珠飾水鑽與寶石鑲嵌肌理",
+      "螺旋漩渦與體積光構圖",
+      "鏡面自拍與舊書店構圖"
+    ],
+    "story": "這具迷途的浮標在海上漂流了數千公里，終於在蘇格蘭的海岸邊停了下來。一隻好奇的貓咪發現了這個巨大的紅色金屬物，正小心翼翼地探索這個外來客。浮標上的「CANADA」字樣與斑駁的朱紅色漆面，在即棄相機粗糙的質感下更顯滄桑。"
   }
 ]
