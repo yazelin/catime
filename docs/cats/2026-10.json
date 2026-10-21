@@ -3621,5 +3621,40 @@
     "character": "lingling",
     "prompt": "A candid indoor photograph capturing the back view of Lingling, an extremely fluffy pure white Ragdoll-like longhair cat, as she extends a pink paw pad to gently touch a monumental textile art installation in a dimly lit museum gallery. The massive, textured artwork, featuring raised embroidered coiled-flower patterns and deep jet black thread work with muted dusty rose pink accents and tactile gold-couched petals, dominates the frame, showcasing a high dynamic range of volumetric light rays and dramatic shadows created by track lighting focused precisely on the cat and the embroidery's relief. Lingling is turned away from the camera, her cloud-like tail and fur trailing elegantly across the polished wooden floor like a gown's train, with a pink ribbon bow collar and a distinct small golden bell visible on her neck. Her pink paw pad is extended and just making contact with a specific three-dimensional satin-stitch blossom on the ornate textile surface. Other tiny human figures are visible in the distance for scale contrast against the immense art piece and the contemporary exhibition space. The image features natural film grain, deep focus for both the cat's back view and the artwork's textures, and a film-quality mood. Visually integrated into the lower-left corner on a small information plaque are the text '2026-10-21 20:58 UTC' and a Traditional Chinese title for the installation. Shot on a Canon EOS-1D X Mark III with a 35mm lens, f/5.6 aperture, 1/160 sec shutter speed, ISO 6400. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "在一個幽暗的美術館展場中，一隻雪白的布偶貓正專注地伸出粉紅肉球，輕輕觸摸牆上一幅巨大的、以烏黑灰粉玫瑰色系立體刺繡盤花技法製作的藝術作品；電影感的側光精準地打在貓咪毛茸茸的背影和刺繡的立體紋理上，形成一幅如夢似幻的『背影拖尾長裙構圖』。"
+  },
+  {
+    "comment_id": 6329234817,
+    "title": "紅黑黃藍的秋夜烤地瓜",
+    "story": "在寒冷的秋夜，這隻貪吃的胖貓戴著格紋圍巾，縮在烤番薯攤旁，貪婪地看著熱騰騰的番薯，就像花生麻糬依偎在暖爐旁。",
+    "is_seasonal": true,
+    "number": 3524,
+    "character_name": "麻糬",
+    "season": "autumn",
+    "inspiration": "original",
+    "idea": "一幅融合風格派抽象幾何與霓虹燈光的分割畫面，描繪一隻橘白胖貓在老街烤番薯攤旁取暖。",
+    "news_inspiration": [],
+    "character": "mochi",
+    "prompt": "A digital art illustration created in a Mondrian-inspired De Stijl aesthetic, featuring a strong vertical split composition and geometric abstraction. The image presents two contrasting views. The left side is a vibrant, neon-lit nighttime street scene with colorful glowing signs and wet surface reflections, set against a dark, moody urban atmosphere. Centered on this side is Mochi, a chubby shorthair cat conforming exactly to the IDENTITY CARD: white #FFFFFF base coat, right half-face orange #FF8C00 mask, left face entirely white, heart-shaped orange #FF8C00 dorsal saddle, right front paw orange #FF8C00 mitten, left front paw pure white, amber #FFBF00 eyes, and orange-and-white ringed tail. Mochi is curled up, wearing a miniature plaid scarf, snuggled beside a traditional Taiwanese street vendor's roasted sweet potato stand (烤番薯攤), marked with small glowing neon signs in Traditional Chinese (烤番薯 - 熱騰騰). A large glowing vertical line divides the image. The right side is a minimalist neoplastic wireframe diagram of the same scene, rendering the cat, the vendor, and the environment in a clean grid of black horizontal and vertical lines with precise primary color fills (red, yellow, blue, white) within defined geometric rectangles, contrasting against an ivory white ground. Text at the top left corner displays '2026-10-21 23:54 UTC' and '秋夜暖意' (Warmth of an Autumn Night) using traditional Chinese characters. A restrained folk-poster style graphic balance defines the artwork, which is printed on a textured paper medium. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文/正體字/English文字規範",
+      "2026年時間戳記標記",
+      "阿姆斯特丹運河與氣泡垃圾回收系統",
+      "廢棄茶館與苔蘚茶具",
+      "黑光燈紫外線螢光照明",
+      "緋紅與蒼綠配色組合",
+      "水彩潑濺與墨點噴灑質感",
+      "正交投影無透視視角",
+      "故事繪本多格分格版面",
+      "珠飾水鑽與寶石鑲嵌肌理",
+      "螺旋漩渦與體積光構圖",
+      "鏡面自拍與舊書店構圖"
+    ],
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Split View",
+      "lighting": "Neon Lighting",
+      "texture": "Carbon Fiber",
+      "color_palette": "Ivory Red and Black Triad"
+    }
   }
 ]

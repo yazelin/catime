@@ -33245,5 +33245,18 @@
     "number": 3523,
     "timestamp": "2026-10-21 20:58 UTC",
     "character": "lingling"
+  },
+  {
+    "number": 3524,
+    "title": "紅黑黃藍的秋夜烤地瓜",
+    "timestamp": "2026-10-21 23:54 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "season": "autumn",
+    "inspiration": "original",
+    "character": "mochi",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-10/cat_2026-10-21_2354_UTC.webp"
   }
 ]
