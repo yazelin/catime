@@ -3511,5 +3511,41 @@
       "鏡面自拍與舊書店構圖"
     ],
     "story": "這具迷途的浮標在海上漂流了數千公里，終於在蘇格蘭的海岸邊停了下來。一隻好奇的貓咪發現了這個巨大的紅色金屬物，正小心翼翼地探索這個外來客。浮標上的「CANADA」字樣與斑駁的朱紅色漆面，在即棄相機粗糙的質感下更顯滄桑。"
+  },
+  {
+    "title": "雲端青花貓畫師",
+    "avoid_list": [
+      "繁體中文/正體字/English文字規範",
+      "2026年時間戳記標記",
+      "阿姆斯特丹運河與氣泡垃圾回收系統",
+      "廢棄茶館與苔蘚茶具",
+      "黑光燈紫外線螢光照明",
+      "緋紅與蒼綠配色組合",
+      "水彩潑濺與墨點噴灑質感",
+      "正交投影無透視視角",
+      "故事繪本多格分格版面",
+      "珠飾水鑽與寶石鑲嵌肌理",
+      "螺旋漩渦與體積光構圖",
+      "鏡面自拍與舊書店構圖"
+    ],
+    "number": 3521,
+    "comment_id": 6316004944,
+    "idea": "這是一幅採用扁平向量插圖風格、青花藍白配色、以及底片顆粒質感的浮島場景。一隻黑白相間的貓咪在日光燈照亮的漂浮瓷器工坊島嶼上，正忙著用貓爪細心地將藍色顏料描繪在一個旋轉中的未完成陶碗上。",
+    "style_picks": {
+      "art_style": "Flat Vector Illustration",
+      "composition": "Floating Island Scene",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Porcelain Blue and White"
+    },
+    "news_inspiration": [
+      "在印度班達夫格爾國家公園，工作人員與保育人員一同為救養的大象寶寶「克里希納」溫馨慶祝一歲生日。",
+      "荷蘭阿姆斯特丹的運河部署了創新的氣泡幕技術，利用海底噴出的氣泡將水中塑膠垃圾引導至回收系統，防止污染流入北海。",
+      "在日本東京，一位60歲的上班族因在街頭展現極具活力的舞蹈動作而走紅，吸引廣大民眾關注與喜愛。",
+      "在美國德克薩斯州，一名男子在銀行自動提款機上方意外發現超過12萬美元現金，並主動將全數款項完好歸還。"
+    ],
+    "inspiration": "original",
+    "story": "在懸浮於空中的青花瓷島嶼上，工坊裡終日亮著日光燈。小貓「點點」是這裡唯一的畫師，牠靈巧地運用貓爪，將傳統花紋精準地繪製在陶胚上，每一道線條都充滿了獨特的韻味。這座充滿創意的工坊島嶼在天空中靜靜飄浮，傳承著古老的藝術。",
+    "prompt": "flat vector illustration of a floating porcelain blue and white island in the sky, a black and white cat meticulously painting traditional blue patterns with its paws on a spinning ceramic bowl inside a workshop lit by overhead fluorescent lighting, cobalt indigo brushwork on a clean white ground, visible film grain and analog texture, incorporating the text '2026-10-21 12:31 UTC' in Traditional Chinese or English IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
