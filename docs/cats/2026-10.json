@@ -3547,5 +3547,41 @@
     "inspiration": "original",
     "story": "在懸浮於空中的青花瓷島嶼上，工坊裡終日亮著日光燈。小貓「點點」是這裡唯一的畫師，牠靈巧地運用貓爪，將傳統花紋精準地繪製在陶胚上，每一道線條都充滿了獨特的韻味。這座充滿創意的工坊島嶼在天空中靜靜飄浮，傳承著古老的藝術。",
     "prompt": "flat vector illustration of a floating porcelain blue and white island in the sky, a black and white cat meticulously painting traditional blue patterns with its paws on a spinning ceramic bowl inside a workshop lit by overhead fluorescent lighting, cobalt indigo brushwork on a clean white ground, visible film grain and analog texture, incorporating the text '2026-10-21 12:31 UTC' in Traditional Chinese or English IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "number": 3522,
+    "prompt": "A tabby cat gently patting a newly excavated Jurassic squid fossil with its paw inside a dusty paleontology archaeology camp tent in Wyoming. Wide-angle fisheye lens perspective with strong barrel distortion and exaggerated foreground depth. Background features Japanese wagara decorative motifs, stylized blossoms and butterflies in repeating ornamental patterns with golden accents. Illumination from soft window daylight with smooth shadow falloff, casting classic Vermeer-like lighting across warm aged leather with rich grain texture. Warm amber color grading, autumn palette of golden yellow, burnt orange, and cozy nostalgic warmth. Visually display the exact text '2026-10-21 17:44 UTC' clearly in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國科學家在懷俄明州發現距今約1.6億年的全新圓筒狀侏羅紀烏賊化石，揭開古海洋生物演化的新謎團。",
+      "中國呼和浩特市舉辦首屆國際航空運動日嘉年華，結合航空飛行表演與文創藝術展覽，吸引眾多青少年與民眾參與。",
+      "日本佐野市即將舉辦2026年大使館盃板球賽，結合爵士樂現場演奏與體驗活動推廣國際體育文化交流。",
+      "科學家利用3D掃描技術分析小行星「貝努」的岩石樣本，成功解開其表面巨石快速散熱的隱藏裂縫謎團。"
+    ],
+    "comment_id": 6322651977,
+    "idea": "在懷俄明州古生物考古營地的防塵帳篷內，一隻虎斑貓正用肉爪輕輕撥弄著剛出土的侏羅紀古烏賊化石，背景融合了細緻的和風花蝶裝飾紋樣，透過魚眼鏡頭呈現溫暖的琥珀色皮革質感。",
+    "inspiration": "美國科學家在懷俄明州發現距今約1.6億年的全新圓筒狀侏羅紀烏賊化石，揭開古海洋生物演化的新謎團。",
+    "title": "琥珀時光印記",
+    "story": "漫長歲月將遠古海洋的秘密封存於岩層之中，好奇的探險貓咪在古老的塵埃裡與一億六千萬年前的生命不期而遇。溫柔的窗邊柔光灑落，照亮了跨越時空的奇妙對話。",
+    "avoid_list": [
+      "繁體中文/正體字/English文字規範",
+      "2026年時間戳記標記",
+      "阿姆斯特丹運河與氣泡垃圾回收系統",
+      "廢棄茶館與苔蘚茶具",
+      "黑光燈紫外線螢光照明",
+      "緋紅與蒼綠配色組合",
+      "水彩潑濺與墨點噴灑質感",
+      "正交投影無透視視角",
+      "故事繪本多格分格版面",
+      "珠飾水鑽與寶石鑲嵌肌理",
+      "螺旋漩渦與體積光構圖",
+      "鏡面自拍與舊書店構圖"
+    ],
+    "style_picks": {
+      "art_style": "Japanese Floral-and-Butterfly Motif",
+      "composition": "Fisheye Lens",
+      "lighting": "Window Light",
+      "texture": "Leather",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    }
   }
 ]
