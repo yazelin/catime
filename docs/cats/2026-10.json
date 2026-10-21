@@ -3583,5 +3583,43 @@
       "texture": "Leather",
       "color_palette": "Warm Tones (Amber / Autumn)"
     }
+  },
+  {
+    "avoid_list": [
+      "繁體中文/正體字/English文字規範",
+      "2026年時間戳記標記",
+      "阿姆斯特丹運河與氣泡垃圾回收系統",
+      "廢棄茶館與苔蘚茶具",
+      "黑光燈紫外線螢光照明",
+      "緋紅與蒼綠配色組合",
+      "水彩潑濺與墨點噴灑質感",
+      "正交投影無透視視角",
+      "故事繪本多格分格版面",
+      "珠飾水鑽與寶石鑲嵌肌理",
+      "螺旋漩渦與體積光構圖",
+      "鏡面自拍與舊書店構圖"
+    ],
+    "character_name": "鈴鈴",
+    "inspiration": "original",
+    "news_inspiration": [
+      "美國加州橘郡的亨廷頓比奇海灘上，海洋保育人員首次記錄到赤蠵龜在上岸產卵，創下美國西海岸首例自然產卵紀錄。",
+      "荷蘭阿姆斯特丹在運河中成功應用了「氣泡簾（Bubble Barrier）」創新技術，透過水底氣泡將微塑膠攔截並引導至回收系統，為城市水道清潔提供全新解決方案。",
+      "澳大利亞雪梨的科學家觀察到數以百萬計的蛾群因雨量豐沛而形成壯觀的遷徙奇景，吸引無數市民與研究人員駐足觀賞。",
+      "美國黃石國家公園一隻失蹤長達一個月的十歲獵犬，在許多熱心民眾與志工的接力搜尋下終於順利獲救與主人重聚。"
+    ],
+    "comment_id": 6326469104,
+    "story": "鈴鈴因為好奇展場中那片閃耀著微光的立體花朵刺繡，忍不住從她巨大的白色毛團中伸出小爪子，想要一探究竟。結果卻不小心勾住了一條線，嚇得她整隻貓往後彈開，脖子上的粉紅鈴鐺發出一陣清脆的聲響，在寂靜的展廳裡迴盪，讓她驚魂未定地回頭張望。",
+    "title": "美術館裡的毛茸奇遇",
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Cinematic Lighting",
+      "texture": "Raised Embroidered Coiled-Flower Texture",
+      "color_palette": "Black and Dusty Rose"
+    },
+    "number": 3523,
+    "character": "lingling",
+    "prompt": "A candid indoor photograph capturing the back view of Lingling, an extremely fluffy pure white Ragdoll-like longhair cat, as she extends a pink paw pad to gently touch a monumental textile art installation in a dimly lit museum gallery. The massive, textured artwork, featuring raised embroidered coiled-flower patterns and deep jet black thread work with muted dusty rose pink accents and tactile gold-couched petals, dominates the frame, showcasing a high dynamic range of volumetric light rays and dramatic shadows created by track lighting focused precisely on the cat and the embroidery's relief. Lingling is turned away from the camera, her cloud-like tail and fur trailing elegantly across the polished wooden floor like a gown's train, with a pink ribbon bow collar and a distinct small golden bell visible on her neck. Her pink paw pad is extended and just making contact with a specific three-dimensional satin-stitch blossom on the ornate textile surface. Other tiny human figures are visible in the distance for scale contrast against the immense art piece and the contemporary exhibition space. The image features natural film grain, deep focus for both the cat's back view and the artwork's textures, and a film-quality mood. Visually integrated into the lower-left corner on a small information plaque are the text '2026-10-21 20:58 UTC' and a Traditional Chinese title for the installation. Shot on a Canon EOS-1D X Mark III with a 35mm lens, f/5.6 aperture, 1/160 sec shutter speed, ISO 6400. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在一個幽暗的美術館展場中，一隻雪白的布偶貓正專注地伸出粉紅肉球，輕輕觸摸牆上一幅巨大的、以烏黑灰粉玫瑰色系立體刺繡盤花技法製作的藝術作品；電影感的側光精準地打在貓咪毛茸茸的背影和刺繡的立體紋理上，形成一幅如夢似幻的『背影拖尾長裙構圖』。"
   }
 ]
