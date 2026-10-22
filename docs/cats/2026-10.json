@@ -3656,5 +3656,36 @@
       "texture": "Carbon Fiber",
       "color_palette": "Ivory Red and Black Triad"
     }
+  },
+  {
+    "title": "燭影墨香翻舊譜",
+    "comment_id": 6331101463,
+    "prompt": "A Palekh miniature painting on a deep black lacquer background, depicting a sleek solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny white tuft on the ventral chest, a single small gold hoop earring on its left ear, and large luminous golden-amber eyes. The cat is in a quiet old bookstore at dusk, using an elegant paw to flip through the pages of a glowing ancient piano musical score illuminated by candlelight. The scene features warm orange flickering glow, leading lines composition with converging perspective lines, dynamic peacock blue water splashes with golden powder, and flying golden droplets frozen mid-motion. The date and time '2026-10-22 02:16 UTC' is visually displayed in the image in English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "avoid_list": [
+      "傳統中文與英文文字要求",
+      "藍曬法藍黃互補色調",
+      "青花瓷藍白風格",
+      "風格派De Stijl幾何風格",
+      "黑光燈螢光效果",
+      "故事插畫分格佈局",
+      "阿姆斯特丹水道與氣泡回收系統",
+      "底片顆粒與底片相機風格",
+      "魚眼與超廣角鏡頭透視",
+      "肉爪觸摸或撥弄物件"
+    ],
+    "character_name": "墨墨",
+    "number": 3525,
+    "style_picks": {
+      "art_style": "Palekh Miniature",
+      "composition": "Leading Lines Composition",
+      "lighting": "Candlelight",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Peacock Blue and Gold"
+    },
+    "inspiration": "original",
+    "story": "墨墨，這隻舊書店的優雅精靈，今晚在燭光下找到一本散發幽光的古老鋼琴樂譜。牠那雙寶石般的琥珀色眼睛瞇起，正用那隻帶著左耳金色圓環的優雅黑爪，輕輕翻動著書頁，彷彿在讀取隱藏在音符間的古老故事，動作輕盈無聲，與周圍靜謐的古物融為一體。",
+    "character": "momo",
+    "idea": "這是一幅精緻的帕列赫細密畫，描繪純黑貓墨墨在舊書店的黃昏，用優雅的肉爪翻閱一本發光的古老樂譜。畫面充滿燭光，光線引導視線至墨墨的金琥珀色大眼和那本金色描邊的樂譜，遠處有飛濺的孔雀藍水花與金粉裝飾。"
   }
 ]
