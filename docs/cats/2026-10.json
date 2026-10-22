@@ -3721,5 +3721,39 @@
     ],
     "story": "在被遺忘的生物機械溫室中，一隻名叫『發條』的貓咪，正用牠那雙鑲嵌著發光生物晶片的眼睛，仔細檢視著一個古老的機械時鐘。牠那融合了各種金屬片和刺繡布塊的補丁身體，在溫室微弱的背光中，勾勒出獨特的輪廓，彷彿牠本身也是這個奇幻世界的一部份。發條不僅僅是修復時鐘，牠正在重新賦予這個時間機器新的生命。",
     "inspiration": "original"
+  },
+  {
+    "prompt": "A magazine cover style editorial fashion photography shot with a bold vertical typography overlay, issue number, and barcode. The text '2026-10-22 14:10 UTC' is prominently displayed in elegant English typography on the cover design. A back-view composition of an orange cat wearing a custom shimmering trailing gown with a long skirt train sweeping across the floor, sitting upright on the sandstone steps of the Abu Simbel temple, turned away from the camera. The cat gazes into the dark inner sanctuary of the ancient Egyptian temple, perfectly illuminated by a beam of annual golden sunlight. Shot on 35mm lens, f/2.8, direct harsh light creating a teal and orange cinematic color grading with warm golden sunlight contrasting cool blue-green shadows, clean graphic design publication layout, full-length vertical framing. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Magazine Cover Layout",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Direct Flash",
+      "texture": "Frosted Glass",
+      "color_palette": "Teal and Orange"
+    },
+    "idea": "這是一張雜誌封面風格的照片，採用青橙電影調色。一隻身穿訂製閃亮拖尾長裙的橘貓背對鏡頭，端坐在阿布辛貝神廟的石階上，牠正專注地凝視著神廟深處，那裡被一年一度的金色陽光奇景精準照亮。",
+    "avoid_list": [
+      "傳統中文與英文文字要求",
+      "藍曬法藍黃互補色調",
+      "青花瓷藍白風格",
+      "風格派De Stijl幾何風格",
+      "黑光燈螢光效果",
+      "故事插畫分格佈局",
+      "阿姆斯特丹水道與氣泡回收系統",
+      "底片顆粒與底片相機風格",
+      "魚眼與超廣角鏡頭透視",
+      "肉爪觸摸或撥弄物件"
+    ],
+    "title": "法老神殿的華麗訪客",
+    "inspiration": "在埃及阿布辛貝，拉美西斯二世神廟於10月22日再度迎來一年兩次的太陽奇景，陽光精準穿過深邃神殿並照亮法老雕像長達22分鐘。",
+    "number": 3527,
+    "comment_id": 6342944411,
+    "news_inspiration": [
+      "在埃及阿布辛貝，拉美西斯二世神廟於10月22日再度迎來一年兩次的太陽奇景，陽光精準穿過深邃神殿並照亮法老雕像長達22分鐘。",
+      "在塞內加爾達喀爾，2026年青年奧林匹克運動會聖火傳遞至科爾達等南部城鎮，當地民眾與運動員以傳統文化盛會熱烈迎接聖火。",
+      "在日本東京，宇宙航空研究開發機構（JAXA）順利推進火星衛星探測計畫，準備執行任務從火星的衛星帶回歷史上首批岩石樣本。",
+      "在英國利物浦，環法自行車賽官方於10月22日正式公布了2027年歷史性英國起跑賽段的完整路線計畫。"
+    ],
+    "story": "拉美西斯二世神廟的光之奇蹟，在這一刻被一隻誤入的貓見證。牠華麗的長裙在古老的砂岩上拖曳，與法老雕像的莊嚴形成奇妙的對比，成為神廟深處最獨特的風景。"
   }
 ]
