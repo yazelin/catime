@@ -3895,5 +3895,40 @@
       "薩摩亞（Samoa）：在成功移除入侵物種野豬與老鼠後，島上的原生野生動物與鳥類數量出現爆發性的恢復與成長。"
     ],
     "inspiration": "荷蘭阿姆斯特丹（Amsterdam, Netherlands）：當地運河系統成功推行「氣泡屏障」技術，利用底部的氣泡氣簾將水中塑膠垃圾升至水面並攔截，避免污染擴散至北海。"
+  },
+  {
+    "title": "霓裳水母城",
+    "number": 3532,
+    "idea": "在一個以莫蘭迪色調酒精墨水藝術呈現、並透過魚眼鏡頭極度扭曲的奇幻空間中，一隻貓咪正在佈滿蕾絲鏤空質感的生態發光水下城市結構中穿梭。",
+    "story": "這隻貓咪在一個由發光藻類和精密蕾絲狀珊瑚構成的奇幻水下城市中探險。牠靈巧地穿過被魚眼鏡頭拉伸的彎曲通道，驚奇地看著周遭散發著柔和莫蘭迪色調生物發光的奇特植物與建築結構。酒精墨水的色彩流動與蕾絲質感交織成一個既科幻又夢幻的世界，貓咪的每一次跳躍都在色彩與光影中激起一陣絢麗的漣漪。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Fisheye Lens",
+      "lighting": "Bioluminescence",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Morandi Color Palette"
+    },
+    "news_inspiration": [
+      "日本東京於近期舉行了結合運動與環保的趣味撿垃圾國際大賽，吸引許多年輕人響應，透過團隊合作為城市街頭進行大掃除。",
+      "美國加州橘郡杭特海灘迎來了當地海岸史上首次記錄到的野生海龜自然產卵現象，為海洋生態保育寫下新歷史。",
+      "紐西蘭的國鳥奇異鳥在當地社區與志工的長期保育努力下，於今年迎來了有史以來最成功的一次繁衍季，孵化出破紀錄的健康雛鳥。"
+    ],
+    "comment_id": 6363045168,
+    "prompt": "An artistic illustration of a cat exploring a fantasy underwater city structure. The medium is fluid alcohol ink art with unpredictable organic patterns, translucent layers, and subtle dusty grey undertones. A wide-angle fisheye lens creates strong barrel distortion and an exaggerated foreground in a 360-degree feel. The underwater architecture features intricate lace openwork textures, delicate floral cutout patterns, and fine translucent filigree. The cat leaps nimbly through curved passageways, surrounded by bioluminescent lighting with soft organic glow, deep blue-green radiance, and underwater phosphorescence. The color scheme follows a Morandi muted palette with desaturated soft pastels, blending muted pinks, sage, and dusty blues. Visually displayed in clean elegant typography in a corner of the image is the text '2026-10-23 10:39 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文/正體字/English文字限制提示",
+      "時間戳記 (UTC/2026年)",
+      "立體刺繡盤花肌理與紋理",
+      "貓咪伸出肉爪/粉紅肉球觸摸或撥弄物件",
+      "背影/背對鏡頭的拖尾長裙與白毛貓構圖",
+      "大正浪漫與穆夏風格拱框裝飾邊框",
+      "霓虹燈光與繁體中文招牌/標籤組合",
+      "生物朋克與生物機械組件/補丁質感",
+      "即棄相機/底片顆粒/魚眼鏡頭的復古感與扭曲透視",
+      "舊書店/美術館/考古營地等古樸沉靜場景",
+      "湖泊/港口/海灘/天空中漂浮的島嶼或場景",
+      "琥珀色/秋季溫暖金黃與橙色調性"
+    ]
   }
 ]
