@@ -3857,5 +3857,43 @@
       "琥珀色/秋季溫暖金黃與橙色調性"
     ],
     "story": "圓滾滾的麻糬在滿是黏土與陶瓷質感的空間中巡視，大搖大擺地將肚子貼在微涼的粉紅陶板上。它瞇起琥珀色大眼，享受著工作室裡純粹而安靜的午後時光。"
+  },
+  {
+    "character_name": "墨墨",
+    "prompt": "An overhead Knolling photograph capturing a meticulously arranged flat lay of countless micro-scale bubble barrier components in an organized grid on a textured surface, under harsh, direct midday sunlight with sharp, defined shadows. The scene features the sleek, slender, solid-black Bombay-style cat, Momo, positioned centrally within the components. Momo, viewed from directly above, is carefully interacting with a small, complex water-filled aquarium model of a bubble curtain system. Her front left paw is delicately adjusting a tiny, jeweled nozzle, causing a cluster of effervescent bubbles to rise from a transparent tube. Momo exhibits her identifying features: large, luminous golden-amber eyes, a single small gold hoop earring on her left ear, and a tiny white fur locket tuft on her ventral chest. The entire installation, including the miniature pumps, tubes, nozzles, and the water tank, is heavily embellished with thousands of glittering, faceted rhinestones, beads, and encrusted gems, creating a shimmering, ornate mosaic pattern across every element. The duotone color treatment limits the image to only deep blue and pearlescent white/gold hues, giving the entire scene a bold graphic impact and jeweled, opulent texture. The background outside the grid layout is a clean, textured surface matching the blue and white/gold theme. A small, clear Traditional Chinese display integrated within the arrangement shows: '2026-10-23 05:32 UTC'. The photograph has high contrast, sharp focus, and captures the gritty realism and sparkling details of the materials under unforgiving illumination. The cat is a literal four-legged feline, calm and attentive, engaged in the described activity. No collar or extra markings on Momo are present. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文/正體字/English文字限制提示",
+      "時間戳記 (UTC/2026年)",
+      "立體刺繡盤花肌理與紋理",
+      "貓咪伸出肉爪/粉紅肉球觸摸或撥弄物件",
+      "背影/背對鏡頭的拖尾長裙與白毛貓構圖",
+      "大正浪漫與穆夏風格拱框裝飾邊框",
+      "霓虹燈光與繁體中文招牌/標籤組合",
+      "生物朋克與生物機械組件/補丁質感",
+      "即棄相機/底片顆粒/魚眼鏡頭的復古感與扭曲透視",
+      "舊書店/美術館/考古營地等古樸沉靜場景",
+      "湖泊/港口/海灘/天空中漂浮的島嶼或場景",
+      "琥珀色/秋季溫暖金黃與橙色調性"
+    ],
+    "title": "墨墨的氣泡屏障實驗",
+    "number": 3531,
+    "character": "momo",
+    "style_picks": {
+      "art_style": "Ethereal Nocturnal Fantasy Illustration",
+      "composition": "Knolling Photography",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Duotone"
+    },
+    "story": "墨墨在舊書店的古物堆中發現了這個奇怪的水下技術模型。牠被那些透明的管子和會產生細小氣泡的噴嘴所吸引，決定親自研究一下這個攔截塑膠垃圾的氣泡屏障是如何運作的。牠用靈巧的貓爪輕輕撥動一個噴嘴，調整著氣泡流的方向。",
+    "idea": "這是一幅雙色調的空靈夜花奇幻插畫，採用 Knolling 排列攝影構圖，在硬光日照下，展現珠飾水鑽鑲嵌的質感，主角墨墨正在一堆排列整齊的微型氣泡屏障組件中，細心調整一個小型的水下氣簾噴嘴。",
+    "comment_id": 6358205024,
+    "news_inspiration": [
+      "美國加州（California, USA）：研究人員在亨廷頓海灘發現太平洋海岸史上首次記錄到的赤蠵龜（或欖蠵龜）自然產卵痕跡，為當地海洋生態帶來意外驚喜。",
+      "荷蘭阿姆斯特丹（Amsterdam, Netherlands）：當地運河系統成功推行「氣泡屏障」技術，利用底部的氣泡氣簾將水中塑膠垃圾升至水面並攔截，避免污染擴散至北海。",
+      "多哥（Togo）：當地的棉花農民全面引入再生農業模式與田間學校，不僅減少農藥使用，還大幅改善土壤健康並提升農作物產量。",
+      "薩摩亞（Samoa）：在成功移除入侵物種野豬與老鼠後，島上的原生野生動物與鳥類數量出現爆發性的恢復與成長。"
+    ],
+    "inspiration": "荷蘭阿姆斯特丹（Amsterdam, Netherlands）：當地運河系統成功推行「氣泡屏障」技術，利用底部的氣泡氣簾將水中塑膠垃圾升至水面並攔截，避免污染擴散至北海。"
   }
 ]
