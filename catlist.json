@@ -33311,5 +33311,16 @@
     "is_seasonal": true,
     "title": "翠庭秋思落葉歡",
     "character": "lingling"
+  },
+  {
+    "status": "success",
+    "timestamp": "2026-10-23 00:23 UTC",
+    "inspiration": "original",
+    "character": "mochi",
+    "character_name": "麻糬",
+    "title": "粉陶與靜謐午後",
+    "number": 3530,
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service job failed: Codex image_gen 額度已用完(429 usage_limit_reached),預計 2026-10-23 12:11 (+08:00) 重置)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-10/cat_2026-10-23_0023_UTC.webp"
   }
 ]

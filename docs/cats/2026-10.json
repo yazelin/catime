@@ -3824,5 +3824,38 @@
     "story": "鈴鈴一聽到清脆的鈴鐺聲在秋風中響起，便忍不住一頭栽進滿地紅葉的落葉堆裡翻滾嬉戲。當她好奇地抬起掛滿紅葉的小圓臉時，蓬鬆的白毛與粉紅鼻頭沾滿了落葉，模樣天真又可愛。",
     "number": 3529,
     "character": "lingling"
+  },
+  {
+    "inspiration": "original",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Wabi-Sabi Still Life Photography",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Lavender and Pink"
+    },
+    "character": "mochi",
+    "character_name": "麻糬",
+    "title": "粉陶與靜謐午後",
+    "comment_id": 6354379538,
+    "idea": "以侘寂靜物攝影風格呈現的多格角色拼貼，高調明亮光灑落於薰衣草紫粉色的陶藝工作台上，一隻四腳著地的圓胖橘白貓趴在一排粉白陶瓷器皿旁。",
+    "number": 3530,
+    "prompt": "A wabi-sabi still life photography multi-panel character montage collage, featuring several distinct candid shots of Mochi the chubby orange and white shorthair cat exploring a light-filled pottery studio. The overall aesthetic is high-key with bright, soft directional window light creating an airy, overexposed feel and luminous clean atmosphere, with minimal shadows and a dreamy pastel mood dominating the lavender and pink color palette of the workspace. The scene captures the textured aged surfaces, handmade ceramic feel, and imperfect organic objects characteristic of wabi-sabi still life, with a matte surface that includes subtle imperfections. In one pane of the grid, Mochi, with her distinctive orange half-face mask on the right side only and a clear heart-shaped orange saddle patch on her upper back, is crouched low on a lavender-pink clay-dusted workbench, four-legged with her round belly pressed against the cool surface, peeking around a row of rustic, imperfect white and pink ceramic vessels with amber eyes slightly narrowed. Another cell in the collage shows Mochi from above, emphasizing her spherical torso and heart-shaped orange saddle as she sniffs a mound of raw, sculpted clay, revealing her white front left paw. A different frame captures a close-up of Mochi's face from the front, highlighting her precise orange right mask and white left face, amber eyes, and pink nose with a tiny orange dot, next to a ceramic stamp, looking content. One final panel features Mochi stretching after a nap on a textured pink ceramic plaque, displaying her orange right mitten paw and white left paw. Small, hand-written-style text in the corner of one panel on a piece of paper integrated into the collage reads '2026-10-23 00:23 UTC'. The photo has a cohesive collage layout with visible grid lines, characteristic of candid shots taken on a 35mm lens with natural light and a shallow depth of field, exhibiting natural grain and a quiet, contemplative emptiness between elements. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文/正體字/English文字限制提示",
+      "時間戳記 (UTC/2026年)",
+      "立體刺繡盤花肌理與紋理",
+      "貓咪伸出肉爪/粉紅肉球觸摸或撥弄物件",
+      "背影/背對鏡頭的拖尾長裙與白毛貓構圖",
+      "大正浪漫與穆夏風格拱框裝飾邊框",
+      "霓虹燈光與繁體中文招牌/標籤組合",
+      "生物朋克與生物機械組件/補丁質感",
+      "即棄相機/底片顆粒/魚眼鏡頭的復古感與扭曲透視",
+      "舊書店/美術館/考古營地等古樸沉靜場景",
+      "湖泊/港口/海灘/天空中漂浮的島嶼或場景",
+      "琥珀色/秋季溫暖金黃與橙色調性"
+    ],
+    "story": "圓滾滾的麻糬在滿是黏土與陶瓷質感的空間中巡視，大搖大擺地將肚子貼在微涼的粉紅陶板上。它瞇起琥珀色大眼，享受著工作室裡純粹而安靜的午後時光。"
   }
 ]
