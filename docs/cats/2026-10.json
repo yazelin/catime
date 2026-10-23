@@ -3930,5 +3930,36 @@
       "湖泊/港口/海灘/天空中漂浮的島嶼或場景",
       "琥珀色/秋季溫暖金黃與橙色調性"
     ]
+  },
+  {
+    "comment_id": 6368560216,
+    "story": "在一個深海研究站內，這隻名叫「幽靈」的貓咪正參與一項關於生物發光的實驗。透過X光透視，我們能看見牠精細的骨骼結構正穿梭於透明樹脂迷宮中，而牠正專注地追踪著一顆發出螢光的貓薄荷球。",
+    "title": "幽藍迷宮的骨骼舞者",
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Negative Space Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Translucent Resin",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "avoid_list": [
+      "繁體中文/正體字/English文字限制提示",
+      "時間戳記 (UTC/2026年)",
+      "立體刺繡盤花肌理與紋理",
+      "貓咪伸出肉爪/粉紅肉球觸摸或撥弄物件",
+      "背影/背對鏡頭的拖尾長裙與白毛貓構圖",
+      "大正浪漫與穆夏風格拱框裝飾邊框",
+      "霓虹燈光與繁體中文招牌/標籤組合",
+      "生物朋克與生物機械組件/補丁質感",
+      "即棄相機/底片顆粒/魚眼鏡頭的復古感與扭曲透視",
+      "舊書店/美術館/考古營地等古樸沉靜場景",
+      "湖泊/港口/海灘/天空中漂浮的島嶼或場景",
+      "琥珀色/秋季溫暖金黃與橙色調性"
+    ],
+    "inspiration": "original",
+    "idea": "這是一幅以X光透視風格呈現的影像，展示一隻貓咪正在透明樹脂迷宮中尋找螢光貓薄荷球。場景設於一個充滿冷藍和青綠色調、利用負空間構成的生物發光實驗室中。",
+    "number": 3533,
+    "news_inspiration": [],
+    "prompt": "X-ray radiograph style, translucent skeletal view of a cat navigating a transparent resin maze searching for a glowing fluorescent catnip ball, set in a bioluminescent laboratory with negative space composition, cool blue-teal color grading, deep blue-green radiance, minimalist breathing room, off-center placement, calm uncluttered framing, showing the date and time '2026-10-23 15:31 UTC' clearly displayed in the image using English text IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
