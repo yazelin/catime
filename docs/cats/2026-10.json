@@ -4111,5 +4111,42 @@
     },
     "prompt": "A Chinese panoramic scroll painting in Song dynasty jie hua style with meticulous architectural line work on aged silk texture, featuring an oblique aerial perspective and a spiral vortex composition centered around a grand circular race track. The scene depicts Mochi, a chubby, short stubby four-legged cat with a white base coat, a bright orange mask on the right half of its face while its left face is pure white, large round amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle patch on its upper back, white belly, an orange mitten on its right front paw, and a white left front paw. Mochi curiosity touches a tiny glowing miniature marathon robot dog running past on the track with its right orange-mitten front paw. In the background, numerous miniature robot dogs and tiny human crowds march along the coiling spiral track. Stylized with blacklight UV illumination and fluorescent pigments glowing with vibrant neon gold and rich black tones, featuring ink-bleed textures and ink diffusing into soft silk weave. Prominently displayed floating in translucent glowing Traditional Chinese calligraphy on the side of the scroll is the date and time '2026-10-24 06:37 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "首爾正舉行機器狗馬拉松，賽道設計成壯觀的螺旋狀。貪吃的麻糬巡邏來到賽道旁，被一隻發出微光、剛跑過身邊的縮小版機器狗吸引，忍不住伸出右橘手套腳輕輕撥弄，好奇這「會動的鐵塊」有沒有花生粉口味。"
+  },
+  {
+    "inspiration": "original",
+    "title": "阿馬爾菲的漁夫貓",
+    "style_picks": {
+      "art_style": "Watercolor",
+      "composition": "Negative Space Composition",
+      "lighting": "Dappled Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "High Saturation Vivid"
+    },
+    "news_inspiration": [
+      "美國加州：生物學家在亨廷頓海灘發現一隻欖蠵龜順利產卵，創下美國西海岸首次記錄到海龜自然產卵的歷史紀錄。",
+      "義大利阿馬爾菲：三位熱心的在地民眾化身「哈比人」，歷經多日搜尋後成功在山區替外國遊客找回掉落的結婚戒指並送回其家中。",
+      "日本東京：以結合運動與撿垃圾聞名的「SpoGomi」撿垃圾體育賽事推廣至全球，各國學生團體積極響應並清理出數百公斤社區廢棄物。",
+      "英國阿伯丁：蘇格蘭國家博物館研究人員在館藏中發現一具百年前採集的全新物種恐龍化石，證實其為擁有巨大爪子的雌性肉食性恐龍。"
+    ],
+    "story": "這隻名叫「馬可」的淘氣貓咪，每天都會守候在阿馬爾菲的海邊，練習牠的漁夫本領。今天，牠終於成功地與一條小魚展開了一場精彩的追逐戰，這一幕被斑駁的陽光記錄在畫布上。",
+    "comment_id": 6383798293,
+    "prompt": "A vibrant watercolor painting rendered with the wet-on-wet technique on textured paper, capturing the dynamic energy of 'Marco', an orange and white tabby cat leaping horizontally across a shallow, crystal-clear turquoise tide pool off the coast of Amalfi, Italy. Water droplets and arcs of spray from the cat's vigorous motion explode mid-air, glistening with the dappled sunlight filtering through unseen coastal foliage, casting soft, mottled shadow patterns. 'Marco' is in a full pounce, left paw extended to catch a tiny, shimmering silver fish that is captured frozen just above a burst of turbulent water spray. The composition leverages negative space, featuring the relatively small cat and fish within a vast expanse of light-reflective water and simple, undefined paper background, emphasizing the fleeting action. Off-center placement of the main subjects provides minimalist breathing room. In the far, upper right background, traditional Italian-style colorful coastal buildings cling precariously to a steep, rugged cliffside, rendered with bleeding watercolor edges and high saturation hues of terracotta, ochre, and blue. The date '2026-10-24 11:42 UTC' is visibly painted in a delicate calligraphic style with dark blue watercolor pigment near the bottom left corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "生物發光",
+      "燭光與發光樂譜",
+      "徽章與拼布質感",
+      "繁體中文與英文時間戳記",
+      "莫蘭迪與柔和灰調",
+      "背光與輪廓光",
+      "蕾絲鏤空與雕花質感",
+      "無限遞迴與Droste效應",
+      "傳統庭院落葉堆",
+      "侘寂靜物與陶藝工作台",
+      "魚眼鏡頭極度扭曲",
+      "大正浪漫與多層相片疊拼",
+      "X光透視骨骼風格"
+    ],
+    "idea": "這是一幅色彩鮮豔、充滿動態水花的水彩畫，採用了留白負空間構圖。一隻橘白相間的貓咪，正興奮地跳躍在義大利阿馬爾菲海岸的碧藍淺灘上，試圖用爪子捕捉一條剛剛躍出水面的銀色小魚，激起了一片靈動的水花，背景是陡峭的彩色峭壁和斑駁的陽光。",
+    "number": 3538
   }
 ]
