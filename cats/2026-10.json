@@ -4356,5 +4356,39 @@
       "負空間留白構圖",
       "透明樹脂質地"
     ]
+  },
+  {
+    "prompt": "A Renaissance-style oil painting, executed with masterful light and shadow and the sfumato technique, depicting a side profile portrait of a cat. The cat, rendered with a clean silhouette of its nose and chin and a profile-defining contour, gazes intently into a massive, ancient, terracotta water basin. The still, glassy surface of the water serves as a perfect mirror, reflecting the scene in a symmetrical inverted image with subtle ripples and a serene reflective sheen. Within the reflection, five vividly colored, newly discovered Peruvian Amazon rainforest frogs—detailed with bright patterns and textures—are clearly visible, alongside a swirling, ethereal nebula cosmic glow. This cosmic illumination, composed of soft purple and blue starlight, glowing particles, and galactic haze, emanates from within the reflection, casting an otherworldly radiance on the water's surface and illuminating the cat's face. The painting employs a rich, warm earth-tone palette of olive greens, warm browns, and natural organic harmonies. The classical composition utilizes elegant lateral framing. In the bottom right corner of the painting, the date and time '2026-10-25 10:19 UTC' are elegantly displayed in Traditional Chinese characters (2026年10月25日 10:19 UTC) as if inscribed by the artist. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "在秘魯的亞馬遜雨林地區，科學家與當地原住民社群合作，成功發表了五個全新發現的蛙類物種。",
+    "comment_id": 6396446036,
+    "title": "鏡中雨林之森",
+    "avoid_list": [
+      "微型機器人迷宮",
+      "幾何光影迷宮",
+      "浮島場景與飄浮平台",
+      "黑光螢光與絲質暈染",
+      "長卷全景與螺旋構圖",
+      "底片顆粒感與底片質感",
+      "孔雀藍與金色調",
+      "用爪子撥弄或按壓物件",
+      "魚眼鏡頭與強烈扭曲視角",
+      "濕版攝影風格",
+      "傳統中文與英文日期時間標示"
+    ],
+    "idea": "這是一幅文藝復興風格的畫作，捕捉了一隻側臉特寫的貓，牠正凝視著一個巨大的水盤，水盤中完美地鏡面反射出秘魯亞馬遜雨林中五種新發現的鮮豔青蛙，同時也映照出星雲般的輝光。",
+    "style_picks": {
+      "art_style": "Renaissance",
+      "composition": "Side Profile Portrait",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Earth Tones"
+    },
+    "number": 3545,
+    "story": "科學家在雨林中發現了五種新蛙，而這隻好奇的貓則成為了第一位見證者。牠在一個古老儀式用的大水盤旁停下，那裡的水清澈如鏡，反映出雨林深處的奧秘與新生命。貓的凝視中充滿了寧靜的探索，藝術家用細緻的大地色系描繪了這個融合了科學發現與神秘氛圍的瞬間。",
+    "news_inspiration": [
+      "在美國麻薩諸塞州鱈魚角，保育人員意外發現並救起了一隻非常罕見的雙頭海龜幼崽。",
+      "在秘魯的亞馬遜雨林地區，科學家與當地原住民社群合作，成功發表了五個全新發現的蛙類物種。",
+      "在英國國家公園的南丘陵地區，一項野地復育計畫讓當地蝴蝶數量迎來大爆發，並首次觀測到兩種國家級珍稀蝶類。"
+    ]
   }
 ]
