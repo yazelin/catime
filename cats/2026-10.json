@@ -4420,5 +4420,43 @@
     "news_inspiration": [],
     "story": "在充滿金屬圓頂與電漿管線的原子龐克研究室裡，貓咪科學家助手正在調校能量核心。明亮的高調光線映照在光滑如鏡的水面上，將琥珀色的暖光折射成無數燦爛斑駁的花紋。",
     "inspiration": "original"
+  },
+  {
+    "style_picks": {
+      "art_style": "Medium Format Photography",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Translucent Resin",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "comment_id": 6401149718,
+    "prompt": "A medium format photograph, styled as a Mucha-style arched frame composition, captures Captain, a scruffy, large stocky brown classic tabby cat with bold black stripes, broad, muscular build, and a thick, sturdy tail. Captain's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch, while his right eye is a piercing emerald green. He has a prominent V-shaped notch on his left ear, a faded red bandana tied loosely around his neck, a white chest bib, and white mitten paws. He is steadily crouching on the top spiral stone steps of an old lighthouse, overlooking a sea. Hard, directional midday sunlight casts distinct shadows, highlighting the gritty, coarse texture of his untidy fur. His single green eye is focused intently. The sea below is colored with the warm tones of sunset, and countless vermilion and gilt-depicted maple leaves are drifting like a tide across the water's surface. Some of these maple leaves are encased in translucent, amber-like resin blocks, which are set into the weathered lighthouse window sill and railings. The date and time '2026-10-25 17:56 UTC' are visibly displayed in a simple font on a section of the stone wall. The ornamental rounded arch framing features a decorative border halo with symmetrical Art Nouveau panel elements, integrating stylized floral and leaf motifs into the stone design. The background ocean shows extraordinary tonal range under the golden hour light, with a creamy shallow depth of field rendering the distant horizon. The overall aesthetic is gritty yet refined, resembling a candid shot from a classic film camera with natural grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在南韓首爾，知名 K-pop 團體 ENHYPEN 與世界衛生組織（WHO）合作發起的全球捐血倡議活動，成功吸引了跨越 177 個國家、數千名青年響應加入捐血行列。",
+      "在美國加利福尼亞州，國際天文學界發表最新發現，科學家透過分析數據確認在太陽系外可能找到了第一顆「系外衛星」，為人類探索宇宙帶來嶄新突破。",
+      "在肯亞奈洛比，當地最新啟動的全國土壤繪製計畫，透過精準科學分析協助農民提升作物產量並促進永續農業發展。"
+    ],
+    "season": "autumn",
+    "avoid_list": [
+      "微型機器人迷宮",
+      "幾何光影迷宮",
+      "浮島場景與飄浮平台",
+      "黑光螢光與絲質暈染",
+      "長卷全景與螺旋構圖",
+      "底片顆粒感與底片質感",
+      "孔雀藍與金色調",
+      "用爪子撥弄或按壓物件",
+      "魚眼鏡頭與強烈扭曲視角",
+      "濕版攝影風格",
+      "傳統中文與英文日期時間標示"
+    ],
+    "idea": "這是一幅採用穆夏式拱框構圖的中片幅攝影作品，硬光日照下，一隻戴著眼罩的壯碩虎斑貓「船長」正穩穩地蹲坐在老燈塔的螺旋石階頂端。牠圍著褪色紅色頭巾，專注地俯瞰著夕陽餘暉下，無數片朱紅描金的楓葉如潮水般飄過海面，有些楓葉甚至被封存在晶瑩剔透的透明樹脂塊中，點綴在古老的燈塔窗櫞和欄杆上。",
+    "title": "楓染夕陽燈塔望",
+    "story": "「船長」守護這座港口已經許久，每當秋意漸濃，牠總會來到燈塔最高處吹風。看著楓葉飛越海面，牠想起年輕時在漁船上乘風破浪的日子，雖然那段記憶和牠的左眼一樣成了謎，但牠眼裡的堅毅依然如翠綠色的寶石般閃耀。今天，夕陽將海面染成一片金紅，而牠，依然是這片水域最可靠的守望者。",
+    "character_name": "船長",
+    "number": 3547,
+    "character": "captain",
+    "inspiration": "original",
+    "is_seasonal": true
   }
 ]
