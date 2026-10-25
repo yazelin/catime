@@ -33491,5 +33491,18 @@
     "inspiration": "original",
     "timestamp": "2026-10-25 17:56 UTC",
     "is_seasonal": true
+  },
+  {
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-10/cat_2026-10-25_2013_UTC.webp",
+    "season": "autumn",
+    "inspiration": "original",
+    "character": "mochi",
+    "title": "暖秋薯香",
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 3548,
+    "timestamp": "2026-10-25 20:13 UTC"
   }
 ]

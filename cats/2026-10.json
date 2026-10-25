@@ -4458,5 +4458,45 @@
     "character": "captain",
     "inspiration": "original",
     "is_seasonal": true
+  },
+  {
+    "season": "autumn",
+    "story": "秋意漸濃的街角，金黃的烤番薯散發出陣陣誘人香氣。麻糬舒服地趴在充滿天鵝絨般溫潤質感的木箱上，任由微光與暖意將牠圓滾滾的身型包裹。",
+    "inspiration": "original",
+    "character": "mochi",
+    "title": "暖秋薯香",
+    "idea": "採用鋼筆淡彩插畫風格與薰衣草紫山林綠色調，運用前景遮擋虛化構圖，一隻圓滾滾的橘白貓麻糬圍著格紋圍巾，在散發微弱生物發光的傳統烤番薯攤旁溫暖打盹。",
+    "news_inspiration": [
+      "秘魯的雨林研究人員在亞馬遜地區發現了五個全新品種的青蛙，為當地豐富的生物多樣性再添新紀錄。",
+      "迦納的一名可可農夫推動樹木保護與林下耕作計畫，成功在維護森林生態的同時大幅提升了農民收入。",
+      "英國南丘國家公園的再野化計畫展現成果，當地成功讓多種稀有蝴蝶數量迎來爆發性成長。",
+      "南韓團體 ENHYPEN 與世界衛生組織（WHO）在首爾合作推廣青年捐血活動，在全球吸引了上萬名年輕人響應。",
+      "泰國曼谷宣布將於十月盛大舉辦「世界旅遊與文化博覽會」，結合文化創意與旅遊產業吸引全球旅客。"
+    ],
+    "avoid_list": [
+      "微型機器人迷宮",
+      "幾何光影迷宮",
+      "浮島場景與飄浮平台",
+      "黑光螢光與絲質暈染",
+      "長卷全景與螺旋構圖",
+      "底片顆粒感與底片質感",
+      "孔雀藍與金色調",
+      "用爪子撥弄或按壓物件",
+      "魚眼鏡頭與強烈扭曲視角",
+      "濕版攝影風格",
+      "傳統中文與英文日期時間標示"
+    ],
+    "character_name": "麻糬",
+    "is_seasonal": true,
+    "number": 3548,
+    "prompt": "A pen-and-wash illustration capturing Mochi, a chubby shorthair cat with specific markings, snugly dozing on a deep pile velvet textile covering a wooden box at an autumn street food stall. Mochi wears a warm plaid scarf. According to her identity card, Mochi has a white base coat, with a solid orange mask covering only the right half of her face (viewer perspective) from nose to ear, while the left face is entirely white. Her right front paw is a solid orange mitten to the wrist, and her left front paw is pure white. A heart-shaped orange saddle patch is visible on her upper back. Mochi is curled up, head tucked, with round amber eyes closed and pink nose tucked in. The traditional roasted sweet potato stall, with sign text reading '古早味烤番薯' and gold-colored sweet potatoes, is illuminated by warm, bio-luminescent light emanating from organic sources like glowing moss and fungi integrated into the stall structure, contrasting with the cool deep blue-green radiance of the surrounding autumn night. The illustration features loose, airy sketch lines in dark brown ink and soft watercolor tint washes in a palette of lavender purple and mountain green. The composition employs blurred foreground occlusion with out-of-focus lavender flowers, dry autumn leaves, and branches softly framing the scene, creating layered depth and an intimate peeking view. Hazy soft shading adds dimension. Traditional Chinese text and English date/time stamp '2026-10-25 20:13 UTC' are discreetly placed in the upper right corner in a handwritten-style script. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 6402645980,
+    "style_picks": {
+      "art_style": "Pen-and-Wash Illustration",
+      "composition": "Blurred Foreground Occlusion",
+      "lighting": "Bioluminescence",
+      "texture": "Velvet",
+      "color_palette": "Lavender and Mountain Green"
+    }
   }
 ]
