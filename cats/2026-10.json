@@ -4498,5 +4498,35 @@
       "texture": "Velvet",
       "color_palette": "Lavender and Mountain Green"
     }
+  },
+  {
+    "title": "星穹蕾絲之守望",
+    "news_inspiration": [],
+    "idea": "一隻金吉拉貓在繁複蕾絲與象牙描金裝飾的古董天文台裡，優雅地撥弄著穆夏拱框中的黃道十二宮星圖指針。",
+    "prompt": "An intricate watercolor anime illustration rendered with soft, transparent washes and gentle pastel bleeding edges, capturing a healing slice-of-life mood on textured art paper. The composition follows a Mucha-style arched frame, enclosing the scene within a decorative border halo of symmetrical Art Nouveau paneling and integrated floral motifs. A Chinchilla cat, named '星塵', with fluffy silver-tipped fur and large expressive eyes, stands elegantly on its hind legs within a vintage, ornate astronomical observatory decorated with elaborate ivory and gold lace patterns and filigree. The cat is actively pawing at a delicate brass pointer on an exquisite, large celestial map contained within a decorative, rounded arch panel featuring the signs of the Zodiac. The celestial map is made of fine, translucent lace openwork with intricate floral cutout patterns and gilded details, clearly displaying the constellations and symbols. The cat's paw is touching the pointer, guiding it towards the Jupiter symbol on the zodiac ring. The observatory background shows antique brass telescopes, star charts, and bookshelves, all rendered with soft washes and decorative lace accents. Soft, warm, even studio lighting illuminates the entire scene, highlighting the delicate paper texture and the elegant scalloped edges of the lace. In the upper left corner, within the decorative border, the date and time '2026-10-25 22:54 UTC' are subtly yet clearly displayed in Traditional Chinese and English script. The color palette is a creamy off-white base with soft metallic gilding and gentle warm luminance, conveying an understated luxurious elegance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3549,
+    "style_picks": {
+      "art_style": "Watercolor Anime Illustration",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Ivory and Gold"
+    },
+    "comment_id": 6404563416,
+    "story": "這隻名叫「星塵」的貓咪，是古董天文台的神祕守護者。它不需要望遠鏡，只需輕觸那副精緻的蕾絲星圖，就能指引迷途的星星回家。今晚，它正忙著將偏離航道的木星撥回黃道十二宮的正軌。",
+    "inspiration": "original",
+    "avoid_list": [
+      "微型機器人迷宮",
+      "幾何光影迷宮",
+      "浮島場景與飄浮平台",
+      "黑光螢光與絲質暈染",
+      "長卷全景與螺旋構圖",
+      "底片顆粒感與底片質感",
+      "孔雀藍與金色調",
+      "用爪子撥弄或按壓物件",
+      "魚眼鏡頭與強烈扭曲視角",
+      "濕版攝影風格",
+      "傳統中文與英文日期時間標示"
+    ]
   }
 ]
