@@ -4528,5 +4528,39 @@
       "濕版攝影風格",
       "傳統中文與英文日期時間標示"
     ]
+  },
+  {
+    "comment_id": 6405807592,
+    "number": 3550,
+    "news_inspiration": [
+      "秘魯（亞馬遜雨林區域）：研究人員與當地原住民社群合作，在雨林中成功發現並發表了五種全新的蛙類物種。",
+      "英國（西薩塞克斯郡/南唐斯國家公園）：一項將荒廢農地還原為自然生態區的再野化計畫傳出捷報，成功帶動當地蝴蝶數量大幅增長並吸引稀有物種棲息。",
+      "韓國（首爾市）：首爾奧林匹克公園全新設立的韓國國家體育博物館正式開幕，展示韓國豐富的體育文化史。",
+      "瑞士（拉克司）：著名的阿爾卑斯滑雪勝地推出兼具電動雪道整備車與無化學雪砲的綠色升級，引領永續旅遊觀光新潮流。"
+    ],
+    "avoid_list": [
+      "穆夏式拱框構圖",
+      "底片顆粒感與電影感打光",
+      "生物發光與微光質感",
+      "象牙描金與柔和金屬質感",
+      "貓爪撥動裝置或儀器",
+      "水面鏡面倒影與漣漪",
+      "體積光與神聖光芒",
+      "幾何格線與貼紙拼貼構圖",
+      "傳統中文與英文時間戳記",
+      "沉思凝視特寫視角"
+    ],
+    "story": "端午節將至，貓咪阿福正為準備包粽子的糯米漿忙碌著。它後腳蹬地，前爪搭在長木柄上，努力推動石磨，在水底映照出的光影中，古老的磨盤彷彿有了生命，緩緩轉出濃稠的米漿。",
+    "idea": "俯瞰視角的中式節慶美食海報，苔蘚覆蓋的古老石磨盤上，一隻貓咪正專注地推著石磨，周圍環繞著竹影翠綠的水下焦散光。",
+    "style_picks": {
+      "art_style": "Chinese Festive Food Poster",
+      "composition": "Bird's-Eye View",
+      "lighting": "Underwater Caustics",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "prompt": "Chinese festive food poster, bird's-eye view, top-down perspective, looking straight down, a cat focused on pushing a moss-covered ancient stone mill, the mill grinding thick glutinous rice paste for Dragon Boat Festival, surrounded by bamboo jade-green palette, lush green organic overgrowth, underwater caustic lighting with rippling light patterns dancing over the subject, blue-green aquatic glow, refracted sun shafts, submerged dreamlike atmosphere, the text '2026-10-26' visually displayed in the image IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "title": "水底石磨，貓舞米香"
   }
 ]
