@@ -4669,5 +4669,41 @@
     "prompt": "A fashion editorial photograph of a sage green Russian Blue cat focused intently on manipulating the eyepiece of an 1889 vintage astronomical telescope with its front paw. The shot is captured through a circular antique metal frame, creating a nested frame within a frame composition against a deep crimson velvet textured backdrop. Ring light illumination produces circular catchlights in the cat's eyes with beauty portrait quality even lighting. In the soft-focused background, subtle Van Gogh 'Starry Night' style swirling night sky patterns blend into the atmosphere. The photo features a complementary vivid crimson and sage green color palette, high-end magazine styling, tactile luxury, and depth of field emphasis. The date and time '2026-10-26 17:48 UTC' is visually displayed in clear text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "美國紐約的古物與科學研究團隊發現，梵谷名畫《星夜》中的星團排列，精確對應了1889年7月金牛座天空的真實星空景象。",
     "idea": "這是一幅時尚編輯攝影，緋紅天鵝絨背景中，一個圓形古董金屬框構成了框中框，環形燈照亮了一隻蒼綠色俄羅斯藍貓，牠正專注地用前爪撥弄著一個1889年復古天文望遠鏡的目鏡，背景隱約可見梵谷《星夜》風格的漩渦星空。"
+  },
+  {
+    "comment_id": 6428429822,
+    "avoid_list": [
+      "穆夏式拱框構圖",
+      "底片顆粒感與電影感打光",
+      "生物發光與微光質感",
+      "象牙描金與柔和金屬質感",
+      "貓爪撥動裝置或儀器",
+      "水面鏡面倒影與漣漪",
+      "體積光與神聖光芒",
+      "幾何格線與貼紙拼貼構圖",
+      "傳統中文與英文時間戳記",
+      "沉思凝視特寫視角"
+    ],
+    "character_name": "麻糬",
+    "news_inspiration": [
+      "美國麻省理工學院（MIT）的工程師成功開發出一款極薄的微型水下機器人，它利用活體肌肉細胞作為動力並透過光照控制轉向。",
+      "加拿大安大略省的卡普斯卡辛（Kapuskasing）近期完成一項大型私人土地保育協議，永久保護超過81,400公頃的北方泰加森林與泥炭地。",
+      "英國蘇格蘭的高地凱恩戈姆國家公園（Cairngorms）大規模推動森林復育計畫，成功造林數百萬棵新樹，讓古老森林再現生機。",
+      "莫三比克的贊比西河三角洲野生動物保護計畫成效顯著，當地的野生動物旅行社榮獲2026年馬可波羅永續保育大獎。"
+    ],
+    "idea": "這是一幅黏土動畫風格的作品。螺旋漩渦構圖引導視線看向麻糬（Mochi），牠正圓滾滾地趴在一輛撒滿花生粉的古董鏽蝕金屬攤車上，好奇地看著一個粉嫩色的微型水下機器人在一碗日式湯麵裡「游動」。",
+    "prompt": "A claymation photograph capturing a spiral vortex composition that guides the eye inward to Mochi, a chubby, rounded cat, perched atop a heavily rusted, weathered metal market stall covered in scattered peanut powder. Mochi has a white base coat, a solid orange mask covering the RIGHT half of his face, a white LEFT face, a heart-shaped orange saddle on his upper back, a solid orange RIGHT front paw mitten, a white LEFT front paw, and large round amber eyes. His stubby legs and spherical body are made of sculpted clay with visible fingerprint textures and a stop-motion aesthetic. Mochi is staring intently, wide-eyed, at a tiny, pink micro submersible robot 'swimming' actively within a bowl of Japanese ramen soup containing noodles, broth, green onions, and fish cake slices. The robot has moving, fleshy-looking biological muscle-actuated fins and is trailing bubbles. The entire scene follows a strong rotational perspective with a dizzying sense of depth, a cinematic low angle, and a centered vanishing point. The atmosphere is luminous, high-key bright, and airy with soft, even illumination, minimal shadows, and a dreamy pastel mood featuring colors of rusted orange-brown, gentle pink, lavender, mint, and baby blue. The background shows a coiled, architecturally-inspired market staircase and circular structures made of aged clay, with peeling paint layers and industrial decay. The date and time '2026-10-26 22:01 UTC' are displayed in Traditional Chinese characters on a small, textured clay sign attached to the stall structure near Mochi. The photograph has a tangible clay texture, soft edges, and a candid, whimsical feel, without resolution keywords or artificial enhancements. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Rust / Weathered",
+      "color_palette": "Pastel Colors"
+    },
+    "number": 3554,
+    "inspiration": "美國麻省理工學院（MIT）的工程師成功開發出一款極薄的微型水下機器人，它利用活體肌肉細胞作為動力並透過光照控制轉向。",
+    "title": "麵碗裡的迷你潛艇",
+    "character": "mochi",
+    "story": "麻糬在市場裡聞香而來，這家麵攤的老闆剛好是MIT的研究員，正在測試他的最新發明。麻糬看著機器人擺動活體肌肉細胞動力鰭，眼睛放大兩倍，心裡納悶：「這塊會動的肉可以吃嗎？」"
   }
 ]
