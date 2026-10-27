@@ -4736,5 +4736,38 @@
     "story": "在正午刺眼的硬光照射下，純白的藝廊空間被強烈的陰影分割成幾何圖塊。這隻貓安靜地蹲在冰冷的石材地面上，用爪子撥弄著錯綜複雜的金屬齒輪，彷彿在為這座冰冷的建築注入一絲神祕的生命力。",
     "prompt": "A multi-panel character montage in architectural visualization render style, arranged in a cohesive comic-style grid showing a single cat in several poses and expressions across panels. The cat, on all fours, is intently repairing a giant geometric sculpture in a minimalist concrete modern art gallery, manipulating intricate metal gears with its paws on the cold stone floor. Harsh midday sunlight streams through, creating hard-edge shadows and high-contrast natural daylight that divides the pure white gallery space into geometric blocks. Deep indigo grounds, vivid crimson accents, and crisp white highlights form a bold tricolor palette, adorned with scattered metallic gold foil flecks and shimmering gilded specks. Atmospheric scale with glass and concrete surfaces, captured with clean global illumination and design portfolio quality. The text '2026-10-27 01:40 UTC' is visually displayed in a clean, legible font in the corner of the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "news_inspiration": []
+  },
+  {
+    "title": "港口守護者",
+    "number": 3556,
+    "idea": "採用印度貢德畫（Gond Painting）風格，以青橙電影色調（Teal and Orange）呈現，描繪港口老大「船長」在漁市場利用魚骨頭織補漁網。畫面運用強烈的引導線構圖，將視線集中在「船長」專注的神情與牠身旁層次豐富、充滿細節的網具結構上。",
+    "story": "這位身經百戰的虎斑貓船長，正蹲坐在一堆剛捕撈上岸的漁獲旁，用銳利的翠綠右眼審視著牠的手藝，確保每一道V型缺口都能修復完美。周圍的漁網線條在貢德畫的筆觸下，如同海浪般層層包圍，與遠處市場的喧囂形成鮮明對比，展現牠粗獷卻細膩的守護者形象。",
+    "news_inspiration": [],
+    "character": "captain",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Leading Lines Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Teal and Orange"
+    },
+    "avoid_list": [
+      "繁體中文與英文時間戳記",
+      "貓爪撥弄發光儀器或指針",
+      "水面或光滑平面的鏡面反射",
+      "穆夏風格拱框與植物裝飾",
+      "活體肌肉微型機器人",
+      "生物發光或柔和星雲輝光",
+      "古董天文台與望遠鏡",
+      "傳統烤番薯與花生粉攤車",
+      "半臉橘斑與橘手套特徵貓咪",
+      "橘紫互補色調",
+      "高調明亮與空氣感光線",
+      "俯瞰或螺旋漩渦視角構圖"
+    ],
+    "character_name": "船長",
+    "comment_id": 6435820623,
+    "prompt": "A vibrant Indian Gond painting-style illustration capturing the character Captain, a large stocky brown tabby cat with bold black stripes, scruffy coarse fur texture, white chest bib, and white mitten paws, as a four-legged cat. Captain is squatting in a bustling traditional fishing market, meticulously mending a large, intricate fishing net using a small fish bone as a needle. His sharp emerald green right eye is intensely focused on his work. Captain's left eye (viewer perspective) is naturally concealed by a dark-pigmented fur patch, with no fabric eye patch or strap, and his left ear shows the distinctive V-shaped notch. The faded red bandana is loosely tied around his neck. He is surrounded by a chaotic scene of layered, finely patterned fishing nets, vibrant catch-of-the-day seafood, and market activity. The overall color palette features strong teal and orange cinematic grading, with warm amber light and deep blue-green shadows, integrated with Gond intricate dot and line patterns and nature-inspired motifs. Strong leading perspective lines formed by market stalls, net arrays, and architectural elements converge towards Captain's concentrated expression and the detailed net structure beside him, creating depth and focus. A classic three-point lighting setup illuminates Captain with key light creating soft shadows and subtle rim light separation against the complex background. Text '2026-10-27 06:58 UTC' is visually integrated and displayed in traditional Chinese (繁體中文) on a sign within the market scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original"
   }
 ]
