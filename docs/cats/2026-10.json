@@ -4769,5 +4769,38 @@
     "comment_id": 6435820623,
     "prompt": "A vibrant Indian Gond painting-style illustration capturing the character Captain, a large stocky brown tabby cat with bold black stripes, scruffy coarse fur texture, white chest bib, and white mitten paws, as a four-legged cat. Captain is squatting in a bustling traditional fishing market, meticulously mending a large, intricate fishing net using a small fish bone as a needle. His sharp emerald green right eye is intensely focused on his work. Captain's left eye (viewer perspective) is naturally concealed by a dark-pigmented fur patch, with no fabric eye patch or strap, and his left ear shows the distinctive V-shaped notch. The faded red bandana is loosely tied around his neck. He is surrounded by a chaotic scene of layered, finely patterned fishing nets, vibrant catch-of-the-day seafood, and market activity. The overall color palette features strong teal and orange cinematic grading, with warm amber light and deep blue-green shadows, integrated with Gond intricate dot and line patterns and nature-inspired motifs. Strong leading perspective lines formed by market stalls, net arrays, and architectural elements converge towards Captain's concentrated expression and the detailed net structure beside him, creating depth and focus. A classic three-point lighting setup illuminates Captain with key light creating soft shadows and subtle rim light separation against the complex background. Text '2026-10-27 06:58 UTC' is visually integrated and displayed in traditional Chinese (繁體中文) on a sign within the market scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "original"
+  },
+  {
+    "character_name": "墨墨",
+    "character": "momo",
+    "prompt": "A candid, eye-level head-and-shoulders photograph capturing Momo, the solid-black Bombay-style shorthair cat, engrossed in smelling an old, open botanical book within a neon-lit bookstore corner. The cat's satin-sheen black fur, revealing warm brown undertones, is illuminated by dramatic, high-saturation neon lights: a pink glow from the left and an electric blue from the right. Momo has large, luminous golden-amber eyes, long prominent white whiskers, and a calm, attentive expression, looking directly down into the book. The specific identity card features are clearly visible: a single small gold hoop earring on her left ear (viewer's left), a tiny natural white fur locket tuft on her ventral chest, and a dark-grey ring near the tip of her tail. The open book rests on a wooden surface, its pages filled with pressed, dried botanical specimens—delicate, translucent leaves, flowers, and layered plant materials that create an organic collage texture. The background is a moody, blurred urban night environment of the bookstore aisle, with colorful, glowing Traditional Chinese neon signs (like 舊書店, 植物學圖鑑) creating reflections and highlights on surfaces and the cat's fur, resulting in high color contrast and an energetic palette. The focus is critically sharp on Momo's face, whiskers, and the immediate pages of the botanical book showing the pressed layers. The photograph has a gritty film grain, shallow depth of field, and natural light quality. The date and time '2026-10-27 12:56 UTC' is visibly displayed in the lower-right corner of the image in a subtle, glowing Traditional Chinese/English digital font. Shot on 35mm film, f/4.0, 1/160s, ISO 6400, candid, documentary style. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "霓虹書影的低語",
+    "comment_id": 6442493080,
+    "number": 3557,
+    "idea": "這是一幅超寫實動漫風格的頭肩特寫，墨墨（Momo）在舊書店的霓虹燈角落，專注地嗅著一本沾有Pressed Botanical layers（壓花植物疊層）的舊書，金琥珀色的眼睛在螢光粉和電光藍的霓虹燈光下熠熠生輝。",
+    "story": "墨墨在書店迷宮中發現了一本夾著乾燥壓花的古老植物學圖鑑。霓虹招牌的迷幻光影投射在牠絲緞般的黑毛和書頁上，牠正優雅地分辨著花朵與陳年紙張混合出的獨特時間氣味。這是一個充滿高飽和度鮮豔色調和安靜專注的瞬間。",
+    "avoid_list": [
+      "繁體中文與英文時間戳記",
+      "貓爪撥弄發光儀器或指針",
+      "水面或光滑平面的鏡面反射",
+      "穆夏風格拱框與植物裝飾",
+      "活體肌肉微型機器人",
+      "生物發光或柔和星雲輝光",
+      "古董天文台與望遠鏡",
+      "傳統烤番薯與花生粉攤車",
+      "半臉橘斑與橘手套特徵貓咪",
+      "橘紫互補色調",
+      "高調明亮與空氣感光線",
+      "俯瞰或螺旋漩渦視角構圖"
+    ],
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Hyperrealistic Anime",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Neon Lighting",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "High Saturation Vivid"
+    },
+    "inspiration": "original"
   }
 ]
