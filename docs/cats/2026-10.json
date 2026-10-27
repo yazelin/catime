@@ -4802,5 +4802,41 @@
       "color_palette": "High Saturation Vivid"
     },
     "inspiration": "original"
+  },
+  {
+    "inspiration": "莫三比克尚比西河三角洲：野生動物保護野生巡獵營運商因成功復育當地的野生動物種群，榮獲國際永續野生動物管理「馬可波羅獎」（Markhor Award）。",
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Split View",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "河流的航海圖",
+    "news_inspiration": [
+      "美國亞利桑那州：基里卡瓦國家紀念碑正式升格為「基里卡瓦國家公園」，妥善保護當地獨特的水晶石柱地貌與阿帕契印第安文化遺產。",
+      "蘇格蘭凱恩戈姆：作為英國最大的國家公園，當地的植樹造林計畫取得顯著成效，數百萬棵新樹苗讓古老森林恢復蓬勃生機。",
+      "加拿大安大略省：環保團體與政府合作在卡普斯卡辛以南成功保護了廣達8.14萬公頃的苔原與泥炭地，創下該省史上最大規模的私人土地自然保護紀錄。",
+      "莫三比克尚比西河三角洲：野生動物保護野生巡獵營運商因成功復育當地的野生動物種群，榮獲國際永續野生動物管理「馬可波羅獎」（Markhor Award）。"
+    ],
+    "idea": "一隻四足黑貓正專注地在一艘舊式漁船的木質甲板上，用爪子細緻地翻閱並比對一張航海地圖，整體畫面採用傳統魚拓風格的古絹絹本質感與暖色調琥珀光影。",
+    "story": "在莫三比克尚比西河三角洲波光粼粼的微風中，牠彷彿是一位老練的航海家，正在規劃下一趟穿越三角洲的探索航程。周圍散落著幾枚貝殼與泛黃的航海日誌，記錄著河流與野生動物的古老足跡。",
+    "prompt": "A Gyotaku style ink print on aged silk scroll surface, featuring a four-legged black cat on the wooden deck of an old fishing boat, with a traditional Japanese art form aesthetic and monochrome contact print look. The cat is meticulously pawing and examining an old nautical map, with textured relief surface detailing the river delta trails. Scattered shells, weathered paper stains, and antique manuscript textures, and aged logbooks are around it. The overall composition uses warm sepia patina and warm amber color grading with a cozy nostalgic warmth from a golden yellow and burnt orange autumn palette. Delicate crease lines and visible silk weave are evident throughout the ancient silk. The date and time '2026-10-27 18:29 UTC' are subtly integrated into the print design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3558,
+    "comment_id": 6450411306,
+    "avoid_list": [
+      "繁體中文與英文時間戳記",
+      "貓爪撥弄發光儀器或指針",
+      "水面或光滑平面的鏡面反射",
+      "穆夏風格拱框與植物裝飾",
+      "活體肌肉微型機器人",
+      "生物發光或柔和星雲輝光",
+      "古董天文台與望遠鏡",
+      "傳統烤番薯與花生粉攤車",
+      "半臉橘斑與橘手套特徵貓咪",
+      "橘紫互補色調",
+      "高調明亮與空氣感光線",
+      "俯瞰或螺旋漩渦視角構圖"
+    ]
   }
 ]
