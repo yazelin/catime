@@ -4869,5 +4869,39 @@
     "inspiration": "original",
     "idea": "一幅採用建築藍圖風格的等距3D插圖，展現了一隻黑貓在孔雀藍與金色的鑄鐵雕花結構中，精細地用爪子修理一個古董懷錶，場景充滿霓虹燈光。",
     "prompt": "A 3D isometric illustration in an architectural blueprint style, depicting a black cat named Movement using its claws to meticulously repair an antique pocket watch inside an ornate wrought iron filigree structure. Technical drawing features white lines on a blue background with precise measurements, annotations, and clean geometric forms. The scene features Victorian architectural ironwork, ornate black scrollwork, intricate openwork patterns, and cast iron lace in a peacock blue and gold palette, combining deep teal-blue with metallic gold outlines for jewel-toned opulence. Moody urban night atmosphere enhanced by neon lighting, colorful glowing signs, and reflections on wet surfaces. The text '2026-10-27 22:43 UTC' is visually displayed in the image as a technical blueprint annotation. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "title": "泉影白貓",
+    "comment_id": 6458570214,
+    "prompt": "A white cat on all fours thoughtfully pawing at steaming thermal water beside a geothermal hot spring in Rotorua, New Zealand. Traditional blue and white porcelain artistic style featuring cobalt blue floral motifs on a crisp white glazed base with delicate crackle texture. Full-bleed frame-filling composition with the subject cropped close to the edges, dense edge-to-edge detail, and no empty margins. Glowing duotone color treatment using only deep cobalt blue and glowing green-blue bioluminescent natural light, casting an organic radiance through mist and steam. Distressed vintage print texture with mottled uneven ink coverage, cracked pigment, and aged paper stains. Visually displaying the exact text '2026-10-28 01:53 UTC' clearly integrated into the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3560,
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Bioluminescence",
+      "texture": "Distressed Vintage Print",
+      "color_palette": "Duotone"
+    },
+    "story": "白貓輕輕地伸出爪子，試探著從地熱溫泉中升起的微熱蒸氣，四周環繞著裊裊白煙與自然的芬多精。這是一段屬於貓咪與大自然溫泉的奇幻悠閒時光。",
+    "avoid_list": [
+      "繁體中文日期時間標籤",
+      "貓咪專注操作或修繕工具",
+      "黑色短毛貓與金色琥珀眼",
+      "古董與機械物件組合",
+      "高對比戲劇光影與霓虹光",
+      "豐富紋理與復古藝術畫風",
+      "青橙或互補色彩調色盤",
+      "微型機器人與活體組織",
+      "金箔潑點與金色裝飾邊線",
+      "框中框與螺旋漩渦構圖",
+      "豐富細節疊加與文字融入"
+    ],
+    "news_inspiration": [
+      "美國亞利桑納州正式將奇里卡瓦地區指定為全新國家公園，保護當地獨特的「立石」景觀與阿帕契文化遺產。",
+      "墨西哥墨西哥城在芙烈達·卡蘿故居藍屋附近開設了全新家族營運的卡蘿博物館，展出珍貴的私人收藏與檔案。",
+      "紐西蘭羅托路亞因豐富的自然地熱溫泉與戶外水療體驗大受歡迎，成為全球旅客快速崛起的熱門旅遊目的地。"
+    ],
+    "idea": "一隻四腳著地的白貓正在紐西蘭羅托路亞的地熱溫泉畔專注地撥弄著冒著蒸氣的溫泉水，畫面採用青花瓷藝術風格與雙色調。",
+    "inspiration": "紐西蘭羅托路亞因豐富的自然地熱溫泉與戶外水療體驗大受歡迎，成為全球旅客快速崛起的熱門旅遊目的地。"
   }
 ]
