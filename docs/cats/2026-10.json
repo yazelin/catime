@@ -4938,5 +4938,35 @@
       "框中框與螺旋漩渦構圖",
       "豐富細節疊加與文字融入"
     ]
+  },
+  {
+    "prompt": "A candid, monochromatic photograph captures a silver-and-white tabby cat focused intently on a small, translucent-cased PDA from the Y2K era, set against a backdrop of flowing silver silk fabric. The cat, shown in a head-and-shoulders composition, leans down, its front paw lightly tapping the lit screen of the palm-sized device. The screen displays the text '2026-10-28 14:39 UTC' and the label 'Y2K Pocket PC' in traditional Chinese characters, glowing softly through the clear plastic. The classic three-point lighting highlights the cat's smooth fur and the textured details of the PDA keys and silk drape, creating a rich tonal range of blacks, whites, and greys with visible film grain. Shot on a Canon EOS 3 with a 35mm lens, f/2.8, 1/160 sec, ISO 800. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文日期時間標籤",
+      "貓咪專注操作或修繕工具",
+      "黑色短毛貓與金色琥珀眼",
+      "古董與機械物件組合",
+      "高對比戲劇光影與霓虹光",
+      "豐富紋理與復古藝術畫風",
+      "青橙或互補色彩調色盤",
+      "微型機器人與活體組織",
+      "金箔潑點與金色裝飾邊線",
+      "框中框與螺旋漩渦構圖",
+      "豐富細節疊加與文字融入"
+    ],
+    "news_inspiration": [],
+    "inspiration": "original",
+    "story": "在滿是千禧年復古3C設備的透明置物櫃旁，貓咪對那台亮起背光的口袋微型電腦充滿好奇。伴隨著精準的三點打光，貓咪柔順如絲綢般的毛髮與光滑的金屬按鍵形成對比，交織出一幅獨特而專注的畫面。",
+    "comment_id": 6472080809,
+    "idea": "在銀色絲綢背景襯托下，一隻銀白斑紋貓正低頭凝視並用前爪輕戳著一部開著螢幕的微型Y2K透明彩色PDA，畫面採用頭肩特寫構圖與經典黑白單色調表現。",
+    "number": 3562,
+    "title": "數位掌心的柔光凝視",
+    "style_picks": {
+      "art_style": "Y2K Aesthetic",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Three-Point Lighting",
+      "texture": "Silk",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
