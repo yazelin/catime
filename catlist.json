@@ -33642,5 +33642,18 @@
     "number": 3562,
     "title": "數位掌心的柔光凝視",
     "status": "success"
+  },
+  {
+    "status": "success",
+    "season": "autumn",
+    "is_seasonal": true,
+    "character_name": "麻糬",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-10/cat_2026-10-28_1958_UTC.webp",
+    "title": "雪夜番薯香與飛濺的麻糬",
+    "character": "mochi",
+    "timestamp": "2026-10-28 19:58 UTC",
+    "number": 3563,
+    "inspiration": "original"
   }
 ]
