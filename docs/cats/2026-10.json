@@ -4903,5 +4903,40 @@
     ],
     "idea": "一隻四腳著地的白貓正在紐西蘭羅托路亞的地熱溫泉畔專注地撥弄著冒著蒸氣的溫泉水，畫面採用青花瓷藝術風格與雙色調。",
     "inspiration": "紐西蘭羅托路亞因豐富的自然地熱溫泉與戶外水療體驗大受歡迎，成為全球旅客快速崛起的熱門旅遊目的地。"
+  },
+  {
+    "story": "當昔日喧囂的牛津街迎來永恆的寂靜與綠意，行人們紛紛駐足微笑。三花貓低頭俯身，用肉墊輕輕觸碰著重獲新生的城市脈搏。",
+    "comment_id": 6463512508,
+    "number": 3561,
+    "prompt": "A calico cat on all four paws excitedly chasing a newly fallen red maple leaf on a car-free cobblestone street in Oxford Street, London. Style: Paper diorama scene, three-dimensional layered paper sculpture, laser-cut foliage silhouettes, pop-up book aesthetic, miniature handmade landscape with backlit warm glow through translucent paper layers. Lighting & Atmosphere: Cinematic volumetric light rays casting dramatic shadows, high dynamic range, soft textured paper surfaces. Colors: Crimson and black palette, deep blood-red against jet black, creating dramatic high-contrast intensity. Clearly displayed on the scene as a crisp paper-cut overlay text in English: '2026-10-28 07:40 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "一隻四腳著地的三花貓正在倫敦牛津街無車化的石板路上興奮地追逐一片剛落下的紅色楓葉，整體呈現立體紙藝景風格。",
+    "title": "無車街道的追逐",
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Cinematic Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Crimson and Black"
+    },
+    "news_inspiration": [
+      "美國亞利桑那州正式將奇卡烏阿（Chiricahua）指定為全新的國家公園，以保護當地的獨特岩石景觀與豐富的阿帕契文化歷史。",
+      "英國倫敦宣布將對著名的牛津街（Oxford Street）實施永久無車化改造，重新為行人與城市綠化打造友善的公共空間。",
+      "加拿大安大略省宣布了一項大型私有土地保育計畫，將永久禁止砍伐與開發超過8萬公頃的泰加林與泥炭地生態區。",
+      "莫三比克的野生動物保護營運商在宏觀自然保育上表現卓越，於札姆貝齊河delta贏得了2026年的馬可霍爾獎（Markhor Award）。"
+    ],
+    "inspiration": "英國倫敦宣布將對著名的牛津街（Oxford Street）實施永久無車化改造，重新為行人與城市綠化打造友善的公共空間。",
+    "avoid_list": [
+      "繁體中文日期時間標籤",
+      "貓咪專注操作或修繕工具",
+      "黑色短毛貓與金色琥珀眼",
+      "古董與機械物件組合",
+      "高對比戲劇光影與霓虹光",
+      "豐富紋理與復古藝術畫風",
+      "青橙或互補色彩調色盤",
+      "微型機器人與活體組織",
+      "金箔潑點與金色裝飾邊線",
+      "框中框與螺旋漩渦構圖",
+      "豐富細節疊加與文字融入"
+    ]
   }
 ]
