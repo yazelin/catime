@@ -5127,5 +5127,32 @@
     "character_name": "鈴鈴",
     "inspiration": "original",
     "comment_id": 6503413096
+  },
+  {
+    "news_inspiration": [],
+    "prompt": "A detailed illustration of a curious cat interacting with dynamic light and shadows in front of an intricate origami art installation, executed in a photorealistic wuxia character design style with a gritty jianghu atmosphere. The scene features cinematic lighting with a classic three-point setup—a key light casting soft shadows, gentle fill light, and subtle rim light separation. The origami sculpture showcases clean geometric creases, sharp angular folds, and a paper sculpture aesthetic in a color palette of soft periwinkle blue and warm ivory white paired with serene blue-violet tones and creamy highlights. Embedded organically into the lower corner of the image, the text '2026-10-29 22:09 UTC' is clearly and visually displayed. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在這場景中，摺紙藝術裝置仿佛成了武俠世界中的奇幻背景。貓咪的好奇心被裝置所吸引，牠與光影的互動成了這幅寫實插畫中的動人情節，呈現出武俠般的英勇與神秘感。",
+    "idea": "在摺紙藝術裝置前，一隻貓咪正專注地與光影互動，呈現寫實武俠角色設計風格的場景。",
+    "inspiration": "original",
+    "number": 3568,
+    "avoid_list": [
+      "繁體中文/English文字標示",
+      "齒輪或機械修繕動作",
+      "傳統中國或亞洲藝術風格",
+      "黑光螢光與雙色霓虹光影",
+      "金箔與金屬勾邊細節",
+      "古典或特殊材質質感",
+      "四腳著地專注動作",
+      "極端高對比色彩調性"
+    ],
+    "comment_id": 6509508713,
+    "style_picks": {
+      "art_style": "Photorealistic Wuxia Character Design",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Three-Point Lighting",
+      "texture": "Origami",
+      "color_palette": "Periwinkle Blue and Ivory"
+    },
+    "title": "摺紙武俠：光影中的貓"
   }
 ]
