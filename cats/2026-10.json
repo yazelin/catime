@@ -5066,5 +5066,37 @@
       "德國波昂的大學研究人員發現蜘蛛擁有類似人類的睡眠階段，不僅會在睡眠中出現快速動眼期（REM），甚至可能正在做夢。",
       "美國亞利桑那州將擁有獨特岩柱群與豐富阿帕契族文化的奇里卡瓦地區正式指定升格為最新一座國家公園"
     ]
+  },
+  {
+    "inspiration": "德國康斯坦茨大學的研究人員在德國康斯坦茨發現了一種能分解塑膠的神奇「小精靈」酶，為應對全球塑膠汙染帶來了新希望。",
+    "idea": "一隻黑白相間的貓位於畫面中央，以立體主義風格描繪，牠正在一座膨脹絎縫羽絨材質構成的白色迷宮中，用爪子撥弄一個球狀物。整體採用高調明亮光，呈現單色調效果，背景幾何切割且抽象。",
+    "title": "羽絨迷宮裡的探索",
+    "story": "這隻貓在柔軟的羽絨迷宮裡發現了一顆由回收塑膠壓縮而成的微小球體。牠專注地與這個形狀奇特的物體互動，彷彿在進行一場解構遊戲。",
+    "comment_id": 6494320770,
+    "news_inspiration": [
+      "德國康斯坦茨大學的研究人員在德國康斯坦茨發現了一種能分解塑膠的神奇「小精靈」酶，為應對全球塑膠汙染帶來了新希望。",
+      "智利巴塔哥尼亞國家公園的保育團隊在智利查卡布科山谷成功野放了13隻達爾文美洲鴕，寫下了南美洲規模宏大的野生動物復育新篇章。",
+      "美國亞利桑那州正式將奇里卡瓦地區指定為國家公園，進一步完善並保護當地獨特的「直立岩石」地貌與珍貴的阿帕契文化資產。",
+      "加拿大自然保護協會宣佈在安大略省卡普斯卡辛啟動一項大型保護計畫，永久劃定超過8萬公頃的泰加林與泥炭地禁止開發。"
+    ],
+    "avoid_list": [
+      "繁體中文/English文字標示",
+      "齒輪或機械修繕動作",
+      "傳統中國或亞洲藝術風格",
+      "黑光螢光與雙色霓虹光影",
+      "金箔與金屬勾邊細節",
+      "古典或特殊材質質感",
+      "四腳著地專注動作",
+      "極端高對比色彩調性"
+    ],
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Centered Subject Composition",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "A black and white cat centered in the frame, rendered in a Cubism art style with geometric fragmented forms, multiple simultaneous perspectives, and abstract angular planes. The cat is actively pawing at a small spherical object inside a white maze constructed entirely from puffy quilted down texture with inflated padded segments and soft bulging stitched channels. High-key bright lighting creates an airy, overexposed feel with soft even illumination and a luminous clean atmosphere. High-contrast black and white monochrome tonal range. Neatly integrated onto the surface in clear text is the date and time '2026-10-29 10:31 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3566
   }
 ]
