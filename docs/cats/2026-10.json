@@ -5220,5 +5220,41 @@
       "單色與高對比色調",
       "羽絨或絲綢質感"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Translucent Specimen Sculpture",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Underwater Caustics",
+      "texture": "Sand Texture",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "idea": "採用通透標本雕塑風格，一隻水晶般剔透的金吉拉貓俯臥於朱紅描金的花海中，正伸出細長的前爪在沙質紋理的地表上撥弄滾動的幾何蛇形標本，水下焦散光隨之折射出夢幻波紋。",
+    "number": 3571,
+    "prompt": "An overhead view photograph capturing a translucent Chinchilla cat specimen sculpture resting within a dense field of vermilion and gilt flowers, created in the style of a museum exhibit. The cat, rendered in clear resin with visible internal organic structures and suspended gold leaf, reclines on a sandy surface detailed with fine ripples and grains, surrounded by a tapestry of detailed cinnabar red and metallic gold blossoms. It extends a delicate front paw, pressing down on a geometric, segmented snake-like specimen that is coiled and actively rolling on the sand. Water caustics cast dynamic, rippling blue-green light patterns across the entire scene, simulating sunlight filtered through an aquarium, illuminating the glass-like texture of the cat and the intricate floral forms. The atmosphere is dreamlike and scientific. A subtle museum label, partially submerged in the sand near the lower right, displays the date and time in Traditional Chinese characters: '2026-10-30 16:20 UTC'. The composition is a flat-lay with a shallow depth of field, focused on the cat's interaction with the rolling serpent. The natural light enhances the clarity of the sculpture and the richness of the surrounding red and gold textures. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "紅花琉璃下的滾輪靈蛇",
+    "avoid_list": [
+      "時間戳記文字",
+      "繁體中文或英文限制",
+      "三花貓",
+      "純黑貓墨墨",
+      "爪子觸碰發光物件",
+      "四腳著地姿勢",
+      "經典三點打光",
+      "紙藝與摺紙風格",
+      "微型玻璃球或透明置物庫",
+      "古老星圖與星盤",
+      "單色與高對比色調",
+      "羽絨或絲綢質感"
+    ],
+    "inspiration": "英國：古生物與科學家研究發現，東南亞的矮蛇學會在地面上以比平時爬行快四倍的速度快速滾動逃跑。",
+    "story": "古老的琥珀溫室裡，透明雕塑貓在繁花間好奇地追逐著會如圓輪般快速滾動的奇特蛇類。它優雅地伸爪壓住那不住翻滾的軀體，水光與金粉在晶瑩的貓身內部交織出流動的奇蹟。",
+    "comment_id": 6527750277,
+    "news_inspiration": [
+      "德國：康斯坦茨大學的科學家發現了一種具備特殊分解機制的「吃塑膠」Pac-Man 酵素，為環保技術帶來新突破。",
+      "英國：古生物與科學家研究發現，東南亞的矮蛇學會在地面上以比平時爬行快四倍的速度快速滾動逃跑。",
+      "中國：科學家在西南地區發現了生存於 6500 萬年前的巨型真菌「D-Rex」，其生長高度可達 20 吋且重達 5 磅。",
+      "紐西蘭：全球最稀有的鳥類之一「鴕鴞（Kākāpō）」迎來有記錄以來最成功的繁殖季，在獸醫的全力照顧下成功孵化超過百隻幼雛。"
+    ]
   }
 ]
