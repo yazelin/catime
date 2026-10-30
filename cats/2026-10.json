@@ -5154,5 +5154,38 @@
       "color_palette": "Periwinkle Blue and Ivory"
     },
     "title": "摺紙武俠：光影中的貓"
+  },
+  {
+    "character_name": "墨墨",
+    "character": "momo",
+    "comment_id": 6513309284,
+    "idea": "羊毛氈工藝風格：在緋紅與蒼綠色調的書店角落，墨墨戴著金色耳環，正優雅地趴在幾本皮革封面古書上。蝴蝶光照亮牠緞面般的純黑毛皮，凸顯出金琥珀色的大眼睛。",
+    "style_picks": {
+      "art_style": "Needle-Felted Wool Craft",
+      "composition": "Symmetrical Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Leather",
+      "color_palette": "Crimson and Sage Green"
+    },
+    "story": "墨墨習慣挑選有皮革質感的古書封面趴著。牠金琥珀色的眼睛在昏暗的書店裡微微發光，左耳的金色圓環在柔和的蝴蝶光下閃爍。牠像一塊優雅的純黑羊毛氈雕塑，安靜地俯瞰著這個屬於牠的書本王國。",
+    "news_inspiration": [
+      "位於孟加拉朗布爾的一座紡織工廠因將自然與勞工福祉完美結合，榮獲 2026 年英國皇家建築師學會國際獎（RIBA International Prize）。",
+      "德國康斯坦茨大學的科學家們在當地發現了一種能夠加速分解特定塑膠材質的神奇「吃塑膠酶」，引發科學界關注。",
+      "智利巴塔哥尼亞國家公園的一支女性保育團隊成功將 13 隻達爾文美洲鴕引入野外，為南美洲寫下開創性的生態復育里程碑。"
+    ],
+    "inspiration": "original",
+    "number": 3569,
+    "prompt": "A whimsical artisanal needle-felted wool craft figurine of a sleek solid black cat named Momo with soft fuzzy fiber texture, resting gracefully atop aged leather-bound antique books in a cozy bookstore corner. Momo features luminous golden-amber eyes, long white whiskers, a tiny white chest locket tuft, a single dark-grey ring at the tip of its tail, and a small single gold hoop earring attached strictly to its left ear. The background showcases a rich crimson and sage green color palette. Perfectly symmetrical composition centered on the cat with architectural framing and soft butterfly lighting creating an even, warm glow and a symmetrical shadow under its nose. A small, clean digital timestamp reading '2026-10-30 02:14 UTC' is subtly rendered in clear English text at the bottom corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "繁體中文/English文字標示",
+      "齒輪或機械修繕動作",
+      "傳統中國或亞洲藝術風格",
+      "黑光螢光與雙色霓虹光影",
+      "金箔與金屬勾邊細節",
+      "古典或特殊材質質感",
+      "四腳著地專注動作",
+      "極端高對比色彩調性"
+    ],
+    "title": "琥珀眼的守望"
   }
 ]
