@@ -5359,5 +5359,42 @@
     "idea": "在藍曬法復古褪色色調與金箔潑點肌理中，船長站在鏡子自拍構圖的反射裡，於燈塔旁迎著硬光日照專注地修復著老舊的航海羅盤。",
     "inspiration": "original",
     "prompt": "Art illustration in cyanotype print aesthetic with prussian blue monochrome tones, sun-exposed paper texture, gold foil flecks texture, and scattered metallic gold leaf shards. A retro faded color palette with washed-out vintage tones and glinting gilded specks. Mirror selfie composition with visible reflection and intimate close-up perspective of a large stocky brown classic tabby cat with bold black stripes, scruffy coarse coat, a faded red bandana tied loosely around its neck, white chest bib, white mitten paws, prominent V-shaped notch on left ear, distinct forehead M-mark, piercing emerald green right eye, and a natural dark-pigmented dark fur patch permanently concealing its left eye socket without any fabric patch or strap. The cat is sitting beside a lighthouse in autumn with fallen leaves sweeping by, focused on repairing an antique brass nautical compass with its paw. Harsh midday sunlight creating hard edge shadows and high contrast natural daylight. Visually displaying the date and time text '2026-10-31 07:40 UTC' clearly in crisp white English typography in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "comment_id": 6544377141,
+    "style_picks": {
+      "art_style": "Oriental Wasteland Megastructure Concept Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Rust / Weathered",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "德國康斯坦茨大學的科學家發現了一種能加速分解塑膠的特殊酶，因其獨特的分子結構而被暱稱為「吃豆人酶」（Pac-Man enzyme）。",
+    "character_name": "鈴鈴",
+    "news_inspiration": [
+      "孟加拉朗布爾的一座七層樓紡織工廠，因將綠意與員工福祉融入工業空間，榮獲 2026 年英國皇家建築師學會（RIBA）國際建築大獎。",
+      "祕魯亞馬遜地區實施了全球首個針對原住民的無條件基本收入試驗，成功大幅改善當地社區福祉並促進熱帶雨林保護。",
+      "德國康斯坦茨大學的科學家發現了一種能加速分解塑膠的特殊酶，因其獨特的分子結構而被暱稱為「吃豆人酶」（Pac-Man enzyme）。",
+      "智利巴塔哥尼亞國家公園的保育團隊成功將 13 隻達爾文鶆䴈放歸野外，讓這種差點消失的野生鳥類重返當地草原。",
+      "坦尚尼亞奔巴島東岸結合了 20 多個在地社區與政府團體，共同設立兩座全新海洋保護區，攜手修復瀕臨過度捕撈的海洋生態。"
+    ],
+    "prompt": "Oriented wasteland megastructure concept art capturing a scene on a colossal, decaying East Asian industrial floating island in the sky. Towering pagoda tiers fused with dead neon signage and brutalist structures dominate the dusty, hazing apocalyptic atmosphere. The miniature landscape on the levitating platform is illuminated by the soft colorful glow of a cosmic nebula, featuring ethereal purple and blue space light, glowing particles, and galactic haze. Lingling, an extremely fluffy pure white longhair cat with voluminous cloud-like fur and small round face nearly hidden in fur, with huge round sapphire-blue eyes, a pink nose, and pink inner ears, crouches on a weathered metal platform. A pink ribbon bow collar with a small golden bell is clearly visible and centered beneath the bow knot. A large feathery white plume tail rests behind her. She is intently observing a tiny '吃豆人' (Pac-Man) shaped micro-robot with an '酶' (enzyme) symbol on it, actively decomposing a rusted plastic plate into fragments. The surrounding architecture shows aged decay, heavily rusted weathered metal, oxidized patina, and layers of peeling paint in a soft pastel color palette of gentle pink, lavender, mint, and baby blue, contrasting with warm orange-brown corrosion. White clouds drift below. The perspective is an aerial view. Clearly displayed in a corner of the image in traditional Chinese text is '2026-10-31 13:58 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一幅東方廢土巨構概念藝術作品，展現了鈴鈴在一片漂浮在星雲輝光中的巨型廢棄工業遺蹟上，好奇地觀察著一隻「吃豆人酶」微型機器人正在分解一塊鏽蝕的塑膠板。",
+    "number": 3575,
+    "character": "lingling",
+    "title": "星塵浮島上的叮鈴與吃豆人",
+    "story": "鈴鈴在一座失落已久的廢土巨構浮島上探險，這裡充滿了鐵鏽舊化和粉彩色調的工業殘骸。她脖子上的粉紅色蝴蝶結鈴鐺在靜謐的星雲光影中叮鈴作響，她正全神貫注地看著一個小巧的「吃豆人」機器人，它正努力地「吃」掉一塊舊塑膠，為這片荒蕪帶來一絲重生的希望。",
+    "avoid_list": [
+      "撥弄物體或齒輪",
+      "螺旋漩渦構圖",
+      "旋轉透視與中心消失點",
+      "電影感低視角",
+      "水下焦散光效果",
+      "藍綠色與暖橙色調調色",
+      "復古褪色色調與金箔肌理",
+      "限定繁體中文或英文文字規範",
+      "羊毛氈與紙雕材質風格",
+      "高調明亮光與極簡光影"
+    ]
   }
 ]
