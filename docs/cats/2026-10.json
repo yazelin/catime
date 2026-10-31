@@ -5324,5 +5324,40 @@
     "story": "在榮獲國際建築大獎的綠色工廠露臺上，貓咪靈巧地撥弄著藤蔓間的黃銅齒輪。綠意與織布機的節奏交織，譜寫出自然與現代工業共存的午後協奏曲。",
     "title": "垂直織夢",
     "number": 3573
+  },
+  {
+    "number": 3574,
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Retro Faded Tones"
+    },
+    "news_inspiration": [],
+    "character": "captain",
+    "comment_id": 6540756155,
+    "avoid_list": [
+      "時間戳記文字",
+      "繁體中文或英文限制",
+      "三花貓",
+      "純黑貓墨墨",
+      "爪子觸碰發光物件",
+      "四腳著地姿勢",
+      "經典三點打光",
+      "紙藝與摺紙風格",
+      "微型玻璃球或透明置物庫",
+      "古老星圖與星盤",
+      "單色與高對比色調",
+      "羽絨或絲綢質感"
+    ],
+    "title": "燈塔夕照の航跡",
+    "season": "autumn",
+    "is_seasonal": true,
+    "story": "夕陽將海面染成金黃，落葉隨風掠過燈塔下的防波堤。這位老虎斑貓船長爪子穩穩按在精密的黃銅指針上，眼神銳利地校準著方向，守護著無數漁船歸航的脈絡。",
+    "character_name": "船長",
+    "idea": "在藍曬法復古褪色色調與金箔潑點肌理中，船長站在鏡子自拍構圖的反射裡，於燈塔旁迎著硬光日照專注地修復著老舊的航海羅盤。",
+    "inspiration": "original",
+    "prompt": "Art illustration in cyanotype print aesthetic with prussian blue monochrome tones, sun-exposed paper texture, gold foil flecks texture, and scattered metallic gold leaf shards. A retro faded color palette with washed-out vintage tones and glinting gilded specks. Mirror selfie composition with visible reflection and intimate close-up perspective of a large stocky brown classic tabby cat with bold black stripes, scruffy coarse coat, a faded red bandana tied loosely around its neck, white chest bib, white mitten paws, prominent V-shaped notch on left ear, distinct forehead M-mark, piercing emerald green right eye, and a natural dark-pigmented dark fur patch permanently concealing its left eye socket without any fabric patch or strap. The cat is sitting beside a lighthouse in autumn with fallen leaves sweeping by, focused on repairing an antique brass nautical compass with its paw. Harsh midday sunlight creating hard edge shadows and high contrast natural daylight. Visually displaying the date and time text '2026-10-31 07:40 UTC' clearly in crisp white English typography in the corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
