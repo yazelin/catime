@@ -5433,5 +5433,34 @@
     },
     "character": "mochi",
     "idea": "生物朋克風格下，橘白胖貓「麻糬」圍著絞染格紋圍巾，正興奮地盯著老街巷弄內由金色與黑色光束打造的生物科技烤番薯攤，在耀眼的霓虹燈光與貼紙拼貼邊框包裹中溫暖過冬。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Beast-Foreground Companion Composition",
+      "lighting": "Direct Flash",
+      "texture": "Chalky Soft-Pastel Grain",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 6549713256,
+    "number": 3577,
+    "idea": "一隻四足橘貓正在深夜打烊的古董鐘錶行裡鑑定懷錶，畫面採用建築藍圖風格、金色與黑色奢華配色、粉彩顆粒肌理與直打閃光燈效果。",
+    "news_inspiration": [],
+    "prompt": "Architectural blueprint style artwork depicting a quadrupedal orange cat examining a gold pocket watch in a closed antique clock shop late at night. White technical lines, precise measurements, and annotations set against a deep blue background, rendered in a luxury gold and black color scheme with metallic gold accents. Raw chalky soft-pastel grain texture with powdery pigment dragged over toothy paper, broken granular strokes, soft smudged blending, and a matte velvety crayon finish. Imposing dual-subject framing with beast-foreground companion composition and layered depth. Lit with a harsh direct on-camera flash creating blown-out highlights and hard shadows for a raw candid snapshot look. The text '2026-10-31 22:00 UTC' is visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "撥弄物體或齒輪",
+      "螺旋漩渦構圖",
+      "旋轉透視與中心消失點",
+      "電影感低視角",
+      "水下焦散光效果",
+      "藍綠色與暖橙色調調色",
+      "復古褪色色調與金箔肌理",
+      "限定繁體中文或英文文字規範",
+      "羊毛氈與紙雕材質風格",
+      "高調明亮光與極簡光影"
+    ],
+    "story": "夜深人靜的鐘錶行內，老舊的機械齒輪發出細微的運轉聲。橘貓趴在泛黃的藍圖紙上，專注地審視著眼前的金色懷錶，彷彿正在進行一場精密的工藝檢測。",
+    "inspiration": "original",
+    "title": "藍圖夜審"
   }
 ]
