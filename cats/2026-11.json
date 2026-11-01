@@ -32,5 +32,39 @@
     },
     "prompt": "A mixed media artwork combining paper quilling art and watercolor bishounen illustration, presented as a flat lay photograph capturing a Knolling arrangement on a factory rooftop garden. Objects are neatly organized in an overhead grid layout, angled at 90 degrees against a neutral, plain background illuminated by flat, overhead fluorescent 5000K lighting with minimal shadows. Prominent elements include stylized paper quilled potted plants and rolled paper strips forming patterns, rendered in a sage green and ivory palette. A handsome young male gardener, illustrated in flowing translucent watercolor washes and ink, appears amidst the arranged items. Cosmic nebula hues of blue, purple, and gold bleed through his dark hair and a work apron, with scattered starlight specks defining his profile and clothing, creating a dreamy, ethereal anime portrait blended with the botanical scene. Interspersed are real and quilled seedlings in containers, gardening tools like small trowels and clippers, and patches of moss, all positioned in structured rows. A calico cat is clearly visible within the grid, focused on licking its paw while stepping onto a bed of natural green moss. The intricate, coiled, and curled paper textures of the quilling art are highly detailed, complementing the soft, bleeding watercolor effects. Text visually displayed in a legible script at the bottom right corner of the image reads '2026-11-01 00:46 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "綠工廠的午後巡禮"
+  },
+  {
+    "comment_id": 6554714316,
+    "prompt": "A pop art style illustration on silk texture with ink-bleed effects shows a British Shorthair blue cat with a focused expression, pressings down on a button of a modern high-tech canister vacuum cleaner with its front left paw. The cat is standing on its hind legs to reach the button, looking down at a complex, perfectly organized grid of discarded plastic bottles of various colors, paper cups, and crushed soda cans arranged neatly by size and type on the floor in a large hall, resembling a Knolling photography flat lay. The vacuum cleaner hose extends towards the edge of the neat arrangement. The style is bold pop art with thick outlines, Ben-Day dots for shading, combined with soft ink diffusing and feathering into the woven silk fabric, creating fluid staining and tonal gradients in the cooler tones of blue, teal, and cyan. Prominent beams of volumetric, cool blue-teal light pierce through a high window from the upper left, cutting through the slightly dusty air and illuminating the scene, creating dramatic light rays and a crisp atmosphere. At the bottom right corner of the composition, the text '2026-11-01 06:58 UTC' is clearly rendered in a clean, sans-serif font, appearing to be printed directly onto the silk. The background shows blurred architectural lines of an exhibition space under the dramatic cool lighting. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "藍調秩序的淨化進行曲",
+    "idea": "在冷色調藍青光束穿透的展廳中，以普普藝術與絲質暈染墨紋風格呈現一隻英短藍貓正專注地用爪子按壓高科技吸塵器開關，將滿地寶特瓶與廢棄物打造成Knolling排列攝影般的整齊陣列。",
+    "inspiration": "在英國勞夫堡，當地大學學生組隊參加源自日本的「撿垃圾運動」（SpoGomi）比賽，單日合力從鎮上清除了超過 281 公斤的垃圾。",
+    "number": 3579,
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Knolling Photography",
+      "lighting": "Volumetric Light",
+      "texture": "Ink-Bleed on Silk",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "這隻名叫藍爵的貓咪天生對秩序有著近乎偏執的追求。它穿梭在社區的公共空間裡，指揮並踏著小型清潔機器人，將人們隨手丟棄的寶特瓶與廢紙盒按尺寸與顏色排成完美矩陣。今天，它再次成功把鎮上的廢棄物清理乾淨，將滿地雜物變成了一幅令人驚嘆的幾何藝術品。",
+    "avoid_list": [
+      "撥弄物體或齒輪",
+      "螺旋漩渦構圖",
+      "旋轉透視與中心消失點",
+      "電影感低視角",
+      "水下焦散光效果",
+      "藍綠色與暖橙色調調色",
+      "復古褪色色調與金箔肌理",
+      "限定繁體中文或英文文字規範",
+      "羊毛氈與紙雕材質風格",
+      "高調明亮光與極簡光影"
+    ],
+    "news_inspiration": [
+      "在英國勞夫堡，當地大學學生組隊參加源自日本的「撿垃圾運動」（SpoGomi）比賽，單日合力從鎮上清除了超過 281 公斤的垃圾。",
+      "在義大利帕爾馬，一位農夫在自家閣樓發現並播種了被遺忘多年的古老種子，成功復育出一棵長出七個穗軸的稀有古老小麥品種。",
+      "在泰國曼谷，世界衛生組織正式認證泰國成功消除了風疹（德國麻疹），標誌著當地數十年公共衛生與疫苗接種推廣的重大里程碑。",
+      "在美國內華達州的特拉基河流域，超過 575 名志工齊聚清理了約 60 噸的垃圾與外來雜草，並直接從河中撈出 1,130 多公斤的廢棄物。"
+    ]
   }
 ]
