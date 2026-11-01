@@ -100,5 +100,43 @@
       "color_palette": "Crimson and Sage Green"
     },
     "prompt": "A dramatic fashion editorial photograph, shot on a Canon EOS R5 with a 24-70mm f/2.8 lens at 35mm, shows two female models and a domestic shorthair cat rappelling down the side of a massive, dark, bioluminescent Irish sea cliff at dusk. The composition utilizes extreme negative space, with the tiny figures dwarfed by the sheer, wet, glowing cliff face. The cliff rock is dark, but glows with patches of deep blue-green bioluminescence and features intricate, hand-painted textures resembling gilded ink outlines and fine black brush lines edged with metallic gold, giving it an antique, decorative, yet raw quality. One model, wearing a flowing crimson red high-fashion gown, hangs off-center to the left, actively descending. The second model, in a sage green high-fashion gown, is positioned slightly below and to the right, focused on her footing. The cat, an agile tabby, is actively climbing down a rope immediately next to the crimson-clad model, exhibiting remarkable balance. The lighting is ambient, low, natural, and dramatic, mixing the cool, soft blue-green glow of the bioluminescence with a subtle, warm, fill light highlighting the textures of the clothing and the cat's fur. The atmosphere is moody, dark, and textured. At the bottom left corner of the image, the date and time '2026-11-01 14:01 UTC' are displayed in small, white, clear sans-serif text, integrated into the negative space. The image has a noticeable film grain and shallow depth of field, capturing the dampness of the rock and the richness of the fabrics. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "story": "入秋的街道有些涼意，麻糬憑藉著美食雷達找到了老街上的烤番薯攤。牠那圓滾滾的花生麻糬身型依偎在散發熱氣的體素番薯旁，雖然個性懶散，但當番薯的香氣撲鼻而來時，牠那琥珀色的大圓眼瞬間放大，嘴角掛著貪吃的口水，滿足地享受著秋日暖意與美食。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Dappled Light",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "A top-down, flat-lay voxel art photograph capturing an overhead view of the chubby, white and orange shorthair cat Mochi, as defined by the identity card, curled up warmly beside a traditional street food stall on an autumn evening. Mochi has a white #FFFFFF base coat, solid bright orange #FF8C00 patches, a solid orange RIGHT half-face mask extending from the nose bridge to the ear, a pure white LEFT face, a heart-shaped orange saddle on the upper back, a solid orange RIGHT front paw mitten, a pure white LEFT front paw, large round amber #FFBF00 eyes, a pink #FFB6C1 nose with a tiny orange center dot, and an orange-and-white ringed tail. The cat is wearing a red and black plaid scarf and is nestled into a heap of roasted sweet potatoes displayed in a voxelized charcoal grill, which is overflowing with glowing golden and black voxel particles and embers representing the roasted treats. Above the stall, a tangled, intricate industrial wire mesh made of metallic gold and black voxels forms a dense, textured canopy, catching the warm, ambient light and casting mottled shadows onto the scene below. The stall structure itself is built from dark, worn wooden and metal-textured blocks, featuring glowing Japanese/Traditional Chinese signs that read '老街烤番薯' (Old Street Roasted Sweet Potatoes) and '熱騰騰' (Steaming Hot). The background shows the voxelated, autumnal night street with blurred shapes of pavement and foliage. The entire scene is rendered in a playful yet detailed blocky voxel style with clean lines, soft directional lighting that highlights the textures of the blocks and the wire mesh, and a deep, cozy atmosphere. The date and time '2026-11-01 19:16 UTC' are clearly displayed in a corner of the image in Traditional Chinese characters and English numerals within a small, illuminated voxel display. The composition is a precise bird's-eye view, with the cat and stall centrally framed, surrounded by the woven wire pattern. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "這是一個以體素（Voxel）風格呈現的俯瞰場景，橘白短毛胖貓「麻糬」圍著一條紅黑格紋圍巾，蜷縮在充滿金色與黑色顆粒的烤番薯攤位旁取暖，上方交織著金屬質感的鐵絲網。",
+    "news_inspiration": [
+      "日本（東京）發源的新型態環保競賽「撿垃圾運動」（SpoGomi）正式走向全球推廣，將環境保護轉化為融合運動與團隊策略的趣味競賽。",
+      "智利（巴塔哥尼亞）國家公園由女性護林員組成的團隊，成功將13隻美洲鴕鳥放歸野外，積極復育曾因蓄牧業破壞而消失的草原生態系。",
+      "丹麥（哥本哈根）的「真人圖書館」閱讀花園持續提供特別的借閱服務，讓民眾能「借閱」不同背景的真人進行面對面交流與對話。",
+      "美國（維吉尼亞州）科學家成功運用聚焦超音波技術配合微泡，為治療極具挑戰性的腦癌細胞開闢了全新臨床策略。"
+    ],
+    "number": 3581,
+    "character": "mochi",
+    "comment_id": 6562659025,
+    "is_seasonal": true,
+    "season": "autumn",
+    "title": "秋日炭香暖麻糬",
+    "avoid_list": [
+      "專注撥弄機械齒輪",
+      "日期時間戳記渲染",
+      "藍綠色水下焦散光",
+      "精細繁體中文與英文文字",
+      "幾何排列工藝擺設",
+      "工廠垂直生態花園",
+      "蒸汽龐克復古鐘塔",
+      "星河水彩美男插畫",
+      "藍曬法復古褪色",
+      "金屬光澤與奢華配色"
+    ],
+    "character_name": "麻糬"
   }
 ]
