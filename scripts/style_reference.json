@@ -1234,6 +1234,16 @@
       "zh": "巨花道具時尚人像",
       "en": "Oversized Floral Prop Fashion Portrait",
       "prompt": "high-fashion portrait with oversized giant flowers as props, model dwarfed by or holding huge blooms, surreal scale, bold editorial styling"
+    },
+    {
+      "zh": "暗黑奇幻怪物時裝",
+      "en": "Dark Fantasy Monster Couture",
+      "prompt": "dark fantasy monster couture, horned, scaled or eldritch creature posed as a high-fashion model, avant-garde gothic gown or armor-like tailoring, menacing regal presence, moody low-key studio light, highly detailed painterly digital render"
+    },
+    {
+      "zh": "新中式觀音聖像插畫",
+      "en": "Neo-Chinese Guanyin Icon Illustration",
+      "prompt": "neo-Chinese Guanyin icon illustration, serene bodhisattva in flowing white robes and jeweled crown, glowing halo and lotus throne, willow branch and pure-water vase, gilded linework over soft ink-wash clouds, sacred tranquil devotional elegance"
     }
   ],
   "composition": [
@@ -1486,6 +1496,11 @@
       "zh": "多層相片疊拼構圖",
       "en": "Layered Photo Overlap Composition",
       "prompt": "composition of multiple overlapping photographs stacked in layers, offset edges and partial transparency, scrapbook-like depth"
+    },
+    {
+      "zh": "散點平鋪構圖",
+      "en": "Scattered All-Over Composition",
+      "prompt": "scattered all-over composition, many small motifs distributed evenly across the entire frame with no single focal point, edge-to-edge repeat-pattern feel, balanced rhythmic spacing, wallpaper-like decorative layout"
     }
   ],
   "lighting": [
@@ -1940,6 +1955,11 @@
       "zh": "粉彩顆粒肌理",
       "en": "Chalky Soft-Pastel Grain",
       "prompt": "chalky soft-pastel grain texture, powdery pigment dragged over toothy paper, broken granular strokes revealing the paper grain, soft smudged blending, matte velvety crayon finish"
+    },
+    {
+      "zh": "藍印花布",
+      "en": "Chinese Indigo Blue Calico",
+      "prompt": "Chinese indigo blue calico texture, stencil paste-resist printed cotton, crisp white floral and dotted motifs on deep indigo ground, slightly crackled resist edges, handmade folk textile surface"
     }
   ],
   "color_palette": [
@@ -2112,6 +2132,16 @@
       "zh": "烏黑灰粉玫瑰",
       "en": "Black and Dusty Rose",
       "prompt": "color palette of deep jet black and muted dusty rose pink, moody contrast with soft grey-pink accents"
+    },
+    {
+      "zh": "紫黑白三色",
+      "en": "Purple, Black and White",
+      "prompt": "purple, black and white palette, rich violet as the dominant hue against deep black shadows and crisp white highlights, bold tricolor contrast, mysterious graphic elegance"
+    },
+    {
+      "zh": "深紫描金",
+      "en": "Deep Violet and Gold",
+      "prompt": "deep violet and gold palette, dark royal purple expanse traced with metallic gold outlines, jewel-toned mystical opulence, lustrous regal richness"
     }
   ]
 }
