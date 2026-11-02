@@ -201,5 +201,34 @@
     "title": "時間與漂流木",
     "number": 3583,
     "inspiration": "original"
+  },
+  {
+    "idea": "這是一幅誇張漫畫風格的影像，一隻貓在巨月輝映下，透過一面稜鏡反射出彩虹光斑的魔鏡進行鏡子自拍。畫面採用雙色調呈現。",
+    "prompt": "A caricature style illustration of a playful cat taking a casual mirror selfie in front of a vanity mirror. The cat has exaggerated proportions, comical distortion, and humorous expressive features, extending its paw to hold the frame. In the background, a giant moon glow features an enormous lunar disc filling the night sky, casting a pale silver backlight that rims the cat's silhouette with long cold shadows and an epic nocturnal atmosphere. A magical prismatic rainbow flare texture refracts spectral light spots and iridescent lens-glow streaks scattered across the image, creating dreamy chromatic highlights. The artwork features a duotone color treatment using only two contrasting colors for a bold graphic impact and modern design feel. The date and time '2026-11-02 11:46 UTC' is visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "number": 3584,
+    "story": "這隻名叫「閃閃」的貓咪，深夜裡在主人的梳妝台前，意外發現了一面擁有魔力的鏡子。它頑皮地舉起肉爪，在巨月的照耀下，透過稜鏡的折射，捕捉到了自己充滿奇幻色彩的瞬間。",
+    "title": "月光下的魔鏡自拍",
+    "inspiration": "original",
+    "comment_id": 6576364944,
+    "style_picks": {
+      "art_style": "Caricature",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Giant Moon Glow",
+      "texture": "Prismatic Rainbow Flare",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "專注撥弄機械齒輪",
+      "日期時間戳記渲染",
+      "藍綠色水下焦散光",
+      "精細繁體中文與英文文字",
+      "幾何排列工藝擺設",
+      "工廠垂直生態花園",
+      "蒸汽龐克復古鐘塔",
+      "星河水彩美男插畫",
+      "藍曬法復古褪色",
+      "金屬光澤與奢華配色"
+    ]
   }
 ]
