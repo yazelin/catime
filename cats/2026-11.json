@@ -336,5 +336,41 @@
       "color_palette": "Vermilion and Gilt"
     },
     "number": 3587
+  },
+  {
+    "idea": "這是一幅以油畫風格呈現的「墨墨」插畫，採用故事分格構圖和倫勃朗光照明。畫面中，純黑的墨墨正全神貫注地凝視著一盞盞熄滅的古董油燈，背景是亞速群島的夜景，窗外一片漆黑，彷彿整個世界都為了保護迷航的幼鳥而熄燈。",
+    "comment_id": 6611852433,
+    "story": "書店老闆告訴墨墨，今晚島上的燈光都會熄滅，為了守護那些在夜空迷失方向的小生命。墨墨守候在舊書店的窗邊，一盞盞點亮的古董油燈在牠面前依次熄滅，只留下牠那雙金琥珀色的眼睛在黑暗中閃爍。雖然牠平時總是傲嬌獨立，但今晚牠決定用安靜的守望，參與這場溫暖的行動。",
+    "title": "黑夜守望者",
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Stitched Patch-and-Badge Patchwork",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "character": "momo",
+    "prompt": "An illustrated story page layout featuring oil painting style with thick impasto brushstrokes, rich color palette, and visible canvas texture. Multiple irregular panels are arranged on one page, capturing a slice-of-life storybook composition with dramatic Rembrandt lighting, a single light source at 45 degrees, and a signature triangle of light on a shadowed cheek. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur, a single small gold hoop earring on the LEFT ear, a tiny natural white locket tuft on the ventral chest, a single dark-grey ring on the tail tip, and large luminous golden-amber eyes is全神貫注地凝視着一盞盞熄滅的古董油燈. The background shows the Azores night sky with a dark window. The color palette incorporates a vivid orange and violet complementary scheme with bold dual-tone contrast. Text rendered in Traditional Chinese reads '2026-11-03 18:08 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在葡萄牙的亞速群島，當地居民與官方於夜間主動熄滅島上燈光，成功引導並拯救了超過三萬隻迷航的幼年海鳥。",
+      "在美國佛羅里達州的阿梅利亞島，當地歡慶年度鯨魚節，熱烈歡迎珍貴的露脊鯨回歸沿海棲息地。",
+      "在荷蘭阿姆斯特丹，政府宣佈將投入五億美元設立國際基金，全力協助全球保護熱帶雨林生態。",
+      "在秘魯的亞馬遜雨林地區，一項試行基本收入計畫成功提升了當地原住民的生活福祉，同時加強了雨林生態的保育。"
+    ],
+    "inspiration": "在葡萄牙的亞速群島，當地居民與官方於夜間主動熄滅島上燈光，成功引導並拯救了超過三萬隻迷航的幼年海鳥。",
+    "character_name": "墨墨",
+    "number": 3588,
+    "avoid_list": [
+      "傳統中文與英文時間戳記",
+      "專注於細節的貓咪姿勢",
+      "星雲輝光與宇宙色調",
+      "漂流木與廢舊金屬材質",
+      "Knolling排列平鋪攝影",
+      "生物發光與霓虹燈光束",
+      "粉彩與絞染織物風格",
+      "微型機器人與機械零件",
+      "復古鐘錶與齒輪元素",
+      "獨特標記與毛色描述"
+    ]
   }
 ]
