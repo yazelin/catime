@@ -372,5 +372,43 @@
       "復古鐘錶與齒輪元素",
       "獨特標記與毛色描述"
     ]
+  },
+  {
+    "prompt": "A fresh Japanese youth illustration in a full-bleed, frame-filling composition, depicting the side silhouette of Captain, a large stocky brown classic tabby cat with bold black stripes and a scruffy, untidy fur texture. Captian is crouched on a wooden pier piling, gazing intensely at fallen maple leaves drifting on the sea under the glow of the sunset. Following the Character Consistency Hard Constraints: Captain's left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch, forming a natural mask with no straps; the right eye is a piercing emerald green. The V-shaped notch is visible in the left ear. A faded red bandana is tied loosely around the neck, and the white chest bib and mitten paws are visible. The scene is full of detail to the edges, incorporating an ink-bleed on silk texture where cool blue and teal inks diffuse and feather into the woven fabric, creating soft, blurred wash edges and delicate fluid staining with icy undertones. The atmosphere is serene and calm. The sunset over the sea is rendered with warm orange and red tones in the distance, juxtaposed with the cool blues and greens in the foreground shadows and ink textures, creating a dramatic, high-contrast narrow beam spotlight effect on Captain. The text '2026-11-03 23:45 UTC' is clearly displayed in the image in a clean, legible font, integrated into the overall aesthetic. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在英國蘇格蘭尼斯湖地區，自然保護團隊正式宣佈引進失蹤長達500年的河狸，希望透過牠們建造的天然水壩來促進當地生態的多樣性發展。",
+      "在美國倫敦 Oxford Street（牛津街），長達將近一公里的購物商圈正式實施全天候行人徒步區，全面禁止汽車與公車通行並規劃綠化廣場。",
+      "在美國華盛頓特區，美國國家航空暨太空總署（NASA）宣佈「毅力號」火星車行駛距離打破歷史紀錄，累積已在火星表面成功行進超過28英哩。",
+      "在澳洲雪梨，一名男子創下連續捐血545次的驚人紀錄，並在造訪全澳洲每一間血庫的過程中成功救助無數生命。"
+    ],
+    "comment_id": 6618443113,
+    "idea": "採用日系清新插畫風格，運用冷色調（藍青）與絲質暈染墨紋質感，滿版特寫呈現「船長」蹲坐在碼頭木樁上的側面剪影。牠頭戴深色眼罩，頸繫褪色紅頭巾，V型缺口左耳迎著海風，專注地凝視著夕陽餘暉中飄落在海面上的片片楓葉。",
+    "title": "港灣的秋日餘暉",
+    "number": 3589,
+    "character": "captain",
+    "style_picks": {
+      "art_style": "Fresh Japanese Youth Illustration",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Spotlight",
+      "texture": "Ink-Bleed on Silk",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "is_seasonal": true,
+    "avoid_list": [
+      "傳統中文與英文時間戳記",
+      "專注於細節的貓咪姿勢",
+      "星雲輝光與宇宙色調",
+      "漂流木與廢舊金屬材質",
+      "Knolling排列平鋪攝影",
+      "生物發光與霓虹燈光束",
+      "粉彩與絞染織物風格",
+      "微型機器人與機械零件",
+      "復古鐘錶與齒輪元素",
+      "獨特標記與毛色描述"
+    ],
+    "character_name": "船長",
+    "story": "作為港口的守護者，船長在秋日的傍晚例行巡視。牠站在最高的防波堤上，靜靜地看著夕陽染紅海面，任由火紅的楓葉與海浪交織，守護著這片牠深愛的水域。",
+    "inspiration": "original",
+    "season": "autumn"
   }
 ]
