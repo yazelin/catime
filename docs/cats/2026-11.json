@@ -298,5 +298,43 @@
       "color_palette": "Warm Tones (Amber / Autumn)"
     },
     "idea": "這是一幅夢幻數位油畫，風格為暖色調（琥珀/秋日）與細密點刻肌理，描繪了一隻虎斑貓正專注地在一間充滿異國風情的香料鋪裡用小秤砣測量八角。場景周圍環繞著裝滿各種草藥和香料的陶罐和麻布袋，光線透過掛滿乾辣椒的窗戶形成斑駁光影灑在牠身上。整幅畫作由一個豐富的配色條邊框所包圍，突顯出溫暖而古老的氛圍。"
+  },
+  {
+    "season": "autumn",
+    "prompt": "De Stijl art, neoplasticism, geometric abstraction, horizontal and vertical lines, Mondrian-inspired, full-body vertical portrait, entire figure centered in a tall frame, head-to-toe framing. An extremely fluffy pure white Ragdoll longhair cat with voluminous cloud-like fur, a small round face nearly hidden in fur, huge round sapphire-blue eyes, pale pink nose and inner ears, wearing a pink ribbon bow collar with a centered small golden bell. The cat is shown falling backwards into a pile of red leaves mixed with ice crystals after bumping into a vermilion and gilt geometric lacquer-like wall in a De Stijl autumn garden. Vermilion and gilt palette, refined cinnabar red with metallic gold outlines, elegant lacquer-like richness, ornate restrained warmth, ice crystal formation, delicate frost patterns, frozen surface texture, volumetric lighting, visible light rays through atmosphere, god rays, dust particles catching light, dramatic depth. The text '2026-11-03 10:13 UTC' is visually displayed in the image in Traditional Chinese/English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "日本東京涩谷區舉辦了一年一度的「地味萬聖節」（Jimi Halloween），民眾發揮創意扮成日常生活中平凡卻令人會心一笑的普通人。",
+      "葡萄牙亞速爾群島的全島居民發起熄燈行動，共同保護超過30,000隻正值離巢季的海鳥幼鳥安全飛向海洋。",
+      "坦尚尼亞彭巴島政府與在地超過20個社區攜手合作，正式設立了全新的海洋保護區以保護珊瑚礁與魚類生態。",
+      "祕魯亞馬遜雨林針對當地原住民社群實施全球首個無條件基本收入試辦計畫，成功改善生計並提升了雨林保育成效。"
+    ],
+    "story": "花店外的幾何陽台被秋意與霜雪覆蓋，鈴鈴穿著暖呼呼的小毛衣，正興奮地撲向翩翩起舞的紅金蝴蝶。沒想到一時跑得太急，「砰」地一聲撞上了朱紅色的方格牆，整隻小白貓瞬間向後彈開，翻肚跌進沾滿結晶紅葉的堆裡，項圈上的鈴鐺隨之發出響亮清脆的叮鈴聲。",
+    "title": "朱紅幾何與落葉之舞",
+    "avoid_list": [
+      "傳統中文與英文時間戳記",
+      "專注於細節的貓咪姿勢",
+      "星雲輝光與宇宙色調",
+      "漂流木與廢舊金屬材質",
+      "Knolling排列平鋪攝影",
+      "生物發光與霓虹燈光束",
+      "粉彩與絞染織物風格",
+      "微型機器人與機械零件",
+      "復古鐘錶與齒輪元素",
+      "獨特標記與毛色描述"
+    ],
+    "character": "lingling",
+    "inspiration": "original",
+    "idea": "在風格派（De Stijl）幾何線條構建的秋日庭園中，採用全身居中直幅構圖與朱紅描金色調，粉紅小毛衣的布偶貓鈴鈴正追逐著幾何圖塊般的蝴蝶，不小心撞上塗滿冰霜結晶的朱紅幾何立牆，跌坐在夾雜冰晶的紅葉堆裡。",
+    "character_name": "鈴鈴",
+    "comment_id": 6600932138,
+    "is_seasonal": true,
+    "style_picks": {
+      "art_style": "De Stijl",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "number": 3587
   }
 ]
