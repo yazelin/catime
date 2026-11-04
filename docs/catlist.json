@@ -33932,5 +33932,18 @@
     "character": "mochi",
     "number": 3590,
     "status": "success"
+  },
+  {
+    "character": "lingling",
+    "status": "success",
+    "is_seasonal": true,
+    "number": 3591,
+    "character_name": "鈴鈴",
+    "season": "autumn",
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-11-04 11:41 UTC",
+    "title": "亮晶晶的秋日微光地圖",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-04_1141_UTC.webp"
   }
 ]

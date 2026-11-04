@@ -445,5 +445,43 @@
     "character": "mochi",
     "comment_id": 6621989027,
     "idea": "這是一幅鈷藍、象牙與鏽橙色調的粉筆畫。圓滾滾的橘白貓麻糬在月光下的老街市場裡，正鑽進一個鐵絲網編織的籃子裡，身邊環繞著螺旋漩渦狀的市場攤位線條。"
+  },
+  {
+    "character": "lingling",
+    "avoid_list": [
+      "斑駁光影與光芒",
+      "倫勃朗光影與對角光束",
+      "夕陽與秋日楓葉海景",
+      "傳統文字與英語時間戳記",
+      "混媒與絲質暈染肌理",
+      "古董燈具與鐘錶維修場景",
+      "幾何線條與風格派構圖",
+      "俯瞰體素與微縮場景",
+      "戲劇性懸崖與極致負空間",
+      "專注凝視微小物件的蹲伏姿態"
+    ],
+    "story": "鈴鈴穿上了暖和的小毛衣，正好奇地穿梭在落葉與花叢之間。當她看到那隻散發著幽藍微光的蝴蝶時，開心得猛力一跳，結果整隻像棉花糖般的白毛直接撞倒了花架，身上沾滿了璀璨的秋葉與粉紅鈴鐺的清脆響聲。",
+    "prompt": "A hand-drawn infographic style illustration presented as an eye-level frontal composition, capturing Lingling, an extremely fluffy pure white longhair Ragdoll cat with cloud-like fur, big round sapphire-blue eyes, pink nose and inner ears, wearing a hand-knitted miniature sweater in warm rustic colors and her signature pink bow collar with the centered small golden bell clearly visible. She is captured in an excited mid-air jump in a luxurious gold and black themed greenhouse garden, chasing after a small creature glowing with bioluminescent blue-green radiance, leaving a trail of shimmering light. Lingling is mid-movement, having just slightly tilted a rustic wrought iron filigree flower stand, with a shower of vibrant autumn red and gold leaves and miniature pink bells cascading down around her. Some fallen red maple and oak leaf markings are visible on her fluffy white fur. The scene is set against an ornate black Victorian architectural ironwork structure with intricate openwork patterns and gold metallic accents, housing lush tropical and temperate plants with deeper autumn hues. Handwritten calligraphy brush strokes and decorative labels in Traditional Chinese and English provide info-graphics style explanations, pointing to: “蓬鬆布偶貓鈴鈴 - 極致純白、藍眼、粉鈴鐺” (Fluffy Ragdoll Lingling - Pure White, Blue Eyes, Pink Bell), “編織毛衣” (Knitted Sweater), “生物發光閃耀藍蝶” (Bioluminescent Sparkling Blue Butterfly), “掉落秋葉標記” (Fallen Autumn Leaf Markings), and “鑄鐵雕花溫室結構” (Wrought Iron Filigree Greenhouse Structure). A calligraphic text box subtly integrated into the upper corner displays the date and time: '2026-11-04 11:41 UTC' in Traditional Chinese '2026年11月04日 11:41 協調世界時'. The overall artwork has a warm rustic aesthetic, executed on a textured paper background, with calligraphic lines, natural light mixed with ethereal bioluminescent glows, and a color palette dominated by rich gold, deep black, autumn reds, and deep sapphire blues. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "news_inspiration": [
+      "英國倫敦知名的牛津街（Oxford Street）正式實施徒步區計畫，將近一公里的繁忙街道全面禁止車輛通行，打造無車的購物與休閒空間。",
+      "印度尼西亞的東加里曼丹省（East Kalimantan）傳出喜訊，九隻先前從森林火災中獲救的紅毛猩猩成功康復並被野放回大自然。",
+      "澳大利亞有一名男子創下捐血 545 次的驚人紀錄，並成功走訪並捐遍了全澳洲的每一座血液中心。",
+      "泰國的石灰岩丘陵地區發現了一種全新的「四爪壁虎」物種，為當地的生物多樣性研究增添新紀錄。"
+    ],
+    "comment_id": 6629801407,
+    "number": 3591,
+    "character_name": "鈴鈴",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "idea": "這是一幅以手繪信息圖風格呈現的眼平正面構圖畫作，描述蓬鬆的布偶貓鈴鈴身穿編織小毛衣，在金色與黑色奢華調性的溫室花園裡興奮地追逐一隻帶有生物發光效果的閃耀藍蝶，毛髮上記錄著掉落的秋日紅葉標記與鑄鐵雕花鏤空的溫室結構。",
+    "title": "亮晶晶的秋日微光地圖",
+    "season": "autumn"
   }
 ]
