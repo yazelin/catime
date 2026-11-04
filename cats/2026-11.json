@@ -410,5 +410,40 @@
     "story": "作為港口的守護者，船長在秋日的傍晚例行巡視。牠站在最高的防波堤上，靜靜地看著夕陽染紅海面，任由火紅的楓葉與海浪交織，守護著這片牠深愛的水域。",
     "inspiration": "original",
     "season": "autumn"
+  },
+  {
+    "title": "月光下的麻糬突圍",
+    "character_name": "麻糬",
+    "inspiration": "original",
+    "news_inspiration": [
+      "位於英國倫敦的牛津街正式將近一公里的路段改為完全的行人步行區，讓市民與遊客能夠在無車的環境中盡情購物與休憩。",
+      "位於美國北卡羅來納州薩普森郡的退伍軍人達里烏斯·麥考伊（Darius McKoy），憑藉著堅韌的毅力從零開始打造永續農場，榮獲2026年北卡羅來納州年度小農稱號。",
+      "荷蘭政府近日宣佈在未來十年內提供高達5億美元的資金，協助建立國際熱帶森林永續基金，以保護與獎勵致力於保育熱帶雨林的國家。"
+    ],
+    "avoid_list": [
+      "斑駁光影與光芒",
+      "倫勃朗光影與對角光束",
+      "夕陽與秋日楓葉海景",
+      "傳統文字與英語時間戳記",
+      "混媒與絲質暈染肌理",
+      "古董燈具與鐘錶維修場景",
+      "幾何線條與風格派構圖",
+      "俯瞰體素與微縮場景",
+      "戲劇性懸崖與極致負空間",
+      "專注凝視微小物件的蹲伏姿態"
+    ],
+    "prompt": "chalk art on blackboard, dusty matte texture, colored chalk, visible hatching strokes on dark green slate, a chubby rounded shorthair cat with a white base coat and bright orange patches, an orange mask extending on the right half-face, a heart-shaped orange saddle on the upper back, a solid orange right front mitten paw, a pure white left front paw, large round amber eyes, pink nose with a tiny orange center dot, ringed tail, spherical torso, the cat is stuck trying to squeeze into a wire mesh basket in a moonlight-illuminated old street market at night, spiral vortex composition, architectural circular structure coiling around the subject, strong rotational perspective, centered vanishing point, dizzying sense of depth, cinematic low angle, cool blue tones, gentle silvery glow, cobalt blue, ivory and rust orange palette, saturated deep blue fields balanced by creamy off-white and earthy burnt-orange accents, bold yet refined tri-tone contrast, text visually displaying '2026-11-04 03:43 UTC' rendered in clean traditional Chinese characters or English IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "貪吃的麻糬在深夜的市場巡邏，被一個裝滿乾貨的鐵絲籃子吸引。牠試圖鑽進去「試吃」，結果被卡住，只露出圓臉和橘色手套般的右前腳，在月光下露出無辜呆萌的表情。",
+    "style_picks": {
+      "art_style": "Chalk Art",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Moonlight",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Cobalt Blue, Ivory and Rust Orange"
+    },
+    "number": 3590,
+    "character": "mochi",
+    "comment_id": 6621989027,
+    "idea": "這是一幅鈷藍、象牙與鏽橙色調的粉筆畫。圓滾滾的橘白貓麻糬在月光下的老街市場裡，正鑽進一個鐵絲網編織的籃子裡，身邊環繞著螺旋漩渦狀的市場攤位線條。"
   }
 ]
