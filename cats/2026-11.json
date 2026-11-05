@@ -517,5 +517,34 @@
     "number": 3592,
     "inspiration": "土耳其考古團隊在塔夫珊利丘陵（Tavşanlı Höyük）遺址發現一塊4000年前古老泥磚，上面清晰留有當時寵物狗踩踏的足跡，展現古代人類與犬類的溫馨情誼。",
     "idea": "採用單眼人像（散景）風格，一隻橘貓正伸出前爪拍打古老泥磚上的微小的犬隻腳印，背景呈現鮮明的中國紅金配色與配色條邊框裝飾。"
+  },
+  {
+    "news_inspiration": [],
+    "idea": "微距攝影捕捉一隻黑貓在昏暗燭光下，專注地用爪子撥弄發光烏黑燈芯上，流動如絲般的紅色火焰。場景結合多視角，展現貓爪與火焰細節。",
+    "avoid_list": [
+      "斑駁光影與光芒",
+      "倫勃朗光影與對角光束",
+      "夕陽與秋日楓葉海景",
+      "傳統文字與英語時間戳記",
+      "混媒與絲質暈染肌理",
+      "古董燈具與鐘錶維修場景",
+      "幾何線條與風格派構圖",
+      "俯瞰體素與微縮場景",
+      "戲劇性懸崖與極致負空間",
+      "專注凝視微小物件的蹲伏姿態"
+    ],
+    "story": "老工匠的蠟燭作坊裡，只有幾盞燭火跳動。黑貓「夜墨」悄悄靠近一根剛點燃的蠟燭，它被那團緋紅色的發光火焰吸引。夜墨伸出烏黑的爪子，小心翼翼地觸碰那股流動的熱源，火焰在它的肉墊間劃出一道道發光的絲流。它在燭光中變換著姿勢，試圖捕捉這團不可思議的光影。",
+    "comment_id": 6645861818,
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Candlelight",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Crimson and Black"
+    },
+    "inspiration": "original",
+    "number": 3593,
+    "title": "燭火流絲爪痕痕",
+    "prompt": "A macro photograph and extreme close-up multi-view layout showing a sleek black cat carefully batting at a glowing silk-like red flame on a black candle wick in a dimly lit setting. Multi-view sheet featuring front view, side view, and detail close-up arranged in clean panels. Warm flickering candlelight illuminates fine fur textures, whiskers, and paw pads as radiant crimson light strands flow around the paws. Shot on 100mm macro lens, f/2.8, shallow depth of field, sharp detail, high contrast deep blood-red against jet black shadows. Display the text '2026-11-05 00:10 UTC' clearly in a corner of the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
