@@ -80,6 +80,13 @@ jobs:
           python scripts/maoshi_build.py data
           python scripts/maoshi_build.py push
 
+      - name: 卯時上架（到期才上）
+        if: success()
+        continue-on-error: true  # 上架失敗不影響貓，下一小時或 05:00 的排程會再試
+        env:
+          LARCH_AGENT_KEY: ${{ secrets.LARCH_AGENT_KEY }}
+        run: python scripts/maoshi_larch.py --publish
+
       - name: Post to Telegram channel
         if: success()
         continue-on-error: true

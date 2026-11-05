@@ -41,6 +41,7 @@
   // Larch 的框不准開新視窗，外部連結按了沒反應：嵌在 Larch 時藏起來，改放在市集介紹
   if (EMBED) document.documentElement.classList.add('embed');
   function exitToLarch() { parent.postMessage({ type: 'maoshi:exit' }, '*'); } // 外殼卡收到後送 larch:complete，回 Larch 標題畫面
+  var todayKey = function () { var t = new Date(Date.now() + 8 * 3600e3); return String(t.getUTCFullYear()).slice(2) + '.' + String(t.getUTCMonth() + 1).padStart(2, '0') + '.' + String(t.getUTCDate()).padStart(2, '0'); };
   var nowIso = function () { return new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 16) + '+08:00'; };
   var isNew = function (c) { return S.prevOpen && c.at > S.prevOpen; };
 
@@ -165,16 +166,47 @@
   }
 
   // ---------- 每日刊 ----------
-  function renderIssue(d) {
+  function renderIssue(d, live) {
     var s = document.createElement('section');
-    s.className = 'issue'; s.id = 'i-' + d.d; s.dataset.d = d.d; s.dataset.wd = d.wd;
-    var acc = d.cats[0].acc;
-    s.style.setProperty('--acc', acc);
-    s.innerHTML = '<header class="ih"><b>' + d.d + '</b><span class="kick">DAILY ISSUE · ' + d.cats.length + ' LOOKS</span><span class="bar"></span><span class="ln">VOL. ' + d.vol + ' · 週' + d.wd + '</span>' +
-      '<div class="tp"><small>' + (d.topicFrom === 'news' ? '今日話題' : '本期封面故事') + '</small>' + esc(d.topic) + '</div></header>' +
-      '<div class="sp">' + layout(d.cats).map(function (x) { return card(x[0], x[1], !!x[2], !!x[3]); }).join('') + '</div>';
-    $('#feed').appendChild(s);
+    s.className = 'issue' + (live ? ' live' : ''); s.id = 'i-' + d.d; s.dataset.d = d.d; s.dataset.wd = d.wd;
+    s.style.setProperty('--acc', d.cats[0].acc);
+    if (live) {
+      // 今天還沒過完：小卡一列六隻，明天卯時才出刊
+      s.innerHTML = '<header class="ih"><b>' + d.d + '</b><span class="kick">NEXT ISSUE · 製作中 · ' + d.cats.length + ' LOOKS</span><span class="bar"></span><span class="ln">VOL. ' + d.vol + ' · 週' + d.wd + '</span>' +
+        '<div class="tp"><small>下一期</small>每個整點都可能多一隻貓，明天卯時（05:00）出刊。</div></header>' +
+        '<div class="sp">' + d.cats.map(function (c) { return card(c, 2, false, false); }).join('') + '</div>';
+      var old = document.getElementById(s.id);
+      if (old) old.replaceWith(s); else $('#feed').insertBefore(s, $('#feed').firstChild);
+    } else {
+      s.innerHTML = '<header class="ih"><b>' + d.d + '</b><span class="kick">DAILY ISSUE · ' + d.cats.length + ' LOOKS</span><span class="bar"></span><span class="ln">VOL. ' + d.vol + ' · 週' + d.wd + '</span>' +
+        '<div class="tp"><small>' + (d.topicFrom === 'news' ? '今日話題' : '本期封面故事') + '</small>' + esc(d.topic) + '</div></header>' +
+        '<div class="sp">' + layout(d.cats).map(function (x) { return card(x[0], x[1], !!x[2], !!x[3]); }).join('') + '</div>';
+      $('#feed').appendChild(s);
+    }
     drawObs.observe(s); viewObs.observe(s);
+  }
+  // 每 5 分鐘看一次有沒有新貓：下一期多了就提示；過了午夜（新的一期出刊）就提示重新整理
+  function liveBar(msg, act) {
+    var b = $('#liveBar');
+    if (!b) { b = document.createElement('button'); b.id = 'liveBar'; b.type = 'button'; b.className = 'live-bar'; document.body.appendChild(b); }
+    b.textContent = msg; b.dataset.act = act; b.hidden = false;
+  }
+  function pollLive() {
+    json(DATA + 'index.json', true).then(function (idx) {
+      if (todayKey() !== S.today) { liveBar('新的一期出刊了　重新整理 →', 'reload'); return; }
+      var top = idx.days[0];
+      if (!top || top.d !== S.today) return;
+      var had = S.live ? S.live.n : 0;
+      if (top.n > had) { S.liveNew = top; liveBar('下一期多了 ' + (top.n - had) + ' 隻　看看 →', 'live'); }
+    }).catch(function () {});
+  }
+  function showLive() {
+    var top = S.liveNew; if (!top) return;
+    json(DATA + 'days/' + top.d + '.json?t=' + Date.now(), true).then(function (d) {
+      S.live = top; S.days.set(top.d, Promise.resolve(d)); renderIssue(d, true);
+      var el = document.getElementById('i-' + top.d); if (el) el.scrollIntoView({ behavior: 'smooth' });
+      $('#liveBar').hidden = true;
+    });
   }
   function prefetch(i) {
     var row = S.index.days[i];
@@ -388,6 +420,8 @@
   function go(hash, srcEl) { S.srcEl = srcEl || null; S.opened = true; location.hash = hash; }
 
   document.addEventListener('click', function (e) {
+    var lb = e.target.closest('#liveBar');
+    if (lb) { if (lb.dataset.act === 'reload') location.reload(); else showLive(); return; }
     var t = e.target.closest('[data-save],[data-style],[data-same],[data-cast],[data-cat],[data-go],[data-step],[data-season],[data-den-tab],[data-retry],[data-same-more]');
     if (!t) return;
     var ds = t.dataset;
@@ -407,7 +441,7 @@
     if (ds.go === 'den') { go('den'); return; }
     if (ds.go === 'exit') { exitToLarch(); return; }
     if (ds.go === 'top') { closeAndClear(); scrollTo({ top: 0, behavior: 'smooth' }); return; }
-    if (ds.go === 'feed') { var f = $('#feed').firstElementChild; if (f) f.scrollIntoView({ behavior: 'smooth' }); return; }
+    if (ds.go === 'feed') { var f = $('#feed .issue:not(.live)') || $('#feed').firstElementChild; if (f) f.scrollIntoView({ behavior: 'smooth' }); return; }
     if (ds.go === 'continue') { renderUntil(S.store.get('mao_last_issue')); return; }
   });
   function closeAndClear() {
@@ -445,10 +479,18 @@
   }).then(function (r) {
     S.index = r[0]; S.cast = r[1];
     if (!S.index.days.length) throw new Error('還沒有資料');
-    var p1 = S.index.days[1] ? day(S.index.days[1].d).catch(function () { return null; }) : Promise.resolve(null);
-    return Promise.all([day(S.index.days[0].d), p1]);
+    // 本期＝最新一期已經過完的（台北的昨天以前）；今天的貓放在最上面「下一期・製作中」
+    S.today = todayKey();
+    S.live = S.index.days[0].d === S.today ? S.index.days[0] : null;
+    S.rendered = S.live ? 1 : 0;
+    var base = S.index.days[S.rendered] || S.index.days[0];
+    var p1 = S.index.days[S.rendered + 1] ? day(S.index.days[S.rendered + 1].d).catch(function () { return null; }) : Promise.resolve(null);
+    var pl = S.live ? json(DATA + 'days/' + S.live.d + '.json', true).catch(function () { return null; }) : Promise.resolve(null);
+    return Promise.all([day(base.d), p1, pl]);
   }).then(function (ds) {
     renderCover(ds[0], ds[1]);
+    if (ds[2]) renderIssue(ds[2], true);
+    setInterval(pollLive, 5 * 60 * 1000);
     $('#tb').hidden = false;
     if (EMBED) $('#exitBtn').hidden = false;
     coverObs.observe($('#cover'));

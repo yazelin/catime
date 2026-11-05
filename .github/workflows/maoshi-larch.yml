@@ -1,17 +1,14 @@
 name: 卯時上架
 
-# 把 Larch《卯時》的市集版本更新一次，附上昨天那一期的更新說明（不通知追蹤者）。
-# 每天台北 05:00（卯時）自動跑；手動跑時預設只檢查，勾 publish 才上架。
+# 到期就上架：台北 05:00（卯時）以後，有已經結束、市集還沒公告的一期，就重新上架並附上那一期的更新說明（不通知追蹤者）。
+# hourly-cat 每次產完貓也會呼叫同一支腳本；這裡每天 05:00 再排一次當備援，誰先跑到就由誰上，不會重複。
 on:
   workflow_dispatch:
     inputs:
       publish:
-        description: 真的上架（不勾只檢查金鑰與更新說明）
+        description: 到期就真的上架（不勾只檢查）
         type: boolean
         default: false
-      day:
-        description: 哪一期，例 26.11.04；留空＝台北時間的昨天
-        default: ''
   schedule:
     - cron: '0 21 * * *'  # UTC 21:00＝台北 05:00
 
@@ -27,13 +24,9 @@ jobs:
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: '3.12'
-      - name: 更新市集版本
+      - name: 到期就上架
         env:
           LARCH_AGENT_KEY: ${{ secrets.LARCH_AGENT_KEY }}
           PUBLISH: ${{ inputs.publish || github.event_name == 'schedule' }}
-          DAY: ${{ inputs.day }}
         run: |
-          args=()
-          [ "$PUBLISH" = "true" ] && args+=(--publish)
-          [ -n "$DAY" ] && args+=(--day "$DAY")
-          python scripts/maoshi_larch.py "${args[@]}"
+          if [ "$PUBLISH" = "true" ]; then python scripts/maoshi_larch.py --publish; else python scripts/maoshi_larch.py; fi

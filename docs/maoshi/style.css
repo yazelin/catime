@@ -178,6 +178,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   .ih .ln { display: none; }
 }
 
+/* 下一期・製作中：比一般期數低調，小卡 */
+.issue.live { padding-top: calc(var(--u) * 96); }
+.issue.live .ih::before { background: var(--rule); }
+.issue.live .ih b { font-size: calc(var(--u) * 64); color: var(--ink2); }
+.issue.live .sp { gap: calc(var(--u) * 40) calc(var(--u) * 28); margin-top: calc(var(--u) * 36); }
+.issue.live .ar .t { font-size: calc(var(--u) * 22); }
+.issue.live .ar .kick { font-size: calc(var(--u) * 14); margin-top: calc(var(--u) * 14); }
+.live-bar { position: fixed; z-index: 25; left: 50%; top: calc(env(safe-area-inset-top, 0px) + var(--tb) + calc(var(--u) * 20)); transform: translateX(-50%);
+  background: var(--ink); color: var(--paper); font-size: calc(var(--u) * 17); letter-spacing: .2em; padding: calc(var(--u) * 14) calc(var(--u) * 32); animation: fadein .4s ease both; }
+@media (max-aspect-ratio: 1/1), (max-width: 760px) { .issue.live .sp { grid-template-columns: repeat(3, minmax(0, 1fr)); } .issue.live .ar { grid-column: span 1; } }
+
 /* ---------- 底部 ---------- */
 .more { min-height: 40vh; padding: calc(var(--u) * 100) var(--gut) calc(var(--u) * 160); text-align: center; }
 .end b { display: block; font-family: var(--latin); font-weight: 400; font-size: calc(var(--u) * 116); line-height: 1; border-top: 1px solid var(--ink); padding-top: calc(var(--u) * 48); }

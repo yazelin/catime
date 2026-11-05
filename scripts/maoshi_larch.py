@@ -2,8 +2,12 @@
 
 Larch 專案只有一張外殼卡，內容都在 GitHub Pages，所以白板不用改；每天重新上架只是為了讓市集出現一筆更新紀錄。
 
-    LARCH_AGENT_KEY=... python scripts/maoshi_larch.py            # 只檢查：金鑰能不能用、會寫什麼更新說明
-    LARCH_AGENT_KEY=... python scripts/maoshi_larch.py --publish  # 真的上架（作品第一次上架要先在網頁或 MCP 填好 AI 揭露）
+    LARCH_AGENT_KEY=... python scripts/maoshi_larch.py            # 只檢查：到期了沒、會寫什麼更新說明
+    LARCH_AGENT_KEY=... python scripts/maoshi_larch.py --publish  # 到期就上架，沒到期什麼都不做
+
+「到期」：台北時間過了 05:00（卯時），而且有已經結束的一期還沒被市集公告。
+每小時產完貓、每天 05:00 的排程都會呼叫它，哪一次先跑到就由哪一次上架，Actions 晚跑或漏跑都不會漏期。
+落後超過一期時，一次的更新說明把沒公告的幾期一起寫進去。
 """
 from __future__ import annotations
 
@@ -45,47 +49,73 @@ def api(method: str, path: str, body=None):
         raise SystemExit(f"Larch {method} {path} 回 {e.code}：{e.read().decode('utf-8', 'replace')[:300]}") from None
 
 
-def note_for(day: dict) -> str:
-    """更新說明：這一期幾隻、標題、今日話題。市集上限 2000 字，標題最多列 12 個。"""
-    cats = day["cats"]
+def note_for(days: list) -> str:
+    """更新說明：一期或沒公告的幾期。市集上限 2000 字，標題最多列 12 個。"""
+    cats = [c for d in days for c in d["cats"]]
     titles = "、".join(c["t"] for c in cats[:12]) + ("等" if len(cats) > 12 else "")
     cast = sorted({c["chn"] for c in cats if c.get("chn")})
-    lines = [f"{day['d']} 這一期有 {len(cats)} 隻貓：{titles}。"]
+    if len(days) == 1:
+        lines = [f"{days[0]['d']} 這一期有 {len(cats)} 隻貓：{titles}。"]
+    else:
+        lines = [f"{'、'.join(d['d'] for d in days)} 這 {len(days)} 期一共 {len(cats)} 隻貓：{titles}。"]
     if cast:
-        lines.append(f"本期出場的角色貓：{'、'.join(cast)}。")
-    lines.append(("今日話題：" if day.get("topicFrom") == "news" else "本期封面故事：") + day["topic"])
+        lines.append(f"出場的角色貓：{'、'.join(cast)}。")
+    last = days[-1]
+    lines.append(("今日話題：" if last.get("topicFrom") == "news" else "本期封面故事：") + last["topic"])
     return "\n\n".join(lines)[:2000]
+
+
+def plan(now: datetime, day_keys: list, cur_version: str, cur_published: str):
+    """回傳要公告的期（由舊到新）；空的就是還沒到期或已經公告過。純函式，測試直接呼叫。
+    day_keys：有貓的期（任意順序）；cur_version／cur_published：市集現在的版本與最後一次上架時間（ISO，UTC）。"""
+    import re
+    if now.hour < 5:
+        return []
+    today = now.strftime("%y.%m.%d")
+    done = sorted(k for k in day_keys if k < today)
+    if not done:
+        return []
+    m = re.match(r"v(\d\d\.\d\d\.\d\d)", cur_version or "")
+    if m:
+        last = m.group(1)
+        pub_day = datetime.fromisoformat(cur_published.replace("Z", "+00:00")).astimezone(TPE).strftime("%y.%m.%d") if cur_published else ""
+        if pub_day <= last:  # 那一期還沒過完就上架了（例如當天手動上架），不算公告過
+            last = max([k for k in done if k < last], default="")
+    else:
+        last = ""
+    todo = [k for k in done if k > last]
+    return todo[-7:]  # ponytail: 最多補最近 7 期，落後更久就不一一列
+
+
+def next_version(base: str, cur: str) -> str:
+    """同一期再上架時版號往後加：v26.11.05 → v26.11.05.2 → .3。"""
+    if cur == base:
+        return base + ".2"
+    if cur.startswith(base + ".") and cur[len(base) + 1:].isdigit():
+        return f"{base}.{int(cur[len(base) + 1:]) + 1}"
+    return base
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--publish", action="store_true", help="真的上架；沒帶就只檢查")
-    ap.add_argument("--day", help="哪一期，例 26.11.04；預設台北時間的昨天")
+    ap.add_argument("--publish", action="store_true", help="到期就上架；沒帶只檢查")
     a = ap.parse_args()
 
-    k = a.day or (datetime.now(TPE) - timedelta(days=1)).strftime("%y.%m.%d")
-    p = DATA / "days" / f"{k}.json"
-    if not p.exists():
-        print(f"{k} 沒有貓，不上架")
-        return
-    day = json.loads(p.read_text(encoding="utf-8"))
-    version = f"v{k}"
-    note = note_for(day)
-
-    proj = api("GET", f"/projects/{PROJECT}")  # 順便確認金鑰還能用
-    print(f"專案：{proj.get('name')}（revision {proj.get('revision')}）")
+    index = json.loads((DATA / "index.json").read_text(encoding="utf-8"))
     works = [w for w in (api("GET", "/published").get("works") or []) if w.get("projectId") == PROJECT]
-    cur = str(works[0].get("version") or "") if works else ""
-    print(f"市集現在：{cur or '還沒上架'}；這次：{version}")
-    print("更新說明：\n" + note)
-
-    if not a.publish:
-        print("（只檢查，沒有上架）")
-        return
     if not works:
         sys.exit("作品還沒上架過。第一次上架要填 AI 揭露與商店介紹，請先手動上架一次。")
-    if cur == version or cur.startswith(version + "."):
-        print("這一期已經上架過，不再重複")
+    cur, cur_pub = str(works[0].get("version") or ""), works[0].get("updatedAt") or ""
+    todo = plan(datetime.now(TPE), [d["d"] for d in index["days"]], cur, cur_pub)
+    print(f"市集現在：{cur}（{cur_pub}）；要公告：{'、'.join(todo) or '（沒有，還沒到期或已經公告過）'}")
+    if not todo:
+        return
+    days = [json.loads((DATA / "days" / f"{k}.json").read_text(encoding="utf-8")) for k in todo]
+    version = next_version(f"v{todo[-1]}", cur)
+    note = note_for(days)
+    print(f"這次：{version}\n更新說明：\n{note}")
+    if not a.publish:
+        print("（只檢查，沒有上架）")
         return
     api("POST", f"/projects/{PROJECT}/publish", {"version": version, "updateNote": note, "notifyFollowers": False,
                                                  "description": LISTING.read_text(encoding="utf-8").strip(), "coverUrl": COVER})
