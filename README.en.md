@@ -63,8 +63,8 @@ catime features recurring cat characters, each with unique personalities and app
 
 - **Momo (墨墨)** — Elegant solid black shorthair with golden-amber eyes and a gold hoop earring
 - **Captain** — Battle-scarred orange tabby adventurer with a torn left ear
-- **Mochi (麻糬)** — Fluffy round cream-white Persian, always looks sleepy
-- **Lingling (鈴鈴)** — Playful silver tabby kitten with sapphire-blue eyes
+- **Mochi (麻糬)** — Round orange-and-white shorthair from the old market street, always out "taste-testing"
+- **Lingling (鈴鈴)** — White long-haired ragdoll from the flower shop, sapphire-blue eyes and a pink bell collar
 
 ## Setup (for your own repo)
 
