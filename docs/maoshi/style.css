@@ -94,6 +94,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .cv-side .nw { font-family: var(--serif); font-weight: 600; font-size: calc(var(--u) * 36); line-height: 1.6; letter-spacing: .02em; text-wrap: pretty;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .cv-side .src { margin-bottom: calc(var(--u) * -10); }
+/* 右欄是直向 flex：空間不夠時只讓目錄讓位，標題與話題不被壓扁截半行 */
+.cv-side > * { flex-shrink: 0; }
+.cv-side > .toc { flex-shrink: 1; }
 .toc { list-style: none; margin: calc(var(--u) * 8) 0 0; padding: 0; display: flex; flex-direction: column; overflow: hidden; min-height: 0; border-top: 1px solid var(--rule); }
 .toc li button { width: 100%; display: grid; grid-template-columns: calc(var(--u) * 86) 1fr; gap: calc(var(--u) * 20); align-items: baseline; text-align: left;
   border-bottom: 1px solid var(--rule); padding: calc(var(--u) * 16) 0; font-family: var(--serif); font-size: calc(var(--u) * 24); line-height: 1.45; }
