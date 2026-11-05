@@ -71,11 +71,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git pull --rebase -q || true
-          # 縮圖補齊在跑的時候先不做縮圖，資料下一小時再補
-          if [ -z "$(gh run list -w maoshi-backfill.yml --limit 3 --json status -q '.[]|select(.status!="completed")|.status')" ]; then
-            python scripts/maoshi_build.py thumbs --limit 30
+          # 縮圖補齊在跑的時候整步跳過，免得兩邊同時推資料；補齊跑完會重寫資料，下一小時也會補上
+          if [ -n "$(gh run list -w maoshi-backfill.yml --limit 3 --json status -q '.[]|select(.status!="completed")|.status')" ]; then
+            echo "卯時縮圖補齊進行中，這小時先跳過"; exit 0
           fi
+          git pull --rebase -q || true
+          python scripts/maoshi_build.py thumbs --limit 30
           python scripts/maoshi_build.py data
           python scripts/maoshi_build.py push
 
