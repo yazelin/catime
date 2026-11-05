@@ -46,6 +46,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .cast-mini button img { width: calc(var(--u) * 46); height: calc(var(--u) * 46); border-radius: 50%; border: 2px solid transparent; transition: border-color .18s; }
 .cast-mini button:hover img, .cast-mini button:focus-visible img { border-color: var(--hot); }
 .den-btn { border: 1.5px solid var(--ink); padding: calc(var(--u) * 6) calc(var(--u) * 18); font-size: calc(var(--u) * 22); font-weight: 700; white-space: nowrap; }
+.exit-btn { font-size: calc(var(--u) * 22); font-weight: 700; color: var(--mute); white-space: nowrap; }
+.exit-btn:hover { color: var(--ink); }
 .den-btn b { display: inline-block; min-width: 1.2em; text-align: center; font-variant-numeric: tabular-nums; }
 .den-btn.bump b { animation: bump .18s ease-out; }
 @keyframes bump { 50% { transform: scale(1.35); } }

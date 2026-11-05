@@ -28,6 +28,8 @@
     return S.all;
   }
   var full = function (th) { return th.replace('/download/thumbs-', '/download/cats-').replace(/_480\.webp$/, '.webp'); };
+  var EMBED = new URLSearchParams(location.search).get('embed') === 'larch';
+  function exitToLarch() { parent.postMessage({ type: 'maoshi:exit' }, '*'); } // 外殼卡收到後送 larch:complete，回 Larch 標題畫面
   var nowIso = function () { return new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 16) + '+08:00'; };
   var isNew = function (c) { return S.prevOpen && c.at > S.prevOpen; };
 
@@ -119,6 +121,7 @@
       }).join('') + '</div>' +
       '<div class="cta"><button class="main" type="button" data-go="feed">翻開本期 ↓</button>' +
       (cont && cont !== d.d && S.index.days.some(function (x) { return x.d === cont; }) ? '<button class="alt" type="button" data-go="continue">接著看 ' + cont + '</button>' : '') +
+      (EMBED ? '<button class="alt" type="button" data-go="exit">合上雜誌</button>' : '') +
       '<span class="new" id="newCount"></span></div>';
     $('#castMini').innerHTML = keys.map(function (k) { return '<button type="button" data-cast="' + k + '" aria-label="' + esc(cast[k].name) + '"><img src="' + esc(cast[k].av) + '" alt=""></button>'; }).join('');
     countNew();
@@ -377,6 +380,7 @@
     if (ds.denTab) { S.denTab = ds.denTab; showDen(); return; }
     if (ds.retry) { S.failed = false; if (S.index) appendNext(); else location.reload(); return; }
     if (ds.go === 'den') { go('den'); return; }
+    if (ds.go === 'exit') { exitToLarch(); return; }
     if (ds.go === 'top') { closeAndClear(); scrollTo({ top: 0, behavior: 'smooth' }); return; }
     if (ds.go === 'feed') { var f = $('#feed').firstElementChild; if (f) f.scrollIntoView({ behavior: 'smooth' }); return; }
     if (ds.go === 'continue') { renderUntil(S.store.get('mao_last_issue')); return; }
@@ -421,6 +425,7 @@
   }).then(function (ds) {
     renderCover(ds[0], ds[1]);
     $('#tb').hidden = false;
+    if (EMBED) $('#exitBtn').hidden = false;
     coverObs.observe($('#cover'));
     addEventListener('scroll', onScroll, { passive: true }); addEventListener('resize', onScroll); appendNext();
     if (location.hash) route();
