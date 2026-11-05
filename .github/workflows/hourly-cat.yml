@@ -2,7 +2,7 @@ name: Hourly Cat Generator
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour at :00 (avoid overlap)
+    - cron: '17 * * * *'  # Every hour at :17; :00 is GitHub's busiest slot and runs get dropped
   workflow_dispatch: # Allow manual trigger
 
 permissions:
