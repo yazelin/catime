@@ -29,3 +29,8 @@ def test_time_and_grouping():
     assert cast["momo"]["count"] == 1 and cast["momo"]["hours"][mb.SHI.index("辰")] == 1
     assert index["total"] == 3 and len(all_cats) == 3
     assert mb.vol_of(mb.to_tpe("2026-01-30 05:46 UTC")) == 1
+    # 最早一批原圖在 cats（沒有月份），縮圖仍在 thumbs-YYYY-MM
+    assert mb.thumb_url("https://github.com/yazelin/catime/releases/download/cats/cat_2026-01-30_0556_UTC.webp") == \
+        "https://github.com/yazelin/catime/releases/download/thumbs-2026-01/cat_2026-01-30_0556_UTC_480.webp"
+    assert mb.thumb_url("https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-05_0010_UTC.webp") == \
+        "https://github.com/yazelin/catime/releases/download/thumbs-2026-11/cat_2026-11-05_0010_UTC_480.webp"

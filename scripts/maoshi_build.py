@@ -49,10 +49,15 @@ def vol_of(t: datetime) -> int:
 
 
 def thumb_url(url: str) -> str:
-    """原圖 .../cats-2026-11/cat_x.webp → .../thumbs-2026-11/cat_x_480.webp"""
+    """原圖 → 縮圖網址。縮圖一律在 thumbs-YYYY-MM（月份取自檔名）；
+    原圖有的在 cats-YYYY-MM、最早一批在 cats，所以不能從原圖的 release 名稱推。"""
+    import re
     head, name = url.rsplit("/", 1)
-    head = head.replace("/download/cats-", "/download/thumbs-")
-    return f"{head}/{name.rsplit('.', 1)[0]}_{THUMB}.webp"
+    m = re.search(r"(\d{4}-\d{2})-\d{2}_", name) or re.search(r"/download/cats-(\d{4}-\d{2})$", head)
+    base = head.rsplit("/download/", 1)[0] + "/download/"
+    if not m:
+        raise ValueError(f"縮圖網址推不出月份：{url}")
+    return f"{base}thumbs-{m.group(1)}/{name.rsplit('.', 1)[0]}_{THUMB}.webp"
 
 
 # ---------- 顏色 ----------

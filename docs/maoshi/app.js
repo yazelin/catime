@@ -62,8 +62,15 @@
   function toast(msg) { var t = $('#toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toastT); toastT = setTimeout(function () { t.classList.remove('on'); }, 1800); }
 
   // ---------- 小元件 ----------
-  function ph(src, avg, alt, extra, attrs) {
-    return '<div class="ph"' + (attrs || '') + ' style="--avg:' + avg + '"><img src="' + esc(src) + '" alt="' + esc(alt || '') + '" loading="lazy" decoding="async" onload="this.classList.add(\'in\')">' + (extra || '') + '</div>';
+  // 縮圖載不到時（還沒補好、或網路抖一下）改用原圖；data-full 沒給就從縮圖網址推
+  window.__maoImgErr = function (im) {
+    if (im.dataset.tried) return; im.dataset.tried = 1;
+    var f = im.dataset.full || im.src.replace('/download/thumbs-', '/download/cats-').replace(/_480\.webp$/, '.webp');
+    if (f && f !== im.src) im.src = f;
+  };
+  function ph(src, avg, alt, extra, attrs, fullSrc) {
+    return '<div class="ph"' + (attrs || '') + ' style="--avg:' + avg + '"><img src="' + esc(src) + '"' + (fullSrc ? ' data-full="' + esc(fullSrc) + '"' : '') +
+      ' alt="' + esc(alt || '') + '" loading="lazy" decoding="async" onload="this.classList.add(\'in\')" onerror="__maoImgErr(this)">' + (extra || '') + '</div>';
   }
   function kick(c) {
     var p = c.picks && c.picks.art_style;
@@ -92,7 +99,7 @@
   }
   function card(c, span, wide, lead) {
     return '<article class="ar' + (wide ? ' wide' : '') + (lead ? ' lead' : '') + '" style="--span:' + span + ';--acc:' + c.acc + ';--avg:' + c.avg + '">' +
-      ph(c.th, c.avg, c.t, saveBtn(c.n), ' data-cat="' + c.n + '"') +
+      ph(c.th, c.avg, c.t, saveBtn(c.n), ' data-cat="' + c.n + '"', c.img) +
       '<div class="tx" data-cat="' + c.n + '">' + kick(c) + '<div class="t">' + badges(c) + esc(c.t) + '</div><div class="by">' + esc(by(c)) + '</div>' +
       (wide && c.story ? '<q>' + esc(first(c.story)) + '</q>' : '') + '</div></article>';
   }
