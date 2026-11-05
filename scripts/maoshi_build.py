@@ -167,6 +167,9 @@ def cmd_thumbs(limit: int):
 
 
 # ---------- data ----------
+PICK_KEYS = ("art_style", "composition", "lighting", "texture", "color_palette")
+
+
 def first_sentence(s: str) -> str:
     s = (s or "").strip()
     return s.split("。")[0] + "。" if "。" in s else s
@@ -202,8 +205,9 @@ def build(cats, detail, meta, chars, zh):
         if c.get("is_seasonal"):
             item["season"] = c.get("season", "")
         days.setdefault(day_key(t), []).append(item)
-        all_cats.append([n, item["t"], day_key(t), item["th"], item["avg"], picks.get("art_style", ""),
-                         c.get("character", ""), item["picks"].get("art_style", {}).get("zh", "")])
+        # 第 7 欄是五樣風格的英文名（畫風、構圖、光線、質感、配色），中文對照在 styles.json
+        all_cats.append([n, item["t"], day_key(t), item["th"], item["avg"], c.get("character", ""),
+                         [picks.get(k, "") for k in PICK_KEYS]])
 
     index_days, day_files = [], {}
     for k in sorted(days, reverse=True):
@@ -256,6 +260,13 @@ def cmd_data():
     dump(OUT / "index.json", index)
     dump(OUT / "cast.json", cast)
     dump(OUT / "all.json", all_cats)
+    zh = style_zh()
+    used = {k: {} for k in PICK_KEYS}
+    for row in all_cats:
+        for k, en in zip(PICK_KEYS, row[6]):
+            if en:
+                used[k][en] = zh.get(k, {}).get(en, "")
+    dump(OUT / "styles.json", used)
     print(f"{len(day_files)} 天、{len(all_cats)} 隻")
 
 

@@ -19,14 +19,19 @@
     if (!S.days.has(k)) S.days.set(k, json(DATA + 'days/' + k + '.json').catch(function (e) { S.days.delete(k); throw e; }));
     return S.days.get(k);
   }
+  // all.json 一列：[編號, 標題, 期, 縮圖, 平均色, 角色, [畫風, 構圖, 光線, 質感, 配色]]；中文名在 styles.json
   function all() {
-    if (!S.all) S.all = json(DATA + 'all.json').then(function (rows) {
+    if (!S.all) S.all = Promise.all([json(DATA + 'all.json'), json(DATA + 'styles.json')]).then(function (r) {
+      S.styles = r[1];
       var m = new Map();
-      rows.forEach(function (r) { m.set(r[0], { n: r[0], t: r[1], d: r[2], th: r[3], avg: r[4], style: r[5], ch: r[6], styleZh: r[7] || '' }); });
+      r[0].forEach(function (x) { m.set(x[0], { n: x[0], t: x[1], d: x[2], th: x[3], avg: x[4], ch: x[5], picks: x[6], style: x[6][0] }); });
       return m;
     }).catch(function (e) { S.all = null; throw e; });
     return S.all;
   }
+  var SAME = { a: [0, 'art_style', '同畫風'], c: [1, 'composition', '同構圖'], l: [2, 'lighting', '同光線'], t: [3, 'texture', '同質感'], p: [4, 'color_palette', '同配色'] };
+  var SAME_BY_KEY = { art_style: 'a', composition: 'c', lighting: 'l', texture: 't', color_palette: 'p' };
+  function zhOf(key, en) { return (S.styles && S.styles[key] && S.styles[key][en]) || ''; }
   var full = function (th) { return th.replace('/download/thumbs-', '/download/cats-').replace(/_480\.webp$/, '.webp'); };
   var EMBED = new URLSearchParams(location.search).get('embed') === 'larch';
   // Larch 的框不准開新視窗，外部連結按了沒反應：嵌在 Larch 時藏起來，改放在市集介紹
@@ -257,10 +262,10 @@
       (Object.keys(picks).length ? '<dl class="recipe">' + PICKS.filter(function (p) { return picks[p[0]]; }).map(function (p) {
         var v = picks[p[0]];
         var label = esc(v.en) + (v.zh ? '<small>' + esc(v.zh) + '</small>' : '');
-        return '<dt>' + p[1] + '</dt><dd>' + (p[0] === 'art_style' ? '<button type="button" data-style="' + esc(v.en) + '">' + label + '</button>' : label) + '</dd>';
+        return '<dt>' + p[1] + '</dt><dd><button type="button" data-same="' + SAME_BY_KEY[p[0]] + '|' + esc(v.en) + '" title="看' + SAME[SAME_BY_KEY[p[0]]][2] + '的貓">' + label + '</button></dd>';
       }).join('') + '</dl>' : '') +
       '<div class="nav"><button class="sv' + (isSaved(c.n) ? ' on' : '') + '" type="button" data-save="' + c.n + '">' + (isSaved(c.n) ? '已在貓窩' : '＋ 收進貓窩') + '</button>' +
-      (st.en ? '<button class="ghost" type="button" data-style="' + esc(st.en) + '">同風格</button>' : '') +
+      (st.en ? '<button class="ghost" type="button" data-style="' + esc(st.en) + '">同畫風</button>' : '') +
       (c.ch && S.cast[c.ch] ? '<button class="ghost" type="button" data-cast="' + c.ch + '">' + esc(S.cast[c.ch].name) + '的專訪</button>' : '') +
       '<span class="pn"><button type="button" data-step="-1">← 上一隻</button><button type="button" data-step="1">下一隻 →</button></span></div></div></div>';
   }
@@ -338,7 +343,7 @@
         var key = tab === 'cast' ? 'ch' : 'style', groups = new Map();
         list.forEach(function (x) { var g = x[key] || ''; if (!groups.has(g)) groups.set(g, []); groups.get(g).push(x); });
         body = Array.from(groups.entries()).sort(function (a, b) { return b[1].length - a[1].length; }).map(function (g) {
-          var name = tab === 'cast' ? (g[0] && S.cast[g[0]] ? S.cast[g[0]].name : '路過的貓') : (g[0] ? g[0] + (g[1][0].styleZh ? ' · ' + g[1][0].styleZh : '') : '其他');
+          var name = tab === 'cast' ? (g[0] && S.cast[g[0]] ? S.cast[g[0]].name : '路過的貓') : (g[0] ? g[0] + (zhOf('art_style', g[0]) ? ' · ' + zhOf('art_style', g[0]) : '') : '其他');
           return '<h2>' + esc(name) + '　<small style="font-family:var(--sans);font-weight:400;color:var(--mute);font-size:.6em">' + g[1].length + ' 隻</small></h2>' + grid(g[1]);
         }).join('');
       }
@@ -353,12 +358,14 @@
       return '<figure data-cat="' + x.n + '">' + ph(x.th, x.avg, x.t) + esc(x.t) + '<small>' + [x.d, x.ch && S.cast[x.ch] ? S.cast[x.ch].name : ''].filter(Boolean).join(' · ') + '</small></figure>';
     }).join('') + '</div>';
   }
-  function showStyle(en, limit) {
+  function showSame(k, en, limit) {
+    var s = SAME[k] || SAME.a;
     return all().then(function (m) {
-      var list = Array.from(m.values()).filter(function (x) { return x.style === en; }).reverse();
+      var list = Array.from(m.values()).filter(function (x) { return x.picks[s[0]] === en; }).reverse();
       limit = limit || 60;
-      openPanel('<div class="pg"><div class="hd"><h1 style="font-family:var(--latin);font-weight:800">' + esc(en) + '</h1><span class="kick">同風格</span><span>' + esc(list[0] ? list[0].styleZh : '') + ' · 一共 ' + list.length + ' 隻</span></div>' +
-        grid(list.slice(0, limit)) + (list.length > limit ? '<p style="text-align:center"><button class="btn" type="button" data-style-more="' + esc(en) + '" data-limit="' + (limit + 60) + '">再看 ' + Math.min(60, list.length - limit) + ' 隻</button></p>' : '') + '</div>');
+      openPanel('<div class="pg"><div class="hd"><h1 style="font-family:var(--latin);font-weight:500;letter-spacing:.02em">' + esc(en) + '</h1><span class="kick">' + s[2] + '</span><span>' +
+        [zhOf(s[1], en), '一共 ' + list.length + ' 隻'].filter(Boolean).join(' · ') + '</span></div>' +
+        grid(list.slice(0, limit)) + (list.length > limit ? '<p style="text-align:center"><button class="btn" type="button" data-same-more="' + k + '|' + esc(en) + '" data-limit="' + (limit + 60) + '">再看 ' + Math.min(60, list.length - limit) + ' 隻</button></p>' : '') + '</div>');
     });
   }
 
@@ -368,7 +375,8 @@
     if (/^cat-\d+$/.test(h)) job = showCat(Number(h.slice(4)), S.srcEl);
     else if (/^cast-/.test(h)) job = showCast(h.slice(5));
     else if (h === 'den') job = showDen();
-    else if (/^style-/.test(h)) job = showStyle(h.slice(6));
+    else if (/^style-/.test(h)) job = showSame('a', h.slice(6));
+    else if (/^same-[aclpt]-/.test(h)) job = showSame(h[5], h.slice(7));
     S.srcEl = null;
     if (!job) { closePanel(); return; }
     job.catch(function () { toast('這一頁打不開，可能是網路斷了'); });
@@ -376,11 +384,12 @@
   function go(hash, srcEl) { S.srcEl = srcEl || null; S.opened = true; location.hash = hash; }
 
   document.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-save],[data-style],[data-cast],[data-cat],[data-go],[data-step],[data-season],[data-den-tab],[data-retry],[data-style-more]');
+    var t = e.target.closest('[data-save],[data-style],[data-same],[data-cast],[data-cat],[data-go],[data-step],[data-season],[data-den-tab],[data-retry],[data-same-more]');
     if (!t) return;
     var ds = t.dataset;
     if (ds.save) { toggleSave(Number(ds.save)); return; }
-    if (ds.styleMore) { showStyle(ds.styleMore, Number(ds.limit)); return; }
+    if (ds.sameMore) { var q = ds.sameMore.split('|'); showSame(q[0], q.slice(1).join('|'), Number(ds.limit)); return; }
+    if (ds.same) { var q2 = ds.same.split('|'); go('same-' + q2[0] + '-' + encodeURIComponent(q2.slice(1).join('|'))); return; }
     if (ds.style) { go('style-' + encodeURIComponent(ds.style)); return; }
     if (ds.cast) { go('cast-' + ds.cast); return; }
     if (ds.cat) { go('cat-' + ds.cat, t.classList.contains('ph') ? t : t.closest('.ar') && t.closest('.ar').querySelector('.ph')); return; }
