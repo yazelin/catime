@@ -239,16 +239,26 @@ def cmd_data():
 
 
 def cmd_push():
-    subprocess.run(["git", "add", str(OUT)], check=True)
-    if subprocess.run(["git", "diff", "--cached", "--quiet"], check=False).returncode == 0:
-        print("卯時資料沒有變")
-        return
-    subprocess.run(["git", "-c", "user.name=github-actions[bot]", "-c", "user.email=github-actions[bot]@users.noreply.github.com",
-                    "commit", "-m", "maoshi: 更新資料"], check=True)
-    for _ in range(3):
-        if subprocess.run(["git", "push"], check=False).returncode == 0:
+    """提交 docs/maoshi/data 並推上去。別的工作同時改了 meta.json 時，合併兩邊的縮圖紀錄再重寫資料。"""
+    import os
+    for _ in range(4):
+        subprocess.run(["git", "add", str(OUT)], check=True)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"], check=False).returncode == 0:
+            print("卯時資料沒有變")
             return
-        subprocess.run(["git", "pull", "--rebase"], check=True)
+        subprocess.run(["git", "-c", "user.name=github-actions[bot]", "-c", "user.email=github-actions[bot]@users.noreply.github.com",
+                        "commit", "-q", "-m", "maoshi: 更新資料"], check=True)
+        if subprocess.run(["git", "push", "-q"], check=False).returncode == 0:
+            return
+        if not os.environ.get("GITHUB_ACTIONS"):
+            raise RuntimeError("推不上去；本機請自己 pull 再跑一次")  # ponytail: 本機不做 reset --hard，免得洗掉手上的修改
+        mine = load_json(META, {})
+        subprocess.run(["git", "fetch", "-q", "origin"], check=True)
+        subprocess.run(["git", "reset", "-q", "--hard", "origin/HEAD"], check=True)
+        theirs = load_json(META, {})
+        theirs.update(mine)
+        META.write_text(json.dumps(theirs, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        cmd_data()
     raise RuntimeError("卯時資料推不上去")
 
 
