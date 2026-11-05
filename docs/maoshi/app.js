@@ -43,7 +43,8 @@
     var on = i < 0;
     document.querySelectorAll('[data-save="' + n + '"]').forEach(function (b) {
       b.classList.toggle('on', on);
-      b.textContent = b.classList.contains('sv') ? (on ? '已在貓窩' : '＋ 收進貓窩') : (on ? '已收' : '＋貓窩');
+      if (b.classList.contains('sv')) b.textContent = on ? '已在貓窩' : '＋ 收進貓窩';
+      else { b.setAttribute('aria-label', on ? '已收進貓窩' : '收進貓窩'); b.title = b.getAttribute('aria-label'); }
       b.setAttribute('aria-pressed', on);
     });
     denCount(true);
@@ -74,7 +75,7 @@
   function badges(c) {
     return (isNew(c) ? '<span class="badge">NEW</span>' : '') + (c.season ? '<span class="season">' + ({ spring: '春', summer: '夏', autumn: '秋', winter: '冬' }[c.season] || '') + '</span>' : '');
   }
-  function saveBtn(n) { var on = isSaved(n); return '<button class="save' + (on ? ' on' : '') + '" type="button" data-save="' + n + '" aria-pressed="' + on + '">' + (on ? '已收' : '＋貓窩') + '</button>'; }
+  function saveBtn(n) { var on = isSaved(n); return '<button class="save' + (on ? ' on' : '') + '" type="button" data-save="' + n + '" aria-pressed="' + on + '" aria-label="' + (on ? '已收進貓窩' : '收進貓窩') + '" title="' + (on ? '已收進貓窩' : '收進貓窩') + '"></button>'; }
 
   // 排版：第一列＝第一隻（6 欄橫放）＋兩隻 3 欄；之後每列 4 隻；最後剩 3 隻各 4 欄、剩 2 隻各 6 欄橫放；整天只有 1 隻就佔滿 12 欄
   function layout(list) {
@@ -102,26 +103,28 @@
     d.cats.forEach(function (c) { if (c.ch) inIssue[c.ch] = 1; });
     var el = $('#cover'); el.style.setProperty('--acc', cv.acc);
     var p = $('#cvPh'); p.className = 'cv-ph'; p.style.background = cv.avg;
+    var mast = $('#cvMast') || el.insertBefore(document.createElement('header'), el.firstChild);
+    mast.id = 'cvMast'; mast.className = 'cv-mast';
+    mast.innerHTML = '<b class="mh">MAO SHI</b><div class="cv-id"><span class="zh">卯時</span><span class="tag">每天一期的貓咪時尚雜誌</span>' +
+      '<span class="vol">VOL. <b>' + d.vol + '</b> · ' + d.d + ' 週' + d.wd + ' · 本期 ' + d.cats.length + ' 隻</span></div>';
     p.innerHTML = '<img src="' + esc(cv.th) + '" alt="' + esc(cv.t) + '" fetchpriority="high">' +
-      '<div class="mh"><b>MAO SHI</b><span>卯時</span></div>' +
-      '<div class="vol">VOL. <b>' + d.vol + '</b><br>' + d.d + ' 週' + d.wd + '<br>本期 ' + d.cats.length + ' 隻</div>' +
-      '<button class="cl" type="button" data-cat="' + cv.n + '"><span class="kick">本期封面 · ' + cv.shi + '時 ' + cv.hm + '</span><b>' + esc(cv.t) + '</b></button>';
+      '<button class="cl" type="button" data-cat="' + cv.n + '"><span class="kick">本期封面 · ' + cv.shi + '時 ' + cv.hm + (cv.chn ? ' · ' + esc(cv.chn) : '') + '</span><b>' + esc(cv.t) + '</b></button>';
     var img = p.querySelector('img'), big = new Image();
     big.onload = function () { img.src = big.src; };
     big.src = cv.img;
     var keys = Object.keys(cast);
     var cont = S.store.get('mao_last_issue');
     var side = $('#cvSide');
-    side.innerHTML = '<div class="ti">This issue</div><div class="nw">' + esc(d.topic) + '</div>' +
-      '<div class="src">' + (d.topicFrom === 'news' ? '今日話題 · 啟發了今天的貓' : '本期封面故事') + '</div>' +
-      '<ol class="toc">' + d.cats.slice(1, 7).map(tocItem).join('') +
-      (prev && d.cats.length < 4 ? '<li class="toc-h">上一期 ' + prev.d + '</li>' + prev.cats.slice(0, 4 - d.cats.length + 1).map(tocItem).join('') : '') + '</ol>' +
+    side.innerHTML = '<div class="ti">This issue</div><div class="src kick">' + (d.topicFrom === 'news' ? '今日話題 · 啟發了今天的貓' : '本期封面故事') + '</div><div class="nw">' + esc(d.topic) + '</div>' +
+      // 目錄最多四行，放不下就截掉，不讓版面擠
+      '<ol class="toc">' + d.cats.slice(1, 5).map(tocItem).join('') +
+      (prev && d.cats.length < 4 ? '<li class="toc-h">上一期 ' + prev.d + '</li>' + prev.cats.slice(0, 4 - (d.cats.length - 1) - 1).map(tocItem).join('') : '') + '</ol>' +
       '<div class="cast"><span class="kick">本期出場</span>' + keys.map(function (k) {
         return '<button class="chip' + (inIssue[k] ? '' : ' off') + '" type="button" data-cast="' + k + '"><img src="' + esc(cast[k].av) + '" alt="">' + esc(cast[k].name) + '</button>';
       }).join('') + '</div>' +
-      '<div class="cta"><button class="main" type="button" data-go="feed">翻開本期 ↓</button>' +
-      (cont && cont !== d.d && S.index.days.some(function (x) { return x.d === cont; }) ? '<button class="alt" type="button" data-go="continue">接著看 ' + cont + '</button>' : '') +
-      (EMBED ? '<button class="alt" type="button" data-go="exit">合上雜誌</button>' : '') +
+      '<div class="cta"><button class="link" type="button" data-go="feed">翻開本期 <i>→</i></button>' +
+      (cont && cont !== d.d && S.index.days.some(function (x) { return x.d === cont; }) ? '<button class="link quiet" type="button" data-go="continue">接著看 ' + cont + '</button>' : '') +
+      (EMBED ? '<button class="link quiet" type="button" data-go="exit">合上雜誌</button>' : '') +
       '<span class="new" id="newCount"></span></div>';
     $('#castMini').innerHTML = keys.map(function (k) { return '<button type="button" data-cast="' + k + '" aria-label="' + esc(cast[k].name) + '"><img src="' + esc(cast[k].av) + '" alt=""></button>'; }).join('');
     countNew();
@@ -284,9 +287,9 @@
     var mx = Math.max.apply(null, hours) || 1, out = '';
     for (var i = 0; i < 12; i++) {
       var a0 = i / 12 * 2 * Math.PI - Math.PI / 2 - Math.PI / 12, a1 = a0 + 2 * Math.PI / 12, r = 46 + hours[i] / mx * 50;
-      out += '<path d="M100 100 L' + (100 + r * Math.cos(a0)).toFixed(1) + ' ' + (100 + r * Math.sin(a0)).toFixed(1) + ' A' + r.toFixed(1) + ' ' + r.toFixed(1) + ' 0 0 1 ' + (100 + r * Math.cos(a1)).toFixed(1) + ' ' + (100 + r * Math.sin(a1)).toFixed(1) + ' Z" fill="' + (hours[i] === mx ? 'var(--hot)' : '#d9cfd5') + '" stroke="#fffdfb" stroke-width="2"/>';
+      out += '<path d="M100 100 L' + (100 + r * Math.cos(a0)).toFixed(1) + ' ' + (100 + r * Math.sin(a0)).toFixed(1) + ' A' + r.toFixed(1) + ' ' + r.toFixed(1) + ' 0 0 1 ' + (100 + r * Math.cos(a1)).toFixed(1) + ' ' + (100 + r * Math.sin(a1)).toFixed(1) + ' Z" fill="' + (hours[i] === mx ? '#111010' : '#ddd7cf') + '" stroke="#fbf9f6" stroke-width="2"/>';
       var am = a0 + Math.PI / 12;
-      out += '<text x="' + (100 + 32 * Math.cos(am)).toFixed(1) + '" y="' + (100 + 32 * Math.sin(am) + 5).toFixed(1) + '" text-anchor="middle" font-size="13" fill="#4a4148" font-family="Noto Serif TC">' + SHI[i] + '</text>';
+      out += '<text x="' + (100 + 32 * Math.cos(am)).toFixed(1) + '" y="' + (100 + 32 * Math.sin(am) + 5).toFixed(1) + '" text-anchor="middle" font-size="13" fill="' + (hours[i] === mx ? '#fbf9f6' : '#3b3836') + '" font-family="Noto Serif TC">' + SHI[i] + '</text>';
     }
     return '<svg viewBox="0 0 200 200" role="img" aria-label="各時辰出場次數">' + out + '</svg>';
   }
@@ -308,7 +311,7 @@
         '<div class="clock">' + clock(hours) + '<p>' + c.count + ' 次出場裡，' + topShi + '時最多，有 ' + mx + ' 次。每一格是一個時辰，越長代表那個時辰越常被畫出來。</p></div>' +
         '<div><div class="seas" role="group" aria-label="季節">' + SEASONS.map(function (s) { return '<button type="button" data-season="' + s[0] + '" aria-pressed="' + (s[0] === cur) + '">' + s[1] + '</button>'; }).join('') + '</div>' +
         '<p class="seas-tx" id="seasTx">' + esc(c.seasons[cur] || '') + '</p></div>' +
-        '<h2 style="font-family:var(--serif);font-weight:900;font-size:calc(var(--u)*30);margin:0">近期造型</h2>' +
+        '<div class="kick" style="border-top:1px solid var(--rule);padding-top:calc(var(--u)*28)">Recent looks · 近期造型</div>' +
         '<div class="grid" style="--cols:4">' + looks.slice(0, 8).map(function (x) { return '<figure data-cat="' + x.n + '">' + ph(x.th, x.avg, x.t) + esc(x.t) + '<small>' + x.d + '</small></figure>'; }).join('') + '</div></div></div>');
       S.castOpen = c;
     });
