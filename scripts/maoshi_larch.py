@@ -19,6 +19,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "docs" / "maoshi" / "data"
 PROJECT = "project-cf6836cd-bf7d-4315-8480-74fc9a82bd06"
+# 市集封面＝標題畫面截圖（放在 Larch 媒體庫）。重新上架時沒帶 description／coverUrl，
+# 市集會把介紹換回專案簡介、封面換回標題底圖，所以每次都帶。
+COVER = ("https://pub-4b20b43f5acf4dfaa3f6ab842daa51cf.r2.dev/2d3b0242-9a6d-4051-9825-46aa4efd064a/larch/"
+         "project-cf6836cd-bf7d-4315-8480-74fc9a82bd06/1793852853519_maoshi_thumb.webp")
+LISTING = ROOT / "docs" / "maoshi" / "listing.md"
 BASE = "https://larch.ink/api/agent"
 TPE = timezone(timedelta(hours=8))
 
@@ -82,7 +87,8 @@ def main():
     if cur == version or cur.startswith(version + "."):
         print("這一期已經上架過，不再重複")
         return
-    api("POST", f"/projects/{PROJECT}/publish", {"version": version, "updateNote": note, "notifyFollowers": False})
+    api("POST", f"/projects/{PROJECT}/publish", {"version": version, "updateNote": note, "notifyFollowers": False,
+                                                 "description": LISTING.read_text(encoding="utf-8").strip(), "coverUrl": COVER})
     print("已更新市集版本")
 
 
