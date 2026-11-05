@@ -1,6 +1,8 @@
-# <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime
+# <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime（卯時）
 
 **AI 生成的每小時貓咪圖片，每小時誕生一隻新貓！**
+
+中文名「卯時」：「卯」（mǎo）和「貓」（māo）只差聲調，卯時聽起來就是「貓時」，也就是 cat＋time。卯時是清晨五到七點，正好是貓最活躍的時候；越南的十二生肖裡，卯就是貓。
 
 每小時，GitHub Actions 會透過 Google Gemini 自動生成一張獨特的貓咪圖片，上傳到 GitHub Release，並發佈到月度 issue。247+ 種藝術風格，包含浮世繪、賽博龐克和刺繡微縮模型。每隻貓都有自己的故事。
 

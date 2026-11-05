@@ -1,4 +1,4 @@
-# <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime
+# <img src="docs/icon-192.png" width="32" height="32" alt="catime icon"> catime（卯時）
 
 **AI生成の毎時キャット画像。毎時間、新しい猫が誕生！** 🐱
 
