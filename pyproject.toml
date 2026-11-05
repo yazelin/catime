@@ -23,8 +23,9 @@ catime = "catime.cli:main"
 [tool.hatch.build.targets.wheel]
 packages = ["src/catime"]
 
-[tool.hatch.build.targets.wheel.force-include]
-"docs" = "catime/docs"
+# docs/ 整包放進套件給 `catime view` 用，但卯時的資料（docs/maoshi/data，壓縮後約 2.5MB）只給網站用。
+# force-include 不吃 exclude，所以改由 hatch_build.py 逐檔加入、跳過那個資料夾。
+[tool.hatch.build.targets.wheel.hooks.custom]
 
 [tool.ruff]
 target-version = "py311"
