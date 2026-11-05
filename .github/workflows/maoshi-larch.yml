@@ -1,7 +1,7 @@
 name: 卯時上架
 
 # 把 Larch《卯時》的市集版本更新一次，附上昨天那一期的更新說明（不通知追蹤者）。
-# 現在只能手動跑、預設只檢查；作品第一次上架後，取消下面 schedule 的註解，每天台北 05:00（卯時）自動跑。
+# 每天台北 05:00（卯時）自動跑；手動跑時預設只檢查，勾 publish 才上架。
 on:
   workflow_dispatch:
     inputs:
@@ -12,8 +12,8 @@ on:
       day:
         description: 哪一期，例 26.11.04；留空＝台北時間的昨天
         default: ''
-  # schedule:
-  #   - cron: '0 21 * * *'  # UTC 21:00＝台北 05:00
+  schedule:
+    - cron: '0 21 * * *'  # UTC 21:00＝台北 05:00
 
 permissions:
   contents: read
