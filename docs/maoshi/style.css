@@ -65,6 +65,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .promo a { display: grid; place-items: center; width: calc(var(--u) * 36); height: calc(var(--u) * 36); color: var(--mute); }
 .promo a:hover { color: var(--ink); }
 .promo svg { width: 58%; height: 58%; fill: currentColor; }
+.embed .promo, .embed .yz-bubble { display: none !important; }
 @media (max-aspect-ratio: 1/1), (max-width: 760px) {
   .tb .now, .cast-mini { display: none; }
   .den-btn { margin-left: auto; }

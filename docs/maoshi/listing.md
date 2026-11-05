@@ -13,3 +13,5 @@ catime 每個整點會排一次 AI 畫貓。每一隻貓都是 AI 先讀當天�
 同一本雜誌也可以直接在網站上看：yazelin.github.io/catime/maoshi/ 。在網站上收的貓窩存在那個瀏覽器裡，跟 Larch 裡的貓窩是分開的。
 
 方向與角色設定由人類決定。貓的圖片、標題、故事、新聞摘要與風格挑選都由 AI 產生，雜誌的版面與程式也是跟 AI 一起做出來的。
+
+原始碼：[github.com/yazelin/catime](https://github.com/yazelin/catime) · 作者的 [Facebook](https://www.facebook.com/yaze.lin.gm) · 喜歡的話可以 [請作者喝杯咖啡](https://buymeacoffee.com/yazelin) · [亞澤的部落格](https://yazelin.github.io/)

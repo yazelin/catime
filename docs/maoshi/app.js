@@ -29,6 +29,8 @@
   }
   var full = function (th) { return th.replace('/download/thumbs-', '/download/cats-').replace(/_480\.webp$/, '.webp'); };
   var EMBED = new URLSearchParams(location.search).get('embed') === 'larch';
+  // Larch 的框不准開新視窗，外部連結按了沒反應：嵌在 Larch 時藏起來，改放在市集介紹
+  if (EMBED) document.documentElement.classList.add('embed');
   function exitToLarch() { parent.postMessage({ type: 'maoshi:exit' }, '*'); } // 外殼卡收到後送 larch:complete，回 Larch 標題畫面
   var nowIso = function () { return new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 16) + '+08:00'; };
   var isNew = function (c) { return S.prevOpen && c.at > S.prevOpen; };
