@@ -24,7 +24,11 @@
     if (!S.all) S.all = Promise.all([json(DATA + 'all.json'), json(DATA + 'styles.json')]).then(function (r) {
       S.styles = r[1];
       var m = new Map();
-      r[0].forEach(function (x) { m.set(x[0], { n: x[0], t: x[1], d: x[2], th: x[3], avg: x[4], ch: x[5], picks: x[6], style: x[6][0] }); });
+      r[0].forEach(function (x) {
+        // 舊格式 [編號, 標題, 期, 縮圖, 平均色, 畫風, 角色, 畫風中文]（舊版產生器推上來的）也認得
+        var picks = Array.isArray(x[6]) ? x[6] : [x[5] || '', '', '', '', ''], ch = Array.isArray(x[6]) ? x[5] : x[6];
+        m.set(x[0], { n: x[0], t: x[1], d: x[2], th: x[3], avg: x[4], ch: ch || '', picks: picks, style: picks[0] });
+      });
       return m;
     }).catch(function (e) { S.all = null; throw e; });
     return S.all;
