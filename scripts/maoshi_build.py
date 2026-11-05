@@ -105,24 +105,40 @@ def ensure_release(tag: str):
                         "--notes", "《卯時》動態牆用的 480px 縮圖，自動產生。", "--latest=false"], check=True)
 
 
+def existing_thumbs(tags) -> set[str]:
+    """這些 thumbs release 裡已經有的檔名。"""
+    out = set()
+    for tag in tags:
+        r = subprocess.run(["gh", "release", "view", tag, "--repo", REPO, "--json", "assets", "-q", ".assets[].name"],
+                           check=False, capture_output=True, text=True)
+        out.update(r.stdout.split())
+    return out
+
+
 def cmd_thumbs(limit: int):
     from PIL import Image  # 只有這一步需要 Pillow
     cats, _ = load_all()
     meta = load_json(META, {})
     todo = [c for c in cats if str(c["number"]) not in meta][:limit] if limit else [c for c in cats if str(c["number"]) not in meta]
     print(f"縮圖待做 {len(todo)} 隻")
+    have = existing_thumbs({"thumbs-" + c["timestamp"][:7] for c in todo})
     tmp = ROOT / ".maoshi_tmp"
     tmp.mkdir(exist_ok=True)
     made = set()
     for i, c in enumerate(todo, 1):
         n = str(c["number"])
         try:
+            name = thumb_url(c["url"]).rsplit("/", 1)[1]
+            if name in have:  # 上一輪傳上去了、只是沒記進 meta：讀縮圖取色就好，不重傳
+                raw = urllib.request.urlopen(urllib.request.Request(thumb_url(c["url"]), headers=UA), timeout=60).read()
+                avg, acc = colors(Image.open(io.BytesIO(raw)))
+                meta[n] = {"avg": avg, "acc": acc, "thumb": True}
+                continue
             raw = urllib.request.urlopen(urllib.request.Request(c["url"], headers=UA), timeout=60).read()
             im = Image.open(io.BytesIO(raw))
             avg, acc = colors(im)
             th = im.convert("RGB")
             th.thumbnail((THUMB, THUMB))
-            name = thumb_url(c["url"]).rsplit("/", 1)[1]
             path = tmp / name
             th.save(path, "WEBP", quality=72, method=6)
             tag = "thumbs-" + c["timestamp"][:7]
@@ -241,6 +257,9 @@ def cmd_data():
 def cmd_push():
     """提交 docs/maoshi/data 並推上去。別的工作同時改了 meta.json 時，合併兩邊的縮圖紀錄再重寫資料。"""
     import os
+    if os.environ.get("GITHUB_ACTIONS"):
+        subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
+        subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
     for _ in range(4):
         subprocess.run(["git", "add", str(OUT)], check=True)
         if subprocess.run(["git", "diff", "--cached", "--quiet"], check=False).returncode == 0:
