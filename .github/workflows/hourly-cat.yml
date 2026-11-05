@@ -65,6 +65,17 @@ jobs:
           CODEX_IMAGE_BASE_URL: ${{ secrets.CODEX_IMAGE_BASE_URL }}
         run: python scripts/generate_cat.py
 
+      - name: Update 卯時 data
+        if: success()
+        continue-on-error: true  # 卯時壞掉不影響貓
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git pull --rebase -q || true
+          python scripts/maoshi_build.py thumbs --limit 30
+          python scripts/maoshi_build.py data
+          python scripts/maoshi_build.py push
+
       - name: Post to Telegram channel
         if: success()
         continue-on-error: true

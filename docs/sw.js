@@ -1,4 +1,4 @@
-const STATIC_CACHE = "catime-static-v11";   // html/css/js/icons — network-first, cache is offline fallback
+const STATIC_CACHE = "catime-static-v12";   // html/css/js/icons — network-first, cache is offline fallback
 const CATS_CACHE = "catime-cats-v1";       // cat images — immutable, kept across updates
 const CATLIST_RE = /catlist\.json$/;
 const ICON_RE = /(icon|favicon|apple-touch-icon)/;
@@ -19,10 +19,10 @@ const CORE = [
   CHARACTERS + "index.json", CHARACTERS + "momo.json", CHARACTERS + "captain.json", CHARACTERS + "mochi.json", CHARACTERS + "lingling.json"
 ];
 
-// A cat image = a GitHub Release asset under any "cats" / "cats-YYYY-MM" tag.
+// A cat image = a GitHub Release asset under any "cats" / "cats-YYYY-MM" tag, or a 卯時 thumbnail under "thumbs-YYYY-MM".
 // These never change once published, so they can be cached forever.
 function isCatImage(url) {
-  return /\/releases\/download\/cats[-/]/.test(url.href) && /\.(webp|png|jpe?g)$/i.test(url.pathname);
+  return /\/releases\/download\/(cats|thumbs)[-/]/.test(url.href) && /\.(webp|png|jpe?g)$/i.test(url.pathname);
 }
 
 self.addEventListener("install", (event) => {

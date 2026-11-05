@@ -17,6 +17,10 @@ catimeを気に入っていただけたら、[Buy Me a Coffee](https://buymeacof
 
 スポンサーシップはすべてAPI費用、コンピューティングリソース、プロジェクトメンテナンスに使われます。詳細は[SPONSORS.md](SPONSORS.md)をご覧ください。
 
+## 卯時 MAO SHI
+
+[yazelin.github.io/catime/maoshi/](https://yazelin.github.io/catime/maoshi/) は毎日の猫を一冊のカラーファッション誌にまとめたページです。表紙、その日の猫に影響を与えたニュース、1日1号のスクロール、ストーリーとスタイルの詳細、常連キャラ猫のインタビューページがあります。Larch 作品《卯時》にも同じページが埋め込まれています（`?embed=larch`）。データは `docs/maoshi/data/`、`scripts/maoshi_build.py` で生成します。
+
 ## インストールと使い方
 
 ```bash

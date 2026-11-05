@@ -1,0 +1,35 @@
+name: 卯時縮圖補齊
+
+# 手動跑：替還沒有縮圖的舊貓做 480px 縮圖、取色，上傳到 thumbs-YYYY-MM release，再重寫 docs/maoshi/data。
+# 新的貓由 hourly-cat 每小時順手做，這支只用來補舊的。
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 這次最多做幾隻
+        default: '900'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: maoshi-backfill
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+      - run: pip install Pillow
+      - name: Thumbnails and data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          python scripts/maoshi_build.py thumbs --limit "$LIMIT"
+          python scripts/maoshi_build.py data
+          python scripts/maoshi_build.py push

@@ -55,6 +55,14 @@ uvx catime latest
 | **網頁圖庫** | [GitHub Pages](https://yazelin.github.io/catime/) 瀑布流排版，右上角有背景音樂開關（`docs/bgm.mp3`，gemini-web Lyria 生成，預設關、記住選擇） |
 | **排程** | GitHub Actions cron，每小時執行 |
 
+## 卯時 MAO SHI
+
+[yazelin.github.io/catime/maoshi/](https://yazelin.github.io/catime/maoshi/) 把每天的貓編成一期彩色時尚雜誌：封面、今日話題（啟發那天的新聞）、往下捲一天一期，點開看完整故事與風格配方，四位角色貓各有一頁專訪。喜歡的貓可以收進「貓窩」。
+
+- 同一頁也嵌在 Larch 作品《卯時》裡（網址帶 `?embed=larch`）。在 Larch 裡貓窩存成 Larch 變數，直接開網址時存在瀏覽器裡。
+- 資料在 `docs/maoshi/data/`，由 `scripts/maoshi_build.py` 產生：`index.json` 每天一行，`days/26.11.04.json` 是那天的貓，`all.json` 給貓窩與同風格查詢。
+- 動態牆用 480px 縮圖，放在 `thumbs-YYYY-MM` release。每小時產完貓會順手做新貓的縮圖並更新資料；舊的貓用 Actions 的「卯時縮圖補齊」手動補。
+
 ## 角色
 
 catime 有固定出場的貓咪角色，各有獨特的外型與個性：

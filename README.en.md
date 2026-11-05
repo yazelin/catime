@@ -17,6 +17,10 @@ If you enjoy catime, consider supporting the project via [Buy Me a Coffee](https
 
 All sponsorship goes toward API costs, compute resources, and project maintenance. See [SPONSORS.md](SPONSORS.md) for details.
 
+## MAO SHI (卯時)
+
+[yazelin.github.io/catime/maoshi/](https://yazelin.github.io/catime/maoshi/) turns each day of cats into an issue of a colour fashion magazine: cover, the news that inspired the day, one issue per day as you scroll, full stories and style recipes, and an interview page for each recurring cat. The same page is embedded in the Larch work 《卯時》 (`?embed=larch`). Data lives in `docs/maoshi/data/`, built by `scripts/maoshi_build.py`.
+
 ## Install & Usage
 
 ```bash
