@@ -582,5 +582,36 @@
       "戲劇性懸崖與極致負空間",
       "專注凝視微小物件的蹲伏姿態"
     ]
+  },
+  {
+    "idea": "這是一幅月夜下的水墨畫，一隻優雅的貓兒身披輕盈的紗網，如拖尾長裙般在斑駁的竹影間翩翩起舞。",
+    "story": "月光穿透竹林，灑在貓兒身上，紗網隨著牠的動作輕輕飄動，彷彿在訴說著月夜的秘密。貓兒沉浸在舞蹈中，忘卻了周遭的一切，只願在這寧靜的夜晚，盡情釋放自我。",
+    "inspiration": "original",
+    "avoid_list": [
+      "貓爪撥弄或觸碰物件",
+      "舊書店與古董書籍",
+      "倫勃朗光與面部光影三角形",
+      "黑貓耳戴單邊金環與胸前白毛",
+      "布偶貓鈴鈴與粉紅鈴鐺項圈",
+      "幾何風格與朱紅金箔配色",
+      "配色條邊框裝飾與設計情緒板",
+      "點刻肌理與密集針筆線條",
+      "掉落楓葉與海面波紋倒影",
+      "生物發光藍微光與落葉標記",
+      "Traditional Chinese glyphs 繁體中文排版標註",
+      "極致居中或鏡面對稱構圖"
+    ],
+    "number": 3595,
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Dappled Light",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Moonlit Indigo"
+    },
+    "title": "月下竹影舞",
+    "comment_id": 6654510827,
+    "prompt": "A minimalist Chinese ink wash painting in sumi-e style on rice paper featuring an elegant cat dancing among dappled bamboo shadows under a moonlit sky. The cat is wearing a delicate, translucent sheer gauze mesh that flows behind it like a long trailing gown, captured in a full-length back-view trailing gown composition with an elegant receding silhouette. Soft mottled shadow patterns and light play filter through the bamboo leaves. Deep moonlit indigo palette with night-blue, violet tones, and cool silvery highlights, creating a serene, mysterious nocturnal mood. The text '2026-11-05 09:27 UTC' is clearly and visually displayed in the image in fine elegant typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": []
   }
 ]
