@@ -719,5 +719,43 @@
     "story": "即使退休在碼頭，船長依然保持著航海家的嚴謹。牠每天準時站在燈塔旁，利用這具跟隨牠多年的六分儀確認港口方位，這對牠來說，不僅是習慣，更是守護這片水域的儀式。",
     "character_name": "船長",
     "is_seasonal": true
+  },
+  {
+    "story": "深夜的便利商店裡，貪吃的麻糬趁著大夜班店員不注意，撲倒了一整排的特價泡麵。為了掩蓋罪行（或者是為了更方便「試吃」），牠正用肉爪笨拙地將滾落的花生麻糬口味泡麵、各色零食包裝和打翻的關東煮小碗，試圖按照大小和顏色，整齊地排列成一個完美的 Knolling 矩形。這隻圓滾滾的胖貓一臉認真地瞇著眼呼呼，完全沒發現自己已經成了這幅荒謬街頭藝術的主角。",
+    "style_picks": {
+      "art_style": "Street Photography",
+      "composition": "Knolling Photography",
+      "lighting": "Butterfly Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Periwinkle Blue and Ivory"
+    },
+    "comment_id": 6687927091,
+    "character_name": "麻糬",
+    "title": "深夜的泡麵整理學",
+    "idea": "這是一幅以街頭攝影風格呈現的 Knolling 排列攝影作品，捕捉了橘白家貓「麻糬」在便利商店地板上整理被「洗劫」後的泡麵與零食排列，展現長春花藍與象牙白的色調，並帶有細膩的紙質肌理和溫暖的蝴蝶光。",
+    "avoid_list": [
+      "貓爪撥弄或觸碰物件",
+      "舊書店與古董書籍",
+      "倫勃朗光與面部光影三角形",
+      "黑貓耳戴單邊金環與胸前白毛",
+      "布偶貓鈴鈴與粉紅鈴鐺項圈",
+      "幾何風格與朱紅金箔配色",
+      "配色條邊框裝飾與設計情緒板",
+      "點刻肌理與密集針筆線條",
+      "掉落楓葉與海面波紋倒影",
+      "生物發光藍微光與落葉標記",
+      "Traditional Chinese glyphs 繁體中文排版標註",
+      "極致居中或鏡面對稱構圖"
+    ],
+    "news_inspiration": [
+      "英國倫敦 Oxford Street 正式將近一公里的購物街區改為純行人專用區，並規劃增設綠化植栽與露天餐飲空間。",
+      "德國巴伐利亞舉辦了全球首個專為臘腸犬打造的藝術展覽，現場甚至開放訓練有素的狗狗入場觀展。",
+      "印度尼西亞（印尼）熱帶雨林成功將九隻從森林火災中救出的紅毛猩猩野放回大自然。",
+      "智利巴塔哥尼亞國家公園的女性護林員團隊成功將 13 隻達爾文鶆䴁（美洲鴕鳥）野放回到野生棲地。"
+    ],
+    "character": "mochi",
+    "number": 3599,
+    "prompt": "Street photography, candid shot, overhead flat lay view of a chubby rounded shorthair cat named Mochi with a white base coat and bright orange patches, featuring a right half-face orange mask extending from the nose bridge across the right cheek to the right ear while the left face is entirely white, a heart-shaped orange saddle centered on the upper back, a solid orange mitten on the right front paw and a pure white left front paw, large round amber eyes, and a pink nose with a tiny orange center dot, sitting on a convenience store floor organizing spilled instant noodle cups and snack packages into a neat Knolling grid layout at 90-degree angles, natural light, butterfly lighting, shallow depth of field, textured paper surface and visible fiber grain, color palette of soft periwinkle blue and warm ivory white, the date and time '2026-11-06 15:00 UTC' visually displayed in the image IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original"
   }
 ]
