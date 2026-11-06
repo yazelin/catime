@@ -680,5 +680,44 @@
     ],
     "prompt": "A Gyotaku style direct ink impression print on an aged silk scroll, featuring a traditional Japanese art form with a textured relief surface. The artwork uses a vibrant crimson and sage green palette, depicting a vivid deep red against muted grey-green for a complementary tension with antique decorative harmony. The composition is an eye-level frontal view, a straight-on symmetrical shot where an orange cat in the center is facing the camera directly in a confrontational balance. The cat is fully engaged, gently pressing its nose against a blooming crimson camellia flower, capturing a moment of curiosity and quiet connection. The lighting is high-key and bright, creating an airy overexposed feel with soft even illumination, minimal shadows, and a luminous clean atmosphere, conveying a dreamy pastel mood. The surface of the aged silk scroll has a warm sepia patina, visible silk weave, weathered paper stains, delicate crease lines, and an antique manuscript texture. In traditional Chinese characters and English text on the artwork, the date and time are displayed as: '二零二六年十一月五日 23:37 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "number": 3597
+  },
+  {
+    "news_inspiration": [
+      "在英國倫敦，知名購物勝地牛津街部分路段正式實施全線徒步區政策，禁止車輛通行並新增綠地與餐飲空間，吸引大批民眾享受漫步購物體驗。",
+      "在中國貴州黔東南州，當地舉行的「苗族阿姨籃球賽」因沒有繁瑣規則且球員皆身穿傳統服飾而爆紅，呈現充滿熱情與趣味的鄉村文化運動盛況。",
+      "在美國北卡羅萊納州桑普森郡，一位退伍軍人憑藉一把鋤頭與鏟子白手起家打造生態農場，獲頒 2026 年度最佳小農殊榮並積極推廣永續農業與青年導師計畫。"
+    ],
+    "season": "autumn",
+    "number": 3598,
+    "idea": "船長以手繪信息圖風格，被描繪在一個展開的油紙傘背景中，牠正專注地用右眼和白手套貓掌，操作一個古老的黃銅六分儀測量方位。場景白底去背，裝飾著金箔潑點肌理，並運用橘紫互補色調。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Hand-drawn Infographic",
+      "composition": "Paper Parasol Backdrop Frame",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Orange and Violet Complementary"
+    },
+    "comment_id": 6678998651,
+    "avoid_list": [
+      "貓爪撥弄或觸碰物件",
+      "舊書店與古董書籍",
+      "倫勃朗光與面部光影三角形",
+      "黑貓耳戴單邊金環與胸前白毛",
+      "布偶貓鈴鈴與粉紅鈴鐺項圈",
+      "幾何風格與朱紅金箔配色",
+      "配色條邊框裝飾與設計情緒板",
+      "點刻肌理與密集針筆線條",
+      "掉落楓葉與海面波紋倒影",
+      "生物發光藍微光與落葉標記",
+      "Traditional Chinese glyphs 繁體中文排版標註",
+      "極致居中或鏡面對稱構圖"
+    ],
+    "character": "captain",
+    "title": "掌舵者的星辰指引",
+    "prompt": "A hand-drawn infographic illustration in a warm rustic aesthetic, with the date and time '2026-11-06 06:38 UTC' visually displayed. The scene is set against a bright, high-key backdrop with gold foil flecks texture and scattered metallic gold leaf shards, creating a clean, evenly lit look on a pure white cyclorama. At the center is Captain, a large stocky brown classic tabby cat with bold black stripes and a scruffy, coarse fur texture. As a HARD CONSTRAINT: His LEFT eye (viewer's left) is permanently concealed by a NATURAL dark-pigmented fur patch, while his RIGHT eye is a single piercing emerald green. His LEFT ear features a prominent V-shaped notch, and a faded red bandana is tied loosely around his neck. White mitten paws are visible on all four feet. An opened oiled-paper umbrella with a ribbed circular design serves as a radiating halo background, framing the cat. The cat is shown from a three-quarter perspective, holding and operating an ancient brass sextant with its white-gloved right cat paw, focusing with its visible emerald green right eye through the sextant's eyepiece to measure a celestial body's position. The cat's white chest bib is clear. The artistic style uses bold calligraphy brush strokes and a striking complementary color palette of vivid warm orange against deep purple, with hand-applied foil splatter creating luxurious shimmering accents. Autumnal elements like stylized fallen leaves are subtly incorporated into the infographic design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "即使退休在碼頭，船長依然保持著航海家的嚴謹。牠每天準時站在燈塔旁，利用這具跟隨牠多年的六分儀確認港口方位，這對牠來說，不僅是習慣，更是守護這片水域的儀式。",
+    "character_name": "船長",
+    "is_seasonal": true
   }
 ]
