@@ -757,5 +757,39 @@
     "number": 3599,
     "prompt": "Street photography, candid shot, overhead flat lay view of a chubby rounded shorthair cat named Mochi with a white base coat and bright orange patches, featuring a right half-face orange mask extending from the nose bridge across the right cheek to the right ear while the left face is entirely white, a heart-shaped orange saddle centered on the upper back, a solid orange mitten on the right front paw and a pure white left front paw, large round amber eyes, and a pink nose with a tiny orange center dot, sitting on a convenience store floor organizing spilled instant noodle cups and snack packages into a neat Knolling grid layout at 90-degree angles, natural light, butterfly lighting, shallow depth of field, textured paper surface and visible fiber grain, color palette of soft periwinkle blue and warm ivory white, the date and time '2026-11-06 15:00 UTC' visually displayed in the image IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "original"
+  },
+  {
+    "prompt": "Dreamy product photography, full-bleed frame-filling macro shot of a black cat meticulously repairing a weathered vintage clock with its paws inside an abandoned submarine control room. Coiled and woven wire mesh texture wrapped around corroded background pipes, glossy reflections, floating gears. A narrow beam spotlight creates dramatic high-contrast crimson and ice-blue dual-tone lighting, casting sharp light edges against deep darkness falloff. The digital text '2026-11-06 20:52 UTC' is visibly displayed on a luminous digital readout display in the frame. Shot on 35mm lens, f/2.8, subtle film grain, sharp focus on cat's paws and clock gears, shallow depth of field, authentic commercial still life photograph. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Dreamy Product Photography",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Spotlight",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Crimson and Ice Blue"
+    },
+    "comment_id": 6695289930,
+    "inspiration": "original",
+    "story": "深海的寂靜中，這隻黑貓以貓爪靈巧地撥弄著齒輪，彷彿在修補時間的流逝。冰藍的冷光與緋紅的燈柱交織，映照出它專注而神祕的身影。",
+    "title": "深海的機械時光",
+    "avoid_list": [
+      "橘白斑紋花色貓咪",
+      "強烈繁體中文與英文文字約束提示",
+      "手繪資訊圖表與手寫書法筆觸風格",
+      "微距攝影捕捉前爪觸碰動作",
+      "金箔斑駁花卉與混媒拼貼質感",
+      "自然光與生物發光/緋紅微光相映",
+      "印有特定日期的文字標籤或畫籤",
+      "極致純白或膨鬆大白貓與藍眼睛組合",
+      "長春花藍與象牙白/金黑配色混搭",
+      "俯視平鋪 Knolling 排列構圖"
+    ],
+    "number": 3600,
+    "idea": "採用夢幻商品攝影風格，一隻黑貓正專注地在一座海底廢棄潛水艇的操控室裡修理斑駁的復古時鐘。滿版特寫構圖搭配聚光燈照射，背景交織著鐵絲網纏繞的管線，整體呈現緋紅與冰藍相映的奇幻視覺。",
+    "news_inspiration": [
+      "在英國倫敦，知名購物勝地牛津街正式啟動近1公里的徒步區計畫，禁行所有汽機車與公車，為遊客打造綠意盎然的行人徒步天堂。",
+      "在美國紐約，90歲高齡的長者詹姆斯·湯瑪斯（James Thomas）順利完成他人生中的第43次紐約馬拉松賽事，為長跑生涯劃下完美句點。",
+      "在澳洲新南威爾斯州近海，一群漁夫在距離海岸約3公里的海面上驚喜發現並奮力救起了一隻因體力不支而漂流的袋鼠。",
+      "在印尼加里曼丹的森林地區，保育團隊順利將9隻從森林大火中救出的猩猩放歸大自然，並迎來稀有爪哇野牛幼崽的誕生。"
+    ]
   }
 ]
