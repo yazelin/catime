@@ -886,5 +886,34 @@
       "texture": "Water Droplets on Skin",
       "color_palette": "Crimson and Black"
     }
+  },
+  {
+    "number": 3604,
+    "news_inspiration": [],
+    "comment_id": 6711553605,
+    "idea": "在日系清新少年插畫風格中，一隻巨大的黑白相間貓咪慵懶地趴在溫室窗邊，擋住了大半陽光，而一位穿著朱紅色圍裙的少年則在牠龐大的身軀旁專注地修剪盆栽，形成巨獸前景並置的構圖。",
+    "inspiration": "original",
+    "story": "午後的溫室裡，巨貓「墨水」成了最強大的存在，牠龐大的身體幾乎佔滿了窗格，陽光透過牠的毛髮灑落，形成溫柔的光暈。少年在牠修長的尾巴旁小心翼翼地侍弄著花草，粉彩般的顆粒肌理記錄了這段寧靜而奇幻的共處時光。",
+    "avoid_list": [
+      "橘白斑紋花色貓咪",
+      "強烈繁體中文與英文文字約束提示",
+      "手繪資訊圖表與手寫書法筆觸風格",
+      "微距攝影捕捉前爪觸碰動作",
+      "金箔斑駁花卉與混媒拼貼質感",
+      "自然光與生物發光/緋紅微光相映",
+      "印有特定日期的文字標籤或畫籤",
+      "極致純白或膨鬆大白貓與藍眼睛組合",
+      "長春花藍與象牙白/金黑配色混搭",
+      "俯視平鋪 Knolling 排列構圖"
+    ],
+    "prompt": "Fresh Japanese youth illustration in a refreshing coming-of-age anime mood with crisp light linework and transparent pastel coloring. A huge giant black-and-white cat lazily lies down by a greenhouse window, blocking most of the warm sunlight, creating a beast-foreground companion composition with side-by-side scale pairing and layered depth. Beside the giant cat's massive body and long tail, a clean-cut teenage boy with soft tousled hair and clear eyes, wearing a bold cinnabar vermilion red apron, is attentively pruning potted plants. The scene features soft directional daylight streaming from the side window, classic Vermeer-like illumination with smooth falloff into shadows, and a chalky soft-pastel grain texture on toothy paper with matte velvety finish. In the vermilion and white palette, the date and time '2026-11-07 18:45 UTC' is visually displayed crisp and clearly in the corner of the image in clean English typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "溫室裡的龐然大物",
+    "style_picks": {
+      "art_style": "Fresh Japanese Youth Illustration",
+      "composition": "Beast-Foreground Companion Composition",
+      "lighting": "Window Light",
+      "texture": "Chalky Soft-Pastel Grain",
+      "color_palette": "Vermilion and White"
+    }
   }
 ]
