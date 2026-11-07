@@ -915,5 +915,39 @@
       "texture": "Chalky Soft-Pastel Grain",
       "color_palette": "Vermilion and White"
     }
+  },
+  {
+    "story": "深夜的老街攤位沉浸在寂靜之中，麻糬發揮極致的好奇與貪吃，將身子塞進一個廢棄的哥德風格鏤空鐵籠裡。當上方微弱的聚光燈照亮牠圓潤的背影與斑塊，這顆會走路的花生麻糬正滿足地瞇著雙眼打呼嚕。",
+    "style_picks": {
+      "art_style": "Gothic Stop-Motion Puppet",
+      "composition": "Back-View Trailing Gown Composition",
+      "lighting": "Spotlight",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Morandi Color Palette"
+    },
+    "character": "mochi",
+    "prompt": "A stop-motion puppet animation scene in the gothic stop-motion puppet style, featuring Mochi, a chubby, rounded shorthair cat with a white #FFFFFF base coat and bright orange #FF8C00 patches, viewed mostly from the back as she drags a massive, ornate gothic stop-motion puppet style wrought iron老街攤位招牌. The intricate cast iron lace of the sign trails behind her like a long, flowing gown across the dusty, handmade set floor. Mochi's dorsal view clearly shows her heart-shaped orange #FF8C00 saddle centered on her upper back. She is squeezing her head into a section of the sign's black wrought iron scrollwork and intricate openwork patterns, where her face is turned away from the camera, intensely focused on licking remnants of peanut candy from the iron filigree, with only a partial glimpse of her right orange-masked face visible from the side. The scene is lit by a single, narrow beam spotlight from above, creating a dramatic, high-contrast effect with sharp light edges and deep darkness falloff, casting a muted eerie palette of desaturated soft pastels and dusty grey undertones over the entire hand-crafted set. The tactile textures of the handmade puppets and wooden/metal props are evident. In the upper corner, the date and time '2026-11-07 22:43 UTC' is visually displayed in Traditional Chinese. This full-length vertical framing captures the elegant receding silhouette and a graceful sense of departure. The image contains no tabby stripes, striped markings, mackerel pattern, longhair, or anthropomorphic features on the cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "美國紐黑文的魯賓天文台發現了兩座隱藏在銀河系旁的新矮星系，為揭開星系演化謎團帶來重大突破。",
+      "智利巴塔哥尼亞國家公園實施野化保育計畫，成功將 13 隻美洲鴕鳥安全放歸大自然。",
+      "南非開普敦的 La Colombe 餐廳在最新頒布的評選中獲頒為全非洲最佳餐廳。",
+      "巴西環保部門正式擴增國家公園保護區面積逾 25%，強化對敏感生態系的保護"
+    ],
+    "title": "鑄鐵光影下的麻糬",
+    "inspiration": "original",
+    "comment_id": 6714043938,
+    "character_name": "麻糬",
+    "avoid_list": [
+      "船長虎斑貓與六分儀航海",
+      "黑貓在強烈聚光燈下修復與棲息",
+      "斑駁光影與雙色高對比光照",
+      "淡粉紅與粉藍的柔和粉彩調性",
+      "傳統工藝質感與肌理重現",
+      "畫面包含精確 UTC 時間戳記標籤",
+      "繁體中文與英文限定文字約束",
+      "擺放/修剪物品的專注細節特寫"
+    ],
+    "idea": "在莫蘭迪色調與哥德定格偶風格中，體型圓滾滾的橘白貓麻糬拖著長裙般的巨大鑄鐵鏤空老街攤位招牌，在單一聚光燈的照射下，專注地舔著鐵藝格柵間的花生糖餘渣。",
+    "number": 3605
   }
 ]
