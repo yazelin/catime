@@ -855,5 +855,36 @@
     "season": "autumn",
     "prompt": "A vintage poster illustration in a hand-sculpted clay pottery style with retro faded color tones and matte ceramic texture, depicting Captain, a large stocky brown classic tabby cat with bold black stripes, scruffy coarse fur, a V-shaped notch on his left ear, a faded red bandana, white chest bib, and white mitten paws on all four feet. His left eye is naturally covered by a dark fur patch, and his visible right eye is a piercing emerald green. The cat is inside a small, weathered glass bottle-like vessel, built within an ancient lighthouse model, holding and focused on using tiny, precise tools to repair a vintage, tarnished brass nautical compass. The scene is illuminated by dramatic, crackling blue-white lightning bolts and harsh flashes providing high-contrast storm light, casting a stark, charged glow. The view outside a miniature glass bottle window shows a stormy autumn twilight with wind-swept falling maple leaves in red and orange against a moody, rain-soaked sky and distant harbor. The entire composition has a hand-crafted ceramic feel with visible texture imperfections, bold typography typical of a retro poster, and a distinct glass border framing. The date and time '2026-11-07 07:06 UTC' are subtly integrated into the design near the bottle opening in Traditional Chinese, in a style matching the art. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "港口的守護者『船長』即使在退休後，依然一絲不苟地維護著航海儀器。在一個雷雨交加的秋日黃昏，牠躲進了舊燈塔的模型裡，藉著閃電的瞬間光亮，專心地校準著這個老羅盤。"
+  },
+  {
+    "idea": "這是一幅分割畫面的影像，墨墨，那隻帶有金色耳環的純黑孟買貓，正棲息在一座巨大的緋紅色珊瑚花卉雕塑中。牠的黑色緞面短毛上覆蓋著晶瑩的水珠，在聚光燈的強烈照射下閃爍，與深邃的烏黑色調形成強烈對比，展現出立體花卉渲生雕塑的視覺效果。",
+    "title": "墨墨的緋紅花園",
+    "comment_id": 6707891351,
+    "character_name": "墨墨",
+    "number": 3603,
+    "avoid_list": [
+      "橘白斑紋花色貓咪",
+      "強烈繁體中文與英文文字約束提示",
+      "手繪資訊圖表與手寫書法筆觸風格",
+      "微距攝影捕捉前爪觸碰動作",
+      "金箔斑駁花卉與混媒拼貼質感",
+      "自然光與生物發光/緋紅微光相映",
+      "印有特定日期的文字標籤或畫籤",
+      "極致純白或膨鬆大白貓與藍眼睛組合",
+      "長春花藍與象牙白/金黑配色混搭",
+      "俯視平鋪 Knolling 排列構圖"
+    ],
+    "character": "momo",
+    "news_inspiration": [],
+    "story": "墨墨輕盈地躍入這座由紅色珊瑚與花朵組成的藝術迷宮中，牠在那裡優雅地遊走，仿佛也在欣賞著自身的黑與環境的紅之間的戲劇性碰撞。水珠從雕塑上滴落在牠修長的身體上，牠卻只是安靜地坐著，用那雙明亮的金琥珀色眼睛凝視著這片超現實的緋紅世界，展現出牠獨立且傲嬌的個性。",
+    "inspiration": "original",
+    "prompt": "A candid photograph taken with a 35mm lens, f/2.8, shows a sleek, slender solid-black Bombay-style shorthair cat named Momo, with satin-sheen fur, covered in glistening, jewel-like water droplets. The cat is perched gracefully within a large, organic biomorphic sculpture made of deep crimson coral and sculpted, flower-like forms that morph into coral growths, filling the frame. A narrow, high-contrast spotlight from the upper left illuminates Momo and the surrounding sculpture, creating sharp light edges and deep shadows. In the left ear (viewer perspective), a single small gold hoop earring is clearly visible. The cat has large, luminous golden-amber eyes and long white whiskers, gazing calmly towards the viewer. The texture of the cat's wet fur and the rough, glossy, detailed surfaces of the coral and floral forms are sharply rendered. The background falls into deep darkness. A small, discrete text string is visible in the bottom right corner reading '2026-11-07 13:59 UTC'. The image is a split view composition with a vertical cut line, where the left half is a photorealistic capture and the right half appears as a technical wireframe and databent diagram overlay of the same scene with glowing lines. The overall mood is mysterious and high-contrast, like a documentary shot of a surreal art installation. Film grain is present, not overly processed digital art. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Surreal Floral-Coral Sculpture",
+      "composition": "Split View",
+      "lighting": "Spotlight",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Crimson and Black"
+    }
   }
 ]
