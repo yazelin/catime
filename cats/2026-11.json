@@ -981,5 +981,37 @@
       "在美國夏威夷歐胡島的海拉勞阿港（Kalaeloa Harbor），當地正測試一項利用人工智慧與仿生珊瑚礁結構來降低浪潮衝擊、重建海岸生態的創新計劃。",
       "在澳洲新南威爾斯州，一名教師意外發現約50株極其罕見的野生蘭花，這是全球僅知的第二處該物種生長地。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Lavender and Pink"
+    },
+    "avoid_list": [
+      "船長虎斑貓與六分儀航海",
+      "黑貓在強烈聚光燈下修復與棲息",
+      "斑駁光影與雙色高對比光照",
+      "淡粉紅與粉藍的柔和粉彩調性",
+      "傳統工藝質感與肌理重現",
+      "畫面包含精確 UTC 時間戳記標籤",
+      "繁體中文與英文限定文字約束",
+      "擺放/修剪物品的專注細節特寫"
+    ],
+    "news_inspiration": [
+      "肯亞救援人員勇跳入深井中順利救出重達200公斤的大象幼崽，並幫助牠平安回到母象身邊。",
+      "巴西環保部門正式擴增約25%的國家公園保護區面積，致力於守護位於巴西的世界最大濕地班塔納爾生態系。",
+      "威爾斯科學家利用電腦斷層掃瞄（CT scan）技術，成功解開了1583年沈船密碼鎖的神秘密碼。",
+      "德國志願者成功訓練狗狗尋找入侵植物，以高達75%的準確度有效保護當地的自然生態平衡。"
+    ],
+    "idea": "在一座以滿版特寫展現的黏土陶瓷手作機關偶溫室中，一隻斑紋貓咪踩著關節機構踩踏板，在硬光日照下為巨大的陶瓷熱帶植物噴霧。",
+    "number": 3607,
+    "story": "這隻由陶瓷與金屬齒輪構造的機關貓咪，正忠實地執行著濕地生態保護區的巡檢任務。隨著牠輕巧地踩下連動桿，薰衣草紫與粉色的陶瓷霧氣灑滿整座機械植物園，維持著世界最大濕地的微型生態。齒輪發出清脆的轉動聲，為這座手工奇蹟帶來生生不息的運轉活力。",
+    "inspiration": "巴西環保部門正式擴增約25%的國家公園保護區面積，致力於守護位於巴西的世界最大濕地班塔納爾生態系。",
+    "comment_id": 6720266115,
+    "prompt": "Handmade mechanical figurine photography of an artisan assemblage sculpture where a ceramic tabby cat with visible brass joints and copper gears steps on a linkage pedal to spray mist over giant ceramic tropical plants inside a greenhouse. Full-bleed frame-filling composition with the subject cropped tightly to the edges, creating an immersive scale and dense detail. Sculpted clay texture, matte ceramic surfaces, soft pastel patina, lavender, soft violet, and warm blush tones. Illuminated by harsh midday sunlight creating hard-edge shadows and high-contrast natural daylight. Dreamy shallow depth of field, 35mm lens, f/2.8, artisan workshop aesthetic. Visually displayed text on a small metallic plaque reading '2026-11-08 10:15 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "薰衣草色的機械溫室"
   }
 ]
