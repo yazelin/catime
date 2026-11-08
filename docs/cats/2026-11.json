@@ -1046,5 +1046,34 @@
       "擺放/修剪物品的專注細節特寫"
     ],
     "inspiration": "original"
+  },
+  {
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Luminous Nocturnal Landscape Illustration",
+      "composition": "Side Profile Portrait",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Ink-Bleed on Silk",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 6727169943,
+    "character": "captain",
+    "avoid_list": [
+      "船長虎斑貓與六分儀航海",
+      "黑貓在強烈聚光燈下修復與棲息",
+      "斑駁光影與雙色高對比光照",
+      "淡粉紅與粉藍的柔和粉彩調性",
+      "傳統工藝質感與肌理重現",
+      "畫面包含精確 UTC 時間戳記標籤",
+      "繁體中文與英文限定文字約束",
+      "擺放/修剪物品的專注細節特寫"
+    ],
+    "news_inspiration": [],
+    "number": 3609,
+    "story": "夜幕低垂，港口燈火如繁星點點。這位歷盡滄桑的老船長站在棧橋最高處，翠綠的右眼凝視著深邃的夜空與海面，守護著這片牠深愛的港灣與貓群。",
+    "inspiration": "original",
+    "idea": "以絲質暈染墨紋的夜光療癒風景插畫風格，描繪『船長』虎斑貓的側臉特寫。畫面採用中國紅金配色，自然漫射光勾勒出牠佩戴眼罩與紅色頭巾的堅毅面容，背景為溫暖燈火點綴的古老漁港碼頭夜景。",
+    "prompt": "Side profile portrait of Captain, a large stocky brown classic tabby cat with bold black stripes, scruffy coarse coat texture, a distinctive M-mark on forehead, a prominent V-shaped notch on his left ear, a white chest bib, and a faded red bandana tied around his neck. Viewed strictly from the side, highlighting his resolute facial profile. His left eye is completely concealed by a natural dark-pigmented brown-black fur patch with no straps or fabric eye patch, while his right eye shines as a single piercing emerald green. He wears a red headscarf. Set against a serene ancient fishing port pier at night softly lit by warm glowing lantern lights. Art style features an ink-bleed on silk texture, delicate ink diffusing and feathering into woven fabric with soft blurred wash edges. Auspicious Chinese red and bright gold festive color palette, illuminated by soft diffused natural ambient bloom under a quiet night sky. Displaying the text '2026-11-08 21:08 UTC' visually rendered in elegant typography in a corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "港灣守望者"
   }
 ]
