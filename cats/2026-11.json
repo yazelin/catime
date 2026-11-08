@@ -1013,5 +1013,38 @@
     "comment_id": 6720266115,
     "prompt": "Handmade mechanical figurine photography of an artisan assemblage sculpture where a ceramic tabby cat with visible brass joints and copper gears steps on a linkage pedal to spray mist over giant ceramic tropical plants inside a greenhouse. Full-bleed frame-filling composition with the subject cropped tightly to the edges, creating an immersive scale and dense detail. Sculpted clay texture, matte ceramic surfaces, soft pastel patina, lavender, soft violet, and warm blush tones. Illuminated by harsh midday sunlight creating hard-edge shadows and high-contrast natural daylight. Dreamy shallow depth of field, 35mm lens, f/2.8, artisan workshop aesthetic. Visually displayed text on a small metallic plaque reading '2026-11-08 10:15 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "薰衣草色的機械溫室"
+  },
+  {
+    "prompt": "A Cubism style black and white artwork depicting Momo, a sleek slender solid-black cat with large luminous golden-amber eyes, standing on the keys of a grand piano inside a vintage bookstore. The scene features geometric fragmented forms, multiple simultaneous perspectives, abstract angular planes, analytical decomposition, and high contrast monochrome tones with rich tonal range and dramatic shadows. On Momo's left ear is a single small gold hoop earring, and on her ventral chest is a tiny natural white locket tuft, with a single dark-grey ring at her tail tip. Surrounding the piano are scattered old books and vintage antiques in abstract angular forms. Visually displayed clearly in the image is the text '2026-11-08 16:41 UTC' in crisp typography. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "在泰國曼谷，歐洲歌唱大賽（Eurovision）正籌備首次舉辦其亞洲版本的新音樂盛事，吸引各界關注。",
+      "在美國明尼亞波利斯市，副州長佩姬·弗拉納根（Peggy Flanagan）成功當選，成為美國歷史上首位原住民女性聯邦參議員。",
+      "在日本東京舉辦的泛太平洋公開賽中，網球選手舒奈德（Shnaider）直落二擊敗對手，成功奪下后冠。"
+    ],
+    "character": "momo",
+    "story": "墨墨跳上鋼琴，無聲地踩過琴鍵，發出不協調卻有趣的聲響。牠在舊書店的角落裡，一邊聽著琴音，一邊盯著散落的舊書和古董，彷彿在尋找靈感。",
+    "number": 3608,
+    "character_name": "墨墨",
+    "title": "琴聲中的黑影",
+    "idea": "這是一幅黑白立體主義風格的畫作，描繪墨墨在舊書店的鋼琴旁，以解構的幾何平面呈現其優雅身姿和明亮的琥珀色眼睛。",
+    "comment_id": 6724201198,
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "avoid_list": [
+      "船長虎斑貓與六分儀航海",
+      "黑貓在強烈聚光燈下修復與棲息",
+      "斑駁光影與雙色高對比光照",
+      "淡粉紅與粉藍的柔和粉彩調性",
+      "傳統工藝質感與肌理重現",
+      "畫面包含精確 UTC 時間戳記標籤",
+      "繁體中文與英文限定文字約束",
+      "擺放/修剪物品的專注細節特寫"
+    ],
+    "inspiration": "original"
   }
 ]
