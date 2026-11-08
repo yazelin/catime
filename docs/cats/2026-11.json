@@ -949,5 +949,37 @@
     ],
     "idea": "在莫蘭迪色調與哥德定格偶風格中，體型圓滾滾的橘白貓麻糬拖著長裙般的巨大鑄鐵鏤空老街攤位招牌，在單一聚光燈的照射下，專注地舔著鐵藝格柵間的花生糖餘渣。",
     "number": 3605
+  },
+  {
+    "avoid_list": [
+      "船長虎斑貓與六分儀航海",
+      "黑貓在強烈聚光燈下修復與棲息",
+      "斑駁光影與雙色高對比光照",
+      "淡粉紅與粉藍的柔和粉彩調性",
+      "傳統工藝質感與肌理重現",
+      "畫面包含精確 UTC 時間戳記標籤",
+      "繁體中文與英文限定文字約束",
+      "擺放/修剪物品的專注細節特寫"
+    ],
+    "number": 3606,
+    "prompt": "A candid photograph taken from an intimate, close-up perspective of a tabby cat taking a mirror selfie in a room full of abstract geometric designs and optical illusion patterns. The cat holds a small, glowing rectangular device reflecting its own face and green eyes, with one paw pressing the screen. The entire scene is bathed in a dramatic porcelain blue and white palette. A huge, enormous lunar disc fills the view through a large window behind the mirror, emitting a pale silver backlight that rims the cat's silhouette, casting long cold shadows and creating an epic nocturnal atmosphere. A glowing wireframe grid overlay and translucent technical mesh texture cover the walls, the cat's fur, and all surfaces, creating a futuristic digital blueprint feel with see-through structures. The room is decorated with high-contrast repetition of geometric Op Art patterns—spirals, wavy lines, and chevron motifs in cobalt blue and clean white—giving an impression of movement and vibration across the scene. Traditional Chinese text brushwork is visible on a white ground within some of the larger geometric panels, referencing calm scholarly restraint and oriental elegance. Near the bottom right corner of the mirror frame, the date and time '2026-11-08 02:27 UTC' are digitally overlaid in crisp white sans-serif characters. The image is a 35mm lens photograph with f/1.8 aperture, natural moon and device glow light, visual film grain, casual framing, and a visible reflection in the mirror including the phone and the cat's paw. The composition captures the cat, the mirror reflection, the complex patterns, and the massive moon glow simultaneously. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在巨月輝映下，一隻貓咪在滿是線框透明質感與歐普藝術迷幻圖案的房間裡，透過鏡子自拍，呈現出青花藍白的視覺衝擊。",
+    "inspiration": "original",
+    "title": "月光下的幻影自拍",
+    "style_picks": {
+      "art_style": "Op Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Giant Moon Glow",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Porcelain Blue and White"
+    },
+    "story": "這隻貓咪在一個充滿視錯覺的空間裡，利用鏡子和巨大的月光，捕捉自己與環境融為一體的瞬間。線框結構與幾何圖形交織，讓這張自拍照顯得格外奇幻。",
+    "comment_id": 6716185300,
+    "news_inspiration": [
+      "在哈薩克的伊利-巴爾喀什自然保護區，保育人員成功野放了第二隻老虎，讓這種在當地消失超過70年的珍貴貓科動物重返大自然。",
+      "在印尼爪哇島的烏戎庫隆國家公園，森林相機捕捉到一隻極危的爪哇犀牛產下第五隻幼崽的身影，為物種保育帶來新希望。",
+      "在美國夏威夷歐胡島的海拉勞阿港（Kalaeloa Harbor），當地正測試一項利用人工智慧與仿生珊瑚礁結構來降低浪潮衝擊、重建海岸生態的創新計劃。",
+      "在澳洲新南威爾斯州，一名教師意外發現約50株極其罕見的野生蘭花，這是全球僅知的第二處該物種生長地。"
+    ]
   }
 ]
