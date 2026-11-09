@@ -1259,6 +1259,11 @@
       "zh": "新中式觀音聖像插畫",
       "en": "Neo-Chinese Guanyin Icon Illustration",
       "prompt": "neo-Chinese Guanyin icon illustration, serene bodhisattva in flowing white robes and jeweled crown, glowing halo and lotus throne, willow branch and pure-water vase, gilded linework over soft ink-wash clouds, sacred tranquil devotional elegance"
+    },
+    {
+      "zh": "海岸旅遊生活寫真",
+      "en": "Coastal Travel Lifestyle Portrait",
+      "prompt": "coastal travel lifestyle portrait, relaxed candid pose by the sea in casual resort wear, sunlit beach town or cliffside backdrop, airy natural light, breezy vacation editorial mood"
     }
   ],
   "composition": [
@@ -1658,6 +1663,11 @@
       "zh": "閃電電光",
       "en": "Lightning Strike Glow",
       "prompt": "lightning strike glow, crackling electric bolts illuminating the subject, harsh blue-white flashes and arcing energy, stark high-contrast storm light, charged dramatic atmosphere"
+    },
+    {
+      "zh": "紅燈籠暖光",
+      "en": "Red Lantern Glow",
+      "prompt": "red lantern glow, warm crimson light spilling from hanging paper lanterns, soft red-orange cast on faces, festive oriental night ambience"
     }
   ],
   "texture": [
@@ -1975,6 +1985,11 @@
       "zh": "藍印花布",
       "en": "Chinese Indigo Blue Calico",
       "prompt": "Chinese indigo blue calico texture, stencil paste-resist printed cotton, crisp white floral and dotted motifs on deep indigo ground, slightly crackled resist edges, handmade folk textile surface"
+    },
+    {
+      "zh": "風吹凌亂髮絲",
+      "en": "Windswept Flowing Hair",
+      "prompt": "windswept flowing hair, loose strands whipping across the face and frame, fine individual hair detail caught mid-motion, dynamic airy movement"
     }
   ],
   "color_palette": [
@@ -2162,6 +2177,16 @@
       "zh": "深紫描金",
       "en": "Deep Violet and Gold",
       "prompt": "deep violet and gold palette, dark royal purple expanse traced with metallic gold outlines, jewel-toned mystical opulence, lustrous regal richness"
+    },
+    {
+      "zh": "墨黑淡霧藍",
+      "en": "Ink Black and Pale Mist Blue",
+      "prompt": "ink black and pale mist blue palette, deep inky darks against soft hazy powder-blue, cool muted contrast, quiet melancholic elegance"
+    },
+    {
+      "zh": "寶藍銀白描金",
+      "en": "Sapphire Blue, Silver and Gold",
+      "prompt": "sapphire blue, silver and gold palette, rich royal-blue dominance with silvery white highlights and fine gold accents, cool regal jewel-toned luxury"
     }
   ]
 }
