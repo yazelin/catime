@@ -1241,5 +1241,36 @@
     },
     "comment_id": 6764185128,
     "prompt": "A woodblock print in the traditional Japanese ukiyo-e style, depicting a bustling Tokyo night alley scene. Centered on a wooden bench is a tabby cat, its coat a striking pattern of deep navy, vibrant crimson, and white, deftly using its front paw to ring a hanging metal and glass furin wind bell. The composition is balanced and symmetrical, with clean surrounding space framing the central cat and bell, ensuring a single, direct focal point. The background features old, traditional Japanese shopfronts, adorned with three-dimensional floral appliqué decorations with layered petal relief and sculpted raised flowers. This is contrasted with modern neon lighting from colorful glowing signs, their reflections visible on the wet stone ground. A sign above the cat displays the text '2026-11-10 09:45 UTC' in Traditional Chinese characters and English. The color palette is a bold tricolor contrast of indigo, crimson, and white, with bold outlines and flat color areas typical of Japanese woodblock prints, all contributing to a moody urban night atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "傳統中文時間戳記",
+      "粉紅鈴鐺項圈與金屬風鈴",
+      "蕾絲與鐵藝鏤空質感",
+      "珊瑚粉與靛藍配色",
+      "貓咪專注撥弄懸浮或懸掛物",
+      "側面或背面轉頭特寫姿勢",
+      "強烈單一聚光燈與體積光束",
+      "視錯覺幾何與分形歐普圖案",
+      "手工機關偶與黏土陶瓷質感",
+      "舊書店鋼琴與哥德夜景老街"
+    ],
+    "character": "captain",
+    "prompt": "A fashion editorial low-poly digital art montage presented in a cohesive multi-panel collage layout across a 4x2 grid, documenting the adventures of 'Captain', a stocky brown tabby cat with black stripes, scruffy fur, a natural dark fur patch covering his left eye, a piercing emerald green right eye, a V-shaped left-ear notch, a faded red bandana, and white paws. The overall color palette is a festive and auspicious mix of dominant Chinese reds, bright gold accents, and warm orange candlelight, creating a celebratory and intimate atmosphere with dancing shadows and geometric facets. The grid features distinct scenes: Top-Left Panel (Fisherman's Wharf): Captain stands stoically on a high concrete防波堤 (breakwater), wind blowing his scruffy fur, overlooking the harbor with boats, traditional Chinese text '2026-11-10 17:47 UTC' displayed in the sky. Top-Right Panel (Lighthouse Interior): Captain sits alone inside a rustic lighthouse, lit solely by a flickering lantern, gazing intently with his emerald eye. Middle-Left Panel (Rainy Alley): Captain uses his muscular body to shield a small, wet kitten from a downpour within a narrow, colorful fishing village alleyway. Middle-Right Panel (Old Bar): Captain rests on a weathered wooden windowsill inside a cozy, dimly lit old bar, looking out at the dark, stormy sea through the glass, warm light glowing around him. Bottom Panels (Close-ups and Activity): Various low-poly close-ups of Captain's face, paws, and interactions at the鱼市場 (fish market) and docks. Each panel maintains the geometric crystalline surface, flat shaded triangular faces, and digital origami aesthetic, clearly defining the character's consistency and story elements. The collage cells are distinctly separated, forming a structured visual narrative. Camera metadata (not applicable due to digital medium) is replaced by 'Low-Poly Digital Art / Magazine Layout'. Traditional Chinese text captions are integrated into each panel: '老漁港', '燈塔守望', '雨巷護幼', '酒吧沉思'. The entire composition has a cohesive, high-end editorial design with graphic elements and textures. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "「船長」威風地站在漁港最高處，任海風吹拂牠不修邊幅的毛髮；夜裡，牠獨自守在燈塔內，深邃的綠色右眼看透黑暗；在雨巷中，牠用壯碩的身軀為躲雨的小貓擋風遮雨；最後，在老酒吧裡，牠默默地看著窗外波濤，守護著這片牠深愛的海域。",
+    "comment_id": 6774921153,
+    "number": 3615,
+    "character_name": "船長",
+    "inspiration": "original",
+    "title": "海港守望者",
+    "news_inspiration": [],
+    "idea": "這是一組時尚編輯風格的多格低多邊形照片，呈現「船長」這隻戴著眼罩、圍著褪色紅頭巾的壯碩虎斑貓，在溫暖燭光照耀下，於老漁港防波堤、燈塔內部、魚市場攤位與老酒吧窗邊等場景的沉穩姿態與堅毅表情。",
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Candlelight",
+      "texture": "Low Poly",
+      "color_palette": "Festive Red and Gold"
+    }
   }
 ]
