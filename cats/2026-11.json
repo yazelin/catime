@@ -1335,5 +1335,39 @@
     "news_inspiration": [],
     "title": "竹籠藏香",
     "comment_id": 6785565495
+  },
+  {
+    "avoid_list": [
+      "傳統中文時間戳記",
+      "粉紅鈴鐺項圈與金屬風鈴",
+      "蕾絲與鐵藝鏤空質感",
+      "珊瑚粉與靛藍配色",
+      "貓咪專注撥弄懸浮或懸掛物",
+      "側面或背面轉頭特寫姿勢",
+      "強烈單一聚光燈與體積光束",
+      "視錯覺幾何與分形歐普圖案",
+      "手工機關偶與黏土陶瓷質感",
+      "舊書店鋼琴與哥德夜景老街"
+    ],
+    "comment_id": 6793924083,
+    "idea": "在月夜靛藍的燭光下，一隻橘貓正趴在一艘廢棄舊船的生鏽儀表板前，專注地用爪子撥弄著一個古老的羅盤，呈現出即棄相機風格的淺景深特寫。",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Candlelight",
+      "texture": "Rust / Weathered",
+      "color_palette": "Moonlit Indigo"
+    },
+    "story": "這隻貓似乎在研究航海圖，或許牠正夢想著前往坦尚尼亞新建立的海洋保護區探險。在搖曳的燭光下，牠的影子與羅盤的指針一同在生鏽的鐵板上舞動，展開了一場深夜的航海想像。",
+    "prompt": "A close-up disposable camera photo of an orange cat resting on the rusted, peeling dashboard of an abandoned wooden ship, focused intently on flicking an antique brass compass with its paw. The scene is lit by warm orange candlelight flickering against a moonlit indigo backdrop of deep night-blue tones. The bottom corner features bright yellow digital timestamp text reading '2026-11-11 10:52 UTC'. Casual snapshot aesthetic with subtle flash artifacts, light leaks, soft film grain, tactile details on oxidized metal patina, and a shallow depth of field with creamy blurred background bokeh, shot on 35mm lens, f/1.8. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3618,
+    "inspiration": "坦尚尼亞建立了大規模全新的海洋保護區，有效促進當地珊瑚礁生態復育並帶動了永續生態旅遊。",
+    "title": "鏽船夜航",
+    "news_inspiration": [
+      "紐西蘭奧克蘭經歷了比往年更為溫暖的冬季後，市區各地近日出現了大規模的蜜蜂群飛奇觀，吸引許多民眾圍觀。",
+      "智利阿塔卡馬沙漠迎來了破紀錄的大規模花海綻放，原本乾旱荒涼的土地瞬間化為五彩繽紛的花海景致。",
+      "英國倫敦正式宣佈推動將繁忙的牛津街改為徒步區，禁止車輛進入，致力於為市民打造綠意盎然且宜居的公共空間。",
+      "坦尚尼亞建立了大規模全新的海洋保護區，有效促進當地珊瑚礁生態復育並帶動了永續生態旅遊。"
+    ]
   }
 ]
