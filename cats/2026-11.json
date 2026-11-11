@@ -1306,5 +1306,34 @@
       "color_palette": "Ivory Red and Black Triad"
     },
     "title": "都會貓步・時尚墨鏡"
+  },
+  {
+    "style_picks": {
+      "art_style": "Photorealistic Wuxia Character Design",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "A candid photograph taken with a 35mm lens, capturing an eye-level frontal view of a powerful and agile martial hero, who is a four-legged orange cat, wearing miniature, weathered traditional Chinese wuxia robes and a small wooden sword sheathed on its back, complete with tiny leather straps. The cat is crouched beside an old, intricate bamboo steamer, intently pushing open the woven lid with its front paws, revealing plumes of steam rising from elaborate dim sum inside. Its gaze is fixed on the food, eyes wide with focus. The setting is a bustling, sun-drenched Jianghu market stall with worn wooden tables and blurred patrons in ancient attire. The lighting is high-key, bright and airy, naturally illuminating the scene with soft, clean light, creating minimal shadows and an overall luminous, slightly overexposed atmosphere. The photo has a grainy, filmic texture with visible imperfections like fine scratches and stains, mimicking an old silk scroll surface with delicate crease lines. The colors are dominated by a soft pastel palette of gentle pink, lavender, mint, and baby blue in the fabric and stall decorations, giving a dreamy feel. In the lower right corner, the date and time '2026-11-11 02:50 UTC' are discreetly displayed in traditional Chinese script, integrated into a small, worn textile tag. The depth of field is shallow, rendering the background a soft blur, emphasizing the cat and the steamer. The cat faces the camera directly in a straight-on, symmetrical composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "avoid_list": [
+      "傳統中文時間戳記",
+      "粉紅鈴鐺項圈與金屬風鈴",
+      "蕾絲與鐵藝鏤空質感",
+      "珊瑚粉與靛藍配色",
+      "貓咪專注撥弄懸浮或懸掛物",
+      "側面或背面轉頭特寫姿勢",
+      "強烈單一聚光燈與體積光束",
+      "視錯覺幾何與分形歐普圖案",
+      "手工機關偶與黏土陶瓷質感",
+      "舊書店鋼琴與哥德夜景老街"
+    ],
+    "number": 3617,
+    "story": "這隻身懷絕技的俠客貓行經江南集市，被老師傅手作的蒸籠香氣深深吸引。它收起平日裡的傲然劍意，耐心地研究起眼前的熱氣蒸騰，眼神中流露出對人間煙火的渴望。",
+    "idea": "採用寫實武俠角色設計，畫面呈現平視正面構圖、高調明亮光與古絹絹本質感，粉彩色系交織中，一隻身形矫健的四足橘貓正蹲在一座古色古香的竹製蒸籠旁，專注地用前爪推開竹蓋，偷看裡面冒出蒸氣的精緻點心。",
+    "news_inspiration": [],
+    "title": "竹籠藏香",
+    "comment_id": 6785565495
   }
 ]
