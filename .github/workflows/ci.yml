@@ -29,3 +29,32 @@ jobs:
 
       - name: Run tests
         run: pytest -v
+
+  # 每週一由 fb-photo-dl 開的風格收斂 PR(分支 styles/weekly-YYYYMMDD):
+  # 只改 scripts/style_reference.json、lint 與測試都過,就自動合併。
+  # 其他 PR 不受影響。作者 2026-11-12 決定(之前每週要人工合,會積壓)。
+  auto-merge-weekly-styles:
+    needs: lint-and-test
+    if: >-
+      github.event_name == 'pull_request' &&
+      startsWith(github.head_ref, 'styles/weekly-') &&
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      github.event.pull_request.user.login == 'yazelin'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: 只改風格檔才合併
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          files=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json files -q '.files[].path')
+          echo "這個 PR 改到的檔案:"
+          echo "$files"
+          if [ "$files" != "scripts/style_reference.json" ]; then
+            echo "改到風格檔以外的檔案,不自動合併,留給人看。"
+            exit 0
+          fi
+          gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --squash
