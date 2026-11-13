@@ -1508,5 +1508,36 @@
     "story": "這位身經百戰、戴著眼罩的虎斑貓船長，即便退休在碼頭，依然每天仔細審視這張世代相傳的海圖，確保每一條航線的安全。牠用專注的眼神確認方位，展現出如老船長般沉穩可靠的氣度。",
     "number": 3622,
     "character": "captain"
+  },
+  {
+    "title": "環遊世界的夢想",
+    "avoid_list": [
+      "橘貓用前爪撥弄物品",
+      "追逐發光蝴蝶或飛蛾",
+      "珊瑚粉與普魯士藍配色",
+      "多視角或分割畫面拼貼",
+      "復古與懷舊風格基調",
+      "控制室與儀表盤場景",
+      "生物發光與螢光光效",
+      "暖色燭光與燈籠照明",
+      "35mm膠片顆粒與淺景深",
+      "對稱居中構圖",
+      "穿戴人類服飾或配件的貓",
+      "海上船隻與港口場景"
+    ],
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Cinematic Lighting",
+      "texture": "Glowing Filament Flow",
+      "color_palette": "Sapphire Blue, Silver and Gold"
+    },
+    "number": 3623,
+    "prompt": "A detailed colored pencil illustration on rough sketchbook paper texture with visible pencil grain and layered hues, depicting a curious tabby cat perched on an antique library desk, intently spinning an ornate vintage globe with its front paw while gazing at the map with wonder. Set within a grand library featuring a dramatic spiral vortex composition, where towering circular bookshelves and a winding architectural staircase coil around the cat with strong rotational perspective, a centered vanishing point, and a dizzying sense of depth from a cinematic low angle. Engraved cleanly onto the brass meridian ring of the globe is the text '2026-11-13 00:19 UTC'. Volumetric light rays stream through tall arched windows, casting dramatic shadows and a film-quality mood across the scene. Delicate, ethereal energy filaments and luminous threads of silver and gold glow softly, streaming across the paper surface and swirling around the globe. Rendered in a rich sapphire blue, silver, and gold palette, dominated by deep royal-blue shadows with silvery white highlights and fine golden accents. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "idea": "這是一幅色鉛筆畫，描繪一隻虎斑貓正專注地在圖書館的地球儀上尋找地點。畫面採用螺旋漩渦構圖，光線如同電影般灑落，並有金銀色的發光絲流點綴。",
+    "comment_id": 6839932638,
+    "story": "這隻好奇的虎斑貓在圖書館迷路了，牠跳上書桌，用爪子撥動著一個古老的地球儀。牠似乎在尋找某個遙遠的地方，眼神充滿了對未知世界的渴望。光線透過窗戶，營造出溫暖而神祕的氛圍。"
   }
 ]
