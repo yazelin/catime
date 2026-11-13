@@ -1575,5 +1575,41 @@
       "穿戴人類服飾或配件的貓",
       "海上船隻與港口場景"
     ]
+  },
+  {
+    "number": 3625,
+    "news_inspiration": [
+      "日本東京的「東京鐵塔」於本週點亮了冬季限定的聖誕主題燈飾，超過 8 萬顆 LED 燈泡與巨型聖誕樹吸引大量遊客前往體驗浪漫冬夜。",
+      "英國倫敦自然歷史博物館（Natural History Museum）近日展出一具保存極為完好的侏羅紀晚期魚龍化石，讓科學家得以更深入了解古代海洋生態。",
+      "澳洲雪梨邦代海灘（Bondi Beach）舉辦了年度海濱雕塑展，來自世界各地的藝術家在海岸線旁展出了超過 100 件大型戶外藝術作品。",
+      "加拿大蒙特婁天文館推出全新的沉浸式極光體驗特展，結合最新科學數據與環景投影技術，讓民眾在市區也能身歷其境感受北極光魅力。"
+    ],
+    "style_picks": {
+      "art_style": "Fashion Editorial",
+      "composition": "Floating Island Scene",
+      "lighting": "Window Light",
+      "texture": "Windswept Flowing Hair",
+      "color_palette": "Earth Tones"
+    },
+    "avoid_list": [
+      " UTC時間戳記與傳統中文標示",
+      " 虎斑貓船長角色與航海圖元素",
+      " 多視角拼貼與Lookbook排版風格",
+      " 碳纖維材質與實驗室場景結合",
+      " 高調明亮光與粉彩夢幻色系",
+      " 貓咪專注凝望與前爪撥弄物件",
+      " 結合傳統中華文化與奇幻元素",
+      " 復古底片質感與35毫米鏡頭風格"
+    ],
+    "is_seasonal": true,
+    "inspiration": "original",
+    "character": "mochi",
+    "comment_id": 6858650455,
+    "season": "autumn",
+    "character_name": "麻糬",
+    "idea": "這是一張時尚編輯攝影風格的浮島場景照片，圓滾滾的橘白貓麻糬正坐在一個漂浮在空中的迷你烤番薯攤旁，牠圍著格紋圍巾，呆萌地看著老闆翻動番薯，背景是浮動的老街巷弄。",
+    "story": "麻糬在飄浮的老街市場巡邏，秋風吹來，牠被烤番薯的香味吸引，圍著圍巾坐在老闆身旁「監工」。烤得焦黃的番薯冒著煙，麻糬琥珀色的眼睛放大，正等著試吃熱騰騰的番薯。",
+    "prompt": "A candid, editorial-style photograph capturing a chubby, rounded orange and white cat named Mochi sitting patiently on a miniature, levitating traditional Taiwanese老街 (old street) market stall, high above a sky filled with white clouds. The scene is shot from a high aerial perspective with gentle, directional daylight filtering in from a side window, illuminating the subject and the stall against the background of floating ancient brick buildings and market activity. Mochi, who has a specific white base coat, a solid orange mask covering only the right side of his face, a heart-shaped orange patch on his back, and an orange right front paw mitten (all as detailed in the Identity Card), is wearing a cozy, red and navy plaid scarf. He is seated on a wooden plank of the small, rustic stall, gazing up with wide, amber eyes at an elderly human vendor who is actively turning roasting sweet potatoes in a traditional charcoal drum. The vendor wears a worn indigo apron and is smiling warmly. The roasted sweet potatoes are dark, caramelized, and visibly steaming on the hot coals, catching the soft daylight. The stall itself is detailed with ceramic pots, dried herbs, a small sign with handwritten Traditional Chinese text '阿公的烤番薯' (Grandpa's Roasted Sweet Potatoes) and lanterns. The overall atmosphere is intimate, cinematic, and rich in earth tones (terracotta, olive green, warm brown). The shot has a shallow depth of field, bringing Mochi and the steaming potatoes into sharp focus while the floating background elements blur softly. The image has a natural film grain, candid feel, and is captured with a 35mm lens, f/4.0, 1/160s, ISO 640. The date and time '2026-11-13 16:18 UTC' are displayed in the bottom right corner in small, white, digital Traditional Chinese characters and Arabic numerals. The composition highlights the contrast between the small floating world and the vast sky. No resolution keywords are present. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "秋風裡的烤番薯小憩"
   }
 ]

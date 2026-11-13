@@ -34274,5 +34274,18 @@
     "status": "success",
     "number": 3624,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-13_0754_UTC.webp"
+  },
+  {
+    "number": 3625,
+    "title": "秋風裡的烤番薯小憩",
+    "timestamp": "2026-11-13 16:18 UTC",
+    "is_seasonal": true,
+    "inspiration": "original",
+    "character": "mochi",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "season": "autumn",
+    "character_name": "麻糬",
+    "status": "success",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-13_1618_UTC.webp"
   }
 ]
