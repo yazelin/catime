@@ -1841,5 +1841,40 @@
     ],
     "prompt": "Minimalist line drawing and doodle style illustration with playful loose black ink strokes and a hand-drawn feel on a textured background. A tight, eye-level head-and-shoulders portrait crop of a literal, large stocky brown tabby cat named Captain with bold black stripes, a distinctive forehead M-mark, a white chest bib, white mitten paws, and scruffy, coarse, untidy fur of uneven lengths. His viewer-left eye is permanently covered by a natural dark-brown pigmented fur patch with no fabric patch or straps, his single visible viewer-right eye is piercing emerald green, his left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around his neck. Gazing intently downward with a determined expression, Captain studies a frost-covered harbor map spread before him, adorned with delicate ice crystal formations, translucent ice shards, and frozen surface textures. Rendered in a bold tricolor palette of deep indigo and navy grounds with vivid crimson accents, crisp white highlights, and warm orange flickering candlelight casting soft dancing shadows across his rugged face. Handwritten ink text in the corner of the map clearly displays '2026-11-15 09:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "character": "captain"
+  },
+  {
+    "inspiration": "original",
+    "comment_id": 6898176480,
+    "character_name": "麻糬",
+    "title": "月下鏡夢麻糬",
+    "story": "貪吃的麻糬在深夜溜進一家傳統糕餅店，意外發現一面神奇鏡子，鏡中的「另一個麻糬」正抱著更大顆的花生麻糬。麻糬興奮地伸出橘色手套般的前腳想碰觸鏡面，兩隻貓的呆萌表情在月光與閃亮珠飾下顯得格外生動。",
+    "idea": "這是一幅以高飽和鮮豔色調和珠飾水鑽鑲嵌工藝呈現的四格漫畫，採用鏡像異我構圖，描繪麻糬在月光下的奇遇。",
+    "character": "mochi",
+    "number": 3633,
+    "news_inspiration": [
+      "美國佛羅里達州（Florida, USA）將歷史悠久的遠洋客輪「美國號」故意沉入海底，將其轉化為全球最大的巨型人工珊瑚礁。波多黎各或美屬地區以外，位於加勒比海的巴貝多（Barbados）正式獲世界衛生組織認證，成功消除了母親將愛滋病毒傳染給嬰兒的公共衛生問題。馬紹爾群島（Marshall Islands）將偏遠且幾乎未受人類干擾的碧卡環礁和博卡克環礁指定為該國首座國家海洋保護區。"
+    ],
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "Moonlight",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A four-panel comic strip rendered with a unique art style combining traditional Japanese manga illustration and elaborate beaded rhinestone embellishment. The overall color palette is highly saturated and vivid, dominated by cool moonlight blue tones and gentle silvery glows that illuminate the quiet nighttime setting within an old traditional pastry shop. The panel layout is traditional and clearly structured. PANEL 1: Mochi, the chubby white and orange shorthair cat with the orange mask on his right face (viewer perspective) and heart-shaped orange saddle, stealthily enters the shop, his amber eyes wide with mischievous intent. The timestamp '2026-11-15 17:05 UTC' is clearly displayed. Text caption (Traditional Chinese): '深夜的糕餅店...' (Deep night in the pastry shop...). PANEL 2: Mochi discovers a large, antique mirror with a heavily jeweled, encrusted surface sparkling with glittering gems and pearls. Text caption: '咦？好大的鏡子！' (Huh? Such a large mirror!). PANEL 3: Mochi is startled as he looks into the mirror. The composition is a mirror doppelganger setup. In the reflection, another Mochi is visible, hugging an unusually large peanut mochi. The mirror reflection shows uncanny symmetry but with the peanut mochi addition. Text caption: '鏡子裡的我也在吃麻糬？！而且更大顆！' (The me in the mirror is also eating mochi?! And it's larger!). PANEL 4: Mochi is excited, a humorous expression on his face. He raises his bright orange right front paw (like an orange mitten) to touch the mirror's reflective surface. The reflection shows the other Mochi also raising its right paw with the giant peanut mochi. His white belly is visible. Text caption: '我也要吃！我要那顆大的！' (I want to eat too! I want that big one!). The entire illustration is adorned with ornate couture detailing, featuring faceted sparkling stones that catch the moonlight. The character expressions are expressive and humorous. Text in Traditional Chinese. The cat is always a literal, four-legged feline with specific markings: white base, orange right face mask, heart saddle, amber eyes, and orange right front paw mitten. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "左下角或右下角顯示日期與時間",
+      "傳統中文與英文顯示日期時間",
+      "使用繁體中文或英文渲染文字",
+      "貓咪用嘴咬住繩索或物品",
+      "黃金時刻的陽光灑落或透入",
+      "漂浮在空中的虛構島嶼或場景",
+      "充滿光點與發光絲線的夢幻氛圍",
+      "霓虹雙色調與黑光螢光照明",
+      "低多邊形幾何與未來主義風格",
+      "後末日廢墟與自然交織的場景",
+      "水墨絲紗與新中式棚拍風格",
+      "大正浪漫與復古繁花插畫風格"
+    ]
   }
 ]
