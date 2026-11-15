@@ -1803,5 +1803,43 @@
     ],
     "title": "天鵝絨上的銀鹽窺探",
     "idea": "在十九世紀復古劇院的後台化妝間裡，一隻四腳著地的黑貓正踮起前爪，好奇地撥弄著鋪在厚實天鵝絨桌布上的黃銅望遠鏡，畫面採用濕版攝影風格與黑白單色調，以對角線構圖呈現白底去背棚光下的細膩銀鹽質感與化學顯影紋理。"
+  },
+  {
+    "idea": "這是一幅採用極簡塗鴉線條畫風格的頭肩特寫，描繪了貓咪「船長」在微弱燭光下，凝視著一片覆蓋著冰霜結晶、呈現靛藍與緋紅色調的碼頭地圖。",
+    "title": "寒夜裡的燭光航線",
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Candlelight",
+      "texture": "Frost Crystal",
+      "color_palette": "Navy Crimson and White"
+    },
+    "number": 3632,
+    "comment_id": 6892276527,
+    "inspiration": "original",
+    "character_name": "船長",
+    "avoid_list": [
+      "左下角或右下角顯示日期與時間",
+      "傳統中文與英文顯示日期時間",
+      "使用繁體中文或英文渲染文字",
+      "貓咪用嘴咬住繩索或物品",
+      "黃金時刻的陽光灑落或透入",
+      "漂浮在空中的虛構島嶼或場景",
+      "充滿光點與發光絲線的夢幻氛圍",
+      "霓虹雙色調與黑光螢光照明",
+      "低多邊形幾何與未來主義風格",
+      "後末日廢墟與自然交織的場景",
+      "水墨絲紗與新中式棚拍風格",
+      "大正浪漫與復古繁花插畫風格"
+    ],
+    "story": "即使是退休的「船長」，也必須在寒夜裡規劃碼頭巡邏路線。牠粗獷的臉龐在燭光下顯得更加堅毅，銳利的翠綠色右眼掃視著地圖上的每一個港灣，確保這片水域的貓群安全。",
+    "news_inspiration": [
+      "日本東京澀谷區近日舉辦一年一度的秋季傳統文化祭典，吸引數萬名遊客與當地居民穿著和服參與遊行與傳統美食市集。",
+      "美國紐約中央公園的秋季楓葉進入最佳觀賞期，本週末氣候晴朗微涼，吸引大批市民前往野餐與賞楓。",
+      "瑞士策馬特山區迎來今年入秋後首場降雪，為阿爾卑斯山脈披上銀白外衣，也宣告當地冬季滑雪旅遊季正式拉開序幕。",
+      "澳洲雪梨歌劇院前廣場於本週末舉辦大型戶外古典音樂會，數千名樂迷在港灣微風與星空下免費欣賞交響樂團的精彩演出。"
+    ],
+    "prompt": "Minimalist line drawing and doodle style illustration with playful loose black ink strokes and a hand-drawn feel on a textured background. A tight, eye-level head-and-shoulders portrait crop of a literal, large stocky brown tabby cat named Captain with bold black stripes, a distinctive forehead M-mark, a white chest bib, white mitten paws, and scruffy, coarse, untidy fur of uneven lengths. His viewer-left eye is permanently covered by a natural dark-brown pigmented fur patch with no fabric patch or straps, his single visible viewer-right eye is piercing emerald green, his left ear has a prominent V-shaped notch, and a faded red bandana is loosely tied around his neck. Gazing intently downward with a determined expression, Captain studies a frost-covered harbor map spread before him, adorned with delicate ice crystal formations, translucent ice shards, and frozen surface textures. Rendered in a bold tricolor palette of deep indigo and navy grounds with vivid crimson accents, crisp white highlights, and warm orange flickering candlelight casting soft dancing shadows across his rugged face. Handwritten ink text in the corner of the map clearly displays '2026-11-15 09:20 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "captain"
   }
 ]
