@@ -1876,5 +1876,43 @@
       "水墨絲紗與新中式棚拍風格",
       "大正浪漫與復古繁花插畫風格"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Food Surrealism",
+      "composition": "Antique Map and Star-Chart Underlay",
+      "lighting": "Snowstorm Haze",
+      "texture": "Paper Texture",
+      "color_palette": "Yellow and Black Duotone"
+    },
+    "story": "好奇心旺盛的鈴鈴，這次把她的尋寶遊戲帶到了充滿異國情調的香料航線上。她化身為馬鈴薯船長，正依照檸檬羅盤的指引，航向傳說中的貓薄荷島。雖然黃黑色的暴風雪讓視線模糊，但她清脆的鈴鐺聲在紙質紋理的空氣中迴盪，為這場美味的冒險增添了幾分樂趣。",
+    "news_inspiration": [
+      "日本東京的國立科學博物館今日正式展出最新修復的深海巨型烏賊標本，吸引大批親子與海洋迷前往參觀。",
+      "法國巴黎的羅浮宮宣布推出全新的夜間沉浸式藝術導覽體驗，讓遊客能在星光與古典音樂中近距離欣賞名畫。",
+      "澳洲雪梨的塔龍加動物園迎來一隻珍稀無尾熊寶寶的首次公開亮相，呆萌模樣融化現場無數遊客的心。",
+      "美國紐約的中央公園舉辦秋季年度賞楓與馬拉松嘉年華，來自世界各地的跑者與市民共同享受秋高氣爽的週末。"
+    ],
+    "avoid_list": [
+      "左下角或右下角顯示日期與時間",
+      "傳統中文與英文顯示日期時間",
+      "使用繁體中文或英文渲染文字",
+      "貓咪用嘴咬住繩索或物品",
+      "黃金時刻的陽光灑落或透入",
+      "漂浮在空中的虛構島嶼或場景",
+      "充滿光點與發光絲線的夢幻氛圍",
+      "霓虹雙色調與黑光螢光照明",
+      "低多邊形幾何與未來主義風格",
+      "後末日廢墟與自然交織的場景",
+      "水墨絲紗與新中式棚拍風格",
+      "大正浪漫與復古繁花插畫風格"
+    ],
+    "title": "馬鈴薯船長的香料航線",
+    "idea": "這是一幅採用食物超現實擬物風格的攝影作品，畫面呈現一張古老航海圖與星圖疊底的紋理，整體色調為黃黑雙色調。一隻極度蓬鬆、全身雪白、戴著粉色蝴蝶結鈴鐺的鈴鈴貓，正蹲坐在一艘由巨大的馬鈴薯和紅蘿蔔雕刻而成的維京長船模型上。牠伸出粉紅色的肉掌，小心翼翼地撥弄著一個由檸檬片和糖漬櫻桃製成的羅盤，背景是暴風雪般朦朧的黃黑顆粒質感。",
+    "prompt": "A candid, grain-heavy 35mm photograph captures a food-surrealism scene on a textured paper surface with an aged cartography and constellation map underlay. Centered in the frame is Lingling, an extremely fluffy pure white Ragdoll-like longhair cat, crouching carefully on a tiny Viking longship replica constructed entirely from carved whole potatoes and red carrots. Lingling, with her huge round sapphire-blue eyes and small face barely visible in her voluminous fur, is reaching out a pink paw, carefully touching the complex compass element of the ship, which is made from overlapping lemon slices and candied cherries. Clearly visible on her neck is the pink ribbon bow collar with the small golden bell centered beneath it, her pale pink nose and inner ears showing amidst the fluffy fur. The scene is enveloped in a dense, granular snowstorm atmospheric lighting, with heavy falling snow veiling the background and obscuring the distance in a blurred, painterly weather mood. The color palette is a striking, bold two-tone graphic contrast of vivid mustard yellow and deep black, with minimal accents from the white snow, yellow lemon, and red cherry, maintaining the stark, high-impact look of an antique map print. The composition layered the cat and ship directly over the intricate lines and illustrations of aged cartography and constellation diagrams. Traditional Chinese text is visible on the old map surface. Discreetly integrated into the bottom-right corner of the paper texture, matching the aged map ink, is the text: 2026-11-15 21:46 UTC. The image has a heavy film grain and tactile warmth, captured with a shallow depth of field, natural diffused daylight, and a focus on the cat and the immediate foredeck of the vegetable-ship, all with the specified black and mustard yellow tonality. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "character_name": "鈴鈴",
+    "comment_id": 6901919554,
+    "number": 3634,
+    "character": "lingling"
   }
 ]
