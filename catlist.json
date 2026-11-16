@@ -34378,5 +34378,18 @@
     "character": "lingling",
     "number": 3634,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-15_2146_UTC.webp"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-16_0201_UTC.webp",
+    "timestamp": "2026-11-16 02:01 UTC",
+    "character_name": "墨墨",
+    "is_seasonal": true,
+    "number": 3635,
+    "title": "楓染書山墨影",
+    "season": "autumn",
+    "character": "momo",
+    "inspiration": "original",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success"
   }
 ]

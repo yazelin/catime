@@ -1914,5 +1914,43 @@
     "comment_id": 6901919554,
     "number": 3634,
     "character": "lingling"
+  },
+  {
+    "story": "墨墨在舊書店深處發現了一座由無數紙捲構成的立體未來主義建築。牠優雅地挑選了一個由暖黃與深紅衍紙組成的區塊，滿意地窩在裡面，瞇起琥珀色眼睛，彷彿在感受文字與時間的流動。",
+    "news_inspiration": [
+      "日本東京淺草寺今日舉辦年度秋季菊花展，吸引大量國內外遊客前來欣賞超過兩千盆精心培育的造型菊花。",
+      "美國紐約自然歷史博物館正式開放全新深海生物特展，首次向公眾展示透過最新潛水技術拍攝的發光水母影像。",
+      "英國倫敦皇家植物園宣布成功培育出瀕危的稀有蘭花品種，為全球植物保育與生物多樣性研究寫下重要里程碑。",
+      "澳洲雪梨邦代海灘今日迎來夏季首場國際衝浪錦標賽，來自世界各地的頂尖衝浪好手齊聚一堂展現高超技巧。"
+    ],
+    "character_name": "墨墨",
+    "idea": "這是一幅結合未來主義與衍紙藝術的拼貼畫，純黑貓墨墨窩在由楓葉色紙捲和金琥珀色幾何圖形堆疊而成的多層次「書山」中央，被薰衣草紫與山林綠的流動線條包圍。",
+    "is_seasonal": true,
+    "avoid_list": [
+      "漂浮的傳統老街",
+      "浮島場景照片",
+      "戴著粉色蝴蝶結",
+      "古董書桌與紗簾",
+      "後末日療癒動畫",
+      "色鉛筆畫風格",
+      "濕版攝影風格",
+      "微弱燭光地圖",
+      "珠飾水鑽鑲嵌",
+      "古老航海圖疊底"
+    ],
+    "number": 3635,
+    "comment_id": 6905300180,
+    "season": "autumn",
+    "character": "momo",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Futurism",
+      "composition": "Layered Photo Overlap Composition",
+      "lighting": "Red Lantern Glow",
+      "texture": "Paper Quilling",
+      "color_palette": "Lavender and Mountain Green"
+    },
+    "prompt": "Futurism art style, dynamic motion lines, fragmented overlapping forms, angular kinetic composition, a paper quilling art collage featuring a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, a single small gold hoop earring on its left ear, a tiny white locket tuft on its ventral chest, a dark-grey ring on its tail tip, and large luminous golden-amber eyes, curled comfortably in the center of a multi-layered 'book mountain' built from maple-leaf-colored paper rolls and golden-amber geometric shapes, surrounded by fluid lavender purple and mountain green lines, festive warm crimson light, intricate coiled paper strips and delicate curling loops, 3D dimensional ornament, colorful rolled paper texture, the date and time '2026-11-16 02:01 UTC' visually displayed in the image using Traditional Chinese characters IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "楓染書山墨影"
   }
 ]
