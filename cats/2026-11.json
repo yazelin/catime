@@ -1952,5 +1952,39 @@
     },
     "prompt": "Futurism art style, dynamic motion lines, fragmented overlapping forms, angular kinetic composition, a paper quilling art collage featuring a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, a single small gold hoop earring on its left ear, a tiny white locket tuft on its ventral chest, a dark-grey ring on its tail tip, and large luminous golden-amber eyes, curled comfortably in the center of a multi-layered 'book mountain' built from maple-leaf-colored paper rolls and golden-amber geometric shapes, surrounded by fluid lavender purple and mountain green lines, festive warm crimson light, intricate coiled paper strips and delicate curling loops, 3D dimensional ornament, colorful rolled paper texture, the date and time '2026-11-16 02:01 UTC' visually displayed in the image using Traditional Chinese characters IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "楓染書山墨影"
+  },
+  {
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Bird's-Eye View",
+      "lighting": "Dappled Light",
+      "texture": "Origami",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "title": "海灘淨化小尖兵",
+    "inspiration": "澳洲雪梨邦代海灘舉辦年度大型海洋生態保護與衝浪嘉年華，吸引數千名市民與遊客參與淨灘及水上運動。",
+    "idea": "俯瞰視角的琥珀色立體紙藝場景，一隻貓咪在摺紙雪梨邦代海灘上，正伸爪撥弄一個由多層藍色紙張疊出的「海洋垃圾漩渦」，周圍有許多小小的紙紮衝浪客和淨灘志工。",
+    "avoid_list": [
+      "漂浮的傳統老街",
+      "浮島場景照片",
+      "戴著粉色蝴蝶結",
+      "古董書桌與紗簾",
+      "後末日療癒動畫",
+      "色鉛筆畫風格",
+      "濕版攝影風格",
+      "微弱燭光地圖",
+      "珠飾水鑽鑲嵌",
+      "古老航海圖疊底"
+    ],
+    "number": 3636,
+    "prompt": "A bird's-eye view, top-down perspective looking straight down at an intricate three-dimensional layered paper sculpture and origami paper diorama scene of Sydney's Bondi Beach, featuring a miniature world effect with a pop-up book aesthetic. In the center, a folded paper origami cat with clean geometric creases and sharp angular folds stretches out a paw to playfully poke and swirl a multi-layered blue paper ocean garbage vortex filled with tiny folded paper plastic waste. Surrounding the cat on the textured paper sand and rolling layered paper waves are miniature handmade paper surfers and tiny beach-cleanup volunteers, bordered by laser-cut foliage silhouettes and soft textured paper headlands. The entire handcrafted paper landscape is illuminated by backlit warm glow through translucent layers and dappled autumn sunlight filtered through leaves, casting soft mottled shadow patterns that highlight the paper fibers and crisp folds. Warm amber color grading with an autumn palette of golden yellows, burnt orange, and deep ocean blues creates a cozy, nostalgic warmth and serene natural mood. In the lower corner, a clean folded paper banner displays the text '2026-11-16 09:37 UTC' in crisp lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 6912832845,
+    "story": "這是邦代海灘的海洋生態嘉年華，連貓咪也加入了淨灘行列！牠認真地撥弄著紙藝製成的塑膠廢棄物漩渦，彷彿也在為保護海洋盡一份力。整個場景透過斑駁的秋日暖光，呈現出紙張獨特的摺痕與層次。",
+    "news_inspiration": [
+      "日本東京澀谷區正式啟用結合人工智慧導覽與傳統茶道體驗的全新觀光遊客中心，吸引大量國際旅客前往體驗。",
+      "法國巴黎羅浮宮宣布將延長週末夜間開放時間，並推出結合擴增實境技術的免費數位藝術導覽活動。",
+      "澳洲雪梨邦代海灘舉辦年度大型海洋生態保護與衝浪嘉年華，吸引數千名市民與遊客參與淨灘及水上運動。",
+      "冰島雷克雅維克天文觀測站表示，本週當地夜空迎來近年罕見的高強度極光爆發，成為全球天文攝影愛好者的焦點。"
+    ]
   }
 ]
