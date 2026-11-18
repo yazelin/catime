@@ -2181,5 +2181,39 @@
     "idea": "在舊書店的硬光日照下，一隻名叫墨墨的黑色孟買貓正專注地趴在一座由各種舊書封面組合而成的漂流木雕塑上，牠那雙金琥珀色的眼睛在閃光亮粉點綴的書脊間顯得格外明亮。",
     "inspiration": "original",
     "title": "書堆上的黑寶石"
+  },
+  {
+    "story": "在羅馬全新開放的地下考古步道裡，現代地鐵的轟鳴聲與古浴場遺址的靜謐交織。這隻長年棲息於遺跡深處的白貓，精準地用下巴壓住羊皮地圖的邊角，彷彿正為迷途的旅人指引通往古帝國密道的方向。",
+    "number": 3643,
+    "news_inspiration": [
+      "日本東京的上野動物園為慶祝大熊貓雙胞胎滿五週歲，特別舉辦了結合傳統和紙藝術的生日慶典，吸引數千名遊客排隊獻上祝福。",
+      "科學家在挪威特羅姆瑟的外海利用最新聲納技術，成功記錄到座頭鯨群體合作吹出氣泡網捕食的完整協調畫面，為海洋生態研究帶來新突破。",
+      "義大利羅馬市政府正式啟用全新的地下考古步道，讓遊客能夠直接步行穿梭於古羅馬帝國時期的浴場遺址與現代地鐵站之間。",
+      "澳洲雪梨歌劇院外牆於本週點亮了由當地原住民藝術家設計的數位光影投影，展現南半球春季星象與海洋文化的交融之美。"
+    ],
+    "style_picks": {
+      "art_style": "Photorealistic Wuxia Character Design",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Window Light",
+      "texture": "Sand Texture",
+      "color_palette": "Ivory and Gold"
+    },
+    "comment_id": 6992154200,
+    "inspiration": "義大利羅馬市政府正式啟用全新的地下考古步道，讓遊客能夠直接步行穿梭於古羅馬帝國時期的浴場遺址與現代地鐵站之間。",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "好奇地伸出",
+      "粉紅肉掌撥弄",
+      "伸出粉紅色的肉掌",
+      "伸爪撥弄",
+      "伸出毛茸茸的爪子",
+      " Timestamp 時間戳記",
+      "繁體中文時間戳",
+      "日期時間字串",
+      "UTC 時間顯示"
+    ],
+    "prompt": "Photorealistic wuxia character design illustration, cinematic concept render with fine material detail and gritty jianghu atmosphere, eye-level frontal composition with straight-on symmetrical balance. A quadrupedal white cat with subtle martial-hero weathered leather collar details crouches on ancient Roman stone bricks inside an underground archaeological walkway beneath Rome's ancient bath ruins and metro station, bowing its head to gently touch its nose and chin against the corner of an unrolled parchment map. Several modern tourists stand beside the cat watching attentively. Soft window light streams diagonally from an overhead metro ventilation shaft, classic Vermeer-like directional daylight with smooth falloff into shadow, illuminating fine sand texture and warm golden dust granules in the air. Styled in an understated luxurious ivory and gold palette with creamy off-white tones and soft metallic gilding. An archaeological walkway sign in the background clearly displays the text '2026-11-18 21:25 UTC' in clean lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "寫實武俠角色設計風格，採用平視正面構圖，描繪一隻四足白貓蹲伏在羅馬地下考古步道的古老石磚上，低頭用鼻尖輕觸一卷攤開的羊皮古地圖，身旁站著幾名駐足觀看的遊客。窗邊柔光從地鐵通風井斜射而下，照亮空氣中微細的沙質紋理，整體呈現典雅的象牙描金色調。",
+    "title": "古道金縷覓蹤影"
   }
 ]
