@@ -2215,5 +2215,43 @@
     "prompt": "Photorealistic wuxia character design illustration, cinematic concept render with fine material detail and gritty jianghu atmosphere, eye-level frontal composition with straight-on symmetrical balance. A quadrupedal white cat with subtle martial-hero weathered leather collar details crouches on ancient Roman stone bricks inside an underground archaeological walkway beneath Rome's ancient bath ruins and metro station, bowing its head to gently touch its nose and chin against the corner of an unrolled parchment map. Several modern tourists stand beside the cat watching attentively. Soft window light streams diagonally from an overhead metro ventilation shaft, classic Vermeer-like directional daylight with smooth falloff into shadow, illuminating fine sand texture and warm golden dust granules in the air. Styled in an understated luxurious ivory and gold palette with creamy off-white tones and soft metallic gilding. An archaeological walkway sign in the background clearly displays the text '2026-11-18 21:25 UTC' in clean lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "idea": "寫實武俠角色設計風格，採用平視正面構圖，描繪一隻四足白貓蹲伏在羅馬地下考古步道的古老石磚上，低頭用鼻尖輕觸一卷攤開的羊皮古地圖，身旁站著幾名駐足觀看的遊客。窗邊柔光從地鐵通風井斜射而下，照亮空氣中微細的沙質紋理，整體呈現典雅的象牙描金色調。",
     "title": "古道金縷覓蹤影"
+  },
+  {
+    "idea": "採用交叉沖洗（Cross Processing）攝影風格與高角度俯瞰構圖，壯碩的棕黑虎斑貓船長（左眼戴眼罩、右眼翠綠、繫著褪色紅頭巾與白手套）正俯臥在燈塔旁堆滿秋日落葉與鮮豔塑膠玩具魚的防波堤高處，低頭專注地用嘴叼起一隻螢光亮面塑膠魚。傍晚夕陽與燈塔冷白日光燈在海面交織出濃烈高對比的霓虹螢光色調，飄落的楓葉散落在海面與牠粗獷的虎斑毛皮周圍。",
+    "character_name": "船長",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "好奇地伸出",
+      "粉紅肉掌撥弄",
+      "伸出粉紅色的肉掌",
+      "伸爪撥弄",
+      "伸出毛茸茸的爪子",
+      " Timestamp 時間戳記",
+      "繁體中文時間戳",
+      "日期時間字串",
+      "UTC 時間顯示"
+    ],
+    "story": "秋日黃昏的燈塔旁，楓葉隨海風飄過染上夕陽餘暉的海面，本該威風巡邏的碼頭老大船長卻在堆滿落葉的角落破了功。面對一旁海洋保育沙雕展遺留下的亮面塑膠玩具魚，這隻獨眼老船長瞬間拋開所有沉穩霸氣，趴在楓葉堆裡全神貫注地啃咬著戰利品，連夕陽西下都顧不上看一眼。",
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "霓虹暮色下的玩具獵手",
+    "prompt": "Candid cross processing film photograph shot from a high-angle overhead bird's-eye view, 35mm lens, f/2.8, natural film grain, retro vintage feel with experimental color shifts, surreal unconventional hues, heightened contrast, and unpredictable color cast. A large, stocky, muscular four-legged brown classic tabby cat with bold black stripes, a distinctive M-mark on its forehead, a thick sturdy tail, and scruffy, untidy coarse fur of uneven lengths reclines prone on a concrete breakwater high beside a coastal lighthouse at autumn dusk. The cat's viewer-left eye is permanently concealed by a natural dark-pigmented brown fur patch covering the eye socket with no fabric eye patch and no straps, while its single viewer-right eye is piercing emerald green, its left ear has a prominent V-shaped notch, a faded red bandana is tied loosely around its neck, and it has a white chest bib and white mitten paws on all four feet. Surrounded by dense fallen autumn maple leaves in a top-down flat-lay framing, the cat lowers its head to intently bite and hold a glossy neon plastic toy fish in its mouth, scattered among smooth high-shine vinyl toy fish in glowing electric pink, lime green, and hot cyan with slight reflections. Neutral white 5000K overhead fluorescent lighthouse light blends with twilight sunset reflections on the dark ocean water below where autumn leaves drift, casting flat illumination with minimal shadows. Stenciled cleanly on the concrete ledge in crisp white lettering is '2026-11-19 03:23 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 3644,
+    "character": "captain",
+    "news_inspiration": [
+      "日本東京的國立科學博物館今日正式展出一具保存極為完整的白堊紀新型恐龍化石，吸引大批古生物迷與親子前往朝聖。",
+      "法國巴黎羅浮宮宣布推出結合擴增實境（AR）的夜間導覽新體驗，讓遊客能以全新視角與經典藝術名作互動。",
+      "澳洲雪梨邦代海灘今日舉辦年度大型沙雕藝術節，來自全球的藝術家以海洋保育為主題創作出多座巨型沙雕作品。",
+      "冰島雷克雅維克近日出現罕見的強烈太陽風暴極光奇景，整座城市夜空被絢麗的粉紫色與綠色光芒點亮。"
+    ],
+    "season": "autumn",
+    "inspiration": "澳洲雪梨邦代海灘今日舉辦年度大型沙雕藝術節，來自全球的藝術家以海洋保育為主題創作出多座巨型沙雕作品。",
+    "is_seasonal": true,
+    "comment_id": 6998737739
   }
 ]
