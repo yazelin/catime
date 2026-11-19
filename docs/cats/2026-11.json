@@ -2253,5 +2253,39 @@
     "inspiration": "澳洲雪梨邦代海灘今日舉辦年度大型沙雕藝術節，來自全球的藝術家以海洋保育為主題創作出多座巨型沙雕作品。",
     "is_seasonal": true,
     "comment_id": 6998737739
+  },
+  {
+    "inspiration": "科學家在智利阿塔卡馬沙漠的大型望遠鏡觀測站，成功捕捉到一顆遙遠系外行星大氣層中的水蒸氣光譜訊號，為探索外星生命再添重要線索。",
+    "prompt": "Cel shaded art illustration with flat color areas, bold outlines, toon shading, sharp shadow edges, and an anime game look, arranged in a split view composition divided by a sharp vertical cut line. On the left half, a precision astronomical spectrum monitor inside the Atacama Desert observatory displays glowing violet and pink water vapor spectral waveforms alongside the crisp digital timestamp '2026-11-19 12:59 UTC', rendered with a blend of realistic observatory console details and translucent wireframe diagram overlays. On the right half, a calico cat with emerald green eyes lies attentively on the control desk beside a glowing star-chart projector, staring intently at the jumping light points on the screen. The cat's fur contours are sculpted by a classic three-point lighting setup with a soft-shadowed key light, gentle fill light, and subtle rim light separation. Delicate, translucent pressed botanical layers of flattened dried desert flowers and leaves form a layered herbarium texture across the composition, bathed in a lavender and pink palette with soft violet dominance, warm blush accents, and gentle lilac gradients for a dreamy, romantic sci-fi atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夜深人靜的阿塔卡馬沙漠觀測站裡，天文學家正為剛收到的遙遠行星水蒸氣訊號歡呼，而三花貓則安靜地伏在發光的星圖投影儀旁。牠碧綠的雙眼緊盯著螢幕上跳動的紫粉色光譜波紋，彷彿在為這場跨越光年的生命探索擔任最忠實的守夜人。",
+    "number": 3645,
+    "avoid_list": [
+      "立體紙藝與摺紙微縮場景",
+      "舊書店與書山背景",
+      "港口碼頭與漁具倉庫",
+      "黑貓墨墨戴金耳環與胸前白毛",
+      "獨眼虎斑貓船長與紅頭巾",
+      "伸爪撥弄或啃咬物件",
+      "琥珀暖橘秋日色調",
+      "底片顆粒與復古質感",
+      "高角度俯瞰構圖",
+      "繁中與UTC時間戳記"
+    ],
+    "comment_id": 7009906575,
+    "title": "紫霧星圖的守望",
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Split View",
+      "lighting": "Three-Point Lighting",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Lavender and Pink"
+    },
+    "news_inspiration": [
+      "在瑞典基律納，知名冰旅館正式揭幕了以極光與北極生態為主題的全新冬季冰雕套房，吸引全球旅客前來體驗零下住宿。",
+      "日本東京上野動物園為迎接秋季旅遊旺季，特別舉辦了大熊貓主題的夜間燈光與保育特展，讓民眾近距離觀察動物的夜間習性。",
+      "澳洲雪梨歌劇院宣佈將於本週末舉行盛大的戶外免費交響音樂會，結合港灣夜景與燈光投影慶祝南半球的初夏來臨。",
+      "科學家在智利阿塔卡馬沙漠的大型望遠鏡觀測站，成功捕捉到一顆遙遠系外行星大氣層中的水蒸氣光譜訊號，為探索外星生命再添重要線索。"
+    ],
+    "idea": "採用賽璐璐著色與分割畫面構圖，左側是阿塔卡馬沙漠天文台的精密光譜螢幕，右側是趴在控制台前專注盯著螢幕光點的三花貓，周圍點綴著三點打光勾勒的毛髮輪廓。畫面融入薰衣草紫粉色調與半透明壓花植物疊層質感，營造出宇宙訊號與乾燥荒漠花草交織的奇幻科學氛圍。"
   }
 ]
