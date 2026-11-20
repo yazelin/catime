@@ -2316,5 +2316,42 @@
       "texture": "Glass / Crystal",
       "color_palette": "Lavender and Mountain Green"
     }
+  },
+  {
+    "idea": "採用藍曬法與等距3D插圖風格，白底去背棚光搭配柔焦霧面質感與朱紅留白配色，描繪蓬鬆純白長毛貓鈴鈴在東京浮世繪全息數位美術館內，張大寶石藍眼睛盯著空中飄浮的朱紅色全息錦鯉與花瓣。",
+    "style_picks": {
+      "art_style": "Cyanotype Print",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Vermilion and White"
+    },
+    "story": "鈴鈴偷偷溜進了東京剛開幕的浮世繪全息美術館，被滿室閃閃發亮的光影迷得團團轉。她頂著毛茸茸的耳尖毛與粉紅蝴蝶結鈴鐺項圈，在展廳中央好奇地仰望著立體投影出的朱紅浪花，清脆的鈴鐺聲在數位畫卷間迴盪。",
+    "character": "lingling",
+    "news_inspiration": [
+      "日本東京的團隊正式開放一座結合全息投影與傳統浮世繪藝術的沉浸式數位美術館，吸引大批國際旅客前往體驗。",
+      "美國紐約中央公園舉辦了年度秋季野生動物攝影展，展出一系列在城市角落捕捉到的罕見候鳥與松鼠的溫馨畫面。",
+      "法國巴黎的科學家團隊宣布在塞納河水質淨化技術上取得新突破，讓多種原本消失的本土魚類重返市中心河段。",
+      "澳洲雪梨海港大橋迎來一場別開生面的清晨瑜珈公益活動，數千名市民與遊客在日出時分齊聚橋面共同伸展。",
+      "冰島雷克雅維克的天文台觀測到本季最強烈的綠色與紫色極光大爆發，為當地冬季觀光潮揭開夢幻序幕。"
+    ],
+    "prompt": "An isometric 3D illustration rendered in a cyanotype and blueprint aesthetic, depicting an extremely fluffy pure white longhair Ragdoll cat named Lingling, characterized by her voluminous cloud-like fur, small round face nearly hidden in fluff, huge round sapphire-blue eyes (occupying ~1/3 of her face) with a gentle sparkle, pale pink nose and inner ears, enormous feathery white plume tail, and a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. Lingling is positioned in the center of a minimalist, clean, shadowless white studio environment representing the Tokyo Ukiyo-E Holographic Digital Museum. She is sitting on all fours, with her head tilted sharply upwards, gazing intently with wide sapphire eyes at a dynamic, glowing, floating holographic projection of vermilion cinnabar-red koi fish and swirling cherry blossom petals. The holographic display is rendered in a bold, luminous cinnabar red, contrasting sharply against the negative-space white setting and incorporating clean geometric forms and glowing veils to create the digital effect. The overall composition adheres to a crisp graphic elegance and minimalist oriental balance. The date and time '2026-11-20 03:10 UTC' are visually displayed in clean Traditional Chinese and English characters (2026年11月20日 03:10 UTC) as a watermark element in the upper left corner. The render has a soft-focus matte haze and dreamy diffused blur, giving the entire scene a hazy atmospheric softness and a low-contrast ethereal finish, consistent with sun-exposed blueprint paper and soft pastel coloring. All character consistency constraints are strictly followed; the cat is literal, four-legged, and exhibits all specified features. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "日本東京的團隊正式開放一座結合全息投影與傳統浮世繪藝術的沉浸式數位美術館，吸引大批國際旅客前往體驗。",
+    "avoid_list": [
+      "立體紙藝與摺紙微縮場景",
+      "舊書店與書山背景",
+      "港口碼頭與漁具倉庫",
+      "黑貓墨墨戴金耳環與胸前白毛",
+      "獨眼虎斑貓船長與紅頭巾",
+      "伸爪撥弄或啃咬物件",
+      "琥珀暖橘秋日色調",
+      "底片顆粒與復古質感",
+      "高角度俯瞰構圖",
+      "繁中與UTC時間戳記"
+    ],
+    "comment_id": 7029198739,
+    "character_name": "鈴鈴",
+    "number": 3647,
+    "title": "光影裡的白雲朵"
   }
 ]
