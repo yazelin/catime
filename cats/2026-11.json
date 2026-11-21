@@ -2535,5 +2535,39 @@
     "character": "mochi",
     "comment_id": 7066582156,
     "number": 3652
+  },
+  {
+    "number": 3653,
+    "idea": "採用3D Q版/盲盒風格與多層相片疊拼構圖，在古董店晶瑩剔透的水晶吊燈與玻璃櫃之間，戴著左耳金環、胸口有一撮白毛與尾端灰環的純黑短毛貓墨墨，正優雅地伸出前爪撥動老式黃銅機械打字機的按鍵，畫面融合品紅與青綠雙色調霓虹燈光。",
+    "character": "momo",
+    "news_inspiration": [],
+    "comment_id": 7070739949,
+    "inspiration": "original",
+    "avoid_list": [
+      "德羅斯特遞迴效應",
+      "低頭嗅聞植物",
+      "賽璐璐著色",
+      "生物發光元素",
+      "圓滾滾橘白貓麻糬",
+      "旁觀者駐足圍觀",
+      "玻璃溫室與植物園",
+      "深藍與暖色對比光影",
+      "傳統市場與攤位",
+      "奇幻超現實倒影",
+      "精細毛髮與輪廓光",
+      "UTC時間戳記標示",
+      "畫中畫無限循環"
+    ],
+    "title": "霓光下的古董詩篇",
+    "story": "深夜的古董店打烊後，墨墨無聲地躍上擺滿水晶鎮紙與玻璃擺飾的橡木長桌，金琥珀色的雙眼在霓虹光影下閃爍著好奇。牠用肉墊精準地敲擊著骨董打字機的圓形按鍵，清脆的機械聲在寂靜店內迴盪，彷彿正為這座時光寶庫撰寫秘密日記。",
+    "prompt": "3D chibi blind box character style, C4D rendering, cute Q-version, smooth vinyl plastic toy texture combined with a composition of multiple overlapping photographs stacked in layers, offset edges and partial transparency, scrapbook-like depth, modern graphic design feel. Inside a moody antique shop at night, a sleek four-legged solid-black shorthair cat (#0A0A0A) with satin-sheen fur, large luminous golden-amber eyes (#D4A017), long prominent white whiskers, a single small gold hoop earring (#FFD700) on its LEFT ear only (viewer perspective), a tiny natural white fur locket tuft (#FFFFFF) on its ventral chest as its sole white marking, no collar, and a single dark-grey ring (#696969) at the slightly curled tip of its tail, sits on an oak table and gracefully reaches out its front paws to press the round keys of a vintage brass mechanical typewriter. Surrounded by crystal chandeliers, glass display cabinets, crystal paperweights, and transparent glass figurines with light refraction, prismatic reflections, and crystalline clarity. Strong duotone color treatment using magenta and cyan-teal neon lighting only, glowing neon reflections on polished surfaces, soft studio rim light, bold graphic impact. The text '2026-11-21 23:12 UTC' is clearly displayed as a glowing neon sign on the glass cabinet. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "墨墨",
+    "style_picks": {
+      "art_style": "3D Chibi / Blind Box",
+      "composition": "Layered Photo Overlap Composition",
+      "lighting": "Neon Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Duotone"
+    }
   }
 ]
