@@ -2736,5 +2736,38 @@
       "texture": "Origami",
       "color_palette": "Bamboo Jade Green"
     }
+  },
+  {
+    "inspiration": "original",
+    "title": "金光下的麵包巡邏",
+    "character": "mochi",
+    "number": 3659,
+    "style_picks": {
+      "art_style": "Pastel Sweet-Edgy Street Portrait",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Golden Hour",
+      "texture": "Translucent Resin",
+      "color_palette": "Coral Pink and Prussian Blue"
+    },
+    "character_name": "麻糬",
+    "news_inspiration": [],
+    "prompt": "Candid pastel-toned street-style fashion editorial photograph captured on a 35mm lens at f/2.0 with subtle natural film grain and shallow depth of field. Arranged in a multi-view product showcase layout with clean paneled frames showing front view, back view, side view, and detail close-up labeled in English, set against a playful old-street bakery storefront with angled mirrors and glass display windows reflecting every angle. In the main frame, a chubby rounded four-legged shorthair cat with a pure white base coat, short stubby legs, spherical torso, and white belly stands outside the bakery, greedily nudging a freshly baked golden pineapple bun with its pink nose featuring a tiny orange center dot and its solid bright orange right front paw mitten, while its left front paw remains pure white. The cat has large round amber eyes, a solid bright orange mask strictly on the right half-face from nose bridge across the right cheek to the right ear with the entire left face white, a solid bright orange heart-shaped saddle centered on its upper dorsal back visible in the back view and mirror reflections, and an orange-and-white ringed tail, with no tabby stripes. Beside the cat, a young baker wearing a deep Prussian blue apron and Harajuku-inspired rainbow accessories playfully blocks the cat's orange right paw using glossy coral-pink translucent resin tongs with embedded candy-colored elements inside. Warm golden hour sunlight slants across the street, casting long soft shadows and a warm golden rim light across the cat's fur, creating rich contrast between coral pink, warm salmon tones, and deep Prussian blue. Crisp editorial text in the lower corner clearly reads '2026-11-23 21:18 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "薰衣草紫粉色調",
+      "貓咪低頭輕嗅",
+      "四足貓咪特寫",
+      "生物發光元素",
+      "玻璃溫室場景",
+      "浮空奇幻空間",
+      "柔焦霧面質感",
+      "雙色對比構圖",
+      "繁體中文時間戳記",
+      "貓爪按壓物件",
+      "古董場域探險",
+      "夢幻浪漫氛圍"
+    ],
+    "story": "傍晚黃金時刻，剛出爐的麵包香氣準時引來了老街巡邏隊長麻糬。牠毫不在意周圍路人與烘焙師的目光，死死盯著剛放涼的點心，琥珀色大眼瞬間放大兩倍，圓鼓鼓的肚子隨著急促的腳步微微晃動。烘焙師無奈又寵溺地舉起透明樹脂夾子輕輕擋住牠的「橘色手套」，這場每天上演的街頭攻防戰早已成為巷弄裡最可愛的風景。",
+    "idea": "粉彩甜酷街拍寫真風格，採用服裝多視角展示構圖，捕捉圓滾滾的橘白短毛貓麻糬在老街麵包店門口，正貪吃地用粉色鼻頭與橘色右前腳撥弄剛出爐的菠蘿麵包，一旁是穿著普魯士藍圍裙、手持珊瑚粉透明樹脂夾子的年輕烘焙師。黃金時刻的暖陽斜射在街道上，多角度的鏡面與櫥窗倒映出牠右半臉橘斑與背部花生斑紋的圓胖身軀，呈現珊瑚粉與普魯士藍交織的潮流街拍質感。",
+    "comment_id": 7114426375
   }
 ]
