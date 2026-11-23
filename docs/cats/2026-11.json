@@ -2700,5 +2700,41 @@
     "season": "autumn",
     "inspiration": "original",
     "news_inspiration": []
+  },
+  {
+    "story": "美術館最新特展以摺紙藝術重現剛出土的微型羽龍化石，開幕當天卻意外闖進了一隻不請自來的三花貓。牠無視一旁驚呼的策展人與觀眾，熟練地叼起散落在展台邊緣的翠綠紙羽毛，跳上骨架精準地將其銜回尾翼缺口。在紅燈籠般的暖色聚光燈下，這隻四腳著地的毛絨修復師完成了一場最生動的跨界行為藝術。",
+    "idea": "以等距3D插圖呈現的美術館展場裝置藝術，一隻四足三花貓正敏捷地穿梭於一座由竹影翠綠色摺紙構築的微型恐龍化石骨架之間，用嘴巴叼起掉落的摺紙羽毛配件。展廳上方懸掛著散發紅燈籠暖光的紙燈，將立體紙雕的幾何摺痕與周圍圍觀的看展群眾映照得層次分明。",
+    "avoid_list": [
+      "薰衣草紫粉色調",
+      "貓咪低頭輕嗅",
+      "四足貓咪特寫",
+      "生物發光元素",
+      "玻璃溫室場景",
+      "浮空奇幻空間",
+      "柔焦霧面質感",
+      "雙色對比構圖",
+      "繁體中文時間戳記",
+      "貓爪按壓物件",
+      "古董場域探險",
+      "夢幻浪漫氛圍"
+    ],
+    "news_inspiration": [
+      "日本東京澀谷區近日舉辦年度秋季銀杏燈光節，吸引數萬名遊客漫步在金黃色的浪漫大道中拍照打卡。",
+      "英國倫敦自然歷史博物館宣布新發現一種生存於白堊紀的微型恐龍化石，其獨特的羽毛結構為鳥類演化提供了新線索。",
+      "紐西蘭奧克蘭一隻走失三個月的黃金獵犬在當地社區志工與熱心民眾的接力搜尋下，終於在海灘附近平安與主人團聚。",
+      "巴西里約熱內盧的森巴舞學校提前展開明年嘉年華的服裝與花車預演，結合環保再生材質展現熱情的南美文化。"
+    ],
+    "prompt": "An isometric 3D illustration capturing a museum gallery installation, showing a calico cat actively engaged with a large origami sculpture. The artwork, a monumental micro-feathered dinosaur skeleton meticulously constructed from folded bamboo-jade green paper with clean geometric creases and sharp angular folds, dominates the polished wooden floor exhibition space. The cat, a tricolor feline with patches of black, orange, and white fur, is perched within the mid-section of the green paper skeleton, carefully holding a detached paper feather in its mouth. Below, tiny human figures, including surprised curators and visitors, observe the scene, their faces catching the warm, crimson cast from hanging red paper lanterns arranged above, which emit a festive oriental glow and illuminate the intricate paper structure and the surrounding modern gallery with clean white walls and track lighting. The atmosphere is contemporary and playful. On a small wall plaque near the exhibit entrance, the date and time '2026-11-23 08:59 UTC' is displayed in Traditional Chinese characters. The entire composition adheres to a clean, polished illustrative style with soft pastel accents complementing the dominant green palette, viewed from a high-angle perspective. No resolution keywords are present. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "紙羽龍骨間的修復師",
+    "comment_id": 7096155646,
+    "number": 3658,
+    "inspiration": "英國倫敦自然歷史博物館宣布新發現一種生存於白堊紀的微型恐龍化石，其獨特的羽毛結構為鳥類演化提供了新線索。",
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Red Lantern Glow",
+      "texture": "Origami",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
