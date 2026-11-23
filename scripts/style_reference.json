@@ -1264,6 +1264,11 @@
       "zh": "海岸旅遊生活寫真",
       "en": "Coastal Travel Lifestyle Portrait",
       "prompt": "coastal travel lifestyle portrait, relaxed candid pose by the sea in casual resort wear, sunlit beach town or cliffside backdrop, airy natural light, breezy vacation editorial mood"
+    },
+    {
+      "zh": "星砂亮片禮服人像",
+      "en": "Stardust Sequin Gown Portrait",
+      "prompt": "stardust sequin gown portrait, glittering star-flecked evening dress, flowing sparkles of light, dreamy glamorous atmosphere"
     }
   ],
   "composition": [
@@ -1521,6 +1526,11 @@
       "zh": "散點平鋪構圖",
       "en": "Scattered All-Over Composition",
       "prompt": "scattered all-over composition, many small motifs distributed evenly across the entire frame with no single focal point, edge-to-edge repeat-pattern feel, balanced rhythmic spacing, wallpaper-like decorative layout"
+    },
+    {
+      "zh": "月洞圓窗背景構圖",
+      "en": "Moon Gate Backdrop Composition",
+      "prompt": "subject framed by a circular moon gate window, round opening as backdrop, classical Chinese garden architecture, symmetrical centered framing"
     }
   ],
   "lighting": [
@@ -2192,6 +2202,11 @@
       "zh": "寶藍銀白描金",
       "en": "Sapphire Blue, Silver and Gold",
       "prompt": "sapphire blue, silver and gold palette, rich royal-blue dominance with silvery white highlights and fine gold accents, cool regal jewel-toned luxury"
+    },
+    {
+      "zh": "祖母綠星光",
+      "en": "Emerald and Starlight Glow",
+      "prompt": "deep emerald green palette, shimmering starlight highlights, jewel-toned richness, luminous sparkling accents"
     }
   ]
 }
