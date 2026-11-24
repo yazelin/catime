@@ -2799,5 +2799,42 @@
     "idea": "單眼人像散景攝影，淺景深特寫捕捉一隻蓬鬆橘貓在夜間植物園溫室的緋紅天鵝絨長椅上，正低頭全神貫注地嗅聞並輕咬一株蒼綠蕨類嫩芽。窗外突如其來的閃電電光劈開夜空，瞬間照亮貓咪細緻的絨毛皮草與玻璃上的雨痕，背景化為迷離的光斑。",
     "news_inspiration": [],
     "number": 3660
+  },
+  {
+    "news_inspiration": [
+      "日本東京的國立科學博物館近期舉辦了以深海發光生物為主題的特展，吸引了大批親子遊客前往探索神祕的海底世界。",
+      "法國巴黎的羅浮宮宣布推出結合擴增實境（AR）的全新夜間導覽體驗，讓遊客能以互動方式欣賞古典藝術名作。",
+      "澳洲雪梨的塔龍加動物園迎來了一隻珍稀小無尾熊的誕生，園方正邀請民眾在網路上為這個可愛的新成員投票命名。",
+      "美國紐約中央公園的秋季賞楓季進入尾聲，金黃與火紅交織的絕美林蔭大道成為攝影愛好者與慢跑民眾的熱門打卡點。"
+    ],
+    "inspiration": "日本東京的國立科學博物館近期舉辦了以深海發光生物為主題的特展，吸引了大批親子遊客前往探索神祕的海底世界。",
+    "title": "星海下的獵魚巡禮",
+    "character": "captain",
+    "story": "平日裡威風凜凜的碼頭老大「船長」，偷偷溜進了深夜的博物館深海生物特展。當幽藍如星雲般的發光魚群游過頭頂時，這位老水手瞬間忘記了所有威嚴，流著口水緊盯著這群會發光的「美味大餐」。",
+    "idea": "韓漫寫實男性插畫風格，壯碩的棕黑虎斑公貓「船長」戴著左眼眼罩與缺角左耳，正趴在東京國立科學博物館深海特展的鑄鐵雕花鏤空欄杆上，用鋭利的翠綠右眼緊盯著發光深海魚投影。整幅畫面以象牙描金色調與深邃的星雲輝光映照，欄杆與展廳走廊形成強烈的引導線構圖。",
+    "avoid_list": [
+      "前爪撥弄物件",
+      "四腳著地貓咪",
+      "翠綠苔蘚覆蓋",
+      "雙色互補對比",
+      "燈塔船長貓",
+      "深色毛斑遮眼",
+      "褪色紅頭巾",
+      "廢棄建築場景",
+      "容積光束打光",
+      "古董黃銅儀器",
+      "多層相片疊拼"
+    ],
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Semi-Realistic Manhwa Illustration",
+      "composition": "Leading Lines Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Ivory and Gold"
+    },
+    "comment_id": 7139632048,
+    "number": 3661,
+    "prompt": "Semi-realistic Korean manhwa illustration, polished webtoon cover rendering with crisp clean line art and glossy digital cel-plus-airbrush shading. A literal four-legged large, stocky, muscular brown classic tabby cat with bold black stripes, a distinctive forehead M-mark, and scruffy, untidy coarse fur with uneven lengths. The cat's viewer-left eye is permanently concealed by a natural dark brown pigmented fur patch covering the eye socket with no fabric patch or straps, while its single piercing emerald green right eye stares intensely upward with a small drop of drool at the corner of its mouth. It features a prominent V-shaped notch on its left ear, a white chest bib, four white mitten paws, a thick sturdy tail, and a faded red bandana tied loosely around its neck. The cat is crouched perched atop an ornate black wrought iron filigree railing with intricate Victorian scrollwork and cast iron lace openwork inside the National Museum of Nature and Science deep-sea exhibition hall at night. Strong leading lines composition with converging architectural perspective lines from the museum gallery corridor and iron railing guiding the eye toward the cat. Overhead, glowing bioluminescent deep-sea fish projections swim through ethereal purple and blue nebula cosmic glow, starfield illumination, glowing particles, and galactic haze. The museum hall features an ivory and gold palette with creamy off-white walls, soft metallic gilding, and gentle warm luminance contrasting with cool urban moody shadows. A clean museum exhibition display sign clearly reads '2026-11-24 17:38 UTC' in crisp lettering. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
