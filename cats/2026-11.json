@@ -2769,5 +2769,35 @@
     "story": "傍晚黃金時刻，剛出爐的麵包香氣準時引來了老街巡邏隊長麻糬。牠毫不在意周圍路人與烘焙師的目光，死死盯著剛放涼的點心，琥珀色大眼瞬間放大兩倍，圓鼓鼓的肚子隨著急促的腳步微微晃動。烘焙師無奈又寵溺地舉起透明樹脂夾子輕輕擋住牠的「橘色手套」，這場每天上演的街頭攻防戰早已成為巷弄裡最可愛的風景。",
     "idea": "粉彩甜酷街拍寫真風格，採用服裝多視角展示構圖，捕捉圓滾滾的橘白短毛貓麻糬在老街麵包店門口，正貪吃地用粉色鼻頭與橘色右前腳撥弄剛出爐的菠蘿麵包，一旁是穿著普魯士藍圍裙、手持珊瑚粉透明樹脂夾子的年輕烘焙師。黃金時刻的暖陽斜射在街道上，多角度的鏡面與櫥窗倒映出牠右半臉橘斑與背部花生斑紋的圓胖身軀，呈現珊瑚粉與普魯士藍交織的潮流街拍質感。",
     "comment_id": 7114426375
+  },
+  {
+    "comment_id": 7123498133,
+    "avoid_list": [
+      "前爪撥弄物件",
+      "四腳著地貓咪",
+      "翠綠苔蘚覆蓋",
+      "雙色互補對比",
+      "燈塔船長貓",
+      "深色毛斑遮眼",
+      "褪色紅頭巾",
+      "廢棄建築場景",
+      "容積光束打光",
+      "古董黃銅儀器",
+      "多層相片疊拼"
+    ],
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Lightning Strike Glow",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Crimson and Sage Green"
+    },
+    "prompt": "Candid DSLR portrait photography shot on an 85mm f/1.4 lens, shallow depth-of-field close-up with intimate near-object framing and a creamy bokeh background. A fluffy orange tabby cat with soft fuzzy fibers and tactile fur detail sits on an antique crimson velvet bench inside a dark botanical conservatory at night, leaning down to sniff and nibble on a muted sage green fern frond. Vivid deep red plush pile contrasts against the grey-green foliage. Outside the rain-streaked glass windows, a sudden lightning strike splits the night sky, casting a harsh blue-white flash and stark high-contrast storm light across the cat's whiskers, velvety fabric strands, and water droplets, turning background greenhouse lights into soft bokeh orbs. In the lower corner, a clean digital camera timestamp reads '2026-11-24 05:59 UTC', natural film grain, sharp focus on the cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "夏日深夜的雷陣雨突襲了這座古老的植物園溫室，守夜人正忙著在遠處檢查滲水的天窗。平時負責巡邏抓鼠的虎斑貓趁機跳上緋紅絲絨休憩椅，對著剛修剪下來的蒼綠蕨葉大快朵頤。一道刺眼的閃電劃破天際，將這場偷吃宵夜的犯罪現場定格在冷冽的電光之中。",
+    "title": "電光下的偷吃賊",
+    "inspiration": "original",
+    "idea": "單眼人像散景攝影，淺景深特寫捕捉一隻蓬鬆橘貓在夜間植物園溫室的緋紅天鵝絨長椅上，正低頭全神貫注地嗅聞並輕咬一株蒼綠蕨類嫩芽。窗外突如其來的閃電電光劈開夜空，瞬間照亮貓咪細緻的絨毛皮草與玻璃上的雨痕，背景化為迷離的光斑。",
+    "news_inspiration": [],
+    "number": 3660
   }
 ]
