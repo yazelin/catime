@@ -2906,5 +2906,37 @@
     "comment_id": 7162967441,
     "prompt": "以白板記號筆畫風格呈現，採用服裝多視角展示構圖，描繪一隻暹羅貓在巴黎羅浮宮的玻璃金字塔中庭內，正專注地嗅聞並追逐遊客AR眼鏡投影出的半透明中世紀金絲刺繡披風。正午硬光日照穿透玻璃帷幕，在金屬質感展架與象牙描金的畫作框線上投下銳利明暗。. The date and time '2026-11-25 12:47 UTC' is visually displayed in the image. whiteboard marker drawing on glass, slightly faded ink, hand-drawn line art, casual sketch feel, multi-view product showcase layout, front view, back view, side view and detail close-up arranged in panels, labeled views, clean studio backdrop, fashion design sheet format, lookbook reference guide, harsh midday sunlight, hard edge shadows, high contrast natural daylight, gritty urban realism, strong directional sun, unforgiving illumination, metallic surface, brushed or polished metal, sharp reflections, industrial premium feel, ivory and gold palette, creamy off-white base with soft metallic gilding, gentle warm luminance, understated luxurious elegance IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "羅浮宮推出夜間AR導覽測試的午後，這隻溜進中庭的暹羅貓意外成了最挑剔的藝術評論家。牠圍著懸浮在半空中的虛擬皇家服飾投影打轉，從正面、側面到背面仔細嗅聞每一道閃爍的金色絲線，惹得一旁佩戴AR眼鏡的策展人們紛紛停下腳步圍觀。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Synthwave",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Sage Green and Ivory"
+    },
+    "story": "深夜的魚市場剛結束卸貨，空氣中瀰漫著海潮與鮮魚的氣息。威嚴的「船長」原本在貨箱高處巡視，一看到成籃的秋刀魚便瞬間破功，毫不猶豫地叼起最肥美的一尾，轉頭分給身旁兩隻挨餓的小貓。",
+    "avoid_list": [
+      "前爪撥弄物件",
+      "四腳著地貓咪",
+      "翠綠苔蘚覆蓋",
+      "雙色互補對比",
+      "燈塔船長貓",
+      "深色毛斑遮眼",
+      "褪色紅頭巾",
+      "廢棄建築場景",
+      "容積光束打光",
+      "古董黃銅儀器",
+      "多層相片疊拼"
+    ],
+    "comment_id": 7176469331,
+    "number": 3664,
+    "idea": "合成波藝術風格下的深夜港口魚市場，體型壯碩、左眼戴深色眼罩且左耳有V型缺口的棕黑虎斑大貓「船長」，正低頭專注地嗅聞並叼起一條剛卸貨的銀色秋刀魚，身旁有兩隻瘦小流浪貓仰頭等待。畫面採用配色條邊框構圖，以鼠尾草綠與象牙白為主調，搭配戲劇性的倫勃朗光勾勒出牠的長白鬍鬚與白手套，整體覆蓋著柔焦霧面質感。",
+    "inspiration": "original",
+    "character": "captain",
+    "character_name": "船長",
+    "prompt": "Synthwave digital illustration framed by vertical color palette swatch bars on both sides in a Korean illustrator signature layout and design moodboard portfolio presentation format, featuring stacked color blocks revealing a sage green and ivory palette of soft muted grey-green paired with warm creamy off-white in calm natural low-contrast harmony. At a late-night harbor fish market overlooking a retro-futuristic sunset and subtle neon grid landscape with 1980s sci-fi nostalgia, a literal four-legged large stocky muscular brown (#5C4033) classic tabby cat with bold black (#1A1A1A) stripes, scruffy coarse untidy fur, an M-mark on the forehead, a prominent V-shaped notch on the left ear, a white chest bib, four white mitten paws, long white whiskers, a thick sturdy tail, and a loosely tied faded red (#CD5C5C) bandana bends its head down to sniff and pick up a freshly unloaded silver saury fish in its mouth from a basket. From the viewer's perspective, the cat's left eye is permanently concealed by a natural dark brown (#2B1B0E) pigmented fur patch with no fabric patch or straps, while its single visible right eye is piercing emerald green (#50C878). Two small scrawny stray kittens sit beside him looking up expectantly. Illuminated by dramatic Rembrandt lighting from a single 45-degree light source creating chiaroscuro and a triangle of light on the shadowed cheek, wrapped in a soft-focus matte haze, dreamy diffused blur, gentle glowing veil, and low-contrast ethereal finish. Retro chrome typography in the upper corner clearly displays '2026-11-25 22:29 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "title": "霧夜魚市的分饗"
   }
 ]
