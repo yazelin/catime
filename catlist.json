@@ -34707,5 +34707,13 @@
     "status": "failed",
     "url": null,
     "timestamp": "2026-11-26 15:09 UTC"
+  },
+  {
+    "status": "failed",
+    "url": null,
+    "timestamp": "2026-11-26 23:49 UTC",
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno -5] No address associated with hostname>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: [Errno -5] No address associated with hostname",
+    "model": "all failed",
+    "number": null
   }
 ]
