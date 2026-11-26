@@ -34699,5 +34699,13 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-11/cat_2026-11-26_0459_UTC.webp",
     "season": "autumn",
     "timestamp": "2026-11-26 04:59 UTC"
+  },
+  {
+    "error": "codex failed (codex-image-service request failed: <urlopen error [Errno -5] No address associated with hostname>); nanobanana fallback also failed: Failed to generate any images - All models failed. Last error: [Errno -5] No address associated with hostname",
+    "model": "all failed",
+    "number": null,
+    "status": "failed",
+    "url": null,
+    "timestamp": "2026-11-26 15:09 UTC"
   }
 ]
