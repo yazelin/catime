@@ -3020,5 +3020,46 @@
     "is_seasonal": true,
     "number": 3668,
     "character_name": "船長"
+  },
+  {
+    "prompt": "Pictorialism photography shot on a 35mm lens with deliberate soft focus, visible film grain, and a textured watercolor paper surface with fiber grain. A cinematic low-angle candid photograph using a spiral vortex composition where circular market baskets, hanging lanterns, and old street architecture coil around the central subject in a strong rotational perspective toward a centered vanishing point. At the center, Mochi, a chubby rounded four-legged shorthair cat with short stubby legs, a spherical white #FFFFFF torso, white belly, orange-and-white ringed tail, and a solid bright orange #FF8C00 heart-shaped saddle on the upper back, wears a cozy autumn plaid scarf. Mochi has a solid orange #FF8C00 mask strictly on the RIGHT half-face from nose bridge across the right cheek to the right ear while the LEFT face is pure white, a pink nose with a tiny orange center dot, and wide round amber #FFBF00 eyes. Mochi extends the solid orange #FF8C00 RIGHT front mitten paw to gently tap a steaming golden roasted sweet potato on a tray beside a traditional Taiwanese street stall, keeping the pure white #FFFFFF LEFT front paw planted. Harsh direct on-camera flash creates blown-out highlights, hard shadows, and a raw candid snapshot look against auspicious Chinese red and bright gold market banners with Traditional Chinese signs, and a sharp printed timestamp reading '2026-11-27 18:55 UTC' in the bottom corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "採用畫意攝影風格與帶有紙質肌理的質感，以螺旋漩渦構圖將視覺焦點聚向熱鬧老街烤番薯攤旁，圓滾滾的橘白貓麻糬圍著格紋圍巾，伸出全橘色右前腳試探性地輕拍剛出爐的金黃烤番薯，閃光燈直打照亮牠放大兩倍的琥珀色大圓眼與周遭中國紅金喜慶配色的市場攤位。",
+    "news_inspiration": [
+      "日本東京澀谷車站近日推出結合傳統浮世繪與AI動態投影的全新地下通道藝術展，吸引大批國內外觀光客駐足拍照。",
+      "美國紐約曼哈頓中央公園舉辦年度秋季賞鳥馬拉松，民眾在晴朗微涼的天氣中成功記錄到超過120種遷徙候鳥。",
+      "法國巴黎羅浮宮宣布將延長週末夜間開放時段並推出限定音樂導覽，讓旅客能在靜謐氛圍中欣賞經典館藏。",
+      "澳洲雪梨邦代海灘舉行一年一度的海洋雕塑節，來自世界各地的藝術家利用回收材料打造逾百件大型海岸裝置藝術。"
+    ],
+    "story": "秋意漸濃的老街傳統市場裡，攤販剛掀開烤番薯爐蓋，濃郁甜香瞬間吸引了巡邏中的麻糬。這顆圓滾滾的橘白貓緊緊圍著格紋圍巾取暖，瞪大眼睛盯著盤中熱氣騰騰的金黃番薯，忍不住伸出橘手套般的右前腳輕輕撥弄試溫，惹得一旁的攤販老闆哭笑不得。",
+    "avoid_list": [
+      "棕黑虎斑大貓船長",
+      "左眼深色毛斑與缺角左耳",
+      "白圍兜白手套紅領巾",
+      "博物館與羅浮宮夜潛",
+      "AR與全息投影互動",
+      "多視角服裝展示版面",
+      "象牙白與鼠尾草綠配色",
+      "體積光與戲劇陰影",
+      "底片顆粒與柔焦霧面",
+      "嘴銜物件低頭嗅聞",
+      "廢棄場域與深夜值班",
+      "色票條與拼貼邊框",
+      "發光生物與星雲光影"
+    ],
+    "title": "紅金暖爐旁的試吃家",
+    "season": "autumn",
+    "character": "mochi",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Direct Flash",
+      "texture": "Paper Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 7226057696,
+    "character_name": "麻糬",
+    "number": 3669,
+    "is_seasonal": true
   }
 ]
