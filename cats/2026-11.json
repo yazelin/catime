@@ -3099,5 +3099,36 @@
     "idea": "以浮世繪風格結合幾何格線疊層構圖與水彩潑濺墨點，在靛藍、緋紅與白的主色調及巨月輝映下，戴著左耳小金環、胸前有一撮白毛與尾端深灰環紋的純黑短毛貓墨墨，正優雅地伏在東京淺草寺飛簷屋頂上，低頭凝視並用前爪輕按著一卷被夜風吹開的古書卷軸，俯瞰下方正在舉行點燈儀式的緋紅燈籠海與人群。",
     "character_name": "墨墨",
     "character": "momo"
+  },
+  {
+    "avoid_list": [
+      "深夜美術館與博物館特展",
+      "老街美食與市集攤販",
+      "全息擴增實境AR投影",
+      "鼠尾草綠與象牙白配色",
+      "深紅天鵝絨與暗綠對比",
+      "正午硬光日照與銳利陰影",
+      "用嘴銜起物品或觸控筆",
+      "伸出前爪輕拍撥弄食物或落葉",
+      "維多利亞黑色鑄鐵雕花欄杆",
+      "服裝多視角展示面板構圖",
+      "星雲星塵與宇宙輝光特效",
+      "金箔質感與象牙描金裝飾"
+    ],
+    "idea": "一幅童話繪本油畫風格的插畫，採用對角線構圖，描繪一隻四腳著地的三花貓在廢棄的舊式保齡球館球道上，專注地低頭嗅探並用額頭頂推一顆散發幽藍生物發光的水母玻璃保齡球，周圍散落著具有亮面漆皮肌理的復古保齡球鞋與水獺觀眾，整體呈現復古褪色色調。",
+    "title": "幽藍球道的夜賽",
+    "news_inspiration": [],
+    "number": 3671,
+    "prompt": "Whimsical fairytale storybook painting, oil on canvas texture with visible brushstrokes, naive childlike perspective and Daniel Merriam aesthetic. Diagonal composition with dynamic slanted lines, tilted framing, off-axis tension, and kinetic visual flow across an abandoned, seaweed-draped vintage coastal bowling alley lane. A calico cat on all fours crouches low, intently sniffing and nudging a glass bowling ball enclosing a glowing bioluminescent jellyfish with its forehead and nose toward distant pins. Scattered around are vintage bowling shoes and small otter spectators wearing glossy raincoats, rendered with a patent leather texture, lacquered mirror-gloss surface, taut reflective sheen, and sharp specular highlights. Ethereal bioluminescent lighting casts deep blue-green radiance and underwater phosphorescence across the worn wooden planks, balanced by a retro faded color palette, muted pastel dream tones, washed-out vintage colors, low contrast, and nostalgic film-era warmth. A vintage overhead scoreboard or painted wooden sign clearly displays the text '2026-11-28 10:21 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "story": "每當夜幕降臨，這座被海藻佔領的沿海保齡球館便會迎來秘密錦標賽。三花貓選手精準調整伏低身軀的角度，用鼻尖將發光水母球推向球道盡頭的瓶陣，一旁穿著亮面漆皮雨衣的小水獺們屏息凝視著幽藍軌跡。",
+    "style_picks": {
+      "art_style": "Whimsical Fairytale Painting",
+      "composition": "Diagonal Composition",
+      "lighting": "Bioluminescence",
+      "texture": "Patent Leather Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "comment_id": 7237864375
   }
 ]
